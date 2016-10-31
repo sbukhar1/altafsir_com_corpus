@@ -1,4 +1,4 @@
-location:
+position:
   sura: '012'
   aaya: '104'
   madhab: '01'
@@ -8,15 +8,34 @@ meta:
   author: الطبري
   year: '310'
 aaya: وَمَا تَسْأَلُهُمْ عَلَيْهِ مِنْ أَجْرٍ ۚ إِنْ هُوَ إِلَّا ذِكْرٌ لِلْعَالَمِينَ
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَمَا تَسْأَلُهُمْ
-  عَلَيْهِ مِنْ أَجْرٍ إِنْ هُوَ إِلاَّ ذِكْرٌ لِّلْعَالَمِينَ }يقول تعالـى ذكره لـمـحمد
-  صلى الله عليه وسلم: وما تسأل يا مـحمد هؤلاء ينكرون نبوّتك ويـمتنعون من تصديقك والإقرار
-  بـما جئتهم به من عند ربك علـى ما تدعوهم إلـيه من إخلاص العبـادة لربك وهجر عبـادة
-  الأوثان وطاعة الرحمن { مِنْ أَجْرٍ } يعنـي من ثواب وجزاء منهم، بل إنـما ثوابك وأجر
-  عملك علـى الله، يقول: ما تسألهم علـى ذلك ثوابـاً، فـيقولوا لك: إنـما تريد بدعائك
-  إيانا إلـى اتبـاعك لننزل لك عن أموالنا إذا سألتنا ذلك، وإذ كنت لا تسألهم ذلك فقد
-  كان حقاً علـيهم أن يعلـموا أنك إنـما تدعوهم إلـى ما تدعوهم إلـيه اتبـاعاً منك لأمر
-  ربك ونصيحة منك لهم، وأن لا يستغشوك.وقوله: { إن هُوَ إلاَّ ذِكْرٌ للعالَـمِينَ }
-  يقول تعالـى ذكره: ما هذا الذي أرسلك به ربك يا مـحمد من النبوّة والرسالة إلا ذكر،
-  يقول: إلا عظة وتذكير للعالـمين، لـيتعظوا ويتذكروا به.\r\n\t\t\t\r\n\t\t\t</section>"
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(12, 104)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(12,104)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَمَا
+  تَسْأَلُهُمْ عَلَيْهِ مِنْ أَجْرٍ إِنْ هُوَ إِلاَّ ذِكْرٌ لِّلْعَالَمِينَ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">يقول تعالـى ذكره لـمـحمد صلى الله عليه وسلم: وما تسأل يا مـحمد هؤلاء
+  ينكرون نبوّتك ويـمتنعون من تصديقك والإقرار بـما جئتهم به من عند ربك علـى ما تدعوهم
+  إلـيه من إخلاص العبـادة لربك وهجر عبـادة الأوثان وطاعة الرحمن { مِنْ أَجْرٍ } يعنـي
+  من ثواب وجزاء منهم، بل إنـما ثوابك وأجر عملك علـى الله، يقول: ما تسألهم علـى ذلك
+  ثوابـاً، فـيقولوا لك: إنـما تريد بدعائك إيانا إلـى اتبـاعك لننزل لك عن أموالنا إذا
+  سألتنا ذلك، وإذ كنت لا تسألهم ذلك فقد كان حقاً علـيهم أن يعلـموا أنك إنـما تدعوهم
+  إلـى ما تدعوهم إلـيه اتبـاعاً منك لأمر ربك ونصيحة منك لهم، وأن لا يستغشوك.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقوله: { إن هُوَ إلاَّ ذِكْرٌ للعالَـمِينَ } يقول تعالـى ذكره: ما
+  هذا الذي أرسلك به ربك يا مـحمد من النبوّة والرسالة إلا ذكر، يقول: إلا عظة وتذكير
+  للعالـمين، لـيتعظوا ويتذكروا به.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

@@ -1,4 +1,4 @@
-location:
+position:
   sura: 080
   aaya: '005'
   madhab: '01'
@@ -7,16 +7,42 @@ meta:
   title: تفسير جامع البيان في تفسير القرآن
   author: الطبري
   year: '310'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ أَمَّا مَنِ ٱسْتَغْنَىٰ
-  } * { فَأَنتَ لَهُ تَصَدَّىٰ } * { وَمَا عَلَيْكَ أَلاَّ يَزَّكَّىٰ } * { وَأَمَّا
-  مَن جَآءَكَ يَسْعَىٰ } * { وَهُوَ يَخْشَىٰ } * { فَأَنتَ عَنْهُ تَلَهَّىٰ }يقول
-  تعالى ذكره لنبيه محمد صلى الله عليه وسلم: أما من استغنى بماله، فأنت له تتعرّض، رجاء
-  أن يُسلِم.حدثنا ابن حميد، قال: ثنا مهران، عن سفيان { أمَّا مَنِ اسْتَغْنَى فأنْتَ
-  لَهُ تَصَدَّى } قال: نزلت في العباس.حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال:
-  ثنا عيسى وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، جميعاً عن ابن أبي نجيح،
-  عن مجاهد، قوله: { أمَّا مَنِ اسْتَغْنَى } قال: عتبة بن ربيعة وشبية بن ربيعة { وَما
-  عَلَيْكَ ألاَّ يَزَّكَّى } يقول: وأيّ شيء عليك أن لا يتطهَّر من كفره فيُسلم؟ { وأمَّا
-  مَنْ جاءَكَ يَسْعَى وَهُوَ يَخْشَى } يقول: وأما هذا الأعمى الذي جاءك سعياً، وهو
-  يخشى الله ويتقيه، { فأنْتَ عَنْهُ تَلَهَّى } يقول: فأنت عنه تُعْرِض، وَتَشاغَلُ
-  عنه بغيره وتَغَافَل.\r\n\t\t\t\r\n\t\t\t</section>"
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(80, 5)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(80,5)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">أَمَّا
+  مَنِ ٱسْتَغْنَىٰ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">فَأَنتَ لَهُ تَصَدَّىٰ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَمَا
+  عَلَيْكَ أَلاَّ يَزَّكَّىٰ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">وَأَمَّا مَن جَآءَكَ يَسْعَىٰ</a> <b>} *
+  </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَهُوَ
+  يَخْشَىٰ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">فَأَنتَ عَنْهُ تَلَهَّىٰ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">يقول تعالى ذكره لنبيه محمد صلى الله عليه وسلم: أما من استغنى بماله،
+  فأنت له تتعرّض، رجاء أن يُسلِم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن حميد، قال: ثنا مهران، عن سفيان { أمَّا مَنِ اسْتَغْنَى فأنْتَ لَهُ تَصَدَّى
+  } قال: نزلت في العباس.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثني محمد بن عمرو، قال: ثنا أبو
+  عاصم، قال: ثنا عيسى وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، جميعاً عن ابن
+  أبي نجيح، عن مجاهد، قوله: { أمَّا مَنِ اسْتَغْنَى } قال: عتبة بن ربيعة وشبية بن
+  ربيعة { وَما عَلَيْكَ ألاَّ يَزَّكَّى } يقول: وأيّ شيء عليك أن لا يتطهَّر من كفره
+  فيُسلم؟ { وأمَّا مَنْ جاءَكَ يَسْعَى وَهُوَ يَخْشَى } يقول: وأما هذا الأعمى الذي
+  جاءك سعياً، وهو يخشى الله ويتقيه، { فأنْتَ عَنْهُ تَلَهَّى } يقول: فأنت عنه تُعْرِض،
+  وَتَشاغَلُ عنه بغيره وتَغَافَل.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

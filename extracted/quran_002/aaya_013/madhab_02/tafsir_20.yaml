@@ -1,4 +1,4 @@
-location:
+position:
   sura: '002'
   aaya: '013'
   madhab: '02'
@@ -7,47 +7,125 @@ meta:
   title: تفسير التفسير
   author: ابن عرفة
   year: '803'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَإِذَا قِيلَ
-  لَهُمْ آمِنُواْ كَمَآ آمَنَ ٱلنَّاسُ قَالُوۤاْ أَنُؤْمِنُ كَمَآ آمَنَ ٱلسُّفَهَآءُ
-  أَلاۤ إِنَّهُمْ هُمُ ٱلسُّفَهَآءُ وَلَـٰكِن لاَّ يَعْلَمُونَ }قوله تعالى: { وَإِذَا
-  قِيلَ لَهُمْ ءَامِنُواْ كَمَآ ءَامَنَ ٱلنَّاسُ... }قال الفخر (الخطيب): بدأ بالنهي
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(2, 13)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(2,13)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَإِذَا
+  قِيلَ لَهُمْ آمِنُواْ كَمَآ آمَنَ ٱلنَّاسُ قَالُوۤاْ أَنُؤْمِنُ كَمَآ آمَنَ ٱلسُّفَهَآءُ
+  أَلاۤ إِنَّهُمْ هُمُ ٱلسُّفَهَآءُ وَلَـٰكِن لاَّ يَعْلَمُونَ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">قوله تعالى: { وَإِذَا قِيلَ لَهُمْ ءَامِنُواْ كَمَآ ءَامَنَ ٱلنَّاسُ...
+  }</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">قال الفخر (الخطيب): بدأ بالنهي
   عن الفساد لأنه راجع لدفع المؤلم ثم عقبه بالأمر بالإيمان لرجوعه إلى جلب المصالح،
-  لأن دفع المفاسد آكد من جلب المصالح.قال ابن عرفة: والآية عندي حجة لمن يقول: إنّ النظر
-  واجب (بالعقل) (إذ لو كان واجبا) بالشرع لما كلفوا بالإيمان بل كانوا يكلفون بالنظر.فإن
+  لأن دفع المفاسد آكد من جلب المصالح.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال
+  ابن عرفة: والآية عندي حجة لمن يقول: إنّ النظر واجب (بالعقل) (إذ لو كان واجبا) بالشرع
+  لما كلفوا بالإيمان بل كانوا يكلفون بالنظر.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">فإن
   قلت: ليس هذا بأول تكليفهم فلعلهم كلّفوا به بخطاب آخر قبل هذا؟ (قلنا): الآية خرجت
-  مخرج ذمّهم والذّم (الأغلب) فيه أنه إنما يقع على المخالفة في الأصل لا في الفرع.قال
-  ابن عرفة: ولكن يمكن أن يجاب عنه بوجهين:الأول: أن الآية خرجت مخرج التقسيم بين الشيء
-  وضدّه. (والإيمان) نقيض الكفر، وليس بينهما اشتراك، والنظر لا (يناقض) الكفر لأنه يكون
-  صحيحا ويكون فاسدا، (فقد) ينظر المكلف فيهتدي، وقد ينظر فيضل. فالنظر اشتراك بين الكفر
-  والإيمان فلأجله لم يقل: وَإِذَا قِيلَ (لَهُمْ) انظروا كما نظر الناس، (لأنّه) لا
-  يدل صريحا على تكليفهم بالنظر الصحيح.الثاني: إن النفوس مجبولة على النظر في غرائب
-  الأمور فلو كلفوا بالنظر لأشبه ذلك (تحصيل الحاصل).قيل لابن عرفة: أو يجاب بأن تكليفهم
-  بالإيمان وذمهم على عدمه يستلزم تكليفهم بالنظر.قال: (والكاف) منهم من جعلها (نعتا)
-  (لمصدر) (محذوف) أي إيمانا (شبيها) (بإيمان) الناس والمشبه بالشيء والمشبه بالشيء لا
-  يقوى قوته، ففيه حجة لمن يقول: إن الإيمان يزيد وينقص (فكلفوهم) بتحصيل أقل ما يكفي
-  منه، فلم يقبلوا ذلك.قال أبو حيان: ومنهم من أعربه حالا من الإيمان أي آمنوا الإيمان
-  كما آمن الناس لأن الإيمان المقدر يعرف بالألف واللام.قال ابن عرفة: ولا يحتاج إلى
-  (هذا) (لأن) سيبويه قال في قوله تعالى:{ فَمَهِّلِ ٱلْكَافِرِينَ أَمْهِلْهُمْ رُوَيْداً }إن
-  رُوَيدا حال من المصدر المقدر وهو إمهال وصحّ إتيانها منه وإنْ كان نكرة (لأنه) لما
-  ينطق به أشبه المضمر في المعرفة، (فكذلك يكون هذا).قوله تعالى: { أَنُؤْمِنُ كَمَآ
-  ءَامَنَ ٱلسُّفَهَآءُ أَلاۤ إِنَّهُمْ هُمُ ٱلسُّفَهَآءُ... }أجابوا بعدم الامثتال
-  مع ذكر الموجب لذلك، فأما أن يريدوا بالسفهاء المؤمنين فيكون (جرأة) منهم ومباهتة:
-  أي أنتم سفهاء ضعفاء فلا نتبعكم، أو لم يقصدوا أعيان المؤمنين بل قالوا هذا على سبيل
-  المبالغة والجدل فيقول لهم المؤمنون على: هذا نعم، نقول بموجبه: (ونحن) لم نأمركم بإيمان
-  السّفهاء فلسنا بسفهاء، وعلى الأول (لا) يحسن أن يقول لهم ذلك المؤمنون لأنهم (مباهتون)
-  ويقولون: أنتم هم السفهاء.قال الزمخشري: وإنما أطلقوا عليهم ذلك باعتبار الغالب لأن
-  أتباع النبي صلّى الله عليه وسلم في أول الإسلام كان أكثرهم فقراء.قيل لابن عرفة: إنما
-  كان هذا في المدينة.\r\n\t\t\t\r\n\t\t\t1 2 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَإِذَا قِيلَ لَهُمْ آمِنُواْ كَمَآ
-  آمَنَ ٱلنَّاسُ قَالُوۤاْ أَنُؤْمِنُ كَمَآ آمَنَ ٱلسُّفَهَآءُ أَلاۤ إِنَّهُمْ هُمُ
-  ٱلسُّفَهَآءُ وَلَـٰكِن لاَّ يَعْلَمُونَ }(قال): كان أكثر المهاجرين معه فقراء.قال
-  الزمخشري: وختمت الآية بقوله: { وَلَٰكِن لاَّ يَعْلَمُونَ } ، وتلك{ لاَّ يَشْعُرُونَ }إما
+  مخرج ذمّهم والذّم (الأغلب) فيه أنه إنما يقع على المخالفة في الأصل لا في الفرع.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قال ابن عرفة: ولكن يمكن أن يجاب عنه بوجهين:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">الأول:
+  أن الآية خرجت مخرج التقسيم بين الشيء وضدّه. (والإيمان) نقيض الكفر، وليس بينهما اشتراك،
+  والنظر لا (يناقض) الكفر لأنه يكون صحيحا ويكون فاسدا، (فقد) ينظر المكلف فيهتدي، وقد
+  ينظر فيضل. فالنظر اشتراك بين الكفر والإيمان فلأجله لم يقل: وَإِذَا قِيلَ (لَهُمْ)
+  انظروا كما نظر الناس، (لأنّه) لا يدل صريحا على تكليفهم بالنظر الصحيح.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">الثاني: إن النفوس مجبولة على النظر في غرائب الأمور فلو كلفوا بالنظر
+  لأشبه ذلك (تحصيل الحاصل).</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">قيل لابن عرفة: أو يجاب بأن تكليفهم
+  بالإيمان وذمهم على عدمه يستلزم تكليفهم بالنظر.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال:
+  (والكاف) منهم من جعلها (نعتا) (لمصدر) (محذوف) أي إيمانا (شبيها) (بإيمان) الناس والمشبه
+  بالشيء والمشبه بالشيء لا يقوى قوته، ففيه حجة لمن يقول: إن الإيمان يزيد وينقص (فكلفوهم)
+  بتحصيل أقل ما يكفي منه، فلم يقبلوا ذلك.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال
+  أبو حيان: ومنهم من أعربه حالا من الإيمان أي آمنوا الإيمان كما آمن الناس لأن الإيمان
+  المقدر يعرف بالألف واللام.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">قال ابن عرفة: ولا يحتاج إلى (هذا)
+  (لأن) سيبويه قال في قوله تعالى:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">فَمَهِّلِ ٱلْكَافِرِينَ أَمْهِلْهُمْ
+  رُوَيْداً</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">إن رُوَيدا حال من المصدر المقدر وهو إمهال وصحّ إتيانها منه وإنْ
+  كان نكرة (لأنه) لما ينطق به أشبه المضمر في المعرفة، (فكذلك يكون هذا).</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قوله تعالى: { أَنُؤْمِنُ كَمَآ ءَامَنَ ٱلسُّفَهَآءُ أَلاۤ إِنَّهُمْ
+  هُمُ ٱلسُّفَهَآءُ... }</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">أجابوا بعدم الامثتال مع ذكر الموجب
+  لذلك، فأما أن يريدوا بالسفهاء المؤمنين فيكون (جرأة) منهم ومباهتة: أي أنتم سفهاء
+  ضعفاء فلا نتبعكم، أو لم يقصدوا أعيان المؤمنين بل قالوا هذا على سبيل المبالغة والجدل
+  فيقول لهم المؤمنون على: هذا نعم، نقول بموجبه: (ونحن) لم نأمركم بإيمان السّفهاء فلسنا
+  بسفهاء، وعلى الأول (لا) يحسن أن يقول لهم ذلك المؤمنون لأنهم (مباهتون) ويقولون: أنتم
+  هم السفهاء.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">قال الزمخشري: وإنما أطلقوا عليهم
+  ذلك باعتبار الغالب لأن أتباع النبي صلّى الله عليه وسلم في أول الإسلام كان أكثرهم
+  فقراء.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">قيل لابن عرفة: إنما كان هذا في
+  المدينة.</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\"
+  border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE:
+  none; BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(20,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(20,2,1)\"><u>2</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2, 13)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,13)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَإِذَا قِيلَ لَهُمْ آمِنُواْ كَمَآ آمَنَ ٱلنَّاسُ
+  قَالُوۤاْ أَنُؤْمِنُ كَمَآ آمَنَ ٱلسُّفَهَآءُ أَلاۤ إِنَّهُمْ هُمُ ٱلسُّفَهَآءُ
+  وَلَـٰكِن لاَّ يَعْلَمُونَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\"
+  dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">(قال): كان أكثر
+  المهاجرين معه فقراء.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">قال الزمخشري: وختمت الآية بقوله:
+  { وَلَٰكِن لاَّ يَعْلَمُونَ } ، وتلك</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">لاَّ يَشْعُرُونَ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">إما
   لأن الفساد في الأرض (أمر) محسوس فناسب الشعور الذي هو (أوائل) الإدراك والإيمان معنوي
-  يناسب العلم، (وإما لتقدم السفه وهو جهل، فناسب ذكر العلم طباقا).قال ابن عرفة وانظر
-  هل فيها دليل على أن التقليد كاف لقوله: { آمِنُواْ كَمَآ ءَامَنَ ٱلنَّاسُ }. (الظاهر
-  أنه ليس فيها دليل لأن المراد: انظروا لتؤمنوا كما آمن الناس) لأن الأمر بالإيمان أمر
-  بما هو من لوازمه، ومقدماته، ومفعول \" يعلمون \" إما عاقبة أمرهم أو المراد لا يعلمون
-  صحة ما أمروا (به) أو لا يعلمون علما نافعا، وحذف المفعول (قصدا) لهذا العموم.قال ابن
-  عرفة: وفي هذه آيتان، آية من الله تعالى بعلمه ذلك (مع أنهم) أخفوه: وآية أخرى بإعلامه
-  به محمدا صلى الله عليه وسلم.\r\n\t\t\t\r\n\t\t\t1 2 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  يناسب العلم، (وإما لتقدم السفه وهو جهل، فناسب ذكر العلم طباقا).</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قال ابن عرفة وانظر هل فيها دليل على أن التقليد كاف لقوله: { آمِنُواْ
+  كَمَآ ءَامَنَ ٱلنَّاسُ }. (الظاهر أنه ليس فيها دليل لأن المراد: انظروا لتؤمنوا كما
+  آمن الناس) لأن الأمر بالإيمان أمر بما هو من لوازمه، ومقدماته، ومفعول \" يعلمون \"
+  إما عاقبة أمرهم أو المراد لا يعلمون صحة ما أمروا (به) أو لا يعلمون علما نافعا، وحذف
+  المفعول (قصدا) لهذا العموم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال
+  ابن عرفة: وفي هذه آيتان، آية من الله تعالى بعلمه ذلك (مع أنهم) أخفوه: وآية أخرى
+  بإعلامه به محمدا صلى الله عليه وسلم.</font></font>&#13;\t\t\t<label disabled=\"true\"
+  class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(20,1,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(20,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section>"
 

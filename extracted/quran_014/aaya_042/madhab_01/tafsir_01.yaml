@@ -1,4 +1,4 @@
-location:
+position:
   sura: '014'
   aaya: '042'
   madhab: '01'
@@ -9,119 +9,330 @@ meta:
   year: '310'
 aaya: وَلَا تَحْسَبَنَّ اللَّهَ غَافِلًا عَمَّا يَعْمَلُ الظَّالِمُونَ ۚ إِنَّمَا
   يُؤَخِّرُهُمْ لِيَوْمٍ تَشْخَصُ فِيهِ الْأَبْصَارُ
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَلاَ تَحْسَبَنَّ
-  ٱللَّهَ غَافِلاً عَمَّا يَعْمَلُ ٱلظَّالِمُونَ إِنَّمَا يُؤَخِّرُهُمْ لِيَوْمٍ تَشْخَصُ
-  فِيهِ ٱلأَبْصَارُ } * { مُهْطِعِينَ مُقْنِعِي رُءُوسِهِمْ لاَ يَرْتَدُّ إِلَيْهِمْ
-  طَرْفُهُمْ وَأَفْئِدَتُهُمْ هَوَآءٌ }يقول تعالـى ذكره لنبـيه مـحمد صلى الله عليه
-  وسلم: { وَلاَ تَـحْسَبنَّ اللّهَ } يا مـحمد { غَافِلاً } ساهياً { عَمَّا يَعْمَلُ
-  } هؤلاء الـمشركون من قومك، بل هو عالـم بهم وبأعمالهم مـحصيها علـيهم، لـيجزيهم جزاءهم
-  فـي الـحين الذي قد سبق فـي علـمه أنه يجزيهم فـيه.حدثنا القاسم، قال: ثنا الـحسين،
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(14, 42)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(14,42)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَلاَ
+  تَحْسَبَنَّ ٱللَّهَ غَافِلاً عَمَّا يَعْمَلُ ٱلظَّالِمُونَ إِنَّمَا يُؤَخِّرُهُمْ
+  لِيَوْمٍ تَشْخَصُ فِيهِ ٱلأَبْصَارُ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">مُهْطِعِينَ مُقْنِعِي
+  رُءُوسِهِمْ لاَ يَرْتَدُّ إِلَيْهِمْ طَرْفُهُمْ وَأَفْئِدَتُهُمْ هَوَآءٌ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">يقول تعالـى ذكره لنبـيه مـحمد صلى الله عليه وسلم: { وَلاَ تَـحْسَبنَّ
+  اللّهَ } يا مـحمد { غَافِلاً } ساهياً { عَمَّا يَعْمَلُ } هؤلاء الـمشركون من قومك،
+  بل هو عالـم بهم وبأعمالهم مـحصيها علـيهم، لـيجزيهم جزاءهم فـي الـحين الذي قد سبق
+  فـي علـمه أنه يجزيهم فـيه.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا القاسم، قال: ثنا الـحسين،
   قال: ثنا علـيّ بن ثابت، عن جعفر بن برَقان، عن ميـمون بن مِهران فـي قوله: { وَلا
   تَـحْسَبنَّ اللّهَ غافِلاً عَمَّا يَعْمَلُ الظَّالِـمُونَ } قال: هي وعيد للظالـم
-  وتعزية للـمظلوم.القول فـي تأويـل قوله تعالـى: { إنَّـمَا يُؤَخِّرُهُمْ لِـيَوْمٍ
+  وتعزية للـمظلوم.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">القول فـي تأويـل قوله تعالـى: { إنَّـمَا يُؤَخِّرُهُمْ لِـيَوْمٍ
   تَشْخصُ فِـيهِ الأبصار مُهْطِعِينَ مُقْنِعِي رُءُوسِهِمْ لا يَرْتَدُّ إلَـيْهِمْ
-  طَرْفُهُمْ وأفْئِدَتُهُمْ هَوَاءٌ }.يقول تعالـى ذكره: إنـما يؤخر ربك يا مـحمد هؤلاء
-  الظالـمين الذين يكذّبونك ويجحَدون نبوّتك، لـيوم تشخص فـيه الأبصار. يقول: إنـما يؤخِّر
-  عقابَهم وإنزال العذاب بهم، إلـى يوم تشخَص فـيه أبصار الـخـلق وذلك يوم القـيامة،
-  كما:حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة: { لِـيَوْم تَشْخَصُ فِـيهِ
-  الأبْصَارُ } شخصت فـيه والله أبصارهم، فلا ترتدّ إلـيهم.وأما قوله: { مُهْطِعِينَ
-  } فإن أهل التأويـل اختلفوا فـي معناه فقال بعضهم: معناه: مسرعين. ذكر من قال ذلك:حدثنا
-  ابن وكيع، قال: ثنا هاشم بن القاسم، عن أبـي سعيد الـمؤدّب، عن سالـم، عن سعيد بن جبـير:
-  { مُهْطِعِينَ } قال: النَّسَلان، وهو الـخبب أو ما دون الـخبب، شكّ أبو سعيد يخبون
-  وهم ينظرون.حدثنا مـحمد بن عبد الأعلـى، قال: ثنا مـحمد بن ثور، عن معمر، عن قتادة:
-  { مُهْطِعِينَ } قال: مسرعين.حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة: {
-  مُهْطِعِينَ } يقول: منطلقـين عامدين إلـى الداعي.وقال آخرون: معنى ذلك: مديـمي النظر.
-  ذكر من قال ذلك:حدثنا مـحمد بن سعد، قال: ثنـي أبـي، قال: ثنـي عمي، قال: ثنـي أبـي،
-  عن أبـيه، عن ابن عبـاس، قوله: { مُهْطِعِينَ } يعنـي بـالإهطاع: النظر من غير أن يطرف.حدثنا
+  طَرْفُهُمْ وأفْئِدَتُهُمْ هَوَاءٌ }.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">يقول
+  تعالـى ذكره: إنـما يؤخر ربك يا مـحمد هؤلاء الظالـمين الذين يكذّبونك ويجحَدون نبوّتك،
+  لـيوم تشخص فـيه الأبصار. يقول: إنـما يؤخِّر عقابَهم وإنزال العذاب بهم، إلـى يوم
+  تشخَص فـيه أبصار الـخـلق وذلك يوم القـيامة، كما:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة: { لِـيَوْم تَشْخَصُ فِـيهِ الأبْصَارُ
+  } شخصت فـيه والله أبصارهم، فلا ترتدّ إلـيهم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وأما
+  قوله: { مُهْطِعِينَ } فإن أهل التأويـل اختلفوا فـي معناه فقال بعضهم: معناه: مسرعين.
+  ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن وكيع، قال: ثنا هاشم بن
+  القاسم، عن أبـي سعيد الـمؤدّب، عن سالـم، عن سعيد بن جبـير: { مُهْطِعِينَ } قال:
+  النَّسَلان، وهو الـخبب أو ما دون الـخبب، شكّ أبو سعيد يخبون وهم ينظرون.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا مـحمد بن عبد الأعلـى، قال: ثنا مـحمد بن ثور، عن معمر، عن قتادة:
+  { مُهْطِعِينَ } قال: مسرعين.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة: { مُهْطِعِينَ } يقول: منطلقـين عامدين
+  إلـى الداعي.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال آخرون: معنى ذلك: مديـمي النظر.
+  ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا مـحمد بن سعد، قال: ثنـي أبـي،
+  قال: ثنـي عمي، قال: ثنـي أبـي، عن أبـيه، عن ابن عبـاس، قوله: { مُهْطِعِينَ } يعنـي
+  بـالإهطاع: النظر من غير أن يطرف.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
   ابن وكيع، قال: ثنـي أبـي، عن أبـيه، عن سعيد بن مسروق، عن أبـي الضحى: { مُهْطِعِينَ
-  } قال: الإهطاع: التـحميج الدائم الذي لا يَطْرِف.حدثنـي الـمثنى، قال: ثنا عمرو بن
-  عون، قال: أخبرنا هشيـم، عن مغيرة، عن أبـي الـخير بن تـميـم بن حَذْلَـم، عن أبـيه،
-  فـي قوله: { مُهْطِعِينَ } قال: الإهطاع: التـحميج.حدثنا ابن وكيع، قال: ثنا الـمـحاربـي،
-  عن جويبر، عن الضحاك: { مُهْطِعِينَ } قال: شدّة النظر الذي لا يطرف.حدثنـي الـمثنى،
-  قال: أخبرنا عمرو، قال: أخبرنا هُشَيـم، عن جويبر، عن الضحاك، فـي قوله: { مُهْطِعِينَ
-  } قال: شدة النظر فـي غير طَرْف.حُدثت عن الـحسين بن الفرج، قال: سمعت أبـا معاذ يقول:
-  أخبرنا عبـيد، قال: سمعت الضحاك يقول فـي قوله: { مُهْطِعِينَ } الإهطاع: شدة النظر
-  فـي غير طَرْف.\r\n\t\t\t\r\n\t\t\t1 2 3 4 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَلاَ تَحْسَبَنَّ ٱللَّهَ غَافِلاً
-  عَمَّا يَعْمَلُ ٱلظَّالِمُونَ إِنَّمَا يُؤَخِّرُهُمْ لِيَوْمٍ تَشْخَصُ فِيهِ ٱلأَبْصَارُ
-  } * { مُهْطِعِينَ مُقْنِعِي رُءُوسِهِمْ لاَ يَرْتَدُّ إِلَيْهِمْ طَرْفُهُمْ وَأَفْئِدَتُهُمْ
-  هَوَآءٌ }حدثنـي مـحمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى وحدثنا الـحسن بن
-  مـحمد، قال: ثنا شبـابة، قال: ثنا ورقاء وحدثنـي الـحرث، قال: ثنا الـحسن، قال: ثنا
-  ورقاء وحدثنـي الـمثنى، قال: ثنا أبو حُذيفة، قال: ثنا شبل، عن ابن أبـي نـجيح، عن
-  مـجاهد: { مُهْطِعِينَ } قال: مُديـمي النظر.حدثنا القاسم، قال: ثنا الـحسين، قال:
-  ثنـي حجاج، عن ابن جريج، عن مـجاهد، مثله.وقال آخرون: معنى ذلك: لا يرفع رأسه. ذكر
-  من قال ذلك:حدثنـي يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، فـي قوله: { مُهْطِعِينَ
-  } قال: الـمهطع الذي لا يرفع رأسه.والإهطاع فـي كلام العرب بـمعنى الإسراع أشهر منه
-  بـمعنى إدامة النظر، ومن الإهطاع بـمعنى الإسراع، قول الشاعر:وبِـمُهْطِعٍ سُرُحٍ كأنَّ
-  زِمامَهُ   فـي رأسِ جذْعٍ مِنْ أراك مُشَذَّبِوقول الآخر:بـمُسْتَهْطعٍ رَسْلٍ كأنَّ
-  جَدِيـلَهُ   بقَيْدُومِ رَعْنٍ مِنْ صَوَامٍ مُـمَنَّعِوقوله: { مُقْنِعِي رُءُوسِهِمْ
-  } يعنـي رافعي رؤوسهم. وإقناع الرأس: رفعه ومنه قول الشماخ:يُبـاكِرْنَ العِضَاهَ بـمُقْنَعاتٍ   نَوَاجِذُهُنَّ
-  كالـحَدَإِ الوَقـيعِيعنـي: أنهنّ يبـاكرن العضاه برؤوسهن مرفوعات إلـيها لتتناول منها،
-  ومنه أيضاً قول الراجز:أنْغَضَ نـحْوِي رأسَهْ وأقْنَعا   كأنـمَا أبْصَرَ شَيْئاً
-  أطْمَعاوبنـحو الذي قلنا فـي ذلك قال أهل التأويـل. ذكر من قال ذلك:حدثنـي مـحمد بن
-  سعد، قال: ثنـي أبـي، قال: ثنـي عمي، قال: ثنـي أبـي، عن أبـيه، عن ابن عبـاس، قوله:
-  { مُقْنِعِي رُؤوسِهِمْ } قال: الإقناع: رفع رؤوسهم.حدثنـي مـحمد بن عمرو، قال: ثنا
-  أبو عاصم، قال: ثنا عيسى وحدثنـي الـحسن بن مـحمد، قال: ثنا شبـابة، قال: ثنا ورقاء،
-  وقال الـحسن، قال: ثنا ورقاء وحدثنـي الـمثنى، قال: ثنا أبو حُذيفة، قال: ثنا شبل،
-  عن ابن أبـي نـجيح، عن مـجاهد، فـي قوله: { مُقْنِعِي } قال: رافعيها.حدثنا القاسم،
-  قال: ثنا الـحسين، قال: ثنـي حجاج، عن ابن جريج، عن مـجاهد، مثله.حدثنا أبو كريب، قال:
-  ثنا أبو بكر، عن أبـي سعد، قال: قال الـحسن: وجوه الناس يوم القـيامة إلـى السماء لا
-  ينظر أحد إلـى أحد.حدثنـي الـمثنى، قال: ثنا سويد، قال: أخبرنا ابن الـمبـارك، عن عثمان
-  بن الأسود، أنه سمع مـجاهداً يقول فـي قوله: { مُهْطعينَ مُقْنِعِي رُؤوسِهمْ } قال:
-  رافع رأسه هكذا، { لاَ يَرْتَدُّ إلَـيهمْ طَرْفُهُمْ }.حدثنـي الـمثنى، قال: ثنا عمرو
-  بن عون، قال: أخبرنا هشيـم، عن جويبر، عن الضحاك، فـي قوله: { مُقْنِعِي رُؤوسِهمْ
-  } قال: رافعي رؤوسهم.حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة: { مُقْنِعِي
-  رُؤوسِهمْ } قال: الإقناعُ رفع رؤوسهم.حدثنا مـحمد بن عبد الأعلـى، قال: ثنا مـحمد
-  بن ثور، عن معمر، عن قتادة: { مُقْنِعِي رُؤوسِهمْ } قال: الـمقنع الذي يرفع رأسه شاخصاً
-  بصره لا يطرف.حُدثت عن الـحسين، قال: سمعت أبـا معاذ يقول: أخبرنا عبـيد، قال: سمعت
-  الضحاك يقول، فـي قوله: { مُقْنِعِي رُؤوسِهمْ } قال: رافعيها.\r\n\t\t\t\r\n\t\t\t1 2 3 4 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَلاَ تَحْسَبَنَّ ٱللَّهَ غَافِلاً
-  عَمَّا يَعْمَلُ ٱلظَّالِمُونَ إِنَّمَا يُؤَخِّرُهُمْ لِيَوْمٍ تَشْخَصُ فِيهِ ٱلأَبْصَارُ
-  } * { مُهْطِعِينَ مُقْنِعِي رُءُوسِهِمْ لاَ يَرْتَدُّ إِلَيْهِمْ طَرْفُهُمْ وَأَفْئِدَتُهُمْ
-  هَوَآءٌ }حدثنـي يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، فـي قوله: { مُقْنِعِي
-  رُؤوسِهمْ } قال: الـمقنع الذي يرفع رأسه.حدثنا ابن وكيع، قال: ثنا الـمـحاربـي، عن
-  جويبر، عن الضحاك: { مُقْنِعِي رُؤوسِهمْ } قال: رافعي رؤوسهم.حدثنا ابن وكيع، قال:
-  ثنا هاشم بن القاسم، عن أبـي سعيد، عن سالـم، عن سعيد: { مُقْنِعِي رُؤوسِهمْ } قال:
-  رافعي رؤوسهم.وقوله: { لا يَرْتَدُّ إلَـيْهِمْ طَرْفُهُمْ } يقول: لا ترجع إلـيهم
-  لشدّة النظر أبصارهم. كما:حدثنـي مـحمد بن سعد، قال: ثنـي أبـي، قال: ثنـي عمي، قال:
-  ثنـي أبـي، عن أبـيه، عن ابن عبـاس قوله: { لا يَرْتَدُّ إلَـيْهمْ طَرْفُهُمْ وأفْئدَتُهُمْ
-  هَوَاءٌ } قال: شاخصة أبصارهم.وقوله: { وأفْئدَتُهُمْ هَوَاءٌ } اختلف أهل التأويـل
-  فـي تأويـله، فقال بعضهم: معناه: متـخرّقة لا تعي من الـخير شيئاً. ذكر من قال ذلك:حدثنا
-  مـحمد بن بشار، قال: ثنا عبد الرحمن، قال: ثنا سفـيان، عن أبـي إسحاق، عن مرّة، فـي
-  قوله: { وأفْئِدَتُهُمْ هَوَاءٌ } قال: متـخرقة لا تعي شيئاً.حدثنا ابن بشار، قال:
-  ثنا عبد الرحمن، قال: ثنا مالك بن مغول، عن أبـي إسحاق، عن مرّة، بـمثل ذلك.حدثنا ابن
-  بشار، قال: ثنا عبد الرحمن، قال: ثنا إسرائيـل، عن أبـي إسحاق، عن مرّة، مثله.حدثنا
+  } قال: الإهطاع: التـحميج الدائم الذي لا يَطْرِف.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  الـمثنى، قال: ثنا عمرو بن عون، قال: أخبرنا هشيـم، عن مغيرة، عن أبـي الـخير بن تـميـم
+  بن حَذْلَـم، عن أبـيه، فـي قوله: { مُهْطِعِينَ } قال: الإهطاع: التـحميج.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن وكيع، قال: ثنا الـمـحاربـي، عن جويبر، عن الضحاك: { مُهْطِعِينَ
+  } قال: شدّة النظر الذي لا يطرف.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  الـمثنى، قال: أخبرنا عمرو، قال: أخبرنا هُشَيـم، عن جويبر، عن الضحاك، فـي قوله: {
+  مُهْطِعِينَ } قال: شدة النظر فـي غير طَرْف.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حُدثت
+  عن الـحسين بن الفرج، قال: سمعت أبـا معاذ يقول: أخبرنا عبـيد، قال: سمعت الضحاك يقول
+  فـي قوله: { مُهْطِعِينَ } الإهطاع: شدة النظر فـي غير طَرْف.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(14, 42)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(14,42)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَلاَ تَحْسَبَنَّ ٱللَّهَ غَافِلاً عَمَّا يَعْمَلُ
+  ٱلظَّالِمُونَ إِنَّمَا يُؤَخِّرُهُمْ لِيَوْمٍ تَشْخَصُ فِيهِ ٱلأَبْصَارُ</a> <b>}
+  * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">مُهْطِعِينَ
+  مُقْنِعِي رُءُوسِهِمْ لاَ يَرْتَدُّ إِلَيْهِمْ طَرْفُهُمْ وَأَفْئِدَتُهُمْ هَوَآءٌ</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي مـحمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى وحدثنا الـحسن
+  بن مـحمد، قال: ثنا شبـابة، قال: ثنا ورقاء وحدثنـي الـحرث، قال: ثنا الـحسن، قال:
+  ثنا ورقاء وحدثنـي الـمثنى، قال: ثنا أبو حُذيفة، قال: ثنا شبل، عن ابن أبـي نـجيح،
+  عن مـجاهد: { مُهْطِعِينَ } قال: مُديـمي النظر.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  القاسم، قال: ثنا الـحسين، قال: ثنـي حجاج، عن ابن جريج، عن مـجاهد، مثله.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال آخرون: معنى ذلك: لا يرفع رأسه. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، فـي قوله: {
+  مُهْطِعِينَ } قال: الـمهطع الذي لا يرفع رأسه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">والإهطاع
+  فـي كلام العرب بـمعنى الإسراع أشهر منه بـمعنى إدامة النظر، ومن الإهطاع بـمعنى الإسراع،
+  قول الشاعر:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><table
+  class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">وبِـمُهْطِعٍ سُرُحٍ كأنَّ زِمامَهُ</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">فـي رأسِ جذْعٍ مِنْ أراك مُشَذَّبِ</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">وقول الآخر:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><table class=\"TextArabic\"
+  dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">بـمُسْتَهْطعٍ رَسْلٍ كأنَّ جَدِيـلَهُ</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">بقَيْدُومِ رَعْنٍ مِنْ صَوَامٍ مُـمَنَّعِ</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">وقوله: { مُقْنِعِي رُءُوسِهِمْ
+  } يعنـي رافعي رؤوسهم. وإقناع الرأس: رفعه ومنه قول الشماخ:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><table class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">يُبـاكِرْنَ
+  العِضَاهَ بـمُقْنَعاتٍ</font></font></b></td><td class=\"TextArabic\">   </td><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">نَوَاجِذُهُنَّ
+  كالـحَدَإِ الوَقـيعِ</font></font></b></td></tr></table><font class=\"TextResultArabic\"><font
+  color=\"black\">يعنـي: أنهنّ يبـاكرن العضاه برؤوسهن مرفوعات إلـيها لتتناول منها،
+  ومنه أيضاً قول الراجز:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><table
+  class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">أنْغَضَ نـحْوِي رأسَهْ وأقْنَعا</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">كأنـمَا أبْصَرَ شَيْئاً أطْمَعا</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">وبنـحو الذي قلنا فـي ذلك قال أهل
+  التأويـل. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي مـحمد بن سعد، قال: ثنـي
+  أبـي، قال: ثنـي عمي، قال: ثنـي أبـي، عن أبـيه، عن ابن عبـاس، قوله: { مُقْنِعِي رُؤوسِهِمْ
+  } قال: الإقناع: رفع رؤوسهم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  مـحمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى وحدثنـي الـحسن بن مـحمد، قال: ثنا
+  شبـابة، قال: ثنا ورقاء، وقال الـحسن، قال: ثنا ورقاء وحدثنـي الـمثنى، قال: ثنا أبو
+  حُذيفة، قال: ثنا شبل، عن ابن أبـي نـجيح، عن مـجاهد، فـي قوله: { مُقْنِعِي } قال:
+  رافعيها.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا القاسم، قال: ثنا الـحسين،
+  قال: ثنـي حجاج، عن ابن جريج، عن مـجاهد، مثله.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  أبو كريب، قال: ثنا أبو بكر، عن أبـي سعد، قال: قال الـحسن: وجوه الناس يوم القـيامة
+  إلـى السماء لا ينظر أحد إلـى أحد.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  الـمثنى، قال: ثنا سويد، قال: أخبرنا ابن الـمبـارك، عن عثمان بن الأسود، أنه سمع مـجاهداً
+  يقول فـي قوله: { مُهْطعينَ مُقْنِعِي رُؤوسِهمْ } قال: رافع رأسه هكذا، { لاَ يَرْتَدُّ
+  إلَـيهمْ طَرْفُهُمْ }.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي الـمثنى، قال: ثنا عمرو بن
+  عون، قال: أخبرنا هشيـم، عن جويبر، عن الضحاك، فـي قوله: { مُقْنِعِي رُؤوسِهمْ } قال:
+  رافعي رؤوسهم.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا بشر، قال: ثنا يزيد، قال:
+  ثنا سعيد، عن قتادة: { مُقْنِعِي رُؤوسِهمْ } قال: الإقناعُ رفع رؤوسهم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا مـحمد بن عبد الأعلـى، قال: ثنا مـحمد بن ثور، عن معمر، عن قتادة:
+  { مُقْنِعِي رُؤوسِهمْ } قال: الـمقنع الذي يرفع رأسه شاخصاً بصره لا يطرف.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حُدثت عن الـحسين، قال: سمعت أبـا معاذ يقول: أخبرنا عبـيد، قال: سمعت
+  الضحاك يقول، فـي قوله: { مُقْنِعِي رُؤوسِهمْ } قال: رافعيها.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(14, 42)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(14,42)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَلاَ تَحْسَبَنَّ ٱللَّهَ غَافِلاً عَمَّا يَعْمَلُ
+  ٱلظَّالِمُونَ إِنَّمَا يُؤَخِّرُهُمْ لِيَوْمٍ تَشْخَصُ فِيهِ ٱلأَبْصَارُ</a> <b>}
+  * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">مُهْطِعِينَ
+  مُقْنِعِي رُءُوسِهِمْ لاَ يَرْتَدُّ إِلَيْهِمْ طَرْفُهُمْ وَأَفْئِدَتُهُمْ هَوَآءٌ</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، فـي قوله: {
+  مُقْنِعِي رُؤوسِهمْ } قال: الـمقنع الذي يرفع رأسه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن وكيع، قال: ثنا الـمـحاربـي، عن جويبر، عن الضحاك: { مُقْنِعِي رُؤوسِهمْ } قال:
+  رافعي رؤوسهم.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن وكيع، قال: ثنا هاشم بن
+  القاسم، عن أبـي سعيد، عن سالـم، عن سعيد: { مُقْنِعِي رُؤوسِهمْ } قال: رافعي رؤوسهم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقوله: { لا يَرْتَدُّ إلَـيْهِمْ طَرْفُهُمْ } يقول: لا ترجع إلـيهم
+  لشدّة النظر أبصارهم. كما:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي مـحمد بن سعد، قال: ثنـي
+  أبـي، قال: ثنـي عمي، قال: ثنـي أبـي، عن أبـيه، عن ابن عبـاس قوله: { لا يَرْتَدُّ
+  إلَـيْهمْ طَرْفُهُمْ وأفْئدَتُهُمْ هَوَاءٌ } قال: شاخصة أبصارهم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقوله: { وأفْئدَتُهُمْ هَوَاءٌ } اختلف أهل التأويـل فـي تأويـله،
+  فقال بعضهم: معناه: متـخرّقة لا تعي من الـخير شيئاً. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا مـحمد بن بشار، قال: ثنا عبد الرحمن، قال: ثنا سفـيان، عن أبـي
+  إسحاق، عن مرّة، فـي قوله: { وأفْئِدَتُهُمْ هَوَاءٌ } قال: متـخرقة لا تعي شيئاً.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا مالك بن مغول، عن أبـي
+  إسحاق، عن مرّة، بـمثل ذلك.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن بشار، قال: ثنا عبد الرحمن،
+  قال: ثنا إسرائيـل، عن أبـي إسحاق، عن مرّة، مثله.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
   مـحمد بن عمارة، قال: ثنا سهل بن عامر، قال: ثنا مالك وإسرائيـل، عن أبـي إسحاق، عن
-  مرّة، مثله.حدثنا ابن وكيع، قال: ثنا أبـي، عن سفـيان، عن أبـي إسحاق، عن مرّة: { وأفْئدَتُهُمْ
-  هَوَاءٌ } قال: متـخرقة لا تعي شيئاً من الـخير.حدثنا الـحسن بن مـحمد، قال: ثنا يحيى
-  بن عبـاد، قال: ثنا مالك، يعنـي ابن مغول، قال: سمعت أبـا إسحاق، عن مرّة إلاَّ أنه
-  قال: لا تعي شيئاً. ولـم يقل من الـخير.حدثنا الـحسن بن مـحمد، قال: ثنا شبـابة، قال:
-  أخبرنا إسرائيـل، عن أبـي إسحاق، عن مرّة، مثله.حدثنا أحمد بن إسحاق، قال: ثنا أبو
+  مرّة، مثله.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن وكيع، قال: ثنا أبـي،
+  عن سفـيان، عن أبـي إسحاق، عن مرّة: { وأفْئدَتُهُمْ هَوَاءٌ } قال: متـخرقة لا تعي
+  شيئاً من الـخير.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا الـحسن بن مـحمد، قال: ثنا
+  يحيى بن عبـاد، قال: ثنا مالك، يعنـي ابن مغول، قال: سمعت أبـا إسحاق، عن مرّة إلاَّ
+  أنه قال: لا تعي شيئاً. ولـم يقل من الـخير.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  الـحسن بن مـحمد، قال: ثنا شبـابة، قال: أخبرنا إسرائيـل، عن أبـي إسحاق، عن مرّة،
+  مثله.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا أحمد بن إسحاق، قال: ثنا أبو
   أحمد، قال: ثنا مالك بن مغول، وإسرائيـل عن أبـي إسحاق، عن مرّة: { وأفْئدَتُهُمْ هَوَاءٌ
-  } قال أحدهما: خربة، وقال الآخر: متـخرقة لا تعي شيئاً.حدثنـي مـحمد بن سعد قال: ثنـي
-  أبـي، قال: ثنـي عمي، قال: ثنـي أبـي، عن أبـيه، عن ابن عبـاس: { وأفْئدَتُهُمْ هَوَاءٌ
-  } قال: لـيس فـيها شيء من الـخير فهي كالـخربة.حدثنا القاسم، قال: ثنا الـحسين، قال:
-  ثنـي حجاج، عن ابن جريج، عن مـجاهد، قال: لـيس من الـخير شيء فـي أفئدتهم، كقولك للبـيت
-  الذي لـيس فـيه شيء إنـما هو هواء.حدثنـي يونس، قال: أخبرنا ابن وهب، قال: ابن زيد
-  فـي قوله: { وأفْئِدَتُهُمْ هَوَاءٌ } قال: الأفئدة: القلوب هواء كما قال الله، لـيس
-  فـيها عقل ولا منفعة.حدثنا ابن حميد، قال: ثنا حكام، عن عنبسة، عن أبـي بكرة، عن أبـي
-  صالـح: { وأفْئدَتُهُمْ هَوَاءٌ } قال: لـيس فـيها شيء من الـخير.\r\n\t\t\t\r\n\t\t\t1 2 3 4 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَلاَ تَحْسَبَنَّ ٱللَّهَ غَافِلاً
-  عَمَّا يَعْمَلُ ٱلظَّالِمُونَ إِنَّمَا يُؤَخِّرُهُمْ لِيَوْمٍ تَشْخَصُ فِيهِ ٱلأَبْصَارُ
-  } * { مُهْطِعِينَ مُقْنِعِي رُءُوسِهِمْ لاَ يَرْتَدُّ إِلَيْهِمْ طَرْفُهُمْ وَأَفْئِدَتُهُمْ
-  هَوَآءٌ }وقال آخرون: إنها لا تستقرّ فـي مكان تردّد فـي أجوافهم. ذكر من قال ذلك:حدثنا
-  ابن وكيع وأحمد بن إسحاق، قالا: ثنا أبو أحمد، قال: ثنا شريك، عن سالـم، عن سعيد: {
-  وأفْئدَتُهُمْ هَوَاءٌ } قال: تـمور فـي أجوافهم، لـيس لها مكان تستقرّ فـيه.حدثنا
-  ابن وكيع، قال: ثنا هاشم بن القاسم، عن أبـي سعيد، عن سالـم، عن سعيد بنـحوه.وقال آخرون:
-  معنى ذلك: أنها خرجت من أماكنها فنَشِبَت بـالـحلوق. ذكر من قال ذلك:حدثنا ابن وكيع
-  وأحمد بن إسحاق، قالا: ثنا أبو أحمد الزبـيري، عن إسرائيـل، عن سعيد، عن مسروق عن أبـي
-  الضحى: { وأفْئدَتُهُمْ هَوَاءٌ } قال: قد بلغت حناجرهم.حدثنا مـحمد بن عبد الأعلـى،
-  قال: ثنا مـحمد بن ثور، عن معمر، عن قتادة، فـي قوله: { وأفْئدَتُهُمْ هَوَاءٌ } قال:
-  هواء لـيس فـيها شيء، خرجت من صدورهم فنشبت فـي حلوقهم.حدثنا بشر، قال: ثنا يزيد، قال:
-  ثنا سعيد، عن قتادة، قوله: { وأفْئدَتُهُمْ هَوَاءٌ } انتزعت حتـى صارت فـي حناجرهم
-  لا تـخرج من أفواههم، ولا تعود إلـى أمكنتها.وأولـى هذه الأقوال عندي بـالصواب فـي
-  تأويـل ذلك قول من قال: معناه: أنها خالـية لـيس فـيها شيء من الـخير، ولا تعقل شيئاً
-  وذلك أن العرب تسمي كلّ أجوف خاو: هواء ومنه قول حسَّان بن ثابت:ألا أبْلِغْ أبـا سُفْـيانَ
-  عَنّـي   فأنْتَ مُـجَوَّفٌ نَـخِبٌ هَوَاءُومنه قول الآخر:وَلا تَكُ مِنْ أخْدانِ
-  كُلّ يَراعةٍ   هَوَاءٍ كَسَقْبِ البـانِ جُوفٍ مَكاسِرُهْ\r\n\t\t\t1 2 3 4 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  } قال أحدهما: خربة، وقال الآخر: متـخرقة لا تعي شيئاً.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  مـحمد بن سعد قال: ثنـي أبـي، قال: ثنـي عمي، قال: ثنـي أبـي، عن أبـيه، عن ابن عبـاس:
+  { وأفْئدَتُهُمْ هَوَاءٌ } قال: لـيس فـيها شيء من الـخير فهي كالـخربة.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا القاسم، قال: ثنا الـحسين، قال: ثنـي حجاج، عن ابن جريج، عن
+  مـجاهد، قال: لـيس من الـخير شيء فـي أفئدتهم، كقولك للبـيت الذي لـيس فـيه شيء إنـما
+  هو هواء.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي يونس، قال: أخبرنا ابن وهب،
+  قال: ابن زيد فـي قوله: { وأفْئِدَتُهُمْ هَوَاءٌ } قال: الأفئدة: القلوب هواء كما
+  قال الله، لـيس فـيها عقل ولا منفعة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن حميد، قال: ثنا حكام، عن عنبسة، عن أبـي بكرة، عن أبـي صالـح: { وأفْئدَتُهُمْ
+  هَوَاءٌ } قال: لـيس فـيها شيء من الـخير.</font></font>&#13;\t\t\t<label disabled=\"true\"
+  class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">3 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(14, 42)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(14,42)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَلاَ تَحْسَبَنَّ ٱللَّهَ غَافِلاً عَمَّا يَعْمَلُ
+  ٱلظَّالِمُونَ إِنَّمَا يُؤَخِّرُهُمْ لِيَوْمٍ تَشْخَصُ فِيهِ ٱلأَبْصَارُ</a> <b>}
+  * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">مُهْطِعِينَ
+  مُقْنِعِي رُءُوسِهِمْ لاَ يَرْتَدُّ إِلَيْهِمْ طَرْفُهُمْ وَأَفْئِدَتُهُمْ هَوَآءٌ</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال آخرون: إنها لا تستقرّ فـي مكان تردّد فـي أجوافهم. ذكر من قال
+  ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن وكيع وأحمد بن إسحاق،
+  قالا: ثنا أبو أحمد، قال: ثنا شريك، عن سالـم، عن سعيد: { وأفْئدَتُهُمْ هَوَاءٌ }
+  قال: تـمور فـي أجوافهم، لـيس لها مكان تستقرّ فـيه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن وكيع، قال: ثنا هاشم بن القاسم، عن أبـي سعيد، عن سالـم، عن سعيد بنـحوه.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال آخرون: معنى ذلك: أنها خرجت من أماكنها فنَشِبَت بـالـحلوق. ذكر
+  من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن وكيع وأحمد بن إسحاق،
+  قالا: ثنا أبو أحمد الزبـيري، عن إسرائيـل، عن سعيد، عن مسروق عن أبـي الضحى: { وأفْئدَتُهُمْ
+  هَوَاءٌ } قال: قد بلغت حناجرهم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  مـحمد بن عبد الأعلـى، قال: ثنا مـحمد بن ثور، عن معمر، عن قتادة، فـي قوله: { وأفْئدَتُهُمْ
+  هَوَاءٌ } قال: هواء لـيس فـيها شيء، خرجت من صدورهم فنشبت فـي حلوقهم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: { وأفْئدَتُهُمْ
+  هَوَاءٌ } انتزعت حتـى صارت فـي حناجرهم لا تـخرج من أفواههم، ولا تعود إلـى أمكنتها.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وأولـى هذه الأقوال عندي بـالصواب فـي تأويـل ذلك قول من قال: معناه:
+  أنها خالـية لـيس فـيها شيء من الـخير، ولا تعقل شيئاً وذلك أن العرب تسمي كلّ أجوف
+  خاو: هواء ومنه قول حسَّان بن ثابت:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><table class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">ألا أبْلِغْ
+  أبـا سُفْـيانَ عَنّـي</font></font></b></td><td class=\"TextArabic\">   </td><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">فأنْتَ مُـجَوَّفٌ
+  نَـخِبٌ هَوَاءُ</font></font></b></td></tr></table><font class=\"TextResultArabic\"><font
+  color=\"black\">ومنه قول الآخر:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><table class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">وَلا تَكُ
+  مِنْ أخْدانِ كُلّ يَراعةٍ</font></font></b></td><td class=\"TextArabic\">   </td><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">هَوَاءٍ
+  كَسَقْبِ البـانِ جُوفٍ مَكاسِرُهْ</font></font></b></td></tr></table><label disabled=\"true\"
+  class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">4 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section>"
 

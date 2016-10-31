@@ -1,4 +1,4 @@
-location:
+position:
   sura: '014'
   aaya: 048
   madhab: '01'
@@ -9,155 +9,369 @@ meta:
   year: '310'
 aaya: يَوْمَ تُبَدَّلُ الْأَرْضُ غَيْرَ الْأَرْضِ وَالسَّمَاوَاتُ ۖ وَبَرَزُوا لِلَّهِ
   الْوَاحِدِ الْقَهَّارِ
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ يَوْمَ تُبَدَّلُ
-  ٱلأَرْضُ غَيْرَ ٱلأَرْضِ وَٱلسَّمَٰوَٰتُ وَبَرَزُواْ لِلَّهِ ٱلْوَاحِدِ الْقَهَّارِ
-  }يقول تعالـى ذكره: إن الله ذو انتقام { يَوْمَ تُبَدَّلُ الأرْضِ والسَّمَوَاتُ }
-  من مشركي قومك يا مـحمد من قريش، وسائر من كفر بـالله وجحده نبوّتك ونبوّة رسله من
-  قبلك. فـ «يوم» من صلة «الانتقام».واختلف فـي معنى قوله: { يَوْمَ تُبَدَّلُ الأرْضُ
-  غيرَ الأرْضِ } فقال بعضهم: معنى ذلك: يوم تبدّل الأرض التـي علـيها الناس الـيوم فـي
-  دار الدنـيا غير هذه الأرض، فتصير أرضاً بـيضاء كالفضة. ذكر من قال ذلك:حدثنا مـحمد
-  بن الـمثنى، قال: ثنا مـحمد بن جعفر، قال: ثنا شعبة، عن أبـي إسحاق، قال: سمعت عمرو
-  بن ميـمون يحدّث، عن عبد الله أنه قال فـي هذه الآية: { يَوْمَ تُبَدَّلُ الأرْضُ غيرَ
-  الأرْضِ والسَّمَوَاتُ } قال: أرض كالفضة نقـية لـم يَسِل فـيها دم، ولـم يُعْمَل فـيها
-  خطيئة، يسمعهم الداعي، وينفُذُهم البصر، حُفـاة عُراة قـياماً أحسب قال: كما خُـلِقوا،
-  حتـى يـلـجمهم العرق قـياماً وَحْدَه.قال: شعبة: ثم سمعته يقول: سمعت عمرو بن ميـمون،
-  ولـم يذكر عبد الله ثم عاودته فـيه، قال: حدثنـيه هبـيرة، عن عبد الله.حدثنا الـحسن
-  بن مـحمد، قال: ثنا يحيى بن عبـاد، قال: أخبرنا شعبة، قال: أخبرنا أبو إسحاق، قال:
-  سمعت عمرو بن ميـمون وربـما قال: قال عبد الله: وربـما لـم يقل، فقلت له: عن عبد الله؟
-  قال: سمعت عمرو بن ميـمون يقول: { يَوْمَ تُبَدَّلُ الأرْضُ غيرَ الأرْضِ } قال: أرض
-  كالفضة بـيضاء نقـية، لـم يسل فـيها دم، ولـم يعمل فـيها خطيئة، فـينفُذُهم البصر،
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(14, 48)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(14,48)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">يَوْمَ
+  تُبَدَّلُ ٱلأَرْضُ غَيْرَ ٱلأَرْضِ وَٱلسَّمَٰوَٰتُ وَبَرَزُواْ لِلَّهِ ٱلْوَاحِدِ
+  الْقَهَّارِ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">يقول تعالـى ذكره: إن الله ذو انتقام
+  { يَوْمَ تُبَدَّلُ الأرْضِ والسَّمَوَاتُ } من مشركي قومك يا مـحمد من قريش، وسائر
+  من كفر بـالله وجحده نبوّتك ونبوّة رسله من قبلك. فـ «يوم» من صلة «الانتقام».</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">واختلف فـي معنى قوله: { يَوْمَ تُبَدَّلُ الأرْضُ غيرَ الأرْضِ }
+  فقال بعضهم: معنى ذلك: يوم تبدّل الأرض التـي علـيها الناس الـيوم فـي دار الدنـيا
+  غير هذه الأرض، فتصير أرضاً بـيضاء كالفضة. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  مـحمد بن الـمثنى، قال: ثنا مـحمد بن جعفر، قال: ثنا شعبة، عن أبـي إسحاق، قال: سمعت
+  عمرو بن ميـمون يحدّث، عن عبد الله أنه قال فـي هذه الآية: { يَوْمَ تُبَدَّلُ الأرْضُ
+  غيرَ الأرْضِ والسَّمَوَاتُ } قال: أرض كالفضة نقـية لـم يَسِل فـيها دم، ولـم يُعْمَل
+  فـيها خطيئة، يسمعهم الداعي، وينفُذُهم البصر، حُفـاة عُراة قـياماً أحسب قال: كما
+  خُـلِقوا، حتـى يـلـجمهم العرق قـياماً وَحْدَه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال:
+  شعبة: ثم سمعته يقول: سمعت عمرو بن ميـمون، ولـم يذكر عبد الله ثم عاودته فـيه، قال:
+  حدثنـيه هبـيرة، عن عبد الله.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  الـحسن بن مـحمد، قال: ثنا يحيى بن عبـاد، قال: أخبرنا شعبة، قال: أخبرنا أبو إسحاق،
+  قال: سمعت عمرو بن ميـمون وربـما قال: قال عبد الله: وربـما لـم يقل، فقلت له: عن عبد
+  الله؟ قال: سمعت عمرو بن ميـمون يقول: { يَوْمَ تُبَدَّلُ الأرْضُ غيرَ الأرْضِ } قال:
+  أرض كالفضة بـيضاء نقـية، لـم يسل فـيها دم، ولـم يعمل فـيها خطيئة، فـينفُذُهم البصر،
   ويسمعهم الداعي، حفـاة عُراة كما خُـلِقوا. قال: أراه قال: قـياماً حتـى يُـلـجمهم
-  العرق.حدثنا الـحسن، قال: ثنا شبـابة، قال: ثنا إسرائيـل، عن أبـي إسحاق، عن عمرو بن
-  ميـمون، عن ابن مسعود، قوله: { يَوْمَ تُبَدَّلُ الأرْضُ غيرَ الأرْضِ والسَّمَوَاتُ
-  } قال: تبدّل أرضاً بـيضاء نقـية كأنها فضة، لـم يسفك فـيها دم حرام، ولـم يُعمَل فـيها
-  خطيئة.حدثنـي الـمثنى، قال: ثنا مسلـم بن إبراهيـم، قال: أخبرنا شعبة، عن أبـي إسحاق،
-  عن عمرو بن ميـمون عن عبد الله، فـي قوله: { يَوْمَ تُبَدَّلُ الأرْضُ غيرَ الأرْضِ
-  } قال: أرض الـجنة بـيضاء نقـية، لـم يُعمل فـيها خطيئة، يسمعهم الداعي، وينفذهم البصر،
-  حفـاة عراة قـياماً يـلـجمهم العرق.حدثنا مـحمد بن بشار، قال: ثنا عبد الرحمن، قال:
-  ثنا سفـيان، عن أبـي إسحاق، عن عمرو بن ميـمون: { يَوْمَ تُبَدَّلُ الأرْضُ غيرَ الأرْضِ
-  } قال: أرض بـيضاء كالفضة لـم يسفك فـيها دم حرام، ولـم يُعمل فـيها خطيئة.حدثنا الـحسن
-  بن مـحمد، قال: ثنا يحيى بن عبـاد، قال: ثنا حماد بن زيد، قال: أخبرنا عاصم بن بَهْدلة،
-  عن زِرّ بن حُبـيش، عن عبد الله بن مسعود، أنه تلا هذه الآية: { يَوْمَ تُبَدَّلُ الأرْضُ
-  غيرَ الأرْضِ والسَّمَوَاتُ وَبَرَزُوا لِلّهِ الوَاحِدِ القَهَّارِ } قال: يجاء بأرض
-  بـيضاء كأنها سبـيكة فضة لـم يُسْفك فـيها دم، ولـم يُعمل علـيها خطيئة، قال: فأوّل
-  ما يحكم بـين الناس فـيه فـي الدماء.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ يَوْمَ تُبَدَّلُ ٱلأَرْضُ غَيْرَ ٱلأَرْضِ
-  وَٱلسَّمَٰوَٰتُ وَبَرَزُواْ لِلَّهِ ٱلْوَاحِدِ الْقَهَّارِ }حدثنا أبو كريب، قال:
-  ثنا معاوية بن هشام، عن سنان، عن جابر الـجُعفـيّ، عن أبـي جبـيرة، عن زيد، قال: أرسل
-  رسول الله صلى الله عليه وسلم إلـى الـيهود، فقال: \" هَلْ تَدْرُونَ لِـمَ أرْسَلْتُ
-  إلَـيْهِمْ؟ \" قالوا: الله ورسوله أعلم. قال: \" فإنّـي أرْسَلْتُ إلَـيْهِمْ أسألُهُمْ
-  عَنْ قَوْلِ اللّهِ { يَوْمَ تُبَدَّلُ الأرْضُ غيرَ الأرْضِ } إنَّها تَكُونُ يَوْمَئذٍ
-  بَـيْضَاءَ مثْلَ الفضَّةِ \". فلـما جاءوا سألهم، فقالوا: تكون بـيضاء مثل النقـيّ.حدثنا
-  أبو إسماعيـل الترمذي، قال: ثنا أبو صالـح، قال: ثنـي ابن لهيعة، عن يزيد بن أبـي حبـيب،
-  عن سنان بن سعد، عن أنس بن مالك، أنه تلا هذه الآية: { يَوْمَ تُبَدَّلُ الأرْضُ غيرَ
-  الأرْضِ } قال: يبدّلها الله يوم القـيامة بأرض من فضة لـم يُعمل علـيها الـخطايا،
-  ينزلها الـجبَّـار تبـارك تعالـى.حدثنـي مـحمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا
-  عيسى وحدثنـي الـحارث، قال: ثنا الـحسن، قال: ثنا ورقاء وحدثنا الـحسن بن مـحمد، قال:
-  ثنا شبـابة، قال: ثنا ورقاء جميعاً، عن ابن أبـي نـجيح، عن مـجاهد، قوله: { يَوْمَ
-  تُبَدَّلُ الأرْضُ غيرَ الأرْضِ } قال: أرض كأنه الفضة. زاد الـحسن فـي حديثه عن شبـابة:
-  والسموات كذلك أيضاً كأنها الفضة.حدثنا القاسم، قال: ثنا الـحسين، قال: ثنـي حجاج،
-  عن ابن جريج، عن مـجاهد: { يَوْمَ تُبَدَّلُ الأرْضُ غيرَ الأرْضِ } قال: أرض كأنها
-  الفضة، والسموات كذلك أيضاً.حدثنا ابن البرقـي، قال: ثنا ابن أبـي مريـم، قال: أخبرنا
-  مـحمد بن جعفر، قال: ثنـي أبو حازم، قال: سمعت سهل بن سعد يقول: سمعت رسول الله صلى
-  الله عليه وسلم يقول: \" يُحْشَرُ النَّاسُ يَوْمَ القـيامَةِ علـى أرْضٍ بَـيْضَاءَ
-  عَفْرَاءَ كَقُرْصَةِ النَّقِـيّ \". قال سهل أو غيره:« لَـيْسَ فـيها مَعْلَـمٌ لغَيْرِهِ
-  ».وقال آخرون: تبدّل ناراً. ذكر من قال ذلك:حدثنا أبو كريب، قال: ثنا ابن فضيـل، عن
-  الأعمش، عن الـمنهال بن عمرو، عن قـيس بن السَّكْن، قال: قال عبد الله: الأرض كلها
-  نار يوم القـيامة، والـجنة من ورائها ترى أكوابها وكواعبها والذي نفس عبد الله بـيده،
-  إن الرجل لـيفـيض عرقاً حتـى يرشح فـي الأرض قدمه، ثم يرتفع حتـى يبلغ أنفه وما مسه
-  الـحساب فقالوا: مـم ذاك يا أبـا عبد الرحمن؟ قال: مـما يرى الناس ويـلقون.حدثنا ابن
-  بشار، قال: ثنَا عبد الرحمن، قال: ثنا أبو سفـيان، عن الأعمش، عن خيثمة، قال: قال عبد
-  الله: الأرض كلها يوم القـيامة نار، والـجنة من ورائها ترى كواعبها وأكوابها، ويـلـجم
-  الناس العرق، أو يبلغ منهم العرق، ولـم يبلغوا الـحساب.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ يَوْمَ تُبَدَّلُ ٱلأَرْضُ غَيْرَ ٱلأَرْضِ
-  وَٱلسَّمَٰوَٰتُ وَبَرَزُواْ لِلَّهِ ٱلْوَاحِدِ الْقَهَّارِ }وقال آخرون: بل تبدّل
-  الأرض أرضاً من فضة. ذكر من قال ذلك:حدثنا ابن الـمثنى، قال: ثنا مـحمد بن جعفر، قال:
-  ثنا شعبة، قال: سمعت الـمغيرة بن مالك يحدّث عن الـمـجاشع أو الـمـجاشعي، شكّ أبو موسى
-  عمن سمع علـيًّا يقول فـي هذه الآية: { يَوْمَ تُبَدَّلُ الأرْضُ غيرَ الأرْضِ } قال:
-  الأرض من فضة، والـجنة من ذهب.حدثنا القاسم، قال: ثنا الـحسين، قال: ثنـي حجاج، عن
-  شعبة، عن الـمغيرة بن مالك، قال: ثنـي رجل من بنـي مـجاشع، يقال له عبد الكريـم أو
-  ابن عبد الكريـم قال: ثنـي هذا الرجل أراه بسمرقند، أنه سمع علـيّ بن أبـي طالب قرأ
-  هذه الآية: { يَوْمَ تُبَدَّلُ الأرْضُ غيرَ الأرْضِ } قال: الأرض من فضة، والـجنة
-  من ذهب.حدثنا ابن وكيع، قال: ثنا أبـي، عن شعبة، عن مغيرة بن مالك، عن رجل من بنـي
-  مـجاشع، يقال له عبد الكريـم أو يكنى أبـا عبد الكريـم قال: أقامنـي علـى رجل بخراسان،
-  فقال: حدثنـي هذا أنه سمع علـيّ بن أبـي طالب، فذكر نـحوه.حدثنـي مـحمد بن سعد، قال:
-  ثنـي أبـي، قال: ثنـي عمي، قال: ثنـي أبـي، عن أبـيه، عن ابن عبـاس، قوله: { يَوْمَ
-  تُبَدَّلُ الأرْضُ غيرَ الأرْضِ }... الآية، فزعم أنها تكون فضة.حدثنا مـحمد بن إسماعيـل،
-  قال: ثنا أبو صالـح، قال: ثنـي ابن لهيعة، عن يزيد بن أبـي حبـيب، عن سنان بن سعد،
-  عن أنس بن مالك قال: يبدّلها الله يوم القـيامة بأرض من فضة.وقال آخرون: يبدّلها خبزة.ذكر
-  من قال ذلك:حدثنـي الـمثنى، قال: ثنا أبو سعيد بن دلّ من صغانـيان، قال: ثنا الـجارود
-  بن معاذ الترمِذِيّ، قال: ثنا وكيع بن الـجرّاح، عن عمر بن بشر الهمدانـي، عن سعيد
-  بن جبـير، فـي قوله: { يَوْمَ تُبَدَّلُ الأرْضُ غيرَ الأرْضِ } قال: تبدّل خبزة بـيضاء
-  يأكل الـمؤمن من تـحت قدميه.حدثنـي الـمثنى، قال: ثنا إسحاق، قال: ثنا وكيع، عن أبـي
-  معشر، عن مـحمد بن كعب القرظي، أو عن مـحمد بن قـيس: { يَوْمَ تُبَدَّلُ الأرْضُ غيرَ
-  الأرْضِ } قال: خبزة يأكل منها الـمؤمنون من تـحت أقدامهم.وقال آخرون: تبدّل الأرض
-  غير الأرض. ذكر من قال ذلك:حدثنا علـيّ بن سهل، قال: ثنا حجاج بن مـحمد، قال: ثنا أبو
-  جعفر، عن الربـيع بن أنس، عن كعب فـي قوله: { يَوْمَ تُبَدَّلُ الأرْضُ غيرَ الأرْضِ
-  والسَّمَوَاتُ } قال: تصير السموات جناناً ويصير مكان البحر النار. قال: وتبدّل الأرض
-  غيرها.حدثنا أبو كريب، قال: ثنا عبد الرحمن بن مـحمد الـمـحاربـيّ، عن إسماعيـل بن
-  رافع الـمدنـيّ، عن يزيد، عن رجل من الأنصار، عن مـحمد بن كعب القرظي، عن رجل من الأنصار،
-  عن أبـي هريرة، أن رسول الله صلى الله عليه وسلم قال: \" يُبَدِّلُ اللّهُ الأرْضَ
-  غيرَ الأرْضِ والسَّمَوَاتِ، فَـيَبْسُطُها ويَسْطَحُها ويَـمُدُّها مَدَّ الأدِيـمِ
-  العُكاظِيِّ، لا تَرَى فـيها عِوَجاً وَلا أمْتاً، ثُمَّ يَزْجُرُ اللّهُ الـخَـلْقَ
-  زَجْرَةً، فإذَا هُمْ فِـي هذِهِ الـمُبَدَّلَةِ فِـي مِثْلِ مَوَاضِعِهِمْ مِنَ الأُولـى،
-  ما كانَ فِـي بَطْنها فَفـي بَطْنِها وَما كانَ علـى ظَهْرِها كانَ علـى ظَهْرِها،
-  وَذلكَ حينَ يَطْوِي السموَاتِ كَطَيّ السِّجلّ للْكِتابِ، ثُمَّ يَدْحُو بهما، ثُمَّ
-  تُبَدَّلُ الأرْضُ غيرَ الأرْضِ والسَّمَوَاتُ \". \r\n\t\t\t\r\n\t\t\t1 2 3 4 5 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ يَوْمَ تُبَدَّلُ ٱلأَرْضُ غَيْرَ ٱلأَرْضِ
-  وَٱلسَّمَٰوَٰتُ وَبَرَزُواْ لِلَّهِ ٱلْوَاحِدِ الْقَهَّارِ }  حدثنا ابن حميد، قال:
-  ثنا الـحكم بن بشير، قال: ثنا عمرو بن قـيس، عن أبـي إسحاق، عن عمرو بن ميـمون الأودي،
-  قال: يجمع الناس يوم القـيامة فـي أرض بـيضاء، لـم يُعمل فـيها خطيئة مقدار أربعين
-  سنة يـلـجمهم العرق.وقالت عائشة فـي ذلك، ما:حدثنا ابن أبـي الشوارب وحميد بن مسعدة
-  وابن بزيع، قالوا: ثنا يزيد بن زريع، عن داود، عن عامر، عن عائشة، قالت: قلت: يا رسول
-  الله، إذا بدّلَت الأرض غير الأرض، وبرزوا لله الواحد القهَّار، أين الناس يومئذٍ؟
-  قال: \" عَلـى الصِّرَاطِ \". حدثنا حميد بن مسعدة وابن بزيع، قال: ثنا بشر بن الـمفضل،
-  قال: ثنا داود، عن عامر، عن عائشة عن النبـيّ صلى الله عليه وسلم نـحوه.حدثنـي إسحاق
-  بن شاهين، قال: ثنا خالد، عن داود، عن عامر، عن مسروق، قال: قلت لعائشة: يا أمّ الـمؤمنـين
-  أرأيتِ قول الله: { يَوْمَ تُبَدَّلُ الأرْضُ غيرَ الأرْضِ والسَّمَوَاتُ وَبَرَزُوا
-  لِلّهِ الوَاحِد القَهَّارِ } أين الناس يومئذٍ؟ فقالت: سألت رسول الله صلى الله عليه
-  وسلم عن ذلك، فقال: \" عَلـى الصِّرَاطِ \". حدثنا ابن الـمثنى، قال: ثنا الـحسن بن
-  عنبسة الورّاق، قال: ثنا عبد الرحيـم، يعنـي ابن سلـيـمان الرازي عن داود بن أبـي هند،
-  عن عامر، عن مسروق، عن عائشة، قالت: سألت رسول الله صلى الله عليه وسلم، عن قول الله:
-  { يَوْمَ تُبَدَّلُ الأرْضُ غيرَ الأرْضِ } قلت: يا رسول الله، إذا بُدّلت الأرض غير
-  الأرض، أين يكون الناس؟ قال: \" عَلـى الصِّرَاطِ \" حدثنا الـحسن بن مـحمد، قال: ثنا
-  عاصم بن علـيّ، قال: ثنا إسماعيـل بن زكريا، عن داود، عن عامر، عن مسروق، عن عائشة
-  بنـحوه.حدثنا ابن الـمثنى، قال: ثنا عبد الأعلـى، قال: ثنا داود، عن عامر، عن عائشة
-  أمّ الـمؤمنـين قالت: أنا أوّل الناس سأل رسول الله صلى الله عليه وسلم عن هذه الآية»
-  ثم ذكر نـحوه.حدثنا الـحسن بن مـحمد، قال: ثنا ربعيّ بن إبراهيـم الأسدي أخو إسماعيـل
+  العرق.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا الـحسن، قال: ثنا شبـابة،
+  قال: ثنا إسرائيـل، عن أبـي إسحاق، عن عمرو بن ميـمون، عن ابن مسعود، قوله: { يَوْمَ
+  تُبَدَّلُ الأرْضُ غيرَ الأرْضِ والسَّمَوَاتُ } قال: تبدّل أرضاً بـيضاء نقـية كأنها
+  فضة، لـم يسفك فـيها دم حرام، ولـم يُعمَل فـيها خطيئة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  الـمثنى، قال: ثنا مسلـم بن إبراهيـم، قال: أخبرنا شعبة، عن أبـي إسحاق، عن عمرو بن
+  ميـمون عن عبد الله، فـي قوله: { يَوْمَ تُبَدَّلُ الأرْضُ غيرَ الأرْضِ } قال: أرض
+  الـجنة بـيضاء نقـية، لـم يُعمل فـيها خطيئة، يسمعهم الداعي، وينفذهم البصر، حفـاة
+  عراة قـياماً يـلـجمهم العرق.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  مـحمد بن بشار، قال: ثنا عبد الرحمن، قال: ثنا سفـيان، عن أبـي إسحاق، عن عمرو بن ميـمون:
+  { يَوْمَ تُبَدَّلُ الأرْضُ غيرَ الأرْضِ } قال: أرض بـيضاء كالفضة لـم يسفك فـيها
+  دم حرام، ولـم يُعمل فـيها خطيئة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  الـحسن بن مـحمد، قال: ثنا يحيى بن عبـاد، قال: ثنا حماد بن زيد، قال: أخبرنا عاصم
+  بن بَهْدلة، عن زِرّ بن حُبـيش، عن عبد الله بن مسعود، أنه تلا هذه الآية: { يَوْمَ
+  تُبَدَّلُ الأرْضُ غيرَ الأرْضِ والسَّمَوَاتُ وَبَرَزُوا لِلّهِ الوَاحِدِ القَهَّارِ
+  } قال: يجاء بأرض بـيضاء كأنها سبـيكة فضة لـم يُسْفك فـيها دم، ولـم يُعمل علـيها
+  خطيئة، قال: فأوّل ما يحكم بـين الناس فـيه فـي الدماء.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(14, 48)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(14,48)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">يَوْمَ تُبَدَّلُ ٱلأَرْضُ غَيْرَ ٱلأَرْضِ وَٱلسَّمَٰوَٰتُ
+  وَبَرَزُواْ لِلَّهِ ٱلْوَاحِدِ الْقَهَّارِ</a> <b>}</b></font>, <br/>, <br/>, <div
+  align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  أبو كريب، قال: ثنا معاوية بن هشام، عن سنان، عن جابر الـجُعفـيّ، عن أبـي جبـيرة،
+  عن زيد، قال: أرسل رسول الله صلى الله عليه وسلم إلـى الـيهود، فقال:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" هَلْ تَدْرُونَ لِـمَ أرْسَلْتُ
+  إلَـيْهِمْ؟ \" </font></font></b><font class=\"TextResultArabic\"><font color=\"black\">قالوا:
+  الله ورسوله أعلم. قال:</font></font><b><font class=\"TextResultArabic\"><font color=\"Red\">
+  \" فإنّـي أرْسَلْتُ إلَـيْهِمْ أسألُهُمْ عَنْ قَوْلِ اللّهِ { يَوْمَ تُبَدَّلُ الأرْضُ
+  غيرَ الأرْضِ } إنَّها تَكُونُ يَوْمَئذٍ بَـيْضَاءَ مثْلَ الفضَّةِ \". </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\">فلـما جاءوا سألهم، فقالوا: تكون
+  بـيضاء مثل النقـيّ.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا أبو إسماعيـل الترمذي، قال:
+  ثنا أبو صالـح، قال: ثنـي ابن لهيعة، عن يزيد بن أبـي حبـيب، عن سنان بن سعد، عن أنس
+  بن مالك، أنه تلا هذه الآية: { يَوْمَ تُبَدَّلُ الأرْضُ غيرَ الأرْضِ } قال: يبدّلها
+  الله يوم القـيامة بأرض من فضة لـم يُعمل علـيها الـخطايا، ينزلها الـجبَّـار تبـارك
+  تعالـى.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي مـحمد بن عمرو، قال: ثنا
+  أبو عاصم، قال: ثنا عيسى وحدثنـي الـحارث، قال: ثنا الـحسن، قال: ثنا ورقاء وحدثنا
+  الـحسن بن مـحمد، قال: ثنا شبـابة، قال: ثنا ورقاء جميعاً، عن ابن أبـي نـجيح، عن مـجاهد،
+  قوله: { يَوْمَ تُبَدَّلُ الأرْضُ غيرَ الأرْضِ } قال: أرض كأنه الفضة. زاد الـحسن
+  فـي حديثه عن شبـابة: والسموات كذلك أيضاً كأنها الفضة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  القاسم، قال: ثنا الـحسين، قال: ثنـي حجاج، عن ابن جريج، عن مـجاهد: { يَوْمَ تُبَدَّلُ
+  الأرْضُ غيرَ الأرْضِ } قال: أرض كأنها الفضة، والسموات كذلك أيضاً.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن البرقـي، قال: ثنا ابن أبـي مريـم، قال: أخبرنا مـحمد بن
+  جعفر، قال: ثنـي أبو حازم، قال: سمعت سهل بن سعد يقول: سمعت رسول الله صلى الله عليه
+  وسلم يقول:</font></font><b><font class=\"TextResultArabic\"><font color=\"Red\">
+  \" يُحْشَرُ النَّاسُ يَوْمَ القـيامَةِ علـى أرْضٍ بَـيْضَاءَ عَفْرَاءَ كَقُرْصَةِ
+  النَّقِـيّ \". </font></font></b><font class=\"TextResultArabic\"><font color=\"black\">قال
+  سهل أو غيره:« لَـيْسَ فـيها مَعْلَـمٌ لغَيْرِهِ ».</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  آخرون: تبدّل ناراً. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  أبو كريب، قال: ثنا ابن فضيـل، عن الأعمش، عن الـمنهال بن عمرو، عن قـيس بن السَّكْن،
+  قال: قال عبد الله: الأرض كلها نار يوم القـيامة، والـجنة من ورائها ترى أكوابها وكواعبها
+  والذي نفس عبد الله بـيده، إن الرجل لـيفـيض عرقاً حتـى يرشح فـي الأرض قدمه، ثم يرتفع
+  حتـى يبلغ أنفه وما مسه الـحساب فقالوا: مـم ذاك يا أبـا عبد الرحمن؟ قال: مـما يرى
+  الناس ويـلقون.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن بشار، قال: ثنَا عبد الرحمن،
+  قال: ثنا أبو سفـيان، عن الأعمش، عن خيثمة، قال: قال عبد الله: الأرض كلها يوم القـيامة
+  نار، والـجنة من ورائها ترى كواعبها وأكوابها، ويـلـجم الناس العرق، أو يبلغ منهم العرق،
+  ولـم يبلغوا الـحساب.</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(14, 48)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(14,48)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">يَوْمَ تُبَدَّلُ ٱلأَرْضُ غَيْرَ ٱلأَرْضِ وَٱلسَّمَٰوَٰتُ
+  وَبَرَزُواْ لِلَّهِ ٱلْوَاحِدِ الْقَهَّارِ</a> <b>}</b></font>, <br/>, <br/>, <div
+  align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  آخرون: بل تبدّل الأرض أرضاً من فضة. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن الـمثنى، قال: ثنا مـحمد بن جعفر، قال: ثنا شعبة، قال: سمعت الـمغيرة بن مالك يحدّث
+  عن الـمـجاشع أو الـمـجاشعي، شكّ أبو موسى عمن سمع علـيًّا يقول فـي هذه الآية: { يَوْمَ
+  تُبَدَّلُ الأرْضُ غيرَ الأرْضِ } قال: الأرض من فضة، والـجنة من ذهب.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا القاسم، قال: ثنا الـحسين، قال: ثنـي حجاج، عن شعبة، عن الـمغيرة
+  بن مالك، قال: ثنـي رجل من بنـي مـجاشع، يقال له عبد الكريـم أو ابن عبد الكريـم قال:
+  ثنـي هذا الرجل أراه بسمرقند، أنه سمع علـيّ بن أبـي طالب قرأ هذه الآية: { يَوْمَ
+  تُبَدَّلُ الأرْضُ غيرَ الأرْضِ } قال: الأرض من فضة، والـجنة من ذهب.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن وكيع، قال: ثنا أبـي، عن شعبة، عن مغيرة بن مالك، عن رجل
+  من بنـي مـجاشع، يقال له عبد الكريـم أو يكنى أبـا عبد الكريـم قال: أقامنـي علـى رجل
+  بخراسان، فقال: حدثنـي هذا أنه سمع علـيّ بن أبـي طالب، فذكر نـحوه.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي مـحمد بن سعد، قال: ثنـي أبـي، قال: ثنـي عمي، قال: ثنـي أبـي،
+  عن أبـيه، عن ابن عبـاس، قوله: { يَوْمَ تُبَدَّلُ الأرْضُ غيرَ الأرْضِ }... الآية،
+  فزعم أنها تكون فضة.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا مـحمد بن إسماعيـل، قال: ثنا
+  أبو صالـح، قال: ثنـي ابن لهيعة، عن يزيد بن أبـي حبـيب، عن سنان بن سعد، عن أنس بن
+  مالك قال: يبدّلها الله يوم القـيامة بأرض من فضة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  آخرون: يبدّلها خبزة.ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  الـمثنى، قال: ثنا أبو سعيد بن دلّ من صغانـيان، قال: ثنا الـجارود بن معاذ الترمِذِيّ،
+  قال: ثنا وكيع بن الـجرّاح، عن عمر بن بشر الهمدانـي، عن سعيد بن جبـير، فـي قوله:
+  { يَوْمَ تُبَدَّلُ الأرْضُ غيرَ الأرْضِ } قال: تبدّل خبزة بـيضاء يأكل الـمؤمن من
+  تـحت قدميه.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي الـمثنى، قال: ثنا إسحاق،
+  قال: ثنا وكيع، عن أبـي معشر، عن مـحمد بن كعب القرظي، أو عن مـحمد بن قـيس: { يَوْمَ
+  تُبَدَّلُ الأرْضُ غيرَ الأرْضِ } قال: خبزة يأكل منها الـمؤمنون من تـحت أقدامهم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال آخرون: تبدّل الأرض غير الأرض. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا علـيّ بن سهل، قال: ثنا حجاج بن مـحمد، قال: ثنا أبو جعفر، عن
+  الربـيع بن أنس، عن كعب فـي قوله: { يَوْمَ تُبَدَّلُ الأرْضُ غيرَ الأرْضِ والسَّمَوَاتُ
+  } قال: تصير السموات جناناً ويصير مكان البحر النار. قال: وتبدّل الأرض غيرها.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا أبو كريب، قال: ثنا عبد الرحمن بن مـحمد الـمـحاربـيّ، عن إسماعيـل
+  بن رافع الـمدنـيّ، عن يزيد، عن رجل من الأنصار، عن مـحمد بن كعب القرظي، عن رجل من
+  الأنصار، عن أبـي هريرة، أن رسول الله صلى الله عليه وسلم قال:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" يُبَدِّلُ اللّهُ الأرْضَ غيرَ
+  الأرْضِ والسَّمَوَاتِ، فَـيَبْسُطُها ويَسْطَحُها ويَـمُدُّها مَدَّ الأدِيـمِ العُكاظِيِّ،
+  لا تَرَى فـيها عِوَجاً وَلا أمْتاً، ثُمَّ يَزْجُرُ اللّهُ الـخَـلْقَ زَجْرَةً، فإذَا
+  هُمْ فِـي هذِهِ الـمُبَدَّلَةِ فِـي مِثْلِ مَوَاضِعِهِمْ مِنَ الأُولـى، ما كانَ
+  فِـي بَطْنها فَفـي بَطْنِها وَما كانَ علـى ظَهْرِها كانَ علـى ظَهْرِها، وَذلكَ حينَ
+  يَطْوِي السموَاتِ كَطَيّ السِّجلّ للْكِتابِ، ثُمَّ يَدْحُو بهما، ثُمَّ تُبَدَّلُ
+  الأرْضُ غيرَ الأرْضِ والسَّمَوَاتُ \". </font></font></b><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"><br/></font></font></b>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">3 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(14, 48)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(14,48)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">يَوْمَ تُبَدَّلُ ٱلأَرْضُ غَيْرَ ٱلأَرْضِ وَٱلسَّمَٰوَٰتُ
+  وَبَرَزُواْ لِلَّهِ ٱلْوَاحِدِ الْقَهَّارِ</a> <b>}</b></font>, <br/>, <br/>, <div
+  align=\"right\" dir=\"rtl\"><b><font class=\"TextResultArabic\"><font color=\"Red\">
+  \ </font></font></b><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن حميد، قال: ثنا الـحكم بن بشير، قال: ثنا عمرو بن قـيس، عن أبـي إسحاق، عن عمرو
+  بن ميـمون الأودي، قال: يجمع الناس يوم القـيامة فـي أرض بـيضاء، لـم يُعمل فـيها خطيئة
+  مقدار أربعين سنة يـلـجمهم العرق.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقالت
+  عائشة فـي ذلك، ما:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن أبـي الشوارب وحميد بن
+  مسعدة وابن بزيع، قالوا: ثنا يزيد بن زريع، عن داود، عن عامر، عن عائشة، قالت: قلت:
+  يا رسول الله، إذا بدّلَت الأرض غير الأرض، وبرزوا لله الواحد القهَّار، أين الناس
+  يومئذٍ؟ قال:</font></font><b><font class=\"TextResultArabic\"><font color=\"Red\">
+  \" عَلـى الصِّرَاطِ \". </font></font></b><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"><br/></font></font></b><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  حميد بن مسعدة وابن بزيع، قال: ثنا بشر بن الـمفضل، قال: ثنا داود، عن عامر، عن عائشة
+  عن النبـيّ صلى الله عليه وسلم نـحوه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  إسحاق بن شاهين، قال: ثنا خالد، عن داود، عن عامر، عن مسروق، قال: قلت لعائشة: يا أمّ
+  الـمؤمنـين أرأيتِ قول الله: { يَوْمَ تُبَدَّلُ الأرْضُ غيرَ الأرْضِ والسَّمَوَاتُ
+  وَبَرَزُوا لِلّهِ الوَاحِد القَهَّارِ } أين الناس يومئذٍ؟ فقالت: سألت رسول الله
+  صلى الله عليه وسلم عن ذلك، فقال:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" عَلـى الصِّرَاطِ \". </font></font></b><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"><br/></font></font></b><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن الـمثنى، قال: ثنا الـحسن بن عنبسة الورّاق، قال: ثنا عبد الرحيـم، يعنـي ابن سلـيـمان
+  الرازي عن داود بن أبـي هند، عن عامر، عن مسروق، عن عائشة، قالت: سألت رسول الله صلى
+  الله عليه وسلم، عن قول الله: { يَوْمَ تُبَدَّلُ الأرْضُ غيرَ الأرْضِ } قلت: يا رسول
+  الله، إذا بُدّلت الأرض غير الأرض، أين يكون الناس؟ قال:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" عَلـى الصِّرَاطِ \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  الـحسن بن مـحمد، قال: ثنا عاصم بن علـيّ، قال: ثنا إسماعيـل بن زكريا، عن داود، عن
+  عامر، عن مسروق، عن عائشة بنـحوه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن الـمثنى، قال: ثنا عبد الأعلـى، قال: ثنا داود، عن عامر، عن عائشة أمّ الـمؤمنـين
+  قالت: أنا أوّل الناس سأل رسول الله صلى الله عليه وسلم عن هذه الآية» ثم ذكر نـحوه.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا الـحسن بن مـحمد، قال: ثنا ربعيّ بن إبراهيـم الأسدي أخو إسماعيـل
   بن إبراهيـم، عن داود بن أبـي هند، عن عامر، قال: قالت عائشة: يا رسول الله، أرأيت
-  إذا بُدّلت الأرض غير الأرض، أين الناس يومئذٍ؟ قال: \" عَلـى الصِّراط \". حدثنا الـحسن،
-  قال: ثنا علـيّ بن الـجَعْد، قال: أخبرنـي القاسم، قال: سمعت الـحسن، قال: قالت عائشة:
-  يا رسول الله { يَوْمَ تُبَدَّلُ الأرْضُ غيرَ الأرْضِ } فأين الناس يومئذٍ؟ قال:\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ يَوْمَ تُبَدَّلُ ٱلأَرْضُ غَيْرَ ٱلأَرْضِ
-  وَٱلسَّمَٰوَٰتُ وَبَرَزُواْ لِلَّهِ ٱلْوَاحِدِ الْقَهَّارِ } \" إنَّ هذَا الشَّيْءَ
-  ما سألَنِـي عَنْهُ أحَدٌ \" قال: \" عَلـى الصِّرَاطِ يا عائِشَةُ \". حدثنا الـحسن،
-  قال: ثنا عبد الرحمن بن إبراهيـم، قال: ثنـي الولـيد، عن سعيد، عن قتادة، عن حسان بن
-  بلال الـمزنـيّ، عن عائشة: أنها سألت رسول الله صلى الله عليه وسلم، عن قول الله: {
-  يَوْمَ تُبَدَّلُ الأرْضُ غيرَ الأرْضِ والسَّمَوَاتُ } قال: قالت: يا رسول الله، فأين
-  الناس يومئذٍ؟ قال: \" لَقَدْ سألْتِنـي عَنْ شَيْءٍ ما سألَنِـي عَنْهُ أحَدٌ مِنْ
-  أُمَّتِـي، ذَاكَ إذَا النَّاسُ علـى جَسْرِ جَهَنَّـمَ \". حدثنا بشر، قال: ثنا يزيد،
-  قال: ثنا سعيد، عن قتادة: { يَوْمَ تُبَدَّلُ الأرْضُ غيرَ الأرْضِ والسَّمَوَاتُ }
-  ذُكر لنا أن عائشة قالت: يا رسول الله: فأين الناس يومئذٍ؟ فقال: \" لَقَدْ سألْتِ
-  عَنْ شَيْءٍ ما سألَنِـي عَنْه أحَدٌ مِنْ أُمَّتِـي قَبْلَكِ \". قال: \" هُمْ يَوْمَئِذٍ
-  علـى جِسْرِ جَهَنَّـمَ \". حدثنا مـحمد بن عبد الأعلـى، قال: ثنا مـحمد بن ثور، عن
-  معمر، عن قتادة، أن عائشة سألت رسول الله صلى الله عليه وسلم، فذكر نـحوه، إلاَّ أنه
-  قال: \" عَلـى الصِّرَاطِ \". حدثنا ابن عبد الأعلـى، قال: ثنا ابن ثور، عن معمر، عن
-  يحيى بن أبـي كثـير، عن أسماء، عن ثوبـان، قال: سأل حبر من الـيهود رسول الله صلى الله
-  عليه وسلم، فقال: أين الناس يوم تبدّل الأرض غير الأرض؟ قال: \" هُمْ فِـي الظُّلْـمَةِ
-  دُون الـجَسْرِ \". حدثنـي مـحمد بن عون، قال: ثنا أبو الـمغيرة، قال: ثنا ابن أبـي
-  مريـم، قال: ثنا سعيد بن ثوبـان الكلاعي، عن أبـي أيوب الأنصاريّ، قال: أتـى النبـيّ
-  صلى الله عليه وسلم حبرٌ من الـيهود، وقال: أرأيت إذ يقول الله فـي كتابه: { يَوْمَ
-  تُبَدَّلُ الأرْضُ غيرَ الأرْضِ والسَّمَوَاتُ } فأين الـخـلق عند ذلك؟ قال: \" أضْيافُ
-  اللّهِ فَلَنْ يُعْجِزَهُمْ ما لَدَيْهِ \". وأولـى الأقوال فـي ذلك بـالصواب، قول
-  من قال: معناه: يوم تبدّل الأرض التـي نـحن علـيها الـيوم يوم القـيامة غيرَها، وكذلك
-  السموات الـيوم تبدّل غيرها، كما قال جلّ ثناؤه. وجائز أن تكون الـمبدلة أرضاً أخرى
-  من فضة، وجائز أن تكون ناراً وجائز أن تكون خبزاً، وجائز أن تكون غير ذلك، ولا خبر
-  فـي ذلك عندنا من الوجه الذي يجب التسلـيـم له أيّ ذلك يكون، فلا قول فـي ذلك يصحّ
-  إلاَّ ما دلّ علـيه ظاهر التنزيـل.وبنـحو ما قلنا فـي معنى قوله: { والسَّمَوَاتُ }
-  قال أهل التأويـل. ذكر من قال ذلك:حدثنا القاسم، قال: ثنا الـحسين، قال: ثنـي حجاج،
-  عن ابن جريج، عن مـجاهد: { يَوْمَ تُبَدَّلُ الأرْضُ غيرَ الأرْضِ } قال: أرضاً كأنها
-  الفضة { والسَّمَوَاتُ } كذلك أيضاً.وقوله: { وَبَرَزُوا لِلّهِ الوَاحِدِ القَهَّارِ
-  } يقول: وظهروا لله الـمنفرد بـالربوبـية، الذي يقهر كلّ شيء فـيغلبه ويصرفه لـما يشاء
-  كيف يشاء، فـيحيـي خـلقه إذا شاء، ويـميتهم إذا شاء، لا يغلبه شيء، ولا يقهره من قبورهم
-  أحياء لـموقـف القـيامة.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  إذا بُدّلت الأرض غير الأرض، أين الناس يومئذٍ؟ قال:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" عَلـى الصِّراط \". </font></font></b><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"><br/></font></font></b><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  الـحسن، قال: ثنا علـيّ بن الـجَعْد، قال: أخبرنـي القاسم، قال: سمعت الـحسن، قال:
+  قالت عائشة: يا رسول الله { يَوْمَ تُبَدَّلُ الأرْضُ غيرَ الأرْضِ } فأين الناس يومئذٍ؟
+  قال:</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">4 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(14, 48)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(14,48)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">يَوْمَ تُبَدَّلُ ٱلأَرْضُ غَيْرَ ٱلأَرْضِ وَٱلسَّمَٰوَٰتُ
+  وَبَرَزُواْ لِلَّهِ ٱلْوَاحِدِ الْقَهَّارِ</a> <b>}</b></font>, <br/>, <br/>, <div
+  align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\"/></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" إنَّ هذَا الشَّيْءَ ما سألَنِـي
+  عَنْهُ أحَدٌ \" </font></font></b><font class=\"TextResultArabic\"><font color=\"black\">قال:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" عَلـى الصِّرَاطِ يا عائِشَةُ
+  \". </font></font></b><b><font class=\"TextResultArabic\"><font color=\"Red\"><br/></font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا الـحسن، قال: ثنا عبد الرحمن
+  بن إبراهيـم، قال: ثنـي الولـيد، عن سعيد، عن قتادة، عن حسان بن بلال الـمزنـيّ، عن
+  عائشة: أنها سألت رسول الله صلى الله عليه وسلم، عن قول الله: { يَوْمَ تُبَدَّلُ الأرْضُ
+  غيرَ الأرْضِ والسَّمَوَاتُ } قال: قالت: يا رسول الله، فأين الناس يومئذٍ؟ قال:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" لَقَدْ سألْتِنـي عَنْ شَيْءٍ
+  ما سألَنِـي عَنْهُ أحَدٌ مِنْ أُمَّتِـي، ذَاكَ إذَا النَّاسُ علـى جَسْرِ جَهَنَّـمَ
+  \". </font></font></b><b><font class=\"TextResultArabic\"><font color=\"Red\"><br/></font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا بشر، قال: ثنا يزيد، قال:
+  ثنا سعيد، عن قتادة: { يَوْمَ تُبَدَّلُ الأرْضُ غيرَ الأرْضِ والسَّمَوَاتُ } ذُكر
+  لنا أن عائشة قالت: يا رسول الله: فأين الناس يومئذٍ؟ فقال:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" لَقَدْ سألْتِ عَنْ شَيْءٍ ما
+  سألَنِـي عَنْه أحَدٌ مِنْ أُمَّتِـي قَبْلَكِ \". </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">قال:</font></font><b><font class=\"TextResultArabic\"><font color=\"Red\">
+  \" هُمْ يَوْمَئِذٍ علـى جِسْرِ جَهَنَّـمَ \". </font></font></b><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"><br/></font></font></b><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  مـحمد بن عبد الأعلـى، قال: ثنا مـحمد بن ثور، عن معمر، عن قتادة، أن عائشة سألت رسول
+  الله صلى الله عليه وسلم، فذكر نـحوه، إلاَّ أنه قال:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" عَلـى الصِّرَاطِ \". </font></font></b><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"><br/></font></font></b><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن عبد الأعلـى، قال: ثنا ابن ثور، عن معمر، عن يحيى بن أبـي كثـير، عن أسماء، عن
+  ثوبـان، قال: سأل حبر من الـيهود رسول الله صلى الله عليه وسلم، فقال: أين الناس يوم
+  تبدّل الأرض غير الأرض؟ قال:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" هُمْ فِـي الظُّلْـمَةِ دُون الـجَسْرِ \". </font></font></b><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"><br/></font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي مـحمد بن عون، قال: ثنا أبو الـمغيرة، قال: ثنا ابن أبـي مريـم،
+  قال: ثنا سعيد بن ثوبـان الكلاعي، عن أبـي أيوب الأنصاريّ، قال: أتـى النبـيّ صلى الله
+  عليه وسلم حبرٌ من الـيهود، وقال: أرأيت إذ يقول الله فـي كتابه: { يَوْمَ تُبَدَّلُ
+  الأرْضُ غيرَ الأرْضِ والسَّمَوَاتُ } فأين الـخـلق عند ذلك؟ قال:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" أضْيافُ اللّهِ فَلَنْ يُعْجِزَهُمْ
+  ما لَدَيْهِ \". </font></font></b><b><font class=\"TextResultArabic\"><font color=\"Red\"><br/></font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\">وأولـى الأقوال فـي ذلك بـالصواب،
+  قول من قال: معناه: يوم تبدّل الأرض التـي نـحن علـيها الـيوم يوم القـيامة غيرَها،
+  وكذلك السموات الـيوم تبدّل غيرها، كما قال جلّ ثناؤه. وجائز أن تكون الـمبدلة أرضاً
+  أخرى من فضة، وجائز أن تكون ناراً وجائز أن تكون خبزاً، وجائز أن تكون غير ذلك، ولا
+  خبر فـي ذلك عندنا من الوجه الذي يجب التسلـيـم له أيّ ذلك يكون، فلا قول فـي ذلك يصحّ
+  إلاَّ ما دلّ علـيه ظاهر التنزيـل.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وبنـحو
+  ما قلنا فـي معنى قوله: { والسَّمَوَاتُ } قال أهل التأويـل. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا القاسم، قال: ثنا الـحسين، قال: ثنـي حجاج، عن ابن جريج، عن
+  مـجاهد: { يَوْمَ تُبَدَّلُ الأرْضُ غيرَ الأرْضِ } قال: أرضاً كأنها الفضة { والسَّمَوَاتُ
+  } كذلك أيضاً.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقوله: { وَبَرَزُوا لِلّهِ الوَاحِدِ
+  القَهَّارِ } يقول: وظهروا لله الـمنفرد بـالربوبـية، الذي يقهر كلّ شيء فـيغلبه ويصرفه
+  لـما يشاء كيف يشاء، فـيحيـي خـلقه إذا شاء، ويـميتهم إذا شاء، لا يغلبه شيء، ولا يقهره
+  من قبورهم أحياء لـموقـف القـيامة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">5 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a id=\"NextClass\"/></td></tr></table></center></div></section>"
 

@@ -1,4 +1,4 @@
-location:
+position:
   sura: '002'
   aaya: '124'
   madhab: '01'
@@ -10,130 +10,306 @@ meta:
 aaya: ۞ وَإِذِ ابْتَلَىٰ إِبْرَاهِيمَ رَبُّهُ بِكَلِمَاتٍ فَأَتَمَّهُنَّ ۖ قَالَ إِنِّي
   جَاعِلُكَ لِلنَّاسِ إِمَامًا ۖ قَالَ وَمِنْ ذُرِّيَّتِي ۖ قَالَ لَا يَنَالُ عَهْدِي
   الظَّالِمِينَ
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَإِذِ ٱبْتَلَىٰ
-  إِبْرَاهِيمَ رَبُّهُ بِكَلِمَاتٍ فَأَتَمَّهُنَّ قَالَ إِنِّي جَاعِلُكَ لِلنَّاسِ
-  إِمَاماً قَالَ وَمِن ذُرِّيَّتِي قَالَ لاَ يَنَالُ عَهْدِي ٱلظَّالِمِينَ }يعنـي
-  جل ثناؤه بقوله: { وَإِذِ ابْتَلَـى } وإذا اختبر، يقال منه: ابتلـيت فلاناً ابتلـيه
-  ابتلاءً. ومنه قول الله عزّ وجل { وابْتَلُوا الـيَتامَى } يعنـي به: اختبروهم. وكان
-  اختبـار الله تعالـى ذكره إبراهيـم اختبـارا بفرائض فرضها علـيه، وأمْرٍ أمَرَه به،
-  وذلك هو الكلـمات التـي أوحاهنّ إلـيه وكلفه العمل بهنّ امتـحاناً منه له واختبـاراً.ثم
-  اختلف أهل التأويـل فـي صفة الكلـمات التـي ابتلـى اللَّهُ بها إبراهيـمَ نبـيَّه وخـلـيـلَهُ
-  صلوات الله علـيه، فقال بعضهم: هي شرائع الإسلام، وهي ثلاثون سهماً. ذكر من قال ذلك:حدثنا
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(2, 124)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(2,124)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَإِذِ
+  ٱبْتَلَىٰ إِبْرَاهِيمَ رَبُّهُ بِكَلِمَاتٍ فَأَتَمَّهُنَّ قَالَ إِنِّي جَاعِلُكَ
+  لِلنَّاسِ إِمَاماً قَالَ وَمِن ذُرِّيَّتِي قَالَ لاَ يَنَالُ عَهْدِي ٱلظَّالِمِينَ</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">يعنـي جل ثناؤه بقوله: { وَإِذِ ابْتَلَـى } وإذا اختبر، يقال منه:
+  ابتلـيت فلاناً ابتلـيه ابتلاءً. ومنه قول الله عزّ وجل { وابْتَلُوا الـيَتامَى }
+  يعنـي به: اختبروهم. وكان اختبـار الله تعالـى ذكره إبراهيـم اختبـارا بفرائض فرضها
+  علـيه، وأمْرٍ أمَرَه به، وذلك هو الكلـمات التـي أوحاهنّ إلـيه وكلفه العمل بهنّ امتـحاناً
+  منه له واختبـاراً.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">ثم اختلف أهل التأويـل فـي صفة الكلـمات
+  التـي ابتلـى اللَّهُ بها إبراهيـمَ نبـيَّه وخـلـيـلَهُ صلوات الله علـيه، فقال بعضهم:
+  هي شرائع الإسلام، وهي ثلاثون سهماً. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
   مـحمد بن الـمثنى، قال: ثنا عبد الأعلـى، قال: ثنا داود، عن عكرمة، عن ابن عبـاس فـي
   قوله: { وَإذِ ابْتَلَـى إبْرَاهِيـمَ رَبُّهُ بِكلِـماتٍ } قال: قال ابن عبـاس: لـم
   يُبْتَلَ أحد بهذا الدين فأقامه إلا إبراهيـم، ابتلاه الله بكلـمات فأتـمهنّ قال: فكتب
-  الله له البراءة، فقال:{ وَإِبْرَاهِيمَ ٱلَّذِي وَفَّىٰ }[النجم: 37] قال: عشر منها
-  فـي الأحزاب، وعشر منها فـي براءة، وعشر منها فـي الـمؤمنـين وسأل سائل وقال: إن هذا
-  الإسلام ثلاثون سهماً.حدثنا إسحاق بن شاهين، قال: ثنا خالد الطحان، عن داود، عن عكرمة،
-  عن ابن عبـاس، قال: ما ابْتُلـي أحد بهذا الدين فقام به كله غير إبراهيـم ابتلـي بـالإسلام
-  فأتـمه، فكتب الله له البراءة، فقال:{ وَإِبْرَاهِيمَ ٱلَّذِي وَفَّىٰ }[النجم: 37]
-  فذكر عشراً فـي براءة، فقال:{ ٱلتَّائِبُونَ ٱلْعَابِدُونَ ٱلْحَامِدُونَ }[التوبة:
-  112] إلـى آخرِ الآيات، وعشراً فـي الأحزاب:{ إِنَّ ٱلْمُسْلِمِينَ وَٱلْمُسْلِمَاتِ }[الأحزاب:
-  35]، وعشراً فـي سورة الـمؤمنـين، إلـى قوله:{ وَٱلَّذِينَ هُمْ عَلَىٰ صَلَوَاتِهِمْ
-  يُحَافِظُونَ }[المؤمنون: 9]، وعشراً فـي سأل سائل:{ وَٱلَّذِينَ هُمْ عَلَىٰ صَلَوَاتِهِمْ
-  يُحَافِظُونَ }[المؤمنون: 9]. حدثنا عبـيد الله بن أحمد بن شبرمة، قال: ثنا علـيّ بن
-  الـحسن، قال: ثنا خارجة بن مصعب، عن داود بن أبـي هند، عن عكرمة، عن ابن عبـاس قال:
-  الإسلام ثلاثون سهماً، وما ابتُلـي بهذا الدين أحدٌ فأقامه إلا إبراهيـم، قال الله{ وَإِبْرَاهِيمَ
-  ٱلَّذِي وَفَّىٰ }[النجم: 37] فكتب الله له براءة من النار.وقال آخرون: هي خصال عشرٌ
-  من سنن الإسلام. ذكر من قال ذلك:حدثنا الـحسن بن يحيى، قال: أخبرنا عبد الرزاق، قال:
-  أخبرنا معمر عن ابن طاوس، عن أبـيه، عن ابن عبـاس: { وَإِذِ ابْتَلَـى إبْرَاهِيـمَ
-  رَبُّهُ بِكَلِـمَاتٍ } قال: ابتلاه الله بـالطهارة: خمس فـي الرأس، وخمس فـي الـجسد.
-  فـي الرأس: قصّ الشارب، والـمضمضة، والاستنشاق، والسواك، وفرق الرأس. وفـي الـجسد:
-  تقلـيـم الأظفـار، وحلق العانة، والـختان، ونتف الإبط، وغسل أثر الغائط والبول بـالـماء.حدثنـي
+  الله له البراءة، فقال:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">وَإِبْرَاهِيمَ ٱلَّذِي وَفَّىٰ</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">[النجم: 37] قال: عشر منها فـي الأحزاب،
+  وعشر منها فـي براءة، وعشر منها فـي الـمؤمنـين وسأل سائل وقال: إن هذا الإسلام ثلاثون
+  سهماً.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا إسحاق بن شاهين، قال: ثنا
+  خالد الطحان، عن داود، عن عكرمة، عن ابن عبـاس، قال: ما ابْتُلـي أحد بهذا الدين فقام
+  به كله غير إبراهيـم ابتلـي بـالإسلام فأتـمه، فكتب الله له البراءة، فقال:</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">وَإِبْرَاهِيمَ
+  ٱلَّذِي وَفَّىٰ</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">[النجم: 37] فذكر عشراً فـي براءة، فقال:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">ٱلتَّائِبُونَ ٱلْعَابِدُونَ ٱلْحَامِدُونَ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[التوبة:
+  112] إلـى آخرِ الآيات، وعشراً فـي الأحزاب:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">إِنَّ ٱلْمُسْلِمِينَ وَٱلْمُسْلِمَاتِ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[الأحزاب:
+  35]، وعشراً فـي سورة الـمؤمنـين، إلـى قوله:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">وَٱلَّذِينَ هُمْ عَلَىٰ صَلَوَاتِهِمْ
+  يُحَافِظُونَ</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">[المؤمنون: 9]، وعشراً فـي سأل سائل:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">وَٱلَّذِينَ هُمْ عَلَىٰ صَلَوَاتِهِمْ
+  يُحَافِظُونَ</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">[المؤمنون: 9]. حدثنا عبـيد الله بن أحمد بن شبرمة، قال: ثنا علـيّ
+  بن الـحسن، قال: ثنا خارجة بن مصعب، عن داود بن أبـي هند، عن عكرمة، عن ابن عبـاس قال:
+  الإسلام ثلاثون سهماً، وما ابتُلـي بهذا الدين أحدٌ فأقامه إلا إبراهيـم، قال الله</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">وَإِبْرَاهِيمَ
+  ٱلَّذِي وَفَّىٰ</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">[النجم: 37] فكتب الله له براءة من النار.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  آخرون: هي خصال عشرٌ من سنن الإسلام. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  الـحسن بن يحيى، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر عن ابن طاوس، عن أبـيه،
+  عن ابن عبـاس: { وَإِذِ ابْتَلَـى إبْرَاهِيـمَ رَبُّهُ بِكَلِـمَاتٍ } قال: ابتلاه
+  الله بـالطهارة: خمس فـي الرأس، وخمس فـي الـجسد. فـي الرأس: قصّ الشارب، والـمضمضة،
+  والاستنشاق، والسواك، وفرق الرأس. وفـي الـجسد: تقلـيـم الأظفـار، وحلق العانة، والـختان،
+  ونتف الإبط، وغسل أثر الغائط والبول بـالـماء.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
   الـمثنى، قال: ثنا إسحاق، قال: ثنا عبد الرزاق، عن معمر، عن الـحكم بن أبـان، عن القاسم
-  بن أبـي بزة، عن ابن عبـاس بـمثله، ولـم يذكر أثر البول.حدثنا مـحمد بن بشار، قال:
-  ثنا سلـيـمان، قال: ثنا أبو هلال. قال: ثنا قتادة فـي قوله: { وَإِذِ ابْتَلَـى إبْرَاهِيـمَ
-  رَبُّهُ بِكَلِـمَاتٍ } قال: ابتلاه بـالـختان، وحلق العانة، وغسل القبل والدبر، والسواك،
-  وقصّ الشارب، وتقلـيـم الأظافر، ونتف الإبط.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَإِذِ ٱبْتَلَىٰ إِبْرَاهِيمَ رَبُّهُ
-  بِكَلِمَاتٍ فَأَتَمَّهُنَّ قَالَ إِنِّي جَاعِلُكَ لِلنَّاسِ إِمَاماً قَالَ وَمِن
-  ذُرِّيَّتِي قَالَ لاَ يَنَالُ عَهْدِي ٱلظَّالِمِينَ }قال أبو هلال: ونسيت خصلة.حدثت
-  عن عمار، قال: ثنا ابن أبـي جعفر، عن أبـيه، عن مطر، عن أبـي الـخـلد قال: ابتُلـي
-  إبراهيـم بعشرة أشياء هنّ فـي الإنسان: سنة الاستنشاق، وقصّ الشارب، والسواك، ونتف
-  الإبط، وقَلْـم الأظفـار، وغسل البراجم، والـختان، وحلق العانة، وغسل الدُّبُرُ والفَرْج.وقال
+  بن أبـي بزة، عن ابن عبـاس بـمثله، ولـم يذكر أثر البول.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  مـحمد بن بشار، قال: ثنا سلـيـمان، قال: ثنا أبو هلال. قال: ثنا قتادة فـي قوله: {
+  وَإِذِ ابْتَلَـى إبْرَاهِيـمَ رَبُّهُ بِكَلِـمَاتٍ } قال: ابتلاه بـالـختان، وحلق
+  العانة، وغسل القبل والدبر، والسواك، وقصّ الشارب، وتقلـيـم الأظافر، ونتف الإبط.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,8,1)\"><u>8</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2, 124)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,124)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَإِذِ ٱبْتَلَىٰ إِبْرَاهِيمَ رَبُّهُ بِكَلِمَاتٍ
+  فَأَتَمَّهُنَّ قَالَ إِنِّي جَاعِلُكَ لِلنَّاسِ إِمَاماً قَالَ وَمِن ذُرِّيَّتِي
+  قَالَ لاَ يَنَالُ عَهْدِي ٱلظَّالِمِينَ</a> <b>}</b></font>, <br/>, <br/>, <div
+  align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">قال
+  أبو هلال: ونسيت خصلة.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثت عن عمار، قال: ثنا ابن أبـي
+  جعفر، عن أبـيه، عن مطر، عن أبـي الـخـلد قال: ابتُلـي إبراهيـم بعشرة أشياء هنّ فـي
+  الإنسان: سنة الاستنشاق، وقصّ الشارب، والسواك، ونتف الإبط، وقَلْـم الأظفـار، وغسل
+  البراجم، والـختان، وحلق العانة، وغسل الدُّبُرُ والفَرْج.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
   بعضهم: بل الكلـمات التـي ابتلـي بهن عشر خلال بعضهنّ فـي تطهير الـجسد، وبعضهنّ فـي
-  مناسك الـحجّ. ذكر من قال ذلك:حدثنـي الـمثنى، قال: ثنا إسحاق، قال: ثنا مـحمد بن حرب،
-  قال: ثنا ابن لهيعة، عن ابن هبـيرة، عن حنش عن ابن عبـاس فـي قوله: وَإذِ ابْتَلـى
-  إبْرَاهِيـمَ رَبُّهُ بِكَلِـماتٍ فأتَـمّهُنَّ قال: ستة فـي الإنسان، وأربعة فـي الـمشاعر
-  فـالتـي فـي الإنسان: حلق العانة، والـختان، ونتف الإبط، وتقلـيـم الأظفـار، وقصّ الشارب،
-  والغسل يوم الـجمعة. وأربعة فـي الـمشاعر: الطواف، والسعي بـين الصفـا والـمروة، ورمي
-  الـجمار، والإفـاضة.وقال آخرون: بل ذلك: إنـي جاعلك للناس إماماً فـي مناسك الـحجّ.
-  ذكر من قال ذلك:حدثنا أبو كريب، قال: ثنا ابن إدريس، قال: سمعت إسماعيـل بن أبـي خالد،
-  عتن أبـي صالـح فـي قوله: { وَإذِ ابْتَلَـى إبْرَاهِيـمَ رَبُّهُ بِكَلِـماتٍ فأتَـمّهُنَّ
-  } فمنهن: { إنِّـي جاعِلُكَ لِلنّاسِ إماماً } وآيات النسك.حدثنا أبو السائب، قال:
-  ثنا ابن إدريس، قال: سمعت إسماعيـل بن أبـي خالد، عن أبـي صالـح مولـى أم هانىء فـي
-  قوله: { وَإِذِ ابْتَلَـى إبْرَاهِيـمَ رَبُّهُ بِكَلِـمَاتٍ } قال منهن: { إنـي جاعِلُكَ
-  للنّاسِ إماماً } ومنهن آيات النسك:{ وَإِذْ يَرْفَعُ إِبْرَٰهِيمُ ٱلْقَوَاعِدَ مِنَ
-  ٱلْبَيْتِ }[البقرة: 127]. حدثنا مـحمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى،
-  عن ابن أبـي نـجيح، عن مـجاهد فـي قوله: { وَإذِ ابْتَلَـى إبْرَاهِيـمَ رَبّهُ بِكَلِـمَاتٍ
-  فَأتَـمّهُنَّ } قال الله لإبراهيـم: إنـي مبتلـيك بأمر، فما هو؟ قال: تـجعلنـي للناس
-  إماما. قال: نعم. قال: ومن ذريتـي؟ قال: لا ينال عهدي الظالـمين. قال: تـجعل البـيت
-  مثابة للناس قال: نعم. وأمْنا قال: نعم. وتـجعلنا مسلـمين لك، ومن ذرّيتنا أمة مسلـمة
-  لك قال: نعم. وترينا مناسكنا وتتوب علـينا قال: نعم. قال: وتـجعل هذا البلد آمنا قال:
-  نعم. قال: وترزق أهله من الثمرات من آمن منهم قال: نعم.حدثنـي الـمثنى، قال: ثنا أبو
-  حذيفة، قال: ثنا شبل، عن ابن أبـي نـجيح، عن مـجاهد مثله.حدثنـي الـمثنى، قال: ثنا
-  أبو حذيفة، قال: ثنا شبل، عن ابن أبـي نـجيح أخبره به عن عكرمة فعرضته علـى مـجاهد
-  فلـم ينكره.حدثنا القاسم، قال: ثنا الـحسين، قال: حدثنـي حجاج، عن ابن جريج، عن مـجاهد
-  بنـحوه. قال ابن جريج: فـاجتـمع علـى هذا القول مـجاهد وعكرمة جميعاً.حدثنا سفـيان،
-  قال: حدثنـي أبـي، عن سفـيان، عن ابن أبـي نـجيح، عن مـجاهد: { وَإذِ ابْتَلَـى إبْرَاهِيـمَ
-  رَبّهُ بِكَلِـمَاتٍ فأتَـمّهُنَّ } قال: ابتلـي بـالآيات التـي بعدها: { إنّـي جاعِلُكَ
-  للنّاسِ إماماً قال وَمِنْ ذُرّيَّتِـي قالَ لا يَنالُ عَهْدِي الظَالِـمِينَ }.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَإِذِ ٱبْتَلَىٰ إِبْرَاهِيمَ رَبُّهُ
-  بِكَلِمَاتٍ فَأَتَمَّهُنَّ قَالَ إِنِّي جَاعِلُكَ لِلنَّاسِ إِمَاماً قَالَ وَمِن
-  ذُرِّيَّتِي قَالَ لاَ يَنَالُ عَهْدِي ٱلظَّالِمِينَ }حدثت عن عمار، قال: ثنا ابن
-  أبـي جعفر، عن أبـيه، عن الربـيع فـي قوله: { وَإذْ ابْتَلَـى إبْرَاهِيـمَ رَبّهُ
-  بِكَلِـمَاتَ فأتَـمّهُن } فـالكلـمات: { إنّـي جاعِلُكَ للنّاسِ إماماً } وقوله:{ وَإِذْ
-  جَعَلْنَا ٱلْبَيْتَ مَثَابَةً لِّلنَّاسِ }[البقرة: 125] وقوله:{ وَٱتَّخِذُواْ مِن
-  مَّقَامِ إِبْرَاهِيمَ مُصَلًّى }[البقرة: 125] وقوله:{ وَعَهِدْنَآ إِلَىٰ إِبْرَاهِيمَ
-  وَإِسْمَاعِيلَ }[البقرة: 125] الآية، وقوله: وَإذْ يَرْفَعُ إبْرَاهِيـمَ القَوَاعِدَ
-  مِنَ البَـيْتِ الآية قال: فذلك كلـمة من الكلـمات التـي ابتلـي بهنّ إبراهيـم.حدثنـي
+  مناسك الـحجّ. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  الـمثنى، قال: ثنا إسحاق، قال: ثنا مـحمد بن حرب، قال: ثنا ابن لهيعة، عن ابن هبـيرة،
+  عن حنش عن ابن عبـاس فـي قوله: وَإذِ ابْتَلـى إبْرَاهِيـمَ رَبُّهُ بِكَلِـماتٍ فأتَـمّهُنَّ
+  قال: ستة فـي الإنسان، وأربعة فـي الـمشاعر فـالتـي فـي الإنسان: حلق العانة، والـختان،
+  ونتف الإبط، وتقلـيـم الأظفـار، وقصّ الشارب، والغسل يوم الـجمعة. وأربعة فـي الـمشاعر:
+  الطواف، والسعي بـين الصفـا والـمروة، ورمي الـجمار، والإفـاضة.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال آخرون: بل ذلك: إنـي جاعلك للناس إماماً فـي مناسك الـحجّ. ذكر
+  من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا أبو كريب، قال: ثنا ابن إدريس،
+  قال: سمعت إسماعيـل بن أبـي خالد، عتن أبـي صالـح فـي قوله: { وَإذِ ابْتَلَـى إبْرَاهِيـمَ
+  رَبُّهُ بِكَلِـماتٍ فأتَـمّهُنَّ } فمنهن: { إنِّـي جاعِلُكَ لِلنّاسِ إماماً } وآيات
+  النسك.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا أبو السائب، قال: ثنا ابن
+  إدريس، قال: سمعت إسماعيـل بن أبـي خالد، عن أبـي صالـح مولـى أم هانىء فـي قوله: {
+  وَإِذِ ابْتَلَـى إبْرَاهِيـمَ رَبُّهُ بِكَلِـمَاتٍ } قال منهن: { إنـي جاعِلُكَ للنّاسِ
+  إماماً } ومنهن آيات النسك:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">وَإِذْ يَرْفَعُ إِبْرَٰهِيمُ ٱلْقَوَاعِدَ مِنَ ٱلْبَيْتِ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[البقرة:
+  127]. حدثنا مـحمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، عن ابن أبـي نـجيح،
+  عن مـجاهد فـي قوله: { وَإذِ ابْتَلَـى إبْرَاهِيـمَ رَبّهُ بِكَلِـمَاتٍ فَأتَـمّهُنَّ
+  } قال الله لإبراهيـم: إنـي مبتلـيك بأمر، فما هو؟ قال: تـجعلنـي للناس إماما. قال:
+  نعم. قال: ومن ذريتـي؟ قال: لا ينال عهدي الظالـمين. قال: تـجعل البـيت مثابة للناس
+  قال: نعم. وأمْنا قال: نعم. وتـجعلنا مسلـمين لك، ومن ذرّيتنا أمة مسلـمة لك قال: نعم.
+  وترينا مناسكنا وتتوب علـينا قال: نعم. قال: وتـجعل هذا البلد آمنا قال: نعم. قال:
+  وترزق أهله من الثمرات من آمن منهم قال: نعم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  الـمثنى، قال: ثنا أبو حذيفة، قال: ثنا شبل، عن ابن أبـي نـجيح، عن مـجاهد مثله.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي الـمثنى، قال: ثنا أبو حذيفة، قال: ثنا شبل، عن ابن أبـي نـجيح
+  أخبره به عن عكرمة فعرضته علـى مـجاهد فلـم ينكره.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  القاسم، قال: ثنا الـحسين، قال: حدثنـي حجاج، عن ابن جريج، عن مـجاهد بنـحوه. قال ابن
+  جريج: فـاجتـمع علـى هذا القول مـجاهد وعكرمة جميعاً.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  سفـيان، قال: حدثنـي أبـي، عن سفـيان، عن ابن أبـي نـجيح، عن مـجاهد: { وَإذِ ابْتَلَـى
+  إبْرَاهِيـمَ رَبّهُ بِكَلِـمَاتٍ فأتَـمّهُنَّ } قال: ابتلـي بـالآيات التـي بعدها:
+  { إنّـي جاعِلُكَ للنّاسِ إماماً قال وَمِنْ ذُرّيَّتِـي قالَ لا يَنالُ عَهْدِي الظَالِـمِينَ
+  }.</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,8,1)\"><u>8</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2, 124)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,124)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَإِذِ ٱبْتَلَىٰ إِبْرَاهِيمَ رَبُّهُ بِكَلِمَاتٍ
+  فَأَتَمَّهُنَّ قَالَ إِنِّي جَاعِلُكَ لِلنَّاسِ إِمَاماً قَالَ وَمِن ذُرِّيَّتِي
+  قَالَ لاَ يَنَالُ عَهْدِي ٱلظَّالِمِينَ</a> <b>}</b></font>, <br/>, <br/>, <div
+  align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">حدثت
+  عن عمار، قال: ثنا ابن أبـي جعفر، عن أبـيه، عن الربـيع فـي قوله: { وَإذْ ابْتَلَـى
+  إبْرَاهِيـمَ رَبّهُ بِكَلِـمَاتَ فأتَـمّهُن } فـالكلـمات: { إنّـي جاعِلُكَ للنّاسِ
+  إماماً } وقوله:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">وَإِذْ جَعَلْنَا ٱلْبَيْتَ مَثَابَةً لِّلنَّاسِ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[البقرة:
+  125] وقوله:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">وَٱتَّخِذُواْ مِن مَّقَامِ إِبْرَاهِيمَ مُصَلًّى</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[البقرة:
+  125] وقوله:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">وَعَهِدْنَآ إِلَىٰ إِبْرَاهِيمَ وَإِسْمَاعِيلَ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[البقرة:
+  125] الآية، وقوله: وَإذْ يَرْفَعُ إبْرَاهِيـمَ القَوَاعِدَ مِنَ البَـيْتِ الآية
+  قال: فذلك كلـمة من الكلـمات التـي ابتلـي بهنّ إبراهيـم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
   مـحمد بن سعيد، قال: حدثنـي أبـي، قال: حدثنـي عمي، قال: حدثنـي أبـي، عن أبـيه، عن
   ابن عبـاس قوله: { وَإذِ ابْتَلَـى إبْرَاهِيـمَ رَبّهُ بِكَلِـمَاتٍ فَأتَـمّهُنَّ
-  } فمنهنّ: { إنّـي جاعِلُكَ للنّاسِ إماماً } ومنهن:{ وَإِذْ يَرْفَعُ إِبْرَٰهِيمُ
-  ٱلْقَوَاعِدَ مِنَ ٱلْبَيْتِ }[البقرة: 127] ومنهن الآيات فـي شأن النسك، والـمقام
-  الذي جعل لإبراهيـم، والرزق الذي رزق ساكنوا البـيت ومـحمد صلى الله عليه وسلم فـي
-  ذرّيتهما علـيهما السلام.وقال آخرون: بل ذلك مناسك الـحجّ خاصة. ذكر من قال ذلك:حدثنا
-  ابن بشار، قال: ثنا سلـم بن قتـيبة، قال: ثنا عمرو بن نبهان، عن قتادة، عن ابن عبـاس
-  فـي قوله: { وَإذِ ابْتَلَـى إبْرَاهِيـمَ رَبّهُ بِكَلِـمَاتٍ } قال: مناسك الـحج.حدثنا
-  بشر بن معاذ، قال: ثنا يزيد بن زريع، قال: ثنا سعيد، عن قتادة، قال: كان ابن عبـاس
-  يقول فـي قوله: { وَإذِ ابْتَلَـى إبْرَاهِيـمَ رَبّهُ بِكَلِـمَاتٍ } قال: الـمناسك.حدثنا
+  } فمنهنّ: { إنّـي جاعِلُكَ للنّاسِ إماماً } ومنهن:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">وَإِذْ يَرْفَعُ إِبْرَٰهِيمُ ٱلْقَوَاعِدَ
+  مِنَ ٱلْبَيْتِ</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">[البقرة: 127] ومنهن الآيات فـي شأن النسك، والـمقام الذي جعل لإبراهيـم،
+  والرزق الذي رزق ساكنوا البـيت ومـحمد صلى الله عليه وسلم فـي ذرّيتهما علـيهما السلام.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال آخرون: بل ذلك مناسك الـحجّ خاصة. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن بشار، قال: ثنا سلـم بن قتـيبة، قال: ثنا عمرو بن نبهان،
+  عن قتادة، عن ابن عبـاس فـي قوله: { وَإذِ ابْتَلَـى إبْرَاهِيـمَ رَبّهُ بِكَلِـمَاتٍ
+  } قال: مناسك الـحج.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا بشر بن معاذ، قال: ثنا يزيد
+  بن زريع، قال: ثنا سعيد، عن قتادة، قال: كان ابن عبـاس يقول فـي قوله: { وَإذِ ابْتَلَـى
+  إبْرَاهِيـمَ رَبّهُ بِكَلِـمَاتٍ } قال: الـمناسك.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
   الـحسن بن يحيى، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر، عن قتادة، قال: قال ابن
-  عبـاس: ابتلاه بـالـمناسك.حدثت عن عمار بن الـحسن، قال: ثنا ابن أبـي جعفر، عن أبـيه،
-  قال: بلغنا عن ابن عبـاس أنه قال: إن الكلـمات التـي ابتلـي بها إبراهيـم: الـمناسك.حدثنا
-  أحمد بن إسحاق، قال: ثنا أبو أحمد الزبـيري، قال: ثنا شريك، عن أبـي إسحاق، عن التـميـمي،
-  عن ابن عبـاس قوله: { وَإذِ ابْتَلَـى إبْرَاهِيـمَ ربّهُ بِكَلِـمَاتٍ } قال: مناسك
-  الـحجّ.حدثنـي الـمثنى، قال: ثنا الـحمانـي، قال: ثنا شريك، عن أبـي إسحاق، عن التـميـمي،
-  عن ابن عبـاس فـي قوله: { وَإذِ ابْتَلَـى إبْرَاهِيـمَ رَبُّهُ بِكَلِـمَاتٍ } قال:
-  منهن مناسك الـحجّ.وقال آخرون: هي أمور منهن الـختان. ذكر من قال ذلك:حدثنـي مـحمد
-  بن بشار، قال: ثنا سلـم بن قتـيبة عن يونس بن أبـي إسحاق، عن الشعبـي: { وَإذِ ابْتَلَـى
-  إبْرَاهِيـمَ رَبّهُ بِكَلِـماتٍ } قال: منهن الـختان.حدثنا ابن حميد، قال: ثنا يحيى
-  بن واضح، قال: ثنا يونس بن أبـي إسحاق، قال: سمعت الشعبـي يقول: فذكر مثله.حدثنا أحمد
-  بن إسحاق، قال: ثنا أبو أحمد، قال: ثنا يونس بن أبـي إسحاق، قال: سمعت الشعبـي، وسأله
-  أبو إسحاق عن قول الله: { وَإذِ ابْتَلَـى إبْرَاهِيـمَ رَبّهُ بِكَلِـمَاتٍ } قال:
-  منهن الـختان يا أبـا إسحاق.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَإِذِ ٱبْتَلَىٰ إِبْرَاهِيمَ رَبُّهُ
-  بِكَلِمَاتٍ فَأَتَمَّهُنَّ قَالَ إِنِّي جَاعِلُكَ لِلنَّاسِ إِمَاماً قَالَ وَمِن
-  ذُرِّيَّتِي قَالَ لاَ يَنَالُ عَهْدِي ٱلظَّالِمِينَ }وقال آخرون: بل ذلك الـخلال
-  الستّ: الكوكب، والقمر، والشمس، والنار، والهجرة، والـختان، التـي ابتلـي بهنّ فصبر
-  علـيهنّ. ذكر من قال ذلك:حدثنـي يعقوب بن إبراهيـم، قال: ثنا ابن علـية، عن أبـي رجاء،
-  قال: قلت للـحسن: { وإذِ ابْتَلَـى إبْرَاهِيـمَ رَبّهُ بِكَلِـمَاتَ فأتَـمّهُنَّ
-  } قال: ابتلاه بـالكوكب فرضي عنه، وابتلاه بـالقمر فرضي عنه، وابتلاه بـالشمس فرضي
-  عنه، وابتلاه بـالنار فرضي عنه، وابتلاه بـالهجرة، وابتلاه بـالـختان.حدثنا بشر بن
-  معاذ، قال: ثنا يزيد بن زريع، قال: ثنا سعيد، عن قتادة، قال: كان الـحسن يقول: إي والله
-  ابتلاه بأمر فصبر علـيه، ابتلاه بـالكوكب، والشمس، والقمر، فأحسن فـي ذلك، وعرف أن
-  ربه دائم لا يزول، فوجه وجهه للذي فطر السموات والأرض حنـيفـاً وما كان من الـمشركين،
-  ثم ابتلاه بـالهجرة فخرج من بلاده وقومه حتـى لـحق بـالشام مهاجراً إلـى الله، ثم ابتلاه
-  بـالنار قبل الهجرة فصبر علـى ذلك، فـابتلاه الله بذبح ابنه وبـالـختان فصبر علـى ذلك.حدثنا
-  الـحسن بن يحيى، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر، عمن سمع الـحسن يقول فـي
-  قوله: { وَإذِ ابْتَلَـى إبْرَاهِيـمَ رَبّهُ بِكَلِـمَاتٍ } قال: ابتلاه الله بذبح
-  ولده، وبـالنار، وبـالكوكب، والشمس، والقمر.حدثنا ابن بشار، قال: ثنا سلـم بن قتـيبة،
-  قال: ثنا أبو هلال، عن الـحسن: { وَإذِ ابْتَلَـى إبْرَاهِيـمَ رَبّهُ بِكَلِـمَاتٍ
-  } قال: ابتلاه بـالكوكب، وبـالشمس، والقمر، فوجده صابراً.وقال آخرون بـما:حدثنا به
-  موسى بن هارون، قال: ثنا عمرو بن حماد، قال: ثنا أسبـاط، عن السدي: الكلـمات التـي
-  ابتلـى بهنّ إبراهيـم ربه:{ رَبَّنَا تَقَبَّلْ مِنَّآ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ
-  * رَبَّنَا وَٱجْعَلْنَا مُسْلِمَيْنِ لَكَ وَمِن ذُرِّيَّتِنَآ أُمَّةً مُّسْلِمَةً
-  لَّكَ وَأَرِنَا مَنَاسِكَنَا وَتُبْ عَلَيْنَآ إِنَّكَ أَنتَ ٱلتَّوَّابُ ٱلرَّحِيمُ
-  * رَبَّنَا وَٱبْعَثْ فِيهِمْ رَسُولاً مِّنْهُمْ }[البقرة: 127 -129] والصواب من القول
+  عبـاس: ابتلاه بـالـمناسك.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثت عن عمار بن الـحسن، قال: ثنا
+  ابن أبـي جعفر، عن أبـيه، قال: بلغنا عن ابن عبـاس أنه قال: إن الكلـمات التـي ابتلـي
+  بها إبراهيـم: الـمناسك.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا أحمد بن إسحاق، قال: ثنا أبو
+  أحمد الزبـيري، قال: ثنا شريك، عن أبـي إسحاق، عن التـميـمي، عن ابن عبـاس قوله: {
+  وَإذِ ابْتَلَـى إبْرَاهِيـمَ ربّهُ بِكَلِـمَاتٍ } قال: مناسك الـحجّ.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي الـمثنى، قال: ثنا الـحمانـي، قال: ثنا شريك، عن أبـي إسحاق،
+  عن التـميـمي، عن ابن عبـاس فـي قوله: { وَإذِ ابْتَلَـى إبْرَاهِيـمَ رَبُّهُ بِكَلِـمَاتٍ
+  } قال: منهن مناسك الـحجّ.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال آخرون: هي أمور منهن الـختان.
+  ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي مـحمد بن بشار، قال: ثنا
+  سلـم بن قتـيبة عن يونس بن أبـي إسحاق، عن الشعبـي: { وَإذِ ابْتَلَـى إبْرَاهِيـمَ
+  رَبّهُ بِكَلِـماتٍ } قال: منهن الـختان.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن حميد، قال: ثنا يحيى بن واضح، قال: ثنا يونس بن أبـي إسحاق، قال: سمعت الشعبـي
+  يقول: فذكر مثله.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا أحمد بن إسحاق، قال: ثنا أبو
+  أحمد، قال: ثنا يونس بن أبـي إسحاق، قال: سمعت الشعبـي، وسأله أبو إسحاق عن قول الله:
+  { وَإذِ ابْتَلَـى إبْرَاهِيـمَ رَبّهُ بِكَلِـمَاتٍ } قال: منهن الـختان يا أبـا إسحاق.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">3 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,8,1)\"><u>8</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2, 124)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,124)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَإِذِ ٱبْتَلَىٰ إِبْرَاهِيمَ رَبُّهُ بِكَلِمَاتٍ
+  فَأَتَمَّهُنَّ قَالَ إِنِّي جَاعِلُكَ لِلنَّاسِ إِمَاماً قَالَ وَمِن ذُرِّيَّتِي
+  قَالَ لاَ يَنَالُ عَهْدِي ٱلظَّالِمِينَ</a> <b>}</b></font>, <br/>, <br/>, <div
+  align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  آخرون: بل ذلك الـخلال الستّ: الكوكب، والقمر، والشمس، والنار، والهجرة، والـختان،
+  التـي ابتلـي بهنّ فصبر علـيهنّ. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  يعقوب بن إبراهيـم، قال: ثنا ابن علـية، عن أبـي رجاء، قال: قلت للـحسن: { وإذِ ابْتَلَـى
+  إبْرَاهِيـمَ رَبّهُ بِكَلِـمَاتَ فأتَـمّهُنَّ } قال: ابتلاه بـالكوكب فرضي عنه، وابتلاه
+  بـالقمر فرضي عنه، وابتلاه بـالشمس فرضي عنه، وابتلاه بـالنار فرضي عنه، وابتلاه بـالهجرة،
+  وابتلاه بـالـختان.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا بشر بن معاذ، قال: ثنا يزيد
+  بن زريع، قال: ثنا سعيد، عن قتادة، قال: كان الـحسن يقول: إي والله ابتلاه بأمر فصبر
+  علـيه، ابتلاه بـالكوكب، والشمس، والقمر، فأحسن فـي ذلك، وعرف أن ربه دائم لا يزول،
+  فوجه وجهه للذي فطر السموات والأرض حنـيفـاً وما كان من الـمشركين، ثم ابتلاه بـالهجرة
+  فخرج من بلاده وقومه حتـى لـحق بـالشام مهاجراً إلـى الله، ثم ابتلاه بـالنار قبل الهجرة
+  فصبر علـى ذلك، فـابتلاه الله بذبح ابنه وبـالـختان فصبر علـى ذلك.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا الـحسن بن يحيى، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر،
+  عمن سمع الـحسن يقول فـي قوله: { وَإذِ ابْتَلَـى إبْرَاهِيـمَ رَبّهُ بِكَلِـمَاتٍ
+  } قال: ابتلاه الله بذبح ولده، وبـالنار، وبـالكوكب، والشمس، والقمر.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن بشار، قال: ثنا سلـم بن قتـيبة، قال: ثنا أبو هلال، عن الـحسن:
+  { وَإذِ ابْتَلَـى إبْرَاهِيـمَ رَبّهُ بِكَلِـمَاتٍ } قال: ابتلاه بـالكوكب، وبـالشمس،
+  والقمر، فوجده صابراً.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال آخرون بـما:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا به موسى بن هارون، قال: ثنا عمرو بن حماد، قال: ثنا أسبـاط،
+  عن السدي: الكلـمات التـي ابتلـى بهنّ إبراهيـم ربه:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">رَبَّنَا تَقَبَّلْ مِنَّآ إِنَّكَ
+  أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ * رَبَّنَا وَٱجْعَلْنَا مُسْلِمَيْنِ لَكَ وَمِن ذُرِّيَّتِنَآ
+  أُمَّةً مُّسْلِمَةً لَّكَ وَأَرِنَا مَنَاسِكَنَا وَتُبْ عَلَيْنَآ إِنَّكَ أَنتَ
+  ٱلتَّوَّابُ ٱلرَّحِيمُ * رَبَّنَا وَٱبْعَثْ فِيهِمْ رَسُولاً مِّنْهُمْ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">[البقرة: 127 -129] والصواب من القول
   فـي ذلك عندنا أن يقال: إن الله عز وجل أخبر عبـاده أنه اختبر إبراهيـم خـلـيـله بكلـمات
   أوحاهن إلـيه، وأمره أن يعمل بهنّ وأتـمهنّ، كما أخبر الله جل ثناؤه عنه أنه فعل. وجائز
   أن تكون تلك الكلـمات جميع ما ذكره من ذكرنا قوله فـي تأويـل الكلـمات، وجائز أن تكون
@@ -143,130 +319,340 @@ text: "<section>قراءة الآيةفتح صفحة القرآنالانتقا�
   ولا عنى به كل ذلك إلا بحجة يجب التسلـيـم لها من خبر عن الرسول صلى الله عليه وسلم،
   أو إجماع من الـحجة ولـم يصحّ فـيه شيء من ذلك خبر عن الرسول بنقل الواحد، ولا بنقل
   الـجماعة التـي يجب التسلـيـم لـما نقلته. غير أنه روي عن النبـيّ صلى الله عليه وسلم
-  فـي نظير معنى ذلك خبران لو ثبتا، أو أحدهما، كان القول به فـي تأويـل ذلك هو الصواب.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَإِذِ ٱبْتَلَىٰ إِبْرَاهِيمَ رَبُّهُ
-  بِكَلِمَاتٍ فَأَتَمَّهُنَّ قَالَ إِنِّي جَاعِلُكَ لِلنَّاسِ إِمَاماً قَالَ وَمِن
-  ذُرِّيَّتِي قَالَ لاَ يَنَالُ عَهْدِي ٱلظَّالِمِينَ }أحدهما ما:حدثنا به أبو كريب،
-  قال: ثنا راشد بن سعد، قال: حدثنـي ريان بن فـائد، عن سهل بن معاذ بن أنس، عن أبـيه،
-  قال: كان النبـيّ صلى الله عليه وسلم يقول: \" ألاَ أُخْبِرُكُمْ لِـمَ سَمَّى اللَّهُ
-  إبْرَاهِيـمَ خَـلِـيـلَهُ الّذِي وَفَّـى؟ لأنّهُ كانَ يَقُولُ كُلّـما أصبَحَ وَكُلّـما
-  أمْسَى: فَسُبْحانَ اللَّهِ حِينَ تُـمْسُونَ وَحِينَ تُصْبِحُونَ حتـى يختـم الآية
-  \" والآخر منهما ما:حدثنا به أبو كريب، قال: ثنا الـحسن بن عطية. قال: ثنا إسرائيـل،
-  عن جعفر بن الزبـير، عن القاسم، عن أبـي أمامة، قال: قال رسول الله صلى الله عليه وسلم:{ وَإِبْرَاهِيمَ
-  ٱلَّذِي وَفَّىٰ }[النجم: 37] قال: \" أتَدْرُونَ مَا وفَّـى \" ؟ قالوا: الله ورسوله
-  أعلـم، قال: \" وَفَّـى عَملَ يَوْمِهِ أرْبَعَ رَكَعَاتٍ فِـي النَّهَارِ \" فلو كان
-  خبر سهل بن معاذ عن أبـيه صحيحاً سنده. كان بـيّنا أن الكلـمات التـي ابتلـي بهنّ إبراهيـم
-  فقام بهن هو قوله كُلّـما أصْبَحَ وأمْسَى:{ فَسُبْحَانَ ٱللَّهِ حِينَ تُمْسُونَ وَحِينَ
-  تُصْبِحُونَ * وَلَهُ ٱلْحَمْدُ فِي ٱلسَّمَٰوَٰتِ وَٱلأَرْضِ وَعَشِيّاً وَحِينَ تُظْهِرُونَ }[الروم:
+  فـي نظير معنى ذلك خبران لو ثبتا، أو أحدهما، كان القول به فـي تأويـل ذلك هو الصواب.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">4 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,8,1)\"><u>8</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2, 124)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,124)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَإِذِ ٱبْتَلَىٰ إِبْرَاهِيمَ رَبُّهُ بِكَلِمَاتٍ
+  فَأَتَمَّهُنَّ قَالَ إِنِّي جَاعِلُكَ لِلنَّاسِ إِمَاماً قَالَ وَمِن ذُرِّيَّتِي
+  قَالَ لاَ يَنَالُ عَهْدِي ٱلظَّالِمِينَ</a> <b>}</b></font>, <br/>, <br/>, <div
+  align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">أحدهما
+  ما:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا به أبو كريب، قال: ثنا راشد
+  بن سعد، قال: حدثنـي ريان بن فـائد، عن سهل بن معاذ بن أنس، عن أبـيه، قال: كان النبـيّ
+  صلى الله عليه وسلم يقول:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" ألاَ أُخْبِرُكُمْ لِـمَ سَمَّى اللَّهُ إبْرَاهِيـمَ خَـلِـيـلَهُ
+  الّذِي وَفَّـى؟ لأنّهُ كانَ يَقُولُ كُلّـما أصبَحَ وَكُلّـما أمْسَى: فَسُبْحانَ
+  اللَّهِ حِينَ تُـمْسُونَ وَحِينَ تُصْبِحُونَ حتـى يختـم الآية \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">والآخر منهما ما:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  به أبو كريب، قال: ثنا الـحسن بن عطية. قال: ثنا إسرائيـل، عن جعفر بن الزبـير، عن
+  القاسم، عن أبـي أمامة، قال: قال رسول الله صلى الله عليه وسلم:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">وَإِبْرَاهِيمَ ٱلَّذِي وَفَّىٰ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[النجم:
+  37] قال:</font></font><b><font class=\"TextResultArabic\"><font color=\"Red\"> \"
+  أتَدْرُونَ مَا وفَّـى \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">؟ قالوا: الله ورسوله أعلـم، قال:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" وَفَّـى عَملَ يَوْمِهِ أرْبَعَ رَكَعَاتٍ فِـي النَّهَارِ \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\">فلو كان خبر سهل بن معاذ عن أبـيه
+  صحيحاً سنده. كان بـيّنا أن الكلـمات التـي ابتلـي بهنّ إبراهيـم فقام بهن هو قوله
+  كُلّـما أصْبَحَ وأمْسَى:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">فَسُبْحَانَ ٱللَّهِ حِينَ تُمْسُونَ وَحِينَ تُصْبِحُونَ *
+  وَلَهُ ٱلْحَمْدُ فِي ٱلسَّمَٰوَٰتِ وَٱلأَرْضِ وَعَشِيّاً وَحِينَ تُظْهِرُونَ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[الروم:
   17-18]. أو كان خبر أبـي أمامة عدولاً نقلته، كان معلوماً أن الكلـمات التـي أُوحين
   إلـى إبراهيـم فـابتلـي بـالعمل بهنّ أن يصلـي كل يوم أربع ركعات. غير أنهما خبران
-  فـي أسانـيدهما نظر.والصواب من القول فـي معنى الكلـمات التـي أخبر الله أنه ابتلـي
-  بهنّ إبراهيـم ما بـينا آنفـاً.ولو قال قائل فـي ذلك: إن الذي قاله مـجاهد وأبو صالـح
-  والربـيع بن أنس أولـى بـالصواب من القول الذي قاله غيرهم كان مذهبـا، لأن قوله: {
-  إنِّـي جاعِلُكَ للنّاسِ إماماً } وقوله:{ وَعَهِدْنَآ إِلَىٰ إِبْرَاهِيمَ وَإِسْمَاعِيلَ
-  أَن طَهِّرَا بَيْتِيَ لِلطَّائِفِينَ }[البقرة: 125] وسائر الآيات التـي هي نظير ذلك
-  كالبـيان عن الكلـمات التـي ذكر الله أنه ابتلـي بهنّ إبراهيـم.القول فـي تأويـل قوله
-  تعالـى: { فَأتَـمّهُنَّ }.يعنـي جل ثناؤه بقوله: فَأتَـمّهُنَّ فأتـمّ إبراهيـم الكلـمات،
-  وإتـمامه إياهنّ إكماله إياهنّ بـالقـيام لله بـما أوجب علـيه فـيهنّ وهو الوفـاء الذي
-  قال الله جل ثناؤه:{ وَإِبْرَاهِيمَ ٱلَّذِي وَفَّىٰ }[النجم: 37] يعنـي وفَّـى بـما
-  عهد إلـيه بـالكلـمات، فأمره به من فرائضه ومـحنة فـيها. كما:حدثنـي مـحمد بن الـمثنى،
-  قال: ثنا عبد الأعلـى، قال: ثنا داود، عن عكرمة، عن ابن عبـاس: { فأتَـمّهُنَّ } أي
-  فأدّاهنّ.حدثنا بشر بن معاذ، قال: ثنا يزيد بن زريع، قال: ثنا سعيد، عن قتادة: { فأتَـمّهُنَّ
-  } أي عمل بهنّ، فأتـمهنّ.حدثت عن عمار، قال: حدثنا ابن أبـي جعفر، عن أبـيه، عن الربـيع:
-  { فأتَـمّهُنَّ } أي عمل بهنّ فأتـمهنّ. القول فـي تأويـل قوله تعالـى:{ قالَ إنّـي
-  جاعِلُكَ للنّاسِ إماماً }.يعنـي جل ثناؤه بقوله: { إنّـي جاعِلُكَ للنّاسِ إماماً
-  } فقال الله: يا إبراهيـم إنـي مُصَيِّرك للناس إماماً يؤتـمّ به ويقتدي به.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَإِذِ ٱبْتَلَىٰ إِبْرَاهِيمَ رَبُّهُ
-  بِكَلِمَاتٍ فَأَتَمَّهُنَّ قَالَ إِنِّي جَاعِلُكَ لِلنَّاسِ إِمَاماً قَالَ وَمِن
-  ذُرِّيَّتِي قَالَ لاَ يَنَالُ عَهْدِي ٱلظَّالِمِينَ }كما:حدثت عن عمار، قال: ثنا
-  ابن أبـي جعفر، عن أبـيه، عن الربـيع: { إنّـي جاعِلُكَ للنّاسِ إماماً } لـيؤتـمّ
-  به، ويقتدي به يقال منه: أمـمت القوم فأنا أؤمهم أمًّا وإمامةً إذا كنت إمامهم.وإنـما
+  فـي أسانـيدهما نظر.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">والصواب من القول فـي معنى الكلـمات
+  التـي أخبر الله أنه ابتلـي بهنّ إبراهيـم ما بـينا آنفـاً.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">ولو
+  قال قائل فـي ذلك: إن الذي قاله مـجاهد وأبو صالـح والربـيع بن أنس أولـى بـالصواب
+  من القول الذي قاله غيرهم كان مذهبـا، لأن قوله: { إنِّـي جاعِلُكَ للنّاسِ إماماً
+  } وقوله:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">وَعَهِدْنَآ إِلَىٰ إِبْرَاهِيمَ وَإِسْمَاعِيلَ أَن طَهِّرَا
+  بَيْتِيَ لِلطَّائِفِينَ</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">[البقرة: 125] وسائر الآيات التـي هي نظير ذلك كالبـيان عن الكلـمات
+  التـي ذكر الله أنه ابتلـي بهنّ إبراهيـم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">القول
+  فـي تأويـل قوله تعالـى: { فَأتَـمّهُنَّ }.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">يعنـي
+  جل ثناؤه بقوله: فَأتَـمّهُنَّ فأتـمّ إبراهيـم الكلـمات، وإتـمامه إياهنّ إكماله إياهنّ
+  بـالقـيام لله بـما أوجب علـيه فـيهنّ وهو الوفـاء الذي قال الله جل ثناؤه:</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">وَإِبْرَاهِيمَ
+  ٱلَّذِي وَفَّىٰ</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">[النجم: 37] يعنـي وفَّـى بـما عهد إلـيه بـالكلـمات، فأمره به من
+  فرائضه ومـحنة فـيها. كما:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي مـحمد بن الـمثنى، قال: ثنا
+  عبد الأعلـى، قال: ثنا داود، عن عكرمة، عن ابن عبـاس: { فأتَـمّهُنَّ } أي فأدّاهنّ.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا بشر بن معاذ، قال: ثنا يزيد بن زريع، قال: ثنا سعيد، عن قتادة:
+  { فأتَـمّهُنَّ } أي عمل بهنّ، فأتـمهنّ.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثت
+  عن عمار، قال: حدثنا ابن أبـي جعفر، عن أبـيه، عن الربـيع: { فأتَـمّهُنَّ } أي عمل
+  بهنّ فأتـمهنّ. القول فـي تأويـل قوله تعالـى:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">{
+  قالَ إنّـي جاعِلُكَ للنّاسِ إماماً }.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">يعنـي
+  جل ثناؤه بقوله: { إنّـي جاعِلُكَ للنّاسِ إماماً } فقال الله: يا إبراهيـم إنـي مُصَيِّرك
+  للناس إماماً يؤتـمّ به ويقتدي به.</font></font>&#13;\t\t\t<label disabled=\"true\"
+  class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,6,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">5 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,8,1)\"><u>8</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2, 124)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,124)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَإِذِ ٱبْتَلَىٰ إِبْرَاهِيمَ رَبُّهُ بِكَلِمَاتٍ
+  فَأَتَمَّهُنَّ قَالَ إِنِّي جَاعِلُكَ لِلنَّاسِ إِمَاماً قَالَ وَمِن ذُرِّيَّتِي
+  قَالَ لاَ يَنَالُ عَهْدِي ٱلظَّالِمِينَ</a> <b>}</b></font>, <br/>, <br/>, <div
+  align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">كما:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثت عن عمار، قال: ثنا ابن أبـي جعفر، عن أبـيه، عن الربـيع: { إنّـي
+  جاعِلُكَ للنّاسِ إماماً } لـيؤتـمّ به، ويقتدي به يقال منه: أمـمت القوم فأنا أؤمهم
+  أمًّا وإمامةً إذا كنت إمامهم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وإنـما
   أراد جل ثناؤه بقوله لإبراهيـم: { إنّـي جاعِلُكَ للنّاسِ إماماً } إنـي مصيرك تؤمّ
   مَنْ بَعْدَكَ من أهل الإيـمان بـي وبرسلـي، فتقدمهم أنت، ويتبعون هديك، ويستنّون بسنتك
-  التـي تعمل بها بأمري إياك ووحيـي إلـيك.القول فـي تأويـل قوله تعالـى: { قالَ وَمِنْ
-  ذُرِّيّتِـي }.يعنـي جل ثناؤه بذلك، قال إبراهِيـمُ لـما رفع الله منزلته وكرّمه، فأعلـمه
-  ما هو صانع به من تصيـيره إماما فـي الـخيرات لـمن فـي عصره ولـمن جاء بعده من ذرّيته
-  وسائر الناس غيرهم يهتدي بهديه ويقتدي بأفعاله وأخلاقه: يا ربّ ومن ذرّيتـي فـاجعل
-  أئمة يقتدي بهم كالذي جعلتنـي إماما يؤتـمّ به ويتقدى بـي مسألة من إبراهيـم ربه سأله
-  إياها. كما:حدثت عن عمار، قال: ثنا ابن أبـي جعفر، عن أبـيه، عن الربـيع، قال: قال
-  إبراهيـم: { وَمِنْ ذُرّيَّتِـي } يقول: فـاجعل من ذرّيتـي من يؤتـمّ به ويقتدي به.وقد
-  زعم بعض الناس أن قول إبراهيـم: { وَمِنْ ذُرَّيّتِـي } مسألة منه ربَّه لعقبه أن يكونوا
-  علـى عهده ودينه، كما قال:{ وَٱجْنُبْنِي وَبَنِيَّ أَن نَّعْبُدَ ٱلأَصْنَامَ }[إبراهيم:
-  35] فأخبر الله جل ثناؤه أن فـي عقبه الظالـم الـمخالف له فـي دينه بقوله: { لا يَنَالُ
-  عَهْدِي الظّالِـمِينَ }.والظاهر من التنزيـل يدلّ علـى غير الذي قاله صاحب هذه الـمقالة
-  لأن قول إبراهيـم صلوات الله علـيه: { وَمِنْ ذُرِّيّتِـي } فـي إثر قول الله جل ثناؤه:
-  { إنّـي جاعِلُكَ للنّاسِ إماماً } فمعلوم أن الذي سأله إبراهيـم لذرّيته لو كان غير
-  الذي أخبر ربه أنه أعطاه إياه لكان مبـيناً ولكن الـمسألة لـما كانت مـما جرى ذكره،
-  اكتفـى بـالذكر الذي قد مضى من تكريره وإعادته، فقال: { وَمِنْ ذُرّيَّتِـي } بـمعنى:
-  ومن ذرّيتـي فـاجعل مثل الذي جعلتنـي به من الإمامة للناس.القول فـي تأويـل قوله تعالـى:
-  { قالَ لا يَنالُ عَهْدِي الظّالِـمِينَ }.هذا خبر من الله جل ثناؤه عن أن الظالـم
-  لا يكون إماماً يقتدي به أهل الـخير، وهو من الله جل ثناؤه جواب لـما توهم فـي مسألته
-  إياه أن يجعل من ذرّيته أئمة مثله، فأخبر أنه فـاعل ذلك إلا بـمن كان من أهل الظلـم
-  منهم، فإنه غير مصيّره كذلك، ولا جاعله فـي مـحل أولـيائه عنده بـالتكرمة بـالإمامة
-  لأن الإمامة إنـما هي لأولـيائه وأهل طاعته دون أعدائه والكافرين به.واختلف أهل التأويـل
-  فـي العهد الذي حرّم الله جل ثناؤه الظالـمين أن ينالوه، فقال بعضهم: ذلك العهد هو
-  النبوّة. ذكر من قال ذلك:حدثنـي موسى، قال: ثنا عمرو، قال: ثنا أسبـاط، عن السدي، قال:
-  { لا يَنالُ عَهْدِي الظّالِـمِينَ } يقول: عهدي، نبوّتـي.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَإِذِ ٱبْتَلَىٰ إِبْرَاهِيمَ رَبُّهُ
-  بِكَلِمَاتٍ فَأَتَمَّهُنَّ قَالَ إِنِّي جَاعِلُكَ لِلنَّاسِ إِمَاماً قَالَ وَمِن
-  ذُرِّيَّتِي قَالَ لاَ يَنَالُ عَهْدِي ٱلظَّالِمِينَ }فمعنى قائل هذا القول فـي تأويـل
-  الآية: لا ينال النبّوة أهل الظلـم والشرك.وقال آخرون: معنى العهد عهد الإمامة، فتأويـل
-  الآية علـى قولهم: لا أجعل من كان من ذرّيتك بأسرهم ظالـماً إماماً لعبـادي يقتدي به.
-  ذكر من قال ذلك:حدثنـي مـحمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، عن ابن أبـي
-  نـجيح، عن مـجاهد: { قالَ لا يَنالُ عَهْدِي الظّالِـمِينَ } قال: لا يكون إمامٌ ظالـماً.حدثنـي
-  الـمثنى، قال: ثنا أبو حذيفة، قال: ثنا شبل، عن ابن أبـي نـجيح، عن مـجاهد: قال الله:
-  { لا يَنالُ عَهْدِي الظّالِـمِينَ } قال: لا يكون إمامٌ ظالـماً.حدثنا الـمثنى، قال:
-  ثنا أبو حذيفة، قال: ثنا شبل، عن ابن أبـي نـجيح، عن عكرمة بـمثله.حدثنا ابن بشار،
-  قال: ثنا أبو عاصم، قال: ثنا سفـيان، عن منصور، عن مـجاهد فـي قوله { قالَ لا يَنالُ
-  عَهْدِي الظّالِـمِينَ } قال: لا يكون إمامٌ ظالـم يقتدي به.حدثنا أحمد بن إسحاق الأهوازي،
-  قال: ثنا أبو أحمد الزبـيري، قال: ثنا سفـيان، عن منصور، عن مـجاهد، مثله.حدثنا مسروق
-  بن أبـان الـحطاب، قال: ثنا وكيع، عن سفـيان، عن خصيف، عن مـجاهد فـي قوله: { لا يَنَالُ
-  عَهْدِي الظّالِـمِينَ } قال: لا أجعل إماماً ظالـماً يقتدي به.حدثنا مـحمد بن عبـيد
-  الـمـحاربـي، قال: ثنا مسلـم بن خالد الزنـجي، عن ابن أبـي نـجيح، عن مـجاهد فـي قوله:
-  { لا يَنَالُ عَهْدِي الظّالِـمِينَ } قال: لا أجعل إماماً ظالـماً يقتدي به.حدثنا
-  القاسم، قال: ثنا الـحسين، قال: حدثنـي حجاج، عن ابن جريج، عن مـجاهد: { لا يَنالُ
-  عَهْدِي الظّالِـمِينَ } قال: لا يكون إماماً ظالـمٌ.قال ابن جريج: وأما عطاء فإنه
-  قال: { إنّـي جاعِلُكَ للنّاسِ إماماً قالَ وَمِنْ ذُرّيَّتِـي } فأبى أن يجعل من ذرّيته
-  ظالـماً إماماً قلت لعطاء: ما عَهْدُه؟ قال: أَمْرُه.وقال آخرون: معنى ذلك: أنه لا
-  عهد علـيك لظالـم أن تطيعه فـي ظلـمه. ذكر من قال ذلك:حدثنا مـحمد بن سعد، قال: حدثنـي
-  أبـي، قال: حدثنـي عمي، قال: حدثنـي أبـي، عن أبـيه، عن ابن عبـاس قوله: { لا يَنالُ
-  عَهْدِي الظالِـمِينَ } يعنـي لا عهد لظالـم علـيك فـي ظلـمه أن تطيعه فـيه.حدثنـي
+  التـي تعمل بها بأمري إياك ووحيـي إلـيك.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">القول
+  فـي تأويـل قوله تعالـى: { قالَ وَمِنْ ذُرِّيّتِـي }.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">يعنـي
+  جل ثناؤه بذلك، قال إبراهِيـمُ لـما رفع الله منزلته وكرّمه، فأعلـمه ما هو صانع به
+  من تصيـيره إماما فـي الـخيرات لـمن فـي عصره ولـمن جاء بعده من ذرّيته وسائر الناس
+  غيرهم يهتدي بهديه ويقتدي بأفعاله وأخلاقه: يا ربّ ومن ذرّيتـي فـاجعل أئمة يقتدي بهم
+  كالذي جعلتنـي إماما يؤتـمّ به ويتقدى بـي مسألة من إبراهيـم ربه سأله إياها. كما:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثت عن عمار، قال: ثنا ابن أبـي جعفر، عن أبـيه، عن الربـيع، قال:
+  قال إبراهيـم: { وَمِنْ ذُرّيَّتِـي } يقول: فـاجعل من ذرّيتـي من يؤتـمّ به ويقتدي
+  به.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقد زعم بعض الناس أن قول إبراهيـم:
+  { وَمِنْ ذُرَّيّتِـي } مسألة منه ربَّه لعقبه أن يكونوا علـى عهده ودينه، كما قال:</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">وَٱجْنُبْنِي
+  وَبَنِيَّ أَن نَّعْبُدَ ٱلأَصْنَامَ</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">[إبراهيم: 35] فأخبر الله جل ثناؤه
+  أن فـي عقبه الظالـم الـمخالف له فـي دينه بقوله: { لا يَنَالُ عَهْدِي الظّالِـمِينَ
+  }.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">والظاهر من التنزيـل يدلّ علـى غير
+  الذي قاله صاحب هذه الـمقالة لأن قول إبراهيـم صلوات الله علـيه: { وَمِنْ ذُرِّيّتِـي
+  } فـي إثر قول الله جل ثناؤه: { إنّـي جاعِلُكَ للنّاسِ إماماً } فمعلوم أن الذي سأله
+  إبراهيـم لذرّيته لو كان غير الذي أخبر ربه أنه أعطاه إياه لكان مبـيناً ولكن الـمسألة
+  لـما كانت مـما جرى ذكره، اكتفـى بـالذكر الذي قد مضى من تكريره وإعادته، فقال: { وَمِنْ
+  ذُرّيَّتِـي } بـمعنى: ومن ذرّيتـي فـاجعل مثل الذي جعلتنـي به من الإمامة للناس.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">القول فـي تأويـل قوله تعالـى: { قالَ لا يَنالُ عَهْدِي الظّالِـمِينَ
+  }.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">هذا خبر من الله جل ثناؤه عن أن
+  الظالـم لا يكون إماماً يقتدي به أهل الـخير، وهو من الله جل ثناؤه جواب لـما توهم
+  فـي مسألته إياه أن يجعل من ذرّيته أئمة مثله، فأخبر أنه فـاعل ذلك إلا بـمن كان من
+  أهل الظلـم منهم، فإنه غير مصيّره كذلك، ولا جاعله فـي مـحل أولـيائه عنده بـالتكرمة
+  بـالإمامة لأن الإمامة إنـما هي لأولـيائه وأهل طاعته دون أعدائه والكافرين به.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">واختلف أهل التأويـل فـي العهد الذي حرّم الله جل ثناؤه الظالـمين
+  أن ينالوه، فقال بعضهم: ذلك العهد هو النبوّة. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي موسى، قال: ثنا عمرو، قال: ثنا أسبـاط، عن السدي، قال: { لا
+  يَنالُ عَهْدِي الظّالِـمِينَ } يقول: عهدي، نبوّتـي.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,7,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">6 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,8,1)\"><u>8</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2, 124)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,124)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَإِذِ ٱبْتَلَىٰ إِبْرَاهِيمَ رَبُّهُ بِكَلِمَاتٍ
+  فَأَتَمَّهُنَّ قَالَ إِنِّي جَاعِلُكَ لِلنَّاسِ إِمَاماً قَالَ وَمِن ذُرِّيَّتِي
+  قَالَ لاَ يَنَالُ عَهْدِي ٱلظَّالِمِينَ</a> <b>}</b></font>, <br/>, <br/>, <div
+  align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">فمعنى
+  قائل هذا القول فـي تأويـل الآية: لا ينال النبّوة أهل الظلـم والشرك.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال آخرون: معنى العهد عهد الإمامة، فتأويـل الآية علـى قولهم: لا
+  أجعل من كان من ذرّيتك بأسرهم ظالـماً إماماً لعبـادي يقتدي به. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي مـحمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، عن ابن أبـي
+  نـجيح، عن مـجاهد: { قالَ لا يَنالُ عَهْدِي الظّالِـمِينَ } قال: لا يكون إمامٌ ظالـماً.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي الـمثنى، قال: ثنا أبو حذيفة، قال: ثنا شبل، عن ابن أبـي نـجيح،
+  عن مـجاهد: قال الله: { لا يَنالُ عَهْدِي الظّالِـمِينَ } قال: لا يكون إمامٌ ظالـماً.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا الـمثنى، قال: ثنا أبو حذيفة، قال: ثنا شبل، عن ابن أبـي نـجيح،
+  عن عكرمة بـمثله.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن بشار، قال: ثنا أبو عاصم،
+  قال: ثنا سفـيان، عن منصور، عن مـجاهد فـي قوله { قالَ لا يَنالُ عَهْدِي الظّالِـمِينَ
+  } قال: لا يكون إمامٌ ظالـم يقتدي به.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  أحمد بن إسحاق الأهوازي، قال: ثنا أبو أحمد الزبـيري، قال: ثنا سفـيان، عن منصور، عن
+  مـجاهد، مثله.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا مسروق بن أبـان الـحطاب، قال:
+  ثنا وكيع، عن سفـيان، عن خصيف، عن مـجاهد فـي قوله: { لا يَنَالُ عَهْدِي الظّالِـمِينَ
+  } قال: لا أجعل إماماً ظالـماً يقتدي به.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  مـحمد بن عبـيد الـمـحاربـي، قال: ثنا مسلـم بن خالد الزنـجي، عن ابن أبـي نـجيح، عن
+  مـجاهد فـي قوله: { لا يَنَالُ عَهْدِي الظّالِـمِينَ } قال: لا أجعل إماماً ظالـماً
+  يقتدي به.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا القاسم، قال: ثنا الـحسين،
+  قال: حدثنـي حجاج، عن ابن جريج، عن مـجاهد: { لا يَنالُ عَهْدِي الظّالِـمِينَ } قال:
+  لا يكون إماماً ظالـمٌ.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">قال ابن جريج: وأما عطاء فإنه قال:
+  { إنّـي جاعِلُكَ للنّاسِ إماماً قالَ وَمِنْ ذُرّيَّتِـي } فأبى أن يجعل من ذرّيته
+  ظالـماً إماماً قلت لعطاء: ما عَهْدُه؟ قال: أَمْرُه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  آخرون: معنى ذلك: أنه لا عهد علـيك لظالـم أن تطيعه فـي ظلـمه. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا مـحمد بن سعد، قال: حدثنـي أبـي، قال: حدثنـي عمي، قال: حدثنـي
+  أبـي، عن أبـيه، عن ابن عبـاس قوله: { لا يَنالُ عَهْدِي الظالِـمِينَ } يعنـي لا عهد
+  لظالـم علـيك فـي ظلـمه أن تطيعه فـيه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
   الـمثنى، قال: ثنا إسحاق، قال: ثنا عبد الرحمن بن عبد الله، عن إسرائيـل، عن مسلـم
   الأعور، عن مـجاهد، عن ابن عبـاس: { قالَ لاَ يَنالُ عَهْدِي الظّالِـمِينَ } قال:
-  لـيس للظالـمين عهد، وإن عاهدته فـانقضه.حدثنـي القاسم، قال: ثنا الـحسين، قال: حدثنـي
-  حجاج، عن سفـيان، عن هارون بن عنترة، عن أبـيه، عن ابن عبـاس، قال: لـيس لظالـم عهد.وقال
-  آخرون: معنى العهد فـي هذا الـموضع: الأمان.فتأويـل الكلام علـى معنى قولهم، قال الله:
-  لا ينال أمانـي أعدائي، وأهل الظلـم لعبـادي أي لا أؤمنهم من عذابـي فـي الآخرة. ذكر
-  من قال ذلك:حدثنا بشر بن معاذ، قال: ثنا يزيد بن زريع، قال: ثنا سعيد، عن قتادة: {
-  قالَ لا يَنالُ عَهْدِي الظّالِـمِينَ } ذلكم عند الله يوم القـيامة لا ينال عهده ظالـم،
-  فأما فـي الدنـيا فقد نالوا عهد الله، فوارثوا به الـمسلـمين وعادوهم وناكحوهم به،
-  فلـما كان يوم القـيامة قصر الله عهده وكرامته علـى أولـيائه.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَإِذِ ٱبْتَلَىٰ إِبْرَاهِيمَ رَبُّهُ
-  بِكَلِمَاتٍ فَأَتَمَّهُنَّ قَالَ إِنِّي جَاعِلُكَ لِلنَّاسِ إِمَاماً قَالَ وَمِن
-  ذُرِّيَّتِي قَالَ لاَ يَنَالُ عَهْدِي ٱلظَّالِمِينَ }حدثنا الـحسن بن يحيى، قال:
-  أخبرنا عبد الرزاق، قال: أخبرنا معمر، عن قتادة فـي قوله: { لا يَنالُ عَهْدِي الظَالِـمِينَ
-  } قال: لا ينال عهدَ الله فـي الآخرة الظالـمون، فأما فـي الدنـيا فقد ناله الظالـم
-  وأكل به وعاش.حدثنـي الـمثنى، قال: ثنا إسحاق، قال: ثنا عبد الرحمن، عن إسرائيـل، عن
-  منصور، عن إبراهيـم: { قالَ لاَ يَنالُ عَهْدِي الظّالِـمِينَ } قال: لا ينال عهد الله
-  فـي الآخرة الظالـمون، فأما فـي الدنـيا فقد ناله الظالـم فأمن به وأكل وأبصر وعاش.وقال
-  آخرون: بل العهد الذي ذكره الله فـي هذا الـموضع: دِينُ الله. ذكر من قال ذلك:حدثت
-  عن عمار، قال: ثنا ابن أبـي جعفر، عن أبـيه، عن الربـيع، قال: قال الله لإبراهيـم:
-  { لا يَنالُ عَهْدِي الظّالِـمِينَ } فقال: فَعَهْدُ الله الذي عهد إلـى عبـاده: دينه.
-  يقول: لا ينال دينه الظالـمين، ألا ترى أنه قال:{ وَبَارَكْنَا عَلَيْهِ وَعَلَىٰ إِسْحَاقَ
-  وَمِن ذُرِّيَّتِهِمَا مُحْسِنٌ وَظَالِمٌ لِّنَفْسِهِ مُبِينٌ }[الصافات: 113] يقول:
-  لـيس كل ذرّيتك يا إبراهيـم علـى الـحقّ.حدثنـي يحيى بن جعفر، قال: أخبرنا يزيد، قال:
-  أخبرنا جويبر، عن الضحاك فـي قوله: { لا يَنالُ عَهْدِي الظّالِـمِينَ } قال: لا ينال
-  عهدي عدوّ لـي يعصينـي، ولا أنـحلها إلا وَلـيًّا يطيعنـي.وهذا الكلام وإن كان ظاهره
-  ظاهِرَ خبرٍ عن أنه لا ينال من ولد إبراهيـم صلوات الله علـيه عهد الله الذي هو النبوّة
-  والإمامة لأهل الـخير، بـمعنى الاقتداء به فـي الدنـيا، والعهد الذي بـالوفـاء به ينـجو
-  فـي الآخرة، من وفـي لله به فـي الدنـيا، من كان منهم ظالـماً متعدّياً جائراً عن قصد
-  سبـيـل الـحقّ. فهو إعلام من الله تعالـى ذكره لإبراهيـم أن من ولده من يشرك به، ويجوز
-  عن قصد السبـيـل، ويظلـم نفسه وعبـاده. كالذي:حدثنـي إسحاق بن إبراهيـم بن حبـيب بن
-  الشهيد، قال: ثنا عتاب بن بشر، عن خصيف، عن مـجاهد فـي قوله: { لا يَنالُ عَهْدِي الظّالِـمِينَ
-  } قال: إنه سيكون فـي ذرّيتك ظالـمون.وأما نصب الظالـمين، فلأن العهد هو الذي لا ينال
-  الظالـمين. وذُكر أنه فـي قراءة ابن مسعود: «لا يَنالُ عَهْدِي الظّالِـمُونَ» بـمعنى
-  أن الظالـمين هم الذين لا ينالون عهد الله. وإنـما جاز الرفع فـي الظالـمين والنصب،
-  وكذلك فـي العهد لأن كل ما نال الـمرء فقد ناله الـمرء، كما يقال: نالنـي خيرُ فلان
-  ونلت خَيْرَهُ، فـيوجه الفعل مرّة إلـى الـخير ومرّة إلـى نفسه. وقد بـينا معنى الظلـم
-  فـيـما مضى فكرهنا إعادته.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  لـيس للظالـمين عهد، وإن عاهدته فـانقضه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  القاسم، قال: ثنا الـحسين، قال: حدثنـي حجاج، عن سفـيان، عن هارون بن عنترة، عن أبـيه،
+  عن ابن عبـاس، قال: لـيس لظالـم عهد.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  آخرون: معنى العهد فـي هذا الـموضع: الأمان.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">فتأويـل
+  الكلام علـى معنى قولهم، قال الله: لا ينال أمانـي أعدائي، وأهل الظلـم لعبـادي أي
+  لا أؤمنهم من عذابـي فـي الآخرة. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  بشر بن معاذ، قال: ثنا يزيد بن زريع، قال: ثنا سعيد، عن قتادة: { قالَ لا يَنالُ عَهْدِي
+  الظّالِـمِينَ } ذلكم عند الله يوم القـيامة لا ينال عهده ظالـم، فأما فـي الدنـيا
+  فقد نالوا عهد الله، فوارثوا به الـمسلـمين وعادوهم وناكحوهم به، فلـما كان يوم القـيامة
+  قصر الله عهده وكرامته علـى أولـيائه.</font></font>&#13;\t\t\t<label disabled=\"true\"
+  class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,6,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,8,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">7 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,8,1)\"><u>8</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2, 124)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,124)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَإِذِ ٱبْتَلَىٰ إِبْرَاهِيمَ رَبُّهُ بِكَلِمَاتٍ
+  فَأَتَمَّهُنَّ قَالَ إِنِّي جَاعِلُكَ لِلنَّاسِ إِمَاماً قَالَ وَمِن ذُرِّيَّتِي
+  قَالَ لاَ يَنَالُ عَهْدِي ٱلظَّالِمِينَ</a> <b>}</b></font>, <br/>, <br/>, <div
+  align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  الـحسن بن يحيى، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر، عن قتادة فـي قوله: { لا
+  يَنالُ عَهْدِي الظَالِـمِينَ } قال: لا ينال عهدَ الله فـي الآخرة الظالـمون، فأما
+  فـي الدنـيا فقد ناله الظالـم وأكل به وعاش.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  الـمثنى، قال: ثنا إسحاق، قال: ثنا عبد الرحمن، عن إسرائيـل، عن منصور، عن إبراهيـم:
+  { قالَ لاَ يَنالُ عَهْدِي الظّالِـمِينَ } قال: لا ينال عهد الله فـي الآخرة الظالـمون،
+  فأما فـي الدنـيا فقد ناله الظالـم فأمن به وأكل وأبصر وعاش.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  آخرون: بل العهد الذي ذكره الله فـي هذا الـموضع: دِينُ الله. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثت عن عمار، قال: ثنا ابن أبـي جعفر، عن أبـيه، عن الربـيع، قال:
+  قال الله لإبراهيـم: { لا يَنالُ عَهْدِي الظّالِـمِينَ } فقال: فَعَهْدُ الله الذي
+  عهد إلـى عبـاده: دينه. يقول: لا ينال دينه الظالـمين، ألا ترى أنه قال:</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">وَبَارَكْنَا
+  عَلَيْهِ وَعَلَىٰ إِسْحَاقَ وَمِن ذُرِّيَّتِهِمَا مُحْسِنٌ وَظَالِمٌ لِّنَفْسِهِ
+  مُبِينٌ</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">[الصافات: 113] يقول: لـيس كل ذرّيتك يا إبراهيـم علـى الـحقّ.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي يحيى بن جعفر، قال: أخبرنا يزيد، قال: أخبرنا جويبر، عن الضحاك
+  فـي قوله: { لا يَنالُ عَهْدِي الظّالِـمِينَ } قال: لا ينال عهدي عدوّ لـي يعصينـي،
+  ولا أنـحلها إلا وَلـيًّا يطيعنـي.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وهذا
+  الكلام وإن كان ظاهره ظاهِرَ خبرٍ عن أنه لا ينال من ولد إبراهيـم صلوات الله علـيه
+  عهد الله الذي هو النبوّة والإمامة لأهل الـخير، بـمعنى الاقتداء به فـي الدنـيا، والعهد
+  الذي بـالوفـاء به ينـجو فـي الآخرة، من وفـي لله به فـي الدنـيا، من كان منهم ظالـماً
+  متعدّياً جائراً عن قصد سبـيـل الـحقّ. فهو إعلام من الله تعالـى ذكره لإبراهيـم أن
+  من ولده من يشرك به، ويجوز عن قصد السبـيـل، ويظلـم نفسه وعبـاده. كالذي:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي إسحاق بن إبراهيـم بن حبـيب بن الشهيد، قال: ثنا عتاب بن بشر،
+  عن خصيف، عن مـجاهد فـي قوله: { لا يَنالُ عَهْدِي الظّالِـمِينَ } قال: إنه سيكون
+  فـي ذرّيتك ظالـمون.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وأما نصب الظالـمين، فلأن العهد
+  هو الذي لا ينال الظالـمين. وذُكر أنه فـي قراءة ابن مسعود: «لا يَنالُ عَهْدِي الظّالِـمُونَ»
+  بـمعنى أن الظالـمين هم الذين لا ينالون عهد الله. وإنـما جاز الرفع فـي الظالـمين
+  والنصب، وكذلك فـي العهد لأن كل ما نال الـمرء فقد ناله الـمرء، كما يقال: نالنـي خيرُ
+  فلان ونلت خَيْرَهُ، فـيوجه الفعل مرّة إلـى الـخير ومرّة إلـى نفسه. وقد بـينا معنى
+  الظلـم فـيـما مضى فكرهنا إعادته.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,7,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">8 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section>"
 

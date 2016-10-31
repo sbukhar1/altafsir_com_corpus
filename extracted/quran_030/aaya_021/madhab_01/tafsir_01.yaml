@@ -1,4 +1,4 @@
-location:
+position:
   sura: '030'
   aaya: '021'
   madhab: '01'
@@ -7,16 +7,36 @@ meta:
   title: تفسير جامع البيان في تفسير القرآن
   author: الطبري
   year: '310'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَمِنْ آيَاتِهِ
-  أَنْ خَلَقَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَاجاً لِّتَسْكُنُوۤاْ إِلَيْهَا وَجَعَلَ
-  بَيْنَكُم مَّوَدَّةً وَرَحْمَةً إِنَّ فِي ذَلِكَ لآيَاتٍ لِّقَوْمٍ يَتَفَكَّرُونَ
-  }يقول تعالـى ذكره: ومن حججه وأدلته علـى ذلك أيضاً خـلقه لأبـيكم آدم من نفسه زوجة
-  لـيسكن إلـيها، وذلك أنه خـلق حوّاء من ضلع من أضلاع آدم. كما:حدثنا بشر، قال: ثنا
-  يزيد، قال: ثنا سعيد، عن قَتادة { وَمِنْ آياتِهِ أنْ خَـلَقَ لَكُمْ مِنْ أنْفُسِكُمْ
-  أزْوَاجاً } خـلقها لكم من ضلع من أضلاعه.وقوله: { وَجَعَلَ بَـيْنَكُمْ مَوَدَّةً
-  وَرَحْمَةً } يقول: جعل بـينكم بـالـمصاهرة والـختونة مودّة تتوادّون بها، وتتواصلون
-  من أجلها، ورحمة رحمكم بها، فعطف بعضكم بذلك علـى بعض { إنَّ فِـي ذلكَ لآياتٍ لقَوْمٍ
-  يَتَفَكَّرُونَ } يقول تعالـى ذكره: إن فـي فعله ذلك لعبراً وعظات لقوم يتذكرون فـي
-  حجج الله وأدلته، فـيعلـمون أنه الإله الذي لا يُعجزه شيء أراده، ولا يتعذّر علـيه
-  فعل شيء شاءه.\r\n\t\t\t\r\n\t\t\t</section>"
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(30, 21)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(30,21)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَمِنْ
+  آيَاتِهِ أَنْ خَلَقَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَاجاً لِّتَسْكُنُوۤاْ إِلَيْهَا
+  وَجَعَلَ بَيْنَكُم مَّوَدَّةً وَرَحْمَةً إِنَّ فِي ذَلِكَ لآيَاتٍ لِّقَوْمٍ يَتَفَكَّرُونَ</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">يقول تعالـى ذكره: ومن حججه وأدلته علـى ذلك أيضاً خـلقه لأبـيكم آدم
+  من نفسه زوجة لـيسكن إلـيها، وذلك أنه خـلق حوّاء من ضلع من أضلاع آدم. كما:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قَتادة { وَمِنْ آياتِهِ
+  أنْ خَـلَقَ لَكُمْ مِنْ أنْفُسِكُمْ أزْوَاجاً } خـلقها لكم من ضلع من أضلاعه.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقوله: { وَجَعَلَ بَـيْنَكُمْ مَوَدَّةً وَرَحْمَةً } يقول: جعل بـينكم
+  بـالـمصاهرة والـختونة مودّة تتوادّون بها، وتتواصلون من أجلها، ورحمة رحمكم بها، فعطف
+  بعضكم بذلك علـى بعض { إنَّ فِـي ذلكَ لآياتٍ لقَوْمٍ يَتَفَكَّرُونَ } يقول تعالـى
+  ذكره: إن فـي فعله ذلك لعبراً وعظات لقوم يتذكرون فـي حجج الله وأدلته، فـيعلـمون أنه
+  الإله الذي لا يُعجزه شيء أراده، ولا يتعذّر علـيه فعل شيء شاءه.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

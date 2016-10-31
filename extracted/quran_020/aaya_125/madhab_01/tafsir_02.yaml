@@ -1,4 +1,4 @@
-location:
+position:
   sura: '020'
   aaya: '125'
   madhab: '01'
@@ -7,29 +7,65 @@ meta:
   title: تفسير الكشاف
   author: الزمخشري
   year: '538'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَمَنْ أَعْرَضَ
-  عَن ذِكْرِي فَإِنَّ لَهُ مَعِيشَةً ضَنكاً وَنَحْشُرُهُ يَوْمَ ٱلْقِيامَةِ أَعْمَىٰ
-  } * { قَالَ رَبِّ لِمَ حَشَرْتَنِيۤ أَعْمَىٰ وَقَدْ كُنتُ بَصِيراً } * { قَالَ كَذٰلِكَ
-  أَتَتْكَ آيَاتُنَا فَنَسِيتَهَا وَكَذٰلِكَ ٱلْيَوْمَ تُنْسَىٰ }الضنك: مصدر يستوي
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(20, 124)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(20,124)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَمَنْ
+  أَعْرَضَ عَن ذِكْرِي فَإِنَّ لَهُ مَعِيشَةً ضَنكاً وَنَحْشُرُهُ يَوْمَ ٱلْقِيامَةِ
+  أَعْمَىٰ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">قَالَ رَبِّ لِمَ حَشَرْتَنِيۤ أَعْمَىٰ وَقَدْ
+  كُنتُ بَصِيراً</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">قَالَ كَذٰلِكَ أَتَتْكَ آيَاتُنَا فَنَسِيتَهَا
+  وَكَذٰلِكَ ٱلْيَوْمَ تُنْسَىٰ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\"
+  dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">الضنك: مصدر يستوي
   في الوصف به المذكر والمؤنث. وقرىء: «ضنكى» على فعلى. ومعنى ذلك: أن مع الدين التسليم
   والقناعة والتوكل على الله وعلى قسمته؛ فصاحبه ينفق ما رزقه بسماح، وسهولة، فيعيش عيشاً
-  رافعاً؛ كما قال عز وجل:{ فَلَنُحْيِيَنَّهُ حَيَوٰةً طَيّبَةً }[النحل: 97] والمعرض
-  عن الدين، مستول عليه الحرص الذي لا يزال يطمح به إلى الازدياد من الدنيا، مسلط عليه
-  الشح الذي يقبض يده عن الإنفاق، فعيشه ضنك وحاله مظلمة، كما قال بعض المتصوّفة: لا
-  يعرض أحد عن ذكر ربه إلا أظلم عليه وقته وتشوّش عليه رزقه. ومن الكفرة من ضرب الله
-  عليه الذلة والمسكنة لكفره. قال الله تعالى:{ وَضُرِبَتْ عَلَيْهِمُ ٱلذّلَّةُ وَٱلْمَسْكَنَةُ
-  وَبَاءوا بِغَضَبٍ مّنَ ٱللَّهِ ذٰلِكَ بِأَنَّهُمْ كَانُواْ يَكْفُرُونَ بآيات الله }[البقرة:
-  61] وقال:{ وَلَوْ أَنَّهُمْ أَقَامُواْ ٱلتَّوْرَاةَ وَٱلإنجِيلَ وَمَا أُنزِلَ إِلَيهِمْ
-  مّن رَّبّهِمْ لأَكَلُواْ مِن فَوْقِهِمْ وَمِن تَحْتِ أَرْجُلِهِم }[المائدة: 66]
-  وقال:{ وَلَوْ أَنَّ أَهْلَ ٱلْقُرَىٰ ءامَنُواْ وَٱتَّقَوْاْ لَفَتَحْنَا عَلَيْهِم
-  بَرَكَـٰتٍ مّنَ ٱلسَّمَاء وَٱلأَرْضِ }[الأعراف: 96]وقال:{ ٱسْتَغْفِرُواْ رَبَّكُمْ
-  إِنَّهُ كَانَ غَفَّاراً يُرْسِلِ ٱلسَّمَاء عَلَيْكُمْ مُّدْرَاراً }[نوح: 11] وقال:{ وَأَلَّوِ
-  ٱسْتَقَـٰمُواْ عَلَى ٱلطَّرِيقَةِلأَسْقَيْنَـٰهُم مَّاء غَدَقاً }[الجن: 16] وعن
-  الحسن: هو الضريع والزقوم في النار. وعن أبي سعيد الخدري:(687) «عذاب القبر» وقرىء
-  { وَنَحْشُرُهُ } بالجزم عطفاً على محل { فَإِنَّ لَهُ مَعِيشَةً ضَنكاً } لأنه جواب
-  الشرط. وقرىء: «ونحشره» بسكون الهاء على لفظ الوقف، وهذا مثل قوله:{ وَنَحْشُرُهُمْ
-  يَوْمَ ٱلْقِيَـٰمَةِ عَلَىٰ وُجُوهِهِمْ عُمْيًا وَبُكْمًا وَصُمّا }[الإسراء: 97]وكما
-  فسر الزرق بالعمى { كَذٰلِكَ } أي مثل ذلك فعلت أنت، ثم فسر بأن آياتنا أتتك واضحة
-  مستنيرة، فلم تنظر إليها بعين المعتبر ولم تتبصر. وتركتها وعميت عنها، فكذلك اليوم
-  نتركك على عماك ولا نزيل غطاءه عن عينيك.\r\n\t\t\t\r\n\t\t\t</section>"
+  رافعاً؛ كما قال عز وجل:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">فَلَنُحْيِيَنَّهُ حَيَوٰةً طَيّبَةً</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[النحل:
+  97] والمعرض عن الدين، مستول عليه الحرص الذي لا يزال يطمح به إلى الازدياد من الدنيا،
+  مسلط عليه الشح الذي يقبض يده عن الإنفاق، فعيشه ضنك وحاله مظلمة، كما قال بعض المتصوّفة:
+  لا يعرض أحد عن ذكر ربه إلا أظلم عليه وقته وتشوّش عليه رزقه. ومن الكفرة من ضرب الله
+  عليه الذلة والمسكنة لكفره. قال الله تعالى:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">وَضُرِبَتْ عَلَيْهِمُ ٱلذّلَّةُ وَٱلْمَسْكَنَةُ
+  وَبَاءوا بِغَضَبٍ مّنَ ٱللَّهِ ذٰلِكَ بِأَنَّهُمْ كَانُواْ يَكْفُرُونَ بآيات الله</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[البقرة:
+  61] وقال:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">وَلَوْ أَنَّهُمْ أَقَامُواْ ٱلتَّوْرَاةَ وَٱلإنجِيلَ وَمَا
+  أُنزِلَ إِلَيهِمْ مّن رَّبّهِمْ لأَكَلُواْ مِن فَوْقِهِمْ وَمِن تَحْتِ أَرْجُلِهِم</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[المائدة:
+  66] وقال:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">وَلَوْ أَنَّ أَهْلَ ٱلْقُرَىٰ ءامَنُواْ وَٱتَّقَوْاْ لَفَتَحْنَا
+  عَلَيْهِم بَرَكَـٰتٍ مّنَ ٱلسَّمَاء وَٱلأَرْضِ</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">[الأعراف: 96]وقال:</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">ٱسْتَغْفِرُواْ
+  رَبَّكُمْ إِنَّهُ كَانَ غَفَّاراً يُرْسِلِ ٱلسَّمَاء عَلَيْكُمْ مُّدْرَاراً</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[نوح:
+  11] وقال:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">وَأَلَّوِ ٱسْتَقَـٰمُواْ عَلَى ٱلطَّرِيقَةِلأَسْقَيْنَـٰهُم
+  مَّاء غَدَقاً</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">[الجن: 16] وعن الحسن: هو الضريع والزقوم في النار. وعن أبي سعيد الخدري:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">(687) «عذاب القبر» وقرىء { وَنَحْشُرُهُ } بالجزم عطفاً على محل {
+  فَإِنَّ لَهُ مَعِيشَةً ضَنكاً } لأنه جواب الشرط. وقرىء: «ونحشره» بسكون الهاء على
+  لفظ الوقف، وهذا مثل قوله:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">وَنَحْشُرُهُمْ يَوْمَ ٱلْقِيَـٰمَةِ عَلَىٰ وُجُوهِهِمْ عُمْيًا
+  وَبُكْمًا وَصُمّا</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">[الإسراء: 97]وكما فسر الزرق بالعمى { كَذٰلِكَ } أي مثل ذلك فعلت
+  أنت، ثم فسر بأن آياتنا أتتك واضحة مستنيرة، فلم تنظر إليها بعين المعتبر ولم تتبصر.
+  وتركتها وعميت عنها، فكذلك اليوم نتركك على عماك ولا نزيل غطاءه عن عينيك.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

@@ -1,4 +1,4 @@
-location:
+position:
   sura: '007'
   aaya: '115'
   madhab: '01'
@@ -8,16 +8,35 @@ meta:
   author: الطبري
   year: '310'
 aaya: قَالُوا يَا مُوسَىٰ إِمَّا أَنْ تُلْقِيَ وَإِمَّا أَنْ نَكُونَ نَحْنُ الْمُلْقِينَ
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ قَالَ نَعَمْ وَإِنَّكُمْ
-  لَمِنَ ٱلْمُقَرَّبِينَ } * { قَالُواْ يٰمُوسَىٰ إِمَّآ أَن تُلْقِيَ وَإِمَّآ أَن
-  نَّكُونَ نَحْنُ ٱلْمُلْقِينَ }يقول جلّ ثناؤه: قال فرعون للسحرة إذ قالوا له: إن لنا
-  عندك ثوابـاً إن نـحن غلبنا موسى قال: نعم، لكم ذلك، وإنكم لـمـمن أقرّبه وأدنـيه منـي.
-  { قَالُوا يَا مُوسَى } يقول: قالت السحرة لـموسى: يا موسى اختر أن تلقـي عصاك، أو
-  نلقـي نـحن عصينا ولذلك أدخـلت «أن» مع «إما» فـي الكلام لأنها فـي موضع أمر بـالاختـيار،
-  فإن «أنْ» فـي موضع نصب لـما وصفت من الـمعنى، لأن معنى الكلام: اختر أن تلقـي أنت،
-  أو نلقـي نـحن، والكلام مع «إما» إذا كان علـى وجه الأمر، فلا بدّ من أن يكون فـيه
-  «أن» كقولك للرجل إما أن تـمضيَ، وإما أن تقعد، بـمعنى الأمر: امض أو اقعد، فإذا كان
-  علـى وجه الـخبر لـم يكن فـيه أن كقوله: { وآخَرُونَ مُرْجَوْنَ لأمْرِ اللَّهِ إمَّا
-  يُعَذّبُهُمْ وإمَّا يَتُوبُ عَلَـيْهِمْ } وهذا هو الذي يسمى التـخيـير، وكذلك كلّ
-  ما كان علـى وجه الـخبر، و«إما» فـي جميع ذلك مكسورة.\r\n\t\t\t\r\n\t\t\t</section>"
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(7, 114)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(7,114)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">قَالَ
+  نَعَمْ وَإِنَّكُمْ لَمِنَ ٱلْمُقَرَّبِينَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">قَالُواْ يٰمُوسَىٰ
+  إِمَّآ أَن تُلْقِيَ وَإِمَّآ أَن نَّكُونَ نَحْنُ ٱلْمُلْقِينَ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">يقول جلّ ثناؤه: قال فرعون للسحرة إذ قالوا له: إن لنا عندك ثوابـاً
+  إن نـحن غلبنا موسى قال: نعم، لكم ذلك، وإنكم لـمـمن أقرّبه وأدنـيه منـي. { قَالُوا
+  يَا مُوسَى } يقول: قالت السحرة لـموسى: يا موسى اختر أن تلقـي عصاك، أو نلقـي نـحن
+  عصينا ولذلك أدخـلت «أن» مع «إما» فـي الكلام لأنها فـي موضع أمر بـالاختـيار، فإن
+  «أنْ» فـي موضع نصب لـما وصفت من الـمعنى، لأن معنى الكلام: اختر أن تلقـي أنت، أو
+  نلقـي نـحن، والكلام مع «إما» إذا كان علـى وجه الأمر، فلا بدّ من أن يكون فـيه «أن»
+  كقولك للرجل إما أن تـمضيَ، وإما أن تقعد، بـمعنى الأمر: امض أو اقعد، فإذا كان علـى
+  وجه الـخبر لـم يكن فـيه أن كقوله: { وآخَرُونَ مُرْجَوْنَ لأمْرِ اللَّهِ إمَّا يُعَذّبُهُمْ
+  وإمَّا يَتُوبُ عَلَـيْهِمْ } وهذا هو الذي يسمى التـخيـير، وكذلك كلّ ما كان علـى
+  وجه الـخبر، و«إما» فـي جميع ذلك مكسورة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

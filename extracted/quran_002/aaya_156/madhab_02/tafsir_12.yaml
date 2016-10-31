@@ -1,4 +1,4 @@
-location:
+position:
   sura: '002'
   aaya: '156'
   madhab: '02'
@@ -9,30 +9,75 @@ meta:
   year: '450'
 aaya: الَّذِينَ إِذَا أَصَابَتْهُمْ مُصِيبَةٌ قَالُوا إِنَّا لِلَّهِ وَإِنَّا إِلَيْهِ
   رَاجِعُونَ
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَلَنَبْلُوَنَّكُمْ
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(2, 155)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(2,155)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَلَنَبْلُوَنَّكُمْ
   بِشَيْءٍ مِّنَ ٱلْخَوْفِ وَٱلْجُوعِ وَنَقْصٍ مِّنَ ٱلأَمَوَالِ وَٱلأَنفُسِ وَٱلثَّمَرَاتِ
-  وَبَشِّرِ ٱلصَّابِرِينَ } * { ٱلَّذِينَ إِذَآ أَصَابَتْهُم مُّصِيبَةٌ قَالُواْ إِنَّا
-  للَّهِ وَإِنَّـآ إِلَيْهِ رَاجِعُونَ } * { أُولَـٰئِكَ عَلَيْهِمْ صَلَوَاتٌ مِّن
-  رَّبِّهِمْ وَرَحْمَةٌ وَأُولَـٰئِكَ هُمُ ٱلْمُهْتَدُونَ }قوله تعالى: { وَلَنَبْلُوَنَّكُم
-  } يعني أهل مكة، لما تقدم من دعاء النبي صلى الله عليه وسلم أن يجعلها عليهم سنين كسني
-  يوسفَ حين قحطوا سبع سنين، فقال الله تعالى مجيباً لدعاء نبيه: { وَلَنَبْلُوَنَّكُم
-  بِشَيْءٍ مِّنَ الْخَوْفِ وَالجُوعِ } الخوف يعني الفزع في القتال، والجوع يعني المجاعة
-  بالجدب.{ وَنَقْصٍ مِّنَ الأمَوَالِ } يحتمل وجهين:أحدهما: نقصها بالجوائح المتلفة.والثاني:
-  زيادة النفقة في الجدب.{ وَالأَنفُسِ } يعني ونقص الأنفس بالقتل والموت. { وَالثَّمَرَاتِ
-  } قلة النبات وارتفاع البركات.{ وَبَشِّرِ الصَّابِرِينَ } يحتمل ثلاثة أوجه:أحدها:
-  وبشر الصابرين على الجهاد بالنصر.والثاني: وبشر الصابرين على الطاعة بالجزاء.والثالث:
-  وبشر الصابرين على المصائب بالثواب، وهو أشبه لقوله من بعد:{ الَّذِينَ إِذَا أَصَابَتْهُم
-  مُّصِيبَةٌ قَالُوا: إِنَّا لِلَّهِ وإِنَّا إِلَيْهِ رَاجِعُونَ } يعني: إذا أصابتهم
-  مصيبة في نفس أو أهل أو مال قالوا: إنا لله: أي نفوسنا وأهلونا وأموالنا لله، لا يظلمنا
-  فيما يصنعه بنا { وإِنَّا إِلَيْهِ رَاجِعُونَ } يعني بالبعث في ثواب المحسن ومعاقبة
-  المسيء.ثم قال تعالى في هؤلاء: { أُوْلَئِكَ عَلَيْهِمْ صَلَواتٌ مِّن رَّبِّهِمْ وَرَحْمَةٌ
+  وَبَشِّرِ ٱلصَّابِرِينَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">ٱلَّذِينَ إِذَآ أَصَابَتْهُم مُّصِيبَةٌ قَالُواْ
+  إِنَّا للَّهِ وَإِنَّـآ إِلَيْهِ رَاجِعُونَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">أُولَـٰئِكَ عَلَيْهِمْ
+  صَلَوَاتٌ مِّن رَّبِّهِمْ وَرَحْمَةٌ وَأُولَـٰئِكَ هُمُ ٱلْمُهْتَدُونَ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">قوله تعالى: { وَلَنَبْلُوَنَّكُم } يعني أهل مكة، لما تقدم من دعاء
+  النبي صلى الله عليه وسلم أن يجعلها عليهم سنين كسني يوسفَ حين قحطوا سبع سنين، فقال
+  الله تعالى مجيباً لدعاء نبيه: { وَلَنَبْلُوَنَّكُم بِشَيْءٍ مِّنَ الْخَوْفِ وَالجُوعِ
+  } الخوف يعني الفزع في القتال، والجوع يعني المجاعة بالجدب.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">{
+  وَنَقْصٍ مِّنَ الأمَوَالِ } يحتمل وجهين:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">أحدهما:
+  نقصها بالجوائح المتلفة.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">والثاني: زيادة النفقة في الجدب.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">{ وَالأَنفُسِ } يعني ونقص الأنفس بالقتل والموت. { وَالثَّمَرَاتِ
+  } قلة النبات وارتفاع البركات.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">{
+  وَبَشِّرِ الصَّابِرِينَ } يحتمل ثلاثة أوجه:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">أحدها:
+  وبشر الصابرين على الجهاد بالنصر.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">والثاني:
+  وبشر الصابرين على الطاعة بالجزاء.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">والثالث:
+  وبشر الصابرين على المصائب بالثواب، وهو أشبه لقوله من بعد:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">{
+  الَّذِينَ إِذَا أَصَابَتْهُم مُّصِيبَةٌ قَالُوا: إِنَّا لِلَّهِ وإِنَّا إِلَيْهِ
+  رَاجِعُونَ } يعني: إذا أصابتهم مصيبة في نفس أو أهل أو مال قالوا: إنا لله: أي نفوسنا
+  وأهلونا وأموالنا لله، لا يظلمنا فيما يصنعه بنا { وإِنَّا إِلَيْهِ رَاجِعُونَ } يعني
+  بالبعث في ثواب المحسن ومعاقبة المسيء.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">ثم
+  قال تعالى في هؤلاء: { أُوْلَئِكَ عَلَيْهِمْ صَلَواتٌ مِّن رَّبِّهِمْ وَرَحْمَةٌ
   وَأُوْلَئكَ هُمُ الْمُهْتَدُونَ } الصلاة اسم مشترك المعنى فهي من الله تعالى الرحمة،
   ومن الملائكة الاستغفار، ومن الناس الدعاء، كما قال تعالى: { إِنَّ اللهَ وَمَلاَئِكَتَهُ
   يُصَلُّونَ عَلَى النَّبِيِّ يَأيُّهَا الَّذِينَ ءَامَنُوا صَلُّوا عَلَيْهِ وَسَلِّمُوا
-  تَسْلِيمَاً }. وقال الشاعر:صلّى على يحيى وأشياعه   رَبٌّ كريمٌ وشفيع مطاعقوله تعالى:
-  { أُوْلَئِكَ عَلَيْهِمْ صَلَواتٌ مِّن رَّبِّهِمْ } أي رحمة، وذكر ذلك بلفظ الجمع
-  لأن بعضها يتلو بعضاً.ثم قال: { وَرَحْمَةٌ } فأعادها مع اختلافها للفظين لأنه أوكد
-  وأبلغ كما قال: { مِنَ الْبَيِّنَاتِ وَالْهُدَى }.وفي قوله تعالى: { وَأُولَئِكَ هُمُ
-  الْمُهْتَدُونَ } وجهان محتملان:أحدهما: المهتدون إلى تسهيل المصائب وتخفيف الحزن.والثاني:
-  المهتدون إلى استحقاق الثواب وإجزال الأجر.\r\n\t\t\t\r\n\t\t\t</section>"
+  تَسْلِيمَاً }. وقال الشاعر:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><table class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">صلّى على
+  يحيى وأشياعه</font></font></b></td><td class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">رَبٌّ كريمٌ وشفيع مطاع</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">قوله تعالى: { أُوْلَئِكَ عَلَيْهِمْ
+  صَلَواتٌ مِّن رَّبِّهِمْ } أي رحمة، وذكر ذلك بلفظ الجمع لأن بعضها يتلو بعضاً.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">ثم قال: { وَرَحْمَةٌ } فأعادها مع اختلافها للفظين لأنه أوكد وأبلغ
+  كما قال: { مِنَ الْبَيِّنَاتِ وَالْهُدَى }.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وفي
+  قوله تعالى: { وَأُولَئِكَ هُمُ الْمُهْتَدُونَ } وجهان محتملان:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">أحدهما: المهتدون إلى تسهيل المصائب وتخفيف الحزن.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">والثاني: المهتدون إلى استحقاق الثواب وإجزال الأجر.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

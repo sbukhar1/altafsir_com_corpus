@@ -1,4 +1,4 @@
-location:
+position:
   sura: '002'
   aaya: 009
   madhab: '02'
@@ -9,39 +9,82 @@ meta:
   year: '803'
 aaya: يُخَادِعُونَ اللَّهَ وَالَّذِينَ آمَنُوا وَمَا يَخْدَعُونَ إِلَّا أَنْفُسَهُمْ
   وَمَا يَشْعُرُونَ
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ يُخَادِعُونَ ٱللَّهَ
-  وَٱلَّذِينَ آمَنُوا وَمَا يَخْدَعُونَ إِلاَّ أَنْفُسَهُم وَمَا يَشْعُرُونَ }قوله
-  تعالى: { يُخَادِعُونَ ٱللَّهَ وَٱلَّذِينَ ءَامَنُواْ... }قال الزمخشري: (في) هذه
-  الجملة إمّا تفسير لما قبلها أو استئناف.قال الإمام ابن عرفة: الفرق بينهما أنه على
-  الأوّل يكونون وَصفوا بأمرين: بعدم الإيمان (وبالخداع). وعلى الثاني وصفوا بعدم الإيمان
-  فكأنّ قائلا يقول: لم حكم عليهم بعدم الإيمان فقيل: لأنّهم يخادعون الله.قال أبو حيّان
-  ما نصّه: ((يخادعون (مستأنفة)، أو بدل من (يقول) آمنّا ولا موضع لها، أو حال من فاعل
-  يقول (فموضعها) نصب)).قال: وأجاز أبو البقاء كونها حالا من الضمير في المؤمنين.قال:
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(2, 9)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(2,9)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">يُخَادِعُونَ
+  ٱللَّهَ وَٱلَّذِينَ آمَنُوا وَمَا يَخْدَعُونَ إِلاَّ أَنْفُسَهُم وَمَا يَشْعُرُونَ</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">قوله تعالى: { يُخَادِعُونَ ٱللَّهَ وَٱلَّذِينَ ءَامَنُواْ... }</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قال الزمخشري: (في) هذه الجملة إمّا تفسير لما قبلها أو استئناف.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قال الإمام ابن عرفة: الفرق بينهما أنه على الأوّل يكونون وَصفوا بأمرين:
+  بعدم الإيمان (وبالخداع). وعلى الثاني وصفوا بعدم الإيمان فكأنّ قائلا يقول: لم حكم
+  عليهم بعدم الإيمان فقيل: لأنّهم يخادعون الله.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال
+  أبو حيّان ما نصّه: ((يخادعون (مستأنفة)، أو بدل من (يقول) آمنّا ولا موضع لها، أو
+  حال من فاعل يقول (فموضعها) نصب)).</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال:
+  وأجاز أبو البقاء كونها حالا من الضمير في المؤمنين.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال:
   واعترض بأنه يلزم منه نفي الإيمان المقيَّد بالخداع، وهو فاسد لأن المقيَّد بقيد إذا
   نفي فله طريقان: إما نفي المقيِّد فقط وإثبات المقيَّد وهو الأكثر، فيلزم إثبات الإيمان،
   ونفي الخداع وهو فاسد. وإما نفيهما معا (فيلزم) نفي الإيمان (والخداع) وهو فاسد. قال:
   ومنع أن تكون الجملة حالا من الضمير في آمنّا لأن آمنّا محكي (بنقول) فيلزم أن يكونوا
   أخبروا عن أنفسهم بأنهم يخادعون وهو باطل، وأيضا فلو كان من قولهم لكان يخادع بالنون
-  (انتهى).وأجاب ابن عرفة بأنك تقول: قال زيد: إنّ عمرا منطلق وهو كاذب، فالجملة الأخيرة
-  في موضع الحال مع أنها ليست من قول زيد، (فلا) يلزم من ذلك أن يكون { يُخَادِعُونَ
-  ٱللَّهَ } مقولا لهم بوجه.قلت: وردّ بعضهم هذا بأنّ المعنى يقول: \" ءَامنّا \" مخادعين
-  الله (فبالضّرورة) أنّها من قولهم.قال: وإنّما يتمّ هذا الجواب (إن) لو كان \" يُخَادِعُونَ
-  \" حالا من الضّمير الفاعل في \" يَقُولُ \".قال: وقوله يلزم إثبات الإيمان ونفي الخداع
-  ليس كذلك، لأنّه إنما أخذه من المفهوم. ونحن نقول: لا مفهوم (له لأنّه مفهوم) خرج مخرج
-  الغالب، إذِ الغالب عليهم الخداع، فلا يوجدون غير مخادعين، كما ورد: في سائمة الغنم
-  الزّكاة أو يقال: إنّ المفهوم (منتفي) بالنص (على تفسير) في غير هذه الآية أو معلوم
-  من السّياق.وأورد الزمخشري سؤالا قال: كيف يصحّ وقوع الخديعة بالله مع أنه عالم بكلّ
-  شيء؟ وكيف صحّ وقوعها (فيه) مع أنه يستحيل عليه القبيح؟وأجاب (بأجوبة أحدها) بأنه (لمَّا)
-  نعّمهم في الدّنيا وعصم دماءهم وأموالهم ثمّ عذّبهم في الآخرة (كان) ذلك شبه الخديعة.قال:
-  وكذلك المؤمنون (معهم). قال ابن عرفة: لا (نتصوّر) الخديعة من المؤمنين لأنهم عصموهم
-  في الدنيا خاصة، والآخرة لا حكم/ لهم (فيها).قيل (له): قد يتصوّر باعتبار أنّهم عالمون
-  بهم ومع هذا (تركوا) قتالهم.قال ابن عرفة: وعادتهم يوردون هنا سؤالا وهو أنه عبر عن
-  (نفيهم) عن المؤمنين في قوله:{ وَمَا هُم بِمُؤْمِنِينَ }بالوصف المقتضي (أعلى) درجات
-  الفلاح، (فدل على اختصار الفلاح فيه)، ولو أريد: وما هم بمؤمنين الإيمان الكامل، للزم
-  عليه حصول بعض الفلاح لهم والغرض (أنهم) لم يحصل لهم من شيء (فإذا ثبت) أن الفلاح منحصر
+  (انتهى).</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وأجاب ابن عرفة بأنك تقول: قال زيد:
+  إنّ عمرا منطلق وهو كاذب، فالجملة الأخيرة في موضع الحال مع أنها ليست من قول زيد،
+  (فلا) يلزم من ذلك أن يكون { يُخَادِعُونَ ٱللَّهَ } مقولا لهم بوجه.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قلت: وردّ بعضهم هذا بأنّ المعنى يقول: \" ءَامنّا \" مخادعين الله
+  (فبالضّرورة) أنّها من قولهم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال:
+  وإنّما يتمّ هذا الجواب (إن) لو كان \" يُخَادِعُونَ \" حالا من الضّمير الفاعل في
+  \" يَقُولُ \".</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">قال: وقوله يلزم إثبات الإيمان ونفي
+  الخداع ليس كذلك، لأنّه إنما أخذه من المفهوم. ونحن نقول: لا مفهوم (له لأنّه مفهوم)
+  خرج مخرج الغالب، إذِ الغالب عليهم الخداع، فلا يوجدون غير مخادعين، كما ورد: في سائمة
+  الغنم الزّكاة أو يقال: إنّ المفهوم (منتفي) بالنص (على تفسير) في غير هذه الآية أو
+  معلوم من السّياق.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وأورد الزمخشري سؤالا قال: كيف يصحّ
+  وقوع الخديعة بالله مع أنه عالم بكلّ شيء؟ وكيف صحّ وقوعها (فيه) مع أنه يستحيل عليه
+  القبيح؟</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وأجاب (بأجوبة أحدها) بأنه (لمَّا)
+  نعّمهم في الدّنيا وعصم دماءهم وأموالهم ثمّ عذّبهم في الآخرة (كان) ذلك شبه الخديعة.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قال: وكذلك المؤمنون (معهم). قال ابن عرفة: لا (نتصوّر) الخديعة من
+  المؤمنين لأنهم عصموهم في الدنيا خاصة، والآخرة لا حكم/ لهم (فيها).</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قيل (له): قد يتصوّر باعتبار أنّهم عالمون بهم ومع هذا (تركوا) قتالهم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قال ابن عرفة: وعادتهم يوردون هنا سؤالا وهو أنه عبر عن (نفيهم) عن
+  المؤمنين في قوله:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">وَمَا هُم بِمُؤْمِنِينَ</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">بالوصف المقتضي (أعلى) درجات الفلاح،
+  (فدل على اختصار الفلاح فيه)، ولو أريد: وما هم بمؤمنين الإيمان الكامل، للزم عليه
+  حصول بعض الفلاح لهم والغرض (أنهم) لم يحصل لهم من شيء (فإذا ثبت) أن الفلاح منحصر
   في مسمى المؤمنين لا في مسمى من آمن، فهلا قيل: يخادعون الله والمؤمنين، لأنّ المنافقين
-  يصدق عليهم أنهم ممن آمن؟قال: (والجواب أن المراد الإخبار عنهم بكونهم يخادعون الله
-  تعالى) وكل من اتصف بمطلق الإيمان حتى أنهم (يخادعون) بعضهم فيظن بعضهم في بعض أنه
-  غير منافق فيخادعه والكل منافقون.قوله: { وَمَا يَشْعُرُونَ }.نفى عنهم الشعور، وهو
-  مبادئ الإدراك. (فبنفي) (مبادئ) الإدراك ينتفي كل الإدراك من باب أحرى.\r\n\t\t\t\r\n\t\t\t</section>"
+  يصدق عليهم أنهم ممن آمن؟</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">قال: (والجواب أن المراد الإخبار
+  عنهم بكونهم يخادعون الله تعالى) وكل من اتصف بمطلق الإيمان حتى أنهم (يخادعون) بعضهم
+  فيظن بعضهم في بعض أنه غير منافق فيخادعه والكل منافقون.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قوله:
+  { وَمَا يَشْعُرُونَ }.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">نفى عنهم الشعور، وهو مبادئ الإدراك.
+  (فبنفي) (مبادئ) الإدراك ينتفي كل الإدراك من باب أحرى.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

@@ -1,4 +1,4 @@
-location:
+position:
   sura: 019
   aaya: '075'
   madhab: '01'
@@ -7,22 +7,46 @@ meta:
   title: تفسير جامع البيان في تفسير القرآن
   author: الطبري
   year: '310'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ قُلْ مَن كَانَ
-  فِي ٱلضَّلَـٰلَةِ فَلْيَمْدُدْ لَهُ ٱلرَّحْمَـٰنُ مَدّاً حَتَّىٰ إِذَا رَأَوْاْ
-  مَا يُوعَدُونَ إِمَّا ٱلعَذَابَ وَإِمَّا ٱلسَّاعَةَ فَسَيَعْلَمُونَ مَنْ هُوَ شَرٌّ
-  مَّكَاناً وَأَضْعَفُ جُنداً }يقول تعالـى ذكره لنبـيه مـحمد صلى الله عليه وسلم: قل
-  يا مـحمد لهؤلاء الـمشركين بربهم، القائلـين: إذا تتلـى علـيهم آياتنا، أيّ الفريقـين
-  منا ومنكم خير مقاماً وأحسن ندياً، من كان منا ومنكم فـي الضلالة جائراً عن طريق الـحقّ.
-  سالكاً غير سبـيـل الهدى، { فلـيـمدد له الرحمن مدًّا } يقول: فلـيطوِّل له الله فـي
-  ضلالته، ولـيـمله فـيها إملاء. وبنـحو الذي قلنا فـي ذلك، قال أهل التأويـل. ذكر من
-  قال ذلك:حدثنـي مـحمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، عن ابن أبـي نـجيح،
-  عن مـجاهد، فـي قوله: { فِـي الضَّلالَةِ فَلْـيَـمْدُدْ لَهُ الرَّحْمَنُ مَدًّا }
-  فلـيَدعْه الله فـي طغيانه.وحدثنـي الـحارث، قال: ثنا الـحسن، قال: ثنا ورقاء، عن ابن
-  أبـي نـجيح، عن مـجاهد، مثله.حدثنا القاسم، قال: ثنا الـحسين، قال: ثنـي حجاج، عن ابن
-  جريج، عن مـجاهد، مثله.وقوله: { حتـى إذَا رَأوْا ما يُوعَدُونَ إمَّا العَذَابَ وإمَّا
-  السَّاعَةَ } يقول تعالـى ذكره: قل لهم: من كان منا ومنكم فـي الضلالة، فلـيـمدد له
-  الرحمن فـي ضلالته إلـى أن يأتـيهم أمر الله، إما عذاب عاجل، أو يـلقوا ربهم عند قـيام
-  الساعة التـي وعد الله خـلقه أن يجمعهم لها، فإنهم إذا أتاهم وعد الله بأحد هذين الأمرين
-  { فَسَيَعْلَـمُونَ مَنْ هُوَ شَرٌّ مَكاناً } ومسكنا منكم ومنهم { وأضْعَفُ جُنْداً
-  } أهم أم أنتـم؟ ويتبـينون حينئذٍ أيّ الفريقـين خير مقاماً، وأحسن ندياً.\r\n\t\t\t\r\n\t\t\t</section>"
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(19, 75)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(19,75)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">قُلْ
+  مَن كَانَ فِي ٱلضَّلَـٰلَةِ فَلْيَمْدُدْ لَهُ ٱلرَّحْمَـٰنُ مَدّاً حَتَّىٰ إِذَا
+  رَأَوْاْ مَا يُوعَدُونَ إِمَّا ٱلعَذَابَ وَإِمَّا ٱلسَّاعَةَ فَسَيَعْلَمُونَ مَنْ
+  هُوَ شَرٌّ مَّكَاناً وَأَضْعَفُ جُنداً</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\"
+  dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">يقول تعالـى ذكره
+  لنبـيه مـحمد صلى الله عليه وسلم: قل يا مـحمد لهؤلاء الـمشركين بربهم، القائلـين:
+  إذا تتلـى علـيهم آياتنا، أيّ الفريقـين منا ومنكم خير مقاماً وأحسن ندياً، من كان
+  منا ومنكم فـي الضلالة جائراً عن طريق الـحقّ. سالكاً غير سبـيـل الهدى، { فلـيـمدد
+  له الرحمن مدًّا } يقول: فلـيطوِّل له الله فـي ضلالته، ولـيـمله فـيها إملاء. وبنـحو
+  الذي قلنا فـي ذلك، قال أهل التأويـل. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  مـحمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، عن ابن أبـي نـجيح، عن مـجاهد، فـي
+  قوله: { فِـي الضَّلالَةِ فَلْـيَـمْدُدْ لَهُ الرَّحْمَنُ مَدًّا } فلـيَدعْه الله
+  فـي طغيانه.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وحدثنـي الـحارث، قال: ثنا الـحسن،
+  قال: ثنا ورقاء، عن ابن أبـي نـجيح، عن مـجاهد، مثله.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  القاسم، قال: ثنا الـحسين، قال: ثنـي حجاج، عن ابن جريج، عن مـجاهد، مثله.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقوله: { حتـى إذَا رَأوْا ما يُوعَدُونَ إمَّا العَذَابَ وإمَّا السَّاعَةَ
+  } يقول تعالـى ذكره: قل لهم: من كان منا ومنكم فـي الضلالة، فلـيـمدد له الرحمن فـي
+  ضلالته إلـى أن يأتـيهم أمر الله، إما عذاب عاجل، أو يـلقوا ربهم عند قـيام الساعة
+  التـي وعد الله خـلقه أن يجمعهم لها، فإنهم إذا أتاهم وعد الله بأحد هذين الأمرين {
+  فَسَيَعْلَـمُونَ مَنْ هُوَ شَرٌّ مَكاناً } ومسكنا منكم ومنهم { وأضْعَفُ جُنْداً
+  } أهم أم أنتـم؟ ويتبـينون حينئذٍ أيّ الفريقـين خير مقاماً، وأحسن ندياً.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

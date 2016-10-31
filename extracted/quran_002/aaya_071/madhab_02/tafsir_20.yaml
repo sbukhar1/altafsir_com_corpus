@@ -1,4 +1,4 @@
-location:
+position:
   sura: '002'
   aaya: '071'
   madhab: '02'
@@ -7,43 +7,119 @@ meta:
   title: تفسير التفسير
   author: ابن عرفة
   year: '803'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ قَالَ إِنَّهُ
-  يَقُولُ إِنَّهَا بَقَرَةٌ لاَّ ذَلُولٌ تُثِيرُ ٱلأَرْضَ وَلاَ تَسْقِي ٱلْحَرْثَ
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(2, 71)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(2,71)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">قَالَ
+  إِنَّهُ يَقُولُ إِنَّهَا بَقَرَةٌ لاَّ ذَلُولٌ تُثِيرُ ٱلأَرْضَ وَلاَ تَسْقِي ٱلْحَرْثَ
   مُسَلَّمَةٌ لاَّ شِيَةَ فِيهَا قَالُواْ ٱلآنَ جِئْتَ بِٱلْحَقِّ فَذَبَحُوهَا وَمَا
-  كَادُواْ يَفْعَلُونَ }قوله تعالى: { قَالَ إِنَّهُ يَقُولُ إِنَّهَا بَقَرَةٌ لاَّ
-  ذَلُولٌ تُثِيرُ ٱلأَرْضَ... }فسره الزمخشري بوجهين: إما نفي الإشارة فهو على إضمار
-  \" لاَ \" أي لا تثير الأرض ولا تسقي الحرث، وإما على إثبات الإشارة ونفي السقي أي
-  هي تحرث ولا تسقي. ورد هذا بأنها إذا انتفى عنها أنّها ذلول ثبت كونها صعبة غير مذللةٍ
-  فلا تطاق لا إلى الحرث ولا إلى سقي. وأُجيب عنه بأن ذلولا من أبنية المبالغة فما انتفى
-  عنها إلا الأخص ((من) الذلة فهو نفي (للأخص)، ولم ينتف عنها مطلق الذلة (فهي متوسطة)
-  فلولا كانت صعبة جدا ما حرثت ولا سقت، ولو كانت ذليلة)) فهي منقادة لا صعبة ولا مذللة.وقال
-  الطيبي: يحتمل أن يكون من نفي الشيء بنفي لازمه مثل قول امرىء القيس:على لاَحِبٍ لا
-  يهتدي بمناره   ابن عطية: إنما ذلك حيث يذكر لازم الشيء فقط فيكون نفيه نفيا للملزوم
+  كَادُواْ يَفْعَلُونَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">قوله تعالى: { قَالَ إِنَّهُ يَقُولُ
+  إِنَّهَا بَقَرَةٌ لاَّ ذَلُولٌ تُثِيرُ ٱلأَرْضَ... }</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">فسره
+  الزمخشري بوجهين: إما نفي الإشارة فهو على إضمار \" لاَ \" أي لا تثير الأرض ولا تسقي
+  الحرث، وإما على إثبات الإشارة ونفي السقي أي هي تحرث ولا تسقي. ورد هذا بأنها إذا
+  انتفى عنها أنّها ذلول ثبت كونها صعبة غير مذللةٍ فلا تطاق لا إلى الحرث ولا إلى سقي.
+  وأُجيب عنه بأن ذلولا من أبنية المبالغة فما انتفى عنها إلا الأخص ((من) الذلة فهو
+  نفي (للأخص)، ولم ينتف عنها مطلق الذلة (فهي متوسطة) فلولا كانت صعبة جدا ما حرثت ولا
+  سقت، ولو كانت ذليلة)) فهي منقادة لا صعبة ولا مذللة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  الطيبي: يحتمل أن يكون من نفي الشيء بنفي لازمه مثل قول امرىء القيس:</font></font><table
+  class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">على لاَحِبٍ لا يهتدي بمناره</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\"/></font></b></td></tr></table><font class=\"TextResultArabic\"><font
+  color=\"black\">ابن عطية: إنما ذلك حيث يذكر لازم الشيء فقط فيكون نفيه نفيا للملزوم
   وهنا (ذكر) (الملزوم) ولازمه منفيين فليس من ذلك القبيل إلا لو قيل: لا تثير الأرض
-  ولا تسقي الحرث ولم يقل: لا ذلول.ورد هذا بأن مراد الطيبي (أنّ) نفي (الذلّة) عنها
-  ونفي السقي يستلزمان نفي (إثارتها) الأرض، لأن الإثارة في (الآية) مثبتة غير منفية،
-  وهو مثل قول الله تعالى:{ وَلاَ يُنَبِّئُكَ مِثْلُ خَبِيرٍ }قال الزمخشري: إنه مثل
-  قوله.على لاَحِب لا يهتدي بمناره   ((أي ليس هناك خبير فينبئك، وكذا (كمثل) قولهم هذا
-  يوم (لا) ينادي وليد أي ليس فيه وليد فينادي)) ومثل قول صاحب البردة:فذلك حيِنَ بُلوغٍ
-  من نُبُوَّتهِ   فليس يُنْكَر حالُ محتلِمِأي ليست له حال محتلم فتنكر.فإن قلت: الذّلة
-  والإثارة متلازمان؟قلنا: الذلة في الآية منفية، والإثارة مثبتة، و (لا) يتم ما قال
-  الطيبي إلا إذا (أعرب) \" تثير الأرض \" صفة لـ \" ذلول \" فمعناه لا ذلول مثيرة (الأرض)
-  أي ليست مثيرة الأرض فيكون ذلولا كمعنى البيت المتقدم أي ليس له منار يهتدي (به)، وإن
-  أعربناه صفة للبقرة أو استئنافا أو حالا (فما يجيء) فيه ذلك التفسير، وإذا كان صفة
-  لـ \" ذلول \" فيكون النفي مسلطاً على الموصوف وصفته، (وقصده) ثبوت أحدهما فتكون إما
-  ذلول غير مثيرة ولا مسقية وإما ذلول فقط كقولك: لا رجل صالح في الدار. وضده احتمال
-  كونه: فيها رجل غير صالح، (أو أنها ليس) فيها أحد.قال ابن عرفة: وأخذوا من الآية أن
-  الأمور الجزئية المشخّصة يمكن تعريفها بالخاصة، لأن التعريف بالخواص إنما يكفي عندهم
-  في الأمور الكلية، أما الجزئية فإنها تعرف بتعيينها والإشارة إليها، إذ في الممكن أن
-  يكون في الوجود غيرها مختصا بتلك الصفات.قال: وعادتهم يجيبون بأن الزمان والمكان هنا
-  معينان، فلذلك اكتفى بالتعريف بالخواص ولو كان الزمان (مُبْهَما) لقلنا: في الجائز
-  أن يوجد من هو على تلك الصفة في زمن من الأزمان، أو في غير ذلك المكان إما في ذلك الزمان
-  وإما في ذلك المكان (فيتعين) أن الموصوف شيء واحد لا يحتمل غيره.\r\n\t\t\t\r\n\t\t\t1 2 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ قَالَ إِنَّهُ يَقُولُ إِنَّهَا بَقَرَةٌ
-  لاَّ ذَلُولٌ تُثِيرُ ٱلأَرْضَ وَلاَ تَسْقِي ٱلْحَرْثَ مُسَلَّمَةٌ لاَّ شِيَةَ فِيهَا
-  قَالُواْ ٱلآنَ جِئْتَ بِٱلْحَقِّ فَذَبَحُوهَا وَمَا كَادُواْ يَفْعَلُونَ }واحتجوا
-  بهذه الآية على أبي حنيفة رضي الله عنه لأنه (يمنع) السلم في الحيوان على الصفة، وقال:
-  لا (تخصصه) الصفة، فنقل عنه القرطبي هنا وابن يونس المنع في الحيوان بالإطلاق، ونقل
-  عنه غيرهما أنه خصص ذلك (ببني) آدم.قال ابن عرفة: وله أن يجيب بأن الغرر في البيع معتبر،
-  وهذا ليس ببيع (فلا) يلزم من جواز الاكتفاء (بالصفة) هنا الاكتفاء بها هنالك. انتهى.\r\n\t\t\t\r\n\t\t\t1 2 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  ولا تسقي الحرث ولم يقل: لا ذلول.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">ورد
+  هذا بأن مراد الطيبي (أنّ) نفي (الذلّة) عنها ونفي السقي يستلزمان نفي (إثارتها) الأرض،
+  لأن الإثارة في (الآية) مثبتة غير منفية، وهو مثل قول الله تعالى:</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">وَلاَ
+  يُنَبِّئُكَ مِثْلُ خَبِيرٍ</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">قال الزمخشري: إنه مثل قوله.</font></font><table class=\"TextArabic\"
+  dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">على لاَحِب لا يهتدي بمناره</font></font></b></td><td class=\"TextArabic\">   </td><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\"/></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">((أي ليس هناك خبير فينبئك، وكذا
+  (كمثل) قولهم هذا يوم (لا) ينادي وليد أي ليس فيه وليد فينادي)) ومثل قول صاحب البردة:</font></font><table
+  class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">فذلك حيِنَ بُلوغٍ من نُبُوَّتهِ</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">فليس يُنْكَر حالُ محتلِمِ</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">أي ليست له حال محتلم فتنكر.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">فإن قلت: الذّلة والإثارة متلازمان؟</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قلنا:
+  الذلة في الآية منفية، والإثارة مثبتة، و (لا) يتم ما قال الطيبي إلا إذا (أعرب) \"
+  تثير الأرض \" صفة لـ \" ذلول \" فمعناه لا ذلول مثيرة (الأرض) أي ليست مثيرة الأرض
+  فيكون ذلولا كمعنى البيت المتقدم أي ليس له منار يهتدي (به)، وإن أعربناه صفة للبقرة
+  أو استئنافا أو حالا (فما يجيء) فيه ذلك التفسير، وإذا كان صفة لـ \" ذلول \" فيكون
+  النفي مسلطاً على الموصوف وصفته، (وقصده) ثبوت أحدهما فتكون إما ذلول غير مثيرة ولا
+  مسقية وإما ذلول فقط كقولك: لا رجل صالح في الدار. وضده احتمال كونه: فيها رجل غير
+  صالح، (أو أنها ليس) فيها أحد.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال
+  ابن عرفة: وأخذوا من الآية أن الأمور الجزئية المشخّصة يمكن تعريفها بالخاصة، لأن التعريف
+  بالخواص إنما يكفي عندهم في الأمور الكلية، أما الجزئية فإنها تعرف بتعيينها والإشارة
+  إليها، إذ في الممكن أن يكون في الوجود غيرها مختصا بتلك الصفات.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قال: وعادتهم يجيبون بأن الزمان والمكان هنا معينان، فلذلك اكتفى بالتعريف
+  بالخواص ولو كان الزمان (مُبْهَما) لقلنا: في الجائز أن يوجد من هو على تلك الصفة في
+  زمن من الأزمان، أو في غير ذلك المكان إما في ذلك الزمان وإما في ذلك المكان (فيتعين)
+  أن الموصوف شيء واحد لا يحتمل غيره.</font></font>&#13;\t\t\t<label disabled=\"true\"
+  class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(20,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(20,2,1)\"><u>2</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2, 71)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,71)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">قَالَ إِنَّهُ يَقُولُ إِنَّهَا بَقَرَةٌ لاَّ ذَلُولٌ
+  تُثِيرُ ٱلأَرْضَ وَلاَ تَسْقِي ٱلْحَرْثَ مُسَلَّمَةٌ لاَّ شِيَةَ فِيهَا قَالُواْ
+  ٱلآنَ جِئْتَ بِٱلْحَقِّ فَذَبَحُوهَا وَمَا كَادُواْ يَفْعَلُونَ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">واحتجوا بهذه الآية على أبي حنيفة رضي الله عنه لأنه (يمنع) السلم
+  في الحيوان على الصفة، وقال: لا (تخصصه) الصفة، فنقل عنه القرطبي هنا وابن يونس المنع
+  في الحيوان بالإطلاق، ونقل عنه غيرهما أنه خصص ذلك (ببني) آدم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قال ابن عرفة: وله أن يجيب بأن الغرر في البيع معتبر، وهذا ليس ببيع
+  (فلا) يلزم من جواز الاكتفاء (بالصفة) هنا الاكتفاء بها هنالك. انتهى.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(20,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(20,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section>"
 

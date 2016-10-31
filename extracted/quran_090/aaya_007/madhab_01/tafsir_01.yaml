@@ -1,4 +1,4 @@
-location:
+position:
   sura: 090
   aaya: '007'
   madhab: '01'
@@ -7,160 +7,435 @@ meta:
   title: تفسير جامع البيان في تفسير القرآن
   author: الطبري
   year: '310'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ لاَ أُقْسِمُ بِهَـٰذَا
-  ٱلْبَلَدِ } * { وَأَنتَ حِلٌّ بِهَـٰذَا ٱلْبَلَدِ } * { وَوَالِدٍ وَمَا وَلَدَ }
-  * { لَقَدْ خَلَقْنَا ٱلإِنسَانَ فِي كَبَدٍ } * { أَيَحْسَبُ أَن لَّن يَقْدِرَ عَلَيْهِ
-  أَحَدٌ } * { يَقُولُ أَهْلَكْتُ مَالاً لُّبَداً } * { أَيَحْسَبُ أَن لَّمْ يَرَهُ
-  أَحَدٌ }يقول تعالى ذكره: أقسم يا محمد بهذا البلد الحرام، وهو مكة، وكذلك قال أهل
-  التأويل. ذكر من قال ذلك:حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني
-  أبي، عن أبيه، عن ابن عباس، في قوله: { لا أُقْسِمُ بِهَذَا الْبَلَدِ } يعني: مكة.حدثنا
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(90, 1)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(90,1)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">لاَ
+  أُقْسِمُ بِهَـٰذَا ٱلْبَلَدِ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">وَأَنتَ حِلٌّ بِهَـٰذَا ٱلْبَلَدِ</a> <b>}
+  * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَوَالِدٍ
+  وَمَا وَلَدَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">لَقَدْ خَلَقْنَا ٱلإِنسَانَ فِي كَبَدٍ</a>
+  <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">أَيَحْسَبُ
+  أَن لَّن يَقْدِرَ عَلَيْهِ أَحَدٌ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">يَقُولُ أَهْلَكْتُ
+  مَالاً لُّبَداً</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">أَيَحْسَبُ أَن لَّمْ يَرَهُ أَحَدٌ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">يقول تعالى ذكره: أقسم يا محمد بهذا البلد الحرام، وهو مكة، وكذلك
+  قال أهل التأويل. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس، في
+  قوله: { لا أُقْسِمُ بِهَذَا الْبَلَدِ } يعني: مكة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
   أبو كريب، قال: ثنا وكيع، عن سفيان، عن منصور، عن مجاهد { لا أُقْسِمُ بِهَذَا الْبَلَدِ
-  } قال: مكة.حدثنا ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا سفيان، عن منصور، عن مجاهد
-  { لا أُقْسِمُ بِهَذَا الْبَلَدِ } قال: الحرام.حدثنا ابن حميد، قال: ثنا مهران، عن
-  سفيان، عن منصور، عن مجاهد { لا أُقْسِمُ بِهَذَا الْبَلَدِ } قال: مكة.حدثنا ابن عبد
-  الأعلى، قال: ثنا محمد بن ثور، عن معمر، عن قتادة { لا أُقْسِمُ بِهَذَا الْبَلَدِ
-  } قال: البلد مكة.حدثنا سوار بن عبد الله، قال: ثنا يحيى بن سعيد، عن عبد الملك، عن
-  عطاء، في قوله: { لا أُقْسِمُ بِهَذَا الْبَلَدِ } يعني: مكة.حدثني يونس، قال: أخبرنا
-  ابن وهب، قال: قال ابن زيد، في قول الله: { لا أُقْسِمُ بِهَذَا الْبَلَدِ } قال: مكة.وقوله:
-  { وأنْتَ حِلٌّ بِهَذَا البَلَدِ } يعني: بمكة يقول جلّ ثناؤه لنبيه محمد صلى الله
-  عليه وسلم: وأنت يا محمد حِلّ بهذا البلد، يعني بمكة يقول: أنت به حلال تصنع فيه مِن
-  قَتْلِ من أردت قتلَه، وأَسْرِ من أردت أسره، مُطْلَقٌ ذلك لك يقال منه: هو حِلّ، وهو
-  حلال، وهو حِرْم، وهو حرام، وهو مُحلّ، وهو محرم، وأحللنا، وأحرمنا. وبنحو الذي قلنا
-  في ذلك قال أهل التأويل. ذكر من قال ذلك:حدثني محمد بن سعد، قال: ثني أبي، قال: ثني
-  عمي، قال: ثني أبي، عن أبيه، عن ابن عباس { وأنْتَ حِلُّ بِهَذَا الْبَلَدِ } يعني
-  بذلك: نبيّ الله صلى الله عليه وسلم، أحلّ الله له يوم دخل مكة أن يقتل من شاء، ويستحْيِي
-  من شاء فقتل يومئذٍ ابن خَطَل صَبْراً وهو آخذ بأستار الكعبة، فلم تحلّ لأحد من الناس
-  بعد رسول الله صلى الله عليه وسلم أن يقتل فيها حراماً حرّمه الله، فأحلّ الله له ما
-  صنع بأهل مكة، ألم تسمع أن الله قال في تحريم الحرم:{ ولِلّهِ عَلى النَّاسِ حِجُّ
-  الْبَيْتِ مَنِ اسْتَطاعَ إلَيْهِ سَبِيلاً }يعني بالناس أهل القبلة.حدثنا ابن حميد،
-  قال: ثنا مِهْران، عن سفيان، عن منصور، عن مجاهد { وأنتَ حِلُّ بِهَذَا الْبَلَدِ }
-  قال: ما صنعت فأنت في حِلّ من أمر القتال.حدثنا ابن بشار، قال: ثنا عبد الرحمن، قال:
-  ثنا سفيان، عن منصور، عن مجاهد { وأنْتَ حِلُّ بِهَذَا الْبَلَدِ } قال: أَحَلّ لرسول
-  الله صلى الله عليه وسلم ما صنع فيه ساعة.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ لاَ أُقْسِمُ بِهَـٰذَا ٱلْبَلَدِ }
-  * { وَأَنتَ حِلٌّ بِهَـٰذَا ٱلْبَلَدِ } * { وَوَالِدٍ وَمَا وَلَدَ } * { لَقَدْ
-  خَلَقْنَا ٱلإِنسَانَ فِي كَبَدٍ } * { أَيَحْسَبُ أَن لَّن يَقْدِرَ عَلَيْهِ أَحَدٌ
-  } * { يَقُولُ أَهْلَكْتُ مَالاً لُّبَداً } * { أَيَحْسَبُ أَن لَّمْ يَرَهُ أَحَدٌ
-  }حدثنا ابن حميد، قال: ثنا جرير، عن منصور، عن مجاهد { وأنْتَ حِلٌّ بِهَذَا الْبَلَدِ
-  } قال: أحلّ له أن يصنع فيه ما شاء.حدثنا أبو كريب، قال: ثنا وكيع، عن سفيان، عن منصور
-  { وأنْتَ حِلٌّ بِهَذَا الْبَلَدِ } قال: أُحِلَّت للنبيّ صلى الله عليه وسلم، قال:
-  اصنع فيها ما شئت.حدثني موسى بن عبد الرحمن، قال: ثنا حسين الجُعْفِيّ، عن زائدة، عن
-  منصور، عن مجاهد، في قول الله { وأنْتَ حِلٌّ بِهَذَا الْبَلَدِ } قال: أنت حِلّ مما
-  صنعت فيه.حدثنا ابن حميد، قال: ثنا حكام، عن عمرو، عن منصور، عن مجاهد { وأنْتَ حِلٌّ
-  بِهَذَا الْبَلَدِ } قال: أحلّ الله لك يا محمد ما صنعت في هذا البلد من شيء، يعني
-  مكة.حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى وحدثني الحارث، قال: ثنا
-  الحسن، قال: ثنا ورقاء، جميعاً عن ابن أبي نجيح، عن مجاهد { وأنْتَ حِلٌّ بِهَذَا الْبَلَدِ
-  } قال: لا تؤاخَذَ بما عملت فيه، وليس عليك فيه ما على الناس.حدثنا بشر، قال: ثنا يزيد،
-  قال: ثنا سعيد، عن قتادة { وأنْتَ حِلٌّ بِهَذَا الْبَلَدِ } يقول: بريء عن الحرج والإثم.حدثنا
-  ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة { وأنْتَ حِلٌّ بِهَذَا الْبَلَدِ
-  } يقول: أنت به حلّ لست بآثم.حدثنا يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في
-  قوله: { وأنْتَ حِلٌّ بِهَذَا الْبَلَدَ } قال: لم يكن بها أحد حلاً غير النبيّ صلى
-  الله عليه وسلم، كلّ من كان بها حراماً، لم يحلّ لهم أن يقاتلوا فيها، ولا يستحلوا
-  حرمه، فأحله الله لرسوله، فقاتل المشركين فيه.حدثنا سوار بن عبد الله، قال: ثنا يحيى
-  بن سعيد، عن عبد الملك، عن عطاء { وأنْتَ حِلٌّ بِهَذَا الّبَلَدِ } قال: إن الله حرّم
-  مكة، لم تحلّ لنبيّ إلا نبيكم ساعة من نهار.حُدثت عن الحسين، قال: سمعت أبا معاذ يقول:
-  ثنا عبيد، قال: سمعت الضحاك يقول في قوله: { وأنْتَ حِلٌّ بهَذَا الْبَلَدِ } يعني
-  محمداً، يقول: أنت حلّ بالحرم، فاقتل إن شئت، أو دع.وقوله: { وَوَالِدٍ وَما وَلَدَ
-  } يقول تعالى ذكره: فأقسم بوالد وبولده الذي ولد.ثم اختلف أهل التأويل في المعنيّ بذلك
-  من الوالد وما ولد، فقال بعضهم: عُنِي بالوالد: كلّ والد، وما ولد: كلّ عاقر لم يلد.
-  ذكر من قال ذلك:حدثنا أبو كريب، قال: ثنا ابن عطية، عن شريك، عن خصيف، عن عكرِمة، عن
-  ابن عباس في: { وَوَالِدٍ وَما وَلَدَ } قال: الوالد: الذي يلد، وما ولد: العاقر الذي
-  لا يولد له.حدثنا ابن حميد، قال: ثنا مهران، عن سفيان، عن خَصِيف، عن عكرمة، عن ابن
-  عباس { وَوَالِدٍ وَما وَلَدَ } قال: العاقر، والتي تلد.حدثنا أبو كريب، قال: ثنا وكيع،
-  عن النضر بن عربي، عن عكرِمة { وَوَالِدٍ وَما وَلَدَ } قال: العاقر، والتي تلد.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ لاَ أُقْسِمُ بِهَـٰذَا ٱلْبَلَدِ }
-  * { وَأَنتَ حِلٌّ بِهَـٰذَا ٱلْبَلَدِ } * { وَوَالِدٍ وَمَا وَلَدَ } * { لَقَدْ
-  خَلَقْنَا ٱلإِنسَانَ فِي كَبَدٍ } * { أَيَحْسَبُ أَن لَّن يَقْدِرَ عَلَيْهِ أَحَدٌ
-  } * { يَقُولُ أَهْلَكْتُ مَالاً لُّبَداً } * { أَيَحْسَبُ أَن لَّمْ يَرَهُ أَحَدٌ
-  }حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس
-  { وَوَالِدٍ وَما وَلَدَ } قال: هو الوالد وولده.وقال آخرون: عُنِي بذلك: آدم وولده.
-  ذكر من قال ذلك:حدثني زكريا بن يحيى بن أبي زائدة، قال: ثنا أبو عاصم، قال: ثنا عيسى،
-  عن ابن أبي نجيح، عن مجاهد { وَوَالِدٍ وَما وَلَدَ } قال: الوالد: آدم، وما ولد: ولده.حدثني
-  محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى وحدثني الحارث، قال: ثنا الحسن، قال:
-  ثنا ورقاء، جميعاً عن ابن أبي نجيح، عن مجاهد، قوله: { وَوَالِدٍ وَما وَلَدَ } قال:
-  ولده.حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة { وَوَالِدٍ وَما وَلَدَ }
-  قال: آدم وما ولد.حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة { وَوَالِدٍ
-  وَما وَلَدَ } قال: آدم وما ولد.حدثنا أبو كريب، قال: ثنا ابن أبي زائدة، عن ابن أبي
-  خالد، عن أبي صالح في قول الله { وَوَالِدٍ وَما وَلَدَ } قال: آدم وما ولد.حُدثت عن
-  الحسين، قال: سمعت أبا معاذ يقول: ثنا عبيد، قال: سمعت الضحاك يقول، في قوله: { وَوَالِدٍ
-  وَما وَلَدَ } قال: الوالد: آدم، وما ولد: ولده.حدثنا ابن حميد، قال: ثنا مهران، عن
-  سفيان، قوله: { وَوَالِدٍ وَما وَلَدَ } قال: آدم وما ولد.حدثني يونس بن عبد الأعلى،
-  قال: ثنا محمد بن عبيد، عن إسماعيل بن أبي خالد، عن أبي صالح، في قوله: { وَوَالِدٍ
-  وَما وَلَدَ } قال: آدم وما ولد.وقال آخرون: عُنِي بذلك: إبراهيم وما ولد. ذكر من قال
-  ذلك:حدثني محمد بن موسى الحَرَشِيّ، قال: ثنا جعفر بن سليمان، قال: سمعت أبا عمران
-  الجَوْنِيّ يقرأ: { وَوَالِدٍ وَما وَلَدَ } قال: إبراهيم وما ولد.والصواب من القول
-  في ذلك: ما قاله الذي قالوا: إن الله أقسم بكلّ والد وولده، لأن الله عمّ كلّ والد
-  وما ولد. وغير جائز أن يخصّ ذلك إلا بحجة يجب التسليم لها من خبر، أو عقل، ولا خبر
-  بخصوص ذلك، ولا برهان يجب التسليم له بخصوصه، فهو على عمومه كما عمَّه.وقوله: { لَقَدْ
-  خَلَقْنا الإنْسانَ فِي كَبَدٍ } وهذا هو جواب القسم.حدثنا بشر، قال: ثنا يزيد، قال:
-  ثنا سعيد، عن قتادة، قال: وقع ههنا القسم { لَقَدْ خَلَقْنا الإنْسانَ فِي كَبَدٍ }.واختلف
+  } قال: مكة.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن بشار، قال: ثنا عبد الرحمن،
+  قال: ثنا سفيان، عن منصور، عن مجاهد { لا أُقْسِمُ بِهَذَا الْبَلَدِ } قال: الحرام.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن حميد، قال: ثنا مهران، عن سفيان، عن منصور، عن مجاهد { لا
+  أُقْسِمُ بِهَذَا الْبَلَدِ } قال: مكة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن عبد الأعلى، قال: ثنا محمد بن ثور، عن معمر، عن قتادة { لا أُقْسِمُ بِهَذَا الْبَلَدِ
+  } قال: البلد مكة.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا سوار بن عبد الله، قال: ثنا
+  يحيى بن سعيد، عن عبد الملك، عن عطاء، في قوله: { لا أُقْسِمُ بِهَذَا الْبَلَدِ }
+  يعني: مكة.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثني يونس، قال: أخبرنا ابن وهب،
+  قال: قال ابن زيد، في قول الله: { لا أُقْسِمُ بِهَذَا الْبَلَدِ } قال: مكة.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقوله: { وأنْتَ حِلٌّ بِهَذَا البَلَدِ } يعني: بمكة يقول جلّ ثناؤه
+  لنبيه محمد صلى الله عليه وسلم: وأنت يا محمد حِلّ بهذا البلد، يعني بمكة يقول: أنت
+  به حلال تصنع فيه مِن قَتْلِ من أردت قتلَه، وأَسْرِ من أردت أسره، مُطْلَقٌ ذلك لك
+  يقال منه: هو حِلّ، وهو حلال، وهو حِرْم، وهو حرام، وهو مُحلّ، وهو محرم، وأحللنا،
+  وأحرمنا. وبنحو الذي قلنا في ذلك قال أهل التأويل. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن
+  أبيه، عن ابن عباس { وأنْتَ حِلُّ بِهَذَا الْبَلَدِ } يعني بذلك: نبيّ الله صلى الله
+  عليه وسلم، أحلّ الله له يوم دخل مكة أن يقتل من شاء، ويستحْيِي من شاء فقتل يومئذٍ
+  ابن خَطَل صَبْراً وهو آخذ بأستار الكعبة، فلم تحلّ لأحد من الناس بعد رسول الله صلى
+  الله عليه وسلم أن يقتل فيها حراماً حرّمه الله، فأحلّ الله له ما صنع بأهل مكة، ألم
+  تسمع أن الله قال في تحريم الحرم:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">ولِلّهِ عَلى النَّاسِ حِجُّ الْبَيْتِ
+  مَنِ اسْتَطاعَ إلَيْهِ سَبِيلاً</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">يعني بالناس أهل القبلة.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن حميد، قال: ثنا مِهْران، عن سفيان، عن منصور، عن مجاهد {
+  وأنتَ حِلُّ بِهَذَا الْبَلَدِ } قال: ما صنعت فأنت في حِلّ من أمر القتال.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا سفيان، عن منصور، عن
+  مجاهد { وأنْتَ حِلُّ بِهَذَا الْبَلَدِ } قال: أَحَلّ لرسول الله صلى الله عليه وسلم
+  ما صنع فيه ساعة.</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\"
+  border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE:
+  none; BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(90, 1)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(90,1)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">لاَ أُقْسِمُ بِهَـٰذَا ٱلْبَلَدِ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَأَنتَ
+  حِلٌّ بِهَـٰذَا ٱلْبَلَدِ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">وَوَالِدٍ وَمَا وَلَدَ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">لَقَدْ
+  خَلَقْنَا ٱلإِنسَانَ فِي كَبَدٍ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">أَيَحْسَبُ أَن لَّن يَقْدِرَ عَلَيْهِ أَحَدٌ</a>
+  <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">يَقُولُ
+  أَهْلَكْتُ مَالاً لُّبَداً</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">أَيَحْسَبُ أَن لَّمْ يَرَهُ أَحَدٌ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن حميد، قال: ثنا جرير، عن منصور، عن مجاهد { وأنْتَ حِلٌّ
+  بِهَذَا الْبَلَدِ } قال: أحلّ له أن يصنع فيه ما شاء.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  أبو كريب، قال: ثنا وكيع، عن سفيان، عن منصور { وأنْتَ حِلٌّ بِهَذَا الْبَلَدِ } قال:
+  أُحِلَّت للنبيّ صلى الله عليه وسلم، قال: اصنع فيها ما شئت.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  موسى بن عبد الرحمن، قال: ثنا حسين الجُعْفِيّ، عن زائدة، عن منصور، عن مجاهد، في قول
+  الله { وأنْتَ حِلٌّ بِهَذَا الْبَلَدِ } قال: أنت حِلّ مما صنعت فيه.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن حميد، قال: ثنا حكام، عن عمرو، عن منصور، عن مجاهد { وأنْتَ
+  حِلٌّ بِهَذَا الْبَلَدِ } قال: أحلّ الله لك يا محمد ما صنعت في هذا البلد من شيء،
+  يعني مكة.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثني محمد بن عمرو، قال: ثنا أبو
+  عاصم، قال: ثنا عيسى وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، جميعاً عن ابن
+  أبي نجيح، عن مجاهد { وأنْتَ حِلٌّ بِهَذَا الْبَلَدِ } قال: لا تؤاخَذَ بما عملت فيه،
+  وليس عليك فيه ما على الناس.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة { وأنْتَ حِلٌّ بِهَذَا الْبَلَدِ } يقول:
+  بريء عن الحرج والإثم.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن عبد الأعلى، قال: ثنا
+  ابن ثور، عن معمر، عن قتادة { وأنْتَ حِلٌّ بِهَذَا الْبَلَدِ } يقول: أنت به حلّ لست
+  بآثم.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا يونس، قال: أخبرنا ابن وهب،
+  قال: قال ابن زيد، في قوله: { وأنْتَ حِلٌّ بِهَذَا الْبَلَدَ } قال: لم يكن بها أحد
+  حلاً غير النبيّ صلى الله عليه وسلم، كلّ من كان بها حراماً، لم يحلّ لهم أن يقاتلوا
+  فيها، ولا يستحلوا حرمه، فأحله الله لرسوله، فقاتل المشركين فيه.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا سوار بن عبد الله، قال: ثنا يحيى بن سعيد، عن عبد الملك، عن
+  عطاء { وأنْتَ حِلٌّ بِهَذَا الّبَلَدِ } قال: إن الله حرّم مكة، لم تحلّ لنبيّ إلا
+  نبيكم ساعة من نهار.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حُدثت عن الحسين، قال: سمعت أبا
+  معاذ يقول: ثنا عبيد، قال: سمعت الضحاك يقول في قوله: { وأنْتَ حِلٌّ بهَذَا الْبَلَدِ
+  } يعني محمداً، يقول: أنت حلّ بالحرم، فاقتل إن شئت، أو دع.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقوله:
+  { وَوَالِدٍ وَما وَلَدَ } يقول تعالى ذكره: فأقسم بوالد وبولده الذي ولد.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">ثم اختلف أهل التأويل في المعنيّ بذلك من الوالد وما ولد، فقال بعضهم:
+  عُنِي بالوالد: كلّ والد، وما ولد: كلّ عاقر لم يلد. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا أبو كريب، قال: ثنا ابن عطية، عن شريك، عن خصيف، عن عكرِمة،
+  عن ابن عباس في: { وَوَالِدٍ وَما وَلَدَ } قال: الوالد: الذي يلد، وما ولد: العاقر
+  الذي لا يولد له.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن حميد، قال: ثنا مهران،
+  عن سفيان، عن خَصِيف، عن عكرمة، عن ابن عباس { وَوَالِدٍ وَما وَلَدَ } قال: العاقر،
+  والتي تلد.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا أبو كريب، قال: ثنا وكيع،
+  عن النضر بن عربي، عن عكرِمة { وَوَالِدٍ وَما وَلَدَ } قال: العاقر، والتي تلد.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(90, 1)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(90,1)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">لاَ أُقْسِمُ بِهَـٰذَا ٱلْبَلَدِ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَأَنتَ
+  حِلٌّ بِهَـٰذَا ٱلْبَلَدِ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">وَوَالِدٍ وَمَا وَلَدَ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">لَقَدْ
+  خَلَقْنَا ٱلإِنسَانَ فِي كَبَدٍ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">أَيَحْسَبُ أَن لَّن يَقْدِرَ عَلَيْهِ أَحَدٌ</a>
+  <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">يَقُولُ
+  أَهْلَكْتُ مَالاً لُّبَداً</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">أَيَحْسَبُ أَن لَّمْ يَرَهُ أَحَدٌ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن
+  أبيه، عن ابن عباس { وَوَالِدٍ وَما وَلَدَ } قال: هو الوالد وولده.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال آخرون: عُنِي بذلك: آدم وولده. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني زكريا بن يحيى بن أبي زائدة، قال: ثنا أبو عاصم، قال: ثنا عيسى،
+  عن ابن أبي نجيح، عن مجاهد { وَوَالِدٍ وَما وَلَدَ } قال: الوالد: آدم، وما ولد: ولده.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى وحدثني الحارث،
+  قال: ثنا الحسن، قال: ثنا ورقاء، جميعاً عن ابن أبي نجيح، عن مجاهد، قوله: { وَوَالِدٍ
+  وَما وَلَدَ } قال: ولده.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا بشر، قال: ثنا يزيد، قال:
+  ثنا سعيد، عن قتادة { وَوَالِدٍ وَما وَلَدَ } قال: آدم وما ولد.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة { وَوَالِدٍ
+  وَما وَلَدَ } قال: آدم وما ولد.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  أبو كريب، قال: ثنا ابن أبي زائدة، عن ابن أبي خالد، عن أبي صالح في قول الله { وَوَالِدٍ
+  وَما وَلَدَ } قال: آدم وما ولد.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حُدثت
+  عن الحسين، قال: سمعت أبا معاذ يقول: ثنا عبيد، قال: سمعت الضحاك يقول، في قوله: {
+  وَوَالِدٍ وَما وَلَدَ } قال: الوالد: آدم، وما ولد: ولده.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن حميد، قال: ثنا مهران، عن سفيان، قوله: { وَوَالِدٍ وَما وَلَدَ } قال: آدم وما
+  ولد.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثني يونس بن عبد الأعلى، قال:
+  ثنا محمد بن عبيد، عن إسماعيل بن أبي خالد، عن أبي صالح، في قوله: { وَوَالِدٍ وَما
+  وَلَدَ } قال: آدم وما ولد.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال آخرون: عُنِي بذلك: إبراهيم
+  وما ولد. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثني محمد بن موسى الحَرَشِيّ،
+  قال: ثنا جعفر بن سليمان، قال: سمعت أبا عمران الجَوْنِيّ يقرأ: { وَوَالِدٍ وَما وَلَدَ
+  } قال: إبراهيم وما ولد.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">والصواب من القول في ذلك: ما قاله
+  الذي قالوا: إن الله أقسم بكلّ والد وولده، لأن الله عمّ كلّ والد وما ولد. وغير جائز
+  أن يخصّ ذلك إلا بحجة يجب التسليم لها من خبر، أو عقل، ولا خبر بخصوص ذلك، ولا برهان
+  يجب التسليم له بخصوصه، فهو على عمومه كما عمَّه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقوله:
+  { لَقَدْ خَلَقْنا الإنْسانَ فِي كَبَدٍ } وهذا هو جواب القسم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قال: وقع ههنا
+  القسم { لَقَدْ خَلَقْنا الإنْسانَ فِي كَبَدٍ }.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">واختلف
   أهل التأويل في تأويل ذلك، فقال بعضهم: معناه: لقد خلقنا ابن آدم في شدّة وعناء ونصب.
-  ذكر من قال ذلك:حدثنا عليّ، قال: ثنا أبو صالح، قال: ثني معاوية، عن عليّ، عن ابن عباس،
-  قوله: { لَقَدْ خَلَقْنا الإنْسانَ فِي كَبَدٍ } يقول: في نَصَب.حدثنا ابن المثنى،
-  قال: ثنا محمد بن جعفر، قال: ثنا سعيد، عن منصور بن زاذان، عن الحسن، أنه قال في هذه
-  الآية: { لَقَدْ خَلَقَنا الإنْسانَ فِي كَبَدٍ } يقول: في شدّة.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ لاَ أُقْسِمُ بِهَـٰذَا ٱلْبَلَدِ }
-  * { وَأَنتَ حِلٌّ بِهَـٰذَا ٱلْبَلَدِ } * { وَوَالِدٍ وَمَا وَلَدَ } * { لَقَدْ
-  خَلَقْنَا ٱلإِنسَانَ فِي كَبَدٍ } * { أَيَحْسَبُ أَن لَّن يَقْدِرَ عَلَيْهِ أَحَدٌ
-  } * { يَقُولُ أَهْلَكْتُ مَالاً لُّبَداً } * { أَيَحْسَبُ أَن لَّمْ يَرَهُ أَحَدٌ
-  }حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة { لَقَدْ خَلَقْنا الإنْسانَ فِي
-  كَبَدٍ } حين خُلِق في مشقة لا يُلفى ابن آدم إلا مكابدا أمر الدنيا والآخرة.حدثنا
-  ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة، في قوله: { فِي كَبَدٍ } قال:
-  يكابد أمر الدنيا والآخرة.وقال بعضهم: خُلِق خَلْقاً لم نَخْلق خلقَه شيئاً. ذكر من
-  قال ذلك:حدثنا أبو كريب، قال: ثنا وكيع، عن عليّ بن رفاعة، قال: سمعت الحسن يقول: لم
-  يخلق الله خلقاً يكابد ما يُكابد ابن آدم.قال: ثنا وكيع، عن عليّ بن رفاعة، قال: سمعت
-  سعيد بن أبي الحسن يقول: { لَقَدْ خَلَقْنا الإنْسانَ فِي كَبَدٍ } قال: يكابد مصائب
-  الدنيا، وشدائد الآخرة.قال: ثنا وكيع، عن النضر، عن عكرِمة قال: { لَقَدْ خَلَقْنا
-  الإنْسانَ فِي كَبَدٍ } قال: في شدّة.حدثنا ابن حميد، قال: ثنا مهران، عن سفيان، عن
-  عطاء، عن سعيد بن جُبير، عن ابن عباس { لَقَدْ خَلَقْنا الإنْسانَ فِي كَبَدٍ } قال:
-  في شدّة.قال: ثنا مهران، عن سفيان، عن ابن جريج، عن عطاء، عن ابن عباس، قال: في شدّة
-  معيشته، وحمله وحياته، ونبات أسنانه.قال: ثنا مهران، عن سفيان، قال: قال مجاهد { الإنْسانَ
-  فِي كَبَدٍ } قال: شدة خروج أسنانه.حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا
-  عيسى وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، جميعاً عن ابن أبي نجيح، عن مجاهد،
-  قوله: { الإنْسانَ فِي كَبَدٍ } قال: شدّة.وقال آخرون: معنى ذلك أنه خُلق منتصباً معتدل
-  القامة. ذكر من قال ذلك:حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي،
-  عن أبيه، عن ابن عباس، قوله: { لَقَدْ خَلَقْنا الإنْسانَ فِي كَبَدٍ } قال: في انتصاب،
-  ويقال: في شدّة.حدثنا ابن المثنى، قال: ثنا حرمي بن عمارة، قال: ثنا شعبة، قال: أخبرني
-  عُمارة، عن عكرِمة، في قوله: { لَقَدْ خَلَقْنا الإنْسانَ فِي كَبَدٍ } قال: في انتصاب،
-  يعني القامة.حدثنا ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا سفيان، عن منصور، عن إبراهيم
-  { لَقَدْ خَلَقْنا الإنْسانَ فِي كَبَدٍ } قال: منتصباً.حدثنا ابن حميد، قال: ثنا مهران
-  وحدثنا أبو كريب، قال: ثنا وكيع، جميعاً عن سفيان، عن منصور، عن إبراهيم، مثله.حدثنا
-  أبو كريب، قال: ثنا ابن أبي زائدة، عن إسماعيل بن أبي خالد، عن عبد الله بن شَدَّاد،
-  في قوله: { لَقَدْ خَلَقْنا الإنْسانَ فِي كَبَدٍ } قال: معتدلاً بالقامة، قال أبو
-  صالح: معتدلاً في القامة.حدثنا يحيى بن داود الواسطيّ، قال: ثنا يحيى بن سعيد القطان،
-  عن إسماعيل، عن أبي صالح { خَلَقْنا الإنْسانَ في كَبَدٍ } قال: قائماً.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ لاَ أُقْسِمُ بِهَـٰذَا ٱلْبَلَدِ }
-  * { وَأَنتَ حِلٌّ بِهَـٰذَا ٱلْبَلَدِ } * { وَوَالِدٍ وَمَا وَلَدَ } * { لَقَدْ
-  خَلَقْنَا ٱلإِنسَانَ فِي كَبَدٍ } * { أَيَحْسَبُ أَن لَّن يَقْدِرَ عَلَيْهِ أَحَدٌ
-  } * { يَقُولُ أَهْلَكْتُ مَالاً لُّبَداً } * { أَيَحْسَبُ أَن لَّمْ يَرَهُ أَحَدٌ
-  }حُدثت عن الحسين، قال: سمعت أبا معاذ يقول: ثنا عبيد، قال: سمعت الضحاك يقول، في قوله:
-  { فِي كَبَدٍ } خُلِق منتصباً على رجلين، لم تخلق دابة على خلقه.حدثنا ابن حميد، قال:
-  ثنا جرير، عن مُغيرة، عن مجاهد { لَقَدْ خَلَقْنا الإنْسانَ فِي كَبَدٍ } قال: في صَعَد.وقال
-  آخرون: بل معنى ذلك: أنه خُلق في السماء. ذكر من قال ذلك:حدثني يونس، قال: أخبرنا ابن
-  وهب، قال: قال ابن زيد، في قوله: { لَقَدْ خَلَقْنا الإنْسانَ فِي كَبَدٍ } قال: في
-  السماء، يسمى ذلك الكَبَد.وأولى الأقوال في ذلك بالصواب: قول من قال: معنى ذلك أنه
-  خلق يُكابد الأمور ويُعالجها، فقوله: { فِي كَبَدٍ } معناه: في شدّة.وإنما قلنا: ذلك
-  أولى بالصواب، لأن ذلك هو المعروف في كلام العرب من معاني الكَبَد ومنه قول لبيد بن
-  ربيعة:عَيْنِ هِلاَّ بَكَيْتِ أرْبَدَ إذْ   قُمْنا وَقامَ الخُصُوم فِي كَبَدِوقوله:
-  { أَيَحَسَبُ أنْ لَنْ يَقْدِرَ عَلَيْهِ أحَدٌ } ذُكر أن ذلك نزل في رجل بعينه من
-  بني جُمح، كان يُدعى أبا الأشدّ، وكان شديداً، فقال جلّ ثناؤه: أيحسب هذا القويّ بجَلَده
-  وقوّته، أن لن يقهره أحد ويغلبه، فالله غالبه وقاهره.وقوله: { يَقُولُ أهْلَكْتُ مالاً
-  لُبَداً } يقول هذا الجليد الشديد: أهلكت مالاً كثيراً، في عداوة محمد صلى الله عليه
-  وسلم، فأنفقت ذلك فيه، وهو كاذب في قوله ذلك وهو فعل من التلبد، وهو الكثير، بعضه على
-  بعض، يقال منه: لَبد بالأرض يَلْبُد: إذا لصق بها. وبنحو الذي قلنا في ذلك قال أهل
-  التأويل. ذكر من قال ذلك:حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني
-  أبي، عن أبيه، عن ابن عباس: { مالاً لُبَداً } يعني باللبد: المال الكثير.حدثني محمد
-  بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى وحدثني الحارث، قال: ثنا الحسن، قال: ثنا
-  ورقاء، جميعاً عن ابن أبي نجيح، عن مجاهد { مالاً لُبَداً } قال: كثيراً.حدثني يونس،
-  قال: أخبرنا ابن وهب، قال: أخبرني مسلم، عن ابن أبي نجيح، عن مجاهد، في قوله: { أهْلَكْتُ
-  مالاً لُبَداً }. قال: مالاً كثيراً.حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة،
-  قوله: { أهْلَكْتُ مالاً لُبَداً }: أي كثيراً.حدثنا ابن عبد الأعلى، قال: ثنا ابن
-  ثور، عن معمر، عن قتادة، مثله.حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد،
-  في قوله: { مالاً لُبَداً } قال: اللبد: الكثير.واختلفت القرّاء في قراءة ذلك، فقرأته
-  عامة قرّاء الأمصار: { مالاً لُبَداً } بتخفيف الباء. وقرأه أبو جعفر بتشديدها. والصواب
-  بتخفيفها، لإجماع الحجة عليه.وقوله: { أَيَحْسَبُ أنْ لَمْ يَرَهُ أحَدٌ } يقول تعالى
-  ذكره: أيظنّ هذا القائل { أهْلَكْتُ مالاً لُبَداً } أن لم يره أحد في حال إنفاقه ما
-  يزعم أنه أنفقه.حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة { أَيَحْسَبُ أنْ
-  لَمْ يَرَهُ أحَدٌ } ابن آدم إنك مسئول عن هذا المال، من أين اكتسبته، وأين أنفقته.حدثنا
-  ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة، مثله.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا عليّ، قال: ثنا أبو صالح،
+  قال: ثني معاوية، عن عليّ، عن ابن عباس، قوله: { لَقَدْ خَلَقْنا الإنْسانَ فِي كَبَدٍ
+  } يقول: في نَصَب.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن المثنى، قال: ثنا محمد
+  بن جعفر، قال: ثنا سعيد، عن منصور بن زاذان، عن الحسن، أنه قال في هذه الآية: { لَقَدْ
+  خَلَقَنا الإنْسانَ فِي كَبَدٍ } يقول: في شدّة.</font></font>&#13;\t\t\t<label disabled=\"true\"
+  class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">3 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(90, 1)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(90,1)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">لاَ أُقْسِمُ بِهَـٰذَا ٱلْبَلَدِ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَأَنتَ
+  حِلٌّ بِهَـٰذَا ٱلْبَلَدِ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">وَوَالِدٍ وَمَا وَلَدَ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">لَقَدْ
+  خَلَقْنَا ٱلإِنسَانَ فِي كَبَدٍ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">أَيَحْسَبُ أَن لَّن يَقْدِرَ عَلَيْهِ أَحَدٌ</a>
+  <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">يَقُولُ
+  أَهْلَكْتُ مَالاً لُّبَداً</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">أَيَحْسَبُ أَن لَّمْ يَرَهُ أَحَدٌ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة { لَقَدْ خَلَقْنا
+  الإنْسانَ فِي كَبَدٍ } حين خُلِق في مشقة لا يُلفى ابن آدم إلا مكابدا أمر الدنيا
+  والآخرة.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن عبد الأعلى، قال: ثنا
+  ابن ثور، عن معمر، عن قتادة، في قوله: { فِي كَبَدٍ } قال: يكابد أمر الدنيا والآخرة.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال بعضهم: خُلِق خَلْقاً لم نَخْلق خلقَه شيئاً. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا أبو كريب، قال: ثنا وكيع، عن عليّ بن رفاعة، قال: سمعت الحسن
+  يقول: لم يخلق الله خلقاً يكابد ما يُكابد ابن آدم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال:
+  ثنا وكيع، عن عليّ بن رفاعة، قال: سمعت سعيد بن أبي الحسن يقول: { لَقَدْ خَلَقْنا
+  الإنْسانَ فِي كَبَدٍ } قال: يكابد مصائب الدنيا، وشدائد الآخرة.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قال: ثنا وكيع، عن النضر، عن عكرِمة قال: { لَقَدْ خَلَقْنا الإنْسانَ
+  فِي كَبَدٍ } قال: في شدّة.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن حميد، قال: ثنا مهران،
+  عن سفيان، عن عطاء، عن سعيد بن جُبير، عن ابن عباس { لَقَدْ خَلَقْنا الإنْسانَ فِي
+  كَبَدٍ } قال: في شدّة.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">قال: ثنا مهران، عن سفيان، عن ابن
+  جريج، عن عطاء، عن ابن عباس، قال: في شدّة معيشته، وحمله وحياته، ونبات أسنانه.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قال: ثنا مهران، عن سفيان، قال: قال مجاهد { الإنْسانَ فِي كَبَدٍ
+  } قال: شدة خروج أسنانه.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثني محمد بن عمرو، قال: ثنا أبو
+  عاصم، قال: ثنا عيسى وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، جميعاً عن ابن
+  أبي نجيح، عن مجاهد، قوله: { الإنْسانَ فِي كَبَدٍ } قال: شدّة.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال آخرون: معنى ذلك أنه خُلق منتصباً معتدل القامة. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن
+  أبيه، عن ابن عباس، قوله: { لَقَدْ خَلَقْنا الإنْسانَ فِي كَبَدٍ } قال: في انتصاب،
+  ويقال: في شدّة.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن المثنى، قال: ثنا حرمي
+  بن عمارة، قال: ثنا شعبة، قال: أخبرني عُمارة، عن عكرِمة، في قوله: { لَقَدْ خَلَقْنا
+  الإنْسانَ فِي كَبَدٍ } قال: في انتصاب، يعني القامة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا سفيان، عن منصور، عن إبراهيم { لَقَدْ خَلَقْنا
+  الإنْسانَ فِي كَبَدٍ } قال: منتصباً.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن حميد، قال: ثنا مهران وحدثنا أبو كريب، قال: ثنا وكيع، جميعاً عن سفيان، عن منصور،
+  عن إبراهيم، مثله.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا أبو كريب، قال: ثنا ابن أبي
+  زائدة، عن إسماعيل بن أبي خالد، عن عبد الله بن شَدَّاد، في قوله: { لَقَدْ خَلَقْنا
+  الإنْسانَ فِي كَبَدٍ } قال: معتدلاً بالقامة، قال أبو صالح: معتدلاً في القامة.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا يحيى بن داود الواسطيّ، قال: ثنا يحيى بن سعيد القطان، عن إسماعيل،
+  عن أبي صالح { خَلَقْنا الإنْسانَ في كَبَدٍ } قال: قائماً.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">4 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(90, 1)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(90,1)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">لاَ أُقْسِمُ بِهَـٰذَا ٱلْبَلَدِ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَأَنتَ
+  حِلٌّ بِهَـٰذَا ٱلْبَلَدِ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">وَوَالِدٍ وَمَا وَلَدَ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">لَقَدْ
+  خَلَقْنَا ٱلإِنسَانَ فِي كَبَدٍ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">أَيَحْسَبُ أَن لَّن يَقْدِرَ عَلَيْهِ أَحَدٌ</a>
+  <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">يَقُولُ
+  أَهْلَكْتُ مَالاً لُّبَداً</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">أَيَحْسَبُ أَن لَّمْ يَرَهُ أَحَدٌ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">حُدثت عن الحسين، قال: سمعت أبا معاذ يقول: ثنا عبيد، قال: سمعت الضحاك
+  يقول، في قوله: { فِي كَبَدٍ } خُلِق منتصباً على رجلين، لم تخلق دابة على خلقه.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن حميد، قال: ثنا جرير، عن مُغيرة، عن مجاهد { لَقَدْ خَلَقْنا
+  الإنْسانَ فِي كَبَدٍ } قال: في صَعَد.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  آخرون: بل معنى ذلك: أنه خُلق في السماء. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله: { لَقَدْ خَلَقْنا الإنْسانَ
+  فِي كَبَدٍ } قال: في السماء، يسمى ذلك الكَبَد.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وأولى
+  الأقوال في ذلك بالصواب: قول من قال: معنى ذلك أنه خلق يُكابد الأمور ويُعالجها، فقوله:
+  { فِي كَبَدٍ } معناه: في شدّة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وإنما
+  قلنا: ذلك أولى بالصواب، لأن ذلك هو المعروف في كلام العرب من معاني الكَبَد ومنه قول
+  لبيد بن ربيعة:</font></font><table class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">عَيْنِ هِلاَّ
+  بَكَيْتِ أرْبَدَ إذْ</font></font></b></td><td class=\"TextArabic\">   </td><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">قُمْنا وَقامَ
+  الخُصُوم فِي كَبَدِ</font></font></b></td></tr></table><font class=\"TextResultArabic\"><font
+  color=\"black\">وقوله: { أَيَحَسَبُ أنْ لَنْ يَقْدِرَ عَلَيْهِ أحَدٌ } ذُكر أن ذلك
+  نزل في رجل بعينه من بني جُمح، كان يُدعى أبا الأشدّ، وكان شديداً، فقال جلّ ثناؤه:
+  أيحسب هذا القويّ بجَلَده وقوّته، أن لن يقهره أحد ويغلبه، فالله غالبه وقاهره.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقوله: { يَقُولُ أهْلَكْتُ مالاً لُبَداً } يقول هذا الجليد الشديد:
+  أهلكت مالاً كثيراً، في عداوة محمد صلى الله عليه وسلم، فأنفقت ذلك فيه، وهو كاذب في
+  قوله ذلك وهو فعل من التلبد، وهو الكثير، بعضه على بعض، يقال منه: لَبد بالأرض يَلْبُد:
+  إذا لصق بها. وبنحو الذي قلنا في ذلك قال أهل التأويل. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن
+  أبيه، عن ابن عباس: { مالاً لُبَداً } يعني باللبد: المال الكثير.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى وحدثني الحارث،
+  قال: ثنا الحسن، قال: ثنا ورقاء، جميعاً عن ابن أبي نجيح، عن مجاهد { مالاً لُبَداً
+  } قال: كثيراً.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثني يونس، قال: أخبرنا ابن وهب،
+  قال: أخبرني مسلم، عن ابن أبي نجيح، عن مجاهد، في قوله: { أهْلَكْتُ مالاً لُبَداً
+  }. قال: مالاً كثيراً.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا بشر، قال: ثنا يزيد، قال:
+  ثنا سعيد، عن قتادة، قوله: { أهْلَكْتُ مالاً لُبَداً }: أي كثيراً.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة، مثله.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله: { مالاً
+  لُبَداً } قال: اللبد: الكثير.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">واختلفت
+  القرّاء في قراءة ذلك، فقرأته عامة قرّاء الأمصار: { مالاً لُبَداً } بتخفيف الباء.
+  وقرأه أبو جعفر بتشديدها. والصواب بتخفيفها، لإجماع الحجة عليه.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقوله: { أَيَحْسَبُ أنْ لَمْ يَرَهُ أحَدٌ } يقول تعالى ذكره: أيظنّ
+  هذا القائل { أهْلَكْتُ مالاً لُبَداً } أن لم يره أحد في حال إنفاقه ما يزعم أنه أنفقه.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة { أَيَحْسَبُ أنْ
+  لَمْ يَرَهُ أحَدٌ } ابن آدم إنك مسئول عن هذا المال، من أين اكتسبته، وأين أنفقته.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة، مثله.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">5 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a id=\"NextClass\"/></td></tr></table></center></div></section>"
 

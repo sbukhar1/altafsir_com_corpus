@@ -1,4 +1,4 @@
-location:
+position:
   sura: '025'
   aaya: '061'
   madhab: '01'
@@ -7,15 +7,38 @@ meta:
   title: تفسير الكشاف
   author: الزمخشري
   year: '538'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ تَبَارَكَ ٱلَّذِي
-  جَعَلَ فِي ٱلسَّمَآءِ بُرُوجاً وَجَعَلَ فِيهَا سِرَاجاً وَقَمَراً مُّنِيراً }البروج:
-  منازل الكواكب السبعة السيارة: الحمل، والثور، والجوزاء، والسرطان، والأسد، والسنبلة،
-  والميزان، والعقرب، والقوس، والجدي، والدلو، والحوت: وسميت بالبروج التي هي القصور
-  العالية؛ لأنها لهذه الكواكب كالمنازل لسكانها. واشتقاق البرج من التبرج؛ لظهوره. والسراج:
-  الشمس كقوله تعالى:{ وَجَعَلَ ٱلشَّمْسَ سِرَاجاً }[نوح: 16] وقرىء: «سرجا» وهي الشمس
-  والكواكب الكبار معها. وقرأ الحسن والأعمش: «وقمراً منيراً» وهي جمع ليلة قمراء، كأنه
-  قال: وذا قمر منيراً؛ لأنّ الليالي تكون قمراً بالقمر، فأضافه إليها. ونظيره ـ في بقاء
-  حكم المضاف بعد سقوطه وقيام المضاف إليه مقامه ـ قول حسان:بَرْدَى يُصَفِّقُ بِالرَّحِيقِ
-  السَّلْسَلِ   يريد: ماء بردى، ولا يبعد أن يكون القمر بمعنى القمر؛ كالرشد والرشد،
-  والعرب والعرب.\r\n\t\t\t\r\n\t\t\t</section>"
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(25, 61)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(25,61)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">تَبَارَكَ
+  ٱلَّذِي جَعَلَ فِي ٱلسَّمَآءِ بُرُوجاً وَجَعَلَ فِيهَا سِرَاجاً وَقَمَراً مُّنِيراً</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">البروج: منازل الكواكب السبعة السيارة: الحمل، والثور، والجوزاء، والسرطان،
+  والأسد، والسنبلة، والميزان، والعقرب، والقوس، والجدي، والدلو، والحوت: وسميت بالبروج
+  التي هي القصور العالية؛ لأنها لهذه الكواكب كالمنازل لسكانها. واشتقاق البرج من التبرج؛
+  لظهوره. والسراج: الشمس كقوله تعالى:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">وَجَعَلَ ٱلشَّمْسَ سِرَاجاً</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[نوح:
+  16] وقرىء: «سرجا» وهي الشمس والكواكب الكبار معها. وقرأ الحسن والأعمش: «وقمراً منيراً»
+  وهي جمع ليلة قمراء، كأنه قال: وذا قمر منيراً؛ لأنّ الليالي تكون قمراً بالقمر، فأضافه
+  إليها. ونظيره ـ في بقاء حكم المضاف بعد سقوطه وقيام المضاف إليه مقامه ـ قول حسان:</font></font><table
+  class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">بَرْدَى يُصَفِّقُ بِالرَّحِيقِ السَّلْسَلِ</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\"/></font></b></td></tr></table><font class=\"TextResultArabic\"><font
+  color=\"black\">يريد: ماء بردى، ولا يبعد أن يكون القمر بمعنى القمر؛ كالرشد والرشد،
+  والعرب والعرب.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

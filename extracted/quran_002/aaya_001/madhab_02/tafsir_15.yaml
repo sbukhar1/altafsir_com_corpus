@@ -1,4 +1,4 @@
-location:
+position:
   sura: '002'
   aaya: '001'
   madhab: '02'
@@ -7,48 +7,133 @@ meta:
   title: تفسير زاد المسير في علم التفسير
   author: ابن الجوزي
   year: '597'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ الۤـمۤ \r\n }وأما
-  التفسير. فقوله: { ألم } اختلف العلماء فيها وفي سائر الحروف المقطعة في أوائل السور
-  على ستة أقوال.أحدها: أنها من المتشابه الذي لا يعلمه الا الله. قال أبو بكر الصديق
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(2, 1)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(2,1)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">الۤـمۤ
+  &#13;</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">وأما التفسير. فقوله: { ألم } اختلف
+  العلماء فيها وفي سائر الحروف المقطعة في أوائل السور على ستة أقوال.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">أحدها: أنها من المتشابه الذي لا يعلمه الا الله. قال أبو بكر الصديق
   رضي الله عنه: لله عز وجل في كل كتاب سر، وسر الله في القرآن أوائل السور، وإلى هذا
-  المعنى ذهب الشعبي، وأبو صالح، وابن زيد.والثاني: أنها حروف من أسماء، فاذا أُلفت ضرباً
-  من التأليف كانت أسماء من أَسماء الله عز وجل. قال علي بن أبي طالب: هي أسماء مقطعة
-  لو علم الناس تأليفها علموا اسم الله الذي إِذا دعي به أجاب.وسئل ابن عباس عن «آلر»
-  و«حم» و «نون» فقال: اسم الرحمن على الهجاء، وإِلى نحو هذا ذهب أبو العالية، والربيع
-  بن أنس.والثالث: أنها حروف أقسم الله بها، قاله ابن عباس، وعكرمة. قال ابن قتيبة: ويجوز
-  أن يكون أقسم بالحروف المقطعة كلها، واقتصر على ذكر بعضها كما يقول القائل: تعلمت «أ
-  ب ت ث» وهو يريد سائر الحروف، وكما يقول: قرأت الحمد، يريد فاتحة الكتاب، فيسميها بأول
-  حرف منها، وإِنما أقسم بحروف المعجم لشرفها ولأنها مباني كتبه المنزلة، وبها يذكر ويوحد.
-  قال ابن الانباري: وجواب القسم محذوف، تقديره: وحروف المعجم لقد بين الله لكم السبيل،
-  وأنهجت لكم الدّلالات بالكتاب المنزل، وإِنما حذف لعلم المخاطبين به، ولأن في قوله:
-  { ذلك الكتاب لا ريب فيه } دليلاً على الجواب.والرابع: انه أشار بما ذكر من الحروف
-  إِلى سائرها، والمعنى أنه لما كانت الحروف أُصولاً للكلام المؤلف، أخبر أن هذا القرآن
-  إِنما هو مؤلف من هذه الحروف، قاله الفراء، وقطرب.فان قيل: فقد علموا أنه حروف، فما
-  الفائدة في إِعلامهم بهذا؟فالجواب أنه نبه بذلك على إِعجازه، فكأنه قال: هو من هذه
-  الحروف التي تؤلفون منها كلامكم، فما بالكم تعجزون عن معارضته؟! فاذا عجزتم فاعلموا
-  أنه ليس من قول محمد عليه السلام.والخامس: أنها أسماء للسور. روي عن زيد بن أسلم، وابنه،
-  وأبي فاختة سعيد ابن علاقة مولى أم هانىء.والسادس: أنها من الرمز الذي تستعمله العرب
-  في كلامها. يقول الرجل للرجل: هل تا؟ فيقول له: بلى، يريد هل تأتي؟ فيكتفي بحرف من
-  حروفه. وأنشدوا:قلنا لها قفي لنا فقالت قاف   لا تحسبى أنا نسينا الإيجافأراد قالت:
-  أقف. ومثله:نادوهم ألا الجموا ألا تا   قالوا جميعاً كلهم ألا فايريد: ألا تركبون؟
-  قالوا: بلى فاركبوا. ومثله:بالخير خيرات وإن شراً فا   ولا أريد الشر إِلا أن تامعناه:
-  وإن شراً فشر ولا أريد الشر إِلا أن تشاء. وإِلى هذا القول ذهب الأخفش، والزجاج، وابن
-  الأنباري.\r\n\t\t\t\r\n\t\t\t1 2 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ الۤـمۤ \r\n }وقال أبو روق عطية بن
-  الحارث الهمداني: كان النبي صلى الله عليه وسلم يجهر بالقراءة في الصلوات كلها، وكان
-  المشركون يصفّقون ويصفّرون، فنزلت هذه الحروف المقطعة، فسمعوها فبقوا متحيرين. وقال
-  غيره: إِنما خاطبهم بما لا يفهمون ليقبلوا على سماعه، لأن النفوس تتطلع إِلى ما غاب
-  عنها معناه، فاذا أقبلوا اليه خاطبهم بما يفهمون، فصار ذلك كالوسيلة إلى الإبلاغ، إلا
-  أنه لا بد له من معنى يعلمه غيرهم، أو يكون معلوماً عند المخاطبين، فهذا الكلام يعم
-  جميع الحروف.وقد خص المفسرون قوله «الۤمۤ» بخمسة أقوال:أحدها: أنه من المتشابه الذي
-  لا يعلم معناه الا الله عز وجل، وقد سبق بيانه.والثاني: أَن معناه: أَنا الله أعلم.
-  رواه أَبو الضحى عن ابن عباس، وبه قال ابن مسعود، وسعيد بن جبير.والثالث: أنه قسم.
-  رواه أبو صالح عن ابن عباس، وخالد الحذاء عن عكرمة.والرابع: أنها حروف من أسماء. ثم
-  فيها قولان. أَحدهما: أَن الألف من «الله» واللام من «جبريل» والميم من «محمد» قاله
-  ابن عباس.فان قيل: إِذا كان قد تنوول من كل اسم حرفه الأول اكتفاءً به، فلم أُخذت اللام
-  من جبريل وهي آخر الاسم؟!فالجواب: أن مبتدأَ القرآن من الله تعالى، فدلَّ على ذلك بابتداء
-  أول حرف من اسمه، وجبريل انختم به التنزيل والإِقراء، فتنوول من اسمه نهاية حروفه،
-  و«محمد» مبتدأ في الإقراء، فتنوول أول حرف فيه. والقول الثاني: أَن الألف من «الله»
-  تعالى، واللام من «لطيف» والميم من «مجيد» قاله أبو العالية.والخامس: أنه اسم من أسماء
-  القرآن، قاله مجاهد، والشعبي، وقتادة، وابن جريج.\r\n\t\t\t\r\n\t\t\t1 2 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  المعنى ذهب الشعبي، وأبو صالح، وابن زيد.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">والثاني:
+  أنها حروف من أسماء، فاذا أُلفت ضرباً من التأليف كانت أسماء من أَسماء الله عز وجل.
+  قال علي بن أبي طالب: هي أسماء مقطعة لو علم الناس تأليفها علموا اسم الله الذي إِذا
+  دعي به أجاب.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وسئل ابن عباس عن «آلر» و«حم» و
+  «نون» فقال: اسم الرحمن على الهجاء، وإِلى نحو هذا ذهب أبو العالية، والربيع بن أنس.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">والثالث: أنها حروف أقسم الله بها، قاله ابن عباس، وعكرمة. قال ابن
+  قتيبة: ويجوز أن يكون أقسم بالحروف المقطعة كلها، واقتصر على ذكر بعضها كما يقول القائل:
+  تعلمت «أ ب ت ث» وهو يريد سائر الحروف، وكما يقول: قرأت الحمد، يريد فاتحة الكتاب،
+  فيسميها بأول حرف منها، وإِنما أقسم بحروف المعجم لشرفها ولأنها مباني كتبه المنزلة،
+  وبها يذكر ويوحد. قال ابن الانباري: وجواب القسم محذوف، تقديره: وحروف المعجم لقد بين
+  الله لكم السبيل، وأنهجت لكم الدّلالات بالكتاب المنزل، وإِنما حذف لعلم المخاطبين
+  به، ولأن في قوله: { ذلك الكتاب لا ريب فيه } دليلاً على الجواب.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">والرابع: انه أشار بما ذكر من الحروف إِلى سائرها، والمعنى أنه لما
+  كانت الحروف أُصولاً للكلام المؤلف، أخبر أن هذا القرآن إِنما هو مؤلف من هذه الحروف،
+  قاله الفراء، وقطرب.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">فان قيل: فقد علموا أنه حروف، فما
+  الفائدة في إِعلامهم بهذا؟</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">فالجواب أنه نبه بذلك على إِعجازه،
+  فكأنه قال: هو من هذه الحروف التي تؤلفون منها كلامكم، فما بالكم تعجزون عن معارضته؟!
+  فاذا عجزتم فاعلموا أنه ليس من قول محمد عليه السلام.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">والخامس:
+  أنها أسماء للسور. روي عن زيد بن أسلم، وابنه، وأبي فاختة سعيد ابن علاقة مولى أم هانىء.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">والسادس: أنها من الرمز الذي تستعمله العرب في كلامها. يقول الرجل
+  للرجل: هل تا؟ فيقول له: بلى، يريد هل تأتي؟ فيكتفي بحرف من حروفه. وأنشدوا:</font></font><table
+  class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">قلنا لها قفي لنا فقالت قاف</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">لا تحسبى أنا نسينا الإيجاف</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">أراد قالت: أقف. ومثله:</font></font><table
+  class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">نادوهم ألا الجموا ألا تا</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">قالوا جميعاً كلهم ألا فا</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">يريد: ألا تركبون؟ قالوا: بلى فاركبوا.
+  ومثله:</font></font><table class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">بالخير خيرات
+  وإن شراً فا</font></font></b></td><td class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">ولا أريد الشر إِلا أن تا</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">معناه: وإن شراً فشر ولا أريد الشر
+  إِلا أن تشاء. وإِلى هذا القول ذهب الأخفش، والزجاج، وابن الأنباري.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(15,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(15,2,1)\"><u>2</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2, 1)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,1)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">الۤـمۤ &#13;</a> <b>}</b></font>, <br/>, <br/>,
+  <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  أبو روق عطية بن الحارث الهمداني: كان النبي صلى الله عليه وسلم يجهر بالقراءة في الصلوات
+  كلها، وكان المشركون يصفّقون ويصفّرون، فنزلت هذه الحروف المقطعة، فسمعوها فبقوا متحيرين.
+  وقال غيره: إِنما خاطبهم بما لا يفهمون ليقبلوا على سماعه، لأن النفوس تتطلع إِلى ما
+  غاب عنها معناه، فاذا أقبلوا اليه خاطبهم بما يفهمون، فصار ذلك كالوسيلة إلى الإبلاغ،
+  إلا أنه لا بد له من معنى يعلمه غيرهم، أو يكون معلوماً عند المخاطبين، فهذا الكلام
+  يعم جميع الحروف.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقد خص المفسرون قوله «الۤمۤ» بخمسة
+  أقوال:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">أحدها: أنه من المتشابه الذي لا
+  يعلم معناه الا الله عز وجل، وقد سبق بيانه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">والثاني:
+  أَن معناه: أَنا الله أعلم. رواه أَبو الضحى عن ابن عباس، وبه قال ابن مسعود، وسعيد
+  بن جبير.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">والثالث: أنه قسم. رواه أبو صالح
+  عن ابن عباس، وخالد الحذاء عن عكرمة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">والرابع:
+  أنها حروف من أسماء. ثم فيها قولان. أَحدهما: أَن الألف من «الله» واللام من «جبريل»
+  والميم من «محمد» قاله ابن عباس.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">فان
+  قيل: إِذا كان قد تنوول من كل اسم حرفه الأول اكتفاءً به، فلم أُخذت اللام من جبريل
+  وهي آخر الاسم؟!</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">فالجواب: أن مبتدأَ القرآن من الله
+  تعالى، فدلَّ على ذلك بابتداء أول حرف من اسمه، وجبريل انختم به التنزيل والإِقراء،
+  فتنوول من اسمه نهاية حروفه، و«محمد» مبتدأ في الإقراء، فتنوول أول حرف فيه. والقول
+  الثاني: أَن الألف من «الله» تعالى، واللام من «لطيف» والميم من «مجيد» قاله أبو العالية.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">والخامس: أنه اسم من أسماء القرآن، قاله مجاهد، والشعبي، وقتادة، وابن
+  جريج.</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(15,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(15,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section>"
 

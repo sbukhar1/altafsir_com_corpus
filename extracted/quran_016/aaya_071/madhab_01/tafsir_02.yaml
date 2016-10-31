@@ -1,4 +1,4 @@
-location:
+position:
   sura: '016'
   aaya: '071'
   madhab: '01'
@@ -10,17 +10,38 @@ meta:
 aaya: وَاللَّهُ فَضَّلَ بَعْضَكُمْ عَلَىٰ بَعْضٍ فِي الرِّزْقِ ۚ فَمَا الَّذِينَ فُضِّلُوا
   بِرَادِّي رِزْقِهِمْ عَلَىٰ مَا مَلَكَتْ أَيْمَانُهُمْ فَهُمْ فِيهِ سَوَاءٌ ۚ أَفَبِنِعْمَةِ
   اللَّهِ يَجْحَدُونَ
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَٱللَّهُ فَضَّلَ
-  بَعْضَكُمْ عَلَىٰ بَعْضٍ فِي ٱلْرِّزْقِ فَمَا ٱلَّذِينَ فُضِّلُواْ بِرَآدِّي رِزْقِهِمْ
-  عَلَىٰ مَا مَلَكَتْ أَيْمَانُهُمْ فَهُمْ فِيهِ سَوَآءٌ أَفَبِنِعْمَةِ ٱللَّهِ يَجْحَدُونَ
-  }أي: جعلكم متفاوتين في الرزق، فرزقكم أفضل مما رزق مماليككم وهم بشر مثلكم وإخوانكم
-  فكان ينبغي أن تردوا فضل ما رزقتموه عليهم، حتى تتساووا في الملبس والمطعم، كما يحكي
-  عن أبي ذرّ أنه سمع النبي صلى الله عليه وسلم يقول:(589) \" إنما هم إخوانكم فاكسوهم
-  مما تلبسون، وأطعموهم مما تطعمون \" فما رؤي عبده بعد ذلك إلا ورداؤه رداؤه وإزاره
-  إزاره من غير تفاوت { أَفَبِنِعْمَةِ ٱللَّهِ يَجْحَدُونَ } فجعل ذلك من جملة جحود
-  النعمة. وقيل: هو مثل ضربه الله للذين جعلوا له شركاء، فقال لهم: أنتم لا تسوّون بينكم
-  وبين عبيدكم فيما أنعمت به عليكم، ولا تجعلونهم فيه شركاء، ولا ترضون ذلك لأنفسكم فكيف
-  رضيتم أن تجعلوا عبيدي لي شركاء. وقيل المعنى أنّ الموالي والمماليك أنا رازقهم جميعاً،
-  فهم في رزقي سواء، فلا تحسبن الموالي أنهم يردون على مماليكهم من عندهم شيئاً من الرزق.
-  فإنما ذلك رزقي أجريه إليهم على أيديهم. وقرىء: «يجحدون»، بالتاء والياء.\r\n\t\t\t\r\n\t\t\t</section>"
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(16, 71)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(16,71)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَٱللَّهُ
+  فَضَّلَ بَعْضَكُمْ عَلَىٰ بَعْضٍ فِي ٱلْرِّزْقِ فَمَا ٱلَّذِينَ فُضِّلُواْ بِرَآدِّي
+  رِزْقِهِمْ عَلَىٰ مَا مَلَكَتْ أَيْمَانُهُمْ فَهُمْ فِيهِ سَوَآءٌ أَفَبِنِعْمَةِ
+  ٱللَّهِ يَجْحَدُونَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">أي: جعلكم متفاوتين في الرزق، فرزقكم
+  أفضل مما رزق مماليككم وهم بشر مثلكم وإخوانكم فكان ينبغي أن تردوا فضل ما رزقتموه
+  عليهم، حتى تتساووا في الملبس والمطعم، كما يحكي عن أبي ذرّ أنه سمع النبي صلى الله
+  عليه وسلم يقول:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">(589)</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" إنما هم إخوانكم فاكسوهم مما تلبسون، وأطعموهم مما تطعمون \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\">فما رؤي عبده بعد ذلك إلا ورداؤه
+  رداؤه وإزاره إزاره من غير تفاوت { أَفَبِنِعْمَةِ ٱللَّهِ يَجْحَدُونَ } فجعل ذلك
+  من جملة جحود النعمة. وقيل: هو مثل ضربه الله للذين جعلوا له شركاء، فقال لهم: أنتم
+  لا تسوّون بينكم وبين عبيدكم فيما أنعمت به عليكم، ولا تجعلونهم فيه شركاء، ولا ترضون
+  ذلك لأنفسكم فكيف رضيتم أن تجعلوا عبيدي لي شركاء. وقيل المعنى أنّ الموالي والمماليك
+  أنا رازقهم جميعاً، فهم في رزقي سواء، فلا تحسبن الموالي أنهم يردون على مماليكهم من
+  عندهم شيئاً من الرزق. فإنما ذلك رزقي أجريه إليهم على أيديهم. وقرىء: «يجحدون»، بالتاء
+  والياء.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

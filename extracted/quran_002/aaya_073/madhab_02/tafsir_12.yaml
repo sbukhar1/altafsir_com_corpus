@@ -1,4 +1,4 @@
-location:
+position:
   sura: '002'
   aaya: '073'
   madhab: '02'
@@ -7,34 +7,95 @@ meta:
   title: تفسير النكت والعيون
   author: الماوردي
   year: '450'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَإِذْ قَتَلْتُمْ
-  نَفْساً فَٱدَّارَأْتُمْ فِيهَا وَٱللَّهُ مُخْرِجٌ مَّا كُنْتُمْ تَكْتُمُونَ } *
-  { فَقُلْنَا ٱضْرِبُوهُ بِبَعْضِهَا كَذَلِكَ يُحْيِي ٱللَّهُ ٱلْمَوْتَىٰ وَيُرِيكُمْ
-  آيَاتِهِ لَعَلَّكُمْ تَعْقِلُونَ }قوله عز وجل: { وَإِذْ قَتَلْتُمْ نَفْساً فَادَّارَأْتُمْ
-  فِيهَا } يعني من قتل الإسرائيلي؟ الذي قتله ابن أخيه، وفي سبب قتله قولان:أحدهما:
-  لبنت له حسناء، أحب أن يتزوجها.والثاني: طلباً لميراثه، وادعى قتله على بعض الأسباط.وفي
-  قوله تعالى: {... فَادَّارَأْتُم فيها } ثلاثة أوجه:أحدها: أنّ الَّدْرءَ الاعوجاج،
-  ومنه قول الشاعر:أمسكت عنهم درء الأعادي   وداووا بالجنون من الجنونيعني اعوجاج الأعادي.والثاني:
-  وهو المشهور، أن الدرء المدافعة، ومعناه أي تدافعتم في القتل، ومنه قول رؤبة بن العجاج:أدركتها
-  قدام كل مدره   بالدفع عني درء كل منجهوالثالث: معناه اختلفتم وتنازعتم، قاله السدي،
-  وقيل إن هذه الآية وإن كانت متأخرة في التلاوة، فهي متقدمة في الخطاب على قوله تعالى:
-  { وَإِذْ قَالَ مَوسَى لِقَومِهِ إِنَّ اللهَ يَأْمُرُكُم } الآية. لأنهم أُمِرُوا
-  بذبحها، بعد قتلهم، واختلفوا في قاتله.قوله تعالى: { وَاللهُ مُخْرِجٌ مَا كُنْتُمْ
-  تَكْتُمُونَ } أي والله مظهر ما كنتم تُسِرّون من القتل، فعند ذلك قال النبي صلى الله
-  عليه وسلم: \" لَو أَنَّ أَحَدَكُم يَعْمَلُ في صَخْرَةٍ صَمَّاءَ لَيْسَ لَهَا بَابٌ،
-  لأَخْرَجَ اللهُ عَمَلَهُ \". قوله تعالى: { فَقُلْنَا اضْرِبُوهُ بِبَعْضِهَا } اختلف
-  العلماء في البعض الذي ضُرِبَ به القتيلُ من البقرة، على خمسة أقاويل:أحدها: أنه ضُرِبَ
-  بفخذ البقرة، وهذا قول مجاهد، وعكرمة وقتادة.والثاني: أنه ضُرِبَ بالبضعة التي بين
-  الكتفين، وهذا قول السدي.والثالث: أنه ضُرِبَ بعظم من عظامها، وهذا قول أبي العالية.والرابع:
-  أنه ضُرِبَ بأُذنها، وهذا قول ابن زيد.والخامس: أنه ضُرِبَ بعجب ذنبها، وهو الذي لا
-  تأكله الأرض، وهذا قول الفراء. والبعض: يَقِلُّ عن النصف.{ كَذلِكَ يُحْيِي اللهُ المَوْتَى
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(2, 72)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(2,72)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَإِذْ
+  قَتَلْتُمْ نَفْساً فَٱدَّارَأْتُمْ فِيهَا وَٱللَّهُ مُخْرِجٌ مَّا كُنْتُمْ تَكْتُمُونَ</a>
+  <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">فَقُلْنَا
+  ٱضْرِبُوهُ بِبَعْضِهَا كَذَلِكَ يُحْيِي ٱللَّهُ ٱلْمَوْتَىٰ وَيُرِيكُمْ آيَاتِهِ
+  لَعَلَّكُمْ تَعْقِلُونَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\"
+  dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">قوله عز وجل:
+  { وَإِذْ قَتَلْتُمْ نَفْساً فَادَّارَأْتُمْ فِيهَا } يعني من قتل الإسرائيلي؟ الذي
+  قتله ابن أخيه، وفي سبب قتله قولان:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">أحدهما:
+  لبنت له حسناء، أحب أن يتزوجها.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">والثاني:
+  طلباً لميراثه، وادعى قتله على بعض الأسباط.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وفي
+  قوله تعالى: {... فَادَّارَأْتُم فيها } ثلاثة أوجه:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">أحدها:
+  أنّ الَّدْرءَ الاعوجاج، ومنه قول الشاعر:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><table class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">أمسكت عنهم
+  درء الأعادي</font></font></b></td><td class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">وداووا بالجنون من الجنون</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">يعني اعوجاج الأعادي.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">والثاني: وهو المشهور، أن الدرء المدافعة، ومعناه أي تدافعتم في القتل،
+  ومنه قول رؤبة بن العجاج:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><table
+  class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">أدركتها قدام كل مدره</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">بالدفع عني درء كل منجه</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">والثالث: معناه اختلفتم وتنازعتم،
+  قاله السدي، وقيل إن هذه الآية وإن كانت متأخرة في التلاوة، فهي متقدمة في الخطاب على
+  قوله تعالى: { وَإِذْ قَالَ مَوسَى لِقَومِهِ إِنَّ اللهَ يَأْمُرُكُم } الآية. لأنهم
+  أُمِرُوا بذبحها، بعد قتلهم، واختلفوا في قاتله.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قوله
+  تعالى: { وَاللهُ مُخْرِجٌ مَا كُنْتُمْ تَكْتُمُونَ } أي والله مظهر ما كنتم تُسِرّون
+  من القتل، فعند ذلك قال النبي صلى الله عليه وسلم:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" لَو أَنَّ أَحَدَكُم يَعْمَلُ في صَخْرَةٍ صَمَّاءَ لَيْسَ لَهَا
+  بَابٌ، لأَخْرَجَ اللهُ عَمَلَهُ \". </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">قوله تعالى: { فَقُلْنَا اضْرِبُوهُ بِبَعْضِهَا } اختلف العلماء في
+  البعض الذي ضُرِبَ به القتيلُ من البقرة، على خمسة أقاويل:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">أحدها:
+  أنه ضُرِبَ بفخذ البقرة، وهذا قول مجاهد، وعكرمة وقتادة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">والثاني:
+  أنه ضُرِبَ بالبضعة التي بين الكتفين، وهذا قول السدي.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">والثالث:
+  أنه ضُرِبَ بعظم من عظامها، وهذا قول أبي العالية.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">والرابع:
+  أنه ضُرِبَ بأُذنها، وهذا قول ابن زيد.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">والخامس:
+  أنه ضُرِبَ بعجب ذنبها، وهو الذي لا تأكله الأرض، وهذا قول الفراء. والبعض: يَقِلُّ
+  عن النصف.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">{ كَذلِكَ يُحْيِي اللهُ المَوْتَى
   } يعني، أنه لما ضُرِبَ القتيل ببعض البقرة، أحياه الله وكان اسمه عاميل، فقال قتلني
-  ابن أخي، ثم قبض، فقال بنو أخيه: والله ما قتلناه، فكذّبوا بالحق بعد معاينته.قال الفراء:
-  وفي الكلام حذف، وتقديره: فقلنا اضربوه ببعضها، ليحيا فضربوه، فَحَيِيَ. كذلك يحيي
-  الله الموتى، فدل بذلك على البعث والنشور، وجعل سبب إحيائه الضرب بميت، لا حياة فيه،
-  لئلا يلتبس على ذي شبهة، أن الحياة إنما انتقلت إليه مما ضرب به، لتزول الشبهة، وتتأكد
-  الحجة.وفي قوله تعالى: { كَذلِكَ يُحْيِي اللهُ المَوْتَى } وجهان:أحدهما: أنه حكاية
-  عن قول موسى لقومه.والثاني: أنه خطاب من الله لمشركي قريش.{ وَيُرِيكُم ءَايَاتِهِ
-  } فيه وجهان:أحدهما: علامة قدرته.والثاني: دلائل بعثكم بعد الموت.{ لَعَلَّكُم تَعْقِلُونَ
-  } فيه وجهان:أحدهما: تعملون.والثاني: تعتبرون.\r\n\t\t\t\r\n\t\t\t</section>"
+  ابن أخي، ثم قبض، فقال بنو أخيه: والله ما قتلناه، فكذّبوا بالحق بعد معاينته.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قال الفراء: وفي الكلام حذف، وتقديره: فقلنا اضربوه ببعضها، ليحيا
+  فضربوه، فَحَيِيَ. كذلك يحيي الله الموتى، فدل بذلك على البعث والنشور، وجعل سبب إحيائه
+  الضرب بميت، لا حياة فيه، لئلا يلتبس على ذي شبهة، أن الحياة إنما انتقلت إليه مما
+  ضرب به، لتزول الشبهة، وتتأكد الحجة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وفي
+  قوله تعالى: { كَذلِكَ يُحْيِي اللهُ المَوْتَى } وجهان:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">أحدهما:
+  أنه حكاية عن قول موسى لقومه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">والثاني:
+  أنه خطاب من الله لمشركي قريش.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">{
+  وَيُرِيكُم ءَايَاتِهِ } فيه وجهان:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">أحدهما:
+  علامة قدرته.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">والثاني: دلائل بعثكم بعد الموت.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">{ لَعَلَّكُم تَعْقِلُونَ } فيه وجهان:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">أحدهما:
+  تعملون.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">والثاني: تعتبرون.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

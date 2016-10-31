@@ -1,4 +1,4 @@
-location:
+position:
   sura: '026'
   aaya: '166'
   madhab: '01'
@@ -7,19 +7,43 @@ meta:
   title: تفسير الكشاف
   author: الزمخشري
   year: '538'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ كَذَّبَتْ قَوْمُ
-  لُوطٍ ٱلْمُرْسَلِينَ } * { إِذْ قَالَ لَهُمْ أَخُوهُمْ لُوطٌ أَلا تَتَّقُونَ } *
-  { إِنِّي لَكُمْ رَسُولٌ أَمِينٌ } * { فَٱتَّقُواْ ٱللَّهَ وَأَطِيعُونِ } * { وَمَآ
-  أَسْأَلُكُمْ عَلَيْهِ مِنْ أَجْرٍ إِنْ أَجْرِيَ إِلاَّ عَلَىٰ رَبِّ ٱلْعَالَمِينَ
-  } * { أَتَأْتُونَ ٱلذُّكْرَانَ مِنَ ٱلْعَالَمِينَ } * { وَتَذَرُونَ مَا خَلَقَ لَكُمْ
-  رَبُّكُمْ مِّنْ أَزْوَاجِكُمْ بَلْ أَنتُمْ قَوْمٌ عَادُونَ }أراد بالعالمين: الناس:
-  أي: أتأتون من بين أولاد آدم عليه السلام ـ على فرط كثرتهم وتفاوت أجناسهم وغلبة إناثهم
-  على ذكورهم في الكثرة ـ ذكرانهم؛ كأن الإناث قد أعوزتكم. أو أتأتون أنتم ـ من بين من
-  عداكم من العالمين ـ الذكران، يعني أنكم يا قوم لوط وحدكم مختصون بهذه الفاحشة. والعالمون
-  على هذا القول: كل ما ينكح من الحيوان { مّنْ أَزْوٰجِكُمْ } يصلح أن يكون تبييناً
-  لما خلق، وأن يكون للتبعيض، ويراد بما خلق: العضو المباح منهنّ. وفي قراءة ابن مسعود:
-  «ما أصلح لكم ربكم من أزواجكم»، وكأنهم كانوا يفعلون مثل ذلك بنسائهم.[بل أنتم قوم
-  عادون] العادي: المتعدّي في ظلمة، المتجاوز فيه الحدّ، ومعناه: أترتكبون هذه المعصية
-  على عظمها، بل أنتم قوم عادون في جميع المعاصي، فهذا من جملة ذاك، أو بل أنتم قوم أحقاء
-  بأن توصفوا بالعدوان، حيث ارتكبتم مثل هذه العظيمة.\r\n\t\t\t\r\n\t\t\t</section>"
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(26, 160)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(26,160)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">كَذَّبَتْ
+  قَوْمُ لُوطٍ ٱلْمُرْسَلِينَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">إِذْ قَالَ لَهُمْ أَخُوهُمْ لُوطٌ أَلا تَتَّقُونَ</a>
+  <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">إِنِّي
+  لَكُمْ رَسُولٌ أَمِينٌ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">فَٱتَّقُواْ ٱللَّهَ وَأَطِيعُونِ</a> <b>}
+  * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَمَآ
+  أَسْأَلُكُمْ عَلَيْهِ مِنْ أَجْرٍ إِنْ أَجْرِيَ إِلاَّ عَلَىٰ رَبِّ ٱلْعَالَمِينَ</a>
+  <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">أَتَأْتُونَ
+  ٱلذُّكْرَانَ مِنَ ٱلْعَالَمِينَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">وَتَذَرُونَ مَا خَلَقَ لَكُمْ رَبُّكُمْ مِّنْ
+  أَزْوَاجِكُمْ بَلْ أَنتُمْ قَوْمٌ عَادُونَ</a> <b>}</b></font>, <br/>, <br/>, <div
+  align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">أراد
+  بالعالمين: الناس: أي: أتأتون من بين أولاد آدم عليه السلام ـ على فرط كثرتهم وتفاوت
+  أجناسهم وغلبة إناثهم على ذكورهم في الكثرة ـ ذكرانهم؛ كأن الإناث قد أعوزتكم. أو أتأتون
+  أنتم ـ من بين من عداكم من العالمين ـ الذكران، يعني أنكم يا قوم لوط وحدكم مختصون
+  بهذه الفاحشة. والعالمون على هذا القول: كل ما ينكح من الحيوان { مّنْ أَزْوٰجِكُمْ
+  } يصلح أن يكون تبييناً لما خلق، وأن يكون للتبعيض، ويراد بما خلق: العضو المباح منهنّ.
+  وفي قراءة ابن مسعود: «ما أصلح لكم ربكم من أزواجكم»، وكأنهم كانوا يفعلون مثل ذلك
+  بنسائهم.[بل أنتم قوم عادون] العادي: المتعدّي في ظلمة، المتجاوز فيه الحدّ، ومعناه:
+  أترتكبون هذه المعصية على عظمها، بل أنتم قوم عادون في جميع المعاصي، فهذا من جملة
+  ذاك، أو بل أنتم قوم أحقاء بأن توصفوا بالعدوان، حيث ارتكبتم مثل هذه العظيمة.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

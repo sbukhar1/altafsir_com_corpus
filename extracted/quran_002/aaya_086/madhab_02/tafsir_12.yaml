@@ -1,4 +1,4 @@
-location:
+position:
   sura: '002'
   aaya: 086
   madhab: '02'
@@ -7,27 +7,60 @@ meta:
   title: تفسير النكت والعيون
   author: الماوردي
   year: '450'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَإِذْ أَخَذْنَا
-  مِيثَاقَكُمْ لاَ تَسْفِكُونَ دِمَآءَكُمْ وَلاَ تُخْرِجُونَ أَنْفُسَكُمْ مِّن دِيَارِكُمْ
-  ثُمَّ أَقْرَرْتُمْ وَأَنْتُمْ تَشْهَدُونَ } * { ثُمَّ أَنْتُمْ هَـٰؤُلاۤءِ تَقْتُلُونَ
-  أَنْفُسَكُمْ وَتُخْرِجُونَ فَرِيقاً مِّنْكُمْ مِّن دِيَارِهِمْ تَظَاهَرُونَ عَلَيْهِمْ
-  بِٱلإِثْمِ وَالْعُدْوَانِ وَإِن يَأتُوكُمْ أُسَارَىٰ تُفَادُوهُمْ وَهُوَ مُحَرَّمٌ
-  عَلَيْكُمْ إِخْرَاجُهُمْ أَفَتُؤْمِنُونَ بِبَعْضِ ٱلْكِتَابِ وَتَكْفُرُونَ بِبَعْضٍ
-  فَمَا جَزَآءُ مَن يَفْعَلُ ذٰلِكَ مِنكُمْ إِلاَّ خِزْيٌ فِي ٱلْحَيَاةِ ٱلدُّنْيَا
-  وَيَوْمَ ٱلْقِيَامَةِ يُرَدُّونَ إِلَىٰ أَشَدِّ ٱلّعَذَابِ وَمَا ٱللَّهُ بِغَافِلٍ
-  عَمَّا تَعْمَلُونَ } * { أُولَـٰئِكَ ٱلَّذِينَ ٱشْتَرَوُاْ ٱلْحَيَاةَ ٱلدُّنْيَا
-  بِٱلآخِرَةِ فَلاَ يُخَفَّفُ عَنْهُمُ ٱلْعَذَابُ وَلاَ هُمْ يُنصَرُونَ }قوله تعالى:
-  { وَإِذْ أَخَذْنَا مِيثَاقَكُمْ لاَ تَسْفِكُونَ دِمَاءَكُمْ وَلاَ تُخْرِجُونَ أَنفُسَكُ
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(2, 84)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(2,84)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَإِذْ
+  أَخَذْنَا مِيثَاقَكُمْ لاَ تَسْفِكُونَ دِمَآءَكُمْ وَلاَ تُخْرِجُونَ أَنْفُسَكُمْ
+  مِّن دِيَارِكُمْ ثُمَّ أَقْرَرْتُمْ وَأَنْتُمْ تَشْهَدُونَ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">ثُمَّ
+  أَنْتُمْ هَـٰؤُلاۤءِ تَقْتُلُونَ أَنْفُسَكُمْ وَتُخْرِجُونَ فَرِيقاً مِّنْكُمْ مِّن
+  دِيَارِهِمْ تَظَاهَرُونَ عَلَيْهِمْ بِٱلإِثْمِ وَالْعُدْوَانِ وَإِن يَأتُوكُمْ أُسَارَىٰ
+  تُفَادُوهُمْ وَهُوَ مُحَرَّمٌ عَلَيْكُمْ إِخْرَاجُهُمْ أَفَتُؤْمِنُونَ بِبَعْضِ
+  ٱلْكِتَابِ وَتَكْفُرُونَ بِبَعْضٍ فَمَا جَزَآءُ مَن يَفْعَلُ ذٰلِكَ مِنكُمْ إِلاَّ
+  خِزْيٌ فِي ٱلْحَيَاةِ ٱلدُّنْيَا وَيَوْمَ ٱلْقِيَامَةِ يُرَدُّونَ إِلَىٰ أَشَدِّ
+  ٱلّعَذَابِ وَمَا ٱللَّهُ بِغَافِلٍ عَمَّا تَعْمَلُونَ</a> <b>} * </b><b>{</b> <a
+  class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">أُولَـٰئِكَ
+  ٱلَّذِينَ ٱشْتَرَوُاْ ٱلْحَيَاةَ ٱلدُّنْيَا بِٱلآخِرَةِ فَلاَ يُخَفَّفُ عَنْهُمُ
+  ٱلْعَذَابُ وَلاَ هُمْ يُنصَرُونَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\"
+  dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">قوله تعالى: {
+  وَإِذْ أَخَذْنَا مِيثَاقَكُمْ لاَ تَسْفِكُونَ دِمَاءَكُمْ وَلاَ تُخْرِجُونَ أَنفُسَكُ
   مِّن دِيَارِكُمْ } أما النفس فمأخوذة من النفاسة، وهي الجلالة، فنفس الإنسان أنفس
   ما فيه، وأما الديار فالمنزل، الذي فيه أبنية المقام، بخلاف منزل الارتحال، وقال الخليل:
-  كل موضع حَلَّهُ قوم، فهو دار لهم، وإن لم يكن فيه أبنية.فإن قيل: فهل يسفك أحد دمه،
-  ويخرج نفسه من داره؟ ففيه قولان:أحدهما: معناه لا يقتل بعضكم بعضاً، ولا يخرجه من داره،
-  وهذا قول قتادة، وأبي العالية.والثاني: أنه القصاص الذي يقتص منهم بمن قتلوه.وفيه قول
-  ثالث: أن قوله \" أنفسكم \" أي إخوانكم فهو كنفس واحدة.قوله تعالى: { تَظَاهَرُونَ
-  عَليْهِم بالإثْمِ وَالعُدْوَانِ } يعني تتعاونون، والإثم هو الفعل الذي يستحق عليه
-  الذم، وفي العدوان قولان:أحدهما: أنه مجاوزة الحق.والثاني: أنه في الإفراط في الظلم.{
-  وَإِن يَأْتُوكُمْ أُسَارَى تُفَادُوهُم } وقرأ حمزة { أُسْرَى }. وفي الفرق بين أَسْرَى
-  وأُسَارَى قولان:أحدهما: أن أَسْرَى جمع أسير، وأُسَارَى جمع أَسْرَى.والثاني: أن الأَسْرى
-  الذين في اليد وإنْ لم يكونوا في وَثَاق، وهذا قول أبي عمرو بن العلاء، والأُسارَى:
-  الذين في وَثَاق.\r\n\t\t\t\r\n\t\t\t</section>"
+  كل موضع حَلَّهُ قوم، فهو دار لهم، وإن لم يكن فيه أبنية.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">فإن
+  قيل: فهل يسفك أحد دمه، ويخرج نفسه من داره؟ ففيه قولان:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">أحدهما:
+  معناه لا يقتل بعضكم بعضاً، ولا يخرجه من داره، وهذا قول قتادة، وأبي العالية.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">والثاني: أنه القصاص الذي يقتص منهم بمن قتلوه.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وفيه قول ثالث: أن قوله \" أنفسكم \" أي إخوانكم فهو كنفس واحدة.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قوله تعالى: { تَظَاهَرُونَ عَليْهِم بالإثْمِ وَالعُدْوَانِ } يعني
+  تتعاونون، والإثم هو الفعل الذي يستحق عليه الذم، وفي العدوان قولان:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">أحدهما: أنه مجاوزة الحق.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">والثاني:
+  أنه في الإفراط في الظلم.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">{ وَإِن يَأْتُوكُمْ أُسَارَى تُفَادُوهُم
+  } وقرأ حمزة { أُسْرَى }. وفي الفرق بين أَسْرَى وأُسَارَى قولان:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">أحدهما: أن أَسْرَى جمع أسير، وأُسَارَى جمع أَسْرَى.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">والثاني: أن الأَسْرى الذين في اليد وإنْ لم يكونوا في وَثَاق، وهذا
+  قول أبي عمرو بن العلاء، والأُسارَى: الذين في وَثَاق.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

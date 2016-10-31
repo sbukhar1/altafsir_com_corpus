@@ -1,4 +1,4 @@
-location:
+position:
   sura: '064'
   aaya: '010'
   madhab: '01'
@@ -7,20 +7,42 @@ meta:
   title: تفسير الكشاف
   author: الزمخشري
   year: '538'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ يَوْمَ يَجْمَعُكُمْ
-  لِيَوْمِ ٱلْجَمْعِ ذَلِكَ يَوْمُ ٱلتَّغَابُنِ وَمَن يُؤْمِن بِٱللَّهِ وَيَعْمَلْ
-  صَالِحاً يُكَفِّرْ عَنْهُ سَيِّئَاتِهِ وَيُدْخِلْهُ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا
-  ٱلأَنْهَارُ خَالِدِينَ فِيهَآ أَبَداً ذَلِكَ ٱلْفَوْزُ ٱلْعَظِيمُ } * { وَٱلَّذِينَ
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(64, 9)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(64,9)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">يَوْمَ
+  يَجْمَعُكُمْ لِيَوْمِ ٱلْجَمْعِ ذَلِكَ يَوْمُ ٱلتَّغَابُنِ وَمَن يُؤْمِن بِٱللَّهِ
+  وَيَعْمَلْ صَالِحاً يُكَفِّرْ عَنْهُ سَيِّئَاتِهِ وَيُدْخِلْهُ جَنَّاتٍ تَجْرِي
+  مِن تَحْتِهَا ٱلأَنْهَارُ خَالِدِينَ فِيهَآ أَبَداً ذَلِكَ ٱلْفَوْزُ ٱلْعَظِيمُ</a>
+  <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَٱلَّذِينَ
   كَفَرُواْ وَكَذَّبُواْ بِآيَٰتِنَآ أُوْلَـٰئِكَ أَصْحَٰبُ ٱلنَّارِ خَٰلِدِينَ فِيهَا
-  وَبِئْسَ ٱلْمَصِيرُ }وقرىء: «نجمعكم» ونكفر. وندخله، بالياء والنون. فإن قلت: بم انتصب
-  الظرف؟ قلت: بقوله: لتنبؤن، أو بخبير، لما فيه من معنى الوعيد، كأنه قيل: والله معاقبكم
-  يوم يجمعكم أو بإضمار «اذكر» { لِيَوْمِ ٱلْجَمْعِ } ليوم يجمع فيه الأوّلون والآخرون.
-  التغابن: مستعار من تغابن القوم في التجارة؛ وهو أن يغبن بعضهم بعضاً، لنزول السعداء
-  منازل الأشقياء التي كانوا ينزلونها لو كانوا سعداء، ونزول الأشقياء منازل السعداء
-  التي كانوا ينزلونها لو كانوا أشقياء. وفيه تهكم بالأشقياء؛ لأنّ نزولهم ليس بغبن.
-  وفي حديث رسول الله صلى الله عليه وسلم:(1189) \" ما من عبد يدخل الجنة إلا أرى مقعده
-  من النار لو أساء، ليزداد شكراً. وما من عبد يدخل النار إلا أرى مقعده من الجنة لو
-  أحسن، ليزداد حسرة \" ومعنى { ذَلِكَ يَوْمُ ٱلتَّغَابُنِ } - وقد يتغابن الناس في
-  غير ذلك اليوم -: استعظام له وأن تغابنه هو التغابن في الحقيقة، لا التغابن في أمور
-  الدنيا وإن جلت وعظمت { صَـٰلِحاً } صفة للمصدر، أي: عملاً صالحاً.\r\n\t\t\t\r\n\t\t\t</section>"
+  وَبِئْسَ ٱلْمَصِيرُ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">وقرىء: «نجمعكم» ونكفر. وندخله،
+  بالياء والنون. فإن قلت: بم انتصب الظرف؟ قلت: بقوله: لتنبؤن، أو بخبير، لما فيه من
+  معنى الوعيد، كأنه قيل: والله معاقبكم يوم يجمعكم أو بإضمار «اذكر» { لِيَوْمِ ٱلْجَمْعِ
+  } ليوم يجمع فيه الأوّلون والآخرون. التغابن: مستعار من تغابن القوم في التجارة؛ وهو
+  أن يغبن بعضهم بعضاً، لنزول السعداء منازل الأشقياء التي كانوا ينزلونها لو كانوا سعداء،
+  ونزول الأشقياء منازل السعداء التي كانوا ينزلونها لو كانوا أشقياء. وفيه تهكم بالأشقياء؛
+  لأنّ نزولهم ليس بغبن. وفي حديث رسول الله صلى الله عليه وسلم:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">(1189)</font></font><b><font class=\"TextResultArabic\"><font color=\"Red\">
+  \" ما من عبد يدخل الجنة إلا أرى مقعده من النار لو أساء، ليزداد شكراً. وما من عبد
+  يدخل النار إلا أرى مقعده من الجنة لو أحسن، ليزداد حسرة \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\">ومعنى { ذَلِكَ يَوْمُ ٱلتَّغَابُنِ
+  } - وقد يتغابن الناس في غير ذلك اليوم -: استعظام له وأن تغابنه هو التغابن في الحقيقة،
+  لا التغابن في أمور الدنيا وإن جلت وعظمت { صَـٰلِحاً } صفة للمصدر، أي: عملاً صالحاً.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

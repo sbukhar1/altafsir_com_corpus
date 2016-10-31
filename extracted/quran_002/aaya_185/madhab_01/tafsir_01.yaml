@@ -1,4 +1,4 @@
-location:
+position:
   sura: '002'
   aaya: '185'
   madhab: '01'
@@ -12,154 +12,359 @@ aaya: شَهْرُ رَمَضَانَ الَّذِي أُنْزِلَ فِيهِ
   وَمَنْ كَانَ مَرِيضًا أَوْ عَلَىٰ سَفَرٍ فَعِدَّةٌ مِنْ أَيَّامٍ أُخَرَ ۗ يُرِيدُ
   اللَّهُ بِكُمُ الْيُسْرَ وَلَا يُرِيدُ بِكُمُ الْعُسْرَ وَلِتُكْمِلُوا الْعِدَّةَ
   وَلِتُكَبِّرُوا اللَّهَ عَلَىٰ مَا هَدَاكُمْ وَلَعَلَّكُمْ تَشْكُرُونَ
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ شَهْرُ رَمَضَانَ
-  ٱلَّذِيۤ أُنْزِلَ فِيهِ ٱلْقُرْآنُ هُدًى لِّلنَّاسِ وَبَيِّنَاتٍ مِّنَ ٱلْهُدَىٰ
-  وَٱلْفُرْقَانِ فَمَن شَهِدَ مِنكُمُ ٱلشَّهْرَ فَلْيَصُمْهُ وَمَن كَانَ مَرِيضاً
-  أَوْ عَلَىٰ سَفَرٍ فَعِدَّةٌ مِّنْ أَيَّامٍ أُخَرَ يُرِيدُ ٱللَّهُ بِكُمُ ٱلْيُسْرَ
-  وَلاَ يُرِيدُ بِكُمُ ٱلْعُسْرَ وَلِتُكْمِلُواْ ٱلْعِدَّةَ وَلِتُكَبِّرُواْ ٱللَّهَ
-  عَلَىٰ مَا هَدَاكُمْ وَلَعَلَّكُمْ تَشْكُرُونَ }قال أبو جعفر: الشهر فـيـما قـيـل
-  أصله من الشهرة، يقال منه: قد شهر فلان سيفه إذا أخرجه من غمده فـاعترض به من أراد
-  ضربه، يشهره شهراً وكذلك شهر الشهر إذا طلع هلاله، وأشهرنا نـحن إذا دخـلنا فـي الشهر.
-  وأما رمضان فإن بعض أهل الـمعرفة بلغة العرب كان يزعم أنه سمي بذلك لشدة الـحرّ الذي
-  كان يكون فـيه حتـى تَرْمَضُ فـيه الفصال كما يقال للشهر الذي يحجّ فـيه ذو الـحجة،
-  والذي يرتبع فـيه ربـيع الأول وربـيع الآخر. وأما مـجاهد فإنه كان يكره أن يقال رمضان
-  ويقول: لعله اسم من أسماء الله.حدثنـي الـمثنى، قال: ثنا أبو نعيـم، قال: ثنا سفـيان،
-  عن مـجاهد أنه كره أن يقال رمضان، ويقول: لعله اسم من أسماء الله، لكن نقول كما قال
-  الله: { شَهْرُ رَمَضَان }.وقد بـينت فـيـما مضى أن «شهر» مرفوع علـى قوله:{ أَيَّاماً
-  مَّعْدُودَاتٍ }[البقرة: 184]، هن شهر رمضان، وجائز أن يكون رفعه بـمعنى ذلك شهر رمضان،
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(2, 185)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(2,185)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">شَهْرُ
+  رَمَضَانَ ٱلَّذِيۤ أُنْزِلَ فِيهِ ٱلْقُرْآنُ هُدًى لِّلنَّاسِ وَبَيِّنَاتٍ مِّنَ
+  ٱلْهُدَىٰ وَٱلْفُرْقَانِ فَمَن شَهِدَ مِنكُمُ ٱلشَّهْرَ فَلْيَصُمْهُ وَمَن كَانَ
+  مَرِيضاً أَوْ عَلَىٰ سَفَرٍ فَعِدَّةٌ مِّنْ أَيَّامٍ أُخَرَ يُرِيدُ ٱللَّهُ بِكُمُ
+  ٱلْيُسْرَ وَلاَ يُرِيدُ بِكُمُ ٱلْعُسْرَ وَلِتُكْمِلُواْ ٱلْعِدَّةَ وَلِتُكَبِّرُواْ
+  ٱللَّهَ عَلَىٰ مَا هَدَاكُمْ وَلَعَلَّكُمْ تَشْكُرُونَ</a> <b>}</b></font>, <br/>,
+  <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">قال
+  أبو جعفر: الشهر فـيـما قـيـل أصله من الشهرة، يقال منه: قد شهر فلان سيفه إذا أخرجه
+  من غمده فـاعترض به من أراد ضربه، يشهره شهراً وكذلك شهر الشهر إذا طلع هلاله، وأشهرنا
+  نـحن إذا دخـلنا فـي الشهر. وأما رمضان فإن بعض أهل الـمعرفة بلغة العرب كان يزعم أنه
+  سمي بذلك لشدة الـحرّ الذي كان يكون فـيه حتـى تَرْمَضُ فـيه الفصال كما يقال للشهر
+  الذي يحجّ فـيه ذو الـحجة، والذي يرتبع فـيه ربـيع الأول وربـيع الآخر. وأما مـجاهد
+  فإنه كان يكره أن يقال رمضان ويقول: لعله اسم من أسماء الله.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  الـمثنى، قال: ثنا أبو نعيـم، قال: ثنا سفـيان، عن مـجاهد أنه كره أن يقال رمضان، ويقول:
+  لعله اسم من أسماء الله، لكن نقول كما قال الله: { شَهْرُ رَمَضَان }.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقد بـينت فـيـما مضى أن «شهر» مرفوع علـى قوله:</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">أَيَّاماً
+  مَّعْدُودَاتٍ</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">[البقرة: 184]، هن شهر رمضان، وجائز أن يكون رفعه بـمعنى ذلك شهر رمضان،
   وبـمعنى كتب علـيكم شهر رمضان. وقد قرأه بعض القرّاء: «شَهْرَ رَمَضَانَ» نصبـاً، بـمعنى:
   كتب علـيكم الصيام أن تصوموا شهر رمضان. وقرأه بعضهم نصبـاً بـمعنى أن تصوموا شهر رمضان
   خير لكم إن كنتـم تعلـمون. وقد يجوز أيضاً نصبه علـى وجه الأمر بصومه كأنه قـيـل: شهر
-  رمضان فصوموه، وجائز نصبه علـى الوقت كأنه قـيـل: كتب علـيكم الصيام فـي شهر رمضان.وأما
-  قوله: { الَّذي أُنْزلَ فـيهِ القُرآنُ } فإنه ذكر أنه نزل فـي لـيـلة القدر من اللوح
-  الـمـحفوظ إلـى سماء الدنـيا فـي لـيـلة القدر من شهر رمضان، ثم أنزل إلـى مـحمد صلى
-  الله عليه وسلم علـى ما أراد الله إنزاله إلـيه. كما:حدثنا أبو كريب، قال: ثنا أبو
-  بكر بن عياش، عن الأعمش، عن حسان بن أبـي الأشرس، عن سعيد بن جبـير، عن ابن عبـاس قال:
-  أنزل القرآن جملة من الذكر فـي لـيـلة أربع وعشرين من رمضان، فجعل فـي بـيت العزّة.
-  قال أبو كريب: حدثنا أبو بكر، وقال ذلك السدي.حدثنـي عيسى بن عثمان، قال: ثنا يحيى
-  بن عيسى، عن الأعمش، عن حسان، عن سعيد بن جبـير، قال: نزل القرآن جملة واحدة فـي لـيـلة
-  القدر فـي شهر رمضان، فجعل فـي سماء الدنـيا.حدثنا أحمد بن منصور، قال: ثنا عبد الله
-  بن رجاء، قال: ثنا عمران القطان، عن قتادة، عن ابن أبـي الـملـيح عن واثلة، عن النبـي
-  صلى الله عليه وسلم، قال: \" نزلتْ صُحُف إبراهِيـمَ أوَّلَ لَـيْـلَةٍ من شَهْرِ رَمَضَانَ،
-  وأُنْزِلَت التَّوْرَاةُ لِستّ مَضَيْنَ من رَمَضَانَ، وأُنْزِلَ الإنـجيـلُ لثَلاثَ
-  عَشْرَةَ خَـلَتْ، وأُنْزِلَ القُرآنُ لأَرْبَعٍ وعِشْرين مِنْ رَمَضَان \" حدثنـي
-  موسى، قال: ثنا عمرو، قال: ثنا أسبـاط، عن السدي: { شَهْرُ رَمَضَانَ الَّذِي أُنْزِلَ
-  فِـيهِ القُرْآنُ } ، أما أنزل فـيه القرآن، فإن ابن عبـاس قال: شهر رمضان، واللـيـلة
-  الـمبـاركة: لـيـلة القدر، فإن لـيـلة القدر هي اللـيـلة الـمبـاركة، وهي من رمضان،
-  نزل القرآن جملة واحدة من الزُّبر إلـى البـيت الـمعمور، وهو مواقع النـجوم، فـي السماء
-  الدنـيا حيث وقع القرآن، ثم نزل علـى مـحمد صلى الله عليه وسلم بعد ذلك فـي الأمر والنهي
-  وفـي الـحروب رَسَلاً رَسَلاً.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 9 10 \r\n\t\t\t\t\t\t\t\tمزيد</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ شَهْرُ رَمَضَانَ ٱلَّذِيۤ أُنْزِلَ
-  فِيهِ ٱلْقُرْآنُ هُدًى لِّلنَّاسِ وَبَيِّنَاتٍ مِّنَ ٱلْهُدَىٰ وَٱلْفُرْقَانِ فَمَن
-  شَهِدَ مِنكُمُ ٱلشَّهْرَ فَلْيَصُمْهُ وَمَن كَانَ مَرِيضاً أَوْ عَلَىٰ سَفَرٍ فَعِدَّةٌ
-  مِّنْ أَيَّامٍ أُخَرَ يُرِيدُ ٱللَّهُ بِكُمُ ٱلْيُسْرَ وَلاَ يُرِيدُ بِكُمُ ٱلْعُسْرَ
-  وَلِتُكْمِلُواْ ٱلْعِدَّةَ وَلِتُكَبِّرُواْ ٱللَّهَ عَلَىٰ مَا هَدَاكُمْ وَلَعَلَّكُمْ
-  تَشْكُرُونَ }حدثنا ابن الـمثنى، قال: ثنا عبد الوهاب، قال: ثنا داود، عن عكرمة، عن
-  ابن عبـاس، قال: أنزل الله القرآن إلـى السماء الدنـيا فـي لـيـلة القدر، فكان الله
-  إذا أراد أن يوحي منه شيئاً أوحاه، فهو قوله:{ إِنَّا أَنزَلْنَاهُ فِي لَيْلَةِ ٱلْقَدْرِ }[القدر:
-  1].حدثنا ابن الـمثنى، قال: ثنا ابن أبـي عديّ، عن داود، عن عكرمة، عن ابن عبـاس، فذكر
-  نـحوه، وزاد فـيه: فكان بـين أوله وآخره عشرون سنة.حدثنا ابن الـمثنى، قال: ثنا عبد
-  الأعلـى، قال: ثنا داود، عن عكرمة، عن ابن عبـاس، قال: أنزل القرآن كله جملة واحدة
-  فـي لـيـلة القدر فـي رمضان إلـى السماء الدنـيا، فكان الله إذا أراد أن يحدث فـي الأرض
-  شيئاً أنزله منه حتـى جمعه.حدثنـي يعقوب، قال: ثنا هشيـم، قال: أخبرنا حصين، عن حكيـم
-  بن جبـير، عن سعيد بن جبـير، عن ابن عبـاس قال: أنزل القرآن فـي لـيـلة القدر من السماء
-  العلـيا إلـى السماء جملة واحدة، ثم فرّق فـي السنـين بعدُ قال: وتلا ابن عبـاس هذه
-  الآية:{ فَلاَ أُقْسِمُ بِمَوَاقِعِ ٱلنُّجُومِ }[الواقعة: 75] قال: نزل مفرّقاً.حدثنا
-  يعقوب، قال: ثنا ابن علـية، عن داود، عن الشعبـي، قال: بلغنا أن القرآن نزل جملة واحدة
-  إلـى السماء الدنـيا.حدثنـي الـمثنى، قال: ثنا سويد بن نصر، قال: أخبرنا ابن الـمبـارك،
+  رمضان فصوموه، وجائز نصبه علـى الوقت كأنه قـيـل: كتب علـيكم الصيام فـي شهر رمضان.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وأما قوله: { الَّذي أُنْزلَ فـيهِ القُرآنُ } فإنه ذكر أنه نزل فـي
+  لـيـلة القدر من اللوح الـمـحفوظ إلـى سماء الدنـيا فـي لـيـلة القدر من شهر رمضان،
+  ثم أنزل إلـى مـحمد صلى الله عليه وسلم علـى ما أراد الله إنزاله إلـيه. كما:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا أبو كريب، قال: ثنا أبو بكر بن عياش، عن الأعمش، عن حسان بن
+  أبـي الأشرس، عن سعيد بن جبـير، عن ابن عبـاس قال: أنزل القرآن جملة من الذكر فـي لـيـلة
+  أربع وعشرين من رمضان، فجعل فـي بـيت العزّة. قال أبو كريب: حدثنا أبو بكر، وقال ذلك
+  السدي.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي عيسى بن عثمان، قال: ثنا
+  يحيى بن عيسى، عن الأعمش، عن حسان، عن سعيد بن جبـير، قال: نزل القرآن جملة واحدة فـي
+  لـيـلة القدر فـي شهر رمضان، فجعل فـي سماء الدنـيا.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  أحمد بن منصور، قال: ثنا عبد الله بن رجاء، قال: ثنا عمران القطان، عن قتادة، عن ابن
+  أبـي الـملـيح عن واثلة، عن النبـي صلى الله عليه وسلم، قال:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" نزلتْ صُحُف إبراهِيـمَ أوَّلَ
+  لَـيْـلَةٍ من شَهْرِ رَمَضَانَ، وأُنْزِلَت التَّوْرَاةُ لِستّ مَضَيْنَ من رَمَضَانَ،
+  وأُنْزِلَ الإنـجيـلُ لثَلاثَ عَشْرَةَ خَـلَتْ، وأُنْزِلَ القُرآنُ لأَرْبَعٍ وعِشْرين
+  مِنْ رَمَضَان \" </font></font></b><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي موسى، قال: ثنا عمرو، قال:
+  ثنا أسبـاط، عن السدي: { شَهْرُ رَمَضَانَ الَّذِي أُنْزِلَ فِـيهِ القُرْآنُ } ، أما
+  أنزل فـيه القرآن، فإن ابن عبـاس قال: شهر رمضان، واللـيـلة الـمبـاركة: لـيـلة القدر،
+  فإن لـيـلة القدر هي اللـيـلة الـمبـاركة، وهي من رمضان، نزل القرآن جملة واحدة من
+  الزُّبر إلـى البـيت الـمعمور، وهو مواقع النـجوم، فـي السماء الدنـيا حيث وقع القرآن،
+  ثم نزل علـى مـحمد صلى الله عليه وسلم بعد ذلك فـي الأمر والنهي وفـي الـحروب رَسَلاً
+  رَسَلاً.</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\"
+  border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE:
+  none; BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,8,1)\"><u>8</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,9,1)\"><u>9</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(1,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2,
+  185)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,185)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">شَهْرُ رَمَضَانَ ٱلَّذِيۤ أُنْزِلَ فِيهِ ٱلْقُرْآنُ
+  هُدًى لِّلنَّاسِ وَبَيِّنَاتٍ مِّنَ ٱلْهُدَىٰ وَٱلْفُرْقَانِ فَمَن شَهِدَ مِنكُمُ
+  ٱلشَّهْرَ فَلْيَصُمْهُ وَمَن كَانَ مَرِيضاً أَوْ عَلَىٰ سَفَرٍ فَعِدَّةٌ مِّنْ أَيَّامٍ
+  أُخَرَ يُرِيدُ ٱللَّهُ بِكُمُ ٱلْيُسْرَ وَلاَ يُرِيدُ بِكُمُ ٱلْعُسْرَ وَلِتُكْمِلُواْ
+  ٱلْعِدَّةَ وَلِتُكَبِّرُواْ ٱللَّهَ عَلَىٰ مَا هَدَاكُمْ وَلَعَلَّكُمْ تَشْكُرُونَ</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن الـمثنى، قال: ثنا عبد الوهاب، قال: ثنا داود، عن عكرمة،
+  عن ابن عبـاس، قال: أنزل الله القرآن إلـى السماء الدنـيا فـي لـيـلة القدر، فكان الله
+  إذا أراد أن يوحي منه شيئاً أوحاه، فهو قوله:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">إِنَّا أَنزَلْنَاهُ فِي لَيْلَةِ
+  ٱلْقَدْرِ</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">[القدر: 1].</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن الـمثنى، قال: ثنا ابن أبـي عديّ، عن داود، عن عكرمة، عن ابن عبـاس، فذكر نـحوه،
+  وزاد فـيه: فكان بـين أوله وآخره عشرون سنة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن الـمثنى، قال: ثنا عبد الأعلـى، قال: ثنا داود، عن عكرمة، عن ابن عبـاس، قال: أنزل
+  القرآن كله جملة واحدة فـي لـيـلة القدر فـي رمضان إلـى السماء الدنـيا، فكان الله
+  إذا أراد أن يحدث فـي الأرض شيئاً أنزله منه حتـى جمعه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  يعقوب، قال: ثنا هشيـم، قال: أخبرنا حصين، عن حكيـم بن جبـير، عن سعيد بن جبـير، عن
+  ابن عبـاس قال: أنزل القرآن فـي لـيـلة القدر من السماء العلـيا إلـى السماء جملة واحدة،
+  ثم فرّق فـي السنـين بعدُ قال: وتلا ابن عبـاس هذه الآية:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">فَلاَ أُقْسِمُ بِمَوَاقِعِ ٱلنُّجُومِ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[الواقعة:
+  75] قال: نزل مفرّقاً.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا يعقوب، قال: ثنا ابن علـية،
+  عن داود، عن الشعبـي، قال: بلغنا أن القرآن نزل جملة واحدة إلـى السماء الدنـيا.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي الـمثنى، قال: ثنا سويد بن نصر، قال: أخبرنا ابن الـمبـارك،
   قرأه ابن جريج فـي قوله: { شَهْرُ رَمَضَان الَّذِي أُنْزِلَ فِـيهِ القُرآنُ } قال:
   قال ابن عبـاس: أنزل القرآن جملة واحدة علـى جبريـل فـي لـيـلة القدر، فكان لا ينزل
   منه إلا بأمر. قال ابن جريج: كان ينزل من القرآن فـي لـيـلة القدر كل شيء ينزل من القرآن
   فـي تلك السنة، فنزل ذلك من السماء السابعة علـى جبريـل فـي السماء الدنـيا، فلا يُنزل
-  جبريـل من ذلك علـى مـحمد إلا ما أمره به ربه ومثل ذلك:{ إِنَّا أَنزَلْنَاهُ فِي لَيْلَةِ
-  ٱلْقَدْرِ }[القدر: 1] و{ إِنَّآ أَنزَلْنَاهُ فِي لَيْلَةٍ مُّبَارَكَةٍ إِنَّا كُنَّا
-  مُنذِرِينَ }[الدخان: 3].حدثنـي الـمثنى، قال: ثنا إسحاق، قال: ثنا عبـيد الله بن موسى،
-  عن إسرائيـل، عن السدي، عن مـحمد بن أبـي الـمـجالد، عن مقسم، عن ابن عبـاس قال له
-  رجل: إنه قد وقع فـي قلبـي الشك من قوله: { شَهْرُ رَمَضَانَ الَّذي أُنْزِلَ فِـيهِ
-  القُرآنُ } وقوله:{ إِنَّآ أَنزَلْنَاهُ فِي لَيْلَةٍ مُّبَارَكَةٍ }[الدخان: 3] وقوله:{ إِنَّا
-  أَنزَلْنَاهُ فِي لَيْلَةِ ٱلْقَدْرِ }[القدر: 1] وقد أنزل الله فـي شوّال وذي القعدة
-  وغيره قال: إنـما أنزل فـي رمضان فـي لـيـلة القدر ولـيـلة مبـاركة جملة واحدة، ثم
-  أنزل علـى مواقع النـجوم رُسُلاً فـي الشهور والأيام.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 9 10 \r\n\t\t\t\t\t\t\t\tمزيد</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ شَهْرُ رَمَضَانَ ٱلَّذِيۤ أُنْزِلَ
-  فِيهِ ٱلْقُرْآنُ هُدًى لِّلنَّاسِ وَبَيِّنَاتٍ مِّنَ ٱلْهُدَىٰ وَٱلْفُرْقَانِ فَمَن
-  شَهِدَ مِنكُمُ ٱلشَّهْرَ فَلْيَصُمْهُ وَمَن كَانَ مَرِيضاً أَوْ عَلَىٰ سَفَرٍ فَعِدَّةٌ
-  مِّنْ أَيَّامٍ أُخَرَ يُرِيدُ ٱللَّهُ بِكُمُ ٱلْيُسْرَ وَلاَ يُرِيدُ بِكُمُ ٱلْعُسْرَ
-  وَلِتُكْمِلُواْ ٱلْعِدَّةَ وَلِتُكَبِّرُواْ ٱللَّهَ عَلَىٰ مَا هَدَاكُمْ وَلَعَلَّكُمْ
-  تَشْكُرُونَ }وأما قوله { هُدىً للنَّاسِ } فإنه يعنـي رشاداً للناس إلـى سبـيـل الـحقّ
-  وقصد الـمنهج.وأما قوله: { وَبَـيِّناتٍ } فإنه يعنـي: وواضحات من الهدى، يعنـي من
-  البـيان الدالّ علـى حدود الله وفرائضه وحلاله وحرامه.وقوله: { والفُرْقَان } يعنـي:
-  والفصل بـين الـحق والبـاطل. كما:حدثنـي موسى بن هارون، قال: ثنا عمرو بن حماد، قال:
-  ثنا أسبـاط، عن السدي: أما { وَبَـيِّناتٍ مِنَ الهُدَى والفُرْقان } فبـينات من الـحلال
-  والـحرام.القول فـي تأويـل قوله تعالـى:: { فَمَنْ شَهِدَ مِنْكُم الشَّهْرَ فَلْـيَصُمْهُ
-  }.اختلف أهل التأويـل فـي معنى شهود الشهر. فقال بعضهم: هو مقام الـمقـيـم فـي داره،
-  قالوا: فمن دخـل علـيه شهر رمضان وهو مقـيـم فـي داره فعلـيه صوم الشهر كله، غاب بعد
-  فسافر أو أقام فلـم يبرح.ذكر من قال ذلك:حدثنـا مـحمد بن حميد ومـحمد بن عيسى الدامغانـي،
-  قالا، ثنا ابن الـمبـارك، عن الـحسن بن يحيى، عن الضحاك، عن ابن عبـاس فـي قوله: {
-  فَمَنْ شَهِدَ مِنْكُم الشَّهْرَ فَلْـيَصُمْهُ } قال: هو إهلاله بـالدار. يريد إذ
-  هلّ وهو مقـيـم.حدثنـي يعقوب بن إبراهيـم، قال: ثنا هشيـم، قال: أخبرنا حصين، عمن حدثه،
-  عن ابن عبـاس أنه قال فـي قوله: { فَمَنْ شَهِدَ مِنْكُم الشَّهْرَ فَلْـيَصُمْهُ }
-  فإذا شهده وهو مقـيـم فعلـيه الصوم أقام أو سافر، وإن شهده وهو فـي سفر، فإن شاء صام
-  وإن شاء أفطر.حدثنـي يعقوب، قال: ثنا ابن علـية، عن أيوب، عن مـحمد، عن عبـيدة فـي
-  الرجل يدركه رمضان ثم يسافر، قال: إذا شهدت أوله فضم آخره، ألا تراه يقول: { فَمَنْ
-  شَهِدَ مِنْكُم الشَّهْرَ فَلْـيَصُمْهُ }.حدثنـي يعقوب قال: ثنا ابن علـية، عن هشام
-  الفردوسي، عن مـحمد بن سيرين، قال: سألت عبـيدة، عن رجل أدرك رمضان وهو مقـيـم، قال:
-  من صام أول الشهر فلـيصم آخره، ألا تراه يقول: { فَمَنْ شَهِدَ مِنْكُم الشَّهْرَ فَلْـيَصُمْهُ
-  }.حدثنـي موسى، قال: ثنا عمرو، قال: ثنا أسبـاط، عن السدي: أما من شهد منكم الشهر فلـيصمه،
-  فمن دخـل علـيه رمضان وهو مقـيـم فـي أهله فلـيصمه، وإن خرج فـيه فلـيصمه فإنه دخـل
-  علـيه وهو فـي أهله.حدثنـي الـمثنى،، قال: ثنا حجاج، قال: ثنا حماد، قال: أخبرنا قتادة،
+  جبريـل من ذلك علـى مـحمد إلا ما أمره به ربه ومثل ذلك:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">إِنَّا أَنزَلْنَاهُ فِي لَيْلَةِ
+  ٱلْقَدْرِ</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">[القدر: 1] و</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">إِنَّآ أَنزَلْنَاهُ فِي لَيْلَةٍ مُّبَارَكَةٍ إِنَّا كُنَّا
+  مُنذِرِينَ</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">[الدخان: 3].</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  الـمثنى، قال: ثنا إسحاق، قال: ثنا عبـيد الله بن موسى، عن إسرائيـل، عن السدي، عن
+  مـحمد بن أبـي الـمـجالد، عن مقسم، عن ابن عبـاس قال له رجل: إنه قد وقع فـي قلبـي
+  الشك من قوله: { شَهْرُ رَمَضَانَ الَّذي أُنْزِلَ فِـيهِ القُرآنُ } وقوله:</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">إِنَّآ
+  أَنزَلْنَاهُ فِي لَيْلَةٍ مُّبَارَكَةٍ</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">[الدخان: 3] وقوله:</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">إِنَّا
+  أَنزَلْنَاهُ فِي لَيْلَةِ ٱلْقَدْرِ</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">[القدر: 1] وقد أنزل الله فـي شوّال
+  وذي القعدة وغيره قال: إنـما أنزل فـي رمضان فـي لـيـلة القدر ولـيـلة مبـاركة جملة
+  واحدة، ثم أنزل علـى مواقع النـجوم رُسُلاً فـي الشهور والأيام.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,8,1)\"><u>8</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,9,1)\"><u>9</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(1,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2,
+  185)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,185)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">شَهْرُ رَمَضَانَ ٱلَّذِيۤ أُنْزِلَ فِيهِ ٱلْقُرْآنُ
+  هُدًى لِّلنَّاسِ وَبَيِّنَاتٍ مِّنَ ٱلْهُدَىٰ وَٱلْفُرْقَانِ فَمَن شَهِدَ مِنكُمُ
+  ٱلشَّهْرَ فَلْيَصُمْهُ وَمَن كَانَ مَرِيضاً أَوْ عَلَىٰ سَفَرٍ فَعِدَّةٌ مِّنْ أَيَّامٍ
+  أُخَرَ يُرِيدُ ٱللَّهُ بِكُمُ ٱلْيُسْرَ وَلاَ يُرِيدُ بِكُمُ ٱلْعُسْرَ وَلِتُكْمِلُواْ
+  ٱلْعِدَّةَ وَلِتُكَبِّرُواْ ٱللَّهَ عَلَىٰ مَا هَدَاكُمْ وَلَعَلَّكُمْ تَشْكُرُونَ</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">وأما قوله { هُدىً للنَّاسِ } فإنه يعنـي رشاداً للناس إلـى سبـيـل
+  الـحقّ وقصد الـمنهج.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وأما قوله: { وَبَـيِّناتٍ } فإنه
+  يعنـي: وواضحات من الهدى، يعنـي من البـيان الدالّ علـى حدود الله وفرائضه وحلاله وحرامه.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقوله: { والفُرْقَان } يعنـي: والفصل بـين الـحق والبـاطل. كما:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي موسى بن هارون، قال: ثنا عمرو بن حماد، قال: ثنا أسبـاط، عن
+  السدي: أما { وَبَـيِّناتٍ مِنَ الهُدَى والفُرْقان } فبـينات من الـحلال والـحرام.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">القول فـي تأويـل قوله تعالـى:: { فَمَنْ شَهِدَ مِنْكُم الشَّهْرَ
+  فَلْـيَصُمْهُ }.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">اختلف أهل التأويـل فـي معنى شهود
+  الشهر. فقال بعضهم: هو مقام الـمقـيـم فـي داره، قالوا: فمن دخـل علـيه شهر رمضان وهو
+  مقـيـم فـي داره فعلـيه صوم الشهر كله، غاب بعد فسافر أو أقام فلـم يبرح.ذكر من قال
+  ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـا مـحمد بن حميد ومـحمد بن
+  عيسى الدامغانـي، قالا، ثنا ابن الـمبـارك، عن الـحسن بن يحيى، عن الضحاك، عن ابن عبـاس
+  فـي قوله: { فَمَنْ شَهِدَ مِنْكُم الشَّهْرَ فَلْـيَصُمْهُ } قال: هو إهلاله بـالدار.
+  يريد إذ هلّ وهو مقـيـم.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي يعقوب بن إبراهيـم، قال:
+  ثنا هشيـم، قال: أخبرنا حصين، عمن حدثه، عن ابن عبـاس أنه قال فـي قوله: { فَمَنْ شَهِدَ
+  مِنْكُم الشَّهْرَ فَلْـيَصُمْهُ } فإذا شهده وهو مقـيـم فعلـيه الصوم أقام أو سافر،
+  وإن شهده وهو فـي سفر، فإن شاء صام وإن شاء أفطر.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  يعقوب، قال: ثنا ابن علـية، عن أيوب، عن مـحمد، عن عبـيدة فـي الرجل يدركه رمضان ثم
+  يسافر، قال: إذا شهدت أوله فضم آخره، ألا تراه يقول: { فَمَنْ شَهِدَ مِنْكُم الشَّهْرَ
+  فَلْـيَصُمْهُ }.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي يعقوب قال: ثنا ابن علـية،
+  عن هشام الفردوسي، عن مـحمد بن سيرين، قال: سألت عبـيدة، عن رجل أدرك رمضان وهو مقـيـم،
+  قال: من صام أول الشهر فلـيصم آخره، ألا تراه يقول: { فَمَنْ شَهِدَ مِنْكُم الشَّهْرَ
+  فَلْـيَصُمْهُ }.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي موسى، قال: ثنا عمرو، قال:
+  ثنا أسبـاط، عن السدي: أما من شهد منكم الشهر فلـيصمه، فمن دخـل علـيه رمضان وهو مقـيـم
+  فـي أهله فلـيصمه، وإن خرج فـيه فلـيصمه فإنه دخـل علـيه وهو فـي أهله.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي الـمثنى،، قال: ثنا حجاج، قال: ثنا حماد، قال: أخبرنا قتادة،
   عن مـحمد بن سيرين، عن عبـيدة السلـمانـي، عن علـيّ فـيـما يحسب حماد، قال: من أدرك
   رمضان وهو مقـيـم ولـم يخرج فقد لزمه الصوم، لأن الله يقول: { فَمَنْ شَهِدَ مِنْكُم
-  الشَّهْرَ فَلْـيَصُمْهُ }.حدثنا هناد بن السرّي. قال: ثنا عبد الرحمن، عن إسماعيـل
-  بن مسلـم، عن مـحمد بن سيرين، قال: سألت عبـيدة السلـمانـي عن قول الله: { فَمَنْ شَهِدَ
-  مِنْكُم الشَّهْرَ فَلْـيَصُمْهُ } قال: من كان مقـيـماً فلـيصمه، ومن أدركه ثم سافر
-  فـيه فلـيصمه.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 9 10 \r\n\t\t\t\t\t\t\t\tمزيد</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ شَهْرُ رَمَضَانَ ٱلَّذِيۤ أُنْزِلَ
-  فِيهِ ٱلْقُرْآنُ هُدًى لِّلنَّاسِ وَبَيِّنَاتٍ مِّنَ ٱلْهُدَىٰ وَٱلْفُرْقَانِ فَمَن
-  شَهِدَ مِنكُمُ ٱلشَّهْرَ فَلْيَصُمْهُ وَمَن كَانَ مَرِيضاً أَوْ عَلَىٰ سَفَرٍ فَعِدَّةٌ
-  مِّنْ أَيَّامٍ أُخَرَ يُرِيدُ ٱللَّهُ بِكُمُ ٱلْيُسْرَ وَلاَ يُرِيدُ بِكُمُ ٱلْعُسْرَ
-  وَلِتُكْمِلُواْ ٱلْعِدَّةَ وَلِتُكَبِّرُواْ ٱللَّهَ عَلَىٰ مَا هَدَاكُمْ وَلَعَلَّكُمْ
-  تَشْكُرُونَ }حدثنا هناد قال: ثنا وكيع، عن ابن عون، عن ابن سيرين، عن عبـيدة، قال:
-  من شهد أول رمضان فلـيصم آخره.حدثنا هناد، قال: ثنا عبدة، عن سعيد بن أبـي عروبة، عن
-  قتادة أن علـياً كان يقول: إذا أدركه رمضان وهو مقـيـم ثم سافر فعلـيه الصوم.حدثنا
+  الشَّهْرَ فَلْـيَصُمْهُ }.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا هناد بن السرّي. قال: ثنا
+  عبد الرحمن، عن إسماعيـل بن مسلـم، عن مـحمد بن سيرين، قال: سألت عبـيدة السلـمانـي
+  عن قول الله: { فَمَنْ شَهِدَ مِنْكُم الشَّهْرَ فَلْـيَصُمْهُ } قال: من كان مقـيـماً
+  فلـيصمه، ومن أدركه ثم سافر فـيه فلـيصمه.</font></font>&#13;\t\t\t<label disabled=\"true\"
+  class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">3 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,8,1)\"><u>8</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,9,1)\"><u>9</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(1,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2,
+  185)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,185)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">شَهْرُ رَمَضَانَ ٱلَّذِيۤ أُنْزِلَ فِيهِ ٱلْقُرْآنُ
+  هُدًى لِّلنَّاسِ وَبَيِّنَاتٍ مِّنَ ٱلْهُدَىٰ وَٱلْفُرْقَانِ فَمَن شَهِدَ مِنكُمُ
+  ٱلشَّهْرَ فَلْيَصُمْهُ وَمَن كَانَ مَرِيضاً أَوْ عَلَىٰ سَفَرٍ فَعِدَّةٌ مِّنْ أَيَّامٍ
+  أُخَرَ يُرِيدُ ٱللَّهُ بِكُمُ ٱلْيُسْرَ وَلاَ يُرِيدُ بِكُمُ ٱلْعُسْرَ وَلِتُكْمِلُواْ
+  ٱلْعِدَّةَ وَلِتُكَبِّرُواْ ٱللَّهَ عَلَىٰ مَا هَدَاكُمْ وَلَعَلَّكُمْ تَشْكُرُونَ</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا هناد قال: ثنا وكيع، عن ابن عون، عن ابن سيرين، عن عبـيدة، قال:
+  من شهد أول رمضان فلـيصم آخره.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  هناد، قال: ثنا عبدة، عن سعيد بن أبـي عروبة، عن قتادة أن علـياً كان يقول: إذا أدركه
+  رمضان وهو مقـيـم ثم سافر فعلـيه الصوم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
   هناد، قال: ثنا عبد الرحيـم، عن عبـيدة الضبـي، عن إبراهيـم قال: كان يقول: إذا أدركك
-  رمضان فلا تسافر فـيه، فإن صمت فـيه يوما أو اثنـين ثم سافرت فلا تفطر، صمه.حدثنا ابن
-  الـمثنى، قال: ثنا مـحمد بن جعفر، قال: ثنا شعبة، عن عمرو بن مرة، عن أبـي البختري،
-  قال: كنا عند عبـيدة، فقرأ هذه الآية: { فَمَنْ شَهِدَ مِنْكُم الشَّهْرَ فَلْـيَصُمْهُ
-  } قال: من صام شيئاً منه فـي الـمصر فلـيصم بقـيته إذا خرج قال: وكان ابن عبـاس يقول:
-  إن شاء صام، وإن شاء أفطر.حدثنا مـحمد بن بشار، قال: ثنا عبد الوهاب، وحدثنـي يعقوب
-  بن إبراهيـم، قال: ثنا ابن علـية، قالا جميعاً، ثنا أيوب، عن أبـي يزيد، عن أم درّة
-  قالت: أتـيت عائشة فـي رمضان، قالت: من أين جئت؟ قلت: من عند أخي حنين، قالت: ما شأنه؟
-  قالت: ودّعته يريد يرتحل، قالت: فأقرئيه السلام ومريه فليقم، فلو أدركني رمضان وأنا
-  ببعض الطريق لأقمت له.حدثنا هناد، قال: ثنا إسحاق بن عيسى، عن أفلـح، عن عبد الرحمن،
-  قال: جاء إبراهيـم بن طلـحة إلـى عائشة يسلـم علـيها، قالت: وأين تريد؟ قال: أردت العمرة،
+  رمضان فلا تسافر فـيه، فإن صمت فـيه يوما أو اثنـين ثم سافرت فلا تفطر، صمه.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن الـمثنى، قال: ثنا مـحمد بن جعفر، قال: ثنا شعبة، عن عمرو
+  بن مرة، عن أبـي البختري، قال: كنا عند عبـيدة، فقرأ هذه الآية: { فَمَنْ شَهِدَ مِنْكُم
+  الشَّهْرَ فَلْـيَصُمْهُ } قال: من صام شيئاً منه فـي الـمصر فلـيصم بقـيته إذا خرج
+  قال: وكان ابن عبـاس يقول: إن شاء صام، وإن شاء أفطر.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  مـحمد بن بشار، قال: ثنا عبد الوهاب، وحدثنـي يعقوب بن إبراهيـم، قال: ثنا ابن علـية،
+  قالا جميعاً، ثنا أيوب، عن أبـي يزيد، عن أم درّة قالت: أتـيت عائشة فـي رمضان، قالت:
+  من أين جئت؟ قلت: من عند أخي حنين، قالت: ما شأنه؟ قالت: ودّعته يريد يرتحل، قالت:
+  فأقرئيه السلام ومريه فليقم، فلو أدركني رمضان وأنا ببعض الطريق لأقمت له.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا هناد، قال: ثنا إسحاق بن عيسى، عن أفلـح، عن عبد الرحمن، قال:
+  جاء إبراهيـم بن طلـحة إلـى عائشة يسلـم علـيها، قالت: وأين تريد؟ قال: أردت العمرة،
   قالت: فجلست حتـى إذا دخـل علـيك الشهر خرجت فـيه قال: قد خرج ثقلـي، قالت: اجلس حتـى
-  إذا أفطرت فـاخرج يعنـي شهر رمضان.وقال آخرون: معنى ذلك: فمن شهد منكم الشهر فليصم
-  ما شهد منه. ذكر من قال ذلك:حدثنا هناد بن السري، قال: ثنا شريك، عن أبـي إسحاق: أن
-  أبا ميسرة خرج في رمضان حتى إذا بلغ القنطرة دعا ماءً فشرب.حدثنا هناد، قال: حدثنا
-  جرير، عن مغيرة، قال: خرج أبو ميسرة فـي رمضان مسافراً، فمرّ بـالفرات وهو صائم، فأخذ
-  منه كفًّـا فشربه وأفطر.حدثنا هناد، قال: ثنا وكيع، عن سفـيان، عن أبـي إسحاق، عن مرثد:
-  أن أبـا ميسرة سافر فـي رمضان فأفطر عند بـاب الـجسر هكذا قال هناد عن مرثد، وإنـما
-  هو أبو مرثد.حدثنـي مـحمد بن عمارة الأسدي، قال: ثنا عبـيد الله بن موسى، قال: أخبرنا
-  إسرائيـل عن أبـي إسحاق، عن مرثد: أنه خرج مع أبـي ميسرة فـي رمضان، فلـما انتهى إلـى
-  الـجسر أفطر.حدثنا هناد وأبو هشام قالا: ثنا وكيع، عن الـمسعودي، عن الـحسن بن سعد،
-  عن أبـيه، قال: كنت مع علـيّ فـي ضيعة له علـى ثلاث من الـمدينة، فخرجنا نريد الـمدينة
-  فـي شهر رمضان وعلـيّ راكب وأنا ماش، قال: فصام قال هناد: وأفطرت قال أبو هشام: وأمرنـي
-  فأفطرت.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 9 10 \r\n\t\t\t\t\t\t\t\tمزيد</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ شَهْرُ رَمَضَانَ ٱلَّذِيۤ أُنْزِلَ
-  فِيهِ ٱلْقُرْآنُ هُدًى لِّلنَّاسِ وَبَيِّنَاتٍ مِّنَ ٱلْهُدَىٰ وَٱلْفُرْقَانِ فَمَن
-  شَهِدَ مِنكُمُ ٱلشَّهْرَ فَلْيَصُمْهُ وَمَن كَانَ مَرِيضاً أَوْ عَلَىٰ سَفَرٍ فَعِدَّةٌ
-  مِّنْ أَيَّامٍ أُخَرَ يُرِيدُ ٱللَّهُ بِكُمُ ٱلْيُسْرَ وَلاَ يُرِيدُ بِكُمُ ٱلْعُسْرَ
-  وَلِتُكْمِلُواْ ٱلْعِدَّةَ وَلِتُكَبِّرُواْ ٱللَّهَ عَلَىٰ مَا هَدَاكُمْ وَلَعَلَّكُمْ
-  تَشْكُرُونَ }حدثنا هناد، قال: ثنا عبد الرحمن بن عتبة، عن الـحسن بن سعد، عن أبـيه
+  إذا أفطرت فـاخرج يعنـي شهر رمضان.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  آخرون: معنى ذلك: فمن شهد منكم الشهر فليصم ما شهد منه. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا هناد بن السري، قال: ثنا شريك، عن أبـي إسحاق: أن أبا ميسرة
+  خرج في رمضان حتى إذا بلغ القنطرة دعا ماءً فشرب.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  هناد، قال: حدثنا جرير، عن مغيرة، قال: خرج أبو ميسرة فـي رمضان مسافراً، فمرّ بـالفرات
+  وهو صائم، فأخذ منه كفًّـا فشربه وأفطر.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  هناد، قال: ثنا وكيع، عن سفـيان، عن أبـي إسحاق، عن مرثد: أن أبـا ميسرة سافر فـي رمضان
+  فأفطر عند بـاب الـجسر هكذا قال هناد عن مرثد، وإنـما هو أبو مرثد.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي مـحمد بن عمارة الأسدي، قال: ثنا عبـيد الله بن موسى، قال:
+  أخبرنا إسرائيـل عن أبـي إسحاق، عن مرثد: أنه خرج مع أبـي ميسرة فـي رمضان، فلـما انتهى
+  إلـى الـجسر أفطر.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا هناد وأبو هشام قالا: ثنا
+  وكيع، عن الـمسعودي، عن الـحسن بن سعد، عن أبـيه، قال: كنت مع علـيّ فـي ضيعة له علـى
+  ثلاث من الـمدينة، فخرجنا نريد الـمدينة فـي شهر رمضان وعلـيّ راكب وأنا ماش، قال:
+  فصام قال هناد: وأفطرت قال أبو هشام: وأمرنـي فأفطرت.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">4 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,8,1)\"><u>8</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,9,1)\"><u>9</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(1,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2,
+  185)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,185)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">شَهْرُ رَمَضَانَ ٱلَّذِيۤ أُنْزِلَ فِيهِ ٱلْقُرْآنُ
+  هُدًى لِّلنَّاسِ وَبَيِّنَاتٍ مِّنَ ٱلْهُدَىٰ وَٱلْفُرْقَانِ فَمَن شَهِدَ مِنكُمُ
+  ٱلشَّهْرَ فَلْيَصُمْهُ وَمَن كَانَ مَرِيضاً أَوْ عَلَىٰ سَفَرٍ فَعِدَّةٌ مِّنْ أَيَّامٍ
+  أُخَرَ يُرِيدُ ٱللَّهُ بِكُمُ ٱلْيُسْرَ وَلاَ يُرِيدُ بِكُمُ ٱلْعُسْرَ وَلِتُكْمِلُواْ
+  ٱلْعِدَّةَ وَلِتُكَبِّرُواْ ٱللَّهَ عَلَىٰ مَا هَدَاكُمْ وَلَعَلَّكُمْ تَشْكُرُونَ</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا هناد، قال: ثنا عبد الرحمن بن عتبة، عن الـحسن بن سعد، عن أبـيه
   قال: كنت مع علـي بن أبـي طالب، وهو جاء من أرض له فصام، وأمرنـي فأفطرت فدخـل الـمدينة
-  لـيلاً وكان راكبـاً وأنا ماش.حدثنا هناد، قال: ثنا وكيع، وحدثنا ابن بشار، قال: ثنا
-  ابن مهدي، قالا جميعا: ثنا سفـيان، عن عيسى بن أبـي عزّة، عن الشعبـي أنه سافر فـي
-  شهر رمضان، فأفطر عند بـاب الـجسر.حدثنـا ابن بشار، قال: ثنا عبد الرحمن، قال: قال
-  لـي سفـيان: أحبّ إلـيّ أن تتـمه.حدثنا ابن الـمثنى، قال: ثنا مـحمد بن جعفر، عن شعبة،
-  قال: سألت الـحكم وحمادا وأردت أن أسافر فـي رمضان فقالا لـي: اخرج وقال حماد: قال
-  إبراهيـم: أما إذا كان العشر فأحبّ إلـيّ أن يقـيـم.حدثنا ابن الـمثنى، قال: ثنا أبو
-  الولـيد، قال: ثنا حماد، عن قتادة، عن الـحسن وسعيد بن الـمسيب قالا: من أدركه الصوم
-  وهو مقـيـم رمضان ثم سافر، قالا: إن شاء أفطر.وقال آخرون: { فَمَنْ شَهِدَ مِنْكُمُ
+  لـيلاً وكان راكبـاً وأنا ماش.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  هناد، قال: ثنا وكيع، وحدثنا ابن بشار، قال: ثنا ابن مهدي، قالا جميعا: ثنا سفـيان،
+  عن عيسى بن أبـي عزّة، عن الشعبـي أنه سافر فـي شهر رمضان، فأفطر عند بـاب الـجسر.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـا ابن بشار، قال: ثنا عبد الرحمن، قال: قال لـي سفـيان: أحبّ
+  إلـيّ أن تتـمه.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن الـمثنى، قال: ثنا مـحمد
+  بن جعفر، عن شعبة، قال: سألت الـحكم وحمادا وأردت أن أسافر فـي رمضان فقالا لـي: اخرج
+  وقال حماد: قال إبراهيـم: أما إذا كان العشر فأحبّ إلـيّ أن يقـيـم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن الـمثنى، قال: ثنا أبو الولـيد، قال: ثنا حماد، عن قتادة،
+  عن الـحسن وسعيد بن الـمسيب قالا: من أدركه الصوم وهو مقـيـم رمضان ثم سافر، قالا:
+  إن شاء أفطر.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال آخرون: { فَمَنْ شَهِدَ مِنْكُمُ
   الشَّهْرَ فَلْـيَصُمْهُ } يعنـي فمن شهده عاقلاً بـالغاً مكلفـاً فلـيصمه. ومـمن قال
   ذلك أبو حنـيفة وأصحابه، كانوا يقولون: من دخـل علـيه شهر رمضان وهو صحيح عاقل بـالغ
   فعلـيه صومه، فإن جنّ بعد دخوله علـيه وهو بـالصفة التـي وصفنا ثم أفـاق بعد انقضائه
@@ -175,157 +380,391 @@ text: "<section>قراءة الآيةفتح صفحة القرآنالانتقا�
   انقضاء الشهر أن علـيه قضاء الشهر كله، ولـم يخالف ذلك أحد يجوز الاعتراض به علـى الأمة
   وإذا كان إجماعاً فـالواجب أن يكون سبـيـل كل من كان زائل العقل جميع شهر الصوم سبـيـل
   الـمغمى علـيه. وإذا كان ذلك كذلك كان معلوماً أن تأويـل الآية غير الذي تأوّلها قائلو
-  هذه الـمقالة من أنه شهود الشهر أو بعضه مكلفـاً صومه.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 9 10 \r\n\t\t\t\t\t\t\t\tمزيد</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ شَهْرُ رَمَضَانَ ٱلَّذِيۤ أُنْزِلَ
-  فِيهِ ٱلْقُرْآنُ هُدًى لِّلنَّاسِ وَبَيِّنَاتٍ مِّنَ ٱلْهُدَىٰ وَٱلْفُرْقَانِ فَمَن
-  شَهِدَ مِنكُمُ ٱلشَّهْرَ فَلْيَصُمْهُ وَمَن كَانَ مَرِيضاً أَوْ عَلَىٰ سَفَرٍ فَعِدَّةٌ
-  مِّنْ أَيَّامٍ أُخَرَ يُرِيدُ ٱللَّهُ بِكُمُ ٱلْيُسْرَ وَلاَ يُرِيدُ بِكُمُ ٱلْعُسْرَ
-  وَلِتُكْمِلُواْ ٱلْعِدَّةَ وَلِتُكَبِّرُواْ ٱللَّهَ عَلَىٰ مَا هَدَاكُمْ وَلَعَلَّكُمْ
-  تَشْكُرُونَ }وإذا بطل ذلك فتأويـل الـمتأوّل الذي زعم أن معناه: فمن شهد أوله مقـيـماً
+  هذه الـمقالة من أنه شهود الشهر أو بعضه مكلفـاً صومه.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">5 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,8,1)\"><u>8</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,9,1)\"><u>9</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(1,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2,
+  185)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,185)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">شَهْرُ رَمَضَانَ ٱلَّذِيۤ أُنْزِلَ فِيهِ ٱلْقُرْآنُ
+  هُدًى لِّلنَّاسِ وَبَيِّنَاتٍ مِّنَ ٱلْهُدَىٰ وَٱلْفُرْقَانِ فَمَن شَهِدَ مِنكُمُ
+  ٱلشَّهْرَ فَلْيَصُمْهُ وَمَن كَانَ مَرِيضاً أَوْ عَلَىٰ سَفَرٍ فَعِدَّةٌ مِّنْ أَيَّامٍ
+  أُخَرَ يُرِيدُ ٱللَّهُ بِكُمُ ٱلْيُسْرَ وَلاَ يُرِيدُ بِكُمُ ٱلْعُسْرَ وَلِتُكْمِلُواْ
+  ٱلْعِدَّةَ وَلِتُكَبِّرُواْ ٱللَّهَ عَلَىٰ مَا هَدَاكُمْ وَلَعَلَّكُمْ تَشْكُرُونَ</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">وإذا بطل ذلك فتأويـل الـمتأوّل الذي زعم أن معناه: فمن شهد أوله مقـيـماً
   حاضراً فعلـيه صوم جميعه أبطلُ وأفسدُ لتظاهر الأخبـار عن رسول الله صلى الله عليه
   وسلم أنه خرج عام الفتـح من الـمدينة فـي شهر رمضان بعد ما صام بعضه وأفطر وأمر أصحابه
-  بـالإفطار.حدثنا هناد، قال: ثنا أبو الأحوص، عن منصور، عن مـجاهد، عن ابن عبـاس، قال:
-  «سافر رسول الله صلى الله عليه وسلم فـي رمضان من الـمدينة إلـى مكة، حتـى إذا أتـى
-  عسفـان نزل به، فدعا بإناء فوضعه علـى يده لـيراه الناس، ثم شربه».حدثنا ابن حميد وسفـيان
-  بن وكيع قالا: ثنا جرير، عن منصور، عن مـجاهد، عن طاوس، عن ابن عبـاس، عن رسول الله
-  صلى الله عليه وسلم بنـحوه.حدثنا هناد، ثنا عبـيدة، عن منصور، عن مـجاهد، عن طاوس،
-  عن ابن عبـاس عن رسول الله صلى الله عليه وسلم بنـحوه.حدثنا هناد وأبو كريب، قالا:
-  ثنا يونس بن بكير، قال: ثنا ابن إسحاق، قال حدثنـي الزهري، عن عبـيد الله بن عبد الله
-  بن عتبة، عن ابن عبـاس قال: مضى رسول الله صلى الله عليه وسلم لسفره عام الفتـح لعشر
-  مضين من رمضان، فصام رسول الله صلى الله عليه وسلم وصام الناس معه، حتـى إذا أتـى الكديد
-  ما بـين عسفـان وأمَـج وأفطر.حدثنا هناد وأبو كريب، قالا: ثنا عبدة، عن مـحمد بن إسحاق،
-  عن الزهري، عن عبـيد الله بن عبد الله، عن ابن عبـاس قال: خرج رسول الله صلى الله عليه
-  وسلم لعشر أو لعشرين مضت من رمضان عام الفتـح، فصام حتـى إذا كان بـالكديد أفطر.حدثنا
-  ابن بشار، قال: ثنا سالـم بن نوح، قال: ثنا عمر بن عامر، عن قتادة، عن أبـي نضرة، عن
-  أبـي سعيد الـخدري، قال: خرجنا مع النبـي صلى الله عليه وسلم لثمان عشرة مضت من رمضان،
-  فمنا الصائم، ومنا الـمفطر، فلـم يعب الـمفطر علـى الصائم، ولا الصائم علـى الـمفطر.فإذا
-  كانا فـاسدين هذان التأويلان بـما علـيه دللنا من فسادهما، فتبـين أن الصحيح من التأويـل
-  هو الثالث، وهو قول من قال: { فَمَنْ شَهِدَ مِنْكُمُ الشَّهْرَ فَلْـيَصُمْهُ } جميع
-  ما شهد منه مقـيـماً، ومن كان مريضاً أو علـى سفر فعدّة من أيام أخر.القول فـي تأويـل
-  قوله تعالـى: { ومَنْ كانَ مَرِيضاً أوْ علـى سَفَرٍ فَعِدَّةٌ مِنْ أيَّامٍ أُخَر
-  } يعنـي الله تعالـى ذكره بذلك: ومن كان مريضاً أو علـى سفر فـي الشهر فأفطر فعلـيه
-  صيام عدَّة الأيام التـي أفطرها من أيام أخر غير أيام شهر رمضان.ثم اختلف أهل العلـم
-  فـي الـمرض الذي أبـاح الله معه الإفطار وأوجب معه عدّة من أيام أخر فقال بعضهم: هو
-  الـمرض الذي لا يطيق صاحبه معه القـيام لصلاته.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 9 10 \r\n\t\t\t\t\t\t\t\tمزيد</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ شَهْرُ رَمَضَانَ ٱلَّذِيۤ أُنْزِلَ
-  فِيهِ ٱلْقُرْآنُ هُدًى لِّلنَّاسِ وَبَيِّنَاتٍ مِّنَ ٱلْهُدَىٰ وَٱلْفُرْقَانِ فَمَن
-  شَهِدَ مِنكُمُ ٱلشَّهْرَ فَلْيَصُمْهُ وَمَن كَانَ مَرِيضاً أَوْ عَلَىٰ سَفَرٍ فَعِدَّةٌ
-  مِّنْ أَيَّامٍ أُخَرَ يُرِيدُ ٱللَّهُ بِكُمُ ٱلْيُسْرَ وَلاَ يُرِيدُ بِكُمُ ٱلْعُسْرَ
-  وَلِتُكْمِلُواْ ٱلْعِدَّةَ وَلِتُكَبِّرُواْ ٱللَّهَ عَلَىٰ مَا هَدَاكُمْ وَلَعَلَّكُمْ
-  تَشْكُرُونَ }ذكر من قال ذلك:حدثنا معاذ بن شعبة البصري، قال: ثنا شريك، عن مغيرة،
-  عن إبراهيـم وإسماعيـل بن مسلـم، عن الـحسن أنه قال: إذا لـم يستطع الـمريض أن يصلـي
-  قائماً أفطر.حدثنـي يعقوب قال: ثنا هشيـم، عن مغيرة أو عبـيدة، عن إبراهيـم فـي الـمريض
-  إذا لـم يستطع الصلاة قائما: فلـيفطر يعنـي فـي رمضان.حدثنا هناد، قال: ثنا حفص بن
-  غياث، عن إسماعيـل، قال: سألت الـحسن: متـى يفطر الصائم؟ قال: إذا جهده الصوم، قال:
-  إذا لـم يستطع أن يصلـي الفرائض كما أُمر.وقال بعضهم: وهو كل مرض كان الأغلب من أمر
-  صاحبه بـالصوم الزيادة فـي علته زيادة غير مـحتـملة وذلك هو قول مـحمد بن إدريس الشافعي،
-  حدثنا بذلك عنه الربـيع.وقال آخرون: وهو (كل) مرض يسمى مرضاً. ذكر من قال ذلك:حدثنا
-  مـحمد بن الـمثنى، قال: ثنا الـحسن بن خالد الربعي، قال: ثنا طريف بن تـمام العطاردي،
-  أنه دخـل علـى مـحمد بن سيرين فـي رمضان وهو يأكل فلـم يسأله، فلـما فرغ قال: إنه وجعت
-  إصبعي هذه.والصواب من القول فـي ذلك عندنا، أن الـمرض الذي أذن الله تعالـى ذكره بـالإفطار
-  معه فـي شهر رمضان من كان الصوم جاهده جهداً غير مـحتـمل، فكل من كان كذلك فله الإفطار
-  وقضاء عدّة من أيام أخر وذلك أنه إذا بلغ ذلك الأمر، فإن لـم يكن مأذوناً له فـي الإفطار
-  فقد كلف عسراً ومنع يسراً، وذلك غير الذي أخبر الله أنه أراده بخـلقه بقوله: { يُريدُ
-  اللَّهُ بِكُمُ الـيُسْرَ وَلاَ يُرِيدُ بِكُمُ العُسْرَ }. وأما من كان الصوم غير
-  جاهده، فهو بـمعنى الصحيح الذي يطيق الصوم، فعلـيه أداء فرضه.وأما قوله: { فَعِدَّةٌ
-  مِنْ أيَّامٍ أُخَر } فإن معناها: أيام معدودة سوى هذه الأيام. وأما الأخر فإنها جمع
-  أخرى بجمعهم الكبرى علـى الكبر والقربى علـى القرب.فإن قال قائل: أو لـيست الأخر من
-  صفة الأيام؟ قـيـل: بلـى فإن قال: أولـيس واحد الأيام يوم وهو مذكر؟ قـيـل: بلـى.فإن
+  بـالإفطار.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا هناد، قال: ثنا أبو الأحوص،
+  عن منصور، عن مـجاهد، عن ابن عبـاس، قال: «سافر رسول الله صلى الله عليه وسلم فـي رمضان
+  من الـمدينة إلـى مكة، حتـى إذا أتـى عسفـان نزل به، فدعا بإناء فوضعه علـى يده لـيراه
+  الناس، ثم شربه».</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن حميد وسفـيان بن وكيع
+  قالا: ثنا جرير، عن منصور، عن مـجاهد، عن طاوس، عن ابن عبـاس، عن رسول الله صلى الله
+  عليه وسلم بنـحوه.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا هناد، ثنا عبـيدة، عن منصور،
+  عن مـجاهد، عن طاوس، عن ابن عبـاس عن رسول الله صلى الله عليه وسلم بنـحوه.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا هناد وأبو كريب، قالا: ثنا يونس بن بكير، قال: ثنا ابن إسحاق،
+  قال حدثنـي الزهري، عن عبـيد الله بن عبد الله بن عتبة، عن ابن عبـاس قال: مضى رسول
+  الله صلى الله عليه وسلم لسفره عام الفتـح لعشر مضين من رمضان، فصام رسول الله صلى
+  الله عليه وسلم وصام الناس معه، حتـى إذا أتـى الكديد ما بـين عسفـان وأمَـج وأفطر.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا هناد وأبو كريب، قالا: ثنا عبدة، عن مـحمد بن إسحاق، عن الزهري،
+  عن عبـيد الله بن عبد الله، عن ابن عبـاس قال: خرج رسول الله صلى الله عليه وسلم لعشر
+  أو لعشرين مضت من رمضان عام الفتـح، فصام حتـى إذا كان بـالكديد أفطر.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن بشار، قال: ثنا سالـم بن نوح، قال: ثنا عمر بن عامر، عن
+  قتادة، عن أبـي نضرة، عن أبـي سعيد الـخدري، قال: خرجنا مع النبـي صلى الله عليه وسلم
+  لثمان عشرة مضت من رمضان، فمنا الصائم، ومنا الـمفطر، فلـم يعب الـمفطر علـى الصائم،
+  ولا الصائم علـى الـمفطر.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">فإذا كانا فـاسدين هذان التأويلان
+  بـما علـيه دللنا من فسادهما، فتبـين أن الصحيح من التأويـل هو الثالث، وهو قول من
+  قال: { فَمَنْ شَهِدَ مِنْكُمُ الشَّهْرَ فَلْـيَصُمْهُ } جميع ما شهد منه مقـيـماً،
+  ومن كان مريضاً أو علـى سفر فعدّة من أيام أخر.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">القول
+  فـي تأويـل قوله تعالـى: { ومَنْ كانَ مَرِيضاً أوْ علـى سَفَرٍ فَعِدَّةٌ مِنْ أيَّامٍ
+  أُخَر } يعنـي الله تعالـى ذكره بذلك: ومن كان مريضاً أو علـى سفر فـي الشهر فأفطر
+  فعلـيه صيام عدَّة الأيام التـي أفطرها من أيام أخر غير أيام شهر رمضان.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">ثم اختلف أهل العلـم فـي الـمرض الذي أبـاح الله معه الإفطار وأوجب
+  معه عدّة من أيام أخر فقال بعضهم: هو الـمرض الذي لا يطيق صاحبه معه القـيام لصلاته.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,7,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">6 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,8,1)\"><u>8</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,9,1)\"><u>9</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(1,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2,
+  185)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,185)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">شَهْرُ رَمَضَانَ ٱلَّذِيۤ أُنْزِلَ فِيهِ ٱلْقُرْآنُ
+  هُدًى لِّلنَّاسِ وَبَيِّنَاتٍ مِّنَ ٱلْهُدَىٰ وَٱلْفُرْقَانِ فَمَن شَهِدَ مِنكُمُ
+  ٱلشَّهْرَ فَلْيَصُمْهُ وَمَن كَانَ مَرِيضاً أَوْ عَلَىٰ سَفَرٍ فَعِدَّةٌ مِّنْ أَيَّامٍ
+  أُخَرَ يُرِيدُ ٱللَّهُ بِكُمُ ٱلْيُسْرَ وَلاَ يُرِيدُ بِكُمُ ٱلْعُسْرَ وَلِتُكْمِلُواْ
+  ٱلْعِدَّةَ وَلِتُكَبِّرُواْ ٱللَّهَ عَلَىٰ مَا هَدَاكُمْ وَلَعَلَّكُمْ تَشْكُرُونَ</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  معاذ بن شعبة البصري، قال: ثنا شريك، عن مغيرة، عن إبراهيـم وإسماعيـل بن مسلـم، عن
+  الـحسن أنه قال: إذا لـم يستطع الـمريض أن يصلـي قائماً أفطر.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  يعقوب قال: ثنا هشيـم، عن مغيرة أو عبـيدة، عن إبراهيـم فـي الـمريض إذا لـم يستطع
+  الصلاة قائما: فلـيفطر يعنـي فـي رمضان.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  هناد، قال: ثنا حفص بن غياث، عن إسماعيـل، قال: سألت الـحسن: متـى يفطر الصائم؟ قال:
+  إذا جهده الصوم، قال: إذا لـم يستطع أن يصلـي الفرائض كما أُمر.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال بعضهم: وهو كل مرض كان الأغلب من أمر صاحبه بـالصوم الزيادة فـي
+  علته زيادة غير مـحتـملة وذلك هو قول مـحمد بن إدريس الشافعي، حدثنا بذلك عنه الربـيع.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال آخرون: وهو (كل) مرض يسمى مرضاً. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا مـحمد بن الـمثنى، قال: ثنا الـحسن بن خالد الربعي، قال: ثنا
+  طريف بن تـمام العطاردي، أنه دخـل علـى مـحمد بن سيرين فـي رمضان وهو يأكل فلـم يسأله،
+  فلـما فرغ قال: إنه وجعت إصبعي هذه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">والصواب
+  من القول فـي ذلك عندنا، أن الـمرض الذي أذن الله تعالـى ذكره بـالإفطار معه فـي شهر
+  رمضان من كان الصوم جاهده جهداً غير مـحتـمل، فكل من كان كذلك فله الإفطار وقضاء عدّة
+  من أيام أخر وذلك أنه إذا بلغ ذلك الأمر، فإن لـم يكن مأذوناً له فـي الإفطار فقد كلف
+  عسراً ومنع يسراً، وذلك غير الذي أخبر الله أنه أراده بخـلقه بقوله: { يُريدُ اللَّهُ
+  بِكُمُ الـيُسْرَ وَلاَ يُرِيدُ بِكُمُ العُسْرَ }. وأما من كان الصوم غير جاهده، فهو
+  بـمعنى الصحيح الذي يطيق الصوم، فعلـيه أداء فرضه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وأما
+  قوله: { فَعِدَّةٌ مِنْ أيَّامٍ أُخَر } فإن معناها: أيام معدودة سوى هذه الأيام. وأما
+  الأخر فإنها جمع أخرى بجمعهم الكبرى علـى الكبر والقربى علـى القرب.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">فإن قال قائل: أو لـيست الأخر من صفة الأيام؟ قـيـل: بلـى فإن قال:
+  أولـيس واحد الأيام يوم وهو مذكر؟ قـيـل: بلـى.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">فإن
   قال: فكيف يكون واحد الأخر أخرى وهي صفة للـيوم ولـم يكن آخر؟ قـيـل: إن واحد الأيام
   وإن كان إذا نعت بواحد الأخر فهو آخر، فإن الأيام فـي الـجمع تصير إلـى التأنـيث فتصير
   نعوتها وصفـاتها كهيئة صفـات الـمؤنث، كما يقال: مضت الأيام جمع، ولا يقال: أجمعون،
-  ولا أيام آخرون.فإن قال لنا قائل: فإن الله تعالـى قال: { فَمَنْ كانَ مِنْكُمِ مَرِيضاً
-  أوْ علـى سَفَرٍ فَعِدَّةٌ مِنْ أيَّامٍ أُخَر } ومعنى ذلك عندك: فعلـيه عدة من أيام
-  أخر كما قد وصفت فـيـما مضى. فإن كان ذلك تأويـله، فما قولك فـيـمن كان مريضاً أو علـى
-  سفر فصام الشهر وهو مـمن له الإفطار، أيجزيه ذلك من صيام عدّة من أيام أخر، أو غير
-  مـجزيه ذلك؟ وفرض صوم عدة من أيام أخر ثابت علـيه بهيئته وإن صام الشهر كله، وهل لـمن
-  كان مريضاً أو علـى سفر صيام شهر رمضان، أم ذلك مـحظور علـيه، وغير جائز له صومه، والواجب
-  علـيه الإفطار فـيه حتـى يقـيـم هذا ويبرأ هذا؟ قـيـل: قد اختلف أهل العلـم فـي كل
-  ذلك، ونـحن ذاكرو اختلافهم فـي ذلك، ومخبرون بأولاه بـالصواب إن شاء الله.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 9 10 \r\n\t\t\t\t\t\t\t\tمزيد</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ شَهْرُ رَمَضَانَ ٱلَّذِيۤ أُنْزِلَ
-  فِيهِ ٱلْقُرْآنُ هُدًى لِّلنَّاسِ وَبَيِّنَاتٍ مِّنَ ٱلْهُدَىٰ وَٱلْفُرْقَانِ فَمَن
-  شَهِدَ مِنكُمُ ٱلشَّهْرَ فَلْيَصُمْهُ وَمَن كَانَ مَرِيضاً أَوْ عَلَىٰ سَفَرٍ فَعِدَّةٌ
-  مِّنْ أَيَّامٍ أُخَرَ يُرِيدُ ٱللَّهُ بِكُمُ ٱلْيُسْرَ وَلاَ يُرِيدُ بِكُمُ ٱلْعُسْرَ
-  وَلِتُكْمِلُواْ ٱلْعِدَّةَ وَلِتُكَبِّرُواْ ٱللَّهَ عَلَىٰ مَا هَدَاكُمْ وَلَعَلَّكُمْ
-  تَشْكُرُونَ }فقال بعضهم: الإفطار فـي الـمرض عزمة من الله واجبة، ولـيس بترخيص. ذكر
-  من قال ذلك:حدثنا مـحمد بن بشار، قال: ثنا ابن أبـي عديّ، وحدثنـي يعقوب بن إبراهيـم،
-  قال: ثنا ابن علـية جميعا، عن سعيد، عن قتادة، عن جابر بن زيد، عن ابن عبـاس، قال:
-  الإفطار فـي السفر عزمة.حدثنـي مـحمد بن الـمثنى، قال: ثنا وهب بن جرير، قال: أخبرنا
-  سعيد، عن يعلـى، عن يوسف بن الـحكم، قال: سألت ابن عمر، أو سئل عن الصوم فـي السفر،
-  فقال: أرأيت لو تصدقت علـى رجل بصدقة فردّها علـيك ألـم تغضب؟ فإنها من الله تصدق صدقة
-  بها علـيكم.حدثنا نصر بن عبد الرحمن الأودي، قال: ثنا الـمـحاربـي عن عبد الـملك بن
-  حميد، قال: قال أبو جعفر كان أبـي لا يصوم فـي السفر وينهى عنه.وحدثنا ابن حميد، قال:
-  ثنا يحيى بن واضح، قال: ثنا عبـيد، عن الضحاك: أنه كره الصوم فـي السفر.وقال أهل هذه
-  الـمقالة: من صام فـي السفر فعلـيه القضاء إذا قام. ذكر من قال ذلك:حدثنا نصر بن علـي
-  الـخثعمي، قال: ثنا مسلـم بن إبراهيـم قال: ثنا ربـيعة بن كلثوم، عن أبـيه، عن رجل:
-  أن عمر أمر الذي صام فـي السفر أن يعيد.حدثنا مـحمد بن الـمثنى، قال: ثنا مـحمد بن
-  أبـي عديّ، عن سعيد بن عمرو بن دينار، عن رجل من بنـي تـميـم عن أبـيه، قال: أمر عمر
-  رجلاً صام فـي السفر أن يعيد صومه.حدثنـي ابن حميد الـحمصي، قال: ثنا علـيّ بن معبد،
-  عن عبـيد الله بن عمرو، عن عبد الكريـم، عن عطاء، عن الـمـحرر بن أبـي هريرة، قال:
-  كنت مع أبـي فـي سفر فـي رمضان، فكنت أصوم ويفطر، فقال لـي أبـي: أما إنك إذا أقمت
-  قضيت.حدثنا مـحمد بن الـمثنى، قال: ثنا سلـيـمان بن داود، قال: ثنا شعبة، عن عاصم مولـى
-  قريبة، قال: سمعت عروة يأمر رجلاً صام فـي السفر أن يقضي.حدثنا ابن الـمثنى، قال: ثنا
-  عبد الصمد، قال: ثنا شعبة، عن عاصم مولـى قريبة أن رجلاً صام فـي السفر فأمره عروة
-  أن يقضي.حدثنا أبو كريب، قال: ثنا ابن صبـيح، قال: ثنا ربـيعة بن كلثوم، عن أبـيه كلثوم:
-  أن قوماً قدموا علـى عمر بن الـخطاب وقد صاموا رمضان فـي سفر، فقال لهم: والله لكأنكم
-  كنتـم تصومون فقالوا: والله يا أمير الـمؤمنـين لقد صمنا، قال: فأطقتـموه؟ قالوا: نعم،
-  قال: فـاقضوه فـاقضوه فـاقضوه.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 9 10 \r\n\t\t\t\t\t\t\t\tمزيد</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ شَهْرُ رَمَضَانَ ٱلَّذِيۤ أُنْزِلَ
-  فِيهِ ٱلْقُرْآنُ هُدًى لِّلنَّاسِ وَبَيِّنَاتٍ مِّنَ ٱلْهُدَىٰ وَٱلْفُرْقَانِ فَمَن
-  شَهِدَ مِنكُمُ ٱلشَّهْرَ فَلْيَصُمْهُ وَمَن كَانَ مَرِيضاً أَوْ عَلَىٰ سَفَرٍ فَعِدَّةٌ
-  مِّنْ أَيَّامٍ أُخَرَ يُرِيدُ ٱللَّهُ بِكُمُ ٱلْيُسْرَ وَلاَ يُرِيدُ بِكُمُ ٱلْعُسْرَ
-  وَلِتُكْمِلُواْ ٱلْعِدَّةَ وَلِتُكَبِّرُواْ ٱللَّهَ عَلَىٰ مَا هَدَاكُمْ وَلَعَلَّكُمْ
-  تَشْكُرُونَ }وعلة من قال هذه الـمقالة أن الله تعالـى ذكره فرض بقوله: { فَمَنْ شَهِدَ
-  مِنْكُمُ الشَّهْرَ فَلْـيَصُمْهُ } صوم شهر رمضان علـى من شهده مقـيـماً غير مسافر،
-  وجعل علـى من كان مريضاً أو مسافراً صوم عدّة من أيام أخر غير أيام شهر رمضان بقوله:
-  { ومَنْ كانَ مَرِيضاً أوْ علـى سَفَرٍ فَعِدَّةٌ مِنْ أيَّامٍ أُخَر } قالوا: فكما
-  غير جائز للـمقـيـم إفطار أيام شهر رمضان وصوم عدة أيام أخر مكانها، لأن الذي فرضه
-  الله علـيه بشهوده الشهر صوم الشهر دون غيره، فكذلك غير جائز لـمن لـم يشهده من الـمسافرين
-  مقـيـماً صومه، لأن الذي فرضه الله علـيه عدة من أيام أخر واعتلوا أيضاً من الـخبر
-  بـما:حدثنا به مـحمد بن عبد الله بن سعيد الواسطي، قال: ثنا يعقوب بن مـحمد الزهري،
-  قال: ثنا عبـيد الله بن موسى، عن أسامة بن زيد، عن الزهري، عن أبـي سلـمة بن عبد الرحمن،
-  عن عبد الرحمن بن عوف، قال: قال رسول الله صلى الله عليه وسلم \"  الصَّائِمُ فـي السَّفَرِ
-  كالـمُفْطِرِ فـي الـحَضَر  \" حدثنـي مـحمد بن عبـيد الله بن سعيد، قال: ثنا يزيد
-  بن عياض، عن الزهري، عن أبـي سلـمة بن عبد الرحمن، عن أبـيه قال: قال رسول الله صلى
-  الله عليه وسلم: \"  الصَّائمُ فـي السَّفَر كالـمُفْطِرِ فـي الـحَضَر  \" وقال آخرون:
-  إبـاحة الإفطار فـي السفر رخصة من الله تعالـى ذكره رخصها لعبـاده، والفرض الصوم، فمن
-  صام فرضه أدّى، ومن أفطر فبرخصة الله له أفطر قالوا: وإن صام فـي سفر فلا قضاء علـيه
-  إذا أقام. ذكر من قال ذلك:حدثنا ابن بشار، قال: حدثنا عبد الوهاب، قال: ثنا أيوب، قال:
-  ثنا عروة وسالـم أنهما كانا عند عمر بن عبد العزيز إذ هو أمير علـى الـمدينة فتذاكروا
-  الصوم فـي السفر، قال سالـم: كان ابن عمر لا يصوم فـي السفر، وقال عروة: وكانت عائشة
-  تصوم، فقال سالـم: إنـما أخذت عن ابن عمر، وقال عروة: إنـما أخذت عن عائشة حتـى ارتفعت
-  أصواتهما، فقال عمر بن عبد العزيز: اللهم عفوا إذا كان يسراً فصوموا، وإذا كان عسراً
-  فأفطروا.حدثنـي يعقوب بن إبراهيـم، قال: ثنا ابن علـية، عن أيوب، قال: حدثنـي رجل،
-  قال: ذكر الصوم فـي السفر عند عمر بن عبد العزيز، ثم ذكر نـحو حديث ابن بشار.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 9 10 \r\n\t\t\t\t\t\t\t\tمزيد</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ شَهْرُ رَمَضَانَ ٱلَّذِيۤ أُنْزِلَ
-  فِيهِ ٱلْقُرْآنُ هُدًى لِّلنَّاسِ وَبَيِّنَاتٍ مِّنَ ٱلْهُدَىٰ وَٱلْفُرْقَانِ فَمَن
-  شَهِدَ مِنكُمُ ٱلشَّهْرَ فَلْيَصُمْهُ وَمَن كَانَ مَرِيضاً أَوْ عَلَىٰ سَفَرٍ فَعِدَّةٌ
-  مِّنْ أَيَّامٍ أُخَرَ يُرِيدُ ٱللَّهُ بِكُمُ ٱلْيُسْرَ وَلاَ يُرِيدُ بِكُمُ ٱلْعُسْرَ
-  وَلِتُكْمِلُواْ ٱلْعِدَّةَ وَلِتُكَبِّرُواْ ٱللَّهَ عَلَىٰ مَا هَدَاكُمْ وَلَعَلَّكُمْ
-  تَشْكُرُونَ }حدثنـي يعقوب، قال: ثنا ابن علـية، عن مـحمد بن إسحاق، وحدثنا أبو كريب،
-  قال: ثنا ابن إدريس ثنا ابن إسحاق، عن الزهري، عن سالـم بن عبد الله، قال: خرج عمر
-  بن الـخطاب فـي بعض أسفـاره فـي لـيال بقـيت من رمضان، فقال: إن الشهر قد تشعشع قال
-  أبو كريب فـي حديثه أو تسعسع، ولـم يشك يعقوب فلو صمنا فصام وصام الناس معه ثم أقبل
-  مرة قافلاً حتـى إذا كان بـالروحاء أهلّ هلال شهر رمضان، فقال إن الله قد قضى السفر،
-  فلو صمنا ولـم نثلـم شهرنا قال: فصام وصام الناس معه.حدثنا ابن حميد، قال: ثنا الـحكم
-  بن بشير، قال: حدثنـي أبـي، وحدثنا مـحمد بن بشار، قال: أخبرنا عبـيد الله، قال: أخبرنا
-  بشير بن سلـمان، عن خيثمة، قال: سألت أنس بن مالك عن الصوم فـي السفر، قال: قد أمرت
-  غلامي أن يصوم فأبى. قلت: فأين هذه الآية: { ومَنْ كانَ مَرِيضاً أوْ علـى سَفَرٍ فَعِدَّةٌ
-  مِنْ أيَّامٍ أُخَر }؟ قال: نزلت ونـحن يومئذ نرتـحل جياعاً وننزل علـى غير شبع، وإنا
-  الـيوم نرتـحل شبـاعاً وننزل علـى شبع.حدثنا هناد، قال: ثنا وكيع: عن بشير بن سلـمان،
-  عن خيثمة، عن أنس نـحوه.حدثنا هناد وأبو السائب قالا: ثنا أبو معاوية، عن عاصم، عن
-  أنس أنه سئل عن الصوم فـي السفر فقال: من أفطر فبرخصة الله، ومن صام فـالصوم أفضل.حدثنا
-  أبو كريب، قال: ثنا أبو أسامة، عن أشعث بن عبد الـملك، عن مـحمد بن عثمان بن أبـي العاص،
-  قال: الفطر فـي السفر رخصة، والصوم أفضل.حدثنا الـمثنى، قال: ثنا عبد الصمد، قال: ثنا
-  شعبة، قال: ثنا أبو الفـيض، قال: كان علـيّ علـينا أمير بـالشام، فنهانا عن الصوم فـي
-  السفر، فسألت أبـا قرصافة رجلاً من أصحاب النبـي صلى الله عليه وسلم من بنـي لـيث قال
-  عبد الصمد: سمعت رجلاً من قومه يقول: إنه واثلة بن الأسقع قال لو صمت فـي السفر ما
-  قضيت.حدثنا هناد، قال: ثنا وكيع، عن بسطام بن مسلـم، عن عطاء قال: إن صمتـم أجزأ عنكم
-  وإن أفطرتـم فرخصة.حدثنا هناد، قال: ثنا وكيع، عن كهمس، قال: سألت سالـم بن عبد الله
-  عن الصوم فـي السفر، فقال: إن صمتـم أجزأ عنكم، وإن أفطرتـم فرخصة.حدثنا هناد، قال:
-  ثنا عبد الرحيـم، عن طلـحة بن عمرو، عن عطاء، قال: من صام فحقّ أدّاه، ومن أفطر فرخصة
-  أخذ بها.حدثنا هناد، قال: ثنا وكيع، عن سفـيان، عن حماد، عن سعيد بن جبـير، قال: الفطر
-  فـي السفر رخصة، والصوم أفضل.حدثنا هناد قال: ثنا أبو معاوية، عن حجاج، عن عطاء، قال:
-  هو تعلـيـم، ولـيس بعزم، يعنـي قول الله: { ومَنْ كانَ مَرِيضاً أوْ علـى سَفَرٍ فَعِدَّةٌ
-  مِنْ أيَّامٍ أُخَر } إن شاء صام، وإن شاء لـم يصم.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 9 10 \r\n\t\t\t\t\t\t\t\tمزيد</section>"
+  ولا أيام آخرون.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">فإن قال لنا قائل: فإن الله تعالـى
+  قال: { فَمَنْ كانَ مِنْكُمِ مَرِيضاً أوْ علـى سَفَرٍ فَعِدَّةٌ مِنْ أيَّامٍ أُخَر
+  } ومعنى ذلك عندك: فعلـيه عدة من أيام أخر كما قد وصفت فـيـما مضى. فإن كان ذلك تأويـله،
+  فما قولك فـيـمن كان مريضاً أو علـى سفر فصام الشهر وهو مـمن له الإفطار، أيجزيه ذلك
+  من صيام عدّة من أيام أخر، أو غير مـجزيه ذلك؟ وفرض صوم عدة من أيام أخر ثابت علـيه
+  بهيئته وإن صام الشهر كله، وهل لـمن كان مريضاً أو علـى سفر صيام شهر رمضان، أم ذلك
+  مـحظور علـيه، وغير جائز له صومه، والواجب علـيه الإفطار فـيه حتـى يقـيـم هذا ويبرأ
+  هذا؟ قـيـل: قد اختلف أهل العلـم فـي كل ذلك، ونـحن ذاكرو اختلافهم فـي ذلك، ومخبرون
+  بأولاه بـالصواب إن شاء الله.</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,6,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,8,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">7 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,8,1)\"><u>8</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,9,1)\"><u>9</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(1,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2,
+  185)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,185)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">شَهْرُ رَمَضَانَ ٱلَّذِيۤ أُنْزِلَ فِيهِ ٱلْقُرْآنُ
+  هُدًى لِّلنَّاسِ وَبَيِّنَاتٍ مِّنَ ٱلْهُدَىٰ وَٱلْفُرْقَانِ فَمَن شَهِدَ مِنكُمُ
+  ٱلشَّهْرَ فَلْيَصُمْهُ وَمَن كَانَ مَرِيضاً أَوْ عَلَىٰ سَفَرٍ فَعِدَّةٌ مِّنْ أَيَّامٍ
+  أُخَرَ يُرِيدُ ٱللَّهُ بِكُمُ ٱلْيُسْرَ وَلاَ يُرِيدُ بِكُمُ ٱلْعُسْرَ وَلِتُكْمِلُواْ
+  ٱلْعِدَّةَ وَلِتُكَبِّرُواْ ٱللَّهَ عَلَىٰ مَا هَدَاكُمْ وَلَعَلَّكُمْ تَشْكُرُونَ</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">فقال بعضهم: الإفطار فـي الـمرض عزمة من الله واجبة، ولـيس بترخيص.
+  ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا مـحمد بن بشار، قال: ثنا ابن
+  أبـي عديّ، وحدثنـي يعقوب بن إبراهيـم، قال: ثنا ابن علـية جميعا، عن سعيد، عن قتادة،
+  عن جابر بن زيد، عن ابن عبـاس، قال: الإفطار فـي السفر عزمة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  مـحمد بن الـمثنى، قال: ثنا وهب بن جرير، قال: أخبرنا سعيد، عن يعلـى، عن يوسف بن الـحكم،
+  قال: سألت ابن عمر، أو سئل عن الصوم فـي السفر، فقال: أرأيت لو تصدقت علـى رجل بصدقة
+  فردّها علـيك ألـم تغضب؟ فإنها من الله تصدق صدقة بها علـيكم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  نصر بن عبد الرحمن الأودي، قال: ثنا الـمـحاربـي عن عبد الـملك بن حميد، قال: قال أبو
+  جعفر كان أبـي لا يصوم فـي السفر وينهى عنه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وحدثنا
+  ابن حميد، قال: ثنا يحيى بن واضح، قال: ثنا عبـيد، عن الضحاك: أنه كره الصوم فـي السفر.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال أهل هذه الـمقالة: من صام فـي السفر فعلـيه القضاء إذا قام. ذكر
+  من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا نصر بن علـي الـخثعمي، قال:
+  ثنا مسلـم بن إبراهيـم قال: ثنا ربـيعة بن كلثوم، عن أبـيه، عن رجل: أن عمر أمر الذي
+  صام فـي السفر أن يعيد.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا مـحمد بن الـمثنى، قال: ثنا
+  مـحمد بن أبـي عديّ، عن سعيد بن عمرو بن دينار، عن رجل من بنـي تـميـم عن أبـيه، قال:
+  أمر عمر رجلاً صام فـي السفر أن يعيد صومه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  ابن حميد الـحمصي، قال: ثنا علـيّ بن معبد، عن عبـيد الله بن عمرو، عن عبد الكريـم،
+  عن عطاء، عن الـمـحرر بن أبـي هريرة، قال: كنت مع أبـي فـي سفر فـي رمضان، فكنت أصوم
+  ويفطر، فقال لـي أبـي: أما إنك إذا أقمت قضيت.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  مـحمد بن الـمثنى، قال: ثنا سلـيـمان بن داود، قال: ثنا شعبة، عن عاصم مولـى قريبة،
+  قال: سمعت عروة يأمر رجلاً صام فـي السفر أن يقضي.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن الـمثنى، قال: ثنا عبد الصمد، قال: ثنا شعبة، عن عاصم مولـى قريبة أن رجلاً صام
+  فـي السفر فأمره عروة أن يقضي.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  أبو كريب، قال: ثنا ابن صبـيح، قال: ثنا ربـيعة بن كلثوم، عن أبـيه كلثوم: أن قوماً
+  قدموا علـى عمر بن الـخطاب وقد صاموا رمضان فـي سفر، فقال لهم: والله لكأنكم كنتـم
+  تصومون فقالوا: والله يا أمير الـمؤمنـين لقد صمنا، قال: فأطقتـموه؟ قالوا: نعم، قال:
+  فـاقضوه فـاقضوه فـاقضوه.</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,7,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,9,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">8 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,9,1)\"><u>9</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(1,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2,
+  185)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,185)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">شَهْرُ رَمَضَانَ ٱلَّذِيۤ أُنْزِلَ فِيهِ ٱلْقُرْآنُ
+  هُدًى لِّلنَّاسِ وَبَيِّنَاتٍ مِّنَ ٱلْهُدَىٰ وَٱلْفُرْقَانِ فَمَن شَهِدَ مِنكُمُ
+  ٱلشَّهْرَ فَلْيَصُمْهُ وَمَن كَانَ مَرِيضاً أَوْ عَلَىٰ سَفَرٍ فَعِدَّةٌ مِّنْ أَيَّامٍ
+  أُخَرَ يُرِيدُ ٱللَّهُ بِكُمُ ٱلْيُسْرَ وَلاَ يُرِيدُ بِكُمُ ٱلْعُسْرَ وَلِتُكْمِلُواْ
+  ٱلْعِدَّةَ وَلِتُكَبِّرُواْ ٱللَّهَ عَلَىٰ مَا هَدَاكُمْ وَلَعَلَّكُمْ تَشْكُرُونَ</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">وعلة من قال هذه الـمقالة أن الله تعالـى ذكره فرض بقوله: { فَمَنْ
+  شَهِدَ مِنْكُمُ الشَّهْرَ فَلْـيَصُمْهُ } صوم شهر رمضان علـى من شهده مقـيـماً غير
+  مسافر، وجعل علـى من كان مريضاً أو مسافراً صوم عدّة من أيام أخر غير أيام شهر رمضان
+  بقوله: { ومَنْ كانَ مَرِيضاً أوْ علـى سَفَرٍ فَعِدَّةٌ مِنْ أيَّامٍ أُخَر } قالوا:
+  فكما غير جائز للـمقـيـم إفطار أيام شهر رمضان وصوم عدة أيام أخر مكانها، لأن الذي
+  فرضه الله علـيه بشهوده الشهر صوم الشهر دون غيره، فكذلك غير جائز لـمن لـم يشهده من
+  الـمسافرين مقـيـماً صومه، لأن الذي فرضه الله علـيه عدة من أيام أخر واعتلوا أيضاً
+  من الـخبر بـما:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا به مـحمد بن عبد الله بن سعيد
+  الواسطي، قال: ثنا يعقوب بن مـحمد الزهري، قال: ثنا عبـيد الله بن موسى، عن أسامة بن
+  زيد، عن الزهري، عن أبـي سلـمة بن عبد الرحمن، عن عبد الرحمن بن عوف، قال: قال رسول
+  الله صلى الله عليه وسلم</font></font><b><font class=\"TextResultArabic\"><font color=\"Red\">
+  \" </font></font></b><b><font class=\"TextResultArabic\"><font color=\"Red\"><b>
+  <a href=\" Javascript:OpenWindow(74) \" title=\" اضغط هنا لعرض تخريج الحديث \" style=\"
+  color: Red \" class=\" TextResultArabic \">الصَّائِمُ فـي السَّفَرِ كالـمُفْطِرِ
+  فـي الـحَضَر</a> </b></font></font></b><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" </font></font></b><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي مـحمد بن عبـيد الله بن سعيد،
+  قال: ثنا يزيد بن عياض، عن الزهري، عن أبـي سلـمة بن عبد الرحمن، عن أبـيه قال: قال
+  رسول الله صلى الله عليه وسلم:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" </font></font></b><b><font class=\"TextResultArabic\"><font color=\"Red\"><b>
+  <a href=\" Javascript:OpenWindow(75) \" title=\" اضغط هنا لعرض تخريج الحديث \" style=\"
+  color: Red \" class=\" TextResultArabic \">الصَّائمُ فـي السَّفَر كالـمُفْطِرِ فـي
+  الـحَضَر</a> </b></font></font></b><b><font class=\"TextResultArabic\"><font color=\"Red\">
+  \" </font></font></b><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال آخرون: إبـاحة الإفطار فـي
+  السفر رخصة من الله تعالـى ذكره رخصها لعبـاده، والفرض الصوم، فمن صام فرضه أدّى، ومن
+  أفطر فبرخصة الله له أفطر قالوا: وإن صام فـي سفر فلا قضاء علـيه إذا أقام. ذكر من
+  قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن بشار، قال: حدثنا عبد
+  الوهاب، قال: ثنا أيوب، قال: ثنا عروة وسالـم أنهما كانا عند عمر بن عبد العزيز إذ
+  هو أمير علـى الـمدينة فتذاكروا الصوم فـي السفر، قال سالـم: كان ابن عمر لا يصوم فـي
+  السفر، وقال عروة: وكانت عائشة تصوم، فقال سالـم: إنـما أخذت عن ابن عمر، وقال عروة:
+  إنـما أخذت عن عائشة حتـى ارتفعت أصواتهما، فقال عمر بن عبد العزيز: اللهم عفوا إذا
+  كان يسراً فصوموا، وإذا كان عسراً فأفطروا.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  يعقوب بن إبراهيـم، قال: ثنا ابن علـية، عن أيوب، قال: حدثنـي رجل، قال: ذكر الصوم
+  فـي السفر عند عمر بن عبد العزيز، ثم ذكر نـحو حديث ابن بشار.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,8,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,10,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,8,1)\"><u>8</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">9 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(1,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2,
+  185)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,185)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">شَهْرُ رَمَضَانَ ٱلَّذِيۤ أُنْزِلَ فِيهِ ٱلْقُرْآنُ
+  هُدًى لِّلنَّاسِ وَبَيِّنَاتٍ مِّنَ ٱلْهُدَىٰ وَٱلْفُرْقَانِ فَمَن شَهِدَ مِنكُمُ
+  ٱلشَّهْرَ فَلْيَصُمْهُ وَمَن كَانَ مَرِيضاً أَوْ عَلَىٰ سَفَرٍ فَعِدَّةٌ مِّنْ أَيَّامٍ
+  أُخَرَ يُرِيدُ ٱللَّهُ بِكُمُ ٱلْيُسْرَ وَلاَ يُرِيدُ بِكُمُ ٱلْعُسْرَ وَلِتُكْمِلُواْ
+  ٱلْعِدَّةَ وَلِتُكَبِّرُواْ ٱللَّهَ عَلَىٰ مَا هَدَاكُمْ وَلَعَلَّكُمْ تَشْكُرُونَ</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي يعقوب، قال: ثنا ابن علـية، عن مـحمد بن إسحاق، وحدثنا أبو
+  كريب، قال: ثنا ابن إدريس ثنا ابن إسحاق، عن الزهري، عن سالـم بن عبد الله، قال: خرج
+  عمر بن الـخطاب فـي بعض أسفـاره فـي لـيال بقـيت من رمضان، فقال: إن الشهر قد تشعشع
+  قال أبو كريب فـي حديثه أو تسعسع، ولـم يشك يعقوب فلو صمنا فصام وصام الناس معه ثم
+  أقبل مرة قافلاً حتـى إذا كان بـالروحاء أهلّ هلال شهر رمضان، فقال إن الله قد قضى
+  السفر، فلو صمنا ولـم نثلـم شهرنا قال: فصام وصام الناس معه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن حميد، قال: ثنا الـحكم بن بشير، قال: حدثنـي أبـي، وحدثنا مـحمد بن بشار، قال:
+  أخبرنا عبـيد الله، قال: أخبرنا بشير بن سلـمان، عن خيثمة، قال: سألت أنس بن مالك عن
+  الصوم فـي السفر، قال: قد أمرت غلامي أن يصوم فأبى. قلت: فأين هذه الآية: { ومَنْ كانَ
+  مَرِيضاً أوْ علـى سَفَرٍ فَعِدَّةٌ مِنْ أيَّامٍ أُخَر }؟ قال: نزلت ونـحن يومئذ نرتـحل
+  جياعاً وننزل علـى غير شبع، وإنا الـيوم نرتـحل شبـاعاً وننزل علـى شبع.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا هناد، قال: ثنا وكيع: عن بشير بن سلـمان، عن خيثمة، عن أنس نـحوه.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا هناد وأبو السائب قالا: ثنا أبو معاوية، عن عاصم، عن أنس أنه
+  سئل عن الصوم فـي السفر فقال: من أفطر فبرخصة الله، ومن صام فـالصوم أفضل.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا أبو كريب، قال: ثنا أبو أسامة، عن أشعث بن عبد الـملك، عن مـحمد
+  بن عثمان بن أبـي العاص، قال: الفطر فـي السفر رخصة، والصوم أفضل.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا الـمثنى، قال: ثنا عبد الصمد، قال: ثنا شعبة، قال: ثنا أبو الفـيض،
+  قال: كان علـيّ علـينا أمير بـالشام، فنهانا عن الصوم فـي السفر، فسألت أبـا قرصافة
+  رجلاً من أصحاب النبـي صلى الله عليه وسلم من بنـي لـيث قال عبد الصمد: سمعت رجلاً
+  من قومه يقول: إنه واثلة بن الأسقع قال لو صمت فـي السفر ما قضيت.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا هناد، قال: ثنا وكيع، عن بسطام بن مسلـم، عن عطاء قال: إن صمتـم
+  أجزأ عنكم وإن أفطرتـم فرخصة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  هناد، قال: ثنا وكيع، عن كهمس، قال: سألت سالـم بن عبد الله عن الصوم فـي السفر، فقال:
+  إن صمتـم أجزأ عنكم، وإن أفطرتـم فرخصة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  هناد، قال: ثنا عبد الرحيـم، عن طلـحة بن عمرو، عن عطاء، قال: من صام فحقّ أدّاه، ومن
+  أفطر فرخصة أخذ بها.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا هناد، قال: ثنا وكيع، عن سفـيان،
+  عن حماد، عن سعيد بن جبـير، قال: الفطر فـي السفر رخصة، والصوم أفضل.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا هناد قال: ثنا أبو معاوية، عن حجاج، عن عطاء، قال: هو تعلـيـم،
+  ولـيس بعزم، يعنـي قول الله: { ومَنْ كانَ مَرِيضاً أوْ علـى سَفَرٍ فَعِدَّةٌ مِنْ
+  أيَّامٍ أُخَر } إن شاء صام، وإن شاء لـم يصم.</font></font>&#13;\t\t\t<label disabled=\"true\"
+  class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,9,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,11,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,8,1)\"><u>8</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,9,1)\"><u>9</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">10 </font></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(1,11,1)\">مزيد</a></td></tr></table></center></div></section>"
 

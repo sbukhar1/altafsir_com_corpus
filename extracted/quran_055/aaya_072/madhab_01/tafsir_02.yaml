@@ -1,4 +1,4 @@
-location:
+position:
   sura: '055'
   aaya: '072'
   madhab: '01'
@@ -7,23 +7,56 @@ meta:
   title: تفسير الكشاف
   author: الزمخشري
   year: '538'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ فِيهِنَّ خَيْرَاتٌ
-  حِسَانٌ } * { فَبِأَيِّ آلاۤءِ رَبِّكُمَا تُكَذِّبَانِ } * { حُورٌ مَّقْصُورَاتٌ
-  فِي ٱلْخِيَامِ } * { فَبِأَيِّ آلاۤءِ رَبِّكُمَا تُكَذِّبَانِ } * { لَمْ يَطْمِثْهُنَّ
-  إِنسٌ قَبْلَهُمْ وَلاَ جَآنٌّ } * { فَبِأَيِّ آلاۤءِ رَبِّكُمَا تُكَذِّبَانِ } *
-  { مُتَّكِئِينَ عَلَىٰ رَفْرَفٍ خُضْرٍ وَعَبْقَرِيٍّ حِسَانٍ } * { فَبِأَيِّ آلاۤءِ
-  رَبِّكُمَا تُكَذِّبَانِ } * { تَبَارَكَ ٱسْمُ رَبِّكَ ذِي ٱلْجَلاَلِ وَٱلإِكْرَامِ
-  }{ خَيْرٰتٌ } خيرات فخففت، كقوله عليه السلام:(1118) \" هينون لينون \" وأما «خير»
-  الذي هو بمعنى أخير، فلا يقال فيه خيرون ولا خيرات. وقرىء: «خيرات» على الأصل. والمعنى:
-  فاضلات الأخلاق حسان الخلق { مَّقْصُورٰتٌ } قصرن في خدورهنّ. يقال: امرأة قصيرة وقصورة
-  ومقصورة مخدرة. وقيل: إنّ الخيمة من خيامهنّ درّة مجوّفة { قَبْلَهُمْ } قبل أصحاب
-  الجنتين، دل عليهم ذكر الجنتين { مُتَّكِئِينَ } نصب على الاختصاص. والرفرف: ضرب من
-  البسط. وقيل البسط وقيل الوسائد، وقيل كل ثوب عريض رفرف. ويقال لأطراف البسط فضول الفسطاط:
-  رفارف. ورفرف السحاب: هيدبه والعبقري: منسوب إلى عبقر، تزعم العرب أنه بلد الجن؛ فينسبون
-  إليه كل شيء عجيب. وقرىء: «رفارف خضر» بضمتين. وعباقرى، كمدائني: نسبة إلى عباقري في
-  اسم البلد: وروى أبو حاتم: عباقرى، بفتح القاف ومنع الصرف، وهذا لا وجه لصحته. فإن
-  قلت: كيف تقاصرت صفات هاتين الجنتين عن الأوليين حتى قيل: ومن دونهما؟ قلت: مدهامّتان،
-  دون ذواتا أفنان. ونضاختان دون: تجريان. وفاكهة دون: كل فاكهة. وكذلك صفة الحور والمتكأ.
-  وقرىء: «ذو الجلال» صفة، للاسم.عن رسول الله صلى الله عليه وسلم:(1119) \" من قرأ سورة
-  الرحمٰن أدّى شكر ما أنعم الله عليه \". \r\n\t\t\t\r\n\t\t\t</section>"
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(55, 70)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(55,70)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">فِيهِنَّ
+  خَيْرَاتٌ حِسَانٌ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">فَبِأَيِّ آلاۤءِ رَبِّكُمَا تُكَذِّبَانِ</a>
+  <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">حُورٌ
+  مَّقْصُورَاتٌ فِي ٱلْخِيَامِ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">فَبِأَيِّ آلاۤءِ رَبِّكُمَا تُكَذِّبَانِ</a>
+  <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">لَمْ
+  يَطْمِثْهُنَّ إِنسٌ قَبْلَهُمْ وَلاَ جَآنٌّ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">فَبِأَيِّ آلاۤءِ
+  رَبِّكُمَا تُكَذِّبَانِ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">مُتَّكِئِينَ عَلَىٰ رَفْرَفٍ خُضْرٍ وَعَبْقَرِيٍّ
+  حِسَانٍ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">فَبِأَيِّ آلاۤءِ رَبِّكُمَا تُكَذِّبَانِ</a> <b>}
+  * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">تَبَارَكَ
+  ٱسْمُ رَبِّكَ ذِي ٱلْجَلاَلِ وَٱلإِكْرَامِ</a> <b>}</b></font>, <br/>, <br/>, <div
+  align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">{
+  خَيْرٰتٌ } خيرات فخففت، كقوله عليه السلام:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">(1118)</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" هينون لينون \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\">وأما «خير» الذي هو بمعنى أخير،
+  فلا يقال فيه خيرون ولا خيرات. وقرىء: «خيرات» على الأصل. والمعنى: فاضلات الأخلاق
+  حسان الخلق { مَّقْصُورٰتٌ } قصرن في خدورهنّ. يقال: امرأة قصيرة وقصورة ومقصورة مخدرة.
+  وقيل: إنّ الخيمة من خيامهنّ درّة مجوّفة { قَبْلَهُمْ } قبل أصحاب الجنتين، دل عليهم
+  ذكر الجنتين { مُتَّكِئِينَ } نصب على الاختصاص. والرفرف: ضرب من البسط. وقيل البسط
+  وقيل الوسائد، وقيل كل ثوب عريض رفرف. ويقال لأطراف البسط فضول الفسطاط: رفارف. ورفرف
+  السحاب: هيدبه والعبقري: منسوب إلى عبقر، تزعم العرب أنه بلد الجن؛ فينسبون إليه كل
+  شيء عجيب. وقرىء: «رفارف خضر» بضمتين. وعباقرى، كمدائني: نسبة إلى عباقري في اسم البلد:
+  وروى أبو حاتم: عباقرى، بفتح القاف ومنع الصرف، وهذا لا وجه لصحته. فإن قلت: كيف تقاصرت
+  صفات هاتين الجنتين عن الأوليين حتى قيل: ومن دونهما؟ قلت: مدهامّتان، دون ذواتا أفنان.
+  ونضاختان دون: تجريان. وفاكهة دون: كل فاكهة. وكذلك صفة الحور والمتكأ. وقرىء: «ذو
+  الجلال» صفة، للاسم.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">عن رسول الله صلى الله عليه وسلم:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">(1119)</font></font><b><font class=\"TextResultArabic\"><font color=\"Red\">
+  \" من قرأ سورة الرحمٰن أدّى شكر ما أنعم الله عليه \". </font></font></b><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"><br/></font></font></b>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

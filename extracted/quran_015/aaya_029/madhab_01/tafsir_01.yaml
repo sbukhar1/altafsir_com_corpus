@@ -1,4 +1,4 @@
-location:
+position:
   sura: '015'
   aaya: 029
   madhab: '01'
@@ -8,18 +8,39 @@ meta:
   author: الطبري
   year: '310'
 aaya: فَإِذَا سَوَّيْتُهُ وَنَفَخْتُ فِيهِ مِنْ رُوحِي فَقَعُوا لَهُ سَاجِدِينَ
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَإِذْ قَالَ رَبُّكَ
-  لِلْمَلآئِكَةِ إِنِّي خَالِقٌ بَشَراً مِّن صَلْصَالٍ مِّنْ حَمَإٍ مَّسْنُونٍ } *
-  { فَإِذَا سَوَّيْتُهُ وَنَفَخْتُ فِيهِ مِن رُّوحِي فَقَعُواْ لَهُ سَاجِدِينَ }يقول
-  تعالـى ذكره لنبـيه مـحمد صلى الله عليه وسلم: { و } اذكر يا مـحمد { إذْ قالَ رَبُّكَ
-  للْـمَلائِكَة إنّـي خالِقٌ بَشَراً مِنْ صَلْصَالٍ مِنْ حَمَأٍ مَسْنُونٍ فإذَا سَوَّيْتُهُ
-  } يقول: فإذا صوّرته فعدَّلت صورته { وَنَفَخْتُ فِـيهِ مِنْ رُوحِي } فصار بشراً حيًّا
-  { فَقَعُوا لَهُ ساجِدِينَ } سجود تـحية وتكرمة لا سجود عبـادة. وقد:حدثنـي جعفر بن
-  مكرم، قال: ثنا أبو عاصم، قال: ثنا شبـيب بن بشر، عن عكرمة، عن ابن عبـاس قال: لـما
-  خـلق الله الـملائكة قال: إنـي خالق بشراً من طين، فإذا أنا خـلقته فـاسجدوا له فقالوا:
-  لا نفعل. فأرسل علـيهم ناراً فأحرقتهم. وخـلق ملائكة أخرى، فقال: إنـي خالق بشراً من
-  طين، فإذا أنا خـلقته فـاسجدوا له فأبَوا، قال: فأرسل علـيهم ناراً فأحرقتهم. ثم خـلق
-  ملائكة أخرى، فقال: إنـي خالق بشراً من طين، فإذا أنا خـلقته فـاسجدوا له فأبوا، فأرسل
-  علـيهم ناراً فأحرقتهم. ثم خـلق ملائكة، فقال: إنـي خالق بشراً من طين، فإذا أنا خـلقته
-  فـاسجدوا له فقالوا: سمعنا وأطعنا. إلا إبلـيس كان من الكافرين الأوّلـين.\r\n\t\t\t\r\n\t\t\t</section>"
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(15, 28)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(15,28)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَإِذْ
+  قَالَ رَبُّكَ لِلْمَلآئِكَةِ إِنِّي خَالِقٌ بَشَراً مِّن صَلْصَالٍ مِّنْ حَمَإٍ
+  مَّسْنُونٍ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">فَإِذَا سَوَّيْتُهُ وَنَفَخْتُ فِيهِ مِن
+  رُّوحِي فَقَعُواْ لَهُ سَاجِدِينَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\"
+  dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">يقول تعالـى ذكره
+  لنبـيه مـحمد صلى الله عليه وسلم: { و } اذكر يا مـحمد { إذْ قالَ رَبُّكَ للْـمَلائِكَة
+  إنّـي خالِقٌ بَشَراً مِنْ صَلْصَالٍ مِنْ حَمَأٍ مَسْنُونٍ فإذَا سَوَّيْتُهُ } يقول:
+  فإذا صوّرته فعدَّلت صورته { وَنَفَخْتُ فِـيهِ مِنْ رُوحِي } فصار بشراً حيًّا { فَقَعُوا
+  لَهُ ساجِدِينَ } سجود تـحية وتكرمة لا سجود عبـادة. وقد:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  جعفر بن مكرم، قال: ثنا أبو عاصم، قال: ثنا شبـيب بن بشر، عن عكرمة، عن ابن عبـاس قال:
+  لـما خـلق الله الـملائكة قال: إنـي خالق بشراً من طين، فإذا أنا خـلقته فـاسجدوا له
+  فقالوا: لا نفعل. فأرسل علـيهم ناراً فأحرقتهم. وخـلق ملائكة أخرى، فقال: إنـي خالق
+  بشراً من طين، فإذا أنا خـلقته فـاسجدوا له فأبَوا، قال: فأرسل علـيهم ناراً فأحرقتهم.
+  ثم خـلق ملائكة أخرى، فقال: إنـي خالق بشراً من طين، فإذا أنا خـلقته فـاسجدوا له فأبوا،
+  فأرسل علـيهم ناراً فأحرقتهم. ثم خـلق ملائكة، فقال: إنـي خالق بشراً من طين، فإذا
+  أنا خـلقته فـاسجدوا له فقالوا: سمعنا وأطعنا. إلا إبلـيس كان من الكافرين الأوّلـين.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

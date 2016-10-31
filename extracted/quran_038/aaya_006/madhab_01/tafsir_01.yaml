@@ -1,4 +1,4 @@
-location:
+position:
   sura: 038
   aaya: '006'
   madhab: '01'
@@ -7,85 +7,201 @@ meta:
   title: تفسير جامع البيان في تفسير القرآن
   author: الطبري
   year: '310'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَٱنطَلَقَ ٱلْمَلأُ
-  مِنْهُمْ أَنِ ٱمْشُواْ وَاْصْبِرُواْ عَلَىٰ آلِهَتِكُمْ إِنَّ هَـٰذَا لَشَيْءٌ يُرَادُ
-  } * { مَا سَمِعْنَا بِهَـٰذَا فِى ٱلْمِلَّةِ ٱلآخِرَةِ إِنْ هَـٰذَا إِلاَّ ٱخْتِلاَقٌ
-  }يقول تعالـى ذكره: وانطلق الأشراف من هؤلاء الكافرين من قريش، القائلـين: { أجَعَلَ
-  الآلِهَةَ إلهاً وَاحِداً } بأنِ امضُوا فـاصبروا علـى دينكم وعبـادة آلهتكم. فأن من
-  قوله: { أن امْشُوا } فـي موضع نصب يتعلق انطلقوا بها، كأنه قـيـل: انطلقوا مشياً،
-  ومضياً علـى دينكم. وذُكر أن ذلك فـي قراءة عبد الله: «وَانْطَلَقَ الـمَلأُ مِنْهُمْ
-  يَـمْشُونَ أنِ اصْبِرُوا عَلـى آلِهَتِكُمْ». وذُكر أن قائل ذلك كان عُقْبة ابن أبـي
-  مُعِيط. ذكر من قال ذلك:حدثنا ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا سفـيان، عن
-  إبراهيـم بن مهاجر، عن مـجاهد: { وَانْطَلَق الـمَلأُ مِنْهُمْ } قال: عقبة بن أبـي
-  معيط.وقوله: { إنَّ هَذَا لَشْيءٌ يُرَادُ }: أي إن هذا القول الذي يقول مـحمد، ويدعونا
-  إلـيه، من قول لا إله إلا الله، شيء يريده منا مـحمد يطلب به الاستعلاء علـينا، وأن
-  نكون له فـيه أتبـاعاً ولسنا مـجيبـيه إلـى ذلك.وقوله: { ما سَمِعْنا بِهَذَا فِـي
-  الـمِلَّةِ الآخِرَةِ } اختلف أهل التأويـل فـي تأويـله، فقال بعضهم: معناه: ما سمعنا
-  بهذا الذي يدعونا إلـيه مـحمد من البراءة من جميع الآلهة إلا من الله تعالـى ذكره،
-  وبهذا الكتاب الذي جاء به فـي الـملَّة النصرانـية، قالوا: وهي الـملة الآخرة.ذكر من
-  قال ذلك:حدثنـي علـيّ، قال: ثنا عبد الله، قال: ثنـي معاوية، عن علـيّ، عن ابن عبـاس،
-  قوله: { ما سَمِعْنا بِهَذَا فِـي الـمِلَّةِ الآخِرَةِ } يقول: النصرانـية.حدثنـي
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(38, 6)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(38,6)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَٱنطَلَقَ
+  ٱلْمَلأُ مِنْهُمْ أَنِ ٱمْشُواْ وَاْصْبِرُواْ عَلَىٰ آلِهَتِكُمْ إِنَّ هَـٰذَا لَشَيْءٌ
+  يُرَادُ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">مَا سَمِعْنَا بِهَـٰذَا فِى ٱلْمِلَّةِ ٱلآخِرَةِ
+  إِنْ هَـٰذَا إِلاَّ ٱخْتِلاَقٌ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\"
+  dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">يقول تعالـى ذكره:
+  وانطلق الأشراف من هؤلاء الكافرين من قريش، القائلـين: { أجَعَلَ الآلِهَةَ إلهاً وَاحِداً
+  } بأنِ امضُوا فـاصبروا علـى دينكم وعبـادة آلهتكم. فأن من قوله: { أن امْشُوا } فـي
+  موضع نصب يتعلق انطلقوا بها، كأنه قـيـل: انطلقوا مشياً، ومضياً علـى دينكم. وذُكر
+  أن ذلك فـي قراءة عبد الله: «وَانْطَلَقَ الـمَلأُ مِنْهُمْ يَـمْشُونَ أنِ اصْبِرُوا
+  عَلـى آلِهَتِكُمْ». وذُكر أن قائل ذلك كان عُقْبة ابن أبـي مُعِيط. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا سفـيان، عن إبراهيـم
+  بن مهاجر، عن مـجاهد: { وَانْطَلَق الـمَلأُ مِنْهُمْ } قال: عقبة بن أبـي معيط.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقوله: { إنَّ هَذَا لَشْيءٌ يُرَادُ }: أي إن هذا القول الذي يقول
+  مـحمد، ويدعونا إلـيه، من قول لا إله إلا الله، شيء يريده منا مـحمد يطلب به الاستعلاء
+  علـينا، وأن نكون له فـيه أتبـاعاً ولسنا مـجيبـيه إلـى ذلك.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقوله:
+  { ما سَمِعْنا بِهَذَا فِـي الـمِلَّةِ الآخِرَةِ } اختلف أهل التأويـل فـي تأويـله،
+  فقال بعضهم: معناه: ما سمعنا بهذا الذي يدعونا إلـيه مـحمد من البراءة من جميع الآلهة
+  إلا من الله تعالـى ذكره، وبهذا الكتاب الذي جاء به فـي الـملَّة النصرانـية، قالوا:
+  وهي الـملة الآخرة.ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  علـيّ، قال: ثنا عبد الله، قال: ثنـي معاوية، عن علـيّ، عن ابن عبـاس، قوله: { ما سَمِعْنا
+  بِهَذَا فِـي الـمِلَّةِ الآخِرَةِ } يقول: النصرانـية.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
   مـحمد بن سعد، قال: ثنـي أبـي، قال: ثنـي عمي، قال: ثنـي أبـي، عن أبـيه، عن ابن عبـاس،
   قوله: { ما سَمِعْنا بِهَذَا فِـي الـمِلَّةِ الآخِرَةِ } يعنـي النصرانـية فقالوا:
-  لو كان هذا القرآن حقاً أخبرتنا به النصارى.حدثنـي مـحمد بن إسحاق، قال: ثنا يحيى بن
-  معين، قال: ثنا ابن عُيـينة، عن ابن أبـي لبـيد، عن القُرَظِي فـي قوله: { ما سَمِعْنا
-  بِهَذَا فِـي الـمِلَّةِ الآخِرَةِ } قال: ملة عيسى.حدثنـي مـحمد بن الـحسين، قلا:
-  ثنا أحمد بن الـمفضل، قال: ثنا أسبـاط عن السديّ { ما سَمِعْنا بِهَذَا فِـي الـمِلَّةِ
-  الآخِرَةِ } النصرانـية.وقال آخرون: بل عَنَوا بذلك: ما سمعنا بهذا فـي ديننا دين قريش.
-  ذكر من قال ذلك:حدثنا ابن حميد، قال: ثنا حكام، عن عنبسة، عن مـحمد بن عبد الرحمن،
-  عن القاسم بن أبـي بَزّة، عن مـجاهد، فـي قوله: { ما سَمِعْنا بِهَذَا فِـي الـمِلَّةِ
-  الآخِرَةِ } قال: ملة قريش.حدثنـي مـحمد بن عمرو، قا: ثنا أبو عاصم، قال: ثنا عيسى
-  وحدثنـي الـحارث، قال: ثنا الـحسن، قال: ثنا ورقاء، جميعاً عن ابن أبـي نـجيح، عن مـجاهد،
-  فـي قوله: { فِـي الـمِلَّةِ الآخِرَةِ } قال: ملة قريش.حدثنا بشر، قال: ثنا يزيد،
-  قال: ثنا سعيد، عن قتادة { ما سَمِعْنا بِهَذَا فِـي الـمِلَّةِ الآخِرَةِ }: أي فـي
-  ديننا هذا، ولا فـي زماننا قطُّ.\r\n\t\t\t\r\n\t\t\t1 2 3 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَٱنطَلَقَ ٱلْمَلأُ مِنْهُمْ أَنِ
-  ٱمْشُواْ وَاْصْبِرُواْ عَلَىٰ آلِهَتِكُمْ إِنَّ هَـٰذَا لَشَيْءٌ يُرَادُ } * { مَا
-  سَمِعْنَا بِهَـٰذَا فِى ٱلْمِلَّةِ ٱلآخِرَةِ إِنْ هَـٰذَا إِلاَّ ٱخْتِلاَقٌ }حدثنـي
+  لو كان هذا القرآن حقاً أخبرتنا به النصارى.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  مـحمد بن إسحاق، قال: ثنا يحيى بن معين، قال: ثنا ابن عُيـينة، عن ابن أبـي لبـيد،
+  عن القُرَظِي فـي قوله: { ما سَمِعْنا بِهَذَا فِـي الـمِلَّةِ الآخِرَةِ } قال: ملة
+  عيسى.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي مـحمد بن الـحسين، قلا: ثنا
+  أحمد بن الـمفضل، قال: ثنا أسبـاط عن السديّ { ما سَمِعْنا بِهَذَا فِـي الـمِلَّةِ
+  الآخِرَةِ } النصرانـية.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال آخرون: بل عَنَوا بذلك: ما
+  سمعنا بهذا فـي ديننا دين قريش. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن حميد، قال: ثنا حكام، عن عنبسة، عن مـحمد بن عبد الرحمن، عن القاسم بن أبـي بَزّة،
+  عن مـجاهد، فـي قوله: { ما سَمِعْنا بِهَذَا فِـي الـمِلَّةِ الآخِرَةِ } قال: ملة
+  قريش.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي مـحمد بن عمرو، قا: ثنا أبو
+  عاصم، قال: ثنا عيسى وحدثنـي الـحارث، قال: ثنا الـحسن، قال: ثنا ورقاء، جميعاً عن
+  ابن أبـي نـجيح، عن مـجاهد، فـي قوله: { فِـي الـمِلَّةِ الآخِرَةِ } قال: ملة قريش.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة { ما سَمِعْنا
+  بِهَذَا فِـي الـمِلَّةِ الآخِرَةِ }: أي فـي ديننا هذا، ولا فـي زماننا قطُّ.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(38, 6)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(38,6)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَٱنطَلَقَ ٱلْمَلأُ مِنْهُمْ أَنِ ٱمْشُواْ وَاْصْبِرُواْ
+  عَلَىٰ آلِهَتِكُمْ إِنَّ هَـٰذَا لَشَيْءٌ يُرَادُ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">مَا سَمِعْنَا بِهَـٰذَا
+  فِى ٱلْمِلَّةِ ٱلآخِرَةِ إِنْ هَـٰذَا إِلاَّ ٱخْتِلاَقٌ</a> <b>}</b></font>, <br/>,
+  <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
   يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، فـي قوله: { ما سَمِعْنا بِهَذَا فِـي
-  الـمِلَّةِ الآخِرَةِ } قال: الـملة الآخرة: الدين الآخر. قال: والـملة الدين.وقـيـل:
-  إن الـملأ الذين انطلقوا نفر من مشيخة قريش، منهم أبو جهل، والعاص بن وائل، والأسود
-  بن عبد يغوث. ذكر من قال ذلك:حدثنـي مـحمد بن الـحسين، قال: ثنا أحمد بن الـمفضل، قال:
-  ثنا أسبـاط، عن السديّ أن أناساً من قُرَيش اجتـمعوا، فـيهم أبو جهل بن هشام، والعاص
-  بن وائل، والأسود بن الـمطلب، والأسود بن عبد يغوث فـي نفر من مشيخة قريش، فقال بعضهم
-  لبعض: انطلقوا بنا إلـى أبـي طالب، فلنكلـمه فـيه، فلـينصفنا منه، فـيأمره فلـيكفّ
-  عن شتـم آلهتنا، ونَدَعَه وإلهه الذي يَعبُد، فإنا نـخاف أن يـموت هذا الشيخ، فـيكون
-  منا شيء، فتعيرنا العرب فـيقولون: تركوه حتـى إذا مات عمه تناولوه، قال: فبعثوا رجلاً
-  منهم يُدعى الـمطَّلب، فـاستأذن لهم علـى أبـي طالب، فقال: هؤلاء مشيخة قومك وسَرَواتهم
-  يستأذنون علـيك، قال: أدخـلهم فلـما دخـلوا علـيه قالوا: يا أبـا طالب أنت كبـيرنا
-  وسيدنا، فأنصفنا من ابن أخيك، فمُره فلـيكفّ عن شتـم آلهتنا، ونَدَعَه وإلهه قال: فبعث
-  إلـيه أبو طالب فلـما دخـل علـيه رسول الله صلى الله عليه وسلم قال: يا ابن أخي هؤلاء
-  مشيخة قومك وسَرَواتهم، وقد سألوك النَّصف أن تكفّ عن شتـم آلهتهم، ويَدَعُوك وإلهك
-  قال: فقال: \" أيْ عَمّ أوَلا أدْعُوهُمْ إلـى ما هُوَ خَيْرٌ لَهُمْ مِنْها؟ \" قال:
-  وإلام تدعوهم؟ قال: \" أدعوهم إلـى أنْ يَتَكَلَّـمُوا بِكَلِـمَةٍ تَدِينُ لَهُمْ
-  بِها العَرَبُ ويَـمْلِكُونَ بِها العَجَمَ \" قال: فقال أبو جهل من بـين القوم: ما
-  هي وأبـيك لنعطينكها وعشر أمثالها، قال: \" تَقُولونَ لا إلَهَ إلاَّ اللّهُ \". قال:
-  فنفروا وقالوا: سلنا غير هذه، قال: \" لَوْ جِئْتُـمُونِـي بـالشَّمْسِ حتـى تَضَعُوها
-  فِـي يَدِي ما سأَلْتُكُمْ غَيَرها \" قال: فغضبوا وقاموا من عنده غضابـاً وقالوا:
-  والله لنشتـمنك والذي يأمرك بهذا { وَانْطَلَقَ الـمَلأُ مِنْهُمْ أنِ امْشُوا وَاصْبِرُوا
-  علـى آلِهَتِكُمْ إنَّ هَذَا لَشَيْءٌ يُرَادُ }... إلـى قوله: { إلاَّ اخْتِلاقٌ }
-  وأقبل علـى عمه، فقال له عمه: يا ابن أخي ما شططت علـيهم، فأقبل علـى عمه فدعاه، فقال:
-  \" «قلْ كَلِـمَةً أشْهَدُ لَكَ بِها يَوْمَ القـيامَةِ، تَقُولُ: لا إلَهَ إلاَّ اللّهُ
-  \" ، فقال: لولا أن تعيبكم بها العرب يقولون جزع من الـموت لأعطيتكها، ولكن علـى ملَّة
-  الأشياخ قال: فنزلت هذه الآية{ إنَّكَ لا تَهْدِي مَنْ أحْبَبْتَ وَلَكِنَّ اللّهَ
-  يَهْدِي مَنْ يَشاء }حدثنـي مـحمد بن سعد، قال: ثنـي أبـي، قال: ثنـي عمي، قال: ثنـي
-  أبـي، عن أبـيه، عن ابن عبـاس، قوله: { وَانْطَلَقَ الـمَلأُ مِنْهُمْ أنِ امْشُوا
-  وَاصْبِرُوا علـى آلهَتِكُمْ إنَّ هَذَا لَشَيْءٌ يُرَادُ } قال: نزلت حين انطلق أشراف
-  قريش إلـى أبـي طالب فكلـموه فـي النبـيّ صلى الله عليه وسلم.\r\n\t\t\t\r\n\t\t\t1 2 3 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَٱنطَلَقَ ٱلْمَلأُ مِنْهُمْ أَنِ
-  ٱمْشُواْ وَاْصْبِرُواْ عَلَىٰ آلِهَتِكُمْ إِنَّ هَـٰذَا لَشَيْءٌ يُرَادُ } * { مَا
-  سَمِعْنَا بِهَـٰذَا فِى ٱلْمِلَّةِ ٱلآخِرَةِ إِنْ هَـٰذَا إِلاَّ ٱخْتِلاَقٌ }وقوله:
+  الـمِلَّةِ الآخِرَةِ } قال: الـملة الآخرة: الدين الآخر. قال: والـملة الدين.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقـيـل: إن الـملأ الذين انطلقوا نفر من مشيخة قريش، منهم أبو جهل،
+  والعاص بن وائل، والأسود بن عبد يغوث. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  مـحمد بن الـحسين، قال: ثنا أحمد بن الـمفضل، قال: ثنا أسبـاط، عن السديّ أن أناساً
+  من قُرَيش اجتـمعوا، فـيهم أبو جهل بن هشام، والعاص بن وائل، والأسود بن الـمطلب، والأسود
+  بن عبد يغوث فـي نفر من مشيخة قريش، فقال بعضهم لبعض: انطلقوا بنا إلـى أبـي طالب،
+  فلنكلـمه فـيه، فلـينصفنا منه، فـيأمره فلـيكفّ عن شتـم آلهتنا، ونَدَعَه وإلهه الذي
+  يَعبُد، فإنا نـخاف أن يـموت هذا الشيخ، فـيكون منا شيء، فتعيرنا العرب فـيقولون: تركوه
+  حتـى إذا مات عمه تناولوه، قال: فبعثوا رجلاً منهم يُدعى الـمطَّلب، فـاستأذن لهم علـى
+  أبـي طالب، فقال: هؤلاء مشيخة قومك وسَرَواتهم يستأذنون علـيك، قال: أدخـلهم فلـما
+  دخـلوا علـيه قالوا: يا أبـا طالب أنت كبـيرنا وسيدنا، فأنصفنا من ابن أخيك، فمُره
+  فلـيكفّ عن شتـم آلهتنا، ونَدَعَه وإلهه قال: فبعث إلـيه أبو طالب فلـما دخـل علـيه
+  رسول الله صلى الله عليه وسلم قال: يا ابن أخي هؤلاء مشيخة قومك وسَرَواتهم، وقد سألوك
+  النَّصف أن تكفّ عن شتـم آلهتهم، ويَدَعُوك وإلهك قال: فقال:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" أيْ عَمّ أوَلا أدْعُوهُمْ إلـى
+  ما هُوَ خَيْرٌ لَهُمْ مِنْها؟ \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">قال: وإلام تدعوهم؟ قال:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" أدعوهم إلـى أنْ يَتَكَلَّـمُوا بِكَلِـمَةٍ تَدِينُ لَهُمْ بِها
+  العَرَبُ ويَـمْلِكُونَ بِها العَجَمَ \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">قال: فقال أبو جهل من بـين القوم: ما هي وأبـيك لنعطينكها وعشر أمثالها،
+  قال:</font></font><b><font class=\"TextResultArabic\"><font color=\"Red\"> \" تَقُولونَ
+  لا إلَهَ إلاَّ اللّهُ \". </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">قال: فنفروا وقالوا: سلنا غير هذه، قال:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" لَوْ جِئْتُـمُونِـي بـالشَّمْسِ حتـى تَضَعُوها فِـي يَدِي ما سأَلْتُكُمْ
+  غَيَرها \" </font></font></b><font class=\"TextResultArabic\"><font color=\"black\">قال:
+  فغضبوا وقاموا من عنده غضابـاً وقالوا: والله لنشتـمنك والذي يأمرك بهذا { وَانْطَلَقَ
+  الـمَلأُ مِنْهُمْ أنِ امْشُوا وَاصْبِرُوا علـى آلِهَتِكُمْ إنَّ هَذَا لَشَيْءٌ يُرَادُ
+  }... إلـى قوله: { إلاَّ اخْتِلاقٌ } وأقبل علـى عمه، فقال له عمه: يا ابن أخي ما شططت
+  علـيهم، فأقبل علـى عمه فدعاه، فقال:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" «قلْ كَلِـمَةً أشْهَدُ لَكَ بِها يَوْمَ القـيامَةِ، تَقُولُ: لا
+  إلَهَ إلاَّ اللّهُ \" </font></font></b><font class=\"TextResultArabic\"><font color=\"black\">،
+  فقال: لولا أن تعيبكم بها العرب يقولون جزع من الـموت لأعطيتكها، ولكن علـى ملَّة الأشياخ
+  قال: فنزلت هذه الآية</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">إنَّكَ لا تَهْدِي مَنْ أحْبَبْتَ وَلَكِنَّ اللّهَ يَهْدِي
+  مَنْ يَشاء</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي مـحمد بن سعد، قال: ثنـي أبـي، قال: ثنـي عمي، قال: ثنـي أبـي،
+  عن أبـيه، عن ابن عبـاس، قوله: { وَانْطَلَقَ الـمَلأُ مِنْهُمْ أنِ امْشُوا وَاصْبِرُوا
+  علـى آلهَتِكُمْ إنَّ هَذَا لَشَيْءٌ يُرَادُ } قال: نزلت حين انطلق أشراف قريش إلـى
+  أبـي طالب فكلـموه فـي النبـيّ صلى الله عليه وسلم.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(38, 6)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(38,6)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَٱنطَلَقَ ٱلْمَلأُ مِنْهُمْ أَنِ ٱمْشُواْ وَاْصْبِرُواْ
+  عَلَىٰ آلِهَتِكُمْ إِنَّ هَـٰذَا لَشَيْءٌ يُرَادُ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">مَا سَمِعْنَا بِهَـٰذَا
+  فِى ٱلْمِلَّةِ ٱلآخِرَةِ إِنْ هَـٰذَا إِلاَّ ٱخْتِلاَقٌ</a> <b>}</b></font>, <br/>,
+  <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">وقوله:
   { إنْ هَذَا إلاَّ اخْتِلاقٌ } يقول تعالـى ذكره مخبراً عن قـيـل هؤلاء الـمشركين فـي
   القرآن: ما هذا القرآن إلا اختلاق: أي كذب اختلقه مـحمد وتـخرّصه. وبنـحو الذي قلنا
-  فـي ذلك قال أهل التأويـل. ذكر من قال ذلك:حدثنا علـيّ، قال: ثنا عبد الله، قال: ثنـي
-  معاوية، عن علـيّ، عن ابن عبـاس، قوله: { إنْ هَذَا إلاَّ اخْتِلاقٌ } يقول: تـخريص.حدثنـي
+  فـي ذلك قال أهل التأويـل. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  علـيّ، قال: ثنا عبد الله، قال: ثنـي معاوية، عن علـيّ، عن ابن عبـاس، قوله: { إنْ
+  هَذَا إلاَّ اخْتِلاقٌ } يقول: تـخريص.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
   مـحمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى وحدثنـي الـحارث، قال: ثنا الـحسن،
   قال: ثنا ورقاء، جميعاً عن ابن أبـي نـجيح، عن مـجاهد، فـي قوله: { إنْ هَذَا إلاَّ
-  اخْتِلاقٌ } قال: كذب.حدثنا ابن حميد، قال: ثنا حكام، عن عنبسة، عن مـحمد بن عبد الرحمن،
-  عن القاسم بن أبـي بَزّة، عن مـجاهد { إنْ هَذَا إلاَّ اخْتِلاقٌ }: يقول: كذب.حدثنا
+  اخْتِلاقٌ } قال: كذب.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن حميد، قال: ثنا حكام،
+  عن عنبسة، عن مـحمد بن عبد الرحمن، عن القاسم بن أبـي بَزّة، عن مـجاهد { إنْ هَذَا
+  إلاَّ اخْتِلاقٌ }: يقول: كذب.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
   بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة { إنْ هَذَا إلاّ اخْتِلاقٌ } إلا شيء
-  تـخْـلُقه.حدثنا مـحمد بن الـحسين، قال: ثنا أحمد بن الـمفضل، قال: ثنا أسبـاط، عن
-  السديّ { إنْ هَذَا إلاَّ اخْتِلاقٌ } اختلقه مـحمد صلى الله عليه وسلم.حدثنـي يونس،
-  قال: أخبرنا ابن وهب، قال: قال ابن زيد، فـي قوله: { إنْ هَذَا إلاَّ اخْتلاقٌ } قالوا:
-  إن هذا إلا كذب.\r\n\t\t\t\r\n\t\t\t1 2 3 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  تـخْـلُقه.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا مـحمد بن الـحسين، قال: ثنا
+  أحمد بن الـمفضل، قال: ثنا أسبـاط، عن السديّ { إنْ هَذَا إلاَّ اخْتِلاقٌ } اختلقه
+  مـحمد صلى الله عليه وسلم.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي يونس، قال: أخبرنا ابن وهب،
+  قال: قال ابن زيد، فـي قوله: { إنْ هَذَا إلاَّ اخْتلاقٌ } قالوا: إن هذا إلا كذب.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">3 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a id=\"NextClass\"/></td></tr></table></center></div></section>"
 

@@ -1,4 +1,4 @@
-location:
+position:
   sura: '002'
   aaya: '021'
   madhab: '01'
@@ -7,58 +7,149 @@ meta:
   title: تفسير الجامع لاحكام القرآن
   author: القرطبي
   year: '671'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ يَٰـأَيُّهَا ٱلنَّاسُ
-  ٱعْبُدُواْ رَبَّكُمُ ٱلَّذِي خَلَقَكُمْ وَٱلَّذِينَ مِن قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ
-  }قوله سبحانه وتعالى: { يَاأَيُّهَا ٱلنَّاسُ ٱعْبُدُواْ رَبَّكُمُ } قال علقمة ومجاهد:
-  كل آية أوّلها «يأَيها الناس» فإنما نزلت بمكة، وكل آية أوّلها «يأَيها الذِين آمنوا»
-  فإنما نزلت بالمدينة.قلت: وهذا يردّه أن هذه السورة والنساء مدنِيّتان وفيهما يأيها
-  الناس. وأما قولهما في «يَأَيُّهَا الَّذِينَ آمَنُوا» فصحيح. وقال عُرْوة بن الزبير:
-  ما كان من حَدّ أو فريضة فإنه نزل بالمدينة، وما كان من ذكر الأمم والعذاب فإنه نزل
-  بمكة. وهذا واضح.و «يا» في قوله: «يأَيها» حرف نداء. «أيُّ» منادَى مفرد مبنيّ على
-  الضم؛ لأنه منادى في اللفظ، و «ها» للتنبيه. «الناسُ» مرفوع صفة لأي عند جماعة النحويين؛
-  ما عدا المازني فإنه أجاز النصب قياسًا على جوازه في: يا هذا الرجل. وقيل: ضُمّت «أي»
-  كما ضُمّ المقصود المفرد، وجاءوا بـ «ها» عِوَضًا عن ياء أخرى، وإنما لم يأتوا بياء
-  لئلا ينقطع الكلام فجاءوا بـ «ها» حتى يبقى الكلام متصلا. قال سيبويه: كأنك كررت «يا»
-  مرتين وصار الاسم بينهما؛ كما قالوا: ها هو ذا. وقيل: لما تعذّر عليهم الجمع بين حرفي
-  تعريف أتوا في الصورة بمنادى مجرّد عن حرف تعريف، وأجروْا عليه المعرّف باللام المقصود
-  بالنداء، وٱلتزموا رفعه؛ لأنه المقصود بالنداء؛ فجعلوا إعرابه بالحركة التي كان يستحقها
-  لو باشرها النداء تنبيهاً على أنه المنادى؛ فٱعلمه.وٱخْتُلِفَ من المراد بالناس هنا
-  على قولين: أحدهما: الكفار الذين لم يعبدوه؛ يدل عليه قوله:{ وَإِن كُنْتُمْ فِي رَيْبٍ }[البقرة:
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(2, 21)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(2,21)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">يَٰـأَيُّهَا
+  ٱلنَّاسُ ٱعْبُدُواْ رَبَّكُمُ ٱلَّذِي خَلَقَكُمْ وَٱلَّذِينَ مِن قَبْلِكُمْ لَعَلَّكُمْ
+  تَتَّقُونَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">قوله سبحانه وتعالى: { يَاأَيُّهَا
+  ٱلنَّاسُ ٱعْبُدُواْ رَبَّكُمُ } قال علقمة ومجاهد: كل آية أوّلها «يأَيها الناس» فإنما
+  نزلت بمكة، وكل آية أوّلها «يأَيها الذِين آمنوا» فإنما نزلت بالمدينة.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قلت: وهذا يردّه أن هذه السورة والنساء مدنِيّتان وفيهما يأيها الناس.
+  وأما قولهما في «يَأَيُّهَا الَّذِينَ آمَنُوا» فصحيح. وقال عُرْوة بن الزبير: ما كان
+  من حَدّ أو فريضة فإنه نزل بالمدينة، وما كان من ذكر الأمم والعذاب فإنه نزل بمكة.
+  وهذا واضح.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">و «يا» في قوله: «يأَيها» حرف نداء.
+  «أيُّ» منادَى مفرد مبنيّ على الضم؛ لأنه منادى في اللفظ، و «ها» للتنبيه. «الناسُ»
+  مرفوع صفة لأي عند جماعة النحويين؛ ما عدا المازني فإنه أجاز النصب قياسًا على جوازه
+  في: يا هذا الرجل. وقيل: ضُمّت «أي» كما ضُمّ المقصود المفرد، وجاءوا بـ «ها» عِوَضًا
+  عن ياء أخرى، وإنما لم يأتوا بياء لئلا ينقطع الكلام فجاءوا بـ «ها» حتى يبقى الكلام
+  متصلا. قال سيبويه: كأنك كررت «يا» مرتين وصار الاسم بينهما؛ كما قالوا: ها هو ذا.
+  وقيل: لما تعذّر عليهم الجمع بين حرفي تعريف أتوا في الصورة بمنادى مجرّد عن حرف تعريف،
+  وأجروْا عليه المعرّف باللام المقصود بالنداء، وٱلتزموا رفعه؛ لأنه المقصود بالنداء؛
+  فجعلوا إعرابه بالحركة التي كان يستحقها لو باشرها النداء تنبيهاً على أنه المنادى؛
+  فٱعلمه.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وٱخْتُلِفَ من المراد بالناس هنا
+  على قولين: أحدهما: الكفار الذين لم يعبدوه؛ يدل عليه قوله:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">وَإِن كُنْتُمْ فِي رَيْبٍ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[البقرة:
   23]. الثاني: أنه عام في جميع الناس؛ فيكون خطابه للمؤمنين بٱستدامة العبادة، وللكافرين
-  بٱبتدائها. وهذا حَسَن.قوله تعالى: { ٱعْبُدُواْ } أمْرٌ بالعبادة له. والعبادة هنا
-  عبارة عن توحيده والتزام شرائع دينه. وأصل العبادة الخضوع والتذلل؛ يقال: طريق مُعَبَّدة
-  إذا كانت موطوءةً بالأقدام.قال طرفة:وظِيفاً وظيفا فوق مَوْرٍ مُعَبَّدِ   والعبادة:
-  الطاعة. والتعبد: التَّنَسُّك. وعبَّدت فلاناً: ٱتخذته عبداً.قوله تعالى: { ٱلَّذِي
-  خَلَقَكُمْ } خصّ تعالى خلقه لهم من بين سائر صفاته إذ كانت العرب مُقِرّة بأن الله
-  خلقها؛ فذكر ذلك حجةً عليهم وتقريعاً لهم. وقيل: ليذكرهم بذلك نعمته عليهم. وفي أصل
-  الخلق وجهان: أحدهما: التقدير؛ يقال خَلقتُ الأدِيم للسقاء إذا قدّرته قبل القطع؛ قال
-  الشاعر:وَلأنتَ تَفْرِي ما خَلقتَ وبعـ   ـضُ القوم يَخْلُقُ ثم لا يَفْرِيوقال الحجاج:
-  ما خَلَقْتُ إلاّ فَرَيْتُ، ولا وَعَدْتُ إلاّ وَفّيْتُ. الثاني: الإنشاء والاختراع
-  والإبداع؛ قال الله تعالى:{ وَتَخْلُقُونَ إِفْكاً }[العنكبوت: 17].قوله تعالى: { وَٱلَّذِينَ
-  مِن قَبْلِكُمْ } فيقال إذا ثبت عندهم خلقهم ثبت عندهم خلق غيرهم؛ فالجواب: أنه إنما
-  يجري الكلام على التنبيه والتذكير ليكون أبلغ في العظة؛ فذكّرهم مَن قبلهم ليعلموا
-  أن الذي أمات من قبلهم وهو خَلَقهم يميتهم؛ وليفكّروا فيمن مضى قبلهم كيف كانوا، وعلى
-  أيّ الأمور مضوْا من إهلاك من أهلك؛ وليعلموا أنهم يُبتلون كما ٱبتلُوا.\r\n\t\t\t\r\n\t\t\t1 2 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ يَٰـأَيُّهَا ٱلنَّاسُ ٱعْبُدُواْ رَبَّكُمُ
-  ٱلَّذِي خَلَقَكُمْ وَٱلَّذِينَ مِن قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ }والله أعلم.قوله
+  بٱبتدائها. وهذا حَسَن.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">قوله تعالى: { ٱعْبُدُواْ } أمْرٌ
+  بالعبادة له. والعبادة هنا عبارة عن توحيده والتزام شرائع دينه. وأصل العبادة الخضوع
+  والتذلل؛ يقال: طريق مُعَبَّدة إذا كانت موطوءةً بالأقدام.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال
+  طرفة:</font></font><table class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">وظِيفاً
+  وظيفا فوق مَوْرٍ مُعَبَّدِ</font></font></b></td><td class=\"TextArabic\">   </td><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\"/></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">والعبادة: الطاعة. والتعبد: التَّنَسُّك.
+  وعبَّدت فلاناً: ٱتخذته عبداً.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قوله
+  تعالى: { ٱلَّذِي خَلَقَكُمْ } خصّ تعالى خلقه لهم من بين سائر صفاته إذ كانت العرب
+  مُقِرّة بأن الله خلقها؛ فذكر ذلك حجةً عليهم وتقريعاً لهم. وقيل: ليذكرهم بذلك نعمته
+  عليهم. وفي أصل الخلق وجهان: أحدهما: التقدير؛ يقال خَلقتُ الأدِيم للسقاء إذا قدّرته
+  قبل القطع؛ قال الشاعر:</font></font><table class=\"TextArabic\" dir=\"rtl\"><tr
+  class=\"TextArabic\"><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">وَلأنتَ تَفْرِي ما خَلقتَ وبعـ</font></font></b></td><td class=\"TextArabic\">   </td><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">ـضُ القوم
+  يَخْلُقُ ثم لا يَفْرِي</font></font></b></td></tr></table><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال الحجاج: ما خَلَقْتُ إلاّ فَرَيْتُ، ولا وَعَدْتُ إلاّ وَفّيْتُ.
+  الثاني: الإنشاء والاختراع والإبداع؛ قال الله تعالى:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">وَتَخْلُقُونَ إِفْكاً</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[العنكبوت:
+  17].</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">قوله تعالى: { وَٱلَّذِينَ مِن قَبْلِكُمْ
+  } فيقال إذا ثبت عندهم خلقهم ثبت عندهم خلق غيرهم؛ فالجواب: أنه إنما يجري الكلام على
+  التنبيه والتذكير ليكون أبلغ في العظة؛ فذكّرهم مَن قبلهم ليعلموا أن الذي أمات من
+  قبلهم وهو خَلَقهم يميتهم؛ وليفكّروا فيمن مضى قبلهم كيف كانوا، وعلى أيّ الأمور مضوْا
+  من إهلاك من أهلك؛ وليعلموا أنهم يُبتلون كما ٱبتلُوا.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(5,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(5,2,1)\"><u>2</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2, 21)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,21)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">يَٰـأَيُّهَا ٱلنَّاسُ ٱعْبُدُواْ رَبَّكُمُ ٱلَّذِي
+  خَلَقَكُمْ وَٱلَّذِينَ مِن قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">والله أعلم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قوله
   تعالى: { لَعَلَّكُمْ تَتَّقُونَ } «لعلّ» متصلة بٱعبدوا لا بخلقكم؛ لأن من ذَرَأه
   الله لجهنم لم يخلقه ليتّقي. وهذا وما كان مثله فيما ورد في كلام الله تعالى من قوله:
   { لَعَلَّكُمْ تَعْقِلُونَ } ، { لَعَلَّكُمْ تَشْكُرُونَ } ، { لَعَلَّكُمْ تَذَكَّرُونَ
-  } ، { لَعَلَّكُمْ تَهْتَدُونَ } فيه ثلاثة تأويلات:الأوْل: أن «لَعلّ» على بابها من
-  الترجّي والتوقّع، والترجّي والتوقّع إنما هو في حيّز البشر؛ فكأنه قيل لهم: ٱفعلوا
-  ذلك على الرجاء منكم والطمع أن تعقلوا وأن تذكروا وأن تتقوا. هذا قول سيبويه ورؤساء
-  اللسان. قال سيبويه في قوله عز وجل:{ ٱذْهَبَآ إِلَىٰ فِرْعَوْنَ إِنَّهُ طَغَىٰ فَقُولاَ
-  لَهُ قَوْلاً لَّيِّناً لَّعَلَّهُ يَتَذَكَّرُ أَوْ يَخْشَىٰ }[طهۤ: 43 ـ 44] قال
-  معناه: اذهبا على طمعكما ورجائكما أن يتذكّر أو يخشى. وٱختار هذا القول أبو المعالي.الثاني:
-  أن العرب ٱستعملت «لَعلّ» مجرّدة من الشك بمعنى لام كي. فالمعنى لتعقلوا ولتذكروا ولتتقوا؛
-  وعلى ذلك يدل قول الشاعر:وقلتم لنا كُفُّوا الحروبَ لعلّنا   نَكُفُّ ووثّقتم لنا كلّ
-  مَوْثِقِفلما كففنا الحرب كانت عهودكم   كَلَمْعِ سَرابٍ في المَلا مُتَألِّقِالمعنى:
-  كفُّوا الحروب لنكُفّ، ولو كانت «لعل» هنا شكّاً لم يوثقوا لهم كل موثق؛ وهذا القول
-  عن قُطْرُب والطبري.الثالث: أن تكون «لعل» بمعنى التعرّض للشيء؛ كأنه قيل: ٱفعلوا ذلك
+  } ، { لَعَلَّكُمْ تَهْتَدُونَ } فيه ثلاثة تأويلات:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">الأوْل:
+  أن «لَعلّ» على بابها من الترجّي والتوقّع، والترجّي والتوقّع إنما هو في حيّز البشر؛
+  فكأنه قيل لهم: ٱفعلوا ذلك على الرجاء منكم والطمع أن تعقلوا وأن تذكروا وأن تتقوا.
+  هذا قول سيبويه ورؤساء اللسان. قال سيبويه في قوله عز وجل:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">ٱذْهَبَآ إِلَىٰ فِرْعَوْنَ إِنَّهُ
+  طَغَىٰ فَقُولاَ لَهُ قَوْلاً لَّيِّناً لَّعَلَّهُ يَتَذَكَّرُ أَوْ يَخْشَىٰ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[طهۤ:
+  43 ـ 44] قال معناه: اذهبا على طمعكما ورجائكما أن يتذكّر أو يخشى. وٱختار هذا القول
+  أبو المعالي.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">الثاني: أن العرب ٱستعملت «لَعلّ»
+  مجرّدة من الشك بمعنى لام كي. فالمعنى لتعقلوا ولتذكروا ولتتقوا؛ وعلى ذلك يدل قول
+  الشاعر:</font></font><table class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">وقلتم لنا
+  كُفُّوا الحروبَ لعلّنا</font></font></b></td><td class=\"TextArabic\">   </td><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">نَكُفُّ
+  ووثّقتم لنا كلّ مَوْثِقِ</font></font></b></td></tr><tr class=\"TextArabic\"><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">فلما كففنا
+  الحرب كانت عهودكم</font></font></b></td><td class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">كَلَمْعِ سَرابٍ في المَلا مُتَألِّقِ</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">المعنى: كفُّوا الحروب لنكُفّ، ولو
+  كانت «لعل» هنا شكّاً لم يوثقوا لهم كل موثق؛ وهذا القول عن قُطْرُب والطبري.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">الثالث: أن تكون «لعل» بمعنى التعرّض للشيء؛ كأنه قيل: ٱفعلوا ذلك
   متعرّضين لأن تعقلوا، أو لأن تذكروا أو لأن تتقوا. والمعنى في قوله { لَعَلَّكُمْ تَتَّقُونَ
   }: أي لعلكم أن تجعلوا بقبول ما أمركم الله به وقاية بينكم وبين النار. وهذا من قول
   العرب: ٱتقاه بحقه إذا ٱستقبله به؛ فكأنه جعل دفعه حقه إليه وقاية له من المطالبة؛
   ومنه قول عليّ رضي الله عنه: كنا إذا ٱحمرّ البأس ٱتقينا بالنبيّ صلى الله عليه وسلم؛
-  أي جعلناه وقاية لنا من العدوّ. وقال عنترة:ولقد كَرَرْتُ المُهْرَ يَدْمَى نَحْرُه   حتى
-  ٱتّقتني الخيلُ بٱبني حِذْيَم\r\n\t\t\t1 2 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  أي جعلناه وقاية لنا من العدوّ. وقال عنترة:</font></font><table class=\"TextArabic\"
+  dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">ولقد كَرَرْتُ المُهْرَ يَدْمَى نَحْرُه</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">حتى ٱتّقتني الخيلُ بٱبني حِذْيَم</font></font></b></td></tr></table><label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(5,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(5,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section>"
 

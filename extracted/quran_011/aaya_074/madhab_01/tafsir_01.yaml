@@ -1,4 +1,4 @@
-location:
+position:
   sura: '011'
   aaya: '074'
   madhab: '01'
@@ -9,99 +9,240 @@ meta:
   year: '310'
 aaya: فَلَمَّا ذَهَبَ عَنْ إِبْرَاهِيمَ الرَّوْعُ وَجَاءَتْهُ الْبُشْرَىٰ يُجَادِلُنَا
   فِي قَوْمِ لُوطٍ
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ فَلَمَّا ذَهَبَ
-  عَنْ إِبْرَاهِيمَ ٱلرَّوْعُ وَجَآءَتْهُ ٱلْبُشْرَىٰ يُجَادِلُنَا فِي قَوْمِ لُوطٍ
-  } * { إِنَّ إِبْرَاهِيمَ لَحَلِيمٌ أَوَّاهٌ مُّنِيبٌ }يقول تعالـى ذكره: فلـما ذهب
-  عن إبراهيـم الـخوف الذي أوجسه فـي نفسه من رسلنا حين رأى أيديهم لا تصل إلـى طعامه،
-  وأمن أن يكون قصد فـي نفسه وأهله بسوء، وجاءته البشرى بإسحاق، ظلّ يجادلنا فـي قوم
-  لوط.وبنـحو الذي قلنا فـي ذلك قال أهل التأويـل. ذكر من قال ذلك:حدثنا بشر، قال: ثنا
-  يزيد، قال: ثنا سعيد، عن قتادة، قوله: { فَلَـمَّا ذَهَبَ عَنْ إبْرَاهيـمَ الرَّوْعُ
-  } يقول: ذهب عنه الـخوف، { وَجاءَتْهُ البُشْرَى } بإسْحاقَ.حدثنا ابن حميد، قال: ثنا
-  سلـمة، عن ابن إسحاق: { فَلَـمَّا ذَهَبَ عَنْ إبْرَاهيـمَ الرَّوْعُ وَجاءَتْهُ البُشْرَى
-  } بإسحاق، ويعقوب ولد من صلب إسحاق، وأمن مـما كان يخاف قال: { الـحَمْدُ لِلَّهِ الَّذِي
-  وَهَبَ لـي علـى الكِبَرِ إسْماعيـلَ وإسْحاقَ إنَّ رَبـي لَسَميعُ الدُّعاءِ }.وقد
-  قـيـل معنى ذلك: وجاءته البشرى أنهم لـيسوا إياه يريدون. ذكر من قال ذلك:حدثنا مـحمد
-  بن عبد الأعلـى، قال: ثنا مـحمد بن ثور، عن معمر، عن قتادة: { وَجاءَتْهُ البُشْرَى
-  } قال: حين أخبروه أنهم أرسلوا إلـى قوم لوط، وأنهم لـيسوا إياه يريدون.قال: ثنا مـحمد
-  بن ثور، قال: ثنا معمر، وقال آخرون: بشر بإسحاق.وأما الرَّوع: فهو الـخوف، يقال منه:
-  راعنـي كذا يَرُوعنـي رَوْعاً: إذا خافه، ومنه قول النبـيّ صلى الله عليه وسلم \" كيف
-  لك برَوْعَة الـمؤمن \" ومنه قول عَنْترة:   ما رَاعَنِـي إلاَّ حَمُولةُ أهْلِهاوَسْطَ
-  الدّيارِ تَسَفُّ حَبَّ الـخِمْخِمِ   بـمعنى: ما أفزعنـي.وبنـحو الذي قلنا فـي ذلك
-  قال أهل التأويـل. ذكر من قال ذلك:حدثنـي مـحمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا
-  عيسى، عن ابن أبـي نـجيح، عن مـجاهد: الروع: الفرق.حدثنـي الـمثنى، قال: ثنا أبو حذيفة،
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(11, 74)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(11,74)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">فَلَمَّا
+  ذَهَبَ عَنْ إِبْرَاهِيمَ ٱلرَّوْعُ وَجَآءَتْهُ ٱلْبُشْرَىٰ يُجَادِلُنَا فِي قَوْمِ
+  لُوطٍ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">إِنَّ إِبْرَاهِيمَ لَحَلِيمٌ أَوَّاهٌ مُّنِيبٌ</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">يقول تعالـى ذكره: فلـما ذهب عن إبراهيـم الـخوف الذي أوجسه فـي نفسه
+  من رسلنا حين رأى أيديهم لا تصل إلـى طعامه، وأمن أن يكون قصد فـي نفسه وأهله بسوء،
+  وجاءته البشرى بإسحاق، ظلّ يجادلنا فـي قوم لوط.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وبنـحو
+  الذي قلنا فـي ذلك قال أهل التأويـل. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: { فَلَـمَّا ذَهَبَ عَنْ إبْرَاهيـمَ
+  الرَّوْعُ } يقول: ذهب عنه الـخوف، { وَجاءَتْهُ البُشْرَى } بإسْحاقَ.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن حميد، قال: ثنا سلـمة، عن ابن إسحاق: { فَلَـمَّا ذَهَبَ
+  عَنْ إبْرَاهيـمَ الرَّوْعُ وَجاءَتْهُ البُشْرَى } بإسحاق، ويعقوب ولد من صلب إسحاق،
+  وأمن مـما كان يخاف قال: { الـحَمْدُ لِلَّهِ الَّذِي وَهَبَ لـي علـى الكِبَرِ إسْماعيـلَ
+  وإسْحاقَ إنَّ رَبـي لَسَميعُ الدُّعاءِ }.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقد
+  قـيـل معنى ذلك: وجاءته البشرى أنهم لـيسوا إياه يريدون. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا مـحمد بن عبد الأعلـى، قال: ثنا مـحمد بن ثور، عن معمر، عن قتادة:
+  { وَجاءَتْهُ البُشْرَى } قال: حين أخبروه أنهم أرسلوا إلـى قوم لوط، وأنهم لـيسوا
+  إياه يريدون.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">قال: ثنا مـحمد بن ثور، قال: ثنا
+  معمر، وقال آخرون: بشر بإسحاق.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وأما
+  الرَّوع: فهو الـخوف، يقال منه: راعنـي كذا يَرُوعنـي رَوْعاً: إذا خافه، ومنه قول
+  النبـيّ صلى الله عليه وسلم</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" كيف لك برَوْعَة الـمؤمن \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">ومنه قول عَنْترة</font></font><table class=\"TextArabic\" dir=\"rtl\"><tr
+  class=\"TextArabic\"><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">:</font></font></b></td><td class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">ما رَاعَنِـي إلاَّ حَمُولةُ أهْلِها</font></font></b></td></tr><tr
+  class=\"TextArabic\"><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">وَسْطَ الدّيارِ تَسَفُّ حَبَّ الـخِمْخِمِ</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\"/></font></b></td></tr></table><font class=\"TextResultArabic\"><font
+  color=\"black\">بـمعنى: ما أفزعنـي.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وبنـحو
+  الذي قلنا فـي ذلك قال أهل التأويـل. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  مـحمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، عن ابن أبـي نـجيح، عن مـجاهد: الروع:
+  الفرق.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي الـمثنى، قال: ثنا أبو حذيفة،
   قال: ثنا شبل، عن ابن أبـي نـجيح، عن مـجاهد، قال: ثنا إسحاق، قال: ثنا عبد الله، عن
   ورقاء، عن ابن أبـي نـجيح، عن مـجاهد، فـي قوله: { فَلَـمَّا ذَهَبَ عَنْ إبْرَاهيـمَ
-  الرَّوْعُ } قال: الفرق.حدثنا الـحسن بن يحيى، قال: أخبرنا عبد الرزاق، قال: أخبرنا
-  معمر، عن قتادة: { فَلَـمَّا ذَهَبَ عَنْ إبْرَاهيـمَ الرَّوْعُ } قال: الفرق.حدثنا
-  بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة: { فَلَـمَّا ذَهَبَ عَنْ إبْرَاهيـمَ
-  الرَّوْعُ } قال: ذهب عنه الـخوف.وقوله: { يُجادِلُنا فِـي قَوْمِ لُوطٍ } يقول: يخاصمنا.
-  كما:حدثنـي مـحمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، عن ابن أبـي نـجيح، عن
-  مـجاهد: { يُجادِلُنا }: يخاصمنا.حدثنـي الـمثنى، قال: ثنا أبو حذيفة، قال: ثنا شبل،
-  عن ابن أبـي نـجيح، عن مـجاهد، مثله.وزعم بعض أهل العربـية من أهل البصرة أن معنى قوله:
-  يُجادِلُنا يكلـمنا، وقال: لأن إبراهيـم لا يجادل الله إنـما يسأله ويطلب منه.\r\n\t\t\t\r\n\t\t\t1 2 3 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ فَلَمَّا ذَهَبَ عَنْ إِبْرَاهِيمَ
-  ٱلرَّوْعُ وَجَآءَتْهُ ٱلْبُشْرَىٰ يُجَادِلُنَا فِي قَوْمِ لُوطٍ } * { إِنَّ إِبْرَاهِيمَ
-  لَحَلِيمٌ أَوَّاهٌ مُّنِيبٌ }وهذا من الكلام جهل، لأن الله تعالـى ذكره أخبرنا فـي
-  كتابه أنه يجادل فـي قوم لوط، فقول القائل: إبراهيـم لا يجادل، موهما بذلك أن قول من
-  قال فـي تأويـل قوله: { يُجادِلُنا } يخاصمنا، أن إبراهيـم كان يخاصم ربه جهل من الكلام،
-  وإنـما كان جداله الرسل علـى وجه الـمـحاجة لهم. ومعنى ذلك: وجاءته البشرى يجادل رسلنا،
-  ولكنه لـما عرف الـمراد من الكلام حذف الرسل. وكان جداله إيّاهم كما:حدثنا ابن حميد،
-  قال: ثنا يعقوب القمي، قال: ثنا جعفر، عن سعيد: { يُجادِلُنا فـي قَوْمِ لُوطٍ } قال:
-  لـما جاء جبرئيـل ومن معه قالوا لإبراهيـم: { إنِّا مُهْلِكُوا أهْلِ هَذِهِ الْقَرْيةِ
-  إنَّ أهْلُهَا كانُوا ظالـمينَ } قال لهم إبراهيـم: أتهلكون قرية فـيها أربع مئة مؤمن؟
-  قالوا: لا. قال: أفتهلكون قرية فـيها ثلاث مئة مؤمن؟ قالوا: لا. قال: أفتهلكون قرية
-  فـيها مئتا مؤمن؟ قالوا: لا. قال: أفتهلكون قرية فـيها أربعون مؤمناً؟ قالوا: لا. قال:
-  أفتهلكون قرية فـيها أربعة عشرَ مؤمناً؟ قالوا: لا. وكان إبراهيـم يعدّهم أربعة عشر
-  بـامرأة لوط، فسكت عنهم واطمأنت نفسه.حدثنا أبو كريب، قال: ثنا الـحمانـي، عن الأعمش،
-  عن الـمنهال، عن سعيد بن جبـير، عن ابن عبـاس، قال: قال الـملك لإبراهيـم: إن كان فـيها
-  خمسة يصلون رفع عنهم العذاب.حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله:
-  { يُجادِلُنا فِـي قَوْمِ لُوطٍ } ذكر لنا أن مـجادلته إياهم أنه قال لهم: أرأيتـم
-  إن كان فـيها خمسون من الـمؤمنـين أمعذّبوها أنتـم؟ قالوا: لا. حتـى صار ذلك إلـى عشرة،
-  قال: أرأيتـم إن كان فـيها عشرة أمعذّبوهم أنتـم؟ قالوا: لا. وهي ثلاث قرى فـيها ما
-  شاء الله من الكثرة والعدد.حدثنا مـحمد بن عبد الأعلـى، قال: ثنا مـحمد بن ثور، عن
-  معمر، عن قتادة: { يُجادِلُنا فِـي قَوْمِ لُوطٍ } قال: بلغنا أنه قال لهم يؤمئذ: أرأيتـم
-  إن كان فـيها خمسون من الـمسلـمين؟ قالوا: إن كان فـيها خمسون لـم نعذّبهم. قال: أربعون؟
-  قالوا: وأربعون. قال:وثلاثون؟ قالوا: ثلاثون. حتـى بلغ عشرة، قالوا: وإن كان فـيهم
-  عشرة، قال: ما قوم لا يكون فـيهم عشرة فـيهم خير. قال ابن عبد الأعلـى، قال مـحمد بن
-  ثور: قال معمر: بلغنا أنه كان فـي قرية لوط أربعة آلاف ألف إنسان، أو ما شاء الله من
-  ذلك.حدثنـي موسى بن هارون، قال: ثنا عمرو بن حماد، قال: ثنا أسبـاط، عن السديّ: { فَلَـمَّا
-  ذَهَبَ عَنْ إبْرَاهِيـمُ الرَّوْعُ وَجاءَتْهُ البُشْرَى }{ قالَ ما خَطبُكمْ أيها
-  الـمرسلونَ }قالوا: إنا أرسلنا إلـى قوم لوط فجادلهم فـي قوم لوط، قال: أرأيتـم إن
-  كان فـيها مئة من الـمسلـمين أتهلكونهم؟ قالوا: لا. فلـم يزل يحطّ حتـى بلغ عشرة من
-  الـمسلـمين، فقالوا: لا نعذّبهم إن كان فـيهم عشرة من الـمسلـمين. ثم قالوا:{ يا إبراهيـمُ
-  أعرِضْ عَنْ هذَا }إنه لـيس فـيها إلا أهل بـيت من الـمؤمنـين هو لوط وأهل بـيته، وهو
-  قول الله تعالـى ذكره: { يُجادِلُنا فِـي قَوْمِ لُوطٍ } فقالت الـملائكة:\r\n\t\t\t\r\n\t\t\t1 2 3 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ فَلَمَّا ذَهَبَ عَنْ إِبْرَاهِيمَ
-  ٱلرَّوْعُ وَجَآءَتْهُ ٱلْبُشْرَىٰ يُجَادِلُنَا فِي قَوْمِ لُوطٍ } * { إِنَّ إِبْرَاهِيمَ
-  لَحَلِيمٌ أَوَّاهٌ مُّنِيبٌ }{ يا إبْرَاهِيـمُ أعْرِضْ عَنْ هَذَاإنه قَدْ جاءَ أمْرُ
-  رَبِّكَ وإنَّهُمْ آتِـيهِمْ عَذَابٌ غيرُ مَرْدُود }حدثنا ابن حميد، قال: ثنا سلـمة،
-  عن ابن إسحاق قال: { فَلَـمَّا ذَهَبَ عَنْ إبْرَاهِيـمَ الرَّوْعُ وَجاءَتْهُ البُشْرَى
-  } يعنـي: إبراهيـم جادل عن قوم لوط لـيردّ عنهم العذاب. قال: فـيزعم أهل التوراة أن
-  مـجادلة إبراهيـم إياهم حين جادلهم فـي قوم لوط لـيردّ عنهم العذاب. إنـما قال للرسل
-  فـيـما يكلـمهم به: أرأيتـم إن كان فـيهم مئة مؤمن أتهلكونهم؟ قالوا:، لا، قال: أفرأيتـم
-  إن كانوا تسعين؟ قالوا: لا، قال: أفرأيتـم إن كانوا ثمانـين؟ قالوا: لا، قال: أفرأيتـم
-  إن كانوا سبعين؟ قالوا: لا، قال: أفرأيتـم إن كانوا ستـين؟ قالوا لا، قال: أفرأيتـم
-  إن كانوا خمسين؟ قالوا لا، قال: أفرأيتـم إن كان رجلاً واحداً مسلـماً؟ قالوا: لا.
-  قال: فلـما لـم يذكروا لإبراهيـم أن فـيها مؤمناً واحداً{ قالَ إنَّ فـيهَا لُوطاً }يدفع
-  به عنهم العذاب،{ قالُوا نَـحْنُ أعْلَـمُ بِـمَنْ فِـيها لَنُنَـجِّيَنَّهُ وأهْلَهُ
-  إلاَّ امْرأتَهُ كانَتْ مِنَ الغابرِينَ }قالوا: يا إبراهيـم أعرض عن هذا إنه قد جاء
-  أمر ربك، وإنهم آتـيهم عذاب غير مردود.حدثنا القاسم، قال: ثنا الـحسين، قال: ثنـي حجاج،
-  قال: قال ابن جريج: قال إبراهيـم: أتهلكونهم إن وجدتـم فـيها مئة مؤمن ثم تسعين؟ حتـى
-  هبط إلـى خمسة. قال: وكان فـي قرية لوط أربعة آلاف ألف.حدثنا مـحمد بن عوف، قال: ثنا
-  أبو الـمغيرة، قال: ثنا صفوان، قال: ثنا أبو الـمثنى ومسلـم أبو الـحبـيـل الأشجعي
-  قالا: { لَـمَّا ذَهَبَ عَنْ إبْرَاهِيـمَ الرَّوْعُ }... إلـى آخر الآية، قال إبراهيـم:
-  أتعذِّب عالـماً من عالـمك كثـيراً فـيهم مئة رجل؟ قال: لا وعزّتـي ولا خمسين قال:
-  فأربعين؟ فثلاثـين؟ حتـى انتهى إلـى خمسة. قال: لا وعزتـي لا أعذبهم ولو كان فـيهم
-  خمسة يعبدوننـي قال الله عزّ وجلّ: { فَمَا وَجَدْنا فِـيها غيرَ بَـيْتٍ مِنَ الـمُسْلِـمِينَ
-  } أي لوطاً وابنتـيه، قال: فحلّ بهم من العذاب، قال الله عزّ وجلّ:{ وتَرَكْنَا فِـيهَا
-  آيةً للَّذِينَ يخافُونَ العَذابَ الألـيـمَ }وقال: { فَلَـمَّا ذَهَبَ عَنْ إبْرَاهِيـمَ
-  الرَّوْعُ وَجاءَتْهُ البُشْرَى يُجادِلُنا فِـي قَوْمِ لُوطٍ }.والعرب لا تكاد تتلقـى
-  «لـمَّا» إذا ولـيها فعل ماض إلا بـماض، يقولون: لـما قام قمت، ولا يكادون يقولون:
-  لـما قام أقوم. وقد يجوز فـيـما كان من الفعل له تطاول مثل الـجدال والـخصومة والقتال،
-  فـيقولون فـي ذلك: لـما لقـيته أقاتله، بـمعنى: جعلت أقاتله.وقوله: { إنَّ إبْرَاهِيـمَ
-  لَـحَلِـيـمٌ أوَّاهٌ مُنِـيبٌ } يقول تعالـى ذكره: إن إبراهيـم لبطيء الغضب متذلل
-  لربه خاشع له، منقاد لأمره، منـيب رجاع إلـى طاعته. كما:حدثنـي الـحرث، قال: ثنا عبد
-  العزيز، قال: ثنا إسرائيـل، عن أبـي يحيى، عن مـجاهد: { أوَّاهٌ مُنِـيبٌ } قال: القانت:
-  الرجّاع.وقد بـيَّنا معنى الأوّاه فـيـما مضى بـاختلاف الـمختلفـين والشواهد علـى الصحيح
-  منه عندنا من القول بـما أغنـي عن إعادته.\r\n\t\t\t\r\n\t\t\t1 2 3 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  الرَّوْعُ } قال: الفرق.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا الـحسن بن يحيى، قال: أخبرنا
+  عبد الرزاق، قال: أخبرنا معمر، عن قتادة: { فَلَـمَّا ذَهَبَ عَنْ إبْرَاهيـمَ الرَّوْعُ
+  } قال: الفرق.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا بشر، قال: ثنا يزيد، قال:
+  ثنا سعيد، عن قتادة: { فَلَـمَّا ذَهَبَ عَنْ إبْرَاهيـمَ الرَّوْعُ } قال: ذهب عنه
+  الـخوف.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقوله: { يُجادِلُنا فِـي قَوْمِ
+  لُوطٍ } يقول: يخاصمنا. كما:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  مـحمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، عن ابن أبـي نـجيح، عن مـجاهد: {
+  يُجادِلُنا }: يخاصمنا.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي الـمثنى، قال: ثنا أبو حذيفة،
+  قال: ثنا شبل، عن ابن أبـي نـجيح، عن مـجاهد، مثله.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وزعم
+  بعض أهل العربـية من أهل البصرة أن معنى قوله: يُجادِلُنا يكلـمنا، وقال: لأن إبراهيـم
+  لا يجادل الله إنـما يسأله ويطلب منه.</font></font>&#13;\t\t\t<label disabled=\"true\"
+  class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(11, 74)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(11,74)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">فَلَمَّا ذَهَبَ عَنْ إِبْرَاهِيمَ ٱلرَّوْعُ وَجَآءَتْهُ
+  ٱلْبُشْرَىٰ يُجَادِلُنَا فِي قَوْمِ لُوطٍ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">إِنَّ إِبْرَاهِيمَ
+  لَحَلِيمٌ أَوَّاهٌ مُّنِيبٌ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\"
+  dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">وهذا من الكلام
+  جهل، لأن الله تعالـى ذكره أخبرنا فـي كتابه أنه يجادل فـي قوم لوط، فقول القائل: إبراهيـم
+  لا يجادل، موهما بذلك أن قول من قال فـي تأويـل قوله: { يُجادِلُنا } يخاصمنا، أن إبراهيـم
+  كان يخاصم ربه جهل من الكلام، وإنـما كان جداله الرسل علـى وجه الـمـحاجة لهم. ومعنى
+  ذلك: وجاءته البشرى يجادل رسلنا، ولكنه لـما عرف الـمراد من الكلام حذف الرسل. وكان
+  جداله إيّاهم كما:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن حميد، قال: ثنا يعقوب
+  القمي، قال: ثنا جعفر، عن سعيد: { يُجادِلُنا فـي قَوْمِ لُوطٍ } قال: لـما جاء جبرئيـل
+  ومن معه قالوا لإبراهيـم: { إنِّا مُهْلِكُوا أهْلِ هَذِهِ الْقَرْيةِ إنَّ أهْلُهَا
+  كانُوا ظالـمينَ } قال لهم إبراهيـم: أتهلكون قرية فـيها أربع مئة مؤمن؟ قالوا: لا.
+  قال: أفتهلكون قرية فـيها ثلاث مئة مؤمن؟ قالوا: لا. قال: أفتهلكون قرية فـيها مئتا
+  مؤمن؟ قالوا: لا. قال: أفتهلكون قرية فـيها أربعون مؤمناً؟ قالوا: لا. قال: أفتهلكون
+  قرية فـيها أربعة عشرَ مؤمناً؟ قالوا: لا. وكان إبراهيـم يعدّهم أربعة عشر بـامرأة
+  لوط، فسكت عنهم واطمأنت نفسه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  أبو كريب، قال: ثنا الـحمانـي، عن الأعمش، عن الـمنهال، عن سعيد بن جبـير، عن ابن عبـاس،
+  قال: قال الـملك لإبراهيـم: إن كان فـيها خمسة يصلون رفع عنهم العذاب.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: { يُجادِلُنا
+  فِـي قَوْمِ لُوطٍ } ذكر لنا أن مـجادلته إياهم أنه قال لهم: أرأيتـم إن كان فـيها
+  خمسون من الـمؤمنـين أمعذّبوها أنتـم؟ قالوا: لا. حتـى صار ذلك إلـى عشرة، قال: أرأيتـم
+  إن كان فـيها عشرة أمعذّبوهم أنتـم؟ قالوا: لا. وهي ثلاث قرى فـيها ما شاء الله من
+  الكثرة والعدد.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا مـحمد بن عبد الأعلـى، قال:
+  ثنا مـحمد بن ثور، عن معمر، عن قتادة: { يُجادِلُنا فِـي قَوْمِ لُوطٍ } قال: بلغنا
+  أنه قال لهم يؤمئذ: أرأيتـم إن كان فـيها خمسون من الـمسلـمين؟ قالوا: إن كان فـيها
+  خمسون لـم نعذّبهم. قال: أربعون؟ قالوا: وأربعون. قال:وثلاثون؟ قالوا: ثلاثون. حتـى
+  بلغ عشرة، قالوا: وإن كان فـيهم عشرة، قال: ما قوم لا يكون فـيهم عشرة فـيهم خير. قال
+  ابن عبد الأعلـى، قال مـحمد بن ثور: قال معمر: بلغنا أنه كان فـي قرية لوط أربعة آلاف
+  ألف إنسان، أو ما شاء الله من ذلك.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  موسى بن هارون، قال: ثنا عمرو بن حماد، قال: ثنا أسبـاط، عن السديّ: { فَلَـمَّا ذَهَبَ
+  عَنْ إبْرَاهِيـمُ الرَّوْعُ وَجاءَتْهُ البُشْرَى }</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">قالَ ما خَطبُكمْ أيها الـمرسلونَ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">قالوا:
+  إنا أرسلنا إلـى قوم لوط فجادلهم فـي قوم لوط، قال: أرأيتـم إن كان فـيها مئة من الـمسلـمين
+  أتهلكونهم؟ قالوا: لا. فلـم يزل يحطّ حتـى بلغ عشرة من الـمسلـمين، فقالوا: لا نعذّبهم
+  إن كان فـيهم عشرة من الـمسلـمين. ثم قالوا:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">يا إبراهيـمُ أعرِضْ عَنْ هذَا</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">إنه
+  لـيس فـيها إلا أهل بـيت من الـمؤمنـين هو لوط وأهل بـيته، وهو قول الله تعالـى ذكره:
+  { يُجادِلُنا فِـي قَوْمِ لُوطٍ } فقالت الـملائكة:</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(11, 74)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(11,74)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">فَلَمَّا ذَهَبَ عَنْ إِبْرَاهِيمَ ٱلرَّوْعُ وَجَآءَتْهُ
+  ٱلْبُشْرَىٰ يُجَادِلُنَا فِي قَوْمِ لُوطٍ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">إِنَّ إِبْرَاهِيمَ
+  لَحَلِيمٌ أَوَّاهٌ مُّنِيبٌ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\"
+  dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\"/></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">يا إبْرَاهِيـمُ أعْرِضْ عَنْ هَذَاإنه
+  قَدْ جاءَ أمْرُ رَبِّكَ وإنَّهُمْ آتِـيهِمْ عَذَابٌ غيرُ مَرْدُود</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن حميد، قال: ثنا سلـمة، عن ابن إسحاق قال: { فَلَـمَّا ذَهَبَ عَنْ إبْرَاهِيـمَ
+  الرَّوْعُ وَجاءَتْهُ البُشْرَى } يعنـي: إبراهيـم جادل عن قوم لوط لـيردّ عنهم العذاب.
+  قال: فـيزعم أهل التوراة أن مـجادلة إبراهيـم إياهم حين جادلهم فـي قوم لوط لـيردّ
+  عنهم العذاب. إنـما قال للرسل فـيـما يكلـمهم به: أرأيتـم إن كان فـيهم مئة مؤمن أتهلكونهم؟
+  قالوا:، لا، قال: أفرأيتـم إن كانوا تسعين؟ قالوا: لا، قال: أفرأيتـم إن كانوا ثمانـين؟
+  قالوا: لا، قال: أفرأيتـم إن كانوا سبعين؟ قالوا: لا، قال: أفرأيتـم إن كانوا ستـين؟
+  قالوا لا، قال: أفرأيتـم إن كانوا خمسين؟ قالوا لا، قال: أفرأيتـم إن كان رجلاً واحداً
+  مسلـماً؟ قالوا: لا. قال: فلـما لـم يذكروا لإبراهيـم أن فـيها مؤمناً واحداً</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">قالَ
+  إنَّ فـيهَا لُوطاً</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">يدفع به عنهم العذاب،</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">قالُوا نَـحْنُ أعْلَـمُ بِـمَنْ فِـيها
+  لَنُنَـجِّيَنَّهُ وأهْلَهُ إلاَّ امْرأتَهُ كانَتْ مِنَ الغابرِينَ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">قالوا:
+  يا إبراهيـم أعرض عن هذا إنه قد جاء أمر ربك، وإنهم آتـيهم عذاب غير مردود.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا القاسم، قال: ثنا الـحسين، قال: ثنـي حجاج، قال: قال ابن جريج:
+  قال إبراهيـم: أتهلكونهم إن وجدتـم فـيها مئة مؤمن ثم تسعين؟ حتـى هبط إلـى خمسة. قال:
+  وكان فـي قرية لوط أربعة آلاف ألف.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  مـحمد بن عوف، قال: ثنا أبو الـمغيرة، قال: ثنا صفوان، قال: ثنا أبو الـمثنى ومسلـم
+  أبو الـحبـيـل الأشجعي قالا: { لَـمَّا ذَهَبَ عَنْ إبْرَاهِيـمَ الرَّوْعُ }... إلـى
+  آخر الآية، قال إبراهيـم: أتعذِّب عالـماً من عالـمك كثـيراً فـيهم مئة رجل؟ قال: لا
+  وعزّتـي ولا خمسين قال: فأربعين؟ فثلاثـين؟ حتـى انتهى إلـى خمسة. قال: لا وعزتـي لا
+  أعذبهم ولو كان فـيهم خمسة يعبدوننـي قال الله عزّ وجلّ: { فَمَا وَجَدْنا فِـيها غيرَ
+  بَـيْتٍ مِنَ الـمُسْلِـمِينَ } أي لوطاً وابنتـيه، قال: فحلّ بهم من العذاب، قال الله
+  عزّ وجلّ:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">وتَرَكْنَا فِـيهَا آيةً للَّذِينَ يخافُونَ العَذابَ الألـيـمَ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">وقال:
+  { فَلَـمَّا ذَهَبَ عَنْ إبْرَاهِيـمَ الرَّوْعُ وَجاءَتْهُ البُشْرَى يُجادِلُنا فِـي
+  قَوْمِ لُوطٍ }.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">والعرب لا تكاد تتلقـى «لـمَّا»
+  إذا ولـيها فعل ماض إلا بـماض، يقولون: لـما قام قمت، ولا يكادون يقولون: لـما قام
+  أقوم. وقد يجوز فـيـما كان من الفعل له تطاول مثل الـجدال والـخصومة والقتال، فـيقولون
+  فـي ذلك: لـما لقـيته أقاتله، بـمعنى: جعلت أقاتله.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقوله:
+  { إنَّ إبْرَاهِيـمَ لَـحَلِـيـمٌ أوَّاهٌ مُنِـيبٌ } يقول تعالـى ذكره: إن إبراهيـم
+  لبطيء الغضب متذلل لربه خاشع له، منقاد لأمره، منـيب رجاع إلـى طاعته. كما:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي الـحرث، قال: ثنا عبد العزيز، قال: ثنا إسرائيـل، عن أبـي يحيى،
+  عن مـجاهد: { أوَّاهٌ مُنِـيبٌ } قال: القانت: الرجّاع.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقد
+  بـيَّنا معنى الأوّاه فـيـما مضى بـاختلاف الـمختلفـين والشواهد علـى الصحيح منه عندنا
+  من القول بـما أغنـي عن إعادته.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">3 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a id=\"NextClass\"/></td></tr></table></center></div></section>"
 

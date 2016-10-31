@@ -1,4 +1,4 @@
-location:
+position:
   sura: '021'
   aaya: '103'
   madhab: '01'
@@ -7,24 +7,56 @@ meta:
   title: تفسير جامع البيان في تفسير القرآن
   author: الطبري
   year: '310'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ لاَ يَحْزُنُهُمُ
-  ٱلْفَزَعُ ٱلأَكْبَرُ وَتَتَلَقَّاهُمُ ٱلْمَلاَئِكَةُ هَـٰذَا يَوْمُكُمُ ٱلَّذِي
-  كُنتُمْ تُوعَدُونَ }اختلف أهل التأويـل فـي الفزع الأكبر أيّ الفزع هو؟ فقال بعضهم:
-  ذلك النار إذا أطبقت علـى أهلها. ذكر من قال ذلك:حدثنا أبو هشام، قال: ثنا يحيى بن
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(21, 103)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(21,103)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">لاَ
+  يَحْزُنُهُمُ ٱلْفَزَعُ ٱلأَكْبَرُ وَتَتَلَقَّاهُمُ ٱلْمَلاَئِكَةُ هَـٰذَا يَوْمُكُمُ
+  ٱلَّذِي كُنتُمْ تُوعَدُونَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\"
+  dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">اختلف أهل التأويـل
+  فـي الفزع الأكبر أيّ الفزع هو؟ فقال بعضهم: ذلك النار إذا أطبقت علـى أهلها. ذكر من
+  قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا أبو هشام، قال: ثنا يحيى بن
   يـمان، قال: ثنا سفـيان، عن عطاء بن السائب، عن سعيد بن جبـير: { لا يَحْزُنهُمْ الفَزَعُ
-  الأكْبَرُ } قال: النار إذا أطبقت علـى أهلها.حدثنا القاسم، قال: ثنا الحسين، قال:
-  ثنـي حجاج، قال: قال ابن جريج، قوله: { لا يَحْزُنهُمُ الفَزَعُ الأكْبَرُ } قال: حين
-  تطبق جهنم، وقال: حين ذُبح الـموت.وقال آخرون: بل ذلك النفخة الآخرة. ذكر من قال ذلك:حدثنـي
-  مـحمد بن سعد، قال: ثنـي أبـي، قال: ثنـي عمي، قال: ثنـي أبـي، عن أبـيه، عن ابن عبـاس،
-  قوله: { لا يَحْزُنهُمُ الفَزَعُ الأكْبَرُ } يعنـي النفخة الآخرة.وقال آخرون: بل ذلك
-  حين يؤمر بـالعبد إلـى النار. ذكر من قال ذلك:حدثنا ابن حميد، قال: ثنا حكام، عن عنبسة،
-  عن رجل، عن الـحسن: { لا يَحْزُنهُمُ الفَزَعُ الأكْبَرُ } قال: انصراف العبد حين يُؤْمر
-  به إلى النار.وأولـى الأقوال فـي ذلك بـالصواب، قول من قال: ذلك عند النفخة الآخرة
-  وذلك أن من لـم يحزنه ذلك الفزع الأكبر وأمن منه، فهو مـما بعدَه أحْرَى أن لا يفزَع،
-  وأن من أفزعه ذلك فغير مأمون علـيه الفزع مـما بعده.وقوله: { وَتَتَلَقَّاهُمُ الـمَلائِكَةُ
-  } يقول: وتستقبلهم الـملائكة يهنئونهم يقولون: { هَذَا يَوْمُكُمُ الَّذِي كُنْتُـمْ
-  تُوعَدُونَ } فـيه الكرامة من الله والـحِبـاء والـجزيـل من الثواب علـى ما كنتـم تنصَبون
-  فـي الدنـيا لله فـي طاعته.وبنـحو الذي قلنا فـي ذلك قال ابن زيد.حدثنـي يونس، قال:
-  أخبرنا ابن وهب، قال: قال ابن زيد، فـي قوله: { هَذَا يَوْمُكُمُ الَّذِي كُنْتُـمْ
-  تُوعَدُونَ } قال: هذا قبل أن يدخـلوا الـجنة.\r\n\t\t\t\r\n\t\t\t</section>"
+  الأكْبَرُ } قال: النار إذا أطبقت علـى أهلها.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  القاسم، قال: ثنا الحسين، قال: ثنـي حجاج، قال: قال ابن جريج، قوله: { لا يَحْزُنهُمُ
+  الفَزَعُ الأكْبَرُ } قال: حين تطبق جهنم، وقال: حين ذُبح الـموت.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال آخرون: بل ذلك النفخة الآخرة. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي مـحمد بن سعد، قال: ثنـي أبـي، قال: ثنـي عمي، قال: ثنـي أبـي،
+  عن أبـيه، عن ابن عبـاس، قوله: { لا يَحْزُنهُمُ الفَزَعُ الأكْبَرُ } يعنـي النفخة
+  الآخرة.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال آخرون: بل ذلك حين يؤمر بـالعبد
+  إلـى النار. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن حميد، قال: ثنا حكام، عن عنبسة، عن رجل، عن الـحسن: { لا يَحْزُنهُمُ الفَزَعُ
+  الأكْبَرُ } قال: انصراف العبد حين يُؤْمر به إلى النار.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وأولـى
+  الأقوال فـي ذلك بـالصواب، قول من قال: ذلك عند النفخة الآخرة وذلك أن من لـم يحزنه
+  ذلك الفزع الأكبر وأمن منه، فهو مـما بعدَه أحْرَى أن لا يفزَع، وأن من أفزعه ذلك فغير
+  مأمون علـيه الفزع مـما بعده.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقوله:
+  { وَتَتَلَقَّاهُمُ الـمَلائِكَةُ } يقول: وتستقبلهم الـملائكة يهنئونهم يقولون: {
+  هَذَا يَوْمُكُمُ الَّذِي كُنْتُـمْ تُوعَدُونَ } فـيه الكرامة من الله والـحِبـاء
+  والـجزيـل من الثواب علـى ما كنتـم تنصَبون فـي الدنـيا لله فـي طاعته.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وبنـحو الذي قلنا فـي ذلك قال ابن زيد.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، فـي قوله: { هَذَا يَوْمُكُمُ الَّذِي
+  كُنْتُـمْ تُوعَدُونَ } قال: هذا قبل أن يدخـلوا الـجنة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

@@ -1,4 +1,4 @@
-location:
+position:
   sura: '002'
   aaya: '005'
   madhab: '02'
@@ -8,14 +8,47 @@ meta:
   author: الماوردي
   year: '450'
 aaya: أُولَٰئِكَ عَلَىٰ هُدًى مِنْ رَبِّهِمْ ۖ وَأُولَٰئِكَ هُمُ الْمُفْلِحُونَ
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ أُوْلَـٰئِكَ عَلَىٰ
-  هُدًى مِّن رَّبِّهِمْ وَأُوْلَـٰئِكَ هُمُ ٱلْمُفْلِحُونَ }وقوله تعالى: { أُولئِكَ
-  على هُدىً مِنْ رَبِّهُمْ } يعني بيان ورشد.{ وَأُولئِكَ هُمُ الْمُفْلِحُونَ } فيه
-  ثلاثة تأويلات:أحدها: أنهم الفائزون السعداء، ومنه قول لبيد:لَوْ أَنَّ حَيّاً مُدْرِكُ
-  الْفَلاَحِ   \t أَدْرَكَهُ مُلاَعِبُ الرِّمَاحِوالثاني: المقطوع لهم بالخير، لأن
-  الفلح في كلامهم القطع، وكذلك قيل للأكار فلاح، لأنه يشق الأرض، وقد قال الشاعر:لَقَدْ
-  عَلِمتَ يا ابنَ أُمِّ صحصحْ\t   أن الحديدَ بالحديدِ يُفلحْواختلف فيمن أُرِيدَ بهم،
-  على ثلاثة أوجه:أحدها: المؤمنون بالغيب من العرب، والمؤمنون بما أنزل على محمد، وعلى
-  من قبله من سائر الأنبياء من غير العرب.والثاني: هم مؤمنو العرب وحدهم.والثالث: جميع
-  المؤمنين.\r\n\t\t\t\r\n\t\t\t</section>"
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(2, 5)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(2,5)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">أُوْلَـٰئِكَ
+  عَلَىٰ هُدًى مِّن رَّبِّهِمْ وَأُوْلَـٰئِكَ هُمُ ٱلْمُفْلِحُونَ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">وقوله تعالى: { أُولئِكَ على هُدىً مِنْ رَبِّهُمْ } يعني بيان ورشد.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">{ وَأُولئِكَ هُمُ الْمُفْلِحُونَ } فيه ثلاثة تأويلات:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">أحدها: أنهم الفائزون السعداء، ومنه قول لبيد:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><table class=\"TextArabic\"
+  dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">لَوْ أَنَّ حَيّاً مُدْرِكُ الْفَلاَحِ</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">\t أَدْرَكَهُ مُلاَعِبُ الرِّمَاحِ</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">والثاني: المقطوع لهم بالخير، لأن
+  الفلح في كلامهم القطع، وكذلك قيل للأكار فلاح، لأنه يشق الأرض، وقد قال الشاعر:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><table class=\"TextArabic\"
+  dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">لَقَدْ عَلِمتَ يا ابنَ أُمِّ صحصحْ\t</font></font></b></td><td class=\"TextArabic\">   </td><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">أن الحديدَ
+  بالحديدِ يُفلحْ</font></font></b></td></tr></table><font class=\"TextResultArabic\"><font
+  color=\"black\">واختلف فيمن أُرِيدَ بهم، على ثلاثة أوجه:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">أحدها:
+  المؤمنون بالغيب من العرب، والمؤمنون بما أنزل على محمد، وعلى من قبله من سائر الأنبياء
+  من غير العرب.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">والثاني: هم مؤمنو العرب وحدهم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">والثالث: جميع المؤمنين.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

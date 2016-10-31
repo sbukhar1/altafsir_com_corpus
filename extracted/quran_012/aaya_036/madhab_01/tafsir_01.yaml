@@ -1,4 +1,4 @@
-location:
+position:
   sura: '012'
   aaya: '036'
   madhab: '01'
@@ -10,100 +10,217 @@ meta:
 aaya: وَدَخَلَ مَعَهُ السِّجْنَ فَتَيَانِ ۖ قَالَ أَحَدُهُمَا إِنِّي أَرَانِي أَعْصِرُ
   خَمْرًا ۖ وَقَالَ الْآخَرُ إِنِّي أَرَانِي أَحْمِلُ فَوْقَ رَأْسِي خُبْزًا تَأْكُلُ
   الطَّيْرُ مِنْهُ ۖ نَبِّئْنَا بِتَأْوِيلِهِ ۖ إِنَّا نَرَاكَ مِنَ الْمُحْسِنِينَ
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَدَخَلَ مَعَهُ
-  ٱلسِّجْنَ فَتَيَانِ قَالَ أَحَدُهُمَآ إِنِّيۤ أَرَانِيۤ أَعْصِرُ خَمْراً وَقَالَ
-  ٱلآخَرُ إِنِّي أَرَانِيۤ أَحْمِلُ فَوْقَ رَأْسِي خُبْزاً تَأْكُلُ ٱلطَّيْرُ مِنْهُ
-  نَبِّئْنَا بِتَأْوِيلِهِ إِنَّا نَرَاكَ مِنَ ٱلْمُحْسِنِينَ }يقول تعالـى ذكره: ودخـل
-  مع يوسف السجن فتـيان، فدلّ بذلك علـى متروك قد ترك من الكلام وهو: { ثُمَّ بَدَا لَهُمْ
-  مِنْ بَعْدِ ما رَأَوُا الآياتِ لَـيَسْجُنُنَّهُ حتـى حِينٍ } فسجنوه وأدخـلوه السجن
-  ودخـل معه فتـيان، فـاستغنى بدلـيـل قوله: { وَدَخَـلَ مَعَهُ السِّجْنَ فَتَـيانِ
-  } علـى إدخالهم يوسف السجن من ذكره. وكان الفتـيان فـيـما ذكر: غلامين من غلـمان ملك
-  مصر الأكبر: أحدهما صاحب شرابه، والآخر صاحب طعامه. كما:حدثنا ابن حميد، قال: ثنا سلـمة،
-  عن ابن إسحاق، قال: فطرح فـي السجن، يعنـي يوسف، ودخـل معه السجن فتـيان، غلامان كانا
-  للـملك الأكبر: الريان بن الولـيد، كان أحدهما علـى شرابه، والآخر علـى بعض أمره، فـي
-  سخطة سخطها علـيهما، اسم أحدهما مـجلث والآخر نبو، ونبو الذي كان علـى الشراب.حدثنا
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(12, 36)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(12,36)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَدَخَلَ
+  مَعَهُ ٱلسِّجْنَ فَتَيَانِ قَالَ أَحَدُهُمَآ إِنِّيۤ أَرَانِيۤ أَعْصِرُ خَمْراً
+  وَقَالَ ٱلآخَرُ إِنِّي أَرَانِيۤ أَحْمِلُ فَوْقَ رَأْسِي خُبْزاً تَأْكُلُ ٱلطَّيْرُ
+  مِنْهُ نَبِّئْنَا بِتَأْوِيلِهِ إِنَّا نَرَاكَ مِنَ ٱلْمُحْسِنِينَ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">يقول تعالـى ذكره: ودخـل مع يوسف السجن فتـيان، فدلّ بذلك علـى متروك
+  قد ترك من الكلام وهو: { ثُمَّ بَدَا لَهُمْ مِنْ بَعْدِ ما رَأَوُا الآياتِ لَـيَسْجُنُنَّهُ
+  حتـى حِينٍ } فسجنوه وأدخـلوه السجن ودخـل معه فتـيان، فـاستغنى بدلـيـل قوله: { وَدَخَـلَ
+  مَعَهُ السِّجْنَ فَتَـيانِ } علـى إدخالهم يوسف السجن من ذكره. وكان الفتـيان فـيـما
+  ذكر: غلامين من غلـمان ملك مصر الأكبر: أحدهما صاحب شرابه، والآخر صاحب طعامه. كما:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن حميد، قال: ثنا سلـمة، عن ابن إسحاق، قال: فطرح فـي السجن،
+  يعنـي يوسف، ودخـل معه السجن فتـيان، غلامان كانا للـملك الأكبر: الريان بن الولـيد،
+  كان أحدهما علـى شرابه، والآخر علـى بعض أمره، فـي سخطة سخطها علـيهما، اسم أحدهما
+  مـجلث والآخر نبو، ونبو الذي كان علـى الشراب.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
   بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة: { وَدَخَـلَ مَعَهُ السِّجْنَ فَتَـيانِ
-  } قال: كان أحدهما خبـازاً للـملك علـى طعامه، وكان الآخر ساقـيه علـى شرابه.وكان سبب
-  حبس الـملك الفتـيـين فـيـما ذكر، ما:حدثنا ابن وكيع، قال: ثنا عمرو، عن أسبـاط، عن
-  السديّ، قال: إن الـملك غضب علـى خبـازه، بلغه أنه يريد أن يسمّه، فحبسه وحبس صاحب
-  شرابه، ظنّ أنه مالأه علـى ذلك فحبسهما جميعاً فذلك قول الله تعالـى ودخـل معه السجن
-  فتـيان.وقوله: { قالَ أحَدُهُما إنّـي أرَانِـي أعْصِرُ خَمْراً } ذكر أن يوسف صلوات
-  الله وسلامه علـيه لـما أدخـل السجن، قال لـمن فـيه من الـمـحبَّسين، وسألوه عن عمله:
-  إنـي أعبر الرؤيا، فقال أحد الفتـيـين اللذين أدخلا معه السجن لصاحبه: تعال فلنـجرّبه.
-  كما:حدثنا ابن وكيع، قال: ثنا عمرو بن مـحمد، عن أسبـاط، عن السديّ، قال: لـما دخـل
-  يوسف السجن قال: أنا أعبر الأحلام. فقال أحد الفتـيـين لصاحبه: هلـمّ نـجرّب هذا العبد
-  العبرانـيّ نتراءى له فسألاه من غير أن يكونا رأياً شيئاً. فقال الـخبـاز: إنـي أرانـي
-  أحمل فوق رأسي خبزا تأكل الطير منه، وقال الآخر: إنـي أرانـي أعصر خمراً.حدثنا ابن
-  وكيع وابن حميد، قالا: ثنا جرير، عن عمارة بن القعقاع، عن إبراهيـم، عن عبد الله، قال:
-  ما رأى صاحبـاً يوسف شيئاً، وإنـما كانا تـحالُـما لـيجرّبـا علـمه.وقال قوم: إنـما
-  سأله الفتـيان عن رؤيا كانا رأياها علـى صحة وحقـيقة، وعلـى تصديق منهما لـيوسف لعلـمه
-  بتعبـيرها. ذكر من قال ذلك:حدثنا ابن حميد، قال: ثنا سلـمة، عن ابن إسحاق، قال: لـما
-  رأى الفتـيان يوسف، قالا: والله يا فتـى لقد أحببناك حين رأيناك.قال: ثنا سلـمة، عن
-  ابن إسحاق، عن عبد الله، عن ابن أبـي نـجيح، عن مـجاهد: أن يوسف قال لهم حين قالا له
-  ذلك: أنشدكما الله أن لا تـحبـانـي فوالله ما أحبنـي أحد قطّ إلا دخـل علـيّ من حبه
-  بلاء، لقد أحبتنـي عمتـي فدخـل علـيّ من حبها بلاء، ثم لقد أحبنـي أبـي فدخـل علـيّ
-  بحبه بلاء، ثم لقد أحبتنـي زوجة صاحبـي هذا فدخـل علـيّ بحبها إياي بلاء، فلا تـحبـانـي
-  بـارك الله فـيكما قال: فأبـيا إلا حبه وإلفه حيث كان، وجعلا يعجبهما ما يريان من فهمه
-  وعقله، وقد كانا رأيا حين أدخلا السجن رؤيا، فرأى «مـجلث» أنه يحمل فوق رأسه، خبزاً
-  تأكل الطير منه، ورأى «نبو» أنه يعصر خمراً، فـاستفتـياه فـيها وقالا له: { نَبِّئْنا
-  بتأْوِيـلِهِ إنَّا نَرَاكَ مِنَ الـمُـحْسِنِـينَ } إن فعلت.\r\n\t\t\t\r\n\t\t\t1 2 3 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَدَخَلَ مَعَهُ ٱلسِّجْنَ فَتَيَانِ
-  قَالَ أَحَدُهُمَآ إِنِّيۤ أَرَانِيۤ أَعْصِرُ خَمْراً وَقَالَ ٱلآخَرُ إِنِّي أَرَانِيۤ
-  أَحْمِلُ فَوْقَ رَأْسِي خُبْزاً تَأْكُلُ ٱلطَّيْرُ مِنْهُ نَبِّئْنَا بِتَأْوِيلِهِ
-  إِنَّا نَرَاكَ مِنَ ٱلْمُحْسِنِينَ }وعنـي بقوله: { أعْصِرُ خَمْراً } أي إنـي أرى
-  فـي نومي أنـي أعصر عنبـاً. وكذلك ذلك فـي قراءة ابن مسعود فـيـما ذكر عنه.حدثنا ابن
-  وكيع، قال: ثنا أبـي، عن أبـي سلـمة الصائغ، عن إبراهيـم بن بشير الأنصاريّ، عن مـحمد
-  بن الـحنفـية قال فـي قراءة ابن مسعود: «إنّـي أَرَانِـي أعْصِرُ عِنَبـاً».وذكر أن
-  ذلك من لغة أهل عُمان، وأنهم يسمون العنب خمرا. ذكر من قال ذلك:حُدثت عن الـحسين، قال:
-  سمعت أبـا معاذ، يقول: ثنا عبـيد، قال: سمعت الضحاك يقول فـي قوله: { إنّـي أرَانـي
-  أعْصِرُ خَمْراً } يقول: أعصر عنبـاً، وهو بلغة أهل عُمان، يسمون العنب خمراً.حدثنا
+  } قال: كان أحدهما خبـازاً للـملك علـى طعامه، وكان الآخر ساقـيه علـى شرابه.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وكان سبب حبس الـملك الفتـيـين فـيـما ذكر، ما:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن وكيع، قال: ثنا عمرو، عن أسبـاط، عن السديّ، قال: إن الـملك
+  غضب علـى خبـازه، بلغه أنه يريد أن يسمّه، فحبسه وحبس صاحب شرابه، ظنّ أنه مالأه علـى
+  ذلك فحبسهما جميعاً فذلك قول الله تعالـى ودخـل معه السجن فتـيان.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقوله: { قالَ أحَدُهُما إنّـي أرَانِـي أعْصِرُ خَمْراً } ذكر أن
+  يوسف صلوات الله وسلامه علـيه لـما أدخـل السجن، قال لـمن فـيه من الـمـحبَّسين، وسألوه
+  عن عمله: إنـي أعبر الرؤيا، فقال أحد الفتـيـين اللذين أدخلا معه السجن لصاحبه: تعال
+  فلنـجرّبه. كما:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن وكيع، قال: ثنا عمرو بن
+  مـحمد، عن أسبـاط، عن السديّ، قال: لـما دخـل يوسف السجن قال: أنا أعبر الأحلام. فقال
+  أحد الفتـيـين لصاحبه: هلـمّ نـجرّب هذا العبد العبرانـيّ نتراءى له فسألاه من غير
+  أن يكونا رأياً شيئاً. فقال الـخبـاز: إنـي أرانـي أحمل فوق رأسي خبزا تأكل الطير منه،
+  وقال الآخر: إنـي أرانـي أعصر خمراً.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن وكيع وابن حميد، قالا: ثنا جرير، عن عمارة بن القعقاع، عن إبراهيـم، عن عبد الله،
+  قال: ما رأى صاحبـاً يوسف شيئاً، وإنـما كانا تـحالُـما لـيجرّبـا علـمه.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال قوم: إنـما سأله الفتـيان عن رؤيا كانا رأياها علـى صحة وحقـيقة،
+  وعلـى تصديق منهما لـيوسف لعلـمه بتعبـيرها. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن حميد، قال: ثنا سلـمة، عن ابن إسحاق، قال: لـما رأى الفتـيان يوسف، قالا: والله
+  يا فتـى لقد أحببناك حين رأيناك.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال:
+  ثنا سلـمة، عن ابن إسحاق، عن عبد الله، عن ابن أبـي نـجيح، عن مـجاهد: أن يوسف قال
+  لهم حين قالا له ذلك: أنشدكما الله أن لا تـحبـانـي فوالله ما أحبنـي أحد قطّ إلا دخـل
+  علـيّ من حبه بلاء، لقد أحبتنـي عمتـي فدخـل علـيّ من حبها بلاء، ثم لقد أحبنـي أبـي
+  فدخـل علـيّ بحبه بلاء، ثم لقد أحبتنـي زوجة صاحبـي هذا فدخـل علـيّ بحبها إياي بلاء،
+  فلا تـحبـانـي بـارك الله فـيكما قال: فأبـيا إلا حبه وإلفه حيث كان، وجعلا يعجبهما
+  ما يريان من فهمه وعقله، وقد كانا رأيا حين أدخلا السجن رؤيا، فرأى «مـجلث» أنه يحمل
+  فوق رأسه، خبزاً تأكل الطير منه، ورأى «نبو» أنه يعصر خمراً، فـاستفتـياه فـيها وقالا
+  له: { نَبِّئْنا بتأْوِيـلِهِ إنَّا نَرَاكَ مِنَ الـمُـحْسِنِـينَ } إن فعلت.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(12, 36)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(12,36)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَدَخَلَ مَعَهُ ٱلسِّجْنَ فَتَيَانِ قَالَ أَحَدُهُمَآ
+  إِنِّيۤ أَرَانِيۤ أَعْصِرُ خَمْراً وَقَالَ ٱلآخَرُ إِنِّي أَرَانِيۤ أَحْمِلُ فَوْقَ
+  رَأْسِي خُبْزاً تَأْكُلُ ٱلطَّيْرُ مِنْهُ نَبِّئْنَا بِتَأْوِيلِهِ إِنَّا نَرَاكَ
+  مِنَ ٱلْمُحْسِنِينَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">وعنـي بقوله: { أعْصِرُ خَمْراً
+  } أي إنـي أرى فـي نومي أنـي أعصر عنبـاً. وكذلك ذلك فـي قراءة ابن مسعود فـيـما ذكر
+  عنه.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن وكيع، قال: ثنا أبـي،
+  عن أبـي سلـمة الصائغ، عن إبراهيـم بن بشير الأنصاريّ، عن مـحمد بن الـحنفـية قال فـي
+  قراءة ابن مسعود: «إنّـي أَرَانِـي أعْصِرُ عِنَبـاً».</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وذكر
+  أن ذلك من لغة أهل عُمان، وأنهم يسمون العنب خمرا. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حُدثت عن الـحسين، قال: سمعت أبـا معاذ، يقول: ثنا عبـيد، قال: سمعت
+  الضحاك يقول فـي قوله: { إنّـي أرَانـي أعْصِرُ خَمْراً } يقول: أعصر عنبـاً، وهو بلغة
+  أهل عُمان، يسمون العنب خمراً.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
   أبو كريب، قال: ثنا وكيع وثنا ابن وكيع، قال: ثنا أبـي، عن سلـمة بن نبـيط، عن الضحاك:
-  { إنّـي أرَانـي أعْصِرُ خَمْراً } قال: عنبـاً، أرض كذا وكذا يدعون العنب خمراً.حدثنا
-  القاسم، قال: ثنا الـحسين، قال: ثنـي حجاج، عن ابن جريج، قال: قال ابن عبـاس: { إنّـي
-  أرَانـي أعْصِرُ خَمْراً } قال: عنبـاً.حُدثت عن الـمسيب بن شريك، عن أبـي حمزة، عن
-  عكرمة، قال: أتاه فقال: رأيت فـيـما يرى النائم أنـي غرست حَبَلَةً من عنب، فنبتت،
-  فخرج فـيه عناقـيد فعصرتهن، ثم سقـيتهنّ الـملك، فقال: تـمكث فـي السجن ثلاثة أيام،
-  ثم تـخرج فتسقـيه خمراً.وقوله: { وَقالَ الآخَرُ إنْـي أرَانِـي أحْمِلُ فَوْقَ رأسِي
-  خُبْزاً تَأْكُلُ الطَّيْرُ مِنْهُ نَبِّئْنا بتأْوِيـلهِ } يقول تعالـى ذكره: وقال
-  الآخر من الفتـيـين: إنـي أرانـي فـي منامي أحمل فوق رأسي خبزاً يقول: أحمل علـى رأسي،
-  فوضعت «فوق» مكان «علـى» { تَأْكُلُ الطَّيْرُ مِنْهُ } يعنـي من الـخبز.وقوله: { نَبِّئْنا
-  بتَأْوِيـلِهِ } يقول: أخبرنا بـما يؤول إلـيه ما أخبرناك أنا رأيناه فـي منامنا ويرجع
-  إلـيه. كما:حدثنـي الـحارث، قال: ثنا القاسم، قال: ثنا يزيد، عن ورقاء، عن ابن أبـي
-  نـجيح، عن مـجاهد: { نَبِّئْنا بتَأْوِيـلِهِ } قال: به. قال الـحارث، قال أبو عبـيد:
-  يعنـي مـجاهد: أن تأويـل الشيء: هو الشيء. قال: ومنه تأويـل الرؤيا، إنـما هو الشيء
-  الذي تئول إلـيه.وقوله: { إنَّا نَرَاكَ مِنَ الـمُـحْسِنِـينَ } اختلف أهل التأويـل
+  { إنّـي أرَانـي أعْصِرُ خَمْراً } قال: عنبـاً، أرض كذا وكذا يدعون العنب خمراً.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا القاسم، قال: ثنا الـحسين، قال: ثنـي حجاج، عن ابن جريج، قال:
+  قال ابن عبـاس: { إنّـي أرَانـي أعْصِرُ خَمْراً } قال: عنبـاً.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حُدثت عن الـمسيب بن شريك، عن أبـي حمزة، عن عكرمة، قال: أتاه فقال:
+  رأيت فـيـما يرى النائم أنـي غرست حَبَلَةً من عنب، فنبتت، فخرج فـيه عناقـيد فعصرتهن،
+  ثم سقـيتهنّ الـملك، فقال: تـمكث فـي السجن ثلاثة أيام، ثم تـخرج فتسقـيه خمراً.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقوله: { وَقالَ الآخَرُ إنْـي أرَانِـي أحْمِلُ فَوْقَ رأسِي خُبْزاً
+  تَأْكُلُ الطَّيْرُ مِنْهُ نَبِّئْنا بتأْوِيـلهِ } يقول تعالـى ذكره: وقال الآخر من
+  الفتـيـين: إنـي أرانـي فـي منامي أحمل فوق رأسي خبزاً يقول: أحمل علـى رأسي، فوضعت
+  «فوق» مكان «علـى» { تَأْكُلُ الطَّيْرُ مِنْهُ } يعنـي من الـخبز.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقوله: { نَبِّئْنا بتَأْوِيـلِهِ } يقول: أخبرنا بـما يؤول إلـيه
+  ما أخبرناك أنا رأيناه فـي منامنا ويرجع إلـيه. كما:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  الـحارث، قال: ثنا القاسم، قال: ثنا يزيد، عن ورقاء، عن ابن أبـي نـجيح، عن مـجاهد:
+  { نَبِّئْنا بتَأْوِيـلِهِ } قال: به. قال الـحارث، قال أبو عبـيد: يعنـي مـجاهد: أن
+  تأويـل الشيء: هو الشيء. قال: ومنه تأويـل الرؤيا، إنـما هو الشيء الذي تئول إلـيه.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقوله: { إنَّا نَرَاكَ مِنَ الـمُـحْسِنِـينَ } اختلف أهل التأويـل
   فـي معنى الإحسان الذي وصف به الفتـيان يوسف، فقال بعضهم: هو أنه كان يعود مريضهم،
-  ويعزي حزينهم، وإذا احتاج منهم إنسان جمَع له.\r\n\t\t\t\r\n\t\t\t1 2 3 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَدَخَلَ مَعَهُ ٱلسِّجْنَ فَتَيَانِ
-  قَالَ أَحَدُهُمَآ إِنِّيۤ أَرَانِيۤ أَعْصِرُ خَمْراً وَقَالَ ٱلآخَرُ إِنِّي أَرَانِيۤ
-  أَحْمِلُ فَوْقَ رَأْسِي خُبْزاً تَأْكُلُ ٱلطَّيْرُ مِنْهُ نَبِّئْنَا بِتَأْوِيلِهِ
-  إِنَّا نَرَاكَ مِنَ ٱلْمُحْسِنِينَ }ذكر من قال ذلك:حدثنا الـحسن بن مـحمد، قال: ثنا
-  سعيد بن منصور، قال: ثنا خـلف بن خـلـيفة، عن سلـمة بن نبـيط، عن الضحاك بن مزاحم،
-  قال: كنت جالسا معه ببلـخ، فسئل عن قوله: { نَبِّئْنا بَتأْوِيـلِهِ إنَّا نَرَاكَ
-  مِن الـمُـحْسِنِـينَ } قال: قـيـل له: ما كان إحسان يوسف؟ قال: كان إذا مرض إنسان
-  قام علـيه، وإذا احتاج جمع له، وإذا ضاق أوسع له.حدثنا إسحاق، عن أبـي إسرائيـل، قال:
-  ثنا خـلف بن خـلـيفة، عن سلـمة بن نبـيط، عن الضحاك، قال: سأل رجل الضحاك عن قوله:
+  ويعزي حزينهم، وإذا احتاج منهم إنسان جمَع له.</font></font>&#13;\t\t\t<label disabled=\"true\"
+  class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(12, 36)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(12,36)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَدَخَلَ مَعَهُ ٱلسِّجْنَ فَتَيَانِ قَالَ أَحَدُهُمَآ
+  إِنِّيۤ أَرَانِيۤ أَعْصِرُ خَمْراً وَقَالَ ٱلآخَرُ إِنِّي أَرَانِيۤ أَحْمِلُ فَوْقَ
+  رَأْسِي خُبْزاً تَأْكُلُ ٱلطَّيْرُ مِنْهُ نَبِّئْنَا بِتَأْوِيلِهِ إِنَّا نَرَاكَ
+  مِنَ ٱلْمُحْسِنِينَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا الـحسن بن مـحمد، قال: ثنا سعيد بن منصور، قال: ثنا خـلف بن
+  خـلـيفة، عن سلـمة بن نبـيط، عن الضحاك بن مزاحم، قال: كنت جالسا معه ببلـخ، فسئل عن
+  قوله: { نَبِّئْنا بَتأْوِيـلِهِ إنَّا نَرَاكَ مِن الـمُـحْسِنِـينَ } قال: قـيـل
+  له: ما كان إحسان يوسف؟ قال: كان إذا مرض إنسان قام علـيه، وإذا احتاج جمع له، وإذا
+  ضاق أوسع له.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا إسحاق، عن أبـي إسرائيـل،
+  قال: ثنا خـلف بن خـلـيفة، عن سلـمة بن نبـيط، عن الضحاك، قال: سأل رجل الضحاك عن قوله:
   { إنَّا نَرَاكَ مِنَ الـمُـحْسِنِـينَ } ما كان إحسانه؟ قال: كان إذا مرض إنسان فـي
-  السجن قام علـيه، وإذا احتاج جمع له، وإذا ضاق علـيه الـمكان أوسع له.حدثنا القاسم،
-  قال: ثنا الـحسين، قال: ثنـي حجاج، عن أبـي بكر بن عبد الله، عن قتادة، قوله: { إنَّا
-  نَرَاكَ مِنَ الـمُـحْسِنِـينَ } قال: بلغنا أن إحسانه أنه كان يداوي مريضهم، ويعزّي
-  حزينهم، ويجتهد لربه. وقال: لـما انتهى يوسف إلـى السجن وجد فـيه قوما قد انقطع رجاؤهم
-  واشتدّ بلاؤهم، فطال حزنهم، فجعل يقول: أبشروا واصبروا تؤجروا، إن لهذا أجراً، إن لهذا
-  ثوابـاً فقالوا: يا فتـى بـارك الله فـيك ما أحسن وجهك وأحسن خـلقك، لقد بورك لنا فـي
-  جوارك، ما نـحبّ أنا كنا فـي غير هذا منذ حبسنا لـما تـخبرنا من الأجر والكفَّـارة
-  والطهارة، فمن أنت يا فتـى؟ قال: أنا يوسف ابن صفـيّ الله يعقوب ابن ذبـيح الله إسحاق
-  بن إبراهيـم خـلـيـل الله. وكانت علـيه مـحبة، وقال له عامل السجن: يا فتـى والله لو
-  استطعت لـخـلـيت سبـيـلك، ولكن سأحسن جوارك وأحسن إسارك، فكن فـي أيّ بـيوت السجن شئت.حدثنا
+  السجن قام علـيه، وإذا احتاج جمع له، وإذا ضاق علـيه الـمكان أوسع له.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا القاسم، قال: ثنا الـحسين، قال: ثنـي حجاج، عن أبـي بكر بن عبد
+  الله، عن قتادة، قوله: { إنَّا نَرَاكَ مِنَ الـمُـحْسِنِـينَ } قال: بلغنا أن إحسانه
+  أنه كان يداوي مريضهم، ويعزّي حزينهم، ويجتهد لربه. وقال: لـما انتهى يوسف إلـى السجن
+  وجد فـيه قوما قد انقطع رجاؤهم واشتدّ بلاؤهم، فطال حزنهم، فجعل يقول: أبشروا واصبروا
+  تؤجروا، إن لهذا أجراً، إن لهذا ثوابـاً فقالوا: يا فتـى بـارك الله فـيك ما أحسن وجهك
+  وأحسن خـلقك، لقد بورك لنا فـي جوارك، ما نـحبّ أنا كنا فـي غير هذا منذ حبسنا لـما
+  تـخبرنا من الأجر والكفَّـارة والطهارة، فمن أنت يا فتـى؟ قال: أنا يوسف ابن صفـيّ
+  الله يعقوب ابن ذبـيح الله إسحاق بن إبراهيـم خـلـيـل الله. وكانت علـيه مـحبة، وقال
+  له عامل السجن: يا فتـى والله لو استطعت لـخـلـيت سبـيـلك، ولكن سأحسن جوارك وأحسن
+  إسارك، فكن فـي أيّ بـيوت السجن شئت.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
   أبو كريب، قال: ثنا وكيع، عن خـلف الأشجعي، عن سلـمة بن نبـيط، عن الضحاك فـي: { إنَّا
-  نَرَاكَ مِنَ الـمُـحْسِنِـينَ } قال: كان يوسع للرجل فـي مـجلسه، ويتعاهد الـمرضى.وقال
-  آخرون: معناه: { إنَّا نَرَاكَ مِنَ الـمُـحْسِنِـينَ } إذ نبأتنا بتأويـل رؤيانا هذه.
-  ذكر من قال ذلك:حدثنا ابن حميد، قال: ثنا سلـمة، عن ابن إسحاق، قال: استفتـياه فـي
-  رؤياهما، وقالا له: { نَبَئِّنْا بتَأْوِيـلِهِ إنَّا نَرَاكَ مِنَ الـمُـحْسِنِـينَ
-  } إن فعلت.وأولـى الأقوال فـي ذلك عندنا بـالصواب القول الذي ذكرناه عن الضحاك وقتادة.فإن
-  قال قائل: وما وجه الكلام إن كان الأمر إذن كما قلت، وقد علـمت أن مسألتهما يوسف أن
-  ينبئهما بتأويـل رؤياهما لـيست من الـخبر عن صفته بأنه يعود الـمريض ويقوم علـيه ويحسن
-  إلـى من احتاج فـي شيء، وإنـما يقال للرجل: نبئنا بتأويـل هذا فإنك عالـم، وهذا من
-  الـمواضع التـي تـحسن بـالوصف بـالعلـم لا بغيره؟قـيـل: إن وجه ذلك أنهما قالا له:
+  نَرَاكَ مِنَ الـمُـحْسِنِـينَ } قال: كان يوسع للرجل فـي مـجلسه، ويتعاهد الـمرضى.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال آخرون: معناه: { إنَّا نَرَاكَ مِنَ الـمُـحْسِنِـينَ } إذ نبأتنا
+  بتأويـل رؤيانا هذه. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن حميد، قال: ثنا سلـمة، عن ابن إسحاق، قال: استفتـياه فـي رؤياهما، وقالا له: {
+  نَبَئِّنْا بتَأْوِيـلِهِ إنَّا نَرَاكَ مِنَ الـمُـحْسِنِـينَ } إن فعلت.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وأولـى الأقوال فـي ذلك عندنا بـالصواب القول الذي ذكرناه عن الضحاك
+  وقتادة.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">فإن قال قائل: وما وجه الكلام إن
+  كان الأمر إذن كما قلت، وقد علـمت أن مسألتهما يوسف أن ينبئهما بتأويـل رؤياهما لـيست
+  من الـخبر عن صفته بأنه يعود الـمريض ويقوم علـيه ويحسن إلـى من احتاج فـي شيء، وإنـما
+  يقال للرجل: نبئنا بتأويـل هذا فإنك عالـم، وهذا من الـمواضع التـي تـحسن بـالوصف بـالعلـم
+  لا بغيره؟</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">قـيـل: إن وجه ذلك أنهما قالا له:
   نبئنا بتأويـل رؤيانا مـحسناً إلـينا فـي إخبـارك إيانا بذلك، كما نراك تـحسن فـي سائر
-  أفعالك، إنا نراك من الـمـحسنـين.\r\n\t\t\t\r\n\t\t\t1 2 3 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  أفعالك، إنا نراك من الـمـحسنـين.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">3 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a id=\"NextClass\"/></td></tr></table></center></div></section>"
 

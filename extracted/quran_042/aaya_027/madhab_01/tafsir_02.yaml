@@ -1,4 +1,4 @@
-location:
+position:
   sura: '042'
   aaya: '027'
   madhab: '01'
@@ -7,22 +7,46 @@ meta:
   title: تفسير الكشاف
   author: الزمخشري
   year: '538'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَلَوْ بَسَطَ
-  ٱللَّهُ ٱلرِّزْقَ لِعِبَادِهِ لَبَغَوْاْ فِي ٱلأَرْضِ وَلَـٰكِن يُنَزِّلُ بِقَدَرٍ
-  مَّا يَشَآءُ إِنَّهُ بِعِبَادِهِ خَبِيرٌ بَصِيرٌ }{ لَبَغَوْاْ } من البغي وهو الظلم،
-  أي: لبغى هذا على ذاك، وذاك على هذا، لأنّ الغنى مبطرة مأشرة، وكفى بحال قارون عبرة.
-  ومنه قوله عليه الصلاة والسلام:(994) \" أخوف ما أخاف على أمّتي زهرة الدنيا وكثرتها
-  \" ولبعض العرب:وَقَدْ جَعَلَ الْوَسْمِيَّ يَنْبُتُ بَيْنَنَا   وَبَيْنَ بني رُومَانَ
-  نَبْعاً وَشَوْحَطَايعني: أنهم أحيوا فحدّثوا أنفسهم بالبغي والتفانن. أو من البغي
-  وهو البذخ والكبر، أي: لتكبروا في الأرض، وفعلوا ما يتبع الكبر من العلو فيها والفساد.
-  وقيل: نزلت في قوم من أهل الصفة تمنوا سعة الرزق والغنى. قال خباب بن الأرت: فينا نزلت،
-  وذلك أنا نظرنا إلى أموال بني قريظة والنضير وبني قينقاع فتمنيناها { بِقَدَرٍ } بتقدير.
-  يقال قدره قدراً وقدرا. { خَبِيرُ بَصِيرٌ } يعرف ما يؤول إليه أحوالهم، فيقدّر لهم
-  ما هو أصلح لهم وأقرب إلى جمع شملهم، فيفقر ويغنى، ويمنع ويعطي، ويقبض ويبسط كما توجبه
-  الحكمة الربانية. ولو أغناهم جميعاً لبغوا، ولو أفقرهم لهلكوا. فإن قلت: قد نرى الناس
-  يبغي بعضهم على بعض، ومنهم مبسوط لهم، ومنهم مقبوض عنهم؛ فإن كان المبسوط لهم لم يبغون،
-  فلم بسط لهم: وإن كان المقبوض عنهم يبغون فقد يكون البغي بدون البسط، فلم شرطه؟ قلت:
-  لا شبهة في أنّ البغي مع الفقر أقل ومع البسط أكثر وأغلب، وكلاهما سبب ظاهر للإقدام
-  على البغي والإحجام عنه، فلو عم البسط لغلب البغي حتى ينقلب الأمر إلى عكس ما عليه
-  الآن.\r\n\t\t\t\r\n\t\t\t</section>"
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(42, 27)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(42,27)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَلَوْ
+  بَسَطَ ٱللَّهُ ٱلرِّزْقَ لِعِبَادِهِ لَبَغَوْاْ فِي ٱلأَرْضِ وَلَـٰكِن يُنَزِّلُ
+  بِقَدَرٍ مَّا يَشَآءُ إِنَّهُ بِعِبَادِهِ خَبِيرٌ بَصِيرٌ</a> <b>}</b></font>, <br/>,
+  <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">{
+  لَبَغَوْاْ } من البغي وهو الظلم، أي: لبغى هذا على ذاك، وذاك على هذا، لأنّ الغنى
+  مبطرة مأشرة، وكفى بحال قارون عبرة. ومنه قوله عليه الصلاة والسلام:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">(994)</font></font><b><font class=\"TextResultArabic\"><font color=\"Red\">
+  \" أخوف ما أخاف على أمّتي زهرة الدنيا وكثرتها \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">ولبعض العرب:</font></font><table class=\"TextArabic\" dir=\"rtl\"><tr
+  class=\"TextArabic\"><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">وَقَدْ جَعَلَ الْوَسْمِيَّ يَنْبُتُ بَيْنَنَا</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">وَبَيْنَ بني رُومَانَ نَبْعاً وَشَوْحَطَا</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">يعني: أنهم أحيوا فحدّثوا أنفسهم
+  بالبغي والتفانن. أو من البغي وهو البذخ والكبر، أي: لتكبروا في الأرض، وفعلوا ما يتبع
+  الكبر من العلو فيها والفساد. وقيل: نزلت في قوم من أهل الصفة تمنوا سعة الرزق والغنى.
+  قال خباب بن الأرت: فينا نزلت، وذلك أنا نظرنا إلى أموال بني قريظة والنضير وبني قينقاع
+  فتمنيناها { بِقَدَرٍ } بتقدير. يقال قدره قدراً وقدرا. { خَبِيرُ بَصِيرٌ } يعرف ما
+  يؤول إليه أحوالهم، فيقدّر لهم ما هو أصلح لهم وأقرب إلى جمع شملهم، فيفقر ويغنى، ويمنع
+  ويعطي، ويقبض ويبسط كما توجبه الحكمة الربانية. ولو أغناهم جميعاً لبغوا، ولو أفقرهم
+  لهلكوا. فإن قلت: قد نرى الناس يبغي بعضهم على بعض، ومنهم مبسوط لهم، ومنهم مقبوض عنهم؛
+  فإن كان المبسوط لهم لم يبغون، فلم بسط لهم: وإن كان المقبوض عنهم يبغون فقد يكون البغي
+  بدون البسط، فلم شرطه؟ قلت: لا شبهة في أنّ البغي مع الفقر أقل ومع البسط أكثر وأغلب،
+  وكلاهما سبب ظاهر للإقدام على البغي والإحجام عنه، فلو عم البسط لغلب البغي حتى ينقلب
+  الأمر إلى عكس ما عليه الآن.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

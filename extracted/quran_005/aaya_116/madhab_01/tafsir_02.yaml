@@ -1,4 +1,4 @@
-location:
+position:
   sura: '005'
   aaya: '116'
   madhab: '01'
@@ -7,14 +7,32 @@ meta:
   title: تفسير الكشاف
   author: الزمخشري
   year: '538'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَإِذْ قَالَ ٱللَّهُ
-  يٰعِيسَى ٱبْنَ مَرْيَمَ أَأَنتَ قُلتَ لِلنَّاسِ ٱتَّخِذُونِي وَأُمِّيَ إِلَـٰهَيْنِ
-  مِن دُونِ ٱللَّهِ قَالَ سُبْحَانَكَ مَا يَكُونُ لِيۤ أَنْ أَقُولَ مَا لَيْسَ لِي
-  بِحَقٍّ إِن كُنتُ قُلْتُهُ فَقَدْ عَلِمْتَهُ تَعْلَمُ مَا فِي نَفْسِي وَلاَ أَعْلَمُ
-  مَا فِي نَفْسِكَ إِنَّكَ أَنتَ عَلاَّمُ ٱلْغُيُوبِ }{ سُبْحَـٰنَكَ } من أن يكون
-  لك شريك { مَا يَكُونُ لِى } ما ينبغي لي { أَنْ أَقُولَ } قولاً لا يحق لي أن أقوله
-  { فِى نَفْسِى } في قلبي: والمعنى: تعلم معلومي ولا أعلم معلومك، ولكنه سلك بالكلام
-  طريق المشاكلة وهو من فصيح الكلام وبينه، فقيل: { فِى نَفْسِكَ } لقوله في نفسي { إِنَّكَ
-  أَنتَ عَلَّـٰمُ ٱلْغُيُوبِ } تقرير للجملتين معاً، لأن ما انطوت عليه النفوس من جملة
-  الغيوب، ولأن ما يعلمه علام الغيوب لا ينتهي إليه علم أحد.\r\n\t\t\t\r\n\t\t\t</section>"
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(5, 116)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(5,116)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَإِذْ
+  قَالَ ٱللَّهُ يٰعِيسَى ٱبْنَ مَرْيَمَ أَأَنتَ قُلتَ لِلنَّاسِ ٱتَّخِذُونِي وَأُمِّيَ
+  إِلَـٰهَيْنِ مِن دُونِ ٱللَّهِ قَالَ سُبْحَانَكَ مَا يَكُونُ لِيۤ أَنْ أَقُولَ مَا
+  لَيْسَ لِي بِحَقٍّ إِن كُنتُ قُلْتُهُ فَقَدْ عَلِمْتَهُ تَعْلَمُ مَا فِي نَفْسِي
+  وَلاَ أَعْلَمُ مَا فِي نَفْسِكَ إِنَّكَ أَنتَ عَلاَّمُ ٱلْغُيُوبِ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">{ سُبْحَـٰنَكَ } من أن يكون لك شريك { مَا يَكُونُ لِى } ما ينبغي
+  لي { أَنْ أَقُولَ } قولاً لا يحق لي أن أقوله { فِى نَفْسِى } في قلبي: والمعنى: تعلم
+  معلومي ولا أعلم معلومك، ولكنه سلك بالكلام طريق المشاكلة وهو من فصيح الكلام وبينه،
+  فقيل: { فِى نَفْسِكَ } لقوله في نفسي { إِنَّكَ أَنتَ عَلَّـٰمُ ٱلْغُيُوبِ } تقرير
+  للجملتين معاً، لأن ما انطوت عليه النفوس من جملة الغيوب، ولأن ما يعلمه علام الغيوب
+  لا ينتهي إليه علم أحد.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

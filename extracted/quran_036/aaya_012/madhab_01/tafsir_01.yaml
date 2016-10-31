@@ -1,4 +1,4 @@
-location:
+position:
   sura: '036'
   aaya: '012'
   madhab: '01'
@@ -7,56 +7,134 @@ meta:
   title: تفسير جامع البيان في تفسير القرآن
   author: الطبري
   year: '310'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ إِنَّا نَحْنُ
-  نُحْيِي ٱلْمَوْتَىٰ وَنَكْتُبُ مَا قَدَّمُواْ وَآثَارَهُمْ وَكُلَّ شيْءٍ أَحْصَيْنَاهُ
-  فِيۤ إِمَامٍ مُّبِينٍ }يقول تعالـى ذكره: { إنَّا نَـحْنُ نُـحْيـي الـمَوْتـى } من
-  خـلقنا { وَنَكْتُبُ ما قَدَّمُوا } فـي الدنـيا من خير وشرّ، وصالـح الأعمال وسيئها.
-  وبنـحو الذي قلنا فـي ذلك قال أهل التأويـل. ذكر من قال ذلك:حدثنا بشر، قال: ثنا يزيد،
-  قال: ثنا سعيد، عن قتادة، قوله: { إنَّا نَـحْنُ نُـحْيِـي الـمَوْتَـى وَنَكْتُبُ
-  ما قَدَّمُوا } من عمل.حدثنـي يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، فـي قوله:
-  { وَنَكْتُبُ ما قَدَّمُوا } قال: ما عملوا.حدثنـي مـحمد بن عمرو، قال: ثنا أبو عاصم،
-  قال: ثنا عيسى وحدثنـي الـحارث، قال: ثنا الـحسن، قال: ثنا ورقاء، جميعاً عن ابن أبـي
-  نـجيح، عن مـجاهد، قوله: { ما قَدَّمُوا } قال: أعمالهم.وقوله: { وآثارَهُمْ } يعنـي:
-  وآثار خُطاهم بأرجلهم، وذكر أن هذه الآية نزلت فـي قوم أرادوا أن يقربوا من مسجد رسول
-  الله صلى الله عليه وسلم، لـيقرب علـيهم. ذكر من قال ذلك:حدثنا نصر بن علـيّ الـجهضميّ،
-  قال: ثنا أبو أحمد الزُّبـيري، قال: ثنا إسرائيـل، عن سماك، عن عكرمة، عن ابن عبـاس،
-  قال: كانت منازل الأنصار متبـاعدة من الـمسجد، فأرادوا أن ينتقلوا إلـى الـمسجد فنزلت
-  { وَنَكْتُبُ ما قَدَّمُوا وآثارَهُمْ } فقالوا: نثبت فـي مكاننا.حدثنا ابن وكيع، قال:
-  ثنا أبـي، عن إسرائيـل، عن سماك، عن عكرمة، عن ابن عبـاس، قال: كانت الأنصار بعيدة
-  منازلهم من الـمسجد، فأرادوا أن ينتقلوا، قال: فنزلت { وَنَكْتُبُ ما قَدَّمُوا وآثارَهُمْ
-  } فثبتوا.حدثنا ابن الـمثنى، قال: ثنا عبد الصمد، قال: ثنا شعبة، قال: ثنا الـجريريّ،
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(36, 12)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(36,12)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">إِنَّا
+  نَحْنُ نُحْيِي ٱلْمَوْتَىٰ وَنَكْتُبُ مَا قَدَّمُواْ وَآثَارَهُمْ وَكُلَّ شيْءٍ
+  أَحْصَيْنَاهُ فِيۤ إِمَامٍ مُّبِينٍ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\"
+  dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">يقول تعالـى ذكره:
+  { إنَّا نَـحْنُ نُـحْيـي الـمَوْتـى } من خـلقنا { وَنَكْتُبُ ما قَدَّمُوا } فـي
+  الدنـيا من خير وشرّ، وصالـح الأعمال وسيئها. وبنـحو الذي قلنا فـي ذلك قال أهل التأويـل.
+  ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا بشر، قال: ثنا يزيد، قال:
+  ثنا سعيد، عن قتادة، قوله: { إنَّا نَـحْنُ نُـحْيِـي الـمَوْتَـى وَنَكْتُبُ ما قَدَّمُوا
+  } من عمل.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي يونس، قال: أخبرنا ابن وهب،
+  قال: قال ابن زيد، فـي قوله: { وَنَكْتُبُ ما قَدَّمُوا } قال: ما عملوا.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي مـحمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى وحدثنـي الـحارث،
+  قال: ثنا الـحسن، قال: ثنا ورقاء، جميعاً عن ابن أبـي نـجيح، عن مـجاهد، قوله: { ما
+  قَدَّمُوا } قال: أعمالهم.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقوله: { وآثارَهُمْ } يعنـي: وآثار
+  خُطاهم بأرجلهم، وذكر أن هذه الآية نزلت فـي قوم أرادوا أن يقربوا من مسجد رسول الله
+  صلى الله عليه وسلم، لـيقرب علـيهم. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  نصر بن علـيّ الـجهضميّ، قال: ثنا أبو أحمد الزُّبـيري، قال: ثنا إسرائيـل، عن سماك،
+  عن عكرمة، عن ابن عبـاس، قال: كانت منازل الأنصار متبـاعدة من الـمسجد، فأرادوا أن
+  ينتقلوا إلـى الـمسجد فنزلت { وَنَكْتُبُ ما قَدَّمُوا وآثارَهُمْ } فقالوا: نثبت فـي
+  مكاننا.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن وكيع، قال: ثنا أبـي،
+  عن إسرائيـل، عن سماك، عن عكرمة، عن ابن عبـاس، قال: كانت الأنصار بعيدة منازلهم من
+  الـمسجد، فأرادوا أن ينتقلوا، قال: فنزلت { وَنَكْتُبُ ما قَدَّمُوا وآثارَهُمْ } فثبتوا.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن الـمثنى، قال: ثنا عبد الصمد، قال: ثنا شعبة، قال: ثنا الـجريريّ،
   عن أبـي نضرة، عن جابر، قال: أراد بنو سَلِـمة قرب الـمسجد، قال: فقال لهم رسول الله
-  صلى الله عليه وسلم: \" يا بَنِـي سَلِـمَةَ دِيارَكُمْ، إنَّها تُكْتَبُ آثارُكُمْ
-  \" حدثنا ابن عبد الأعلـى، قال: ثنا معتـمر، قال: سمعت كهمسا يحدّث، عن أبـي نضرة،
-  عن جابر، قال: أراد بنو سَلِـمة أن يتـحوّلوا إلـى قُرب الـمسجد، قال: والبقاع خالـية،
-  فبلغ ذلك النبـيّ صلى الله عليه وسلم، فقال: \" يا بَنِـي سَلِـمَةَ دِيارَكُمْ إنَّها
-  تُكْتَبُ آثارُكُمْ \" قال: فأقاموا وقالوا: ما يسرّنا أنا كنا تـحوّلنا.حدثنا سلـيـمان
-  بن عمر بن خالد الرقـي، قال: ثنا ابن الـمبـارك، عن سفـيان، عن طريف، عن أبـي نضرة،
-  عن أبـي سعيد الـخُدريّ، قال: شكت بنو سلِـمة بُعد منازلهم إلـى النبـيّ صلى الله عليه
-  وسلم، فنزلت: { إنَّا نَـحْنُ نُـحْيِـي الـمَوْتَـى وَنَكْتُبُ ما قَدَّمُوا وآثارَهُمْ
-  } فقال: \" عَلَـيْكُمْ مَنازلَكُمْ تُكْتَبُ آثارُكم \" حدثنا ابن حميد، قال: ثنا
-  أبو تُـمَيـلة، قال: ثنا الـحسين، عن ثابت، قال: مشيت مع أنس، فأسرعت الـمشي، فأخذ
-  بـيدي، فمشينا رُويداً، فلـما قضينا الصلاة قال أنس: مشيت مع زيد بن ثابت، فأسرعت الـمشي،
-  فقال: يا أنس أما شعرت أن الآثار تكتب؟\r\n\t\t\t\r\n\t\t\t1 2 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ إِنَّا نَحْنُ نُحْيِي ٱلْمَوْتَىٰ
-  وَنَكْتُبُ مَا قَدَّمُواْ وَآثَارَهُمْ وَكُلَّ شيْءٍ أَحْصَيْنَاهُ فِيۤ إِمَامٍ
-  مُّبِينٍ }حدثنـي يعقوب، قال: ثنا ابن عُلَـية، عن يونس، عن الـحسن أن بنـي سَلِـمة
+  صلى الله عليه وسلم:</font></font><b><font class=\"TextResultArabic\"><font color=\"Red\">
+  \" يا بَنِـي سَلِـمَةَ دِيارَكُمْ، إنَّها تُكْتَبُ آثارُكُمْ \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن عبد الأعلـى، قال: ثنا معتـمر، قال: سمعت كهمسا يحدّث، عن
+  أبـي نضرة، عن جابر، قال: أراد بنو سَلِـمة أن يتـحوّلوا إلـى قُرب الـمسجد، قال: والبقاع
+  خالـية، فبلغ ذلك النبـيّ صلى الله عليه وسلم، فقال:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" يا بَنِـي سَلِـمَةَ دِيارَكُمْ إنَّها تُكْتَبُ آثارُكُمْ \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\">قال: فأقاموا وقالوا: ما يسرّنا
+  أنا كنا تـحوّلنا.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا سلـيـمان بن عمر بن خالد الرقـي،
+  قال: ثنا ابن الـمبـارك، عن سفـيان، عن طريف، عن أبـي نضرة، عن أبـي سعيد الـخُدريّ،
+  قال: شكت بنو سلِـمة بُعد منازلهم إلـى النبـيّ صلى الله عليه وسلم، فنزلت: { إنَّا
+  نَـحْنُ نُـحْيِـي الـمَوْتَـى وَنَكْتُبُ ما قَدَّمُوا وآثارَهُمْ } فقال:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" عَلَـيْكُمْ مَنازلَكُمْ تُكْتَبُ
+  آثارُكم \" </font></font></b><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن حميد، قال: ثنا أبو تُـمَيـلة،
+  قال: ثنا الـحسين، عن ثابت، قال: مشيت مع أنس، فأسرعت الـمشي، فأخذ بـيدي، فمشينا رُويداً،
+  فلـما قضينا الصلاة قال أنس: مشيت مع زيد بن ثابت، فأسرعت الـمشي، فقال: يا أنس أما
+  شعرت أن الآثار تكتب؟</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\"
+  border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE:
+  none; BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(36, 12)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(36,12)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">إِنَّا نَحْنُ نُحْيِي ٱلْمَوْتَىٰ وَنَكْتُبُ مَا
+  قَدَّمُواْ وَآثَارَهُمْ وَكُلَّ شيْءٍ أَحْصَيْنَاهُ فِيۤ إِمَامٍ مُّبِينٍ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي يعقوب، قال: ثنا ابن عُلَـية، عن يونس، عن الـحسن أن بنـي سَلِـمة
   كانت دورهم قاصية عن الـمسجد، فهموا أن يتـحوّلوا قرب الـمسجد، فـيشهدون الصلاة مع
-  النبـيّ صلى الله عليه وسلم، فقال لهم النبـيّ صلى الله عليه وسلم: \" ألا تَـحْتَسِبُونَ
-  آثارَكُمْ يا بَنـي سَلِـمَةَ؟ \" فمكثوا فـي ديارهم.حدثنا ابن حميد، قال: ثنا حكام،
-  عن عنبسة، عن مـحمد بن عبد الرحمن، عن القاسم ابن أبـي بَزَّة، عن مـجاهد، فـي قوله
-  { ما قَدَّمُوا وآثارَهُمْ } قال: خُطَاهم بأرجلهم.حدثنـي مـحمد بن عمرو، قال: ثنا
-  أبو عاصم، قال: ثنا عيسى وحدثنـي الـحارث، قال: ثنا الـحسن، قال: ثنا ورقاء، جميعاً
-  عن ابن أبـي نـجيح، عن مـجاهد { وآثارَهُمْ } قال: خطاهم.حدثنا بشر، قال: ثنا يزيد،
-  قال: ثنا سعيد، عن قتادة { وآثارَهُمْ } قال: قال الـحسن: وآثارهم قال: خُطَاهم. وقال
-  قتادة: لو كان مُغْفِلاً شيئاً من شأنك يا ابن آدم أغفل ما تعفّـي الرياح من هذه الآثار.وقوله:
-  { وكُلَّ شَيْء أحْصَيْناهُ فـي إمام مُبِـينٍ } يقول تعالـى ذكره: وكل شيء كان أو
-  هو كائن أحصيناه، فأثبتناه فـي أمّ الكتاب، وهو الإمام الـمبـين. وقـيـل: { مُبـين
-  } ، لأنه يبـين عن حقـيقة جميع ما أثبت فـيه. وبنـحو الذي قلنا فـي ذلك قال أهل التأويـل.
-  ذكر من قال ذلك:حدثنا ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا سفـيان، عن منصور، عن
-  مـجاهد { فـي إمامٍ مُبِـينٍ } قال: فـي أمّ الكتاب.حدثنا بشر، قال: ثنا يزيد، قال:
-  ثنا سعيد، عن قتادة، قوله: { وكُلَّ شَيْءٍ أحْصَيْنَاهُ فِـي إمامٍ مُبِـينٍ } كلّ
-  شيء مـحصيٌّ عند الله فـي كتاب.حدثنـي يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد،
-  فـي قوله: { وكُلَّ شَيْء أحْصَيْناهُ فِـي إمام مُبِـينٍ } قال: أمّ الكتاب التـي
-  عند الله فـيها الأشياء كلها هي الإمام الـمبـين.\r\n\t\t\t\r\n\t\t\t1 2 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  النبـيّ صلى الله عليه وسلم، فقال لهم النبـيّ صلى الله عليه وسلم:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" ألا تَـحْتَسِبُونَ آثارَكُمْ
+  يا بَنـي سَلِـمَةَ؟ \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">فمكثوا فـي ديارهم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن حميد، قال: ثنا حكام، عن عنبسة، عن مـحمد بن عبد الرحمن، عن القاسم ابن أبـي بَزَّة،
+  عن مـجاهد، فـي قوله { ما قَدَّمُوا وآثارَهُمْ } قال: خُطَاهم بأرجلهم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي مـحمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى وحدثنـي الـحارث،
+  قال: ثنا الـحسن، قال: ثنا ورقاء، جميعاً عن ابن أبـي نـجيح، عن مـجاهد { وآثارَهُمْ
+  } قال: خطاهم.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا بشر، قال: ثنا يزيد، قال:
+  ثنا سعيد، عن قتادة { وآثارَهُمْ } قال: قال الـحسن: وآثارهم قال: خُطَاهم. وقال قتادة:
+  لو كان مُغْفِلاً شيئاً من شأنك يا ابن آدم أغفل ما تعفّـي الرياح من هذه الآثار.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقوله: { وكُلَّ شَيْء أحْصَيْناهُ فـي إمام مُبِـينٍ } يقول تعالـى
+  ذكره: وكل شيء كان أو هو كائن أحصيناه، فأثبتناه فـي أمّ الكتاب، وهو الإمام الـمبـين.
+  وقـيـل: { مُبـين } ، لأنه يبـين عن حقـيقة جميع ما أثبت فـيه. وبنـحو الذي قلنا فـي
+  ذلك قال أهل التأويـل. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا سفـيان، عن منصور، عن مـجاهد { فـي إمامٍ
+  مُبِـينٍ } قال: فـي أمّ الكتاب.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: { وكُلَّ شَيْءٍ أحْصَيْنَاهُ
+  فِـي إمامٍ مُبِـينٍ } كلّ شيء مـحصيٌّ عند الله فـي كتاب.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، فـي قوله: { وكُلَّ شَيْء أحْصَيْناهُ
+  فِـي إمام مُبِـينٍ } قال: أمّ الكتاب التـي عند الله فـيها الأشياء كلها هي الإمام
+  الـمبـين.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section>"
 

@@ -1,4 +1,4 @@
-location:
+position:
   sura: '047'
   aaya: '021'
   madhab: '01'
@@ -7,58 +7,136 @@ meta:
   title: تفسير جامع البيان في تفسير القرآن
   author: الطبري
   year: '310'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَيَقُولُ ٱلَّذِينَ
-  آمَنُواْ لَوْلاَ نُزِّلَتْ سُورَةٌ فَإِذَآ أُنزِلَتْ سُورَةٌ مُّحْكَمَةٌ وَذُكِرَ
-  فِيهَا ٱلْقِتَالُ رَأَيْتَ ٱلَّذِينَ فِي قُلُوبِهِمْ مَّرَضٌ يَنظُرُونَ إِلَيْكَ
-  نَظَرَ ٱلْمَغْشِيِّ عَلَيْهِ مِنَ ٱلْمَوْتِ فَأَوْلَىٰ لَهُمْ } * { طَاعَةٌ وَقَوْلٌ
-  مَّعْرُوفٌ فَإِذَا عَزَمَ ٱلأَمْرُ فَلَوْ صَدَقُواْ ٱللَّهَ لَكَانَ خَيْراً لَّهُمْ
-  }يقول تعالى ذكره: ويقول الذين صدّقوا الله ورسوله: هلا نزلت سورة من الله تأمرنا بجهاد
-  أعداء الله من الكفار { فإذَا أُنْزِلَتْ سُورَةٌ مُحْكَمَةٌ } يعني: أنها محكمة بالبيان
-  والفرائض. وذُكر أن ذلك في قراءة عبد الله «فإذَا أُنْزِلَتْ سُورةٌ مُحْدَثَةٌ».وقوله:
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(47, 20)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(47,20)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَيَقُولُ
+  ٱلَّذِينَ آمَنُواْ لَوْلاَ نُزِّلَتْ سُورَةٌ فَإِذَآ أُنزِلَتْ سُورَةٌ مُّحْكَمَةٌ
+  وَذُكِرَ فِيهَا ٱلْقِتَالُ رَأَيْتَ ٱلَّذِينَ فِي قُلُوبِهِمْ مَّرَضٌ يَنظُرُونَ
+  إِلَيْكَ نَظَرَ ٱلْمَغْشِيِّ عَلَيْهِ مِنَ ٱلْمَوْتِ فَأَوْلَىٰ لَهُمْ</a> <b>}
+  * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">طَاعَةٌ
+  وَقَوْلٌ مَّعْرُوفٌ فَإِذَا عَزَمَ ٱلأَمْرُ فَلَوْ صَدَقُواْ ٱللَّهَ لَكَانَ خَيْراً
+  لَّهُمْ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">يقول تعالى ذكره: ويقول الذين صدّقوا
+  الله ورسوله: هلا نزلت سورة من الله تأمرنا بجهاد أعداء الله من الكفار { فإذَا أُنْزِلَتْ
+  سُورَةٌ مُحْكَمَةٌ } يعني: أنها محكمة بالبيان والفرائض. وذُكر أن ذلك في قراءة عبد
+  الله «فإذَا أُنْزِلَتْ سُورةٌ مُحْدَثَةٌ».</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقوله:
   { وَذُكِرَ فِيها القِتالُ } يقول: وذُكر فيها الأمر بقتال المشركين. وكان قتادة يقول
-  في ذلك ما:حدثني بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: { وَيَقُولُ الَّذِينَ
-  آمَنُوا لَوْلا نُزّلَتْ سُورَةٌ فإذَا أُنْزِلَتْ سُورَةٌ مُحْكَمَةٌ وَذُكِرَ فِيها
-  القِتالُ } قال: كلّ سورة ذُكر فيها الجهاد فهي محكمة، وهي أشدّ القرآن على المنافقين.حدثنا
+  في ذلك ما:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثني بشر، قال: ثنا يزيد، قال:
+  ثنا سعيد، عن قتادة، قوله: { وَيَقُولُ الَّذِينَ آمَنُوا لَوْلا نُزّلَتْ سُورَةٌ
+  فإذَا أُنْزِلَتْ سُورَةٌ مُحْكَمَةٌ وَذُكِرَ فِيها القِتالُ } قال: كلّ سورة ذُكر
+  فيها الجهاد فهي محكمة، وهي أشدّ القرآن على المنافقين.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
   ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة: { وَذُكِرَ فِيها القِتالُ }
-  قال: كل سورة ذُكر فيها القتال فهي محكمة.وقوله: { رأيْتَ الَّذِينَ في قُلُوبِهِمْ
-  مَرَضٌ } يقول: رأيت الذين في قلوبهم شك في دين الله وضعف { يَنْظُرُونَ إِلَيْكَ }
-  يا محمد، { نَظَرَ المَغْشِيِّ عَلَيْهِ مِنَ المَوْتِ } ، خوفاً أن تغزيهم وتأمرهم
-  بالجهاد مع المسلمين، فهم خوفاً من ذلك وتجبنا عن لقاء العدوّ ينظرون إليك نظر المغشيّ
-  عليه الذي قد صرع. وإنما عنى بقوله: { مِنَ المَوْتِ } من خوف الموت، وكان هذا فعل
-  أهل النفاق. كالذي:حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله: {
-  يَنْظُرُونَ إلَيْكَ نَظَرَ المَغْشِيّ عَلَيْهِ مِنَ المَوْتِ } قال: هؤلاء المنافقون
-  طبع الله على قلوبهم، فلا يفقهون ما يقول النبيّ صلى الله عليه وسلم.وقوله: { فَأَوْلَى
-  لَهُمْ } يقول تعالى ذكره: فأولى لهؤلاء الذين في قلوبهم مرض.وقوله: فأوْلَى لَهُمْ
-  وعيد توعَّد الله به هؤلاء المنافقين. كما:حدثنا محمد بن عبد الأعلى، قال: ثنا ابن
-  ثور، عن معمر، عن قتادة { فَأَوْلَى لَهُمْ } قال: هذه وعيد، فأولى لهم، ثم انقطع الكلام
-  فقال: { طَاعَةٌ وقَوْلٌ مَعْرُوفٌ }.حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن
-  قتادة، قوله: { فَأَوْلَى لَهُمْ } قال: وعيد كما تسمعون.وقوله: { طاعَةٌ وَقَوْلٌ
-  مَعْرُوفٌ } وهذا خبر من الله تعالى ذكره عن قيل هؤلاء المنافقين من قبل أن تنزل سورة
-  محكمة، ويذكر فيها القتال، وأنهم إذا قيل لهم: إن الله مفترض عليكم الجهاد، قالوا:
-  سمع وطاعة، فقال الله عزّ وجلّ لهم { إذَا أنْزلَتْ سُورَةٌ } وفُرض القتال فيها عليهم،
-  فشقّ ذلك عليهم، وكرهوه { طاعَةٌ وَقَوْلٌ مَعْرُوفٌ } قبل وجوب الفرض عليكم، فإذا
-  عزم الأمر كرهتموه وشقّ عليكم.وقوله: { طاعَةٌ وَقَوْلٌ مَعْرُوفٌ } مرفوع بمضمر، وهو
-  قولكم قبل نزول فرض القتال { طاعَةٌ وَقَوْلٌ مَعْرُوفٌ }.ورُوي عن ابن عباس بإسناد
-  غيرِ مرتضى أنه قال: قال الله تعالى: { فَأَوْلَى لَهُمْ } ثم قال للذين آمنوا منهم
-  { طاعَةٌ وَقَوْلٌ مَعْرُوفٌ } فعلى هذا القول تمام الوعيد فأولى، ثم يستأنف بعد، فيقال
-  لهم { طاعَةٌ وَقَوْلٌ مَعْرُوفٌ } فتكون الطاعة مرفوعة بقوله: لهم.\r\n\t\t\t\r\n\t\t\t1 2 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَيَقُولُ ٱلَّذِينَ آمَنُواْ لَوْلاَ
-  نُزِّلَتْ سُورَةٌ فَإِذَآ أُنزِلَتْ سُورَةٌ مُّحْكَمَةٌ وَذُكِرَ فِيهَا ٱلْقِتَالُ
-  رَأَيْتَ ٱلَّذِينَ فِي قُلُوبِهِمْ مَّرَضٌ يَنظُرُونَ إِلَيْكَ نَظَرَ ٱلْمَغْشِيِّ
-  عَلَيْهِ مِنَ ٱلْمَوْتِ فَأَوْلَىٰ لَهُمْ } * { طَاعَةٌ وَقَوْلٌ مَّعْرُوفٌ فَإِذَا
-  عَزَمَ ٱلأَمْرُ فَلَوْ صَدَقُواْ ٱللَّهَ لَكَانَ خَيْراً لَّهُمْ }وكان مجاهد يقول
-  في ذلك كما:حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى وحدثني الحارث، قال:
-  ثنا الحسن، قال: ثنا ورقاء جميعاً، عن ابن أبي نجيح، عن مجاهد { طاعَةٌ وَقَوْلٌ مَعْرُوفٌ
-  } قال: أمر الله بذلك المنافقين.وقوله: { فإذَا عَزَمَ الأمْرُ } يقول: فإذا وجب القتال
-  وجاء أمر الله بفرض ذلك كرهتموه. وبنحو الذي قلنا في ذلك قال أهل التأويل. ذكر من قال
-  ذلك:حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى وحدثني الحارث، قال: ثنا
-  الحسن، قال: ثنا ورقاء جميعا، عن ابن أبي نجيح، عن مجاهد فإذَا عَزَمَ الأمْرُ قال:
-  إذا جدّ الأمر، هكذا.قال: محمد بن عمرو في حديثه، عن أبي عاصم، وقال الحارث في حديثه،
-  عن الحسن يقول: جدّ الأمر.وقوله: { فَلَوْ صَدَقُوا اللَّهَ لَكانَ خَيْراً لَهُمْ
-  } يقول تعالى ذكره: فلو صدقوا الله ما وعدوه قبل نزول السورة بالقتال بقولهم: إذ قيل
-  لهم: إن الله سيأمركم بالقتال طاعة، فَوَفَّوا له بذلك، لكان خيراً لهم في عاجل دنياهم،
-  وآجل معادهم. كما:حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة { فإذَا عَزَمَ
-  الأمْرُ } يقول: طواعية الله ورسوله، وقول معروف عند حقائق الأمور خير لهم.حدثنا ابن
-  عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة يقول: طاعة الله وقول بالمعروف عند
-  حقائق الأمور خير لهم.\r\n\t\t\t\r\n\t\t\t1 2 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  قال: كل سورة ذُكر فيها القتال فهي محكمة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقوله:
+  { رأيْتَ الَّذِينَ في قُلُوبِهِمْ مَرَضٌ } يقول: رأيت الذين في قلوبهم شك في دين
+  الله وضعف { يَنْظُرُونَ إِلَيْكَ } يا محمد، { نَظَرَ المَغْشِيِّ عَلَيْهِ مِنَ المَوْتِ
+  } ، خوفاً أن تغزيهم وتأمرهم بالجهاد مع المسلمين، فهم خوفاً من ذلك وتجبنا عن لقاء
+  العدوّ ينظرون إليك نظر المغشيّ عليه الذي قد صرع. وإنما عنى بقوله: { مِنَ المَوْتِ
+  } من خوف الموت، وكان هذا فعل أهل النفاق. كالذي:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله: { يَنْظُرُونَ إلَيْكَ نَظَرَ
+  المَغْشِيّ عَلَيْهِ مِنَ المَوْتِ } قال: هؤلاء المنافقون طبع الله على قلوبهم، فلا
+  يفقهون ما يقول النبيّ صلى الله عليه وسلم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقوله:
+  { فَأَوْلَى لَهُمْ } يقول تعالى ذكره: فأولى لهؤلاء الذين في قلوبهم مرض.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقوله: فأوْلَى لَهُمْ وعيد توعَّد الله به هؤلاء المنافقين. كما:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا محمد بن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة {
+  فَأَوْلَى لَهُمْ } قال: هذه وعيد، فأولى لهم، ثم انقطع الكلام فقال: { طَاعَةٌ وقَوْلٌ
+  مَعْرُوفٌ }.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا بشر، قال: ثنا يزيد، قال:
+  ثنا سعيد، عن قتادة، قوله: { فَأَوْلَى لَهُمْ } قال: وعيد كما تسمعون.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقوله: { طاعَةٌ وَقَوْلٌ مَعْرُوفٌ } وهذا خبر من الله تعالى ذكره
+  عن قيل هؤلاء المنافقين من قبل أن تنزل سورة محكمة، ويذكر فيها القتال، وأنهم إذا قيل
+  لهم: إن الله مفترض عليكم الجهاد، قالوا: سمع وطاعة، فقال الله عزّ وجلّ لهم { إذَا
+  أنْزلَتْ سُورَةٌ } وفُرض القتال فيها عليهم، فشقّ ذلك عليهم، وكرهوه { طاعَةٌ وَقَوْلٌ
+  مَعْرُوفٌ } قبل وجوب الفرض عليكم، فإذا عزم الأمر كرهتموه وشقّ عليكم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقوله: { طاعَةٌ وَقَوْلٌ مَعْرُوفٌ } مرفوع بمضمر، وهو قولكم قبل
+  نزول فرض القتال { طاعَةٌ وَقَوْلٌ مَعْرُوفٌ }.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">ورُوي
+  عن ابن عباس بإسناد غيرِ مرتضى أنه قال: قال الله تعالى: { فَأَوْلَى لَهُمْ } ثم قال
+  للذين آمنوا منهم { طاعَةٌ وَقَوْلٌ مَعْرُوفٌ } فعلى هذا القول تمام الوعيد فأولى،
+  ثم يستأنف بعد، فيقال لهم { طاعَةٌ وَقَوْلٌ مَعْرُوفٌ } فتكون الطاعة مرفوعة بقوله:
+  لهم.</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\"
+  border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE:
+  none; BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(47, 20)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(47,20)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَيَقُولُ ٱلَّذِينَ آمَنُواْ لَوْلاَ نُزِّلَتْ سُورَةٌ
+  فَإِذَآ أُنزِلَتْ سُورَةٌ مُّحْكَمَةٌ وَذُكِرَ فِيهَا ٱلْقِتَالُ رَأَيْتَ ٱلَّذِينَ
+  فِي قُلُوبِهِمْ مَّرَضٌ يَنظُرُونَ إِلَيْكَ نَظَرَ ٱلْمَغْشِيِّ عَلَيْهِ مِنَ ٱلْمَوْتِ
+  فَأَوْلَىٰ لَهُمْ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">طَاعَةٌ وَقَوْلٌ مَّعْرُوفٌ فَإِذَا عَزَمَ
+  ٱلأَمْرُ فَلَوْ صَدَقُواْ ٱللَّهَ لَكَانَ خَيْراً لَّهُمْ</a> <b>}</b></font>, <br/>,
+  <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">وكان
+  مجاهد يقول في ذلك كما:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثني محمد بن عمرو، قال: ثنا أبو
+  عاصم، قال: ثنا عيسى وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء جميعاً، عن ابن
+  أبي نجيح، عن مجاهد { طاعَةٌ وَقَوْلٌ مَعْرُوفٌ } قال: أمر الله بذلك المنافقين.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقوله: { فإذَا عَزَمَ الأمْرُ } يقول: فإذا وجب القتال وجاء أمر الله
+  بفرض ذلك كرهتموه. وبنحو الذي قلنا في ذلك قال أهل التأويل. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى وحدثني الحارث،
+  قال: ثنا الحسن، قال: ثنا ورقاء جميعا، عن ابن أبي نجيح، عن مجاهد فإذَا عَزَمَ الأمْرُ
+  قال: إذا جدّ الأمر، هكذا.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">قال: محمد بن عمرو في حديثه، عن
+  أبي عاصم، وقال الحارث في حديثه، عن الحسن يقول: جدّ الأمر.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقوله:
+  { فَلَوْ صَدَقُوا اللَّهَ لَكانَ خَيْراً لَهُمْ } يقول تعالى ذكره: فلو صدقوا الله
+  ما وعدوه قبل نزول السورة بالقتال بقولهم: إذ قيل لهم: إن الله سيأمركم بالقتال طاعة،
+  فَوَفَّوا له بذلك، لكان خيراً لهم في عاجل دنياهم، وآجل معادهم. كما:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة { فإذَا عَزَمَ
+  الأمْرُ } يقول: طواعية الله ورسوله، وقول معروف عند حقائق الأمور خير لهم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة يقول:
+  طاعة الله وقول بالمعروف عند حقائق الأمور خير لهم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section>"
 

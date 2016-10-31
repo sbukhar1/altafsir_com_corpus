@@ -1,4 +1,4 @@
-location:
+position:
   sura: '012'
   aaya: '035'
   madhab: '01'
@@ -9,50 +9,127 @@ meta:
   year: '310'
 aaya: ثُمَّ بَدَا لَهُمْ مِنْ بَعْدِ مَا رَأَوُا الْآيَاتِ لَيَسْجُنُنَّهُ حَتَّىٰ
   حِينٍ
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ ثُمَّ بَدَا لَهُمْ
-  مِّن بَعْدِ مَا رَأَوُاْ ٱلآيَاتِ لَيَسْجُنُنَّهُ حَتَّىٰ حِينٍ }يقول تعالـى ذكره:
-  ثم بدا للعزيز زوج الـمرأة التـي راودت يوسف عن نفسه. وقـيـل: «بدا لهم»، وهو واحد،
-  لأنه لـم يذكر بـاسمه ويقصد بعينه، وذلك نظير قوله: { الَّذِينَ قالَ لَهُمُ النَّاسُ
-  إنَّ النَّاسَ قَدْ جَمَعُوا لَكُمْ فـاخْشَوْهُمْ } وقـيـل: إنّ قائل ذلك كان واحداً.
-  وقـيـل: معنى قوله: { ثُمَّ بَدَا لَهُمْ } فـي الرأي الذي كانوا رأوه من ترك يوسف
-  مطلقاً، ورأوا أن يسجُنوه { مِنْ بَعْدِ ما رَأَوُا الآياتِ } ببراءته مـما قدفته به
-  امرأة العزيز. وتلك الآيات كانت: قَدَّ القميص من دُبر، وخمشاً فـي الوجه، وقطع أيديهن،
-  كما:حدثنا أبو كريب، قال: ثنا وكيع، عن نصر بن عوف، عن عكرمة، عن ابن عبـاس: { ثُمَّ
-  بَدَا لَهُمْ مِنْ بَعْدِ ما رَأَوُا الآياتِ } قال: كان من الآيات قدّ فـي القميص
-  وخمش فـي الوجه.حدثنا ابن وكيع، قال: ثنا أبـي وابن نـمير، عن نصر، عن عكرمة، مثله.حدثنا
-  الـحسن بن مـحمد، قال: ثنا شبـابة، قال: ثنا ورقاء، عن ابن أبـي نـجيح، عن مـجاهد،
-  { ثُمَّ بَدَا لَهُمْ مِنْ بَعْدِ ما رَأَوُا الآياتِ } قال: قدّ القميص من دُبر.حدثنـي
-  مـحمد بن عمرو، قال: ثنا أبو عاصم، عن عيسى، عن ابن أبـي نـجيح، عن مـجاهد: { مِنْ
-  بَعْدِ ما رَأَوُا الآياتِ } قال: قدّ القميص من دُبر.حدثنـي الـمثنى، قال: ثنا أبو
-  حذيفة، قال: ثنا شبل، عن ابن أبـي نـجيح، عن مـجاهد قال: وثنا إسحاق، قال: ثنا عبد
-  الله بن أبـي جعفر، عن ورقاء، عن ابن أبـي نـجيح، عن مـجاهد، مثله.حدثنا مـحمد بن عبد
-  الأعلـى، قال: ثنا مـحمد بن ثور، عن معمر، عن قتادة: { مِنْ بَعْدِ ما رَأَوُا الآياتِ
-  } قال: الآيات: حزّهن أيديهن، وقدّ القميص.حدثنا القاسم، قال: ثنا الـحسين، قال: ثنـي
-  حجاج، عن ابن جريج، عن مـجاهد، قال: قدّ القميص من دبر.حدثنا ابن حميد، قال: ثنا سلـمة،
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(12, 35)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(12,35)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">ثُمَّ
+  بَدَا لَهُمْ مِّن بَعْدِ مَا رَأَوُاْ ٱلآيَاتِ لَيَسْجُنُنَّهُ حَتَّىٰ حِينٍ</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">يقول تعالـى ذكره: ثم بدا للعزيز زوج الـمرأة التـي راودت يوسف عن
+  نفسه. وقـيـل: «بدا لهم»، وهو واحد، لأنه لـم يذكر بـاسمه ويقصد بعينه، وذلك نظير قوله:
+  { الَّذِينَ قالَ لَهُمُ النَّاسُ إنَّ النَّاسَ قَدْ جَمَعُوا لَكُمْ فـاخْشَوْهُمْ
+  } وقـيـل: إنّ قائل ذلك كان واحداً. وقـيـل: معنى قوله: { ثُمَّ بَدَا لَهُمْ } فـي
+  الرأي الذي كانوا رأوه من ترك يوسف مطلقاً، ورأوا أن يسجُنوه { مِنْ بَعْدِ ما رَأَوُا
+  الآياتِ } ببراءته مـما قدفته به امرأة العزيز. وتلك الآيات كانت: قَدَّ القميص من
+  دُبر، وخمشاً فـي الوجه، وقطع أيديهن، كما:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  أبو كريب، قال: ثنا وكيع، عن نصر بن عوف، عن عكرمة، عن ابن عبـاس: { ثُمَّ بَدَا لَهُمْ
+  مِنْ بَعْدِ ما رَأَوُا الآياتِ } قال: كان من الآيات قدّ فـي القميص وخمش فـي الوجه.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن وكيع، قال: ثنا أبـي وابن نـمير، عن نصر، عن عكرمة، مثله.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا الـحسن بن مـحمد، قال: ثنا شبـابة، قال: ثنا ورقاء، عن ابن أبـي
+  نـجيح، عن مـجاهد، { ثُمَّ بَدَا لَهُمْ مِنْ بَعْدِ ما رَأَوُا الآياتِ } قال: قدّ
+  القميص من دُبر.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي مـحمد بن عمرو، قال: ثنا
+  أبو عاصم، عن عيسى، عن ابن أبـي نـجيح، عن مـجاهد: { مِنْ بَعْدِ ما رَأَوُا الآياتِ
+  } قال: قدّ القميص من دُبر.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي الـمثنى، قال: ثنا أبو حذيفة،
+  قال: ثنا شبل، عن ابن أبـي نـجيح، عن مـجاهد قال: وثنا إسحاق، قال: ثنا عبد الله بن
+  أبـي جعفر، عن ورقاء، عن ابن أبـي نـجيح، عن مـجاهد، مثله.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  مـحمد بن عبد الأعلـى، قال: ثنا مـحمد بن ثور، عن معمر، عن قتادة: { مِنْ بَعْدِ ما
+  رَأَوُا الآياتِ } قال: الآيات: حزّهن أيديهن، وقدّ القميص.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  القاسم، قال: ثنا الـحسين، قال: ثنـي حجاج، عن ابن جريج، عن مـجاهد، قال: قدّ القميص
+  من دبر.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن حميد، قال: ثنا سلـمة،
   عن ابن إسحاق: { ثُمَّ بَدَا لَهُمْ مِنْ بَعْدِ ما رَأَوُا الآياتِ لَـيَسْجُنُنَّهُ
-  } ببراءته مـما اتهم به من شقّ قميصه من دُبر، لَـيَسْجُنُنَّهُ حتـى حِينٍ.حدثنا ابن
-  وكيع، قال: ثنا عمرو، عن أسبـاط، عن السديّ: { مِنْ بَعْدِ ما رَأَوُا الآياتِ } قال:
-  الآيات: القميص، وقطع الأيدي.وقوله: { لَـيَسْجُنُنَّهُ حتـى حِينٍ } يقول: لـيسجننه
-  إلـى الوقت الذي يرون فـيه رأيهم. وجعل الله ذلك الـحبس لـيوسف فـيـما ذكر عقوبة له
-  من همه بـالـمرأة وكفَّـارة لـخطيئته.حُدثت عن يحيى بن أبـي زائدة، عن إسرائيـل، عن
-  خصيف، عن عكرمة، عن ابن عبـاس: { لَـيَسْجُنُنَّهُ حتـى حِينٍ } عثر يوسف علـيه السلام
-  ثلاث عثرات: حين همّ بها فسجن، وحين قال:{ اذْكُرْنِـي عِنْدَ رَبكِّ }فَلَبِثَ فِـي
-  السِّجْن بضْعَ سنـينَ وأنساه الشيطان ذكر ربه، وقال لهم:{ إنَّكُمْ لَسارِقُونَ }\r\n\t\t\t1 2 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ ثُمَّ بَدَا لَهُمْ مِّن بَعْدِ مَا
-  رَأَوُاْ ٱلآيَاتِ لَيَسْجُنُنَّهُ حَتَّىٰ حِينٍ }ف{ قالُوا إن يَسْرِقْ فَقَدْ سَرَقَ
-  أخٌ لَهُ مِنْ قَبْلُ }وذُكر أن سبب حبسه فـي السجن: كان شكوى امرأة العزيز إلـى زوجها
-  أمره وأمرها. كما:حدثنا ابن وكيع، قال: ثنا عمرو بن مـحمد، عن أسبـاط، عن السديّ: {
-  ثُمَّ بَدَا لَهُمْ مِنْ بَعْدِ ما رَأَوُا الآياتِ لَـيَسْجُنُنَّهُ حتـى حِينٍ }
-  قال: قالت الـمرأة لزوجها: إن هذا العبد العبرانـيَّ قد فضحنـي فـي الناس يعتذر إلـيهم
-  ويخبرهم أنـي راودته عن نفسه، ولست أطيق أن أعتذر بعذري، فإما أن تأذن لـي فأخرج فأعتذر،
-  وإما أن تـحبِسه كما حبستنـي، فذلك قول الله تعالـى: { ثُمَّ بَدَا لَهُمْ مِنْ بَعْدِ
-  ما رَأَوُا الآياتِ لَـيَسْجُنُنَّهُ حتـى حِينٍ }.وقد اختلف أهل العربـية فـي وجه
-  دخول هذه اللام فـي: { لَـيَسْجُنُنَّهُ } فقال بعض البصريـين: دخـلت هاهنا لأنه موضع
-  يقع فـيه «أيّ»، فلـما كان حرف الاستفهام يدخـل فـيه دخـلته النون، لأن النون تكون
-  فـي الاستفهام، تقول: بدا لهم أيُّهم يَأْخُذُنّ: أي استبـان لهم. وأنكر ذلك بعض أهل
-  العربـية، فقال: هذا يـمين، ولـيس قوله: هل تقومنّ بـيـمين، ولَتقومنّ، لا يكون إلا
-  يـميناً.وقال بعض نـحويـي الكوفة: بدا لهم، بـمعنى: القول، والقول يأتـي بكلَ: الكلام
-  بـالقسم وبـالاستفهام، فلذلك جاز: بدا لهم قام زيد، وبدا لهم لـيقومنّ. وقـيـل: إن
-  الـحين فـي هذا الـموضع معنـيّ به سبع سنـين. ذكر من قال ذلك:حدثنا ابن وكيع، قال:
-  ثنا الـمـحاربـي، عن داود، عن عكرمة: { لَـيَسْجُنُنَّهُ حتـى حِينٍ } قال: سبع سنـين.\r\n\t\t\t\r\n\t\t\t1 2 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  } ببراءته مـما اتهم به من شقّ قميصه من دُبر، لَـيَسْجُنُنَّهُ حتـى حِينٍ.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن وكيع، قال: ثنا عمرو، عن أسبـاط، عن السديّ: { مِنْ بَعْدِ
+  ما رَأَوُا الآياتِ } قال: الآيات: القميص، وقطع الأيدي.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقوله:
+  { لَـيَسْجُنُنَّهُ حتـى حِينٍ } يقول: لـيسجننه إلـى الوقت الذي يرون فـيه رأيهم.
+  وجعل الله ذلك الـحبس لـيوسف فـيـما ذكر عقوبة له من همه بـالـمرأة وكفَّـارة لـخطيئته.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حُدثت عن يحيى بن أبـي زائدة، عن إسرائيـل، عن خصيف، عن عكرمة، عن
+  ابن عبـاس: { لَـيَسْجُنُنَّهُ حتـى حِينٍ } عثر يوسف علـيه السلام ثلاث عثرات: حين
+  همّ بها فسجن، وحين قال:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">اذْكُرْنِـي عِنْدَ رَبكِّ</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">فَلَبِثَ فِـي السِّجْن بضْعَ سنـينَ
+  وأنساه الشيطان ذكر ربه، وقال لهم:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">إنَّكُمْ لَسارِقُونَ</font></font> }</b><br
+  class=\"TextArabic\"/><label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\"
+  border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE:
+  none; BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(12, 35)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(12,35)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">ثُمَّ بَدَا لَهُمْ مِّن بَعْدِ مَا رَأَوُاْ ٱلآيَاتِ
+  لَيَسْجُنُنَّهُ حَتَّىٰ حِينٍ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\"
+  dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">ف</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">قالُوا
+  إن يَسْرِقْ فَقَدْ سَرَقَ أخٌ لَهُ مِنْ قَبْلُ</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">وذُكر أن سبب حبسه فـي السجن: كان
+  شكوى امرأة العزيز إلـى زوجها أمره وأمرها. كما:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن وكيع، قال: ثنا عمرو بن مـحمد، عن أسبـاط، عن السديّ: { ثُمَّ بَدَا لَهُمْ مِنْ
+  بَعْدِ ما رَأَوُا الآياتِ لَـيَسْجُنُنَّهُ حتـى حِينٍ } قال: قالت الـمرأة لزوجها:
+  إن هذا العبد العبرانـيَّ قد فضحنـي فـي الناس يعتذر إلـيهم ويخبرهم أنـي راودته عن
+  نفسه، ولست أطيق أن أعتذر بعذري، فإما أن تأذن لـي فأخرج فأعتذر، وإما أن تـحبِسه كما
+  حبستنـي، فذلك قول الله تعالـى: { ثُمَّ بَدَا لَهُمْ مِنْ بَعْدِ ما رَأَوُا الآياتِ
+  لَـيَسْجُنُنَّهُ حتـى حِينٍ }.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقد
+  اختلف أهل العربـية فـي وجه دخول هذه اللام فـي: { لَـيَسْجُنُنَّهُ } فقال بعض البصريـين:
+  دخـلت هاهنا لأنه موضع يقع فـيه «أيّ»، فلـما كان حرف الاستفهام يدخـل فـيه دخـلته
+  النون، لأن النون تكون فـي الاستفهام، تقول: بدا لهم أيُّهم يَأْخُذُنّ: أي استبـان
+  لهم. وأنكر ذلك بعض أهل العربـية، فقال: هذا يـمين، ولـيس قوله: هل تقومنّ بـيـمين،
+  ولَتقومنّ، لا يكون إلا يـميناً.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  بعض نـحويـي الكوفة: بدا لهم، بـمعنى: القول، والقول يأتـي بكلَ: الكلام بـالقسم وبـالاستفهام،
+  فلذلك جاز: بدا لهم قام زيد، وبدا لهم لـيقومنّ. وقـيـل: إن الـحين فـي هذا الـموضع
+  معنـيّ به سبع سنـين. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن وكيع، قال: ثنا الـمـحاربـي، عن داود، عن عكرمة: { لَـيَسْجُنُنَّهُ حتـى حِينٍ
+  } قال: سبع سنـين.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section>"
 

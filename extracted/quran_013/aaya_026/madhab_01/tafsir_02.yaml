@@ -1,4 +1,4 @@
-location:
+position:
   sura: '013'
   aaya: '026'
   madhab: '01'
@@ -9,12 +9,29 @@ meta:
   year: '538'
 aaya: اللَّهُ يَبْسُطُ الرِّزْقَ لِمَنْ يَشَاءُ وَيَقْدِرُ ۚ وَفَرِحُوا بِالْحَيَاةِ
   الدُّنْيَا وَمَا الْحَيَاةُ الدُّنْيَا فِي الْآخِرَةِ إِلَّا مَتَاعٌ
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ ٱللَّهُ يَبْسُطُ
-  ٱلرِّزْقَ لِمَنْ يَشَآءُ وَيَقَدِرُ وَفَرِحُواْ بِٱلْحَيَاةِ ٱلدُّنْيَا وَمَا ٱلْحَيَاةُ
-  ٱلدُّنْيَا فِي ٱلآخِرَةِ إِلاَّ مَتَاعٌ }{ ٱللَّهُ يَبْسُطُ ٱلرّزْقَ } أي الله وحده
-  هو يبسط الرزق ويقدره دون غيره، وهو الذي بسط رزق أهل مكة ووسعه عليهم { وَفَرِحُواْ
-  } بما بسط لهم من الدنيا فرح بطر وأشر لافرح سرور بفضل الله وإنعامه عليهم، ولم يقابلوه
-  بالشكر حتى يستوجبوا نعيم الآخرة، وخفي عليهم أن نعيم الدنيا في جنب نعيم الآخرة ليس
-  إلا شيئاً نزرا يتمتع به كعجالة الراكب، وهو ما يتعجله من تميرات أو شربة سويق أو نحو
-  ذلك.\r\n\t\t\t\r\n\t\t\t</section>"
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(13, 26)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(13,26)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">ٱللَّهُ
+  يَبْسُطُ ٱلرِّزْقَ لِمَنْ يَشَآءُ وَيَقَدِرُ وَفَرِحُواْ بِٱلْحَيَاةِ ٱلدُّنْيَا
+  وَمَا ٱلْحَيَاةُ ٱلدُّنْيَا فِي ٱلآخِرَةِ إِلاَّ مَتَاعٌ</a> <b>}</b></font>, <br/>,
+  <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">{
+  ٱللَّهُ يَبْسُطُ ٱلرّزْقَ } أي الله وحده هو يبسط الرزق ويقدره دون غيره، وهو الذي
+  بسط رزق أهل مكة ووسعه عليهم { وَفَرِحُواْ } بما بسط لهم من الدنيا فرح بطر وأشر لافرح
+  سرور بفضل الله وإنعامه عليهم، ولم يقابلوه بالشكر حتى يستوجبوا نعيم الآخرة، وخفي
+  عليهم أن نعيم الدنيا في جنب نعيم الآخرة ليس إلا شيئاً نزرا يتمتع به كعجالة الراكب،
+  وهو ما يتعجله من تميرات أو شربة سويق أو نحو ذلك.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

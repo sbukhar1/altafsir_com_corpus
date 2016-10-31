@@ -1,4 +1,4 @@
-location:
+position:
   sura: '027'
   aaya: '071'
   madhab: '01'
@@ -7,15 +7,40 @@ meta:
   title: تفسير الكشاف
   author: الزمخشري
   year: '538'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَيَقُولُونَ مَتَىٰ
-  هَـٰذَا ٱلْوَعْدُ إِن كُنتُمْ صَادِقِينَ } * { قُلْ عَسَىٰ أَن يَكُونَ رَدِفَ لَكُم
-  بَعْضُ ٱلَّذِي تَسْتَعْجِلُونَ }استعجلوا العذاب الموعود فقيل لهم { عَسَىٰۤ أَن يَكُونَ
-  } ردفكم بعضه وهو عذاب يوم بدر فزيدت اللام للتأكيد كالباء في{ وَلاَ تُلْقُواْ بِأَيْدِيكُمْ }[البقرة:
-  195] أو ضمن معنى فعل يتعدى باللام نحو: دنا لكم وأزف لكم، ومعناه: وتبعكم ولحقكم،
-  وقد عدي. بمن قال:فَلَمَّا رَدِفْنَا مِنْ عُمَيْرٍ وَصَحْبِهِ   تَوَلَّوا سِرَاعاً
-  وَالمَنِيَّةُ تُعْنِقُيعني: دنونا من عمير، وقرأ الأعرج: ردف لكم، بوزن ذهب، وهما
-  لغتان، والكسر أفصح. وعسى ولعل وسوف - في وعد الملوك ووعيدهم - يدل على صدق الأمر وجدّه
-  وما لا مجال للشكّ بعده، وإنما يعنون بذلك: إظهار وقارهم وأنهم لا يعجلون بالانتقام؛
-  لإدلالهم بقهرهم وغلبتهم ووثوقهم أنّ عدوّهم لا يفوتهم، وأن الرمزة إلى الأغراض كافية
-  من جهتهم؛ فعلى ذلك جرى وعد الله ووعيده.\r\n\t\t\t\r\n\t\t\t</section>"
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(27, 71)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(27,71)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَيَقُولُونَ
+  مَتَىٰ هَـٰذَا ٱلْوَعْدُ إِن كُنتُمْ صَادِقِينَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">قُلْ عَسَىٰ أَن
+  يَكُونَ رَدِفَ لَكُم بَعْضُ ٱلَّذِي تَسْتَعْجِلُونَ</a> <b>}</b></font>, <br/>,
+  <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">استعجلوا
+  العذاب الموعود فقيل لهم { عَسَىٰۤ أَن يَكُونَ } ردفكم بعضه وهو عذاب يوم بدر فزيدت
+  اللام للتأكيد كالباء في</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">وَلاَ تُلْقُواْ بِأَيْدِيكُمْ</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">[البقرة: 195] أو ضمن معنى فعل يتعدى
+  باللام نحو: دنا لكم وأزف لكم، ومعناه: وتبعكم ولحقكم، وقد عدي. بمن قال:</font></font><table
+  class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">فَلَمَّا رَدِفْنَا مِنْ عُمَيْرٍ وَصَحْبِهِ</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">تَوَلَّوا سِرَاعاً وَالمَنِيَّةُ تُعْنِقُ</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">يعني: دنونا من عمير، وقرأ الأعرج:
+  ردف لكم، بوزن ذهب، وهما لغتان، والكسر أفصح. وعسى ولعل وسوف - في وعد الملوك ووعيدهم
+  - يدل على صدق الأمر وجدّه وما لا مجال للشكّ بعده، وإنما يعنون بذلك: إظهار وقارهم
+  وأنهم لا يعجلون بالانتقام؛ لإدلالهم بقهرهم وغلبتهم ووثوقهم أنّ عدوّهم لا يفوتهم،
+  وأن الرمزة إلى الأغراض كافية من جهتهم؛ فعلى ذلك جرى وعد الله ووعيده.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

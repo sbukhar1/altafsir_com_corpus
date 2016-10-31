@@ -1,4 +1,4 @@
-location:
+position:
   sura: '002'
   aaya: '071'
   madhab: '02'
@@ -7,72 +7,204 @@ meta:
   title: تفسير النكت والعيون
   author: الماوردي
   year: '450'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ قَالُواْ ٱدْعُ
-  لَنَا رَبَّكَ يُبَيِّن لَّنَا مَا هِيَ قَالَ إِنَّهُ يَقُولُ إِنَّهَا بَقَرَةٌ لاَّ
-  فَارِضٌ وَلاَ بِكْرٌ عَوَانٌ بَيْنَ ذٰلِكَ فَٱفْعَلُواْ مَا تُؤْمَرونَ } * { قَالُواْ
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(2, 68)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(2,68)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">قَالُواْ
+  ٱدْعُ لَنَا رَبَّكَ يُبَيِّن لَّنَا مَا هِيَ قَالَ إِنَّهُ يَقُولُ إِنَّهَا بَقَرَةٌ
+  لاَّ فَارِضٌ وَلاَ بِكْرٌ عَوَانٌ بَيْنَ ذٰلِكَ فَٱفْعَلُواْ مَا تُؤْمَرونَ</a>
+  <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">قَالُواْ
   ٱدْعُ لَنَا رَبَّكَ يُبَيِّن لَّنَا مَا لَوْنُهَا قَالَ إِنَّهُ يَقُولُ إِنَّهَا
-  بَقَرَةٌ صَفْرَآءُ فَاقِـعٌ لَّوْنُهَا تَسُرُّ ٱلنَّاظِرِينَ } * { قَالُواْ ٱدْعُ
-  لَنَا رَبَّكَ يُبَيِّن لَّنَا مَا هِيَ إِنَّ ٱلبَقَرَ تَشَابَهَ عَلَيْنَا وَإِنَّآ
-  إِن شَآءَ ٱللَّهُ لَمُهْتَدُونَ } * { قَالَ إِنَّهُ يَقُولُ إِنَّهَا بَقَرَةٌ لاَّ
+  بَقَرَةٌ صَفْرَآءُ فَاقِـعٌ لَّوْنُهَا تَسُرُّ ٱلنَّاظِرِينَ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">قَالُواْ
+  ٱدْعُ لَنَا رَبَّكَ يُبَيِّن لَّنَا مَا هِيَ إِنَّ ٱلبَقَرَ تَشَابَهَ عَلَيْنَا
+  وَإِنَّآ إِن شَآءَ ٱللَّهُ لَمُهْتَدُونَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">قَالَ إِنَّهُ يَقُولُ
+  إِنَّهَا بَقَرَةٌ لاَّ ذَلُولٌ تُثِيرُ ٱلأَرْضَ وَلاَ تَسْقِي ٱلْحَرْثَ مُسَلَّمَةٌ
+  لاَّ شِيَةَ فِيهَا قَالُواْ ٱلآنَ جِئْتَ بِٱلْحَقِّ فَذَبَحُوهَا وَمَا كَادُواْ
+  يَفْعَلُونَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">قوله عز وجل: { قَالُوا ادْعُ لَنَا
+  رَبَّكَ يُبَيِّن لَّنَا مَا هِيَ } رَوَى الحسن عن النبي صلى الله عليه وسلم، أنه
+  قال:</font></font><b><font class=\"TextResultArabic\"><font color=\"Red\"> \" والَّذِي
+  نَفْسِي بِيَدِهِ، لَوِ اعْتَرَضُوا بقرة، فَذَبَحُوها، لأَجْزَأَتْ عَنْهُم، وَلكِنَّهُم،
+  شَدًّدوا، فَشَدَّد الله عليهم \". </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">{ قَالَ: إِنَّه يَقُولُ إِنَّهَا بَقَرَةٌ لاَّ فَارِضٌ وَلاَ بِكْرٌ
+  } في الفارض تأويلان:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">أحدهما: أنها الكبيرة الهَرِمَة،
+  وهو قول الجمهور. قال الراجز:ـ</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><table class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">شيب أصداغي
+  فرأسي أبْيضُ</font></font></b></td><td class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">محامل فيها رجال فرض</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">يعني بقوله: فُرّض، أي هرمى.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">والثاني: أنّ الفارض التي قد ولدت بطوناً كثيرة، فيتسع لذلك جوفها،
+  لأن معنى الفارض في اللغة الواسع، وهذا قول بعض المتأخرين، واستشهد بقول الراجز:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><table class=\"TextArabic\"
+  dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">يا رُبَّ ذي ضغن عليّ فارض</font></font></b></td><td class=\"TextArabic\">   </td><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">له قروء
+  كقروء الحائض</font></font></b></td></tr></table><font class=\"TextResultArabic\"><font
+  color=\"black\">والبكر: الصغيرة التي لم تحمل، والبكر من إناث البهائم، وبني آدم،
+  ما لم يفتحله الفحل، وهي مكسورة الباء، فأما البَكْر بفتح الباء، فهو الفتي من الإبل.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقوله تعالى: { عَوانٌ بَيْنَ ذلكَ } والعوان النَّصَفُ التي قد ولدت
+  بطناً أو بطنين، { بين ذلك } يعني بين الصغيرة والكبيرة، وهي أقوى ما تكون من البقر
+  وأحسنه، قال الشاعر:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><table
+  class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">فرحن عليه بين بِكرٍ عزيزة</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">وبين عَوانٍ كالغمامة ناصِفِ</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">قوله تعالى: {... قَالَ: إِنَّهُ
+  يَقُولُ إِنَّهَا بَقَرَةٌ صَفْرَاءُ } حُكِيَ عن الحسن البصري، أن المراد بقوله صفراء،
+  أي سوداء شديدة السواد، كما تقول العرب: ناقة صفراء أي سوداء، ومنه قول الشاعر:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><table class=\"TextArabic\"
+  dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">تلك خيلي منه وتلك ركابي</font></font></b></td><td class=\"TextArabic\">   </td><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">هُنّ صفر
+  أولادها كالزبيب</font></font></b></td></tr></table><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال الراجز:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><table class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">وصفرٍ ليست
+  بمصفرّة</font></font></b></td><td class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">ولكنّ سوداءَ مثل الخُمُر</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال سائر المفسرين: إنها صفراء
+  اللون، من الصفرة المعروفة، وهو أصح، لأنه الظاهر، ولأنه قال: { فَاقِعٌ لَّوْنُهَا
+  } والفاقع من صفات الصفرة، وليس يوصف السواد بذلك، وإنما يقال: أسود حالكٌ، وأحمر قانٍ،
+  وأبيضُ ناصعٌ، وأخضرُ ناضرٌ، وأصفرُ فاقعٌ.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">ثم
+  فيما أُرِيدَ بالصفرة قولان:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">أحدهما:
+  صفراء القرن والظلف، وهو قول سعيد بن جبير.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">والثاني:
+  صفراء اللون كله، وهذا قول مجاهد.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وفي
+  قوله تعالى: { فاقع لونها } ثلاثة تأويلات:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">أحدها:
+  الشديدة الصفرة، وهذا قول ابن عباس، والحسن.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">والثاني:
+  الخالص الصفرة، وهذا قول قطرب.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">والثالث:
+  الصافي، وهذا قول أبي العالية، وقتادة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">{
+  تَسُرُّ النَّاظِرِينَ } فيه وجهان:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">أحدهما:
+  تعجب الناظرين بصفرتها، فتعجب بالسرور، وهو ما يتأثر به القلب، والفرح ما فرحت به العين،
+  ويحتمل قوله: { تَسُرُّ النَّاظِرِينَ } وجهين:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">أحدهما:
+  بحسن لونها فتكون.... لصفرتها.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">والثاني:
+  حسن سمتها، وصفت بذلك، ليكون ذلك زيادة شرط في صفتها، غير ما تقدم من ذكر صفرتها، فتصير
+  البقرة على الوجه الأول، ذات وصف واحد، وعلى الوجه الثاني، ذات وصفين.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قوله تعالى: { قَالُوا ادْعُ لَنَا رَبَّكَ يُبَيِّن لَّنَا مَا هِيَ
+  } فسألوا سؤالاً ثالثاً، ولم يمتثلوا الأمر بعد البيان الثاني، فروى ابن جريج، عن قتادة،
+  أن رسول الله صلى الله عليه وسلم قال:</font></font>&#13;\t\t\t<label disabled=\"true\"
+  class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(12,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(12,2,1)\"><u>2</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2, 68)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,68)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">قَالُواْ ٱدْعُ لَنَا رَبَّكَ يُبَيِّن لَّنَا مَا
+  هِيَ قَالَ إِنَّهُ يَقُولُ إِنَّهَا بَقَرَةٌ لاَّ فَارِضٌ وَلاَ بِكْرٌ عَوَانٌ بَيْنَ
+  ذٰلِكَ فَٱفْعَلُواْ مَا تُؤْمَرونَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">قَالُواْ ٱدْعُ لَنَا
+  رَبَّكَ يُبَيِّن لَّنَا مَا لَوْنُهَا قَالَ إِنَّهُ يَقُولُ إِنَّهَا بَقَرَةٌ صَفْرَآءُ
+  فَاقِـعٌ لَّوْنُهَا تَسُرُّ ٱلنَّاظِرِينَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">قَالُواْ ٱدْعُ لَنَا
+  رَبَّكَ يُبَيِّن لَّنَا مَا هِيَ إِنَّ ٱلبَقَرَ تَشَابَهَ عَلَيْنَا وَإِنَّآ إِن
+  شَآءَ ٱللَّهُ لَمُهْتَدُونَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">قَالَ إِنَّهُ يَقُولُ إِنَّهَا بَقَرَةٌ لاَّ
   ذَلُولٌ تُثِيرُ ٱلأَرْضَ وَلاَ تَسْقِي ٱلْحَرْثَ مُسَلَّمَةٌ لاَّ شِيَةَ فِيهَا
-  قَالُواْ ٱلآنَ جِئْتَ بِٱلْحَقِّ فَذَبَحُوهَا وَمَا كَادُواْ يَفْعَلُونَ }قوله عز
-  وجل: { قَالُوا ادْعُ لَنَا رَبَّكَ يُبَيِّن لَّنَا مَا هِيَ } رَوَى الحسن عن النبي
-  صلى الله عليه وسلم، أنه قال: \" والَّذِي نَفْسِي بِيَدِهِ، لَوِ اعْتَرَضُوا بقرة،
-  فَذَبَحُوها، لأَجْزَأَتْ عَنْهُم، وَلكِنَّهُم، شَدًّدوا، فَشَدَّد الله عليهم \".
-  { قَالَ: إِنَّه يَقُولُ إِنَّهَا بَقَرَةٌ لاَّ فَارِضٌ وَلاَ بِكْرٌ } في الفارض
-  تأويلان:أحدهما: أنها الكبيرة الهَرِمَة، وهو قول الجمهور. قال الراجز:ـشيب أصداغي
-  فرأسي أبْيضُ   محامل فيها رجال فرضيعني بقوله: فُرّض، أي هرمى.والثاني: أنّ الفارض
-  التي قد ولدت بطوناً كثيرة، فيتسع لذلك جوفها، لأن معنى الفارض في اللغة الواسع، وهذا
-  قول بعض المتأخرين، واستشهد بقول الراجز:يا رُبَّ ذي ضغن عليّ فارض   له قروء كقروء
-  الحائضوالبكر: الصغيرة التي لم تحمل، والبكر من إناث البهائم، وبني آدم، ما لم يفتحله
-  الفحل، وهي مكسورة الباء، فأما البَكْر بفتح الباء، فهو الفتي من الإبل.وقوله تعالى:
-  { عَوانٌ بَيْنَ ذلكَ } والعوان النَّصَفُ التي قد ولدت بطناً أو بطنين، { بين ذلك
-  } يعني بين الصغيرة والكبيرة، وهي أقوى ما تكون من البقر وأحسنه، قال الشاعر:فرحن عليه
-  بين بِكرٍ عزيزة   وبين عَوانٍ كالغمامة ناصِفِقوله تعالى: {... قَالَ: إِنَّهُ يَقُولُ
-  إِنَّهَا بَقَرَةٌ صَفْرَاءُ } حُكِيَ عن الحسن البصري، أن المراد بقوله صفراء، أي
-  سوداء شديدة السواد، كما تقول العرب: ناقة صفراء أي سوداء، ومنه قول الشاعر:تلك خيلي
-  منه وتلك ركابي   هُنّ صفر أولادها كالزبيبوقال الراجز:وصفرٍ ليست بمصفرّة   ولكنّ
-  سوداءَ مثل الخُمُروقال سائر المفسرين: إنها صفراء اللون، من الصفرة المعروفة، وهو
-  أصح، لأنه الظاهر، ولأنه قال: { فَاقِعٌ لَّوْنُهَا } والفاقع من صفات الصفرة، وليس
-  يوصف السواد بذلك، وإنما يقال: أسود حالكٌ، وأحمر قانٍ، وأبيضُ ناصعٌ، وأخضرُ ناضرٌ،
-  وأصفرُ فاقعٌ.ثم فيما أُرِيدَ بالصفرة قولان:أحدهما: صفراء القرن والظلف، وهو قول سعيد
-  بن جبير.والثاني: صفراء اللون كله، وهذا قول مجاهد.وفي قوله تعالى: { فاقع لونها }
-  ثلاثة تأويلات:أحدها: الشديدة الصفرة، وهذا قول ابن عباس، والحسن.والثاني: الخالص الصفرة،
-  وهذا قول قطرب.والثالث: الصافي، وهذا قول أبي العالية، وقتادة.{ تَسُرُّ النَّاظِرِينَ
-  } فيه وجهان:أحدهما: تعجب الناظرين بصفرتها، فتعجب بالسرور، وهو ما يتأثر به القلب،
-  والفرح ما فرحت به العين، ويحتمل قوله: { تَسُرُّ النَّاظِرِينَ } وجهين:أحدهما: بحسن
-  لونها فتكون.... لصفرتها.والثاني: حسن سمتها، وصفت بذلك، ليكون ذلك زيادة شرط في صفتها،
-  غير ما تقدم من ذكر صفرتها، فتصير البقرة على الوجه الأول، ذات وصف واحد، وعلى الوجه
-  الثاني، ذات وصفين.قوله تعالى: { قَالُوا ادْعُ لَنَا رَبَّكَ يُبَيِّن لَّنَا مَا
-  هِيَ } فسألوا سؤالاً ثالثاً، ولم يمتثلوا الأمر بعد البيان الثاني، فروى ابن جريج،
-  عن قتادة، أن رسول الله صلى الله عليه وسلم قال:\r\n\t\t\t\r\n\t\t\t1 2 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ قَالُواْ ٱدْعُ لَنَا رَبَّكَ يُبَيِّن
-  لَّنَا مَا هِيَ قَالَ إِنَّهُ يَقُولُ إِنَّهَا بَقَرَةٌ لاَّ فَارِضٌ وَلاَ بِكْرٌ
-  عَوَانٌ بَيْنَ ذٰلِكَ فَٱفْعَلُواْ مَا تُؤْمَرونَ } * { قَالُواْ ٱدْعُ لَنَا رَبَّكَ
-  يُبَيِّن لَّنَا مَا لَوْنُهَا قَالَ إِنَّهُ يَقُولُ إِنَّهَا بَقَرَةٌ صَفْرَآءُ
-  فَاقِـعٌ لَّوْنُهَا تَسُرُّ ٱلنَّاظِرِينَ } * { قَالُواْ ٱدْعُ لَنَا رَبَّكَ يُبَيِّن
-  لَّنَا مَا هِيَ إِنَّ ٱلبَقَرَ تَشَابَهَ عَلَيْنَا وَإِنَّآ إِن شَآءَ ٱللَّهُ لَمُهْتَدُونَ
-  } * { قَالَ إِنَّهُ يَقُولُ إِنَّهَا بَقَرَةٌ لاَّ ذَلُولٌ تُثِيرُ ٱلأَرْضَ وَلاَ
-  تَسْقِي ٱلْحَرْثَ مُسَلَّمَةٌ لاَّ شِيَةَ فِيهَا قَالُواْ ٱلآنَ جِئْتَ بِٱلْحَقِّ
-  فَذَبَحُوهَا وَمَا كَادُواْ يَفْعَلُونَ } \" أُمِرُوا بِأَدْنَى بَقَرةٍ وَلَكِنَّهُم
-  لَمَّا شَدَّدُوا عَلَى أَنْفُسِهِم شَدَّدَ اللهُ عَلَيْهِم، وَأيمُ اللهِ لَو أَنَّهُم
-  لَمْ يَسْتَثْنُوا لَمَا بُيِّنَتْ لَهُم آخرُ الأَبَدِ \" يعني أنهم لو لم يقولوا:
-  { وَإِنَّا إِن شَاءَ اللهُ لَمُهْتَدُونَ } ما اهتدوا إليها أبداً.قوله عز وجل: {
-  قَالَ: إِنَّهُ يَقُولُ إِنَّهَا بَقَرةٌ لاَّ ذَلُولٌ } يعني لم يذللها العمل.{ تُثِيرُ
-  الأَرْضَ } والإثارة تفريق الشيء، أي ليست مما يثير الأرض للزرع، ولا يسقى عليها الزرع.
-  [وقيل يثير فعل مستأنف والمعنى إيجاب الحرث لها وأنها كانت تحرث ولا تسقى].وليس هذا
-  الوجه بشيء، بل نفي عنها جميع ذلك.{ مُسَلَّمَةٌ لاَ شِيَةَ فِيها } وفي ذلك أربعة
-  تأويلات:أحدها: مُسَلَّمَةٌ من العيوب، وهذا قول قتادة، وأبي العالية.والثاني: مُسَلَّمَةٌ
-  من العمل.والثالث: مُسَلَّمَةٌ من غصب وسرقة، فتكون حلالاً.والرابع: مُسَلَّمَةٌ من......
-  وفي { شِيَةَ } ثلاثة أوجه:أحدها: ليس فيها علامة خاصة، حكاه السدي.والثاني: أنه ليس
-  فيها لون، يخالف لونها من سواد أو بياض.والثالث: أنه الوضَح وهو الجمع بين ألوان من
-  سواد وبياض.وأصله من وشي الثوب، وهو تحسين عيوبه بألوان مختلفة، ومنه قيل للساعي بالرجل
-  عند السلطان واشٍ، لأنه يحسّن كذبه عنده، حتى يقبله منه.{ قَالُوا الآنَ جِئْتَ بِالْحَقِ
-  } فيه تأويلان:أحدهما: الآن بَيّنْت الحق، وهو قول قتادة.والثاني: معناه أنه حين بيّنها
-  لهم، قالوا هذه بقرة فلان، الآن جئت بالحق فيها، وهذا قول عبد الرحمن بن زيد.وفي قوله
-  تعالى: { فَذَبَحُوها وَمَا كَادُوا يَفْعَلُونَ } تأويلان:أحدهما: أنهم كادوا ألاّ
-  يفعلوا لغلاء ثمنها، لأنهم اشتروها على ما حَكَى ابن عباس، ومحمد بن كعب: بملء مَسْكها
-  ذهباً من مال المقتول. وقيل بوزنها عشر مرات.والثاني: أنهم كادوا ألاّ يفعلوا خوفاً
-  من الفضيحة على أنفسهم في معرفة القاتل، وهذا قول وهب، وقال عكرمة: ما كان ثمنها إلا
-  ثلاثة دنانير. وقيل: كانت البقرة وحشية.\r\n\t\t\t\r\n\t\t\t1 2 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  قَالُواْ ٱلآنَ جِئْتَ بِٱلْحَقِّ فَذَبَحُوهَا وَمَا كَادُواْ يَفْعَلُونَ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\"/></font><b><font class=\"TextResultArabic\"><font color=\"Red\">
+  \" أُمِرُوا بِأَدْنَى بَقَرةٍ وَلَكِنَّهُم لَمَّا شَدَّدُوا عَلَى أَنْفُسِهِم شَدَّدَ
+  اللهُ عَلَيْهِم، وَأيمُ اللهِ لَو أَنَّهُم لَمْ يَسْتَثْنُوا لَمَا بُيِّنَتْ لَهُم
+  آخرُ الأَبَدِ \" </font></font></b><font class=\"TextResultArabic\"><font color=\"black\">يعني
+  أنهم لو لم يقولوا: { وَإِنَّا إِن شَاءَ اللهُ لَمُهْتَدُونَ } ما اهتدوا إليها أبداً.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قوله عز وجل: { قَالَ: إِنَّهُ يَقُولُ إِنَّهَا بَقَرةٌ لاَّ ذَلُولٌ
+  } يعني لم يذللها العمل.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">{ تُثِيرُ الأَرْضَ } والإثارة تفريق
+  الشيء، أي ليست مما يثير الأرض للزرع، ولا يسقى عليها الزرع. [وقيل يثير فعل مستأنف
+  والمعنى إيجاب الحرث لها وأنها كانت تحرث ولا تسقى].</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وليس
+  هذا الوجه بشيء، بل نفي عنها جميع ذلك.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">{
+  مُسَلَّمَةٌ لاَ شِيَةَ فِيها } وفي ذلك أربعة تأويلات:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">أحدها:
+  مُسَلَّمَةٌ من العيوب، وهذا قول قتادة، وأبي العالية.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">والثاني:
+  مُسَلَّمَةٌ من العمل.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">والثالث: مُسَلَّمَةٌ من غصب وسرقة،
+  فتكون حلالاً.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">والرابع: مُسَلَّمَةٌ من.....</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">. وفي { شِيَةَ } ثلاثة أوجه:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">أحدها:
+  ليس فيها علامة خاصة، حكاه السدي.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">والثاني:
+  أنه ليس فيها لون، يخالف لونها من سواد أو بياض.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">والثالث:
+  أنه الوضَح وهو الجمع بين ألوان من سواد وبياض.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وأصله
+  من وشي الثوب، وهو تحسين عيوبه بألوان مختلفة، ومنه قيل للساعي بالرجل عند السلطان
+  واشٍ، لأنه يحسّن كذبه عنده، حتى يقبله منه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">{
+  قَالُوا الآنَ جِئْتَ بِالْحَقِ } فيه تأويلان:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">أحدهما:
+  الآن بَيّنْت الحق، وهو قول قتادة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">والثاني:
+  معناه أنه حين بيّنها لهم، قالوا هذه بقرة فلان، الآن جئت بالحق فيها، وهذا قول عبد
+  الرحمن بن زيد.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وفي قوله تعالى: { فَذَبَحُوها وَمَا
+  كَادُوا يَفْعَلُونَ } تأويلان:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">أحدهما:
+  أنهم كادوا ألاّ يفعلوا لغلاء ثمنها، لأنهم اشتروها على ما حَكَى ابن عباس، ومحمد بن
+  كعب: بملء مَسْكها ذهباً من مال المقتول. وقيل بوزنها عشر مرات.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">والثاني: أنهم كادوا ألاّ يفعلوا خوفاً من الفضيحة على أنفسهم في معرفة
+  القاتل، وهذا قول وهب، وقال عكرمة: ما كان ثمنها إلا ثلاثة دنانير. وقيل: كانت البقرة
+  وحشية.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(12,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(12,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section>"
 

@@ -1,4 +1,4 @@
-location:
+position:
   sura: '002'
   aaya: 097
   madhab: '02'
@@ -9,14 +9,33 @@ meta:
   year: '660'
 aaya: قُلْ مَنْ كَانَ عَدُوًّا لِجِبْرِيلَ فَإِنَّهُ نَزَّلَهُ عَلَىٰ قَلْبِكَ بِإِذْنِ
   اللَّهِ مُصَدِّقًا لِمَا بَيْنَ يَدَيْهِ وَهُدًى وَبُشْرَىٰ لِلْمُؤْمِنِينَ
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ قُلْ مَن كَانَ
-  عَدُوّاً لِّجِبْرِيلَ فَإِنَّهُ نَزَّلَهُ عَلَىٰ قَلْبِكَ بِإِذْنِ ٱللَّهِ مُصَدِّقاً
-  لِّمَا بَيْنَ يَدَيْهِ وَهُدًى وَبُشْرَىٰ لِلْمُؤْمِنِينَ }{ عَدُوّاً لِّجِبْرِيلَ
-  } نزلت لما قال ابن صوريا للرسول صلى الله عليه وسلم: أي ملك يأتيك بما يقول الله تعالى
-  قال: \" جبريل ـ عليه السلام ـ \" قال: ذاك عدونا ينزل بالقتال والشدة، وميكائيل يأتي
-  باليسر والرخاء. فلو كان هو الذي يأتيك آمناً بك فنزلت. وجبر: عبد، وميكا: عُبيد، وأيل:
-  هو الله ـ تعالى ـ، وهما عبد الله وعُبيد الله، قاله ابن عباس ـ رضي الله تعالى عنهما
-  ـ: ولم يخالف فيه أحد، وخُصا بالذكر وإن دخلا في عموم الملائكة تشريفاً وتكريماً، أو
-  نص عليهما لأنهم يزعمون أنهم ليسوا بأعداء الله ـ تعالى ـ ولملائكته أجمع بل هم أعداء
-  لجبريل وحده, فأبطل مثل هذا التأويل بذكر جبريل ـ عليه السلام ـ.\r\n\t\t\t\r\n\t\t\t</section>"
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(2, 97)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(2,97)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">قُلْ
+  مَن كَانَ عَدُوّاً لِّجِبْرِيلَ فَإِنَّهُ نَزَّلَهُ عَلَىٰ قَلْبِكَ بِإِذْنِ ٱللَّهِ
+  مُصَدِّقاً لِّمَا بَيْنَ يَدَيْهِ وَهُدًى وَبُشْرَىٰ لِلْمُؤْمِنِينَ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">{ عَدُوّاً لِّجِبْرِيلَ } نزلت لما قال ابن صوريا للرسول صلى الله
+  عليه وسلم: أي ملك يأتيك بما يقول الله تعالى قال:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" جبريل ـ عليه السلام ـ \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">قال: ذاك عدونا ينزل بالقتال والشدة، وميكائيل يأتي باليسر والرخاء.
+  فلو كان هو الذي يأتيك آمناً بك فنزلت. وجبر: عبد، وميكا: عُبيد، وأيل: هو الله ـ تعالى
+  ـ، وهما عبد الله وعُبيد الله، قاله ابن عباس ـ رضي الله تعالى عنهما ـ: ولم يخالف
+  فيه أحد، وخُصا بالذكر وإن دخلا في عموم الملائكة تشريفاً وتكريماً، أو نص عليهما لأنهم
+  يزعمون أنهم ليسوا بأعداء الله ـ تعالى ـ ولملائكته أجمع بل هم أعداء لجبريل وحده,
+  فأبطل مثل هذا التأويل بذكر جبريل ـ عليه السلام ـ.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

@@ -1,4 +1,4 @@
-location:
+position:
   sura: '041'
   aaya: '030'
   madhab: '01'
@@ -7,80 +7,198 @@ meta:
   title: تفسير جامع البيان في تفسير القرآن
   author: الطبري
   year: '310'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ إِنَّ ٱلَّذِينَ
-  قَالُواْ رَبُّنَا ٱللَّهُ ثُمَّ ٱسْتَقَامُواْ تَتَنَزَّلُ عَلَيْهِمُ ٱلْمَلاَئِكَةُ
-  أَلاَّ تَخَافُواْ وَلاَ تَحْزَنُواْ وَأَبْشِرُواْ بِٱلْجَنَّةِ ٱلَّتِي كُنتُمْ تُوعَدُونَ
-  }يقول تعالى ذكره: { إنَّ الَّذِينَ قالُوا رَبُّنا اللَّهُ } وحده لا شريك له، وبرئوا
-  من الآلهة والأنداد، { ثُمَّ اسْتَقامُوا } على توحيد الله، ولم يخلطوا توحيد الله
-  بشرك غيره به، وانتهوا إلى طاعته فيما أمر ونهى.وبنحو الذي قلنا في ذلك جاء الخبر عن
-  رسول الله صلى الله عليه وسلم وقاله أهل التأويل على اختلاف منهم، في معنى قوله: {
-  ثُمَّ اسْتَقامُوا }. ذكر الخبر بذلك عن رسول الله صلى الله عليه وسلم.حدثنا عمرو بن
-  عليّ، قال: ثنا سالم بن قتيبة أبو قتيبة، قال: ثنا سهيل بن أبي حزم القطعي، عن ثابت
-  البنانيّ، عن أنس بن مالك، أن رسول الله صلى الله عليه وسلم قرأ: { إنَّ الَّذِينَ
-  قالُوا رَبُّنا اللَّهُ ثُمَّ اسْتَقامُوا } قال: \" قد قالها الناس، ثم كفر أكثرهم،
-  فمن مات عليها فهو ممن استقام \". وقال بعضهم: معناه: ولم يشركوا به شيئاً، ولكن تموا
-  على التوحيد. ذكر من قال ذلك:حدثنا ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا سفيان،
-  عن أبي إسحاق، عن عامر بن سعد، عن سعيد بن عمران، قال: قد قرأت عند أبي بكر الصدّيق
-  رضي الله عنه هذه الآية: { إنَّ الَّذِينَ قالُوا رَبُّنا اللَّهُ ثُمَّ اسْتَقامُوا
-  } قال: هم الذين لم يشركوا بالله شيئاً.حدثنا ابن وكيع، قال: ثنا أبي، عن سفيان بإسناده،
-  عن أبي بكر الصديق رضي الله عنه، مثله.قال ثنا جرير بن عبد الحميد، وعبد الله بن إدريس،
-  عن الشيباني، عن أبي بكر بن أبي موسى، عن الأسود بن هلال، عن أبي بكر رضي الله عنه
-  أنه قال لأصحابه { إنَّ الَّذِينَ قالُوا رَبُّنا اللَّهُ ثُمَّ اسْتَقامُوا } قال:
-  قالوا: ربنا الله ثم عملوا بها، قال: لقد حملتموها على غير المحمل { إنَّ الَّذِينَ
-  قالُوا رَبُّنا اللَّهُ ثُمَّ اسْتَقامُوا } الذين لم يعدلوها بشرك ولا غيره.حدثنا
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(41, 30)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(41,30)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">إِنَّ
+  ٱلَّذِينَ قَالُواْ رَبُّنَا ٱللَّهُ ثُمَّ ٱسْتَقَامُواْ تَتَنَزَّلُ عَلَيْهِمُ ٱلْمَلاَئِكَةُ
+  أَلاَّ تَخَافُواْ وَلاَ تَحْزَنُواْ وَأَبْشِرُواْ بِٱلْجَنَّةِ ٱلَّتِي كُنتُمْ تُوعَدُونَ</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">يقول تعالى ذكره: { إنَّ الَّذِينَ قالُوا رَبُّنا اللَّهُ } وحده
+  لا شريك له، وبرئوا من الآلهة والأنداد، { ثُمَّ اسْتَقامُوا } على توحيد الله، ولم
+  يخلطوا توحيد الله بشرك غيره به، وانتهوا إلى طاعته فيما أمر ونهى.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وبنحو الذي قلنا في ذلك جاء الخبر عن رسول الله صلى الله عليه وسلم
+  وقاله أهل التأويل على اختلاف منهم، في معنى قوله: { ثُمَّ اسْتَقامُوا }. ذكر الخبر
+  بذلك عن رسول الله صلى الله عليه وسلم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  عمرو بن عليّ، قال: ثنا سالم بن قتيبة أبو قتيبة، قال: ثنا سهيل بن أبي حزم القطعي،
+  عن ثابت البنانيّ، عن أنس بن مالك، أن رسول الله صلى الله عليه وسلم قرأ: { إنَّ الَّذِينَ
+  قالُوا رَبُّنا اللَّهُ ثُمَّ اسْتَقامُوا } قال:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" قد قالها الناس، ثم كفر أكثرهم، فمن مات عليها فهو ممن استقام \".
+  </font></font></b><font class=\"TextResultArabic\"><font color=\"black\">وقال بعضهم:
+  معناه: ولم يشركوا به شيئاً، ولكن تموا على التوحيد. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا سفيان، عن أبي إسحاق،
+  عن عامر بن سعد، عن سعيد بن عمران، قال: قد قرأت عند أبي بكر الصدّيق رضي الله عنه
+  هذه الآية: { إنَّ الَّذِينَ قالُوا رَبُّنا اللَّهُ ثُمَّ اسْتَقامُوا } قال: هم الذين
+  لم يشركوا بالله شيئاً.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن وكيع، قال: ثنا أبي، عن
+  سفيان بإسناده، عن أبي بكر الصديق رضي الله عنه، مثله.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال
+  ثنا جرير بن عبد الحميد، وعبد الله بن إدريس، عن الشيباني، عن أبي بكر بن أبي موسى،
+  عن الأسود بن هلال، عن أبي بكر رضي الله عنه أنه قال لأصحابه { إنَّ الَّذِينَ قالُوا
+  رَبُّنا اللَّهُ ثُمَّ اسْتَقامُوا } قال: قالوا: ربنا الله ثم عملوا بها، قال: لقد
+  حملتموها على غير المحمل { إنَّ الَّذِينَ قالُوا رَبُّنا اللَّهُ ثُمَّ اسْتَقامُوا
+  } الذين لم يعدلوها بشرك ولا غيره.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
   أبو كريب وأبو السائب قالا: ثنا ابن إدريس، قال: أخبرنا الشيباني، عن أبي بكر بن أبي
   موسى، عن الأسود بن هلال المحاربي، قال: قال: أبو بكر: ما تقولون في هذه الآية: { إنَّ
   الَّذِينَ قالُوا رَبُّنا اللَّهُ ثُمَّ اسْتَقامُوا } قال: فقالوا: ربنا الله ثم استقاموا
   من ذنب، قال. فقال أبو بكر: لقد حملتم على غير المحمل، قالوا: ربنا الله ثم استقاموا
-  فلم يلتفتوا إلى إله غيره.حدثنا ابن حميد، قال: ثنا حكام، عن عنبسة، عن ليث، عن مجاهد
-  { إنَّ الَّذِينَ قالُوا رَبُّنا اللَّهُ ثُمَّ اسْتَقامُوا } قال: أي على: لا إله
-  إلا الله.قال: ثنا حكام عن عمرو، عن منصور، عن مجاهد { إنَّ الَّذِينَ قالُوا رَبُّنا
-  اللَّهُ ثُمَّ اسْتَقامُوا } قال: أسلموا ثم لم يشركوا به حتى لحقوا به.\r\n\t\t\t\r\n\t\t\t1 2 3 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ إِنَّ ٱلَّذِينَ قَالُواْ رَبُّنَا
-  ٱللَّهُ ثُمَّ ٱسْتَقَامُواْ تَتَنَزَّلُ عَلَيْهِمُ ٱلْمَلاَئِكَةُ أَلاَّ تَخَافُواْ
-  وَلاَ تَحْزَنُواْ وَأَبْشِرُواْ بِٱلْجَنَّةِ ٱلَّتِي كُنتُمْ تُوعَدُونَ }قال: ثنا
-  جرير، عن منصور، عن مجاهد، قوله { إنَّ الَّذِينَ قالُوا رَبُّنا اللَّهُ ثُمَّ اسْتَقامُوا
-  } قال هم الذين قالوا ربنا الله لم يشركوا به حتى لقوه.قال: ثنا حكام، قال: ثنا عمرو،
-  عن منصور، عن جامع بن شداد، عن الأسود بن هلال مثل ذلك.حدثنا محمد، قال: ثنا أحمد،
-  قال: ثنا أسباط، عن السديّ { إنَّ الَّذِينَ قالُوا رَبُّنا اللَّهُ ثُمَّ اسْتَقامُوا
-  } قال: تموا على ذلك.حدثني سعد بن عبد الله بن عبد الحكم، قال: ثنا حفص بن عمر، قال:
-  ثنا الحكم بن أبان، عن عكرمة قوله: { إنَّ الَّذِينَ قالُوا رَبُّنا اللَّهُ ثُمَّ
-  اسْتَقامُوا } قال: استقاموا على شهادة أن لا إله إلا الله.وقال آخرون: معنى ذلك: ثم
-  استقاموا على طاعته. ذكر من قال ذلك:حدثنا أحمد بن منيع، قال: ثنا عبد الله بن المبارك،
-  قال: ثنا يونس بن يزيد عن الزهري، قال: تلا عمر رضي الله عنه على المنبر: { إنَّ الَّذِينَ
-  قالُوا رَبُّنا اللَّهُ ثُمَّ اسْتَقامُوا } قال: استقاموا والله بطاعته، ولم يروغوا
-  روغان الثعلب.حدثنا ابن عبد الأعلى، قال: ثنا محمد بن ثور، عن معمر، عن قتادة: { إنَّ
-  الَّذِينَ قالُوا رَبُّنا اللَّهُ ثُمَّ اسْتَقامُوا } قال استقاموا على طاعة الله.
-  وكان الحسن إذا تلاها قال: اللهمّ فأنت ربنا فارزقنا الاستقامة.حدثني عليّ، قال: ثنا
-  عبد الله، قال: ثني معاوية، عن عليّ، عن ابن عباس، قوله: { إنَّ الَّذِينَ قالُوا رَبُّنا
-  اللَّهُ ثُمَّ اسْتَقامُوا } يقول: على أداء فرائضه.حدثني يونس، قال: أخبرنا ابن وهب،
-  قال: قال ابن زيد، في قوله: { إنَّ الَّذِينَ قالُوا رَبُّنا اللَّهُ ثُمَّ اسْتَقامُوا
-  } قال: على عبادة الله وعلى طاعته.وقوله: { تَتَنزَّلُ عَلَيْهِمُ المَلائِكَةُ } يقول:
-  تتهبط عليهم الملائكة عند نزول الموت بهم. وبنحو الذي قلنا في ذلك قال أهل التأويل.
-  ذكر من قال ذلك:حدثنا ابن حميد، قال: ثنا حكام، عن عنبسة، عن محمد بن عبد الرحمن، عن
-  القاسم بن أبي بزّة، عن مجاهد، في قوله: { تَتَنزَّلُ عَلَيْهِمُ المَلائِكَةُ أنْ
-  لاَ تَخافُوا وَلا تَحْزَنُوا } قال: عند الموت.حدثني محمد بن عمرو، قال: ثنا أبو عاصم،
-  قال: ثنا عيسى، وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، جميعاً عن ابن أبي
-  نجيح، عن مجاهد، مثله.حدثنا محمد، قال: ثنا أحمد، قال: ثنا أسباط، عن السديّ { تَتَنزَّلُ
-  عَلَيْهِمُ المَلائِكَةُ } قال: عند الموت.وقوله: { أنْ لاَ تَخافُوا وَلا تَحْزَنُوا
-  } يقول: تتنزل عليهم الملائكة بأن لا تخافوا ولا تحزنوا فإن في موضع نصب إذا كان ذلك
-  معناه.وقد ذُكر عن عبد الله أنه كان يقرأ ذلك «تَتَنزَّلُ عَلَيْهِمُ المَلائِكَةُ
-  أنْ لاَ تَخافُوا وَلا تَحْزَنُوا» بمعنى: تتنزّل عليهم قائلة: لا تخافوا، ولا تحزنوا.
-  وعنى بقوله: { لا تَخافُوا } ما تقدمون عليه من بعد مماتكم { وَلا تَحْزَنُوا } على
-  ما تخلفونه وراءكم.\r\n\t\t\t\r\n\t\t\t1 2 3 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ إِنَّ ٱلَّذِينَ قَالُواْ رَبُّنَا
-  ٱللَّهُ ثُمَّ ٱسْتَقَامُواْ تَتَنَزَّلُ عَلَيْهِمُ ٱلْمَلاَئِكَةُ أَلاَّ تَخَافُواْ
-  وَلاَ تَحْزَنُواْ وَأَبْشِرُواْ بِٱلْجَنَّةِ ٱلَّتِي كُنتُمْ تُوعَدُونَ }وبنحو الذي
-  قلنا في ذلك قال أهل التأويل. ذكر من قال ذلك:حدثنا محمد، قال: ثنا أحمد، قال: ثنا
-  أسباط، عن السديّ { أنْ لاَ تَخافُوا وَلا تَحْزَنُوا } قال لا تخافوا ما أمامكم، ولا
-  تحزنوا على ما بعدكم.حدثني يونس، قال: أخبرنا يحيى بن حسان، عن مسلم بن خالد، عن ابن
-  أبي نجيح، عن مجاهد، قوله: { تَتَنزَّلُ عَلَيْهِمُ المَلائِكَةُ أنْ لاَ تَخافُوا
-  وَلا تَحْزَنُوا } قال: لا تخافوا ما تقدمون عليه من أمر الآخرة، ولا تحزنوا على ما
-  خلفتم من دنياكم من أهل وولد، فإنا نخلفكم في ذلك كله.وقيل: إن ذلك في الآخرة. ذكر
-  من قال ذلك:حدثني عليّ، قال: ثنا أبو صالح، قال: ثني معاوية، عن عليّ، عن ابن عباس،
-  قوله: { تَتَنزَّلُ عَلَيْهِمُ المَلائِكَةُ أنْ لاَ تَخافُوا وَلا تَحْزَنُوا وأبْشِرُوا
-  بالجَنَّةِ } فذلك في الآخرة.وقوله: { وأبْشِرُوا بالجَنَّةِ التي كُنْتُمْ تُوعَدُونَ
-  } يقول: وسرّوا بأن لكم في الآخرة الجنة التي كنتم توعدونها في الدنيا على إيمانكم
-  بالله، واستقامتكم على طاعته، كما:حدثنا محمد، قال: ثنا أحمد، قال: ثنا أسباط، عن السديّ
-  { وأبْشِرُوا بالجَنَّةِ التي كُنْتُمْ تُوعَدُونَ } في الدنيا.\r\n\t\t\t\r\n\t\t\t1 2 3 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  فلم يلتفتوا إلى إله غيره.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن حميد، قال: ثنا حكام،
+  عن عنبسة، عن ليث، عن مجاهد { إنَّ الَّذِينَ قالُوا رَبُّنا اللَّهُ ثُمَّ اسْتَقامُوا
+  } قال: أي على: لا إله إلا الله.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال:
+  ثنا حكام عن عمرو، عن منصور، عن مجاهد { إنَّ الَّذِينَ قالُوا رَبُّنا اللَّهُ ثُمَّ
+  اسْتَقامُوا } قال: أسلموا ثم لم يشركوا به حتى لحقوا به.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(41, 30)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(41,30)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">إِنَّ ٱلَّذِينَ قَالُواْ رَبُّنَا ٱللَّهُ ثُمَّ
+  ٱسْتَقَامُواْ تَتَنَزَّلُ عَلَيْهِمُ ٱلْمَلاَئِكَةُ أَلاَّ تَخَافُواْ وَلاَ تَحْزَنُواْ
+  وَأَبْشِرُواْ بِٱلْجَنَّةِ ٱلَّتِي كُنتُمْ تُوعَدُونَ</a> <b>}</b></font>, <br/>,
+  <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">قال:
+  ثنا جرير، عن منصور، عن مجاهد، قوله { إنَّ الَّذِينَ قالُوا رَبُّنا اللَّهُ ثُمَّ
+  اسْتَقامُوا } قال هم الذين قالوا ربنا الله لم يشركوا به حتى لقوه.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قال: ثنا حكام، قال: ثنا عمرو، عن منصور، عن جامع بن شداد، عن الأسود
+  بن هلال مثل ذلك.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا محمد، قال: ثنا أحمد، قال:
+  ثنا أسباط، عن السديّ { إنَّ الَّذِينَ قالُوا رَبُّنا اللَّهُ ثُمَّ اسْتَقامُوا }
+  قال: تموا على ذلك.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثني سعد بن عبد الله بن عبد الحكم،
+  قال: ثنا حفص بن عمر، قال: ثنا الحكم بن أبان، عن عكرمة قوله: { إنَّ الَّذِينَ قالُوا
+  رَبُّنا اللَّهُ ثُمَّ اسْتَقامُوا } قال: استقاموا على شهادة أن لا إله إلا الله.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال آخرون: معنى ذلك: ثم استقاموا على طاعته. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا أحمد بن منيع، قال: ثنا عبد الله بن المبارك، قال: ثنا يونس
+  بن يزيد عن الزهري، قال: تلا عمر رضي الله عنه على المنبر: { إنَّ الَّذِينَ قالُوا
+  رَبُّنا اللَّهُ ثُمَّ اسْتَقامُوا } قال: استقاموا والله بطاعته، ولم يروغوا روغان
+  الثعلب.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن عبد الأعلى، قال: ثنا
+  محمد بن ثور، عن معمر، عن قتادة: { إنَّ الَّذِينَ قالُوا رَبُّنا اللَّهُ ثُمَّ اسْتَقامُوا
+  } قال استقاموا على طاعة الله. وكان الحسن إذا تلاها قال: اللهمّ فأنت ربنا فارزقنا
+  الاستقامة.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثني عليّ، قال: ثنا عبد الله،
+  قال: ثني معاوية، عن عليّ، عن ابن عباس، قوله: { إنَّ الَّذِينَ قالُوا رَبُّنا اللَّهُ
+  ثُمَّ اسْتَقامُوا } يقول: على أداء فرائضه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله: { إنَّ الَّذِينَ قالُوا رَبُّنا
+  اللَّهُ ثُمَّ اسْتَقامُوا } قال: على عبادة الله وعلى طاعته.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقوله:
+  { تَتَنزَّلُ عَلَيْهِمُ المَلائِكَةُ } يقول: تتهبط عليهم الملائكة عند نزول الموت
+  بهم. وبنحو الذي قلنا في ذلك قال أهل التأويل. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن حميد، قال: ثنا حكام، عن عنبسة، عن محمد بن عبد الرحمن،
+  عن القاسم بن أبي بزّة، عن مجاهد، في قوله: { تَتَنزَّلُ عَلَيْهِمُ المَلائِكَةُ أنْ
+  لاَ تَخافُوا وَلا تَحْزَنُوا } قال: عند الموت.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، وحدثني الحارث، قال: ثنا الحسن، قال:
+  ثنا ورقاء، جميعاً عن ابن أبي نجيح، عن مجاهد، مثله.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  محمد، قال: ثنا أحمد، قال: ثنا أسباط، عن السديّ { تَتَنزَّلُ عَلَيْهِمُ المَلائِكَةُ
+  } قال: عند الموت.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقوله: { أنْ لاَ تَخافُوا وَلا
+  تَحْزَنُوا } يقول: تتنزل عليهم الملائكة بأن لا تخافوا ولا تحزنوا فإن في موضع نصب
+  إذا كان ذلك معناه.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقد ذُكر عن عبد الله أنه كان يقرأ
+  ذلك «تَتَنزَّلُ عَلَيْهِمُ المَلائِكَةُ أنْ لاَ تَخافُوا وَلا تَحْزَنُوا» بمعنى:
+  تتنزّل عليهم قائلة: لا تخافوا، ولا تحزنوا. وعنى بقوله: { لا تَخافُوا } ما تقدمون
+  عليه من بعد مماتكم { وَلا تَحْزَنُوا } على ما تخلفونه وراءكم.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(41, 30)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(41,30)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">إِنَّ ٱلَّذِينَ قَالُواْ رَبُّنَا ٱللَّهُ ثُمَّ
+  ٱسْتَقَامُواْ تَتَنَزَّلُ عَلَيْهِمُ ٱلْمَلاَئِكَةُ أَلاَّ تَخَافُواْ وَلاَ تَحْزَنُواْ
+  وَأَبْشِرُواْ بِٱلْجَنَّةِ ٱلَّتِي كُنتُمْ تُوعَدُونَ</a> <b>}</b></font>, <br/>,
+  <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">وبنحو
+  الذي قلنا في ذلك قال أهل التأويل. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  محمد، قال: ثنا أحمد، قال: ثنا أسباط، عن السديّ { أنْ لاَ تَخافُوا وَلا تَحْزَنُوا
+  } قال لا تخافوا ما أمامكم، ولا تحزنوا على ما بعدكم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  يونس، قال: أخبرنا يحيى بن حسان، عن مسلم بن خالد، عن ابن أبي نجيح، عن مجاهد، قوله:
+  { تَتَنزَّلُ عَلَيْهِمُ المَلائِكَةُ أنْ لاَ تَخافُوا وَلا تَحْزَنُوا } قال: لا
+  تخافوا ما تقدمون عليه من أمر الآخرة، ولا تحزنوا على ما خلفتم من دنياكم من أهل وولد،
+  فإنا نخلفكم في ذلك كله.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقيل: إن ذلك في الآخرة. ذكر من
+  قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثني عليّ، قال: ثنا أبو صالح،
+  قال: ثني معاوية، عن عليّ، عن ابن عباس، قوله: { تَتَنزَّلُ عَلَيْهِمُ المَلائِكَةُ
+  أنْ لاَ تَخافُوا وَلا تَحْزَنُوا وأبْشِرُوا بالجَنَّةِ } فذلك في الآخرة.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقوله: { وأبْشِرُوا بالجَنَّةِ التي كُنْتُمْ تُوعَدُونَ } يقول:
+  وسرّوا بأن لكم في الآخرة الجنة التي كنتم توعدونها في الدنيا على إيمانكم بالله، واستقامتكم
+  على طاعته، كما:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا محمد، قال: ثنا أحمد، قال:
+  ثنا أسباط، عن السديّ { وأبْشِرُوا بالجَنَّةِ التي كُنْتُمْ تُوعَدُونَ } في الدنيا.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">3 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a id=\"NextClass\"/></td></tr></table></center></div></section>"
 

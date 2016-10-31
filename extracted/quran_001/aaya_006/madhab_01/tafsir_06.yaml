@@ -1,4 +1,4 @@
-location:
+position:
   sura: '001'
   aaya: '006'
   madhab: '01'
@@ -7,48 +7,131 @@ meta:
   title: تفسير انوار التنزيل واسرار التأويل
   author: البيضاوي
   year: '685'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ ٱهْدِنَا ٱلصِّرَاطَ
-  ٱلْمُسْتَقِيمَ }{ ٱهْدِنَا ٱلصّرَاطَ ٱلْمُسْتَقِيمَ } بيان للمعونة المطلوبة فكأنه
-  قال: كيف أعينكم فقالوا { ٱهْدِنَا }. أو إفراد لما هو المقصود الأعظم. والهداية دلالة
-  بلطف ولذلك تستعمل في الخير وقوله تعالى:{ فَٱهْدُوهُمْ إِلَىٰ صِرٰطِ ٱلْجَحِيمِ }[الصافات:
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(1, 6)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(1,6)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">ٱهْدِنَا
+  ٱلصِّرَاطَ ٱلْمُسْتَقِيمَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\"
+  dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">{ ٱهْدِنَا ٱلصّرَاطَ
+  ٱلْمُسْتَقِيمَ } بيان للمعونة المطلوبة فكأنه قال: كيف أعينكم فقالوا { ٱهْدِنَا }.
+  أو إفراد لما هو المقصود الأعظم. والهداية دلالة بلطف ولذلك تستعمل في الخير وقوله
+  تعالى:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">فَٱهْدُوهُمْ إِلَىٰ صِرٰطِ ٱلْجَحِيمِ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[الصافات:
   23] وارد على التهكم. ومنه الهداية وهوادي الوحش لمقدماتها، والفعل منه هدى، وأصله
-  أن يعدى باللام، أو إلى، فعومل معاملة اختار في قوله تعالى:{ وَٱخْتَارَ مُوسَىٰ قَوْمَهُ }[الأعراف:
-  155] وهداية الله تعالى تتنوع أنواعاً لا يحصيها عد كما قال تعالى:{ وَإِن تَعُدُّواْ
-  نِعْمَةَ ٱللَّهِ لاَ تُحْصُوهَا }[إبراهيم: 34] ولكنها تنحصر في أجناس مترتبة:الأول:
-  إفاضة القوى التي بها يتمكن المرء من الاهتداء إلى مصالحه كالقوة العقلية والحواس الباطنة
-  والمشاعر الظاهرة.الثاني: نصب الدلائل الفارقة بين الحق والباطل والصلاح والفساد وإليه
-  أشار حيث قال:{ وَهَدَيْنَـٰهُ ٱلنَّجْدَينِ }[البلد: 10] وقال:{ وَأَمَّا ثَمُودُ
-  فَهَدَيْنَـٰهُمْ فَٱسْتَحَبُّواْ ٱلْعَمَىٰ عَلَى ٱلْهُدَىٰ }[فصلت: 17] الثالث: الهداية
-  بإرسال الرسل وإنزال الكتب، وإياها عنى بقوله:{ وَجَعَلْنَاهُمْ أَئِمَّةً يَهْدُونَ
-  بِأَمْرِنَا }[الأنبياء: 73] وقوله:{ إِنَّ هَـٰذَا ٱلْقُرْءانَ يِهْدِى لِلَّتِى هِىَ
-  أَقْوَمِ }[الإسراء: 9] الرابع: أن يكشف على قلوبهم السرائر ويريهم الأشياء كما هي
-  بالوحي، أو الإلهام والمنامات الصادقة، وهذا قسم يختص بنيله الأنبياء والأولياء وإياه
-  عنى بقوله:{ أُوْلَـئِكَ ٱلَّذِينَ هَدَى ٱللَّهُ فَبِهُدَاهُمُ ٱقْتَدِهْ }[الأنعام:
-  90] وقوله:{ وَٱلَّذِينَ جَـٰهَدُواْ فِينَا لَنَهْدِيَنَّهُمْ سُبُلَنَا }[العنكبوت:
-  69] فالمطلوب إما زيادة ما منحوه من الهدى، أو الثبات عليه، أو حصول المراتب المرتبة
-  عليه. فإذا قاله العارف بالله الواصل عنى به أرشدنا طريق السير فيك لتمحو عنا ظلمات
-  أحوالنا، وتميط غواشي أبداننا، لنستضيء بنور قدسك فنراك بنورك. والأمر والدعاء يتشاركان
-  لفظاً ومعنى ويتفاوتان بالاستعلاء والتسفل، وقيل: بالرتبة.والسراط: من سرط الطعام إذا
-  ابتلعه فكأنه يسرط السابلة، ولذلك سمي لقماً لأنه يلتقمهم. و { ٱلصّرٰطِ } من قلب السين
-  صاداً ليطابق الطاء في الإطباق، وقد يشم الصاد صوت الزاي ليكون أقرب إلى المبدل منه.
-  وقرأ ابن كثير برواية قنبل عنه، ورويس عن يعقوب بالأصل، وحمزة بالإشمام، والباقون بالصاد
-  وهو لغة قريش، والثابت في الإمام وجمعه سُرُطْ ككتب وهو كالطريق في التذكير والتأنيث.و
-  { ٱلْمُسْتَقِيمَ } المستوي والمراد به طريق الحق، وقيل: هو ملة الإسلام.{ صِرَاطَ
-  ٱلَّذِينَ أَنْعَمْتَ عَلَيْهِمْ }[الفاتحه: 7] بدل من الأول بدل الكل، وهو في حكم
-  تكرير العامل من حيث إنه المقصود بالنسبة، وفائدته التوكيد والتنصيص على أن طريق المسلمين
-  هو المشهود عليه بالاستقامة على آكد وجه وأبلغه لأنه جعل كالتفسير والبيان له فكأنه
-  من البين الذي لا خفاء فيه أن الطريق المستقيم ما يكون طريق المؤمنين. وقيل: { ٱلَّذِينَ
-  أَنْعَمْتَ عَلَيْهِمْ } الأنبياء، وقيل: النبي صلى الله عليه وسلم وأصحابه وقيل: أصحاب
-  موسى وعيسى عليهما الصلاة والسلام قبل التحريف والنسخ. وقرىء: { صِرٰطِ مِنْ أَنْعَمْتَ
-  عَلَيْهِمْ } والإنعام: إيصال النعمة، وهي في الأصل الحالة التي يستلذها الإنسان فأطلقت
-  لما يستلذه من النعمة وهي اللين، ونعم الله وإن كانت لا تحصى كما قال:\r\n\t\t\t\r\n\t\t\t1 2 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ ٱهْدِنَا ٱلصِّرَاطَ ٱلْمُسْتَقِيمَ
-  }{ وَإِن تَعُدُّواْ نِعْمَةَ ٱللَّهِ لاَ تُحْصُوهَا }[النحل: 18] تنحصر في جنسين:
-  دنيوي وأخروي.والأول قسمان: وهبي وكسبي والوهبي قسمان: روحاني كنفخ الروح فيه وإشراقه
-  بالعقل وما يتبعه من القوى كالفهم والفكر والنطق، وجسماني كتخليق البدن والقوى الحالة
-  فيه والهيئات العارضة له من الصحة وكمال الأعضاء والكسبي تزكية النفس عن الرذائل وتحليتها
-  بالأخلاق السنية والملكات الفاضلة، وتزيين البدن بالهيئات المطبوعة والحلى المستحسنة
-  وحصول الجاه والمال.والثاني: أن يغفر له ما فرط منه ويرضى عنه ويبوئه في أعلى عليين
-  مع الملائكة المقربين أبد الآبدين. والمراد هو القسم الأخير وما يكون وصلة إلى نيله
-  من الآخرة فإن ما عدا ذلك يشترك فيه المؤمن والكافر.\r\n\t\t\t\r\n\t\t\t1 2 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  أن يعدى باللام، أو إلى، فعومل معاملة اختار في قوله تعالى:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">وَٱخْتَارَ مُوسَىٰ قَوْمَهُ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[الأعراف:
+  155] وهداية الله تعالى تتنوع أنواعاً لا يحصيها عد كما قال تعالى:</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">وَإِن
+  تَعُدُّواْ نِعْمَةَ ٱللَّهِ لاَ تُحْصُوهَا</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">[إبراهيم: 34] ولكنها تنحصر في أجناس
+  مترتبة:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">الأول: إفاضة القوى التي بها يتمكن
+  المرء من الاهتداء إلى مصالحه كالقوة العقلية والحواس الباطنة والمشاعر الظاهرة.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">الثاني: نصب الدلائل الفارقة بين الحق والباطل والصلاح والفساد وإليه
+  أشار حيث قال:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">وَهَدَيْنَـٰهُ ٱلنَّجْدَينِ</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">[البلد: 10] وقال:</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">وَأَمَّا
+  ثَمُودُ فَهَدَيْنَـٰهُمْ فَٱسْتَحَبُّواْ ٱلْعَمَىٰ عَلَى ٱلْهُدَىٰ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[فصلت:
+  17] الثالث: الهداية بإرسال الرسل وإنزال الكتب، وإياها عنى بقوله:</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">وَجَعَلْنَاهُمْ
+  أَئِمَّةً يَهْدُونَ بِأَمْرِنَا</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">[الأنبياء: 73] وقوله:</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">إِنَّ
+  هَـٰذَا ٱلْقُرْءانَ يِهْدِى لِلَّتِى هِىَ أَقْوَمِ</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">[الإسراء: 9] الرابع: أن يكشف على
+  قلوبهم السرائر ويريهم الأشياء كما هي بالوحي، أو الإلهام والمنامات الصادقة، وهذا
+  قسم يختص بنيله الأنبياء والأولياء وإياه عنى بقوله:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">أُوْلَـئِكَ ٱلَّذِينَ هَدَى ٱللَّهُ
+  فَبِهُدَاهُمُ ٱقْتَدِهْ</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">[الأنعام: 90] وقوله:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">وَٱلَّذِينَ جَـٰهَدُواْ فِينَا لَنَهْدِيَنَّهُمْ
+  سُبُلَنَا</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">[العنكبوت: 69] فالمطلوب إما زيادة ما منحوه من الهدى، أو الثبات عليه،
+  أو حصول المراتب المرتبة عليه. فإذا قاله العارف بالله الواصل عنى به أرشدنا طريق السير
+  فيك لتمحو عنا ظلمات أحوالنا، وتميط غواشي أبداننا، لنستضيء بنور قدسك فنراك بنورك.
+  والأمر والدعاء يتشاركان لفظاً ومعنى ويتفاوتان بالاستعلاء والتسفل، وقيل: بالرتبة.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">والسراط: من سرط الطعام إذا ابتلعه فكأنه يسرط السابلة، ولذلك سمي
+  لقماً لأنه يلتقمهم. و { ٱلصّرٰطِ } من قلب السين صاداً ليطابق الطاء في الإطباق، وقد
+  يشم الصاد صوت الزاي ليكون أقرب إلى المبدل منه. وقرأ ابن كثير برواية قنبل عنه، ورويس
+  عن يعقوب بالأصل، وحمزة بالإشمام، والباقون بالصاد وهو لغة قريش، والثابت في الإمام
+  وجمعه سُرُطْ ككتب وهو كالطريق في التذكير والتأنيث.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">و
+  { ٱلْمُسْتَقِيمَ } المستوي والمراد به طريق الحق، وقيل: هو ملة الإسلام.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">صِرَاطَ ٱلَّذِينَ أَنْعَمْتَ عَلَيْهِمْ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[الفاتحه:
+  7] بدل من الأول بدل الكل، وهو في حكم تكرير العامل من حيث إنه المقصود بالنسبة، وفائدته
+  التوكيد والتنصيص على أن طريق المسلمين هو المشهود عليه بالاستقامة على آكد وجه وأبلغه
+  لأنه جعل كالتفسير والبيان له فكأنه من البين الذي لا خفاء فيه أن الطريق المستقيم
+  ما يكون طريق المؤمنين. وقيل: { ٱلَّذِينَ أَنْعَمْتَ عَلَيْهِمْ } الأنبياء، وقيل:
+  النبي صلى الله عليه وسلم وأصحابه وقيل: أصحاب موسى وعيسى عليهما الصلاة والسلام قبل
+  التحريف والنسخ. وقرىء: { صِرٰطِ مِنْ أَنْعَمْتَ عَلَيْهِمْ } والإنعام: إيصال النعمة،
+  وهي في الأصل الحالة التي يستلذها الإنسان فأطلقت لما يستلذه من النعمة وهي اللين،
+  ونعم الله وإن كانت لا تحصى كما قال:</font></font>&#13;\t\t\t<label disabled=\"true\"
+  class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(6,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(6,2,1)\"><u>2</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(1, 6)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(1,6)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">ٱهْدِنَا ٱلصِّرَاطَ ٱلْمُسْتَقِيمَ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\"/></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">وَإِن تَعُدُّواْ نِعْمَةَ ٱللَّهِ لاَ تُحْصُوهَا</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[النحل:
+  18] تنحصر في جنسين: دنيوي وأخروي.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">والأول
+  قسمان: وهبي وكسبي والوهبي قسمان: روحاني كنفخ الروح فيه وإشراقه بالعقل وما يتبعه
+  من القوى كالفهم والفكر والنطق، وجسماني كتخليق البدن والقوى الحالة فيه والهيئات العارضة
+  له من الصحة وكمال الأعضاء والكسبي تزكية النفس عن الرذائل وتحليتها بالأخلاق السنية
+  والملكات الفاضلة، وتزيين البدن بالهيئات المطبوعة والحلى المستحسنة وحصول الجاه والمال.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">والثاني: أن يغفر له ما فرط منه ويرضى عنه ويبوئه في أعلى عليين مع
+  الملائكة المقربين أبد الآبدين. والمراد هو القسم الأخير وما يكون وصلة إلى نيله من
+  الآخرة فإن ما عدا ذلك يشترك فيه المؤمن والكافر.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(6,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(6,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section>"
 

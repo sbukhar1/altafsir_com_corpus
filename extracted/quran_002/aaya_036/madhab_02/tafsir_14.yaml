@@ -1,4 +1,4 @@
-location:
+position:
   sura: '002'
   aaya: '036'
   madhab: '02'
@@ -7,118 +7,301 @@ meta:
   title: تفسير المحرر الوجيز في تفسير الكتاب العزيز
   author: ابن عطية
   year: '546'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَقُلْنَا يَآءَادَمُ
-  ٱسْكُنْ أَنْتَ وَزَوْجُكَ ٱلْجَنَّةَ وَكُلاَ مِنْهَا رَغَداً حَيْثُ شِئْتُمَا وَلاَ
-  تَقْرَبَا هَـٰذِهِ ٱلشَّجَرَةَ فَتَكُونَا مِنَ ٱلْظَّٰلِمِينَ } * { فَأَزَلَّهُمَا
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(2, 35)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(2,35)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَقُلْنَا
+  يَآءَادَمُ ٱسْكُنْ أَنْتَ وَزَوْجُكَ ٱلْجَنَّةَ وَكُلاَ مِنْهَا رَغَداً حَيْثُ شِئْتُمَا
+  وَلاَ تَقْرَبَا هَـٰذِهِ ٱلشَّجَرَةَ فَتَكُونَا مِنَ ٱلْظَّٰلِمِينَ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">فَأَزَلَّهُمَا
   ٱلشَّيْطَٰنُ عَنْهَا فَأَخْرَجَهُمَا مِمَّا كَانَا فِيهِ وَقُلْنَا ٱهْبِطُواْ بَعْضُكُمْ
-  لِبَعْضٍ عَدُوٌّ وَلَكُمْ فِي ٱلأَرْضِ مُسْتَقَرٌّ وَمَتَٰعٌ إِلَىٰ حِينٍ }{ اسكن
-  } معناه لازم الإقامة، ولفظه لفظ الأمر ومعناه الإذن، و { أنت } تأكيد للضمير الذي
-  في { اسكن } ، { وزوجك } عطف عليه والزوج امرأة الرجل وهذا أشهر من زوجة، وقد تقدم،
-  و { الجنة } البستان عليه حظيرة، واختلف في الجنة التي أسكنها آدم، هل هي جنة الخلد
-  أو جنة أعدت لهما؟ وذهب من لم يجعلها جنة الخلد إلى أن من دخل جنة الخلد لا يخرج منها،
-  وهذا لا يمتنع، إلا أن السمع ورد أن من دخلها مثاباً لا يخرج منها، وأما من دخلها ابتداء
-  كآدم فغير مستحيل ولا ورد سمع بأنه لا يخرج منها.واختلف متى خلقت حواء من ضلع آدم عليه
-  السلام؟ فقال ابن عباس \" حين أنبأ الملائكة بالأسماء وأسجدوا له ألقيت عليه السنة
-  وخلقت حواء، فاستيقظ وهي إلى جانبه \" فقال فيما يزعمون: لحمي ودمي، وسكن إليها، فذهبت
-  الملائكة لتجرب علمه، فقالوا له يا آدم ما اسمها؟ قال: حواء. قالوا: ولم؟ قال: لأنها
-  خلقت من شيء حي، ثم قال الله له: { اسكن أنت وزوجك الجنة }.وقال ابن مسعود وابن عباس
-  أيضاً: لما أسكن آدم الجنة مشى فيها مستوحشاً، فلما نام خلقت حواء من ضلعه القصيرى،
-  ليسكن إليها ويستأنس بها، فلما انتبه رآها، فقال: من أنت؟ قالت: امرأة خلقت من ضلعك
-  لتسكن إلي، وحذفت النون من { كلا } للأمر، والألف الأولى لحركة الكاف حين حذفت الثانية
-  لاجتماع المثلين وهو حذف شاذ، ولفظ هذا الأمر بـ { كلا } معناه الإباحة، بقرينة قوله:
-  { حيث شئتما } والضمير في { منها } عائد على { الجنة }.وقرأ ابن وثاب والنخعي \" رغْداً
-  \" بسكون الغين، والجمهور على فتحها، والرغد العيش الدارّ الهنيّ الذي لا عناء فيه،
-  ومنه قول امرىء القيس: [الرمل].بينما المرء تراه ناعماً   يأمن الأحداث في عيشٍ رَغَدْو
-  { رغداً } منصوب على الصفة لمصدر محذوف وقيل: هو نصب على المصدر في موضع الحال، و {
-  حيث } مبنية على الضم، ومن العرب من يبنيها على الفتح، ومن العرب من يعربها حسب موضعها
-  بالرفع والنصب والخفض، كقوله سبحانه:{ سنستدرجهم من حيث لا يعلمون }[الأعراف: 82، القلم:
-  44] ومن العرب من يقول \" حوث \" ، و { شئتما } أصله شيأتما حوّل إلى فعلتما تحركت
-  ياؤه وانفتح ما قبلها جاء شائتما، حذفت الألف الساكنة الممدودة للالتقاء وكسرت الشين
-  لتدل على الياء فجاء شئتما.قال القاضي أبو محمد: هذا تعليل المبرد، فأما سيبويه فالأصل
-  عنده شيئتما بكسر الياء، نقلت حركة الياء إلى الشين، وحذفت الياء بعد.وقوله تعالى:
-  { ولا تقربا هذه الشجرة } معناه لا تقرباها، بأكل، لأن الإباحة فيه وقعت.قال بعض الحذاق:
-  \" إن الله لما أراد النهي عن أكل الشجرة نهى عنه بلفظة تقتضي الأكل وما يدعو إليه
-  وهو القرب \".\r\n\t\t\t\r\n\t\t\t1 2 3 4 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَقُلْنَا يَآءَادَمُ ٱسْكُنْ أَنْتَ
-  وَزَوْجُكَ ٱلْجَنَّةَ وَكُلاَ مِنْهَا رَغَداً حَيْثُ شِئْتُمَا وَلاَ تَقْرَبَا هَـٰذِهِ
-  ٱلشَّجَرَةَ فَتَكُونَا مِنَ ٱلْظَّٰلِمِينَ } * { فَأَزَلَّهُمَا ٱلشَّيْطَٰنُ عَنْهَا
-  فَأَخْرَجَهُمَا مِمَّا كَانَا فِيهِ وَقُلْنَا ٱهْبِطُواْ بَعْضُكُمْ لِبَعْضٍ عَدُوٌّ
-  وَلَكُمْ فِي ٱلأَرْضِ مُسْتَقَرٌّ وَمَتَٰعٌ إِلَىٰ حِينٍ }قال القاضي أبو محمد عبد
-  الحق رضي الله عنه: وهذا مثال بين في سد الذرائع.وقرأ ابن محيصن هذي على الأصل، والهاء
-  في هذه بدل من الياء، وليس في الكلام هاء تأنيث مكسور ما قبلها غير هذه، وتحتمل هذه
-  الإشارة أن تكون إلى شجرة معينة واحدة، أو إلى جنس.وحكى هارون الأعور عن بعض العلماء
-  قراءة \" الشِّجرة \" بكسر الشين و \" الشجر \" كل ما قام من النبات على ساق.واختلف
-  في هذه { الشجرة } التي نهى عنها ما هي؟فقال ابن مسعود وابن عباس: \" هي الكَرْم ولذلك
-  حرمت علينا الخمر \".وقال ابن جريج عن بعض الصحابة: \" هي شجرة التين \".وقال ابن عباس
-  أيضاً وأبو مالك وعطية وقتادة: \" هي السنبلة وحبها ككلى البقر، أحلى من العسل، وألين
-  من الزبد \".وروي عن ابن عباس أيضاً: \" أنها شجرة العلم، فيها ثمر كل شيء \".قال القاضي
-  أبو محمد: وهذا ضعيف لا يصح عن ابن عباس.وحكى الطبري عن يعقوب بن عتبة: \" أنها الشجرة
-  التي كانت الملائكة تحنك بها للخلد \".قال القاضي أبو محمد: وهذا أيضاً ضعيف.قال: \"
-  واليهود تزعم أنها الحنظلة، وتقول: إنها كانت حلوة ومُرَّت من حينئذ \".قال القاضي
-  أبو محمد وليس في شيء من هذا التعيين ما يعضده خبر، وإنما الصواب أن يعتقد أن الله
-  تعالى نهى آدم عن شجرة فخالف هو إليها وعصى في الأكل منها، وفي حظره تعالى على آدم
-  الشجرة ما يدل على أن سكناه في الجنة لا يدوم، لأن المخلد لا يحظر عليه شيء، ولا يؤمر
-  ولا ينهى.وقيل إن هذه الشجرة كانت خصت بأن تحوج آكلها إلى التبرز، فلذلك نهي عنها فلما
-  أكل منها ولم تكن الجنة موضع تبرز أهبط إلى الأرض.وقوله { فتكونا } في موضع جزم على
-  العطف على { لا تقربا } ، ويجوز فيه النصب على الجواب، والناصب عند الخليل وسيبويه
-  \" أن المضمرة \" ، وعند الجرمي الفاء، والظالم في اللغة الذي يضع الشيء غير موضعه،
-  ومنه قولهم: \" من أشبه أباه فما ظلم \" ومنه \" المظلومة الجلد \" لأن المطر لم يأتها
-  في وقته، ومنه قول عمرو بن قمئة: [الكامل]ظلم البطاح بها انهلالُ حريصةٍ   فصفا النطافُ
-  له بعيدَ المقلعِوالظلم في أحكام الشرع على مراتب، أعلاها الشرك، ثم ظلم المعاصي وهي
+  لِبَعْضٍ عَدُوٌّ وَلَكُمْ فِي ٱلأَرْضِ مُسْتَقَرٌّ وَمَتَٰعٌ إِلَىٰ حِينٍ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">{ اسكن } معناه لازم الإقامة، ولفظه لفظ الأمر ومعناه الإذن، و { أنت
+  } تأكيد للضمير الذي في { اسكن } ، { وزوجك } عطف عليه والزوج امرأة الرجل وهذا أشهر
+  من زوجة، وقد تقدم، و { الجنة } البستان عليه حظيرة، واختلف في الجنة التي أسكنها آدم،
+  هل هي جنة الخلد أو جنة أعدت لهما؟ وذهب من لم يجعلها جنة الخلد إلى أن من دخل جنة
+  الخلد لا يخرج منها، وهذا لا يمتنع، إلا أن السمع ورد أن من دخلها مثاباً لا يخرج منها،
+  وأما من دخلها ابتداء كآدم فغير مستحيل ولا ورد سمع بأنه لا يخرج منها.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">واختلف متى خلقت حواء من ضلع آدم عليه السلام؟ فقال ابن عباس \" حين
+  أنبأ الملائكة بالأسماء وأسجدوا له ألقيت عليه السنة وخلقت حواء، فاستيقظ وهي إلى جانبه
+  \" فقال فيما يزعمون: لحمي ودمي، وسكن إليها، فذهبت الملائكة لتجرب علمه، فقالوا له
+  يا آدم ما اسمها؟ قال: حواء. قالوا: ولم؟ قال: لأنها خلقت من شيء حي، ثم قال الله له:
+  { اسكن أنت وزوجك الجنة }.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال ابن مسعود وابن عباس أيضاً:
+  لما أسكن آدم الجنة مشى فيها مستوحشاً، فلما نام خلقت حواء من ضلعه القصيرى، ليسكن
+  إليها ويستأنس بها، فلما انتبه رآها، فقال: من أنت؟ قالت: امرأة خلقت من ضلعك لتسكن
+  إلي، وحذفت النون من { كلا } للأمر، والألف الأولى لحركة الكاف حين حذفت الثانية لاجتماع
+  المثلين وهو حذف شاذ، ولفظ هذا الأمر بـ { كلا } معناه الإباحة، بقرينة قوله: { حيث
+  شئتما } والضمير في { منها } عائد على { الجنة }.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقرأ
+  ابن وثاب والنخعي \" رغْداً \" بسكون الغين، والجمهور على فتحها، والرغد العيش الدارّ
+  الهنيّ الذي لا عناء فيه، ومنه قول امرىء القيس: [الرمل].</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><table class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">بينما المرء
+  تراه ناعماً</font></font></b></td><td class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">يأمن الأحداث في عيشٍ رَغَدْ</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">و { رغداً } منصوب على الصفة لمصدر
+  محذوف وقيل: هو نصب على المصدر في موضع الحال، و { حيث } مبنية على الضم، ومن العرب
+  من يبنيها على الفتح، ومن العرب من يعربها حسب موضعها بالرفع والنصب والخفض، كقوله
+  سبحانه:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">سنستدرجهم من حيث لا يعلمون</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">[الأعراف: 82، القلم: 44] ومن العرب
+  من يقول \" حوث \" ، و { شئتما } أصله شيأتما حوّل إلى فعلتما تحركت ياؤه وانفتح ما
+  قبلها جاء شائتما، حذفت الألف الساكنة الممدودة للالتقاء وكسرت الشين لتدل على الياء
+  فجاء شئتما.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">قال القاضي أبو محمد: هذا تعليل
+  المبرد، فأما سيبويه فالأصل عنده شيئتما بكسر الياء، نقلت حركة الياء إلى الشين، وحذفت
+  الياء بعد.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقوله تعالى: { ولا تقربا هذه الشجرة
+  } معناه لا تقرباها، بأكل، لأن الإباحة فيه وقعت.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال
+  بعض الحذاق: \" إن الله لما أراد النهي عن أكل الشجرة نهى عنه بلفظة تقتضي الأكل وما
+  يدعو إليه وهو القرب \".</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\"
+  border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE:
+  none; BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(14,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(14,2,1)\"><u>2</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(14,3,1)\"><u>3</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(14,4,1)\"><u>4</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2, 35)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,35)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَقُلْنَا يَآءَادَمُ ٱسْكُنْ أَنْتَ وَزَوْجُكَ ٱلْجَنَّةَ
+  وَكُلاَ مِنْهَا رَغَداً حَيْثُ شِئْتُمَا وَلاَ تَقْرَبَا هَـٰذِهِ ٱلشَّجَرَةَ فَتَكُونَا
+  مِنَ ٱلْظَّٰلِمِينَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">فَأَزَلَّهُمَا ٱلشَّيْطَٰنُ عَنْهَا فَأَخْرَجَهُمَا
+  مِمَّا كَانَا فِيهِ وَقُلْنَا ٱهْبِطُواْ بَعْضُكُمْ لِبَعْضٍ عَدُوٌّ وَلَكُمْ فِي
+  ٱلأَرْضِ مُسْتَقَرٌّ وَمَتَٰعٌ إِلَىٰ حِينٍ</a> <b>}</b></font>, <br/>, <br/>, <div
+  align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">قال
+  القاضي أبو محمد عبد الحق رضي الله عنه: وهذا مثال بين في سد الذرائع.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقرأ ابن محيصن هذي على الأصل، والهاء في هذه بدل من الياء، وليس في
+  الكلام هاء تأنيث مكسور ما قبلها غير هذه، وتحتمل هذه الإشارة أن تكون إلى شجرة معينة
+  واحدة، أو إلى جنس.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وحكى هارون الأعور عن بعض العلماء
+  قراءة \" الشِّجرة \" بكسر الشين و \" الشجر \" كل ما قام من النبات على ساق.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">واختلف في هذه { الشجرة } التي نهى عنها ما هي؟</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">فقال ابن مسعود وابن عباس: \" هي الكَرْم ولذلك حرمت علينا الخمر \".</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال ابن جريج عن بعض الصحابة: \" هي شجرة التين \".</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال ابن عباس أيضاً وأبو مالك وعطية وقتادة: \" هي السنبلة وحبها
+  ككلى البقر، أحلى من العسل، وألين من الزبد \".</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وروي
+  عن ابن عباس أيضاً: \" أنها شجرة العلم، فيها ثمر كل شيء \".</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال
+  القاضي أبو محمد: وهذا ضعيف لا يصح عن ابن عباس.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وحكى
+  الطبري عن يعقوب بن عتبة: \" أنها الشجرة التي كانت الملائكة تحنك بها للخلد \".</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قال القاضي أبو محمد: وهذا أيضاً ضعيف.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال:
+  \" واليهود تزعم أنها الحنظلة، وتقول: إنها كانت حلوة ومُرَّت من حينئذ \".</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قال القاضي أبو محمد وليس في شيء من هذا التعيين ما يعضده خبر، وإنما
+  الصواب أن يعتقد أن الله تعالى نهى آدم عن شجرة فخالف هو إليها وعصى في الأكل منها،
+  وفي حظره تعالى على آدم الشجرة ما يدل على أن سكناه في الجنة لا يدوم، لأن المخلد لا
+  يحظر عليه شيء، ولا يؤمر ولا ينهى.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقيل
+  إن هذه الشجرة كانت خصت بأن تحوج آكلها إلى التبرز، فلذلك نهي عنها فلما أكل منها ولم
+  تكن الجنة موضع تبرز أهبط إلى الأرض.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقوله
+  { فتكونا } في موضع جزم على العطف على { لا تقربا } ، ويجوز فيه النصب على الجواب،
+  والناصب عند الخليل وسيبويه \" أن المضمرة \" ، وعند الجرمي الفاء، والظالم في اللغة
+  الذي يضع الشيء غير موضعه، ومنه قولهم: \" من أشبه أباه فما ظلم \" ومنه \" المظلومة
+  الجلد \" لأن المطر لم يأتها في وقته، ومنه قول عمرو بن قمئة: [الكامل]</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><table class=\"TextArabic\"
+  dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">ظلم البطاح بها انهلالُ حريصةٍ</font></font></b></td><td class=\"TextArabic\">   </td><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">فصفا النطافُ
+  له بعيدَ المقلعِ</font></font></b></td></tr></table><font class=\"TextResultArabic\"><font
+  color=\"black\">والظلم في أحكام الشرع على مراتب، أعلاها الشرك، ثم ظلم المعاصي وهي
   مراتب، وهو في هذه الآية يدل على أن قوله: { ولا تقربا } على جهة الوجوب، لا على الندب،
   لأن من ترك المندوب لا يسمى ظالماً، فاقتضت لفظة الظلم قوة النهي، و \" أزلهما \" مأخوذ
-  من الزلل، وهو في الآية مجاز، لأنه في الرأي والنظر، وإنما حقيقة الزلل في القدم.\r\n\t\t\t\r\n\t\t\t1 2 3 4 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَقُلْنَا يَآءَادَمُ ٱسْكُنْ أَنْتَ
-  وَزَوْجُكَ ٱلْجَنَّةَ وَكُلاَ مِنْهَا رَغَداً حَيْثُ شِئْتُمَا وَلاَ تَقْرَبَا هَـٰذِهِ
-  ٱلشَّجَرَةَ فَتَكُونَا مِنَ ٱلْظَّٰلِمِينَ } * { فَأَزَلَّهُمَا ٱلشَّيْطَٰنُ عَنْهَا
-  فَأَخْرَجَهُمَا مِمَّا كَانَا فِيهِ وَقُلْنَا ٱهْبِطُواْ بَعْضُكُمْ لِبَعْضٍ عَدُوٌّ
-  وَلَكُمْ فِي ٱلأَرْضِ مُسْتَقَرٌّ وَمَتَٰعٌ إِلَىٰ حِينٍ }قال أبو علي: { فأزلهما
-  } يحتمل تأويلين، أحدهما، كسبهما الزلة، والآخر أن يكون من زل إذا عثر \".وقرأ حمزة:
-  \" فأزالهما \" ، مأخوذ من الزوال، كأنه المزيل لما كان إغواؤه مؤدياً إلى الزوال.
-  وهي قراءة الحسن وأبي رجاء، ولا خلاف بين العلماء أن إبليس اللعين هو متولي إغواء آدم.
-  واختلف في الكيفية، فقال ابن عباس وابن مسعود وجمهور العلماء: أغواهما مشافهة، ودليل
-  ذلك قوله تعالى: { وقاسمهما } والمقاسمة ظاهرها المشافهة.وقال بعضهم: إن إبليس لما
-  دخل إلى آدم كلمه في حاله، فقال: يا آدم ما أحسن هذا لو أن خلداً كان، فوجد إبليس السبيل
-  إلى إغوائه، فقال: هل أدلك على شجرة الخلد؟.وقال بعضهم: دخل الجنة في فم الحية وهي
-  ذات أربع كالبختية، بعد أن عرض نفسه على كثير من الحيوان فلم تدخله إلا الحية، فخرج
-  إلى حواء وأخذ شيئاً من الشجرة، وقال: انظري ما أحسن هذا فأغواها حتى أكلت، ثم أغوى
-  آدم، وقالت له حواء: كل فإني قد أكلت فلم يضرني فأكل فبدت لهما سوءاتهما، وحصلا في
-  حكم الذنب، ولعنت الحية وردت قوائمها في جوفها، وجعلت العداوة بينها وبين بني آدم،
-  وقيل لحواء: كما أدميت الشجرة فكذلك يصيبك الدم في كل شهر، وكذلك تحملين كرهاً، وتضعين
-  كرهاً، تشرفين به على الموت مراراً. زاد الطبري والنقاش: \" وتكونين سفيهة، وقد كنت
-  حليمة \".وقالت طائفة: إن إبليس لم يدخل الجنة إلى آدم بعد أن أخرج منها، وإنما أغوى
-  آدم بشيطانه وسلطانه ووساوسه التي أعطاه الله تعالى، كما قال النبي صلى الله عليه وسلم:
-  \" إن الشيطان يجري من ابن آدم مجرى الدم \". والضمير في { عنها } عائد على { الشجرة
-  } في قراءة من قرأ \" أزلهما \" ، ويحتمل أن يعود على { الجنة } فأما من قرأ \" أزالهما
-  \" فإنه يعود على { الجنة } فقط، وهنا محذوف يدل عليه الظاهر، تقديره فأكلا من الشجرة.وقال
-  قوم: \" أكلا من غير التي أشير إليها فلم يتأولا النهي واقعاً على جميع جنسها \".وقال
-  آخرون: \" تأولا النهي على الندب \".وقال ابن المسيب: \" إنما أكل آدم بعد أن سقته
-  حواء الخمر فكان في غير عقله \".وقوله تعالى: { فأخرجهما مما كانا فيه } يحتمل وجوهاً،
-  فقيل أخرجهما من الطاعة إلى المعصية. وقيل: من نعمة الجنة إلى شقاء الدنيا. وقيل: من
-  رفعة المنزلة إلى سفل مكانة الذنب.قال القاضي أبو محمد: وهذا كله يتقارب.وقرأ أبو حيوة:
-  \" اهبُطوا \" بضم الباء. \" ويفعُل \" كثير في غير المتعدي وهبط غير متعدٍّ.\r\n\t\t\t\r\n\t\t\t1 2 3 4 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَقُلْنَا يَآءَادَمُ ٱسْكُنْ أَنْتَ
-  وَزَوْجُكَ ٱلْجَنَّةَ وَكُلاَ مِنْهَا رَغَداً حَيْثُ شِئْتُمَا وَلاَ تَقْرَبَا هَـٰذِهِ
-  ٱلشَّجَرَةَ فَتَكُونَا مِنَ ٱلْظَّٰلِمِينَ } * { فَأَزَلَّهُمَا ٱلشَّيْطَٰنُ عَنْهَا
-  فَأَخْرَجَهُمَا مِمَّا كَانَا فِيهِ وَقُلْنَا ٱهْبِطُواْ بَعْضُكُمْ لِبَعْضٍ عَدُوٌّ
-  وَلَكُمْ فِي ٱلأَرْضِ مُسْتَقَرٌّ وَمَتَٰعٌ إِلَىٰ حِينٍ }والهبوط النزول من علو
-  إلى أسفل.واختلف من المخاطب بالهبوط، فقال السدي وغيره: \" آدم وحواء وإبليس والحية
-  \".وقال الحسن: \" آدم وحواء والوسوسة \".قال غيره: \" والحية لأن إبليس قد كان أهبط
-  قبل عند معصيته \".و { بعضكم لبعض عدو } جملة في موضع الحال، وإفراد لفظ { عدو } من
-  حيث لفظ { بعض } ، وبعض وكل تجري مجرى الواحد، ومن حيث لفظة { عدو } تقع للواحد، والجمع،
-  قال الله تعالى:{ هم العدو فاحذرهم }[المنافقون: 4] { ولكم في الأرض مستقر } أي موضع
-  استقرار قاله أبو العالية وابن زيد.وقال السدي: \" المراد الاستقرار في القبور، والمتاع
-  ما يستمتع به من أكل ولبس وحياة، وحديث، وأنس، وغير ذلك \". وأنشد سليمان بن عبد الملك
-  حين وقف على قبر ابنه أيوب إثر دفنه: [الطويل]وقفتُ على قبرٍ غريب بقفرة   متاع قليل
-  من حبيب مفارقواختلف المتأولون في الحين هاهنا فقالت فرقة: إلى الموت، وهذا قول من
-  يقول المستقر هو المقام في الدنيا، وقالت فرقة: { إلى حين } إلى يوم القيامة، وهذا
+  من الزلل، وهو في الآية مجاز، لأنه في الرأي والنظر، وإنما حقيقة الزلل في القدم.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(14,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(14,3,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(14,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td><td><a href=\"Javascript:InnerLink_onchange(14,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(14,4,1)\"><u>4</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2, 35)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,35)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَقُلْنَا يَآءَادَمُ ٱسْكُنْ أَنْتَ وَزَوْجُكَ ٱلْجَنَّةَ
+  وَكُلاَ مِنْهَا رَغَداً حَيْثُ شِئْتُمَا وَلاَ تَقْرَبَا هَـٰذِهِ ٱلشَّجَرَةَ فَتَكُونَا
+  مِنَ ٱلْظَّٰلِمِينَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">فَأَزَلَّهُمَا ٱلشَّيْطَٰنُ عَنْهَا فَأَخْرَجَهُمَا
+  مِمَّا كَانَا فِيهِ وَقُلْنَا ٱهْبِطُواْ بَعْضُكُمْ لِبَعْضٍ عَدُوٌّ وَلَكُمْ فِي
+  ٱلأَرْضِ مُسْتَقَرٌّ وَمَتَٰعٌ إِلَىٰ حِينٍ</a> <b>}</b></font>, <br/>, <br/>, <div
+  align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">قال
+  أبو علي: { فأزلهما } يحتمل تأويلين، أحدهما، كسبهما الزلة، والآخر أن يكون من زل إذا
+  عثر \".</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقرأ حمزة: \" فأزالهما \" ، مأخوذ
+  من الزوال، كأنه المزيل لما كان إغواؤه مؤدياً إلى الزوال. وهي قراءة الحسن وأبي رجاء،
+  ولا خلاف بين العلماء أن إبليس اللعين هو متولي إغواء آدم. واختلف في الكيفية، فقال
+  ابن عباس وابن مسعود وجمهور العلماء: أغواهما مشافهة، ودليل ذلك قوله تعالى: { وقاسمهما
+  } والمقاسمة ظاهرها المشافهة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  بعضهم: إن إبليس لما دخل إلى آدم كلمه في حاله، فقال: يا آدم ما أحسن هذا لو أن خلداً
+  كان، فوجد إبليس السبيل إلى إغوائه، فقال: هل أدلك على شجرة الخلد؟.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال بعضهم: دخل الجنة في فم الحية وهي ذات أربع كالبختية، بعد أن
+  عرض نفسه على كثير من الحيوان فلم تدخله إلا الحية، فخرج إلى حواء وأخذ شيئاً من الشجرة،
+  وقال: انظري ما أحسن هذا فأغواها حتى أكلت، ثم أغوى آدم، وقالت له حواء: كل فإني قد
+  أكلت فلم يضرني فأكل فبدت لهما سوءاتهما، وحصلا في حكم الذنب، ولعنت الحية وردت قوائمها
+  في جوفها، وجعلت العداوة بينها وبين بني آدم، وقيل لحواء: كما أدميت الشجرة فكذلك يصيبك
+  الدم في كل شهر، وكذلك تحملين كرهاً، وتضعين كرهاً، تشرفين به على الموت مراراً. زاد
+  الطبري والنقاش: \" وتكونين سفيهة، وقد كنت حليمة \".</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقالت
+  طائفة: إن إبليس لم يدخل الجنة إلى آدم بعد أن أخرج منها، وإنما أغوى آدم بشيطانه وسلطانه
+  ووساوسه التي أعطاه الله تعالى، كما قال النبي صلى الله عليه وسلم:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" إن الشيطان يجري من ابن آدم مجرى
+  الدم \". </font></font></b><font class=\"TextResultArabic\"><font color=\"black\">والضمير
+  في { عنها } عائد على { الشجرة } في قراءة من قرأ \" أزلهما \" ، ويحتمل أن يعود على
+  { الجنة } فأما من قرأ \" أزالهما \" فإنه يعود على { الجنة } فقط، وهنا محذوف يدل
+  عليه الظاهر، تقديره فأكلا من الشجرة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  قوم: \" أكلا من غير التي أشير إليها فلم يتأولا النهي واقعاً على جميع جنسها \".</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال آخرون: \" تأولا النهي على الندب \".</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  ابن المسيب: \" إنما أكل آدم بعد أن سقته حواء الخمر فكان في غير عقله \".</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقوله تعالى: { فأخرجهما مما كانا فيه } يحتمل وجوهاً، فقيل أخرجهما
+  من الطاعة إلى المعصية. وقيل: من نعمة الجنة إلى شقاء الدنيا. وقيل: من رفعة المنزلة
+  إلى سفل مكانة الذنب.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">قال القاضي أبو محمد: وهذا كله يتقارب.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقرأ أبو حيوة: \" اهبُطوا \" بضم الباء. \" ويفعُل \" كثير في غير
+  المتعدي وهبط غير متعدٍّ.</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(14,2,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(14,4,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(14,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(14,2,1)\"><u>2</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">3 </font></td><td><a href=\"Javascript:InnerLink_onchange(14,4,1)\"><u>4</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2, 35)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,35)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَقُلْنَا يَآءَادَمُ ٱسْكُنْ أَنْتَ وَزَوْجُكَ ٱلْجَنَّةَ
+  وَكُلاَ مِنْهَا رَغَداً حَيْثُ شِئْتُمَا وَلاَ تَقْرَبَا هَـٰذِهِ ٱلشَّجَرَةَ فَتَكُونَا
+  مِنَ ٱلْظَّٰلِمِينَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">فَأَزَلَّهُمَا ٱلشَّيْطَٰنُ عَنْهَا فَأَخْرَجَهُمَا
+  مِمَّا كَانَا فِيهِ وَقُلْنَا ٱهْبِطُواْ بَعْضُكُمْ لِبَعْضٍ عَدُوٌّ وَلَكُمْ فِي
+  ٱلأَرْضِ مُسْتَقَرٌّ وَمَتَٰعٌ إِلَىٰ حِينٍ</a> <b>}</b></font>, <br/>, <br/>, <div
+  align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">والهبوط
+  النزول من علو إلى أسفل.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">واختلف من المخاطب بالهبوط، فقال
+  السدي وغيره: \" آدم وحواء وإبليس والحية \".</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  الحسن: \" آدم وحواء والوسوسة \".</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال
+  غيره: \" والحية لأن إبليس قد كان أهبط قبل عند معصيته \".</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">و
+  { بعضكم لبعض عدو } جملة في موضع الحال، وإفراد لفظ { عدو } من حيث لفظ { بعض } ، وبعض
+  وكل تجري مجرى الواحد، ومن حيث لفظة { عدو } تقع للواحد، والجمع، قال الله تعالى:</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">هم
+  العدو فاحذرهم</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">[المنافقون: 4] { ولكم في الأرض مستقر } أي موضع استقرار قاله أبو
+  العالية وابن زيد.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال السدي: \" المراد الاستقرار
+  في القبور، والمتاع ما يستمتع به من أكل ولبس وحياة، وحديث، وأنس، وغير ذلك \". وأنشد
+  سليمان بن عبد الملك حين وقف على قبر ابنه أيوب إثر دفنه: [الطويل]</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><table class=\"TextArabic\"
+  dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">وقفتُ على قبرٍ غريب بقفرة</font></font></b></td><td class=\"TextArabic\">   </td><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">متاع قليل
+  من حبيب مفارق</font></font></b></td></tr></table><font class=\"TextResultArabic\"><font
+  color=\"black\">واختلف المتأولون في الحين هاهنا فقالت فرقة: إلى الموت، وهذا قول
+  من يقول المستقر هو المقام في الدنيا، وقالت فرقة: { إلى حين } إلى يوم القيامة، وهذا
   قول من يقول: المستقر هو في القبور. ويترتب أيضاً على أن المستقر في الدنيا أن يراد
   بقوله: { ولكم } ، أي لأنواعكم في الدنيا استقرار ومتاع قرناً بعد قرن إلى يوم القيامة،
-  والحين المدة الطويلة من الدهر، أقصرها في الأيمان والالتزامات سنة.قال الله تعالى:{ تؤتي
-  أكلها كل حين بإذن ربها }[إبراهيم: 25] وقد قيل: أقصرها ستة أشهر، لأن من النخل ما
-  يثمر في كل ستة أشهر، وقد يستعمل الحين في المحاورات في القليل من الزمن.وفي قوله تعالى:
-  { إلى حين } فائدة لآدم عليه السلام، ليعلم أنه غير باق فيها ومنتقل إلى الجنة التي
-  وعد بالرجوع إليها، وهي لغير آدم دالة على المعاد.وروي أن آدم نزل على جبل من جبال
-  سرنديب وأن حواء نزلت بجدة، وأن الحية نزلت بأصبهان، وقيل بميسان، وأن إبليس نزل على
-  الأبلة.\r\n\t\t\t\r\n\t\t\t1 2 3 4 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  والحين المدة الطويلة من الدهر، أقصرها في الأيمان والالتزامات سنة.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قال الله تعالى:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">تؤتي أكلها كل حين بإذن ربها</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[إبراهيم:
+  25] وقد قيل: أقصرها ستة أشهر، لأن من النخل ما يثمر في كل ستة أشهر، وقد يستعمل الحين
+  في المحاورات في القليل من الزمن.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وفي
+  قوله تعالى: { إلى حين } فائدة لآدم عليه السلام، ليعلم أنه غير باق فيها ومنتقل إلى
+  الجنة التي وعد بالرجوع إليها، وهي لغير آدم دالة على المعاد.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وروي
+  أن آدم نزل على جبل من جبال سرنديب وأن حواء نزلت بجدة، وأن الحية نزلت بأصبهان، وقيل
+  بميسان، وأن إبليس نزل على الأبلة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(14,3,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(14,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(14,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(14,3,1)\"><u>3</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">4 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section>"
 

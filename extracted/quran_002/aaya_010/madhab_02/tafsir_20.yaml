@@ -1,4 +1,4 @@
-location:
+position:
   sura: '002'
   aaya: '010'
   madhab: '02'
@@ -9,25 +9,58 @@ meta:
   year: '803'
 aaya: فِي قُلُوبِهِمْ مَرَضٌ فَزَادَهُمُ اللَّهُ مَرَضًا ۖ وَلَهُمْ عَذَابٌ أَلِيمٌ
   بِمَا كَانُوا يَكْذِبُونَ
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ فِي قُلُوبِهِم
-  مَّرَضٌ فَزَادَهُمُ ٱللَّهُ مَرَضاً وَلَهُم عَذَابٌ أَلِيمٌ بِمَا كَانُوا يَكْذِبُونَ
-  }قوله تعالى: { فِي قُلُوبِهِم مَّرَضٌ... }قال ابن عرفة: هذا احتراز لأنه لما أخبر
-  (عنهم) أنهم يخادعون الله، والمخادع على نوعين فالغالب عليه أن يكون صاحب فكر ونظر
-  ودهاء يدبر الأمور التي يخدع بها عدوه، ومنهم من يخادع على غير أصل وذلك موجب (الاستهزاء)
-  به وعلامة على سخافة عقله فأخبر الله تعالى أن المنافقين من القسم الثاني.وقال الطبري:
-  إن في اعتقاد قلوبهم مرضا.قال ابن عرفة: بل المرض في القلوب أنفسها كما قلناه.قوله
-  تعالى: { فَزَادَهُمُ ٱللَّهُ مَرَضاً... }الفاء للسبب (وفيه) العقوبة على الذنب بذنب
-  أشدّ منه. فإن قلت: هذا مرض واحد والزّيادة عليه إن كانت مثله لزم اجتماع المثلين في
-  المحلّ الواحد وهو باطل كما يمتنع اجتماع الضدّين والنَّقيضين: فأجيب بوجوه:الأول:
-  قال ابن عرفة: إنّما يمتنع ذلك في الواحد بالشّخص وهذا واحد بالنّوع أو بالجنس، فاشتركا
-  في جنس المرض و (تغايرا) في الفصل (واجتماع الغيرين جائز).الثاني: قال ابن عرفة أيضا:
-  الضّمير في زادهم عائد على ذواتهم لا على قلوبهم، إذ لو كان عائدا على القلوب لقال
-  (فزادها) الله مرضا. وهو أولى. فإن نزل المرض بجميع ذواتهم فمحلّ الثاني (أوسع) من
-  محلّ المثل الأوّل فصحّت الزّيادة، ولا يلزم منه اجتماع المثلين إلاّ أن يقال: إنّه
-  على حذف مضاف تقديره فزاد الله قلوبهم (مرضا).الثالث: قال بعض الطّلبة: ذكر الإسفراييني
-  وغيره في صحّة اجتماع المثلين (أنه) يخلق جوهرا آخر يكون فيه المثل الآخر زيادة في
-  نعيم المنعّم وعذاب المعذّب.قال ابن عرفة: إنّما ذلك في المثلين حقيقة، وهذان مختلفان
-  في الفصل بينهم غير أنّ كما تقدم (لا مثلان).قوله تعالى: { وَلَهُمْ عَذَابٌ أَلِيمٌ
-  }إما بمعنى مؤلم كقولك \" تحية بينهم ضرب وجيع \" ، أو بمعنى مؤلَّم، فيكون الألم حالا
-  (بالعذاب) مجازا أو تنبيها على شدّته \" مثل. جَدّ جِدّه \" - \" وشِعْر شَاعر \".\r\n\t\t\t\r\n\t\t\t</section>"
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(2, 10)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(2,10)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">فِي
+  قُلُوبِهِم مَّرَضٌ فَزَادَهُمُ ٱللَّهُ مَرَضاً وَلَهُم عَذَابٌ أَلِيمٌ بِمَا كَانُوا
+  يَكْذِبُونَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">قوله تعالى: { فِي قُلُوبِهِم مَّرَضٌ...
+  }</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">قال ابن عرفة: هذا احتراز لأنه لما
+  أخبر (عنهم) أنهم يخادعون الله، والمخادع على نوعين فالغالب عليه أن يكون صاحب فكر
+  ونظر ودهاء يدبر الأمور التي يخدع بها عدوه، ومنهم من يخادع على غير أصل وذلك موجب
+  (الاستهزاء) به وعلامة على سخافة عقله فأخبر الله تعالى أن المنافقين من القسم الثاني.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال الطبري: إن في اعتقاد قلوبهم مرضا.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال
+  ابن عرفة: بل المرض في القلوب أنفسها كما قلناه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قوله
+  تعالى: { فَزَادَهُمُ ٱللَّهُ مَرَضاً... }</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">الفاء
+  للسبب (وفيه) العقوبة على الذنب بذنب أشدّ منه. فإن قلت: هذا مرض واحد والزّيادة عليه
+  إن كانت مثله لزم اجتماع المثلين في المحلّ الواحد وهو باطل كما يمتنع اجتماع الضدّين
+  والنَّقيضين: فأجيب بوجوه:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">الأول: قال ابن عرفة: إنّما يمتنع
+  ذلك في الواحد بالشّخص وهذا واحد بالنّوع أو بالجنس، فاشتركا في جنس المرض و (تغايرا)
+  في الفصل (واجتماع الغيرين جائز).</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">الثاني:
+  قال ابن عرفة أيضا: الضّمير في زادهم عائد على ذواتهم لا على قلوبهم، إذ لو كان عائدا
+  على القلوب لقال (فزادها) الله مرضا. وهو أولى. فإن نزل المرض بجميع ذواتهم فمحلّ الثاني
+  (أوسع) من محلّ المثل الأوّل فصحّت الزّيادة، ولا يلزم منه اجتماع المثلين إلاّ أن
+  يقال: إنّه على حذف مضاف تقديره فزاد الله قلوبهم (مرضا).</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">الثالث:
+  قال بعض الطّلبة: ذكر الإسفراييني وغيره في صحّة اجتماع المثلين (أنه) يخلق جوهرا آخر
+  يكون فيه المثل الآخر زيادة في نعيم المنعّم وعذاب المعذّب.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال
+  ابن عرفة: إنّما ذلك في المثلين حقيقة، وهذان مختلفان في الفصل بينهم غير أنّ كما تقدم
+  (لا مثلان).</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">قوله تعالى: { وَلَهُمْ عَذَابٌ
+  أَلِيمٌ }</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">إما بمعنى مؤلم كقولك \" تحية بينهم
+  ضرب وجيع \" ، أو بمعنى مؤلَّم، فيكون الألم حالا (بالعذاب) مجازا أو تنبيها على شدّته
+  \" مثل. جَدّ جِدّه \" - \" وشِعْر شَاعر \".</font></font>&#13;\t\t\t<label disabled=\"true\"
+  class=\"############\"/>&#13;\t\t\t</div></section>"
 

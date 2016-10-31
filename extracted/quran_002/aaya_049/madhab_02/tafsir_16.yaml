@@ -1,4 +1,4 @@
-location:
+position:
   sura: '002'
   aaya: 049
   madhab: '02'
@@ -7,17 +7,35 @@ meta:
   title: تفسير تفسير القرآن
   author: ابن عبد السلام
   year: '660'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَإِذْ نَجَّيْنَٰكُم
-  مِّنْ آلِ فِرْعَوْنَ يَسُومُونَكُمْ سُوۤءَ ٱلْعَذَابِ يُذَبِّحُونَ أَبْنَآءَكُمْ
-  وَيَسْتَحْيُونَ نِسَآءَكُمْ وَفِي ذَٰلِكُمْ بَلاۤءٌ مِّن رَّبِّكُمْ عَظِيمٌ }{ ءَالِ
-  فِرْعَوْنَ } آل الرجل: هم الذين تؤول أمورهم إليه في نسب أو صحبة، والآل والأهل سواء
-  [أ] و الآل يضاف إلى المُظهر دون المضمر والأهل يضاف إليهما، أهل العلم وأهل البصرة
-  ولا يقال آل العلم ولا آل البصرة. { فِرعَوْنَ } اسم رجل معين، أو فرعون لملوك العمالقة،
-  كقيصر للروم وكسرى للفرس، واسم فرعون \" الوليد بن مصعب \" { يَسُومُونَكُمْ } يولونكم
-  \" سامه خطة خسفٍ \": أولاه، أو يجشمونكم الأعمال الشاقة، أو يزيدونكم على ذلك سوء
-  العذاب ومساومة البيع: مزايدة كل واحد من العاقدين. { وَيَسْتَحْيُونَ نِسَآءَكُمْ
-  } يبقونهم أحياء للاسترقاق والخدمة فلذلك كان من سوء العذاب. والنساء يقع على الكبار
-  والصغار، أو تسمى به الصغار، اعتباراً بما يصرن إليه { وَفِى ذَلِكُم } إنجائكم، أو
-  في سومهم إياكم سوء العذاب. والذبح والإبقاء، والبلاء: يستعمل في الاختبار بالخير والشر.
-  والأكثر في الخير: أبليته أبليه إبلاء، وفي الشر: بلوته أبلوه بلاء.\r\n\t\t\t\r\n\t\t\t</section>"
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(2, 49)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(2,49)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَإِذْ
+  نَجَّيْنَٰكُم مِّنْ آلِ فِرْعَوْنَ يَسُومُونَكُمْ سُوۤءَ ٱلْعَذَابِ يُذَبِّحُونَ
+  أَبْنَآءَكُمْ وَيَسْتَحْيُونَ نِسَآءَكُمْ وَفِي ذَٰلِكُمْ بَلاۤءٌ مِّن رَّبِّكُمْ
+  عَظِيمٌ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">{ ءَالِ فِرْعَوْنَ } آل الرجل:
+  هم الذين تؤول أمورهم إليه في نسب أو صحبة، والآل والأهل سواء [أ] و الآل يضاف إلى
+  المُظهر دون المضمر والأهل يضاف إليهما، أهل العلم وأهل البصرة ولا يقال آل العلم ولا
+  آل البصرة. { فِرعَوْنَ } اسم رجل معين، أو فرعون لملوك العمالقة، كقيصر للروم وكسرى
+  للفرس، واسم فرعون \" الوليد بن مصعب \" { يَسُومُونَكُمْ } يولونكم \" سامه خطة خسفٍ
+  \": أولاه، أو يجشمونكم الأعمال الشاقة، أو يزيدونكم على ذلك سوء العذاب ومساومة البيع:
+  مزايدة كل واحد من العاقدين. { وَيَسْتَحْيُونَ نِسَآءَكُمْ } يبقونهم أحياء للاسترقاق
+  والخدمة فلذلك كان من سوء العذاب. والنساء يقع على الكبار والصغار، أو تسمى به الصغار،
+  اعتباراً بما يصرن إليه { وَفِى ذَلِكُم } إنجائكم، أو في سومهم إياكم سوء العذاب.
+  والذبح والإبقاء، والبلاء: يستعمل في الاختبار بالخير والشر. والأكثر في الخير: أبليته
+  أبليه إبلاء، وفي الشر: بلوته أبلوه بلاء.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

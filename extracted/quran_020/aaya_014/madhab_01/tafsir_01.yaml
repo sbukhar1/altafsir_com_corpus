@@ -1,4 +1,4 @@
-location:
+position:
   sura: '020'
   aaya: '014'
   madhab: '01'
@@ -7,45 +7,114 @@ meta:
   title: تفسير جامع البيان في تفسير القرآن
   author: الطبري
   year: '310'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَأَنَا ٱخْتَرْتُكَ
-  فَٱسْتَمِعْ لِمَا يُوحَىۤ } * { إِنَّنِيۤ أَنَا ٱللَّهُ لاۤ إِلَـٰهَ إِلاۤ أَنَاْ
-  فَٱعْبُدْنِي وَأَقِمِ ٱلصَّلاَةَ لِذِكْرِيۤ }اختلفت القرّاء فـي قراءة ذلك، فقرأته
-  عامة القرّاء الذين قرأوا: «وأنَّا» بتشديد النون، و { أنا } بفتـح الألف من «أنا»
-  ردّاً علـى: نودي يا موسى، كأنه معنى الكلام عندهم: نودي يا موسى إنـي أنا ربك، وأنا
-  اخترناك، وبهذه القراءة قرأ ذلك عامَّة قرّاء الكوفة. وأما عامة قرّاء الـمدينة والبصرة
-  وبعض أهل الكوفة فقرأوه: { وأنا اخْتَرْتُكَ } بتـخفـيف النون علـى وجه الـخبر من الله
-  عن نفسه أنه اختاره.قال أبو جعفر: والصواب من القول فـي ذلك عندي أن يقال: إنهما قراءتان
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(20, 13)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(20,13)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَأَنَا
+  ٱخْتَرْتُكَ فَٱسْتَمِعْ لِمَا يُوحَىۤ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">إِنَّنِيۤ أَنَا
+  ٱللَّهُ لاۤ إِلَـٰهَ إِلاۤ أَنَاْ فَٱعْبُدْنِي وَأَقِمِ ٱلصَّلاَةَ لِذِكْرِيۤ</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">اختلفت القرّاء فـي قراءة ذلك، فقرأته عامة القرّاء الذين قرأوا: «وأنَّا»
+  بتشديد النون، و { أنا } بفتـح الألف من «أنا» ردّاً علـى: نودي يا موسى، كأنه معنى
+  الكلام عندهم: نودي يا موسى إنـي أنا ربك، وأنا اخترناك، وبهذه القراءة قرأ ذلك عامَّة
+  قرّاء الكوفة. وأما عامة قرّاء الـمدينة والبصرة وبعض أهل الكوفة فقرأوه: { وأنا اخْتَرْتُكَ
+  } بتـخفـيف النون علـى وجه الـخبر من الله عن نفسه أنه اختاره.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قال أبو جعفر: والصواب من القول فـي ذلك عندي أن يقال: إنهما قراءتان
   قد قرأ بكلّ واحدة منهما قرّاء أهل العلـم بـالقرآن، مع اتفـاق معنـيـيهما. فبأيتهما
   قرأ القارىء فمصيب الصواب فـيه. وتأويـل الكلام: نودي أنَّا اخترناك. فـاجتبـيناك لرسالتنا
   إلـى من نرسلك إلـيه { فـاسْتَـمِعْ إلـى ما يُوحَى } يقول: فـاستـمع لوحينا الذي نوحيه
   إلـيك وعه، واعمل به { إنَّنِـي أنا اللّهُ } يقول تعالـى ذكره: إننـي أنا الـمعبود
   الذي لا تصلـح العبـادة إلاَّ له، لا إلَهَ إلاَّ أنا فلا تعبد غيري، فإنه لا معبود
   تـجوز أو تصلـح له العبـادة سواي { فـاعْبُدْنِـي } يقول: فأخـلص العبـادة لـي دون
-  كلّ ما عبد من دونـي { وأقِمِ الصَّلاةَ لِذِكْرِي }.واختلف أهل التأويـل فـي تأويـل
-  ذلك فقال بعضهم: معنى ذلك: أقم الصلاة لـي فإنك إذا أقمتها ذكرتنـي. ذكر من قال ذلك:حدثنـي
-  مـحمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى وحدثنـي الـحارث، قال: ثنا الـحسن،
-  قال: ثنا ورقاء جميعاً، عن ابن أبـي نـجيح، عن مـجاهد، فـي قوله: { أقِمِ الصَّلاةَ
-  لِذِكْرِي } قال: إذا صلـى ذكر ربه.حدثنا القاسم، قال: ثنا الـحسين، قال: ثنـي حجاج،
-  عن ابن جُرَيج، عن مـجاهد، قوله { وَأقِمِ الصَّلاةَ لِذِكْرِي } قال: إذا ذكر عَبَد
-  ربه.قال آخرون: بل معنى ذلك: وأقم الصلاة حين تذكرها.ذكر من قال ذلك:حدثنا مـحمد بن
-  بشار، قال: ثنا أبو عاصم، قال: ثنا سفـيان، عن مُغيرة، عن إبراهيـم فـي قوله: { وأقِمِ
-  الصَّلاةَ لِذِكْرِي } قال: يصلـيها حين يذكرها.حدثنـي أحمد بن عبد الرحمن بن وهب،
+  كلّ ما عبد من دونـي { وأقِمِ الصَّلاةَ لِذِكْرِي }.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">واختلف
+  أهل التأويـل فـي تأويـل ذلك فقال بعضهم: معنى ذلك: أقم الصلاة لـي فإنك إذا أقمتها
+  ذكرتنـي. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي مـحمد بن عمرو، قال: ثنا
+  أبو عاصم، قال: ثنا عيسى وحدثنـي الـحارث، قال: ثنا الـحسن، قال: ثنا ورقاء جميعاً،
+  عن ابن أبـي نـجيح، عن مـجاهد، فـي قوله: { أقِمِ الصَّلاةَ لِذِكْرِي } قال: إذا صلـى
+  ذكر ربه.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا القاسم، قال: ثنا الـحسين،
+  قال: ثنـي حجاج، عن ابن جُرَيج، عن مـجاهد، قوله { وَأقِمِ الصَّلاةَ لِذِكْرِي } قال:
+  إذا ذكر عَبَد ربه.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">قال آخرون: بل معنى ذلك: وأقم الصلاة
+  حين تذكرها.ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا مـحمد بن بشار، قال: ثنا أبو
+  عاصم، قال: ثنا سفـيان، عن مُغيرة، عن إبراهيـم فـي قوله: { وأقِمِ الصَّلاةَ لِذِكْرِي
+  } قال: يصلـيها حين يذكرها.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي أحمد بن عبد الرحمن بن وهب،
   قال: ثنـي عمي عبد الله بن وهب، قال: ثنـي ويونس ومالك بن شهاب، قال: أخبرنـي سعيد
-  بن الـمسيب، عن أبـي هريرة، أن رسول الله صلى الله عليه وسلم قال: \" مَنْ نَسِيَ صَلاةً
-  فَلْـيُصَلِّها إذَا ذَكَرَها، قال اللّهُ: أقِمِ الصَّلاةَ لِذِكْرِي \" وكان الزهري
-  يقرؤها: { أقِمِ الصَّلاةَ لِذِكْرِي } بـمنزلة فعلـى.قال أبو جعفر: وأولـى التأويـلـين
+  بن الـمسيب، عن أبـي هريرة، أن رسول الله صلى الله عليه وسلم قال:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" مَنْ نَسِيَ صَلاةً فَلْـيُصَلِّها
+  إذَا ذَكَرَها، قال اللّهُ: أقِمِ الصَّلاةَ لِذِكْرِي \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\">وكان الزهري يقرؤها: { أقِمِ الصَّلاةَ
+  لِذِكْرِي } بـمنزلة فعلـى.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">قال أبو جعفر: وأولـى التأويـلـين
   فـي ذلك بـالصواب تأويـل من قال: معناه: أقم الصلاة لتذكرنـي فـيها، لأن ذلك أظهر معنـيـيه
   ولو كان معناه: حين تذكرها، لكان التنزيـل: أقم الصلاة لذكركها. وفـي قوله: { لِذِكْرِي
   } دلالة بـينة علـى صحة ما قال مـجاهد فـي تأويـل ذلك ولو كانت القراءة التـي ذكرناها
   عن الزهري قراءة مستفـيضة فـي قَراءة الأمصار، كان صحيحاً تأويـل من تأوّله بـمعنى:
   أقم الصلاة حين تذكرها، وذلك أن الزهري وجَّه بقراءته أقِمِ الصَّلاةَ لِذِكْرَى بـالألف
   لا بـالإضافة، إلـى أقم لذكراها، لأن الهاء والألف حذفتا، وهما مرادتان فـي الكلام
-  لـيوفق بـينها وبـين سائر رؤوس الآيات، إذ كانت بـالألف والفتـح.\r\n\t\t\t\r\n\t\t\t1 2 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَأَنَا ٱخْتَرْتُكَ فَٱسْتَمِعْ لِمَا
-  يُوحَىۤ } * { إِنَّنِيۤ أَنَا ٱللَّهُ لاۤ إِلَـٰهَ إِلاۤ أَنَاْ فَٱعْبُدْنِي وَأَقِمِ
-  ٱلصَّلاَةَ لِذِكْرِيۤ }ولو قال قائل فـي قراءة الزهري هذه التـي ذكرنا عنه، إنـما
-  قصد الزهري بفتـحها تصيـيره الإضافة ألفـا للتوفـيق بـينه وبـين رؤوس الآيات قبله وبعده،
-  لا انه خالف بقراءته ذلك كذلك من قرأه بـالإضافة، وقال: إنـما ذلك كقول الشاعر:أُطَوّفُ
-  ما أُطَوّفُ ثُمَّ آوِي   إلـى أُمَّا وَيُرْوِينِـي النَّقِـيعُوهو يريد: إلـى أمي،
-  وكقول العرب: يا أبـا وأما، وهي تريد: يا أبـي وأمي، كان له بذلك مقال.\r\n\t\t\t\r\n\t\t\t1 2 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  لـيوفق بـينها وبـين سائر رؤوس الآيات، إذ كانت بـالألف والفتـح.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(20, 13)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(20,13)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَأَنَا ٱخْتَرْتُكَ فَٱسْتَمِعْ لِمَا يُوحَىۤ</a>
+  <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">إِنَّنِيۤ
+  أَنَا ٱللَّهُ لاۤ إِلَـٰهَ إِلاۤ أَنَاْ فَٱعْبُدْنِي وَأَقِمِ ٱلصَّلاَةَ لِذِكْرِيۤ</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">ولو قال قائل فـي قراءة الزهري هذه التـي ذكرنا عنه، إنـما قصد الزهري
+  بفتـحها تصيـيره الإضافة ألفـا للتوفـيق بـينه وبـين رؤوس الآيات قبله وبعده، لا انه
+  خالف بقراءته ذلك كذلك من قرأه بـالإضافة، وقال: إنـما ذلك كقول الشاعر:</font></font><table
+  class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">أُطَوّفُ ما أُطَوّفُ ثُمَّ آوِي</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">إلـى أُمَّا وَيُرْوِينِـي النَّقِـيعُ</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">وهو يريد: إلـى أمي، وكقول العرب:
+  يا أبـا وأما، وهي تريد: يا أبـي وأمي، كان له بذلك مقال.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section>"
 

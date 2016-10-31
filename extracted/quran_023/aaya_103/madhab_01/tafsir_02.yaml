@@ -1,4 +1,4 @@
-location:
+position:
   sura: '023'
   aaya: '103'
   madhab: '01'
@@ -7,17 +7,42 @@ meta:
   title: تفسير الكشاف
   author: الزمخشري
   year: '538'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ فَمَن ثَقُلَتْ
-  مَوَازِينُهُ فَأُوْلَـٰئِكَ هُمُ ٱلْمُفْلِحُونَ } * { وَمَنْ خَفَّتْ مَوَازِينُهُ
-  فأُوْلَـٰئِكَ ٱلَّذِينَ خَسِرُوۤاْ أَنفُسَهُمْ فِي جَهَنَّمَ خَالِدُونَ } * { تَلْفَحُ
-  وُجُوهَهُمُ ٱلنَّارُ وَهُمْ فِيهَا كَالِحُونَ }عن ابن عباس: الموازين: جمع موزون؟
-  وهي الموزونات من الأعمال: أي الصالحات، التي لها وزن وقدر عند الله، من قوله تعالى:{ فَلا
-  نُقِيمُ لَهُمْ يَوْمَ ٱلْقِيَـٰمَةِ وَزْناً }[الكهف: 105]. { فِى جَهَنَّمَ خَـٰلِدُونَ
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(23, 102)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(23,102)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">فَمَن
+  ثَقُلَتْ مَوَازِينُهُ فَأُوْلَـٰئِكَ هُمُ ٱلْمُفْلِحُونَ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَمَنْ
+  خَفَّتْ مَوَازِينُهُ فأُوْلَـٰئِكَ ٱلَّذِينَ خَسِرُوۤاْ أَنفُسَهُمْ فِي جَهَنَّمَ
+  خَالِدُونَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">تَلْفَحُ وُجُوهَهُمُ ٱلنَّارُ وَهُمْ فِيهَا
+  كَالِحُونَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">عن ابن عباس: الموازين: جمع موزون؟
+  وهي الموزونات من الأعمال: أي الصالحات، التي لها وزن وقدر عند الله، من قوله تعالى:</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">فَلا
+  نُقِيمُ لَهُمْ يَوْمَ ٱلْقِيَـٰمَةِ وَزْناً</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">[الكهف: 105]. { فِى جَهَنَّمَ خَـٰلِدُونَ
   } بدل من خسروا أنفسهم، ولا محلّ للبدل والمبدل منه؛ لأنّ الصلة لا محلّ لها. أو خبر
   بعد خبر لأولئك. أو خبر مبتدأ محذوف { تَلْفَحُ } تسفع. وقال الزجاج: اللفح والنفح
   واحد، إلاّ أنّ اللفح أشدّ تأثيراً. والكلوح: أن تتقلص الشفتان وتتشمرا عن الأسنان،
   كما ترى الرؤوس المشوية. وعن مالك بن دينار: كان سبب توبة عتبة الغلام أنه مرّ في السوق
   برأس أخرج من التنور فغشي عليه ثلاثة أيام وليالهنّ. وروي عن النبي صلى الله عليه وسلم
-  أنه قال:(726) \" تشويهِ النارُ فتقلصُ شفتُه العُليا حتَّى تبلغَ وسطَ رأسِهِ، وتسترخِي
-  شفتُه السفَلى حتى تبلغَ سرّتَه \" وقرىء: «كلحون».\r\n\t\t\t\r\n\t\t\t</section>"
+  أنه قال:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">(726)</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" تشويهِ النارُ فتقلصُ شفتُه العُليا حتَّى تبلغَ وسطَ رأسِهِ، وتسترخِي
+  شفتُه السفَلى حتى تبلغَ سرّتَه \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">وقرىء: «كلحون».</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

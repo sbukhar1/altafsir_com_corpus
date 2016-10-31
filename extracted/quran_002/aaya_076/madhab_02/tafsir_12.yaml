@@ -1,4 +1,4 @@
-location:
+position:
   sura: '002'
   aaya: '076'
   madhab: '02'
@@ -7,38 +7,97 @@ meta:
   title: تفسير النكت والعيون
   author: الماوردي
   year: '450'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ أَفَتَطْمَعُونَ
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(2, 75)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(2,75)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">أَفَتَطْمَعُونَ
   أَن يُؤْمِنُواْ لَكُمْ وَقَدْ كَانَ فَرِيقٌ مِّنْهُمْ يَسْمَعُونَ كَلاَمَ ٱللَّهِ
-  ثُمَّ يُحَرِّفُونَهُ مِن بَعْدِ مَا عَقَلُوهُ وَهُمْ يَعْلَمُونَ } * { وَإِذَا لَقُواْ
-  ٱلَّذِينَ آمَنُواْ قَالُوۤاْ آمَنَّا وَإِذَا خَلاَ بَعْضُهُمْ إِلَىٰ بَعْضٍ قَالُوۤاْ
-  أَتُحَدِّثُونَهُم بِمَا فَتَحَ ٱللَّهُ عَلَيْكُمْ لِيُحَآجُّوكُم بِهِ عِنْدَ رَبِّكُمْ
-  أَفَلاَ تَعْقِلُونَ } * { أَوَلاَ يَعْلَمُونَ أَنَّ ٱللَّهَ يَعْلَمُ مَا يُسِرُّونَ
-  وَمَا يُعْلِنُونَ }قوله تعالى: {... وَقَدْ كَانَ فَرِيقٌ مِّنْهُم يَسْمَعُون كَلاَمَ
-  اللهِ ثُمَّ يُحَرِّفُونَهُ } في ذلك قولان:أحدهما: أنهم علماء اليهود والذين يحرفونه
-  التوراة فيجعلون الحلال حراماً والحرام حلالاً ابتاعاً لأهوائهم وإعانة لراشيهم وهذا
-  قول مجاهد والسدي.والثاني: أنهم الذين اختارهم موسى من قومه، فسمعوا كلام الله فلم
-  يمتثلوا أمره وحرفوا القول في إخبارهم لقومهم، وهذا قول الربيع بن أنس وابن إسحاق.وفي
-  كلام الله الذي يسمعونه قولان:أحدهما: أنها التوراة التي عَلِمَها علماء اليهود.والثاني:
-  الوحي الذي كانوا يسمعونه كما تسمعه الأنبياء.وفي قوله تعالى: { مِنْ بَعْدِ مَا عَقَلَوهُ
-  وَهُمْ يَعْلَمُونَ } وجهان:أحدهما: من بعد ما سمعوه، وهم يعلمون أنهم يحرفونه.والثاني:
-  من بعد ما عقلوه، وهم يعلمون، ما في تحريفه من العقاب.قوله تعالى: { وَإِذَا خَلاَ
-  بَعْضُهُمْ إِلَى بَعْضٍ } فيهم قولان:أحدهما: أنهم اليهود، إذا خلوا مع المنافقين،
-  قال لهم المنافقون: أتحدثون المسلمين، بما فتح الله عليكم. والثاني: أنهم اليهود، قال
-  بعضهم لبعض: { أَتُحَدِّثُونَهُم بِمَا فَتَحَ اللهُ عَلَيكُم } وفيه أربعة أقاويل:أحدها:
-  بما فتح الله عليكم، أي مما أذكركم الله به، رواه الضحاك عن ابن عباس.والثاني: بما
-  أنزل الله عليكم في التوراة، من نبوة محمد صلى الله عليه وسلم وبعثه، { ليُحَآجُّوكم
-  بَهِ عِنْدَ رَبِّكُم } رواه سعيد بن جبير عن ابن عباس، وهو قول أبي العالية وقتادة.والثالث:
+  ثُمَّ يُحَرِّفُونَهُ مِن بَعْدِ مَا عَقَلُوهُ وَهُمْ يَعْلَمُونَ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَإِذَا
+  لَقُواْ ٱلَّذِينَ آمَنُواْ قَالُوۤاْ آمَنَّا وَإِذَا خَلاَ بَعْضُهُمْ إِلَىٰ بَعْضٍ
+  قَالُوۤاْ أَتُحَدِّثُونَهُم بِمَا فَتَحَ ٱللَّهُ عَلَيْكُمْ لِيُحَآجُّوكُم بِهِ
+  عِنْدَ رَبِّكُمْ أَفَلاَ تَعْقِلُونَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">أَوَلاَ يَعْلَمُونَ
+  أَنَّ ٱللَّهَ يَعْلَمُ مَا يُسِرُّونَ وَمَا يُعْلِنُونَ</a> <b>}</b></font>, <br/>,
+  <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">قوله
+  تعالى: {... وَقَدْ كَانَ فَرِيقٌ مِّنْهُم يَسْمَعُون كَلاَمَ اللهِ ثُمَّ يُحَرِّفُونَهُ
+  } في ذلك قولان:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">أحدهما: أنهم علماء اليهود والذين
+  يحرفونه التوراة فيجعلون الحلال حراماً والحرام حلالاً ابتاعاً لأهوائهم وإعانة لراشيهم
+  وهذا قول مجاهد والسدي.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">والثاني: أنهم الذين اختارهم موسى
+  من قومه، فسمعوا كلام الله فلم يمتثلوا أمره وحرفوا القول في إخبارهم لقومهم، وهذا
+  قول الربيع بن أنس وابن إسحاق.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وفي
+  كلام الله الذي يسمعونه قولان:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">أحدهما:
+  أنها التوراة التي عَلِمَها علماء اليهود.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">والثاني:
+  الوحي الذي كانوا يسمعونه كما تسمعه الأنبياء.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وفي
+  قوله تعالى: { مِنْ بَعْدِ مَا عَقَلَوهُ وَهُمْ يَعْلَمُونَ } وجهان:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">أحدهما: من بعد ما سمعوه، وهم يعلمون أنهم يحرفونه.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">والثاني: من بعد ما عقلوه، وهم يعلمون، ما في تحريفه من العقاب.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قوله تعالى: { وَإِذَا خَلاَ بَعْضُهُمْ إِلَى بَعْضٍ } فيهم قولان:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">أحدهما: أنهم اليهود، إذا خلوا مع المنافقين، قال لهم المنافقون: أتحدثون
+  المسلمين، بما فتح الله عليكم. والثاني: أنهم اليهود، قال بعضهم لبعض: { أَتُحَدِّثُونَهُم
+  بِمَا فَتَحَ اللهُ عَلَيكُم } وفيه أربعة أقاويل:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">أحدها:
+  بما فتح الله عليكم، أي مما أذكركم الله به، رواه الضحاك عن ابن عباس.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">والثاني: بما أنزل الله عليكم في التوراة، من نبوة محمد صلى الله عليه
+  وسلم وبعثه، { ليُحَآجُّوكم بَهِ عِنْدَ رَبِّكُم } رواه سعيد بن جبير عن ابن عباس،
+  وهو قول أبي العالية وقتادة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">والثالث:
   أنهم أرادوا قول يهود بني قريظة، حين شبههم النبي صلى الله عليه وسلم، بأنهم إخوة القردة،
   فقالوا: من حدثك بهذا؟ وذلك حين أرسل إليهم، علي بن أبي طالب كرم الله وجهه، وهذا قول
-  مجاهد.والرابع: أن ناساً من اليهود أسلموا، ثم نافقوا فكانوا يحدثون المسلمين من العرب،
-  بما عُذِّبَ به (آباؤهم)، فقال بعضهم لبعض، أتحدثونهم بما فتح الله عليكم من العذاب،
-  وهذا قول السدي.وفي { فتح الله } وجهان:أحدهما: بما علمكم الله.والثاني: بما قضاه الله،
-  والفتح عند العرب القضاء والحكم، ومنه قول الشاعر:ألا أبلغ بني عُصُم رسولاً   بأني
-  عن فِتاحِكُم غنيُّويُقَالُ للقاضي: الفتّاح، ومنه قوله تعالى:{ رَبَّنَا افْتَح بَيْنَنَا
-  وَبَينَ قَوْمِنَا بِالْحَقِّ }[الأعراف: 89].قوله تعالى: { لِيُحَاجُّوكُم بِهِ عِنْدَ
-  رَبِّكُم } فيه ثلاثة أوجه:أحدها: { لِيُحَاجُّوكُم بِهِ عِنْدَ رَبِّكُم } ، فَحُذِفَ
-  ذكُر الكتاب إيجازاً.والثاني: { لِيُحَاجُّوكُم بِهِ عِنْدَ رَبِّكُم } فتظهر له الحُجَّة
-  عليكم، فيكونوا أولى بالله منكم، وهذا قول الحسن.والثالث: { لِيُحَاجُّوكُم بِهِ عِنْدَ
-  رَبِّكُم } يوم القيامة، كما قال تعالى:{ ثُمَّ إِنَّكُم يَومَ القيِامَةِ عِنْدَ رَبِّكُم
-  تَخْتَصِمُونَ }[الزمر: 31].\r\n\t\t\t\r\n\t\t\t</section>"
+  مجاهد.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">والرابع: أن ناساً من اليهود أسلموا،
+  ثم نافقوا فكانوا يحدثون المسلمين من العرب، بما عُذِّبَ به (آباؤهم)، فقال بعضهم لبعض،
+  أتحدثونهم بما فتح الله عليكم من العذاب، وهذا قول السدي.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وفي
+  { فتح الله } وجهان:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">أحدهما: بما علمكم الله.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">والثاني: بما قضاه الله، والفتح عند العرب القضاء والحكم، ومنه قول
+  الشاعر:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><table
+  class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">ألا أبلغ بني عُصُم رسولاً</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">بأني عن فِتاحِكُم غنيُّ</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">ويُقَالُ للقاضي: الفتّاح، ومنه
+  قوله تعالى:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">رَبَّنَا افْتَح بَيْنَنَا وَبَينَ قَوْمِنَا بِالْحَقِّ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[الأعراف:
+  89].</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">قوله تعالى: { لِيُحَاجُّوكُم بِهِ
+  عِنْدَ رَبِّكُم } فيه ثلاثة أوجه:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">أحدها:
+  { لِيُحَاجُّوكُم بِهِ عِنْدَ رَبِّكُم } ، فَحُذِفَ ذكُر الكتاب إيجازاً.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">والثاني: { لِيُحَاجُّوكُم بِهِ عِنْدَ رَبِّكُم } فتظهر له الحُجَّة
+  عليكم، فيكونوا أولى بالله منكم، وهذا قول الحسن.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">والثالث:
+  { لِيُحَاجُّوكُم بِهِ عِنْدَ رَبِّكُم } يوم القيامة، كما قال تعالى:</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">ثُمَّ
+  إِنَّكُم يَومَ القيِامَةِ عِنْدَ رَبِّكُم تَخْتَصِمُونَ</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">[الزمر: 31].</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

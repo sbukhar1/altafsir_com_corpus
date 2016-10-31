@@ -1,4 +1,4 @@
-location:
+position:
   sura: '001'
   aaya: '002'
   madhab: '01'
@@ -7,124 +7,298 @@ meta:
   title: تفسير تفسير القرآن الكريم
   author: ابن كثير
   year: '774'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ ٱلْحَمْدُ للَّهِ
-  رَبِّ ٱلْعَالَمِينَ }القراء السبعة على ضم الدال في قوله: الحمد لله، هو مبتدأ وخبر.
-  وروي عن سفيان بن عيينة ورؤبة ابن العجاج أنهما قالا: (الحمد لله) بالنصب، وهو على
-  إضمار فعل. وقرأ ابن أبي عبلة: (الحمد لله) بضم الدال واللام إتباعاً للثاني الأولَ،
-  وله شواهد، لكنه شاذ، وعن الحسن وزيد بن علي { الحمد لله } بكسر الدال إتباعاً للأول
-  الثاني.قال أبو جعفر بن جرير: معنى { ٱلْحَمْدُ للَّهِ }: الشكر لله خالصاً، دون سائر
-  ما يعبد من دونه، ودون كل ما برأ من خلقه، بما أنعم على عباده من النعم التي لا يحصيها
-  العدد، ولا يحيط بعددها غيره أحد، في تصحيح الآلات لطاعته، وتمكين جوارح أجسام المكلفين
-  لأداء فرائضه، مع ما بسط لهم في دنياهم من الرزق، وغذاهم من نعيم العيش من غير استحقاق
-  منهم ذلك عليه، ومع ما نبههم عليه ودعاهم إليه من الأسباب المؤدية إلى دوام الخلود
-  في دار المقام في النعيم المقيم، فلربنا الحمد على ذلك كله أولاً وآخراً. وقال ابن
-  جرير رحمه الله: الحمد لله ثناء أثنى به على نفسه، وفي ضمنه أمر عباده أن يثنوا عليه،
-  فكأنه قال: قولوا: الحمد لله. قال: وقد قيل: إن قول القائل: الحمد لله: ثناء عليه بأسمائه
-  الحسنى وصفاته العلى، وقوله: الشكر لله، ثناء عليه بنعمه وأياديه، ثم شرع في رد ذلك
-  بما حاصله أن جميع أهل المعرفة بلسان العرب يوقعون كلاً من الحمد والشكر مكان الآخر،
-  وقد نقل السلمي هذا المذهب أنهما سواء عن جعفر الصادق وابن عطاء من الصوفية، وقال ابن
-  عباس: الحمد لله: كلمة كل شاكر، وقد استدل القرطبي لابن جرير بصحة قول القائل: الحمد
-  لله شكراً، وهذا الذي ادعاه ابن جرير فيه نظر، لأنه اشتهر عند كثير من العلماء من المتأخرين
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(1, 2)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(1,2)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">ٱلْحَمْدُ
+  للَّهِ رَبِّ ٱلْعَالَمِينَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\"
+  dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">القراء السبعة
+  على ضم الدال في قوله: الحمد لله، هو مبتدأ وخبر. وروي عن سفيان بن عيينة ورؤبة ابن
+  العجاج أنهما قالا: (الحمد لله) بالنصب، وهو على إضمار فعل. وقرأ ابن أبي عبلة: (الحمد
+  لله) بضم الدال واللام إتباعاً للثاني الأولَ، وله شواهد، لكنه شاذ، وعن الحسن وزيد
+  بن علي { الحمد لله } بكسر الدال إتباعاً للأول الثاني.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال
+  أبو جعفر بن جرير: معنى { ٱلْحَمْدُ للَّهِ }: الشكر لله خالصاً، دون سائر ما يعبد
+  من دونه، ودون كل ما برأ من خلقه، بما أنعم على عباده من النعم التي لا يحصيها العدد،
+  ولا يحيط بعددها غيره أحد، في تصحيح الآلات لطاعته، وتمكين جوارح أجسام المكلفين لأداء
+  فرائضه، مع ما بسط لهم في دنياهم من الرزق، وغذاهم من نعيم العيش من غير استحقاق منهم
+  ذلك عليه، ومع ما نبههم عليه ودعاهم إليه من الأسباب المؤدية إلى دوام الخلود في دار
+  المقام في النعيم المقيم، فلربنا الحمد على ذلك كله أولاً وآخراً. وقال ابن جرير رحمه
+  الله: الحمد لله ثناء أثنى به على نفسه، وفي ضمنه أمر عباده أن يثنوا عليه، فكأنه قال:
+  قولوا: الحمد لله. قال: وقد قيل: إن قول القائل: الحمد لله: ثناء عليه بأسمائه الحسنى
+  وصفاته العلى، وقوله: الشكر لله، ثناء عليه بنعمه وأياديه، ثم شرع في رد ذلك بما حاصله
+  أن جميع أهل المعرفة بلسان العرب يوقعون كلاً من الحمد والشكر مكان الآخر، وقد نقل
+  السلمي هذا المذهب أنهما سواء عن جعفر الصادق وابن عطاء من الصوفية، وقال ابن عباس:
+  الحمد لله: كلمة كل شاكر، وقد استدل القرطبي لابن جرير بصحة قول القائل: الحمد لله
+  شكراً، وهذا الذي ادعاه ابن جرير فيه نظر، لأنه اشتهر عند كثير من العلماء من المتأخرين
   أن الحمد هو الثناء بالقول على المحمود بصفاته اللازمة والمتعدية، والشكر لا يكون إلا
-  على المتعدية، ويكون بالجنان واللسان والأركان؛ كما قال الشاعر:أَفادَتْكُمُ النَّعْماءُ
-  مِني ثَلاثَةً:   يَدِي وَلِسانِي والضَّمِيْرَ المُحَجباولكنهم اختلفوا أيهما أعم،
-  الحمد أو الشكر؟ على قولين، والتحقيق أن بينهما عموماً وخصوصاً، فالحمد أعم من الشكر
-  من حيث ما يقعان عليه؛ لأنه يكون على الصفات اللازمة والمتعدية، تقول: حمدته لفروسيته،
-  وحمدته لكرمه، وهو أخص؛ لأنه لا يكون إلا بالقول، والشكر أعم من حيث ما يقعان عليه؛
-  لأنه يكون بالقول والفعل والنية كما تقدم، وهو أخص لأنه لا يكون إلا على الصفات المتعدية،
-  لا يقال شكرته لفروسيته، وتقول: شكرته على كرمه وإحسانه إليّ. هذا حاصل ما حرره بعض
-  المتأخرين والله أعلم.وقال أبو نصر إسماعيل بن حماد الجوهري: الحمد نقيض الذم، تقول:
-  حمدت الرجل أحمده حمداً ومحمدة، فهو حميد ومحمود، والتحميد أبلغ من الحمد، والحمد أعم
-  من الشكر، وقال في الشكر: هو الثناء على المحسن بما أولاه من المعروف، يقال: شكرته،
-  وشكرت له، وباللام أفصح.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ ٱلْحَمْدُ للَّهِ رَبِّ ٱلْعَالَمِينَ
-  }وأما المدح فهو أعم من الحمد؛ لأنه يكون للحي وللميت، وللجماد أيضاً؛ كما يمدح الطعام
-  والمكان ونحو ذلك، ويكون قبل الإحسان وبعده، وعلى الصفات المتعدية واللازمة أيضاً،
-  فهو أعم.ذكر أقوال السلف في الحمدقال ابن أبي حاتم: حدثنا أبي حدثنا أبو معمر القطيعي
-  حدثنا حفص عن حجاج عن ابن أبي مليكة عن ابن عباس رضي الله عنهما قال: قال عمر رضي الله
-  عنه: قد علمنا سبحان الله ولا إله إلا الله، فما الحمد لله؟ فقال علي: كلمة رضيها الله
-  لنفسه. ورواه غير أبي معمر عن حفص فقال: قال عمر لعلي - وأصحابه عنده -: لا إله إلا
-  الله، وسبحان الله، والله أكبر، قد عرفناها، فما الحمد لله؟ قال علي: كلمة أحبها الله
-  تعالى لنفسه، ورضيها لنفسه، وأحب أن تقال. وقال علي بن زيد بن جدعان عن يوسف بن مهران:
-  قال ابن عباس: الحمد لله: كلمة الشكر، وإذا قال العبد: الحمد لله، قال: شكرني عبدي.
-  رواه ابن أبي حاتم، وروى أيضاً هو وابن جرير من حديث بشر بن عمارة عن أبي روق عن الضحاك
-  عن ابن عباس أنه قال: الحمد لله: هو الشكر لله، والاستخذاء له، والإقرار له بنعمته
-  وهدايته وابتدائه وغير ذلك. وقال كعب الأحبار: الحمد لله: ثناء الله. وقال الضحاك:
-  الحمد لله رداء الرحمن، وقد ورد الحديث بنحو ذلك.قال ابن جرير: حدثنا سعيد بن عمرو
+  على المتعدية، ويكون بالجنان واللسان والأركان؛ كما قال الشاعر:</font></font><table
+  class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">أَفادَتْكُمُ النَّعْماءُ مِني ثَلاثَةً:</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">يَدِي وَلِسانِي والضَّمِيْرَ المُحَجبا</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">ولكنهم اختلفوا أيهما أعم، الحمد
+  أو الشكر؟ على قولين، والتحقيق أن بينهما عموماً وخصوصاً، فالحمد أعم من الشكر من حيث
+  ما يقعان عليه؛ لأنه يكون على الصفات اللازمة والمتعدية، تقول: حمدته لفروسيته، وحمدته
+  لكرمه، وهو أخص؛ لأنه لا يكون إلا بالقول، والشكر أعم من حيث ما يقعان عليه؛ لأنه يكون
+  بالقول والفعل والنية كما تقدم، وهو أخص لأنه لا يكون إلا على الصفات المتعدية، لا
+  يقال شكرته لفروسيته، وتقول: شكرته على كرمه وإحسانه إليّ. هذا حاصل ما حرره بعض المتأخرين
+  والله أعلم.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال أبو نصر إسماعيل بن حماد الجوهري:
+  الحمد نقيض الذم، تقول: حمدت الرجل أحمده حمداً ومحمدة، فهو حميد ومحمود، والتحميد
+  أبلغ من الحمد، والحمد أعم من الشكر، وقال في الشكر: هو الثناء على المحسن بما أولاه
+  من المعروف، يقال: شكرته، وشكرت له، وباللام أفصح.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(7,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(7,2,1)\"><u>2</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(7,3,1)\"><u>3</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(7,4,1)\"><u>4</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(7,5,1)\"><u>5</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(1, 2)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(1,2)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">ٱلْحَمْدُ للَّهِ رَبِّ ٱلْعَالَمِينَ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">وأما المدح فهو أعم من الحمد؛ لأنه يكون للحي وللميت، وللجماد أيضاً؛
+  كما يمدح الطعام والمكان ونحو ذلك، ويكون قبل الإحسان وبعده، وعلى الصفات المتعدية
+  واللازمة أيضاً، فهو أعم.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">ذكر أقوال السلف في الحمد</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قال ابن أبي حاتم: حدثنا أبي حدثنا أبو معمر القطيعي حدثنا حفص عن
+  حجاج عن ابن أبي مليكة عن ابن عباس رضي الله عنهما قال: قال عمر رضي الله عنه: قد علمنا
+  سبحان الله ولا إله إلا الله، فما الحمد لله؟ فقال علي: كلمة رضيها الله لنفسه. ورواه
+  غير أبي معمر عن حفص فقال: قال عمر لعلي - وأصحابه عنده -: لا إله إلا الله، وسبحان
+  الله، والله أكبر، قد عرفناها، فما الحمد لله؟ قال علي: كلمة أحبها الله تعالى لنفسه،
+  ورضيها لنفسه، وأحب أن تقال. وقال علي بن زيد بن جدعان عن يوسف بن مهران: قال ابن عباس:
+  الحمد لله: كلمة الشكر، وإذا قال العبد: الحمد لله، قال: شكرني عبدي. رواه ابن أبي
+  حاتم، وروى أيضاً هو وابن جرير من حديث بشر بن عمارة عن أبي روق عن الضحاك عن ابن عباس
+  أنه قال: الحمد لله: هو الشكر لله، والاستخذاء له، والإقرار له بنعمته وهدايته وابتدائه
+  وغير ذلك. وقال كعب الأحبار: الحمد لله: ثناء الله. وقال الضحاك: الحمد لله رداء الرحمن،
+  وقد ورد الحديث بنحو ذلك.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">قال ابن جرير: حدثنا سعيد بن عمرو
   السكوني حدثنا بقية بن الوليد حدثني عيسى بن إبراهيم عن موسى بن أبي حبيب عن الحكم
-  بن عمير، وكانت له صحبة، قال: قال رسول الله صلى الله عليه وسلم \" إذا قلت: الحمد
-  لله رب العالمين، فقد شكرت الله فزادك \" وقد روى الإمام أحمد بن حنبل: حدثنا روح حدثنا
-  عوف عن الحسن عن الأسود بن سريع قال: قلت: \" يا رسول الله ألا أنشدك محامد حمدت بها
-  ربي تبارك وتعالى؟ فقال: أما إن ربك يحب الحمد \" ورواه النسائي عن علي بن حجر عن ابن
-  علية عن يونس بن عبيد عن الحسن عن الأسود بن سريع به. وروى أبو عيسى الحافظ الترمذي
-  والنسائي وابن ماجه من حديث موسى بن إبراهيم بن كثير عن طلحة بن خراش عن جابر بن عبد
-  الله قال: قال رسول الله صلى الله عليه وسلم \" أفضل الذكر لا إله إلا الله، وأفضل
-  الدعاء الحمد لله \" وقال الترمذي: حسن غريب، وروى ابن ماجه عن أنس بن مالك رضي الله
-  عنه قال: قال رسول الله صلى الله عليه وسلم:\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ ٱلْحَمْدُ للَّهِ رَبِّ ٱلْعَالَمِينَ
-  } \" ما أنعم الله على عبد نعمة فقال: الحمد الله، إلا كان الذي أعطى أفضل مما أخذ
-  \" وقال القرطبي في تفسيره وفي نوادر الأصول: عن أنس عن النبي صلى الله عليه وسلم قال:
-  \" لو أن الدنيا بحذافيرها في يد رجل من أمتي، ثم قال: الحمد لله، كان الحمد لله أفضل
-  من ذلك \" قال القرطبي وغيره: أي: لكان إلهامه الحمد لله أكثر نعمة عليه من نعم الدنيا؛
-  لأن ثواب الحمد لله لا يفنى، ونعيم الدنيا لا يبقى، قال الله تعالى:{ ٱلْمَالُ وَٱلْبَنُونَ
-  زِينَةُ ٱلْحَيَوٰةِ ٱلدُّنْيَا وَٱلْبَـٰقِيَاتُ ٱلصَّـٰلِحَاتُ خَيْرٌ عِندَ رَبِّكَ
-  ثَوَابًا وَخَيْرٌ أَمَلاً }[الكهف: 46] وفي سنن ابن ماجه عن ابن عمر \" أن رسول الله
-  صلى الله عليه وسلم حدثهم أن عبداً من عباد الله قال: يا رب لك الحمد كما ينبغي لجلال
-  وجهك وعظيم سلطانك. فعضلت بالملكين، فلم يدريا كيف يكتبانها، فصعدا إلى الله، فقالا:
-  يا ربنا إن عبداً قد قال مقالة لا ندري كيف نكتبها، قال الله - وهو أعلم بما قال عبده
-  -: ماذا قال عبدي؟ قالا: يا رب إنه قال: لك الحمد يا رب كما ينبغي لجلال وجهك وعظيم
-  سلطانك. فقال الله لهما: اكتباها كما قال عبدي حتى يلقاني فأجزيه بها \" وحكى القرطبي
-  عن طائفة أنهم قالوا: قول العبد: الحمد لله رب العالمين أفضل من قوله: لا إله إلا الله؛
-  لاشتمال الحمد لله رب العالمين على التوحيد مع الحمد، وقال آخرون: لا إله إلا الله
-  أفضل؛ لأنها تفصل بين الإيمان والكفر، وعليها يقاتل الناس حتى يقولوا: لا إله إلا الله،
-  كما ثبت في الحديث المتفق عليه، وفي الحديث الآخر: \" أفضل ما قلت أنا والنبيون من
-  قبلي: لا إله إلا الله وحده لا شريك له \" وقد تقدم عن جابر مرفوعاً: \" أفضل الذكر
-  لا إله إلا الله، وأفضل الدعاء الحمد لله \" وحسنه الترمذي. والألف واللام في الحمد
-  لاستغراق جميع أجناس الحمد وصنوفه لله تعالى؛ كما جاء في الحديث: \" اللهم لك الحمد
-  كله، ولك الملك كله، وبيدك الخير كله، وإليك يرجع الأمر كله \" .. الحديثَ.والرب: هو
-  المالك المتصرف، ويطلق في اللغة على السيد، وعلى المتصرف للإصلاح، وكل ذلك صحيح في
-  حق الله تعالى، ولا يستعمل الرب لغير الله، بل بالإضافة، تقول: رب الدار، رب كذا، وأما
-  الرب، فلا يقال إلا لله عز وجل، وقد قيل: إنه الاسم الأعظم. والعالمين: جمع عالم، وهو
-  كل موجود سوى الله عز وجل. والعالم جمع لا واحد له من لفظه، والعوالم أصناف المخلوقات
+  بن عمير، وكانت له صحبة، قال: قال رسول الله صلى الله عليه وسلم</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" إذا قلت: الحمد لله رب العالمين،
+  فقد شكرت الله فزادك \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">وقد روى الإمام أحمد بن حنبل: حدثنا روح حدثنا عوف عن الحسن عن الأسود
+  بن سريع قال: قلت:</font></font><b><font class=\"TextResultArabic\"><font color=\"Red\">
+  \" يا رسول الله ألا أنشدك محامد حمدت بها ربي تبارك وتعالى؟ فقال: أما إن ربك يحب
+  الحمد \" </font></font></b><font class=\"TextResultArabic\"><font color=\"black\">ورواه
+  النسائي عن علي بن حجر عن ابن علية عن يونس بن عبيد عن الحسن عن الأسود بن سريع به.
+  وروى أبو عيسى الحافظ الترمذي والنسائي وابن ماجه من حديث موسى بن إبراهيم بن كثير
+  عن طلحة بن خراش عن جابر بن عبد الله قال: قال رسول الله صلى الله عليه وسلم</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" أفضل الذكر لا إله إلا الله، وأفضل
+  الدعاء الحمد لله \" </font></font></b><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  الترمذي: حسن غريب، وروى ابن ماجه عن أنس بن مالك رضي الله عنه قال: قال رسول الله
+  صلى الله عليه وسلم:</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(7,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(7,3,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(7,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td><td><a href=\"Javascript:InnerLink_onchange(7,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(7,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(7,5,1)\"><u>5</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(1, 2)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(1,2)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">ٱلْحَمْدُ للَّهِ رَبِّ ٱلْعَالَمِينَ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\"/></font><b><font class=\"TextResultArabic\"><font color=\"Red\">
+  \" ما أنعم الله على عبد نعمة فقال: الحمد الله، إلا كان الذي أعطى أفضل مما أخذ \"
+  </font></font></b><font class=\"TextResultArabic\"><font color=\"black\">وقال القرطبي
+  في تفسيره وفي نوادر الأصول: عن أنس عن النبي صلى الله عليه وسلم قال:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" لو أن الدنيا بحذافيرها في يد
+  رجل من أمتي، ثم قال: الحمد لله، كان الحمد لله أفضل من ذلك \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\">قال القرطبي وغيره: أي: لكان إلهامه
+  الحمد لله أكثر نعمة عليه من نعم الدنيا؛ لأن ثواب الحمد لله لا يفنى، ونعيم الدنيا
+  لا يبقى، قال الله تعالى:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">ٱلْمَالُ وَٱلْبَنُونَ زِينَةُ ٱلْحَيَوٰةِ ٱلدُّنْيَا وَٱلْبَـٰقِيَاتُ
+  ٱلصَّـٰلِحَاتُ خَيْرٌ عِندَ رَبِّكَ ثَوَابًا وَخَيْرٌ أَمَلاً</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[الكهف:
+  46] وفي سنن ابن ماجه عن ابن عمر</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" أن رسول الله صلى الله عليه وسلم حدثهم أن عبداً من عباد الله قال:
+  يا رب لك الحمد كما ينبغي لجلال وجهك وعظيم سلطانك. فعضلت بالملكين، فلم يدريا كيف
+  يكتبانها، فصعدا إلى الله، فقالا: يا ربنا إن عبداً قد قال مقالة لا ندري كيف نكتبها،
+  قال الله - وهو أعلم بما قال عبده -: ماذا قال عبدي؟ قالا: يا رب إنه قال: لك الحمد
+  يا رب كما ينبغي لجلال وجهك وعظيم سلطانك. فقال الله لهما: اكتباها كما قال عبدي حتى
+  يلقاني فأجزيه بها \" </font></font></b><font class=\"TextResultArabic\"><font color=\"black\">وحكى
+  القرطبي عن طائفة أنهم قالوا: قول العبد: الحمد لله رب العالمين أفضل من قوله: لا إله
+  إلا الله؛ لاشتمال الحمد لله رب العالمين على التوحيد مع الحمد، وقال آخرون: لا إله
+  إلا الله أفضل؛ لأنها تفصل بين الإيمان والكفر، وعليها يقاتل الناس حتى يقولوا: لا
+  إله إلا الله، كما ثبت في الحديث المتفق عليه، وفي الحديث الآخر:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" أفضل ما قلت أنا والنبيون من قبلي:
+  لا إله إلا الله وحده لا شريك له \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">وقد تقدم عن جابر مرفوعاً:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" أفضل الذكر لا إله إلا الله، وأفضل الدعاء الحمد لله \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\">وحسنه الترمذي. والألف واللام في
+  الحمد لاستغراق جميع أجناس الحمد وصنوفه لله تعالى؛ كما جاء في الحديث:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" اللهم لك الحمد كله، ولك الملك
+  كله، وبيدك الخير كله، وإليك يرجع الأمر كله \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">.. الحديثَ.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">والرب:
+  هو المالك المتصرف، ويطلق في اللغة على السيد، وعلى المتصرف للإصلاح، وكل ذلك صحيح
+  في حق الله تعالى، ولا يستعمل الرب لغير الله، بل بالإضافة، تقول: رب الدار، رب كذا،
+  وأما الرب، فلا يقال إلا لله عز وجل، وقد قيل: إنه الاسم الأعظم. والعالمين: جمع عالم،
+  وهو كل موجود سوى الله عز وجل. والعالم جمع لا واحد له من لفظه، والعوالم أصناف المخلوقات
   في السموات، وفي البر والبحر، وكل قرن منها وجيل يسمى عالماً أيضاً. قال بشر بن عمار:
   عن أبي روق عن الضحاك عن ابن عباس: { ٱلْحَمْدُ للَّهِ رَبِّ ٱلْعَـٰلَمِينَ } الحمد
-  لله الذي له الخلق كله؛ السموات والأرض، وما فيهنَّ وما بينهن، مما نعلم ومما لا نعلم.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ ٱلْحَمْدُ للَّهِ رَبِّ ٱلْعَالَمِينَ
-  }وفي رواية سعيد بن جبير وعكرمة عن ابن عباس: رب الجن والإنس. وكذلك قال سعيد بن جبير
-  ومجاهد وابن جريج. وروي عن علي نحوه، قال ابن أبي حاتم: بإسناده لا يعتمد عليه، واستدل
-  القرطبي لهذا القول بقوله تعالى:{ لِيَكُونَ لِلْعَـٰلَمِينَ نَذِيراً }[الفرقان: 1]
-  وهم الجن والإنس. قال الفراء وأبو عبيد: العالم عبارة عما يعقل، وهم الإنس والجن والملائكة
-  والشياطين، ولا يقال للبهائم عالم. وعن زيد بن أسلم وأبي محيصن: العالم كل ما له روح
-  ترفرف. وقال قتادة: رب العالمين: كل صنف عالم، وقال الحافظ ابن عساكر في ترجمة مروان
-  بن محمد، وهو أحد خلفاء بني أمية، وهو يعرف بالجعد، ويلقب بالحمار، أنه قال: خلق الله
-  سبعة عشر ألف عالم؛ أهل السموات وأهل الأرض عالم واحد، وسائرهم لا يعلمهم إلا الله
-  عز وجل.وقال أبو جعفر الرازي عن الربيع بن أنس عن أبي العالية في قوله تعالى: { رَبِّ
-  ٱلْعَـٰلَمِينَ } قال: الإنس عالم، والجن عالم وما سوى ذلك ثمانية عشر ألف، أو أربعة
-  عشر ألف عالم، هو يشك. الملائكة على الأرض، وللأرض أربع زوايا، في كل زاوية ثلاثة ألاف
-  عالم، وخمسمائة عالم، خلقهم الله لعبادته. رواه ابن جرير وابن أبي حاتم. وهذا كلام
-  غريب يحتاج مثله إلى دليل صحيح. وقال ابن أبي حاتم: حدثنا أبي حدثنا هشام بن خالد حدثنا
-  الوليد بن مسلم حدثنا الفرات، يعني ابن الوليد، عن معتب ابن سمي عن سبيع، يعني الحميري،
-  في قوله تعالى: { رَبِّ ٱلْعَـٰلَمِينَ } قال: العالمين: ألف أمة، فستمائة في البحر،
-  وأربعمائة في البر، وحكي مثله عن سعيد بن المسيب، وقد روي نحو هذا مرفوعاً كما قال
-  الحافظ أبو يعلى أحمد بن علي بن المثنى في مسنده: حدثنا محمد بن المثنى حدثنا عبيد
-  بن واقد القيسي أبو عباد حدثني محمد بن عيسى بن كيسان حدثنا محمد بن المنكدر عن جابر
-  بن عبد الله قال: قلّ الجراد في سنة من سني عمر التي ولي فيها، فسأل عنه، فلم يخبر
-  بشيء، فاغتم لذلك، فأرسل راكباً يضرب إلى اليمن، وآخر إلى الشام، وآخر إلى العراق،
-  يسأل هل رؤي من الجراد شيءٌ، أم لا؟ قال: فأتاه الراكب الذي من قبل اليمن بقبضة من
-  جراد، فألقاها بين يديه، فلما رآها كبر ثم قال: سمعت رسول الله صلى الله عليه وسلم
-  يقول: \" خلق الله ألف أمة: ستمائة في البحر، وأربعمائة في البر، فأول شيء يهلك من
-  هذه الأمم الجراد، فإذا هلك تتابعت مثل النظام إذا قطع سلكه \" محمد بن عيسى هذا، وهو
-  الهلالي، ضعيف.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ ٱلْحَمْدُ للَّهِ رَبِّ ٱلْعَالَمِينَ
-  }وحكى البغوي عن سعيد بن المسيب أنه قال: لله ألف عالم؛ ستمائة في البحر، وأربعمائة
-  في البر. وقال وهب بن منبه: لله ثمانية عشر ألف عالم، الدنيا عالم منها. وقال مقاتل:
-  العوالم ثمانون ألفاً. وقال كعب الأحبار: لا يعلم عدد العوالم إلا الله عز وجل نقله
-  البغوي. وحكى القرطبي عن أبي سعيد الخدري أنه قال: إن لله أربعين ألف عالم، الدنيا
-  من شرقها إلى مغربها عالم واحد منها، وقال الزجاج: العالم كل ما خلق الله في الدنيا
-  والآخرة. قال القرطبي: وهذا هو الصحيح، إنه شامل لكل العالمين؛ كقوله:{ قَالَ فِرْعَوْنُ
-  وَمَا رَبُّ ٱلْعَـٰلَمِينَ قَالَ رَبُّ ٱلسَّمَـٰوَٰتِ وَٱلأَرْضِ وَمَا بَيْنَهُمَآ
-  إِن كُنتُمْ مُّوقِنِينَ }[الشعراء: 23 - 24]. والعالم مشتق من العلامة، (قلت): لأنه
-  علم دال على وجود خالقه وصانعه ووحدانيته؛ كما قال ابن المعتز:فَيا عَجَباً كَيْفَ
-  يُعْصَى الإِلٰــــهُ   أَمْ كَيْف يَجْحَدُهُ الجاحِدُوفي كُل شَيْءٍ لَهُ آيَةٌ   تَدُلُّ
-  عَلى أَنَّهُ واحِدُ\r\n\t\t\t1 2 3 4 5 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  لله الذي له الخلق كله؛ السموات والأرض، وما فيهنَّ وما بينهن، مما نعلم ومما لا نعلم.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(7,2,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(7,4,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(7,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(7,2,1)\"><u>2</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">3 </font></td><td><a href=\"Javascript:InnerLink_onchange(7,4,1)\"><u>4</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(7,5,1)\"><u>5</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(1, 2)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(1,2)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">ٱلْحَمْدُ للَّهِ رَبِّ ٱلْعَالَمِينَ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">وفي رواية سعيد بن جبير وعكرمة عن ابن عباس: رب الجن والإنس. وكذلك
+  قال سعيد بن جبير ومجاهد وابن جريج. وروي عن علي نحوه، قال ابن أبي حاتم: بإسناده لا
+  يعتمد عليه، واستدل القرطبي لهذا القول بقوله تعالى:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">لِيَكُونَ لِلْعَـٰلَمِينَ نَذِيراً</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[الفرقان:
+  1] وهم الجن والإنس. قال الفراء وأبو عبيد: العالم عبارة عما يعقل، وهم الإنس والجن
+  والملائكة والشياطين، ولا يقال للبهائم عالم. وعن زيد بن أسلم وأبي محيصن: العالم كل
+  ما له روح ترفرف. وقال قتادة: رب العالمين: كل صنف عالم، وقال الحافظ ابن عساكر في
+  ترجمة مروان بن محمد، وهو أحد خلفاء بني أمية، وهو يعرف بالجعد، ويلقب بالحمار، أنه
+  قال: خلق الله سبعة عشر ألف عالم؛ أهل السموات وأهل الأرض عالم واحد، وسائرهم لا يعلمهم
+  إلا الله عز وجل.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال أبو جعفر الرازي عن الربيع
+  بن أنس عن أبي العالية في قوله تعالى: { رَبِّ ٱلْعَـٰلَمِينَ } قال: الإنس عالم، والجن
+  عالم وما سوى ذلك ثمانية عشر ألف، أو أربعة عشر ألف عالم، هو يشك. الملائكة على الأرض،
+  وللأرض أربع زوايا، في كل زاوية ثلاثة ألاف عالم، وخمسمائة عالم، خلقهم الله لعبادته.
+  رواه ابن جرير وابن أبي حاتم. وهذا كلام غريب يحتاج مثله إلى دليل صحيح. وقال ابن أبي
+  حاتم: حدثنا أبي حدثنا هشام بن خالد حدثنا الوليد بن مسلم حدثنا الفرات، يعني ابن الوليد،
+  عن معتب ابن سمي عن سبيع، يعني الحميري، في قوله تعالى: { رَبِّ ٱلْعَـٰلَمِينَ } قال:
+  العالمين: ألف أمة، فستمائة في البحر، وأربعمائة في البر، وحكي مثله عن سعيد بن المسيب،
+  وقد روي نحو هذا مرفوعاً كما قال الحافظ أبو يعلى أحمد بن علي بن المثنى في مسنده:
+  حدثنا محمد بن المثنى حدثنا عبيد بن واقد القيسي أبو عباد حدثني محمد بن عيسى بن كيسان
+  حدثنا محمد بن المنكدر عن جابر بن عبد الله قال: قلّ الجراد في سنة من سني عمر التي
+  ولي فيها، فسأل عنه، فلم يخبر بشيء، فاغتم لذلك، فأرسل راكباً يضرب إلى اليمن، وآخر
+  إلى الشام، وآخر إلى العراق، يسأل هل رؤي من الجراد شيءٌ، أم لا؟ قال: فأتاه الراكب
+  الذي من قبل اليمن بقبضة من جراد، فألقاها بين يديه، فلما رآها كبر ثم قال: سمعت رسول
+  الله صلى الله عليه وسلم يقول:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" خلق الله ألف أمة: ستمائة في البحر، وأربعمائة في البر، فأول شيء
+  يهلك من هذه الأمم الجراد، فإذا هلك تتابعت مثل النظام إذا قطع سلكه \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\">محمد بن عيسى هذا، وهو الهلالي،
+  ضعيف.</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(7,3,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(7,5,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(7,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(7,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(7,3,1)\"><u>3</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">4 </font></td><td><a href=\"Javascript:InnerLink_onchange(7,5,1)\"><u>5</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(1, 2)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(1,2)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">ٱلْحَمْدُ للَّهِ رَبِّ ٱلْعَالَمِينَ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">وحكى البغوي عن سعيد بن المسيب أنه قال: لله ألف عالم؛ ستمائة في البحر،
+  وأربعمائة في البر. وقال وهب بن منبه: لله ثمانية عشر ألف عالم، الدنيا عالم منها.
+  وقال مقاتل: العوالم ثمانون ألفاً. وقال كعب الأحبار: لا يعلم عدد العوالم إلا الله
+  عز وجل نقله البغوي. وحكى القرطبي عن أبي سعيد الخدري أنه قال: إن لله أربعين ألف عالم،
+  الدنيا من شرقها إلى مغربها عالم واحد منها، وقال الزجاج: العالم كل ما خلق الله في
+  الدنيا والآخرة. قال القرطبي: وهذا هو الصحيح، إنه شامل لكل العالمين؛ كقوله:</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">قَالَ
+  فِرْعَوْنُ وَمَا رَبُّ ٱلْعَـٰلَمِينَ قَالَ رَبُّ ٱلسَّمَـٰوَٰتِ وَٱلأَرْضِ وَمَا
+  بَيْنَهُمَآ إِن كُنتُمْ مُّوقِنِينَ</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">[الشعراء: 23 - 24]. والعالم مشتق
+  من العلامة، (قلت): لأنه علم دال على وجود خالقه وصانعه ووحدانيته؛ كما قال ابن المعتز:</font></font><table
+  class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">فَيا عَجَباً كَيْفَ يُعْصَى الإِلٰــــهُ</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">أَمْ كَيْف يَجْحَدُهُ الجاحِدُ</font></font></b></td></tr><tr class=\"TextArabic\"><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">وفي كُل
+  شَيْءٍ لَهُ آيَةٌ</font></font></b></td><td class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">تَدُلُّ عَلى أَنَّهُ واحِدُ</font></font></b></td></tr></table><label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(7,4,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(7,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(7,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(7,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(7,4,1)\"><u>4</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">5 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a id=\"NextClass\"/></td></tr></table></center></div></section>"
 

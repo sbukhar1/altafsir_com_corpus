@@ -1,4 +1,4 @@
-location:
+position:
   sura: '002'
   aaya: 090
   madhab: '02'
@@ -7,18 +7,47 @@ meta:
   title: تفسير النكت والعيون
   author: الماوردي
   year: '450'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ بِئْسَمَا ٱشْتَرَوْاْ
-  بِهِ أَنْفُسَهُمْ أَن يَكْفُرُواْ بِمَآ أنَزَلَ ٱللَّهُ بَغْياً أَن يُنَزِّلُ ٱللَّهُ
-  مِن فَضْلِهِ عَلَىٰ مَن يَشَآءُ مِنْ عِبَادِهِ فَبَآءُو بِغَضَبٍ عَلَىٰ غَضَبٍ وَلِلْكَافِرِينَ
-  عَذَابٌ مُّهِينٌ }قوله تعالى: { بِئْسَمَا اشْتَرَوْا بِهِ أَنفُسَهُمْ } اشتروا بمعنى
-  باعوا.{ أن يَكْفُرُوا بِمَا أَنْزَلَ اللهُ بَغْياً } يعني حسداً، هكذا قال قتادة
-  والسدي، وأبو العالية، وهم اليهود. والبغي شدة الطلب للتطاول، وأصله الطلب، ولذلك سميت
-  الزانية بَغِياً، لأنها تطلب الزنى.وفي قوله تعالى: { فَبَآءُو بِغَضَبٍ عَلَى غَضَبٍ
-  } ثلاثة أقاويل:أحدها: أن الغضب الأول لكفرهم بعيسى، والغضب الثاني لكفرهم بمحمد صلى
-  الله عليه وسلم، وهذا قول الحسن، وعكرمة، والشعبي، وقتادة، وأبي العالية.والثاني: أنه
-  ما تقدم من كفرهم في قولهم عُزير ابن الله، وقولهم يد الله مغلولة، وتبديلهم كتاب الله،
-  ثم كفرهم بمحمد.والثالث: أنه لما كان الغضب لازماً لهم كان ذلك توكيداً.{ وَلِلْكَافِرِينَ
-  عَذَابٌ مُّهِينٌ } المهين: المذل. والعذاب على ضربين:فالمهين منها عذاب الكافرين لأنه
-  لا يمحص عنهم ذنوبهم.والثاني: غير مهين وهو ما كان فيه تمحيص عن صاحبه، كقطع يد السارق
-  من المسلمين، وحد الزاني.\r\n\t\t\t\r\n\t\t\t</section>"
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(2, 90)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(2,90)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">بِئْسَمَا
+  ٱشْتَرَوْاْ بِهِ أَنْفُسَهُمْ أَن يَكْفُرُواْ بِمَآ أنَزَلَ ٱللَّهُ بَغْياً أَن
+  يُنَزِّلُ ٱللَّهُ مِن فَضْلِهِ عَلَىٰ مَن يَشَآءُ مِنْ عِبَادِهِ فَبَآءُو بِغَضَبٍ
+  عَلَىٰ غَضَبٍ وَلِلْكَافِرِينَ عَذَابٌ مُّهِينٌ</a> <b>}</b></font>, <br/>, <br/>,
+  <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">قوله
+  تعالى: { بِئْسَمَا اشْتَرَوْا بِهِ أَنفُسَهُمْ } اشتروا بمعنى باعوا.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">{ أن يَكْفُرُوا بِمَا أَنْزَلَ اللهُ بَغْياً } يعني حسداً، هكذا
+  قال قتادة والسدي، وأبو العالية، وهم اليهود. والبغي شدة الطلب للتطاول، وأصله الطلب،
+  ولذلك سميت الزانية بَغِياً، لأنها تطلب الزنى.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وفي
+  قوله تعالى: { فَبَآءُو بِغَضَبٍ عَلَى غَضَبٍ } ثلاثة أقاويل:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">أحدها: أن الغضب الأول لكفرهم بعيسى، والغضب الثاني لكفرهم بمحمد صلى
+  الله عليه وسلم، وهذا قول الحسن، وعكرمة، والشعبي، وقتادة، وأبي العالية.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">والثاني: أنه ما تقدم من كفرهم في قولهم عُزير ابن الله، وقولهم يد
+  الله مغلولة، وتبديلهم كتاب الله، ثم كفرهم بمحمد.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">والثالث:
+  أنه لما كان الغضب لازماً لهم كان ذلك توكيداً.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">{
+  وَلِلْكَافِرِينَ عَذَابٌ مُّهِينٌ } المهين: المذل. والعذاب على ضربين:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">فالمهين منها عذاب الكافرين لأنه لا يمحص عنهم ذنوبهم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">والثاني: غير مهين وهو ما كان فيه تمحيص عن صاحبه، كقطع يد السارق
+  من المسلمين، وحد الزاني.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

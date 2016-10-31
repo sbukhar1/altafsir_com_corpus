@@ -1,4 +1,4 @@
-location:
+position:
   sura: '004'
   aaya: '004'
   madhab: '01'
@@ -7,99 +7,231 @@ meta:
   title: تفسير جامع البيان في تفسير القرآن
   author: الطبري
   year: '310'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَءَاتُواْ ٱلنِّسَآءَ
-  صَدُقَٰتِهِنَّ نِحْلَةً فَإِن طِبْنَ لَكُمْ عَن شَيْءٍ مِّنْهُ نَفْساً فَكُلُوهُ
-  هَنِيئاً مَّرِيئاً }قال أبو جعفر: يعنـي بذلك تعالـى ذكره: وأعطوا النساء مهورهنّ
-  عطية واجبة، وفريضة لازمة؛ يقال منه: نـحل فلان فلاناً كذا، فهو يَنْـحَلُه نِـحْلَةً
-  ونُـحْلاً. كما:حدثنا بشر بن معاذ، قال: ثنا يزيد بن زريع، قال: ثنا سعيد، عن قتادة،
-  قوله: { وَءاتُواْ ٱلنِّسَاءَ صَدُقَـٰتِهِنَّ نِحْلَةً } يقول: فريضة.حدثنـي الـمثنى،
-  قال: ثنا أبو صالـح، قال: أخبرنـي معاوية بن صالـح، عن علـيّ بن أبـي طلـحة، عن ابن
-  عبـاس، قوله: { وَءاتُواْ ٱلنِّسَاءَ صَدُقَـٰتِهِنَّ نِحْلَةً } يعنـي بـالنـحلة:
-  الـمهر.حدثنا القاسم، قال: ثنا الـحسين، قال: ثنـي حجاج، عن ابن جريج، قوله: { وَءاتُواْ
-  ٱلنِّسَاءَ صَدُقَـٰتِهِنَّ نِحْلَةً } قال: فريضة مسماة.حدثنـي يونس، قال: أخبرنا
-  ابن وهب، قال: سمعت ابن زيد يقول فـي قوله: { وَءاتُواْ ٱلنِّسَاءَ صَدُقَـٰتِهِنَّ
-  نِحْلَةً } قال: النـحلة فـي كلام العرب: الواجب، يقول: لا ينكحها إلا بشيء واجب لها
-  صدقة، يسميها لها واجبة، ولـيس ينبغي لأحد أن ينكح امرأة بعد النبـيّ صلى الله عليه
-  وسلم إلا بصداق واجب، ولا ينبغي أن يكون تسمية الصداق كذبـاً بغير حقّ.وقال آخرون:
-  بل عنى بقوله: { وَءاتُواْ ٱلنِّسَاءَ صَدُقَـٰتِهِنَّ نِحْلَةً } أولـياء النساء،
-  وذلك أنهم كانوا يأخذون صدقاتهن. ذكر من قال ذلك:حدثنـي الـمثنى، قال: ثنا عمرو بن
-  عون، قال: ثنا هشيـم، عن سيار، عن أبـي صالـح، قال: كان الرجل إذا زوّج أيـمة أخذ صداقها
-  دونها، فنهاهم الله تبـارك وتعالـى عن ذلك، وَنزلت: { وَءاتُواْ ٱلنِّسَاءَ صَدُقَـٰتِهِنَّ
-  نِحْلَةً }.وقال آخرون: بل كان ذلك من أولـياء النساء، بأن يعطي الرجل أخته الرجل،
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(4, 4)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(4,4)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَءَاتُواْ
+  ٱلنِّسَآءَ صَدُقَٰتِهِنَّ نِحْلَةً فَإِن طِبْنَ لَكُمْ عَن شَيْءٍ مِّنْهُ نَفْساً
+  فَكُلُوهُ هَنِيئاً مَّرِيئاً</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\"
+  dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">قال أبو جعفر:
+  يعنـي بذلك تعالـى ذكره: وأعطوا النساء مهورهنّ عطية واجبة، وفريضة لازمة؛ يقال منه:
+  نـحل فلان فلاناً كذا، فهو يَنْـحَلُه نِـحْلَةً ونُـحْلاً. كما:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا بشر بن معاذ، قال: ثنا يزيد بن زريع، قال: ثنا سعيد، عن قتادة،
+  قوله: { وَءاتُواْ ٱلنِّسَاءَ صَدُقَـٰتِهِنَّ نِحْلَةً } يقول: فريضة.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي الـمثنى، قال: ثنا أبو صالـح، قال: أخبرنـي معاوية بن صالـح،
+  عن علـيّ بن أبـي طلـحة، عن ابن عبـاس، قوله: { وَءاتُواْ ٱلنِّسَاءَ صَدُقَـٰتِهِنَّ
+  نِحْلَةً } يعنـي بـالنـحلة: الـمهر.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  القاسم، قال: ثنا الـحسين، قال: ثنـي حجاج، عن ابن جريج، قوله: { وَءاتُواْ ٱلنِّسَاءَ
+  صَدُقَـٰتِهِنَّ نِحْلَةً } قال: فريضة مسماة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  يونس، قال: أخبرنا ابن وهب، قال: سمعت ابن زيد يقول فـي قوله: { وَءاتُواْ ٱلنِّسَاءَ
+  صَدُقَـٰتِهِنَّ نِحْلَةً } قال: النـحلة فـي كلام العرب: الواجب، يقول: لا ينكحها
+  إلا بشيء واجب لها صدقة، يسميها لها واجبة، ولـيس ينبغي لأحد أن ينكح امرأة بعد النبـيّ
+  صلى الله عليه وسلم إلا بصداق واجب، ولا ينبغي أن يكون تسمية الصداق كذبـاً بغير حقّ.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال آخرون: بل عنى بقوله: { وَءاتُواْ ٱلنِّسَاءَ صَدُقَـٰتِهِنَّ
+  نِحْلَةً } أولـياء النساء، وذلك أنهم كانوا يأخذون صدقاتهن. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي الـمثنى، قال: ثنا عمرو بن عون، قال: ثنا هشيـم، عن سيار، عن
+  أبـي صالـح، قال: كان الرجل إذا زوّج أيـمة أخذ صداقها دونها، فنهاهم الله تبـارك وتعالـى
+  عن ذلك، وَنزلت: { وَءاتُواْ ٱلنِّسَاءَ صَدُقَـٰتِهِنَّ نِحْلَةً }.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال آخرون: بل كان ذلك من أولـياء النساء، بأن يعطي الرجل أخته الرجل،
   علـى أن يعطيه الآخر أخته، علـى أن لا كثـير مهر بـينهما، فنهوا عن ذلك. ذكر من قال
-  ذلك:حدثنا مـحمد بن عبد الأعلـى، قال: ثنا الـمعتـمر بن سلـيـمان، عن أبـيه، قال: زعم
-  حضرميّ أن أناساً كانوا يعطي هذا الرجل أخته ويأخذ أخت الرجل، ولا يأخذون كثـير مهر،
-  فقال الله تبـارك وتعالـى: { وَءاتُواْ ٱلنِّسَاءَ صَدُقَـٰتِهِنَّ نِحْلَةً }.قال
+  ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا مـحمد بن عبد الأعلـى، قال:
+  ثنا الـمعتـمر بن سلـيـمان، عن أبـيه، قال: زعم حضرميّ أن أناساً كانوا يعطي هذا الرجل
+  أخته ويأخذ أخت الرجل، ولا يأخذون كثـير مهر، فقال الله تبـارك وتعالـى: { وَءاتُواْ
+  ٱلنِّسَاءَ صَدُقَـٰتِهِنَّ نِحْلَةً }.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال
   أبو جعفر: وأولـى التأويلات التـي ذكرناها فـي ذلك التأويـل الذي قلناه، وذلك أن الله
   تبـارك وتعالـى ابتدأ ذكر هذه الآية بخطاب الناكحين النساء، ونهاهم عن ظلـمهنّ والـجور
   علـيهنّ، وعرفهم سبـيـل النـجاة من ظلـمهنّ؛ ولا دلالة فـي الآية علـى أن الـخطاب قد
-  صرف عنهم إلـى غيرهم. فإذا كان ذلك كذلك، فمعلوم أن الذين قـيـل لهم:{ فَٱنكِحُواْ
-  مَا طَابَ لَكُمْ مِّنَ ٱلنِّسَآءِ مَثْنَىٰ وَثُلَٰثَ وَرُبَٰعَ }[النساء: 3] هم الذين
-  قـيـل لهم: { وَءاتُواْ ٱلنِّسَاءَ صَدُقَـٰتِهِنَّ } وأن معناه: وآتوا من نكحتـم من
-  النساء صدقاتهنّ نـحلة، لأنه قال فـي الأوّل:{ فَٱنكِحُواْ مَا طَابَ لَكُمْ مِّنَ
-  ٱلنِّسَآءِ }[النساء: 3] ولـم يقل: فـانكحوا، فـيكون قوله: { وَءاتُواْ ٱلنِّسَاءَ
+  صرف عنهم إلـى غيرهم. فإذا كان ذلك كذلك، فمعلوم أن الذين قـيـل لهم:</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">فَٱنكِحُواْ
+  مَا طَابَ لَكُمْ مِّنَ ٱلنِّسَآءِ مَثْنَىٰ وَثُلَٰثَ وَرُبَٰعَ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[النساء:
+  3] هم الذين قـيـل لهم: { وَءاتُواْ ٱلنِّسَاءَ صَدُقَـٰتِهِنَّ } وأن معناه: وآتوا
+  من نكحتـم من النساء صدقاتهنّ نـحلة، لأنه قال فـي الأوّل:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">فَٱنكِحُواْ مَا طَابَ لَكُمْ مِّنَ
+  ٱلنِّسَآءِ</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">[النساء: 3] ولـم يقل: فـانكحوا، فـيكون قوله: { وَءاتُواْ ٱلنِّسَاءَ
   صَدُقَـٰتِهِنَّ } مصروفـاً إلـى أنه معنـيّ به أولـياء النساء دون أزواجهنّ، وهذا
   أمر من الله أزواج النساء الـمدخول بهنّ والـمسمى لهنّ الصداق أن يؤتوهنّ صدقاتهنّ
-  دون الـمطلقات قبل الدخول مـمن لـم يسمّ لها فـي عقد النكاح صداق.\r\n\t\t\t\r\n\t\t\t1 2 3 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَءَاتُواْ ٱلنِّسَآءَ صَدُقَٰتِهِنَّ
-  نِحْلَةً فَإِن طِبْنَ لَكُمْ عَن شَيْءٍ مِّنْهُ نَفْساً فَكُلُوهُ هَنِيئاً مَّرِيئاً
-  }القول فـي تأويـل قوله تعالـى: { فَإِن طِبْنَ لَكُمْ عَن شَىْءٍ مِّنْهُ نَفْساً
-  فَكُلُوهُ هَنِيئاً مَّرِيئاً }.يعنـي بذلك جلّ ثناؤه: فإن وهب لكم أيها الرجال نساؤكم
-  شيئاً من صدقاتهنّ، طيبة بذلك أنفسهنّ، فكلوه هنـيئاً مريئاً. كما:حدثنا مـحمد بن عبد
-  الأعلـى، قال: ثنا بشر بن الـمفضل، قال: ثنا عمارة، عن عكرمة: { فَإِن طِبْنَ لَكُمْ
-  عَن شَىْءٍ مِّنْهُ نَفْساً } قال: الـمهر.حدثنا مـحمد بن الـمثنى، قال: ثنـي حرمي
-  بن عمارة، قال: ثنا شعبة، عن عمارة، عن عكرمة، عن عمارة فـي قول الله تبـارك وتعالـى:
-  { فَإِن طِبْنَ لَكُمْ عَن شَىْءٍ مِّنْهُ نَفْساً } قال: الصدقات.حدثنـي الـمثنى،
-  قال: ثنـي الـحمانـي، قال: ثنا شريك، عن سالـم، عن سعيد: { فَإِن طِبْنَ لَكُمْ عَن
-  شَىْءٍ مِّنْهُ نَفْساً } قال: الأزواج.حدثنـي الـمثنى، قال: ثنا عمرو بن عون، قال:
-  أخبرنا هشيـم، عن عبـيدة، قال: قال لـي إبراهيـم: أكلتَ من الهنـيء الـمريء! قلت: ما
-  ذاك؟ قال: امرأتك أعطتك من صداقها.حدثنا ابن حميد، قال: ثنا جرير، عن منصور، عن إبراهيـم،
-  قال: دخـل رجل علـى علقمة وهو يأكل من طعام بـين يديه، من شيء أعطته امرأته من صداقها
-  أو غيره، فقال له علقمة: ادْنُ، فكل من الهنـيء الـمريء!حدثنـي الـمثنى، قال: ثنا عبد
-  الله بن صالـح، قال: ثنـي معاوية بن صالـح، عن علـيّ بن أبـي طلـحة، عن ابن عبـاس:
-  { فَإِن طِبْنَ لَكُمْ عَن شَىْءٍ مِّنْهُ نَفْساً فَكُلُوهُ هَنِيئاً مَّرِيئاً }
-  يقول: إذا كان غير إضرار ولا خديعة، فهو هنـيء مريء كما قال الله جلّ ثناؤه.حدثنا القاسم،
-  قال: ثنا الـحسين، قال: ثنـي حجاج، عن ابن جريج: { فَإِن طِبْنَ لَكُمْ عَن شَىْءٍ
-  مِّنْهُ نَفْساً } قال: الصداق، { فَكُلُوهُ هَنِيئاً مَّرِيئاً }.حدثنـي يونس، قال:
-  أخبرنا ابن وهب، قال: سمعت ابن زيد يقول فـي قوله: { فَإِن طِبْنَ لَكُمْ عَن شَىْء
-  مِّنْهُ نَفْساً }.حدثنا مـحمد بن عبد الأعلـى، قال: ثنا الـمعتـمر، عن أبـيه، قال:
-  زعم حضرميّ أن أناساً كانوا يتأثمون أن يرجع أحدهم فـي شيء مـما ساق إلـى امرأته، فقال
-  الله تبـارك وتعالـى: { فَإِن طِبْنَ لَكُمْ عَن شَىْءٍ مِّنْهُ نَفْساً فَكُلُوهُ
-  هَنِيئاً مَّرِيئاً }.حدثنا بشر بن معاذ، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة:
-  { فَإِن طِبْنَ لَكُمْ عَن شَىْءٍ مِّنْهُ نَفْساً فَكُلُوهُ هَنِيئاً مَّرِيئاً }
-  يقول: ما طابت به نفساً فـي غير كره أو هوان، فقد أحلّ الله لك ذلك أن تأكله هنـيئاً
-  مريئاً.وقال آخرون: بل عُنـي بهذا القول: أولـياء النساء، فقـيـل لهم: إن طابت أنفس
-  النساء اللواتـي إلـيكم عصمة نكاحهنّ بصدقاتهنّ نفساً، فكلوه هنـيئاً مريئاً.\r\n\t\t\t\r\n\t\t\t1 2 3 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَءَاتُواْ ٱلنِّسَآءَ صَدُقَٰتِهِنَّ
-  نِحْلَةً فَإِن طِبْنَ لَكُمْ عَن شَيْءٍ مِّنْهُ نَفْساً فَكُلُوهُ هَنِيئاً مَّرِيئاً
-  }ذكر من قال ذلك:حدثنـي يعقوب بن إبراهيـم، قال: ثنا هشيـم، قال: ثنا سيار، عن أبـي
-  صالـح فـي قوله: { فَإِن طِبْنَ لَكُمْ عَن شَىْء مِّنْهُ نَفْساً } قال: كان الرجل
-  إذا زوّج ابنته عمد إلـى صداقها فأخذه، قال: فنزلت هذه الآية فـي الأولـياء: { فَإِن
-  طِبْنَ لَكُمْ عَن شَىْء مِّنْهُ نَفْساً فَكُلُوهُ هَنِيئاً مَّرِيئاً }.قال أبو جعفر:
-  وأولـى التأويـلـين فـي ذلك بـالصواب، التأويـل الذي قلنا وأن الآية مخاطب بها الأزواج؛
-  لأن افتتاح الآية مبتدأ بذكرهم، وقوله: { فَإِن طِبْنَ لَكُمْ عَن شَىْءٍ مِّنْهُ نَفْساً
-  } فـي سياقه.وإن قال قائل: فكيف قـيـل: فإن طبن لكم عن شيء منه نفساً، وقد علـمت أن
-  معنى الكلام: فإن طابت لكم أنفسهن بشيء؟ وكيف وحدت النفس والـمعنى للـجميع، وذلك أنه
-  تعالـى ذكره قال: { وَءاتُواْ ٱلنِّسَاءَ صَدُقَـٰتِهِنَّ نِحْلَةً }؟ قـيـل: أما نقل
-  فعل النفوس إلـى أصحاب النفوس، فإن ذلك الـمستفـيض فـي كلام العرب من كلامها الـمعروف:
-  ضِقْتُ بهذا الأمر ذراعاً وذرعاً، وَقَرِرْت بهذا الأمر عيناً، والـمعنى: ضاق به ذرعي،
-  وقرّت به عينـي، كما قال الشاعر:إذا التَّـيازُ ذُو العَضَلاتِ قُلْنا   إلـيكَ إلـيكَ
-  ضَاقَ بِها ذِرَاعافنقل صفة الذراع إلـى ربّ الذراع، ثم أخرج الذراع مفسرة لـموقع الفعل.
+  دون الـمطلقات قبل الدخول مـمن لـم يسمّ لها فـي عقد النكاح صداق.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(4, 4)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(4,4)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَءَاتُواْ ٱلنِّسَآءَ صَدُقَٰتِهِنَّ نِحْلَةً فَإِن
+  طِبْنَ لَكُمْ عَن شَيْءٍ مِّنْهُ نَفْساً فَكُلُوهُ هَنِيئاً مَّرِيئاً</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">القول فـي تأويـل قوله تعالـى: { فَإِن طِبْنَ لَكُمْ عَن شَىْءٍ مِّنْهُ
+  نَفْساً فَكُلُوهُ هَنِيئاً مَّرِيئاً }.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">يعنـي
+  بذلك جلّ ثناؤه: فإن وهب لكم أيها الرجال نساؤكم شيئاً من صدقاتهنّ، طيبة بذلك أنفسهنّ،
+  فكلوه هنـيئاً مريئاً. كما:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا مـحمد بن عبد الأعلـى، قال:
+  ثنا بشر بن الـمفضل، قال: ثنا عمارة، عن عكرمة: { فَإِن طِبْنَ لَكُمْ عَن شَىْءٍ مِّنْهُ
+  نَفْساً } قال: الـمهر.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا مـحمد بن الـمثنى، قال: ثنـي
+  حرمي بن عمارة، قال: ثنا شعبة، عن عمارة، عن عكرمة، عن عمارة فـي قول الله تبـارك وتعالـى:
+  { فَإِن طِبْنَ لَكُمْ عَن شَىْءٍ مِّنْهُ نَفْساً } قال: الصدقات.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي الـمثنى، قال: ثنـي الـحمانـي، قال: ثنا شريك، عن سالـم، عن
+  سعيد: { فَإِن طِبْنَ لَكُمْ عَن شَىْءٍ مِّنْهُ نَفْساً } قال: الأزواج.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي الـمثنى، قال: ثنا عمرو بن عون، قال: أخبرنا هشيـم، عن عبـيدة،
+  قال: قال لـي إبراهيـم: أكلتَ من الهنـيء الـمريء! قلت: ما ذاك؟ قال: امرأتك أعطتك
+  من صداقها.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن حميد، قال: ثنا جرير،
+  عن منصور، عن إبراهيـم، قال: دخـل رجل علـى علقمة وهو يأكل من طعام بـين يديه، من شيء
+  أعطته امرأته من صداقها أو غيره، فقال له علقمة: ادْنُ، فكل من الهنـيء الـمريء!</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي الـمثنى، قال: ثنا عبد الله بن صالـح، قال: ثنـي معاوية بن
+  صالـح، عن علـيّ بن أبـي طلـحة، عن ابن عبـاس: { فَإِن طِبْنَ لَكُمْ عَن شَىْءٍ مِّنْهُ
+  نَفْساً فَكُلُوهُ هَنِيئاً مَّرِيئاً } يقول: إذا كان غير إضرار ولا خديعة، فهو هنـيء
+  مريء كما قال الله جلّ ثناؤه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  القاسم، قال: ثنا الـحسين، قال: ثنـي حجاج، عن ابن جريج: { فَإِن طِبْنَ لَكُمْ عَن
+  شَىْءٍ مِّنْهُ نَفْساً } قال: الصداق، { فَكُلُوهُ هَنِيئاً مَّرِيئاً }.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي يونس، قال: أخبرنا ابن وهب، قال: سمعت ابن زيد يقول فـي قوله:
+  { فَإِن طِبْنَ لَكُمْ عَن شَىْء مِّنْهُ نَفْساً }.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  مـحمد بن عبد الأعلـى، قال: ثنا الـمعتـمر، عن أبـيه، قال: زعم حضرميّ أن أناساً كانوا
+  يتأثمون أن يرجع أحدهم فـي شيء مـما ساق إلـى امرأته، فقال الله تبـارك وتعالـى: {
+  فَإِن طِبْنَ لَكُمْ عَن شَىْءٍ مِّنْهُ نَفْساً فَكُلُوهُ هَنِيئاً مَّرِيئاً }.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا بشر بن معاذ، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة: { فَإِن
+  طِبْنَ لَكُمْ عَن شَىْءٍ مِّنْهُ نَفْساً فَكُلُوهُ هَنِيئاً مَّرِيئاً } يقول: ما
+  طابت به نفساً فـي غير كره أو هوان، فقد أحلّ الله لك ذلك أن تأكله هنـيئاً مريئاً.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال آخرون: بل عُنـي بهذا القول: أولـياء النساء، فقـيـل لهم: إن
+  طابت أنفس النساء اللواتـي إلـيكم عصمة نكاحهنّ بصدقاتهنّ نفساً، فكلوه هنـيئاً مريئاً.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(4, 4)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(4,4)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَءَاتُواْ ٱلنِّسَآءَ صَدُقَٰتِهِنَّ نِحْلَةً فَإِن
+  طِبْنَ لَكُمْ عَن شَيْءٍ مِّنْهُ نَفْساً فَكُلُوهُ هَنِيئاً مَّرِيئاً</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  يعقوب بن إبراهيـم، قال: ثنا هشيـم، قال: ثنا سيار، عن أبـي صالـح فـي قوله: { فَإِن
+  طِبْنَ لَكُمْ عَن شَىْء مِّنْهُ نَفْساً } قال: كان الرجل إذا زوّج ابنته عمد إلـى
+  صداقها فأخذه، قال: فنزلت هذه الآية فـي الأولـياء: { فَإِن طِبْنَ لَكُمْ عَن شَىْء
+  مِّنْهُ نَفْساً فَكُلُوهُ هَنِيئاً مَّرِيئاً }.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال
+  أبو جعفر: وأولـى التأويـلـين فـي ذلك بـالصواب، التأويـل الذي قلنا وأن الآية مخاطب
+  بها الأزواج؛ لأن افتتاح الآية مبتدأ بذكرهم، وقوله: { فَإِن طِبْنَ لَكُمْ عَن شَىْءٍ
+  مِّنْهُ نَفْساً } فـي سياقه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وإن
+  قال قائل: فكيف قـيـل: فإن طبن لكم عن شيء منه نفساً، وقد علـمت أن معنى الكلام: فإن
+  طابت لكم أنفسهن بشيء؟ وكيف وحدت النفس والـمعنى للـجميع، وذلك أنه تعالـى ذكره قال:
+  { وَءاتُواْ ٱلنِّسَاءَ صَدُقَـٰتِهِنَّ نِحْلَةً }؟ قـيـل: أما نقل فعل النفوس إلـى
+  أصحاب النفوس، فإن ذلك الـمستفـيض فـي كلام العرب من كلامها الـمعروف: ضِقْتُ بهذا
+  الأمر ذراعاً وذرعاً، وَقَرِرْت بهذا الأمر عيناً، والـمعنى: ضاق به ذرعي، وقرّت به
+  عينـي، كما قال الشاعر:</font></font><table class=\"TextArabic\" dir=\"rtl\"><tr
+  class=\"TextArabic\"><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">إذا التَّـيازُ ذُو العَضَلاتِ قُلْنا</font></font></b></td><td class=\"TextArabic\">   </td><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">إلـيكَ إلـيكَ
+  ضَاقَ بِها ذِرَاعا</font></font></b></td></tr></table><font class=\"TextResultArabic\"><font
+  color=\"black\">فنقل صفة الذراع إلـى ربّ الذراع، ثم أخرج الذراع مفسرة لـموقع الفعل.
   وكذلك وحد النفس فـي قوله: { فَإِن طِبْنَ لَكُمْ عَن شَىْءٍ مِّنْهُ نَفْساً } إذ
   كانت النفس مفسرة لـموقع الـخبر. وأما توحيد النفس من النفوس، لأنه إنـما أراد الهوى،
-  والهوى يكون جماعة، كما قال الشاعر:بِها جِيَفُ الـحَسْرَى فَأمَّا عِظامُها   فبِـيضٌ
-  وأمَّا جلدُها فَصَلِـيبُوكما قال الآخر:فِـي حَلْقِكمْ عَظْمٌ وقد شجِينَا   وقال
-  بعض نـحويـي الكوفة: جائز فـي النفس فـي هذا الـموضع الـجمع والتوحيد؛ فإن طبن لكم
-  عن شيء منه نفساً وأنفساً، وضقت به ذراعاً وذرعاً وأذرعاً، لأنه منسوب إلـيك، وإلـى
-  من تـخبر عنه، فـاكتفـى بـالواحد عن الـجمع لذلك، ولـم يذهب الوهم إلـى أنه لـيس بـمعنى
-  جمع لأن قبله جمعاً.قال أبو جعفر: والصواب من القول فـي ذلك عندنا أن النفس وقع موقع
-  الأسماء التـي تأتـي بلفظ الواحد مؤدّية معناه إذا ذكر بلفظ الواحد، وأنه بـمعنى الـجمع
-  عن الـجمع. وأما قوله: { هَنِيئَاً } فإنه مأخوذ من هنأت البعير بـالقطران: إذا جرب
-  فعولـج به، كما قال الشاعر:مُتَـبَذِّلاً تَبْدُو مَـحَاسِنُهُ   يَضَعُ الهِنَاءَ
-  مَوَاضِعَ النُّقْبِفكان معنى قوله: { فَكُلُوهُ هَنِيئاً مَّرِيئاً }: فكلوه دواء
-  شافـياً، يقال منه: هنأنـي الطعام ومرأنـي: أي صار لـي دواء وعلاجاً شافـياً، وهنئنـي
-  ومرئنـي بـالكسر، وهي قلـيـلة، والذين يقولون هذا القول يقولون يهنأنـي ويـمرأنـي،
-  والذين يقولون هنأنـي، يقولون: يهنئنـي ويـمرئنـي، فإذا أفردوا، قالوا: قد أمرأنـي
-  هذا الطعام إمراء، ويقال: هنأت القوم: إذا عُلتهم، سمع من العرب من يقول: إنـما سميت
-  هانئاً لتهنأ، بـمعنى: لتعول وتكفـى.\r\n\t\t\t\r\n\t\t\t1 2 3 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  والهوى يكون جماعة، كما قال الشاعر:</font></font><table class=\"TextArabic\" dir=\"rtl\"><tr
+  class=\"TextArabic\"><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">بِها جِيَفُ الـحَسْرَى فَأمَّا عِظامُها</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">فبِـيضٌ وأمَّا جلدُها فَصَلِـيبُ</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">وكما قال الآخر:</font></font><table
+  class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">فِـي حَلْقِكمْ عَظْمٌ وقد شجِينَا</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\"/></font></b></td></tr></table><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال بعض نـحويـي الكوفة: جائز فـي النفس فـي هذا الـموضع الـجمع والتوحيد؛
+  فإن طبن لكم عن شيء منه نفساً وأنفساً، وضقت به ذراعاً وذرعاً وأذرعاً، لأنه منسوب
+  إلـيك، وإلـى من تـخبر عنه، فـاكتفـى بـالواحد عن الـجمع لذلك، ولـم يذهب الوهم إلـى
+  أنه لـيس بـمعنى جمع لأن قبله جمعاً.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال
+  أبو جعفر: والصواب من القول فـي ذلك عندنا أن النفس وقع موقع الأسماء التـي تأتـي بلفظ
+  الواحد مؤدّية معناه إذا ذكر بلفظ الواحد، وأنه بـمعنى الـجمع عن الـجمع. وأما قوله:
+  { هَنِيئَاً } فإنه مأخوذ من هنأت البعير بـالقطران: إذا جرب فعولـج به، كما قال الشاعر:</font></font><table
+  class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">مُتَـبَذِّلاً تَبْدُو مَـحَاسِنُهُ</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">يَضَعُ الهِنَاءَ مَوَاضِعَ النُّقْبِ</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">فكان معنى قوله: { فَكُلُوهُ هَنِيئاً
+  مَّرِيئاً }: فكلوه دواء شافـياً، يقال منه: هنأنـي الطعام ومرأنـي: أي صار لـي دواء
+  وعلاجاً شافـياً، وهنئنـي ومرئنـي بـالكسر، وهي قلـيـلة، والذين يقولون هذا القول يقولون
+  يهنأنـي ويـمرأنـي، والذين يقولون هنأنـي، يقولون: يهنئنـي ويـمرئنـي، فإذا أفردوا،
+  قالوا: قد أمرأنـي هذا الطعام إمراء، ويقال: هنأت القوم: إذا عُلتهم، سمع من العرب
+  من يقول: إنـما سميت هانئاً لتهنأ، بـمعنى: لتعول وتكفـى.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">3 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a id=\"NextClass\"/></td></tr></table></center></div></section>"
 

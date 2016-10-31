@@ -1,4 +1,4 @@
-location:
+position:
   sura: '002'
   aaya: '044'
   madhab: '02'
@@ -7,21 +7,48 @@ meta:
   title: تفسير التفسير
   author: ابن عرفة
   year: '803'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ أَتَأْمُرُونَ
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(2, 44)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(2,44)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">أَتَأْمُرُونَ
   ٱلنَّاسَ بِٱلْبِرِّ وَتَنْسَوْنَ أَنْفُسَكُمْ وَأَنْتُمْ تَتْلُونَ ٱلْكِتَٰبَ أَفَلاَ
-  تَعْقِلُونَ }قوله تعالى: { أَتَأْمُرُونَ ٱلنَّاسَ بِٱلْبِرِّ... }الاستفهام معناه
-  التقرير والتوبيخ.قال ابن عرفة: فرق بعضهم بينهما بأن التقرير لمن أنعمت عليه ولم يحسن
+  تَعْقِلُونَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">قوله تعالى: { أَتَأْمُرُونَ ٱلنَّاسَ
+  بِٱلْبِرِّ... }</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">الاستفهام معناه التقرير والتوبيخ.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قال ابن عرفة: فرق بعضهم بينهما بأن التقرير لمن أنعمت عليه ولم يحسن
   إليك. والتوبيخ لمن أحسنت إليه وأساء إليك. وجمع الأنفس جمع قلة تحقيرا لها، لأن الآية
   خرجت مخرج الذّمّ، والواو في \" تنسون \" يجب (أو يترجح) أن يكون واو الحال (إذ) لو
   لم تكن من تمام (الأول) للزم عليه تسلط الإنكار على كل واحدة من الجملتين على انفرادها،
   والأمر بالمعروف مطلوب شرعا لا يوبخ أحد (على) فعله فما الإنكار إلا على من يأمر بالبر
   حالة عدم اتصافه به. فإن قلت / المضارع لا يقع حالا إلا بغير واو إلاّ فيما شذّ من
-  قولهم: (قمت وأصك عينه)؟ قلنا: هو على إضمار المبتدأ أي وأنتُمْ تَنسَوْنَ أنفُسَكُمْ.(قيل)
-  لابن عرفة: لعل الإنكار تسلط على الجمع بين الأمرين أي أتجمعون بين الأمر بالبر ونسيان
-  أنفسكم؟(فقال): ظاهر اللفظ بالاتصاف أن دلالته على ذلك المعنى إنما هو من ناحية كون
-  تلك الجملة حالا فقط.قلت: وأيضا فما يدل على إنكار الجمع بينهما إلا لو كان \" تنسون
-  \" منصوبا كما قالوا في: لاَ تَأْكُلِ السَّمَكَ وَتَشْرَبِ اللَّبَنَ.قوله تعالى:
-  { وَأَنتُمْ تَتْلُونَ ٱلْكِتَابَ أَفَلاَ تَعْقِلُونَ }أي العقل الذي يصدكم عن ارتكاب
-  ما منع الشرع منه وهو العقل النافع وليس المراد العقل التكليفي لأنه ثابت، وهذا هو
-  الذي اختص منه منتفٍ عنهم لأن المعنى: أتجهلون فلا تعقلون؟ انتهى.\r\n\t\t\t\r\n\t\t\t</section>"
+  قولهم: (قمت وأصك عينه)؟ قلنا: هو على إضمار المبتدأ أي وأنتُمْ تَنسَوْنَ أنفُسَكُمْ.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">(قيل) لابن عرفة: لعل الإنكار تسلط على الجمع بين الأمرين أي أتجمعون
+  بين الأمر بالبر ونسيان أنفسكم؟</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">(فقال):
+  ظاهر اللفظ بالاتصاف أن دلالته على ذلك المعنى إنما هو من ناحية كون تلك الجملة حالا
+  فقط.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">قلت: وأيضا فما يدل على إنكار الجمع
+  بينهما إلا لو كان \" تنسون \" منصوبا كما قالوا في: لاَ تَأْكُلِ السَّمَكَ وَتَشْرَبِ
+  اللَّبَنَ.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">قوله تعالى: { وَأَنتُمْ تَتْلُونَ
+  ٱلْكِتَابَ أَفَلاَ تَعْقِلُونَ }</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">أي
+  العقل الذي يصدكم عن ارتكاب ما منع الشرع منه وهو العقل النافع وليس المراد العقل التكليفي
+  لأنه ثابت، وهذا هو الذي اختص منه منتفٍ عنهم لأن المعنى: أتجهلون فلا تعقلون؟ انتهى.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

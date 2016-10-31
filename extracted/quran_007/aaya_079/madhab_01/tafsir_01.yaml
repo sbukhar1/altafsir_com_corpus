@@ -1,4 +1,4 @@
-location:
+position:
   sura: '007'
   aaya: 079
   madhab: '01'
@@ -9,15 +9,32 @@ meta:
   year: '310'
 aaya: فَتَوَلَّىٰ عَنْهُمْ وَقَالَ يَا قَوْمِ لَقَدْ أَبْلَغْتُكُمْ رِسَالَةَ رَبِّي
   وَنَصَحْتُ لَكُمْ وَلَٰكِنْ لَا تُحِبُّونَ النَّاصِحِينَ
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ فَتَوَلَّىٰ عَنْهُمْ
-  وَقَالَ يَٰقَوْمِ لَقَدْ أَبْلَغْتُكُمْ رِسَالَةَ رَبِّي وَنَصَحْتُ لَكُمْ وَلَكِن
-  لاَّ تُحِبُّونَ ٱلنَّٰصِحِينَ }يقول تعالـى ذكره: فأدبر صالـح عنهم حين استعجلوه العذاب
-  وعقروا ناقة الله خارجاً عن أرضهم من بـين أظهرهم لأن الله تعالـى ذكره أوحى إلـيه:
-  إنـي مهلكهم بعد ثلاثة. وقـيـل: إنه لـم تهلك أمة ونبـيها بـين أظهرها، فأخبر الله
-  جلّ ثناؤه عن خروج صالـح من بـين قومه الذين عتوا علـى ربهم حين أراد الله إحلال عقوبته
-  بهم، فقال: فتولَّـى عنهم صالـح، وقال لقومه ثمود: لقد أبلغتكم رسالة ربـي، وأدّيت
-  إلـيكم ما أمرنـي بأدائه إلـيكم ربـي من أمره ونهيه، ونصحت لكم فـي أدائي رسالة الله
-  إلـيكم فـي تـحذيركم بأسه بإقامتكم علـى كفركم به وعبـادتكم الأوثان، { وَلَكِنْ لا
-  تُـحِبُّونَ النَّاصحِينَ } لكم فـي الله الناهين لكم عن اتبـاع أهوائكم الصادّين لكم
-  عن شهوات أنفسكم.\r\n\t\t\t\r\n\t\t\t</section>"
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(7, 79)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(7,79)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">فَتَوَلَّىٰ
+  عَنْهُمْ وَقَالَ يَٰقَوْمِ لَقَدْ أَبْلَغْتُكُمْ رِسَالَةَ رَبِّي وَنَصَحْتُ لَكُمْ
+  وَلَكِن لاَّ تُحِبُّونَ ٱلنَّٰصِحِينَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\"
+  dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">يقول تعالـى ذكره:
+  فأدبر صالـح عنهم حين استعجلوه العذاب وعقروا ناقة الله خارجاً عن أرضهم من بـين أظهرهم
+  لأن الله تعالـى ذكره أوحى إلـيه: إنـي مهلكهم بعد ثلاثة. وقـيـل: إنه لـم تهلك أمة
+  ونبـيها بـين أظهرها، فأخبر الله جلّ ثناؤه عن خروج صالـح من بـين قومه الذين عتوا
+  علـى ربهم حين أراد الله إحلال عقوبته بهم، فقال: فتولَّـى عنهم صالـح، وقال لقومه
+  ثمود: لقد أبلغتكم رسالة ربـي، وأدّيت إلـيكم ما أمرنـي بأدائه إلـيكم ربـي من أمره
+  ونهيه، ونصحت لكم فـي أدائي رسالة الله إلـيكم فـي تـحذيركم بأسه بإقامتكم علـى كفركم
+  به وعبـادتكم الأوثان، { وَلَكِنْ لا تُـحِبُّونَ النَّاصحِينَ } لكم فـي الله الناهين
+  لكم عن اتبـاع أهوائكم الصادّين لكم عن شهوات أنفسكم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

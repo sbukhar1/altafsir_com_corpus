@@ -1,4 +1,4 @@
-location:
+position:
   sura: '002'
   aaya: '203'
   madhab: '01'
@@ -7,317 +7,737 @@ meta:
   title: تفسير جامع البيان في تفسير القرآن
   author: الطبري
   year: '310'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَٱذْكُرُواْ ٱللَّهَ
-  فِيۤ أَيَّامٍ مَّعْدُودَاتٍ فَمَن تَعَجَّلَ فِي يَوْمَيْنِ فَلاَ إِثْمَ عَلَيْهِ
-  وَمَن تَأَخَّرَ فَلاۤ إِثْمَ عَلَيْهِ لِمَنِ ٱتَّقَىٰ وَٱتَّقُواْ ٱللَّهَ وَٱعْلَمُوآ
-  أَنَّكُمْ إِلَيْهِ تُحْشَرُونَ }يعني جل ذكره: اذكروا الله بـالتوحيد والتعظيم في
-  أيام محصيات، وهي أيام رمي الجمار، أمر عباده يومئذٍ بالتكبير أدبـار الصلوات، وعند
-  الرمي مع كل حصاة من حصى الـجمار يرمي بها جمرة من الجمار.وبـمثل الذي قلنا فـي ذلك
-  قال أهل التأويـل: ذكر من قال ذلك:حدثنـي يعقوب بن إبراهيـم: قال: ثنا هشيـم، عن أبـي
-  بشر، عن سعيد بن جبـير، عن ابن عبـاس فـي قوله: { وَاذْكُروا اللّهَ فِـي أيَّامٍ مَعْدُوداتٍ
-  } قال: أيام التشريق.وحدثنـي مـحمد بن نافع البصري، قال: ثنا غندر، قال: ثنا شعبة،
-  عن هشيـم، عن أبـي بشر، عن سعيد بن جبـير، عن ابن عبـاس، مثله.وحدثنـي مـحمد بن سعد،
-  قال: ثنـي أبـي، قال: ثنـي عمي، قال: ثنـي أبـي، عن أبـيه، عن ابن عبـاس قوله: { وَاذْكُرُوا
-  اللّهَ فِـي أيَّامٍ مَعَدُودَاتٍ } يعنـي الأيام الـمعدودات أيام التشريق، وهي ثلاثة
-  أيام بعد النـحر.وحدثنـي الـمثنى، قال: ثنا أبو صالـح، قال: ثنـي معاوية بن صالـح،
-  عن علـيّ بن أبـي طلـحة، عن ابن عبـاس قوله: { وَاذْكُرُوا اللّهَ فِـي أيَّامٍ مَعْدُوداتٍ
-  } يعنـي أيام التشريق.وحدثنا مـحمد بن الـمثنى، قال: ثنا مـحمد بن جعفر، قال: ثنا شعبة،
-  عن أبـي بشر، عن سعيد بن جبـير، عن ابن عبـاس، مثله.وحدثنا أبو كريب، قال: ثنا مخـلد،
-  عن ابن جريج، عن عمرو بن دينار، عن ابن عبـاس: سمعه يوم الصدر يقول بعد ما صدر يكبر
-  فـي الـمسجد ويتأوّل: { وَاذْكُرُوا اللّهَ فِـي أيَّامٍ مَعْدُودَاتٍ }.حدثنا علـيّ
-  بن داود، قال: ثنا أبو صالـح، قال: ثنـي معاوية بن صالـح، عن علـيّ بن أبـي طلـحة،
-  عن ابن عبـاس: { وَاذْكُرُوا اللّهَ فِـي أيَّامِ مَعْدُوداتٍ } يعنـي أيام التشريق.وحدثنا
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(2, 203)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(2,203)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَٱذْكُرُواْ
+  ٱللَّهَ فِيۤ أَيَّامٍ مَّعْدُودَاتٍ فَمَن تَعَجَّلَ فِي يَوْمَيْنِ فَلاَ إِثْمَ
+  عَلَيْهِ وَمَن تَأَخَّرَ فَلاۤ إِثْمَ عَلَيْهِ لِمَنِ ٱتَّقَىٰ وَٱتَّقُواْ ٱللَّهَ
+  وَٱعْلَمُوآ أَنَّكُمْ إِلَيْهِ تُحْشَرُونَ</a> <b>}</b></font>, <br/>, <br/>, <div
+  align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">يعني
+  جل ذكره: اذكروا الله بـالتوحيد والتعظيم في أيام محصيات، وهي أيام رمي الجمار، أمر
+  عباده يومئذٍ بالتكبير أدبـار الصلوات، وعند الرمي مع كل حصاة من حصى الـجمار يرمي
+  بها جمرة من الجمار.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وبـمثل الذي قلنا فـي ذلك قال أهل
+  التأويـل: ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي يعقوب بن إبراهيـم: قال:
+  ثنا هشيـم، عن أبـي بشر، عن سعيد بن جبـير، عن ابن عبـاس فـي قوله: { وَاذْكُروا اللّهَ
+  فِـي أيَّامٍ مَعْدُوداتٍ } قال: أيام التشريق.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وحدثنـي
+  مـحمد بن نافع البصري، قال: ثنا غندر، قال: ثنا شعبة، عن هشيـم، عن أبـي بشر، عن سعيد
+  بن جبـير، عن ابن عبـاس، مثله.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وحدثنـي
+  مـحمد بن سعد، قال: ثنـي أبـي، قال: ثنـي عمي، قال: ثنـي أبـي، عن أبـيه، عن ابن عبـاس
+  قوله: { وَاذْكُرُوا اللّهَ فِـي أيَّامٍ مَعَدُودَاتٍ } يعنـي الأيام الـمعدودات أيام
+  التشريق، وهي ثلاثة أيام بعد النـحر.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وحدثنـي
+  الـمثنى، قال: ثنا أبو صالـح، قال: ثنـي معاوية بن صالـح، عن علـيّ بن أبـي طلـحة،
+  عن ابن عبـاس قوله: { وَاذْكُرُوا اللّهَ فِـي أيَّامٍ مَعْدُوداتٍ } يعنـي أيام التشريق.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وحدثنا مـحمد بن الـمثنى، قال: ثنا مـحمد بن جعفر، قال: ثنا شعبة،
+  عن أبـي بشر، عن سعيد بن جبـير، عن ابن عبـاس، مثله.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وحدثنا
+  أبو كريب، قال: ثنا مخـلد، عن ابن جريج، عن عمرو بن دينار، عن ابن عبـاس: سمعه يوم
+  الصدر يقول بعد ما صدر يكبر فـي الـمسجد ويتأوّل: { وَاذْكُرُوا اللّهَ فِـي أيَّامٍ
+  مَعْدُودَاتٍ }.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا علـيّ بن داود، قال: ثنا أبو
+  صالـح، قال: ثنـي معاوية بن صالـح، عن علـيّ بن أبـي طلـحة، عن ابن عبـاس: { وَاذْكُرُوا
+  اللّهَ فِـي أيَّامِ مَعْدُوداتٍ } يعنـي أيام التشريق.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وحدثنا
   عبد الـحميد بن بـيان السكري، قال: أخبرنا إسحاق، عن شريك، عن أبـي إسحاق، عن عطاء
   بن أبـي ربـاح فـي قول الله عز وجل: { وَاذْكُرُوا اللّهَ فِـي أيَّامٍ مَعْدُوداتٍ
-  } قال: هي أيام التشريق.حدثنا ابن وكيع، قال: ثنـي أبـي، عن طلـحة بن عمرو، عن عطاء،
-  مثله.وحدثنـي مـحمد بن عمرو، قال: ثنا أبو عاصم، عن عيسى، عن ابن أبـي نـجيح، عن مـجاهد
-  فـي قول الله عز وجل: { وَاذْكُرُوا اللّهَ فِـي أيَّامٍ مَعْدُوداتٍ } قال أيام التشريق
-  بـمنى.حدثنا مـحمد بن حميد، قال: ثنا حكام، عن عنبسة، عن لـيث، عن مـجاهد وعطاء قالا:
-  هي أيام التشريق.وحدثنا ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا سفـيان، عن ابن أبـي
-  نـجيح، عن مـجاهد، مثله.حدثنا ابن حميد، قال: ثنا جرير، عن منصور، عن مـجاهد، مثله.حدثنا
-  ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا سفـيان، عن منصور، عن إبراهيـم قال: الأيام
-  الـمعدودات: أيام التشريق.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 9 10 </section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَٱذْكُرُواْ ٱللَّهَ فِيۤ أَيَّامٍ
-  مَّعْدُودَاتٍ فَمَن تَعَجَّلَ فِي يَوْمَيْنِ فَلاَ إِثْمَ عَلَيْهِ وَمَن تَأَخَّرَ
-  فَلاۤ إِثْمَ عَلَيْهِ لِمَنِ ٱتَّقَىٰ وَٱتَّقُواْ ٱللَّهَ وَٱعْلَمُوآ أَنَّكُمْ
-  إِلَيْهِ تُحْشَرُونَ }حدثنا ابن بشار، قال: ثنا يحيى، عن سفـيان، عن منصور، عن إبراهيـم،
-  مثله.حدثنـي يعقوب، قال: ثنا ابن علـية، قال: أخبرنا يونس، عن الـحسن، قال: الأيام
-  الـمعدودات: الأيام بعد النـحر.وحدثنا ابن بشار، قال: ثنا مـحمد بن جعفر، قال: ثنا
-  شعبة، قال: سألت إسماعيـل بن أبـي خالد عن الأيام الـمعدودات، فقال: أيام التشريق.حدثنا
-  بشر بن معاذ، قال: ثنا يزيد بن زريع، قال: ثنا سعيد، عن قتادة قوله: { وَاذْكُرُوا
-  اللّهَ فِـي أيَّامِ مَعْدُوداتٍ } كنا نـحدّث أنها أيام التشريق.حدثنا الـحسن بن يحيى،
-  قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر، عن قتادة فـي قوله: { وَاذْكُرُوا اللّهَ
-  فِـي أيَّامِ مَعْدُوداتٍ } قال: هي أيام التشريق.وحدثنـي موسى بن هارون، قال: ثنا
-  عمرو بن حماد، قال: ثنا أسبـاط، عن السدي: أما الأيام الـمعدودات: فهي أيام التشريق.وحدثت
-  عن عمار، قال: ثنا ابن أبـي جعفر، عن أبـيه، عن الربـيع، مثله.وحدثنـي يونس، قال: أخبرنا
-  ابن وهب، عن مالك، قال: الأيام الـمعدودات: ثلاثة أيام بعد يوم النـحر.وحدثت عن حسين
-  بن الفرج، قال: سمعت أبـا معاذ الفضل بن خالد، قال: أخبرنا عبـيد بن سلـيـمان، قال:
-  سمعت الضحاك يقول فـي قوله: { فِـي أيَّامِ مَعْدُوداتٍ } قال: أيام التشريق الثلاثة.وحدثنـي
-  ابن البرقـي، قال: ثنا عمرو بن أبـي سلـمة، قال: سألت ابن زيد عن الأيام الـمعدودات،
-  والأيام الـمعلومات؟ فقال: الأيام الـمعدودات: أيام التشريق، والأيام الـمعلومات: يوم
-  عرفة، ويوم النـحر، وأيام التشريق.وإنـما قلنا: إن الأيام الـمعدودات هي: أيام مِنى
-  وأيام رمي الـجمار لتظاهر الأخبـار عن رسول الله صلى الله عليه وسلم أنه كان يقول فـيها:
-  إنها أيام ذكر الله عز وجل. ذكر الأخبـار التـي رويت بذلك:حدثنـي يعقوب بن إبراهيـم
-  وخلاد بن أسلـم، قالا: ثنا هشيـم، عن عمر بن أبـي سلـمة، عن أبـيه، عن أبـي هريرة،
-  أن رسول الله صلى الله عليه وسلم قال: \" أيَّامُ التَّشْريق أيَّامُ طُعْمٍ وَذِكْرٍ
-  \" وحدثنا خلاد، قال: ثنا روح، قال: ثنا صالـح، قال: ثنـي ابن شهاب، عن سعيد بن الـمسيب،
-  عن أبـي هريرة أن رسول الله صلى الله عليه وسلم بعث عبد الله بن حذافة يطوف فـي منى:
-  \" ا تَصُومُوا هَذِهِ الأيَّامَ فإنَّهَا أيَّامُ أكْلٍ وَشْرْبٍ وَذِكْرِ اللَّهِ
-  عَزَّ وَجَلَّ \" وحدثنا حميد بن مسعدة، قال: ثنا بشر بن الـمفضل، وحدثنـي يعقوب بن
-  إبراهيـم، قال: ثنا ابن علـية، قال جميعا: ثنا خالد، عن أبـي قلابة، عن أبـي الـملـيح،
-  عن عائشة أن رسول الله صلى الله عليه وسلم قال: \" إنَّ هَذِهِ الأيَّامَ أيَّامُ أكْلٍ
-  وَشُرْبٍ وَذِكْرِ الله \" وحدثني يعقوب، قال: ثنا هشيـم، عن ابن أبي ليلى، عن عطاء،
-  عن عائشة، قالت: نهى رسول الله صلى الله عليه وسلم عن صوم أيام التشريق وقال:\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 9 10 </section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَٱذْكُرُواْ ٱللَّهَ فِيۤ أَيَّامٍ
-  مَّعْدُودَاتٍ فَمَن تَعَجَّلَ فِي يَوْمَيْنِ فَلاَ إِثْمَ عَلَيْهِ وَمَن تَأَخَّرَ
-  فَلاۤ إِثْمَ عَلَيْهِ لِمَنِ ٱتَّقَىٰ وَٱتَّقُواْ ٱللَّهَ وَٱعْلَمُوآ أَنَّكُمْ
-  إِلَيْهِ تُحْشَرُونَ } \" هِيَ أيَّامُ أكْلٍ وَشُرْبٍ وَذِكْرِ اللَّهِ \" وحدثنـي
-  يعقوب، قال: ثنـي هشيـم، عن عبد الـملك بن أبـي سلـيـمان، عن عمرو بن دينار: أن رسول
-  الله صلى الله عليه وسلم بعث بشر بن سحيـم، فنادى فـي أيام التشريق، فقال: \" إنّ هذهِ
-  الأيامَ أيامُ أكلٍ وَشُربٍ وذكرِ اللّهِ \" وحدثنـي يعقوب. قال: ثنا هشيـم، عن سفـيان
-  بن حسين، عن الزهري، قال: بعث رسول الله صلى الله عليه وسلم عبد الله بن حذافة بن قـيس
-  فنادى فـي أيام التشريق فقال: \" إنّ هَذِهِ الأيّامَ أيَّامُ أكْلٍ وَشُرْبٍ وَذِكْرِ
-  اللّهِ، إلاّ مَنْ كانَ علـيهِ صَوْمٌ مِنْ هَدْيٍ \" وحدثنـي يعقوب، قال: ثنا ابن
-  علـية، عن مـحمد بن إسحاق، عن حكيـم بن حكيـم، عن مسعود بن الـحكم الزرقـي، عن أمه
-  قالت: لكأنـي أنظر إلـى علـيّ رضي الله عنه علـى بغلة رسول الله صلى الله عليه وسلم
-  البـيضاء حين وقـف علـى شعب الأنصار وهو يقول: «أيُّها النَّاسُ إنَّها لَـيْسَتْ بأيَّام
-  صِيامٍ، إنَّـمَا هِيَ أيَّامُ أكْلٍ وَشُرْبٍ وَذِكْرٍ».فإن قال قائل: إن النبـيّ
-  صلى الله عليه وسلم إذ قال فـي أيام منى: \" إنَّها أيَّام أكْلٍ وَشُربٍ وَذِكْرِ
-  اللّهِ \" لـم يخبر أمته أنها الأيام الـمعدودات التـي ذكرها الله فـي كتابه، فما تنكر
-  أن يكون النبـيّ صلى الله عليه وسلم عنى بقوله: وذكر الله: الأيام الـمعلومات؟ قـيـل:
-  غير جائز أن يكون عنى ذلك، لأن الله لـم يكن يوجب فـي الأيام الـمعلومات من ذكره فـيها
-  ما أوجب فـي الأيام الـمعدودات، وإنـما وصف الـمعلومات جل ذكره بأنها أيام يذكر فـيها
-  اسم الله علـى بهائم الأنعام، فقال: لِـيَشْهَدوا مَنافِعَ لهُمْ وَيَذْكُرُوا اسْمَ
-  اللّهِ فِـي أيَّامٍ مَعْلُوماتٍ علـى ما رَزَقَهُمْ مِنْ بَهِيـمَةِ الأنْعامِ فلـم
-  يوجب فـي الأيام الـمعلومات من ذكره كالذي أوجبه فـي الأيام الـمعدودات من ذكره، بل
-  أخبر أنها أيام ذكره علـى بهائم الأنعام. فكان معلوماً إذ قال صلى الله عليه وسلم لأيام
-  التشريق: \" إنَّها أيَّامُ أكْلٍ وَشُرْبٍ وَذِكْرِ اللّهِ \" فأخرج قوله: «وذكْر
-  اللّه»، مطلقاً بغير شرط ولا إضافة، إلـى أنه الذكر علـى بهائم الأنعام، أنه عنى بذلك
-  الذكر الذي ذكره الله فـي كتابه، فأوجبه علـى عبـاده مطلقاً بغير شرط ولا إضافة إلـى
-  معنى فـي الأيام الـمعدودات. وأنه لو كان أراد بذلك صلى الله عليه وسلم وصف الأيام
-  الـمعلومات به، لوصل قوله: «وذكر»، إلـى أنه ذكر الله علـى ما رزقهم من بهائم الأنعام،
-  كالذي وصف الله به ذلك ولكنه أطلق ذلك بـاسم الذكر من غير وصله بشيء، كالذي أطلقه تبـارك
-  وتعالـى بـاسم الذكر، فقال: { وَاذْكُرُوا اللّهَ فِـي أيَّامِ مَعْدُوداتٍ } فكان
-  ذلك من أوضح الدلـيـل علـى أنه عنى بذلك ما ذكره الله فـي كتابه وأوجبه فـي الأيام
-  الـمعدودات.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 9 10 </section><section>قراءة الآيةفتح
-  صفحة القرآنالانتقال الى صفحة القرآن{ وَٱذْكُرُواْ ٱللَّهَ فِيۤ أَيَّامٍ مَّعْدُودَاتٍ
+  } قال: هي أيام التشريق.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن وكيع، قال: ثنـي أبـي،
+  عن طلـحة بن عمرو، عن عطاء، مثله.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وحدثنـي
+  مـحمد بن عمرو، قال: ثنا أبو عاصم، عن عيسى، عن ابن أبـي نـجيح، عن مـجاهد فـي قول
+  الله عز وجل: { وَاذْكُرُوا اللّهَ فِـي أيَّامٍ مَعْدُوداتٍ } قال أيام التشريق بـمنى.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا مـحمد بن حميد، قال: ثنا حكام، عن عنبسة، عن لـيث، عن مـجاهد
+  وعطاء قالا: هي أيام التشريق.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وحدثنا
+  ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا سفـيان، عن ابن أبـي نـجيح، عن مـجاهد، مثله.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن حميد، قال: ثنا جرير، عن منصور، عن مـجاهد، مثله.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا سفـيان، عن منصور،
+  عن إبراهيـم قال: الأيام الـمعدودات: أيام التشريق.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,8,1)\"><u>8</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,9,1)\"><u>9</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,10,1)\"><u>10</u> </a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2,
+  203)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,203)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَٱذْكُرُواْ ٱللَّهَ فِيۤ أَيَّامٍ مَّعْدُودَاتٍ
   فَمَن تَعَجَّلَ فِي يَوْمَيْنِ فَلاَ إِثْمَ عَلَيْهِ وَمَن تَأَخَّرَ فَلاۤ إِثْمَ
-  عَلَيْهِ لِمَنِ ٱتَّقَىٰ وَٱتَّقُواْ ٱللَّهَ وَٱعْلَمُوآ أَنَّكُمْ إِلَيْهِ تُحْشَرُونَ
-  }القول فـي تأويـل قوله تعالـى: { فَمَنْ تَعَجَّلَ فِـي يَوْمَيْنِ فَلا إثْمَ عَلَـيْهِ
-  وَمَنْ تَأخَّرَ فَلا إثْمَ عَلَـيْهِ لِـمَنِ اتَّقَـى }.اختلف أهل التأويـل فـي تأويـل
-  ذلك، فقال بعضهم: معناه: فمن تعجل فـي يومين من أيام التشريق فنفر فـي الـيوم الثانـي
-  فلا إثم علـيه فـي نفره وتعجله فـي النفر، ومن تأخر عن النفر فـي الـيوم الثانـي من
-  أيام التشريق إلـى الـيوم الثالث حتـى ينفر فـي الـيوم الثالث فلا إثم علـيه فـي تأخره.
-  ذكر من قال ذلك:حدثنا أحمد، قال: ثنا أبو أحمد الزبـيري، قال: ثنا هشيـم، عن عطاء،
-  قال: لا إثم علـيه فـي تعجيـله، ولا إثم علـيه فـي تأخيره.حدثنا أحمد، قال: ثنا أبو
-  أحمد، قال: ثنا هشيـم، عن عوف، عن الـحسن، مثله.حدثنا أحمد، قال: ثنا أبو أحمد، قال:
-  ثنا هشيـم، عن مغيرة، عن عكرمة، مثله.حدثنـي مـحمد بن عمرو، قال: ثنا أبو عاصم، عن
-  عيسى، عن ابن أبـي نـجيح، عن مـجاهد فـي قوله: { فَمَنْ تَعَجَّلَ فِـي يَوْمَيْنِ
-  } يوم النفر { فَلا إثْمَ عَلَـيْه } لا حرج علـيه وَمَنْ تأخَّرَ فَلا إثْمَ عَلَـيْه.حدثنـي
-  موسى بن هارون، قال: ثنا عمرو بن حماد، قال: ثنا أسبـاط، عن السدي: أما من تعجل فـي
-  يومين فلا إثم علـيه، يقول: من نفر فـي يومين فلا جناح علـيه، ومن تأخر فنفر فـي الثالث
-  فلا جناح علـيه.حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة قوله: { فَمَنْ
+  عَلَيْهِ لِمَنِ ٱتَّقَىٰ وَٱتَّقُواْ ٱللَّهَ وَٱعْلَمُوآ أَنَّكُمْ إِلَيْهِ تُحْشَرُونَ</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن بشار، قال: ثنا يحيى، عن سفـيان، عن منصور، عن إبراهيـم،
+  مثله.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي يعقوب، قال: ثنا ابن علـية،
+  قال: أخبرنا يونس، عن الـحسن، قال: الأيام الـمعدودات: الأيام بعد النـحر.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وحدثنا ابن بشار، قال: ثنا مـحمد بن جعفر، قال: ثنا شعبة، قال: سألت
+  إسماعيـل بن أبـي خالد عن الأيام الـمعدودات، فقال: أيام التشريق.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا بشر بن معاذ، قال: ثنا يزيد بن زريع، قال: ثنا سعيد، عن قتادة
+  قوله: { وَاذْكُرُوا اللّهَ فِـي أيَّامِ مَعْدُوداتٍ } كنا نـحدّث أنها أيام التشريق.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا الـحسن بن يحيى، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر،
+  عن قتادة فـي قوله: { وَاذْكُرُوا اللّهَ فِـي أيَّامِ مَعْدُوداتٍ } قال: هي أيام
+  التشريق.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وحدثنـي موسى بن هارون، قال: ثنا
+  عمرو بن حماد، قال: ثنا أسبـاط، عن السدي: أما الأيام الـمعدودات: فهي أيام التشريق.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وحدثت عن عمار، قال: ثنا ابن أبـي جعفر، عن أبـيه، عن الربـيع، مثله.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وحدثنـي يونس، قال: أخبرنا ابن وهب، عن مالك، قال: الأيام الـمعدودات:
+  ثلاثة أيام بعد يوم النـحر.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وحدثت عن حسين بن الفرج، قال: سمعت
+  أبـا معاذ الفضل بن خالد، قال: أخبرنا عبـيد بن سلـيـمان، قال: سمعت الضحاك يقول فـي
+  قوله: { فِـي أيَّامِ مَعْدُوداتٍ } قال: أيام التشريق الثلاثة.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وحدثنـي ابن البرقـي، قال: ثنا عمرو بن أبـي سلـمة، قال: سألت ابن
+  زيد عن الأيام الـمعدودات، والأيام الـمعلومات؟ فقال: الأيام الـمعدودات: أيام التشريق،
+  والأيام الـمعلومات: يوم عرفة، ويوم النـحر، وأيام التشريق.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وإنـما
+  قلنا: إن الأيام الـمعدودات هي: أيام مِنى وأيام رمي الـجمار لتظاهر الأخبـار عن رسول
+  الله صلى الله عليه وسلم أنه كان يقول فـيها: إنها أيام ذكر الله عز وجل. ذكر الأخبـار
+  التـي رويت بذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي يعقوب بن إبراهيـم وخلاد
+  بن أسلـم، قالا: ثنا هشيـم، عن عمر بن أبـي سلـمة، عن أبـيه، عن أبـي هريرة، أن رسول
+  الله صلى الله عليه وسلم قال:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" أيَّامُ التَّشْريق أيَّامُ طُعْمٍ وَذِكْرٍ \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وحدثنا خلاد، قال: ثنا روح، قال: ثنا صالـح، قال: ثنـي ابن شهاب، عن
+  سعيد بن الـمسيب، عن أبـي هريرة أن رسول الله صلى الله عليه وسلم بعث عبد الله بن حذافة
+  يطوف فـي منى:</font></font><b><font class=\"TextResultArabic\"><font color=\"Red\">
+  \" ا تَصُومُوا هَذِهِ الأيَّامَ فإنَّهَا أيَّامُ أكْلٍ وَشْرْبٍ وَذِكْرِ اللَّهِ
+  عَزَّ وَجَلَّ \" </font></font></b><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وحدثنا حميد بن مسعدة، قال: ثنا
+  بشر بن الـمفضل، وحدثنـي يعقوب بن إبراهيـم، قال: ثنا ابن علـية، قال جميعا: ثنا خالد،
+  عن أبـي قلابة، عن أبـي الـملـيح، عن عائشة أن رسول الله صلى الله عليه وسلم قال:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" إنَّ هَذِهِ الأيَّامَ أيَّامُ
+  أكْلٍ وَشُرْبٍ وَذِكْرِ الله \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وحدثني
+  يعقوب، قال: ثنا هشيـم، عن ابن أبي ليلى، عن عطاء، عن عائشة، قالت: نهى رسول الله صلى
+  الله عليه وسلم عن صوم أيام التشريق وقال:</font></font>&#13;\t\t\t<label disabled=\"true\"
+  class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,8,1)\"><u>8</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,9,1)\"><u>9</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,10,1)\"><u>10</u> </a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2,
+  203)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,203)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَٱذْكُرُواْ ٱللَّهَ فِيۤ أَيَّامٍ مَّعْدُودَاتٍ
+  فَمَن تَعَجَّلَ فِي يَوْمَيْنِ فَلاَ إِثْمَ عَلَيْهِ وَمَن تَأَخَّرَ فَلاۤ إِثْمَ
+  عَلَيْهِ لِمَنِ ٱتَّقَىٰ وَٱتَّقُواْ ٱللَّهَ وَٱعْلَمُوآ أَنَّكُمْ إِلَيْهِ تُحْشَرُونَ</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\"/></font><b><font class=\"TextResultArabic\"><font color=\"Red\">
+  \" هِيَ أيَّامُ أكْلٍ وَشُرْبٍ وَذِكْرِ اللَّهِ \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وحدثنـي
+  يعقوب، قال: ثنـي هشيـم، عن عبد الـملك بن أبـي سلـيـمان، عن عمرو بن دينار: أن رسول
+  الله صلى الله عليه وسلم بعث بشر بن سحيـم، فنادى فـي أيام التشريق، فقال:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" إنّ هذهِ الأيامَ أيامُ أكلٍ وَشُربٍ
+  وذكرِ اللّهِ \" </font></font></b><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وحدثنـي يعقوب. قال: ثنا هشيـم،
+  عن سفـيان بن حسين، عن الزهري، قال: بعث رسول الله صلى الله عليه وسلم عبد الله بن
+  حذافة بن قـيس فنادى فـي أيام التشريق فقال:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" إنّ هَذِهِ الأيّامَ أيَّامُ أكْلٍ وَشُرْبٍ وَذِكْرِ اللّهِ، إلاّ
+  مَنْ كانَ علـيهِ صَوْمٌ مِنْ هَدْيٍ \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وحدثنـي
+  يعقوب، قال: ثنا ابن علـية، عن مـحمد بن إسحاق، عن حكيـم بن حكيـم، عن مسعود بن الـحكم
+  الزرقـي، عن أمه قالت: لكأنـي أنظر إلـى علـيّ رضي الله عنه علـى بغلة رسول الله صلى
+  الله عليه وسلم البـيضاء حين وقـف علـى شعب الأنصار وهو يقول: «أيُّها النَّاسُ إنَّها
+  لَـيْسَتْ بأيَّام صِيامٍ، إنَّـمَا هِيَ أيَّامُ أكْلٍ وَشُرْبٍ وَذِكْرٍ».</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">فإن قال قائل: إن النبـيّ صلى الله عليه وسلم إذ قال فـي أيام منى:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" إنَّها أيَّام أكْلٍ وَشُربٍ وَذِكْرِ
+  اللّهِ \" </font></font></b><font class=\"TextResultArabic\"><font color=\"black\">لـم
+  يخبر أمته أنها الأيام الـمعدودات التـي ذكرها الله فـي كتابه، فما تنكر أن يكون النبـيّ
+  صلى الله عليه وسلم عنى بقوله: وذكر الله: الأيام الـمعلومات؟ قـيـل: غير جائز أن يكون
+  عنى ذلك، لأن الله لـم يكن يوجب فـي الأيام الـمعلومات من ذكره فـيها ما أوجب فـي الأيام
+  الـمعدودات، وإنـما وصف الـمعلومات جل ذكره بأنها أيام يذكر فـيها اسم الله علـى بهائم
+  الأنعام، فقال: لِـيَشْهَدوا مَنافِعَ لهُمْ وَيَذْكُرُوا اسْمَ اللّهِ فِـي أيَّامٍ
+  مَعْلُوماتٍ علـى ما رَزَقَهُمْ مِنْ بَهِيـمَةِ الأنْعامِ فلـم يوجب فـي الأيام الـمعلومات
+  من ذكره كالذي أوجبه فـي الأيام الـمعدودات من ذكره، بل أخبر أنها أيام ذكره علـى بهائم
+  الأنعام. فكان معلوماً إذ قال صلى الله عليه وسلم لأيام التشريق:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" إنَّها أيَّامُ أكْلٍ وَشُرْبٍ
+  وَذِكْرِ اللّهِ \" </font></font></b><font class=\"TextResultArabic\"><font color=\"black\">فأخرج
+  قوله: «وذكْر اللّه»، مطلقاً بغير شرط ولا إضافة، إلـى أنه الذكر علـى بهائم الأنعام،
+  أنه عنى بذلك الذكر الذي ذكره الله فـي كتابه، فأوجبه علـى عبـاده مطلقاً بغير شرط
+  ولا إضافة إلـى معنى فـي الأيام الـمعدودات. وأنه لو كان أراد بذلك صلى الله عليه وسلم
+  وصف الأيام الـمعلومات به، لوصل قوله: «وذكر»، إلـى أنه ذكر الله علـى ما رزقهم من
+  بهائم الأنعام، كالذي وصف الله به ذلك ولكنه أطلق ذلك بـاسم الذكر من غير وصله بشيء،
+  كالذي أطلقه تبـارك وتعالـى بـاسم الذكر، فقال: { وَاذْكُرُوا اللّهَ فِـي أيَّامِ
+  مَعْدُوداتٍ } فكان ذلك من أوضح الدلـيـل علـى أنه عنى بذلك ما ذكره الله فـي كتابه
+  وأوجبه فـي الأيام الـمعدودات.</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">3 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,8,1)\"><u>8</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,9,1)\"><u>9</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,10,1)\"><u>10</u> </a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2,
+  203)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,203)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَٱذْكُرُواْ ٱللَّهَ فِيۤ أَيَّامٍ مَّعْدُودَاتٍ
+  فَمَن تَعَجَّلَ فِي يَوْمَيْنِ فَلاَ إِثْمَ عَلَيْهِ وَمَن تَأَخَّرَ فَلاۤ إِثْمَ
+  عَلَيْهِ لِمَنِ ٱتَّقَىٰ وَٱتَّقُواْ ٱللَّهَ وَٱعْلَمُوآ أَنَّكُمْ إِلَيْهِ تُحْشَرُونَ</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">القول فـي تأويـل قوله تعالـى: { فَمَنْ تَعَجَّلَ فِـي يَوْمَيْنِ
+  فَلا إثْمَ عَلَـيْهِ وَمَنْ تَأخَّرَ فَلا إثْمَ عَلَـيْهِ لِـمَنِ اتَّقَـى }.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">اختلف أهل التأويـل فـي تأويـل ذلك، فقال بعضهم: معناه: فمن تعجل فـي
+  يومين من أيام التشريق فنفر فـي الـيوم الثانـي فلا إثم علـيه فـي نفره وتعجله فـي
+  النفر، ومن تأخر عن النفر فـي الـيوم الثانـي من أيام التشريق إلـى الـيوم الثالث حتـى
+  ينفر فـي الـيوم الثالث فلا إثم علـيه فـي تأخره. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا أحمد، قال: ثنا أبو أحمد الزبـيري، قال: ثنا هشيـم، عن عطاء،
+  قال: لا إثم علـيه فـي تعجيـله، ولا إثم علـيه فـي تأخيره.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  أحمد، قال: ثنا أبو أحمد، قال: ثنا هشيـم، عن عوف، عن الـحسن، مثله.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا أحمد، قال: ثنا أبو أحمد، قال: ثنا هشيـم، عن مغيرة، عن عكرمة،
+  مثله.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي مـحمد بن عمرو، قال: ثنا
+  أبو عاصم، عن عيسى، عن ابن أبـي نـجيح، عن مـجاهد فـي قوله: { فَمَنْ تَعَجَّلَ فِـي
+  يَوْمَيْنِ } يوم النفر { فَلا إثْمَ عَلَـيْه } لا حرج علـيه وَمَنْ تأخَّرَ فَلا
+  إثْمَ عَلَـيْه.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي موسى بن هارون، قال: ثنا
+  عمرو بن حماد، قال: ثنا أسبـاط، عن السدي: أما من تعجل فـي يومين فلا إثم علـيه، يقول:
+  من نفر فـي يومين فلا جناح علـيه، ومن تأخر فنفر فـي الثالث فلا جناح علـيه.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة قوله: { فَمَنْ
   تَعَجَّلَ فِـي يَوْمَيْنِ } يقول: فمن تعجل فـي يومين: أي من أيام التشريق فلا إثم
   علـيه، ومن أدركه اللـيـل بـمنى من الـيوم الثانـي من قبل أن ينفر فلا نفر له حتـى
   تزول الشمس من الغد. { ومن تأخَّرَ فلا إثْمَ عَلَـيْه } يقول: من تأخر إلـى الـيوم
-  الثالث من أيام التشريق فلا إثم علـيه.حدثنا الـحسن بن يحيى، قال: أخبرنا عبد الرزاق،
-  قال: أخبرنا معمر، عن قتادة فـي قوله: { فَمَنْ تَعَجَّلَ فـي يَوْمَينِ فَلا إثْمَ
-  عَلَـيْهِ } قال: رخص الله فـي أن ينفروا فـي يومين منها إن شاءوا، ومن تأخر فـي الـيوم
-  الثالث فلا إثم علـيه.حدثنـي مـحمد بن الـمثنى، قال: ثنا مـحمد بن جعفر، قال: ثنا شعبة،
-  عن منصور، عن إبراهيـم أنه قال فـي هذه الآية: { فَمَنْ تَعَجَّلَ فِـي يَوْمَيْنِ
-  فَلا إثْمَ عَلَـيْهِ } قال فـي تعجيـله.وحدثنا هناد بن السريّ، قال: ثنا ابن أبـي
-  زائدة، قال: ثنا إسرائيـل، عن منصور، عن إبراهيـم قال: لا إثم علـيه: لا إثم علـى من
-  تعجل، ولا إثم علـى من تأخر.وحدثنا ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا إسرائيـل،
-  عن منصور، عن إبراهيـم، قال: هذا فـي التعجيـل.حدثنا أحمد بن إسحاق، قال: ثنا أبو أحمد،
-  قال: ثنا شريك وإسرائيـل، عن زيد بن جبـير، قال: سمعت ابن عمر يقول: حلّ النفر فـي
-  يومين لـمن اتقـى.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 9 10 </section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَٱذْكُرُواْ ٱللَّهَ فِيۤ أَيَّامٍ
-  مَّعْدُودَاتٍ فَمَن تَعَجَّلَ فِي يَوْمَيْنِ فَلاَ إِثْمَ عَلَيْهِ وَمَن تَأَخَّرَ
-  فَلاۤ إِثْمَ عَلَيْهِ لِمَنِ ٱتَّقَىٰ وَٱتَّقُواْ ٱللَّهَ وَٱعْلَمُوآ أَنَّكُمْ
-  إِلَيْهِ تُحْشَرُونَ }وحدثنا أبو كريب، قال: ثنا وكيع، عن ابن أبـي لـيـلـى، عن الـحكم،
+  الثالث من أيام التشريق فلا إثم علـيه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  الـحسن بن يحيى، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر، عن قتادة فـي قوله: { فَمَنْ
+  تَعَجَّلَ فـي يَوْمَينِ فَلا إثْمَ عَلَـيْهِ } قال: رخص الله فـي أن ينفروا فـي يومين
+  منها إن شاءوا، ومن تأخر فـي الـيوم الثالث فلا إثم علـيه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  مـحمد بن الـمثنى، قال: ثنا مـحمد بن جعفر، قال: ثنا شعبة، عن منصور، عن إبراهيـم أنه
+  قال فـي هذه الآية: { فَمَنْ تَعَجَّلَ فِـي يَوْمَيْنِ فَلا إثْمَ عَلَـيْهِ } قال
+  فـي تعجيـله.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وحدثنا هناد بن السريّ، قال: ثنا
+  ابن أبـي زائدة، قال: ثنا إسرائيـل، عن منصور، عن إبراهيـم قال: لا إثم علـيه: لا إثم
+  علـى من تعجل، ولا إثم علـى من تأخر.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وحدثنا
+  ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا إسرائيـل، عن منصور، عن إبراهيـم، قال: هذا
+  فـي التعجيـل.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا أحمد بن إسحاق، قال: ثنا أبو
+  أحمد، قال: ثنا شريك وإسرائيـل، عن زيد بن جبـير، قال: سمعت ابن عمر يقول: حلّ النفر
+  فـي يومين لـمن اتقـى.</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">4 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,8,1)\"><u>8</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,9,1)\"><u>9</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,10,1)\"><u>10</u> </a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2,
+  203)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,203)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَٱذْكُرُواْ ٱللَّهَ فِيۤ أَيَّامٍ مَّعْدُودَاتٍ
+  فَمَن تَعَجَّلَ فِي يَوْمَيْنِ فَلاَ إِثْمَ عَلَيْهِ وَمَن تَأَخَّرَ فَلاۤ إِثْمَ
+  عَلَيْهِ لِمَنِ ٱتَّقَىٰ وَٱتَّقُواْ ٱللَّهَ وَٱعْلَمُوآ أَنَّكُمْ إِلَيْهِ تُحْشَرُونَ</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">وحدثنا أبو كريب، قال: ثنا وكيع، عن ابن أبـي لـيـلـى، عن الـحكم،
   عن مقسم، عن ابن عبـاس. { فَمَنْ تَعَجَّلَ فِـي يَوْمَيْن فَلا إثمَ عَلَـيْهِ } فـي
-  تعجله { وَمَنْ تأخَّرَ فَلا إثْمَ عَلَـيْهِ } فـي تأخره.حدثنا الـحسن بن يحيى، قال:
-  أخبرنا عبد الرزاق، قال: أخبرنا ابن جريج، قال: قلت لعطاء: أللـمكيّ أن ينفر فـي النفر
-  الأول؟ قال: نعم، قال الله عز وجل: { فَمَنْ تَعَجَّلَ فـي يَوْمَيْن فَلا إثْمَ عَلَـيْهِ
-  } فهي للناس أجمعين.حدثنا أحمد، قال: ثنا أبو أحمد، قال: ثنا سفـيان، عن منصور، عن
-  إبراهيـم: { فَمَنْ تَعَجَّلَ فِـي يَوْمَيْن فَلا إثْمَ عَلَـيْهِ } قال: لـيس علـيه
-  إثم.حدثنا الـمثنى، قال: ثنا أبو صالـح، قال: ثنـي معاوية، عن علـيّ، عن ابن عبـاس:
-  { فَمَنْ تَعَجَّلَ فِـي يَوْمَيْن } بعد يوم النـحر فَلا إثْمَ عَلَـيْهِ } يقول:
-  من نفر من منى فـي يومين بعد النـحر فلا إثم علـيه، ومن تأخر فلا إثم علـيه فـي تأخره،
-  فلا حرج علـيه.حدثنا ابن حميد، قال: ثنا جرير، عن منصور، عن إبراهيـم: { فَمَنْ تَعَجَّلَ
-  فِـي يَوْمَيْن فَلا إثْمَ عَلَـيْهِ } فـي تعجله { وَمَنْ تأخَّرَ فَلا إثْمَ عَلَـيْهِ
-  } فـي تأخره.وقال آخرون: بل معناه: فمن تعجل فـي يومين فهو مغفور له لا إثم علـيه،
-  ومن تأخر كذلك. ذكر من قال ذلك:حدثنا أحمد بن إسحاق، قال: حدثنا أبو أحمد، قال: ثنا
-  إسرائيـل، عن ثوير، عن أبـيه، عن عبد الله: { فَمَنْ تَعَجَّلَ فِـي يَوْمَيْن فَلا
-  إثْمَ عَلَـيْهِ وَمَنْ تَأخَّرَ فَلا إثْمَ عَلَـيْهِ } قال: لـيس علـيه إثم.وحدثنا
+  تعجله { وَمَنْ تأخَّرَ فَلا إثْمَ عَلَـيْهِ } فـي تأخره.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  الـحسن بن يحيى، قال: أخبرنا عبد الرزاق، قال: أخبرنا ابن جريج، قال: قلت لعطاء: أللـمكيّ
+  أن ينفر فـي النفر الأول؟ قال: نعم، قال الله عز وجل: { فَمَنْ تَعَجَّلَ فـي يَوْمَيْن
+  فَلا إثْمَ عَلَـيْهِ } فهي للناس أجمعين.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  أحمد، قال: ثنا أبو أحمد، قال: ثنا سفـيان، عن منصور، عن إبراهيـم: { فَمَنْ تَعَجَّلَ
+  فِـي يَوْمَيْن فَلا إثْمَ عَلَـيْهِ } قال: لـيس علـيه إثم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  الـمثنى، قال: ثنا أبو صالـح، قال: ثنـي معاوية، عن علـيّ، عن ابن عبـاس: { فَمَنْ
+  تَعَجَّلَ فِـي يَوْمَيْن } بعد يوم النـحر فَلا إثْمَ عَلَـيْهِ } يقول: من نفر من
+  منى فـي يومين بعد النـحر فلا إثم علـيه، ومن تأخر فلا إثم علـيه فـي تأخره، فلا حرج
+  علـيه.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن حميد، قال: ثنا جرير،
+  عن منصور، عن إبراهيـم: { فَمَنْ تَعَجَّلَ فِـي يَوْمَيْن فَلا إثْمَ عَلَـيْهِ }
+  فـي تعجله { وَمَنْ تأخَّرَ فَلا إثْمَ عَلَـيْهِ } فـي تأخره.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال آخرون: بل معناه: فمن تعجل فـي يومين فهو مغفور له لا إثم علـيه،
+  ومن تأخر كذلك. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  أحمد بن إسحاق، قال: حدثنا أبو أحمد، قال: ثنا إسرائيـل، عن ثوير، عن أبـيه، عن عبد
+  الله: { فَمَنْ تَعَجَّلَ فِـي يَوْمَيْن فَلا إثْمَ عَلَـيْهِ وَمَنْ تَأخَّرَ فَلا
+  إثْمَ عَلَـيْهِ } قال: لـيس علـيه إثم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وحدثنا
   ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا سفـيان، عن حماد، عن إبراهيـم، عن عبد الله:
   { فَمَنْ تَعَجَّلَ فِـي يَوْمَيْن فَلا إثْمَ عَلَـيْهِ } أي غفر له { وَمَنْ تأخَّرَ
-  فَلا إثْمَ عَلَـيْهِ } قال: غفر له.حدثنا أحمد بن حازم، قال: ثنا أبو نعيـم، قال:
-  ثنا مسعر، عن حماد، عن إبراهيـم، عن عبد الله: { فَمَنْ تَعَجَّلَ فِـي يَوْمَيْن فَلا
-  إثْمَ عَلَـيْهِ } أي غفر له.حدثنا أبو كريب، قال: ثنا الـمـحاربـي، وحدثنا أحمد بن
-  إسحاق، قال: ثنا أبو أحمد جميعاً. عن سفـيان، عن حماد، عن إبراهيـم، عن عبد الله فـي
-  قوله: { فَمَنْ تَعَجَّلَ فِـي يَوْمَيْن فَلا إثْمَ عَلَـيْهِ وَمَنْ تأخَّرَ فَلا
-  إثْمَ عَلَـيْهِ } قال: قد غفر له.حدثنا ابن حميد، قال: ثنا حكام، عن سفـيان، عن حماد،
-  عن إبراهيـم فـي قوله: { فَمَنْ تَعَجَّلَ فِـي يَوْمَيْن فَلا إثْمَ عَلَـيْهِ وَمَنْ
-  تأخَّرَ فَلا إثْمَ عَلَـيْهِ } قد غفر له.وحدثنا ابن الـمثنى، قال: ثنا مـحمد بن جعفر،
-  قال: ثنا شعبة، عن حماد، عن إبراهيـم، عن عبد الله قال فـي هذه الآية: { فَمَنْ تَعَجَّلَ
-  فِـي يَوْمَيْن فَلا إثْمَ عَلَـيْهِ وَمنْ تأخَّرَ فَلا إثْمَ عَلَـيْهِ } قال: برىء
-  من الإثم.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 9 10 </section><section>قراءة الآيةفتح
-  صفحة القرآنالانتقال الى صفحة القرآن{ وَٱذْكُرُواْ ٱللَّهَ فِيۤ أَيَّامٍ مَّعْدُودَاتٍ
+  فَلا إثْمَ عَلَـيْهِ } قال: غفر له.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  أحمد بن حازم، قال: ثنا أبو نعيـم، قال: ثنا مسعر، عن حماد، عن إبراهيـم، عن عبد الله:
+  { فَمَنْ تَعَجَّلَ فِـي يَوْمَيْن فَلا إثْمَ عَلَـيْهِ } أي غفر له.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا أبو كريب، قال: ثنا الـمـحاربـي، وحدثنا أحمد بن إسحاق، قال:
+  ثنا أبو أحمد جميعاً. عن سفـيان، عن حماد، عن إبراهيـم، عن عبد الله فـي قوله: { فَمَنْ
+  تَعَجَّلَ فِـي يَوْمَيْن فَلا إثْمَ عَلَـيْهِ وَمَنْ تأخَّرَ فَلا إثْمَ عَلَـيْهِ
+  } قال: قد غفر له.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن حميد، قال: ثنا حكام،
+  عن سفـيان، عن حماد، عن إبراهيـم فـي قوله: { فَمَنْ تَعَجَّلَ فِـي يَوْمَيْن فَلا
+  إثْمَ عَلَـيْهِ وَمَنْ تأخَّرَ فَلا إثْمَ عَلَـيْهِ } قد غفر له.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وحدثنا ابن الـمثنى، قال: ثنا مـحمد بن جعفر، قال: ثنا شعبة، عن حماد،
+  عن إبراهيـم، عن عبد الله قال فـي هذه الآية: { فَمَنْ تَعَجَّلَ فِـي يَوْمَيْن فَلا
+  إثْمَ عَلَـيْهِ وَمنْ تأخَّرَ فَلا إثْمَ عَلَـيْهِ } قال: برىء من الإثم.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">5 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,8,1)\"><u>8</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,9,1)\"><u>9</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,10,1)\"><u>10</u> </a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2,
+  203)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,203)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَٱذْكُرُواْ ٱللَّهَ فِيۤ أَيَّامٍ مَّعْدُودَاتٍ
   فَمَن تَعَجَّلَ فِي يَوْمَيْنِ فَلاَ إِثْمَ عَلَيْهِ وَمَن تَأَخَّرَ فَلاۤ إِثْمَ
-  عَلَيْهِ لِمَنِ ٱتَّقَىٰ وَٱتَّقُواْ ٱللَّهَ وَٱعْلَمُوآ أَنَّكُمْ إِلَيْهِ تُحْشَرُونَ
-  }حدثنا ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا حماد بن سلـمة، عن علـيّ بن زيد، عن
-  الـحسن، عن ابن عمر: { فَمَنْ تَعَجَّلَ فِـي يَوْمَيْن فَلا إثْمَ عَلَـيْهِ وَمَنْ
-  تأخَّرَ فَلا إثمَ عَلَـيْهِ } قال: رجع مغفورا له.حدثنـي يعقوب، قال: ثنا ابن علـية،
-  عن لـيث، عن مـجاهد فـي قوله: { فَمَنْ تَعَجَّلَ فِـي يَوْمَيْن فَلا إثْمَ عَلَـيْهِ
-  وَمَنْ تأخَّرَ فَلا إثْمَ عَلَـيْهِ } قال: قد غفر له.حدثنا أحمد بن إسحاق، قال: ثنا
-  أبو أحمد، قال: ثنا سفـيان، عن جابر، عن أبـي عبد الله، عن ابن عبـاس: { فَمَنْ تَعَجَّلَ
+  عَلَيْهِ لِمَنِ ٱتَّقَىٰ وَٱتَّقُواْ ٱللَّهَ وَٱعْلَمُوآ أَنَّكُمْ إِلَيْهِ تُحْشَرُونَ</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا حماد بن سلـمة، عن
+  علـيّ بن زيد، عن الـحسن، عن ابن عمر: { فَمَنْ تَعَجَّلَ فِـي يَوْمَيْن فَلا إثْمَ
+  عَلَـيْهِ وَمَنْ تأخَّرَ فَلا إثمَ عَلَـيْهِ } قال: رجع مغفورا له.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي يعقوب، قال: ثنا ابن علـية، عن لـيث، عن مـجاهد فـي قوله: {
+  فَمَنْ تَعَجَّلَ فِـي يَوْمَيْن فَلا إثْمَ عَلَـيْهِ وَمَنْ تأخَّرَ فَلا إثْمَ عَلَـيْهِ
+  } قال: قد غفر له.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا أحمد بن إسحاق، قال: ثنا أبو
+  أحمد، قال: ثنا سفـيان، عن جابر، عن أبـي عبد الله، عن ابن عبـاس: { فَمَنْ تَعَجَّلَ
   فِـي يَوْمَيْن فَلا إثْمَ عَلَـيْهِ } قال: قد غفر له، إنهم يتأولونها علـى غير تأويـلها،
-  إن العمرة لتكفر ما معها من الذنوب فكيف بـالـحج؟.حدثنا أحمد، قال: ثنا أبو أحمد، قال:
-  ثنا إسرائيـل، عن أبـي حصين، عن إبراهيـم وعامر: { فَمَنْ تَعَجَّلَ فِـي يَوْمَيْن
-  فَلا إثْمَ عَلَـيْهِ وَمَنْ تأخَّرَ فَلا إثمَ عَلَـيْهِ } قالا: غفر له.حدثنا القاسم،
-  قال: ثنا الـحسين، قال: ثنـي حجاج، عن ابن جريج، قال: ثنـي من أصدّقه، عن ابن مسعود
-  قوله: { فَلا إثْمَ عَلَـيْهِ } قال: خرج من الإثْم كله { وَمَنْ تأخَّرَ فَلا إثْمَ
-  عَلَـيْه } قال: برىء من الإثم كله، وذلك فـي الصدَر عن الـحجّ. قال ابن جريج: وسمعت
-  رجلاً يحدّث عن عطاء بن أبـي ربـاح، عن علـيّ بن أبـي طالب رضي الله عنه أنه قال: فلا
-  إثم علـيه، قال: غفر له، ومن تأخر فلا إثم علـيه، قال: غُفر له.حدثنـي أحمد بن حازم،
-  قال: ثنا أبو نعيـم، قال: ثنا أسود بن سوادة القطان، قال: سمعت معاوية بن قرة قال:
-  يخرج من ذنوبه.وقال آخرون: معنى ذلك: فمن تعجل فـي يومين فلا إثم علـيه، ومن تأخر فلا
-  إثم علـيه فـيـما بـينه وبـين السنة التـي بعدها. ذكر من قال ذلك:حدثنا أحمد بن إسحاق،
-  قال: ثنا أبو أحمد، قال: ثنا إسحاق بن يحيى بن طلـحة، قال: سألت مـجاهداً عن قول الله
-  عزّ وجل: { فَمَنْ تَعَجَّلَ فِـي يَوْمَيْن فَلا إثْمَ عَلَـيْهِ وَمَنْ تأخَّرَ فَلا
-  إثْم عَلَـيْهِ } قال: لـمن فـي الـحج، لـيس علـيه إثم حتـى الـحج من عام قابل.وقال
-  آخرون: بل معناه: فلا إثم علـيه إن اتقـى الله فـيـما بقـي من عمره. ذكر من قال ذلك:حدثنا
-  أحمد، قال: ثنا أبو أحمد، قال: ثنا أبو جعفر الرازي، عن الربـيع بن أنس، عن أبـي العالـية:
-  { فَمَنْ تَعَجَّلَ فِـي يَوْمَيْن فَلا إثْمَ عَلَـيْهِ وَمَنْ تأخَّرَ فَلا إثْمَ
-  عَلَـيْهِ } قال: ذهب إثمه كله إن اتقـى فـيـما بقـي.حدثت عن عمار، قال: ثنا ابن أبـي
-  جعفر، عن أبـيه عن الـمغيرة، عن إبراهيـم، مثله.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 9 10 </section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَٱذْكُرُواْ ٱللَّهَ فِيۤ أَيَّامٍ
-  مَّعْدُودَاتٍ فَمَن تَعَجَّلَ فِي يَوْمَيْنِ فَلاَ إِثْمَ عَلَيْهِ وَمَن تَأَخَّرَ
-  فَلاۤ إِثْمَ عَلَيْهِ لِمَنِ ٱتَّقَىٰ وَٱتَّقُواْ ٱللَّهَ وَٱعْلَمُوآ أَنَّكُمْ
-  إِلَيْهِ تُحْشَرُونَ }وحدثت عن عمار، قال: ثنا ابن أبـي جعفر، عن أبـيه، عن الربـيع،
-  عن أبـي العالـية، مثله.حدثنـي يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد فـي قوله:
-  { فَمَنْ تَعَجَّلَ فِـي يَوْمَيْن فَلا إثْمَ عَلَـيْهِ وَمَنْ تأخَّرَ فَلا إثْمَ
-  عَلَـيْهِ } قال: لـمن اتقـى بشرط.حدثنـي موسى بن هارون، قال: ثنا عمرو بن حماد، قال:
-  ثنا أسبـاط، عن السدي: { فَمَنْ تَعَجَّلَ فِـي يَوْمَيْن فَلا إثْمَ عَلَـيْهِ } لا
-  جناح علـيه، ومن تأخر إلـى الـيوم الثالث فلا جناح علـيه لـمن اتقـى وكان ابن عبـاس
-  يقول: وددت أني من هؤلاء مـمن يصيبه اسم التقوى.حدثنا القاسم، قال: ثنا الـحسين، قال:
-  ثنـي حجاج، قال: قال ابن جريج: هي فـي مصحف عبد الله: لـمن اتقـى الله.حدثني علي، قال:
-  ثنا عبد الله، قال: ثنـي معاوية، عن علـيّ، عن ابن عبـاس: { فَمَنْ تَعَجَّلَ فِـي
-  يَوْمَيْن فَلا إثْمَ عَلَـيْهِ وَمَنْ تأخَّرَ فَلا إثْمَ عَلَـيْهِ } فلا حرج علـيه،
-  يقول لمن اتقـى معاصي الله عز وجل.وقال آخرون: بل معنى ذلك: فمن تعجل فـي يومين من
-  أيام التشريق فلا إثم علـيه، أي فلا حرج علـيه فـي تعجيـله النفر إن هو اتقـى قتلَ
-  الصيد حتـى ينقضي الـيوم الثالث، ومن تأخر إلـى الـيوم الثالث فلـم ينفر فلا حرج علـيه.
-  ذكر من قال ذلك:حدثنا القاسم قال: ثنا الـحسين، قال: ثنا هشيـم، قال: أخبرنا مـحمد
-  بن أبـي صالـح: لـمن اتقـى أن يصيب شيئاً من الصيد حتـى يـمضي الـيوم الثالث.حدثنـي
-  مـحمد بن سعد، قال: ثنـي أبـي قال: ثنـي عمي قال: ثنـي أبـي، عن أبـيه، عن ابن عبـاس:
-  { فَمَنْ تَعَجَّلَ فِـي يَوْمَيْن فَلا إثْمَ عَلَـيْهِ } ولا يحلَّ له أن يقتل صيداً
-  حتـى تـخـلو أيام التشريق.وقال آخرون: بل معناه: فمن تعجل فـي يومين من أيام التشريق
-  فنفر فلا إثم علـيه، أي مغفور له. ومن تأخر فنفر فـي الـيوم الثالث فلا إثم علـيه،
-  أي مغفور له إن اتقـى علـى حجه أن يصيب فـيه شيئاً نهاه الله عنه. ذكر من قال ذلك:حدثنا
-  بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة قوله: { لِـمَنِ اتّقـى } قال: يقول لـمن
-  اتّقـى علـى حجه.قال قتادة: ذكر لنا أن ابن مسعود كان يقول: من اتّقـى فـي حجه غفر
-  له ما تقدم من ذنبه، أو ما سلف من ذنبه.وأولـى هذه الأقوال بـالصحة قول من قال: تأويـل
-  ذلك: فمن تعجل فـي يومين من أيام منى الثلاثة فنفر فـي الـيوم الثانـي فلا إثم علـيه،
-  لـحط الله ذنوبه، إن كان قد اتقـى الله فـي حجه فـاجتنب فـيه ما أمره الله بـاجتنابه
-  وفعل فـيه ما أمره الله بفعله وأطاعه بأدائه علـى ما كلفه من حدوده. ومن تأخر إلـى
-  الـيوم الثالث منهن فلـم ينفر إلـى النفر الثانـي حتـى نفر من غد النفر الأول، فلا
-  إثم علـيه لتكفـير الله له ما سلف من آثامه وأجرامه، إن كان اتّقـى الله فـي حجة بأدائه
-  بحدوده.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 9 10 </section><section>قراءة الآيةفتح
-  صفحة القرآنالانتقال الى صفحة القرآن{ وَٱذْكُرُواْ ٱللَّهَ فِيۤ أَيَّامٍ مَّعْدُودَاتٍ
+  إن العمرة لتكفر ما معها من الذنوب فكيف بـالـحج؟.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  أحمد، قال: ثنا أبو أحمد، قال: ثنا إسرائيـل، عن أبـي حصين، عن إبراهيـم وعامر: { فَمَنْ
+  تَعَجَّلَ فِـي يَوْمَيْن فَلا إثْمَ عَلَـيْهِ وَمَنْ تأخَّرَ فَلا إثمَ عَلَـيْهِ
+  } قالا: غفر له.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا القاسم، قال: ثنا الـحسين،
+  قال: ثنـي حجاج، عن ابن جريج، قال: ثنـي من أصدّقه، عن ابن مسعود قوله: { فَلا إثْمَ
+  عَلَـيْهِ } قال: خرج من الإثْم كله { وَمَنْ تأخَّرَ فَلا إثْمَ عَلَـيْه } قال: برىء
+  من الإثم كله، وذلك فـي الصدَر عن الـحجّ. قال ابن جريج: وسمعت رجلاً يحدّث عن عطاء
+  بن أبـي ربـاح، عن علـيّ بن أبـي طالب رضي الله عنه أنه قال: فلا إثم علـيه، قال: غفر
+  له، ومن تأخر فلا إثم علـيه، قال: غُفر له.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  أحمد بن حازم، قال: ثنا أبو نعيـم، قال: ثنا أسود بن سوادة القطان، قال: سمعت معاوية
+  بن قرة قال: يخرج من ذنوبه.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال آخرون: معنى ذلك: فمن تعجل
+  فـي يومين فلا إثم علـيه، ومن تأخر فلا إثم علـيه فـيـما بـينه وبـين السنة التـي بعدها.
+  ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا أحمد بن إسحاق، قال: ثنا أبو
+  أحمد، قال: ثنا إسحاق بن يحيى بن طلـحة، قال: سألت مـجاهداً عن قول الله عزّ وجل: {
+  فَمَنْ تَعَجَّلَ فِـي يَوْمَيْن فَلا إثْمَ عَلَـيْهِ وَمَنْ تأخَّرَ فَلا إثْم عَلَـيْهِ
+  } قال: لـمن فـي الـحج، لـيس علـيه إثم حتـى الـحج من عام قابل.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال آخرون: بل معناه: فلا إثم علـيه إن اتقـى الله فـيـما بقـي من
+  عمره. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا أحمد، قال: ثنا أبو أحمد،
+  قال: ثنا أبو جعفر الرازي، عن الربـيع بن أنس، عن أبـي العالـية: { فَمَنْ تَعَجَّلَ
+  فِـي يَوْمَيْن فَلا إثْمَ عَلَـيْهِ وَمَنْ تأخَّرَ فَلا إثْمَ عَلَـيْهِ } قال: ذهب
+  إثمه كله إن اتقـى فـيـما بقـي.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثت
+  عن عمار، قال: ثنا ابن أبـي جعفر، عن أبـيه عن الـمغيرة، عن إبراهيـم، مثله.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,7,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">6 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,8,1)\"><u>8</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,9,1)\"><u>9</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,10,1)\"><u>10</u> </a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2,
+  203)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,203)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَٱذْكُرُواْ ٱللَّهَ فِيۤ أَيَّامٍ مَّعْدُودَاتٍ
   فَمَن تَعَجَّلَ فِي يَوْمَيْنِ فَلاَ إِثْمَ عَلَيْهِ وَمَن تَأَخَّرَ فَلاۤ إِثْمَ
-  عَلَيْهِ لِمَنِ ٱتَّقَىٰ وَٱتَّقُواْ ٱللَّهَ وَٱعْلَمُوآ أَنَّكُمْ إِلَيْهِ تُحْشَرُونَ
-  }وإنـما قلنا إن ذلك أولـى تأويلاته لتظاهر الأخبـار عن رسول الله صلى الله عليه وسلم
-  أنه قال: \" مَنْ حَجَّ هَذَا البَـيْتَ فَلَـمْ يَرْفُثْ وَلَـمْ يَفْسُقْ، خَرَجَ
-  مِنْ ذُنُوبِهِ كَيَوْمَ وَلَدَتْهُ أُمُّهُ \" وأنه قال صلـى الله علـيه وسلـم: \"
-  تابِعُوا بَـيْنَ الـحَجّ وَالعُمْرَةِ، فإنَّهُما يَنْفِـيانِ الذُّنُوبَ كَمَا يَنْفِـي
-  الكِيرُ خَبَثَ الـحَديدِ وَالذَّهَبِ وَالفِضَّةِ \" حدثنا عبد الله بن سعيد الكندي،
-  قال: ثنا أبو خالد الأحمر، قال: ثنا عمرو بن قيس، عن عاصم، عن شقيق، عن عبد الله، قال:
-  قال رسول الله صلى الله عليه وسلم: \" تَابِعُوا بَيْنَ الحَجِّ وَالعُمْرَةِ فإنهُما
-  يَنفِـيانِ الفَقْرَ وَالذُّنُوبَ كمَا يَنْفِي الكِيرُ خَبَثَ الحَدِيدِ وَالذَّهَبِ
-  وَالفِضَّةِ، وَلَيسَ للحَجَّةِ المَبْرُورَةِ ثَوَابٌ دُونَ الجنَّة \" حدثنا ابن
-  حميد، قال: ثنا الحكم بن بشير، عن عمرو بن قـيس، عن عاصم، عن زر، عن عبد الله عن النبـيّ
-  صلى الله عليه وسلم بنـحوه.حدثنا الفضل بن الصبـاح، قال: ثنا ابن عيـينة، عن عاصم بن
-  عبـيد الله، عن عبد الله بن عامر بن ربـيعة، عن أبـيه، عن عمر يبلغ به النبـي صلى الله
-  عليه وسلم قال: \" تَابِعُوا بَـيْنَ الـحَجِّ وَالعُمْرةِ، فإنَّ متابعةَ ما بـينهما
-  تَنْفِـي الفَقْرَ والذُّنوبَ كَمَا يَنْفـي الكِيرُ الـخَبثَ، أو خبثَ الـحَديدِ \"
-  حدثنا إبراهيـم بن سعيد، قال: ثنا سعيد بن عبد الـحميد، قال: ثنا ابن أبـي الزناد،
-  عن موسى بن عقبة، عن صالـح مولـى التوأمة، عن ابن عبـاس، قال: قال رسول الله صلى الله
-  عليه وسلم: \" إذَا قَضَيْتَ حَجَّكَ فأنْتَ مِثْلُ ما وَلَدَتْكَ أُمُّكَ \" وما أشبه
-  ذلك من الأخبـار التـي يطول بذكر جميعها الكتاب، مـما ينبىء عن أن من حجّ فقضاه بحدوده
-  علـى ما أمره الله، فهو خارج من ذنوبه، كما قال جل ثناؤه: { فَلا إثْمَ عَلَـيْهِ لِـمَنِ
-  اتَّقـى } الله فـي حجه. فكان فـي ذلك من قول رسول الله صلى الله عليه وسلم ما يوضح
-  عن أن معنى قوله جل وعز: { فَلا إثْمَ عَلَـيْهِ } أنه خارج من ذنوبه، مـحطوطة عنه
-  آثامه، مغفورة له أجرامه. وأنه لا معنى لقول من تأول قوله: { فَلا إثْمَ عَلَـيْهِ
-  } فلا حرج علـيه فـي نفره فـي الـيوم الثانـي، ولا حرج علـيه فـي مقامه إلـى الـيوم
-  الثالث لأن الـحرج إنـما يوضع عن العامل فـيـما كان علـيه ترك عمله فـيرخص له فـي عمله
-  بوضع الـحرج عنه فـي عمله، أو فـيـما كان علـيه عمله، فـيرخص له فـي تركه بوضع الـحرج
-  عنه فـي تركه. فأما ما علـى العامل عمله فلا وجه لوضع الـحرج عنه فـيه إن هو عمله،
-  وفرضه عمله، لأنه مـحال أن يكون الـمؤدّى فرضاً علـيه حَرِجاً بأدائه، فـيجوز أن يقال:
-  قد وضعنا عنك فـيه الـحرج.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 9 10 </section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَٱذْكُرُواْ ٱللَّهَ فِيۤ أَيَّامٍ
-  مَّعْدُودَاتٍ فَمَن تَعَجَّلَ فِي يَوْمَيْنِ فَلاَ إِثْمَ عَلَيْهِ وَمَن تَأَخَّرَ
-  فَلاۤ إِثْمَ عَلَيْهِ لِمَنِ ٱتَّقَىٰ وَٱتَّقُواْ ٱللَّهَ وَٱعْلَمُوآ أَنَّكُمْ
-  إِلَيْهِ تُحْشَرُونَ }وإذ كان ذلك كذلك، وكان الـحاج لا يخـلو عند من تأول قوله: {
-  فَلا إثْمَ عَلَـيْهِ } فلا حرج علـيه، أو فلا جناح علـيه من أن يكون فرضه النفر فـي
-  الـيوم الثانـي من أيام التشريق، فوضع عنه الـحرج فـي الـمقام، أو أن يكون فرضه الـمقام
-  إلـى الـيوم الثالث، فوضع عنه الـحرج فـي النفر فـي الـيوم الثانـي، فإن يكن فرضه فـي
-  الـيوم الثانـي من أيام التشريق الـمقام إلـى الـيوم الثالث منها، فوضع عنه الـحرج
-  فـي نفره فـي الـيوم الثانـي منها، وذلك هو التعجل الذي قـيـل: { فَمَنْ تَعَجَّلَ
-  فـي يَوْمَينِ فَلا إثْمَ عَلَـيْهِ } فلا معنى لقوله علـى تأويـل من تأوّل ذلك: {
-  فَلا إِثمَ عَلَـيْهِ } فلا جناح علـيه، { وَمَنْ تَأَخَّرَ فَلا إِثمَ عَلَـيْهِ }
-  لأن الـمتأخر إلـى الـيوم الثالث إنـما هو متأخر عن أداء فرض علـيه تارك قبول رخصة
-  النفر، فلا وجه لأن يقال: لا حرج علـيك فـي مقامك علـى أداء الواجب علـيك، لـما وصفنا
-  قبل، أو يكون فرضه فـي الـيوم الثانـي النفر، فرخص له فـي الـمقام إلـى الـيوم الثالث
-  فلا معنى أن يقال: لا حرج علـيك فـي تعجلك النفر الذي هو فرضك وعلـيك فعله للذي قدمنا
-  من العلة وكذلك لا معنى لقول من قال: معناه: { فَمَنْ تَعَجَّلَ فـي يَوْمَيْنِ فَلا
-  إثْمَ عَلَـيْهِ } ولا حرج علـيه فـي نفره ذلك، إن اتقـى قتل الصيد إلـى انقضاء الـيوم
-  الثالث لأن ذلك لو كان تأويلاً مسلـماً لقائله لكان فـي قوله: { وَمَنْ تأخَّرَ فلاَ
-  إثْمَ عَلَـيْهِ } ما يبطل دعواه، لأنه لا خلاف بـين الأمة فـي أن الصيد للـحاج بعد
-  نفره من منى فـي الـيوم الثالث حلال، فما الذي من أجله وضع عنه الـحرج فـي قوله: {
-  وَمَنْ تأخَّرَ فَلا إثْمَ عَلَـيْهِ } إذا هو تأخر إلـى الـيوم الثالث ثم نفر؟هذا
-  مع إجماع الـحجة علـى أن الـمـحرم إذا رمى وذبح وحلق وطاف بـالبـيت فقد حلّ له كل شيء،
-  وتصريح الرواية الـمروية عن رسول الله صلى الله عليه وسلم بنـحو ذلك، التـي:حدثنا بها
-  هناد بن السري الـحنظلـي، قال: ثنا عبد الرحيـم بن سلـيـمان، عن حجاج، عن أبـي بكر
-  بن مـحمد بن عمرو بن حزم، عن عمرة قالت: سألت عائشة أم الـمؤمنـين رضي الله عنها متـى
-  يحلّ الـمـحرم؟ فقالت: قال رسول الله صلى الله عليه وسلم: \" إذَا رَمَيْتُـمْ وَذَبحْتُـمْ
-  وَحَلَقْتُـمْ حَلَّ لَكُمْ كُلُّ شَيْءٍ إلاَّ النِّساءَ \" قال: وذكر الزهري عن عمرة،
-  عن عائشة، عن النبـي صلى الله عليه وسلم، مثله.وأما الذي تأول ذلك أنه بـمعنى: لا إثم
-  علـيه إلـى عام قابل فلا وجه لتـحديد ذلك بوقت، وإسقاطه الإثم عن الـحاج سنة مستقبلة،
-  دون آثامه السالفة، لأن الله جل ثناؤه لـم يحصر ذلك علـى نفـي إثم وقت مستقبل بظاهر
-  التنزيـل، ولا علـى لسان الرسول علـيه الصلاة والسلام، بل دلالة ظاهر التنزيـل تبـين
-  عن أن الـمتعجل فـي الـيومين والـمتأخر لا إثم علـى كل واحد منهما فـي حاله التـي هو
-  بها دون غيرها من الأحوال، والـخبر عن الرسول صلى الله عليه وسلم يصرّح بأنه بـانقضاء
-  حجه علـى ما أمر به خارج من ذنوبه كيوم ولدته أمه.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 9 10 </section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَٱذْكُرُواْ ٱللَّهَ فِيۤ أَيَّامٍ
-  مَّعْدُودَاتٍ فَمَن تَعَجَّلَ فِي يَوْمَيْنِ فَلاَ إِثْمَ عَلَيْهِ وَمَن تَأَخَّرَ
-  فَلاۤ إِثْمَ عَلَيْهِ لِمَنِ ٱتَّقَىٰ وَٱتَّقُواْ ٱللَّهَ وَٱعْلَمُوآ أَنَّكُمْ
-  إِلَيْهِ تُحْشَرُونَ }ففـي ذلك من دلالة ظاهر التنزيـل، وصريح قول الرسول صلى الله
-  عليه وسلم دلالة واضحة علـى فساد قول من قال: معنى قوله: { فَلا إثْمَ عَلَـيْهِ }
-  فلا إثم علـيه من وقت انقضاء حجه إلـى عام قابل.فإن قال لنا قائل: ما الـجالب اللام
-  فـي قوله: { لِـمَنِ اتَّقَـى } وما معناها؟ قـيـل: الـجالب لها معنى قوله: { فَلا
-  إثْمَ عَلَـيْهِ } لأن فـي قوله: { فَلا إثْمَ عَلَـيْهِ } معنى حططنا ذنوبه وكفرنا
-  آثامه، فكان فـي ذلك معنى: جعلنا تكفـير الذنوب لـمن اتَّقَـى الله فـي حجه، فترك ذكر
-  جعلنا تكفـير الذنوب اكتفـاء بدلالة قوله: { فَلا إثْمَ عَلَـيْهِ }.وقد زعم بعض نـحويـي
-  البصرة أنه كأنه إذا ذكر هذه الرخصة فقد أخبر عن أمر، فقال: لـمن اتَّقَـى أي هذا لـمن
-  اتقـى. وأنكر بعضهم ذلك من قوله، وزعم أن الصفة لا بد لها من شيء تتعلق به، لأنها لا
-  تقوم بنفسها، ولكنها فـيـما زعم من صلة «قول» متروك، فكان معنى الكلام عنده ما «قلنا»:
-  ومن تأخر فلا إثم علـيه لـمن اتقـى، وقام قوله: { ومن تأخَّرَ فَلا إثْمَ عَلَـيْهِ
-  } مقام القول.وزعم بعض أهل العربـية أن موضع طرح الإثم فـي الـمتعجل، فجعل فـي الـمتأخر،
-  وهو الذي أدى ولـم يقصر، مثل ما جعل علـى الـمقصر، كما يقال فـي الكلام: إن تصدّقت
-  سرّا فحسن، وإن أظهرت فحسن. وهما مختلفـان، لأن الـمتصدّق علانـية إذا لـم يقصد الرياء
-  فحسن، وإن كان الإسرار أحسن ولـيس فـي وصف حالتـي الـمتصدقـين بـالـحسن وصف إحداهما
-  بـالإثم وقد أخبر الله عز وجل عن النافرين بنفـي الإثم عنهما، ومـحال أن ينفـي عنهما
-  إلا ما كان فـي تركه الإثم علـى ما تأوله قائلو هذه الـمقالة. وفـي إجماع الـجميع علـى
-  أنهما جميعاً لو تركا النفر وأقاما بـمنى لـم يكونا آثمين ما يدلّ علـى فساد التأويـل
-  الذي تأوله من حكينا عنه هذا القول. وقال أيضا: فـيه وجه آخر، وهو معنى نهي الفريقـين
-  عن أن يؤثم أحد الفريقـين الآخر، كأنه أراد بقوله: { فَلا إثْمَ عَلَـيْهِ } لا يقل
-  الـمتعجل للـمتأخر: أنت آثم، ولا الـمتأخر للـمتعجل أنت آثم بـمعنى: فلا يؤثمنّ أحدهما
-  الآخر. وهذا أيضا تأويـل لقول جميع أهل التأويـل مخالف، وكفـى بذلك شاهدا علـى خطئه.القول
+  عَلَيْهِ لِمَنِ ٱتَّقَىٰ وَٱتَّقُواْ ٱللَّهَ وَٱعْلَمُوآ أَنَّكُمْ إِلَيْهِ تُحْشَرُونَ</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">وحدثت عن عمار، قال: ثنا ابن أبـي جعفر، عن أبـيه، عن الربـيع، عن
+  أبـي العالـية، مثله.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي يونس، قال: أخبرنا ابن وهب،
+  قال: قال ابن زيد فـي قوله: { فَمَنْ تَعَجَّلَ فِـي يَوْمَيْن فَلا إثْمَ عَلَـيْهِ
+  وَمَنْ تأخَّرَ فَلا إثْمَ عَلَـيْهِ } قال: لـمن اتقـى بشرط.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  موسى بن هارون، قال: ثنا عمرو بن حماد، قال: ثنا أسبـاط، عن السدي: { فَمَنْ تَعَجَّلَ
+  فِـي يَوْمَيْن فَلا إثْمَ عَلَـيْهِ } لا جناح علـيه، ومن تأخر إلـى الـيوم الثالث
+  فلا جناح علـيه لـمن اتقـى وكان ابن عبـاس يقول: وددت أني من هؤلاء مـمن يصيبه اسم
+  التقوى.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا القاسم، قال: ثنا الـحسين،
+  قال: ثنـي حجاج، قال: قال ابن جريج: هي فـي مصحف عبد الله: لـمن اتقـى الله.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني علي، قال: ثنا عبد الله، قال: ثنـي معاوية، عن علـيّ، عن ابن
+  عبـاس: { فَمَنْ تَعَجَّلَ فِـي يَوْمَيْن فَلا إثْمَ عَلَـيْهِ وَمَنْ تأخَّرَ فَلا
+  إثْمَ عَلَـيْهِ } فلا حرج علـيه، يقول لمن اتقـى معاصي الله عز وجل.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال آخرون: بل معنى ذلك: فمن تعجل فـي يومين من أيام التشريق فلا
+  إثم علـيه، أي فلا حرج علـيه فـي تعجيـله النفر إن هو اتقـى قتلَ الصيد حتـى ينقضي
+  الـيوم الثالث، ومن تأخر إلـى الـيوم الثالث فلـم ينفر فلا حرج علـيه. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا القاسم قال: ثنا الـحسين، قال: ثنا هشيـم، قال: أخبرنا مـحمد
+  بن أبـي صالـح: لـمن اتقـى أن يصيب شيئاً من الصيد حتـى يـمضي الـيوم الثالث.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي مـحمد بن سعد، قال: ثنـي أبـي قال: ثنـي عمي قال: ثنـي أبـي،
+  عن أبـيه، عن ابن عبـاس: { فَمَنْ تَعَجَّلَ فِـي يَوْمَيْن فَلا إثْمَ عَلَـيْهِ }
+  ولا يحلَّ له أن يقتل صيداً حتـى تـخـلو أيام التشريق.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  آخرون: بل معناه: فمن تعجل فـي يومين من أيام التشريق فنفر فلا إثم علـيه، أي مغفور
+  له. ومن تأخر فنفر فـي الـيوم الثالث فلا إثم علـيه، أي مغفور له إن اتقـى علـى حجه
+  أن يصيب فـيه شيئاً نهاه الله عنه. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة قوله: { لِـمَنِ اتّقـى } قال: يقول لـمن
+  اتّقـى علـى حجه.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">قال قتادة: ذكر لنا أن ابن مسعود
+  كان يقول: من اتّقـى فـي حجه غفر له ما تقدم من ذنبه، أو ما سلف من ذنبه.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وأولـى هذه الأقوال بـالصحة قول من قال: تأويـل ذلك: فمن تعجل فـي
+  يومين من أيام منى الثلاثة فنفر فـي الـيوم الثانـي فلا إثم علـيه، لـحط الله ذنوبه،
+  إن كان قد اتقـى الله فـي حجه فـاجتنب فـيه ما أمره الله بـاجتنابه وفعل فـيه ما أمره
+  الله بفعله وأطاعه بأدائه علـى ما كلفه من حدوده. ومن تأخر إلـى الـيوم الثالث منهن
+  فلـم ينفر إلـى النفر الثانـي حتـى نفر من غد النفر الأول، فلا إثم علـيه لتكفـير الله
+  له ما سلف من آثامه وأجرامه، إن كان اتّقـى الله فـي حجة بأدائه بحدوده.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,8,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">7 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,8,1)\"><u>8</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,9,1)\"><u>9</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,10,1)\"><u>10</u> </a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2,
+  203)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,203)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَٱذْكُرُواْ ٱللَّهَ فِيۤ أَيَّامٍ مَّعْدُودَاتٍ
+  فَمَن تَعَجَّلَ فِي يَوْمَيْنِ فَلاَ إِثْمَ عَلَيْهِ وَمَن تَأَخَّرَ فَلاۤ إِثْمَ
+  عَلَيْهِ لِمَنِ ٱتَّقَىٰ وَٱتَّقُواْ ٱللَّهَ وَٱعْلَمُوآ أَنَّكُمْ إِلَيْهِ تُحْشَرُونَ</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">وإنـما قلنا إن ذلك أولـى تأويلاته لتظاهر الأخبـار عن رسول الله صلى
+  الله عليه وسلم أنه قال:</font></font><b><font class=\"TextResultArabic\"><font color=\"Red\">
+  \" مَنْ حَجَّ هَذَا البَـيْتَ فَلَـمْ يَرْفُثْ وَلَـمْ يَفْسُقْ، خَرَجَ مِنْ ذُنُوبِهِ
+  كَيَوْمَ وَلَدَتْهُ أُمُّهُ \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">وأنه قال صلـى الله علـيه وسلـم:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" تابِعُوا بَـيْنَ الـحَجّ وَالعُمْرَةِ، فإنَّهُما يَنْفِـيانِ الذُّنُوبَ
+  كَمَا يَنْفِـي الكِيرُ خَبَثَ الـحَديدِ وَالذَّهَبِ وَالفِضَّةِ \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا عبد الله بن سعيد الكندي، قال: ثنا أبو خالد الأحمر، قال: ثنا
+  عمرو بن قيس، عن عاصم، عن شقيق، عن عبد الله، قال: قال رسول الله صلى الله عليه وسلم:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" تَابِعُوا بَيْنَ الحَجِّ وَالعُمْرَةِ
+  فإنهُما يَنفِـيانِ الفَقْرَ وَالذُّنُوبَ كمَا يَنْفِي الكِيرُ خَبَثَ الحَدِيدِ وَالذَّهَبِ
+  وَالفِضَّةِ، وَلَيسَ للحَجَّةِ المَبْرُورَةِ ثَوَابٌ دُونَ الجنَّة \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن حميد، قال: ثنا الحكم بن بشير، عن عمرو بن قـيس، عن عاصم،
+  عن زر، عن عبد الله عن النبـيّ صلى الله عليه وسلم بنـحوه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  الفضل بن الصبـاح، قال: ثنا ابن عيـينة، عن عاصم بن عبـيد الله، عن عبد الله بن عامر
+  بن ربـيعة، عن أبـيه، عن عمر يبلغ به النبـي صلى الله عليه وسلم قال:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" تَابِعُوا بَـيْنَ الـحَجِّ وَالعُمْرةِ،
+  فإنَّ متابعةَ ما بـينهما تَنْفِـي الفَقْرَ والذُّنوبَ كَمَا يَنْفـي الكِيرُ الـخَبثَ،
+  أو خبثَ الـحَديدِ \" </font></font></b><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا إبراهيـم بن سعيد، قال: ثنا
+  سعيد بن عبد الـحميد، قال: ثنا ابن أبـي الزناد، عن موسى بن عقبة، عن صالـح مولـى التوأمة،
+  عن ابن عبـاس، قال: قال رسول الله صلى الله عليه وسلم:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" إذَا قَضَيْتَ حَجَّكَ فأنْتَ مِثْلُ ما وَلَدَتْكَ أُمُّكَ \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وما أشبه ذلك من الأخبـار التـي يطول بذكر جميعها الكتاب، مـما ينبىء
+  عن أن من حجّ فقضاه بحدوده علـى ما أمره الله، فهو خارج من ذنوبه، كما قال جل ثناؤه:
+  { فَلا إثْمَ عَلَـيْهِ لِـمَنِ اتَّقـى } الله فـي حجه. فكان فـي ذلك من قول رسول
+  الله صلى الله عليه وسلم ما يوضح عن أن معنى قوله جل وعز: { فَلا إثْمَ عَلَـيْهِ }
+  أنه خارج من ذنوبه، مـحطوطة عنه آثامه، مغفورة له أجرامه. وأنه لا معنى لقول من تأول
+  قوله: { فَلا إثْمَ عَلَـيْهِ } فلا حرج علـيه فـي نفره فـي الـيوم الثانـي، ولا حرج
+  علـيه فـي مقامه إلـى الـيوم الثالث لأن الـحرج إنـما يوضع عن العامل فـيـما كان علـيه
+  ترك عمله فـيرخص له فـي عمله بوضع الـحرج عنه فـي عمله، أو فـيـما كان علـيه عمله،
+  فـيرخص له فـي تركه بوضع الـحرج عنه فـي تركه. فأما ما علـى العامل عمله فلا وجه لوضع
+  الـحرج عنه فـيه إن هو عمله، وفرضه عمله، لأنه مـحال أن يكون الـمؤدّى فرضاً علـيه
+  حَرِجاً بأدائه، فـيجوز أن يقال: قد وضعنا عنك فـيه الـحرج.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,7,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,9,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">8 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,9,1)\"><u>9</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,10,1)\"><u>10</u> </a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2,
+  203)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,203)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَٱذْكُرُواْ ٱللَّهَ فِيۤ أَيَّامٍ مَّعْدُودَاتٍ
+  فَمَن تَعَجَّلَ فِي يَوْمَيْنِ فَلاَ إِثْمَ عَلَيْهِ وَمَن تَأَخَّرَ فَلاۤ إِثْمَ
+  عَلَيْهِ لِمَنِ ٱتَّقَىٰ وَٱتَّقُواْ ٱللَّهَ وَٱعْلَمُوآ أَنَّكُمْ إِلَيْهِ تُحْشَرُونَ</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">وإذ كان ذلك كذلك، وكان الـحاج لا يخـلو عند من تأول قوله: { فَلا
+  إثْمَ عَلَـيْهِ } فلا حرج علـيه، أو فلا جناح علـيه من أن يكون فرضه النفر فـي الـيوم
+  الثانـي من أيام التشريق، فوضع عنه الـحرج فـي الـمقام، أو أن يكون فرضه الـمقام إلـى
+  الـيوم الثالث، فوضع عنه الـحرج فـي النفر فـي الـيوم الثانـي، فإن يكن فرضه فـي الـيوم
+  الثانـي من أيام التشريق الـمقام إلـى الـيوم الثالث منها، فوضع عنه الـحرج فـي نفره
+  فـي الـيوم الثانـي منها، وذلك هو التعجل الذي قـيـل: { فَمَنْ تَعَجَّلَ فـي يَوْمَينِ
+  فَلا إثْمَ عَلَـيْهِ } فلا معنى لقوله علـى تأويـل من تأوّل ذلك: { فَلا إِثمَ عَلَـيْهِ
+  } فلا جناح علـيه، { وَمَنْ تَأَخَّرَ فَلا إِثمَ عَلَـيْهِ } لأن الـمتأخر إلـى الـيوم
+  الثالث إنـما هو متأخر عن أداء فرض علـيه تارك قبول رخصة النفر، فلا وجه لأن يقال:
+  لا حرج علـيك فـي مقامك علـى أداء الواجب علـيك، لـما وصفنا قبل، أو يكون فرضه فـي
+  الـيوم الثانـي النفر، فرخص له فـي الـمقام إلـى الـيوم الثالث فلا معنى أن يقال: لا
+  حرج علـيك فـي تعجلك النفر الذي هو فرضك وعلـيك فعله للذي قدمنا من العلة وكذلك لا
+  معنى لقول من قال: معناه: { فَمَنْ تَعَجَّلَ فـي يَوْمَيْنِ فَلا إثْمَ عَلَـيْهِ
+  } ولا حرج علـيه فـي نفره ذلك، إن اتقـى قتل الصيد إلـى انقضاء الـيوم الثالث لأن ذلك
+  لو كان تأويلاً مسلـماً لقائله لكان فـي قوله: { وَمَنْ تأخَّرَ فلاَ إثْمَ عَلَـيْهِ
+  } ما يبطل دعواه، لأنه لا خلاف بـين الأمة فـي أن الصيد للـحاج بعد نفره من منى فـي
+  الـيوم الثالث حلال، فما الذي من أجله وضع عنه الـحرج فـي قوله: { وَمَنْ تأخَّرَ فَلا
+  إثْمَ عَلَـيْهِ } إذا هو تأخر إلـى الـيوم الثالث ثم نفر؟هذا مع إجماع الـحجة علـى
+  أن الـمـحرم إذا رمى وذبح وحلق وطاف بـالبـيت فقد حلّ له كل شيء، وتصريح الرواية الـمروية
+  عن رسول الله صلى الله عليه وسلم بنـحو ذلك، التـي:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  بها هناد بن السري الـحنظلـي، قال: ثنا عبد الرحيـم بن سلـيـمان، عن حجاج، عن أبـي
+  بكر بن مـحمد بن عمرو بن حزم، عن عمرة قالت: سألت عائشة أم الـمؤمنـين رضي الله عنها
+  متـى يحلّ الـمـحرم؟ فقالت: قال رسول الله صلى الله عليه وسلم:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" إذَا رَمَيْتُـمْ وَذَبحْتُـمْ
+  وَحَلَقْتُـمْ حَلَّ لَكُمْ كُلُّ شَيْءٍ إلاَّ النِّساءَ \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\">قال: وذكر الزهري عن عمرة، عن عائشة،
+  عن النبـي صلى الله عليه وسلم، مثله.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وأما
+  الذي تأول ذلك أنه بـمعنى: لا إثم علـيه إلـى عام قابل فلا وجه لتـحديد ذلك بوقت، وإسقاطه
+  الإثم عن الـحاج سنة مستقبلة، دون آثامه السالفة، لأن الله جل ثناؤه لـم يحصر ذلك علـى
+  نفـي إثم وقت مستقبل بظاهر التنزيـل، ولا علـى لسان الرسول علـيه الصلاة والسلام، بل
+  دلالة ظاهر التنزيـل تبـين عن أن الـمتعجل فـي الـيومين والـمتأخر لا إثم علـى كل واحد
+  منهما فـي حاله التـي هو بها دون غيرها من الأحوال، والـخبر عن الرسول صلى الله عليه
+  وسلم يصرّح بأنه بـانقضاء حجه علـى ما أمر به خارج من ذنوبه كيوم ولدته أمه.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,8,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,10,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,8,1)\"><u>8</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">9 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,10,1)\"><u>10</u> </a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2,
+  203)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,203)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَٱذْكُرُواْ ٱللَّهَ فِيۤ أَيَّامٍ مَّعْدُودَاتٍ
+  فَمَن تَعَجَّلَ فِي يَوْمَيْنِ فَلاَ إِثْمَ عَلَيْهِ وَمَن تَأَخَّرَ فَلاۤ إِثْمَ
+  عَلَيْهِ لِمَنِ ٱتَّقَىٰ وَٱتَّقُواْ ٱللَّهَ وَٱعْلَمُوآ أَنَّكُمْ إِلَيْهِ تُحْشَرُونَ</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">ففـي ذلك من دلالة ظاهر التنزيـل، وصريح قول الرسول صلى الله عليه
+  وسلم دلالة واضحة علـى فساد قول من قال: معنى قوله: { فَلا إثْمَ عَلَـيْهِ } فلا إثم
+  علـيه من وقت انقضاء حجه إلـى عام قابل.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">فإن
+  قال لنا قائل: ما الـجالب اللام فـي قوله: { لِـمَنِ اتَّقَـى } وما معناها؟ قـيـل:
+  الـجالب لها معنى قوله: { فَلا إثْمَ عَلَـيْهِ } لأن فـي قوله: { فَلا إثْمَ عَلَـيْهِ
+  } معنى حططنا ذنوبه وكفرنا آثامه، فكان فـي ذلك معنى: جعلنا تكفـير الذنوب لـمن اتَّقَـى
+  الله فـي حجه، فترك ذكر جعلنا تكفـير الذنوب اكتفـاء بدلالة قوله: { فَلا إثْمَ عَلَـيْهِ
+  }.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقد زعم بعض نـحويـي البصرة أنه
+  كأنه إذا ذكر هذه الرخصة فقد أخبر عن أمر، فقال: لـمن اتَّقَـى أي هذا لـمن اتقـى.
+  وأنكر بعضهم ذلك من قوله، وزعم أن الصفة لا بد لها من شيء تتعلق به، لأنها لا تقوم
+  بنفسها، ولكنها فـيـما زعم من صلة «قول» متروك، فكان معنى الكلام عنده ما «قلنا»: ومن
+  تأخر فلا إثم علـيه لـمن اتقـى، وقام قوله: { ومن تأخَّرَ فَلا إثْمَ عَلَـيْهِ } مقام
+  القول.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وزعم بعض أهل العربـية أن موضع طرح
+  الإثم فـي الـمتعجل، فجعل فـي الـمتأخر، وهو الذي أدى ولـم يقصر، مثل ما جعل علـى الـمقصر،
+  كما يقال فـي الكلام: إن تصدّقت سرّا فحسن، وإن أظهرت فحسن. وهما مختلفـان، لأن الـمتصدّق
+  علانـية إذا لـم يقصد الرياء فحسن، وإن كان الإسرار أحسن ولـيس فـي وصف حالتـي الـمتصدقـين
+  بـالـحسن وصف إحداهما بـالإثم وقد أخبر الله عز وجل عن النافرين بنفـي الإثم عنهما،
+  ومـحال أن ينفـي عنهما إلا ما كان فـي تركه الإثم علـى ما تأوله قائلو هذه الـمقالة.
+  وفـي إجماع الـجميع علـى أنهما جميعاً لو تركا النفر وأقاما بـمنى لـم يكونا آثمين
+  ما يدلّ علـى فساد التأويـل الذي تأوله من حكينا عنه هذا القول. وقال أيضا: فـيه وجه
+  آخر، وهو معنى نهي الفريقـين عن أن يؤثم أحد الفريقـين الآخر، كأنه أراد بقوله: { فَلا
+  إثْمَ عَلَـيْهِ } لا يقل الـمتعجل للـمتأخر: أنت آثم، ولا الـمتأخر للـمتعجل أنت آثم
+  بـمعنى: فلا يؤثمنّ أحدهما الآخر. وهذا أيضا تأويـل لقول جميع أهل التأويـل مخالف،
+  وكفـى بذلك شاهدا علـى خطئه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">القول
   فـي تأويـل قوله تعالـى: { وَاتَّقُوا اللَّهَ وَاعْلَـمُوا أنَّكُم إلَيْهِ تُحْشَرُونَ
-  }.يعنـي بذلك جل ثناؤه: واتقوا الله أيها الـمؤمنون فـيـما فرض علـيكم من فرائضه، فخافوه
-  فـي تضيـيعها والتفريط فـيها، وفـيـما نهاكم عنه فـي حجكم ومناسككم أن ترتكبوه أو تأتوه
-  وفـيـما كلفكم فـي إحرامكم لـحجكم أن تقصروا فـي أدائه والقـيام به، واعلـموا أنكم
-  إلـيه تـحشرون، فمـجازيكم هو بأعمالكم، الـمـحسن منكم بإحسانه، والـمسيء بإساءته، وموف
-  كل نفس منكم ما عملت وأنتـم لا تظلـمون.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 9 10 </section>"
+  }.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">يعنـي بذلك جل ثناؤه: واتقوا الله
+  أيها الـمؤمنون فـيـما فرض علـيكم من فرائضه، فخافوه فـي تضيـيعها والتفريط فـيها،
+  وفـيـما نهاكم عنه فـي حجكم ومناسككم أن ترتكبوه أو تأتوه وفـيـما كلفكم فـي إحرامكم
+  لـحجكم أن تقصروا فـي أدائه والقـيام به، واعلـموا أنكم إلـيه تـحشرون، فمـجازيكم هو
+  بأعمالكم، الـمـحسن منكم بإحسانه، والـمسيء بإساءته، وموف كل نفس منكم ما عملت وأنتـم
+  لا تظلـمون.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,9,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,8,1)\"><u>8</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,9,1)\"><u>9</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">10 </font></td></tr></table></center></div></section>"
 

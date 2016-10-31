@@ -1,4 +1,4 @@
-location:
+position:
   sura: '002'
   aaya: '236'
   madhab: '01'
@@ -7,52 +7,112 @@ meta:
   title: تفسير الكشاف
   author: الزمخشري
   year: '538'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ لاَّ جُنَاحَ عَلَيْكُمْ
-  إِن طَلَّقْتُمُ ٱلنِّسَآءَ مَا لَمْ تَمَسُّوهُنَّ أَوْ تَفْرِضُواْ لَهُنَّ فَرِيضَةً
-  وَمَتِّعُوهُنَّ عَلَى ٱلْمُوسِعِ قَدَرُهُ وَعَلَى ٱلْمُقْتِرِ قَدَرُهُ مَتَاعاً
-  بِٱلْمَعْرُوفِ حَقّاً عَلَى ٱلْمُحْسِنِينَ } * { وَإِن طَلَّقْتُمُوهُنَّ مِن قَبْلِ
-  أَن تَمَسُّوهُنَّ وَقَدْ فَرَضْتُمْ لَهُنَّ فَرِيضَةً فَنِصْفُ مَا فَرَضْتُمْ إِلاَّ
-  أَن يَعْفُونَ أَوْ يَعْفُوَاْ ٱلَّذِي بِيَدِهِ عُقْدَةُ ٱلنِّكَاحِ وَأَن تَعْفُوۤاْ
-  أَقْرَبُ لِلتَّقْوَىٰ وَلاَ تَنسَوُاْ ٱلْفَضْلَ بَيْنَكُمْ إِنَّ ٱللَّهَ بِمَا تَعْمَلُونَ
-  بَصِيرٌ }{ لاَّ جُنَاحَ عَلَيْكُمْ } لا تبعة عليكم من إيجاب مهر { إِن طَلَّقْتُمُ
-  ٱلنّسَاء مَا لَمْ تَمَسُّوهُنَّ } ما لم تجامعوهن { أَوْ تَفْرِضُواْ لَهُنَّ فَرِيضَةً
-  } إلا أن تفرضوا لهن فريضة، أو حتى تفرضوا، وفرض الفريضة: تسمية المهر. وذلك أن المطلقة
-  غير المدخول بها إن سمّى لها مهر فلها نصف المسمى، وإن لم يسم لها فليس لها نصف مهر
-  المثل ولكن المتعة. والدليل على أن الجناح تبعة المهر قوله: { وَإِن طَلَّقْتُمُوهُنَّ
-  } إلى قوله: { فَنِصْفُ مَا فَرَضْتُمْ } فقوله: فنصف ما فرضتم: إثبات للجناح المنفي
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(2, 236)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(2,236)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">لاَّ
+  جُنَاحَ عَلَيْكُمْ إِن طَلَّقْتُمُ ٱلنِّسَآءَ مَا لَمْ تَمَسُّوهُنَّ أَوْ تَفْرِضُواْ
+  لَهُنَّ فَرِيضَةً وَمَتِّعُوهُنَّ عَلَى ٱلْمُوسِعِ قَدَرُهُ وَعَلَى ٱلْمُقْتِرِ
+  قَدَرُهُ مَتَاعاً بِٱلْمَعْرُوفِ حَقّاً عَلَى ٱلْمُحْسِنِينَ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَإِن
+  طَلَّقْتُمُوهُنَّ مِن قَبْلِ أَن تَمَسُّوهُنَّ وَقَدْ فَرَضْتُمْ لَهُنَّ فَرِيضَةً
+  فَنِصْفُ مَا فَرَضْتُمْ إِلاَّ أَن يَعْفُونَ أَوْ يَعْفُوَاْ ٱلَّذِي بِيَدِهِ عُقْدَةُ
+  ٱلنِّكَاحِ وَأَن تَعْفُوۤاْ أَقْرَبُ لِلتَّقْوَىٰ وَلاَ تَنسَوُاْ ٱلْفَضْلَ بَيْنَكُمْ
+  إِنَّ ٱللَّهَ بِمَا تَعْمَلُونَ بَصِيرٌ</a> <b>}</b></font>, <br/>, <br/>, <div
+  align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">{
+  لاَّ جُنَاحَ عَلَيْكُمْ } لا تبعة عليكم من إيجاب مهر { إِن طَلَّقْتُمُ ٱلنّسَاء
+  مَا لَمْ تَمَسُّوهُنَّ } ما لم تجامعوهن { أَوْ تَفْرِضُواْ لَهُنَّ فَرِيضَةً } إلا
+  أن تفرضوا لهن فريضة، أو حتى تفرضوا، وفرض الفريضة: تسمية المهر. وذلك أن المطلقة غير
+  المدخول بها إن سمّى لها مهر فلها نصف المسمى، وإن لم يسم لها فليس لها نصف مهر المثل
+  ولكن المتعة. والدليل على أن الجناح تبعة المهر قوله: { وَإِن طَلَّقْتُمُوهُنَّ }
+  إلى قوله: { فَنِصْفُ مَا فَرَضْتُمْ } فقوله: فنصف ما فرضتم: إثبات للجناح المنفي
   ثمة، والمتعة درع وملحفة وخمار على حسب الحال عند أبي حنيفة، إلا أن يكون مهر مثلها
   أقل من ذلك. فلها الأقل من نصف مهر المثل ومن المتعة، ولا ينقص من خمسة دراهم؛ لأن
   أقل المهر عشرة دراهم فلا ينقص من نصفها. و { ٱلْمُوسِعِ } الذي له سعة. و { ٱلْمُقْتِرِ
   } الضيق الحال. [و] { قَدَرُهُ } مقداره الذي يطيقه، لأنّ ما يطيقه هو الذي يختص به.
-  وقرىء بفتح الدال. والقدْر والقدَر لغتان. وعن النبي صلى الله عليه وسلم.(138) \" أنه
-  قال لرجل من الأنصار تزوج امرأة ولم يسم لها مهراً، ثم طلقها قبل أنّ يمسها: «أمتعتها»؟
-  قال: لم يكن عندي شيء. قال: «متعها بقلنسوتك» \" وعند أصحابنا لا تجب المتعة إلا لهذه
-  وحدها، وتستحب لسائر المطلقات ولا تجب. { مَّتَـٰعًا } تأكيد لمتعوهن، بمعنى تمتيعاً
+  وقرىء بفتح الدال. والقدْر والقدَر لغتان. وعن النبي صلى الله عليه وسلم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">(138)</font></font><b><font class=\"TextResultArabic\"><font color=\"Red\">
+  \" أنه قال لرجل من الأنصار تزوج امرأة ولم يسم لها مهراً، ثم طلقها قبل أنّ يمسها:
+  «أمتعتها»؟ قال: لم يكن عندي شيء. قال: «متعها بقلنسوتك» \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\">وعند أصحابنا لا تجب المتعة إلا
+  لهذه وحدها، وتستحب لسائر المطلقات ولا تجب. { مَّتَـٰعًا } تأكيد لمتعوهن، بمعنى تمتيعاً
   { بِٱلْمَعْرُوفِ } بالوجه الذي يحسن في الشرع والمروءة { حَقّاً } صفة لمتاعاً، أي
   متاعاً واجباً عليهم. أو حق ذلك حقاً { عَلَى ٱلْمُحْسِنِينَ } على الذين يحسنون إلى
-  المطلقات بالتمتيع، وسماهم قبل الفعل محسنين كما قال صلى الله عليه وسلم.(139) \" من
-  قتل قتيلاً فله سلبه \" { إَّلا أَن يَعْفُونَ } يريد المطلقات. فإن قلت: أي فرق بين
-  قولك: الرجال يعفون. والنساء يعفون؟ قلت: الواو في الأوّل ضميرهم، والنون علم الرفع.
-  والواو في الثاني لام الفعل والنون ضميرهنّ، والفعل مبني لا أثر في لفظه للعامل وهو
-  في محل النصب ويعفو: عطف على محله. و { ٱلَّذِى بِيَدِهِ عُقْدَةُ ٱلنّكَاحِ } الوليّ
-  يعني إلا أن تعفو المطلقات عن أزواجهن فلا يطالبنهم بنصف المهر، وتقول المرأة: ما رآني
-  ولا خدمته ولا استمتع بي فكيف آخذ منه شيئاً، أو يعفو الولي الذي يلي عقد نكاحهن، وهو
-  مذهب الشافعي. وقيل هو الزوج، وعفوه أن يسوق إليها المهر كاملاً، وهو مذهب أبي حنيفة
-  والأوّل ظاهر الصحة. وتسمية الزيادة على الحق عفواً فيها نظر، إلا أن يقال كان الغالب
-  عندهم أن يسوق إليها المهر عند التزوّج، فإذا طلقها استحقّ أن يطالبها بنصف ما ساق
-  إليها، فإذا ترك المطالبة فقد عفا عنها.\r\n\t\t\t\r\n\t\t\t1 2 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ لاَّ جُنَاحَ عَلَيْكُمْ إِن طَلَّقْتُمُ
-  ٱلنِّسَآءَ مَا لَمْ تَمَسُّوهُنَّ أَوْ تَفْرِضُواْ لَهُنَّ فَرِيضَةً وَمَتِّعُوهُنَّ
-  عَلَى ٱلْمُوسِعِ قَدَرُهُ وَعَلَى ٱلْمُقْتِرِ قَدَرُهُ مَتَاعاً بِٱلْمَعْرُوفِ حَقّاً
-  عَلَى ٱلْمُحْسِنِينَ } * { وَإِن طَلَّقْتُمُوهُنَّ مِن قَبْلِ أَن تَمَسُّوهُنَّ
+  المطلقات بالتمتيع، وسماهم قبل الفعل محسنين كما قال صلى الله عليه وسلم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">(139)</font></font><b><font class=\"TextResultArabic\"><font color=\"Red\">
+  \" من قتل قتيلاً فله سلبه \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">{ إَّلا أَن يَعْفُونَ } يريد المطلقات. فإن قلت: أي فرق بين قولك:
+  الرجال يعفون. والنساء يعفون؟ قلت: الواو في الأوّل ضميرهم، والنون علم الرفع. والواو
+  في الثاني لام الفعل والنون ضميرهنّ، والفعل مبني لا أثر في لفظه للعامل وهو في محل
+  النصب ويعفو: عطف على محله. و { ٱلَّذِى بِيَدِهِ عُقْدَةُ ٱلنّكَاحِ } الوليّ يعني
+  إلا أن تعفو المطلقات عن أزواجهن فلا يطالبنهم بنصف المهر، وتقول المرأة: ما رآني ولا
+  خدمته ولا استمتع بي فكيف آخذ منه شيئاً، أو يعفو الولي الذي يلي عقد نكاحهن، وهو مذهب
+  الشافعي. وقيل هو الزوج، وعفوه أن يسوق إليها المهر كاملاً، وهو مذهب أبي حنيفة والأوّل
+  ظاهر الصحة. وتسمية الزيادة على الحق عفواً فيها نظر، إلا أن يقال كان الغالب عندهم
+  أن يسوق إليها المهر عند التزوّج، فإذا طلقها استحقّ أن يطالبها بنصف ما ساق إليها،
+  فإذا ترك المطالبة فقد عفا عنها.</font></font>&#13;\t\t\t<label disabled=\"true\"
+  class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(2,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(2,2,1)\"><u>2</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2, 236)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,236)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">لاَّ جُنَاحَ عَلَيْكُمْ إِن طَلَّقْتُمُ ٱلنِّسَآءَ
+  مَا لَمْ تَمَسُّوهُنَّ أَوْ تَفْرِضُواْ لَهُنَّ فَرِيضَةً وَمَتِّعُوهُنَّ عَلَى
+  ٱلْمُوسِعِ قَدَرُهُ وَعَلَى ٱلْمُقْتِرِ قَدَرُهُ مَتَاعاً بِٱلْمَعْرُوفِ حَقّاً
+  عَلَى ٱلْمُحْسِنِينَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">وَإِن طَلَّقْتُمُوهُنَّ مِن قَبْلِ أَن تَمَسُّوهُنَّ
   وَقَدْ فَرَضْتُمْ لَهُنَّ فَرِيضَةً فَنِصْفُ مَا فَرَضْتُمْ إِلاَّ أَن يَعْفُونَ
   أَوْ يَعْفُوَاْ ٱلَّذِي بِيَدِهِ عُقْدَةُ ٱلنِّكَاحِ وَأَن تَعْفُوۤاْ أَقْرَبُ لِلتَّقْوَىٰ
-  وَلاَ تَنسَوُاْ ٱلْفَضْلَ بَيْنَكُمْ إِنَّ ٱللَّهَ بِمَا تَعْمَلُونَ بَصِيرٌ }أو
-  سماه عفواً على طريق المشاكلة. وعن جبير بن مطعم أنه تزوج امرأة وطلقها قبل أن يدخل
-  بها فأكمل لها الصداق وقال: أنا أحق بالعفو. وعنه: أنه دخل على سعد بن أبي وقاص فعرض
-  عليه بنتاً له فتزوّجها، فلما خرج طلقها وبعث إليها بالصداق كاملاً، فقيل له: لم تزوّجتها؟
-  فقال: عرضها عليّ فكرهت ردّه. قيل: فلم بعثت بالصداق؟ قال: فأين الفضل؟ و { ٱلْفَضْلِ
-  } التفضل. أي ولا تنسوا أن يتفضل بعضكم على بعض وتتمرؤا ولا تستقصوا، وقرأ الحسن «أن
-  يعفوْ الذي» بسكون الواو وإسكان الواو والياء في موضع النصب تشبيه لهما بالألف لأنهما
-  أختاها. وقرأ أبو نُهيك: «وأن يعفو»، بالياء. وقرىء: «ولا تنسو الفضل»، بكسر الواو.\r\n\t\t\t\r\n\t\t\t1 2 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  وَلاَ تَنسَوُاْ ٱلْفَضْلَ بَيْنَكُمْ إِنَّ ٱللَّهَ بِمَا تَعْمَلُونَ بَصِيرٌ</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">أو سماه عفواً على طريق المشاكلة. وعن جبير بن مطعم أنه تزوج امرأة
+  وطلقها قبل أن يدخل بها فأكمل لها الصداق وقال: أنا أحق بالعفو. وعنه: أنه دخل على
+  سعد بن أبي وقاص فعرض عليه بنتاً له فتزوّجها، فلما خرج طلقها وبعث إليها بالصداق كاملاً،
+  فقيل له: لم تزوّجتها؟ فقال: عرضها عليّ فكرهت ردّه. قيل: فلم بعثت بالصداق؟ قال: فأين
+  الفضل؟ و { ٱلْفَضْلِ } التفضل. أي ولا تنسوا أن يتفضل بعضكم على بعض وتتمرؤا ولا تستقصوا،
+  وقرأ الحسن «أن يعفوْ الذي» بسكون الواو وإسكان الواو والياء في موضع النصب تشبيه لهما
+  بالألف لأنهما أختاها. وقرأ أبو نُهيك: «وأن يعفو»، بالياء. وقرىء: «ولا تنسو الفضل»،
+  بكسر الواو.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(2,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(2,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section>"
 

@@ -1,4 +1,4 @@
-location:
+position:
   sura: '007'
   aaya: '145'
   madhab: '01'
@@ -10,81 +10,203 @@ meta:
 aaya: وَكَتَبْنَا لَهُ فِي الْأَلْوَاحِ مِنْ كُلِّ شَيْءٍ مَوْعِظَةً وَتَفْصِيلًا
   لِكُلِّ شَيْءٍ فَخُذْهَا بِقُوَّةٍ وَأْمُرْ قَوْمَكَ يَأْخُذُوا بِأَحْسَنِهَا ۚ
   سَأُرِيكُمْ دَارَ الْفَاسِقِينَ
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَكَتَبْنَا لَهُ
-  فِي ٱلأَلْوَاحِ مِن كُلِّ شَيْءٍ مَّوْعِظَةً وَتَفْصِيلاً لِّكُلِّ شَيْءٍ فَخُذْهَا
-  بِقُوَّةٍ وَأْمُرْ قَوْمَكَ يَأْخُذُواْ بِأَحْسَنِهَا سَأُوْرِيكُمْ دَارَ ٱلْفَاسِقِينَ
-  }يقول تعالـى ذكره: وكتبنا لـموسى فـي ألواحه. وأدخـلت الألف واللام فـي «الألواح»
-  بدلاً من الإضافة، كما قال الشاعر:والأحْلامُ غيرُ عَوَازِبُ   وكما قال جلّ ثناؤه
-  { فإنَّ الـجَنَّةَ هِيَ الـمَأْوَى } يعنـي: هي مأواه.وقوله: { مِنْ كُلّ شَيْءٍ }
-  يقول من التذكير والتنبـيه علـى عظمة الله وعزّ سلطانه. { مَوْعِظَةً } لقومه ومن أمر
-  بـالعمل بـما كتب فـي الألواح. { وَتَفْصِيلاً لِكُلّ شَيْءٍ } يقول: وتبـيـينا لكلّ
-  شيء من أمر الله ونهيه.وبنـحو الذي قلنا فـي ذلك قال أهل التأويـل. ذكر من قال ذلك:حدثنـي
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(7, 145)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(7,145)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَكَتَبْنَا
+  لَهُ فِي ٱلأَلْوَاحِ مِن كُلِّ شَيْءٍ مَّوْعِظَةً وَتَفْصِيلاً لِّكُلِّ شَيْءٍ فَخُذْهَا
+  بِقُوَّةٍ وَأْمُرْ قَوْمَكَ يَأْخُذُواْ بِأَحْسَنِهَا سَأُوْرِيكُمْ دَارَ ٱلْفَاسِقِينَ</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">يقول تعالـى ذكره: وكتبنا لـموسى فـي ألواحه. وأدخـلت الألف واللام
+  فـي «الألواح» بدلاً من الإضافة، كما قال الشاعر:</font></font><table class=\"TextArabic\"
+  dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">والأحْلامُ غيرُ عَوَازِبُ</font></font></b></td><td class=\"TextArabic\">   </td><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\"/></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">وكما قال جلّ ثناؤه { فإنَّ الـجَنَّةَ
+  هِيَ الـمَأْوَى } يعنـي: هي مأواه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقوله:
+  { مِنْ كُلّ شَيْءٍ } يقول من التذكير والتنبـيه علـى عظمة الله وعزّ سلطانه. { مَوْعِظَةً
+  } لقومه ومن أمر بـالعمل بـما كتب فـي الألواح. { وَتَفْصِيلاً لِكُلّ شَيْءٍ } يقول:
+  وتبـيـينا لكلّ شيء من أمر الله ونهيه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وبنـحو
+  الذي قلنا فـي ذلك قال أهل التأويـل. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
   مـحمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، عن ابن أبـي نـجيح، عن مـجاهد أو
   سعيد بن جبـير وهو فـي أصل كتابـي، عن سعيد بن جبـير فـي قول الله: { وَتَفْصِيلاً
-  لِكُلّ شَيْءٍ } قال: ما أمروا به ونهوا عنه.حدثنـي الـمثنى، قال: ثنا أبو حذيفة، قال:
-  ثنا شبل، عن ابن أبـي نـجيح، عن مـجاهد، بنـحوه.حدثنـي مـحمد بن الـحسين، قال: ثنا
-  أحمد بن الـمفضل، قال: ثنا أسبـاط، عن السديّ: { وكَتَبْنا لَهُ فِـي الألْوَاحِ مِنْ
-  كُلّ شَيْءٍ مَوْعِظَةً وَتَفْصِيلاً لِكُلّ شَيْءٍ } من الـحلال والـحرام.حدثنـي الـحرث،
-  قال: ثنا عبد العزيز، قال: ثنا أبو سعد، قال: سمعت مـجاهدا يقول فـي قوله: { وَتَفْصِيلاً
-  لِكُلّ شَيْءٍ } قال: ما أمروا به ونُهوا عنه.حدثنـي مـحمد بن سعد، قال: ثنـي أبـي،
-  قال: ثنـي عمي، قال: ثنـي أبـي، عن أبـيه، عن ابن عبـاس قوله: { وكَتَبْنا لَهُ فِـي
-  الألْوَاحِ مِنْ كُلّ شَيْءٍ مَوْعِظَةً وَتَفْصِيلاً لِكُلّ شَيْءٍ } قال عطية: أخبرنـي
-  ابن عبـاس أن موسى صلى الله عليه وسلم لـما كربه الـموت قال: هذا من أجل آدم، قد كان
-  الله جعلنا فـي دار مثوى لا نـموت، فخطأ آدم أنزلنا ههنا فقال الله لـموسى: أبعث إلـيك
-  آدم فتـخاصمه؟ قال: نعم. فلـما بعث الله آدم، سأله موسى، فقال أبونا آدم علـيهما السلام:
-  يا موسى سألت الله أن يبعثنـي لك قال موسى: لولا أنت لـم نكن ههنا. قال له آدم: ألـيس
-  قد آتاك الله من كلّ شيء موعظة وتفصيلاً؟ أفلست تعلـم أنه ما أصَابَ فـي الأرْضِ من
-  مُصِيَبةٍ ولا فـي أنْفُسِكُمْ إلا فـي كِتَابٍ مِنْ قَبْل أنْ نَبْرَأَهَا؟ قال موسى:
-  بلـى. فخصمه آدم صلـى الله علـيهما.حدثنا الـحسن بن يحيى، قال: أخبرنا عبد الرزاق،
-  قال: أخبرنا معمر، عن عبد الصمد بن معقل، أنه سمع وهبـاً يقول فـي قوله: { وكَتَبْنا
-  لَهُ فِـي الألْوَاحِ مِنْ كُلّ شَيْءٍ مَوْعِظَةً وَتَفْصِيلاً لِكُلّ شَيْءٍ } قال:
-  كتب له لا تشرك بـي شيئاً من أهل السماء ولا من أهل الأرض فإن كلّ ذلك خـلقـي، ولا
-  تـحلف بـاسمي كاذبـاً، فإن من حلف بـاسمي كاذبـاً فلا أزكيه، ووقّر والديك.\r\n\t\t\t\r\n\t\t\t1 2 3 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَكَتَبْنَا لَهُ فِي ٱلأَلْوَاحِ مِن
-  كُلِّ شَيْءٍ مَّوْعِظَةً وَتَفْصِيلاً لِّكُلِّ شَيْءٍ فَخُذْهَا بِقُوَّةٍ وَأْمُرْ
-  قَوْمَكَ يَأْخُذُواْ بِأَحْسَنِهَا سَأُوْرِيكُمْ دَارَ ٱلْفَاسِقِينَ }القول فـي
-  تأويـل قوله تعالـى: { فَخُذْهَا بِقُوَّةٍ }.يقول تعالـى ذكره: وقلنا لـموسى إذ كتبنا
-  له فـي الألواح من كلّ شيء موعظة وتفصيلاً لكلّ شيء: خذ الألواح بقوّة. وأخرج الـخبر
-  عن الألواح والـمراد ما فـيها.واختلف أهل التأويـل فـي معنى القوّة فـي هذا الـموضع،
-  فقال بعضهم: معناها بجدّ. ذكر من قال ذلك:حدثنـي عبد الكريـم، قال: ثنا إبراهيـم بن
-  بشار، قال: ثنا ابن عيـينة، قال: قال أبو سعد، عن عكرمة عن ابن عبـاس: { فَخُذْهَا
-  بِقُوَّةٍ } قال: بجدّ.حدثنـي موسى، قال: ثنا عمرو بن حماد، قال: ثنا أسبـاط، عن السديّ:
-  { فَخُذْهَا بِقُوَّةٍ } قال: بجدّ واجتهاد.وقال آخرون: معنى ذلك: فخذها بـالطاعة لله.
-  ذكر من قال ذلك:حدثنـي الـمثنى، قال: ثنا إسحاق، قال: ثنا عبد الرحمن بن سعد، قال:
-  أخبرنا أبو جعفر، عن الربـيع بن أنس، فـي قوله: { فَخُذْهَا بِقُوَّةٍ } قال: بـالطاعة.وقد
+  لِكُلّ شَيْءٍ } قال: ما أمروا به ونهوا عنه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  الـمثنى، قال: ثنا أبو حذيفة، قال: ثنا شبل، عن ابن أبـي نـجيح، عن مـجاهد، بنـحوه.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي مـحمد بن الـحسين، قال: ثنا أحمد بن الـمفضل، قال: ثنا أسبـاط،
+  عن السديّ: { وكَتَبْنا لَهُ فِـي الألْوَاحِ مِنْ كُلّ شَيْءٍ مَوْعِظَةً وَتَفْصِيلاً
+  لِكُلّ شَيْءٍ } من الـحلال والـحرام.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  الـحرث، قال: ثنا عبد العزيز، قال: ثنا أبو سعد، قال: سمعت مـجاهدا يقول فـي قوله:
+  { وَتَفْصِيلاً لِكُلّ شَيْءٍ } قال: ما أمروا به ونُهوا عنه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  مـحمد بن سعد، قال: ثنـي أبـي، قال: ثنـي عمي، قال: ثنـي أبـي، عن أبـيه، عن ابن عبـاس
+  قوله: { وكَتَبْنا لَهُ فِـي الألْوَاحِ مِنْ كُلّ شَيْءٍ مَوْعِظَةً وَتَفْصِيلاً
+  لِكُلّ شَيْءٍ } قال عطية: أخبرنـي ابن عبـاس أن موسى صلى الله عليه وسلم لـما كربه
+  الـموت قال: هذا من أجل آدم، قد كان الله جعلنا فـي دار مثوى لا نـموت، فخطأ آدم أنزلنا
+  ههنا فقال الله لـموسى: أبعث إلـيك آدم فتـخاصمه؟ قال: نعم. فلـما بعث الله آدم، سأله
+  موسى، فقال أبونا آدم علـيهما السلام: يا موسى سألت الله أن يبعثنـي لك قال موسى: لولا
+  أنت لـم نكن ههنا. قال له آدم: ألـيس قد آتاك الله من كلّ شيء موعظة وتفصيلاً؟ أفلست
+  تعلـم أنه ما أصَابَ فـي الأرْضِ من مُصِيَبةٍ ولا فـي أنْفُسِكُمْ إلا فـي كِتَابٍ
+  مِنْ قَبْل أنْ نَبْرَأَهَا؟ قال موسى: بلـى. فخصمه آدم صلـى الله علـيهما.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا الـحسن بن يحيى، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر،
+  عن عبد الصمد بن معقل، أنه سمع وهبـاً يقول فـي قوله: { وكَتَبْنا لَهُ فِـي الألْوَاحِ
+  مِنْ كُلّ شَيْءٍ مَوْعِظَةً وَتَفْصِيلاً لِكُلّ شَيْءٍ } قال: كتب له لا تشرك بـي
+  شيئاً من أهل السماء ولا من أهل الأرض فإن كلّ ذلك خـلقـي، ولا تـحلف بـاسمي كاذبـاً،
+  فإن من حلف بـاسمي كاذبـاً فلا أزكيه، ووقّر والديك.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(7, 145)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(7,145)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَكَتَبْنَا لَهُ فِي ٱلأَلْوَاحِ مِن كُلِّ شَيْءٍ
+  مَّوْعِظَةً وَتَفْصِيلاً لِّكُلِّ شَيْءٍ فَخُذْهَا بِقُوَّةٍ وَأْمُرْ قَوْمَكَ يَأْخُذُواْ
+  بِأَحْسَنِهَا سَأُوْرِيكُمْ دَارَ ٱلْفَاسِقِينَ</a> <b>}</b></font>, <br/>, <br/>,
+  <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">القول
+  فـي تأويـل قوله تعالـى: { فَخُذْهَا بِقُوَّةٍ }.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">يقول
+  تعالـى ذكره: وقلنا لـموسى إذ كتبنا له فـي الألواح من كلّ شيء موعظة وتفصيلاً لكلّ
+  شيء: خذ الألواح بقوّة. وأخرج الـخبر عن الألواح والـمراد ما فـيها.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">واختلف أهل التأويـل فـي معنى القوّة فـي هذا الـموضع، فقال بعضهم:
+  معناها بجدّ. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  عبد الكريـم، قال: ثنا إبراهيـم بن بشار، قال: ثنا ابن عيـينة، قال: قال أبو سعد، عن
+  عكرمة عن ابن عبـاس: { فَخُذْهَا بِقُوَّةٍ } قال: بجدّ.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  موسى، قال: ثنا عمرو بن حماد، قال: ثنا أسبـاط، عن السديّ: { فَخُذْهَا بِقُوَّةٍ }
+  قال: بجدّ واجتهاد.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال آخرون: معنى ذلك: فخذها بـالطاعة
+  لله. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي الـمثنى، قال: ثنا إسحاق،
+  قال: ثنا عبد الرحمن بن سعد، قال: أخبرنا أبو جعفر، عن الربـيع بن أنس، فـي قوله: {
+  فَخُذْهَا بِقُوَّةٍ } قال: بـالطاعة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقد
   بـيَّنا معنى ذلك بشواهده واختلاف أهل التأويـل فـيه فـي سورة البقرة عند قوله: { خُذُوا
-  ما آتَـيْناكُمْ بِقُوّةٍ } فأغنى ذلك عن إعادته فـي هذا الـموضع.القول فـي تأويـل
-  قوله تعالـى: { وأْمُرْ قَوْمَكَ يَأْخُذُوا بأحْسَنِها }.يقول تعالـى ذكره: قلنا لـموسى:
-  وأمر قومك بنـي إسرائيـل يأخذوا بأحسنها. يقول: يعملوا بأحسن ما يجدون فـيها كما:حدثنـي
-  موسى، قال: ثنا عمرو، قال: ثنا أسبـاط، عن السديّ: { وأْمُرْ قَوْمَكَ يَأْخُذُوا بأحْسَنِها
-  } بأحسن ما يجدون فـيها.حدثنـي عبد الكريـم، قال: ثنا إبراهيـم، قال: ثنا سفـيان، قال:
-  ثنا أبو سعد، عن عكرمة، عن ابن عبـاس: { وأْمُرْ قَوْمَكَ يَأْخُذُوا بأحْسَنِها }
-  قال: أمر موسى أن يأخذها بأشدّ مـما أمر به قومه.فإن قال قائل: وما معنى قوله: { وأْمُرْ
-  قَوْمَكَ يَأْخُذُوا بأحْسَنِها } أكان من خصالهم ترك بعض ما فـيها من الـحسن؟ قـيـل:
-  لا ولكن كان فـيها أمر ونهي، فأمرهم الله أن يعملوا بـما أمرهم بعمله ويتركوا ما نهاهم
-  عنه، فـالعمل بـالـمأمور به أحسن من العمل بـالـمَنْهيّ عنه.القول فـي تأويـل قوله
-  تعالـى: { سأُرِيكُمْ دَارَ الفـاسِقِـينَ }.يقول تعالـى ذكره لـموسى إذ كتب فـي الألواح
-  من كلّ شيء: خذها بجدّ فـي العمل بـما فـيها واجتهاد، وأمر قومك يأخذوا بأحسن ما فـيها،
-  وانههم عن تضيـيعها وتضيـيع العمل بـما فـيها والشرك بـي، فإن من أشرك بـي منهم ومن
-  غيرهم، فإنـي سأريه فـي الآخرة عند مصيره إلـيّ دار الفـاسقـين، وهي نار الله التـي
-  أعدّها لأعدائه. وإنـما قال: { سأُرِيكُمْ دَارَ الفـاسِقِـينَ } كما يقول القائل لـمن
-  يخاطبه: سأريك غداً إلام يصير إلـيه حال من خالف أمري علـى وجه التهديد والوعيد لـمن
-  عصاه وخالف أمره.وقد اختلف أهل التأويـل فـي معنى ذلك، فقال بعضهم بنـحو ما قلنا فـي
-  ذلك. ذكر من قال ذلك:حدثنـي مـحمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنـي عيسى، عن
-  ابن أبـي نـجيح، عن مـجاهد، فـي قوله: { سأُرِيكُمْ دَارَ الفـاسِقِـينَ } قال: مصيرهم
-  فـي الآخرة.\r\n\t\t\t\r\n\t\t\t1 2 3 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَكَتَبْنَا لَهُ فِي ٱلأَلْوَاحِ مِن
-  كُلِّ شَيْءٍ مَّوْعِظَةً وَتَفْصِيلاً لِّكُلِّ شَيْءٍ فَخُذْهَا بِقُوَّةٍ وَأْمُرْ
-  قَوْمَكَ يَأْخُذُواْ بِأَحْسَنِهَا سَأُوْرِيكُمْ دَارَ ٱلْفَاسِقِينَ }حدثنـي الـمثنى،
-  قال: ثنا أبو حذيفة، قال: ثنا شبل، عن ابن أبـي نـجيح، عن مـجاهد مثله.حدثنـي الـمثنى،
-  قال: ثنا مسلـم، قال: ثنا مبـارك، عن الـحسن، فـي قوله: { سأُرِيكُمْ دَارَ الفـاسِقِـينَ
-  } قال: جهنـم.وقال آخرون: معنى ذلك: سأدخـلكم أرض الشأم، فأريكم منازل الكافرين الذين
-  هم سكانها من الـجبـابرة والعمالقة. ذكر من قال ذلك:حدثنا بشر بن معاذ، قال: ثنا يزيد،
-  قال: ثنا سعيد، عن قتادة: { سأُرِيكُمْ دَارَ الفـاسِقِـينَ }: منازلهم.حدثنا مـحمد
-  بن عبد الأعلـى، قال: ثنا مـحمد بن ثور، عن معمر، عن قتادة: { دَارَ الفـاسِقِـينَ
-  } قال: منازلهم.وقال آخرون: معنى ذلك: سأريكم دار قوم فرعون، وهي مصر. ذكر من قال ذلك:............وإنـما
-  اخترنا القول الذي اخترناه فـي تأويـل ذلك، لأن الذي قبل قوله جلّ ثناؤه: { سأُرِيكُمْ
-  دَارَ الفـاسِقِـينَ } أمر من الله لـموسى وقومه بـالعمل بـما فـي التوراة، فأولـى
-  الأمور بحكمة الله تعالـى أن يختـم ذلك بـالوعيد علـى من ضيعه وفرّط فـي العمل لله
-  وحاد عن سبـيـله، دون الـخبر عما قد انقطع الـخبر عنه أو عما لـم يجر له ذكر.\r\n\t\t\t\r\n\t\t\t1 2 3 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  ما آتَـيْناكُمْ بِقُوّةٍ } فأغنى ذلك عن إعادته فـي هذا الـموضع.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">القول فـي تأويـل قوله تعالـى: { وأْمُرْ قَوْمَكَ يَأْخُذُوا بأحْسَنِها
+  }.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">يقول تعالـى ذكره: قلنا لـموسى:
+  وأمر قومك بنـي إسرائيـل يأخذوا بأحسنها. يقول: يعملوا بأحسن ما يجدون فـيها كما:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي موسى، قال: ثنا عمرو، قال: ثنا أسبـاط، عن السديّ: { وأْمُرْ
+  قَوْمَكَ يَأْخُذُوا بأحْسَنِها } بأحسن ما يجدون فـيها.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  عبد الكريـم، قال: ثنا إبراهيـم، قال: ثنا سفـيان، قال: ثنا أبو سعد، عن عكرمة، عن
+  ابن عبـاس: { وأْمُرْ قَوْمَكَ يَأْخُذُوا بأحْسَنِها } قال: أمر موسى أن يأخذها بأشدّ
+  مـما أمر به قومه.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">فإن قال قائل: وما معنى قوله: {
+  وأْمُرْ قَوْمَكَ يَأْخُذُوا بأحْسَنِها } أكان من خصالهم ترك بعض ما فـيها من الـحسن؟
+  قـيـل: لا ولكن كان فـيها أمر ونهي، فأمرهم الله أن يعملوا بـما أمرهم بعمله ويتركوا
+  ما نهاهم عنه، فـالعمل بـالـمأمور به أحسن من العمل بـالـمَنْهيّ عنه.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">القول فـي تأويـل قوله تعالـى: { سأُرِيكُمْ دَارَ الفـاسِقِـينَ }.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">يقول تعالـى ذكره لـموسى إذ كتب فـي الألواح من كلّ شيء: خذها بجدّ
+  فـي العمل بـما فـيها واجتهاد، وأمر قومك يأخذوا بأحسن ما فـيها، وانههم عن تضيـيعها
+  وتضيـيع العمل بـما فـيها والشرك بـي، فإن من أشرك بـي منهم ومن غيرهم، فإنـي سأريه
+  فـي الآخرة عند مصيره إلـيّ دار الفـاسقـين، وهي نار الله التـي أعدّها لأعدائه. وإنـما
+  قال: { سأُرِيكُمْ دَارَ الفـاسِقِـينَ } كما يقول القائل لـمن يخاطبه: سأريك غداً
+  إلام يصير إلـيه حال من خالف أمري علـى وجه التهديد والوعيد لـمن عصاه وخالف أمره.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقد اختلف أهل التأويـل فـي معنى ذلك، فقال بعضهم بنـحو ما قلنا فـي
+  ذلك. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي مـحمد بن عمرو، قال: ثنا
+  أبو عاصم، قال: ثنـي عيسى، عن ابن أبـي نـجيح، عن مـجاهد، فـي قوله: { سأُرِيكُمْ دَارَ
+  الفـاسِقِـينَ } قال: مصيرهم فـي الآخرة.</font></font>&#13;\t\t\t<label disabled=\"true\"
+  class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(7, 145)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(7,145)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَكَتَبْنَا لَهُ فِي ٱلأَلْوَاحِ مِن كُلِّ شَيْءٍ
+  مَّوْعِظَةً وَتَفْصِيلاً لِّكُلِّ شَيْءٍ فَخُذْهَا بِقُوَّةٍ وَأْمُرْ قَوْمَكَ يَأْخُذُواْ
+  بِأَحْسَنِهَا سَأُوْرِيكُمْ دَارَ ٱلْفَاسِقِينَ</a> <b>}</b></font>, <br/>, <br/>,
+  <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  الـمثنى، قال: ثنا أبو حذيفة، قال: ثنا شبل، عن ابن أبـي نـجيح، عن مـجاهد مثله.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي الـمثنى، قال: ثنا مسلـم، قال: ثنا مبـارك، عن الـحسن، فـي
+  قوله: { سأُرِيكُمْ دَارَ الفـاسِقِـينَ } قال: جهنـم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  آخرون: معنى ذلك: سأدخـلكم أرض الشأم، فأريكم منازل الكافرين الذين هم سكانها من الـجبـابرة
+  والعمالقة. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا بشر بن معاذ، قال: ثنا يزيد،
+  قال: ثنا سعيد، عن قتادة: { سأُرِيكُمْ دَارَ الفـاسِقِـينَ }: منازلهم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا مـحمد بن عبد الأعلـى، قال: ثنا مـحمد بن ثور، عن معمر، عن قتادة:
+  { دَارَ الفـاسِقِـينَ } قال: منازلهم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  آخرون: معنى ذلك: سأريكم دار قوم فرعون، وهي مصر. ذكر من قال ذلك:............</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وإنـما اخترنا القول الذي اخترناه فـي تأويـل ذلك، لأن الذي قبل قوله
+  جلّ ثناؤه: { سأُرِيكُمْ دَارَ الفـاسِقِـينَ } أمر من الله لـموسى وقومه بـالعمل بـما
+  فـي التوراة، فأولـى الأمور بحكمة الله تعالـى أن يختـم ذلك بـالوعيد علـى من ضيعه
+  وفرّط فـي العمل لله وحاد عن سبـيـله، دون الـخبر عما قد انقطع الـخبر عنه أو عما لـم
+  يجر له ذكر.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">3 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a id=\"NextClass\"/></td></tr></table></center></div></section>"
 

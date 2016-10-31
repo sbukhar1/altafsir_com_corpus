@@ -1,4 +1,4 @@
-location:
+position:
   sura: '005'
   aaya: '033'
   madhab: '01'
@@ -7,330 +7,738 @@ meta:
   title: تفسير جامع البيان في تفسير القرآن
   author: الطبري
   year: '310'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ إِنَّمَا جَزَآءُ
-  ٱلَّذِينَ يُحَارِبُونَ ٱللَّهَ وَرَسُولَهُ وَيَسْعَوْنَ فِي ٱلأَرْضِ فَسَاداً أَن
-  يُقَتَّلُوۤاْ أَوْ يُصَلَّبُوۤاْ أَوْ تُقَطَّعَ أَيْدِيهِمْ وَأَرْجُلُهُم مِّنْ
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(5, 33)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(5,33)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">إِنَّمَا
+  جَزَآءُ ٱلَّذِينَ يُحَارِبُونَ ٱللَّهَ وَرَسُولَهُ وَيَسْعَوْنَ فِي ٱلأَرْضِ فَسَاداً
+  أَن يُقَتَّلُوۤاْ أَوْ يُصَلَّبُوۤاْ أَوْ تُقَطَّعَ أَيْدِيهِمْ وَأَرْجُلُهُم مِّنْ
   خِلافٍ أَوْ يُنفَوْاْ مِنَ ٱلأَرْضِ ذٰلِكَ لَهُمْ خِزْيٌ فِي ٱلدُّنْيَا وَلَهُمْ
-  فِي ٱلآخِرَةِ عَذَابٌ عَظِيمٌ }وهذا بـيان من الله عزّ ذكره عن حكم الفساد فـي الأرض
-  الذي ذكره فـي قوله:{ مِنْ أَجْلِ ذٰلِكَ كَتَبْنَا عَلَىٰ بَنِيۤ إِسْرَائِيلَ أَنَّهُ
-  مَن قَتَلَ نَفْساً بِغَيْرِ نَفْسٍ أَوْ فَسَادٍ فِي ٱلأَرْضِ }[المائدة: 32] أعلـم
-  عبـاده ما الذي يستـحقّ الـمفسد فـي الأرض من العقوبة والنكال، فقال تبـارك وتعالـى:
-  لا جزاء له فـي الدنـيا إلا القتل والصلب وقطع الـيد والرجل من خلاف أو النفـي من الأرض،
-  خزياً لهم وأما فـي الآخرة إن لـم يتب فـي الدنـيا فعذاب عظيـم.ثم اختلف أهل التأويـل
-  فـيـمن نزلت هذه الآية. فقال بعضهم: نزلت فـي قوم من أهل الكتاب، كانوا أهل موادعة
-  لرسول الله صلى الله عليه وسلم، فنقضوا العهد وأفسدوا فـي الأرض، فعرّف الله نبـيه
-  صلى الله عليه وسلم الـحكم فـيهم. ذكر من قال ذلك:حدثنـي الـمثنى، قال: ثنا عبد الله
-  بن صالـح، قال: ثنـي معاوية، عن علـيّ، عن ابن عبـاس، قوله: { إنَّـمَا جَزَاءُ الَّذِينَ
-  يُحارِبُونَ اللّهَ وَرَسُولَهُ وَيَسْعَوْنَ فِـي الأرْضِ فَساداً } قال: كان قوم
-  من أهل الكتاب بـينهم وبـين النبـيّ صلى الله عليه وسلم عهد وميثاق، فنقضوا العهد وأفسدوا
-  فـي الأرض فخير الله رسوله، إن شاء أن يقتل وإن شاء أن يقطع أيديهم وأرجلهم من خلاف.حدثنـي
+  فِي ٱلآخِرَةِ عَذَابٌ عَظِيمٌ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\"
+  dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">وهذا بـيان من
+  الله عزّ ذكره عن حكم الفساد فـي الأرض الذي ذكره فـي قوله:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">مِنْ أَجْلِ ذٰلِكَ كَتَبْنَا عَلَىٰ
+  بَنِيۤ إِسْرَائِيلَ أَنَّهُ مَن قَتَلَ نَفْساً بِغَيْرِ نَفْسٍ أَوْ فَسَادٍ فِي
+  ٱلأَرْضِ</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">[المائدة: 32] أعلـم عبـاده ما الذي يستـحقّ الـمفسد فـي الأرض من
+  العقوبة والنكال، فقال تبـارك وتعالـى: لا جزاء له فـي الدنـيا إلا القتل والصلب وقطع
+  الـيد والرجل من خلاف أو النفـي من الأرض، خزياً لهم وأما فـي الآخرة إن لـم يتب فـي
+  الدنـيا فعذاب عظيـم.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">ثم اختلف أهل التأويـل فـيـمن نزلت
+  هذه الآية. فقال بعضهم: نزلت فـي قوم من أهل الكتاب، كانوا أهل موادعة لرسول الله صلى
+  الله عليه وسلم، فنقضوا العهد وأفسدوا فـي الأرض، فعرّف الله نبـيه صلى الله عليه وسلم
+  الـحكم فـيهم. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  الـمثنى، قال: ثنا عبد الله بن صالـح، قال: ثنـي معاوية، عن علـيّ، عن ابن عبـاس، قوله:
+  { إنَّـمَا جَزَاءُ الَّذِينَ يُحارِبُونَ اللّهَ وَرَسُولَهُ وَيَسْعَوْنَ فِـي الأرْضِ
+  فَساداً } قال: كان قوم من أهل الكتاب بـينهم وبـين النبـيّ صلى الله عليه وسلم عهد
+  وميثاق، فنقضوا العهد وأفسدوا فـي الأرض فخير الله رسوله، إن شاء أن يقتل وإن شاء أن
+  يقطع أيديهم وأرجلهم من خلاف.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
   الـمثنى، قال: ثنا عمرو بن عون، قال: أخبرنا هشيـم، عن جويبر، عن الضحاك، قال: كان
   قوم بـينهم وبـين رسول الله صلى الله عليه وسلم ميثاق، فنقضوا العهد وقطعوا السبـيـل
   وأفسدوا فـي الأرض فخير الله جلّ وعزّ نبـيه صلى الله عليه وسلم فـيهم، فإن شاء قتل،
-  وإن شاء صلب، وإن شاء قطع أيديهم وأرجلهم من خلاف.حُدثت عن الـحسين، قال: سمعت أبـا
-  معاذ، قال: ثنـي عبـيد بن سلـيـمان، قال: سمعت الضحاك يقول، فذكر نـحوه.وقال آخرون:
-  نزلت فـي قوم من الـمشركين. ذكر من قال ذلك:حدثنا ابن حميد، قال: ثنا يحيى بن واضح،
-  قال: ثنا الـحسين بن واقد، عن يزيد، عن عكرمة والـحسن البصريّ، قالا: قال: { إنَّـمَا
-  جَزَاءُ الَّذِينَ يُحارِبُونَ اللّهَ وَرَسُولَهُ }... إلـى:{ إِنَّ ٱللَّهَ غَفُورٌ
-  رَّحِيمٌ }[المائدة: 39] نزلت هذه الآية فـي الـمشركين، فمن تاب منهم من قبل أن تقدروا
-  علـيه لـم يكن علـيه سبـيـل ولـيست تَـحْرز هذه الآية الرجل الـمسلـم من الـحدّ إن
-  قتل أو أفسد فـي الأرض أو حارب الله ورسوله ثم لـحق بـالكفـار قبل أن يُقَدَر علـيه،
-  لـم يـمنعه ذلك أن يقام فـيه الـحدّ الذي أصاب.حدثنا ابن وكيع، قال: ثنا يحيى بن سعيد،
-  عن أشعث، عن الـحسن: { إنَّـما جَزَاءُ الَّذِينَ يُحارِبُونَ اللّهَ وَرَسُولَهُ }
-  قال: نزلت فـي أهل الشرك.وقال آخرون: بل نزلت فـي قوم من عُرَينة وعُكْل ارتدّوا عن
-  الإسلام، وحاربوا الله ورسوله.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 9 10 \r\n\t\t\t\t\t\t\t\tمزيد</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ إِنَّمَا جَزَآءُ ٱلَّذِينَ يُحَارِبُونَ
-  ٱللَّهَ وَرَسُولَهُ وَيَسْعَوْنَ فِي ٱلأَرْضِ فَسَاداً أَن يُقَتَّلُوۤاْ أَوْ يُصَلَّبُوۤاْ
+  وإن شاء صلب، وإن شاء قطع أيديهم وأرجلهم من خلاف.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حُدثت
+  عن الـحسين، قال: سمعت أبـا معاذ، قال: ثنـي عبـيد بن سلـيـمان، قال: سمعت الضحاك يقول،
+  فذكر نـحوه.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال آخرون: نزلت فـي قوم من الـمشركين.
+  ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن حميد، قال: ثنا يحيى بن
+  واضح، قال: ثنا الـحسين بن واقد، عن يزيد، عن عكرمة والـحسن البصريّ، قالا: قال: {
+  إنَّـمَا جَزَاءُ الَّذِينَ يُحارِبُونَ اللّهَ وَرَسُولَهُ }... إلـى:</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">إِنَّ
+  ٱللَّهَ غَفُورٌ رَّحِيمٌ</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">[المائدة: 39] نزلت هذه الآية فـي الـمشركين، فمن تاب منهم من قبل
+  أن تقدروا علـيه لـم يكن علـيه سبـيـل ولـيست تَـحْرز هذه الآية الرجل الـمسلـم من
+  الـحدّ إن قتل أو أفسد فـي الأرض أو حارب الله ورسوله ثم لـحق بـالكفـار قبل أن يُقَدَر
+  علـيه، لـم يـمنعه ذلك أن يقام فـيه الـحدّ الذي أصاب.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن وكيع، قال: ثنا يحيى بن سعيد، عن أشعث، عن الـحسن: { إنَّـما جَزَاءُ الَّذِينَ
+  يُحارِبُونَ اللّهَ وَرَسُولَهُ } قال: نزلت فـي أهل الشرك.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  آخرون: بل نزلت فـي قوم من عُرَينة وعُكْل ارتدّوا عن الإسلام، وحاربوا الله ورسوله.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,8,1)\"><u>8</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,9,1)\"><u>9</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(1,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(5,
+  33)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(5,33)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">إِنَّمَا جَزَآءُ ٱلَّذِينَ يُحَارِبُونَ ٱللَّهَ
+  وَرَسُولَهُ وَيَسْعَوْنَ فِي ٱلأَرْضِ فَسَاداً أَن يُقَتَّلُوۤاْ أَوْ يُصَلَّبُوۤاْ
   أَوْ تُقَطَّعَ أَيْدِيهِمْ وَأَرْجُلُهُم مِّنْ خِلافٍ أَوْ يُنفَوْاْ مِنَ ٱلأَرْضِ
-  ذٰلِكَ لَهُمْ خِزْيٌ فِي ٱلدُّنْيَا وَلَهُمْ فِي ٱلآخِرَةِ عَذَابٌ عَظِيمٌ }حدثنا
-  ابن بشار، قال: ثنا روح بن عبـادة، قال: ثنا سعيد بن أبـي عَرُوبة، عن قتادة، عن أنس:
-  أن رهطاً من عُكل وعرينة أتوا النبـيّ صلى الله عليه وسلم، فقالوا: يا رسول الله إنا
-  أهل ضَرْع ولـم نكن أهل ريف، وإنا استوخمنا الـمدينة. فأمر لهم النبـيّ صلى الله عليه
-  وسلم بَذوْد وراع، وأمرهم أن يخرجوا فـيها فـيشربوا من ألبـانها وأبوالها. فقتلوا راعي
-  رسول الله صلى الله عليه وسلم، واستاقوا الذود، وكفروا بعد إسلامهم. فأتِـيَ بهم النبـيّ
-  صلى الله عليه وسلم، فقطع أيديهم وأرجلهم، وسمل أعينهم، وتركهم فـي الـحرّة حتـى ماتوا.
-  فذكر لنا أن هذه الآية نزلت فـيهم: { إنَّـمَا جَزَاءُ الَّذِينَ يُحارِبُونَ اللّهَ
-  وَرَسُولَهُ }.حدثنا ابن حميد، قال: ثنا روح، قال: ثنا هشام بن أبـي عبد الله، عن قتادة،
-  عن أنس بن مالك، عن النبـيّ صلى الله عليه وسلم بـمثل هذه القصة.حدثنا مـحمد بن علـيّ
-  بن الـحسن بن شقـيق، قال: سمعت أبـي يقول: أخبرنا أبو حمزة، عن عبد الكريـم وسئل عن
-  أبوال الإبل، فقال: حدثنـي سعيد بن جبـير عن الـمـحاربـين، فقال: كان ناس أتوا النبـيّ
-  صلى الله عليه وسلم فقالوا: نبـايعك عن الإسلام فبـايعوه وهم كذبة، ولـيس الإسلامَ
-  يريدون. ثم قالوا: إنا نـجتَوي الـمدينة. فقال النبـيّ صلى الله عليه وسلم: \" هَذِهِ
-  اللِّقاحُ تَغْدُو عَلَـيْكُمْ وَتَرُوحُ، فـاشْرَبُوا مِنْ أبْوَالِهَا وألْبـانِها
-  \" قال: فبـينا هم كذلك إذ جاء الصريخ، فصرخ إلـى رسول الله صلى الله عليه وسلم، فقال:
-  قتلوا الراعي، وساقوا النعم فأمر نبـيّ الله فنُودي فـي الناس، أن: يا خيـل الله اركبـي.
-  قال: فركبوا لا ينتظر فـارس فـارساً. قال: فركب رسول الله صلى الله عليه وسلم علـى
-  أثرهم، فلـم يزالوا يطلبونهم حتـى أدخـلوهم مأمنهم، فرجع صحابة رسول الله صلى الله
-  عليه وسلم وقد أسروا منهم، فأتوا بهم النبـيّ صلى الله عليه وسلم، فأنزل الله: { إنَّـمَا
-  جَزَاءُ الَّذِينَ يُحارِبُونَ اللّهَ وَرَسُولَهُ }... الآية، قال: فكان نفـيهم أن
-  نفوهم، حتـى أدخـلوهم مأمنهم وأرضهم، ونفوهم من أرض الـمسلـمين، وقتل نبـيّ الله منهم
-  وصلب وقطع وسمل الأعين. قال: فما مثَّل رسول الله صلى الله عليه وسلم قبل ولا بعد.
-  قال: ونهى عن الـمُثْلة، وقال: \" لا تُـمَثِّلوا بشَيْءٍ \" قال: فكان أنس بن مالك
-  يقول ذلك، غير أنه قال: أحرقهم بـالنار بعد ما قتلهم.قال: وبعضهم يقول: هم ناس من بنـي
-  سلـيـم، ومنهم من عرينة وناس من بجيـلة.حدثنـي مـحمد بن خـلف، قال: ثنا الـحسن بن هناد،
-  عن عمرو بن هاشم، عن موسى بن عبـيد، عن مـحمد بن إبراهيـم، عن جرير، قال: قدم علـى
-  النبـيّ صلى الله عليه وسلم قوم من عرينة حفـاة مضرورين، فأمر بهم رسول الله صلى الله
-  عليه وسلم فلـما صحُّوا واشتدوا قتلوا رعاء اللقاح، ثم خرجوا بـاللقاح عامدين بها إلـى
-  أرض قومهم.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 9 10 \r\n\t\t\t\t\t\t\t\tمزيد</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ إِنَّمَا جَزَآءُ ٱلَّذِينَ يُحَارِبُونَ
-  ٱللَّهَ وَرَسُولَهُ وَيَسْعَوْنَ فِي ٱلأَرْضِ فَسَاداً أَن يُقَتَّلُوۤاْ أَوْ يُصَلَّبُوۤاْ
+  ذٰلِكَ لَهُمْ خِزْيٌ فِي ٱلدُّنْيَا وَلَهُمْ فِي ٱلآخِرَةِ عَذَابٌ عَظِيمٌ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن بشار، قال: ثنا روح بن عبـادة، قال: ثنا سعيد بن أبـي عَرُوبة،
+  عن قتادة، عن أنس: أن رهطاً من عُكل وعرينة أتوا النبـيّ صلى الله عليه وسلم، فقالوا:
+  يا رسول الله إنا أهل ضَرْع ولـم نكن أهل ريف، وإنا استوخمنا الـمدينة. فأمر لهم النبـيّ
+  صلى الله عليه وسلم بَذوْد وراع، وأمرهم أن يخرجوا فـيها فـيشربوا من ألبـانها وأبوالها.
+  فقتلوا راعي رسول الله صلى الله عليه وسلم، واستاقوا الذود، وكفروا بعد إسلامهم. فأتِـيَ
+  بهم النبـيّ صلى الله عليه وسلم، فقطع أيديهم وأرجلهم، وسمل أعينهم، وتركهم فـي الـحرّة
+  حتـى ماتوا. فذكر لنا أن هذه الآية نزلت فـيهم: { إنَّـمَا جَزَاءُ الَّذِينَ يُحارِبُونَ
+  اللّهَ وَرَسُولَهُ }.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن حميد، قال: ثنا روح، قال:
+  ثنا هشام بن أبـي عبد الله، عن قتادة، عن أنس بن مالك، عن النبـيّ صلى الله عليه وسلم
+  بـمثل هذه القصة.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا مـحمد بن علـيّ بن الـحسن
+  بن شقـيق، قال: سمعت أبـي يقول: أخبرنا أبو حمزة، عن عبد الكريـم وسئل عن أبوال الإبل،
+  فقال: حدثنـي سعيد بن جبـير عن الـمـحاربـين، فقال: كان ناس أتوا النبـيّ صلى الله
+  عليه وسلم فقالوا: نبـايعك عن الإسلام فبـايعوه وهم كذبة، ولـيس الإسلامَ يريدون. ثم
+  قالوا: إنا نـجتَوي الـمدينة. فقال النبـيّ صلى الله عليه وسلم:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" هَذِهِ اللِّقاحُ تَغْدُو عَلَـيْكُمْ
+  وَتَرُوحُ، فـاشْرَبُوا مِنْ أبْوَالِهَا وألْبـانِها \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">قال: فبـينا هم كذلك إذ جاء الصريخ، فصرخ إلـى رسول الله صلى الله
+  عليه وسلم، فقال: قتلوا الراعي، وساقوا النعم فأمر نبـيّ الله فنُودي فـي الناس، أن:
+  يا خيـل الله اركبـي. قال: فركبوا لا ينتظر فـارس فـارساً. قال: فركب رسول الله صلى
+  الله عليه وسلم علـى أثرهم، فلـم يزالوا يطلبونهم حتـى أدخـلوهم مأمنهم، فرجع صحابة
+  رسول الله صلى الله عليه وسلم وقد أسروا منهم، فأتوا بهم النبـيّ صلى الله عليه وسلم،
+  فأنزل الله: { إنَّـمَا جَزَاءُ الَّذِينَ يُحارِبُونَ اللّهَ وَرَسُولَهُ }... الآية،
+  قال: فكان نفـيهم أن نفوهم، حتـى أدخـلوهم مأمنهم وأرضهم، ونفوهم من أرض الـمسلـمين،
+  وقتل نبـيّ الله منهم وصلب وقطع وسمل الأعين. قال: فما مثَّل رسول الله صلى الله عليه
+  وسلم قبل ولا بعد. قال: ونهى عن الـمُثْلة، وقال:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" لا تُـمَثِّلوا بشَيْءٍ \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">قال: فكان أنس بن مالك يقول ذلك، غير أنه قال: أحرقهم بـالنار بعد
+  ما قتلهم.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">قال: وبعضهم يقول: هم ناس من بنـي
+  سلـيـم، ومنهم من عرينة وناس من بجيـلة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  مـحمد بن خـلف، قال: ثنا الـحسن بن هناد، عن عمرو بن هاشم، عن موسى بن عبـيد، عن مـحمد
+  بن إبراهيـم، عن جرير، قال: قدم علـى النبـيّ صلى الله عليه وسلم قوم من عرينة حفـاة
+  مضرورين، فأمر بهم رسول الله صلى الله عليه وسلم فلـما صحُّوا واشتدوا قتلوا رعاء اللقاح،
+  ثم خرجوا بـاللقاح عامدين بها إلـى أرض قومهم.</font></font>&#13;\t\t\t<label disabled=\"true\"
+  class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,8,1)\"><u>8</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,9,1)\"><u>9</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(1,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(5,
+  33)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(5,33)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">إِنَّمَا جَزَآءُ ٱلَّذِينَ يُحَارِبُونَ ٱللَّهَ
+  وَرَسُولَهُ وَيَسْعَوْنَ فِي ٱلأَرْضِ فَسَاداً أَن يُقَتَّلُوۤاْ أَوْ يُصَلَّبُوۤاْ
   أَوْ تُقَطَّعَ أَيْدِيهِمْ وَأَرْجُلُهُم مِّنْ خِلافٍ أَوْ يُنفَوْاْ مِنَ ٱلأَرْضِ
-  ذٰلِكَ لَهُمْ خِزْيٌ فِي ٱلدُّنْيَا وَلَهُمْ فِي ٱلآخِرَةِ عَذَابٌ عَظِيمٌ }قال
-  جرير: فبعثنـي رسول الله صلى الله عليه وسلم فـي نفر من الـمسلـمين حتـى أدركناهم بعد
-  ما أشرفوا علـى بلاد قومهم، فقدمنا بهم علـى رسول الله صلى الله عليه وسلم، فقطع أيديهم
-  وأرجلهم من خلاف، وسمل أعينهم، وجعلوا يقولون: الـماء ورسول الله صلى الله عليه وسلم
-  يقول: «النَّار» حتـى هلكوا. قال: وكره الله سمل الأعين، فأنزل هذه الآية: { إنَّـمَا
-  جَزَاءُ الَّذِينَ يُحارِبُونَ اللّهَ وَرَسُولَهُ }... إلـى آخر الآية.حدثنـي يونس،
-  قال: أخبرنا ابن وهب، قال: أخبرنـي ابن لهيعة، عن أبـي الأسود مـحمد بن عبد الرحمن،
-  عن عروة بن الزبـير (ح). وحدثنـي يونس، قال: أخبرنا ابن وهب، قال: أخبرنـي يحيى بن
-  عبد الله بن سالـم، وسعيد بن عبد الرحمن، وابن سمعان، عن هشام بن عروة، عن أبـيه، قال:
-  أغار ناس من عرينة علـى لقاح رسول الله صلى الله عليه وسلم، فـاستاقوها وقتلوا غلاماً
-  له فـيها، فبعث فـي آثارهم فأُخِذوا، فقطع أيديهم وأرجلهم وسمل أعينهم.حدثنـي يونس،
-  قال: أخبرنا ابن وهب، قال: أخبرنـي عمرو بن الـحارث، عن سعيد بن أبـي هلال عن أبـي
-  الزناد، عن عبد الله بن عبد الله، عن عبد الله بن عمر أو عمرو، شكّ يونس عن رسول الله
-  صلى الله عليه وسلم بذلك، ونزلت فـيهم آية الـمـحاربة.حدثنا علـيّ بن سهل، قال: ثنا
-  الولـيد بن مسلـم، قال: ثنا الأوزاعي، عن يحيى بن أبـي كثـير، عن أبـي قلابة، عن أنس،
-  قال: قدم ثمانـية نفر من عكل علـى رسول الله صلى الله عليه وسلم، فأسلـموا، ثم اجتووا
-  الـمدينة، فأمرهم رسول الله صلى الله عليه وسلم أن يأتوا إبل الصدقة فـيشربوا من أبوالها
-  وألبـانها، ففعلوا، فقتلوا رعاتها، واستاقوا الإبل. فأرسل رسول الله صلى الله عليه
-  وسلم فـي أثرهم قافة، فأُتـي بهم، فقطع أيديهم وأرجلهم، وتركهم فلـم يحسمهم حتـى ماتوا.حدثنا
+  ذٰلِكَ لَهُمْ خِزْيٌ فِي ٱلدُّنْيَا وَلَهُمْ فِي ٱلآخِرَةِ عَذَابٌ عَظِيمٌ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">قال جرير: فبعثنـي رسول الله صلى الله عليه وسلم فـي نفر من الـمسلـمين
+  حتـى أدركناهم بعد ما أشرفوا علـى بلاد قومهم، فقدمنا بهم علـى رسول الله صلى الله
+  عليه وسلم، فقطع أيديهم وأرجلهم من خلاف، وسمل أعينهم، وجعلوا يقولون: الـماء ورسول
+  الله صلى الله عليه وسلم يقول: «النَّار» حتـى هلكوا. قال: وكره الله سمل الأعين، فأنزل
+  هذه الآية: { إنَّـمَا جَزَاءُ الَّذِينَ يُحارِبُونَ اللّهَ وَرَسُولَهُ }... إلـى
+  آخر الآية.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي يونس، قال: أخبرنا ابن وهب،
+  قال: أخبرنـي ابن لهيعة، عن أبـي الأسود مـحمد بن عبد الرحمن، عن عروة بن الزبـير (ح).
+  وحدثنـي يونس، قال: أخبرنا ابن وهب، قال: أخبرنـي يحيى بن عبد الله بن سالـم، وسعيد
+  بن عبد الرحمن، وابن سمعان، عن هشام بن عروة، عن أبـيه، قال: أغار ناس من عرينة علـى
+  لقاح رسول الله صلى الله عليه وسلم، فـاستاقوها وقتلوا غلاماً له فـيها، فبعث فـي آثارهم
+  فأُخِذوا، فقطع أيديهم وأرجلهم وسمل أعينهم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  يونس، قال: أخبرنا ابن وهب، قال: أخبرنـي عمرو بن الـحارث، عن سعيد بن أبـي هلال عن
+  أبـي الزناد، عن عبد الله بن عبد الله، عن عبد الله بن عمر أو عمرو، شكّ يونس عن رسول
+  الله صلى الله عليه وسلم بذلك، ونزلت فـيهم آية الـمـحاربة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  علـيّ بن سهل، قال: ثنا الولـيد بن مسلـم، قال: ثنا الأوزاعي، عن يحيى بن أبـي كثـير،
+  عن أبـي قلابة، عن أنس، قال: قدم ثمانـية نفر من عكل علـى رسول الله صلى الله عليه
+  وسلم، فأسلـموا، ثم اجتووا الـمدينة، فأمرهم رسول الله صلى الله عليه وسلم أن يأتوا
+  إبل الصدقة فـيشربوا من أبوالها وألبـانها، ففعلوا، فقتلوا رعاتها، واستاقوا الإبل.
+  فأرسل رسول الله صلى الله عليه وسلم فـي أثرهم قافة، فأُتـي بهم، فقطع أيديهم وأرجلهم،
+  وتركهم فلـم يحسمهم حتـى ماتوا.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
   علـيّ، قال: ثنا الولـيد، قال: ثنـي سعيد، عن قتادة، عن أنس، قال: كانوا أربعة نفر
   من عرينة وثلاثة من عكل، فلـما أُوتـي بهم قطع أيديهم وأرجلهم وسمل أعينِهم ولـم يحسمهم،
   وتركهم يتلقمون الـحجارة بـالـحرّة، فأنزل الله جلّ وعزّ فـي ذلك: { إنَّـمَا جَزَاءُ
-  الَّذِينَ يُحارِبُونَ اللّهَ وَرَسُولَهُ }... الآية،حدثنـي علـيّ، قال: ثنا الولـيد،
-  عن ابن لهيعة، عن يزيد بن أبـي حبـيب أن عبد الـملك بن مروان كتب إلـى أنس يسأله عن
-  هذه الآية، فكتب إلـيه أنس يخبره أن هذه الآية نزلت فـي أولئك النفر العرنـيـين، وهم
-  من بجيـلة، قال أنس: فـارتدّوا عن الإسلام، وقتلوا الراعي، واستقاوا الإبل، وأخافوا
-  السبـيـل، وأصابوا الفَرْج الـحرام.حدثنـي موسى بن هارون، قال: ثنا عمرو بن حماد، قال:
-  ثنا أسبـاط، عن السديّ: { إنَّـمَا جَزَاءُ الَّذِينَ يُحارِبُونَ اللّهَ وَرَسُولَهُ
-  وَيَسْعُوْنَ فِـي الأرْضِ فَساداً } قال: أنزلت فـي سُودان عرينة، قال: أتوا رسول
-  الله صلى الله عليه وسلم وبهم الـماء الأصفر، فشكوا ذلك إلـيه، فأمرهم فخرجوا إلـى
-  إبل رسول الله صلى الله عليه وسلم من الصدقة، فقال:\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 9 10 \r\n\t\t\t\t\t\t\t\tمزيد</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ إِنَّمَا جَزَآءُ ٱلَّذِينَ يُحَارِبُونَ
-  ٱللَّهَ وَرَسُولَهُ وَيَسْعَوْنَ فِي ٱلأَرْضِ فَسَاداً أَن يُقَتَّلُوۤاْ أَوْ يُصَلَّبُوۤاْ
+  الَّذِينَ يُحارِبُونَ اللّهَ وَرَسُولَهُ }... الآية،</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  علـيّ، قال: ثنا الولـيد، عن ابن لهيعة، عن يزيد بن أبـي حبـيب أن عبد الـملك بن مروان
+  كتب إلـى أنس يسأله عن هذه الآية، فكتب إلـيه أنس يخبره أن هذه الآية نزلت فـي أولئك
+  النفر العرنـيـين، وهم من بجيـلة، قال أنس: فـارتدّوا عن الإسلام، وقتلوا الراعي، واستقاوا
+  الإبل، وأخافوا السبـيـل، وأصابوا الفَرْج الـحرام.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  موسى بن هارون، قال: ثنا عمرو بن حماد، قال: ثنا أسبـاط، عن السديّ: { إنَّـمَا جَزَاءُ
+  الَّذِينَ يُحارِبُونَ اللّهَ وَرَسُولَهُ وَيَسْعُوْنَ فِـي الأرْضِ فَساداً } قال:
+  أنزلت فـي سُودان عرينة، قال: أتوا رسول الله صلى الله عليه وسلم وبهم الـماء الأصفر،
+  فشكوا ذلك إلـيه، فأمرهم فخرجوا إلـى إبل رسول الله صلى الله عليه وسلم من الصدقة،
+  فقال:</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">3 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,8,1)\"><u>8</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,9,1)\"><u>9</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(1,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(5,
+  33)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(5,33)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">إِنَّمَا جَزَآءُ ٱلَّذِينَ يُحَارِبُونَ ٱللَّهَ
+  وَرَسُولَهُ وَيَسْعَوْنَ فِي ٱلأَرْضِ فَسَاداً أَن يُقَتَّلُوۤاْ أَوْ يُصَلَّبُوۤاْ
   أَوْ تُقَطَّعَ أَيْدِيهِمْ وَأَرْجُلُهُم مِّنْ خِلافٍ أَوْ يُنفَوْاْ مِنَ ٱلأَرْضِ
-  ذٰلِكَ لَهُمْ خِزْيٌ فِي ٱلدُّنْيَا وَلَهُمْ فِي ٱلآخِرَةِ عَذَابٌ عَظِيمٌ } \"
-  اشْرَبُوا منْ ألْبـانِها وأبْوَالِهَا \" فشربوا من ألبـانها وأبوالها، حتـى إذا صحّوا
-  وبرؤا، قتلوا الرعاة واستاقوا الإبل.وأولـى الأقوال فـي ذلك عندي أن يقال: أنزل الله
-  هذه الآية علـى نبـيه صلى الله عليه وسلم معرّفة حكمه علـى من حارب الله ورسوله وسعى
-  فـي الأرض فساداً، بعد الذي كان من فعل رسول الله صلى الله عليه وسلم بـالعرنـيـين
-  ما فعل.وإنـما قلنا ذلك أولـى الأقوال بـالصواب فـي ذلك، لأن القصص التـي قصها الله
-  جلّ وعزّ قبل هذه الآية وبعدها من قصص بنـي إسرائيـل وأنبائهم، فأن يكون ذلك متوسطاً
-  منه يعرف الـحكم فـيهم وفـي نظرائهم، أولـى وأحقّ. وقلنا: كان نزول ذلك بعد الذي كان
-  من فعل رسول الله صلى الله عليه وسلم بـالعرنـيـين ما فعل لتظاهر الأخبـار عن أصحاب
-  رسول الله صلى الله عليه وسلم بذلك. وإذ كان ذلك أولـى بـالآية لـما وصفنا، فتأويـلها:
-  من أجل ذلك كتبنا علـى بنـي إسرائيـل أنه من قتل نفساً بغير نفس أو سَعَى بفساد فـي
-  الأرض فكأنـما قتل الناس جميعاً، ومن أحياها فكأنـما أحيا الناس جميعاً، ولقد جاءتهم
-  رسلنا بـالبـينات، ثم إن كثـيراً منهم بعد ذلك فـي الأرض لـمسرفون، يقول: لساعون فـي
-  الأرض بـالفساد، وقاتلو النفوس بغير نفس وغير سعي فـي الأرض بـالفساد حربـاً لله ولرسوله،
-  فمن فعل ذلك منهم يا مـحمد، فإنـما جزاؤه أن يقتلوا أو يصلّبوا أو تقطع أيديهم وأرجلهم
-  من خلاف أو ينفوا من الأرض.فإن قال لنا قائل: وكيف يجوز أن تكون الآية نزلت فـي الـحال
-  التـي ذكرت من حال نقض كافر من بنـي إسرائيـل عهده، ومن قولك إن حكم هذه الآية حكم
-  من الله فـي أهل الإسلام دون أهل الـحرب من الـمشركين؟ قـيـل: جاز أن يكون ذلك كذلك،
-  لأن حكم من حارب الله ورسوله وسَعَى فـي الأرض فساداً من أهل ذمتنا وملتنا واحد، والذين
-  عُنُوا بـالآية كانوا أهل عهد وذمة، وإن كان داخلاً فـي حكمها كل ذمي وملـيَ، ولـيس
-  يبطل بدخول من دخـل فـي حكم الآية من الناس أن يكون صحيحاً نزولها فـيـمن نزلت فـيه.وقد
+  ذٰلِكَ لَهُمْ خِزْيٌ فِي ٱلدُّنْيَا وَلَهُمْ فِي ٱلآخِرَةِ عَذَابٌ عَظِيمٌ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\"/></font><b><font class=\"TextResultArabic\"><font color=\"Red\">
+  \" اشْرَبُوا منْ ألْبـانِها وأبْوَالِهَا \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">فشربوا من ألبـانها وأبوالها، حتـى إذا صحّوا وبرؤا، قتلوا الرعاة
+  واستاقوا الإبل.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وأولـى الأقوال فـي ذلك عندي أن
+  يقال: أنزل الله هذه الآية علـى نبـيه صلى الله عليه وسلم معرّفة حكمه علـى من حارب
+  الله ورسوله وسعى فـي الأرض فساداً، بعد الذي كان من فعل رسول الله صلى الله عليه وسلم
+  بـالعرنـيـين ما فعل.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وإنـما قلنا ذلك أولـى الأقوال بـالصواب
+  فـي ذلك، لأن القصص التـي قصها الله جلّ وعزّ قبل هذه الآية وبعدها من قصص بنـي إسرائيـل
+  وأنبائهم، فأن يكون ذلك متوسطاً منه يعرف الـحكم فـيهم وفـي نظرائهم، أولـى وأحقّ.
+  وقلنا: كان نزول ذلك بعد الذي كان من فعل رسول الله صلى الله عليه وسلم بـالعرنـيـين
+  ما فعل لتظاهر الأخبـار عن أصحاب رسول الله صلى الله عليه وسلم بذلك. وإذ كان ذلك أولـى
+  بـالآية لـما وصفنا، فتأويـلها: من أجل ذلك كتبنا علـى بنـي إسرائيـل أنه من قتل نفساً
+  بغير نفس أو سَعَى بفساد فـي الأرض فكأنـما قتل الناس جميعاً، ومن أحياها فكأنـما أحيا
+  الناس جميعاً، ولقد جاءتهم رسلنا بـالبـينات، ثم إن كثـيراً منهم بعد ذلك فـي الأرض
+  لـمسرفون، يقول: لساعون فـي الأرض بـالفساد، وقاتلو النفوس بغير نفس وغير سعي فـي الأرض
+  بـالفساد حربـاً لله ولرسوله، فمن فعل ذلك منهم يا مـحمد، فإنـما جزاؤه أن يقتلوا أو
+  يصلّبوا أو تقطع أيديهم وأرجلهم من خلاف أو ينفوا من الأرض.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">فإن
+  قال لنا قائل: وكيف يجوز أن تكون الآية نزلت فـي الـحال التـي ذكرت من حال نقض كافر
+  من بنـي إسرائيـل عهده، ومن قولك إن حكم هذه الآية حكم من الله فـي أهل الإسلام دون
+  أهل الـحرب من الـمشركين؟ قـيـل: جاز أن يكون ذلك كذلك، لأن حكم من حارب الله ورسوله
+  وسَعَى فـي الأرض فساداً من أهل ذمتنا وملتنا واحد، والذين عُنُوا بـالآية كانوا أهل
+  عهد وذمة، وإن كان داخلاً فـي حكمها كل ذمي وملـيَ، ولـيس يبطل بدخول من دخـل فـي حكم
+  الآية من الناس أن يكون صحيحاً نزولها فـيـمن نزلت فـيه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقد
   اختلف أهل العلـم فـي نسخ حكم النبـيّ صلى الله عليه وسلم فـي العُرَنـيـين، فقال بعضهم:
   ذلك حكم منسوخ، نسخه نهيه عن الـمثلة بهذه الآية، أعنـي بقوله: { إنَّـمَا جَزَاءُ
   الَّذِينَ يُحارِبُونَ اللّهَ وَرَسُولَهُ وَيَسْعُوْنَ فـي الأرْضِ فَساداً }... الآية،
-  وقالوا: أنزلت هذه الآية عتابـاً لرسول الله صلى الله عليه وسلم فـيـما فعل بـالعرنـيـين.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 9 10 \r\n\t\t\t\t\t\t\t\tمزيد</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ إِنَّمَا جَزَآءُ ٱلَّذِينَ يُحَارِبُونَ
-  ٱللَّهَ وَرَسُولَهُ وَيَسْعَوْنَ فِي ٱلأَرْضِ فَسَاداً أَن يُقَتَّلُوۤاْ أَوْ يُصَلَّبُوۤاْ
+  وقالوا: أنزلت هذه الآية عتابـاً لرسول الله صلى الله عليه وسلم فـيـما فعل بـالعرنـيـين.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">4 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,8,1)\"><u>8</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,9,1)\"><u>9</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(1,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(5,
+  33)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(5,33)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">إِنَّمَا جَزَآءُ ٱلَّذِينَ يُحَارِبُونَ ٱللَّهَ
+  وَرَسُولَهُ وَيَسْعَوْنَ فِي ٱلأَرْضِ فَسَاداً أَن يُقَتَّلُوۤاْ أَوْ يُصَلَّبُوۤاْ
   أَوْ تُقَطَّعَ أَيْدِيهِمْ وَأَرْجُلُهُم مِّنْ خِلافٍ أَوْ يُنفَوْاْ مِنَ ٱلأَرْضِ
-  ذٰلِكَ لَهُمْ خِزْيٌ فِي ٱلدُّنْيَا وَلَهُمْ فِي ٱلآخِرَةِ عَذَابٌ عَظِيمٌ }وقال
-  بعضهم: بل فِعْلُ النبـيّ صلى الله عليه وسلم بـالعرنـيـين حكم ثابت فـي نظرائهم أبداً،
-  لـم يُنْسخ ولـم يبدّل. وقوله: { إنَّـمَا جَزَاءُ الَّذِينَ يُحارِبُونَ اللّهَ وَرَسُولَهُ
-  }... الآية، حكم من الله فـيـمن حارب وسعى فـي الأرض فساداً بـالـحِرَابة. قالوا: والعرنـيون
-  ارتدوا وقتلوا وسرقوا وحاربوا الله ورسوله، فحكمهم غير حكم الـمـحارِب الساعي فـي الأرض
-  بـالفساد من أهل الإسلام والذمة.وقال آخرون: لـم يَسْمُلِ النبـيّ صلى الله عليه وسلم
-  أعين العرنـيـين، ولكنه كان أراد أن يسمُل، فأنزل الله جلّ وعزّ هذه الآية علـى نبـيه
-  يعرّفه الـحكم فـيهم ونهاه عن سمل أعينهم. ذكر القائلـين ما وصفنا:حدثنـي علـيّ بن
-  سهل، قال: ثنا الولـيد بن مسلـم، قال: ذاكرت اللـيث بن سعد ما كان من سمل رسول الله
-  صلى الله عليه وسلم أعينهم وتركه حَسْمهم حتـى ماتوا، فقال: سمعت مـحمد بن عجلان يقول:
-  أنزلت هذه الآية علـى رسول الله صلى الله عليه وسلم معاتبة فـي ذلك، وعَلـمه عقوبة
-  مثلهم من القطع والقتل والنفـي، ولـم يسمُل بعدهم غيرهم. قال: وكان هذا القول ذُكِر
-  لأبـي عمرو، فأنكر أن تكون نزلت معاتبة، وقال: بلـى كانت عقوبة أولئك النفر بأعيانهم،
-  ثم نزلت هذه الآية فـي عقوبة غيرهم مـمن حارب بعدهم فرفع عنهم السَّمْل.حدثنـي مـحمد
-  بن الـحسين، قال: ثنـي أحمد بن مفضل، قال: ثنا أسبـاط، عن السديّ، قال: فبعث رسول الله
-  صلى الله عليه وسلم، فأُتـي بهم يعنـي العُرنـيـين فأراد أن يسمُل أعينهم، فنهاه الله
-  عن ذلك، وأمره أن يقـيـم فـيهم الـحدود كما أنزلها الله علـيه.واختلف أهل العلـم فـي
-  الـمستـحقّ اسم الـمـحارب لله ورسوله الذي يـلزمه حكم هذه، فقال بعضهم: هو اللصّ الذي
-  يقطع الطريق. ذكر من قال ذلك:حدثنا الـحسن بن يحيى، قال: أخبرنا عبد الرزاق، قال: أخبرنا
-  معمر، عن قتادة، و عطاء الـخراسانـي فـي قوله: { إنَّـما جَزَاءُ الَّذِينَ يُحارِبُونَ
-  اللّهَ وَرَسُولَهُ وَيَسْعَوْنَ فِـي الأرْضِ فَساداً }... الآية، قالا: هذا هو اللصّ
-  الذي يقطع الطريق، فهو مـحارب.وقال آخرون: هو اللصّ الـمـجاهر بلصوصيته، الـمكابر فـي
-  الـمصر وغيره. ومـمن قال ذلك الأوزاعي.حدثنا بذلك العبـاس عن أبـيه عنه.وعن مالك واللـيث
-  بن سعد وابن لهَيعة.حدثنـي علـيّ بن سهل، قال: ثنا الولـيد بن مسلـم، قال: قلت لـمالك
-  بن أنس: تكون مـحاربة فـي الـمصر؟ قال: نعم، والـمـحارب عندنا من حمل السلاح علـى الـمسلـمين
-  فـي مصر أو خلاء، فكان ذلك منه علـى غير نائرة كانت بـينهم ولا ذَحْل ولا عداوة، قاطعاً
-  للسبـيـل والطريق والديار، مخيفـاً لهم بسلاحه، فقتْل أحداً منهم قتله الإمام كقتله
-  الـمـحارب لـيس لولـيّ الـمقتول فـيه عفو ولا قَوَد.حدثنـي علـيّ، قال: ثنا الولـيد،
-  قال: سألت عن ذلك اللـيث بن سعد وابن لهيعة، قلت: تكون الـمـحاربة فـي دور الـمصر والـمدائن
-  والقرى؟ فقالا: نعم، إذا هم دخـلوا علـيهم بـالسيوف علانـية، أو لـيلاً بـالنـيران.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 9 10 \r\n\t\t\t\t\t\t\t\tمزيد</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ إِنَّمَا جَزَآءُ ٱلَّذِينَ يُحَارِبُونَ
-  ٱللَّهَ وَرَسُولَهُ وَيَسْعَوْنَ فِي ٱلأَرْضِ فَسَاداً أَن يُقَتَّلُوۤاْ أَوْ يُصَلَّبُوۤاْ
+  ذٰلِكَ لَهُمْ خِزْيٌ فِي ٱلدُّنْيَا وَلَهُمْ فِي ٱلآخِرَةِ عَذَابٌ عَظِيمٌ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال بعضهم: بل فِعْلُ النبـيّ صلى الله عليه وسلم بـالعرنـيـين حكم
+  ثابت فـي نظرائهم أبداً، لـم يُنْسخ ولـم يبدّل. وقوله: { إنَّـمَا جَزَاءُ الَّذِينَ
+  يُحارِبُونَ اللّهَ وَرَسُولَهُ }... الآية، حكم من الله فـيـمن حارب وسعى فـي الأرض
+  فساداً بـالـحِرَابة. قالوا: والعرنـيون ارتدوا وقتلوا وسرقوا وحاربوا الله ورسوله،
+  فحكمهم غير حكم الـمـحارِب الساعي فـي الأرض بـالفساد من أهل الإسلام والذمة.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال آخرون: لـم يَسْمُلِ النبـيّ صلى الله عليه وسلم أعين العرنـيـين،
+  ولكنه كان أراد أن يسمُل، فأنزل الله جلّ وعزّ هذه الآية علـى نبـيه يعرّفه الـحكم
+  فـيهم ونهاه عن سمل أعينهم. ذكر القائلـين ما وصفنا:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  علـيّ بن سهل، قال: ثنا الولـيد بن مسلـم، قال: ذاكرت اللـيث بن سعد ما كان من سمل
+  رسول الله صلى الله عليه وسلم أعينهم وتركه حَسْمهم حتـى ماتوا، فقال: سمعت مـحمد بن
+  عجلان يقول: أنزلت هذه الآية علـى رسول الله صلى الله عليه وسلم معاتبة فـي ذلك، وعَلـمه
+  عقوبة مثلهم من القطع والقتل والنفـي، ولـم يسمُل بعدهم غيرهم. قال: وكان هذا القول
+  ذُكِر لأبـي عمرو، فأنكر أن تكون نزلت معاتبة، وقال: بلـى كانت عقوبة أولئك النفر بأعيانهم،
+  ثم نزلت هذه الآية فـي عقوبة غيرهم مـمن حارب بعدهم فرفع عنهم السَّمْل.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي مـحمد بن الـحسين، قال: ثنـي أحمد بن مفضل، قال: ثنا أسبـاط،
+  عن السديّ، قال: فبعث رسول الله صلى الله عليه وسلم، فأُتـي بهم يعنـي العُرنـيـين
+  فأراد أن يسمُل أعينهم، فنهاه الله عن ذلك، وأمره أن يقـيـم فـيهم الـحدود كما أنزلها
+  الله علـيه.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">واختلف أهل العلـم فـي الـمستـحقّ
+  اسم الـمـحارب لله ورسوله الذي يـلزمه حكم هذه، فقال بعضهم: هو اللصّ الذي يقطع الطريق.
+  ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا الـحسن بن يحيى، قال: أخبرنا
+  عبد الرزاق، قال: أخبرنا معمر، عن قتادة، و عطاء الـخراسانـي فـي قوله: { إنَّـما جَزَاءُ
+  الَّذِينَ يُحارِبُونَ اللّهَ وَرَسُولَهُ وَيَسْعَوْنَ فِـي الأرْضِ فَساداً }...
+  الآية، قالا: هذا هو اللصّ الذي يقطع الطريق، فهو مـحارب.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  آخرون: هو اللصّ الـمـجاهر بلصوصيته، الـمكابر فـي الـمصر وغيره. ومـمن قال ذلك الأوزاعي.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا بذلك العبـاس عن أبـيه عنه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وعن
+  مالك واللـيث بن سعد وابن لهَيعة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  علـيّ بن سهل، قال: ثنا الولـيد بن مسلـم، قال: قلت لـمالك بن أنس: تكون مـحاربة فـي
+  الـمصر؟ قال: نعم، والـمـحارب عندنا من حمل السلاح علـى الـمسلـمين فـي مصر أو خلاء،
+  فكان ذلك منه علـى غير نائرة كانت بـينهم ولا ذَحْل ولا عداوة، قاطعاً للسبـيـل والطريق
+  والديار، مخيفـاً لهم بسلاحه، فقتْل أحداً منهم قتله الإمام كقتله الـمـحارب لـيس لولـيّ
+  الـمقتول فـيه عفو ولا قَوَد.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  علـيّ، قال: ثنا الولـيد، قال: سألت عن ذلك اللـيث بن سعد وابن لهيعة، قلت: تكون الـمـحاربة
+  فـي دور الـمصر والـمدائن والقرى؟ فقالا: نعم، إذا هم دخـلوا علـيهم بـالسيوف علانـية،
+  أو لـيلاً بـالنـيران.</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">5 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,8,1)\"><u>8</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,9,1)\"><u>9</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(1,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(5,
+  33)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(5,33)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">إِنَّمَا جَزَآءُ ٱلَّذِينَ يُحَارِبُونَ ٱللَّهَ
+  وَرَسُولَهُ وَيَسْعَوْنَ فِي ٱلأَرْضِ فَسَاداً أَن يُقَتَّلُوۤاْ أَوْ يُصَلَّبُوۤاْ
   أَوْ تُقَطَّعَ أَيْدِيهِمْ وَأَرْجُلُهُم مِّنْ خِلافٍ أَوْ يُنفَوْاْ مِنَ ٱلأَرْضِ
-  ذٰلِكَ لَهُمْ خِزْيٌ فِي ٱلدُّنْيَا وَلَهُمْ فِي ٱلآخِرَةِ عَذَابٌ عَظِيمٌ }قلت:
-  فقتلوا أو أخذوا الـمال ولـم يقتلوا؟ فقال: نعم هم الـمـحاربون، فإن قَتَلوا قتُلوا،
-  وإن لـم يقتلوا وأخذوا الـمال قُطعوا من خلاف إذا هم خرجوا به من الدار، لـيس من حارب
-  الـمسلـمين فـي الـخلاء والسبـيـل بأعظم من مـحاربة من حاربهم فـي حريـمهم ودُورهم.حدثنـي
-  علـيّ، قال: ثنا الولـيد، قال: قال أبو عمرو: وتكون الـمـحاربة فـي الـمصر شُهِر علـى
-  أهله بسلاحه لـيلاً أو نهاراً. قال علـيّ: قال الولـيد: وأخبرنـي مالك أن قتل الغيـلة
-  عنده بـمنزلة الـمـحاربة. قلت: وما قتل الغِيـلة؟ قال: هو الرجل يخدع الرجل والصبـيّ،
-  فـيدخـله بـيتاً أو يخـلوا به فـيقتله ويأخذ ماله، فـالإمام ولـي قتل هذا، ولـيس لولـيّ
-  الدم والـجرح قَوَد ولا قصاص.وهو قول الشافعي. حدثنا بذلك عنه الربـيع.وقال آخرون:
-  الـمـحارب: هو قاطع الطريق فأما الـمكابر فـي الأمصار فلـيس بـالـمـحارب الذي له حكم
-  الـمـحاربـين. ومن قال ذلك أبو حنـيفة وأصحابه.حدثنا القاسم، قال: ثنا الـحسين، قال:
-  ثنا بشر بن الـمفضل، عن داود بن أبـي هند، قال: تذاكرنا الـمـحارب ونـحن عند ابن هبـيرة
-  فـي ناس من أهل البصرة، فـاجتـمع رأيهم أن الـمـحارب ما كان خارجاً من الـمصر. وقال
-  مـجاهد بـما:حدثنـي القاسم، قال:ثنا الـحسين، قال: ثنا حجاج، عن ابن جريج، عن مـجاهد
-  فـي قوله: { إنَّـمَا جَزَاءُ الَّذِينَ يُحارِبُونَ اللّهَ وَرَسُولَهُ وَيَسْعَوْنَ
-  فِـي الأرْضِ فَساداً قال: الزنا والسرقة، وقتل الناس، وإهلاك الـحرث والنسل.حدثنا
+  ذٰلِكَ لَهُمْ خِزْيٌ فِي ٱلدُّنْيَا وَلَهُمْ فِي ٱلآخِرَةِ عَذَابٌ عَظِيمٌ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">قلت: فقتلوا أو أخذوا الـمال ولـم يقتلوا؟ فقال: نعم هم الـمـحاربون،
+  فإن قَتَلوا قتُلوا، وإن لـم يقتلوا وأخذوا الـمال قُطعوا من خلاف إذا هم خرجوا به
+  من الدار، لـيس من حارب الـمسلـمين فـي الـخلاء والسبـيـل بأعظم من مـحاربة من حاربهم
+  فـي حريـمهم ودُورهم.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي علـيّ، قال: ثنا الولـيد،
+  قال: قال أبو عمرو: وتكون الـمـحاربة فـي الـمصر شُهِر علـى أهله بسلاحه لـيلاً أو
+  نهاراً. قال علـيّ: قال الولـيد: وأخبرنـي مالك أن قتل الغيـلة عنده بـمنزلة الـمـحاربة.
+  قلت: وما قتل الغِيـلة؟ قال: هو الرجل يخدع الرجل والصبـيّ، فـيدخـله بـيتاً أو يخـلوا
+  به فـيقتله ويأخذ ماله، فـالإمام ولـي قتل هذا، ولـيس لولـيّ الدم والـجرح قَوَد ولا
+  قصاص.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وهو قول الشافعي. حدثنا بذلك عنه
+  الربـيع.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال آخرون: الـمـحارب: هو قاطع
+  الطريق فأما الـمكابر فـي الأمصار فلـيس بـالـمـحارب الذي له حكم الـمـحاربـين. ومن
+  قال ذلك أبو حنـيفة وأصحابه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  القاسم، قال: ثنا الـحسين، قال: ثنا بشر بن الـمفضل، عن داود بن أبـي هند، قال: تذاكرنا
+  الـمـحارب ونـحن عند ابن هبـيرة فـي ناس من أهل البصرة، فـاجتـمع رأيهم أن الـمـحارب
+  ما كان خارجاً من الـمصر. وقال مـجاهد بـما:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  القاسم، قال:ثنا الـحسين، قال: ثنا حجاج، عن ابن جريج، عن مـجاهد فـي قوله: { إنَّـمَا
+  جَزَاءُ الَّذِينَ يُحارِبُونَ اللّهَ وَرَسُولَهُ وَيَسْعَوْنَ فِـي الأرْضِ فَساداً
+  قال: الزنا والسرقة، وقتل الناس، وإهلاك الـحرث والنسل.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
   ابن حميد، قال: ثنا حكام، عن عنبسة، عن مـحمد بن عبد الرحمن، عن القاسم بن أبـي بَزَّة،
   عن مـجاهد: { وَيَسْعَوْنَ فِـي الأرْضِ فَساداً } قال: الفساد: القتل، والزنا، والسرقة.
   وأولـى هذه الأقوال عندي بـالصواب، قول من قال: الـمـحارب لله ورسوله من حارب فـي سابلة
-  الـمسلـمين وذمتهم، والـمغير علـيهم فـي أمصارهم وقراهم حَرَابة.وإنـما قلنا ذلك أولـى
-  الأقوال بـالصواب، لأنه لا خلاف بـين الـحجة أن من نصب حربـاَ للـمسلـمين علـى الظلـم
-  منه لهم أنه لهم مـحارب، ولا خلاف فـيه. فـالذي وصفنا صفته، لا شك فـيه أنه لهم مناصب
-  حربـاً ظلـماً. وإذ كان ذلك كذلك، فسواء كان نصبه الـحرب لهم فـي مصرهم وقراهم أو فـي
-  سبلهم وطرقهم فـي أنه لله ولرسوله مـحارب بحربه من نهاه الله ورسوله عن حربه.وأما قوله:
-  { وَيَسْعَوْنَ فِـي الأرْضِ فَساداً } فإنه يعنـي: ويعملون فـي أرض الله بـالـمعاصي
+  الـمسلـمين وذمتهم، والـمغير علـيهم فـي أمصارهم وقراهم حَرَابة.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وإنـما قلنا ذلك أولـى الأقوال بـالصواب، لأنه لا خلاف بـين الـحجة
+  أن من نصب حربـاَ للـمسلـمين علـى الظلـم منه لهم أنه لهم مـحارب، ولا خلاف فـيه. فـالذي
+  وصفنا صفته، لا شك فـيه أنه لهم مناصب حربـاً ظلـماً. وإذ كان ذلك كذلك، فسواء كان
+  نصبه الـحرب لهم فـي مصرهم وقراهم أو فـي سبلهم وطرقهم فـي أنه لله ولرسوله مـحارب
+  بحربه من نهاه الله ورسوله عن حربه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وأما
+  قوله: { وَيَسْعَوْنَ فِـي الأرْضِ فَساداً } فإنه يعنـي: ويعملون فـي أرض الله بـالـمعاصي
   من إخافة سبل عبـاده الـمؤمنـين به، أو سبل ذمتهم وقطع طرقهم، وأخذ أموالـم ظلـماً
-  وعدوانا، والتوثُّب علـى جرَمهم فجوراً وفسوقاً.القول فـي تأويـل قوله تعالـى: { أنْ
-  يُقَتَّلُوا أوْ يُصَلَّبوا أوْ تُقَطَّعَ أيْدِيهِمْ وأرْجُلُهُمْ مِنْ خلافٍ أوْ
-  يُنْفَوْا مِنَ الأرْضِ }.يقول تعالـى ذكره: ما للذي حارب الله ورسوله وسعى فـي الأرض
-  فساداً من أهل ملة الإسلام أو ذمتهم إلا بعض هذه الـخلال التـي ذكرها جلّ ثناؤه.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 9 10 \r\n\t\t\t\t\t\t\t\tمزيد</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ إِنَّمَا جَزَآءُ ٱلَّذِينَ يُحَارِبُونَ
-  ٱللَّهَ وَرَسُولَهُ وَيَسْعَوْنَ فِي ٱلأَرْضِ فَسَاداً أَن يُقَتَّلُوۤاْ أَوْ يُصَلَّبُوۤاْ
+  وعدوانا، والتوثُّب علـى جرَمهم فجوراً وفسوقاً.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">القول
+  فـي تأويـل قوله تعالـى: { أنْ يُقَتَّلُوا أوْ يُصَلَّبوا أوْ تُقَطَّعَ أيْدِيهِمْ
+  وأرْجُلُهُمْ مِنْ خلافٍ أوْ يُنْفَوْا مِنَ الأرْضِ }.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">يقول
+  تعالـى ذكره: ما للذي حارب الله ورسوله وسعى فـي الأرض فساداً من أهل ملة الإسلام أو
+  ذمتهم إلا بعض هذه الـخلال التـي ذكرها جلّ ثناؤه.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,7,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">6 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,8,1)\"><u>8</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,9,1)\"><u>9</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(1,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(5,
+  33)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(5,33)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">إِنَّمَا جَزَآءُ ٱلَّذِينَ يُحَارِبُونَ ٱللَّهَ
+  وَرَسُولَهُ وَيَسْعَوْنَ فِي ٱلأَرْضِ فَسَاداً أَن يُقَتَّلُوۤاْ أَوْ يُصَلَّبُوۤاْ
   أَوْ تُقَطَّعَ أَيْدِيهِمْ وَأَرْجُلُهُم مِّنْ خِلافٍ أَوْ يُنفَوْاْ مِنَ ٱلأَرْضِ
-  ذٰلِكَ لَهُمْ خِزْيٌ فِي ٱلدُّنْيَا وَلَهُمْ فِي ٱلآخِرَةِ عَذَابٌ عَظِيمٌ }ثم اختلف
-  أهل التأويـل فـي هذه الـخلال أتلزم الـمـحارب بـاستـحقاقه اسم الـمـحاربة، أم يـلزمه
-  ما لزمه من ذلك علـى قدر جُرْمه مختلفـاً بـاختلاف أجرامه؟ (فقال بعضهم: يـلزمه ما
-  لزمه من ذلك علـى قدر جرمه، مختلفـاً بـاختلاف أجرامه) ذكر من قال ذلك:حدثنـي مـحمد
-  بن سعد، قال: ثنـي أبـي، قال: ثنـي عمي، قال: ثنـي أبـي، عن أبـيه، عن ابن عبـاس، قوله:
-  { إنـما جَزَاءُ الَّذِينَ يُحارِبُونَ اللّهَ وَرَسُولَه }... إلـى قوله: { أوْ يُنْفَوْا
-  مِنَ الأرْضِ } قال: إذا حارب فقَتَل، فعلـيه القتل إذا ظُهِر علـيه قبل توبته. وإذا
-  حارب وأخذ الـمال وقَتَل، فعلـيه الصلب إن ظُهِر علـيه قبل توبته. وإذا حارب وأخذ ولـم
-  يقتُل، فعلـيه قطع الـيد والرجل من خلاف إن ظُهِر علـيه قبل توبته. وإذا حارب وأخاف
-  السبـيـل، فإنـما علـيه النفـي.حدثنا ابن وكيع وأبو السائب، قالا: ثنا ابن إدريس، عن
-  أبـيه، عن حماد، عن إبراهيـم: { إنَّـمَا جَزَاءُ الَّذِينَ يُحارِبُونَ اللّهَ وَرَسُولَهُ
-  } قال: إذا خرج فأخاف السبـيـل وأخذ الـمال، قطعت يده ورجله من خلاف. وإذا أخاف السبـيـل
-  ولـم يأخذ الـمال وقتل، صُلب.حدثنا ابن حميد، قال: ثنا جرير، عن مغيرة، عن حماد، عن
-  إبراهيـم فـيـما أُرى فـي الرجل يخرج مـحاربـاً، قال: إن قطع الطريق وأخذ الـمال قطعت
-  يده ورجله، وإن أخذ الـمال وقَتَل قُتِل، وإن أخذ الـمال وقتَل ومثَّل: صُلب.حدثنا
+  ذٰلِكَ لَهُمْ خِزْيٌ فِي ٱلدُّنْيَا وَلَهُمْ فِي ٱلآخِرَةِ عَذَابٌ عَظِيمٌ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">ثم اختلف أهل التأويـل فـي هذه الـخلال أتلزم الـمـحارب بـاستـحقاقه
+  اسم الـمـحاربة، أم يـلزمه ما لزمه من ذلك علـى قدر جُرْمه مختلفـاً بـاختلاف أجرامه؟
+  (فقال بعضهم: يـلزمه ما لزمه من ذلك علـى قدر جرمه، مختلفـاً بـاختلاف أجرامه) ذكر
+  من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي مـحمد بن سعد، قال: ثنـي
+  أبـي، قال: ثنـي عمي، قال: ثنـي أبـي، عن أبـيه، عن ابن عبـاس، قوله: { إنـما جَزَاءُ
+  الَّذِينَ يُحارِبُونَ اللّهَ وَرَسُولَه }... إلـى قوله: { أوْ يُنْفَوْا مِنَ الأرْضِ
+  } قال: إذا حارب فقَتَل، فعلـيه القتل إذا ظُهِر علـيه قبل توبته. وإذا حارب وأخذ الـمال
+  وقَتَل، فعلـيه الصلب إن ظُهِر علـيه قبل توبته. وإذا حارب وأخذ ولـم يقتُل، فعلـيه
+  قطع الـيد والرجل من خلاف إن ظُهِر علـيه قبل توبته. وإذا حارب وأخاف السبـيـل، فإنـما
+  علـيه النفـي.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن وكيع وأبو السائب، قالا:
+  ثنا ابن إدريس، عن أبـيه، عن حماد، عن إبراهيـم: { إنَّـمَا جَزَاءُ الَّذِينَ يُحارِبُونَ
+  اللّهَ وَرَسُولَهُ } قال: إذا خرج فأخاف السبـيـل وأخذ الـمال، قطعت يده ورجله من
+  خلاف. وإذا أخاف السبـيـل ولـم يأخذ الـمال وقتل، صُلب.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن حميد، قال: ثنا جرير، عن مغيرة، عن حماد، عن إبراهيـم فـيـما أُرى فـي الرجل يخرج
+  مـحاربـاً، قال: إن قطع الطريق وأخذ الـمال قطعت يده ورجله، وإن أخذ الـمال وقَتَل
+  قُتِل، وإن أخذ الـمال وقتَل ومثَّل: صُلب.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
   ابن وكيع، قال: ثنا أبـي، عن عمران بن حدير، عن أبـي مـجلز: { إنَّـمَا جَزَاءُ الَّذِينَ
   يُحارِبُونَ اللّهَ وَرَسُولَهُ }... الآية. قال: إذا قتل وأخذ الـمال وأخاف السبـيـل
   صُلب، وإذا قتَل لـم يعدُ ذلك قُتل، وإذا أخذ الـمال لـم يعد ذلك قُطع، وإذا كان يفسد
-  نُفـي.حدثنـي الـمثنى، قال ثنا الـحمانـي، قال ثنا شريك، عن سماك، عن الـحسن: { إنَّـمَا
-  جَزَاءُ الَّذِينَ يُحارِبُونَ اللّهَ وَرَسُولَهُ }... إلـى قوله: { أوْ يُنْفَوْا
-  مِنَ الأرْضِ } قال: إذا أخاف الطريق ولـم يقتل ولـم يأخذ الـمالَ نُفـي.حدثنا الـمثنى،
-  قال: ثنا عمرو بن عون، قال: أخبرنا هشيـم، عن حصين، قال: كان يقال: من حارب فأخاف السبـيـل
-  وأخذ الـمال ولـم يقتل: قُطعت يده ورجله من خلاف. وإذا أخذ الـمال وقتَل: صُلب.حدثنا
-  بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، أنه كان يقول فـي قوله: { إنَّـمَا جَزَاءُ
-  الَّذِينَ يحارِبُونَ اللّهَ وَرَسُولَهُ }... إلـى قوله: { أوْ يُنْفَوْا مِنَ الأرْضِ
-  حدود أربعة أنزلها الله. فأما من أصاب الدم والـمال جميعاً: صُلب وأما من أصاب الدم
-  وكفّ عن الـمال: قُتل ومن أصاب الـمال وكفّ عن الدم: قُطِع ومن لـم يصب شيئاً من هذا:
-  نُفـي.حدثنا مـحمد بن الـحسين، قال: ثنا أحمد بن مفضل، قال: ثنا أسبـاط، عن السديّ.
-  قال: نهى الله نبـيه علـيه الصلاة والسلام عن أن يَسْمُل أعين العرنـيـين الذين أغاروا
-  علـى لِقاحه، وأمره أن يقـيـم فـيهم الـحدود كما أنزلها الله علـيه.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 9 10 \r\n\t\t\t\t\t\t\t\tمزيد</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ إِنَّمَا جَزَآءُ ٱلَّذِينَ يُحَارِبُونَ
-  ٱللَّهَ وَرَسُولَهُ وَيَسْعَوْنَ فِي ٱلأَرْضِ فَسَاداً أَن يُقَتَّلُوۤاْ أَوْ يُصَلَّبُوۤاْ
+  نُفـي.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي الـمثنى، قال ثنا الـحمانـي،
+  قال ثنا شريك، عن سماك، عن الـحسن: { إنَّـمَا جَزَاءُ الَّذِينَ يُحارِبُونَ اللّهَ
+  وَرَسُولَهُ }... إلـى قوله: { أوْ يُنْفَوْا مِنَ الأرْضِ } قال: إذا أخاف الطريق
+  ولـم يقتل ولـم يأخذ الـمالَ نُفـي.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  الـمثنى، قال: ثنا عمرو بن عون، قال: أخبرنا هشيـم، عن حصين، قال: كان يقال: من حارب
+  فأخاف السبـيـل وأخذ الـمال ولـم يقتل: قُطعت يده ورجله من خلاف. وإذا أخذ الـمال وقتَل:
+  صُلب.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا بشر، قال: ثنا يزيد، قال:
+  ثنا سعيد، عن قتادة، أنه كان يقول فـي قوله: { إنَّـمَا جَزَاءُ الَّذِينَ يحارِبُونَ
+  اللّهَ وَرَسُولَهُ }... إلـى قوله: { أوْ يُنْفَوْا مِنَ الأرْضِ حدود أربعة أنزلها
+  الله. فأما من أصاب الدم والـمال جميعاً: صُلب وأما من أصاب الدم وكفّ عن الـمال: قُتل
+  ومن أصاب الـمال وكفّ عن الدم: قُطِع ومن لـم يصب شيئاً من هذا: نُفـي.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا مـحمد بن الـحسين، قال: ثنا أحمد بن مفضل، قال: ثنا أسبـاط،
+  عن السديّ. قال: نهى الله نبـيه علـيه الصلاة والسلام عن أن يَسْمُل أعين العرنـيـين
+  الذين أغاروا علـى لِقاحه، وأمره أن يقـيـم فـيهم الـحدود كما أنزلها الله علـيه.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,8,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">7 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,8,1)\"><u>8</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,9,1)\"><u>9</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(1,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(5,
+  33)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(5,33)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">إِنَّمَا جَزَآءُ ٱلَّذِينَ يُحَارِبُونَ ٱللَّهَ
+  وَرَسُولَهُ وَيَسْعَوْنَ فِي ٱلأَرْضِ فَسَاداً أَن يُقَتَّلُوۤاْ أَوْ يُصَلَّبُوۤاْ
   أَوْ تُقَطَّعَ أَيْدِيهِمْ وَأَرْجُلُهُم مِّنْ خِلافٍ أَوْ يُنفَوْاْ مِنَ ٱلأَرْضِ
-  ذٰلِكَ لَهُمْ خِزْيٌ فِي ٱلدُّنْيَا وَلَهُمْ فِي ٱلآخِرَةِ عَذَابٌ عَظِيمٌ }فنظر
-  إلـى من أخذ الـمال ولـم يقتل فقطع يده ورجله من خلاف، يده الـيـمنى ورجله الـيسرى.
-  ونظر إلـى من قتل ولـم يأخذ مالاً فقتله. ونظر إلـى من أخذ الـمال وقَتل فصلبه. وكذلك
-  ينبغي لكلّ من أخاف طريق الـمسلـمين وقطع أن يصنع به إن أُخِذ وقد أخذ مالاً قطعت يده
-  بأخذه الـمال ورجله بإخافة الطريق، وإن قتل ولـم يأخذ مالاً قتل، وإن قتل وأخذ الـمال:
-  صُلب.حدثنـي الـحرث، قال: ثنا عبد العزيز، قال: ثنا فضيـل بن مرزوق، قال سمعت السديّ
-  يسأل عطية العوفـي، عن رجل مـحارب خرج، فأخذ ولـم يصب مالاً ولـم يُهْرِق دماً. قال:
-  النفـي بـالسيف وإن أخذ مالاً فـيده بـالـمال ورجله بـما أخاف الـمسلـمين وإن هو قَتَل
-  ولـم يأخذ مالاً: قُتِل وإن هو قتل وأخذ الـمال: صُلِب. وأكبر ظنـي أنه قال: تُقطع
-  يده ورجله.حدثنا الـحسن بن يحيى، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر، عن عطاء
-  الـخراسانـي وقتادة فـي قوله: { إنَّـمَا جَزَاءُ الَّذِينَ يُحارِبُونَ اللّهَ وَرَسُولَهُ
-  }... الآية، قال: هذا اللصّ الذي يقطع الطريق، فهو مـحارب. فإن قَتل وأخذ مالاً: صُلِب
-  وإن قتل، ولـم يأخذ مالاً: قُتل وإن أخذ مالاً ولـم يَقتل: قُطِعت يده ورجله وإن أُخِذ
-  قبل أن يفعل شيئاً من ذلك: نُفـي.حدثنـي الـمثنى، قال: ثنا أبو حذيفة، قال: ثنا شبل،
-  عن قـيس بن سعد، عن سعيد بن جبـير، قال: من خرج فـي الإسلام مـحاربـاً لله ورسوله فقَتل
-  وأصاب مالاً، فإنه يُقْتل ويُصلب ومن قَتل ولـم يُصب مالاً، فإنه يقْتل كما قَتَل ومن
-  أصاب مالاً ولـم يقْتُل، فإنه يقطع من خلاف وإن أخاف سبـيـل الـمسلـمين نُفـي من بلده
-  إلـى غيره، لقول الله جلّ وعزّ: { أوْ يُنْفَوْا مِنَ الأرْضِ }.حدثنـي الـمثنى، قال:
-  ثنا إسحاق، قال: ثنا عبد الله بن أبـي جعفر، عن أبـيه، عن الربـيع فـي قوله: { إنَّـمَا
-  جَزَاءُ الَّذِينَ يُحارِبُونَ اللّهَ وَرَسُلولَهُ } قال: كان ناس يسعون فـي الأرض
-  فساداً وقتلوا وقطعوا السبـيـل، فصَلَب أولئك. وكان آخرون حاربوا واستـحلّوا الـمال
-  ولـم يَعْدُوا ذلك، فقُطِعت أيديهم وأرجلهم. وآخرون حاربوا واعتزلوا ولـم يَعْدُوا
-  ذلك، فأولئك أُخرِجوا من الأرض.حدثنا هناد، قال: ثنا أبو أسامة، عن أبـي هلال، قال:
-  ثنا قتادة، عن مورِّق العجلـي فـي الـمـحارب، قال: إن كان خرج فقتَل وأخذ الـمَال:
-  صُلب وإن قتَل ولـم يأخذ الـمال: قُتِل وإن كان أخذ الـمال ولـم يقتُل: قُطِع وإن كان
-  خرج مشاقًّا للـمسلـمين: نُفـي.حدثنا هناد، قال: ثنا أبو معاوية، عن حجاج، عن عطية
-  العوفـي، عن ابن عبـاس، قال: إذا خرج الـمـحارب وأخاف الطريق وأخذ الـمال: قُطِعت يده
-  ورجله من خلاف فإن هو خرج فقتل وأخذ الـمال: قُطِعت يده ورجله من خلاف ثم صُلب وإن
-  خرج فقَتل ولـم يأخذ الـمال: قُتل وإن أخاف السبـيـل ولـم يقتُل ولـم يأخذ الـمال:
-  نُفـي.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 9 10 \r\n\t\t\t\t\t\t\t\tمزيد</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ إِنَّمَا جَزَآءُ ٱلَّذِينَ يُحَارِبُونَ
-  ٱللَّهَ وَرَسُولَهُ وَيَسْعَوْنَ فِي ٱلأَرْضِ فَسَاداً أَن يُقَتَّلُوۤاْ أَوْ يُصَلَّبُوۤاْ
+  ذٰلِكَ لَهُمْ خِزْيٌ فِي ٱلدُّنْيَا وَلَهُمْ فِي ٱلآخِرَةِ عَذَابٌ عَظِيمٌ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">فنظر إلـى من أخذ الـمال ولـم يقتل فقطع يده ورجله من خلاف، يده الـيـمنى
+  ورجله الـيسرى. ونظر إلـى من قتل ولـم يأخذ مالاً فقتله. ونظر إلـى من أخذ الـمال وقَتل
+  فصلبه. وكذلك ينبغي لكلّ من أخاف طريق الـمسلـمين وقطع أن يصنع به إن أُخِذ وقد أخذ
+  مالاً قطعت يده بأخذه الـمال ورجله بإخافة الطريق، وإن قتل ولـم يأخذ مالاً قتل، وإن
+  قتل وأخذ الـمال: صُلب.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي الـحرث، قال: ثنا عبد العزيز،
+  قال: ثنا فضيـل بن مرزوق، قال سمعت السديّ يسأل عطية العوفـي، عن رجل مـحارب خرج، فأخذ
+  ولـم يصب مالاً ولـم يُهْرِق دماً. قال: النفـي بـالسيف وإن أخذ مالاً فـيده بـالـمال
+  ورجله بـما أخاف الـمسلـمين وإن هو قَتَل ولـم يأخذ مالاً: قُتِل وإن هو قتل وأخذ الـمال:
+  صُلِب. وأكبر ظنـي أنه قال: تُقطع يده ورجله.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  الـحسن بن يحيى، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر، عن عطاء الـخراسانـي وقتادة
+  فـي قوله: { إنَّـمَا جَزَاءُ الَّذِينَ يُحارِبُونَ اللّهَ وَرَسُولَهُ }... الآية،
+  قال: هذا اللصّ الذي يقطع الطريق، فهو مـحارب. فإن قَتل وأخذ مالاً: صُلِب وإن قتل،
+  ولـم يأخذ مالاً: قُتل وإن أخذ مالاً ولـم يَقتل: قُطِعت يده ورجله وإن أُخِذ قبل أن
+  يفعل شيئاً من ذلك: نُفـي.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي الـمثنى، قال: ثنا أبو حذيفة،
+  قال: ثنا شبل، عن قـيس بن سعد، عن سعيد بن جبـير، قال: من خرج فـي الإسلام مـحاربـاً
+  لله ورسوله فقَتل وأصاب مالاً، فإنه يُقْتل ويُصلب ومن قَتل ولـم يُصب مالاً، فإنه
+  يقْتل كما قَتَل ومن أصاب مالاً ولـم يقْتُل، فإنه يقطع من خلاف وإن أخاف سبـيـل الـمسلـمين
+  نُفـي من بلده إلـى غيره، لقول الله جلّ وعزّ: { أوْ يُنْفَوْا مِنَ الأرْضِ }.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي الـمثنى، قال: ثنا إسحاق، قال: ثنا عبد الله بن أبـي جعفر،
+  عن أبـيه، عن الربـيع فـي قوله: { إنَّـمَا جَزَاءُ الَّذِينَ يُحارِبُونَ اللّهَ وَرَسُلولَهُ
+  } قال: كان ناس يسعون فـي الأرض فساداً وقتلوا وقطعوا السبـيـل، فصَلَب أولئك. وكان
+  آخرون حاربوا واستـحلّوا الـمال ولـم يَعْدُوا ذلك، فقُطِعت أيديهم وأرجلهم. وآخرون
+  حاربوا واعتزلوا ولـم يَعْدُوا ذلك، فأولئك أُخرِجوا من الأرض.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا هناد، قال: ثنا أبو أسامة، عن أبـي هلال، قال: ثنا قتادة، عن
+  مورِّق العجلـي فـي الـمـحارب، قال: إن كان خرج فقتَل وأخذ الـمَال: صُلب وإن قتَل
+  ولـم يأخذ الـمال: قُتِل وإن كان أخذ الـمال ولـم يقتُل: قُطِع وإن كان خرج مشاقًّا
+  للـمسلـمين: نُفـي.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا هناد، قال: ثنا أبو معاوية،
+  عن حجاج، عن عطية العوفـي، عن ابن عبـاس، قال: إذا خرج الـمـحارب وأخاف الطريق وأخذ
+  الـمال: قُطِعت يده ورجله من خلاف فإن هو خرج فقتل وأخذ الـمال: قُطِعت يده ورجله من
+  خلاف ثم صُلب وإن خرج فقَتل ولـم يأخذ الـمال: قُتل وإن أخاف السبـيـل ولـم يقتُل ولـم
+  يأخذ الـمال: نُفـي.</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,7,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,9,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">8 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,9,1)\"><u>9</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(1,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(5,
+  33)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(5,33)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">إِنَّمَا جَزَآءُ ٱلَّذِينَ يُحَارِبُونَ ٱللَّهَ
+  وَرَسُولَهُ وَيَسْعَوْنَ فِي ٱلأَرْضِ فَسَاداً أَن يُقَتَّلُوۤاْ أَوْ يُصَلَّبُوۤاْ
   أَوْ تُقَطَّعَ أَيْدِيهِمْ وَأَرْجُلُهُم مِّنْ خِلافٍ أَوْ يُنفَوْاْ مِنَ ٱلأَرْضِ
-  ذٰلِكَ لَهُمْ خِزْيٌ فِي ٱلدُّنْيَا وَلَهُمْ فِي ٱلآخِرَةِ عَذَابٌ عَظِيمٌ }حدثنا
-  ابن البرقـي، قال: ثنا ابن أبـي مريـم، قال: أخبرنا نافع بن يزيد، قال: ثنـي أبو صخر،
-  عن مـحمد بن كعب القرظي وعن أبـي معاوية، عن سعيد بن جبـير فـي هذه الآية: { إنَّـمَا
-  جَزَاءُ الَّذِينَ يُحارِبونَ اللّهَ وَرَسُولَهُ وَيَسْعُوْنَ فِـي الأرْضِ فَساداً
-  } قالا: إن أخاف الـمسلـمين، فـاقتطع الـمال، ولـم يسفك: قُطِع وإذا سفك دماً: قُتِل
-  وصُلِب وإن جمعهما فـاقتطع مالاً وسفك دماً: قُطِع ثم قُتِل ثم صلُب. كأنَّ الصلب مُثْله،
-  وكأنَّ القطع { السَّارِقُ وَالسَّارِقَةُ فـاقْطَعُوا أيْدَيهُما } ، وكان القتل.
-  النفس بـالنفس. وإن امتنع فإن من الـحقّ علـى الإمام وعلـى الـمسلـمين أن يطلبوه حتـى
-  يأخذوه فـيقـيـموا علـيه حكم كتاب الله، أو يُنْفَوْا من الأرض من أرض الإسلام إلـى
-  أرض الكفر.واعتلّ قائلوا هذه الـمقالة لقولهم هذا، بأن قالوا: إن الله أوجب علـى القاتل
-  القود، وعلـى السارق القطع وقالوا: قال النبـيّ صلى الله عليه وسلم: \" لاَ يَحلُّ
-  دَمُ امْرِىءٍ مُسْلِـمِ إلاَّ بإحْدَى ثَلاثِ خِلالٍ: رَجُلٍ قَتَلَ فَقُتلَ، وَرَجُلٍ
-  زَنى بَعْدَ إحْصَانٍ فَرُجمَ، وَرَجُلٍ كَفَرَ بَعْدَ إسْلامهِ \" قالوا: فحظر النبـيّ
-  صلى الله عليه وسلم قتل رجل مسلـم إلا بإحدى هذه الـخلال الثلاث، فإما أن يقتل من أجل
-  إخافته السبـيـل من غير أن يقتل أو يأخذ مالاً، فذلك تقدُّمٌ علـى الله ورسوله بـالـخلاف
-  علـيهما فـي الـحكم. قالوا: ومعنى قول من قال: الإمام فـيه بـالـخيار إذا قَتَل وأخاف
-  السبـيـل وأخذ الـمال فهنالك خيار الإمام فـي قولهم بـين القتل أو القتل والصلب، أو
-  قطع الـيد والرجل من خلاف. وأما صلبه بـاسم الـمـحاربة من غير أن يفعل شيئاً من قتل
-  أو أخذ مال، فذلك ما لـم يقله عالـم.وقال آخرون: الإمام فـيه بـالـخيار أن يفعل أيّ
-  هذه الأشياء التـي ذكرها الله فـي كتابه. ذكر من قال ذلك:حدثنـي يعقوب، قال: ثنا هشيـم،
-  قال: أخبرنا جويبر، عن عطاء، وعن القاسم بن أبـي بزّة، عن مـجاهد فـي الـمـحارب: أن
-  الإمام مخير فـيه أيّ ذلك شاء فعل.حدثنـي يعقوب بن إبراهيـم، قال: ثنا هشيـم، عن عبـيدة،
-  عن إبراهيـم: الإمام مخير فـي الـمـحارب، أيّ ذلك شاء فعل: إن شاء قتل، وإن شاء قطع،
-  وإن شاء نفـي، وإن شاء صلب.حدثنا ابن حميد، قال: ثنا جرير، عن عاصم، عن الـحسن فـي
-  قوله: { إنَّـما جَزَاءُ الَّذِينَ يُحارِبون اللَّهَ وَرَسُولَهُ }... إلـى قوله:
-  { أوْ يُنْفَوْا مِنَ الأرْضِ } قال: يأخذ الإمام بأيهما أحبّ.حدثنا سفـيان، قال: ثنا
-  أبـي، عن سفـيان، عن عاصم، عن الـحسن: { إنَّـمَا جَزَاءُ الَّذِينَ يُحارِبونَ اللَّهَ
-  وَرَسُولَهُ } قال: الإمام مخير فـيها.حدثنا ابن وكيع، قال: ثنا أبـي، عن سفـيان، عن
-  ابن جريج، عن عطاء، مثله.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 9 10 \r\n\t\t\t\t\t\t\t\tمزيد</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ إِنَّمَا جَزَآءُ ٱلَّذِينَ يُحَارِبُونَ
-  ٱللَّهَ وَرَسُولَهُ وَيَسْعَوْنَ فِي ٱلأَرْضِ فَسَاداً أَن يُقَتَّلُوۤاْ أَوْ يُصَلَّبُوۤاْ
+  ذٰلِكَ لَهُمْ خِزْيٌ فِي ٱلدُّنْيَا وَلَهُمْ فِي ٱلآخِرَةِ عَذَابٌ عَظِيمٌ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن البرقـي، قال: ثنا ابن أبـي مريـم، قال: أخبرنا نافع بن
+  يزيد، قال: ثنـي أبو صخر، عن مـحمد بن كعب القرظي وعن أبـي معاوية، عن سعيد بن جبـير
+  فـي هذه الآية: { إنَّـمَا جَزَاءُ الَّذِينَ يُحارِبونَ اللّهَ وَرَسُولَهُ وَيَسْعُوْنَ
+  فِـي الأرْضِ فَساداً } قالا: إن أخاف الـمسلـمين، فـاقتطع الـمال، ولـم يسفك: قُطِع
+  وإذا سفك دماً: قُتِل وصُلِب وإن جمعهما فـاقتطع مالاً وسفك دماً: قُطِع ثم قُتِل ثم
+  صلُب. كأنَّ الصلب مُثْله، وكأنَّ القطع { السَّارِقُ وَالسَّارِقَةُ فـاقْطَعُوا أيْدَيهُما
+  } ، وكان القتل. النفس بـالنفس. وإن امتنع فإن من الـحقّ علـى الإمام وعلـى الـمسلـمين
+  أن يطلبوه حتـى يأخذوه فـيقـيـموا علـيه حكم كتاب الله، أو يُنْفَوْا من الأرض من أرض
+  الإسلام إلـى أرض الكفر.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">واعتلّ قائلوا هذه الـمقالة لقولهم
+  هذا، بأن قالوا: إن الله أوجب علـى القاتل القود، وعلـى السارق القطع وقالوا: قال النبـيّ
+  صلى الله عليه وسلم:</font></font><b><font class=\"TextResultArabic\"><font color=\"Red\">
+  \" لاَ يَحلُّ دَمُ امْرِىءٍ مُسْلِـمِ إلاَّ بإحْدَى ثَلاثِ خِلالٍ: رَجُلٍ قَتَلَ
+  فَقُتلَ، وَرَجُلٍ زَنى بَعْدَ إحْصَانٍ فَرُجمَ، وَرَجُلٍ كَفَرَ بَعْدَ إسْلامهِ
+  \" </font></font></b><font class=\"TextResultArabic\"><font color=\"black\">قالوا:
+  فحظر النبـيّ صلى الله عليه وسلم قتل رجل مسلـم إلا بإحدى هذه الـخلال الثلاث، فإما
+  أن يقتل من أجل إخافته السبـيـل من غير أن يقتل أو يأخذ مالاً، فذلك تقدُّمٌ علـى الله
+  ورسوله بـالـخلاف علـيهما فـي الـحكم. قالوا: ومعنى قول من قال: الإمام فـيه بـالـخيار
+  إذا قَتَل وأخاف السبـيـل وأخذ الـمال فهنالك خيار الإمام فـي قولهم بـين القتل أو
+  القتل والصلب، أو قطع الـيد والرجل من خلاف. وأما صلبه بـاسم الـمـحاربة من غير أن
+  يفعل شيئاً من قتل أو أخذ مال، فذلك ما لـم يقله عالـم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  آخرون: الإمام فـيه بـالـخيار أن يفعل أيّ هذه الأشياء التـي ذكرها الله فـي كتابه.
+  ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي يعقوب، قال: ثنا هشيـم، قال:
+  أخبرنا جويبر، عن عطاء، وعن القاسم بن أبـي بزّة، عن مـجاهد فـي الـمـحارب: أن الإمام
+  مخير فـيه أيّ ذلك شاء فعل.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي يعقوب بن إبراهيـم، قال:
+  ثنا هشيـم، عن عبـيدة، عن إبراهيـم: الإمام مخير فـي الـمـحارب، أيّ ذلك شاء فعل: إن
+  شاء قتل، وإن شاء قطع، وإن شاء نفـي، وإن شاء صلب.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن حميد، قال: ثنا جرير، عن عاصم، عن الـحسن فـي قوله: { إنَّـما جَزَاءُ الَّذِينَ
+  يُحارِبون اللَّهَ وَرَسُولَهُ }... إلـى قوله: { أوْ يُنْفَوْا مِنَ الأرْضِ } قال:
+  يأخذ الإمام بأيهما أحبّ.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا سفـيان، قال: ثنا أبـي، عن
+  سفـيان، عن عاصم، عن الـحسن: { إنَّـمَا جَزَاءُ الَّذِينَ يُحارِبونَ اللَّهَ وَرَسُولَهُ
+  } قال: الإمام مخير فـيها.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن وكيع، قال: ثنا أبـي،
+  عن سفـيان، عن ابن جريج، عن عطاء، مثله.</font></font>&#13;\t\t\t<label disabled=\"true\"
+  class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,8,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,10,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,8,1)\"><u>8</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">9 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(1,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(5,
+  33)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(5,33)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">إِنَّمَا جَزَآءُ ٱلَّذِينَ يُحَارِبُونَ ٱللَّهَ
+  وَرَسُولَهُ وَيَسْعَوْنَ فِي ٱلأَرْضِ فَسَاداً أَن يُقَتَّلُوۤاْ أَوْ يُصَلَّبُوۤاْ
   أَوْ تُقَطَّعَ أَيْدِيهِمْ وَأَرْجُلُهُم مِّنْ خِلافٍ أَوْ يُنفَوْاْ مِنَ ٱلأَرْضِ
-  ذٰلِكَ لَهُمْ خِزْيٌ فِي ٱلدُّنْيَا وَلَهُمْ فِي ٱلآخِرَةِ عَذَابٌ عَظِيمٌ }حدثنـي
-  الـمثنى، قال: ثنا أبو حذيفة، قال: ثنا شبل، عن قـيس بن سعد، قال: قال عطاء: يصنع الإمام
-  فـي ذلك ما شاء: إن شاء قتل، أو قطع، أو نفـي، لقول الله: { أنْ يُقَتَّلُوا أوْ يُصَلَّبُوا
-  أوْ تُقَطَّعَ أيْدِيهِمْ وأرْجُلُهُمْ مِنْ خِلافٍ، أوْ يُنْفَوْا مِنَ الأرْضِ }
-  فذلك إلـى الإمام الـحاكم يصنع فـيه ما شاء.حدثنـي الـمثنى، قال: ثنا عبد الله، قال:
-  ثنـي معاوية، عن علـيّ، عن ابن عبـاس، قوله: { إنَّـمَا جَزَاءُ الَّذِينَ يُحارِبونَ
-  اللَّهَ وَرَسُولَهُ }... الآية، قال: من شهر السلاح فـي فئة الإسلام، وأخاف السبـيـل،
-  ثم ظُفِر به وقُدِر علـيه، فإمام الـمسلـمين فـيه بـالـخيار، إن شاء قتله وإن شاء صلبه
-  وإن شاء قطع يده ورجله.حدثنا هناد، قال: ثنا أبو أسامة، قال: أخبرنا أبو هلال، قال:
-  أخبرنا قتادة، عن سعيد بن الـمسيب، أنه قال فـي الـمـحارب: ذلك إلـى الإمام، إذا أخذه
-  يصنع به ما شاء.حدثنا هناد، قال: ثنا أبو أسامة، عن أبـي هلال، قال: ثنا هارون، عن
-  الـحسن فـي الـمـحارب، قال: ذاك إلـى الإمام يصنع به ما شاء.حدثنا هناد، قال: ثنا حفص
-  بن غياث، عن عاصم، عن الـحسن: { إنَّـمَا جَزَاءُ الَّذِينَ يُحارِبونَ اللَّهَ وَرَسُولَهُ
-  } قال: ذلك إلـى الإمام.واعتلّ قائلو هذه الـمقالة بأن قالوا: وجدنا العطوف التـي بـ(أو)
-  فـي القرآن بـمعنى التـخيـير فـي كلّ ما أوجب الله به فرضاً منها، وذلك كقوله فـي كفـارة
-  الـيـمين:{ فَكَفَّارَتُهُ إِطْعَامُ عَشَرَةِ مَسَاكِينَ مِنْ أَوْسَطِ مَا تُطْعِمُونَ
-  أَهْلِيكُمْ أَوْ كِسْوَتُهُمْ أَوْ تَحْرِيرُ رَقَبَةٍ }[المائدة: 89]، وكقوله:{ فَمَن
-  كَانَ مِنكُم مَّرِيضاً أَوْ بِهِ أَذًى مِّن رَّأْسِهِ فَفِدْيَةٌ مِّن صِيَامٍ أَوْ
-  صَدَقَةٍ أَوْ نُسُكٍ }[البقرة: 196]، وكقوله:{ فَجَزَآءٌ مِّثْلُ مَا قَتَلَ مِنَ
-  ٱلنَّعَمِ يَحْكُمُ بِهِ ذَوَا عَدْلٍ مِّنْكُمْ هَدْياً بَالِغَ ٱلْكَعْبَةِ أَوْ
-  كَفَّارَةٌ طَعَامُ مَسَاكِينَ أَو عَدْلُ ذٰلِكَ صِيَاماً }[المائدة: 95]. قالوا:
-  فإذا كانت العطوف التـي بـ(أو) فـي القرآن فـي كلّ ما أوجب الله به فرضا منها فـي سائر
-  القرآن بـمعنى التـخيـير، فكذلك ذلك فـي آية الـمـحاربـين الإمام مخير فـيـما رأى الـحكم
-  به علـى الـمـحارب إذا قدر علـيه قبل التوبة.وأولـى التأويـلـين بـالصواب فـي ذلك عندنا
-  تأويـل من أوجب علـى الـمـحارب من العقوبة علـى قدر استـحقاقه وجعل الـحكم علـى الـمـحاربـين
-  مختلفـاً بـاختلاف أفعالهم، فأوجب علـى مخيف السبـيـل منهم إذا قُدِر علـيه قبل التوبة
-  وقبل أخذ مال أو قتل: النفـي من الأرض وإذا قُدِر علـيه بعد أخذ الـمال وقتل النفس
-  الـمـحرّم قتلها: الصلب لـما ذكرت من العلة قبل لقائلي هذه الـمقالة. فأما ما اعتلّ
-  به القائلون: إن الإمام فـيه بـالـخيار من أن «أو» فـي العطف تأتـي بـمعنى التـخيـير
-  فـي الفرض، فنقول: لا معنى له، لأن «أو» فـي كلام العرب قد تأتـي بضروب من الـمعانـي
-  لولا كراهة إطالة الكتاب بذكرها لذكرتها، وقد بـينت كثـيراً من معانـيها فـيـما مضى
-  وسنأتـي علـى بـاقـيها فـيـما يستقبل فـي أماكنها إن شاء الله.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 9 10 \r\n\t\t\t\t\t\t\t\tمزيد</section>"
+  ذٰلِكَ لَهُمْ خِزْيٌ فِي ٱلدُّنْيَا وَلَهُمْ فِي ٱلآخِرَةِ عَذَابٌ عَظِيمٌ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي الـمثنى، قال: ثنا أبو حذيفة، قال: ثنا شبل، عن قـيس بن سعد،
+  قال: قال عطاء: يصنع الإمام فـي ذلك ما شاء: إن شاء قتل، أو قطع، أو نفـي، لقول الله:
+  { أنْ يُقَتَّلُوا أوْ يُصَلَّبُوا أوْ تُقَطَّعَ أيْدِيهِمْ وأرْجُلُهُمْ مِنْ خِلافٍ،
+  أوْ يُنْفَوْا مِنَ الأرْضِ } فذلك إلـى الإمام الـحاكم يصنع فـيه ما شاء.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي الـمثنى، قال: ثنا عبد الله، قال: ثنـي معاوية، عن علـيّ، عن
+  ابن عبـاس، قوله: { إنَّـمَا جَزَاءُ الَّذِينَ يُحارِبونَ اللَّهَ وَرَسُولَهُ }...
+  الآية، قال: من شهر السلاح فـي فئة الإسلام، وأخاف السبـيـل، ثم ظُفِر به وقُدِر علـيه،
+  فإمام الـمسلـمين فـيه بـالـخيار، إن شاء قتله وإن شاء صلبه وإن شاء قطع يده ورجله.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا هناد، قال: ثنا أبو أسامة، قال: أخبرنا أبو هلال، قال: أخبرنا
+  قتادة، عن سعيد بن الـمسيب، أنه قال فـي الـمـحارب: ذلك إلـى الإمام، إذا أخذه يصنع
+  به ما شاء.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا هناد، قال: ثنا أبو أسامة،
+  عن أبـي هلال، قال: ثنا هارون، عن الـحسن فـي الـمـحارب، قال: ذاك إلـى الإمام يصنع
+  به ما شاء.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا هناد، قال: ثنا حفص بن غياث،
+  عن عاصم، عن الـحسن: { إنَّـمَا جَزَاءُ الَّذِينَ يُحارِبونَ اللَّهَ وَرَسُولَهُ
+  } قال: ذلك إلـى الإمام.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">واعتلّ قائلو هذه الـمقالة بأن قالوا:
+  وجدنا العطوف التـي بـ(أو) فـي القرآن بـمعنى التـخيـير فـي كلّ ما أوجب الله به فرضاً
+  منها، وذلك كقوله فـي كفـارة الـيـمين:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">فَكَفَّارَتُهُ إِطْعَامُ عَشَرَةِ
+  مَسَاكِينَ مِنْ أَوْسَطِ مَا تُطْعِمُونَ أَهْلِيكُمْ أَوْ كِسْوَتُهُمْ أَوْ تَحْرِيرُ
+  رَقَبَةٍ</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">[المائدة: 89]، وكقوله:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">فَمَن كَانَ مِنكُم مَّرِيضاً أَوْ
+  بِهِ أَذًى مِّن رَّأْسِهِ فَفِدْيَةٌ مِّن صِيَامٍ أَوْ صَدَقَةٍ أَوْ نُسُكٍ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[البقرة:
+  196]، وكقوله:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">فَجَزَآءٌ مِّثْلُ مَا قَتَلَ مِنَ ٱلنَّعَمِ يَحْكُمُ بِهِ
+  ذَوَا عَدْلٍ مِّنْكُمْ هَدْياً بَالِغَ ٱلْكَعْبَةِ أَوْ كَفَّارَةٌ طَعَامُ مَسَاكِينَ
+  أَو عَدْلُ ذٰلِكَ صِيَاماً</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">[المائدة: 95]. قالوا: فإذا كانت العطوف التـي بـ(أو) فـي القرآن فـي
+  كلّ ما أوجب الله به فرضا منها فـي سائر القرآن بـمعنى التـخيـير، فكذلك ذلك فـي آية
+  الـمـحاربـين الإمام مخير فـيـما رأى الـحكم به علـى الـمـحارب إذا قدر علـيه قبل التوبة.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وأولـى التأويـلـين بـالصواب فـي ذلك عندنا تأويـل من أوجب علـى الـمـحارب
+  من العقوبة علـى قدر استـحقاقه وجعل الـحكم علـى الـمـحاربـين مختلفـاً بـاختلاف أفعالهم،
+  فأوجب علـى مخيف السبـيـل منهم إذا قُدِر علـيه قبل التوبة وقبل أخذ مال أو قتل: النفـي
+  من الأرض وإذا قُدِر علـيه بعد أخذ الـمال وقتل النفس الـمـحرّم قتلها: الصلب لـما
+  ذكرت من العلة قبل لقائلي هذه الـمقالة. فأما ما اعتلّ به القائلون: إن الإمام فـيه
+  بـالـخيار من أن «أو» فـي العطف تأتـي بـمعنى التـخيـير فـي الفرض، فنقول: لا معنى
+  له، لأن «أو» فـي كلام العرب قد تأتـي بضروب من الـمعانـي لولا كراهة إطالة الكتاب
+  بذكرها لذكرتها، وقد بـينت كثـيراً من معانـيها فـيـما مضى وسنأتـي علـى بـاقـيها فـيـما
+  يستقبل فـي أماكنها إن شاء الله.</font></font>&#13;\t\t\t<label disabled=\"true\"
+  class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,9,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,11,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,8,1)\"><u>8</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,9,1)\"><u>9</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">10 </font></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(1,11,1)\">مزيد</a></td></tr></table></center></div></section>"
 

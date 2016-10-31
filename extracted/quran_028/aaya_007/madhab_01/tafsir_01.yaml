@@ -1,4 +1,4 @@
-location:
+position:
   sura: 028
   aaya: '007'
   madhab: '01'
@@ -7,51 +7,128 @@ meta:
   title: تفسير جامع البيان في تفسير القرآن
   author: الطبري
   year: '310'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَأَوْحَيْنَآ
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(28, 7)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(28,7)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَأَوْحَيْنَآ
   إِلَىٰ أُمِّ مُوسَىٰ أَنْ أَرْضِعِيهِ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِي ٱليَمِّ
-  وَلاَ تَخَافِي وَلاَ تَحْزَنِيۤ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ
-  }يقول تعالـى ذكره: { وأوْحَيْنا إلـى أُمّ مُوسَى } حين ولدت موسى { أنْ أرْضِعِيهِ
-  }.وكان قَتادة يقول، فـي معنى ذلك { وأوْحَيْنا إلـى أُمّ مُوسَى }: قذفنا فـي قلبها.حدثنا
+  وَلاَ تَخَافِي وَلاَ تَحْزَنِيۤ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">يقول تعالـى ذكره: { وأوْحَيْنا إلـى أُمّ مُوسَى } حين ولدت موسى
+  { أنْ أرْضِعِيهِ }.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وكان قَتادة يقول، فـي معنى ذلك
+  { وأوْحَيْنا إلـى أُمّ مُوسَى }: قذفنا فـي قلبها.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
   بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قَتادة { وأوْحَيْنا إلـى أُمّ مُوسَى } وحيا
   جاءها من الله، فقذف فـي قلبها، ولـيس بوحي نبوّة، أن أرضعي موسى { فإذَا خِفْتِ عَلَـيْهِ
-  فَأَلْقِـيهِ فِـي الـيَـمّ، وَلا تَـخافِـي وَلا تَـحْزَنِـي... } الآية.حدثنا القاسم،
-  قال: ثنا الـحسين، قال: ثنـي أبو سفـيان، عن معمر، عن قتادة، قوله { وأوْحَيْنا إلـى
-  أُمّ مُوسَى } قال: قذف فـي نفسها.حدثنا موسى، قال: ثنا عمرو، قال: ثنا أسبـاط، عن
-  السديّ، قال: أمر فرعون أن يذبح من ولد من بنـي إسرائيـل سنة، ويتركوا سنة فلـما كان
-  فـي السنة التـي يذبحون فـيها حملت بـموسى فلـما أرادت وضعه، حزنت من شأنه، فأوحى الله
-  إلـيها { أنْ أرْضِعِيهِ فإذَا خِفْتِ عَلَـيْهِ فَألْقِـيهِ فِـي الـيَـمّ }.واختلف
-  أهل التأويـل فـي الـحال التـي أمرت أمّ موسى أن تلقـي موسى فـي الـيـم، فقال بعضهم:
-  أُمرت أن تلقـيه فـي الـيـمّ بعد ميلاده بأربعة أشهر، وذلك حال طلبه من الرضاع أكثر
-  مـما يطلب الصبـيّ بعد حال سقوطه من بطن أمه.ذكر من قال ذلك:حدثنا القاسم، قال: ثنا
-  الـحسين، قال: ثنـي حجاج، عن ابن جُرَيج، قوله: { أنْ أرْضِعِيهِ فإذَا خِفْتِ عَلَـيْهِ
-  } قال: إذا بلغ أربعة أشهر وصاح وابتغى من الرضاع أكثر من ذلك { فأَلْقِـيهِ } حينئذٍ
-  { فـي الـيَـمّ } فذلك قوله: { فإذَا خِفْتِ عَلَـيْهِ }.حدثنا القاسم، قال: ثنا الـحسين،
-  قال: ثنـي حجاج، عن أبـي بكر بن عبد الله، قال: لـم يقل لها: إذا ولدتـيه فألقـيه فـي
-  الـيـمّ، إنـما قال لها { أنْ أرْضِعيهِ، فإذَا خِفْتِ عَلَـيْهِ فَأَلْقـيهِ فِـي
-  الْـيَـمّ } بذلك أُمرت، قال: جعلته فـي بستان، فكانت تأتـيه كلّ يوم فترضعه، وتأتـيه
-  كلّ لـيـلة فترضعه، فـيكفـيه ذلك.وقال آخرون: بل أُمِرت أن تلقـيه فِـي الـيـم بعد
-  ولادها إياه، وبعد رضاعها.ذكر من قال ذلك:حدثنـي موسى بن هارون، قال: ثنا عمرو، قال:
-  ثنا أسبـاط، عن السديّ، قال: لـما وضعته أرضعته ثم دعت له نـجاراً، فجعل له تابوتاً،
-  وجعل مفتاح التابوت من داخـل، وجعلته فـيه، فألقته فـي الـيّـم.وأولـى قول قـيـل فـي
-  ذلك بـالصواب، أن يقال: إن الله تعالـى ذكره أمر أمّ موسى أن ترضعه، فإذا خافت علـيه
-  من عدوّ الله فرعون وجنده أن تلقـيه فـي الـيـمّ. وجائز أن تكون خافتهم علـيه بعد أشهر
-  من ولادها إياه وأيّ ذلك كان، فقد فعلت ما أوحى الله إلـيها فـيه، ولا خبر قامت به
-  حجة، ولا فطرة فـي العقل لبـيان أيّ ذلك كان من أيَ، فأولـى الأقوال فـي ذلك بـالصحة
-  أن يُقال كما قال جلّ ثناؤه.\r\n\t\t\t\r\n\t\t\t1 2 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَأَوْحَيْنَآ إِلَىٰ أُمِّ مُوسَىٰ
-  أَنْ أَرْضِعِيهِ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِي ٱليَمِّ وَلاَ تَخَافِي
-  وَلاَ تَحْزَنِيۤ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ }والـيـمّ
-  الذي أُمِرَت أن تلقـيه فـيه هو النـيـل. كما:حدثنا موسى، قال: ثنا عمرو، قال: ثنا
-  أسبـاط، عن السديّ { فَألْقِـيهِ فِـي الْـيَـمِ } قال: هو البحر، وهو النـيـل. وقد
-  بـيَّنا ذلك بشواهده، وذكر الرواية فـيه فـيـما مضى بـما أغنى عن إعادته.وقوله: { وَلا
-  تَـخافِـي وَلا تَـحْزَنِـي } يقول: لا تـخافـي علـى ولدك من فرعون وجنده أن يقتلوه،
-  ولا تـحزنـي لفراقه. وبنـحو الذي قلنا فـي ذلك قال أهل التأويـل.ذكر من قال ذلك:حدثنـي
+  فَأَلْقِـيهِ فِـي الـيَـمّ، وَلا تَـخافِـي وَلا تَـحْزَنِـي... } الآية.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا القاسم، قال: ثنا الـحسين، قال: ثنـي أبو سفـيان، عن معمر، عن
+  قتادة، قوله { وأوْحَيْنا إلـى أُمّ مُوسَى } قال: قذف فـي نفسها.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا موسى، قال: ثنا عمرو، قال: ثنا أسبـاط، عن السديّ، قال: أمر
+  فرعون أن يذبح من ولد من بنـي إسرائيـل سنة، ويتركوا سنة فلـما كان فـي السنة التـي
+  يذبحون فـيها حملت بـموسى فلـما أرادت وضعه، حزنت من شأنه، فأوحى الله إلـيها { أنْ
+  أرْضِعِيهِ فإذَا خِفْتِ عَلَـيْهِ فَألْقِـيهِ فِـي الـيَـمّ }.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">واختلف أهل التأويـل فـي الـحال التـي أمرت أمّ موسى أن تلقـي موسى
+  فـي الـيـم، فقال بعضهم: أُمرت أن تلقـيه فـي الـيـمّ بعد ميلاده بأربعة أشهر، وذلك
+  حال طلبه من الرضاع أكثر مـما يطلب الصبـيّ بعد حال سقوطه من بطن أمه.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  القاسم، قال: ثنا الـحسين، قال: ثنـي حجاج، عن ابن جُرَيج، قوله: { أنْ أرْضِعِيهِ
+  فإذَا خِفْتِ عَلَـيْهِ } قال: إذا بلغ أربعة أشهر وصاح وابتغى من الرضاع أكثر من ذلك
+  { فأَلْقِـيهِ } حينئذٍ { فـي الـيَـمّ } فذلك قوله: { فإذَا خِفْتِ عَلَـيْهِ }.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا القاسم، قال: ثنا الـحسين، قال: ثنـي حجاج، عن أبـي بكر بن عبد
+  الله، قال: لـم يقل لها: إذا ولدتـيه فألقـيه فـي الـيـمّ، إنـما قال لها { أنْ أرْضِعيهِ،
+  فإذَا خِفْتِ عَلَـيْهِ فَأَلْقـيهِ فِـي الْـيَـمّ } بذلك أُمرت، قال: جعلته فـي بستان،
+  فكانت تأتـيه كلّ يوم فترضعه، وتأتـيه كلّ لـيـلة فترضعه، فـيكفـيه ذلك.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال آخرون: بل أُمِرت أن تلقـيه فِـي الـيـم بعد ولادها إياه، وبعد
+  رضاعها.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي موسى بن هارون، قال: ثنا عمرو، قال: ثنا أسبـاط، عن السديّ،
+  قال: لـما وضعته أرضعته ثم دعت له نـجاراً، فجعل له تابوتاً، وجعل مفتاح التابوت من
+  داخـل، وجعلته فـيه، فألقته فـي الـيّـم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وأولـى
+  قول قـيـل فـي ذلك بـالصواب، أن يقال: إن الله تعالـى ذكره أمر أمّ موسى أن ترضعه،
+  فإذا خافت علـيه من عدوّ الله فرعون وجنده أن تلقـيه فـي الـيـمّ. وجائز أن تكون خافتهم
+  علـيه بعد أشهر من ولادها إياه وأيّ ذلك كان، فقد فعلت ما أوحى الله إلـيها فـيه، ولا
+  خبر قامت به حجة، ولا فطرة فـي العقل لبـيان أيّ ذلك كان من أيَ، فأولـى الأقوال فـي
+  ذلك بـالصحة أن يُقال كما قال جلّ ثناؤه.</font></font>&#13;\t\t\t<label disabled=\"true\"
+  class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(28, 7)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(28,7)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَأَوْحَيْنَآ إِلَىٰ أُمِّ مُوسَىٰ أَنْ أَرْضِعِيهِ
+  فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِي ٱليَمِّ وَلاَ تَخَافِي وَلاَ تَحْزَنِيۤ
+  إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">والـيـمّ الذي أُمِرَت أن تلقـيه فـيه هو النـيـل. كما:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا موسى، قال: ثنا عمرو، قال: ثنا أسبـاط، عن السديّ { فَألْقِـيهِ
+  فِـي الْـيَـمِ } قال: هو البحر، وهو النـيـل. وقد بـيَّنا ذلك بشواهده، وذكر الرواية
+  فـيه فـيـما مضى بـما أغنى عن إعادته.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقوله:
+  { وَلا تَـخافِـي وَلا تَـحْزَنِـي } يقول: لا تـخافـي علـى ولدك من فرعون وجنده أن
+  يقتلوه، ولا تـحزنـي لفراقه. وبنـحو الذي قلنا فـي ذلك قال أهل التأويـل.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
   يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد: { وَلا تَـخافِـي وَلا تَـحْزَنِـي }
-  قال: لا تـخافـي علـيه البحر، ولا تـحزنـي لفراقه { إنَّا رَادُّوه إلَـيْكِ }.وقوله:
-  { إنَّا رَادُّوهُ إلَـيْكِ وَجاعِلُوهُ مِنَ الـمُرْسَلِـينَ } يقول: إنا رادّو ولدك
-  إلـيك للرضاع لتكونـي أنت ترضعيه، وبـاعثوه رسولاً إلـى من تـخافـينه علـيه أن يقتله،
-  وفعل الله ذلك بها وبه. وبنـحو الذي قلنا فـي ذلك، قال أهل التأويـل.ذكر من قال ذلك:حدثنا
-  ابن حميد، قال: ثنا سلـمة، عن ابن إسحاق { إنَّا رَادُّوهُ إلَـيْكِ } وبـاعثوه رسولاً
-  إلـى هذه الطاغية، وجاعلو هلاكه ونـجاة بنـي إسرائيـل مـما هم فـيه من البلاء علـى
-  يديه.\r\n\t\t\t\r\n\t\t\t1 2 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  قال: لا تـخافـي علـيه البحر، ولا تـحزنـي لفراقه { إنَّا رَادُّوه إلَـيْكِ }.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقوله: { إنَّا رَادُّوهُ إلَـيْكِ وَجاعِلُوهُ مِنَ الـمُرْسَلِـينَ
+  } يقول: إنا رادّو ولدك إلـيك للرضاع لتكونـي أنت ترضعيه، وبـاعثوه رسولاً إلـى من
+  تـخافـينه علـيه أن يقتله، وفعل الله ذلك بها وبه. وبنـحو الذي قلنا فـي ذلك، قال أهل
+  التأويـل.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن حميد، قال: ثنا سلـمة، عن ابن إسحاق { إنَّا رَادُّوهُ إلَـيْكِ
+  } وبـاعثوه رسولاً إلـى هذه الطاغية، وجاعلو هلاكه ونـجاة بنـي إسرائيـل مـما هم فـيه
+  من البلاء علـى يديه.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section>"
 

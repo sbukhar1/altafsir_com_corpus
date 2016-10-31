@@ -1,4 +1,4 @@
-location:
+position:
   sura: '003'
   aaya: 079
   madhab: '01'
@@ -7,135 +7,299 @@ meta:
   title: تفسير جامع البيان في تفسير القرآن
   author: الطبري
   year: '310'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ مَا كَانَ لِبَشَرٍ
-  أَن يُؤْتِيهُ ٱللَّهُ ٱلْكِتَٰبَ وَٱلْحُكْمَ وَٱلنُّبُوَّةَ ثُمَّ يَقُولَ لِلنَّاسِ
-  كُونُواْ عِبَاداً لِّي مِن دُونِ ٱللَّهِ وَلَـٰكِن كُونُواْ رَبَّـٰنِيِّينَ بِمَا
-  كُنتُمْ تُعَلِّمُونَ ٱلْكِتَٰبَ وَبِمَا كُنْتُمْ تَدْرُسُونَ }يعنـي بذلك جلّ ثناؤه:
-  وما ينبغي لأحد من البشر، والبشر: جمع بنـي آدم، لا واحد له من لفظه، مثل القوم والـخـلق،
-  وقد يكون اسماً لواحد. { أَنْ يُؤْتِيهُ ٱللَّهُ ٱلْكِتَـٰبَ } يقول: أن ينزل الله
-  علـيه كتابه، { وَٱلْحُكْمَ } يعنـي: ويعلـمه فصل الـحكمة، { وَٱلنُّبُوَّةَ } يقول:
-  ويعطيه النبوّة، { ثُمَّ يَقُولَ لِلنَّاسِ كُونُواْ عِبَادًا لِّى مِن دُونِ ٱللَّهِ
-  } يعنـي: ثم يدعو الناس إلـى عبـادة نفسه دون الله، وقد آتاه الله ما آتاه من الكتاب
-  والـحكم والنبوّة، ولكن إذا آتاه الله ذلك فإنـما يدعوهم إلـى العلـم بـالله، ويحدوهم
-  علـى معرفة شرائع دينه، وأن يكونوا رؤساء فـي الـمعرفة بأمر الله ونهيه، وأئمة فـي
-  طاعته وعبـادته بكونهم معلـمي الناس الكتاب، وبكونهم دارسيه.وقـيـل: إن هذه الآية نزلت
-  فـي قوم من أهل الكتاب قالوا للنبـيّ صلى الله عليه وسلم: أتدعونا إلـى عبـادتك؟ كما:حدثنا
-  ابن حميد، قال: ثنا سلـمة، قال: ثنا ابن إسحاق، عن مـحمد بن أبـي مـحمد، عن عكرمة أو
-  سعيد بن جبـير، عن ابن عبـاس، قال: قال أبو رافع القرظي حين اجتـمعت الأحبـار من الـيهود
-  والنصارى من أهل نـجران عند رسول الله صلى الله عليه وسلم ودعاهم إلـى الإسلام: أتريد
-  يا مـحمد أن نعبدك كما تعبد النصارى عيسى ابن مريـم؟ فقال رجل من أهل نـجران نصرانـي،
-  يقال له الرئيس: أو ذاك تريد منا يا مـحمد وإلـيه تدعونا؟ أو كما قال، فقال رسول الله
-  صلى الله عليه وسلم: \" مَعَاذَ اللَّهُ أنْ نَعْبُدَ غَيْرَ اللَّهِ، أوْ نَأْمُرَ
-  بِعِبـادَةِ غَيْرِهِ، مَا بِذَلِكَ بَعَثَنِـي، وَلا بِذَلِكَ أمَرَنِـي \" أو كما
-  قال؛ فأنزل الله عزّ وجلّ فـي ذلك من قولهم: { مَا كَانَ لِبَشَرٍ أَن يُؤْتِيهُ ٱللَّهُ
-  ٱلْكِتَـٰبَ وَٱلْحُكْمَ وَٱلنُّبُوَّةَ }... الآية، إلـى قوله بعد:{ إِذْ أَنتُم مُّسْلِمُونَ }[آل
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(3, 79)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(3,79)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">مَا
+  كَانَ لِبَشَرٍ أَن يُؤْتِيهُ ٱللَّهُ ٱلْكِتَٰبَ وَٱلْحُكْمَ وَٱلنُّبُوَّةَ ثُمَّ
+  يَقُولَ لِلنَّاسِ كُونُواْ عِبَاداً لِّي مِن دُونِ ٱللَّهِ وَلَـٰكِن كُونُواْ رَبَّـٰنِيِّينَ
+  بِمَا كُنتُمْ تُعَلِّمُونَ ٱلْكِتَٰبَ وَبِمَا كُنْتُمْ تَدْرُسُونَ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">يعنـي بذلك جلّ ثناؤه: وما ينبغي لأحد من البشر، والبشر: جمع بنـي
+  آدم، لا واحد له من لفظه، مثل القوم والـخـلق، وقد يكون اسماً لواحد. { أَنْ يُؤْتِيهُ
+  ٱللَّهُ ٱلْكِتَـٰبَ } يقول: أن ينزل الله علـيه كتابه، { وَٱلْحُكْمَ } يعنـي: ويعلـمه
+  فصل الـحكمة، { وَٱلنُّبُوَّةَ } يقول: ويعطيه النبوّة، { ثُمَّ يَقُولَ لِلنَّاسِ
+  كُونُواْ عِبَادًا لِّى مِن دُونِ ٱللَّهِ } يعنـي: ثم يدعو الناس إلـى عبـادة نفسه
+  دون الله، وقد آتاه الله ما آتاه من الكتاب والـحكم والنبوّة، ولكن إذا آتاه الله ذلك
+  فإنـما يدعوهم إلـى العلـم بـالله، ويحدوهم علـى معرفة شرائع دينه، وأن يكونوا رؤساء
+  فـي الـمعرفة بأمر الله ونهيه، وأئمة فـي طاعته وعبـادته بكونهم معلـمي الناس الكتاب،
+  وبكونهم دارسيه.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقـيـل: إن هذه الآية نزلت فـي قوم
+  من أهل الكتاب قالوا للنبـيّ صلى الله عليه وسلم: أتدعونا إلـى عبـادتك؟ كما:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن حميد، قال: ثنا سلـمة، قال: ثنا ابن إسحاق، عن مـحمد بن
+  أبـي مـحمد، عن عكرمة أو سعيد بن جبـير، عن ابن عبـاس، قال: قال أبو رافع القرظي حين
+  اجتـمعت الأحبـار من الـيهود والنصارى من أهل نـجران عند رسول الله صلى الله عليه وسلم
+  ودعاهم إلـى الإسلام: أتريد يا مـحمد أن نعبدك كما تعبد النصارى عيسى ابن مريـم؟ فقال
+  رجل من أهل نـجران نصرانـي، يقال له الرئيس: أو ذاك تريد منا يا مـحمد وإلـيه تدعونا؟
+  أو كما قال، فقال رسول الله صلى الله عليه وسلم:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" مَعَاذَ اللَّهُ أنْ نَعْبُدَ غَيْرَ اللَّهِ، أوْ نَأْمُرَ بِعِبـادَةِ
+  غَيْرِهِ، مَا بِذَلِكَ بَعَثَنِـي، وَلا بِذَلِكَ أمَرَنِـي \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\">أو كما قال؛ فأنزل الله عزّ وجلّ
+  فـي ذلك من قولهم: { مَا كَانَ لِبَشَرٍ أَن يُؤْتِيهُ ٱللَّهُ ٱلْكِتَـٰبَ وَٱلْحُكْمَ
+  وَٱلنُّبُوَّةَ }... الآية، إلـى قوله بعد:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">إِذْ أَنتُم مُّسْلِمُونَ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[آل
   عمران: 80]. وَلاَ يَأْمُرَكُمْ أَن تَتَّخِذُواْ ٱلْمَلاَئِكَةَ وَٱلنَّبِيِّيْنَ
-  أَرْبَاباً أَيَأْمُرُكُم بِٱلْكُفْرِ بَعْدَ إِذْ أَنْتُمْ مُّسْلِمُونَحدثنا أبو
-  كريب، قال: ثنا يونس بن بكير، قال: ثنا مـحمد بن إسحاق، قال: ثنـي مـحمد بن أبـي مـحمد
-  مولـى زيد بن ثابت، قال: ثنـي سعيد بن جبـير أو عكرمة، عن ابن عبـاس، قال: قال أبو
-  رافع القرظي، فذكر نـحوه.حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله:
-  { مَا كَانَ لِبَشَرٍ أَن يُؤْتِيهُ ٱللَّهُ ٱلْكِتَـٰبَ وَٱلْحُكْمَ وَٱلنُّبُوَّةَ
-  ثُمَّ يَقُولَ لِلنَّاسِ كُونُواْ عِبَادًا لّى مِن دُونِ ٱللَّهِ } يقول: ما كان ينبغي
-  لبشر أن يؤتـيه الله الكتاب والـحكم والنبوّة يأمر عبـاده أن يتـخذوه ربـاً من دون
-  الله.حدثنـي الـمثنى، قال: ثنا إسحاق، قال: ثنا ابن أبـي جعفر، عن أبـيه، عن الربـيع،
-  مثله.حدثنا القاسم، قال: ثنا الـحسين، قال: ثنـي حجاج، عن ابن جريج، قال: كان ناس من
-  يهود يتعبدون الناس من دون ربهم، بتـحريفهم كتاب الله عن موضعه، فقال الله عزّ وجلّ:
-  { مَا كَانَ لِبَشَرٍ أَن يُؤْتِيهُ ٱللَّهُ ٱلْكِتَـٰبَ وَٱلْحُكْمَ وَٱلنُّبُوَّةَ
+  أَرْبَاباً أَيَأْمُرُكُم بِٱلْكُفْرِ بَعْدَ إِذْ أَنْتُمْ مُّسْلِمُونَ</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا أبو كريب، قال: ثنا يونس بن بكير، قال: ثنا مـحمد بن إسحاق،
+  قال: ثنـي مـحمد بن أبـي مـحمد مولـى زيد بن ثابت، قال: ثنـي سعيد بن جبـير أو عكرمة،
+  عن ابن عبـاس، قال: قال أبو رافع القرظي، فذكر نـحوه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: { مَا كَانَ لِبَشَرٍ أَن يُؤْتِيهُ
+  ٱللَّهُ ٱلْكِتَـٰبَ وَٱلْحُكْمَ وَٱلنُّبُوَّةَ ثُمَّ يَقُولَ لِلنَّاسِ كُونُواْ
+  عِبَادًا لّى مِن دُونِ ٱللَّهِ } يقول: ما كان ينبغي لبشر أن يؤتـيه الله الكتاب والـحكم
+  والنبوّة يأمر عبـاده أن يتـخذوه ربـاً من دون الله.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  الـمثنى، قال: ثنا إسحاق، قال: ثنا ابن أبـي جعفر، عن أبـيه، عن الربـيع، مثله.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا القاسم، قال: ثنا الـحسين، قال: ثنـي حجاج، عن ابن جريج، قال:
+  كان ناس من يهود يتعبدون الناس من دون ربهم، بتـحريفهم كتاب الله عن موضعه، فقال الله
+  عزّ وجلّ: { مَا كَانَ لِبَشَرٍ أَن يُؤْتِيهُ ٱللَّهُ ٱلْكِتَـٰبَ وَٱلْحُكْمَ وَٱلنُّبُوَّةَ
   ثُمَّ يَقُولَ لِلنَّاسِ كُونُواْ عِبَادًا لّى مِن دُونِ ٱللَّهِ } ثم يأمر الناس
-  بغير ما أنزل الله فـي كتابه.\r\n\t\t\t\r\n\t\t\t1 2 3 4 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ مَا كَانَ لِبَشَرٍ أَن يُؤْتِيهُ ٱللَّهُ
-  ٱلْكِتَٰبَ وَٱلْحُكْمَ وَٱلنُّبُوَّةَ ثُمَّ يَقُولَ لِلنَّاسِ كُونُواْ عِبَاداً
-  لِّي مِن دُونِ ٱللَّهِ وَلَـٰكِن كُونُواْ رَبَّـٰنِيِّينَ بِمَا كُنتُمْ تُعَلِّمُونَ
-  ٱلْكِتَٰبَ وَبِمَا كُنْتُمْ تَدْرُسُونَ }القول فـي تأويـل قوله تعالـى: { وَلَـٰكِن
-  كُونُواْ رَبَّـٰنِيِّينَ }.يعنـي جلّ ثناؤه بذلك: ولكن يقول لهم: كونوا ربـانـيـين،
-  فترك القول استغناء بدلالة الكلام علـيه.وأما قوله: { كُونُواْ رَبَّـٰنِيِّينَ } فإن
-  أهل التأويـل اختلفوا فـي تأويـله، فقال بعضهم: معناه: كونوا حكماء علـماء. ذكر من
-  قال ذلك:حدثنا مـحمد بن بشار، قال: ثنا عبد الرحمن، قال: ثنا سفـيان، عن منصور، عن
-  أبـي رزين: { كُونُواْ رَبَّـٰنِيِّينَ } قال: حكماء علـماء.حدثنا أبو كريب، قال: ثنا
-  ابن يـمان، عن سفـيان، عن منصور، عن أبـي رزين: { كُونُواْ رَبَّـٰنِيِّينَ } قال:
-  حكماء علـماء.حدثنا ابن حميد، قال: ثنا حكام، عن عمرو، عن منصور، عن أبـي رزين، مثله.حدثنا
-  ابن حميد، قال: ثنا جرير، عن منصور، عن أبـي رزين: { وَلَـٰكِن كُونُواْ رَبَّـٰنِيِّينَ
-  }: حكماء علـماء.حدثنـي يعقوب بن إبراهيـم، قال: ثنا هشيـم، عن عوف، عن الـحسن فـي
-  قوله: { كُونُواْ رَبَّـٰنِيِّينَ } قال: كونوا فقهاء علـماء.حدثنـي مـحمد بن عمرو،
-  قال: ثنا أبو عاصم، قال: ثنا عيسى، عن ابن أبـي نـجيح، عن مـجاهد فـي قوله: { كُونُواْ
-  رَبَّـٰنِيِّينَ } قال: فقهاء.حدثنـي الـمثنى، قال: ثنا أبو حذيفة، قال: ثنا شبل، عن
-  ابن أبـي نـجيح، عن مـجاهد، مثله.حدثنا القاسم، قال: ثنا الـحسين، قال: ثنـي حجاج،
-  عن ابن جريج، قال: أخبرنـي القاسم، عن مـجاهد، قوله: { وَلَـٰكِن كُونُواْ رَبَّـٰنِيِّينَ
-  } قال: فقهاء.حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة قوله: { وَلَـٰكِن
-  كُونُواْ رَبَّـٰنِيِّينَ } قال: كونوا فقهاء علـماء.حدثنا الـحسن بن يحيـى، قال: أخبرنا
-  عبد الرزاق، قال: أخبرنا معمر عن منصور بن الـمعتـمر، عن أبـي رزين فـي قوله: { كُونُواْ
-  رَبَّـٰنِيِّينَ } قال: علـماء حكماء. قال معمر: قال قتادة.حدثنا مـحمد بن الـحسين،
-  قال: ثنا أحمد بن الـمفضل، قال: ثنا أسبـاط، عن السديّ فـي قوله: { كُونُواْ رَبَّـٰنِيِّينَ
-  } أما الربـانـيون: فـالـحكماء الفقهاء.حدثنـي يونس، قال: أخبرنا ابن وهب، قال: أخبرنا
-  سفـيان، عن ابن أبـي نـجيح، عن مـجاهد، قال الربـانـيون: الفقهاء العلـماء، وهم فوق
-  الأحبـار.حدثنـي مـحمد بن سعد، قال: ثنـي أبـي، قال: ثنـي عمي، قال: ثنـي أبـي، عن
-  أبـيه، عن ابن عبـاس قوله: { وَلَـٰكِن كُونُواْ رَبَّـٰنِيِّينَ } يقول: كونوا حكماء
-  فقهاء.حدثت عن الـمنـجاب، قال: ثنا بشر بن عمارة، عن أبـي حمزة الثمالـي، عن يحيـى
-  بن عقـيـل فـي قوله الربـانـيون والأحبـار، قال: الفقهاء العلـماء.\r\n\t\t\t\r\n\t\t\t1 2 3 4 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ مَا كَانَ لِبَشَرٍ أَن يُؤْتِيهُ ٱللَّهُ
-  ٱلْكِتَٰبَ وَٱلْحُكْمَ وَٱلنُّبُوَّةَ ثُمَّ يَقُولَ لِلنَّاسِ كُونُواْ عِبَاداً
-  لِّي مِن دُونِ ٱللَّهِ وَلَـٰكِن كُونُواْ رَبَّـٰنِيِّينَ بِمَا كُنتُمْ تُعَلِّمُونَ
-  ٱلْكِتَٰبَ وَبِمَا كُنْتُمْ تَدْرُسُونَ }حدثت عن الـمنـجاب، قال: ثنا بشر، عن أبـي
-  روق، عن الضحاك، عن ابن عبـاس، مثله.حدثنـي ابن سنان القزاز، قال: ثنا الـحسين بن الـحسن
-  الأشقر، قال: ثنا أبو كدينة، عن عطاء بن السائب، عن سعيد بن جبـير، عن ابن عبـاس فـي
-  قوله: { كُونُواْ رَبَّـٰنِيِّينَ } قال: كونوا حكماء فقهاء.حدثت عن الـحسين بن الفرج،
-  قال: سمعت أبـا معاذ، قال: أخبرنا عبـيد بن سلـيـمان، قال: سمعت الضحاك يقول فـي قوله:
-  { كُونُواْ رَبَّـٰنِيِّينَ } يقول: كونوا فقهاء علـماء.وقال آخرون: بل هم الـحكماء
-  الأتقـياء. ذكر من قال ذلك:حدثنـي يحيـى بن طلـحة الـيربوعي، قال: ثنا فضيـل بن عياض،
-  عن عطاء بن السائب، عن سعيد بن جبـير، قوله: { كُونُواْ رَبَّـٰنِيِّينَ } قال: حكماء
-  أتقـياء.وقال آخرون: بل هم ولاة الناس وقادتهم. ذكر من قال ذلك:حدثنـي يونس بن عبد
-  الأعلـى، قال: أخبرنا ابن وهب، قال: سمعت ابن زيد يقول فـي قوله: { كُونُواْ رَبَّـٰنِيِّينَ
-  } قال: الربـانـيون: الذين يربون الناس ولاة هذا الأمر، يربونهم: يـلونهم. وقرأ: {
-  لَوْلاَ يَنْهَـٰهُمُ ٱلرَّبَّـٰنِيُّونَ وَٱلأحْبَارُ } قال: الربـانـيون: الولاة،
-  والأحبـار: العلـماء.قال أبو جعفر: وأولـى الأقوال عندي بـالصواب فـي الربـانـيـين
-  أنهم جمع ربـانـيّ، وأن الربـانـيّ الـمنسوب إلـى الرَّبَّـان: الذي يربُّ الناس، وهو
-  الذي يصلـح أمورهم ويربها، ويقوم بها، ومنه قول علقمة بن عبدة:وكنتَ امْرأً أفْضَتْ
-  إِلَـيْكَ رِبَـابَتِـي   وَقَبْلَكَ رَبَّتْنِـي فَضِعْتُ رُبُوبُيعنـي بقوله: «ربّتنـي»:
-  ولـي أمري والقـيام به قبلك من يربه ويصلـحه، فلـم يصلـحوه، ولكنهم أضاعونـي فضعت،
-  يقال منه: ربّ أمري فلان فهو بربُّه رَبًّـا وهو رابُّه، فإذا أريد به الـمبـالغة فـي
-  مدحه قـيـل: هو رَبَّـان، كما يقال: هو نعسان، من قولهم: نَعَس ينعُس، وأكثر ما يجيء
-  من الأسماء علـى فعلان ما كان من الأفعال الـماضية علـى فَعِل مثل قولهم: هو سكران
-  وعطشان وريان، من سَكِرَ يَسْكَر، وعَطِش يَعطش، ورَوِي يَرْوَى، وقد يجيء مـما كان
-  ماضيه علـى فَعَل يَفْعُل، نـحو ما قلنا من نَعَسَ يَنْعُس، ورَبَّ يَرُبُّ.فإذا كان
-  الأمر فـي ذلك علـى ما وصفنا، وكان الربـان ما ذكرنا، والربـانـي: هو الـمنسوب إلـى
-  من كان بـالصفة التـي وصفت، وكان العالـم بـالفقه والـحكمة من الـمصلـحين، يربّ أمور
-  الناس بتعلـيـمه إياهم الـخير، ودعائهم إلـى ما فـيه مصلـحتهم، وكان كذلك الـحكيـم
+  بغير ما أنزل الله فـي كتابه.</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\"
+  border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE:
+  none; BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(3, 79)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(3,79)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">مَا كَانَ لِبَشَرٍ أَن يُؤْتِيهُ ٱللَّهُ ٱلْكِتَٰبَ
+  وَٱلْحُكْمَ وَٱلنُّبُوَّةَ ثُمَّ يَقُولَ لِلنَّاسِ كُونُواْ عِبَاداً لِّي مِن دُونِ
+  ٱللَّهِ وَلَـٰكِن كُونُواْ رَبَّـٰنِيِّينَ بِمَا كُنتُمْ تُعَلِّمُونَ ٱلْكِتَٰبَ
+  وَبِمَا كُنْتُمْ تَدْرُسُونَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\"
+  dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">القول فـي تأويـل
+  قوله تعالـى: { وَلَـٰكِن كُونُواْ رَبَّـٰنِيِّينَ }.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">يعنـي
+  جلّ ثناؤه بذلك: ولكن يقول لهم: كونوا ربـانـيـين، فترك القول استغناء بدلالة الكلام
+  علـيه.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وأما قوله: { كُونُواْ رَبَّـٰنِيِّينَ
+  } فإن أهل التأويـل اختلفوا فـي تأويـله، فقال بعضهم: معناه: كونوا حكماء علـماء. ذكر
+  من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا مـحمد بن بشار، قال: ثنا عبد
+  الرحمن، قال: ثنا سفـيان، عن منصور، عن أبـي رزين: { كُونُواْ رَبَّـٰنِيِّينَ } قال:
+  حكماء علـماء.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا أبو كريب، قال: ثنا ابن يـمان،
+  عن سفـيان، عن منصور، عن أبـي رزين: { كُونُواْ رَبَّـٰنِيِّينَ } قال: حكماء علـماء.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن حميد، قال: ثنا حكام، عن عمرو، عن منصور، عن أبـي رزين،
+  مثله.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن حميد، قال: ثنا جرير،
+  عن منصور، عن أبـي رزين: { وَلَـٰكِن كُونُواْ رَبَّـٰنِيِّينَ }: حكماء علـماء.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي يعقوب بن إبراهيـم، قال: ثنا هشيـم، عن عوف، عن الـحسن فـي
+  قوله: { كُونُواْ رَبَّـٰنِيِّينَ } قال: كونوا فقهاء علـماء.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  مـحمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، عن ابن أبـي نـجيح، عن مـجاهد فـي
+  قوله: { كُونُواْ رَبَّـٰنِيِّينَ } قال: فقهاء.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  الـمثنى، قال: ثنا أبو حذيفة، قال: ثنا شبل، عن ابن أبـي نـجيح، عن مـجاهد، مثله.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا القاسم، قال: ثنا الـحسين، قال: ثنـي حجاج، عن ابن جريج، قال:
+  أخبرنـي القاسم، عن مـجاهد، قوله: { وَلَـٰكِن كُونُواْ رَبَّـٰنِيِّينَ } قال: فقهاء.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة قوله: { وَلَـٰكِن
+  كُونُواْ رَبَّـٰنِيِّينَ } قال: كونوا فقهاء علـماء.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  الـحسن بن يحيـى، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر عن منصور بن الـمعتـمر،
+  عن أبـي رزين فـي قوله: { كُونُواْ رَبَّـٰنِيِّينَ } قال: علـماء حكماء. قال معمر:
+  قال قتادة.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا مـحمد بن الـحسين، قال: ثنا
+  أحمد بن الـمفضل، قال: ثنا أسبـاط، عن السديّ فـي قوله: { كُونُواْ رَبَّـٰنِيِّينَ
+  } أما الربـانـيون: فـالـحكماء الفقهاء.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  يونس، قال: أخبرنا ابن وهب، قال: أخبرنا سفـيان، عن ابن أبـي نـجيح، عن مـجاهد، قال
+  الربـانـيون: الفقهاء العلـماء، وهم فوق الأحبـار.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  مـحمد بن سعد، قال: ثنـي أبـي، قال: ثنـي عمي، قال: ثنـي أبـي، عن أبـيه، عن ابن عبـاس
+  قوله: { وَلَـٰكِن كُونُواْ رَبَّـٰنِيِّينَ } يقول: كونوا حكماء فقهاء.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثت عن الـمنـجاب، قال: ثنا بشر بن عمارة، عن أبـي حمزة الثمالـي،
+  عن يحيـى بن عقـيـل فـي قوله الربـانـيون والأحبـار، قال: الفقهاء العلـماء.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(3, 79)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(3,79)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">مَا كَانَ لِبَشَرٍ أَن يُؤْتِيهُ ٱللَّهُ ٱلْكِتَٰبَ
+  وَٱلْحُكْمَ وَٱلنُّبُوَّةَ ثُمَّ يَقُولَ لِلنَّاسِ كُونُواْ عِبَاداً لِّي مِن دُونِ
+  ٱللَّهِ وَلَـٰكِن كُونُواْ رَبَّـٰنِيِّينَ بِمَا كُنتُمْ تُعَلِّمُونَ ٱلْكِتَٰبَ
+  وَبِمَا كُنْتُمْ تَدْرُسُونَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\"
+  dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">حدثت عن الـمنـجاب،
+  قال: ثنا بشر، عن أبـي روق، عن الضحاك، عن ابن عبـاس، مثله.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  ابن سنان القزاز، قال: ثنا الـحسين بن الـحسن الأشقر، قال: ثنا أبو كدينة، عن عطاء
+  بن السائب، عن سعيد بن جبـير، عن ابن عبـاس فـي قوله: { كُونُواْ رَبَّـٰنِيِّينَ }
+  قال: كونوا حكماء فقهاء.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثت عن الـحسين بن الفرج، قال:
+  سمعت أبـا معاذ، قال: أخبرنا عبـيد بن سلـيـمان، قال: سمعت الضحاك يقول فـي قوله: {
+  كُونُواْ رَبَّـٰنِيِّينَ } يقول: كونوا فقهاء علـماء.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  آخرون: بل هم الـحكماء الأتقـياء. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  يحيـى بن طلـحة الـيربوعي، قال: ثنا فضيـل بن عياض، عن عطاء بن السائب، عن سعيد بن
+  جبـير، قوله: { كُونُواْ رَبَّـٰنِيِّينَ } قال: حكماء أتقـياء.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال آخرون: بل هم ولاة الناس وقادتهم. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي يونس بن عبد الأعلـى، قال: أخبرنا ابن وهب، قال: سمعت ابن زيد
+  يقول فـي قوله: { كُونُواْ رَبَّـٰنِيِّينَ } قال: الربـانـيون: الذين يربون الناس
+  ولاة هذا الأمر، يربونهم: يـلونهم. وقرأ: { لَوْلاَ يَنْهَـٰهُمُ ٱلرَّبَّـٰنِيُّونَ
+  وَٱلأحْبَارُ } قال: الربـانـيون: الولاة، والأحبـار: العلـماء.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قال أبو جعفر: وأولـى الأقوال عندي بـالصواب فـي الربـانـيـين أنهم
+  جمع ربـانـيّ، وأن الربـانـيّ الـمنسوب إلـى الرَّبَّـان: الذي يربُّ الناس، وهو الذي
+  يصلـح أمورهم ويربها، ويقوم بها، ومنه قول علقمة بن عبدة:</font></font><table class=\"TextArabic\"
+  dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">وكنتَ امْرأً أفْضَتْ إِلَـيْكَ رِبَـابَتِـي</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">وَقَبْلَكَ رَبَّتْنِـي فَضِعْتُ رُبُوبُ</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">يعنـي بقوله: «ربّتنـي»: ولـي أمري
+  والقـيام به قبلك من يربه ويصلـحه، فلـم يصلـحوه، ولكنهم أضاعونـي فضعت، يقال منه:
+  ربّ أمري فلان فهو بربُّه رَبًّـا وهو رابُّه، فإذا أريد به الـمبـالغة فـي مدحه قـيـل:
+  هو رَبَّـان، كما يقال: هو نعسان، من قولهم: نَعَس ينعُس، وأكثر ما يجيء من الأسماء
+  علـى فعلان ما كان من الأفعال الـماضية علـى فَعِل مثل قولهم: هو سكران وعطشان وريان،
+  من سَكِرَ يَسْكَر، وعَطِش يَعطش، ورَوِي يَرْوَى، وقد يجيء مـما كان ماضيه علـى فَعَل
+  يَفْعُل، نـحو ما قلنا من نَعَسَ يَنْعُس، ورَبَّ يَرُبُّ.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">فإذا
+  كان الأمر فـي ذلك علـى ما وصفنا، وكان الربـان ما ذكرنا، والربـانـي: هو الـمنسوب
+  إلـى من كان بـالصفة التـي وصفت، وكان العالـم بـالفقه والـحكمة من الـمصلـحين، يربّ
+  أمور الناس بتعلـيـمه إياهم الـخير، ودعائهم إلـى ما فـيه مصلـحتهم، وكان كذلك الـحكيـم
   التقـيّ لله، والولـي الذي يـلـي أمور الناس علـى الـمنهاج الذي ولـيه الـمقسطون من
   الـمصلـحين أمور الـخـلق بـالقـيام فـيهم، بـما فـيه صلاح عاجلهم وآجلهم، وعائدة النفع
   علـيهم فـي دينهم ودنـياهم؛ كانوا جميعاً مستـحقـين أنهم مـمن دخـل فـي قوله عزّ وجلّ
   { وَلَـٰكِن كُونُواْ رَبَّـٰنِيّينَ }. فـالربـانـيون إذاً، هم عماد الناس فـي الفقه
   والعلـم وأمور الدين والدنـيا، ولذلك قال مـجاهد: «وهم فوق الأحبـار»، لأن الأحبـار
   هم العلـماء. والربـانـي: الـجامع إلـى العلـم والفقه، البصرَ بـالسياسة والتدبـير،
-  والقـيام بأمور الرعية، وما يصلـحهم فـي دنـياهم ودينهم.\r\n\t\t\t\r\n\t\t\t1 2 3 4 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ مَا كَانَ لِبَشَرٍ أَن يُؤْتِيهُ ٱللَّهُ
-  ٱلْكِتَٰبَ وَٱلْحُكْمَ وَٱلنُّبُوَّةَ ثُمَّ يَقُولَ لِلنَّاسِ كُونُواْ عِبَاداً
-  لِّي مِن دُونِ ٱللَّهِ وَلَـٰكِن كُونُواْ رَبَّـٰنِيِّينَ بِمَا كُنتُمْ تُعَلِّمُونَ
-  ٱلْكِتَٰبَ وَبِمَا كُنْتُمْ تَدْرُسُونَ }القول فـي تأويـل قوله تعالـى: { بِمَا كُنتُمْ
-  تُعَلّمُونَ ٱلْكِتَـٰبَ وَبِمَا كُنتُمْ تَدْرُسُونَ }.اختلفت القراء فـي قراءة ذلك،
-  فقرأه عامة قراء أهل الـحجاز وبعض البصريـين: «بِـمَا كُنْتُـمْ تَعْلَـمُونَ» بفتـح
-  التاء وتـخفـيف اللام، يعنـي: بعلـمكم الكتاب، ودراستكم إياه وقراءتكم. واعتلّوا لاختـيارهم
+  والقـيام بأمور الرعية، وما يصلـحهم فـي دنـياهم ودينهم.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">3 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(3, 79)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(3,79)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">مَا كَانَ لِبَشَرٍ أَن يُؤْتِيهُ ٱللَّهُ ٱلْكِتَٰبَ
+  وَٱلْحُكْمَ وَٱلنُّبُوَّةَ ثُمَّ يَقُولَ لِلنَّاسِ كُونُواْ عِبَاداً لِّي مِن دُونِ
+  ٱللَّهِ وَلَـٰكِن كُونُواْ رَبَّـٰنِيِّينَ بِمَا كُنتُمْ تُعَلِّمُونَ ٱلْكِتَٰبَ
+  وَبِمَا كُنْتُمْ تَدْرُسُونَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\"
+  dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">القول فـي تأويـل
+  قوله تعالـى: { بِمَا كُنتُمْ تُعَلّمُونَ ٱلْكِتَـٰبَ وَبِمَا كُنتُمْ تَدْرُسُونَ
+  }.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">اختلفت القراء فـي قراءة ذلك، فقرأه
+  عامة قراء أهل الـحجاز وبعض البصريـين: «بِـمَا كُنْتُـمْ تَعْلَـمُونَ» بفتـح التاء
+  وتـخفـيف اللام، يعنـي: بعلـمكم الكتاب، ودراستكم إياه وقراءتكم. واعتلّوا لاختـيارهم
   قراءة ذلك كذلك، بأن الصواب لو كان التشديد فـي اللام وضمّ التاء، لكان الصواب فـي
   «تدرسون» بضم التاء وتشديد الراء. وقرأ ذلك عامة قراء الكوفـيـين: { بِمَا كُنتُمْ
   تُعَلّمُونَ ٱلْكِتَـٰبَ } بضم التاء من تعلِّـمون وتشديد اللام، بـمعنى: بتعلـيـمكم
   الناس الكتاب، ودراستكم إياه. واعتلّوا لاختـيارهم ذلك بأن من وصفهم بـالتعلـيـم فقد
-  وصفهم بـالعلـم، إذ لا يعلِّـمون إلا بعد علـمهم بـما يعلـمون.قالوا: ولا موصوف بأنه
-  يعلـم، إلا وهو موصوف بأنه عالـم. قالوا: فأما الـموصوف بأنه عالـم، فغير موصوف بأنه
-  معلـم غيره. قالوا: فأولـى القراءتـين بـالصواب، أبلغهما فـي مدح القوم، وذلك وصفهم
-  بأنهم كانوا يعلِّـمون الناس الكتاب. كما:حدثنـي الـمثنى، قال: ثنا إسحاق، قال: ثنا
-  يحيـى بن آدم، عن ابن عيـينة، عن حميد الأعرج، عن مـجاهد أنه قرأ: «بِـمَا كُنْتُم
-  تَعْلَـمُونَ الكِتابَ وَبِـمَا كُنْتُـمْ تَدْرُسُونَ» مخففة بنصب التاء. وقال ابن
-  عيـينة: ما عَلَّـموه حتـى عَلِـموه.وأولـى القراءتـين بـالصواب فـي ذلك قراءة من قرأه
-  بضم التاء وتشديد اللام، لأن الله عزّ وجلّ وصف القوم بأنهم أهل عماد للناس فـي دينهم
-  ودنـياهم، وأهل إصلاح لهم ولأمورهم وتربـية، يقول جلّ ثناؤه: { وَلَـٰكِن كُونُواْ
-  رَبَّـٰنِيّينَ } علـى ما بـينا قبل من معنى الربـانـي. ثم أخبر تعالـى ذكره عنهم أنهم
-  صاروا أهل إصلاح للناس، وتربـية لهم بتعلـيـمهم إياهم كتاب ربهم. ودراستهم إياه: تلاوته،
-  وقد قـيـل: دراستهم الفقه.وأشبه التأويـلـين بـالدراسة ما قلنا من تلاوة الكتاب، لأنه
-  عطف علـى قوله: { تُعَلّمُونَ ٱلْكِتَـٰبَ } ، والكتاب: هو القرآن، فلأن تكون الدراسة
-  معنـياً بها دراسة القرآن أولـى من أن تكون معنـياً بها دراسة الفقه الذي لـم يجر له
-  ذكر. ذكر من قال ذلك:حدثنـي الـمثنى، قال: ثنا إسحاق، قال: قال يحيـى بن آدم: قال أبو
-  زكريا: كان عاصم يقرؤها: { بِمَا كُنتُمْ تُعَلّمُونَ ٱلْكِتَـٰبَ } قال: القرآن، {
-  وَبِمَا كُنتُمْ تَدْرُسُونَ } قال: الفقه.فمعنى الآية: ولكن يقول لهم: كونوا أيها
-  الناس سادة الناس وقادتهم فـي أمر دينهم ودنـياهم، ربـانـيـين بتعلـيـمكم إياهم كتاب
-  الله، وما فـيه من حلال وحرام، وفرض وندب، وسائر ما حواه من معانـي أمور دينهم، وبتلاوتكم
-  إياه ودراستكموه.\r\n\t\t\t\r\n\t\t\t1 2 3 4 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  وصفهم بـالعلـم، إذ لا يعلِّـمون إلا بعد علـمهم بـما يعلـمون.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قالوا: ولا موصوف بأنه يعلـم، إلا وهو موصوف بأنه عالـم. قالوا: فأما
+  الـموصوف بأنه عالـم، فغير موصوف بأنه معلـم غيره. قالوا: فأولـى القراءتـين بـالصواب،
+  أبلغهما فـي مدح القوم، وذلك وصفهم بأنهم كانوا يعلِّـمون الناس الكتاب. كما:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي الـمثنى، قال: ثنا إسحاق، قال: ثنا يحيـى بن آدم، عن ابن عيـينة،
+  عن حميد الأعرج، عن مـجاهد أنه قرأ: «بِـمَا كُنْتُم تَعْلَـمُونَ الكِتابَ وَبِـمَا
+  كُنْتُـمْ تَدْرُسُونَ» مخففة بنصب التاء. وقال ابن عيـينة: ما عَلَّـموه حتـى عَلِـموه.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وأولـى القراءتـين بـالصواب فـي ذلك قراءة من قرأه بضم التاء وتشديد
+  اللام، لأن الله عزّ وجلّ وصف القوم بأنهم أهل عماد للناس فـي دينهم ودنـياهم، وأهل
+  إصلاح لهم ولأمورهم وتربـية، يقول جلّ ثناؤه: { وَلَـٰكِن كُونُواْ رَبَّـٰنِيّينَ
+  } علـى ما بـينا قبل من معنى الربـانـي. ثم أخبر تعالـى ذكره عنهم أنهم صاروا أهل إصلاح
+  للناس، وتربـية لهم بتعلـيـمهم إياهم كتاب ربهم. ودراستهم إياه: تلاوته، وقد قـيـل:
+  دراستهم الفقه.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وأشبه التأويـلـين بـالدراسة ما
+  قلنا من تلاوة الكتاب، لأنه عطف علـى قوله: { تُعَلّمُونَ ٱلْكِتَـٰبَ } ، والكتاب:
+  هو القرآن، فلأن تكون الدراسة معنـياً بها دراسة القرآن أولـى من أن تكون معنـياً بها
+  دراسة الفقه الذي لـم يجر له ذكر. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  الـمثنى، قال: ثنا إسحاق، قال: قال يحيـى بن آدم: قال أبو زكريا: كان عاصم يقرؤها:
+  { بِمَا كُنتُمْ تُعَلّمُونَ ٱلْكِتَـٰبَ } قال: القرآن، { وَبِمَا كُنتُمْ تَدْرُسُونَ
+  } قال: الفقه.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">فمعنى الآية: ولكن يقول لهم: كونوا
+  أيها الناس سادة الناس وقادتهم فـي أمر دينهم ودنـياهم، ربـانـيـين بتعلـيـمكم إياهم
+  كتاب الله، وما فـيه من حلال وحرام، وفرض وندب، وسائر ما حواه من معانـي أمور دينهم،
+  وبتلاوتكم إياه ودراستكموه.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">4 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section>"
 

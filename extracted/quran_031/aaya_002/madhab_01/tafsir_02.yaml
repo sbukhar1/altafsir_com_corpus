@@ -1,4 +1,4 @@
-location:
+position:
   sura: '031'
   aaya: '002'
   madhab: '01'
@@ -7,17 +7,42 @@ meta:
   title: تفسير الكشاف
   author: الزمخشري
   year: '538'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ الۤـمۤ } * { تِلْكَ
-  آيَاتُ ٱلْكِتَابِ ٱلْحَكِيمِ } * { هُدًى وَرَحْمَةً لِّلْمُحْسِنِينَ } * { ٱلَّذِينَ
-  يُقِيمُونَ ٱلصَّلاَةَ وَيُؤْتُونَ ٱلزَّكَاةَ وَهُمْ بِٱلآخِرَةِ هُمْ يُوقِنُونَ
-  } * { أُوْلَـٰئِكَ عَلَىٰ هُدًى مِّن رَّبِّهِمْ وَأُوْلَـٰئِكَ هُمُ ٱلْمُفْلِحُونَ
-  }{ ٱلْكِتَـٰبِ ٱلْحَكِيمِ } ذي الحكمة. أو وصف بصفة الله تعالى على الإسناد المجازي.
-  ويجوز أن يكون الأصل: الحكيم قائله، فحذف المضاف وأقيم المضاف إليه مقامه، فبانقلابه
-  مرفوعاً بعد الجر استكن في الصفة المشبهة { هُدًى وَرَحْمَةً } بالنصب على الحال عن
-  الآيات، والعامل فيها: ما في تلك من معنى الإشارة. وبالرفع على أنه خبر بعد خبر، أو
-  خبر مبتدأ محذوف { لّلْمُحْسِنِينَ } للذين يعملون الحسنات وهي التي ذكرها: من إقامة
-  الصلاة، وإيتاء الزكاة، والإيقان بالآخرة ونظيره قول أوس:الأَلْمَعِيُّ الَّذِي يَظُنُّ
-  بِكَ الظَّنَّ   كَأَنْ قَدْ رَأَى وَقَدْ سَمِعَاحكى عن الأصمعي: أنه سئل عن الألمعي
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(31, 1)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(31,1)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">الۤـمۤ</a>
+  <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">تِلْكَ
+  آيَاتُ ٱلْكِتَابِ ٱلْحَكِيمِ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">هُدًى وَرَحْمَةً لِّلْمُحْسِنِينَ</a> <b>}
+  * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">ٱلَّذِينَ
+  يُقِيمُونَ ٱلصَّلاَةَ وَيُؤْتُونَ ٱلزَّكَاةَ وَهُمْ بِٱلآخِرَةِ هُمْ يُوقِنُونَ</a>
+  <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">أُوْلَـٰئِكَ
+  عَلَىٰ هُدًى مِّن رَّبِّهِمْ وَأُوْلَـٰئِكَ هُمُ ٱلْمُفْلِحُونَ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">{ ٱلْكِتَـٰبِ ٱلْحَكِيمِ } ذي الحكمة. أو وصف بصفة الله تعالى على
+  الإسناد المجازي. ويجوز أن يكون الأصل: الحكيم قائله، فحذف المضاف وأقيم المضاف إليه
+  مقامه، فبانقلابه مرفوعاً بعد الجر استكن في الصفة المشبهة { هُدًى وَرَحْمَةً } بالنصب
+  على الحال عن الآيات، والعامل فيها: ما في تلك من معنى الإشارة. وبالرفع على أنه خبر
+  بعد خبر، أو خبر مبتدأ محذوف { لّلْمُحْسِنِينَ } للذين يعملون الحسنات وهي التي ذكرها:
+  من إقامة الصلاة، وإيتاء الزكاة، والإيقان بالآخرة ونظيره قول أوس:</font></font><table
+  class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">الأَلْمَعِيُّ الَّذِي يَظُنُّ بِكَ الظَّنَّ</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">كَأَنْ قَدْ رَأَى وَقَدْ سَمِعَا</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">حكى عن الأصمعي: أنه سئل عن الألمعي
   فأنشده ولم يزد. أو للذين يعملون جميع ما يحسن من الأعمال، ثم خص منهم القائمين بهذه
-  الثلاث بفضل الاعتداد بها.\r\n\t\t\t\r\n\t\t\t</section>"
+  الثلاث بفضل الاعتداد بها.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

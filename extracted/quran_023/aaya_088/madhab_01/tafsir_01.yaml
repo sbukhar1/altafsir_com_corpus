@@ -1,4 +1,4 @@
-location:
+position:
   sura: '023'
   aaya: 088
   madhab: '01'
@@ -7,24 +7,51 @@ meta:
   title: تفسير جامع البيان في تفسير القرآن
   author: الطبري
   year: '310'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ قُلْ مَن بِيَدِهِ
-  مَلَكُوتُ كُلِّ شَيْءٍ وَهُوَ يُجْيِرُ وَلاَ يُجَارُ عَلَيْهِ إِن كُنتُمْ تَعْلَمُونَ
-  } * { سَيَقُولُونَ لِلَّهِ قُلْ فَأَنَّىٰ تُسْحَرُونَ }يقول تعالـى ذكره لنبـيه مـحمد
-  صلى الله عليه وسلم: قل يا مـحمد: من بـيده خزائن كلّ شيء؟ كما:حدثنـي مـحمد بن عمرو،
-  قال: ثنا أبو عاصم، قال: ثنا عيسى وحدثنـي الـحارث، قال: ثنا الـحسن قال: ثنا ورقاء
-  جميعا، عن ابن أبـي نـجيح، عن مـجاهد، فـي قول الله: { مَلَكُوتُ كُلِّ شَيْءٍ } قال:
-  خزائن كلّ شيء.حدثناالقاسم، قال: ثنا الـحسين، قال: ثنـي حجاج، عن مـجاهد، فـي قول
-  الله: { قُلْ مَنْ بِـيَدِهِ مَلَكُوتُ كُلِّ شَيْءٍ } قال: خزائن كلّ شيء.وقوله: {
-  وَهُوَ يُجِيرُ } من أراد مـمن قصده بسوء. { وَلا يُجارُ عَلَـيْهِ } يقول: ولا أحد
-  يـمتنع مـمن أراده هو بسوء فـيدفع عنه عذابه وعقابه. { إنْ كُنْتُـمْ تَعْلَـمُونَ
-  } من ذلك صفته، فإنهم يقولون: إن ملكوت كلّ شيء والقدرة علـى الأشياء كلها لله. فقل
-  لهم يا مـحمد: { فَأنَّى تُسْحَرُونَ } يقولون: فمن أيّ وجه تُصْرَفون عن التصديق بآيات
-  الله والإقرار بأخبـاره وأخبـار رسوله والإيـمان بأن الله القادر علـى كل ما يشاء وعلـى
-  بعثكم أحياء بعد مـماتكم، مع علـمكم بـما تقولون من عظيـم سلطانه وقدرته؟وكان ابن عبـاس
-  فـيـما ذُكر عنه يقول فـي معنى قوله { تُسْحَرُونَ } ما:حدثنـي به علـيّ، قال: ثنا
-  عبد الله قال: ثنـي معاوية، عن علـيّ، عن ابن عبـاس، قوله: { فَأنَّى تُسْحَرُونَ }
-  يقول: تكذبون.وقد بـيَّنت فـيـما مضى السِّحْر: أنه تـخيـيـل الشيء إلـى الناظر أنه
-  علـى خلاف ما هو به من هيئته، فذلك معنى قوله: { فَأنَّى تُسْحَرُونَ } إنـما معناه:
-  فمن أيّ وجه يُخَيـلَّ إلـيكم الكذب حقًّاً والفـاسد صحيحاً، فتصرفون عن الإقرار بـالـحقّ
-  الذي يدعوكم إلـيه رسولنا مـحمد صلى الله عليه وسلم.\r\n\t\t\t\r\n\t\t\t</section>"
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(23, 88)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(23,88)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">قُلْ
+  مَن بِيَدِهِ مَلَكُوتُ كُلِّ شَيْءٍ وَهُوَ يُجْيِرُ وَلاَ يُجَارُ عَلَيْهِ إِن كُنتُمْ
+  تَعْلَمُونَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">سَيَقُولُونَ لِلَّهِ قُلْ فَأَنَّىٰ تُسْحَرُونَ</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">يقول تعالـى ذكره لنبـيه مـحمد صلى الله عليه وسلم: قل يا مـحمد: من
+  بـيده خزائن كلّ شيء؟ كما:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي مـحمد بن عمرو، قال: ثنا
+  أبو عاصم، قال: ثنا عيسى وحدثنـي الـحارث، قال: ثنا الـحسن قال: ثنا ورقاء جميعا، عن
+  ابن أبـي نـجيح، عن مـجاهد، فـي قول الله: { مَلَكُوتُ كُلِّ شَيْءٍ } قال: خزائن كلّ
+  شيء.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثناالقاسم، قال: ثنا الـحسين،
+  قال: ثنـي حجاج، عن مـجاهد، فـي قول الله: { قُلْ مَنْ بِـيَدِهِ مَلَكُوتُ كُلِّ شَيْءٍ
+  } قال: خزائن كلّ شيء.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقوله: { وَهُوَ يُجِيرُ } من أراد
+  مـمن قصده بسوء. { وَلا يُجارُ عَلَـيْهِ } يقول: ولا أحد يـمتنع مـمن أراده هو بسوء
+  فـيدفع عنه عذابه وعقابه. { إنْ كُنْتُـمْ تَعْلَـمُونَ } من ذلك صفته، فإنهم يقولون:
+  إن ملكوت كلّ شيء والقدرة علـى الأشياء كلها لله. فقل لهم يا مـحمد: { فَأنَّى تُسْحَرُونَ
+  } يقولون: فمن أيّ وجه تُصْرَفون عن التصديق بآيات الله والإقرار بأخبـاره وأخبـار
+  رسوله والإيـمان بأن الله القادر علـى كل ما يشاء وعلـى بعثكم أحياء بعد مـماتكم، مع
+  علـمكم بـما تقولون من عظيـم سلطانه وقدرته؟</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وكان
+  ابن عبـاس فـيـما ذُكر عنه يقول فـي معنى قوله { تُسْحَرُونَ } ما:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي به علـيّ، قال: ثنا عبد الله قال: ثنـي معاوية، عن علـيّ، عن
+  ابن عبـاس، قوله: { فَأنَّى تُسْحَرُونَ } يقول: تكذبون.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقد
+  بـيَّنت فـيـما مضى السِّحْر: أنه تـخيـيـل الشيء إلـى الناظر أنه علـى خلاف ما هو
+  به من هيئته، فذلك معنى قوله: { فَأنَّى تُسْحَرُونَ } إنـما معناه: فمن أيّ وجه يُخَيـلَّ
+  إلـيكم الكذب حقًّاً والفـاسد صحيحاً، فتصرفون عن الإقرار بـالـحقّ الذي يدعوكم إلـيه
+  رسولنا مـحمد صلى الله عليه وسلم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

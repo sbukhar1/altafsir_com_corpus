@@ -1,4 +1,4 @@
-location:
+position:
   sura: '011'
   aaya: '102'
   madhab: '01'
@@ -9,20 +9,45 @@ meta:
   year: '310'
 aaya: وَكَذَٰلِكَ أَخْذُ رَبِّكَ إِذَا أَخَذَ الْقُرَىٰ وَهِيَ ظَالِمَةٌ ۚ إِنَّ أَخْذَهُ
   أَلِيمٌ شَدِيدٌ
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَكَذٰلِكَ أَخْذُ
-  رَبِّكَ إِذَا أَخَذَ ٱلْقُرَىٰ وَهِيَ ظَالِمَةٌ إِنَّ أَخْذَهُ أَلِيمٌ شَدِيدٌ }يقول
-  تعالـى ذكره: وكما أخذت أيها الناس أهل هذه القرى التـي اقتصصت علـيك نبأ أهلها بـما
-  أخذتهم به من العذاب، علـى خلافهم أمري وتكذيبهم رسلـي وجحودهم آياتـي، فكذلك أخذي
-  القرى وأهلها إذا أخذتهم بعقابـي وهم ظلـمة لأنفسهم بكفرهم بـالله وإشراكهم به غيره
-  وتكذيبهم رسله. { إنَّ أخْذهُ ألِـيـمٌ } يقول: إن أخذ ربكم بـالعقاب من أخذه ألـيـم،
-  يقول: موجع { شَدِيدٌ } الإيجاع، وهذا أمر من الله تـحذير لهذه الأمة أن يسلكوا فـي
-  معصيته طريق من قبلهم من الأمـم الفـاجرة، فـيحلّ بهم ما حلّ بهم من الـمثلات. كما:حدثنا
-  أبو كريب، قال: ثنا أبو معاوية، عن يزيد بن أبـي بردة، عن أبـيه، عن أبـي موسى، قال:
-  قال رسول الله صلى الله عليه وسلم: \" إنّ الله يُـمْلـي \" وربـما قال: \" يُـمْهِلُ
-  للظّالـم، حَتَّـى إذَا أخَذَهُ لَـمْ يُفْلِتْهُ \" ثم قرأ: { وكذلك أخْذُ ربِّك إذَا
-  أخَذ القُرى وهِي ظالِـمَةٌ }.حدثنـي يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد:
-  إن الله حذّر هذه الأمة سطوته بقوله: { وكذلك أخْذُ رَبِّكَ إذَا أخَذَ القُرَى وَهِيَ
-  ظالِـمَةٌ إنَّ أخْذَهُ ألِـيـمٌ شَدِيدٌ }.وكان عاصم الـجحدري يقرأ ذلك: «وكذلكَ أخْذُ
-  رَبِّكَ إذْ أخَذَ القُرَى وَهِيَ ظالِـمَةٌ». وذلك قراءة لا أستـجيز بها لـخلافها
-  مصاحف الـمسلـمين وما علـيه قرأة الأمصار.\r\n\t\t\t\r\n\t\t\t</section>"
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(11, 102)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(11,102)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَكَذٰلِكَ
+  أَخْذُ رَبِّكَ إِذَا أَخَذَ ٱلْقُرَىٰ وَهِيَ ظَالِمَةٌ إِنَّ أَخْذَهُ أَلِيمٌ شَدِيدٌ</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">يقول تعالـى ذكره: وكما أخذت أيها الناس أهل هذه القرى التـي اقتصصت
+  علـيك نبأ أهلها بـما أخذتهم به من العذاب، علـى خلافهم أمري وتكذيبهم رسلـي وجحودهم
+  آياتـي، فكذلك أخذي القرى وأهلها إذا أخذتهم بعقابـي وهم ظلـمة لأنفسهم بكفرهم بـالله
+  وإشراكهم به غيره وتكذيبهم رسله. { إنَّ أخْذهُ ألِـيـمٌ } يقول: إن أخذ ربكم بـالعقاب
+  من أخذه ألـيـم، يقول: موجع { شَدِيدٌ } الإيجاع، وهذا أمر من الله تـحذير لهذه الأمة
+  أن يسلكوا فـي معصيته طريق من قبلهم من الأمـم الفـاجرة، فـيحلّ بهم ما حلّ بهم من
+  الـمثلات. كما:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا أبو كريب، قال: ثنا أبو معاوية،
+  عن يزيد بن أبـي بردة، عن أبـيه، عن أبـي موسى، قال: قال رسول الله صلى الله عليه وسلم:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" إنّ الله يُـمْلـي \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\">وربـما قال:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" يُـمْهِلُ للظّالـم، حَتَّـى إذَا
+  أخَذَهُ لَـمْ يُفْلِتْهُ \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">ثم قرأ: { وكذلك أخْذُ ربِّك إذَا أخَذ القُرى وهِي ظالِـمَةٌ }.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد: إن الله حذّر
+  هذه الأمة سطوته بقوله: { وكذلك أخْذُ رَبِّكَ إذَا أخَذَ القُرَى وَهِيَ ظالِـمَةٌ
+  إنَّ أخْذَهُ ألِـيـمٌ شَدِيدٌ }.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وكان
+  عاصم الـجحدري يقرأ ذلك: «وكذلكَ أخْذُ رَبِّكَ إذْ أخَذَ القُرَى وَهِيَ ظالِـمَةٌ».
+  وذلك قراءة لا أستـجيز بها لـخلافها مصاحف الـمسلـمين وما علـيه قرأة الأمصار.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

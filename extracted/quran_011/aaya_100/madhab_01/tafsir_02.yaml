@@ -1,4 +1,4 @@
-location:
+position:
   sura: '011'
   aaya: '100'
   madhab: '01'
@@ -8,16 +8,35 @@ meta:
   author: الزمخشري
   year: '538'
 aaya: ذَٰلِكَ مِنْ أَنْبَاءِ الْقُرَىٰ نَقُصُّهُ عَلَيْكَ ۖ مِنْهَا قَائِمٌ وَحَصِيدٌ
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ ذَلِكَ مِنْ أَنْبَآءِ
-  ٱلْقُرَىٰ نَقُصُّهُ عَلَيْكَ مِنْهَا قَآئِمٌ وَحَصِيدٌ } * { وَمَا ظَلَمْنَاهُمْ
-  وَلَـٰكِن ظَلَمُوۤاْ أَنفُسَهُمْ فَمَا أَغْنَتْ عَنْهُمْ آلِهَتُهُمُ ٱلَّتِي يَدْعُونَ
-  مِن دُونِ ٱللَّهِ مِن شَيْءٍ لَّمَّا جَآءَ أَمْرُ رَبِّكَ وَمَا زَادُوهُمْ غَيْرَ
-  تَتْبِيبٍ }{ ذَٰلِكَ } مبتدأ { مِنْ أَنْبَاء ٱلْقُرَىٰ نَقُصُّهُ عَلَيْكَ } خبر
-  بعد خبر، أي: ذلك النبأ بعض أنباء القرى المهلكة مقصوص عليك { مِنْهَا } الضمير للقرى،
-  أي: بعضها باق وبعضها عافي الأثر، كالزرع القائم على ساقه والذي حصد. فإن قلت: ما محمل
-  هذه الجملة؟ قلت: هي مستأنفة لا محل لها { وَمَا ظَلَمْنَـٰهُمْ } بإهلاكنا إياهم {
-  وَلَـٰكِن ظَلَمُواْ أَنفُسَهُمْ } بارتكاب ما به أهلكوا { فَمَا أَغْنَتْ عَنْهُمْ
-  ءالِهَتَهُمُ } فما قدرت أن ترد عنهم بأس الله { يَدْعُونَ } يعبدون وهي حكاية حال
-  ماضية. و { لَّمَّا } منصوب بما أغنت { أَمْرُ رَبّكَ } عذابه ونقمته { تَتْبِيبٍ }
-  تخسير. يقال تبّ إذا خسر. وتببه غيره، إذا أوقعه في الخسران.\r\n\t\t\t\r\n\t\t\t</section>"
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(11, 100)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(11,100)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">ذَلِكَ
+  مِنْ أَنْبَآءِ ٱلْقُرَىٰ نَقُصُّهُ عَلَيْكَ مِنْهَا قَآئِمٌ وَحَصِيدٌ</a> <b>} *
+  </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَمَا
+  ظَلَمْنَاهُمْ وَلَـٰكِن ظَلَمُوۤاْ أَنفُسَهُمْ فَمَا أَغْنَتْ عَنْهُمْ آلِهَتُهُمُ
+  ٱلَّتِي يَدْعُونَ مِن دُونِ ٱللَّهِ مِن شَيْءٍ لَّمَّا جَآءَ أَمْرُ رَبِّكَ وَمَا
+  زَادُوهُمْ غَيْرَ تَتْبِيبٍ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\"
+  dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">{ ذَٰلِكَ } مبتدأ
+  { مِنْ أَنْبَاء ٱلْقُرَىٰ نَقُصُّهُ عَلَيْكَ } خبر بعد خبر، أي: ذلك النبأ بعض أنباء
+  القرى المهلكة مقصوص عليك { مِنْهَا } الضمير للقرى، أي: بعضها باق وبعضها عافي الأثر،
+  كالزرع القائم على ساقه والذي حصد. فإن قلت: ما محمل هذه الجملة؟ قلت: هي مستأنفة لا
+  محل لها { وَمَا ظَلَمْنَـٰهُمْ } بإهلاكنا إياهم { وَلَـٰكِن ظَلَمُواْ أَنفُسَهُمْ
+  } بارتكاب ما به أهلكوا { فَمَا أَغْنَتْ عَنْهُمْ ءالِهَتَهُمُ } فما قدرت أن ترد
+  عنهم بأس الله { يَدْعُونَ } يعبدون وهي حكاية حال ماضية. و { لَّمَّا } منصوب بما
+  أغنت { أَمْرُ رَبّكَ } عذابه ونقمته { تَتْبِيبٍ } تخسير. يقال تبّ إذا خسر. وتببه
+  غيره، إذا أوقعه في الخسران.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

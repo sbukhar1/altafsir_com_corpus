@@ -1,4 +1,4 @@
-location:
+position:
   sura: '051'
   aaya: '043'
   madhab: '01'
@@ -7,23 +7,50 @@ meta:
   title: تفسير جامع البيان في تفسير القرآن
   author: الطبري
   year: '310'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَفِي ثَمُودَ
-  إِذْ قِيلَ لَهُمْ تَمَتَّعُواْ حَتَّىٰ حِينٍ } * { فَعَتَوْاْ عَنْ أَمْرِ رَبِّهِمْ
-  فَأَخَذَتْهُمُ ٱلصَّاعِقَةُ وَهُمْ يَنظُرُونَ }يقول تعالى ذكره: وفي ثمود أيضاً لهم
-  عبرة ومتعظ، إذ قال لهم ربهم، يقول: فتكبروا عن أمر ربهم وعلَوْا استكباراً عن طاعة
-  الله. كما:حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، وحدثني الحارث، قال:
-  ثنا الحسن، قال: ثنا ورقاء جميعاً، عن ابن أبي نجيح، عن مجاهد، قوله: { فَعَتَوْا }
-  قال: عَلَوْا.حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله: { فَعَتَوْا
-  عَنْ أمْرِ رَبِّهِمْ } قال: العاتي: العاصي التارك لأمر الله.وقوله: { فأَخَذَتْهُمُ
-  الصَّاعِقَةُ } يقول تعالى ذكره: فأخذتهم صاعقة العذاب فجأة. وبنحو الذي قلنا في ذلك
-  قال أهل التأويل. ذكر من قال ذلك:حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا
-  عيسى وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء جميعاً، عن ابن أبي نجيح، عن مجاهد،
-  قوله: { فأَخَذَتْهُمْ الصَّاعِقَةُ وَهُمْ يَنْظُرُونَ } وهم ينتظرون، وذلك أن ثمود
-  وُعِدَتِ العذاب قبل نزوله بهم بثلاثة أيام وجُعِل لنزوله عليهم علامات في تلك الثلاثة،
-  فظهرت العلامات التي جعلت لهم الدالة على نزولها في تلك الأيام، فأصبحوا في اليوم الرابع
-  موقنين بأن العذاب بهم نازل، ينتظرون حلوله بهم. وقرأت قراء الأمصار خلا الكسائيّ {
-  فأَخَذَتْهُمُ الصَّاعِقَةُ } بالألف. ورُوي عن عمر بن الخطاب رضي الله عنه أنه قرأ
-  ذلك «فأَخَذَتْهُمُ الصَّعْقَةُ» بغير ألف.حدثنا ابن حُمَيد، قال: ثنا مهران، عن سفيان،
-  عن السديّ، عن عمرو بن ميمون الأَودِي، أن عمر بن الخطاب رضي الله عنه قرأ «فأَخَذَتْهُمُ
-  الصَّعْقَةُ»، وكذلك قرأ الكسائي: وبالألف نقرأ الصاعقة لإجماع الحجة من القرّاء عليها.\r\n\t\t\t\r\n\t\t\t</section>"
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(51, 43)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(51,43)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَفِي
+  ثَمُودَ إِذْ قِيلَ لَهُمْ تَمَتَّعُواْ حَتَّىٰ حِينٍ</a> <b>} * </b><b>{</b> <a
+  class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">فَعَتَوْاْ
+  عَنْ أَمْرِ رَبِّهِمْ فَأَخَذَتْهُمُ ٱلصَّاعِقَةُ وَهُمْ يَنظُرُونَ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">يقول تعالى ذكره: وفي ثمود أيضاً لهم عبرة ومتعظ، إذ قال لهم ربهم،
+  يقول: فتكبروا عن أمر ربهم وعلَوْا استكباراً عن طاعة الله. كما:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، وحدثني الحارث،
+  قال: ثنا الحسن، قال: ثنا ورقاء جميعاً، عن ابن أبي نجيح، عن مجاهد، قوله: { فَعَتَوْا
+  } قال: عَلَوْا.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثني يونس، قال: أخبرنا ابن وهب،
+  قال: قال ابن زيد، في قوله: { فَعَتَوْا عَنْ أمْرِ رَبِّهِمْ } قال: العاتي: العاصي
+  التارك لأمر الله.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقوله: { فأَخَذَتْهُمُ الصَّاعِقَةُ
+  } يقول تعالى ذكره: فأخذتهم صاعقة العذاب فجأة. وبنحو الذي قلنا في ذلك قال أهل التأويل.
+  ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثني محمد بن عمرو، قال: ثنا أبو
+  عاصم، قال: ثنا عيسى وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء جميعاً، عن ابن
+  أبي نجيح، عن مجاهد، قوله: { فأَخَذَتْهُمْ الصَّاعِقَةُ وَهُمْ يَنْظُرُونَ } وهم
+  ينتظرون، وذلك أن ثمود وُعِدَتِ العذاب قبل نزوله بهم بثلاثة أيام وجُعِل لنزوله عليهم
+  علامات في تلك الثلاثة، فظهرت العلامات التي جعلت لهم الدالة على نزولها في تلك الأيام،
+  فأصبحوا في اليوم الرابع موقنين بأن العذاب بهم نازل، ينتظرون حلوله بهم. وقرأت قراء
+  الأمصار خلا الكسائيّ { فأَخَذَتْهُمُ الصَّاعِقَةُ } بالألف. ورُوي عن عمر بن الخطاب
+  رضي الله عنه أنه قرأ ذلك «فأَخَذَتْهُمُ الصَّعْقَةُ» بغير ألف.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن حُمَيد، قال: ثنا مهران، عن سفيان، عن السديّ، عن عمرو بن
+  ميمون الأَودِي، أن عمر بن الخطاب رضي الله عنه قرأ «فأَخَذَتْهُمُ الصَّعْقَةُ»، وكذلك
+  قرأ الكسائي: وبالألف نقرأ الصاعقة لإجماع الحجة من القرّاء عليها.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

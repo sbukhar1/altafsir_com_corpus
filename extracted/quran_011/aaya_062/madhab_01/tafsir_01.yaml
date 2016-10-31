@@ -1,4 +1,4 @@
-location:
+position:
   sura: '011'
   aaya: '062'
   madhab: '01'
@@ -10,15 +10,39 @@ meta:
 aaya: قَالُوا يَا صَالِحُ قَدْ كُنْتَ فِينَا مَرْجُوًّا قَبْلَ هَٰذَا ۖ أَتَنْهَانَا
   أَنْ نَعْبُدَ مَا يَعْبُدُ آبَاؤُنَا وَإِنَّنَا لَفِي شَكٍّ مِمَّا تَدْعُونَا إِلَيْهِ
   مُرِيبٍ
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ قَالُواْ يٰصَالِحُ
-  قَدْ كُنتَ فِينَا مَرْجُوّاً قَبْلَ هَـٰذَا أَتَنْهَانَآ أَن نَّعْبُدَ مَا يَعْبُدُ
-  آبَاؤُنَا وَإِنَّنَا لَفِي شَكٍّ مِّمَّا تَدْعُونَآ إِلَيْهِ مُرِيبٍ }يقول تعالـى
-  ذكره: قالت ثمود لصالـح نبـيهم: { يا صَالِـحُ قَدْ كُنْتَ فـينا مَرْجُوًّا }: أي
-  كنا نرجو أن تكون فـينا سيداً { قَبْلَ هَذَا } القول الذي قلته لنا من أنه مالنا من
-  إله غير الله. { أتَنْهانا أنْ نَعْبُد ما يَعْبُدُ آبـاؤُنا } يقول: أتنهانا أن نعبد
-  الآلهة التـي كانت آبـاؤنا تعبد، { وَإنَّنا لَفِـي شَكّ مِـمَّا تَدْعُونا إلَـيْهِ
-  مُرِيبٍ } يعنون أنهم لا يعلـمون صحة ما يدعوهم إلـيه من توحيد الله، وأن الألوهة لا
-  تكون إلا له خالصاً. وقوله { مُرِيبٍ } أي يوجب التهمة من أَرَبْته فأنا أَرِيُبه إرابة،
-  إذا فعلت به فعلاً يوجب له الريبة، ومنه قول الهُذَلـيّ:كُنتُ إذا أتَوْتُهُ منْ غَيْبِ   يَشُمُّ
-  عِطْفـي وَيُبزُّ ثَوْبِـيكأنـما أرَبْتُهُ بِرَيْبِ   \r\n\t\t\t</section>"
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(11, 62)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(11,62)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">قَالُواْ
+  يٰصَالِحُ قَدْ كُنتَ فِينَا مَرْجُوّاً قَبْلَ هَـٰذَا أَتَنْهَانَآ أَن نَّعْبُدَ
+  مَا يَعْبُدُ آبَاؤُنَا وَإِنَّنَا لَفِي شَكٍّ مِّمَّا تَدْعُونَآ إِلَيْهِ مُرِيبٍ</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">يقول تعالـى ذكره: قالت ثمود لصالـح نبـيهم: { يا صَالِـحُ قَدْ كُنْتَ
+  فـينا مَرْجُوًّا }: أي كنا نرجو أن تكون فـينا سيداً { قَبْلَ هَذَا } القول الذي
+  قلته لنا من أنه مالنا من إله غير الله. { أتَنْهانا أنْ نَعْبُد ما يَعْبُدُ آبـاؤُنا
+  } يقول: أتنهانا أن نعبد الآلهة التـي كانت آبـاؤنا تعبد، { وَإنَّنا لَفِـي شَكّ مِـمَّا
+  تَدْعُونا إلَـيْهِ مُرِيبٍ } يعنون أنهم لا يعلـمون صحة ما يدعوهم إلـيه من توحيد
+  الله، وأن الألوهة لا تكون إلا له خالصاً. وقوله { مُرِيبٍ } أي يوجب التهمة من أَرَبْته
+  فأنا أَرِيُبه إرابة، إذا فعلت به فعلاً يوجب له الريبة، ومنه قول الهُذَلـيّ:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><table class=\"TextArabic\"
+  dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">كُنتُ إذا أتَوْتُهُ منْ غَيْبِ</font></font></b></td><td class=\"TextArabic\">   </td><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">يَشُمُّ
+  عِطْفـي وَيُبزُّ ثَوْبِـي</font></font></b></td></tr><tr class=\"TextArabic\"><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">كأنـما أرَبْتُهُ
+  بِرَيْبِ</font></font></b></td><td class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\"/></font></b></td></tr></table><label disabled=\"true\"
+  class=\"############\"/>&#13;\t\t\t</div></section>"
 

@@ -1,4 +1,4 @@
-location:
+position:
   sura: '002'
   aaya: '145'
   madhab: '02'
@@ -11,50 +11,134 @@ aaya: وَلَئِنْ أَتَيْتَ الَّذِينَ أُوتُوا الْ
   ۚ وَمَا أَنْتَ بِتَابِعٍ قِبْلَتَهُمْ ۚ وَمَا بَعْضُهُمْ بِتَابِعٍ قِبْلَةَ بَعْضٍ
   ۚ وَلَئِنِ اتَّبَعْتَ أَهْوَاءَهُمْ مِنْ بَعْدِ مَا جَاءَكَ مِنَ الْعِلْمِ ۙ إِنَّكَ
   إِذًا لَمِنَ الظَّالِمِينَ
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَلَئِنْ أَتَيْتَ
-  ٱلَّذِينَ أُوتُواْ ٱلْكِتَابَ بِكُلِّ آيَةٍ مَّا تَبِعُواْ قِبْلَتَكَ وَمَآ أَنتَ
-  بِتَابِعٍ قِبْلَتَهُمْ وَمَا بَعْضُهُم بِتَابِعٍ قِبْلَةَ بَعْضٍ وَلَئِنِ ٱتَّبَعْتَ
-  أَهْوَاءَهُم مِّن بَعْدِ مَا جَآءَكَ مِنَ ٱلْعِلْمِ إِنَّكَ إِذَاً لَّمِنَ ٱلظَّالِمِينَ
-  }قوله تعالى: { وَلَئِنْ أَتَيْتَ ٱلَّذِينَ أُوتُواْ ٱلْكِتَابَ بِكُلِّ آيَةٍ...
-  }.قال ابن عرفة: في هذا تهدئة (روعته) صلّى الله عليه وسلم وتطمين له حتى لا يتهالك
-  على عدم إيمانهم وهو عام في جميع المعجزات.قيل لابن عرفة: إن الإمام ابن العربي قال:
-  لا يتناول الآيات النظرية وأما الآيات (الملجئة) الاضطرارية فلا، لأنّ الإيمان عندها
-  ضروري؟فقال: بل يتناول الجميع لأنّا نقول: إنّ ربط الدليل بالمدلول عادي لا عقلي، أو
-  نقول: إن في الجائز: إن يستدل المستدل بالدليل الصحيح ويعمي الله بصيرته عن العثور
-  على الوجه الذي يدل الدليل منه، أو نقول: إن الإيمان الاضطراري ليس إيمانا بوجه ولا
-  يترتب عليه ثواب لأنه ليس للمكلف فيه اختيار. وفي الآية دليل على أنّ ارتباط الدليل
-  بالمدلول عادي لا عقلي. وفيها رد على المعتزلة القائلين بمراعاة الصلاح والأصلح وأنّ
-  الآيات التي يمكن الإيمان عندها قد أتى النبي صلى الله عليه وسلم بجميعها وليست القدرة
-  / صالحة لغيرها فقوله: { وَلَئِنْ أَتَيْتَ ٱلَّذِينَ أُوتُواْ ٱلْكِتَابَ بِكُلِّ
-  آيَةٍ } (دليل على أنه لم يأتهم بكل آية) وأن القدرة صالحة للإتيان بآيات أخر.قوله
-  تعالى: { مَّا تَبِعُواْ قِبْلَتَكَ... }.قال ابن عطية: أي جواب (إن) كجواب (لو) وهي
-  ضدها، لأن (لَوْ) تطلب المضي (والوقوع) و \" إِنْ \" تطلب المستقبل، والجواب إنما هو
-  للقسم لأن أحد الحرفين يقع موقع الآخر هذا قول سيبويه. وتعقب هذا أبو حيان بأن أول
-  كلامه يقتضي أن الجواب لـِ \" إن \" مع أن قوله بالجواب للقسم (يقتضي) أن الجواب ليس
-  لِـ \" إن \".قال ابن عرفة: إنما ذلك سلب حكم، لا حكم بالسلب فلا تناقض فيه.قوله تعالى:
-  { وَمَآ أَنتَ بِتَابِعٍ قِبْلَتَهُمْ... }.نفى الأول بالفعل وهذا بالاسم ولم يقل:
-  وما أنت تتّبع قبلتهم، مع أن النفي بالفعل أعم لأنه مطلق، ونفي الأعم يستلزم نفي الأخص.قال
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(2, 145)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(2,145)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَلَئِنْ
+  أَتَيْتَ ٱلَّذِينَ أُوتُواْ ٱلْكِتَابَ بِكُلِّ آيَةٍ مَّا تَبِعُواْ قِبْلَتَكَ وَمَآ
+  أَنتَ بِتَابِعٍ قِبْلَتَهُمْ وَمَا بَعْضُهُم بِتَابِعٍ قِبْلَةَ بَعْضٍ وَلَئِنِ
+  ٱتَّبَعْتَ أَهْوَاءَهُم مِّن بَعْدِ مَا جَآءَكَ مِنَ ٱلْعِلْمِ إِنَّكَ إِذَاً لَّمِنَ
+  ٱلظَّالِمِينَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">قوله تعالى: { وَلَئِنْ أَتَيْتَ
+  ٱلَّذِينَ أُوتُواْ ٱلْكِتَابَ بِكُلِّ آيَةٍ... }.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال
+  ابن عرفة: في هذا تهدئة (روعته) صلّى الله عليه وسلم وتطمين له حتى لا يتهالك على عدم
+  إيمانهم وهو عام في جميع المعجزات.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قيل
+  لابن عرفة: إن الإمام ابن العربي قال: لا يتناول الآيات النظرية وأما الآيات (الملجئة)
+  الاضطرارية فلا، لأنّ الإيمان عندها ضروري؟</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">فقال:
+  بل يتناول الجميع لأنّا نقول: إنّ ربط الدليل بالمدلول عادي لا عقلي، أو نقول: إن في
+  الجائز: إن يستدل المستدل بالدليل الصحيح ويعمي الله بصيرته عن العثور على الوجه الذي
+  يدل الدليل منه، أو نقول: إن الإيمان الاضطراري ليس إيمانا بوجه ولا يترتب عليه ثواب
+  لأنه ليس للمكلف فيه اختيار. وفي الآية دليل على أنّ ارتباط الدليل بالمدلول عادي لا
+  عقلي. وفيها رد على المعتزلة القائلين بمراعاة الصلاح والأصلح وأنّ الآيات التي يمكن
+  الإيمان عندها قد أتى النبي صلى الله عليه وسلم بجميعها وليست القدرة / صالحة لغيرها
+  فقوله: { وَلَئِنْ أَتَيْتَ ٱلَّذِينَ أُوتُواْ ٱلْكِتَابَ بِكُلِّ آيَةٍ } (دليل على
+  أنه لم يأتهم بكل آية) وأن القدرة صالحة للإتيان بآيات أخر.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قوله
+  تعالى: { مَّا تَبِعُواْ قِبْلَتَكَ... }.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال
+  ابن عطية: أي جواب (إن) كجواب (لو) وهي ضدها، لأن (لَوْ) تطلب المضي (والوقوع) و \"
+  إِنْ \" تطلب المستقبل، والجواب إنما هو للقسم لأن أحد الحرفين يقع موقع الآخر هذا
+  قول سيبويه. وتعقب هذا أبو حيان بأن أول كلامه يقتضي أن الجواب لـِ \" إن \" مع أن
+  قوله بالجواب للقسم (يقتضي) أن الجواب ليس لِـ \" إن \".</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال
+  ابن عرفة: إنما ذلك سلب حكم، لا حكم بالسلب فلا تناقض فيه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قوله
+  تعالى: { وَمَآ أَنتَ بِتَابِعٍ قِبْلَتَهُمْ... }.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">نفى
+  الأول بالفعل وهذا بالاسم ولم يقل: وما أنت تتّبع قبلتهم، مع أن النفي بالفعل أعم لأنه
+  مطلق، ونفي الأعم يستلزم نفي الأخص.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال
   ابن عرفة: الجواب أن الأول جاء على الأصل في أنهم مصممون على عدم اتباعه وأما نفيه
   هو بالاسم فلأن أفعاله صلى الله عليه وسلم ثابتة لازمة فهو إذا اتبع أمرا ثبت عليه
-  ولا ينتقل عنه فنُفي على حسب ما هو عليه.قيل لابن عرفة: فيكون هذا نفي أخص؟فقال: لا.
-  بل ورد النفي عليه على حسب ما وجد إذا لو (وجد) اتباعه أمرا لما وجد إلا على سبيل الثبوت
-  واللزوم.قيل: أو يجاب بأنه قد كان تابعا قبلتهم ثم انتسخ ذلك.فقال: هذه الآية نزلت
-  بعد النسخ و \" ما \" لنفي الحال، واتّباع قبلتهم (ماض).قوله تعالى: { وَمَا بَعْضُهُم
-  بِتَابِعٍ قِبْلَةَ بَعْضٍ... }.لأن اليهود يستقبلون بيت المقدس والنصارى يستقبلون
-  الشمس من حيث تطلع.\r\n\t\t\t\r\n\t\t\t1 2 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَلَئِنْ أَتَيْتَ ٱلَّذِينَ أُوتُواْ
-  ٱلْكِتَابَ بِكُلِّ آيَةٍ مَّا تَبِعُواْ قِبْلَتَكَ وَمَآ أَنتَ بِتَابِعٍ قِبْلَتَهُمْ
-  وَمَا بَعْضُهُم بِتَابِعٍ قِبْلَةَ بَعْضٍ وَلَئِنِ ٱتَّبَعْتَ أَهْوَاءَهُم مِّن
-  بَعْدِ مَا جَآءَكَ مِنَ ٱلْعِلْمِ إِنَّكَ إِذَاً لَّمِنَ ٱلظَّالِمِينَ }قوله تعالى:
-  { وَلَئِنِ ٱتَّبَعْتَ... }.راعى ابن عطية الأمر العادي فصرفه عن ظاهره وحمله على غير
-  النّبي صلى الله عليه وسلم.وراعى الزمخشري الأمر العقلي فأبقاه على ظاهره، وقال: وهو
-  على حسب الفرض والتقدير من خطاب التهييج والإلهاب.قوله تعالى: { إِنَّكَ إِذَاً لَّمِنَ
-  ٱلظَّالِمِينَ }.أي إنك لغريق في الظلم.قال ابن عرفة: ويحتمل أن يكون هذا من باب السلب
-  والإيجاب مثل \" الحائط لا يبصر \" لأنّ النبي عليه الصلاة والسلام معصوم من اتّباع
-  أهوائهم.قيل لابن عرفة: لا يصح التكليف بذلك لأنه من تكليف العاجز؟فقال: الأشياء على
-  ثلاثة أقسام: موجود، وقابل للوجود، ومستحيل. فالإبصار للحائط غير محال إذ في الجائز
-  أن يخلق الله فيه الإبصار فيبصر، هذا (هو) مذهبنا، لأنا لا نشترط (البنية).وكذلك النبي
-  صلى الله عليه وسلم معصوم من اتّباع (أهوائهم) لكنه (كلف) بذلك. وجعل ذاته قابلة للاتباع
-  باعتبار اعتقاد الكفار فيها قبول ذلك وأنّها عندهم غير معصومة لا باعتبار ما في نفس
-  الأمر.قال ابن عرفة: وفيه دليل على أنّ عقوبة العالم أشد من عقوبة الجاهل.\r\n\t\t\t\r\n\t\t\t1 2 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  ولا ينتقل عنه فنُفي على حسب ما هو عليه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قيل
+  لابن عرفة: فيكون هذا نفي أخص؟</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">فقال:
+  لا. بل ورد النفي عليه على حسب ما وجد إذا لو (وجد) اتباعه أمرا لما وجد إلا على سبيل
+  الثبوت واللزوم.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">قيل: أو يجاب بأنه قد كان تابعا
+  قبلتهم ثم انتسخ ذلك.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">فقال: هذه الآية نزلت بعد النسخ
+  و \" ما \" لنفي الحال، واتّباع قبلتهم (ماض).</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قوله
+  تعالى: { وَمَا بَعْضُهُم بِتَابِعٍ قِبْلَةَ بَعْضٍ... }.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">لأن
+  اليهود يستقبلون بيت المقدس والنصارى يستقبلون الشمس من حيث تطلع.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(20,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(20,2,1)\"><u>2</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2, 145)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,145)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَلَئِنْ أَتَيْتَ ٱلَّذِينَ أُوتُواْ ٱلْكِتَابَ
+  بِكُلِّ آيَةٍ مَّا تَبِعُواْ قِبْلَتَكَ وَمَآ أَنتَ بِتَابِعٍ قِبْلَتَهُمْ وَمَا
+  بَعْضُهُم بِتَابِعٍ قِبْلَةَ بَعْضٍ وَلَئِنِ ٱتَّبَعْتَ أَهْوَاءَهُم مِّن بَعْدِ
+  مَا جَآءَكَ مِنَ ٱلْعِلْمِ إِنَّكَ إِذَاً لَّمِنَ ٱلظَّالِمِينَ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">قوله تعالى: { وَلَئِنِ ٱتَّبَعْتَ... }.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">راعى
+  ابن عطية الأمر العادي فصرفه عن ظاهره وحمله على غير النّبي صلى الله عليه وسلم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وراعى الزمخشري الأمر العقلي فأبقاه على ظاهره، وقال: وهو على حسب
+  الفرض والتقدير من خطاب التهييج والإلهاب.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قوله
+  تعالى: { إِنَّكَ إِذَاً لَّمِنَ ٱلظَّالِمِينَ }.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">أي
+  إنك لغريق في الظلم.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">قال ابن عرفة: ويحتمل أن يكون هذا
+  من باب السلب والإيجاب مثل \" الحائط لا يبصر \" لأنّ النبي عليه الصلاة والسلام معصوم
+  من اتّباع أهوائهم.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">قيل لابن عرفة: لا يصح التكليف بذلك
+  لأنه من تكليف العاجز؟</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">فقال: الأشياء على ثلاثة أقسام:
+  موجود، وقابل للوجود، ومستحيل. فالإبصار للحائط غير محال إذ في الجائز أن يخلق الله
+  فيه الإبصار فيبصر، هذا (هو) مذهبنا، لأنا لا نشترط (البنية).</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وكذلك
+  النبي صلى الله عليه وسلم معصوم من اتّباع (أهوائهم) لكنه (كلف) بذلك. وجعل ذاته قابلة
+  للاتباع باعتبار اعتقاد الكفار فيها قبول ذلك وأنّها عندهم غير معصومة لا باعتبار ما
+  في نفس الأمر.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">قال ابن عرفة: وفيه دليل على أنّ
+  عقوبة العالم أشد من عقوبة الجاهل.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(20,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(20,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section>"
 

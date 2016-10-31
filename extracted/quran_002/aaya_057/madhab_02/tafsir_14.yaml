@@ -1,4 +1,4 @@
-location:
+position:
   sura: '002'
   aaya: '057'
   madhab: '02'
@@ -7,100 +7,257 @@ meta:
   title: تفسير المحرر الوجيز في تفسير الكتاب العزيز
   author: ابن عطية
   year: '546'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ ثُمَّ بَعَثْنَٰكُم
-  مِّن بَعْدِ مَوْتِكُمْ لَعَلَّكُمْ تَشْكُرُونَ } * { وَظَلَّلْنَا عَلَيْكُمُ ٱلْغَمَامَ
-  وَأَنزَلْنَا عَلَيْكُمُ ٱلْمَنَّ وَٱلسَّلْوَىٰ كُلُواْ مِن طَيِّبَٰتِ مَا رَزَقْنَٱكُمْ
-  وَمَا ظَلَمُونَا وَلَـٰكِن كَانُوۤاْ أَنْفُسَهُمْ يَظْلِمُونَ } * { وَإِذْ قُلْنَا
-  ٱدْخُلُواْ هَـٰذِهِ ٱلْقَرْيَةَ فَكُلُواْ مِنْهَا حَيْثُ شِئْتُمْ رَغَداً وَٱدْخُلُواْ
-  ٱلْبَابَ سُجَّداً وَقُولُواْ حِطَّةٌ نَّغْفِرْ لَكُمْ خَطَٰيَٰكُمْ وَسَنَزِيدُ ٱلْمُحْسِنِينَ
-  }أجاب الله تعالى فيهم رغبة موسى عليه السلام وأحياهم من ذلك الهمود أو الموت، ليستوفوا
-  آجالهم، وتاب عليهم، والبعث هنا الإثارة كما قال الله تعالى:{ من بعثنا من مرقدنا }[يس:
-  52].وقال قوم: إنهم لما أحيوا وأنعم عليهم بالتوبة سألوا موسى عليه السلام أن يجعلهم
-  الله أنبياء، فذلك قوله تعالى: { ثم بعثناكم من بعد موتكم } أي أنبياء { لعلكم تشكرون
-  } أي على هذه النعمة، والترجي إنما هو في حق البشر، ونزلت الألواح بالتوراة على موسى
-  في تلك المدة، وهذا قول جماعة، وقال آخرون: إن الألواح نزلت في ذهابه الأول وحده.وذكر
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(2, 56)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(2,56)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">ثُمَّ
+  بَعَثْنَٰكُم مِّن بَعْدِ مَوْتِكُمْ لَعَلَّكُمْ تَشْكُرُونَ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَظَلَّلْنَا
+  عَلَيْكُمُ ٱلْغَمَامَ وَأَنزَلْنَا عَلَيْكُمُ ٱلْمَنَّ وَٱلسَّلْوَىٰ كُلُواْ مِن
+  طَيِّبَٰتِ مَا رَزَقْنَٱكُمْ وَمَا ظَلَمُونَا وَلَـٰكِن كَانُوۤاْ أَنْفُسَهُمْ يَظْلِمُونَ</a>
+  <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَإِذْ
+  قُلْنَا ٱدْخُلُواْ هَـٰذِهِ ٱلْقَرْيَةَ فَكُلُواْ مِنْهَا حَيْثُ شِئْتُمْ رَغَداً
+  وَٱدْخُلُواْ ٱلْبَابَ سُجَّداً وَقُولُواْ حِطَّةٌ نَّغْفِرْ لَكُمْ خَطَٰيَٰكُمْ
+  وَسَنَزِيدُ ٱلْمُحْسِنِينَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\"
+  dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">أجاب الله تعالى
+  فيهم رغبة موسى عليه السلام وأحياهم من ذلك الهمود أو الموت، ليستوفوا آجالهم، وتاب
+  عليهم، والبعث هنا الإثارة كما قال الله تعالى:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">من بعثنا من مرقدنا</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[يس:
+  52].</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال قوم: إنهم لما أحيوا وأنعم
+  عليهم بالتوبة سألوا موسى عليه السلام أن يجعلهم الله أنبياء، فذلك قوله تعالى: { ثم
+  بعثناكم من بعد موتكم } أي أنبياء { لعلكم تشكرون } أي على هذه النعمة، والترجي إنما
+  هو في حق البشر، ونزلت الألواح بالتوراة على موسى في تلك المدة، وهذا قول جماعة، وقال
+  آخرون: إن الألواح نزلت في ذهابه الأول وحده.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وذكر
   المفسرون في تظليل الغمام: أن بني إسرائيل لما كان من أمرهم ما كان من القتل وبقي منهم
-  من بقي حصلوا في فحص التيه بين مصر والشام، فأمروا بقتال الجبارين فعصوا وقالوا:{ فاذهب
-  أنت وربك فقاتلا }[المائدة: 24] فدعا موسى عليهم فعوقبوا بالبقاء في ذلك الفحص أربعين
+  من بقي حصلوا في فحص التيه بين مصر والشام، فأمروا بقتال الجبارين فعصوا وقالوا:</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">فاذهب
+  أنت وربك فقاتلا</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">[المائدة: 24] فدعا موسى عليهم فعوقبوا بالبقاء في ذلك الفحص أربعين
   سنة يتيهون في مقدار خمسة فراسخ أو ستة، روي أنهم كانوا يمشون النهار كله وينزلون للمبيت
-  فيصبحون حيث كانوا بكرة أمس، فندم موسى عليه السلام على دعائه، عليهم، فقيل له:{ فلا
-  تأس على القوم الفاسقين }[المائدة: 26].وروي أنهم ماتوا بأجمعهم في فحص التيه، ونشأ
-  بنوهم على خير طاعة، فهم الذين خرجوا من فحص التيه وقاتلوا الجبارين، وإذ كان جميعهم
-  في التيه قالوا لموسى: من لنا بالطعام؟ قال: الله، فأنزل الله عليهم المن والسلوى،
-  قالوا: من لنا من حر الشمس؟ فظلل عليهم الغمام، قالوا: بم نستصبح بالليل؟ فضرب لهم
-  عمود نور في وسط محلتهم، وذكر مكي: عمود نار. فقالوا: من لنا بالماء؟ فأمر موسى بضرب
-  الحجر، قالوا: من لنا باللباس؟ فأعطوا أن لا يبلى لهم ثوب ولا يخلق ولا يدرن، وأن تنمو
-  صغارها حسب نمو الصبيان.ومعنى { ظللنا } جعلناه ظللاً، و { الغمام } السحاب لأنه يغم
-  وجه السماء أي يستره.وقال مجاهد: \" هو أبرد من السحاب وأرق وأصفى، وهو الذي يأتي الله
-  فيه يوم القيامة \".قال القاضي أبو محمد عبد الحق رحمه الله: يأتي أمره وسلطانه وقضاؤه.
-  وقيل { الغمام } ما ابيض من السحاب.و { المن } صمغة حلوه، هذا قول فرقة، وقيل: هو عسل،
-  وقيل: شراب حلو، وقيل: الذي ينزل اليوم على الشجر، وقيل: { المن } خبز الرقاق مثل النقي:
-  وقيل: هو الترنجبين وقيل الزنجبيل، وفي بعض هذه الأقوال بعد. وقيل: { المن } مصدر يعني
-  به جميع ما من الله به مجملاً.وقال النبي صلى الله عليه وسلم في كتاب مسلم: الكمأة
-  مما من الله به على بني إسرائيل وماؤها شفاء للعين.فقيل: أراد عليه السلام أن الكمأة
-  نفسها مما أنزل نوعها على بني إسرائيل.\r\n\t\t\t\r\n\t\t\t1 2 3 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ ثُمَّ بَعَثْنَٰكُم مِّن بَعْدِ مَوْتِكُمْ
-  لَعَلَّكُمْ تَشْكُرُونَ } * { وَظَلَّلْنَا عَلَيْكُمُ ٱلْغَمَامَ وَأَنزَلْنَا عَلَيْكُمُ
-  ٱلْمَنَّ وَٱلسَّلْوَىٰ كُلُواْ مِن طَيِّبَٰتِ مَا رَزَقْنَٱكُمْ وَمَا ظَلَمُونَا
-  وَلَـٰكِن كَانُوۤاْ أَنْفُسَهُمْ يَظْلِمُونَ } * { وَإِذْ قُلْنَا ٱدْخُلُواْ هَـٰذِهِ
-  ٱلْقَرْيَةَ فَكُلُواْ مِنْهَا حَيْثُ شِئْتُمْ رَغَداً وَٱدْخُلُواْ ٱلْبَابَ سُجَّداً
-  وَقُولُواْ حِطَّةٌ نَّغْفِرْ لَكُمْ خَطَٰيَٰكُمْ وَسَنَزِيدُ ٱلْمُحْسِنِينَ }وقيل:
-  أراد أنه لا تعب في الكمأة ولا جذاذ ولا حصاد، فهي منه دون تكلف من جنس من بني إسرائيل
-  في أنه كان دون تكلف.وروي أن { المن } كان ينزل عليهم من طلوع الفجر إلى طلوع الشمس
-  كالثلج فيأخذ منه الرجل ما يكفيه ليومه، فإن ادخر فسد عليه إلا في يوم الجمعة فإنهم
-  كانوا يدخرون ليوم السبت فلا يفسد عليهم، لأن يوم السبت يوم عبادة، و { المن } هنا
-  اسم جمع لا واحد له من لفظه، { والسلوى } طير بإجماع من المفسرين، قاله ابن عباس ومجاهد
-  وقتادة والربيع بن أنس وغيرهم.قيل: هو السماني بعينه. وقيل: طائر يميل إلى الحمرة مثل
-  السمانى، وقيل: طائر مثل الحمام تحشره عليهم الجنوب.قال الأخفش: \" السلوى جمعه وواحده
-  بلفظ واحد \". قال الخليل: { السلوى } جمع واحدته سلواة.قال الكسائي: { السلوى } واحدة
-  جمعها سلاوى، { والسلوى } اسم مقصور لا يظهر فيه الإعراب، لأن آخره ألف، والألف حرف
-  هوائي أشبه الحركة فاستحالت حركته ولو حرك لرجع حرفاً آخر، وقد غلط الهذلي فقال: [الطويل]وقاسمها
-  بالله عهداً لأنتمُ   ألذُّ من السلوى إذا ما نشورُهاظن السلوى العسل.وقوله تعالى:
-  { كلوا } الآية، معناه وقلنا كلوا، فحذف اختصاراً لدلالة الظاهر عليه، والطيبات هنا
-  قد جمعت الحلال واللذيذ.وقوله تعالى: { وما ظلمونا } يقدر قبله: فعصوا ولم يقابلوا
-  النعم بالشكر، والمعنى وما وضعوا فعلهم في موضع مضرة لنا ولكن وضعوه في موضع مضرة لهم
-  حيث لا يجب.وقال بعض المفسرين: { ما ظلمونا } ما نقصونا، والمعنى يرجع إلى ما لخصناه،
-  و { القرية } المدينة تسمى بذلك لأنها تقرت أي اجتمعت، ومنه قريت الماء في الحوض أي
-  جمعته، والإشارة بهذه إلى بيت المقدس في قول الجمهور. وقيل إلى أريحا، وهي قريب من
-  بيت المقدس.قال عمر بن شبة: كانت قاعدة ومسكن ملوك، ولما خرج ذرية بني إسرائيل من التيه
-  أمروا بدخول القرية المشار إليها، وأما الشيوخ فماتوا فيه، وروي أن موسى صلى الله عليه
-  وسلم مات في التيه، وكذلك هارون عليه السلام.وحكى الزجاج عن بعضهم أن موسى وهارون لم
-  يكونا في التيه لأنه عذاب، والأول أكثر، و { كلوا } إباحة، وقد تقدم معنى الرغد، وهي
-  أرض مباركة عظيمة الغلة، فلذلك قال { رغداً }.و { الباب } قال مجاهد: هو باب في مدينة
-  بيت المقدس يعرف إلى اليوم بباب حطة، وقيل هو باب القبة التي كان يصلي إليها موسى صلى
-  الله عليه وسلم.وروي عن مجاهد أيضاً: أنه باب في الجبل الذي كلم عليه موسى كالفرضة.و
+  فيصبحون حيث كانوا بكرة أمس، فندم موسى عليه السلام على دعائه، عليهم، فقيل له:</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">فلا
+  تأس على القوم الفاسقين</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">[المائدة: 26].</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وروي
+  أنهم ماتوا بأجمعهم في فحص التيه، ونشأ بنوهم على خير طاعة، فهم الذين خرجوا من فحص
+  التيه وقاتلوا الجبارين، وإذ كان جميعهم في التيه قالوا لموسى: من لنا بالطعام؟ قال:
+  الله، فأنزل الله عليهم المن والسلوى، قالوا: من لنا من حر الشمس؟ فظلل عليهم الغمام،
+  قالوا: بم نستصبح بالليل؟ فضرب لهم عمود نور في وسط محلتهم، وذكر مكي: عمود نار. فقالوا:
+  من لنا بالماء؟ فأمر موسى بضرب الحجر، قالوا: من لنا باللباس؟ فأعطوا أن لا يبلى لهم
+  ثوب ولا يخلق ولا يدرن، وأن تنمو صغارها حسب نمو الصبيان.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">ومعنى
+  { ظللنا } جعلناه ظللاً، و { الغمام } السحاب لأنه يغم وجه السماء أي يستره.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال مجاهد: \" هو أبرد من السحاب وأرق وأصفى، وهو الذي يأتي الله
+  فيه يوم القيامة \".</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">قال القاضي أبو محمد عبد الحق رحمه
+  الله: يأتي أمره وسلطانه وقضاؤه. وقيل { الغمام } ما ابيض من السحاب.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">و { المن } صمغة حلوه، هذا قول فرقة، وقيل: هو عسل، وقيل: شراب حلو،
+  وقيل: الذي ينزل اليوم على الشجر، وقيل: { المن } خبز الرقاق مثل النقي: وقيل: هو الترنجبين
+  وقيل الزنجبيل، وفي بعض هذه الأقوال بعد. وقيل: { المن } مصدر يعني به جميع ما من الله
+  به مجملاً.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال النبي صلى الله عليه وسلم في
+  كتاب مسلم: الكمأة مما من الله به على بني إسرائيل وماؤها شفاء للعين.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">فقيل: أراد عليه السلام أن الكمأة نفسها مما أنزل نوعها على بني إسرائيل.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(14,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(14,2,1)\"><u>2</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(14,3,1)\"><u>3</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2, 56)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,56)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">ثُمَّ بَعَثْنَٰكُم مِّن بَعْدِ مَوْتِكُمْ لَعَلَّكُمْ
+  تَشْكُرُونَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">وَظَلَّلْنَا عَلَيْكُمُ ٱلْغَمَامَ وَأَنزَلْنَا
+  عَلَيْكُمُ ٱلْمَنَّ وَٱلسَّلْوَىٰ كُلُواْ مِن طَيِّبَٰتِ مَا رَزَقْنَٱكُمْ وَمَا
+  ظَلَمُونَا وَلَـٰكِن كَانُوۤاْ أَنْفُسَهُمْ يَظْلِمُونَ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَإِذْ
+  قُلْنَا ٱدْخُلُواْ هَـٰذِهِ ٱلْقَرْيَةَ فَكُلُواْ مِنْهَا حَيْثُ شِئْتُمْ رَغَداً
+  وَٱدْخُلُواْ ٱلْبَابَ سُجَّداً وَقُولُواْ حِطَّةٌ نَّغْفِرْ لَكُمْ خَطَٰيَٰكُمْ
+  وَسَنَزِيدُ ٱلْمُحْسِنِينَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\"
+  dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">وقيل: أراد أنه
+  لا تعب في الكمأة ولا جذاذ ولا حصاد، فهي منه دون تكلف من جنس من بني إسرائيل في أنه
+  كان دون تكلف.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وروي أن { المن } كان ينزل عليهم
+  من طلوع الفجر إلى طلوع الشمس كالثلج فيأخذ منه الرجل ما يكفيه ليومه، فإن ادخر فسد
+  عليه إلا في يوم الجمعة فإنهم كانوا يدخرون ليوم السبت فلا يفسد عليهم، لأن يوم السبت
+  يوم عبادة، و { المن } هنا اسم جمع لا واحد له من لفظه، { والسلوى } طير بإجماع من
+  المفسرين، قاله ابن عباس ومجاهد وقتادة والربيع بن أنس وغيرهم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قيل: هو السماني بعينه. وقيل: طائر يميل إلى الحمرة مثل السمانى، وقيل:
+  طائر مثل الحمام تحشره عليهم الجنوب.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال
+  الأخفش: \" السلوى جمعه وواحده بلفظ واحد \". قال الخليل: { السلوى } جمع واحدته سلواة.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قال الكسائي: { السلوى } واحدة جمعها سلاوى، { والسلوى } اسم مقصور
+  لا يظهر فيه الإعراب، لأن آخره ألف، والألف حرف هوائي أشبه الحركة فاستحالت حركته ولو
+  حرك لرجع حرفاً آخر، وقد غلط الهذلي فقال: [الطويل]</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><table class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">وقاسمها
+  بالله عهداً لأنتمُ</font></font></b></td><td class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">ألذُّ من السلوى إذا ما نشورُها</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">ظن السلوى العسل.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقوله تعالى: { كلوا } الآية، معناه وقلنا كلوا، فحذف اختصاراً لدلالة
+  الظاهر عليه، والطيبات هنا قد جمعت الحلال واللذيذ.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقوله
+  تعالى: { وما ظلمونا } يقدر قبله: فعصوا ولم يقابلوا النعم بالشكر، والمعنى وما وضعوا
+  فعلهم في موضع مضرة لنا ولكن وضعوه في موضع مضرة لهم حيث لا يجب.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال بعض المفسرين: { ما ظلمونا } ما نقصونا، والمعنى يرجع إلى ما
+  لخصناه، و { القرية } المدينة تسمى بذلك لأنها تقرت أي اجتمعت، ومنه قريت الماء في
+  الحوض أي جمعته، والإشارة بهذه إلى بيت المقدس في قول الجمهور. وقيل إلى أريحا، وهي
+  قريب من بيت المقدس.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">قال عمر بن شبة: كانت قاعدة ومسكن
+  ملوك، ولما خرج ذرية بني إسرائيل من التيه أمروا بدخول القرية المشار إليها، وأما الشيوخ
+  فماتوا فيه، وروي أن موسى صلى الله عليه وسلم مات في التيه، وكذلك هارون عليه السلام.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وحكى الزجاج عن بعضهم أن موسى وهارون لم يكونا في التيه لأنه عذاب،
+  والأول أكثر، و { كلوا } إباحة، وقد تقدم معنى الرغد، وهي أرض مباركة عظيمة الغلة،
+  فلذلك قال { رغداً }.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">و { الباب } قال مجاهد: هو باب في
+  مدينة بيت المقدس يعرف إلى اليوم بباب حطة، وقيل هو باب القبة التي كان يصلي إليها
+  موسى صلى الله عليه وسلم.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وروي عن مجاهد أيضاً: أنه باب في
+  الجبل الذي كلم عليه موسى كالفرضة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">و
   { سجداً } قال ابن عباس رضي الله عنه: معناه ركوعاً، وقيل متواضعين خضوعاً لا على هيئة
-  معينة، والسجود يعم هذا كله لأنه التواضع، ومنه قول الشاعر: [الطويل]ترى الأكم فيه
-  سجُّداً للحوافر   \r\n\t\t\t1 2 3 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ ثُمَّ بَعَثْنَٰكُم مِّن بَعْدِ مَوْتِكُمْ
-  لَعَلَّكُمْ تَشْكُرُونَ } * { وَظَلَّلْنَا عَلَيْكُمُ ٱلْغَمَامَ وَأَنزَلْنَا عَلَيْكُمُ
-  ٱلْمَنَّ وَٱلسَّلْوَىٰ كُلُواْ مِن طَيِّبَٰتِ مَا رَزَقْنَٱكُمْ وَمَا ظَلَمُونَا
-  وَلَـٰكِن كَانُوۤاْ أَنْفُسَهُمْ يَظْلِمُونَ } * { وَإِذْ قُلْنَا ٱدْخُلُواْ هَـٰذِهِ
-  ٱلْقَرْيَةَ فَكُلُواْ مِنْهَا حَيْثُ شِئْتُمْ رَغَداً وَٱدْخُلُواْ ٱلْبَابَ سُجَّداً
-  وَقُولُواْ حِطَّةٌ نَّغْفِرْ لَكُمْ خَطَٰيَٰكُمْ وَسَنَزِيدُ ٱلْمُحْسِنِينَ }وروي
-  أن الباب خفض لهم ليقصر ويدخلوا عليه متواضعين، و { حطة } فعلة من حط يحط، ورفعه على
-  خبر ابتداء، كأنهم قالوا سؤالنا حطة لذنوبنا، هذا تقدير الحسن بن أبي الحسن.وقال الطبري:
-  التقدير دخولنا الباب كما أمرنا حطة، وقيل أمروا أن يقولوا مرفوعة على هذا اللفظ.وقال
-  عكرمة وغيره: أمروا أن يقولوا لا إله إلا الله لتحط بها ذنوبهم.وقال ابن عباس: قيل
-  لهم استغفروا وقولوا ما يحط ذنوبكم.وقال آخرون: قيل لهم أن يقولوا هذا الأمر حق كما
-  أعلمنا. وهذه الأقوال الثلاثة تقتضي النصب.وقرأ إبراهيم بن أبي عبلة: \" حطة \" بالنصب.وحكي
+  معينة، والسجود يعم هذا كله لأنه التواضع، ومنه قول الشاعر: [الطويل]</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><table class=\"TextArabic\"
+  dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">ترى الأكم فيه سجُّداً للحوافر</font></font></b></td><td class=\"TextArabic\">   </td><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\"/></font></b></td></tr></table><label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(14,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(14,3,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(14,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td><td><a href=\"Javascript:InnerLink_onchange(14,3,1)\"><u>3</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2, 56)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,56)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">ثُمَّ بَعَثْنَٰكُم مِّن بَعْدِ مَوْتِكُمْ لَعَلَّكُمْ
+  تَشْكُرُونَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">وَظَلَّلْنَا عَلَيْكُمُ ٱلْغَمَامَ وَأَنزَلْنَا
+  عَلَيْكُمُ ٱلْمَنَّ وَٱلسَّلْوَىٰ كُلُواْ مِن طَيِّبَٰتِ مَا رَزَقْنَٱكُمْ وَمَا
+  ظَلَمُونَا وَلَـٰكِن كَانُوۤاْ أَنْفُسَهُمْ يَظْلِمُونَ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَإِذْ
+  قُلْنَا ٱدْخُلُواْ هَـٰذِهِ ٱلْقَرْيَةَ فَكُلُواْ مِنْهَا حَيْثُ شِئْتُمْ رَغَداً
+  وَٱدْخُلُواْ ٱلْبَابَ سُجَّداً وَقُولُواْ حِطَّةٌ نَّغْفِرْ لَكُمْ خَطَٰيَٰكُمْ
+  وَسَنَزِيدُ ٱلْمُحْسِنِينَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\"
+  dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">وروي أن الباب
+  خفض لهم ليقصر ويدخلوا عليه متواضعين، و { حطة } فعلة من حط يحط، ورفعه على خبر ابتداء،
+  كأنهم قالوا سؤالنا حطة لذنوبنا، هذا تقدير الحسن بن أبي الحسن.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال الطبري: التقدير دخولنا الباب كما أمرنا حطة، وقيل أمروا أن يقولوا
+  مرفوعة على هذا اللفظ.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال عكرمة وغيره: أمروا أن يقولوا
+  لا إله إلا الله لتحط بها ذنوبهم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  ابن عباس: قيل لهم استغفروا وقولوا ما يحط ذنوبكم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  آخرون: قيل لهم أن يقولوا هذا الأمر حق كما أعلمنا. وهذه الأقوال الثلاثة تقتضي النصب.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقرأ إبراهيم بن أبي عبلة: \" حطة \" بالنصب.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وحكي
   عن ابن مسعود وغيره: أنهم أمروا بالسجود وأن يقولوا { حطة } فدخلوا يزحفون على أستاههم
-  ويقولون حنطة حبة حمراء في شعرة، ويروى غير هذا من الألفاظ.وقرأ نافع: \" يُغفر \"
-  بالياء من تحت مضمومة.وقرأ ابن عامر: \" تُغفر \" بالتاء من فوق مضمومة.وقرأ أبو بكر
-  عن عاصم: \" يَغفر \" بفتح الياء على معنى يغفر الله.وقرأ الباقون: \" نغفر \" بالنون.وقرأت
+  ويقولون حنطة حبة حمراء في شعرة، ويروى غير هذا من الألفاظ.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقرأ
+  نافع: \" يُغفر \" بالياء من تحت مضمومة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقرأ
+  ابن عامر: \" تُغفر \" بالتاء من فوق مضمومة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقرأ
+  أبو بكر عن عاصم: \" يَغفر \" بفتح الياء على معنى يغفر الله.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقرأ
+  الباقون: \" نغفر \" بالنون.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقرأت
   طائفة \" تغفر \" كأن الحطة تكون سبب الغفران، والقراء السبعة على { خطاياكم } ، غير
-  أن الكسائي كان يميلها.وقرأ الجحدري: \" تُغفر لكم خطيئتُكُمْ \" بضم التاء من فوق
-  وبرفع الخطيئة.وقرأ الأعمش: \" يغفر \" بالياء من أسفل مفتوحة \" خطيئتَكُم \" نصباً.وقرأ
-  قتادة مثل الجحدري، وروي عنه أنه قرأ بالياء من أسفل مضمومة خطيئتكم رفعاً.وقرأ الحسن
-  البصري: \" يغفر لكم خطيئاتِكم \" أي يغفر الله.وقرأ أبو حيوة: \" تغفر \" بالتاء من
-  فوق مرفوعة \" خطيئاتُكم \" بالجمع ورفع التاء.وحكى الأهوازي: أنه قارىء \" خطأياكم
-  \" يهمز الألف الأولى وسكون الآخرة. وحكي أيضاً أنه قرىء بسكون الأولى وهمز الآخرة.قال
-  الفراء: خطايا جمع خطية بلا همز كهدية وهدايا، وركية وركايا.وقال الخليل: هو جمع خطيئة
-  بالهمز، وأصله خطايىء قدمت الهمزة على الياء فجاء خطائي أبدلت الياء ألفاً بدلاً لازماً
-  فانفتحت الهمزة التي قبلها فجاء خطاءا، همزة بين ألفين، وهي من قبيلهما فكأنها ثلاث
-  ألفات، فقلبت الهمزة فجاء خطايا.قال سيبويه: \" أصله خطايىء همزت الياء كما فعل في
-  مدائن وكتائب فاجتمعت همزتان فقلبت الثانية ياء، ثم أعلت على ما تقدم \".وقوله تعالى:
-  { وسنزيد المحسنين } عدة، المعنى إذا غفرت الخطايا بدخولكم وقولكم زيد بعد ذلك لمن
-  أحسن، وكان من بني إسرائيل من دخل كما أمر وقال لا إله إلا الله فقيل هم المراد بـ
-  { المحسنين } هنا.\r\n\t\t\t\r\n\t\t\t1 2 3 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  أن الكسائي كان يميلها.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقرأ الجحدري: \" تُغفر لكم خطيئتُكُمْ
+  \" بضم التاء من فوق وبرفع الخطيئة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقرأ
+  الأعمش: \" يغفر \" بالياء من أسفل مفتوحة \" خطيئتَكُم \" نصباً.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقرأ قتادة مثل الجحدري، وروي عنه أنه قرأ بالياء من أسفل مضمومة خطيئتكم
+  رفعاً.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقرأ الحسن البصري: \" يغفر لكم
+  خطيئاتِكم \" أي يغفر الله.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقرأ أبو حيوة: \" تغفر \" بالتاء
+  من فوق مرفوعة \" خطيئاتُكم \" بالجمع ورفع التاء.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وحكى
+  الأهوازي: أنه قارىء \" خطأياكم \" يهمز الألف الأولى وسكون الآخرة. وحكي أيضاً أنه
+  قرىء بسكون الأولى وهمز الآخرة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال
+  الفراء: خطايا جمع خطية بلا همز كهدية وهدايا، وركية وركايا.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  الخليل: هو جمع خطيئة بالهمز، وأصله خطايىء قدمت الهمزة على الياء فجاء خطائي أبدلت
+  الياء ألفاً بدلاً لازماً فانفتحت الهمزة التي قبلها فجاء خطاءا، همزة بين ألفين، وهي
+  من قبيلهما فكأنها ثلاث ألفات، فقلبت الهمزة فجاء خطايا.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال
+  سيبويه: \" أصله خطايىء همزت الياء كما فعل في مدائن وكتائب فاجتمعت همزتان فقلبت الثانية
+  ياء، ثم أعلت على ما تقدم \".</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقوله
+  تعالى: { وسنزيد المحسنين } عدة، المعنى إذا غفرت الخطايا بدخولكم وقولكم زيد بعد ذلك
+  لمن أحسن، وكان من بني إسرائيل من دخل كما أمر وقال لا إله إلا الله فقيل هم المراد
+  بـ { المحسنين } هنا.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(14,2,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(14,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(14,2,1)\"><u>2</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">3 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a id=\"NextClass\"/></td></tr></table></center></div></section>"
 

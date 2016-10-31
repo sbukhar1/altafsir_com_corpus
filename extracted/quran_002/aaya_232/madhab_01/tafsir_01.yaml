@@ -1,4 +1,4 @@
-location:
+position:
   sura: '002'
   aaya: '232'
   madhab: '01'
@@ -7,194 +7,413 @@ meta:
   title: تفسير جامع البيان في تفسير القرآن
   author: الطبري
   year: '310'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَإِذَا طَلَّقْتُمُ
-  ٱلنِّسَآءَ فَبَلَغْنَ أَجَلَهُنَّ فَلاَ تَعْضُلُوهُنَّ أَن يَنكِحْنَ أَزْوَاجَهُنَّ
-  إِذَا تَرَاضَوْاْ بَيْنَهُمْ بِٱلْمَعْرُوفِ ذٰلِكَ يُوعَظُ بِهِ مَن كَانَ مِنكُمْ
-  يُؤْمِنُ بِٱللَّهِ وَٱلْيَوْمِ ٱلآخِرِ ذٰلِكُمْ أَزْكَىٰ لَكُمْ وَأَطْهَرُ وَٱللَّهُ
-  يَعْلَمُ وَأَنْتُمْ لاَ تَعْلَمُونَ }ذكر أن هذه الآية نزلت فـي رجل كانت له أخت كان
-  زوّجها من ابن عم لها، فطلقها وتركها فلـم يراجعها حتـى انقضت عدتها، ثم خطبها منه،
-  فأبى أن يزوّجها إياه ومنعها منه وهي فـيه راغبة.ثم اختلف أهل التأويـل فـي الرجل الذي
-  كان فعل ذلك فنزلت فـيه هذه الآية، فقال بعضهم: كان ذلك الرجل معقل بن يسار الـمُزَنـي.
-  ذكر من قال ذلك:حدثنـي مـحمد بن بشار، قال: ثنا عبد الأعلـى، قال: ثنا سعيد، عن قتادة،
-  عن الـحسن، عن معقل بن يسار، قال: كانت أخته تـحت رجل فطلقها ثم خلا عنها حتـى إذا
-  انقضت عدتها خطبها، فحَمِيَ معقل من ذلك أَنَفـاً وقال: خلا عنها وهو يقدر علـيها فحال
-  بـينه وبـينها. فأنزل الله تعالـى ذكره: { وَإذَا طَلّقْتُـمُ النِّساءَ فَبَلَغْنَ
-  أجَلَهُنّ فَلا تَعْضُلُوهُنّ أنْ يَنْكِحْنَ أزْواجَهُنّ إذَا تَراضَوْا بَـيْنَهُمْ
-  بـالـمَعْرُوفِ }.حدثنا أبو كريب، قال: ثنا وكيع، عن الفضل بن دلهم، عن الـحسن، عن
-  معقل بن يسار: أن أخته طلقها زوجها، فأراد أن يراجعها، فمنعها معقل، فأنزل الله تعالـى
-  ذكره: { وَإذَا طَلّقْتُـمُ النِّساءَ فَبَلَغْنَ أجَلَهُنّ فَلا تَعْضُلُوهُنّ أنْ
-  يَنْكِحْنَ أزْواجَهُنّ... } إلـى آخر الآية.حدثنا مـحمد بن عبد الله الـمخزومي، قال:
-  ثنا أبو عامر، قال: ثنا عبـاد بن راشد، قال: ثنا الـحسن، قال: ثنـي معقل بن يسار، قال:
-  كانت لـي أخت تُـخطَب وأمنعها الناس، حتـى خطب إلـيّ ابن عم لـي فأنكحتها، فـاصطحبـا
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(2, 232)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(2,232)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَإِذَا
+  طَلَّقْتُمُ ٱلنِّسَآءَ فَبَلَغْنَ أَجَلَهُنَّ فَلاَ تَعْضُلُوهُنَّ أَن يَنكِحْنَ
+  أَزْوَاجَهُنَّ إِذَا تَرَاضَوْاْ بَيْنَهُمْ بِٱلْمَعْرُوفِ ذٰلِكَ يُوعَظُ بِهِ مَن
+  كَانَ مِنكُمْ يُؤْمِنُ بِٱللَّهِ وَٱلْيَوْمِ ٱلآخِرِ ذٰلِكُمْ أَزْكَىٰ لَكُمْ وَأَطْهَرُ
+  وَٱللَّهُ يَعْلَمُ وَأَنْتُمْ لاَ تَعْلَمُونَ</a> <b>}</b></font>, <br/>, <br/>,
+  <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">ذكر
+  أن هذه الآية نزلت فـي رجل كانت له أخت كان زوّجها من ابن عم لها، فطلقها وتركها فلـم
+  يراجعها حتـى انقضت عدتها، ثم خطبها منه، فأبى أن يزوّجها إياه ومنعها منه وهي فـيه
+  راغبة.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">ثم اختلف أهل التأويـل فـي الرجل
+  الذي كان فعل ذلك فنزلت فـيه هذه الآية، فقال بعضهم: كان ذلك الرجل معقل بن يسار الـمُزَنـي.
+  ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي مـحمد بن بشار، قال: ثنا
+  عبد الأعلـى، قال: ثنا سعيد، عن قتادة، عن الـحسن، عن معقل بن يسار، قال: كانت أخته
+  تـحت رجل فطلقها ثم خلا عنها حتـى إذا انقضت عدتها خطبها، فحَمِيَ معقل من ذلك أَنَفـاً
+  وقال: خلا عنها وهو يقدر علـيها فحال بـينه وبـينها. فأنزل الله تعالـى ذكره: { وَإذَا
+  طَلّقْتُـمُ النِّساءَ فَبَلَغْنَ أجَلَهُنّ فَلا تَعْضُلُوهُنّ أنْ يَنْكِحْنَ أزْواجَهُنّ
+  إذَا تَراضَوْا بَـيْنَهُمْ بـالـمَعْرُوفِ }.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  أبو كريب، قال: ثنا وكيع، عن الفضل بن دلهم، عن الـحسن، عن معقل بن يسار: أن أخته طلقها
+  زوجها، فأراد أن يراجعها، فمنعها معقل، فأنزل الله تعالـى ذكره: { وَإذَا طَلّقْتُـمُ
+  النِّساءَ فَبَلَغْنَ أجَلَهُنّ فَلا تَعْضُلُوهُنّ أنْ يَنْكِحْنَ أزْواجَهُنّ...
+  } إلـى آخر الآية.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا مـحمد بن عبد الله الـمخزومي،
+  قال: ثنا أبو عامر، قال: ثنا عبـاد بن راشد، قال: ثنا الـحسن، قال: ثنـي معقل بن يسار،
+  قال: كانت لـي أخت تُـخطَب وأمنعها الناس، حتـى خطب إلـيّ ابن عم لـي فأنكحتها، فـاصطحبـا
   ما شاء الله، ثم إنه طلقها طلاقاً له رجعة، ثم تركها حتـى انقضت عدتها، ثم خطبت إلـيّ
   فأتانـي يخطبها مع الـخطاب، فقلت له: خطبت إلـيّ فمنعتها الناس، فآثرتك بها، ثم طلقت
   طلاقاً لك فـيه رجعة، فلـما خطبت إلـيّ آتـيتنـي تـخطبها مع الـخطاب؟ والله لا أنكحها
   أبداً قال: ففـيّ نزلت هذه الآية: { وَإذَا طَلّقْتُـمُ النِّساءَ فَبَلَغْنَ أجَلَهُنّ
   فَلا تَعْضُلُوهُنّ أنْ يَنْكِحْنَ أزْواجَهُنّ إذَا تَراضَوْا بَـيْنَهُمْ بـالـمَعْرُوفِ
-  } قال: فكفرت عن يـمينـي وأنكحتها إياه.حدثنا بشر بن معاذ، قال: ثنا يزيد، قال: ثنا
-  سعيد، عن قتادة: { وَإذَا طَلّقْتُـمُ النِّساءَ فَبَلَغْنَ أجَلَهُنّ فَلا تَعْضُلُوهُنّ
-  أنْ يَنْكِحْنَ أزْواجَهُنّ إذَا تَراضَوْا بَـيْنَهُمْ بـالـمَعْرُوفِ } ذكر لنا أن
-  رجلاً طلق امرأته تطلـيقة، ثم خلا عنها حتـى انقضت عدتها، ثم قرّب بعد ذلك يخطبها والـمرأة
-  أخت معقل بن يسار فأنف من ذلك معقل بن يسار، وقال: خلا عنها وهي فـي عدتها ولو شاء
-  راجعها، ثم يريد أن يراجعها وقد بـانت منه؟ فأبى علـيها أن يزوّجها إياه. وذكر لنا
-  أن نبـيّ الله لـما نزلت هذه الآية دعاه فتلاها علـيه، فترك الـحمية واستقاد لأمر الله.حدثت
+  } قال: فكفرت عن يـمينـي وأنكحتها إياه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  بشر بن معاذ، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة: { وَإذَا طَلّقْتُـمُ النِّساءَ
+  فَبَلَغْنَ أجَلَهُنّ فَلا تَعْضُلُوهُنّ أنْ يَنْكِحْنَ أزْواجَهُنّ إذَا تَراضَوْا
+  بَـيْنَهُمْ بـالـمَعْرُوفِ } ذكر لنا أن رجلاً طلق امرأته تطلـيقة، ثم خلا عنها حتـى
+  انقضت عدتها، ثم قرّب بعد ذلك يخطبها والـمرأة أخت معقل بن يسار فأنف من ذلك معقل بن
+  يسار، وقال: خلا عنها وهي فـي عدتها ولو شاء راجعها، ثم يريد أن يراجعها وقد بـانت
+  منه؟ فأبى علـيها أن يزوّجها إياه. وذكر لنا أن نبـيّ الله لـما نزلت هذه الآية دعاه
+  فتلاها علـيه، فترك الـحمية واستقاد لأمر الله.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثت
   عن عمار، قال: ثنا ابن أبـي جعفر، عن أبـيه، عن يونس، عن الـحسن قوله تعالـى: { وَإذَا
   طَلّقْتُـمُ النِّساءَ فَبَلَغْنَ أجَلَهُنّ فَلا تَعْضُلُوهُنّ } إلـى آخر الآية،
-  قال: نزلت هذه الآية فـي معقل بن يسار.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَإِذَا طَلَّقْتُمُ ٱلنِّسَآءَ فَبَلَغْنَ
-  أَجَلَهُنَّ فَلاَ تَعْضُلُوهُنَّ أَن يَنكِحْنَ أَزْوَاجَهُنَّ إِذَا تَرَاضَوْاْ
-  بَيْنَهُمْ بِٱلْمَعْرُوفِ ذٰلِكَ يُوعَظُ بِهِ مَن كَانَ مِنكُمْ يُؤْمِنُ بِٱللَّهِ
-  وَٱلْيَوْمِ ٱلآخِرِ ذٰلِكُمْ أَزْكَىٰ لَكُمْ وَأَطْهَرُ وَٱللَّهُ يَعْلَمُ وَأَنْتُمْ
-  لاَ تَعْلَمُونَ }قال الـحسن: حدثنـي معقل بن يسار أنها نزلت فـيه، قال: زوّجت أختاً
+  قال: نزلت هذه الآية فـي معقل بن يسار.</font></font>&#13;\t\t\t<label disabled=\"true\"
+  class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2, 232)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,232)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَإِذَا طَلَّقْتُمُ ٱلنِّسَآءَ فَبَلَغْنَ أَجَلَهُنَّ
+  فَلاَ تَعْضُلُوهُنَّ أَن يَنكِحْنَ أَزْوَاجَهُنَّ إِذَا تَرَاضَوْاْ بَيْنَهُمْ بِٱلْمَعْرُوفِ
+  ذٰلِكَ يُوعَظُ بِهِ مَن كَانَ مِنكُمْ يُؤْمِنُ بِٱللَّهِ وَٱلْيَوْمِ ٱلآخِرِ ذٰلِكُمْ
+  أَزْكَىٰ لَكُمْ وَأَطْهَرُ وَٱللَّهُ يَعْلَمُ وَأَنْتُمْ لاَ تَعْلَمُونَ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">قال الـحسن: حدثنـي معقل بن يسار أنها نزلت فـيه، قال: زوّجت أختاً
   لـي من رجل فطلقها، حتـى إذا انقضت عدتها جاء يخطبها، فقلت له: زوّجتك وفرشتك أختـي
   وأكرمتك، ثم طلقتها، ثم جئت تـخطبها؟ لا تعود إلـيك أبداً قال: وكان رجل صدق لا بأس
   به، وكانت الـمرأة تـحبّ أن ترجع إلـيه، قال الله تعالـى ذكره: { وَإذَا طَلّقْتُـمُ
   النِّساءَ فَبَلَغْنَ أجَلَهُنّ فَلا تَعْضُلُوهُنّ أنْ يَنْكِحْنَ أزْواجَهُنّ إذَا
   تَراضَوْا بَـيْنَهُمْ بـالـمَعْرُوفِ } قال: فقلت الآن أفعل يا رسول الله فزوّجها
-  منه.حدثنا ابن حميد، قال: ثنا يحيى بن واضح، قال: ثنا أبو بكر الهذلـي، عن بكر بن عبد
-  الله الـمزنـي، قال: كانت أخت معقل بن يسار تـحت رجل فطلقها، فخطب إلـيه، فمنعها أخوها،
-  فنزلت: { وَإذَا طَلّقْتُـمُ النِّساءَ فَبَلَغْنَ أجَلَهُنَّ... } إلـى آخر الآية.حدثنا
+  منه.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن حميد، قال: ثنا يحيى بن
+  واضح، قال: ثنا أبو بكر الهذلـي، عن بكر بن عبد الله الـمزنـي، قال: كانت أخت معقل
+  بن يسار تـحت رجل فطلقها، فخطب إلـيه، فمنعها أخوها، فنزلت: { وَإذَا طَلّقْتُـمُ النِّساءَ
+  فَبَلَغْنَ أجَلَهُنَّ... } إلـى آخر الآية.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
   القاسم، قال: ثنا الـحسين، قال: ثنـي حجاج، عن ابن جريج، عن مـجاهد قوله: { وَإذَا
   طَلّقْتُـمُ النِّساءَ فَبَلَغْنَ أجَلَهُنّ فَلا تَعْضُلُوهُنّ أنْ يَنْكِحْنَ أزْواجَهُنّ
   } الآية، قال: نزلت فـي امرأة من مزينة طلقها زوجها وأبـينت منه، فنكحها آخر، فعضلها
-  أخوها معقل بن يسار يضارّها خيفة أن ترجع إلـى زوجها الأوّل.قال ابن جريج: وقال عكرمة:
-  نزلت فـي معقل بن يسار، قال ابن جريج أختهُ جميَـل ابنة يسار كانت تـحت أبـي البداح
-  طلّقها، فـانقضت عدتها، فخطبها، فعضلها معقل بن يسار.حدثنـي مـحمد بن عمرو، قال: ثنا
-  أبو عاصم، عن عيسى، عن ابن أبـي نـجيح، عن مـجاهد فـي قوله: { وَإذَا طَلّقْتُـمُ النِّساءَ
-  فَبَلَغْنَ أجَلَهُنّ فَلا تَعْضُلُوهُنّ أنْ يَنْكِحْنَ أزْواجَهُنّ إذَا تَراضَوْا
-  بَـيْنَهُمْ بـالـمَعْرُوفِ } نزلت فـي امرأة من مزينة طلقها زوجها فعضلها أخوها أن
-  ترجع إلـى زوجها الأول وهو معقل بن يسار أخوها.حدثنـي الـمثنى، قال: ثنا أبو حذيفة،
+  أخوها معقل بن يسار يضارّها خيفة أن ترجع إلـى زوجها الأوّل.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال
+  ابن جريج: وقال عكرمة: نزلت فـي معقل بن يسار، قال ابن جريج أختهُ جميَـل ابنة يسار
+  كانت تـحت أبـي البداح طلّقها، فـانقضت عدتها، فخطبها، فعضلها معقل بن يسار.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي مـحمد بن عمرو، قال: ثنا أبو عاصم، عن عيسى، عن ابن أبـي نـجيح،
+  عن مـجاهد فـي قوله: { وَإذَا طَلّقْتُـمُ النِّساءَ فَبَلَغْنَ أجَلَهُنّ فَلا تَعْضُلُوهُنّ
+  أنْ يَنْكِحْنَ أزْواجَهُنّ إذَا تَراضَوْا بَـيْنَهُمْ بـالـمَعْرُوفِ } نزلت فـي
+  امرأة من مزينة طلقها زوجها فعضلها أخوها أن ترجع إلـى زوجها الأول وهو معقل بن يسار
+  أخوها.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي الـمثنى، قال: ثنا أبو حذيفة،
   قال: ثنا شبل، عن ابن أبـي نـجيح، عن مـجاهد مثله، إلا أنه لـم يقل فـيه: وهو معقل
-  بن يسار.حدثنـي الـمثنى، قال: ثنا حبـان بن موسى، قال: أخبرنا ابن الـمبـارك، قال:
-  أخبرنا سفـيان، عن أبـي إسحاق الهمدانـي: أن فـاطمة بنت يسار طلقها زوجها، ثم بدا له
-  فخطبها، فأبى معقل، فقال: زوّجناك فطلقتها وفعلت فأنزل الله تعالـى ذكره: { فَلا تَعْضُلُوهُنّ
-  أنْ يَنْكِحْنَ أزْواجَهُنّ }.حدثنا الـحسن بن يحيى، قال: أخبرنا عبد الرزاق، قال:
-  أخبرنا معمر، عن الـحسن وقتادة فـي قوله: { فَلا تَعْضُلُوهُنّ } قال: نزلت فـي معقل
-  بن يسار، كانت أخته تـحت رجل، فطلقها، حتـى إذا انقضت عدتها جاء فخطبها، فعضلها معقل،
-  فأبى أن ينكحها إياه، فنزلت فـيها هذه الآية يعنـي به الأولـياء يقول: { فَلا تَعْضُلُوهُنّ
-  أنْ يَنْكِحْنَ أزْواجَهُنّ }.حدثنا ابن حميد، قال: ثنا جرير، عن منصور، عن رجل، عن
-  معقل بن يسار قال: كانت أختـي عند رجل فطلقها تطلـيقة بـائنة، فخطبها، فأبـيت أن أزوّجها
-  منه، فأنزل الله تعالـى ذكره: { فَلا تَعْضُلُوهُنّ أنْ يَنْكِحْنَ أزْوَاجَهُن.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَإِذَا طَلَّقْتُمُ ٱلنِّسَآءَ فَبَلَغْنَ
-  أَجَلَهُنَّ فَلاَ تَعْضُلُوهُنَّ أَن يَنكِحْنَ أَزْوَاجَهُنَّ إِذَا تَرَاضَوْاْ
-  بَيْنَهُمْ بِٱلْمَعْرُوفِ ذٰلِكَ يُوعَظُ بِهِ مَن كَانَ مِنكُمْ يُؤْمِنُ بِٱللَّهِ
-  وَٱلْيَوْمِ ٱلآخِرِ ذٰلِكُمْ أَزْكَىٰ لَكُمْ وَأَطْهَرُ وَٱللَّهُ يَعْلَمُ وَأَنْتُمْ
-  لاَ تَعْلَمُونَ }.. } الآية.وقال آخرون: كان الرجل جابر بن عبد الله الأنصاري. ذكر
-  من قال ذلك:حدثنـي موسى بن هارون، قال: ثنا عمرو بن حماد، قال: ثنا أسبـاط، عن السدي:
-  { وَإذَا طَلّقْتُـمُ النِّساءَ فَبَلَغْنَ أجَلَهُنّ فَلا تَعْضُلُوهُنّ أنْ يَنْكِحْنَ
-  أزْواجَهُنّ إذَا تَراضَوْا بَـيْنَهُمْ بـالـمَعْرُوفِ }. قال: نزلت فـي جابر بن عبد
-  الله الأنصاري، وكانت له ابنة عم فطلقها زوجها تطلـيقة، فـانقضت عدتها، ثم رجع يريد
-  رجعتها، فأما جابر فقال: طلقت ابنة عمنا ثم تريد أن تنكحها الثانـية وكانت الـمرأة
-  تريد زوجها قد راضته، فنزلت هذه الآية.وقال آخرون: نزلت هذه الآية دلالة علـى نهي الرجل
-  عن مضارّة ولـيته من النساء، يعضلها عن النكاح. ذكر من قال ذلك:حدثنـي الـمثنى، قال:
-  ثنا عبد الله بن صالـح، قال: ثنـي معاوية بن صالـح، عن علـيّ بن أبـي طلـحة، عن ابن
-  عبـاس قوله: { فَلاَ تَعْضُلُوهُنَّ أنْ يَنْكِحْنَ أزْوَاجَهُنَّ } فهذا فـي الرجل
-  يطلق امرأته تطلـيقة أو تطلـيقتـين فتنقضي عدّتها، يبدو له فـي تزويجها وأن يراجعها،
-  وتريد الـمرأة، فـيـمنعها أولـياؤها من ذلك، فنهى الله سبحانه أن يـمنعوها.حدثنـي مـحمد
-  بن سعد، قال: ثنـي أبـي، قال: ثنـي عمي، قال: ثنـي أبـي، عن أبـيه، عن ابن عبـاس: {
-  وإذَا طَلّقْتُـمُ النِّساءَ فَبَلَغْنَ أجَلُهُنَّ فَلاَ تَعْضُلُوهُنَّ أنْ يَنْكِحْنَ
-  أزْوَاجَهُنَّ إذَا تَرَاضُوْا بَـيْنَهُمْ بـالـمَعْرُوفِ } كان الرجل يطلق امرأته
-  تبـين منه، وينقضي أجلها، ويريد أن يراجعها، وترضى بذلك، فـيأبى أهلها، قال الله تعالـى
-  ذكره: { فَلاَ تَعْضُلُوهُنَّ أنْ يَنْكِحْنَ أزْوَاجَهُنَّ إذَا تَرَاضَوْا بَـيْنُهُمْ
-  بـالـمَعْرُوفِ }.حدثنـي الـمثنى، قال: ثنا حبـان بن موسى، قال: أخبرنا ابن الـمبـارك،
-  عن سفـيان، عن منصور، عن أبـي الضحى، عن مسروق فـي قوله: { فَلاَ تَعْضُلُوهُنَّ أنْ
-  يَنْكِحْنَ أزْوَاجَهُنَّ } قال: كان الرجل يطلق امرأته، ثم يبدو له أن يتزوّجها، فـيأبى
-  أولـياء الـمرأة أن يزوجوها، فقال الله تعالـى ذكره: { فَلاَ تَعْضُلُوهُنَّ أنْ يَنْكِحْنَ
-  أزْوَاجَهُنَّ إذَا تَرَاضَوْا بَـيْنَهُمْ بِـالـمَعْرُوف }.حدثنا ابن حميد، قال:
-  ثنا جرير، عن مغيرة، عن أصحابه، عن إبراهيـم فـي قوله: { وإذَا طَلّقْتُـمُ النِّساءَ
-  فَبَلَغْنَ أجَلَهُنَّ فَلاَ تَعْضُلُوهُنَّ أنْ يَنْكِحْنَ أزْوَاجَهُنَّ } قال: الـمرأة
-  تكون عند الرجل فـيطلقها، ثم يريد أن يعود إلـيها فلا يعضلها ولـيها أن ينكحها إياه.حدثنـي
-  الـمثنى، قال: ثنا عبد الله بن صالـح، قال: ثنـي اللـيث، عن يونس، عن ابن شهاب: قال
-  الله تعالـى ذكره: { وإذَا طَلّقْتُـمُ النِّساءَ فَبَلَغْنَ أجَلَهُنَّ فَلاَ تَعْضُلُوهُنَّ
-  أنْ يَنْكِحْنَ أزْوَاجَهُنَّ... } الآية، فإذا طلق الرجل الـمرأة وهو ولـيها، فـانقضت
-  عدّتها، فلـيس له أن يعضلها حتـى يرثها ويـمنعها أن تستعف بزوج.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَإِذَا طَلَّقْتُمُ ٱلنِّسَآءَ فَبَلَغْنَ
-  أَجَلَهُنَّ فَلاَ تَعْضُلُوهُنَّ أَن يَنكِحْنَ أَزْوَاجَهُنَّ إِذَا تَرَاضَوْاْ
-  بَيْنَهُمْ بِٱلْمَعْرُوفِ ذٰلِكَ يُوعَظُ بِهِ مَن كَانَ مِنكُمْ يُؤْمِنُ بِٱللَّهِ
-  وَٱلْيَوْمِ ٱلآخِرِ ذٰلِكُمْ أَزْكَىٰ لَكُمْ وَأَطْهَرُ وَٱللَّهُ يَعْلَمُ وَأَنْتُمْ
-  لاَ تَعْلَمُونَ }حدثت عن الـحسين بن الفرج، قال: سمعت أبـا معاذ، قال أخبرنا عبـيد
+  بن يسار.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي الـمثنى، قال: ثنا حبـان
+  بن موسى، قال: أخبرنا ابن الـمبـارك، قال: أخبرنا سفـيان، عن أبـي إسحاق الهمدانـي:
+  أن فـاطمة بنت يسار طلقها زوجها، ثم بدا له فخطبها، فأبى معقل، فقال: زوّجناك فطلقتها
+  وفعلت فأنزل الله تعالـى ذكره: { فَلا تَعْضُلُوهُنّ أنْ يَنْكِحْنَ أزْواجَهُنّ }.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا الـحسن بن يحيى، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر،
+  عن الـحسن وقتادة فـي قوله: { فَلا تَعْضُلُوهُنّ } قال: نزلت فـي معقل بن يسار، كانت
+  أخته تـحت رجل، فطلقها، حتـى إذا انقضت عدتها جاء فخطبها، فعضلها معقل، فأبى أن ينكحها
+  إياه، فنزلت فـيها هذه الآية يعنـي به الأولـياء يقول: { فَلا تَعْضُلُوهُنّ أنْ يَنْكِحْنَ
+  أزْواجَهُنّ }.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن حميد، قال: ثنا جرير،
+  عن منصور، عن رجل، عن معقل بن يسار قال: كانت أختـي عند رجل فطلقها تطلـيقة بـائنة،
+  فخطبها، فأبـيت أن أزوّجها منه، فأنزل الله تعالـى ذكره: { فَلا تَعْضُلُوهُنّ أنْ
+  يَنْكِحْنَ أزْوَاجَهُن.</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2, 232)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,232)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَإِذَا طَلَّقْتُمُ ٱلنِّسَآءَ فَبَلَغْنَ أَجَلَهُنَّ
+  فَلاَ تَعْضُلُوهُنَّ أَن يَنكِحْنَ أَزْوَاجَهُنَّ إِذَا تَرَاضَوْاْ بَيْنَهُمْ بِٱلْمَعْرُوفِ
+  ذٰلِكَ يُوعَظُ بِهِ مَن كَانَ مِنكُمْ يُؤْمِنُ بِٱللَّهِ وَٱلْيَوْمِ ٱلآخِرِ ذٰلِكُمْ
+  أَزْكَىٰ لَكُمْ وَأَطْهَرُ وَٱللَّهُ يَعْلَمُ وَأَنْتُمْ لاَ تَعْلَمُونَ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">.. } الآية.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  آخرون: كان الرجل جابر بن عبد الله الأنصاري. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  موسى بن هارون، قال: ثنا عمرو بن حماد، قال: ثنا أسبـاط، عن السدي: { وَإذَا طَلّقْتُـمُ
+  النِّساءَ فَبَلَغْنَ أجَلَهُنّ فَلا تَعْضُلُوهُنّ أنْ يَنْكِحْنَ أزْواجَهُنّ إذَا
+  تَراضَوْا بَـيْنَهُمْ بـالـمَعْرُوفِ }. قال: نزلت فـي جابر بن عبد الله الأنصاري،
+  وكانت له ابنة عم فطلقها زوجها تطلـيقة، فـانقضت عدتها، ثم رجع يريد رجعتها، فأما جابر
+  فقال: طلقت ابنة عمنا ثم تريد أن تنكحها الثانـية وكانت الـمرأة تريد زوجها قد راضته،
+  فنزلت هذه الآية.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال آخرون: نزلت هذه الآية دلالة
+  علـى نهي الرجل عن مضارّة ولـيته من النساء، يعضلها عن النكاح. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي الـمثنى، قال: ثنا عبد الله بن صالـح، قال: ثنـي معاوية بن
+  صالـح، عن علـيّ بن أبـي طلـحة، عن ابن عبـاس قوله: { فَلاَ تَعْضُلُوهُنَّ أنْ يَنْكِحْنَ
+  أزْوَاجَهُنَّ } فهذا فـي الرجل يطلق امرأته تطلـيقة أو تطلـيقتـين فتنقضي عدّتها،
+  يبدو له فـي تزويجها وأن يراجعها، وتريد الـمرأة، فـيـمنعها أولـياؤها من ذلك، فنهى
+  الله سبحانه أن يـمنعوها.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي مـحمد بن سعد، قال: ثنـي
+  أبـي، قال: ثنـي عمي، قال: ثنـي أبـي، عن أبـيه، عن ابن عبـاس: { وإذَا طَلّقْتُـمُ
+  النِّساءَ فَبَلَغْنَ أجَلُهُنَّ فَلاَ تَعْضُلُوهُنَّ أنْ يَنْكِحْنَ أزْوَاجَهُنَّ
+  إذَا تَرَاضُوْا بَـيْنَهُمْ بـالـمَعْرُوفِ } كان الرجل يطلق امرأته تبـين منه، وينقضي
+  أجلها، ويريد أن يراجعها، وترضى بذلك، فـيأبى أهلها، قال الله تعالـى ذكره: { فَلاَ
+  تَعْضُلُوهُنَّ أنْ يَنْكِحْنَ أزْوَاجَهُنَّ إذَا تَرَاضَوْا بَـيْنُهُمْ بـالـمَعْرُوفِ
+  }.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي الـمثنى، قال: ثنا حبـان
+  بن موسى، قال: أخبرنا ابن الـمبـارك، عن سفـيان، عن منصور، عن أبـي الضحى، عن مسروق
+  فـي قوله: { فَلاَ تَعْضُلُوهُنَّ أنْ يَنْكِحْنَ أزْوَاجَهُنَّ } قال: كان الرجل يطلق
+  امرأته، ثم يبدو له أن يتزوّجها، فـيأبى أولـياء الـمرأة أن يزوجوها، فقال الله تعالـى
+  ذكره: { فَلاَ تَعْضُلُوهُنَّ أنْ يَنْكِحْنَ أزْوَاجَهُنَّ إذَا تَرَاضَوْا بَـيْنَهُمْ
+  بِـالـمَعْرُوف }.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن حميد، قال: ثنا جرير،
+  عن مغيرة، عن أصحابه، عن إبراهيـم فـي قوله: { وإذَا طَلّقْتُـمُ النِّساءَ فَبَلَغْنَ
+  أجَلَهُنَّ فَلاَ تَعْضُلُوهُنَّ أنْ يَنْكِحْنَ أزْوَاجَهُنَّ } قال: الـمرأة تكون
+  عند الرجل فـيطلقها، ثم يريد أن يعود إلـيها فلا يعضلها ولـيها أن ينكحها إياه.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي الـمثنى، قال: ثنا عبد الله بن صالـح، قال: ثنـي اللـيث، عن
+  يونس، عن ابن شهاب: قال الله تعالـى ذكره: { وإذَا طَلّقْتُـمُ النِّساءَ فَبَلَغْنَ
+  أجَلَهُنَّ فَلاَ تَعْضُلُوهُنَّ أنْ يَنْكِحْنَ أزْوَاجَهُنَّ... } الآية، فإذا طلق
+  الرجل الـمرأة وهو ولـيها، فـانقضت عدّتها، فلـيس له أن يعضلها حتـى يرثها ويـمنعها
+  أن تستعف بزوج.</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">3 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2, 232)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,232)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَإِذَا طَلَّقْتُمُ ٱلنِّسَآءَ فَبَلَغْنَ أَجَلَهُنَّ
+  فَلاَ تَعْضُلُوهُنَّ أَن يَنكِحْنَ أَزْوَاجَهُنَّ إِذَا تَرَاضَوْاْ بَيْنَهُمْ بِٱلْمَعْرُوفِ
+  ذٰلِكَ يُوعَظُ بِهِ مَن كَانَ مِنكُمْ يُؤْمِنُ بِٱللَّهِ وَٱلْيَوْمِ ٱلآخِرِ ذٰلِكُمْ
+  أَزْكَىٰ لَكُمْ وَأَطْهَرُ وَٱللَّهُ يَعْلَمُ وَأَنْتُمْ لاَ تَعْلَمُونَ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثت عن الـحسين بن الفرج، قال: سمعت أبـا معاذ، قال أخبرنا عبـيد
   بن سلـمان، قال: سمعت الضحاك يقول فـي قوله: { وإذَا طَلّقْتُـمُ النِّساءَ فَبَلَغْنَ
   أجَلَهُنَّ فَلاَ تَعْضُلُوهُنَّ } هو الرجل يطلق امرأته تطلـيقة ثم يسكت عنها، فـيكون
   خاطبـاً من الـخطاب، فقال الله لأولـياء الـمرأة: لا تعضلوهن، يقول: لا تـمنعوهنّ أن
   يرجعن إلـى أزواجهن بنكاح جديد إذا تراضوا بـينهم بـالـمعروف إذا رضيت الـمرأة وأرادت
-  أن تراجع زوجها بنكاح جديد.والصواب من القول فـي هذه الآية أن يقال: إن الله تعالـى
-  ذكره أنزلها دلالة علـى تـحريـمه علـى أولـياء النساء مضارة من كانوا له أولـياء من
-  النساء بعضلهنّ عمن أردن نكاحه من أزواج كانوا لهنّ، فبنّ منهنّ بـما تبـين به الـمرأة
-  من زوجها من طلاق أو فسخ نكاح. وقد يجوز أن تكون نزلت فـي أمر معقل بن يسار وأمر أخته
-  أو فـي أمر جابر بن عبد الله وأمر ابنة عمه، وأي ذلك كان فـالآية دالة علـى ما ذكرت.ويعنـي
-  بقوله تعالـى: { فَلاَ تَعْضُلُوهُنَّ } لا تضيقوا علـيهن بـمنعكم إياهنّ أيها الأولـياء
-  من مراجعة أزواجهن بنكاح جديد تبتغون بذلك مضارتهن، يقال منه: عضل فلان فلانة عن الأزواج
-  يعضلها عضلاً.وقد ذكر لنا أن حياً من أحياء العرب من لغتها: عَضِلَ يَعْضَلُ، فمن كان
-  من لغته عضِل، فإنه إن صار إلـى يَفْعَلِ، قال: يَعْضَل بفتـح الضاد، والقراءة علـى
-  ضم الضاد دون كسرها، والضم من لغة من قال عَضَل. وأصل العَضْل: الضيق، ومنه قول عمر
-  رحمة الله علـيه: «وقد أعضل به أهل العراق، لا يرضون عن وال، ولا يرضى عنهم وال»، يعنـي
-  بذلك حملونـي علـى أمر ضيق شديد لا أطيق القـيام به، ومنه أيضا: الداء العُضال، وهو
-  الداء الذي لا يطاق علاجه لضيقه عن العلاج، وتـجاوزه حدّ الأدواء التـي يكون لها علاج،
-  ومنه قول ذي الرمة:ولَـمْ أقْذِفْ لـمُؤْمِنَةٍ حَصَانٍ   بإذْنِ اللَّهِ مُوجِبَةً
-  عُضَالاومنه قيل: عضل الفضاء بـالـجيش لكثرتـم: إذا ضاق عنهم من كثرتهم. وقـيـل: عضلت
-  الـمرأة: إذا نشب الولد فـي رحمها فضاق علـيه الـخروج منها، ومنه قول أوس بن حجر:وَلَـيْسَ
-  أخُوكَ الدَّائِمُ العَهْدِ بـالَّذِي   يَذُمُّكَ إنْ ولَّـى وَيُرْضيكَ مُقْبِلاَولَكِنَّهُ
-  النَّائي إذَا كُنْتُ آمِناً   وَصَاحِبُكَ الأدْنَى إذَا الأمْرُ أعْضَلاو «أن» التـي
-  فـي قوله { أنْ يَنْكِحْنَ } فـي موضع نصب قوله: { تَعْضُلُوهُنَّ }.ومعنى قوله: {
-  إذَا تَرَاضَوْا بَـيْنَهُمْ بـالـمَعْرُوف } إذا تَرَاضى الأزواج والنساء بـما يحلّ،
-  ويجوز أن يكون عوضاً من أبضاعهنّ من الـمهور ونكاح جديد مستأنف. كما:حدثنا ابن بشار،
-  قال: ثنا عبد الرحمن، قال: ثنا سفـيان، عن عمير بن عبد الله، عن عبد الـملك بن الـمغيرة،
-  عن عبد الرحمن بن البـيـلـمانـي، قال: قال رسول الله صلى الله عليه وسلم: \" أنْكحُوا
-  الأيامَى \" فقال رجل يا رسول الله ما العلائق بـينهم، قال:\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَإِذَا طَلَّقْتُمُ ٱلنِّسَآءَ فَبَلَغْنَ
-  أَجَلَهُنَّ فَلاَ تَعْضُلُوهُنَّ أَن يَنكِحْنَ أَزْوَاجَهُنَّ إِذَا تَرَاضَوْاْ
-  بَيْنَهُمْ بِٱلْمَعْرُوفِ ذٰلِكَ يُوعَظُ بِهِ مَن كَانَ مِنكُمْ يُؤْمِنُ بِٱللَّهِ
-  وَٱلْيَوْمِ ٱلآخِرِ ذٰلِكُمْ أَزْكَىٰ لَكُمْ وَأَطْهَرُ وَٱللَّهُ يَعْلَمُ وَأَنْتُمْ
-  لاَ تَعْلَمُونَ } \" ما تَرَاضَى عَلَـيْهِ أهْلُوهُمْ \" حدثنا ابن بشار، قال: ثنا
-  مـحمد بن الـحارث، قال: ثنا مـحمد بن عبد الرحمن بن البـيـلـمانـي، عن أبـيه، عن ابن
-  عمر، عن النبـي صلى الله عليه وسلم بنـحو منه.وفـي هذه الآية الدلالة الواضحة علـى
-  صحة قول من قال: لا نكاح إلا بولـيّ من العصبة. وذلك أن الله تعالـى ذكره منع الولـيّ
-  من عضل الـمرأة إن أرادت النكاح، ونهاه عن ذلك، فلو كان للـمرأة إنكاح نفسها بغير إنكاح
-  ولـيها إياها، أو كان لها تولـية من أرادت تولـيته فـي إنكاحها لـم يكن لنهي ولـيها
-  عن عضلها معنى مفهوم، إذ كان لا سبـيـل له إلـى عضلها، وذلك أنها إن كانت متـى أرادت
-  النكاح جاز لها إنكاح نفسها أو إنكاح من توكله إنكاحها، فلا عضل هنالك لها من أحد،
-  فـينهى عاضلها عن عضلها.وفـي فساد القول بأن لا معنى لنهي الله عما نهى عنه صحة القول
-  بأن لولّـي الـمرأة فـي تزويجها حقا لا يصحّ عقده إلا به، وهو الـمعنى الذي أمر الله
-  به الولّـي من تزويجها إذا خطبها خاطبها ورضيت به، وكان رضى عند أولـيائها جائزاً فـي
+  أن تراجع زوجها بنكاح جديد.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">والصواب من القول فـي هذه الآية
+  أن يقال: إن الله تعالـى ذكره أنزلها دلالة علـى تـحريـمه علـى أولـياء النساء مضارة
+  من كانوا له أولـياء من النساء بعضلهنّ عمن أردن نكاحه من أزواج كانوا لهنّ، فبنّ منهنّ
+  بـما تبـين به الـمرأة من زوجها من طلاق أو فسخ نكاح. وقد يجوز أن تكون نزلت فـي أمر
+  معقل بن يسار وأمر أخته أو فـي أمر جابر بن عبد الله وأمر ابنة عمه، وأي ذلك كان فـالآية
+  دالة علـى ما ذكرت.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">ويعنـي بقوله تعالـى: { فَلاَ تَعْضُلُوهُنَّ
+  } لا تضيقوا علـيهن بـمنعكم إياهنّ أيها الأولـياء من مراجعة أزواجهن بنكاح جديد تبتغون
+  بذلك مضارتهن، يقال منه: عضل فلان فلانة عن الأزواج يعضلها عضلاً.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقد ذكر لنا أن حياً من أحياء العرب من لغتها: عَضِلَ يَعْضَلُ، فمن
+  كان من لغته عضِل، فإنه إن صار إلـى يَفْعَلِ، قال: يَعْضَل بفتـح الضاد، والقراءة
+  علـى ضم الضاد دون كسرها، والضم من لغة من قال عَضَل. وأصل العَضْل: الضيق، ومنه قول
+  عمر رحمة الله علـيه: «وقد أعضل به أهل العراق، لا يرضون عن وال، ولا يرضى عنهم وال»،
+  يعنـي بذلك حملونـي علـى أمر ضيق شديد لا أطيق القـيام به، ومنه أيضا: الداء العُضال،
+  وهو الداء الذي لا يطاق علاجه لضيقه عن العلاج، وتـجاوزه حدّ الأدواء التـي يكون لها
+  علاج، ومنه قول ذي الرمة:</font></font><table class=\"TextArabic\" dir=\"rtl\"><tr
+  class=\"TextArabic\"><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">ولَـمْ أقْذِفْ لـمُؤْمِنَةٍ حَصَانٍ</font></font></b></td><td class=\"TextArabic\">   </td><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">بإذْنِ اللَّهِ
+  مُوجِبَةً عُضَالا</font></font></b></td></tr></table><font class=\"TextResultArabic\"><font
+  color=\"black\">ومنه قيل: عضل الفضاء بـالـجيش لكثرتـم: إذا ضاق عنهم من كثرتهم. وقـيـل:
+  عضلت الـمرأة: إذا نشب الولد فـي رحمها فضاق علـيه الـخروج منها، ومنه قول أوس بن حجر:</font></font><table
+  class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">وَلَـيْسَ أخُوكَ الدَّائِمُ العَهْدِ بـالَّذِي</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">يَذُمُّكَ إنْ ولَّـى وَيُرْضيكَ مُقْبِلاَ</font></font></b></td></tr><tr
+  class=\"TextArabic\"><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">ولَكِنَّهُ النَّائي إذَا كُنْتُ آمِناً</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">وَصَاحِبُكَ الأدْنَى إذَا الأمْرُ أعْضَلا</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">و «أن» التـي فـي قوله { أنْ يَنْكِحْنَ
+  } فـي موضع نصب قوله: { تَعْضُلُوهُنَّ }.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">ومعنى
+  قوله: { إذَا تَرَاضَوْا بَـيْنَهُمْ بـالـمَعْرُوف } إذا تَرَاضى الأزواج والنساء
+  بـما يحلّ، ويجوز أن يكون عوضاً من أبضاعهنّ من الـمهور ونكاح جديد مستأنف. كما:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا سفـيان، عن عمير بن
+  عبد الله، عن عبد الـملك بن الـمغيرة، عن عبد الرحمن بن البـيـلـمانـي، قال: قال رسول
+  الله صلى الله عليه وسلم:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" أنْكحُوا الأيامَى \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">فقال رجل يا رسول الله ما العلائق بـينهم، قال:</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">4 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2, 232)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,232)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَإِذَا طَلَّقْتُمُ ٱلنِّسَآءَ فَبَلَغْنَ أَجَلَهُنَّ
+  فَلاَ تَعْضُلُوهُنَّ أَن يَنكِحْنَ أَزْوَاجَهُنَّ إِذَا تَرَاضَوْاْ بَيْنَهُمْ بِٱلْمَعْرُوفِ
+  ذٰلِكَ يُوعَظُ بِهِ مَن كَانَ مِنكُمْ يُؤْمِنُ بِٱللَّهِ وَٱلْيَوْمِ ٱلآخِرِ ذٰلِكُمْ
+  أَزْكَىٰ لَكُمْ وَأَطْهَرُ وَٱللَّهُ يَعْلَمُ وَأَنْتُمْ لاَ تَعْلَمُونَ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\"/></font><b><font class=\"TextResultArabic\"><font color=\"Red\">
+  \" ما تَرَاضَى عَلَـيْهِ أهْلُوهُمْ \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن بشار، قال: ثنا مـحمد بن الـحارث، قال: ثنا مـحمد بن عبد الرحمن بن البـيـلـمانـي،
+  عن أبـيه، عن ابن عمر، عن النبـي صلى الله عليه وسلم بنـحو منه.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وفـي هذه الآية الدلالة الواضحة علـى صحة قول من قال: لا نكاح إلا
+  بولـيّ من العصبة. وذلك أن الله تعالـى ذكره منع الولـيّ من عضل الـمرأة إن أرادت النكاح،
+  ونهاه عن ذلك، فلو كان للـمرأة إنكاح نفسها بغير إنكاح ولـيها إياها، أو كان لها تولـية
+  من أرادت تولـيته فـي إنكاحها لـم يكن لنهي ولـيها عن عضلها معنى مفهوم، إذ كان لا
+  سبـيـل له إلـى عضلها، وذلك أنها إن كانت متـى أرادت النكاح جاز لها إنكاح نفسها أو
+  إنكاح من توكله إنكاحها، فلا عضل هنالك لها من أحد، فـينهى عاضلها عن عضلها.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وفـي فساد القول بأن لا معنى لنهي الله عما نهى عنه صحة القول بأن
+  لولّـي الـمرأة فـي تزويجها حقا لا يصحّ عقده إلا به، وهو الـمعنى الذي أمر الله به
+  الولّـي من تزويجها إذا خطبها خاطبها ورضيت به، وكان رضى عند أولـيائها جائزاً فـي
   حكم الـمسلـمين لـمثلها أن تنكح مثله، ونهاه عن خلافه من عضلها، ومنعها عما أرادت من
-  ذلك وتراضت هي والـخاطب به.القول فـي تأويـل قوله تعالـى: { ذلِكَ يُوعَظُ بِهِ مَنْ
-  كانَ مِنْكُمْ يُؤْمِنُ بـاللَّهِ وَالـيَوْمِ الآخِر }.يعنـي تعالـى ذكره بقوله ذلك
-  ما ذكر فـي هذه الآية: من نهي أولـياء الـمرأة عن عضلها عن النكاح يقول: فهذا الذي
-  نهيتكم عنه من عضلهن عن النكاح عظة منـي من كان منكم أيها الناس يؤمن بـالله والـيوم
-  الآخر، يعنـي يصدّق بـالله فـيوحده، ويقرّ بربوبـيته، { والـيَوْمِ الأخِر } يقول:
-  ومن يؤمن بـالـيوم الآخر فـيصدق بـالبعث للـجزاء والثواب والعقاب، لـيتقـي الله فـي
-  نفسه، فلا يظلـمها بضرار ولـيته، ومنعها من نكاح من رضيته لنفسها مـمن أذنت لها فـي
-  نكاحه.فإن قال لنا قائل: وكيف قـيـل { ذَلِكَ يُوعَظُ بِهِ } وهو خطاب للـجميع، وقد
-  قال من قبل: { فَلاَ تَعْضُلُوهُنَّ } وإذا جاز أن يقال فـي خطاب الـجميع ذلك أفـيجوز
-  أن تقول لـجماعة من الناس وأنت تـخاطبهم أيها القوم: هذا غلامك وهذا خادمك، وأنت تريد:
-  هذا خادمكم وهذا غلامكم؟ قـيـل لا، إن ذلك غير جائز مع الأسماء الـموضوعات، لأن ما
-  أضيف له الأسماء غيرها، فلا يفهم سامع سمع قول قائل لـجماعة أيها القوم هذا غلامك،
-  أنه عنى بذلك: هذا غلامكم، إلا علـى استـخطاء الناطق فـي منطقه ذلك، فإن طلب لـمنطقه
-  ذلك وجهاً، فـالصواب صرف كلامه ذلك إلـى إنه انصرف عن خطاب القوم بـما أراد خطابهم
-  به إلـى خطاب رجل واحد منهم أو من غيرهم، وترك مـجاوزة القوم بـما أراد مـجاوزتهم به
-  من الكلام، ولـيس ذلك كذلك فـي ذلك لكثرة جري ذلك علـى ألسن العرب فـي منطقها وكلامها،
-  حتـى صارت الكاف التـي هي كناية اسم الـمخاطب فـيها كهيئة حرف من حروف الكلـمة التـي
-  هي متصلة، وصارت الكلـمة بها كقول القائل هذا، كأنها لـيس معها اسم مخاطب، فمن قال:
-  { ذَلِكَ يُوعَظُ بِهِ مَنْ كان مِنْكُمْ يُؤْمِنُ بـاللَّهِ والـيَوْمِ الآخِر } أقر
-  الكاف من ذلك موحدة مفتوحة فـي خطاب الواحدة من النساء والواحد من الرجال، والتثنـية
-  والـجمع، ومن قال: { ذَلِكُمْ يُوعَظُ بِهِ } كسر فـي خطاب الواحدة من النساء، وفتـح
-  فـي خطاب الواحد من الرجال فقال فـي خطاب الاثنـين منهم ذلكما، وفـي خطاب الـجمع ذلكم.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَإِذَا طَلَّقْتُمُ ٱلنِّسَآءَ فَبَلَغْنَ
-  أَجَلَهُنَّ فَلاَ تَعْضُلُوهُنَّ أَن يَنكِحْنَ أَزْوَاجَهُنَّ إِذَا تَرَاضَوْاْ
-  بَيْنَهُمْ بِٱلْمَعْرُوفِ ذٰلِكَ يُوعَظُ بِهِ مَن كَانَ مِنكُمْ يُؤْمِنُ بِٱللَّهِ
-  وَٱلْيَوْمِ ٱلآخِرِ ذٰلِكُمْ أَزْكَىٰ لَكُمْ وَأَطْهَرُ وَٱللَّهُ يَعْلَمُ وَأَنْتُمْ
-  لاَ تَعْلَمُونَ }وقد قـيـل: إن قوله: { ذلكَ يُوعَظُ بِهِ مَنْ كانَ مِنْكُمْ يُؤْمِنُ
+  ذلك وتراضت هي والـخاطب به.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">القول فـي تأويـل قوله تعالـى: {
+  ذلِكَ يُوعَظُ بِهِ مَنْ كانَ مِنْكُمْ يُؤْمِنُ بـاللَّهِ وَالـيَوْمِ الآخِر }.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">يعنـي تعالـى ذكره بقوله ذلك ما ذكر فـي هذه الآية: من نهي أولـياء
+  الـمرأة عن عضلها عن النكاح يقول: فهذا الذي نهيتكم عنه من عضلهن عن النكاح عظة منـي
+  من كان منكم أيها الناس يؤمن بـالله والـيوم الآخر، يعنـي يصدّق بـالله فـيوحده، ويقرّ
+  بربوبـيته، { والـيَوْمِ الأخِر } يقول: ومن يؤمن بـالـيوم الآخر فـيصدق بـالبعث للـجزاء
+  والثواب والعقاب، لـيتقـي الله فـي نفسه، فلا يظلـمها بضرار ولـيته، ومنعها من نكاح
+  من رضيته لنفسها مـمن أذنت لها فـي نكاحه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">فإن
+  قال لنا قائل: وكيف قـيـل { ذَلِكَ يُوعَظُ بِهِ } وهو خطاب للـجميع، وقد قال من قبل:
+  { فَلاَ تَعْضُلُوهُنَّ } وإذا جاز أن يقال فـي خطاب الـجميع ذلك أفـيجوز أن تقول لـجماعة
+  من الناس وأنت تـخاطبهم أيها القوم: هذا غلامك وهذا خادمك، وأنت تريد: هذا خادمكم وهذا
+  غلامكم؟ قـيـل لا، إن ذلك غير جائز مع الأسماء الـموضوعات، لأن ما أضيف له الأسماء
+  غيرها، فلا يفهم سامع سمع قول قائل لـجماعة أيها القوم هذا غلامك، أنه عنى بذلك: هذا
+  غلامكم، إلا علـى استـخطاء الناطق فـي منطقه ذلك، فإن طلب لـمنطقه ذلك وجهاً، فـالصواب
+  صرف كلامه ذلك إلـى إنه انصرف عن خطاب القوم بـما أراد خطابهم به إلـى خطاب رجل واحد
+  منهم أو من غيرهم، وترك مـجاوزة القوم بـما أراد مـجاوزتهم به من الكلام، ولـيس ذلك
+  كذلك فـي ذلك لكثرة جري ذلك علـى ألسن العرب فـي منطقها وكلامها، حتـى صارت الكاف التـي
+  هي كناية اسم الـمخاطب فـيها كهيئة حرف من حروف الكلـمة التـي هي متصلة، وصارت الكلـمة
+  بها كقول القائل هذا، كأنها لـيس معها اسم مخاطب، فمن قال: { ذَلِكَ يُوعَظُ بِهِ مَنْ
+  كان مِنْكُمْ يُؤْمِنُ بـاللَّهِ والـيَوْمِ الآخِر } أقر الكاف من ذلك موحدة مفتوحة
+  فـي خطاب الواحدة من النساء والواحد من الرجال، والتثنـية والـجمع، ومن قال: { ذَلِكُمْ
+  يُوعَظُ بِهِ } كسر فـي خطاب الواحدة من النساء، وفتـح فـي خطاب الواحد من الرجال فقال
+  فـي خطاب الاثنـين منهم ذلكما، وفـي خطاب الـجمع ذلكم.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">5 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2, 232)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,232)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَإِذَا طَلَّقْتُمُ ٱلنِّسَآءَ فَبَلَغْنَ أَجَلَهُنَّ
+  فَلاَ تَعْضُلُوهُنَّ أَن يَنكِحْنَ أَزْوَاجَهُنَّ إِذَا تَرَاضَوْاْ بَيْنَهُمْ بِٱلْمَعْرُوفِ
+  ذٰلِكَ يُوعَظُ بِهِ مَن كَانَ مِنكُمْ يُؤْمِنُ بِٱللَّهِ وَٱلْيَوْمِ ٱلآخِرِ ذٰلِكُمْ
+  أَزْكَىٰ لَكُمْ وَأَطْهَرُ وَٱللَّهُ يَعْلَمُ وَأَنْتُمْ لاَ تَعْلَمُونَ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">وقد قـيـل: إن قوله: { ذلكَ يُوعَظُ بِهِ مَنْ كانَ مِنْكُمْ يُؤْمِنُ
   بـاللَّهِ } خطاب للنبـي صلى الله عليه وسلم، ولذلك وجه ثم رجع إلـى خطاب الـمؤمنـين
   بقوله: { مَنْ كانَ مِنْكُمْ يُؤْمِنُ بـاللَّهِ } وإذا وجه التأويـل إلـى هذا الوجه
-  لـم يكن فـيه مؤنة.القول فـي تأويـل قوله تعالـى: { ذَلِكُمْ أزْكَى لَكُمْ وأطْهَرُ
-  وَاللَّهُ يَعْلَـمُ وأنْتُـم لا تَعْلَـمُونَ }.يعنـي تعالـى ذكره بقوله: { ذَلِكُمْ
-  } نكاح أزواجهنّ لهنّ، ومراجعة أزواجهنّ أياهنّ بـما أبـاح لهنّ من نكاح ومهر جديد،
-  أزكى لكم أيها الأولـياء والأزواج والزوجات. ويعنـي بقوله: { أزْكَى لَكُمْ } أفضل
-  وخير عند الله من فرقتهن أزواجهن.وقد دللنا فـيـما مضى علـى معنى الزكاة، فأغنى ذلك
-  عن إعادته.وأما قوله { وأطْهَرَ } فإنه يعنـي بذلك: أطهر لقلوبكم وقلوبهن وقلوب أزواجهن
-  من الريبة، وذلك أنهما إذا كان فـي نفس كل واحد منهما أعنـي الزوج والـمرأة علاقة حب،
-  لـم يؤمن أن يتـجاوزا ذلك إلـى غير ما أحله الله لهما، ولـم يؤمن من أولـيائهما أن
-  يسبق إلـى قلوبهم منهما ما لعلهما أن يكونا منه بريئين. فأمر الله تعالـى ذكره الأولـياء
+  لـم يكن فـيه مؤنة.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">القول فـي تأويـل قوله تعالـى: {
+  ذَلِكُمْ أزْكَى لَكُمْ وأطْهَرُ وَاللَّهُ يَعْلَـمُ وأنْتُـم لا تَعْلَـمُونَ }.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">يعنـي تعالـى ذكره بقوله: { ذَلِكُمْ } نكاح أزواجهنّ لهنّ، ومراجعة
+  أزواجهنّ أياهنّ بـما أبـاح لهنّ من نكاح ومهر جديد، أزكى لكم أيها الأولـياء والأزواج
+  والزوجات. ويعنـي بقوله: { أزْكَى لَكُمْ } أفضل وخير عند الله من فرقتهن أزواجهن.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقد دللنا فـيـما مضى علـى معنى الزكاة، فأغنى ذلك عن إعادته.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وأما قوله { وأطْهَرَ } فإنه يعنـي بذلك: أطهر لقلوبكم وقلوبهن وقلوب
+  أزواجهن من الريبة، وذلك أنهما إذا كان فـي نفس كل واحد منهما أعنـي الزوج والـمرأة
+  علاقة حب، لـم يؤمن أن يتـجاوزا ذلك إلـى غير ما أحله الله لهما، ولـم يؤمن من أولـيائهما
+  أن يسبق إلـى قلوبهم منهما ما لعلهما أن يكونا منه بريئين. فأمر الله تعالـى ذكره الأولـياء
   إذا أراد الأزواج التراجع بعد البـينونة بنكاح مستأنف فـي الـحال التـي أذن الله لهما
   بـالتراجع أن لا يعضل ولـيته عما أرادت من ذلك، وأن يزوّجها، لأن ذلك أفضل لـجميعهم،
   وأطهر لقلوبهم مـما يخاف سبوقه إلـيها من الـمعانـي الـمكروهة. ثم أخبر تعالـى ذكره
@@ -205,5 +424,16 @@ text: "<section>قراءة الآيةفتح صفحة القرآنالانتقا�
   صاحبه بـالـمودة والـمـحبة، فقال لهم تعالـى ذكره: افعلوا ما أمرتكم به إن كنتـم تؤمنون
   بـي وبثوابـي وبعقابـي فـي معادكم فـي الآخرة، فإنـي أعلـم من قلب الـخاطب والـمخطوبة
   ما لا تعلـمونه من الهوى والـمـحبة، وفعلكم ذلك أفضل لكم عند الله ولهم، وأزكى وأطهر
-  لقلوبكم وقلوبهن فـي العاجل.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  لقلوبكم وقلوبهن فـي العاجل.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">6 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section>"
 

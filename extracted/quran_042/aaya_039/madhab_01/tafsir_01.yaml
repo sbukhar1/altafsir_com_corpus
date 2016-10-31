@@ -1,4 +1,4 @@
-location:
+position:
   sura: '042'
   aaya: 039
   madhab: '01'
@@ -7,48 +7,125 @@ meta:
   title: تفسير جامع البيان في تفسير القرآن
   author: الطبري
   year: '310'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَٱلَّذِينَ إِذَآ
-  أَصَابَهُمُ ٱلْبَغْيُ هُمْ يَنتَصِرُونَ } * { وَجَزَآءُ سَيِّئَةٍ سَيِّئَةٌ مِّثْلُهَا
-  فَمَنْ عَفَا وَأَصْلَحَ فَأَجْرُهُ عَلَى ٱللَّهِ إِنَّهُ لاَ يُحِبُّ ٱلظَّالِمِينَ
-  }يقول تعالى ذكره: والذين إذا بغى عليهم باغٍ، واعتدى عليهم هم ينتصرون.ثم اختلف أهل
-  التأويل في الباغي الذي حمد تعالى ذكره، المنتصر منه بعد بغيه عليه، فقال بعضهم: هو
-  المشرك إذا بغى على المسلم. ذكر من قال ذلك:حدثني يونس، قال: أخبرني ابن وهب قال: قال
-  ابن زيد: ذكر المهاجرين صنفين، صنفاً عفا، وصنفاً انتصر، وقرأ { وَالَّذِينَ يَجْتَنِبُونَ
-  كَبائِرَ الإثْمِ والفَوَاحِشَ وَإذَا ما غَضِبُوا هُمْ يَغْفِرُونَ } قال: فبدأ بهم{ وَالَّذِينَ
-  اسْتَجابُوا لِرَبّهِمْ... }إلى قوله:{ ومِمَّا رَزَقْناهُمْ يُنْفِقُونَ }وهم الأنصار.
-  ثم ذكر الصنف الثالث فقال: { وَالَّذِينَ إذَا أصَابَهُمُ البَغْيُ هُمْ يَنْتَصِرُونَ
-  } من المشركين. وقال آخرون: بل هو كل باغٍ بغي فحمد المنتصر منه. ذكر من قال ذلك:حدثنا
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(42, 39)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(42,39)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَٱلَّذِينَ
+  إِذَآ أَصَابَهُمُ ٱلْبَغْيُ هُمْ يَنتَصِرُونَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَجَزَآءُ سَيِّئَةٍ
+  سَيِّئَةٌ مِّثْلُهَا فَمَنْ عَفَا وَأَصْلَحَ فَأَجْرُهُ عَلَى ٱللَّهِ إِنَّهُ لاَ
+  يُحِبُّ ٱلظَّالِمِينَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">يقول تعالى ذكره: والذين إذا بغى
+  عليهم باغٍ، واعتدى عليهم هم ينتصرون.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">ثم
+  اختلف أهل التأويل في الباغي الذي حمد تعالى ذكره، المنتصر منه بعد بغيه عليه، فقال
+  بعضهم: هو المشرك إذا بغى على المسلم. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  يونس، قال: أخبرني ابن وهب قال: قال ابن زيد: ذكر المهاجرين صنفين، صنفاً عفا، وصنفاً
+  انتصر، وقرأ { وَالَّذِينَ يَجْتَنِبُونَ كَبائِرَ الإثْمِ والفَوَاحِشَ وَإذَا ما
+  غَضِبُوا هُمْ يَغْفِرُونَ } قال: فبدأ بهم</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">وَالَّذِينَ اسْتَجابُوا لِرَبّهِمْ...</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">إلى
+  قوله:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">ومِمَّا رَزَقْناهُمْ يُنْفِقُونَ</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">وهم الأنصار. ثم ذكر الصنف الثالث
+  فقال: { وَالَّذِينَ إذَا أصَابَهُمُ البَغْيُ هُمْ يَنْتَصِرُونَ } من المشركين. وقال
+  آخرون: بل هو كل باغٍ بغي فحمد المنتصر منه. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
   محمد، قال: ثنا أحمد، قال: ثنا أسباط، عن السديّ، في قوله: { وَالَّذِينَ إذَا أصَابَهُمُ
-  البَغْيُ هُمْ يَنْتَصِرُونَ } قال: ينتصرون ممن بغى عليهم من غير أن يعتدوا.وهذا القول
-  الثاني أولى في ذلك بالصواب، لأن الله لم يخصص من ذلك معنى دون معنى، بل حمد كلّ منتصر
-  بحقّ ممن بغى عليه.فإن قال قائل: وما في الانتصار من المدح؟ قيل: إن في إقامة الظالم
-  على سبيل الحقّ وعقوبته بما هو له أهل تقويماً له، وفي ذلك أعظم المدح.وقوله: { وَجَزاءُ
-  سَيِّئَةٍ سَيِّئَةٌ مِثْلُها } وقد بيَّنا فيما مضى معنى ذلك، وأن معناه: وجزاء سيئة
-  المسيء عقوبته بما أوجبه الله عليه، فهي وإن كانت عقوبة من الله أوجبها عليه، فهي مَساءة
-  له. والسيئة: إنما هي الفعلة من السوء، وذلك نظير قول الله عزّ وجلّ{ وَمَنْ جاءَ بالسَّيِّئَةِ
-  فَلا يُجْزَى إلاَّ مِثْلَها }وقد قيل: إن معنى ذلك: أن يجاب القائل الكلمة القزعة
-  بمثلها. ذكر من قال ذلك:حدثني يعقوب، قال: قال لي أبو بشر: سمعت ابن أبي نجيح يقول
-  في قوله: { وَجَزاءُ سَيِّئَةٍ سَيِّئَةٌ مِثْلُها } قال: يقول أخزاه الله، فيقول:
-  أخزاه الله.حدثنا محمد، قال: ثنا أحمد، قال: ثنا أسباط، عن السديّ، في قوله: { وَجَزَاءُ
-  سَيِّئَةٍ سَيِّئَةٌ مِثْلُها } قال: إذا شتمك بشتيمة فاشتمه مثلها من غير أن تعتدي.
-  وكان ابن زيد يقول في ذلك بما:حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد في:
-  { وَالَّذِينَ إذَا أصَابَهُمُ البَغْيُ هُمْ يَنْتَصِرُونَ } من المشركين { وَجَزاءُ
-  سَيِّئَةٍ سَيِّئَةٌ مِثْلُها، فَمَنْ عَفا وأصْلَحَ... } الآية، ليس أمركم أن تعفوا
-  عنهم لأنه أحبهم{ وَلَمَنِ انْتَصَر بَعْدَ ظُلْمِهِ فَأُولَئِكَ ما عَلَيْهِمْ مِنْ
-  سَبِيلٍ }، ثم نسخ هذا كله وأمره بالجهاد، فعلى قول ابن زيد هذا تأويل الكلام: وجزاء
-  سيئة من المشركين إليكم، سيئة مثلها منكم إليهم، وإن عفوتم وأصلحتم في العفو، فأجركم
-  في عفوكم عنهم إلى الله، إنه لا يحبّ الكافرين وهذا على قوله كقول الله عزّ وجلّ\r\n\t\t\t\r\n\t\t\t1 2 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَٱلَّذِينَ إِذَآ أَصَابَهُمُ ٱلْبَغْيُ
-  هُمْ يَنتَصِرُونَ } * { وَجَزَآءُ سَيِّئَةٍ سَيِّئَةٌ مِّثْلُهَا فَمَنْ عَفَا وَأَصْلَحَ
-  فَأَجْرُهُ عَلَى ٱللَّهِ إِنَّهُ لاَ يُحِبُّ ٱلظَّالِمِينَ }{ فَمَنِ اعْتَدَى عَلَيْكُمْ
-  فاعْتَدُوا عَلَيْهِ بِمِثْل ما اعْتَدَى عَلَيْكُمْ، وَاتَّقُوا اللّهَ }، وللذي قال
-  من ذلك وجه. غير أن الصواب عندنا: أن تحمل الآية على الظاهر ما لم ينقله إلى الباطن
+  البَغْيُ هُمْ يَنْتَصِرُونَ } قال: ينتصرون ممن بغى عليهم من غير أن يعتدوا.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وهذا القول الثاني أولى في ذلك بالصواب، لأن الله لم يخصص من ذلك معنى
+  دون معنى، بل حمد كلّ منتصر بحقّ ممن بغى عليه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">فإن
+  قال قائل: وما في الانتصار من المدح؟ قيل: إن في إقامة الظالم على سبيل الحقّ وعقوبته
+  بما هو له أهل تقويماً له، وفي ذلك أعظم المدح.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقوله:
+  { وَجَزاءُ سَيِّئَةٍ سَيِّئَةٌ مِثْلُها } وقد بيَّنا فيما مضى معنى ذلك، وأن معناه:
+  وجزاء سيئة المسيء عقوبته بما أوجبه الله عليه، فهي وإن كانت عقوبة من الله أوجبها
+  عليه، فهي مَساءة له. والسيئة: إنما هي الفعلة من السوء، وذلك نظير قول الله عزّ وجلّ</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">وَمَنْ
+  جاءَ بالسَّيِّئَةِ فَلا يُجْزَى إلاَّ مِثْلَها</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">وقد قيل: إن معنى ذلك: أن يجاب القائل
+  الكلمة القزعة بمثلها. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  يعقوب، قال: قال لي أبو بشر: سمعت ابن أبي نجيح يقول في قوله: { وَجَزاءُ سَيِّئَةٍ
+  سَيِّئَةٌ مِثْلُها } قال: يقول أخزاه الله، فيقول: أخزاه الله.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا محمد، قال: ثنا أحمد، قال: ثنا أسباط، عن السديّ، في قوله: {
+  وَجَزَاءُ سَيِّئَةٍ سَيِّئَةٌ مِثْلُها } قال: إذا شتمك بشتيمة فاشتمه مثلها من غير
+  أن تعتدي. وكان ابن زيد يقول في ذلك بما:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد في: { وَالَّذِينَ إذَا أصَابَهُمُ البَغْيُ
+  هُمْ يَنْتَصِرُونَ } من المشركين { وَجَزاءُ سَيِّئَةٍ سَيِّئَةٌ مِثْلُها، فَمَنْ
+  عَفا وأصْلَحَ... } الآية، ليس أمركم أن تعفوا عنهم لأنه أحبهم</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">وَلَمَنِ انْتَصَر بَعْدَ ظُلْمِهِ
+  فَأُولَئِكَ ما عَلَيْهِمْ مِنْ سَبِيلٍ</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">، ثم نسخ هذا كله وأمره بالجهاد،
+  فعلى قول ابن زيد هذا تأويل الكلام: وجزاء سيئة من المشركين إليكم، سيئة مثلها منكم
+  إليهم، وإن عفوتم وأصلحتم في العفو، فأجركم في عفوكم عنهم إلى الله، إنه لا يحبّ الكافرين
+  وهذا على قوله كقول الله عزّ وجلّ</font></font>&#13;\t\t\t<label disabled=\"true\"
+  class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(42, 39)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(42,39)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَٱلَّذِينَ إِذَآ أَصَابَهُمُ ٱلْبَغْيُ هُمْ يَنتَصِرُونَ</a>
+  <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَجَزَآءُ
+  سَيِّئَةٍ سَيِّئَةٌ مِّثْلُهَا فَمَنْ عَفَا وَأَصْلَحَ فَأَجْرُهُ عَلَى ٱللَّهِ
+  إِنَّهُ لاَ يُحِبُّ ٱلظَّالِمِينَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\"
+  dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\"/></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">فَمَنِ اعْتَدَى عَلَيْكُمْ فاعْتَدُوا
+  عَلَيْهِ بِمِثْل ما اعْتَدَى عَلَيْكُمْ، وَاتَّقُوا اللّهَ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">، وللذي
+  قال من ذلك وجه. غير أن الصواب عندنا: أن تحمل الآية على الظاهر ما لم ينقله إلى الباطن
   ما يجب التسليم له، وأن لا يحكم لحكم في آية بالنسخ إلا بخبر يقطع العذر، أو حجة يجب
   التسليم لها، ولم تثبت حجة في قوله: { وَجَزاءُ سَيِّئَةٍ سَيِّئَةٌ مِثْلُها } أنه
-  مراد به المشركون دون المسلمين، ولا بأن هذه الآية منسوخة، فنسلم لها بأن ذلك كذلك.وقوله:
-  { فَمَنْ عَفا وأصْلَحَ فَأجْرُهُ على اللّهِ } يقول جلّ ثناؤه: فمن عفا عمن أساء إليه
-  إساءته إليه، فغفرها له، ولم يعاقبه بها، وهو على عقوبته عليها قادر ابتغاء وجه الله،
-  فأجر عفوه ذلك على الله، والله مثيبه عليه ثوابه { إنَّهُ لا يُحِبُّ الظَّالِمِينَ
-  } يقول: إن الله لا يحبّ أهل الظلم الذين يتعدّون على الناس، فيسيئون إليهم بغير ما
-  أذن الله لهم فيه.\r\n\t\t\t\r\n\t\t\t1 2 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  مراد به المشركون دون المسلمين، ولا بأن هذه الآية منسوخة، فنسلم لها بأن ذلك كذلك.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقوله: { فَمَنْ عَفا وأصْلَحَ فَأجْرُهُ على اللّهِ } يقول جلّ ثناؤه:
+  فمن عفا عمن أساء إليه إساءته إليه، فغفرها له، ولم يعاقبه بها، وهو على عقوبته عليها
+  قادر ابتغاء وجه الله، فأجر عفوه ذلك على الله، والله مثيبه عليه ثوابه { إنَّهُ لا
+  يُحِبُّ الظَّالِمِينَ } يقول: إن الله لا يحبّ أهل الظلم الذين يتعدّون على الناس،
+  فيسيئون إليهم بغير ما أذن الله لهم فيه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section>"
 

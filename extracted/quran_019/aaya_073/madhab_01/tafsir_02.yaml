@@ -1,4 +1,4 @@
-location:
+position:
   sura: 019
   aaya: '073'
   madhab: '01'
@@ -7,20 +7,42 @@ meta:
   title: تفسير الكشاف
   author: الزمخشري
   year: '538'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَإِذَا تُتْلَىٰ
-  عَلَيْهِمْ آيَاتُنَا بَيِّنَٰتٍ قَالَ ٱلَّذِينَ كَفَرُواْ لِلَّذِينَ آمَنُوۤاْ أَيُّ
-  ٱلْفَرِيقَيْنِ خَيْرٌ مَّقَاماً وَأَحْسَنُ نَدِيّاً }{ بَيِـّنَـٰتٍ } مرتلات الألفاظ،
-  ملخصات المعاني: مبينات المقاصد: إما محكمات أو متشابهات، قد تبعها البيان بالمحكمات.
-  أو بتبيين الرسول قولاً أو فعلاً. أو ظاهرات الإعجاز تحدّى بها فلم يقدر على معارضتها.
-  أو حججاً وبراهين. والوجه أن تكون حالاً مؤكدة كقوله تعالى:{ وَهُوَ ٱلْحَقُّ مُصَدّقًا }[البقرة:91]
-  لأن آيات الله لا تكون إلا واضحة وحججاً { لِلَّذِينَ ءَامَنُوۤ اْ } يحتمل أنهم يناطقون
-  المؤمنين بذلك ويواجهونهم به، وأنهم يفوهون به لأجلهم وفي معناهم، كقوله تعالى:{ وَقَالَ
-  ٱلَّذِينَ كَفَرُواْ لِلَّذِينَ ءامَنُواْ لَوْ كَانَ خَيْراً مَّا سَبَقُونَا إِلَيْهِ }[الأحقاف:
-  11]. قرأ ابن كثير «مقاماً» بالضم وهو موضع الإقامة والمنزل، والباقون بالفتح وهو موضع
-  القيام، والمراد المكان والموضع.والندىّ: المجلس ومجتمع القوم، وحيث ينتدون. والمعنى:
-  أنهم إذا سمعوا الآيات وهم جهلة لا يعلمون إلا ظاهراً من الحياة الدنيا وذلك مبلغهم
-  من العلم، قالوا: أيّ الفريقين من المؤمنين بالآيات والجاحدين لها أوفر حظاً من الدنيا
-  حتى يجعل ذلك عياراً على الفضل والنقص، والرفعة والضعة؟ ويروى أنهم كانوا يرجلون شعورهم
-  ويدهنون ويتطيبون ويتزينون بالزين الفاخرة، ثم يدعون مفتخرين على فقراء المسلمين أنهم
-  أكرم على الله منهم.\r\n\t\t\t\r\n\t\t\t</section>"
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(19, 73)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(19,73)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَإِذَا
+  تُتْلَىٰ عَلَيْهِمْ آيَاتُنَا بَيِّنَٰتٍ قَالَ ٱلَّذِينَ كَفَرُواْ لِلَّذِينَ آمَنُوۤاْ
+  أَيُّ ٱلْفَرِيقَيْنِ خَيْرٌ مَّقَاماً وَأَحْسَنُ نَدِيّاً</a> <b>}</b></font>, <br/>,
+  <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">{
+  بَيِـّنَـٰتٍ } مرتلات الألفاظ، ملخصات المعاني: مبينات المقاصد: إما محكمات أو متشابهات،
+  قد تبعها البيان بالمحكمات. أو بتبيين الرسول قولاً أو فعلاً. أو ظاهرات الإعجاز تحدّى
+  بها فلم يقدر على معارضتها. أو حججاً وبراهين. والوجه أن تكون حالاً مؤكدة كقوله تعالى:</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">وَهُوَ
+  ٱلْحَقُّ مُصَدّقًا</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">[البقرة:91] لأن آيات الله لا تكون إلا واضحة وحججاً { لِلَّذِينَ
+  ءَامَنُوۤ اْ } يحتمل أنهم يناطقون المؤمنين بذلك ويواجهونهم به، وأنهم يفوهون به لأجلهم
+  وفي معناهم، كقوله تعالى:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">وَقَالَ ٱلَّذِينَ كَفَرُواْ لِلَّذِينَ ءامَنُواْ لَوْ كَانَ
+  خَيْراً مَّا سَبَقُونَا إِلَيْهِ</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">[الأحقاف: 11]. قرأ ابن كثير «مقاماً»
+  بالضم وهو موضع الإقامة والمنزل، والباقون بالفتح وهو موضع القيام، والمراد المكان
+  والموضع.والندىّ: المجلس ومجتمع القوم، وحيث ينتدون. والمعنى: أنهم إذا سمعوا الآيات
+  وهم جهلة لا يعلمون إلا ظاهراً من الحياة الدنيا وذلك مبلغهم من العلم، قالوا: أيّ
+  الفريقين من المؤمنين بالآيات والجاحدين لها أوفر حظاً من الدنيا حتى يجعل ذلك عياراً
+  على الفضل والنقص، والرفعة والضعة؟ ويروى أنهم كانوا يرجلون شعورهم ويدهنون ويتطيبون
+  ويتزينون بالزين الفاخرة، ثم يدعون مفتخرين على فقراء المسلمين أنهم أكرم على الله
+  منهم.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

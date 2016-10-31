@@ -1,4 +1,4 @@
-location:
+position:
   sura: '002'
   aaya: '054'
   madhab: '02'
@@ -7,24 +7,53 @@ meta:
   title: تفسير النكت والعيون
   author: الماوردي
   year: '450'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَإِذْ قَالَ مُوسَىٰ
-  لِقَوْمِهِ يَٰقَوْمِ إِنَّكُمْ ظَلَمْتُمْ أَنْفُسَكُمْ بِٱتِّخَاذِكُمُ ٱلْعِجْلَ
-  فَتُوبُوۤاْ إِلَىٰ بَارِئِكُمْ فَٱقْتُلُوۤاْ أَنفُسَكُمْ ذَٰلِكُمْ خَيْرٌ لَّكُمْ
-  عِنْدَ بَارِئِكُمْ فَتَابَ عَلَيْكُمْ إِنَّهُ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ }قوله
-  عز وجل: { فَتُوبُوا إلى بَارِئِكُمْ } يعني: فارجعوا إلى طاعة خالقكم، والبارئ الخالق،
-  والبريَّة الخلق، وهي فعيلة، بمعنى مفعولة، غير أنها لا تهمز.واختلفوا في هذه التسمية
-  على أربعة أقاويل:أحدها: أنها مأخوذة من برأ اللهُ الخلْق، يبرَؤُهُم برءاً.والثاني:
-  أنها فعلية من البرء، وهو التراب.والثالث: أنها مأخوذة من برئ الشيء من الشيء، وهو
-  انفصاله عنه، ومنه البراءة من الدين لانفصاله عنه، وأبرأه الله من المرض، إذا أزاله
-  عنه.وقوله تعالى: { فَاقْتُلُوا أَنْفُسَكُمْ } فيه تأويلان:أحدهما: معناه: ليقتل بعضكم
-  بعضاً، وهذا قول ابن عباس، وسعيد بن جبيرٍ، ومجاهد.والثاني: استسلموا للقتل، وجعل ذلك
-  بمنزلة القتل، وهذا قول أبي إسحاق.وأصل القتل: إماتةُ الحركة، ومنه: قتلت الخمر بالماء،
-  إذا مَزَجتها، لأنك أمتَّ حركتها، وإنما جُعل القتل توبة، لأن من كفَّ عن الإنكار لعبادة
-  العجل، إنما كف خوفاً من القتال والقتل، فجُعِلَت توبتهم بالقتل، الذي خافوه، هكذا
-  قال ابن جريج.قال ابن عباسٍ: احْتَبَى الَّذِين عكفوا على العجل فجلسوا، وقام الذين
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(2, 54)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(2,54)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَإِذْ
+  قَالَ مُوسَىٰ لِقَوْمِهِ يَٰقَوْمِ إِنَّكُمْ ظَلَمْتُمْ أَنْفُسَكُمْ بِٱتِّخَاذِكُمُ
+  ٱلْعِجْلَ فَتُوبُوۤاْ إِلَىٰ بَارِئِكُمْ فَٱقْتُلُوۤاْ أَنفُسَكُمْ ذَٰلِكُمْ خَيْرٌ
+  لَّكُمْ عِنْدَ بَارِئِكُمْ فَتَابَ عَلَيْكُمْ إِنَّهُ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">قوله عز وجل: { فَتُوبُوا إلى بَارِئِكُمْ } يعني: فارجعوا إلى طاعة
+  خالقكم، والبارئ الخالق، والبريَّة الخلق، وهي فعيلة، بمعنى مفعولة، غير أنها لا تهمز.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">واختلفوا في هذه التسمية على أربعة أقاويل:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">أحدها:
+  أنها مأخوذة من برأ اللهُ الخلْق، يبرَؤُهُم برءاً.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">والثاني:
+  أنها فعلية من البرء، وهو التراب.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">والثالث:
+  أنها مأخوذة من برئ الشيء من الشيء، وهو انفصاله عنه، ومنه البراءة من الدين لانفصاله
+  عنه، وأبرأه الله من المرض، إذا أزاله عنه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقوله
+  تعالى: { فَاقْتُلُوا أَنْفُسَكُمْ } فيه تأويلان:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">أحدهما:
+  معناه: ليقتل بعضكم بعضاً، وهذا قول ابن عباس، وسعيد بن جبيرٍ، ومجاهد.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">والثاني: استسلموا للقتل، وجعل ذلك بمنزلة القتل، وهذا قول أبي إسحاق.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وأصل القتل: إماتةُ الحركة، ومنه: قتلت الخمر بالماء، إذا مَزَجتها،
+  لأنك أمتَّ حركتها، وإنما جُعل القتل توبة، لأن من كفَّ عن الإنكار لعبادة العجل، إنما
+  كف خوفاً من القتال والقتل، فجُعِلَت توبتهم بالقتل، الذي خافوه، هكذا قال ابن جريج.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قال ابن عباسٍ: احْتَبَى الَّذِين عكفوا على العجل فجلسوا، وقام الذين
   لم يعكُفُوا عليه، وأخذوا الخناجر، وأصابتهم ظلمة فجعل بعضهم يقتل بعضاً، حتى انجلت
   الظلمة من سبعين ألفَ قتيلٍ في ساعة من نهار، وكانوا ينادون في تلك الحال: رحم الله
   عبداً صبر حتى يبلغ الله رضاه، فحزِن موسى وبنو إسرائيل لذلك القتل، فأوحى الله عز
   وجل إلى موسى: لا تحزن، أَمَّا من قُتِل منكم فأحياء عندي يرزقون، وأَمًّا من بقِيَ
-  فقد قُبِلَتْ توبته، فَبَشَّرَ بذلك بني إسرائيل.\r\n\t\t\t\r\n\t\t\t</section>"
+  فقد قُبِلَتْ توبته، فَبَشَّرَ بذلك بني إسرائيل.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

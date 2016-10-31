@@ -1,4 +1,4 @@
-location:
+position:
   sura: '002'
   aaya: '023'
   madhab: '02'
@@ -7,23 +7,60 @@ meta:
   title: تفسير النكت والعيون
   author: الماوردي
   year: '450'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَإِن كُنْتُمْ
-  فِي رَيْبٍ مِّمَّا نَزَّلْنَا عَلَىٰ عَبْدِنَا فَأْتُواْ بِسُورَةٍ مِّن مِّثْلِهِ
-  وَٱدْعُواْ شُهَدَآءَكُم مِّن دُونِ ٱللَّهِ إِنْ كُنْتُمْ صَٰدِقِينَ } * { فَإِن
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(2, 23)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(2,23)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَإِن
+  كُنْتُمْ فِي رَيْبٍ مِّمَّا نَزَّلْنَا عَلَىٰ عَبْدِنَا فَأْتُواْ بِسُورَةٍ مِّن
+  مِّثْلِهِ وَٱدْعُواْ شُهَدَآءَكُم مِّن دُونِ ٱللَّهِ إِنْ كُنْتُمْ صَٰدِقِينَ</a>
+  <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">فَإِن
   لَّمْ تَفْعَلُواْ وَلَن تَفْعَلُواْ فَٱتَّقُواْ ٱلنَّارَ ٱلَّتِي وَقُودُهَا ٱلنَّاسُ
-  وَٱلْحِجَارَةُ أُعِدَّتْ لِلْكَٰفِرِينَ }قوله عز وجل: { وَإِنْ كُنْتُمْ في رَيْبٍ
-  مِمَّا نَزَّلْنَا عَلَى عَبْدِنَا } يعني في القرآن، على عبدنا: يعني محمداً صلى الله
-  عليه وسلم، والعبد مأخوذ من التعبد، وهو التذلل، وسُمي المملوك من جنس ما يعقل عبداً،
-  لتذللـه لمولاه.{ فَأْتُوا بِسُورَةٍ مِنْ مِثْلِهِ } فيه تأويلان:أحدهما: يعني من
-  مثله من القرآن، وهذا قول مجاهد وقتادة.والثاني: فأتوا بسورة من مثل محمد صلى الله
-  عليه وسلم من البشر، لأن محمداً بشر مثلهم.{ وَادْعُوا شُهَدَاءَكُمْ } فيه ثلاثة تأويلات:أحدها:
-  يعني أعوانكم، وهذا قول ابن عباس.والثاني: آلهتكم، لأنهم كانوا يعتقدون أنها تشهد لهم،
-  وهذا قول الفراء.والثالث: ناساً يشهدون لكم، وهذا قول مجاهد.قوله عز وجل: { فَاتَّقُوا
-  النَّارَ الَّتي وَقُودُهَا النَّاسُ وَالْحِجَارَةُ } الوَقود بالفتح الحطب، والوُقود
-  بالضم التوقُّد، والحجارة من كبريتٍ أسود، وفيها قولان:أحدهما: أنهم يعذبون فيها بالحجارة
-  مع النار، التي وقودها الناس، وهذا قول ابن مسعود وابن عباس.والثاني: أن الحجارة وقود
-  النار مع الناس، ذكر ذلك تعظيماً للنار، كأنها تحرق الحجارة مع إحراقها الناس.وفي قوله:
-  { أُعِدَّتْ للْكَافِرِينَ } قولان:الأول: أنها وإن أعدت للكافرين، فهي معدة لغيرهم
-  من مستحقي العذاب من غير الكافرين، وهي نار واحدة، وإنما يتفاوت عقابهم فيها.والثاني:
-  أن هذه النار معدة للكافرين خاصة، ولغيرهم من مستحقي العذاب نارٌ غيرها.\r\n\t\t\t\r\n\t\t\t</section>"
+  وَٱلْحِجَارَةُ أُعِدَّتْ لِلْكَٰفِرِينَ</a> <b>}</b></font>, <br/>, <br/>, <div
+  align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">قوله
+  عز وجل: { وَإِنْ كُنْتُمْ في رَيْبٍ مِمَّا نَزَّلْنَا عَلَى عَبْدِنَا } يعني في
+  القرآن، على عبدنا: يعني محمداً صلى الله عليه وسلم، والعبد مأخوذ من التعبد، وهو التذلل،
+  وسُمي المملوك من جنس ما يعقل عبداً، لتذللـه لمولاه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">{
+  فَأْتُوا بِسُورَةٍ مِنْ مِثْلِهِ } فيه تأويلان:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">أحدهما:
+  يعني من مثله من القرآن، وهذا قول مجاهد وقتادة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">والثاني:
+  فأتوا بسورة من مثل محمد صلى الله عليه وسلم من البشر، لأن محمداً بشر مثلهم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">{ وَادْعُوا شُهَدَاءَكُمْ } فيه ثلاثة تأويلات:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">أحدها: يعني أعوانكم، وهذا قول ابن عباس.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">والثاني:
+  آلهتكم، لأنهم كانوا يعتقدون أنها تشهد لهم، وهذا قول الفراء.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">والثالث:
+  ناساً يشهدون لكم، وهذا قول مجاهد.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قوله
+  عز وجل: { فَاتَّقُوا النَّارَ الَّتي وَقُودُهَا النَّاسُ وَالْحِجَارَةُ } الوَقود
+  بالفتح الحطب، والوُقود بالضم التوقُّد، والحجارة من كبريتٍ أسود، وفيها قولان:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">أحدهما: أنهم يعذبون فيها بالحجارة مع النار، التي وقودها الناس، وهذا
+  قول ابن مسعود وابن عباس.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">والثاني: أن الحجارة وقود النار
+  مع الناس، ذكر ذلك تعظيماً للنار، كأنها تحرق الحجارة مع إحراقها الناس.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وفي قوله: { أُعِدَّتْ للْكَافِرِينَ } قولان:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">الأول: أنها وإن أعدت للكافرين، فهي معدة لغيرهم من مستحقي العذاب
+  من غير الكافرين، وهي نار واحدة، وإنما يتفاوت عقابهم فيها.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">والثاني:
+  أن هذه النار معدة للكافرين خاصة، ولغيرهم من مستحقي العذاب نارٌ غيرها.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

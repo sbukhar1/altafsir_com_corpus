@@ -1,4 +1,4 @@
-location:
+position:
   sura: '016'
   aaya: '072'
   madhab: '01'
@@ -10,117 +10,300 @@ meta:
 aaya: وَاللَّهُ جَعَلَ لَكُمْ مِنْ أَنْفُسِكُمْ أَزْوَاجًا وَجَعَلَ لَكُمْ مِنْ أَزْوَاجِكُمْ
   بَنِينَ وَحَفَدَةً وَرَزَقَكُمْ مِنَ الطَّيِّبَاتِ ۚ أَفَبِالْبَاطِلِ يُؤْمِنُونَ
   وَبِنِعْمَتِ اللَّهِ هُمْ يَكْفُرُونَ
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَٱللَّهُ جَعَلَ
-  لَكُمْ مِّنْ أَنْفُسِكُمْ أَزْوَاجاً وَجَعَلَ لَكُمْ مِّنْ أَزْوَاجِكُم بَنِينَ
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(16, 72)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(16,72)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَٱللَّهُ
+  جَعَلَ لَكُمْ مِّنْ أَنْفُسِكُمْ أَزْوَاجاً وَجَعَلَ لَكُمْ مِّنْ أَزْوَاجِكُم بَنِينَ
   وَحَفَدَةً وَرَزَقَكُم مِّنَ ٱلطَّيِّبَاتِ أَفَبِٱلْبَاطِلِ يُؤْمِنُونَ وَبِنِعْمَتِ
-  ٱللَّهِ هُمْ يَكْفُرُونَ }يقول تعالـى ذكره: { وَاللَّهُ } الذي { جَعَلَ لَكُمْ }
-  أيها الناس { مِنْ أنْفُسِكُمْ أزْوَاجاً } يعنـي أنه خـلق آدم زوجته حوّاء، { وَجَعَلَ
-  لَكُمْ مِنْ أزواجكم بنـين وحَفَدةً } ، كما:حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد،
-  عن قتادة: { وَالله جَعَلَ لَكُمْ مِنْ أنْفُسِكُمْ أزْوَاجاً }: أي والله خـلق آدم،
-  ثم خـلق زوجته منه ثم جعل لكم بنـين وحفدة.واختلف أهل التأويـل فـي الـمعنـيـين بـالـحفدة،
-  فقال بعضهم: هم الأختان، أختان الرجل علـى بناته. ذكر من قال ذلك:حدثنا أبو كريب وابن
-  وكيع، قالا: ثنا أبو معاوية، قال: ثنا أبـان بن تغلب، عن الـمنهال بن عمرو، عن ابن
-  حبـيش، عن عبد الله: { بَنِـينَ وَحَفَدَةً } قال: الأَخْتان.حدثنا أبو كريب، قال:
-  ثنا أبو بكر، عن عاصم، عن ورقاء سألت عبد الله: ما تقول فـي الـحَفَدَة؟ هم حَشَم الرجل
-  يا أبـا عبد الرحمن؟ قال: لا، ولكنهم الأختان.حدثنا مـحمد بن بشار، قال: ثنا عبد الرحمن
-  وحدثنا أحمد بن إسحاق، قال: ثنا أبو أحمد، قالا جميعاً: ثنا سفـيان، عن عاصم بن بَهْدَلة،
-  عن زِرّ بن حُبَـيش، عن عبد الله، قال: الـحَفَدة: الأختان.حدثنا ابن وكيع، قال: ثنا
-  أبـي، عن سفـيان بإسناده عن عبد الله، مثله.حدثنا ابن بشار وأحمد بن الولـيد القرشي
-  وابن وكيع وسوار بن عبد الله العنبريّ ومـحمد بن خـلف بن خِراش والـحسن بن خـلف الواسطيّ،
-  قالوا: ثنا يحيى بن سعيد القطان، عن الأعمش، عن أبـي الضحى، قال: الـحَفَدة: الأختان.حدثنا
+  ٱللَّهِ هُمْ يَكْفُرُونَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\"
+  dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">يقول تعالـى ذكره:
+  { وَاللَّهُ } الذي { جَعَلَ لَكُمْ } أيها الناس { مِنْ أنْفُسِكُمْ أزْوَاجاً } يعنـي
+  أنه خـلق آدم زوجته حوّاء، { وَجَعَلَ لَكُمْ مِنْ أزواجكم بنـين وحَفَدةً } ، كما:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة: { وَالله جَعَلَ
+  لَكُمْ مِنْ أنْفُسِكُمْ أزْوَاجاً }: أي والله خـلق آدم، ثم خـلق زوجته منه ثم جعل
+  لكم بنـين وحفدة.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">واختلف أهل التأويـل فـي الـمعنـيـين
+  بـالـحفدة، فقال بعضهم: هم الأختان، أختان الرجل علـى بناته. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا أبو كريب وابن وكيع، قالا: ثنا أبو معاوية، قال: ثنا أبـان بن
+  تغلب، عن الـمنهال بن عمرو، عن ابن حبـيش، عن عبد الله: { بَنِـينَ وَحَفَدَةً } قال:
+  الأَخْتان.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا أبو كريب، قال: ثنا أبو بكر،
+  عن عاصم، عن ورقاء سألت عبد الله: ما تقول فـي الـحَفَدَة؟ هم حَشَم الرجل يا أبـا
+  عبد الرحمن؟ قال: لا، ولكنهم الأختان.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  مـحمد بن بشار، قال: ثنا عبد الرحمن وحدثنا أحمد بن إسحاق، قال: ثنا أبو أحمد، قالا
+  جميعاً: ثنا سفـيان، عن عاصم بن بَهْدَلة، عن زِرّ بن حُبَـيش، عن عبد الله، قال: الـحَفَدة:
+  الأختان.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن وكيع، قال: ثنا أبـي،
+  عن سفـيان بإسناده عن عبد الله، مثله.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن بشار وأحمد بن الولـيد القرشي وابن وكيع وسوار بن عبد الله العنبريّ ومـحمد بن
+  خـلف بن خِراش والـحسن بن خـلف الواسطيّ، قالوا: ثنا يحيى بن سعيد القطان، عن الأعمش،
+  عن أبـي الضحى، قال: الـحَفَدة: الأختان.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
   ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا هشيـم، عن الـمغيرة، عن إبراهيـم، قال: الـحَفَدة:
-  الأختان.حدثنا أحمد بن إسحاق، قال: ثنا أبو أحمد، قال: ثنا إسرائيـل، عن عطاء بن السائب،
-  عن سعيد بن جبـير: { بَنِـينَ وَحَفَدَةً } قال: الـحَفَدة: الأختان.حدثنا ابن حميد،
-  قال: ثنا جرير، عن مغيرة، عن إبراهيـم، قال: الـحَفَدَة: الـخَتْن.حدثنا ابن وكيع،
-  قال: ثنا ابن عيـينة، عن عاصم، عن زرّ، عن عبد الله، قال: الأختان.حدثنا ابن وكيع،
-  قال: ثنا حفص، عن أشعث، عن عكرمة، عن ابن عبـاس، قال: الأختان.وحدثنـي الـمثنى، قال:
-  ثنا أبو صالـح، قال: ثنـي معاوية، عن علـيّ عن ابن عبـاس، قوله: { وحَفَدَةً } قال:
-  الأصهار.حدثنـي الـمثنى، قال: ثنا الـحجاج، قال: ثنا حماد، عن عاصم، عن زرّ، عن ابن
-  مسعود، قال: الـحَفَدة: الأختان.حدثنا الـحسن بن يحيى، قال: أخبرنا عبد الرزاق، قال:
-  أخبرنا ابن عيـينة، عن عاصم بن أبـي النـجود، عن زرّ بن حبـيش، قال: قال لـي عبد الله
-  بن مسعود: ما الـحفَدة يا زِرّ؟ قال: قلت: هم أحفـاد الرجل من ولده وولد ولده. قال:
-  لا، هم الأصهار.وقال آخرون: هم أعوان الرجل وخدمه.\r\n\t\t\t\r\n\t\t\t1 2 3 4 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَٱللَّهُ جَعَلَ لَكُمْ مِّنْ أَنْفُسِكُمْ
-  أَزْوَاجاً وَجَعَلَ لَكُمْ مِّنْ أَزْوَاجِكُم بَنِينَ وَحَفَدَةً وَرَزَقَكُم مِّنَ
-  ٱلطَّيِّبَاتِ أَفَبِٱلْبَاطِلِ يُؤْمِنُونَ وَبِنِعْمَتِ ٱللَّهِ هُمْ يَكْفُرُونَ
-  }ذكر من قال ذلك:حدثنـي مـحمد بن خالد بن خداش، قال: ثنـي سلـيـم بن قتـيبة، عن وهب
-  بن حبـيب الأَسَدي، عن أبـي حمزة، عن ابن عبـاس سئل عن قوله: { بَنِـينَ وَحَفَدَةً
-  } قال: من أعانك فقد حَفَدك، أما سمعت قوله الشاعر:حَفَدَ الوَلائِدُ حَوْلُهنَّ وأُسْلِـمَتْ   بأكُفِّهِنَّ
-  أزِمَّةُ الأجْمالِحدثنا هناد، قال: ثنا أبو الأحوص، عن سماك، عن عكرمة، فـي قوله:
-  { بَنِـينَ وَحَفَدَةً } قال: الـحفدة: الـخُدّام.حدثنـي مـحمد بن خالد بن خداش، قال:
-  ثنـي سَلْـم بن قتـيبة، عن حازم بن إبراهيـم البَجَلـي، عن سماك، عن عكرمة، قال: قال:
-  الـحَفَدة: الـخُدّام.حدثنا ابن وكيع، قال: ثنا عمران بن عيـينة، عن حصين، عن عكرمة،
-  قال: هم الذين يُعينون الرجل من ولده وخدمه.حدثنا ابن عبد الأعلـى، قال: ثنا مـحمد
-  بن ثور، عن معمر، عن الـحكَم بن أبـان، عن عكرمة: { وَحَفَدَةً } قال: الـحَفدة: من
-  خدمك مِنْ ولدك.حدثنا ابن وكيع، قال: ثنا يحيى بن آدم، عن سلام بن سلـيـم، وقـيس عن
-  سمِاك، عن عكرمة، قال: هم الـخدم.حدثنا أحمد، قال: ثنا أبو أحمد، قال: ثنا سلام أبو
-  الأحوص، عن سماك، عن عكرمة، مثله.حدثنـي مـحمد بن خالد، قال: ثنـي سلـمة، عن أبـي هلال،
-  عن الـحسن، فـي قوله: { بَنِـينَ وَحَفَدَةً } قال: البنـين وبنـي البنـين، مَن أعانك
-  من أهل وخادم فقد حفدك.حدثنـي الـمثنى، قال: ثنا عمرو بن عون، قال: أخبرنا هشيـم، عن
-  منصور، عن الـحسن، قال: هم الـخَدَم.حدثنـي مـحمد بن خالد وابن وكيع، ويعقوب بن إبراهيـم،
-  قالوا: ثنا إسماعيـل بن عُلَـية، عن ابن أبـي نـجيح، عن مـجاهد، قال: الـحَفَدة: الـخَدَم.حدثنا
+  الأختان.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا أحمد بن إسحاق، قال: ثنا أبو
+  أحمد، قال: ثنا إسرائيـل، عن عطاء بن السائب، عن سعيد بن جبـير: { بَنِـينَ وَحَفَدَةً
+  } قال: الـحَفَدة: الأختان.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن حميد، قال: ثنا جرير،
+  عن مغيرة، عن إبراهيـم، قال: الـحَفَدَة: الـخَتْن.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن وكيع، قال: ثنا ابن عيـينة، عن عاصم، عن زرّ، عن عبد الله، قال: الأختان.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن وكيع، قال: ثنا حفص، عن أشعث، عن عكرمة، عن ابن عبـاس، قال:
+  الأختان.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وحدثنـي الـمثنى، قال: ثنا أبو صالـح،
+  قال: ثنـي معاوية، عن علـيّ عن ابن عبـاس، قوله: { وحَفَدَةً } قال: الأصهار.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي الـمثنى، قال: ثنا الـحجاج، قال: ثنا حماد، عن عاصم، عن زرّ،
+  عن ابن مسعود، قال: الـحَفَدة: الأختان.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  الـحسن بن يحيى، قال: أخبرنا عبد الرزاق، قال: أخبرنا ابن عيـينة، عن عاصم بن أبـي
+  النـجود، عن زرّ بن حبـيش، قال: قال لـي عبد الله بن مسعود: ما الـحفَدة يا زِرّ؟ قال:
+  قلت: هم أحفـاد الرجل من ولده وولد ولده. قال: لا، هم الأصهار.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال آخرون: هم أعوان الرجل وخدمه.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(16, 72)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(16,72)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَٱللَّهُ جَعَلَ لَكُمْ مِّنْ أَنْفُسِكُمْ أَزْوَاجاً
+  وَجَعَلَ لَكُمْ مِّنْ أَزْوَاجِكُم بَنِينَ وَحَفَدَةً وَرَزَقَكُم مِّنَ ٱلطَّيِّبَاتِ
+  أَفَبِٱلْبَاطِلِ يُؤْمِنُونَ وَبِنِعْمَتِ ٱللَّهِ هُمْ يَكْفُرُونَ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  مـحمد بن خالد بن خداش، قال: ثنـي سلـيـم بن قتـيبة، عن وهب بن حبـيب الأَسَدي، عن
+  أبـي حمزة، عن ابن عبـاس سئل عن قوله: { بَنِـينَ وَحَفَدَةً } قال: من أعانك فقد حَفَدك،
+  أما سمعت قوله الشاعر:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><table
+  class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">حَفَدَ الوَلائِدُ حَوْلُهنَّ وأُسْلِـمَتْ</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">بأكُفِّهِنَّ أزِمَّةُ الأجْمالِ</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا هناد، قال: ثنا أبو الأحوص،
+  عن سماك، عن عكرمة، فـي قوله: { بَنِـينَ وَحَفَدَةً } قال: الـحفدة: الـخُدّام.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي مـحمد بن خالد بن خداش، قال: ثنـي سَلْـم بن قتـيبة، عن حازم
+  بن إبراهيـم البَجَلـي، عن سماك، عن عكرمة، قال: قال: الـحَفَدة: الـخُدّام.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن وكيع، قال: ثنا عمران بن عيـينة، عن حصين، عن عكرمة، قال:
+  هم الذين يُعينون الرجل من ولده وخدمه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن عبد الأعلـى، قال: ثنا مـحمد بن ثور، عن معمر، عن الـحكَم بن أبـان، عن عكرمة:
+  { وَحَفَدَةً } قال: الـحَفدة: من خدمك مِنْ ولدك.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن وكيع، قال: ثنا يحيى بن آدم، عن سلام بن سلـيـم، وقـيس عن سمِاك، عن عكرمة، قال:
+  هم الـخدم.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا أحمد، قال: ثنا أبو أحمد،
+  قال: ثنا سلام أبو الأحوص، عن سماك، عن عكرمة، مثله.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  مـحمد بن خالد، قال: ثنـي سلـمة، عن أبـي هلال، عن الـحسن، فـي قوله: { بَنِـينَ وَحَفَدَةً
+  } قال: البنـين وبنـي البنـين، مَن أعانك من أهل وخادم فقد حفدك.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي الـمثنى، قال: ثنا عمرو بن عون، قال: أخبرنا هشيـم، عن منصور،
+  عن الـحسن، قال: هم الـخَدَم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  مـحمد بن خالد وابن وكيع، ويعقوب بن إبراهيـم، قالوا: ثنا إسماعيـل بن عُلَـية، عن
+  ابن أبـي نـجيح، عن مـجاهد، قال: الـحَفَدة: الـخَدَم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
   أحمد بن إسحاق، قال: ثنا أبو أحمد وحدثنا ابن وكيع، قال: ثنا أبـي وحدثنا ابن بشار،
   قال: ثنا عبد الرحمن، جميعاً عن سفـيان، عن ابن أبـي نـجيح، عن مـجاهد: { بَنِـينَ
-  وَحَفَدَةً } قال: ابنه وخادمه.حدثنـي مـحمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا
-  عيسى وحدثنـي الـحارث، قال: ثنا الـحسن، قال: ثنا ورقاء وحدثنـي الـمثنى، قال: ثنا
-  أبو حذيفة، قال: ثنا شبل جميعاً، عن ابن أبـي نـجيح، عن مـجاهد، فـي قول الله تعالـى:
-  { بَنِـينَ وَحَفَدَةً } قال: أنصاراً وأعواناً وخدّاماً.حدثنا ابن بشار، قال: ثنا
-  عبد الرحمن، قال: ثنا زمعة، عن ابن طاوس، عن أبـيه، قال: الـحفدة: الـخدم.حدثنا ابن
-  بشار مرّة أخرى، قال: ابنه وخادمه.حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة
-  قال: { وَجَعَلَ لَكُمْ مِنْ أزْوَاجِكُمْ بَنِـينَ وَحَفَدَةً } مَهَنة يَـمْهنونك
-  ويخدمونك من ولدك، كرامة أكرمكم الله بها.حدثنا ابن وكيع، قال: ثنا عبد الله، عن إسرائيـل،
-  عن السُّديّ، عن أبـي مالك: الـحَفَدة، قال: الأعوان.حدثنا ابن وكيع، قال: ثنا أبـي،
-  عن سفـيان، عن حصين، عن عكرمة، قال: الذين يعينونه.\r\n\t\t\t\r\n\t\t\t1 2 3 4 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَٱللَّهُ جَعَلَ لَكُمْ مِّنْ أَنْفُسِكُمْ
-  أَزْوَاجاً وَجَعَلَ لَكُمْ مِّنْ أَزْوَاجِكُم بَنِينَ وَحَفَدَةً وَرَزَقَكُم مِّنَ
-  ٱلطَّيِّبَاتِ أَفَبِٱلْبَاطِلِ يُؤْمِنُونَ وَبِنِعْمَتِ ٱللَّهِ هُمْ يَكْفُرُونَ
-  }حدثنا الـحسن بن يحيى، قال: أخبرنا عبد الرزاق، قال: أخبرنا مَعْمر، عن الـحكَم بن
-  أبـان، عن عكرمة، فـي قوله: { بَنِـينَ وَحَفَدَةً } قال: الـحفدة: من خدمك من ولدك
-  وولد ولدك.حدثنا الـحسن، قال: أخبرنا عبد الرزاق، قال: أخبرنا ابن التـيـميّ، عن أبـيه،
-  عن الـحسن، قال: الـحَفَدة: الـخَدَم.حدثنـي الـمثنى، قال: ثنا أبو نعيـم، قال: ثنا
-  سفـيان، عن حصين، عن عكرمة: { بَنِـينَ وَحَفَدَةً } قال: ولده الذين يعينونه.وقال
-  آخرون: هم ولد الرجل وولد ولده. ذكر من قال ذلك:حدثنا مـحمد بن الـمثنى، قال: ثنا عبد
-  الصمد، قال: ثنا شعبة، عن أبـي بشر، عن سعيد بن جبـير، عن ابن عبـاس: { وَحَفَدَةً
-  } قال: هم الولد وولد الولد.حدثنا ابن بشار، قال: ثنا مـحمد بن جعفر، قال: ثنا شعبة،
-  عن أبـي بشر، عن مـجاهد وسعيد بن جبـير، عن ابن عبـاس فـي هذه الآية: { بَنِـينَ وَحَفَدَةً
-  } قال: الـحَفَدة: البنون.حدثنا ابن وكيع، قال: ثنا غُنْدَر، عن شعبة، عن أبـي بشر،
-  عن مجاهد، عن ابن عبـاس، مثله.حدثنا القاسم، قال: ثنا الـحسين، قال: ثنـي حجاج، عن
-  أبـي بكر، عن عكرمة، عن ابن عبـاس، قال: بنوك حين يحفدونك ويرفدونك ويعينونك ويخدمونك،
-  قال حميد:حَفَدَ الوَلائِدُ حَوْلَهُنَّ وأُسْلِـمَتْ   بِأَكُفُّهِنَّ أزِمَّةَ الأجمْالِحدثنـي
-  يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، فـي قوله: { وَجَعَلَ لَكُمْ مِنْ أزْوَاجِكُمْ
-  بَنِـينَ وَحَفَدَةً } قال: الـحفَدة: الـخدم من ولد الرجل هم ولده، وهم يخدمونه. قال:
-  ولـيس تكون العبـيد من الأزواج، كيف يكون من زوجي عبد؟ إنـما الـحفدة: ولد الرجل وخدمه.حُدثت
+  وَحَفَدَةً } قال: ابنه وخادمه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  مـحمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى وحدثنـي الـحارث، قال: ثنا الـحسن،
+  قال: ثنا ورقاء وحدثنـي الـمثنى، قال: ثنا أبو حذيفة، قال: ثنا شبل جميعاً، عن ابن
+  أبـي نـجيح، عن مـجاهد، فـي قول الله تعالـى: { بَنِـينَ وَحَفَدَةً } قال: أنصاراً
+  وأعواناً وخدّاماً.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن بشار، قال: ثنا عبد الرحمن،
+  قال: ثنا زمعة، عن ابن طاوس، عن أبـيه، قال: الـحفدة: الـخدم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن بشار مرّة أخرى، قال: ابنه وخادمه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة قال: { وَجَعَلَ لَكُمْ مِنْ أزْوَاجِكُمْ
+  بَنِـينَ وَحَفَدَةً } مَهَنة يَـمْهنونك ويخدمونك من ولدك، كرامة أكرمكم الله بها.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن وكيع، قال: ثنا عبد الله، عن إسرائيـل، عن السُّديّ، عن
+  أبـي مالك: الـحَفَدة، قال: الأعوان.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن وكيع، قال: ثنا أبـي، عن سفـيان، عن حصين، عن عكرمة، قال: الذين يعينونه.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(16, 72)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(16,72)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَٱللَّهُ جَعَلَ لَكُمْ مِّنْ أَنْفُسِكُمْ أَزْوَاجاً
+  وَجَعَلَ لَكُمْ مِّنْ أَزْوَاجِكُم بَنِينَ وَحَفَدَةً وَرَزَقَكُم مِّنَ ٱلطَّيِّبَاتِ
+  أَفَبِٱلْبَاطِلِ يُؤْمِنُونَ وَبِنِعْمَتِ ٱللَّهِ هُمْ يَكْفُرُونَ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا الـحسن بن يحيى، قال: أخبرنا عبد الرزاق، قال: أخبرنا مَعْمر،
+  عن الـحكَم بن أبـان، عن عكرمة، فـي قوله: { بَنِـينَ وَحَفَدَةً } قال: الـحفدة: من
+  خدمك من ولدك وولد ولدك.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا الـحسن، قال: أخبرنا عبد الرزاق،
+  قال: أخبرنا ابن التـيـميّ، عن أبـيه، عن الـحسن، قال: الـحَفَدة: الـخَدَم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي الـمثنى، قال: ثنا أبو نعيـم، قال: ثنا سفـيان، عن حصين، عن
+  عكرمة: { بَنِـينَ وَحَفَدَةً } قال: ولده الذين يعينونه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  آخرون: هم ولد الرجل وولد ولده. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  مـحمد بن الـمثنى، قال: ثنا عبد الصمد، قال: ثنا شعبة، عن أبـي بشر، عن سعيد بن جبـير،
+  عن ابن عبـاس: { وَحَفَدَةً } قال: هم الولد وولد الولد.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن بشار، قال: ثنا مـحمد بن جعفر، قال: ثنا شعبة، عن أبـي بشر، عن مـجاهد وسعيد بن
+  جبـير، عن ابن عبـاس فـي هذه الآية: { بَنِـينَ وَحَفَدَةً } قال: الـحَفَدة: البنون.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن وكيع، قال: ثنا غُنْدَر، عن شعبة، عن أبـي بشر، عن مجاهد،
+  عن ابن عبـاس، مثله.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا القاسم، قال: ثنا الـحسين،
+  قال: ثنـي حجاج، عن أبـي بكر، عن عكرمة، عن ابن عبـاس، قال: بنوك حين يحفدونك ويرفدونك
+  ويعينونك ويخدمونك، قال حميد:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><table class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">حَفَدَ الوَلائِدُ
+  حَوْلَهُنَّ وأُسْلِـمَتْ</font></font></b></td><td class=\"TextArabic\">   </td><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">بِأَكُفُّهِنَّ
+  أزِمَّةَ الأجمْالِ</font></font></b></td></tr></table><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، فـي قوله: {
+  وَجَعَلَ لَكُمْ مِنْ أزْوَاجِكُمْ بَنِـينَ وَحَفَدَةً } قال: الـحفَدة: الـخدم من
+  ولد الرجل هم ولده، وهم يخدمونه. قال: ولـيس تكون العبـيد من الأزواج، كيف يكون من
+  زوجي عبد؟ إنـما الـحفدة: ولد الرجل وخدمه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حُدثت
   عن الـحسين بن الفَرَج، قال: سمعت أبـا معاذ يقول: ثنا عبـيد بن سلـيـمان، قال: سمعت
   الضحاك يقول، فـي قوله: { بَنِـينَ وَحَفَدَةً } يعنـي: ولد الرجل يحفِدونه ويخدُمونه،
-  وكانت العرب إنـما تـخدمهم أولادهم الذكور.وقال آخرون: هم بنو امرأة الرجل من غيره.
-  ذكر من قال ذلك:حدثنـي مـحمد بن سعد، قال: ثنـي أبـي، قال: ثنـي عمي، قال: ثنـي أبـي،
-  عن أبـيه، عن ابن عبـاس، قوله: { وَجَعَلَ لَكُمْ مِنْ أزْوَاجِكُمْ بَنِـينَ وَحَفَدَةً
-  } يقول: بنو امرأة الرجل لـيسوا منه.ويقال: الـحَفَدة: الرجل يعمل بـين يدي الرجل،
-  يقول: فلان يحفد لنا، ويزعم رجال أن الـحفَدة أخْتان الرجل.والصواب من القول فـي ذلك
-  عندي أن يقال: إن الله تعالـى أخبر عبـاده معرفَهم نعمه علـيهم، فـيـما جعل لهم من
-  الأزواج والبنـين، فقال تعالـى: { وَاللَّهُ جَعَلَ لَكُمْ مِنْ أنْفُسِكُمْ أزْوَاجاً
-  وَجَعَلَ لَكُمْ مِنْ أزْوَاجِكُمْ بَنِـينَ وَحَفَدَةً } فأعلـمهم أنه جعل لهم من
-  أزواجهم بنـين وحَفدة، والـحفَدة فـي كلام العرب: جمع حافد، كما الكذبة: جمع كاذب،
-  والفسَقة: جمع فـاسق. والـحافد فـي كلامهم: هو الـمتـخفِّف فـي الـخدمة والعمل، والـحَفْد:
-  خفة العمل يقال: مرّ البعير يحَفِدُ حفَدَاناً: إذا مرّ يُسرع فـي سيره. ومنه قولهم:
-  «إلـيك نسعى ونَـحْفِدُ»: أي نسرع إلـى العمل بطاعتك.\r\n\t\t\t\r\n\t\t\t1 2 3 4 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَٱللَّهُ جَعَلَ لَكُمْ مِّنْ أَنْفُسِكُمْ
-  أَزْوَاجاً وَجَعَلَ لَكُمْ مِّنْ أَزْوَاجِكُم بَنِينَ وَحَفَدَةً وَرَزَقَكُم مِّنَ
-  ٱلطَّيِّبَاتِ أَفَبِٱلْبَاطِلِ يُؤْمِنُونَ وَبِنِعْمَتِ ٱللَّهِ هُمْ يَكْفُرُونَ
-  }يقال منه: حَفَدَ له يَحْفِدُ حَفْداً وحُفُوداً وحَفَدَاناً ومنه قول الراعي:كَلَّفْتُ
-  مَـجْهُوَلَها نُوقاً يَـمَانـيَةً   إذا الـحُدَاةُ علـى أكْسائها حَفَدُواوإذ كان
-  معنى الـحفدة ما ذكرنا من أنهم الـمسرعون فـي خدمة الرجل الـمتـخففون فـيها، وكان الله
-  تعالـى ذكره أخبرنا أن مـما أنعم به علـينا أن جعل لنا حفدة تـحفد لنا، وكان أولادنا
-  وأزواجنا الذين يصلـحون للـخدمة منا ومن غيرنا وأختاننا الذين هم أزواج بناتنا من أزواجنا
-  وخدمنا من مـمالـيكنا إذا كانوا يحفدوننا فـيستـحقون اسم حفدة، ولـم يكن الله تعالـى
-  دلّ بظاهر تنزيـله ولا علـى لسان رسوله صلى الله عليه وسلم ولا بحجة عقل، علـى أنه
-  عنى بذلك نوعاً من الـحفدة دون نوع منهم، وكان قد أنعم بكلّ ذلك علـينا، لـم يكن لنا
-  أن نوجه ذلك إلـى خاصّ من الـحفدة دون عام، إلا ما اجتـمعت الأمة علـيه أنه غير داخـل
-  فـيهم. وإذا كان ذلك كذلك فلكلّ الأقوال التـي ذكرنا عمن ذكرنا وجه فـي الصحة ومَخْرج
-  فـي التأويـل وإن كان أولـى بـالصواب من القول ما اخترنا لـما بـيَّنا من الدلـيـل.وقوله:
+  وكانت العرب إنـما تـخدمهم أولادهم الذكور.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  آخرون: هم بنو امرأة الرجل من غيره. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  مـحمد بن سعد، قال: ثنـي أبـي، قال: ثنـي عمي، قال: ثنـي أبـي، عن أبـيه، عن ابن عبـاس،
+  قوله: { وَجَعَلَ لَكُمْ مِنْ أزْوَاجِكُمْ بَنِـينَ وَحَفَدَةً } يقول: بنو امرأة
+  الرجل لـيسوا منه.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">ويقال: الـحَفَدة: الرجل يعمل بـين
+  يدي الرجل، يقول: فلان يحفد لنا، ويزعم رجال أن الـحفَدة أخْتان الرجل.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">والصواب من القول فـي ذلك عندي أن يقال: إن الله تعالـى أخبر عبـاده
+  معرفَهم نعمه علـيهم، فـيـما جعل لهم من الأزواج والبنـين، فقال تعالـى: { وَاللَّهُ
+  جَعَلَ لَكُمْ مِنْ أنْفُسِكُمْ أزْوَاجاً وَجَعَلَ لَكُمْ مِنْ أزْوَاجِكُمْ بَنِـينَ
+  وَحَفَدَةً } فأعلـمهم أنه جعل لهم من أزواجهم بنـين وحَفدة، والـحفَدة فـي كلام العرب:
+  جمع حافد، كما الكذبة: جمع كاذب، والفسَقة: جمع فـاسق. والـحافد فـي كلامهم: هو الـمتـخفِّف
+  فـي الـخدمة والعمل، والـحَفْد: خفة العمل يقال: مرّ البعير يحَفِدُ حفَدَاناً: إذا
+  مرّ يُسرع فـي سيره. ومنه قولهم: «إلـيك نسعى ونَـحْفِدُ»: أي نسرع إلـى العمل بطاعتك.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">3 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(16, 72)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(16,72)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَٱللَّهُ جَعَلَ لَكُمْ مِّنْ أَنْفُسِكُمْ أَزْوَاجاً
+  وَجَعَلَ لَكُمْ مِّنْ أَزْوَاجِكُم بَنِينَ وَحَفَدَةً وَرَزَقَكُم مِّنَ ٱلطَّيِّبَاتِ
+  أَفَبِٱلْبَاطِلِ يُؤْمِنُونَ وَبِنِعْمَتِ ٱللَّهِ هُمْ يَكْفُرُونَ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">يقال منه: حَفَدَ له يَحْفِدُ حَفْداً وحُفُوداً وحَفَدَاناً ومنه
+  قول الراعي:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><table
+  class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">كَلَّفْتُ مَـجْهُوَلَها نُوقاً يَـمَانـيَةً</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">إذا الـحُدَاةُ علـى أكْسائها حَفَدُوا</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">وإذ كان معنى الـحفدة ما ذكرنا من
+  أنهم الـمسرعون فـي خدمة الرجل الـمتـخففون فـيها، وكان الله تعالـى ذكره أخبرنا أن
+  مـما أنعم به علـينا أن جعل لنا حفدة تـحفد لنا، وكان أولادنا وأزواجنا الذين يصلـحون
+  للـخدمة منا ومن غيرنا وأختاننا الذين هم أزواج بناتنا من أزواجنا وخدمنا من مـمالـيكنا
+  إذا كانوا يحفدوننا فـيستـحقون اسم حفدة، ولـم يكن الله تعالـى دلّ بظاهر تنزيـله ولا
+  علـى لسان رسوله صلى الله عليه وسلم ولا بحجة عقل، علـى أنه عنى بذلك نوعاً من الـحفدة
+  دون نوع منهم، وكان قد أنعم بكلّ ذلك علـينا، لـم يكن لنا أن نوجه ذلك إلـى خاصّ من
+  الـحفدة دون عام، إلا ما اجتـمعت الأمة علـيه أنه غير داخـل فـيهم. وإذا كان ذلك كذلك
+  فلكلّ الأقوال التـي ذكرنا عمن ذكرنا وجه فـي الصحة ومَخْرج فـي التأويـل وإن كان أولـى
+  بـالصواب من القول ما اخترنا لـما بـيَّنا من الدلـيـل.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقوله:
   { وَرَزَقَكُمْ مِنَ الطَّيِّبـاتِ } يقول: ورزقكم من حلال الـمعاش والأرزاق والأقوات.
   { أفَبـالبـاطِلِ يُؤْمِنُونَ } يقول تعالـى ذكره: يحرّم علـيهم أولـياء الشيطان من
   البحائر والسوائب والوصائل، فـيصدّق هؤلاء الـمشركون بـالله. { وَبِنِعْمَةِ اللَّهِ
   هُمْ يَكْفُرُونَ } يقول: وبـما أحلّ الله لهم من ذلك وأنعم علـيهم بإحلاله، { يَكْفُرُونَ
-  } يقول: ينكرون تـحلـيـله، ويجحدون أن يكون الله أحلّه.\r\n\t\t\t\r\n\t\t\t1 2 3 4 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  } يقول: ينكرون تـحلـيـله، ويجحدون أن يكون الله أحلّه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">4 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section>"
 

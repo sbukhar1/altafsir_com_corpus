@@ -1,4 +1,4 @@
-location:
+position:
   sura: '002'
   aaya: '060'
   madhab: '02'
@@ -7,22 +7,57 @@ meta:
   title: تفسير النكت والعيون
   author: الماوردي
   year: '450'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَإِذِ ٱسْتَسْقَىٰ
-  مُوسَىٰ لِقَوْمِهِ فَقُلْنَا ٱضْرِب بِّعَصَاكَ ٱلْحَجَرَ فَٱنفَجَرَتْ مِنْهُ ٱثْنَتَا
-  عَشْرَةَ عَيْناً قَدْ عَلِمَ كُلُّ أُنَاسٍ مَّشْرَبَهُمْ كُلُواْ وَٱشْرَبُواْ مِن
-  رِّزْقِ ٱللَّهِ وَلاَ تَعْثَوْاْ فِي ٱلأَرْضِ مُفْسِدِينَ }قوله تعالى: { وَإِذِ
-  اسْتسْقَى مُوسَى لِقَوْمِهِ } تقديره: وإذ استسقانا موسى لقومه، والاستسقاء: طلب السَّقْيِ،
-  والعربُ تقول: سَقَيْتُهُ، وأسقيتُه، فقيل: إنهما لغتان ومعناهما واحد، وقيل بل سقيته
-  من سَقْيِ الشَّفةِ، وأسْقَيْتُهُ: دللته على الماء.{ فَقُلْنَا اضْرِب بعَصَاكَ الْحَجَرَ
-  فَانْفَجَرَتْ مِنْهُ اثْنَتَا عَشْرَةَ عَيْنَا }:وفي الكلام محذوف، وتقديره: فضرب
-  فانفجرت منه اثنتا عشرة عينا.والانفجارُ: الانشقاق، والأنبجاسُ أضيق منه، لأنه يكون
-  انبجاساً ثم يصير انفجاراً.والعين من الأسماء المشتركة: فالعين من الماء مُشَبَّهَةٌ
-  بالعين من الحيوان، لخروج الماء منها، كخروج الدمع من عين الحيوان.فأمر موسى عند استسقائه،
-  أن يضرب بعصاه حجراً مُرَبَّعاً طُورِيّاً (من الطور)، فانفجرت منه اثنتا عشرة عيناً،
-  من كل جانب ثلاثةُ أعينٍ.{ قَدْ عَلِمَ كُلُّ أُنَاسٍ مَّشْرَبَهُمْ } يعني أن لكلِّ
-  سبطٍ منهم عيناً، قد عرفها لا يشرب من غيرها، فإذا ارتحلوا انقطع ماؤه، وحُمِلَ في
-  الجوالق، وكان بقدر الرأس.{ وَلاَ تَعْثَوْا في الأرْضِ مُفْسِدِينَ } فيه تأويلان:أحدهما:
-  معناه لا تطغوا، وهذا قول ابن زيد.والثاني: معناه لا تسعوا في الأرض مفسدين، وهو قول
-  ابن عباس، وأبي العالية الرياحي.والعيثُ: شدة الفساد، ومنه قول رؤبة:وَعَاثَ فِينَا
-  مُسْتَحِلٌّ عَائِثُ   مُصَدِّقٌ أو فَاجِرٌ مُناكِثُ\r\n\t\t\t</section>"
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(2, 60)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(2,60)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَإِذِ
+  ٱسْتَسْقَىٰ مُوسَىٰ لِقَوْمِهِ فَقُلْنَا ٱضْرِب بِّعَصَاكَ ٱلْحَجَرَ فَٱنفَجَرَتْ
+  مِنْهُ ٱثْنَتَا عَشْرَةَ عَيْناً قَدْ عَلِمَ كُلُّ أُنَاسٍ مَّشْرَبَهُمْ كُلُواْ
+  وَٱشْرَبُواْ مِن رِّزْقِ ٱللَّهِ وَلاَ تَعْثَوْاْ فِي ٱلأَرْضِ مُفْسِدِينَ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">قوله تعالى: { وَإِذِ اسْتسْقَى مُوسَى لِقَوْمِهِ } تقديره: وإذ استسقانا
+  موسى لقومه، والاستسقاء: طلب السَّقْيِ، والعربُ تقول: سَقَيْتُهُ، وأسقيتُه، فقيل:
+  إنهما لغتان ومعناهما واحد، وقيل بل سقيته من سَقْيِ الشَّفةِ، وأسْقَيْتُهُ: دللته
+  على الماء.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">{ فَقُلْنَا اضْرِب بعَصَاكَ الْحَجَرَ
+  فَانْفَجَرَتْ مِنْهُ اثْنَتَا عَشْرَةَ عَيْنَا }:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وفي
+  الكلام محذوف، وتقديره: فضرب فانفجرت منه اثنتا عشرة عينا.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">والانفجارُ:
+  الانشقاق، والأنبجاسُ أضيق منه، لأنه يكون انبجاساً ثم يصير انفجاراً.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">والعين من الأسماء المشتركة: فالعين من الماء مُشَبَّهَةٌ بالعين من
+  الحيوان، لخروج الماء منها، كخروج الدمع من عين الحيوان.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">فأمر
+  موسى عند استسقائه، أن يضرب بعصاه حجراً مُرَبَّعاً طُورِيّاً (من الطور)، فانفجرت
+  منه اثنتا عشرة عيناً، من كل جانب ثلاثةُ أعينٍ.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">{
+  قَدْ عَلِمَ كُلُّ أُنَاسٍ مَّشْرَبَهُمْ } يعني أن لكلِّ سبطٍ منهم عيناً، قد عرفها
+  لا يشرب من غيرها، فإذا ارتحلوا انقطع ماؤه، وحُمِلَ في الجوالق، وكان بقدر الرأس.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">{ وَلاَ تَعْثَوْا في الأرْضِ مُفْسِدِينَ } فيه تأويلان:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">أحدهما: معناه لا تطغوا، وهذا قول ابن زيد.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">والثاني:
+  معناه لا تسعوا في الأرض مفسدين، وهو قول ابن عباس، وأبي العالية الرياحي.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">والعيثُ: شدة الفساد، ومنه قول رؤبة:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><table class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">وَعَاثَ
+  فِينَا مُسْتَحِلٌّ عَائِثُ</font></font></b></td><td class=\"TextArabic\">   </td><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">مُصَدِّقٌ
+  أو فَاجِرٌ مُناكِثُ</font></font></b></td></tr></table><label disabled=\"true\"
+  class=\"############\"/>&#13;\t\t\t</div></section>"
 

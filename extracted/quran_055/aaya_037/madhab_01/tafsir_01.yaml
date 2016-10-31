@@ -1,4 +1,4 @@
-location:
+position:
   sura: '055'
   aaya: '037'
   madhab: '01'
@@ -7,91 +7,245 @@ meta:
   title: تفسير جامع البيان في تفسير القرآن
   author: الطبري
   year: '310'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ يُرْسَلُ عَلَيْكُمَا
-  شُوَاظٌ مِّن نَّارٍ وَنُحَاسٌ فَلاَ تَنتَصِرَانِ } * { فَبِأَيِّ آلاۤءِ رَبِّكُمَا
-  تُكَذِّبَانِ } * { فَإِذَا ٱنشَقَّتِ ٱلسَّمَآءُ فَكَانَتْ وَرْدَةً كَٱلدِّهَانِ
-  } * { فَبِأَيِّ آلاۤءِ رَبِّكُمَا تُكَذِّبَانِ }يقول تعالى ذكره: { يُرْسَلُ عَليكُمَا
-  } أيها الثقلان يوم القيامة { شُوَاظٌ مِنْ نَارٍ } وهو لهبها من حيث تشتعل وتؤجَّج
-  بغير دخان كان فيه ومنه قول رُؤْبة بن العجَّاج:إنَّ لَهُمْ مِنْ وَقْعِنا أقْياظا   ونارُ
-  حَرْب تُسْعِرُ الشُّوَاظاوبنحو الذي قلنا في ذلك قال أهل التأويل. ذكر من قال ذلك:حدثني
-  عليّ، قال: ثنا أبو صالح، قال: ثني معاوية، عن عليّ، عن ابن عباس، قوله: { شُوَاظٌ
-  مِنْ نارٍ } يقول: لَهَب النار.حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال:
-  ثني أبي، عن أبيه، عن ابن عباس، قوله: { يُرْسَلُ عَلَيْكُما شُوَاظٌ مِنْ نارٍ } يقول:
-  لهب النار.حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى وحدثني الحارث، قال:
-  ثنا الحسن، قال: ثنا ورقاء جميعاً، عن ابن أبي نجيح، عن مجاهد، قوله: { شُوَاظٌ مِنْ
-  نارٍ } قال: لهب النار.حدثنا ابن بشار، قال: ثنا أبو أحمد الزُّبيري، قال: ثنا سفيان،
-  عن منصور، عن مجاهد { يُرْسَلُ عَلَيْكُما شُوَاظٌ مِنْ نارٍ } قال: اللهب المتقطع.حدثنا
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(55, 35)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(55,35)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">يُرْسَلُ
+  عَلَيْكُمَا شُوَاظٌ مِّن نَّارٍ وَنُحَاسٌ فَلاَ تَنتَصِرَانِ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">فَبِأَيِّ
+  آلاۤءِ رَبِّكُمَا تُكَذِّبَانِ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">فَإِذَا ٱنشَقَّتِ ٱلسَّمَآءُ فَكَانَتْ وَرْدَةً
+  كَٱلدِّهَانِ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">فَبِأَيِّ آلاۤءِ رَبِّكُمَا تُكَذِّبَانِ</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">يقول تعالى ذكره: { يُرْسَلُ عَليكُمَا } أيها الثقلان يوم القيامة
+  { شُوَاظٌ مِنْ نَارٍ } وهو لهبها من حيث تشتعل وتؤجَّج بغير دخان كان فيه ومنه قول
+  رُؤْبة بن العجَّاج:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><table
+  class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">إنَّ لَهُمْ مِنْ وَقْعِنا أقْياظا</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">ونارُ حَرْب تُسْعِرُ الشُّوَاظا</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">وبنحو الذي قلنا في ذلك قال أهل
+  التأويل. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثني عليّ، قال: ثنا أبو صالح،
+  قال: ثني معاوية، عن عليّ، عن ابن عباس، قوله: { شُوَاظٌ مِنْ نارٍ } يقول: لَهَب النار.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن
+  أبيه، عن ابن عباس، قوله: { يُرْسَلُ عَلَيْكُما شُوَاظٌ مِنْ نارٍ } يقول: لهب النار.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى وحدثني الحارث،
+  قال: ثنا الحسن، قال: ثنا ورقاء جميعاً، عن ابن أبي نجيح، عن مجاهد، قوله: { شُوَاظٌ
+  مِنْ نارٍ } قال: لهب النار.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن بشار، قال: ثنا أبو أحمد الزُّبيري، قال: ثنا سفيان، عن منصور، عن مجاهد { يُرْسَلُ
+  عَلَيْكُما شُوَاظٌ مِنْ نارٍ } قال: اللهب المتقطع.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
   ابن حُمَيد، قال: ثنا حكام، قال: ثنا عمرو، عن منصور، عن مجاهد { يُرْسَلُ عَلَيْكُما
-  شُوَاظٌ مِنْ نارٍ } قال: الشُّواظ: الأخضر المتقطع من النار.قال: ثنا جرير، عن منصور،
-  عن مجاهد في قوله { يُرْسَلُ عَلَيْكُما شُوَاظٌ مِنْ نارٍ } قال الشُّواظ: هذا اللهب
-  الأخضر المتقطع من النار.قال: ثنا مهران، عن سفيان، في قوله: { يُرْسَلُ عَلَيْكُما
-  شُوَاظٌ مِنْ نارٍ } قال: الشواظ: اللهب الأخضر المتقطع من النار.قال: ثنا مهران، عن
-  سفيان، عن الضحاك: الشُّوَاظُ: اللهب.حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن
-  قتادة { يُرْسَلُ عَلَيْكُما شُوَاظٌ مِنْ نارٍ }: أي لهب من نار.حدثنا ابن عبد الأعلى،
-  قال: ثنا ابن ثور، عن معمر، عن قتادة { شُوَاظٌ مِنْ نارٍ } قال: لهب من نار.وحدثني
-  يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله: { يُرْسَلُ عَلَيْكُما شُوَاظٌ
-  مِنْ نارٍ } قال: الشواظ: اللهب، وأما النحاس فالله أعلم بما أراد به.وقال آخرون: الشُّواظ:
-  هو الدخان الذي يخرج من اللهب. ذكر من قال ذلك:حُدثت عن الحسين، قال: سمعت أبا معاذ
-  يقول: أخبرنا عبيد، قال: سمعت الضحاك يقول في قوله { شُوَاظٌ مِنْ نارٍ } الدخان الذي
-  يخرج من اللهب ليس بدخان الحطب.واختلفت القرّاء في قراءة قوله: { شُوَاظٌ } ، فقرأ
-  ذلك عامة قرّاء المدينة والكوفة والبصرة، غير ابن أبي إسحاق { شُوَاظٌ } بضم الشين،
-  وقرأ ذلك ابن أبي إسحاق، وعبد الله بن كثير «شِوَاظٌ مِنْ نارٍ» بكسر الشين، وهما لغتان،
-  مثل الصِوار من البقر، والصُّوار بكسر الصاد وضمها. وأعجب القراءتين إليّ ضمّ الشين،
-  لأنها اللغة المعروفة، وهي مع ذلك قراءة القرّاء من أهل الأمصار.\r\n\t\t\t\r\n\t\t\t1 2 3 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ يُرْسَلُ عَلَيْكُمَا شُوَاظٌ مِّن
-  نَّارٍ وَنُحَاسٌ فَلاَ تَنتَصِرَانِ } * { فَبِأَيِّ آلاۤءِ رَبِّكُمَا تُكَذِّبَانِ
-  } * { فَإِذَا ٱنشَقَّتِ ٱلسَّمَآءُ فَكَانَتْ وَرْدَةً كَٱلدِّهَانِ } * { فَبِأَيِّ
-  آلاۤءِ رَبِّكُمَا تُكَذِّبَانِ }وأما قوله: { ونُحاسٌ } فإن أهل التأويل اختلفوا في
-  المعنيّ به، فقال بعضهم: عُنِي به الدخان. ذكر من قال ذلك:حدثني محمد بن عبيد المحاربي،
-  قال: ثنا موسى بن عمير، عن أبي صالح، عن ابن عباس، في قوله: { ونُحاسٌ فَلا تَنْتَصِرَانِ
-  } قال: النحاس: الدخان.حدثني عليّ، قال: ثنا أبو صالح، قال: ثني معاوية، عن علي، عن
-  ابن عباس، قوله: { ونُحاسٌ } دخان النار.حدثنا أبو كُرَيب، قال: ثنا ابن يمان، عن أشعث،
-  عن جعفر، عن سعيد، قوله: { ونُحاسٌ } قال: دخان.وقال آخرون: عني بالنحاس في هذا الموضع:
-  الصُّفر. ذكر من قال ذلك:حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني
-  أبي، عن أبيه، عن ابن عباس، { ونُحاسٌ } قال: النحاس: الصفر يعذّبون به.حدثنا ابن حُمَيد،
-  قال: ثنا مهران، عن سفيان، عن منصور، عن مجاهد { ونُحاسٌ } قال: يذاب الصفر من فوق
-  رؤوسهم.قال: ثنا حكام، عن عمرو، عن منصور، عن مجاهد { ونُحاسٌ } قال: يذاب الصفر فيصبّ
-  على رأسه.حدثنا ابن حُمَيد، قال: ثنا مهران، عن سفيان { ونُحاسٌ } يذاب الصفر فيصبّ
-  على رؤوسهم.حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة { ونُحاسٌ } قال: توعدهما
-  بالصُّفر كما تسمعون أن يعذّبهما به.حدثنا ابن بشار، قال: ثنا محمد بن مروان، قال:
-  ثنا أبو العوّام، عن قتادة { يُرْسَلُ عَلَيْكُما شُوَاظٌ مِنْ نارٍ ونُحاسٌ } قال:
-  يخوّفهم بالنار وبالنحاس.وأولى القولين في ذلك عندي بالصواب قول من قال: عُنِي بالنحاس:
-  الدخان، وذلك أنه جلّ ثناؤه ذكر أنه يرسل على هذين الحيَّين شواظ من نار، وهو النار
-  المحضة التي لا يخلطها دخان. والذي هو أولى بالكلام أنه توعدهم بنار هذه صفتها أن يُتبع
-  ذلك الوعد بما هو خلافها من نوعها من العذاب دون ما هو من غير جنسها، وذلك هو الدخان،
-  والعرب تسمي الدخان نُحاساً بضم النون، ونِحاساً بكسرها، والقرّاء مجمعة على ضمها،
-  ومن النُّحاس بمعنى الدخان، قول نابغة بني ذُبيان:يَضُوءُ كَضَوْء سِرَاج السَّلي   طِ
-  لمْ يجْعَل اللّهُ فيهِ نُحاسايعني: دخانا.وقوله: { فَلا تَنْتَصِرَانِ } يقول تعالى
-  ذكره: فلا تنتصران أيها الجن والإنس منه إذا هو عاقبكما هذه العقوبة، ولا تُستنقذان
-  منه. كما:حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة { فَلا تَنْتَصِرَانِ
-  } قال: يعني الجنّ والإنس.قال: وقوله: { فإذَا انْشَقَّتِ السَّماءُ فَكانَتْ وَرْدَةً
-  كالدّهانِ } يقول تعالى ذكره: فإذا انشقَّت السماء وتفطَّرت، وذلك يوم القيامة، فكان
-  لونها لون البرذون الورد الأحمر. وبنحو الذي قلنا في ذلك قال أهل التأويل. ذكر من قال
-  ذلك:حدثني سليمان بن عبد الجبار، قال: ثنا محمد بن الصلت، قال: ثنا أبو كدينة، عن قابوس،
-  عن أبيه، عن ابن عباس { فَكانَتْ وَرْدَةً كالدّهانِ } قال: كالفرس الورد.\r\n\t\t\t\r\n\t\t\t1 2 3 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ يُرْسَلُ عَلَيْكُمَا شُوَاظٌ مِّن
-  نَّارٍ وَنُحَاسٌ فَلاَ تَنتَصِرَانِ } * { فَبِأَيِّ آلاۤءِ رَبِّكُمَا تُكَذِّبَانِ
-  } * { فَإِذَا ٱنشَقَّتِ ٱلسَّمَآءُ فَكَانَتْ وَرْدَةً كَٱلدِّهَانِ } * { فَبِأَيِّ
-  آلاۤءِ رَبِّكُمَا تُكَذِّبَانِ }حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال:
-  ثني أبي، عن أبيه، عن ابن عباس، قوله: { فإذَا انْشَقَّتِ السَّماءُ فَكانَتْ وَرْدَةً
-  كالدّهانِ } يقول: تغير لونها.حدثنا عبد الله بن أحمد بن حبويه، قال: ثنا شهاب بن عباد،
-  قال: ثنا إبراهيم بن حميد، عن إسماعيل ابن أبي خالد عن أبي صالح في قوله: { وَرْدَةً
-  كالدّهانِ } قال كلون البرذون الورد، ثم كانت بعد كالدهان.حُدثت عن الحسين، قال: سمعت
-  أبا معاذ يقول: أخبرنا عبيد، قال: سمعت الضحاك يقول في قوله: { فَكانَتْ وَرْدَةً كالدّهانِ
-  } يقول: تتغير السماء فيصير لونها كلون الدابة الوردة.حدثنا بشر، قال: ثنا يزيد، قال:
-  ثنا سعيد، عن قتادة { وَرْدَةً كالدّهان } هي اليوم خضراء كما ترون، ولونها يوم القيامة
-  لون آخر.حدثنا ابن بشار، قال: ثنا محمد بن مروان، قال: ثنا ابن العوّام، عن قتادة،
-  في قوله: { فإذَا انْشَقَّتِ السَّماءُ فَكانَتْ وَرْدَةً كالدّهانِ } قال: هي اليوم
-  خضراء، ولونها يومئذٍ الحمرة.حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن
-  قتادة { وَرْدَةً كالدّهانِ } قال: إنها اليوم خضراء، وسيكون لها يومئذٍ لون آخر.حدثني
-  يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله: { فَكانَتْ وَرْدَةً كالدّهان
-  } قال: مشرقة كالدهان.واختلف أهل التأويل في معنى قوله: { كالدّهانِ } فقال بعضهم:
-  معناه كالدهن صافية الحمرة مشرقة. ذكر من قال ذلك:حدثني محمد بن عمرو، قال: ثنا أبو
-  عاصم، قال: ثنا عيسى وحدثني الحارث، قال: ثنا الحسن قال: ثنا ورقاء جميعاً، عن ابن
-  أبي نجيح، عن مجاهد، قوله: { وَرْدَةً كالدّهانِ } قال: كالدهن.حُدثت عن الحسين، قال:
-  سمعت أبا معاذ يقول: أخبرنا عبيد، قال: سمعت الضحاك يقول في قوله: { كالدّهانِ } يعني:
-  خالصة.وقال آخرون: عني بذلك: فكانت وردة كالأديم، وقالوا: الدهان: جماع، واحدها دهن.وأولى
-  القولين في ذلك بالصواب قول من قال: عني به الدهن في إشراق لونه، لأن ذلك هو المعروف
-  في كلام العرب.وقوله: { فَبِأيّ آلاءِ رَبِّكُما تُكَذّبانِ } يقول تعالى ذكره: فبأيّ
-  قدرة ربكما معشر الجنّ والإنس على ما أخبركم بأنه فاعل بكم تكذّبان.\r\n\t\t\t\r\n\t\t\t1 2 3 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  شُوَاظٌ مِنْ نارٍ } قال: الشُّواظ: الأخضر المتقطع من النار.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال:
+  ثنا جرير، عن منصور، عن مجاهد في قوله { يُرْسَلُ عَلَيْكُما شُوَاظٌ مِنْ نارٍ } قال
+  الشُّواظ: هذا اللهب الأخضر المتقطع من النار.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال:
+  ثنا مهران، عن سفيان، في قوله: { يُرْسَلُ عَلَيْكُما شُوَاظٌ مِنْ نارٍ } قال: الشواظ:
+  اللهب الأخضر المتقطع من النار.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال:
+  ثنا مهران، عن سفيان، عن الضحاك: الشُّوَاظُ: اللهب.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة { يُرْسَلُ عَلَيْكُما شُوَاظٌ مِنْ نارٍ
+  }: أي لهب من نار.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن عبد الأعلى، قال: ثنا
+  ابن ثور، عن معمر، عن قتادة { شُوَاظٌ مِنْ نارٍ } قال: لهب من نار.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وحدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله: { يُرْسَلُ
+  عَلَيْكُما شُوَاظٌ مِنْ نارٍ } قال: الشواظ: اللهب، وأما النحاس فالله أعلم بما أراد
+  به.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال آخرون: الشُّواظ: هو الدخان
+  الذي يخرج من اللهب. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حُدثت
+  عن الحسين، قال: سمعت أبا معاذ يقول: أخبرنا عبيد، قال: سمعت الضحاك يقول في قوله {
+  شُوَاظٌ مِنْ نارٍ } الدخان الذي يخرج من اللهب ليس بدخان الحطب.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">واختلفت القرّاء في قراءة قوله: { شُوَاظٌ } ، فقرأ ذلك عامة قرّاء
+  المدينة والكوفة والبصرة، غير ابن أبي إسحاق { شُوَاظٌ } بضم الشين، وقرأ ذلك ابن أبي
+  إسحاق، وعبد الله بن كثير «شِوَاظٌ مِنْ نارٍ» بكسر الشين، وهما لغتان، مثل الصِوار
+  من البقر، والصُّوار بكسر الصاد وضمها. وأعجب القراءتين إليّ ضمّ الشين، لأنها اللغة
+  المعروفة، وهي مع ذلك قراءة القرّاء من أهل الأمصار.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(55, 35)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(55,35)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">يُرْسَلُ عَلَيْكُمَا شُوَاظٌ مِّن نَّارٍ وَنُحَاسٌ
+  فَلاَ تَنتَصِرَانِ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">فَبِأَيِّ آلاۤءِ رَبِّكُمَا تُكَذِّبَانِ</a>
+  <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">فَإِذَا
+  ٱنشَقَّتِ ٱلسَّمَآءُ فَكَانَتْ وَرْدَةً كَٱلدِّهَانِ</a> <b>} * </b><b>{</b> <a
+  class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">فَبِأَيِّ
+  آلاۤءِ رَبِّكُمَا تُكَذِّبَانِ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\"
+  dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">وأما قوله: {
+  ونُحاسٌ } فإن أهل التأويل اختلفوا في المعنيّ به، فقال بعضهم: عُنِي به الدخان. ذكر
+  من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثني محمد بن عبيد المحاربي، قال:
+  ثنا موسى بن عمير، عن أبي صالح، عن ابن عباس، في قوله: { ونُحاسٌ فَلا تَنْتَصِرَانِ
+  } قال: النحاس: الدخان.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثني عليّ، قال: ثنا أبو صالح،
+  قال: ثني معاوية، عن علي، عن ابن عباس، قوله: { ونُحاسٌ } دخان النار.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا أبو كُرَيب، قال: ثنا ابن يمان، عن أشعث، عن جعفر، عن سعيد،
+  قوله: { ونُحاسٌ } قال: دخان.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  آخرون: عني بالنحاس في هذا الموضع: الصُّفر. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس، { ونُحاسٌ
+  } قال: النحاس: الصفر يعذّبون به.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن حُمَيد، قال: ثنا مهران، عن سفيان، عن منصور، عن مجاهد { ونُحاسٌ } قال: يذاب الصفر
+  من فوق رؤوسهم.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">قال: ثنا حكام، عن عمرو، عن منصور،
+  عن مجاهد { ونُحاسٌ } قال: يذاب الصفر فيصبّ على رأسه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن حُمَيد، قال: ثنا مهران، عن سفيان { ونُحاسٌ } يذاب الصفر فيصبّ على رؤوسهم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة { ونُحاسٌ } قال:
+  توعدهما بالصُّفر كما تسمعون أن يعذّبهما به.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن بشار، قال: ثنا محمد بن مروان، قال: ثنا أبو العوّام، عن قتادة { يُرْسَلُ عَلَيْكُما
+  شُوَاظٌ مِنْ نارٍ ونُحاسٌ } قال: يخوّفهم بالنار وبالنحاس.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وأولى
+  القولين في ذلك عندي بالصواب قول من قال: عُنِي بالنحاس: الدخان، وذلك أنه جلّ ثناؤه
+  ذكر أنه يرسل على هذين الحيَّين شواظ من نار، وهو النار المحضة التي لا يخلطها دخان.
+  والذي هو أولى بالكلام أنه توعدهم بنار هذه صفتها أن يُتبع ذلك الوعد بما هو خلافها
+  من نوعها من العذاب دون ما هو من غير جنسها، وذلك هو الدخان، والعرب تسمي الدخان نُحاساً
+  بضم النون، ونِحاساً بكسرها، والقرّاء مجمعة على ضمها، ومن النُّحاس بمعنى الدخان،
+  قول نابغة بني ذُبيان:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><table
+  class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">يَضُوءُ كَضَوْء سِرَاج السَّلي</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">طِ لمْ يجْعَل اللّهُ فيهِ نُحاسا</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">يعني: دخانا.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقوله: { فَلا تَنْتَصِرَانِ } يقول تعالى ذكره: فلا تنتصران أيها
+  الجن والإنس منه إذا هو عاقبكما هذه العقوبة، ولا تُستنقذان منه. كما:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة { فَلا
+  تَنْتَصِرَانِ } قال: يعني الجنّ والإنس.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال:
+  وقوله: { فإذَا انْشَقَّتِ السَّماءُ فَكانَتْ وَرْدَةً كالدّهانِ } يقول تعالى ذكره:
+  فإذا انشقَّت السماء وتفطَّرت، وذلك يوم القيامة، فكان لونها لون البرذون الورد الأحمر.
+  وبنحو الذي قلنا في ذلك قال أهل التأويل. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  سليمان بن عبد الجبار، قال: ثنا محمد بن الصلت، قال: ثنا أبو كدينة، عن قابوس، عن أبيه،
+  عن ابن عباس { فَكانَتْ وَرْدَةً كالدّهانِ } قال: كالفرس الورد.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(55, 35)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(55,35)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">يُرْسَلُ عَلَيْكُمَا شُوَاظٌ مِّن نَّارٍ وَنُحَاسٌ
+  فَلاَ تَنتَصِرَانِ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">فَبِأَيِّ آلاۤءِ رَبِّكُمَا تُكَذِّبَانِ</a>
+  <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">فَإِذَا
+  ٱنشَقَّتِ ٱلسَّمَآءُ فَكَانَتْ وَرْدَةً كَٱلدِّهَانِ</a> <b>} * </b><b>{</b> <a
+  class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">فَبِأَيِّ
+  آلاۤءِ رَبِّكُمَا تُكَذِّبَانِ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\"
+  dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">حدثني محمد بن
+  سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس، قوله: { فإذَا
+  انْشَقَّتِ السَّماءُ فَكانَتْ وَرْدَةً كالدّهانِ } يقول: تغير لونها.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا عبد الله بن أحمد بن حبويه، قال: ثنا شهاب بن عباد، قال: ثنا
+  إبراهيم بن حميد، عن إسماعيل ابن أبي خالد عن أبي صالح في قوله: { وَرْدَةً كالدّهانِ
+  } قال كلون البرذون الورد، ثم كانت بعد كالدهان.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حُدثت
+  عن الحسين، قال: سمعت أبا معاذ يقول: أخبرنا عبيد، قال: سمعت الضحاك يقول في قوله:
+  { فَكانَتْ وَرْدَةً كالدّهانِ } يقول: تتغير السماء فيصير لونها كلون الدابة الوردة.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة { وَرْدَةً كالدّهان
+  } هي اليوم خضراء كما ترون، ولونها يوم القيامة لون آخر.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن بشار، قال: ثنا محمد بن مروان، قال: ثنا ابن العوّام، عن قتادة، في قوله: { فإذَا
+  انْشَقَّتِ السَّماءُ فَكانَتْ وَرْدَةً كالدّهانِ } قال: هي اليوم خضراء، ولونها يومئذٍ
+  الحمرة.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن عبد الأعلى، قال: ثنا
+  ابن ثور، عن معمر، عن قتادة { وَرْدَةً كالدّهانِ } قال: إنها اليوم خضراء، وسيكون
+  لها يومئذٍ لون آخر.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثني يونس، قال: أخبرنا ابن وهب،
+  قال: قال ابن زيد، في قوله: { فَكانَتْ وَرْدَةً كالدّهان } قال: مشرقة كالدهان.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">واختلف أهل التأويل في معنى قوله: { كالدّهانِ } فقال بعضهم: معناه
+  كالدهن صافية الحمرة مشرقة. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى وحدثني الحارث، قال: ثنا الحسن قال:
+  ثنا ورقاء جميعاً، عن ابن أبي نجيح، عن مجاهد، قوله: { وَرْدَةً كالدّهانِ } قال: كالدهن.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حُدثت عن الحسين، قال: سمعت أبا معاذ يقول: أخبرنا عبيد، قال: سمعت
+  الضحاك يقول في قوله: { كالدّهانِ } يعني: خالصة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  آخرون: عني بذلك: فكانت وردة كالأديم، وقالوا: الدهان: جماع، واحدها دهن.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وأولى القولين في ذلك بالصواب قول من قال: عني به الدهن في إشراق لونه،
+  لأن ذلك هو المعروف في كلام العرب.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقوله:
+  { فَبِأيّ آلاءِ رَبِّكُما تُكَذّبانِ } يقول تعالى ذكره: فبأيّ قدرة ربكما معشر الجنّ
+  والإنس على ما أخبركم بأنه فاعل بكم تكذّبان.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">3 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a id=\"NextClass\"/></td></tr></table></center></div></section>"
 

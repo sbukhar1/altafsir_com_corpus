@@ -1,4 +1,4 @@
-location:
+position:
   sura: '012'
   aaya: '107'
   madhab: '01'
@@ -9,21 +9,50 @@ meta:
   year: '310'
 aaya: أَفَأَمِنُوا أَنْ تَأْتِيَهُمْ غَاشِيَةٌ مِنْ عَذَابِ اللَّهِ أَوْ تَأْتِيَهُمُ
   السَّاعَةُ بَغْتَةً وَهُمْ لَا يَشْعُرُونَ
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ أَفَأَمِنُوۤاْ
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(12, 107)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(12,107)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">أَفَأَمِنُوۤاْ
   أَن تَأْتِيَهُمْ غَاشِيَةٌ مِّنْ عَذَابِ ٱللَّهِ أَوْ تَأْتِيَهُمُ ٱلسَّاعَةُ بَغْتَةً
-  وَهُمْ لاَ يَشْعُرُونَ }يقول جلّ ثناؤه: أفأمن هؤلاء الذين لا يقرّون بأن الله ربهم
-  إلا وهم مشركون فـي عبـادتهم إياه غيره، { أنْ تَأْتِـيَهُمْ غاشِيَةٌ مِنْ عَذَابِ
-  اللّهِ } تغشاهم من عقوبة الله وعذابه، علـى شركهم بـالله، أو تأتـيهم القـيامة فجأة
-  وهم مقـيـمون علـى شركهم وكفرهم بربهم، فـيخـلدهم الله عزّ وجلّ فـي ناره وهم لا يدرون
-  بـمـجيئها وقـيامها.وبنـحو الذي قلنا فـي ذلك قال أهل التأويـل. ذكر من قال ذلك:حدثنـي
+  وَهُمْ لاَ يَشْعُرُونَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">يقول جلّ ثناؤه: أفأمن هؤلاء الذين
+  لا يقرّون بأن الله ربهم إلا وهم مشركون فـي عبـادتهم إياه غيره، { أنْ تَأْتِـيَهُمْ
+  غاشِيَةٌ مِنْ عَذَابِ اللّهِ } تغشاهم من عقوبة الله وعذابه، علـى شركهم بـالله، أو
+  تأتـيهم القـيامة فجأة وهم مقـيـمون علـى شركهم وكفرهم بربهم، فـيخـلدهم الله عزّ وجلّ
+  فـي ناره وهم لا يدرون بـمـجيئها وقـيامها.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وبنـحو
+  الذي قلنا فـي ذلك قال أهل التأويـل. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
   مـحمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، عن ابن أبـي نـجيح، عن مـجاهد: {
-  أنْ تَأْتِـيَهُمْ غاشِيَةٌ مِنْ عَذَابِ اللّهِ } قال: تغشاهم.حدثنا الـحسن بن مـحمد،
-  قال: ثنا شبـابة، قال: ثنا ورقاء، عن ابن أبـي نـجيح، عن مـجاهد، قوله: { غاشِيَةٌ
-  مِنْ عَذَابِ اللّهِ } قال: تغشاهم.حدثنـي الـمثنى، قال: ثنا أبو حذيفة، قال: ثنا شبل،
-  عن ابن أبـي نـجيح، عن مـجاهد، مثله.قال: ثنا إسحاق، قال: ثنا عبد الله، عن ورقاء،
-  عن ابن أبـي نـجيح، عن مـجاهد، مثله.حدثنا القاسم، قال: ثنا الـحسين، قال: ثنـي حجاج،
-  عن ابن جريج، عن مـجاهد، مثله.حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة،
-  قوله: { أفأَمِنُوا أنْ تَأْتِـيَهُمْ غاشِيَةٌ مِنْ عَذَاب اللّهِ }: أي عقوبة من
-  عذاب الله.حدثنا مـحمد بن عبد الأعلـى، قال: ثنا مـحمد بن ثور، عن معمر، عن قتادة:
-  { غاشيَةٌ مِنْ عَذَابِ اللّهِ } قال: غاشية واقعة تغشاهم من عذاب الله.\r\n\t\t\t\r\n\t\t\t</section>"
+  أنْ تَأْتِـيَهُمْ غاشِيَةٌ مِنْ عَذَابِ اللّهِ } قال: تغشاهم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا الـحسن بن مـحمد، قال: ثنا شبـابة، قال: ثنا ورقاء، عن ابن أبـي
+  نـجيح، عن مـجاهد، قوله: { غاشِيَةٌ مِنْ عَذَابِ اللّهِ } قال: تغشاهم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي الـمثنى، قال: ثنا أبو حذيفة، قال: ثنا شبل، عن ابن أبـي نـجيح،
+  عن مـجاهد، مثله.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">قال: ثنا إسحاق، قال: ثنا عبد الله،
+  عن ورقاء، عن ابن أبـي نـجيح، عن مـجاهد، مثله.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  القاسم، قال: ثنا الـحسين، قال: ثنـي حجاج، عن ابن جريج، عن مـجاهد، مثله.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: { أفأَمِنُوا
+  أنْ تَأْتِـيَهُمْ غاشِيَةٌ مِنْ عَذَاب اللّهِ }: أي عقوبة من عذاب الله.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا مـحمد بن عبد الأعلـى، قال: ثنا مـحمد بن ثور، عن معمر، عن قتادة:
+  { غاشيَةٌ مِنْ عَذَابِ اللّهِ } قال: غاشية واقعة تغشاهم من عذاب الله.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

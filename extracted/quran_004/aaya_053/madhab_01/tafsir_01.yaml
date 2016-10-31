@@ -1,4 +1,4 @@
-location:
+position:
   sura: '004'
   aaya: '053'
   madhab: '01'
@@ -7,50 +7,128 @@ meta:
   title: تفسير جامع البيان في تفسير القرآن
   author: الطبري
   year: '310'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ أَمْ لَهُمْ نَصِيبٌ
-  مِّنَ ٱلْمُلْكِ فَإِذاً لاَّ يُؤْتُونَ ٱلنَّاسَ نَقِيراً }يعني بذلك جلّ ثناؤه: {
-  أَمْ لَهُمْ نَصِيبٌ مِّنَ ٱلْمُلْكِ } أم لهم حظّ من الملك، يقول: ليس لهم حظّ من
-  الملك. كما:حدثنا محمد بن الحسين، قال: ثنا أحمد بن مفضل، قال: ثنا أسباط، عن السدي:
-  { أَمْ لَهُمْ نَصِيبٌ مِّنَ ٱلْمُلْكِ } يقول: لو كان لهم نصيب من الملك إذا لم يؤتوا
-  محمداً نقيراً.حدثنا القاسم، قال: ثنا الحسين، قال: ثنا حجاج، قال: قال ابن جريج: قال
-  الله: { أَمْ لَهُمْ نَصِيبٌ مِّنَ ٱلْمُلْكِ } قال: فليس لهم نصيب من الملك، { فَإِذاً
-  لاَّ يُؤْتُونَ ٱلنَّاسَ نَقِيراً } ولو كان لهم نصيب وحظّ من الملك، لم يكونوا إذًا
-  يعطون الناس نقيراً من بخلهم.واختلف أهل التأويل في معنى النقير، فقال بعضهم: هو النقطة
-  التي في ظهر النواة. ذكر من قال ذلك:حدثني المثنى، قال: ثني عبد الله، قال: ثني معاوية
-  بن صالح، عن عليّ بن أبي طلحة، عن ابن عباس، قوله: { نَقِيراً } يقول: النقطة التي
-  في ظهر النواة.حدثني سليمان بن عبد الجبار، قال: ثنا محمد بن الصلت، قال: ثنا أبو كدينة،
-  عن قابوس، عن أبيه، عن ابن عباس، قال: النقير الذي في ظهر النواة.حدثني جعفر بن محمد
-  الكوفي المروزي، قال: ثنا عبيد الله، عن إسرائيل، عن خصيف عن عكرمة عن ابن عباس، قال:
-  النقير: وسط النواة.حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي،
-  عن أبيه، عن ابن عباس: { فَإِذاً لاَّ يُؤْتُونَ ٱلنَّاسَ نَقِيراً } النقير: نقير
-  النواة: وسطها.حدثنا محمد بن الحسين، قال: ثنا أحمد بن مفضل، قال: ثنا أسباط، عن السدي،
-  قوله: { أَمْ لَهُمْ نَصِيبٌ مِّنَ ٱلْمُلْكِ فَإِذاً لاَّ يُؤْتُونَ ٱلنَّاسَ نَقِيراً
-  } يقول: لو كان لهم نصيب من الملك إذًا لم يؤتوا محمداً نقيراً، والنقير: النكتة التي
-  في وسط النواة.حدثني يونس، قال: أخبرنا ابن وهب، قال: ثني طلحة بن عمرو أنه سمع عطاء
-  بن أبي رباح، يقول: النقير: الذي في ظهر النواة.حدثني يحيـى بن أبي طالب، قال: أخبرنا
-  يزيد، قال: أخبرنا جويبر، عن الضحاك، قال: النقير: النقرة التي تكون في ظهر النواة.حدثني
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(4, 53)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(4,53)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">أَمْ
+  لَهُمْ نَصِيبٌ مِّنَ ٱلْمُلْكِ فَإِذاً لاَّ يُؤْتُونَ ٱلنَّاسَ نَقِيراً</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">يعني بذلك جلّ ثناؤه: { أَمْ لَهُمْ نَصِيبٌ مِّنَ ٱلْمُلْكِ } أم
+  لهم حظّ من الملك، يقول: ليس لهم حظّ من الملك. كما:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  محمد بن الحسين، قال: ثنا أحمد بن مفضل، قال: ثنا أسباط، عن السدي: { أَمْ لَهُمْ نَصِيبٌ
+  مِّنَ ٱلْمُلْكِ } يقول: لو كان لهم نصيب من الملك إذا لم يؤتوا محمداً نقيراً.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا القاسم، قال: ثنا الحسين، قال: ثنا حجاج، قال: قال ابن جريج:
+  قال الله: { أَمْ لَهُمْ نَصِيبٌ مِّنَ ٱلْمُلْكِ } قال: فليس لهم نصيب من الملك، {
+  فَإِذاً لاَّ يُؤْتُونَ ٱلنَّاسَ نَقِيراً } ولو كان لهم نصيب وحظّ من الملك، لم يكونوا
+  إذًا يعطون الناس نقيراً من بخلهم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">واختلف
+  أهل التأويل في معنى النقير، فقال بعضهم: هو النقطة التي في ظهر النواة. ذكر من قال
+  ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثني المثنى، قال: ثني عبد الله،
+  قال: ثني معاوية بن صالح، عن عليّ بن أبي طلحة، عن ابن عباس، قوله: { نَقِيراً } يقول:
+  النقطة التي في ظهر النواة.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثني سليمان بن عبد الجبار، قال:
+  ثنا محمد بن الصلت، قال: ثنا أبو كدينة، عن قابوس، عن أبيه، عن ابن عباس، قال: النقير
+  الذي في ظهر النواة.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثني جعفر بن محمد الكوفي المروزي،
+  قال: ثنا عبيد الله، عن إسرائيل، عن خصيف عن عكرمة عن ابن عباس، قال: النقير: وسط النواة.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن
+  أبيه، عن ابن عباس: { فَإِذاً لاَّ يُؤْتُونَ ٱلنَّاسَ نَقِيراً } النقير: نقير النواة:
+  وسطها.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا محمد بن الحسين، قال: ثنا
+  أحمد بن مفضل، قال: ثنا أسباط، عن السدي، قوله: { أَمْ لَهُمْ نَصِيبٌ مِّنَ ٱلْمُلْكِ
+  فَإِذاً لاَّ يُؤْتُونَ ٱلنَّاسَ نَقِيراً } يقول: لو كان لهم نصيب من الملك إذًا لم
+  يؤتوا محمداً نقيراً، والنقير: النكتة التي في وسط النواة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  يونس، قال: أخبرنا ابن وهب، قال: ثني طلحة بن عمرو أنه سمع عطاء بن أبي رباح، يقول:
+  النقير: الذي في ظهر النواة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  يحيـى بن أبي طالب، قال: أخبرنا يزيد، قال: أخبرنا جويبر، عن الضحاك، قال: النقير:
+  النقرة التي تكون في ظهر النواة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
   يعقوب بن إبراهيم، قال: ثنا هشيم، قال: أخبرنا حصين، عن أبي مالك، قال: النقير: الذي
-  في ظهر النواة.وقال آخرون: النقير: الحبة التي تكون في وسط النواة. ذكر من قال ذلك:حدثني
+  في ظهر النواة.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال آخرون: النقير: الحبة التي
+  تكون في وسط النواة. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
   محمد بن عمرو، قال: ثنا أبو عاصم، عن عيسى، عن ابن أبي نجيح، عن مجاهد في قول الله:
-  { نَقِيراً } قال: النقير: حبة النواة التي في وسطها.حدثني المثنى، قال: ثنا أبو حذيفة،
-  قال: ثنا شبل، عن ابن أبي نجيح، عن مجاهد: { فَإِذاً لاَّ يُؤْتُونَ ٱلنَّاسَ نَقِيراً
-  } قال: النقير: حبة النواة التي في وسطها.\r\n\t\t\t\r\n\t\t\t1 2 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ أَمْ لَهُمْ نَصِيبٌ مِّنَ ٱلْمُلْكِ
-  فَإِذاً لاَّ يُؤْتُونَ ٱلنَّاسَ نَقِيراً }حدثنا محمد بن بشار، قال: ثنا يحيـى بن
-  سعيد، قال: ثنا سفيان بن سعيد، عن منصور، عن مجاهد قال: النقير في النوي.حدثنا القاسم،
-  قال: ثنا الحسين، قال: ثني حجاج، قال: قال ابن جريج: أخبرني عبد الله بن كثير أنه سمع
-  مجاهداً يقول: النقير: نقير النواة الذي في وسطها.حُدثت عن الحسين بن الفرج، قال: سمعت
-  أبا معاذ يقول: أخبرنا عبيد بن سليمان، قال: سمعت الضحاك بن مزاحم يقول: النقير: نقير
-  النواة الذي يكون في وسط النواة.وقال آخرون: معنى ذلك: نقر الرجل الشيء بطرف أصابعه.
-  ذكر من قال ذلك:حدثنا ابن وكيع، قال: ثنا أبي، عن يزيد بن درهم أبي العلاء، قال: سمعت
-  أبا العالية، ووضع ابن عباس طرف الإبهام على ظهر السبابة ثم رفعهما وقال: هذا النقير.وأولى
-  الأقوال في ذلك بالصواب أن يقال: إن الله وصف هؤلاء الفرقة من أهل الكتاب بالبخل باليسير
-  من الشيء الذي لا خطر له، ولو كانوا ملوكاً وأهل قدرة على الأشياء الجليلة الأقدار.
-  فإذ كان ذلك كذلك، فالذي هو أولى بمعنى النقير أن يكون أصغر ما يكون من النقر، وإذا
-  كان ذلك أولى به، فالنقرة التي في ظهر النواة من صغار النقر، وقد يدخل في ذلك كل ما
-  شاكلها من النقر. ورفع قوله: { لاَّ يُؤْتُونَ ٱلنَّاسَ } ولم ينصب بـ«إذاً»، ومن حكمها
-  أن تنصب الأفعال المستقبلة إذا ابتدىء الكلام بها؛ لأن معها فاء، ومن حكمها إذا دخل
-  فيها بعض حروف العطف أن توجه إلى الابتداء بها مرّة وإلى النقل عنها إلى غيرها أخرى،
-  وهذا الموضع مما أريد بالفاء فيه النقل عن إذًا إلى ما بعدها، وأن يكون معنى الكلام:
-  أم لهم نصيب فلا يؤتون الناس نقيرا إذًا.]\r\n\t\t\t\r\n\t\t\t1 2 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  { نَقِيراً } قال: النقير: حبة النواة التي في وسطها.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  المثنى، قال: ثنا أبو حذيفة، قال: ثنا شبل، عن ابن أبي نجيح، عن مجاهد: { فَإِذاً لاَّ
+  يُؤْتُونَ ٱلنَّاسَ نَقِيراً } قال: النقير: حبة النواة التي في وسطها.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(4, 53)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(4,53)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">أَمْ لَهُمْ نَصِيبٌ مِّنَ ٱلْمُلْكِ فَإِذاً لاَّ
+  يُؤْتُونَ ٱلنَّاسَ نَقِيراً</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\"
+  dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">حدثنا محمد بن
+  بشار، قال: ثنا يحيـى بن سعيد، قال: ثنا سفيان بن سعيد، عن منصور، عن مجاهد قال: النقير
+  في النوي.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا القاسم، قال: ثنا الحسين،
+  قال: ثني حجاج، قال: قال ابن جريج: أخبرني عبد الله بن كثير أنه سمع مجاهداً يقول:
+  النقير: نقير النواة الذي في وسطها.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حُدثت
+  عن الحسين بن الفرج، قال: سمعت أبا معاذ يقول: أخبرنا عبيد بن سليمان، قال: سمعت الضحاك
+  بن مزاحم يقول: النقير: نقير النواة الذي يكون في وسط النواة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  آخرون: معنى ذلك: نقر الرجل الشيء بطرف أصابعه. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن وكيع، قال: ثنا أبي، عن يزيد بن درهم أبي العلاء، قال: سمعت
+  أبا العالية، ووضع ابن عباس طرف الإبهام على ظهر السبابة ثم رفعهما وقال: هذا النقير.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وأولى الأقوال في ذلك بالصواب أن يقال: إن الله وصف هؤلاء الفرقة من
+  أهل الكتاب بالبخل باليسير من الشيء الذي لا خطر له، ولو كانوا ملوكاً وأهل قدرة على
+  الأشياء الجليلة الأقدار. فإذ كان ذلك كذلك، فالذي هو أولى بمعنى النقير أن يكون أصغر
+  ما يكون من النقر، وإذا كان ذلك أولى به، فالنقرة التي في ظهر النواة من صغار النقر،
+  وقد يدخل في ذلك كل ما شاكلها من النقر. ورفع قوله: { لاَّ يُؤْتُونَ ٱلنَّاسَ } ولم
+  ينصب بـ«إذاً»، ومن حكمها أن تنصب الأفعال المستقبلة إذا ابتدىء الكلام بها؛ لأن معها
+  فاء، ومن حكمها إذا دخل فيها بعض حروف العطف أن توجه إلى الابتداء بها مرّة وإلى النقل
+  عنها إلى غيرها أخرى، وهذا الموضع مما أريد بالفاء فيه النقل عن إذًا إلى ما بعدها،
+  وأن يكون معنى الكلام: أم لهم نصيب فلا يؤتون الناس نقيرا إذًا.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">]</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section>"
 

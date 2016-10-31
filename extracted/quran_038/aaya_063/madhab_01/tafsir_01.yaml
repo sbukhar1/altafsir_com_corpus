@@ -1,4 +1,4 @@
-location:
+position:
   sura: 038
   aaya: '063'
   madhab: '01'
@@ -7,60 +7,138 @@ meta:
   title: تفسير جامع البيان في تفسير القرآن
   author: الطبري
   year: '310'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَقَالُواْ مَا
-  لَنَا لاَ نَرَىٰ رِجَالاً كُنَّا نَعُدُّهُمْ مِّنَ ٱلأَشْرَارِ } * { أَتَّخَذْنَاهُمْ
-  سِخْرِيّاً أَمْ زَاغَتْ عَنْهُمُ ٱلأَبْصَار } * { إِنَّ ذَلِكَ لَحَقٌّ تَخَاصُمُ
-  أَهْلِ ٱلنَّارِ }يقول تعالـى ذكره: قال الطاغون الذين وصف جلّ ثناؤه صفتهم فـي هذه
-  الآيات، وهم فـيـما ذُكر أبو جهل والولـيد بن الـمُغيرة وذووهما: { ما لَنا لا نَرَى
-  رِجالاً } يقول: ما بـالنا لا نرى معنا فـي النار رجالاً { كُنَّا نَعُدُّهُمْ مِنَ
-  الأشْرَارِ } يقول: كنا نعدّهم فـي الدنـيا من أشرارنا، وعنوا بذلك فـيـما ذُكر صُهَيْبـاً
-  وخَبَّـابـاً وبِلالاً وسَلْـمان. وبنـحو الذي قلنا فـي ذلك قال أهل التأويـل. ذكر
-  من قال ذلك:حدثنـي مـحمد، قال: ثنا أحمد، قال: ثنا أسبـاط، عن لـيث، عن مـجاهد، فـي
-  قوله: ما لَنا لا نَرَى { رِجالاً كُنَّا نَعُدُّهُمْ مِنَ الأَشْرَارِ } قال: ذاك
-  أبو جهل بن هشام والولـيد بن الـمغيرة، وذكر أناساً صُهيبـاً وَعمَّاراً وخبَّـابـاً،
-  كنَّا نعدّهم من الأشرار فـي الدنـيا.حدثنا أبو السائب، قال: ثنا ابن إدريس، قال: سمعت
-  لـيثاً يذكر عن مـجاهد فـي قوله: وَقالُوا { ما لَنا لا نَرَى رِجالاً كُنَّا نَعُدُّهُمْ
-  مِنَ الأَشْرارِ } قال: قالوا: أي سَلْـمان؟ أين خَبَّـاب؟ أين بِلال؟.وقوله: { أتَّـخَذْناهُمْ
-  سِخْرِياًّ } اختلفت القرّاء فـي قراءته، فقرأته عامة قرّاء الـمدينة والشام وبعض قرّاء
-  الكوفة: { أتَّـخَذْناهُمْ } بفتـح الألف من أتـخذناهم، وقطعها علـى وجه الاستفهام،
-  وقرأته عامة قرّاء الكوفة والبصرة، وبعض قرّاء مكة بوصل الألف من الأشرار: «اتَّـخَذْناهُمْ».
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(38, 62)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(38,62)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَقَالُواْ
+  مَا لَنَا لاَ نَرَىٰ رِجَالاً كُنَّا نَعُدُّهُمْ مِّنَ ٱلأَشْرَارِ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">أَتَّخَذْنَاهُمْ
+  سِخْرِيّاً أَمْ زَاغَتْ عَنْهُمُ ٱلأَبْصَار</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">إِنَّ ذَلِكَ لَحَقٌّ
+  تَخَاصُمُ أَهْلِ ٱلنَّارِ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\"
+  dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">يقول تعالـى ذكره:
+  قال الطاغون الذين وصف جلّ ثناؤه صفتهم فـي هذه الآيات، وهم فـيـما ذُكر أبو جهل والولـيد
+  بن الـمُغيرة وذووهما: { ما لَنا لا نَرَى رِجالاً } يقول: ما بـالنا لا نرى معنا فـي
+  النار رجالاً { كُنَّا نَعُدُّهُمْ مِنَ الأشْرَارِ } يقول: كنا نعدّهم فـي الدنـيا
+  من أشرارنا، وعنوا بذلك فـيـما ذُكر صُهَيْبـاً وخَبَّـابـاً وبِلالاً وسَلْـمان. وبنـحو
+  الذي قلنا فـي ذلك قال أهل التأويـل. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  مـحمد، قال: ثنا أحمد، قال: ثنا أسبـاط، عن لـيث، عن مـجاهد، فـي قوله: ما لَنا لا
+  نَرَى { رِجالاً كُنَّا نَعُدُّهُمْ مِنَ الأَشْرَارِ } قال: ذاك أبو جهل بن هشام والولـيد
+  بن الـمغيرة، وذكر أناساً صُهيبـاً وَعمَّاراً وخبَّـابـاً، كنَّا نعدّهم من الأشرار
+  فـي الدنـيا.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا أبو السائب، قال: ثنا ابن
+  إدريس، قال: سمعت لـيثاً يذكر عن مـجاهد فـي قوله: وَقالُوا { ما لَنا لا نَرَى رِجالاً
+  كُنَّا نَعُدُّهُمْ مِنَ الأَشْرارِ } قال: قالوا: أي سَلْـمان؟ أين خَبَّـاب؟ أين
+  بِلال؟.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقوله: { أتَّـخَذْناهُمْ سِخْرِياًّ
+  } اختلفت القرّاء فـي قراءته، فقرأته عامة قرّاء الـمدينة والشام وبعض قرّاء الكوفة:
+  { أتَّـخَذْناهُمْ } بفتـح الألف من أتـخذناهم، وقطعها علـى وجه الاستفهام، وقرأته
+  عامة قرّاء الكوفة والبصرة، وبعض قرّاء مكة بوصل الألف من الأشرار: «اتَّـخَذْناهُمْ».
   وقد بـيَّنا فـيـما مضى قبلُ، أن كلّ استفهام كان بـمعنى التعجب والتوبـيخ، فإن العرب
-  تستفهم فـيه أحياناً، وتُـخرجه علـى وجه الـخبر أحياناً.وأولـى القراءتـين فـي ذلك
-  بـالصواب قراءة من قرأه بـالوصل علـى غير وجه الاستفهام، لتقدّم الاستفهام قبلَ ذلك
-  فـي قوله: { ما لَنا لا نَرَى رِجالاً كُنَّا } فـيصير قوله: «اتَّـخَذْناهُمْ» بـالـخبر
-  أولـى وإن كان للاستفهام وجه مفهوم لـما وصفتُ قبلُ من أنه بـمعنى التعجب.وإذ كان الصواب
-  من القراءة فـي ذلك ما اخترنا لـما وصفنا، فمعنى الكلام: وقال الطاغون: ما لنا لا نرى
-  سَلْـمان وبِلالاً وخَبَّـابـاً الذين كنَّا نعدّهم فـي الدنـيا أشراراً، اتـخذناهم
-  فـيها سُخرياً نهزأ بهم فـيها معنا الـيوم فـي النار؟.وكان بعض أهل العلـم بـالعربـية
-  من أهل البصرة يقول: من كسر السين من السِّخْرِي، فإنه يريد به الهُزء، يريد يسخر به،
-  ومن ضمها فإنه يجعله من السُّخْرَة، يستسخِرونهم: يستذِلُّونهم، أزاغت عنهم أبصارنا
-  وهم معنا. وبنـحو الذي قلنا فـي ذلك قال أهل التأويـل. ذكر من قال ذلك:حدثنا ابن حميد،
-  قال: ثنا جرير، عن لـيث، عن مـجاهد { أتَّـخَذْناهُمْ سِخْرِيًّا أمْ زَاغَتْ عَنْهُمُ
-  الأبْصَارُ } يقول: أهم فـي النار لا نعرف مكانهم؟.وحُدثت عن الـمـحاربـيّ، عن جَوَيبر،
-  عن الضحاك { وَقالُوا ما لَنا لا نَرىَ رِجالاً كُنَّا نَعُدُّهُمْ مِنَ الأشْرَارِ
-  } قال: هم قوم كانوا يسخَرون من مـحمد وأصحابه، فـانطُلِق به وبأصحابه إلـى الـجنة
-  وذُهِبَ بهم إلـى النار فـ { قالُوا ما لَنا لا نَرَى رِجالاً كُنَّا نَعُدُّهُمْ مِنَ
-  الأشْرارِ أَتَّـخَذْناهُمْ سِخْريًّا أمْ زَاغَتْ عَنْهُمْ الأبْصارُ } يقولون: أزاغت
-  أبصارنا عنهم فلا ندري أين هم؟.\r\n\t\t\t\r\n\t\t\t1 2 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَقَالُواْ مَا لَنَا لاَ نَرَىٰ رِجَالاً
-  كُنَّا نَعُدُّهُمْ مِّنَ ٱلأَشْرَارِ } * { أَتَّخَذْنَاهُمْ سِخْرِيّاً أَمْ زَاغَتْ
-  عَنْهُمُ ٱلأَبْصَار } * { إِنَّ ذَلِكَ لَحَقٌّ تَخَاصُمُ أَهْلِ ٱلنَّارِ }حدثنـي
-  مـحمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى وحدثنـي الـحارث، قال: ثنا الـحسن،
-  قال: ثنا ورقاء، جميعاً عن ابن أبـي نـجيح، عن مـجاهد، قوله: { أَتَّـخَذْناهُمْ سِخْريًّا
-  } قال: أخطأناهم { أمْ زَاغَتْ عَنْهُمْ الأبْصَارُ } ولا نراهم؟.حدثنا بشر، قال: ثنا
-  يزيد، قال: ثنا سعيد، عن قتادة، قوله: { وَقالُوا ما لَنا لا نَرَى رجالاً كُنَّا نَعُدُّهُمْ
-  مِنَ الأشْرَارِ } قال: فقدوا أهل الـجنة { أَتَّـخَذْناهُمْ سِخْريًّا } فـي الدنـيا
-  { أمْ زَاغَت عَنْهُمُ الأَبْصَارُ } وهم معناه فـي النار.وقوله: { إنَّ ذلكَ لَـحَقّ
-  } يقول تعالـى ذكره: إن هذا الذي أخبرتكم أيها الناس من الـخبر عن تراجع أهل النار،
-  ولعْن بعضهم بعضاً، ودعاء بعضهم علـى بعض فـي النار لـحقّ يقـين، فلا تشكُّوا فـي ذلك،
-  ولكن استـيقنوه تـخاصم أهل النار. وقوله: { تَـخاصُمُ } ردّ علـى قوله: { لَـحَقٌّ
-  }. ومعنى الكلام: إن تـخاصم أهل النار الذي أخبرتكم به لـحقّ.وكان بعض أهل العربـية
-  من أهل البصرة يوجه معنى قوله: { أمْ زَاغَتْ عَنْهُمْ الأبْصَارُ } إلـى: بل زاغت
-  عنهم.حدثنـي يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، فـي قوله: { إنَّ ذلكَ لَـحَقٌّ
-  تـخاصُمُ أهْلِ النَّارِ } فقرأ:{ تاللّهِ إنْ كُنَّا لَفِـي ضَلالٍ مُبِـينٍ إذْ نُسَوِّيكُمْ
-  بِرَبّ العالَـمِينَ }وقرأ{ يَوْمَ نَـحْشُرُهُمْ جَمِيعاً }حتـى بلغ:{ إنْ كُنَّا
-  عَنْ عِبـادَتِكُمْ لَغافِلِـينَ }قال: إن كنتـم تعبدوننا كما تقولون إن كنا عن عبـادتكم
-  لغافلـين، ما كنا نسمع ولا نبصر، قال: وهذه الأصنام، قال: هذه خصومة أهل النار، وقرأ:{ وَضَلَّ
-  عَنْهُمْ ما كانُوا يَفْتَرُونَ }قال: وضلّ عنهم يوم القـيامة ما كانوا يفترون فـي
-  الدنـيا.\r\n\t\t\t\r\n\t\t\t1 2 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  تستفهم فـيه أحياناً، وتُـخرجه علـى وجه الـخبر أحياناً.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وأولـى
+  القراءتـين فـي ذلك بـالصواب قراءة من قرأه بـالوصل علـى غير وجه الاستفهام، لتقدّم
+  الاستفهام قبلَ ذلك فـي قوله: { ما لَنا لا نَرَى رِجالاً كُنَّا } فـيصير قوله: «اتَّـخَذْناهُمْ»
+  بـالـخبر أولـى وإن كان للاستفهام وجه مفهوم لـما وصفتُ قبلُ من أنه بـمعنى التعجب.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وإذ كان الصواب من القراءة فـي ذلك ما اخترنا لـما وصفنا، فمعنى الكلام:
+  وقال الطاغون: ما لنا لا نرى سَلْـمان وبِلالاً وخَبَّـابـاً الذين كنَّا نعدّهم فـي
+  الدنـيا أشراراً، اتـخذناهم فـيها سُخرياً نهزأ بهم فـيها معنا الـيوم فـي النار؟.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وكان بعض أهل العلـم بـالعربـية من أهل البصرة يقول: من كسر السين
+  من السِّخْرِي، فإنه يريد به الهُزء، يريد يسخر به، ومن ضمها فإنه يجعله من السُّخْرَة،
+  يستسخِرونهم: يستذِلُّونهم، أزاغت عنهم أبصارنا وهم معنا. وبنـحو الذي قلنا فـي ذلك
+  قال أهل التأويـل. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن حميد، قال: ثنا جرير، عن لـيث، عن مـجاهد { أتَّـخَذْناهُمْ سِخْرِيًّا أمْ زَاغَتْ
+  عَنْهُمُ الأبْصَارُ } يقول: أهم فـي النار لا نعرف مكانهم؟.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وحُدثت
+  عن الـمـحاربـيّ، عن جَوَيبر، عن الضحاك { وَقالُوا ما لَنا لا نَرىَ رِجالاً كُنَّا
+  نَعُدُّهُمْ مِنَ الأشْرَارِ } قال: هم قوم كانوا يسخَرون من مـحمد وأصحابه، فـانطُلِق
+  به وبأصحابه إلـى الـجنة وذُهِبَ بهم إلـى النار فـ { قالُوا ما لَنا لا نَرَى رِجالاً
+  كُنَّا نَعُدُّهُمْ مِنَ الأشْرارِ أَتَّـخَذْناهُمْ سِخْريًّا أمْ زَاغَتْ عَنْهُمْ
+  الأبْصارُ } يقولون: أزاغت أبصارنا عنهم فلا ندري أين هم؟.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(38, 62)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(38,62)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَقَالُواْ مَا لَنَا لاَ نَرَىٰ رِجَالاً كُنَّا
+  نَعُدُّهُمْ مِّنَ ٱلأَشْرَارِ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">أَتَّخَذْنَاهُمْ سِخْرِيّاً أَمْ زَاغَتْ
+  عَنْهُمُ ٱلأَبْصَار</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">إِنَّ ذَلِكَ لَحَقٌّ تَخَاصُمُ أَهْلِ ٱلنَّارِ</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي مـحمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى وحدثنـي الـحارث،
+  قال: ثنا الـحسن، قال: ثنا ورقاء، جميعاً عن ابن أبـي نـجيح، عن مـجاهد، قوله: { أَتَّـخَذْناهُمْ
+  سِخْريًّا } قال: أخطأناهم { أمْ زَاغَتْ عَنْهُمْ الأبْصَارُ } ولا نراهم؟.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: { وَقالُوا
+  ما لَنا لا نَرَى رجالاً كُنَّا نَعُدُّهُمْ مِنَ الأشْرَارِ } قال: فقدوا أهل الـجنة
+  { أَتَّـخَذْناهُمْ سِخْريًّا } فـي الدنـيا { أمْ زَاغَت عَنْهُمُ الأَبْصَارُ } وهم
+  معناه فـي النار.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقوله: { إنَّ ذلكَ لَـحَقّ } يقول
+  تعالـى ذكره: إن هذا الذي أخبرتكم أيها الناس من الـخبر عن تراجع أهل النار، ولعْن
+  بعضهم بعضاً، ودعاء بعضهم علـى بعض فـي النار لـحقّ يقـين، فلا تشكُّوا فـي ذلك، ولكن
+  استـيقنوه تـخاصم أهل النار. وقوله: { تَـخاصُمُ } ردّ علـى قوله: { لَـحَقٌّ }. ومعنى
+  الكلام: إن تـخاصم أهل النار الذي أخبرتكم به لـحقّ.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وكان
+  بعض أهل العربـية من أهل البصرة يوجه معنى قوله: { أمْ زَاغَتْ عَنْهُمْ الأبْصَارُ
+  } إلـى: بل زاغت عنهم.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي يونس، قال: أخبرنا ابن وهب،
+  قال: قال ابن زيد، فـي قوله: { إنَّ ذلكَ لَـحَقٌّ تـخاصُمُ أهْلِ النَّارِ } فقرأ:</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">تاللّهِ
+  إنْ كُنَّا لَفِـي ضَلالٍ مُبِـينٍ إذْ نُسَوِّيكُمْ بِرَبّ العالَـمِينَ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">وقرأ</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">يَوْمَ
+  نَـحْشُرُهُمْ جَمِيعاً</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">حتـى بلغ:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">إنْ كُنَّا عَنْ عِبـادَتِكُمْ لَغافِلِـينَ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">قال:
+  إن كنتـم تعبدوننا كما تقولون إن كنا عن عبـادتكم لغافلـين، ما كنا نسمع ولا نبصر،
+  قال: وهذه الأصنام، قال: هذه خصومة أهل النار، وقرأ:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">وَضَلَّ عَنْهُمْ ما كانُوا يَفْتَرُونَ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">قال:
+  وضلّ عنهم يوم القـيامة ما كانوا يفترون فـي الدنـيا.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section>"
 

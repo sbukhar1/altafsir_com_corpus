@@ -1,4 +1,4 @@
-location:
+position:
   sura: '022'
   aaya: '063'
   madhab: '01'
@@ -7,14 +7,36 @@ meta:
   title: تفسير جامع البيان في تفسير القرآن
   author: الطبري
   year: '310'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ أَلَمْ تَرَ أَنَّ
-  ٱللَّهَ أَنزَلَ مِنَ ٱلسَّمَآءِ مَآءً فَتُصْبِحُ ٱلأَرْضُ مُخْضَرَّةً إِنَّ ٱللَّهَ
-  لَطِيفٌ خَبِيرٌ }يقول تعالـى ذكره: { ألَـمْ تَرَ } يا مـحمد { أنَّ اللَّهَ أنْزَلَ
-  مِنَ السَّماءِ ماءً } يعنـي مطراً، { فَتُصْبِحُ الأرْضُ مُخْضَرَّةً } بـما ينبت
-  فـيها من النبـات. { إنَّ اللَّهَ لَطِيفٌ } بـاستـخراج النبـات من الأرض بذلك الـماء
-  وغير ذلك من ابتداع ما شاء أن يبتدعه. { خَبِـيرٌ } بـما يحدث عن ذلك النبت من الـحبّ
-  وبه. قال: { فَتُصْبِحُ الأرْضُ } فرفع، وقد تقدمه قوله: { ألَـمْ تَرَ } وإنـما قـيـل
-  ذلك كذلك لأن معنى الكلام الـخبر، كأنه قـيـل: أعلـم يا مـحمد أن الله ينزل من السماء
-  ماء فتصبح الأرض ونظير ذلك قول الشاعر:ألَمْ تَسْأَلِ الرّبْعَ القَدِيمَ فـيَنْطِقُ   وهلْ
-  تُـخْبِرَنْكَ اليوْمَ بَيْداءُ سَمْلَقُلأن معناه: قد سألته فنطق.\r\n\t\t\t\r\n\t\t\t</section>"
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(22, 63)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(22,63)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">أَلَمْ
+  تَرَ أَنَّ ٱللَّهَ أَنزَلَ مِنَ ٱلسَّمَآءِ مَآءً فَتُصْبِحُ ٱلأَرْضُ مُخْضَرَّةً
+  إِنَّ ٱللَّهَ لَطِيفٌ خَبِيرٌ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\"
+  dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">يقول تعالـى ذكره:
+  { ألَـمْ تَرَ } يا مـحمد { أنَّ اللَّهَ أنْزَلَ مِنَ السَّماءِ ماءً } يعنـي مطراً،
+  { فَتُصْبِحُ الأرْضُ مُخْضَرَّةً } بـما ينبت فـيها من النبـات. { إنَّ اللَّهَ لَطِيفٌ
+  } بـاستـخراج النبـات من الأرض بذلك الـماء وغير ذلك من ابتداع ما شاء أن يبتدعه. {
+  خَبِـيرٌ } بـما يحدث عن ذلك النبت من الـحبّ وبه. قال: { فَتُصْبِحُ الأرْضُ } فرفع،
+  وقد تقدمه قوله: { ألَـمْ تَرَ } وإنـما قـيـل ذلك كذلك لأن معنى الكلام الـخبر، كأنه
+  قـيـل: أعلـم يا مـحمد أن الله ينزل من السماء ماء فتصبح الأرض ونظير ذلك قول الشاعر:</font></font><table
+  class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">ألَمْ تَسْأَلِ الرّبْعَ القَدِيمَ فـيَنْطِقُ</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">وهلْ تُـخْبِرَنْكَ اليوْمَ بَيْداءُ سَمْلَقُ</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">لأن معناه: قد سألته فنطق.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

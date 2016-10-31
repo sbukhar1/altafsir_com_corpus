@@ -1,4 +1,4 @@
-location:
+position:
   sura: 008
   aaya: '056'
   madhab: '01'
@@ -9,11 +9,29 @@ meta:
   year: '538'
 aaya: الَّذِينَ عَاهَدْتَ مِنْهُمْ ثُمَّ يَنْقُضُونَ عَهْدَهُمْ فِي كُلِّ مَرَّةٍ
   وَهُمْ لَا يَتَّقُونَ
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ إِنَّ شَرَّ ٱلدَّوَابِّ
-  عِندَ ٱللَّهِ ٱلَّذِينَ كَفَرُواْ فَهُمْ لاَ يُؤْمِنُونَ } * { ٱلَّذِينَ عَاهَدْتَّ
-  مِنْهُمْ ثُمَّ يَنقُضُونَ عَهْدَهُمْ فِي كُلِّ مَرَّةٍ وَهُمْ لاَ يَتَّقُونَ } *
-  { فَإِمَّا تَثْقَفَنَّهُمْ فِي ٱلْحَرْبِ فَشَرِّدْ بِهِم مَّنْ خَلْفَهُمْ لَعَلَّهُمْ
-  يَذَّكَّرُونَ }{ ٱلَّذِينَ كَفَرُواْ فَهُمْ لاَ يُؤْمِنُونَ } أي أصروا على الكفر
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(8, 55)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(8,55)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">إِنَّ
+  شَرَّ ٱلدَّوَابِّ عِندَ ٱللَّهِ ٱلَّذِينَ كَفَرُواْ فَهُمْ لاَ يُؤْمِنُونَ</a> <b>}
+  * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">ٱلَّذِينَ
+  عَاهَدْتَّ مِنْهُمْ ثُمَّ يَنقُضُونَ عَهْدَهُمْ فِي كُلِّ مَرَّةٍ وَهُمْ لاَ يَتَّقُونَ</a>
+  <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">فَإِمَّا
+  تَثْقَفَنَّهُمْ فِي ٱلْحَرْبِ فَشَرِّدْ بِهِم مَّنْ خَلْفَهُمْ لَعَلَّهُمْ يَذَّكَّرُونَ</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">{ ٱلَّذِينَ كَفَرُواْ فَهُمْ لاَ يُؤْمِنُونَ } أي أصروا على الكفر
   ولجوا فيه، فلا يتوقع منهم إيمان وهم بنو قريظة، عاهدهم رسول الله صلى الله عليه وسلم
   أن لا يمالئوا عليه فنكثوا بأن أعانوا مشركي مكة بالسلاح وقالوا: نسينا وأخطأنا، ثم
   عاهدهم فنكثوا ومالوا معهم يوم الخندق، وانطلق كعب بن الأشرف إلى مكة فحالفهم { ٱلَّذِينَ
@@ -28,5 +46,6 @@ text: "<section>قراءة الآيةفتح صفحة القرآنالانتقا�
   فافعل التشريد من ورائهم، لأنه إذا شرد الذين وراءهم فقد فعل التشريد في الوراء وأوقعه
   فيه؛ لأن الوراء جهة المشردين، فإذا جعل الوراء ظرفاً للتشريد فقد دلّ على تشريد من
   فيه، فلم يبق فرق بين القراءتين { لَعَلَّهُمْ يَذَّكَّرُونَ } لعلّ المشردين من ورائهم
-  يتعظون.\r\n\t\t\t\r\n\t\t\t</section>"
+  يتعظون.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

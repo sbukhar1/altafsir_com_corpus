@@ -1,4 +1,4 @@
-location:
+position:
   sura: '026'
   aaya: '213'
   madhab: '01'
@@ -7,189 +7,471 @@ meta:
   title: تفسير جامع البيان في تفسير القرآن
   author: الطبري
   year: '310'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ فَلاَ تَدْعُ مَعَ
-  ٱللَّهِ إِلَـٰهاً آخَرَ فَتَكُونَ مِنَ ٱلْمُعَذَّبِينَ } * { وَأَنذِرْ عَشِيرَتَكَ
-  ٱلأَقْرَبِينَ } * { وَٱخْفِضْ جَنَاحَكَ لِمَنِ ٱتَّبَعَكَ مِنَ ٱلْمُؤْمِنِينَ }يقول
-  تعالـى ذكره لنبـيه مـحمد صلى الله عليه وسلم: { فَلا تَدْعُ } يا مـحمد { مَعَ اللَّهِ
-  إلَها آخَرَ }: أي لا تعبد معه معبوداً غيره { فَتكُونَ مِنَ الـمُعَذَّبِـينَ } فـينزل
-  بك من العذاب ما نزل بهؤلاء الذين خالفوا أمرنا وعبدوا غيرنا. وقوله: { وأنْذِرْ عَشِيرَتَكَ
-  الأقْرَبِـينَ } يقول جلّ ثناؤه لنبـيه مـحمد صلى الله عليه وسلم: وأنذر عشيرتك من
-  قومك الأقربـين إلـيك قرابة، وحذّرهم من عذابنا أن ينزل بهم بكفرهم.وذُكر أن هذه الآية
-  لـما نزلت، بدأ ببنـي جده عبد الـمطلب وولده، فحذّرهم وأنذرهم. ذكر الرواية بذلك:حدثنـي
-  أحمد بن الـمقدام، قال: ثنا مـحمد بن عبد الرحمن، قال: ثنا هشام بن عروة، عن أبـيه،
-  عن عائشة قالت: لـما نزلت هذه الآية: { وأَنْذِرْ عَشِيرَتَكَ الأقْرَبِـينَ } قال
-  رسول الله صلى الله عليه وسلم: \" يا صَفِـيَّةُ بِنْتَ عَبْدِ الـمُطَّلِبِ، يا فـاطِمَةُ
-  بِنْتَ مْـحَمَّد يا بَنِـي عَبْد الـمُطَّلِبِ إنّـي لا أمْلِكُ لَكُمْ مِنَ اللَّهِ
-  شَيْئاً، سَلُونِـي مِنْ مالـي ما شِئْتُـمْ \" حدثنا ابن وكيع، قال: ثنـي أبـي ويونس
-  بن بكير، عن هشام بن عروة، عن أبـيه، عن عائشة، عن رسول الله صلى الله عليه وسلم، بنـحوه.حدثنا
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(26, 213)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(26,213)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">فَلاَ
+  تَدْعُ مَعَ ٱللَّهِ إِلَـٰهاً آخَرَ فَتَكُونَ مِنَ ٱلْمُعَذَّبِينَ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَأَنذِرْ
+  عَشِيرَتَكَ ٱلأَقْرَبِينَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">وَٱخْفِضْ جَنَاحَكَ لِمَنِ ٱتَّبَعَكَ مِنَ
+  ٱلْمُؤْمِنِينَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">يقول تعالـى ذكره لنبـيه مـحمد صلى
+  الله عليه وسلم: { فَلا تَدْعُ } يا مـحمد { مَعَ اللَّهِ إلَها آخَرَ }: أي لا تعبد
+  معه معبوداً غيره { فَتكُونَ مِنَ الـمُعَذَّبِـينَ } فـينزل بك من العذاب ما نزل بهؤلاء
+  الذين خالفوا أمرنا وعبدوا غيرنا. وقوله: { وأنْذِرْ عَشِيرَتَكَ الأقْرَبِـينَ } يقول
+  جلّ ثناؤه لنبـيه مـحمد صلى الله عليه وسلم: وأنذر عشيرتك من قومك الأقربـين إلـيك
+  قرابة، وحذّرهم من عذابنا أن ينزل بهم بكفرهم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وذُكر
+  أن هذه الآية لـما نزلت، بدأ ببنـي جده عبد الـمطلب وولده، فحذّرهم وأنذرهم. ذكر الرواية
+  بذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي أحمد بن الـمقدام، قال: ثنا
+  مـحمد بن عبد الرحمن، قال: ثنا هشام بن عروة، عن أبـيه، عن عائشة قالت: لـما نزلت هذه
+  الآية: { وأَنْذِرْ عَشِيرَتَكَ الأقْرَبِـينَ } قال رسول الله صلى الله عليه وسلم:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" يا صَفِـيَّةُ بِنْتَ عَبْدِ الـمُطَّلِبِ،
+  يا فـاطِمَةُ بِنْتَ مْـحَمَّد يا بَنِـي عَبْد الـمُطَّلِبِ إنّـي لا أمْلِكُ لَكُمْ
+  مِنَ اللَّهِ شَيْئاً، سَلُونِـي مِنْ مالـي ما شِئْتُـمْ \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن وكيع، قال: ثنـي أبـي ويونس بن بكير، عن هشام بن عروة، عن
+  أبـيه، عن عائشة، عن رسول الله صلى الله عليه وسلم، بنـحوه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
   ابن حميد، قال: ثنا حكام، قال: ثنا عنبسة، عن هشام بن عروة، عن أبـيه، قال: لـما نزلت
-  { وأَنْذِرْ عَشِيرَتَكَ الأَقْرَبِـينَ } قام النبـيّ صلى الله عليه وسلم فقال: \"
-  يا فـاطِمَةُ بِنْتُ مُـحَمَّدٍ، وَيا صَفِـيَّةُ ابْنَةَ عَبْدِ الـمطَّلِبِ \" ثم
-  ذكر نـحو حديث ابن الـمقدام.حدثنـي يونس بن عبد الأعلـى، قال: ثنا سلامة، قال: قال
-  عقـيـل: ثنـي الزهري، قال: قال سعيد بن الـمسيب، وأبو سلـمة بن عبد الرحمن: إن أبـا
-  هريرة قال: قال رسول الله صلى الله عليه وسلم حين أنزل علـيه { وأَنْذِرْ عَشِيرَتَكَ
-  الأَقْرَبِـينَ }: \" يا مَعْشَرَ قُرَيْشٍ اشْتَرُوا أنْفُسَكُمْ مِنَ اللَّهِ، لا
-  أُغْنِـي عَنْكُمْ مِنَ اللَّهِ شَيْئاً، يا بَنِـي عَبْدِ مَنافٍ لا أُغْنِـي عَنْكُمْ
-  مِنَ اللَّهِ شَيْئاً، يا عَبَّـاسُ بَنَ عَبْدِ الـمُطَّلبِ لا أُغْنِـي عَنْكَ مِنَ
-  اللَّهِ شَيْئاً، يا فـاطِمَةُ بِنْتَ رَسُولِ الله لا أُغْنِـي عَنْكِ مِنَ اللَّهِ
-  شَيْئاً، سَلِـيِنـي ما شِئْتِ، لا أُغْنـي عَنْكِ مِنَ اللَّهِ شَيْئاً \" » حدثنـي
-  مـحمد بن عبد الـملك، قال: ثنا أبو الـيـمان، قال: أخبرنا شُعيب عن الزهري، قال: أخبرنـي
-  سعيد بن الـمسيب وأبو سلـمة بن عبد الرحمن أن أبـا هريرة قال: قال رسول الله صلى الله
-  عليه وسلم حين أُنزل علـيه: { وأنْذِرْ عَشِيرَتَكَ الأَقْرَبِـينَ } قال: \" يا مَعْشَرَ
-  قُرَيْشٍ اشْتَرُوا أنْفُسَكُمْ مِنَ اللَّهِ \" ثم ذكر نـحو حديث يونس، عن سلامة غير
-  أنه زاد فـيه \" يا صَفِـيَّةُ عَمَّةَ رَسُولِ اللَّهِ لا أُغْنِـي عَنْكِ مِنَ اللَّهِ
-  شَيْئاً \" \r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ فَلاَ تَدْعُ مَعَ ٱللَّهِ إِلَـٰهاً
-  آخَرَ فَتَكُونَ مِنَ ٱلْمُعَذَّبِينَ } * { وَأَنذِرْ عَشِيرَتَكَ ٱلأَقْرَبِينَ }
-  * { وَٱخْفِضْ جَنَاحَكَ لِمَنِ ٱتَّبَعَكَ مِنَ ٱلْمُؤْمِنِينَ }  ولـم يذكر فـي حديثه
-  فـاطمة.حدثنـي يونس، قال: ثنا سلامة بن روح، قال: قال عقـيـل: ثنـي ابن شهاب أن رسول
-  الله صلى الله عليه وسلم لـما أنزل علـيه { وأَنْذِرْ عَشِيرَتَكَ الأَقْرَبِـينَ }
-  جمع قريشاً، ثم أتاهم، فقال لهم: \" هَلْ فِـيكُمْ غَرِيبٌ؟ \" فقالوا: لا إلا ابن
-  أخت لنا لا نراه إلا منا، قال: \" إنَّهُ مِنْكُمْ \" ، فوعظهم رسول الله صلى الله
-  عليه وسلم، ثم قال لهم فـي آخر كلامه: \" لا أعْرِفَنَّ ما وَرَدَ علـى النَّاسِ يَوْمَ
-  القِـيامَةِ يَسُوقُونَ الآخِرَةَ، وَجِئْتُـمْ إلـيَّ تَسُوقُونَ الدُّنْـيا \" حدثنـي
-  يونس، قال: أخبرنـي يونس، عن ابن شهاب، أخبرنـي سعيد بن الـمسيب وأبو سلـمة بن عبد
-  الرحمن، أن أبـا هريرة قال: قال رسول الله صلى الله عليه وسلم حين أُنزل علـيه { وأنْذِرْ
-  عَشِيرَتَكَ الأَقْرَبِـينَ }: \" يا مَعْشَرَ قُرَيْشٍ اشْتَرُوا أنْفُسَكُمْ مِنَ
-  اللَّهِ لا أُغْنِـي عَنْكُمْ مِنَ اللَّهِ شَيْئاً، يا بَنِـي عَبْدِ الـمُطَّلِبِ
-  لا أُغْنِـي عَنْكُمْ مِنَ اللَّهِ شَيْئاً، يا عَبَّـاسُ بْنَ عَبْدِ الـمطَّلِبِ
-  لا أُغْنِـي عَنْكَ مِنَ اللَّهِ شَيْئاً، يا صَفِـيَّةُ عَمَّةَ رَسُولِ اللَّهِ لا
-  أُغْنِـي عَنْكِ مِنَ اللَّهِ شِيْئاً، يا فـاطِمَةُ بِنْتَ مُـحَمَّد سَلِـيِنـي ما
-  شِئْتِ لا أُغْنِـي عَنْكِ مِنَ اللَّهِ شَيْئاً \" حدثنا ابن عبد الأعلـى، قال: ثنا
-  الـمعتـمر، قال: سمعت الـحجاج يحدّث، عن عبد الـملك بن عمير، عن موسى بن طلـحة، عن
-  أبـي هريرة، عن النبـيّ صلى الله عليه وسلم أنه قال: لـما أنزل الله: { وأنْذِرْ عَشِيرَتَكَ
-  الأَقْرَبِـينَ } قال نبـيّ الله صلى الله عليه وسلم: \" يا مَعْشَرَ قُرَيْش أنْقِذُوا
-  أنْفُسَكُمْ مِنَ النَّار، يا فـاطِمَةُ بِنْتَ مُـحَمَّدٍ أنْقِذِي نَفْسَكِ مِنَ
-  النَّار، ألا إنَّ لَكُمْ رَحِماً سأبلُّها ببِلالها \" حدثنا أبو كُرَيب، قال: ثنا
-  أبو أسامة، عن زائدة، عن عبد الـملك بن عمير، عن موسى بن طلـحة، عن أبـي هريرة، قال:
-  لـما نَزَلت هذه الآية: { وأنْذِرْ عَشِيرَتَكَ الأَقْرَبِـينَ } دعا رسول الله صلى
-  الله عليه وسلم قريشا، فعَّم وخَصّ، فقال: \" يا مَعْشَرَ قُرَيْشٍ اشْتَرُوا أنْفُسَكُمْ
-  مِنَ اللَّهِ، يا مَعْشَرَ بَنِـي كَعْبٍ بْنِ لُؤَيّ، يا مَعْشَرَ بَنِـي عَبْدَ منافٍ،
-  يا مَعْشَرَ بَنِـي هاشِمٍ، يا مَعْشَرَ بَنِـي عَبْدِ الـمُطَّلِبِ \" ، يقول لكلهم:
-  \" أنْقِذُوا أنْفُسَكُمْ مِنَ النَّارِ، يا فـاطِمَةُ بِنْتِ مُـحَمَّدٍ أنْقِذِي
-  نَفْسَكِ مِنَ النَّارِ، فإنـي وَاللَّهِ ما أمْلِكُ لَكُمْ مِنَ اللَّهِ شَيْئاً،
-  ألا إنَّ لَكُمْ رَحِما سأبلُّها ببِلالها \" حدثنا ابن عبد الأعلـى، قال: ثنا الـمعتـمر،
-  عن أبـيه، قال: ثنا أبو عثمان، عن زُهير بن عمرو وقَبـيصة بن مُخارق: أنهما قالا: أَنزل
-  الله علـى نبـيّ الله صلى الله عليه وسلم: { وأنْذِرْ عَشِيرَتَكَ الأَقْرَبِـينَ }
-  ، فحدِّثنا عن نبـيّ الله صلى الله عليه وسلم أنه علا صخرة من جبل، فعلا أعلاها حَجَراً،
-  ثم قال:\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ فَلاَ تَدْعُ مَعَ ٱللَّهِ إِلَـٰهاً
-  آخَرَ فَتَكُونَ مِنَ ٱلْمُعَذَّبِينَ } * { وَأَنذِرْ عَشِيرَتَكَ ٱلأَقْرَبِينَ }
-  * { وَٱخْفِضْ جَنَاحَكَ لِمَنِ ٱتَّبَعَكَ مِنَ ٱلْمُؤْمِنِينَ } \" يا آلَ عَبْدِ
-  مَنافـاه، يا صَبـاحاه، إنّـي نَذِيرٌ، إنَّ مَثَلِـي وَمَثَلُكُمْ مَثَلُ رَجُلٍ أَتـى
-  الـجَيْشَ، فَخَشِيَهُمْ عَلـى أهْلِهِ، فَذَهَبَ يَرْبَؤُههمْ، فَخَشِيَ أنْ يَسْبِقُوهُ
-  إلـى أهْلِهِ، فَجَعَلَ يَهْتِفُ بِهِمْ: يا صَبـاحاه \" أو كما قال.حدثنا مـحمد بن
-  بشار، قال: ثنا عبد الوهاب ومـحمد بن جعفر، عن عوف، عن قَسامة بن زهير، قال: بلغنـي
-  أنه لـما نزل علـى رسول الله صلى الله عليه وسلم { وأنْذِرْ عَشِيرَتَكَ الأَقْرَبِـينَ
-  } جاء فوضع أصبعه فـي أذنه، ورفع من صوته، وقال: \" يا بَنِـي عَبْدِ مَنافٍ وَاصَبـاحاهُ
-  \" قال: ثنـي أبو عاصم، قال: ثنا عوف، عن قسامة بن زهير، قال: أظنه عن الأشعريّ، عن
-  النبـيّ صلى الله عليه وسلم، بنـحوه.حدثنـي عبد الله بن أبـي زياد، قال: ثنا أبو زيد
-  الأنصاريّ سعد بن أوس، عن عوف، قال: قال قسامة بن زهير، حدثنـي الأشعريّ، قال: لـما
-  نزلت، ثم ذكر نـحوه إلا أنه قال: وضع أصبعيه فـي أذنـيه.حدثنا أبو كُرَيب، قال: ثنا
-  ابن نُـمير، عن الأعمش، عن عمرو بن مرّة، عن سعيد بن جُبـير، عن ابن عبـاس، قال: لـما
-  نزلت هذه الآية { وأنْذِرْ عَشِيرَتَكَ الأَقْرَبِـينَ } قام رسول الله صلى الله عليه
-  وسلم علـى الصفـا، ثم نادى: \" يا صَبـاحاهُ \" ، فـاجتـمع الناس إلـيه، فبـينَ رجل
-  يجيء، وبـين آخر يبعث رسوله، فقال: \" يا بَنِـي هاشِمٍ، يا بَنِـي عَبْدِ الـمُطَّلبِ،
-  يا بَنِـي فِهْرٍ، يا بَنِـي يا بَنِـي، أرأيْتَكُمْ لَوْ أخْبَرْتُكُمْ أنَّ خَيْلاًً
-  بِسَفْحِ هَذَا الـجَبَلِ تُرِيدُ أنْ تُغِيرَ عَلَـيْكُمْ صَدَّقْتُـمُونِـي؟ \" قالوا:
-  نعم، قالَ: \" فإنّـي نَذِيرٌ لَكُمْ بـينَ يَدَيْ عَذَابٍ شَدِيدٍ \" فقال أبو لهب:
-  تَبًّـا لكم سائَر الـيوم، ما دعوتـمونـي إلا لهذا؟ فنزلت:{ تَبَّتْ يَدَا أبِـي لَهَبِ
-  وَتَبَّ }حدثنا أبو كُرَيب وأبو السائب، قالا: ثنا أبو معاوية، عن الأعمش، عن عمرو
-  بن مُرّة، عن سعيد بن جبـير، عن ابن عبـاس، قال: صَعِد رسول الله صلى الله عليه وسلم
-  ذات يوم الصفـا، فقال: \" يا صبـاحاهُ \" فـاجتـمعت إلـيه قريش، فقالوا له: مالَك؟
-  فقال: \" أرأيْتَكُمْ إنْ أخْبَرْتُكُمْ أنَّ العَدُوَّ مُصَبِّحُكُمْ أوْ مـمَسِّيكُمْ
-  ألا كُنْتُـمْ تُصَدّقونَنِـي؟ \" قالوا: بلـى، قال: \" فإنّـي نَذِيرٌ لَكُمْ بـينَ
-  يَدَيْ عَذَابٍ شَدِيدٍ \" قال أبو لهب: تَبًّـا لك، ألهذا دعوتنا أو جمعتنا، فأنزل
-  الله:{ تَبَّتْ يَدَا أبـي لَهَب... }إلـى آخر السورة.حدثنا أبو كُرَيب، قال: ثنا أبو
+  { وأَنْذِرْ عَشِيرَتَكَ الأَقْرَبِـينَ } قام النبـيّ صلى الله عليه وسلم فقال:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" يا فـاطِمَةُ بِنْتُ مُـحَمَّدٍ،
+  وَيا صَفِـيَّةُ ابْنَةَ عَبْدِ الـمطَّلِبِ \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">ثم ذكر نـحو حديث ابن الـمقدام.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  يونس بن عبد الأعلـى، قال: ثنا سلامة، قال: قال عقـيـل: ثنـي الزهري، قال: قال سعيد
+  بن الـمسيب، وأبو سلـمة بن عبد الرحمن: إن أبـا هريرة قال: قال رسول الله صلى الله
+  عليه وسلم حين أنزل علـيه { وأَنْذِرْ عَشِيرَتَكَ الأَقْرَبِـينَ }:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" يا مَعْشَرَ قُرَيْشٍ اشْتَرُوا
+  أنْفُسَكُمْ مِنَ اللَّهِ، لا أُغْنِـي عَنْكُمْ مِنَ اللَّهِ شَيْئاً، يا بَنِـي عَبْدِ
+  مَنافٍ لا أُغْنِـي عَنْكُمْ مِنَ اللَّهِ شَيْئاً، يا عَبَّـاسُ بَنَ عَبْدِ الـمُطَّلبِ
+  لا أُغْنِـي عَنْكَ مِنَ اللَّهِ شَيْئاً، يا فـاطِمَةُ بِنْتَ رَسُولِ الله لا أُغْنِـي
+  عَنْكِ مِنَ اللَّهِ شَيْئاً، سَلِـيِنـي ما شِئْتِ، لا أُغْنـي عَنْكِ مِنَ اللَّهِ
+  شَيْئاً \" </font></font></b><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">» حدثنـي مـحمد بن عبد الـملك، قال:
+  ثنا أبو الـيـمان، قال: أخبرنا شُعيب عن الزهري، قال: أخبرنـي سعيد بن الـمسيب وأبو
+  سلـمة بن عبد الرحمن أن أبـا هريرة قال: قال رسول الله صلى الله عليه وسلم حين أُنزل
+  علـيه: { وأنْذِرْ عَشِيرَتَكَ الأَقْرَبِـينَ } قال:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" يا مَعْشَرَ قُرَيْشٍ اشْتَرُوا أنْفُسَكُمْ مِنَ اللَّهِ \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\">ثم ذكر نـحو حديث يونس، عن سلامة
+  غير أنه زاد فـيه</font></font><b><font class=\"TextResultArabic\"><font color=\"Red\">
+  \" يا صَفِـيَّةُ عَمَّةَ رَسُولِ اللَّهِ لا أُغْنِـي عَنْكِ مِنَ اللَّهِ شَيْئاً
+  \" </font></font></b>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\"
+  border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE:
+  none; BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(26, 213)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(26,213)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">فَلاَ تَدْعُ مَعَ ٱللَّهِ إِلَـٰهاً آخَرَ فَتَكُونَ
+  مِنَ ٱلْمُعَذَّبِينَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">وَأَنذِرْ عَشِيرَتَكَ ٱلأَقْرَبِينَ</a> <b>}
+  * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَٱخْفِضْ
+  جَنَاحَكَ لِمَنِ ٱتَّبَعَكَ مِنَ ٱلْمُؤْمِنِينَ</a> <b>}</b></font>, <br/>, <br/>,
+  <div align=\"right\" dir=\"rtl\"><b><font class=\"TextResultArabic\"><font color=\"Red\">
+  \ </font></font></b><font class=\"TextResultArabic\"><font color=\"black\">ولـم
+  يذكر فـي حديثه فـاطمة.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي يونس، قال: ثنا سلامة بن
+  روح، قال: قال عقـيـل: ثنـي ابن شهاب أن رسول الله صلى الله عليه وسلم لـما أنزل علـيه
+  { وأَنْذِرْ عَشِيرَتَكَ الأَقْرَبِـينَ } جمع قريشاً، ثم أتاهم، فقال لهم:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" هَلْ فِـيكُمْ غَرِيبٌ؟ \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\">فقالوا: لا إلا ابن أخت لنا لا نراه
+  إلا منا، قال:</font></font><b><font class=\"TextResultArabic\"><font color=\"Red\">
+  \" إنَّهُ مِنْكُمْ \" </font></font></b><font class=\"TextResultArabic\"><font color=\"black\">،
+  فوعظهم رسول الله صلى الله عليه وسلم، ثم قال لهم فـي آخر كلامه:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" لا أعْرِفَنَّ ما وَرَدَ علـى
+  النَّاسِ يَوْمَ القِـيامَةِ يَسُوقُونَ الآخِرَةَ، وَجِئْتُـمْ إلـيَّ تَسُوقُونَ
+  الدُّنْـيا \" </font></font></b><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي يونس، قال: أخبرنـي يونس،
+  عن ابن شهاب، أخبرنـي سعيد بن الـمسيب وأبو سلـمة بن عبد الرحمن، أن أبـا هريرة قال:
+  قال رسول الله صلى الله عليه وسلم حين أُنزل علـيه { وأنْذِرْ عَشِيرَتَكَ الأَقْرَبِـينَ
+  }:</font></font><b><font class=\"TextResultArabic\"><font color=\"Red\"> \" يا مَعْشَرَ
+  قُرَيْشٍ اشْتَرُوا أنْفُسَكُمْ مِنَ اللَّهِ لا أُغْنِـي عَنْكُمْ مِنَ اللَّهِ شَيْئاً،
+  يا بَنِـي عَبْدِ الـمُطَّلِبِ لا أُغْنِـي عَنْكُمْ مِنَ اللَّهِ شَيْئاً، يا عَبَّـاسُ
+  بْنَ عَبْدِ الـمطَّلِبِ لا أُغْنِـي عَنْكَ مِنَ اللَّهِ شَيْئاً، يا صَفِـيَّةُ عَمَّةَ
+  رَسُولِ اللَّهِ لا أُغْنِـي عَنْكِ مِنَ اللَّهِ شِيْئاً، يا فـاطِمَةُ بِنْتَ مُـحَمَّد
+  سَلِـيِنـي ما شِئْتِ لا أُغْنِـي عَنْكِ مِنَ اللَّهِ شَيْئاً \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن عبد الأعلـى، قال: ثنا الـمعتـمر، قال: سمعت الـحجاج يحدّث،
+  عن عبد الـملك بن عمير، عن موسى بن طلـحة، عن أبـي هريرة، عن النبـيّ صلى الله عليه
+  وسلم أنه قال: لـما أنزل الله: { وأنْذِرْ عَشِيرَتَكَ الأَقْرَبِـينَ } قال نبـيّ
+  الله صلى الله عليه وسلم:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" يا مَعْشَرَ قُرَيْش أنْقِذُوا أنْفُسَكُمْ مِنَ النَّار، يا فـاطِمَةُ
+  بِنْتَ مُـحَمَّدٍ أنْقِذِي نَفْسَكِ مِنَ النَّار، ألا إنَّ لَكُمْ رَحِماً سأبلُّها
+  ببِلالها \" </font></font></b><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا أبو كُرَيب، قال: ثنا أبو
+  أسامة، عن زائدة، عن عبد الـملك بن عمير، عن موسى بن طلـحة، عن أبـي هريرة، قال: لـما
+  نَزَلت هذه الآية: { وأنْذِرْ عَشِيرَتَكَ الأَقْرَبِـينَ } دعا رسول الله صلى الله
+  عليه وسلم قريشا، فعَّم وخَصّ، فقال:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" يا مَعْشَرَ قُرَيْشٍ اشْتَرُوا أنْفُسَكُمْ مِنَ اللَّهِ، يا مَعْشَرَ
+  بَنِـي كَعْبٍ بْنِ لُؤَيّ، يا مَعْشَرَ بَنِـي عَبْدَ منافٍ، يا مَعْشَرَ بَنِـي هاشِمٍ،
+  يا مَعْشَرَ بَنِـي عَبْدِ الـمُطَّلِبِ \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">، يقول لكلهم:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" أنْقِذُوا أنْفُسَكُمْ مِنَ النَّارِ، يا فـاطِمَةُ بِنْتِ مُـحَمَّدٍ
+  أنْقِذِي نَفْسَكِ مِنَ النَّارِ، فإنـي وَاللَّهِ ما أمْلِكُ لَكُمْ مِنَ اللَّهِ
+  شَيْئاً، ألا إنَّ لَكُمْ رَحِما سأبلُّها ببِلالها \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن عبد الأعلـى، قال: ثنا الـمعتـمر، عن أبـيه، قال: ثنا أبو عثمان، عن زُهير بن عمرو
+  وقَبـيصة بن مُخارق: أنهما قالا: أَنزل الله علـى نبـيّ الله صلى الله عليه وسلم: {
+  وأنْذِرْ عَشِيرَتَكَ الأَقْرَبِـينَ } ، فحدِّثنا عن نبـيّ الله صلى الله عليه وسلم
+  أنه علا صخرة من جبل، فعلا أعلاها حَجَراً، ثم قال:</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(26, 213)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(26,213)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">فَلاَ تَدْعُ مَعَ ٱللَّهِ إِلَـٰهاً آخَرَ فَتَكُونَ
+  مِنَ ٱلْمُعَذَّبِينَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">وَأَنذِرْ عَشِيرَتَكَ ٱلأَقْرَبِينَ</a> <b>}
+  * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَٱخْفِضْ
+  جَنَاحَكَ لِمَنِ ٱتَّبَعَكَ مِنَ ٱلْمُؤْمِنِينَ</a> <b>}</b></font>, <br/>, <br/>,
+  <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\"/></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" يا آلَ عَبْدِ مَنافـاه، يا صَبـاحاه،
+  إنّـي نَذِيرٌ، إنَّ مَثَلِـي وَمَثَلُكُمْ مَثَلُ رَجُلٍ أَتـى الـجَيْشَ، فَخَشِيَهُمْ
+  عَلـى أهْلِهِ، فَذَهَبَ يَرْبَؤُههمْ، فَخَشِيَ أنْ يَسْبِقُوهُ إلـى أهْلِهِ، فَجَعَلَ
+  يَهْتِفُ بِهِمْ: يا صَبـاحاه \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">أو كما قال.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  مـحمد بن بشار، قال: ثنا عبد الوهاب ومـحمد بن جعفر، عن عوف، عن قَسامة بن زهير، قال:
+  بلغنـي أنه لـما نزل علـى رسول الله صلى الله عليه وسلم { وأنْذِرْ عَشِيرَتَكَ الأَقْرَبِـينَ
+  } جاء فوضع أصبعه فـي أذنه، ورفع من صوته، وقال:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" يا بَنِـي عَبْدِ مَنافٍ وَاصَبـاحاهُ \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قال: ثنـي أبو عاصم، قال: ثنا عوف، عن قسامة بن زهير، قال: أظنه عن
+  الأشعريّ، عن النبـيّ صلى الله عليه وسلم، بنـحوه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  عبد الله بن أبـي زياد، قال: ثنا أبو زيد الأنصاريّ سعد بن أوس، عن عوف، قال: قال قسامة
+  بن زهير، حدثنـي الأشعريّ، قال: لـما نزلت، ثم ذكر نـحوه إلا أنه قال: وضع أصبعيه فـي
+  أذنـيه.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا أبو كُرَيب، قال: ثنا ابن
+  نُـمير، عن الأعمش، عن عمرو بن مرّة، عن سعيد بن جُبـير، عن ابن عبـاس، قال: لـما نزلت
+  هذه الآية { وأنْذِرْ عَشِيرَتَكَ الأَقْرَبِـينَ } قام رسول الله صلى الله عليه وسلم
+  علـى الصفـا، ثم نادى:</font></font><b><font class=\"TextResultArabic\"><font color=\"Red\">
+  \" يا صَبـاحاهُ \" </font></font></b><font class=\"TextResultArabic\"><font color=\"black\">،
+  فـاجتـمع الناس إلـيه، فبـينَ رجل يجيء، وبـين آخر يبعث رسوله، فقال:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" يا بَنِـي هاشِمٍ، يا بَنِـي عَبْدِ
+  الـمُطَّلبِ، يا بَنِـي فِهْرٍ، يا بَنِـي يا بَنِـي، أرأيْتَكُمْ لَوْ أخْبَرْتُكُمْ
+  أنَّ خَيْلاًً بِسَفْحِ هَذَا الـجَبَلِ تُرِيدُ أنْ تُغِيرَ عَلَـيْكُمْ صَدَّقْتُـمُونِـي؟
+  \" </font></font></b><font class=\"TextResultArabic\"><font color=\"black\">قالوا:
+  نعم، قالَ:</font></font><b><font class=\"TextResultArabic\"><font color=\"Red\">
+  \" فإنّـي نَذِيرٌ لَكُمْ بـينَ يَدَيْ عَذَابٍ شَدِيدٍ \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\">فقال أبو لهب: تَبًّـا لكم سائَر
+  الـيوم، ما دعوتـمونـي إلا لهذا؟ فنزلت:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">تَبَّتْ يَدَا أبِـي لَهَبِ وَتَبَّ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا أبو كُرَيب وأبو السائب، قالا:
+  ثنا أبو معاوية، عن الأعمش، عن عمرو بن مُرّة، عن سعيد بن جبـير، عن ابن عبـاس، قال:
+  صَعِد رسول الله صلى الله عليه وسلم ذات يوم الصفـا، فقال:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" يا صبـاحاهُ \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">فـاجتـمعت إلـيه قريش، فقالوا له: مالَك؟ فقال:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" أرأيْتَكُمْ إنْ أخْبَرْتُكُمْ
+  أنَّ العَدُوَّ مُصَبِّحُكُمْ أوْ مـمَسِّيكُمْ ألا كُنْتُـمْ تُصَدّقونَنِـي؟ \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\">قالوا: بلـى، قال:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" فإنّـي نَذِيرٌ لَكُمْ بـينَ يَدَيْ
+  عَذَابٍ شَدِيدٍ \" </font></font></b><font class=\"TextResultArabic\"><font color=\"black\">قال
+  أبو لهب: تَبًّـا لك، ألهذا دعوتنا أو جمعتنا، فأنزل الله:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">تَبَّتْ يَدَا أبـي لَهَب...</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">إلـى
+  آخر السورة.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا أبو كُرَيب، قال: ثنا أبو
   أُسامة، عن الأعمش، عن عمرو بن مُرّة، عن سعيد بن جُبَـير، عن ابن عبـاس، قال: لـمّا
   نزلت هذه الآية: { وأنْذِرْ عَشِيرَتَكَ الأَقْرَبِـينَ } ورهطك منهم الـمخـلصين، خرج
-  رسول الله صلى الله عليه وسلم حتـى صَعِد الصفـا، فهتف:\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ فَلاَ تَدْعُ مَعَ ٱللَّهِ إِلَـٰهاً
-  آخَرَ فَتَكُونَ مِنَ ٱلْمُعَذَّبِينَ } * { وَأَنذِرْ عَشِيرَتَكَ ٱلأَقْرَبِينَ }
-  * { وَٱخْفِضْ جَنَاحَكَ لِمَنِ ٱتَّبَعَكَ مِنَ ٱلْمُؤْمِنِينَ } \" يا صَبـاحاهُ
-  \" فقالوا: من هذا الذي يهتف؟ فقالوا: مـحمد، فـاجتـمعوا إلـيه، فقال: \" يا بَنِـي
-  فُلانٍ، يا بَنِـي فُلانً، يا بَنِـي عَبدِ الـمُطَّلِبِ، يا بَنِـي عَبْدِ مَنافٍ
-  \" ، فـاجتـمعوا إلـيه، فقال: \" أَرَأَيْتَكُمْ إنْ أخْبَرْتُكُمْ أنَّ خَيْلاًً تَـخْرُجُ
-  بِسَفْحِ هَذَا الـجَبَلِ أكُنْتُـمْ مُصَدِّقـيّ؟ \" قالُوا: ما جرّبنا علـيك كذبـا،
-  قال: \" فإنـي نَذِيرٌ لَكُمْ بـينَ يَدَيْ عَذَابٍ شَدِيدٍ \" ، فقال أبو لهب: تبـا
-  لك، ما جمعتنا إلا لهذا؟ ثم قام فنزلت هذه السورة:{ تَبَّتْ يَدَا أبـي لَهَبٍ }وقد
-  تبّ، كذا قرأ الأعمش، إلـى آخر السورة.حدثنا أبو كُرَيب، قال: ثنا أبو معاوية بن هشام،
-  عن سفـيان، عن حبـيب، عن سعيد، عن ابن عبـاس، قال: لـما نزلت { وأنْذِرْ عَشِيرَتَكَ
-  الأَقْرَبِـينَ } خرج رسول الله صلى الله عليه وسلم، فقام علـى الصفـا، فقال: \" يا
-  صَبـاحاهُ \" قال: ثنا خالد بن عمرو، قال: ثنا سفـيان الثوريّ، عن حبـيب بن أبـي ثابت،
-  عن سعيد بن جُبَـير، عن ابن عبـاس، قال: لـما نزلت { وأنْذِرْ عَشِيرَتَكَ الأَقْرَبِـينَ
-  } ، قام رسول الله صلى الله عليه وسلم علـى الصفـا، فقال: \" يا صَبـاحاهُ \" فجعل
-  يُعَدِّدُهم: \" يا بَنِـي فُلانٍ، وَيا بَنِـي فُلانٍ، وَيا بَنِـي عَبْدِ مَنافٍ
-  \" حدثنا ابن حميد، قال: ثنا جرير، عن مغيرة، عن عمرو بن مرّة الـجَمَلـيّ، قال: لـما
-  نزلت: { وأنْذِرْ عَشِيرَتَكَ الأَقْرَبِـينَ } قال: أتـى جبلاً، فجعل يهتف: \" يا
-  صَبـاحاهُ \" ، فأتاه مَنْ خَفّ من الناس، وأرسل إلـيه الـمتثاقلون من الناس رُسُلاً،
-  فجعلوا يجيئون يتَّبعون الصوت فلـما انتهوا إلـيه قال: \" إنَّ مِنْكُمْ مَنْ جاءَ
-  لِـيَنْظُرَ، وَمِنْكُمْ مَنْ أَرْسلَ لـينظرَ مَن الهاتفُ \" ، فلـما اجتـمعوا وكثروا
-  قال: \" أرأيْتَكُمْ لَوْ أخْبَرْتُكُمْ أنَّ خَيْلاً مُصَبِّحَتُكُمْ مِنْ هَذَا الـجَبَل،
-  أكُنْتُـمْ مُصَدّقـيَّ؟ \" قالوا: نعم، ما جرّبنا علـيك كذبـا، فقرأ علـيهم هذه الآيات
-  التـي أنزلن، وأنذرهم كما أُمِر، فجعل ينادي: \" يا قُرَيْشُ، يا بَنِـي هاشِمٍ \"
-  حتـى قالَ: \" يا بَنِـي عَبْدِ الـمُطَّلِبِ، إنّـي نَذِيرٌ لَكُمْ بـينَ يَدَيْ عَذَابٍ
-  شَدِيدٍ \" حدثنا ابن حميد، قال: ثنا جرير، عن عمرو: أنه كان يقرأ: { وأنْذِرْ عَشِيرَتَكَ
-  الأَقْرَبِـينَ } ورَهْطَكَ الـمُخْـلِصين.قال: ثنا سَلَـمة، قال: ثنـي مـحمد بن إسحاق،
-  عن عبد الغفـار بن القاسم، عن الـمِنهال بن عمرو، عن عبد الله بن الـحارث بن نوفل بن
-  الـحارث بن عبد الـمطلب، عن عبد الله بن عبـاس، عن علـيّ بن أبـي طالب: لـما نزلت هذه
-  الآية علـى رسول الله صلى الله عليه وسلم { وأنْذِرْ عَشِيرَتَكَ الأَقْرَبِـينَ }
-  دعانـي رسول الله صلى الله عليه وسلم، فقال لـي: \" يا علـيُّ، إنَّ اللَّهَ أمَرَنِـي
-  أنْ أنْذِرْ عَشِيرَتِـي الأقْرَبِـينَ \" \r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ فَلاَ تَدْعُ مَعَ ٱللَّهِ إِلَـٰهاً
-  آخَرَ فَتَكُونَ مِنَ ٱلْمُعَذَّبِينَ } * { وَأَنذِرْ عَشِيرَتَكَ ٱلأَقْرَبِينَ }
-  * { وَٱخْفِضْ جَنَاحَكَ لِمَنِ ٱتَّبَعَكَ مِنَ ٱلْمُؤْمِنِينَ }  ، قال: \" فضقت
-  بذلك ذَرْعا، وعرفت أنى متـى ما أنادهم بهذا الأمر أَرَ منهم ما أكره، فصمتُّ حتـى
-  جاء جبرائيـل، فقال: يا مـحمد، إنك إلاّ تفعلْ ما تؤمر به يعذّبْك ربك. فـاصنع لنا
-  صاعا من طعام، واجعل علـيه رجل شاة، واملأ لنا عُسًّا من لبن، ثم اجمع لـي بنـي عبد
-  الـمطّلب، حتـى أكلـمَّهم، وأبلغهم ما أمرت به \" ، ففعلت ما أمرنـي به، ثم دعوتهم
-  له، وهم يومئذ أربعون رجلاً، يزيدون رجلاً أو ينقصونه، فـيهم أعمامه: أبو طالب، وحمزة،
-  والعبـاس، وأبو لهب فلـما اجتـمعوا إلـيه دعانـي بـالطعام الذي صنعت لهم، فجئت به.
-  فلـما وضعته تناول رسول الله صلى الله عليه وسلم حِذْية من اللـحم، فشقها بأسنانه،
-  ثم ألقاها فـي نواحي الصَّحفة، قال: \" خُذُوا بـاسم الله \" ، فأكل القوم حتـى ما
-  لهم بشيء حاجة، وما أرى إلا مواضع أيديهم وَايْـمُ الله الذي نفس علـيّ بـيده إن كان
-  الرجل الواحد لـيأكل ما قدَّمتُ لـجميعهم، ثم قال: \" اسْقِ النَّاسَ \" ، فجِئْتُهُمْ
-  بذلك العُسِّ، فشربوا حتـى رَوُوا منه جميعاً، وايـمُ الله إن كان الرجل الواحد منهم
-  لـيشرب مثله فلـما أراد رسول الله صلى الله عليه وسلم أن يكلـمهم، بَدَرَه أبو لهَب
-  إلـى الكلام، فقال: لَهَدَّ ما سحركم به صاحبكم، فتفرّق القوم ولـم يكلـمهم رسول الله
-  صلى الله عليه وسلم، فقال: \" الغَدَ يا علـيّ، إنَّ هَذَا الرَّجُلَ قَد سَبَقَنِـي
-  إلـى ما قَدْ سَمِعْتَ مِنَ القَوْلِ، فَتفرّق القوم قبلَ أنْ أُكَلِّـمَهُمْ، فَأعِدَّ
-  لَنا مِنَ الطَّعامِ مِثْلَ الَّذِي صَنَعْتَ، ثُمَّ اجمَعْهُمْ لـي \" ، قال: ففعلت
-  ثم جمعتهم، ثم دعانـي بـالطعام، فقرّبته لهم، ففعل كما فعل بـالأمس، فأكلوا حتـى ما
-  لهم بشيء حاجة، قال: \" اسْقِهِمْ \" ، فجئتهم بذلك العسّ فشربوا حتـى رَوُوا منه جميعاً،
-  ثم تكلـم رسول الله صلى الله عليه وسلم، فقال: \" يا بَنِـي عَبْدِ الـمُطلِبِ، إنّـي
-  وَاللَّهِ ما أعْلَـمُ شابـا فِـي العَرَبِ جاءَ قَوْمَهُ بأفْضَلَ مِـمَّا جِئْتُكُمْ
+  رسول الله صلى الله عليه وسلم حتـى صَعِد الصفـا، فهتف:</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">3 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(26, 213)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(26,213)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">فَلاَ تَدْعُ مَعَ ٱللَّهِ إِلَـٰهاً آخَرَ فَتَكُونَ
+  مِنَ ٱلْمُعَذَّبِينَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">وَأَنذِرْ عَشِيرَتَكَ ٱلأَقْرَبِينَ</a> <b>}
+  * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَٱخْفِضْ
+  جَنَاحَكَ لِمَنِ ٱتَّبَعَكَ مِنَ ٱلْمُؤْمِنِينَ</a> <b>}</b></font>, <br/>, <br/>,
+  <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\"/></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" يا صَبـاحاهُ \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\">فقالوا: من هذا الذي يهتف؟ فقالوا:
+  مـحمد، فـاجتـمعوا إلـيه، فقال:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" يا بَنِـي فُلانٍ، يا بَنِـي فُلانً، يا بَنِـي عَبدِ الـمُطَّلِبِ،
+  يا بَنِـي عَبْدِ مَنافٍ \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">، فـاجتـمعوا إلـيه، فقال:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" أَرَأَيْتَكُمْ إنْ أخْبَرْتُكُمْ أنَّ خَيْلاًً تَـخْرُجُ بِسَفْحِ
+  هَذَا الـجَبَلِ أكُنْتُـمْ مُصَدِّقـيّ؟ \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">قالُوا: ما جرّبنا علـيك كذبـا، قال:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" فإنـي نَذِيرٌ لَكُمْ بـينَ يَدَيْ عَذَابٍ شَدِيدٍ \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\">، فقال أبو لهب: تبـا لك، ما جمعتنا
+  إلا لهذا؟ ثم قام فنزلت هذه السورة:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">تَبَّتْ يَدَا أبـي لَهَبٍ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">وقد
+  تبّ، كذا قرأ الأعمش، إلـى آخر السورة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  أبو كُرَيب، قال: ثنا أبو معاوية بن هشام، عن سفـيان، عن حبـيب، عن سعيد، عن ابن عبـاس،
+  قال: لـما نزلت { وأنْذِرْ عَشِيرَتَكَ الأَقْرَبِـينَ } خرج رسول الله صلى الله عليه
+  وسلم، فقام علـى الصفـا، فقال:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" يا صَبـاحاهُ \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">قال: ثنا خالد بن عمرو، قال: ثنا سفـيان الثوريّ، عن حبـيب بن أبـي
+  ثابت، عن سعيد بن جُبَـير، عن ابن عبـاس، قال: لـما نزلت { وأنْذِرْ عَشِيرَتَكَ الأَقْرَبِـينَ
+  } ، قام رسول الله صلى الله عليه وسلم علـى الصفـا، فقال:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" يا صَبـاحاهُ \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">فجعل يُعَدِّدُهم:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" يا بَنِـي فُلانٍ، وَيا بَنِـي فُلانٍ، وَيا بَنِـي عَبْدِ مَنافٍ
+  \" </font></font></b><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن حميد، قال: ثنا جرير،
+  عن مغيرة، عن عمرو بن مرّة الـجَمَلـيّ، قال: لـما نزلت: { وأنْذِرْ عَشِيرَتَكَ الأَقْرَبِـينَ
+  } قال: أتـى جبلاً، فجعل يهتف:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" يا صَبـاحاهُ \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">، فأتاه مَنْ خَفّ من الناس، وأرسل إلـيه الـمتثاقلون من الناس رُسُلاً،
+  فجعلوا يجيئون يتَّبعون الصوت فلـما انتهوا إلـيه قال:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" إنَّ مِنْكُمْ مَنْ جاءَ لِـيَنْظُرَ، وَمِنْكُمْ مَنْ أَرْسلَ لـينظرَ
+  مَن الهاتفُ \" </font></font></b><font class=\"TextResultArabic\"><font color=\"black\">،
+  فلـما اجتـمعوا وكثروا قال:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" أرأيْتَكُمْ لَوْ أخْبَرْتُكُمْ أنَّ خَيْلاً مُصَبِّحَتُكُمْ مِنْ
+  هَذَا الـجَبَل، أكُنْتُـمْ مُصَدّقـيَّ؟ \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">قالوا: نعم، ما جرّبنا علـيك كذبـا، فقرأ علـيهم هذه الآيات التـي
+  أنزلن، وأنذرهم كما أُمِر، فجعل ينادي:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" يا قُرَيْشُ، يا بَنِـي هاشِمٍ \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">حتـى قالَ:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" يا بَنِـي عَبْدِ الـمُطَّلِبِ، إنّـي نَذِيرٌ لَكُمْ بـينَ يَدَيْ
+  عَذَابٍ شَدِيدٍ \" </font></font></b><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن حميد، قال: ثنا جرير،
+  عن عمرو: أنه كان يقرأ: { وأنْذِرْ عَشِيرَتَكَ الأَقْرَبِـينَ } ورَهْطَكَ الـمُخْـلِصين.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قال: ثنا سَلَـمة، قال: ثنـي مـحمد بن إسحاق، عن عبد الغفـار بن القاسم،
+  عن الـمِنهال بن عمرو، عن عبد الله بن الـحارث بن نوفل بن الـحارث بن عبد الـمطلب،
+  عن عبد الله بن عبـاس، عن علـيّ بن أبـي طالب: لـما نزلت هذه الآية علـى رسول الله
+  صلى الله عليه وسلم { وأنْذِرْ عَشِيرَتَكَ الأَقْرَبِـينَ } دعانـي رسول الله صلى
+  الله عليه وسلم، فقال لـي:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" يا علـيُّ، إنَّ اللَّهَ أمَرَنِـي أنْ أنْذِرْ عَشِيرَتِـي الأقْرَبِـينَ
+  \" </font></font></b>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">4 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(26, 213)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(26,213)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">فَلاَ تَدْعُ مَعَ ٱللَّهِ إِلَـٰهاً آخَرَ فَتَكُونَ
+  مِنَ ٱلْمُعَذَّبِينَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">وَأَنذِرْ عَشِيرَتَكَ ٱلأَقْرَبِينَ</a> <b>}
+  * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَٱخْفِضْ
+  جَنَاحَكَ لِمَنِ ٱتَّبَعَكَ مِنَ ٱلْمُؤْمِنِينَ</a> <b>}</b></font>, <br/>, <br/>,
+  <div align=\"right\" dir=\"rtl\"><b><font class=\"TextResultArabic\"><font color=\"Red\">
+  \ </font></font></b><font class=\"TextResultArabic\"><font color=\"black\">، قال:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" فضقت بذلك ذَرْعا، وعرفت أنى متـى
+  ما أنادهم بهذا الأمر أَرَ منهم ما أكره، فصمتُّ حتـى جاء جبرائيـل، فقال: يا مـحمد،
+  إنك إلاّ تفعلْ ما تؤمر به يعذّبْك ربك. فـاصنع لنا صاعا من طعام، واجعل علـيه رجل
+  شاة، واملأ لنا عُسًّا من لبن، ثم اجمع لـي بنـي عبد الـمطّلب، حتـى أكلـمَّهم، وأبلغهم
+  ما أمرت به \" </font></font></b><font class=\"TextResultArabic\"><font color=\"black\">،
+  ففعلت ما أمرنـي به، ثم دعوتهم له، وهم يومئذ أربعون رجلاً، يزيدون رجلاً أو ينقصونه،
+  فـيهم أعمامه: أبو طالب، وحمزة، والعبـاس، وأبو لهب فلـما اجتـمعوا إلـيه دعانـي بـالطعام
+  الذي صنعت لهم، فجئت به. فلـما وضعته تناول رسول الله صلى الله عليه وسلم حِذْية من
+  اللـحم، فشقها بأسنانه، ثم ألقاها فـي نواحي الصَّحفة، قال:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" خُذُوا بـاسم الله \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\">، فأكل القوم حتـى ما لهم بشيء حاجة،
+  وما أرى إلا مواضع أيديهم وَايْـمُ الله الذي نفس علـيّ بـيده إن كان الرجل الواحد
+  لـيأكل ما قدَّمتُ لـجميعهم، ثم قال:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" اسْقِ النَّاسَ \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">، فجِئْتُهُمْ بذلك العُسِّ، فشربوا حتـى رَوُوا منه جميعاً، وايـمُ
+  الله إن كان الرجل الواحد منهم لـيشرب مثله فلـما أراد رسول الله صلى الله عليه وسلم
+  أن يكلـمهم، بَدَرَه أبو لهَب إلـى الكلام، فقال: لَهَدَّ ما سحركم به صاحبكم، فتفرّق
+  القوم ولـم يكلـمهم رسول الله صلى الله عليه وسلم، فقال:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" الغَدَ يا علـيّ، إنَّ هَذَا الرَّجُلَ قَد سَبَقَنِـي إلـى ما قَدْ
+  سَمِعْتَ مِنَ القَوْلِ، فَتفرّق القوم قبلَ أنْ أُكَلِّـمَهُمْ، فَأعِدَّ لَنا مِنَ
+  الطَّعامِ مِثْلَ الَّذِي صَنَعْتَ، ثُمَّ اجمَعْهُمْ لـي \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\">، قال: ففعلت ثم جمعتهم، ثم دعانـي
+  بـالطعام، فقرّبته لهم، ففعل كما فعل بـالأمس، فأكلوا حتـى ما لهم بشيء حاجة، قال:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" اسْقِهِمْ \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\">، فجئتهم بذلك العسّ فشربوا حتـى
+  رَوُوا منه جميعاً، ثم تكلـم رسول الله صلى الله عليه وسلم، فقال:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" يا بَنِـي عَبْدِ الـمُطلِبِ،
+  إنّـي وَاللَّهِ ما أعْلَـمُ شابـا فِـي العَرَبِ جاءَ قَوْمَهُ بأفْضَلَ مِـمَّا جِئْتُكُمْ
   بِهِ، إنّـي قَدْ جِئْتُكُمْ بِخَيْرِ الدُّنْـيا والآخِرَةِ، وَقَدْ أمَرَنِـي اللَّهُ
   أنْ أدْعُوَكُمْ إلَـيْهِ، فَأيُّكُمْ يُؤَازِرُنِـي عَلـى هَذَا الأَمْرِ، عَلـى أنْ
-  يَكُونَ أخِي \" وكَذَ وكَذَا؟ قال: فأحجم القوم عنها جميعاً، وقلت وإنـي لأحدَثهم
-  سناً، وأرمصهم عيناً، وأعظمهم بطناً، وأخمشهم ساقاً. أنا يا نبـيّ الله أكونُ وزيرك،
-  فأخذ برقبتـي، ثم قال: \" إن هذا أخي \" وكذا وكذا، \" فـاسمعوا له وأطيعوا \" ، قال:
-  فقام القوم يضحكون، ويقولون لأبـي طالب: قد أمرك أن تسمع لابنك وتطيع.حدثنا ابن حميد،
-  قال: ثنا سلـمة، قال: ثنـي إسحاق، عن عمرو بن عبـيد، عن الـحسن بن أبـي الـحسن، قال:
-  لـما نزلت هذه الآية علـى رسول الله صلى الله عليه وسلم: { وأنْذِرْ عَشِيرَتَكَ الأَقْرَبِـينَ
-  } قام رسول الله صلى الله عليه وسلم بـالأبطح، ثم قال:\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ فَلاَ تَدْعُ مَعَ ٱللَّهِ إِلَـٰهاً
-  آخَرَ فَتَكُونَ مِنَ ٱلْمُعَذَّبِينَ } * { وَأَنذِرْ عَشِيرَتَكَ ٱلأَقْرَبِينَ }
-  * { وَٱخْفِضْ جَنَاحَكَ لِمَنِ ٱتَّبَعَكَ مِنَ ٱلْمُؤْمِنِينَ } \" يا بَنِـي عَبْدِ
-  الـمُطَّلِبِ، يا بَنِـي عَبْدِ مَنافٍ، يا بَنِـي قُصَيّ \" ، قال: ثم فَخَّذ قريشاً
-  قبـيـلة قبـيـلة، حتـى مرّ علـى آخرهم، \" إنّـي أدْعُوكُمْ إلـى اللَّهِ، وأُنْذِرُكُمْ
-  عَذَابَهُ \" حدثنـي مـحمد بن سعد، قال: ثنـي أبـي، قال: ثنـي عمي، قال: ثنـي أبـي،
-  عن أبـيه، عن ابن عبـاس، قوله { وأنْذِرْ عَشِيرَتَكَ الأَقْرَبِـينَ } قال: أُمِر
-  مـحمد أن ينذر قومه، ويبدأ بأهل بـيته وفصيـلته، قال:{ وَكَذَّبَ بِهِ قَوْمُكَ وَهُوَ
-  الـحَقُّ }حدثنا الـحسن، قال: أخبرنا عبد الرزاق، قال: أخبرنا مَعْمَر، عن هشام بن
-  عروة، عن أبـيه، قال: وَلـما نزلت: { وأنْذِرْ عَشِيرَتَكَ الأَقْرَبِـينَ } قال النبـيّ
-  صلى الله عليه وسلم: \" يا فـاطِمَةُ بِنْتُ مُـحَمَّدٍ، يا صَفِـيَّةُ بِنْتَ عَبْدِ
-  الـمُطَّلِبِ، اتَّقُوا النَّارَ وَلَوْ بِشِقّ تَـمْرَةٍ \" حُدثت عن الـحسين، قال:
-  سمعت أبـا معاذ يقول: أخبرنا عبـيد، قال: سمعت الضحاك يقول فـي قوله: { وأنْذِرْ عَشِيرَتَكَ
-  الأَقْرَبِـينَ } بدأ بأهل بـيته وفصيـلته.حدثنا الـحسن، قال: أخبرنا عبد الرزاق، قال:
-  أخبرنا معمر، عن قتادة، قال: لـما نزلت: { وأنْذِرْ عَشِيرَتَكَ الأَقْرَبِـينَ } جمع
-  النبـيّ صلى الله عليه وسلم بنـي هاشم، فقال: \" يا بنـي هاشم، ألا لا ألْفِـيَنَّكُمْ
-  تَأْتُونِـي تَـحْمِلُونَ الدُّنْـيا، وَيأتِـي النَّاسُ يَحْمِلُونَ الآخِرَةَ، ألا
-  إنَّ أوْلـيائي مِنْكُمُ الـمُتَّقُونَ، فـاتَّقُوا النَّارَ وَلَوْ بِشقّ تَـمْرَةٍ
-  \" حدثنا القاسم، قال: ثنا الـحسين، قال: ثنـي حجاج، عن ابن جُرَيج، قال: لـما نزلت
-  هذه الآية بدأ بأهل بـيته وفصيـلته قال: وشقّ ذلك علـى الـمسلـمين، فأنزل الله تعالـى:
-  { وَاخْفِضْ جَناحَكَ لَـمنِ اتَّبَعَكَ مِنَ الـمُؤْمِنِـينَ }.وقوله: { وَاخْفِضْ
-  جَناحَكَ } يقول: وألن جانبك وكلامك { لَـمِنَ اتَّبَعَكَ مِنَ الـمُؤْمِنِـينَ } كما.حدثنـي
-  يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، فـي قوله: { وَاخْفِضْ جَناحَكَ لَـمِنِ
-  اتَّبَعَكَ مِنَ الـمُؤْمِنِـينَ } قال: يقول: لِنْ لهم.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  يَكُونَ أخِي \" </font></font></b><font class=\"TextResultArabic\"><font color=\"black\">وكَذَ
+  وكَذَا؟ قال: فأحجم القوم عنها جميعاً، وقلت وإنـي لأحدَثهم سناً، وأرمصهم عيناً، وأعظمهم
+  بطناً، وأخمشهم ساقاً. أنا يا نبـيّ الله أكونُ وزيرك، فأخذ برقبتـي، ثم قال:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" إن هذا أخي \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\">وكذا وكذا،</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" فـاسمعوا له وأطيعوا \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\">، قال: فقام القوم يضحكون، ويقولون
+  لأبـي طالب: قد أمرك أن تسمع لابنك وتطيع.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن حميد، قال: ثنا سلـمة، قال: ثنـي إسحاق، عن عمرو بن عبـيد، عن الـحسن بن أبـي الـحسن،
+  قال: لـما نزلت هذه الآية علـى رسول الله صلى الله عليه وسلم: { وأنْذِرْ عَشِيرَتَكَ
+  الأَقْرَبِـينَ } قام رسول الله صلى الله عليه وسلم بـالأبطح، ثم قال:</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">5 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(26, 213)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(26,213)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">فَلاَ تَدْعُ مَعَ ٱللَّهِ إِلَـٰهاً آخَرَ فَتَكُونَ
+  مِنَ ٱلْمُعَذَّبِينَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">وَأَنذِرْ عَشِيرَتَكَ ٱلأَقْرَبِينَ</a> <b>}
+  * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَٱخْفِضْ
+  جَنَاحَكَ لِمَنِ ٱتَّبَعَكَ مِنَ ٱلْمُؤْمِنِينَ</a> <b>}</b></font>, <br/>, <br/>,
+  <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\"/></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" يا بَنِـي عَبْدِ الـمُطَّلِبِ،
+  يا بَنِـي عَبْدِ مَنافٍ، يا بَنِـي قُصَيّ \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">، قال: ثم فَخَّذ قريشاً قبـيـلة قبـيـلة، حتـى مرّ علـى آخرهم،</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" إنّـي أدْعُوكُمْ إلـى اللَّهِ،
+  وأُنْذِرُكُمْ عَذَابَهُ \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  مـحمد بن سعد، قال: ثنـي أبـي، قال: ثنـي عمي، قال: ثنـي أبـي، عن أبـيه، عن ابن عبـاس،
+  قوله { وأنْذِرْ عَشِيرَتَكَ الأَقْرَبِـينَ } قال: أُمِر مـحمد أن ينذر قومه، ويبدأ
+  بأهل بـيته وفصيـلته، قال:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">وَكَذَّبَ بِهِ قَوْمُكَ وَهُوَ الـحَقُّ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا الـحسن، قال: أخبرنا عبد الرزاق،
+  قال: أخبرنا مَعْمَر، عن هشام بن عروة، عن أبـيه، قال: وَلـما نزلت: { وأنْذِرْ عَشِيرَتَكَ
+  الأَقْرَبِـينَ } قال النبـيّ صلى الله عليه وسلم:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" يا فـاطِمَةُ بِنْتُ مُـحَمَّدٍ، يا صَفِـيَّةُ بِنْتَ عَبْدِ الـمُطَّلِبِ،
+  اتَّقُوا النَّارَ وَلَوْ بِشِقّ تَـمْرَةٍ \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حُدثت
+  عن الـحسين، قال: سمعت أبـا معاذ يقول: أخبرنا عبـيد، قال: سمعت الضحاك يقول فـي قوله:
+  { وأنْذِرْ عَشِيرَتَكَ الأَقْرَبِـينَ } بدأ بأهل بـيته وفصيـلته.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا الـحسن، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر، عن قتادة،
+  قال: لـما نزلت: { وأنْذِرْ عَشِيرَتَكَ الأَقْرَبِـينَ } جمع النبـيّ صلى الله عليه
+  وسلم بنـي هاشم، فقال:</font></font><b><font class=\"TextResultArabic\"><font color=\"Red\">
+  \" يا بنـي هاشم، ألا لا ألْفِـيَنَّكُمْ تَأْتُونِـي تَـحْمِلُونَ الدُّنْـيا، وَيأتِـي
+  النَّاسُ يَحْمِلُونَ الآخِرَةَ، ألا إنَّ أوْلـيائي مِنْكُمُ الـمُتَّقُونَ، فـاتَّقُوا
+  النَّارَ وَلَوْ بِشقّ تَـمْرَةٍ \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  القاسم، قال: ثنا الـحسين، قال: ثنـي حجاج، عن ابن جُرَيج، قال: لـما نزلت هذه الآية
+  بدأ بأهل بـيته وفصيـلته قال: وشقّ ذلك علـى الـمسلـمين، فأنزل الله تعالـى: { وَاخْفِضْ
+  جَناحَكَ لَـمنِ اتَّبَعَكَ مِنَ الـمُؤْمِنِـينَ }.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقوله:
+  { وَاخْفِضْ جَناحَكَ } يقول: وألن جانبك وكلامك { لَـمِنَ اتَّبَعَكَ مِنَ الـمُؤْمِنِـينَ
+  } كما.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي يونس، قال: أخبرنا ابن وهب،
+  قال: قال ابن زيد، فـي قوله: { وَاخْفِضْ جَناحَكَ لَـمِنِ اتَّبَعَكَ مِنَ الـمُؤْمِنِـينَ
+  } قال: يقول: لِنْ لهم.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">6 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section>"
 

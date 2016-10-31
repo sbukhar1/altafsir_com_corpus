@@ -1,4 +1,4 @@
-location:
+position:
   sura: '062'
   aaya: '010'
   madhab: '01'
@@ -7,25 +7,53 @@ meta:
   title: تفسير جامع البيان في تفسير القرآن
   author: الطبري
   year: '310'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ فَإِذَا قُضِيَتِ
-  ٱلصَّلاَةُ فَٱنتَشِرُواْ فِي ٱلأَرْضِ وَٱبْتَغُواْ مِن فَضْلِ ٱللَّهِ وَٱذْكُرُواْ
-  ٱللَّهَ كَثِيراً لَّعَلَّكُمْ تُفْلِحُونَ }يقول تعالى ذكره: فإذا قُضيت صلاة الجمعة
-  يوم الجمعة، فانتشروا في الأرض إن شئتم، ذلك رخصة من الله لكم في ذلك. وبنحو الذي قلنا
-  في ذلك قال أهل التأويل. ذكر من قال ذلك:حدثني يعقوب بن إبراهيم، قال: ثنا هشيم، قال:
-  أخبرنا حصين، عن مجاهد أنه قال: هي رخصة، يعني قوله: { فإذَا قُضِيَتِ الصَّلاةُ فانْتَشِرُوا
-  فِي الأرْضِ }.حُدثت عن الحسين، قال: سمعت أبا معاذ يقول: ثنا عبيد، قال: سمعت الضحاك
-  يقول في قوله: { فإذَا قُضِيَتِ الصَّلاةُ فانْتَشِرُوا فِي الأرْضِ } قال: هذا إذن
-  من الله، فمن شاء خرج، ومن شاء جلس.حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن
-  زيد: أذن الله لهم إذا فرغوا من الصلاة، { فإذَا قُضِيَتِ الصَّلاةُ فانْتَشِرُوا فِي
-  الأرْضِ وَابْتَغُوا مِنْ فَضْلِ اللَّهِ } فقد أحللته لكم.وقوله: { وَابْتَغُوا مِنْ
-  فَضْلِ اللَّهِ }. ذُكر عن النبيّ صلى الله عليه وسلم في تأويل ذلك ما:حدثني العباس
-  بن أبي طالب، قال: ثنا عليّ بن المعافى بن يعقوب الموصليّ، قال: ثنا أبو عامر الصائغ
-  من الموصل، عن أبي خلف، عن أنس، قال: قال رسول الله صلى الله عليه وسلم في قوله { فإذَا
-  قُضِيَتِ الصَّلاةُ فانْتَشِرُوا فِي الأرْضِ وَابْتَغُوا مِنْ فَضْلِ اللَّهِ } قال:
-  \" لَيْسَ لِطَلَبِ دْنُيا، وَلَكِنْ عِيادَةُ مَرِيضٍ، وَحُضُورُ جَنازَةٍ، وَزِيارَةُ
-  أخٍ فِي اللَّهِ \" وقد يحتمل قوله: { وَابْتَغُوا مِنْ فَضْلِ اللَّهِ } أن يكون معنياً
-  به: والتمسوا من فضل الله الذي بيده مفاتيح خزائنه لدنياكم وآخرتكم.وقوله: { وَاذْكُرُوا
-  الله كَثِيراً لَعَلَّكُمْ تُفْلِحُونَ } يقول: واذكروا الله بالحمد له، والشكر على
-  ما أنعم به عليكم من التوفيق لأداء فرائضه، لتفلحوا، فتدركوا طلباتكم عند ربكم، وتصلوا
-  إلى الخلد في جناته.\r\n\t\t\t\r\n\t\t\t</section>"
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(62, 10)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(62,10)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">فَإِذَا
+  قُضِيَتِ ٱلصَّلاَةُ فَٱنتَشِرُواْ فِي ٱلأَرْضِ وَٱبْتَغُواْ مِن فَضْلِ ٱللَّهِ وَٱذْكُرُواْ
+  ٱللَّهَ كَثِيراً لَّعَلَّكُمْ تُفْلِحُونَ</a> <b>}</b></font>, <br/>, <br/>, <div
+  align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">يقول
+  تعالى ذكره: فإذا قُضيت صلاة الجمعة يوم الجمعة، فانتشروا في الأرض إن شئتم، ذلك رخصة
+  من الله لكم في ذلك. وبنحو الذي قلنا في ذلك قال أهل التأويل. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني يعقوب بن إبراهيم، قال: ثنا هشيم، قال: أخبرنا حصين، عن مجاهد
+  أنه قال: هي رخصة، يعني قوله: { فإذَا قُضِيَتِ الصَّلاةُ فانْتَشِرُوا فِي الأرْضِ
+  }.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حُدثت عن الحسين، قال: سمعت أبا
+  معاذ يقول: ثنا عبيد، قال: سمعت الضحاك يقول في قوله: { فإذَا قُضِيَتِ الصَّلاةُ فانْتَشِرُوا
+  فِي الأرْضِ } قال: هذا إذن من الله، فمن شاء خرج، ومن شاء جلس.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد: أذن الله لهم
+  إذا فرغوا من الصلاة، { فإذَا قُضِيَتِ الصَّلاةُ فانْتَشِرُوا فِي الأرْضِ وَابْتَغُوا
+  مِنْ فَضْلِ اللَّهِ } فقد أحللته لكم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقوله:
+  { وَابْتَغُوا مِنْ فَضْلِ اللَّهِ }. ذُكر عن النبيّ صلى الله عليه وسلم في تأويل
+  ذلك ما:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثني العباس بن أبي طالب، قال:
+  ثنا عليّ بن المعافى بن يعقوب الموصليّ، قال: ثنا أبو عامر الصائغ من الموصل، عن أبي
+  خلف، عن أنس، قال: قال رسول الله صلى الله عليه وسلم في قوله { فإذَا قُضِيَتِ الصَّلاةُ
+  فانْتَشِرُوا فِي الأرْضِ وَابْتَغُوا مِنْ فَضْلِ اللَّهِ } قال:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" لَيْسَ لِطَلَبِ دْنُيا، وَلَكِنْ
+  عِيادَةُ مَرِيضٍ، وَحُضُورُ جَنازَةٍ، وَزِيارَةُ أخٍ فِي اللَّهِ \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقد يحتمل قوله: { وَابْتَغُوا مِنْ فَضْلِ اللَّهِ } أن يكون معنياً
+  به: والتمسوا من فضل الله الذي بيده مفاتيح خزائنه لدنياكم وآخرتكم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقوله: { وَاذْكُرُوا الله كَثِيراً لَعَلَّكُمْ تُفْلِحُونَ } يقول:
+  واذكروا الله بالحمد له، والشكر على ما أنعم به عليكم من التوفيق لأداء فرائضه، لتفلحوا،
+  فتدركوا طلباتكم عند ربكم، وتصلوا إلى الخلد في جناته.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

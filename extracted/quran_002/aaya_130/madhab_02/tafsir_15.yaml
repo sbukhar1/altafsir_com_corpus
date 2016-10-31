@@ -1,4 +1,4 @@
-location:
+position:
   sura: '002'
   aaya: '130'
   madhab: '02'
@@ -9,44 +9,102 @@ meta:
   year: '597'
 aaya: وَمَنْ يَرْغَبُ عَنْ مِلَّةِ إِبْرَاهِيمَ إِلَّا مَنْ سَفِهَ نَفْسَهُ ۚ وَلَقَدِ
   اصْطَفَيْنَاهُ فِي الدُّنْيَا ۖ وَإِنَّهُ فِي الْآخِرَةِ لَمِنَ الصَّالِحِينَ
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَمَن يَرْغَبُ
-  عَن مِّلَّةِ إِبْرَاهِيمَ إِلاَّ مَن سَفِهَ نَفْسَهُ وَلَقَدِ ٱصْطَفَيْنَاهُ فِي
-  ٱلدُّنْيَا وَإِنَّهُ فِي ٱلآخِرَةِ لَمِنَ ٱلصَّالِحِينَ } * { إِذْ قَالَ لَهُ رَبُّهُ
-  أَسْلِمْ قَالَ أَسْلَمْتُ لِرَبِّ ٱلْعَالَمِينَ } * { وَوَصَّىٰ بِهَآ إِبْرَاهِيمُ
-  بَنِيهِ وَيَعْقُوبُ يَابَنِيَّ إِنَّ ٱللَّهَ ٱصْطَفَىٰ لَكُمُ ٱلدِّينَ فَلاَ تَمُوتُنَّ
-  إِلاَّ وَأَنْتُم مُّسْلِمُونَ }قوله تعالى: { ومن يرغب عن ملة إِبراهيم }سبب نزولها
-  أن عبد الله بن سلام دعا ابني أخيه مهاجراً وسلمة إلى الإسلام، فأسلم سلمة، ورغب عن
-  الإسلام مهاجر، فنزلت هذه الآية، قاله مقاتل. قال الزجاج: و «من» لفظها لفظ الاستفهام،
-  ومعناها التقرير والتوبيخ. والمعنى: ما يرغب عن ملة إبراهيم إلا من سفه نسفه. ويقال:
-  رغبت في الشيء: إذا أردته. ورغبت عنه: إذا تركته. وملة إبراهيم: دينه.قوله تعالى: {
-  إِلا من سفه نفسه } فيه أربعة أقوال. أحدها: أن معناه: إلا من سفّه نفسه، قاله الأخفش
-  ويونس. قال يونس: ولذلك تعدى إلى النفس فنصبها، وقال الأخفش: نصبت النفس لإسقاط حرف
-  الجر، لأن المعنى: إلا من سفه في نفسه.قال الشاعر:نغالي اللحم للأضياف نيئاً   ونرخصه
-  إذا نضج القدوروالثاني: إلا من أهلك نفسه، قاله أبو عبيدة. والثالث: إلا من سفهتْ نفسُه،
-  كما يقال: غبن فلان رأيه، وهذا مذهب الفراء وابن قتيبة. قال الفراء: نقل الفعل عن النفس
-  إلى ضمير «من»، ونصبت النفس على التشبيه بالتفسير، كما يقال: ضقت بالأمر ذرعاً، يريدون:
-  ضاق ذرعي به، ومثله:{ واشتعل الرأس شيبا }[مريم: 4]. والرابع: إلا من جهل نفسه، فلم
-  يفكر فيها، وهو اختيار الزجاج.قوله تعالى: { وإِنه في الآخرة لمن الصالحين } قال ابن
-  الأنباري: لمن الصالحي الحال عند الله تعالى. وقال الزجاج: الصالح في الآخرة: الفائز.قوله
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(2, 130)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(2,130)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَمَن
+  يَرْغَبُ عَن مِّلَّةِ إِبْرَاهِيمَ إِلاَّ مَن سَفِهَ نَفْسَهُ وَلَقَدِ ٱصْطَفَيْنَاهُ
+  فِي ٱلدُّنْيَا وَإِنَّهُ فِي ٱلآخِرَةِ لَمِنَ ٱلصَّالِحِينَ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">إِذْ
+  قَالَ لَهُ رَبُّهُ أَسْلِمْ قَالَ أَسْلَمْتُ لِرَبِّ ٱلْعَالَمِينَ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَوَصَّىٰ
+  بِهَآ إِبْرَاهِيمُ بَنِيهِ وَيَعْقُوبُ يَابَنِيَّ إِنَّ ٱللَّهَ ٱصْطَفَىٰ لَكُمُ
+  ٱلدِّينَ فَلاَ تَمُوتُنَّ إِلاَّ وَأَنْتُم مُّسْلِمُونَ</a> <b>}</b></font>, <br/>,
+  <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">قوله
+  تعالى: { ومن يرغب عن ملة إِبراهيم }</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">سبب
+  نزولها أن عبد الله بن سلام دعا ابني أخيه مهاجراً وسلمة إلى الإسلام، فأسلم سلمة،
+  ورغب عن الإسلام مهاجر، فنزلت هذه الآية، قاله مقاتل. قال الزجاج: و «من» لفظها لفظ
+  الاستفهام، ومعناها التقرير والتوبيخ. والمعنى: ما يرغب عن ملة إبراهيم إلا من سفه
+  نسفه. ويقال: رغبت في الشيء: إذا أردته. ورغبت عنه: إذا تركته. وملة إبراهيم: دينه.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قوله تعالى: { إِلا من سفه نفسه } فيه أربعة أقوال. أحدها: أن معناه:
+  إلا من سفّه نفسه، قاله الأخفش ويونس. قال يونس: ولذلك تعدى إلى النفس فنصبها، وقال
+  الأخفش: نصبت النفس لإسقاط حرف الجر، لأن المعنى: إلا من سفه في نفسه.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قال الشاعر:</font></font><table class=\"TextArabic\" dir=\"rtl\"><tr
+  class=\"TextArabic\"><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">نغالي اللحم للأضياف نيئاً</font></font></b></td><td class=\"TextArabic\">   </td><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">ونرخصه إذا
+  نضج القدور</font></font></b></td></tr></table><font class=\"TextResultArabic\"><font
+  color=\"black\">والثاني: إلا من أهلك نفسه، قاله أبو عبيدة. والثالث: إلا من سفهتْ
+  نفسُه، كما يقال: غبن فلان رأيه، وهذا مذهب الفراء وابن قتيبة. قال الفراء: نقل الفعل
+  عن النفس إلى ضمير «من»، ونصبت النفس على التشبيه بالتفسير، كما يقال: ضقت بالأمر ذرعاً،
+  يريدون: ضاق ذرعي به، ومثله:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">واشتعل الرأس شيبا</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">[مريم: 4]. والرابع: إلا من جهل
+  نفسه، فلم يفكر فيها، وهو اختيار الزجاج.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قوله
+  تعالى: { وإِنه في الآخرة لمن الصالحين } قال ابن الأنباري: لمن الصالحي الحال عند
+  الله تعالى. وقال الزجاج: الصالح في الآخرة: الفائز.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قوله
   تعالى: { إِذ قال له ربه أسلم } وذلك حين وقوع الاصطفاء، قال ابن عباس: لما رأى الكوكب
-  والقمر والشمس، قال له ربه أسلم، أي: أخلص.قوله تعالى: { ووصَّى } قرأ ابن عباس وأهل
-  المدينة: { وأوصى } بألف، مع تخفيف الصاد، والباقون بغير ألف مشددة الصاد، وهذا لاختلاف
-  المصاحف. أخبرنا ابن ناصر، قال: أخبرنا ثابت، قال: أخبرنا ابن قشيش، قال: أخبرنا ابن
-  حيَّويه، قال: حدثنا ابن الأنباري، قال: أخبرنا ثعلب، قال: أملى عليَّ خلف بن هشام
-  البزار قال: اختلف مصحفا أهل المدينة وأهل العراق في اثني عشر حرفاً: كتب أهل المدينة
-  { وأوصى } وأهل العراق { ووصّى } وكتب أهل المدينة:{ سارعوا إلى مغفرة من ربكم }[آل
-  عمران:133]. بغير واو وأهل العراق: { وسارعوا } وكتب أهل المدينة:{ يقول الذين آمنوا }[المائدة:
-  56] وأهل العراق: { ويقول } وكتب أهل المدينة:{ من يرتدد }[المائدة: 57] وأهل العراق
-  { من يرتدَّ } وكتب أهل المدينة:{ الذين اتخذوا مسجداً }[التوبة:108]. و أهل العراق
-  { والذين } وكتب أهل المدينة:{ خيراً منهما منقلباً }[الكهف:37] و أهل العراق: { منها
-  } وكتب أهل المدينة:{ فتوكل على العزيز الرحيم }[الشعراء: 217]. و أهل العراق: { وتوكل
-  } وكتب أهل المدينة:{ وأن يظهر في الأرض الفساد }[المؤمن:26]. وأهل العراق: { أو أن
-  يظهر } وكتب أهل المدينة في «حم عسق»: { بما كسبت أيديكم } بغير فاء، وأهل العراق:
-  { فبما } وكتب أهل المدينة:{ ما تشتهيه الأنفس }[الزخرف:71] بالهاء و أهل العراق: {
-  ما تشتهي } وكتب أهل المدينة:{ فان الله الغني الحميد }[الحديد:26] و أهل العراق: {
-  إِن الله هو الغني الحميد } وكتب أهل المدينة:{ فلا يخاف عقباها }[الشمس:15] و أهل
-  العراق: { ولا يخاف }.ووصّى أبلغ من أوصى، لأنها تكون لمرات كثيرة، وهاء «بها» تعود
-  على المسألة. قاله عكرمة والزجاج. قال مقاتل: وبنوه أربعة: إسماعيل، وإسحاق، ومدين،
-  ومدائن. وذكر غير مقاتل أنهم ثمانية.قوله تعالى: { فلا تموتنَّ إِلا وأنتم مسلمون }
-  يريد: الزموا الإسلام، فاذا أدرككم الموت صادفكم عليه.\r\n\t\t\t\r\n\t\t\t</section>"
+  والقمر والشمس، قال له ربه أسلم، أي: أخلص.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قوله
+  تعالى: { ووصَّى } قرأ ابن عباس وأهل المدينة: { وأوصى } بألف، مع تخفيف الصاد، والباقون
+  بغير ألف مشددة الصاد، وهذا لاختلاف المصاحف. أخبرنا ابن ناصر، قال: أخبرنا ثابت، قال:
+  أخبرنا ابن قشيش، قال: أخبرنا ابن حيَّويه، قال: حدثنا ابن الأنباري، قال: أخبرنا ثعلب،
+  قال: أملى عليَّ خلف بن هشام البزار قال: اختلف مصحفا أهل المدينة وأهل العراق في اثني
+  عشر حرفاً: كتب أهل المدينة { وأوصى } وأهل العراق { ووصّى } وكتب أهل المدينة:</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">سارعوا
+  إلى مغفرة من ربكم</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">[آل عمران:133]. بغير واو وأهل العراق: { وسارعوا } وكتب أهل المدينة:</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">يقول
+  الذين آمنوا</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">[المائدة: 56] وأهل العراق: { ويقول } وكتب أهل المدينة:</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">من
+  يرتدد</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">[المائدة: 57] وأهل العراق { من يرتدَّ } وكتب أهل المدينة:</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">الذين
+  اتخذوا مسجداً</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">[التوبة:108]. و أهل العراق { والذين } وكتب أهل المدينة:</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">خيراً
+  منهما منقلباً</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">[الكهف:37] و أهل العراق: { منها } وكتب أهل المدينة:</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">فتوكل
+  على العزيز الرحيم</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">[الشعراء: 217]. و أهل العراق: { وتوكل } وكتب أهل المدينة:</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">وأن
+  يظهر في الأرض الفساد</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">[المؤمن:26]. وأهل العراق: { أو أن يظهر } وكتب أهل المدينة في «حم
+  عسق»: { بما كسبت أيديكم } بغير فاء، وأهل العراق: { فبما } وكتب أهل المدينة:</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">ما
+  تشتهيه الأنفس</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">[الزخرف:71] بالهاء و أهل العراق: { ما تشتهي } وكتب أهل المدينة:</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">فان
+  الله الغني الحميد</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">[الحديد:26] و أهل العراق: { إِن الله هو الغني الحميد } وكتب أهل
+  المدينة:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">فلا يخاف عقباها</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">[الشمس:15] و أهل العراق: { ولا
+  يخاف }.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">ووصّى أبلغ من أوصى، لأنها تكون
+  لمرات كثيرة، وهاء «بها» تعود على المسألة. قاله عكرمة والزجاج. قال مقاتل: وبنوه أربعة:
+  إسماعيل، وإسحاق، ومدين، ومدائن. وذكر غير مقاتل أنهم ثمانية.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قوله
+  تعالى: { فلا تموتنَّ إِلا وأنتم مسلمون } يريد: الزموا الإسلام، فاذا أدرككم الموت
+  صادفكم عليه.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

@@ -1,4 +1,4 @@
-location:
+position:
   sura: '002'
   aaya: '061'
   madhab: '02'
@@ -7,106 +7,242 @@ meta:
   title: تفسير المحرر الوجيز في تفسير الكتاب العزيز
   author: ابن عطية
   year: '546'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَإِذْ قُلْتُمْ
-  يَٰمُوسَىٰ لَن نَّصْبِرَ عَلَىٰ طَعَامٍ وَاحِدٍ فَٱدْعُ لَنَا رَبَّكَ يُخْرِجْ لَنَا
-  مِمَّا تُنْبِتُ ٱلأَرْضُ مِن بَقْلِهَا وَقِثَّآئِهَا وَفُومِهَا وَعَدَسِهَا وَبَصَلِهَا
-  قَالَ أَتَسْتَبْدِلُونَ ٱلَّذِي هُوَ أَدْنَىٰ بِٱلَّذِي هُوَ خَيْرٌ ٱهْبِطُواْ مِصْراً
-  فَإِنَّ لَكُمْ مَّا سَأَلْتُمْ وَضُرِبَتْ عَلَيْهِمُ ٱلذِّلَّةُ وَٱلْمَسْكَنَةُ
-  وَبَآءُو بِغَضَبٍ مِّنَ ٱللَّهِ ذَلِكَ بِأَنَّهُمْ كَانُواْ يَكْفُرُونَ بِآيَاتِ
-  ٱللَّهِ وَيَقْتُلُونَ ٱلنَّبِيِّينَ بِغَيْرِ ٱلْحَقِّ ذٰلِكَ بِمَا عَصَواْ وَّكَانُواْ
-  يَعْتَدُونَ }كان هذا القول منهم في التيه حين ملوا المن والسلوى، وتذكروا عيشهم الأول
-  بمصر، وكنى عن المن والسلوى { بطعام واحد } ، وهما طعامان، لأنهما كانا يؤكلان في وقت
-  واحد، ولتكرارهما سواء أبداً قيل لهما { طعام واحد } ، ولغة بني عامر \" فادعِ \" بكسر
-  العين.و { يخرج }: جزم بما تضمنه الأمر من معنى الجزاء، وبنفس الأمر على مذهب أبي عمر
-  الجرمي والمفعول على مذهب سيبويه مضمر تقديره مأكولاً مما تنبت الأرض، وقال الأخفش:
-  \" من \" في قوله: { مما } زائدة \" وما \" مفعولة، وأبى سيبويه أن تكون \" من \" ملغاة
-  في غير النفي، كقولهم: ما رأيت من أحد، و { من } في قوله: { من بقلها } لبيان الجنس،
-  و { بقلها } بدل بإعادة الحرف، والبقل كل ما تنبته الأرض من النجم، والقثاء جمع قثأة.وقرأ
-  طلحة بن مصرف ويحيى بن وثاب: \" قُثائها \" ، بضم القاف.وقال ابن عباس وأكثر المفسرين:
-  \" الفوم الحنطة \".وقال مجاهد: \" الفوم الخبز \".وقال عطاء وقتادة: \" الفوم جميع
-  الحبوب التي يمكن أن تختبز كالحنطة والفول والعدس ونحوه \".وقال الضحاك: \" الفوم الثوم
-  \" ، وهي قراءة عبد الله بن مسعود بالثاء، وروي ذلك عن ابن عباس، والثاء تبدل من الفاء،
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(2, 61)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(2,61)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَإِذْ
+  قُلْتُمْ يَٰمُوسَىٰ لَن نَّصْبِرَ عَلَىٰ طَعَامٍ وَاحِدٍ فَٱدْعُ لَنَا رَبَّكَ يُخْرِجْ
+  لَنَا مِمَّا تُنْبِتُ ٱلأَرْضُ مِن بَقْلِهَا وَقِثَّآئِهَا وَفُومِهَا وَعَدَسِهَا
+  وَبَصَلِهَا قَالَ أَتَسْتَبْدِلُونَ ٱلَّذِي هُوَ أَدْنَىٰ بِٱلَّذِي هُوَ خَيْرٌ
+  ٱهْبِطُواْ مِصْراً فَإِنَّ لَكُمْ مَّا سَأَلْتُمْ وَضُرِبَتْ عَلَيْهِمُ ٱلذِّلَّةُ
+  وَٱلْمَسْكَنَةُ وَبَآءُو بِغَضَبٍ مِّنَ ٱللَّهِ ذَلِكَ بِأَنَّهُمْ كَانُواْ يَكْفُرُونَ
+  بِآيَاتِ ٱللَّهِ وَيَقْتُلُونَ ٱلنَّبِيِّينَ بِغَيْرِ ٱلْحَقِّ ذٰلِكَ بِمَا عَصَواْ
+  وَّكَانُواْ يَعْتَدُونَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\"
+  dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">كان هذا القول
+  منهم في التيه حين ملوا المن والسلوى، وتذكروا عيشهم الأول بمصر، وكنى عن المن والسلوى
+  { بطعام واحد } ، وهما طعامان، لأنهما كانا يؤكلان في وقت واحد، ولتكرارهما سواء أبداً
+  قيل لهما { طعام واحد } ، ولغة بني عامر \" فادعِ \" بكسر العين.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">و { يخرج }: جزم بما تضمنه الأمر من معنى الجزاء، وبنفس الأمر على
+  مذهب أبي عمر الجرمي والمفعول على مذهب سيبويه مضمر تقديره مأكولاً مما تنبت الأرض،
+  وقال الأخفش: \" من \" في قوله: { مما } زائدة \" وما \" مفعولة، وأبى سيبويه أن تكون
+  \" من \" ملغاة في غير النفي، كقولهم: ما رأيت من أحد، و { من } في قوله: { من بقلها
+  } لبيان الجنس، و { بقلها } بدل بإعادة الحرف، والبقل كل ما تنبته الأرض من النجم،
+  والقثاء جمع قثأة.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقرأ طلحة بن مصرف ويحيى بن وثاب:
+  \" قُثائها \" ، بضم القاف.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال ابن عباس وأكثر المفسرين: \"
+  الفوم الحنطة \".</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال مجاهد: \" الفوم الخبز \".</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال عطاء وقتادة: \" الفوم جميع الحبوب التي يمكن أن تختبز كالحنطة
+  والفول والعدس ونحوه \".</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال الضحاك: \" الفوم الثوم \"
+  ، وهي قراءة عبد الله بن مسعود بالثاء، وروي ذلك عن ابن عباس، والثاء تبدل من الفاء،
   كما قالوا، مغاثير ومغافير، وجدث وجدف، ووقعوا في عاثور شر، وعافور شر، على أن البدل
-  لا يقاس عليه، والأول أصح: أنها الحنطة، وأنشد ابن عباس قول أحيحة بن الجلاح: [الطويل]قد
-  كنت أغنى الناس شخصاً واجداً   ورد المدينة عن زراعة فوميعني حنطة.قال ابن دريد: \"
-  الفوم الزرع أو الحنطة \" ، وأزد السراة يسمون السنبل فوماً \" ، والاستبدال طلب وضع
-  الشيء موضع الآخر، و { أدنى } مأخوذ عند أبي إسحاق الزجاج من الدنو أي القرب في القيمة.وقال
-  علي بن سليمان: \" هو مهموز من الدنيء البين الدناءة، بمعنى الأخس، إلا أنه خففت همزته
-  \".وقال غيره: \" هو مأخوذ من الدون أي الأحط، فأصله أدون أفعل، قلب فجاء أفلع، وقلبت
-  الواو ألفاً لتطرفها \".وقرأ زهير للكسائي: \" أدنأ \" ، ومعنى الآية: أتستبدلون البقل
-  والقثاء والفوم والعدس والبصل التي هي أدنى بالمن والسلوى الذي هو خير؟ والوجه الذي
-  يوجب فضل المن والسلوى على الشيء الذي طلبوه، يحتمل أن يكون تفاضلها في القيمة، لأن
-  هذه البقول لا خطر لها، وهذا قول الزجاج، ويحتمل أن يفضل المن والسلوى لأنه الطعام
-  الذي من الله به وأمرهم بأكله، وفي استدامة أمر الله تعالى وشكر نعمته أجر وذخر في
-  الآخرة، والذي طلبوا عارٍ من هذه الخصال، فكأن أدنى من هذا الوجه، ويحتمل أن يفضل في
-  الطيب واللذة به، فالبقول لا محالة أدنى من هذا الوجه، ويحتمل أن يفضل في حسن الغذاء
-  ونفعه، فالمن والسلوى خير لا محالة في هذا الوجه، ويحتمل أن يفضل من جهة أنه لا كلفة
-  فيه ولا تعب، والذي طلبوا لا يجيء إلا بالحرث والزراعة والتعب، فهو { أدنى } في هذا
-  الوجه، ويحتمل أن يفضل في أنه لا مرية في حله وخلوصه لنزوله من عند الله، والحبوب والأرض
-  يتخللها البيوع والغصوب وتدخلها الشبه، فهي { أدنى } في هذا الوجه.\r\n\t\t\t\r\n\t\t\t1 2 3 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَإِذْ قُلْتُمْ يَٰمُوسَىٰ لَن نَّصْبِرَ
-  عَلَىٰ طَعَامٍ وَاحِدٍ فَٱدْعُ لَنَا رَبَّكَ يُخْرِجْ لَنَا مِمَّا تُنْبِتُ ٱلأَرْضُ
-  مِن بَقْلِهَا وَقِثَّآئِهَا وَفُومِهَا وَعَدَسِهَا وَبَصَلِهَا قَالَ أَتَسْتَبْدِلُونَ
+  لا يقاس عليه، والأول أصح: أنها الحنطة، وأنشد ابن عباس قول أحيحة بن الجلاح: [الطويل]</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><table class=\"TextArabic\"
+  dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">قد كنت أغنى الناس شخصاً واجداً</font></font></b></td><td class=\"TextArabic\">   </td><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">ورد المدينة
+  عن زراعة فوم</font></font></b></td></tr></table><font class=\"TextResultArabic\"><font
+  color=\"black\">يعني حنطة.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">قال ابن دريد: \" الفوم الزرع أو
+  الحنطة \" ، وأزد السراة يسمون السنبل فوماً \" ، والاستبدال طلب وضع الشيء موضع الآخر،
+  و { أدنى } مأخوذ عند أبي إسحاق الزجاج من الدنو أي القرب في القيمة.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال علي بن سليمان: \" هو مهموز من الدنيء البين الدناءة، بمعنى الأخس،
+  إلا أنه خففت همزته \".</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال غيره: \" هو مأخوذ من الدون
+  أي الأحط، فأصله أدون أفعل، قلب فجاء أفلع، وقلبت الواو ألفاً لتطرفها \".</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقرأ زهير للكسائي: \" أدنأ \" ، ومعنى الآية: أتستبدلون البقل والقثاء
+  والفوم والعدس والبصل التي هي أدنى بالمن والسلوى الذي هو خير؟ والوجه الذي يوجب فضل
+  المن والسلوى على الشيء الذي طلبوه، يحتمل أن يكون تفاضلها في القيمة، لأن هذه البقول
+  لا خطر لها، وهذا قول الزجاج، ويحتمل أن يفضل المن والسلوى لأنه الطعام الذي من الله
+  به وأمرهم بأكله، وفي استدامة أمر الله تعالى وشكر نعمته أجر وذخر في الآخرة، والذي
+  طلبوا عارٍ من هذه الخصال، فكأن أدنى من هذا الوجه، ويحتمل أن يفضل في الطيب واللذة
+  به، فالبقول لا محالة أدنى من هذا الوجه، ويحتمل أن يفضل في حسن الغذاء ونفعه، فالمن
+  والسلوى خير لا محالة في هذا الوجه، ويحتمل أن يفضل من جهة أنه لا كلفة فيه ولا تعب،
+  والذي طلبوا لا يجيء إلا بالحرث والزراعة والتعب، فهو { أدنى } في هذا الوجه، ويحتمل
+  أن يفضل في أنه لا مرية في حله وخلوصه لنزوله من عند الله، والحبوب والأرض يتخللها
+  البيوع والغصوب وتدخلها الشبه، فهي { أدنى } في هذا الوجه.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(14,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(14,2,1)\"><u>2</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(14,3,1)\"><u>3</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2, 61)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,61)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَإِذْ قُلْتُمْ يَٰمُوسَىٰ لَن نَّصْبِرَ عَلَىٰ
+  طَعَامٍ وَاحِدٍ فَٱدْعُ لَنَا رَبَّكَ يُخْرِجْ لَنَا مِمَّا تُنْبِتُ ٱلأَرْضُ مِن
+  بَقْلِهَا وَقِثَّآئِهَا وَفُومِهَا وَعَدَسِهَا وَبَصَلِهَا قَالَ أَتَسْتَبْدِلُونَ
   ٱلَّذِي هُوَ أَدْنَىٰ بِٱلَّذِي هُوَ خَيْرٌ ٱهْبِطُواْ مِصْراً فَإِنَّ لَكُمْ مَّا
   سَأَلْتُمْ وَضُرِبَتْ عَلَيْهِمُ ٱلذِّلَّةُ وَٱلْمَسْكَنَةُ وَبَآءُو بِغَضَبٍ مِّنَ
   ٱللَّهِ ذَلِكَ بِأَنَّهُمْ كَانُواْ يَكْفُرُونَ بِآيَاتِ ٱللَّهِ وَيَقْتُلُونَ ٱلنَّبِيِّينَ
-  بِغَيْرِ ٱلْحَقِّ ذٰلِكَ بِمَا عَصَواْ وَّكَانُواْ يَعْتَدُونَ }قال القاضي أبو محمد
-  رحمه الله: ويترتب الفضل للمن والسلوى بهذه الوجوه كلها، وفي الكلام حذف، تقديره: فدعا
-  موسى ربه فأجابه، فقال لهم: { اهبطوا } ، وتقدم ذكر معنى الهبوط، وكأن القادم على قطر
-  منصب عليه، فهو من نحو الهبوط، وجمهور الناس يقرؤون \" مصراً \" بالتنوين وهو خط المصحف،
-  إلا ما حكي عن بعض مصاحف عثمان رضي الله عنه.وقال مجاهد وغيره ممن صرفها: \" أراد مصراً
-  من الأمصار غير معين \" ، واستدلوا بما اقتضاه القرآن من أمرهم بدخول القرية، وبما
-  تظاهرت به الرواية أنهم سكنوا الشام بعد التيه.وقالت طائفة ممن صرفها: أراد مصر فرعون
-  بعينها، واستدلوا بما في القرآن من أن الله تعالى أورث بني إسرائيل ديار آل فرعون وآثارهم،
-  وأجازوا صرفها.وقال الأخفش: \" لخفتها وشبهها بهند ودعد \" وسيبويه لا يجيز هذا.وقال
-  غير الأخفش: \" أراد المكان فصرف \".وقرأ الحسن وأبان بن تغلب وغيرهما: \" اهبطوا مصر
-  \" بترك الصرف، وكذلك هي في مصحف أبيّ بن كعب وقالوا: \" هي مصر فرعون \".قال الأعمش:
-  \" هي مصر التي عليها صالح بن علي \".وقال أشهب: \" قال لي مالك: هي عندي مصر قريتك
-  مسكن فرعون \".وقوله تعالى: { فإن لكم ما سألتم } يقتضي أنه وكلهم إلى أنفسهم.وقرأ
+  بِغَيْرِ ٱلْحَقِّ ذٰلِكَ بِمَا عَصَواْ وَّكَانُواْ يَعْتَدُونَ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">قال القاضي أبو محمد رحمه الله: ويترتب الفضل للمن والسلوى بهذه الوجوه
+  كلها، وفي الكلام حذف، تقديره: فدعا موسى ربه فأجابه، فقال لهم: { اهبطوا } ، وتقدم
+  ذكر معنى الهبوط، وكأن القادم على قطر منصب عليه، فهو من نحو الهبوط، وجمهور الناس
+  يقرؤون \" مصراً \" بالتنوين وهو خط المصحف، إلا ما حكي عن بعض مصاحف عثمان رضي الله
+  عنه.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال مجاهد وغيره ممن صرفها: \"
+  أراد مصراً من الأمصار غير معين \" ، واستدلوا بما اقتضاه القرآن من أمرهم بدخول القرية،
+  وبما تظاهرت به الرواية أنهم سكنوا الشام بعد التيه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقالت
+  طائفة ممن صرفها: أراد مصر فرعون بعينها، واستدلوا بما في القرآن من أن الله تعالى
+  أورث بني إسرائيل ديار آل فرعون وآثارهم، وأجازوا صرفها.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  الأخفش: \" لخفتها وشبهها بهند ودعد \" وسيبويه لا يجيز هذا.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  غير الأخفش: \" أراد المكان فصرف \".</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقرأ
+  الحسن وأبان بن تغلب وغيرهما: \" اهبطوا مصر \" بترك الصرف، وكذلك هي في مصحف أبيّ
+  بن كعب وقالوا: \" هي مصر فرعون \".</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال
+  الأعمش: \" هي مصر التي عليها صالح بن علي \".</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  أشهب: \" قال لي مالك: هي عندي مصر قريتك مسكن فرعون \".</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقوله
+  تعالى: { فإن لكم ما سألتم } يقتضي أنه وكلهم إلى أنفسهم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقرأ
   النخغي وابن وثاب \" سِألتم \" بكسر السين وهي لغة، { وضربت عليهم الذلة والمسكنة }
   معناه ألزموها وقضي عليهم بها، كما يقال ضرب الأمير البعث، وكما قالت العرب ضربة لازب،
   أي إلزام ملزوم أو لازم، فينضاف المصدر إلى المفعول بالمعنى، وكما يقال ضرب الحاكم
   على اليد، أي حجر وألزم؛ ومنه ضرب الدهر ضرباته، أي ألزم إلزاماته، و { الذلة } فعلة
   من الذل كأنها الهيئة والحال، { والمسكنة } من المسكين، قال الزجاج: \" هي مأخوذة من
   السكون وهي هنا: زي الفقر وخضوعه، وإن وجد يهودي غني فلا يخلو من زي الفقر ومهانته
-  \".قال الحسن وقتادة: \" المسكنة الخراج أي الجزية \".وقال أبو العالية: \" المسكنة
-  الفاقة والحاجة \".{ وباؤوا بغضب من الله } معناه: مروا متحملين له، تقول: بؤت بكذا
-  إذا تحملته، ومنه قول مهلهل ليحيى بن الحارث بن عباد: \" بؤ بشسع نعل كليب \".\r\n\t\t\t\r\n\t\t\t1 2 3 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَإِذْ قُلْتُمْ يَٰمُوسَىٰ لَن نَّصْبِرَ
-  عَلَىٰ طَعَامٍ وَاحِدٍ فَٱدْعُ لَنَا رَبَّكَ يُخْرِجْ لَنَا مِمَّا تُنْبِتُ ٱلأَرْضُ
-  مِن بَقْلِهَا وَقِثَّآئِهَا وَفُومِهَا وَعَدَسِهَا وَبَصَلِهَا قَالَ أَتَسْتَبْدِلُونَ
+  \".</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">قال الحسن وقتادة: \" المسكنة الخراج
+  أي الجزية \".</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال أبو العالية: \" المسكنة الفاقة
+  والحاجة \".</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">{ وباؤوا بغضب من الله } معناه:
+  مروا متحملين له، تقول: بؤت بكذا إذا تحملته، ومنه قول مهلهل ليحيى بن الحارث بن عباد:
+  \" بؤ بشسع نعل كليب \".</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(14,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(14,3,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(14,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td><td><a href=\"Javascript:InnerLink_onchange(14,3,1)\"><u>3</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2, 61)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,61)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَإِذْ قُلْتُمْ يَٰمُوسَىٰ لَن نَّصْبِرَ عَلَىٰ
+  طَعَامٍ وَاحِدٍ فَٱدْعُ لَنَا رَبَّكَ يُخْرِجْ لَنَا مِمَّا تُنْبِتُ ٱلأَرْضُ مِن
+  بَقْلِهَا وَقِثَّآئِهَا وَفُومِهَا وَعَدَسِهَا وَبَصَلِهَا قَالَ أَتَسْتَبْدِلُونَ
   ٱلَّذِي هُوَ أَدْنَىٰ بِٱلَّذِي هُوَ خَيْرٌ ٱهْبِطُواْ مِصْراً فَإِنَّ لَكُمْ مَّا
   سَأَلْتُمْ وَضُرِبَتْ عَلَيْهِمُ ٱلذِّلَّةُ وَٱلْمَسْكَنَةُ وَبَآءُو بِغَضَبٍ مِّنَ
   ٱللَّهِ ذَلِكَ بِأَنَّهُمْ كَانُواْ يَكْفُرُونَ بِآيَاتِ ٱللَّهِ وَيَقْتُلُونَ ٱلنَّبِيِّينَ
-  بِغَيْرِ ٱلْحَقِّ ذٰلِكَ بِمَا عَصَواْ وَّكَانُواْ يَعْتَدُونَ }والغضب بمعنى الإرادة
-  صفة ذات، وبمعنى إظهاره على العبد بالمعاقبة صفة فعل، والإشارة بذلك إلى ضرب الذلة
-  وما بعده، والباء في { بأنهم } باء السبب.وقال المهدوي: \" إن الباء بمعنى اللام \"
-  والمعنى: لأنهم، والآيات هنا تحتمل أن يراد بها التسع وغيرها مما يخرق العادة، وهو
-  علامة لصدق الآية به، ويحتمل أن يراد آيات التوراة التي هي كآيات القرآن.وقرأ الحسن
-  بن أبي الحسن: \" وتقتلون \" بالتاء على الرجوع إلى خطابهم، وروي عنه أيضاً بالياء.وقرأ
-  نافع: بهمز \" النبيئين \" ، وكذلك حيث وقع في القرآن، إلا في موضعين: في سورة الأحزاب:{ أن
-  وهبت نفسها للنبي إن أراد النبي }[الأحزاب: 50] بلا مد ولا همز،{ ولا تدخلوا بيوت النبي
-  إلا }[الأحزاب: 53]، وإنما ترك همز هذين لاجتماع همزتين مكسورتين من جنس واحد، وترك
-  الهمز في جميع ذلك الباقون، فأما من همز فهو عنده من \" أنبأ \" إذا أخبر، واسم فاعله
-  منبىء فقيل نبيء، بمعنى منبىء، كما قيل: سميع بمعنى مسمع، واستدلوا بما جاء من جمعه
-  على نبآء. قال الشاعر: [الطويل]يا خاتم النبآء إنك مرسل   بالحقّ كلّ هدى الإله هداكافهذا
-  كما يجمع فعيل في الصحيح \" كظريف \" وظرفاء وشبهه.قال أبو علي: \" زعم سيبويه أنهم
+  بِغَيْرِ ٱلْحَقِّ ذٰلِكَ بِمَا عَصَواْ وَّكَانُواْ يَعْتَدُونَ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">والغضب بمعنى الإرادة صفة ذات، وبمعنى إظهاره على العبد بالمعاقبة
+  صفة فعل، والإشارة بذلك إلى ضرب الذلة وما بعده، والباء في { بأنهم } باء السبب.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال المهدوي: \" إن الباء بمعنى اللام \" والمعنى: لأنهم، والآيات
+  هنا تحتمل أن يراد بها التسع وغيرها مما يخرق العادة، وهو علامة لصدق الآية به، ويحتمل
+  أن يراد آيات التوراة التي هي كآيات القرآن.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقرأ
+  الحسن بن أبي الحسن: \" وتقتلون \" بالتاء على الرجوع إلى خطابهم، وروي عنه أيضاً بالياء.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقرأ نافع: بهمز \" النبيئين \" ، وكذلك حيث وقع في القرآن، إلا في
+  موضعين: في سورة الأحزاب:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">أن وهبت نفسها للنبي إن أراد النبي</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">[الأحزاب: 50] بلا مد ولا همز،</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">ولا
+  تدخلوا بيوت النبي إلا</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">[الأحزاب: 53]، وإنما ترك همز هذين لاجتماع همزتين مكسورتين من جنس
+  واحد، وترك الهمز في جميع ذلك الباقون، فأما من همز فهو عنده من \" أنبأ \" إذا أخبر،
+  واسم فاعله منبىء فقيل نبيء، بمعنى منبىء، كما قيل: سميع بمعنى مسمع، واستدلوا بما
+  جاء من جمعه على نبآء. قال الشاعر: [الطويل]</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><table class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">يا خاتم
+  النبآء إنك مرسل</font></font></b></td><td class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">بالحقّ كلّ هدى الإله هداكا</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">فهذا كما يجمع فعيل في الصحيح \"
+  كظريف \" وظرفاء وشبهه.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">قال أبو علي: \" زعم سيبويه أنهم
   يقولون في تحقير النبوة: كان مسيلمة نبوته نبيئة سوء، وكلهم يقولون تنبأ مسيلمة، فاتفاقهم
   على ذلك دليل على أن اللام همزة \" ، واختلف القائلون بترك الهمز في نبيء، فمنهم من
   اشتق النبي من همز ثم سهل الهمز، ومنهم من قال: هو مشتق من نبا ينبو إذا ظهر، فالنبي
-  الطريق الظاهر، وكان النبي من عند الله طريق الهدى والنجاة، وقال الشاعر: [البسيط].لما
-  وردنا نبياً واستتبّ بنا   مسحنفر كخطوط السيح منسحلواستدلوا بأن الأغلب في جمع أنبياء
-  كفعيل في المعتل، نحو ولي وأولياء وصفي وأصفياء، وحكى الزهراوي أنه يقول نبوء إذا ظهر
-  فهو نبيء، والطريق الظاهر نبيء بالهمز، وروي أن رجلاً قال للنبي صلى الله عليه وسلم:
-  السلام عليك يا نبيء الله، وهمز، فقال له النبي صلى عليه السلام: لست بنبيء الله، وهمز،
-  ولكني نبيّ الله، ولم يهمز.قال أبو علي: \" ضعف سند هذا الحديث، ومما يقوي ضعفه أنه
-  صلى الله عليه وسلم، قد أنشده المادح يا خاتم النبآء ولم يؤثر في ذلك إنكار، والجمع
-  كالواحد \".وقوله تعالى: { بغير الحق } تعظيم للشنعة والذنب الذي أتوه، ومعلوم أنه
-  لا يقتل نبي بحق، ولكن من حيث قد يتخيل متخيل لذلك وجهاً، فصرح قوله: { بغير الحق }
-  عن شنعة الذنب ووضوحه، ولم يجترم قط نبي ما يوجب قتله، وإنما أتاح الله تعالى من أتاح
-  منهم. وسلط عليه، كرامة لهم، وزيادة في منازلهم، كمثل من يقتل في سبيل الله من المؤمنين،
-  قال ابن عباس وغيره: \" لم يقتل قط من الأنبياء إلا من لم يؤمر بقتال، وكل من أمر بقتال
-  نصر \".وقوله تعالى: { ذلك } رد على الأول وتاكيد للإشارة إليه، والباء في { بما }
-  باء السبب، و { يعتقدون } معناه: يتجاوزون الحدود، والاعتداء تجاوز الحد في كل شيء،
-  وعرفه في الظلم والمعاصي.\r\n\t\t\t\r\n\t\t\t1 2 3 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  الطريق الظاهر، وكان النبي من عند الله طريق الهدى والنجاة، وقال الشاعر: [البسيط].</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><table class=\"TextArabic\"
+  dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">لما وردنا نبياً واستتبّ بنا</font></font></b></td><td class=\"TextArabic\">   </td><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">مسحنفر كخطوط
+  السيح منسحل</font></font></b></td></tr></table><font class=\"TextResultArabic\"><font
+  color=\"black\">واستدلوا بأن الأغلب في جمع أنبياء كفعيل في المعتل، نحو ولي وأولياء
+  وصفي وأصفياء، وحكى الزهراوي أنه يقول نبوء إذا ظهر فهو نبيء، والطريق الظاهر نبيء
+  بالهمز، وروي أن رجلاً قال للنبي صلى الله عليه وسلم: السلام عليك يا نبيء الله، وهمز،
+  فقال له النبي صلى عليه السلام: لست بنبيء الله، وهمز، ولكني نبيّ الله، ولم يهمز.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قال أبو علي: \" ضعف سند هذا الحديث، ومما يقوي ضعفه أنه صلى الله
+  عليه وسلم، قد أنشده المادح يا خاتم النبآء ولم يؤثر في ذلك إنكار، والجمع كالواحد
+  \".</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقوله تعالى: { بغير الحق } تعظيم
+  للشنعة والذنب الذي أتوه، ومعلوم أنه لا يقتل نبي بحق، ولكن من حيث قد يتخيل متخيل
+  لذلك وجهاً، فصرح قوله: { بغير الحق } عن شنعة الذنب ووضوحه، ولم يجترم قط نبي ما يوجب
+  قتله، وإنما أتاح الله تعالى من أتاح منهم. وسلط عليه، كرامة لهم، وزيادة في منازلهم،
+  كمثل من يقتل في سبيل الله من المؤمنين، قال ابن عباس وغيره: \" لم يقتل قط من الأنبياء
+  إلا من لم يؤمر بقتال، وكل من أمر بقتال نصر \".</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقوله
+  تعالى: { ذلك } رد على الأول وتاكيد للإشارة إليه، والباء في { بما } باء السبب، و
+  { يعتقدون } معناه: يتجاوزون الحدود، والاعتداء تجاوز الحد في كل شيء، وعرفه في الظلم
+  والمعاصي.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(14,2,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(14,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(14,2,1)\"><u>2</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">3 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a id=\"NextClass\"/></td></tr></table></center></div></section>"
 

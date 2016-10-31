@@ -1,4 +1,4 @@
-location:
+position:
   sura: '005'
   aaya: '101'
   madhab: '01'
@@ -7,186 +7,428 @@ meta:
   title: تفسير جامع البيان في تفسير القرآن
   author: الطبري
   year: '310'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ يٰأَيُّهَا ٱلَّذِينَ
-  آمَنُواْ لاَ تَسْأَلُواْ عَنْ أَشْيَآءَ إِن تُبْدَ لَكُمْ تَسُؤْكُمْ وَإِن تَسْأَلُواْ
-  عَنْهَا حِينَ يُنَزَّلُ ٱلْقُرْآنُ تُبْدَ لَكُمْ عَفَا ٱللَّهُ عَنْهَا وَٱللَّهُ
-  غَفُورٌ حَلِيمٌ }ذكر أن هذه الآية أنزلت علـى رسول الله صلى الله عليه وسلم بسبب مسائل
-  كان يسألها إياه أقوام، امتـحاناً له أحياناً، واستهزاء أحياناً، فـيقول له بعضهم:
-  من أبـي؟ ويقول له بعضهم إذا ضلت ناقته: أين ناقتـي؟ فقال لهم تعالـى ذكره: لا تسألوا
-  عن أشياء من ذلك، كمسألة عبد الله بن حذافة إياه من أبوه، { إنْ تُبْدَ لَكُمْ تَسُؤْكُمْ
-  } يقول: إن أبدينا لكم حقـيقة ما تسألون عنه ساءكم إبداؤها وإظهارها.وبنـحو الذي قلنا
-  فـي ذلك تظاهرت الأخبـار عن أصحاب رسول الله صلى الله عليه وسلم. ذكر الرواية بذلك:حدثنا
-  أبو كريب، قال: ثنا بعض بنـي نفـيـل، قال: ثنا زهير بن معاوية، قال: ثنا أبو الـجويرية،
-  قال: قال ابن عبـاس لأعرابـي من بنـي سلـيـم: هل تدري فـيـما أنزلت هذه الآية { يا
-  أيُّها الَّذِينَ آمَنُوا لا تَسْأَلُوا عَنْ أشْياءَ إنْ تُبْدَ لَكُمْ تَسُؤْكُمْ
-  }؟ حتـى فرغ من الآية، فقال: كان قوم يسألون رسول الله صلى الله عليه وسلم استهزاء،
-  فـيقول الرجل: من أبـي؟ والرجل تضلّ ناقته فـيقول: أين ناقتـي؟ فأنزل الله فـيهم هذه
-  الآية.حدثنـي مـحمد بن الـمثنى، قال: ثنا أبو عامر وأبو داود، قالا: ثنا هشام، عن قتادة،
-  عن أنس، قال: سأل الناس رسول الله صلى الله عليه وسلم حتـى أحفوه بـالـمسألة، فصعد
-  الـمنبر ذات يوم، فقال: \" لا تَسْأَلُونِـي عَنْ شَيْءٍ إلاَّ بَـيَّنْتُهُ لَكُمْ
-  \". قال أنس: فجعلت أنظر يـميناً وشمالاً، فأرى كلْ إنسان لافًّـا ثوبه يبكي فأنشأ
-  رجل كان ذا لاحى يدعى إلـى غير أبـيه، فقال: يا رسول الله، من أبـي؟ فقال: \" أبُوكَ
-  حُذَافَةُ \". قال: فأنشأ عمر فقال: رضينا بـالله ربًّـا وبـالإسلام ديناً وبـمـحمد
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(5, 101)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(5,101)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">يٰأَيُّهَا
+  ٱلَّذِينَ آمَنُواْ لاَ تَسْأَلُواْ عَنْ أَشْيَآءَ إِن تُبْدَ لَكُمْ تَسُؤْكُمْ وَإِن
+  تَسْأَلُواْ عَنْهَا حِينَ يُنَزَّلُ ٱلْقُرْآنُ تُبْدَ لَكُمْ عَفَا ٱللَّهُ عَنْهَا
+  وَٱللَّهُ غَفُورٌ حَلِيمٌ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\"
+  dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">ذكر أن هذه الآية
+  أنزلت علـى رسول الله صلى الله عليه وسلم بسبب مسائل كان يسألها إياه أقوام، امتـحاناً
+  له أحياناً، واستهزاء أحياناً، فـيقول له بعضهم: من أبـي؟ ويقول له بعضهم إذا ضلت ناقته:
+  أين ناقتـي؟ فقال لهم تعالـى ذكره: لا تسألوا عن أشياء من ذلك، كمسألة عبد الله بن
+  حذافة إياه من أبوه، { إنْ تُبْدَ لَكُمْ تَسُؤْكُمْ } يقول: إن أبدينا لكم حقـيقة
+  ما تسألون عنه ساءكم إبداؤها وإظهارها.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وبنـحو
+  الذي قلنا فـي ذلك تظاهرت الأخبـار عن أصحاب رسول الله صلى الله عليه وسلم. ذكر الرواية
+  بذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا أبو كريب، قال: ثنا بعض بنـي
+  نفـيـل، قال: ثنا زهير بن معاوية، قال: ثنا أبو الـجويرية، قال: قال ابن عبـاس لأعرابـي
+  من بنـي سلـيـم: هل تدري فـيـما أنزلت هذه الآية { يا أيُّها الَّذِينَ آمَنُوا لا
+  تَسْأَلُوا عَنْ أشْياءَ إنْ تُبْدَ لَكُمْ تَسُؤْكُمْ }؟ حتـى فرغ من الآية، فقال:
+  كان قوم يسألون رسول الله صلى الله عليه وسلم استهزاء، فـيقول الرجل: من أبـي؟ والرجل
+  تضلّ ناقته فـيقول: أين ناقتـي؟ فأنزل الله فـيهم هذه الآية.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  مـحمد بن الـمثنى، قال: ثنا أبو عامر وأبو داود، قالا: ثنا هشام، عن قتادة، عن أنس،
+  قال: سأل الناس رسول الله صلى الله عليه وسلم حتـى أحفوه بـالـمسألة، فصعد الـمنبر
+  ذات يوم، فقال:</font></font><b><font class=\"TextResultArabic\"><font color=\"Red\">
+  \" لا تَسْأَلُونِـي عَنْ شَيْءٍ إلاَّ بَـيَّنْتُهُ لَكُمْ \". </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\">قال أنس: فجعلت أنظر يـميناً وشمالاً،
+  فأرى كلْ إنسان لافًّـا ثوبه يبكي فأنشأ رجل كان ذا لاحى يدعى إلـى غير أبـيه، فقال:
+  يا رسول الله، من أبـي؟ فقال:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" أبُوكَ حُذَافَةُ \". </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">قال: فأنشأ عمر فقال: رضينا بـالله ربًّـا وبـالإسلام ديناً وبـمـحمد
   صلى الله عليه وسلم رسولاً، وأعوذ بـالله من سوء الفتن فقال رسول الله صلى الله عليه
-  وسلم: \" لَـمْ أرَ فِـي الشَّرّ والـخَيْرِ كالـيَوْم قَطُّ، إنَّهُ صُوّرَتْ لِـيَ
-  الـجَنَّةُ وَالنَّارُ حتـى رأيْتُهُما وَرَاءَ الـحائِطِ \". وكان قتادة يذكر هذا
-  الـحديث عند هذه الآية: { لا تَسأَلُوا عَنْ أشْياءَ إنْ تُبْدَ لَكُمْ تَسُؤْكُمْ
-  }.حدثنـي مـحمد بن معمر البحرانـي، قال: ثنا روح بن عبـادة، قال: ثنا شعبة، قال: أخبرنـي
-  موسى بن أنس، قال: سمعت أنساً يقول: قال رجل: يا رسول الله من أبـي؟ قال: \" أبُوكَ
-  فُلانٌ \". قال: فنزلت: { يا أيُّها الَّذِينَ آمَنُوا لا تَسْألُوا عَنْ أشْياءَ إنْ
-  تُبْدَ لَكُمْ تَسُؤْكُمْ }.حدثنا بشر بن معاذ، قال: ثنا يزيد بن زريع، قال: ثنا سعيد،
-  عن قتادة، فـي قوله: { يا أيُّها الَّذِينَ آمَنُوا لا تَسْأَلُوا عَنْ أشْياءَ إنْ
-  تُبْدَ لَكُمْ تَسُؤْكُمْ } قال: فحُدِّثنا أن أنس بن مالك حدثهم: أن رسول الله صلى
-  الله عليه وسلم سألوه حتـى أحفوه بـالـمسألة، فخرج علـيهم ذات يوم فصعد الـمنبر، فقال:\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ يٰأَيُّهَا ٱلَّذِينَ آمَنُواْ لاَ
-  تَسْأَلُواْ عَنْ أَشْيَآءَ إِن تُبْدَ لَكُمْ تَسُؤْكُمْ وَإِن تَسْأَلُواْ عَنْهَا
-  حِينَ يُنَزَّلُ ٱلْقُرْآنُ تُبْدَ لَكُمْ عَفَا ٱللَّهُ عَنْهَا وَٱللَّهُ غَفُورٌ
-  حَلِيمٌ } \" لا تَسْأَلُونِـي الـيَوْمَ عَنْ شَيْءٍ إلاَّ بَـيَّنْتُهُ لَكُمْ \"
-  فأشفق أصحاب رسول الله صلى الله عليه وسلم أن يكون بـين يديه أمر قد حضر، فجعلت لا
-  ألتفت يـميناً ولا شمالاً إلاَّ وجدت كلاًّ لافـاًّ رأسه فـي ثوبه يبكي. فأنشأ رجل
-  كان يُلاحَى فـيدعى إلـى غير أبـيه، فقال: يا نبـيّ الله من أبـي؟ قال: \" أبُوكَ حُذَافة
-  \". قال: ثم قام عمر أو قال: فأنشأ عمر فقال: رضينا بـالله ربًّـا وبـالإسلام ديناً
-  وبـمـحمد صلى الله عليه وسلم رسولاً عائذاً بـالله أو قال: أعوذ بـالله من سوء الفتن.
-  قال: وقال رسول الله صلى الله عليه وسلم: \" لَـمْ أرَ فِـي الـخَيْرِ والشَّرّ كالـيَوْمِ
-  قَطُّ، صُوّرَتْ لـيَ الـجَنَّةُ والنَّارُ حتـى رأيْتُهُما دُونَ الـحائِطِ \". حدثنا
-  أحمد بن هشام وسفـيان بن وكيع، قالا: ثنا معاذ، قال: ثنا ابن عون، قال: سألت عكرمة
-  مولـى ابن عبـاس عن قوله: { يا أيُّها الَّذِينَ آمَنُوا لا تَسْأَلُوا عَنْ أشْيَاءَ
-  إنْ تُبْدَ لَكُمْ تَسُؤْكُمْ } قال: ذاك يوم قام فـيهم النبـي صلى الله عليه وسلم،
-  فقال: \" لا تَسْأَلُونِـي عَنْ شَيْءٍ إلاَّ أخْبَرْتُكُمْ بِهِ \" قال: فقام رجل،
-  فكره الـمسلـمون مقَامه يومئذ، فقال: يا رسول الله من أبـي؟ قال: \" أبُوكَ حُذَافَة
-  \" قال: فنزلت هذه الآية.حدثنا الـحسين بن يحيى، قال: أخبرنا عبد الرزاق، قال: أخبرنا
-  معمر، عن ابن طاوس، عن أبـيه قال: نزلت: { لا تَسْأَلُوا عَنْ أشْياءَ إنْ تُبْدَ لَكُمْ
-  تَسُؤْكُمْ } فـي رجل قال: يا رسول الله من أبـي؟ قال: \" أبُوك فلان \". حدثنا القاسم،
-  قال: ثنا الـحسين، قال: ثنـي سفـيان، عن معمر، عن قتادة، قال: سألوا النبـي صلى الله
-  عليه وسلم حتـى أكثروا علـيه، فقام مغضبـاً خطيبـاً، فقال: \" سَلُونـي فَوَاللَّهِ
-  لا تَسْأَلُونِـي عَنْ شَيْءٍ ما دُمْتُ فـي مَقامي إلاَّ حَدَّثْتُكُمْ« \" فقام رجل
-  فقال: من أبـي؟ قال: \" أبُوكَ حُذَافَة \" واشتدّ غضبه وقال: \" سَلُونِـي \" فلـما
-  رأى الناس ذلك كثر بكاؤهم، فجثا عمر علـى ركبتـيه فقال: رضينا بـالله ربًّـا، قال معمر:
-  قال الزهري: قال أنس مثل ذلك: فجثا عمر علـى ركبتـيه، فقال: رضينا بـالله ربـاً، وبـالإسلام
-  ديناً، وبـمـحمد صلى الله عليه وسلم رسولاً، فقال رسول الله صلى الله عليه وسلم: \"
-  أمَا وَالَّذِي نَفْسِي بِـيَدِهِ، لَقَدْ صُوّرَتْ لـيَ الـجَنَّةُ وَالنَّارُ آنِفـاً
-  فِـي عَرْضِ هَذَا الـحائِطِ، فَلَـمْ أرَ كالـيَوْمِ فِـي الـخَيْرِ والشَّرّ \".
-  قال الزهريّ: فقالت أمّ عبد الله بن حُذافة: ما رأيت ولداً أعقّ منك قطّ، أتأمن أن
-  تكون أمك قارفت ما قارف أهل الـجاهلـية، فتفضحها علـى رؤوس الناس فقال: والله لو ألـحقنـي
-  بعبد أسود للـحقته.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ يٰأَيُّهَا ٱلَّذِينَ آمَنُواْ لاَ
-  تَسْأَلُواْ عَنْ أَشْيَآءَ إِن تُبْدَ لَكُمْ تَسُؤْكُمْ وَإِن تَسْأَلُواْ عَنْهَا
-  حِينَ يُنَزَّلُ ٱلْقُرْآنُ تُبْدَ لَكُمْ عَفَا ٱللَّهُ عَنْهَا وَٱللَّهُ غَفُورٌ
-  حَلِيمٌ }حدثنـي مـحمد بن الـحسين، قال: ثنا أحمد بن مفضل، قال: ثنا أسبـاط، عن السديّ:
-  { يا أيُّها الَّذِينَ آمَنُوا لا تَسْأَلُوا عَنْ أشْيَاءَ إنْ تُبْدَ لَكُمْ تَسُؤْكُمْ
-  } قال: غضب رسول الله صلى الله عليه وسلم يوماً من الأيام فقام خطيبـاً، فقال: \" سَلُونِـي
-  فإنَّكُمْ لا تَسْأَلُونِـي عَنْ شَيْء إلاَّ أنْبَأْتُكُمْ بِهِ \" فقام إلـيه رجل
-  من قريش من بنـي سَهْم يقال له عبد الله بن حُذَاقة، وكان يُطعنَ فـيه، قال: فقال يا
-  رسول الله من أبـي؟ قال: \" أبُوكَ فُلانٌ \" فدعاه لأبـيه فقام إلـيه عمر، فقبَّل
-  رجله وقال: يا رسول الله، رضينا بـالله ربـاً، وبك نبـياً، وبـالإسلام ديناً، وبـالقرآن
-  إماماً، فـاعف عنا عفـا الله عنك فلـم يزل به حتـى رضي، فـيومئذ قال: \" الوَلَدُ للفِرَاش
-  وللعاهِرِ الـحَجَرُ \". حدثنـي الـحرث، قال: ثنا عبد العزيز، قال: ثنا قـيس، عن أبـي
-  حصين، عن أبـي صالـح، عن أبـي هريرة، قال: خرج رسول الله صلى الله عليه وسلم وهو غضبـان
-  مـحمارّ وجههُ، حتـى جلس علـى الـمنبر، فقام إلـيه رجل، فقال أين أبـي؟ قال: \" فـي
-  النَّارِ \" فقام آخر فقال: من أبـي؟ قال: \" أبُوكَ حُذَافَةُ \". فقام عمر بن الـخطاب
-  فقال: رضينا بـالله ربـاً، وبـالإسلام ديناً، وبـمـحمد صلى الله عليه وسلم نبـياً،
-  وبـالقرآن إماماً، إنا يا رسول الله حديثو عهد بجاهلـية وشرك، والله يعلـم من آبـاؤنا.
-  قال: فسكن غضبه، ونزلت: { يا أيُّها الَّذِينَ آمَنُوا لا تَسْأَلُوا عَنْ أشْيَاءَ
-  إنْ تُبْدَ لَكُمْ تَسُؤْكُمْ }.وقال آخرون: نزلت هذه الآية علـى رسول الله صلى الله
-  عليه وسلم من أجل مسألة سائل سأله عن شيء فـي أمر الـحجّ. ذكر من قال ذلك:حدثنا أبو
-  كريب، قال: ثنا منصور بن وردان الأسديّ، قال: ثنا علـيّ بن عبد الأعلـى، قال: لـما
-  نزلت هذه الآية: وَللَّهِ علـى النَّاسِ حِجُّ البَـيْتِ مَنِ اسْتَطاعَ إلَـيْهِ سَبِـيلاً
-  قالوا: يا رسول الله أفـي كلّ عام؟ فسكت، ثم قالوا: أفـي كلّ عام؟ فسكت، ثم قال: \"
-  لا، ولَوْ قُلْتُ نَعَمْ لَوَجَبَت \" فأنزل الله هذه الآية: { يا أيُّها الَّذِينَ
-  آمَنُوا لا تَسْأَلُوا عَنْ أشْياءَ إنْ تُبْدَ لَكُمْ تَسُؤْكُمْ }.حدثنا أبو كريب،
-  قال: ثنا عبد الرحمن بن سلـيـمان، عن إبراهيـم بن مسلـم الهَجَريّ، عن ابن عياض، عن
-  أبـي هريرة، قال: قال رسول الله صلى الله عليه وسلم: \" إنَّ اللَّهَ كَتَبَ عَلَـيْكُمُ
-  الـحَجَّ \" فقال رجل: أفـي كلّ عام يا رسول الله؟ فأعرض عنه، حتـى عاد مرّتـين أو
-  ثلاثاً، فقال: \" مَنِ السَّائِلُ؟ \" فقال فلان، فقال: \" والذي نَفْسِي بِـيَدِهِ،
-  لَوْ قُلْتُ نَعَمْ لَوَجَبَتْ، وَلَوْ وَجَبَتْ عَلَـيْكُمْ ما أطَقْتُـموه، وَلَوْ
-  تَرَكْتُـمُوهُ لَكَفَرْتـمْ \". \r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ يٰأَيُّهَا ٱلَّذِينَ آمَنُواْ لاَ
-  تَسْأَلُواْ عَنْ أَشْيَآءَ إِن تُبْدَ لَكُمْ تَسُؤْكُمْ وَإِن تَسْأَلُواْ عَنْهَا
-  حِينَ يُنَزَّلُ ٱلْقُرْآنُ تُبْدَ لَكُمْ عَفَا ٱللَّهُ عَنْهَا وَٱللَّهُ غَفُورٌ
-  حَلِيمٌ }  فأنزل الله هذه الآية: { يا أيُّها الَّذِينَ آمَنُوا لا تَسْأَلُوا عَنْ
-  أشْياءَ إن تُبْدَ لَكُمْ تَسُؤْكُمْ } حتـى ختـم الآية.حدثنـي مـحمد بن علـيّ بن الـحسين
-  بن شقـيق، قال سمعت أبـي، قال: أخبرنا الـحسين بن واقد، عن مـحمد بن زياد، قال: سمعت
-  أبـا هريرة يقول: خطبنا رسول الله صلى الله عليه وسلم فقال: \" يا أيُّهَا النَّاسُ،
-  كَتَبَ اللَّهُ عَلَـيْكُمْ الـحَجَّ \". فقام مـحصن الأسديّ، فقال: أفـي كلّ عام يا
-  رسول الله؟ فقال: \" أمَا إنِّـي لَوْ قُلْتُ نَعَمْ لَوَجَبَتْ، ولَوْ وَجَبَتْ ثُمَّ
+  وسلم:</font></font><b><font class=\"TextResultArabic\"><font color=\"Red\"> \" لَـمْ
+  أرَ فِـي الشَّرّ والـخَيْرِ كالـيَوْم قَطُّ، إنَّهُ صُوّرَتْ لِـيَ الـجَنَّةُ وَالنَّارُ
+  حتـى رأيْتُهُما وَرَاءَ الـحائِطِ \". </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">وكان قتادة يذكر هذا الـحديث عند هذه الآية: { لا تَسأَلُوا عَنْ أشْياءَ
+  إنْ تُبْدَ لَكُمْ تَسُؤْكُمْ }.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  مـحمد بن معمر البحرانـي، قال: ثنا روح بن عبـادة، قال: ثنا شعبة، قال: أخبرنـي موسى
+  بن أنس، قال: سمعت أنساً يقول: قال رجل: يا رسول الله من أبـي؟ قال:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" أبُوكَ فُلانٌ \". </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\">قال: فنزلت: { يا أيُّها الَّذِينَ
+  آمَنُوا لا تَسْألُوا عَنْ أشْياءَ إنْ تُبْدَ لَكُمْ تَسُؤْكُمْ }.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا بشر بن معاذ، قال: ثنا يزيد بن زريع، قال: ثنا سعيد، عن قتادة،
+  فـي قوله: { يا أيُّها الَّذِينَ آمَنُوا لا تَسْأَلُوا عَنْ أشْياءَ إنْ تُبْدَ لَكُمْ
+  تَسُؤْكُمْ } قال: فحُدِّثنا أن أنس بن مالك حدثهم: أن رسول الله صلى الله عليه وسلم
+  سألوه حتـى أحفوه بـالـمسألة، فخرج علـيهم ذات يوم فصعد الـمنبر، فقال:</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(5, 101)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(5,101)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">يٰأَيُّهَا ٱلَّذِينَ آمَنُواْ لاَ تَسْأَلُواْ عَنْ
+  أَشْيَآءَ إِن تُبْدَ لَكُمْ تَسُؤْكُمْ وَإِن تَسْأَلُواْ عَنْهَا حِينَ يُنَزَّلُ
+  ٱلْقُرْآنُ تُبْدَ لَكُمْ عَفَا ٱللَّهُ عَنْهَا وَٱللَّهُ غَفُورٌ حَلِيمٌ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\"/></font><b><font class=\"TextResultArabic\"><font color=\"Red\">
+  \" لا تَسْأَلُونِـي الـيَوْمَ عَنْ شَيْءٍ إلاَّ بَـيَّنْتُهُ لَكُمْ \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\">فأشفق أصحاب رسول الله صلى الله
+  عليه وسلم أن يكون بـين يديه أمر قد حضر، فجعلت لا ألتفت يـميناً ولا شمالاً إلاَّ
+  وجدت كلاًّ لافـاًّ رأسه فـي ثوبه يبكي. فأنشأ رجل كان يُلاحَى فـيدعى إلـى غير أبـيه،
+  فقال: يا نبـيّ الله من أبـي؟ قال:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" أبُوكَ حُذَافة \". </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">قال: ثم قام عمر أو قال: فأنشأ عمر فقال: رضينا بـالله ربًّـا وبـالإسلام
+  ديناً وبـمـحمد صلى الله عليه وسلم رسولاً عائذاً بـالله أو قال: أعوذ بـالله من سوء
+  الفتن. قال: وقال رسول الله صلى الله عليه وسلم:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" لَـمْ أرَ فِـي الـخَيْرِ والشَّرّ كالـيَوْمِ قَطُّ، صُوّرَتْ لـيَ
+  الـجَنَّةُ والنَّارُ حتـى رأيْتُهُما دُونَ الـحائِطِ \". </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا أحمد بن هشام وسفـيان بن وكيع،
+  قالا: ثنا معاذ، قال: ثنا ابن عون، قال: سألت عكرمة مولـى ابن عبـاس عن قوله: { يا
+  أيُّها الَّذِينَ آمَنُوا لا تَسْأَلُوا عَنْ أشْيَاءَ إنْ تُبْدَ لَكُمْ تَسُؤْكُمْ
+  } قال: ذاك يوم قام فـيهم النبـي صلى الله عليه وسلم، فقال:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" لا تَسْأَلُونِـي عَنْ شَيْءٍ
+  إلاَّ أخْبَرْتُكُمْ بِهِ \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">قال: فقام رجل، فكره الـمسلـمون مقَامه يومئذ، فقال: يا رسول الله
+  من أبـي؟ قال:</font></font><b><font class=\"TextResultArabic\"><font color=\"Red\">
+  \" أبُوكَ حُذَافَة \" </font></font></b><font class=\"TextResultArabic\"><font color=\"black\">قال:
+  فنزلت هذه الآية.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا الـحسين بن يحيى، قال: أخبرنا
+  عبد الرزاق، قال: أخبرنا معمر، عن ابن طاوس، عن أبـيه قال: نزلت: { لا تَسْأَلُوا عَنْ
+  أشْياءَ إنْ تُبْدَ لَكُمْ تَسُؤْكُمْ } فـي رجل قال: يا رسول الله من أبـي؟ قال:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" أبُوك فلان \". </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا القاسم، قال: ثنا الـحسين،
+  قال: ثنـي سفـيان، عن معمر، عن قتادة، قال: سألوا النبـي صلى الله عليه وسلم حتـى أكثروا
+  علـيه، فقام مغضبـاً خطيبـاً، فقال:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" سَلُونـي فَوَاللَّهِ لا تَسْأَلُونِـي عَنْ شَيْءٍ ما دُمْتُ فـي
+  مَقامي إلاَّ حَدَّثْتُكُمْ« \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">فقام رجل فقال: من أبـي؟ قال:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" أبُوكَ حُذَافَة \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">واشتدّ غضبه وقال:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" سَلُونِـي \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">فلـما رأى الناس ذلك كثر بكاؤهم، فجثا عمر علـى ركبتـيه فقال: رضينا
+  بـالله ربًّـا، قال معمر: قال الزهري: قال أنس مثل ذلك: فجثا عمر علـى ركبتـيه، فقال:
+  رضينا بـالله ربـاً، وبـالإسلام ديناً، وبـمـحمد صلى الله عليه وسلم رسولاً، فقال رسول
+  الله صلى الله عليه وسلم:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" أمَا وَالَّذِي نَفْسِي بِـيَدِهِ، لَقَدْ صُوّرَتْ لـيَ الـجَنَّةُ
+  وَالنَّارُ آنِفـاً فِـي عَرْضِ هَذَا الـحائِطِ، فَلَـمْ أرَ كالـيَوْمِ فِـي الـخَيْرِ
+  والشَّرّ \". </font></font></b><font class=\"TextResultArabic\"><font color=\"black\">قال
+  الزهريّ: فقالت أمّ عبد الله بن حُذافة: ما رأيت ولداً أعقّ منك قطّ، أتأمن أن تكون
+  أمك قارفت ما قارف أهل الـجاهلـية، فتفضحها علـى رؤوس الناس فقال: والله لو ألـحقنـي
+  بعبد أسود للـحقته.</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(5, 101)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(5,101)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">يٰأَيُّهَا ٱلَّذِينَ آمَنُواْ لاَ تَسْأَلُواْ عَنْ
+  أَشْيَآءَ إِن تُبْدَ لَكُمْ تَسُؤْكُمْ وَإِن تَسْأَلُواْ عَنْهَا حِينَ يُنَزَّلُ
+  ٱلْقُرْآنُ تُبْدَ لَكُمْ عَفَا ٱللَّهُ عَنْهَا وَٱللَّهُ غَفُورٌ حَلِيمٌ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي مـحمد بن الـحسين، قال: ثنا أحمد بن مفضل، قال: ثنا أسبـاط،
+  عن السديّ: { يا أيُّها الَّذِينَ آمَنُوا لا تَسْأَلُوا عَنْ أشْيَاءَ إنْ تُبْدَ
+  لَكُمْ تَسُؤْكُمْ } قال: غضب رسول الله صلى الله عليه وسلم يوماً من الأيام فقام خطيبـاً،
+  فقال:</font></font><b><font class=\"TextResultArabic\"><font color=\"Red\"> \" سَلُونِـي
+  فإنَّكُمْ لا تَسْأَلُونِـي عَنْ شَيْء إلاَّ أنْبَأْتُكُمْ بِهِ \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\">فقام إلـيه رجل من قريش من بنـي
+  سَهْم يقال له عبد الله بن حُذَاقة، وكان يُطعنَ فـيه، قال: فقال يا رسول الله من أبـي؟
+  قال:</font></font><b><font class=\"TextResultArabic\"><font color=\"Red\"> \" أبُوكَ
+  فُلانٌ \" </font></font></b><font class=\"TextResultArabic\"><font color=\"black\">فدعاه
+  لأبـيه فقام إلـيه عمر، فقبَّل رجله وقال: يا رسول الله، رضينا بـالله ربـاً، وبك نبـياً،
+  وبـالإسلام ديناً، وبـالقرآن إماماً، فـاعف عنا عفـا الله عنك فلـم يزل به حتـى رضي،
+  فـيومئذ قال:</font></font><b><font class=\"TextResultArabic\"><font color=\"Red\">
+  \" الوَلَدُ للفِرَاش وللعاهِرِ الـحَجَرُ \". </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي الـحرث، قال: ثنا عبد العزيز، قال: ثنا قـيس، عن أبـي حصين،
+  عن أبـي صالـح، عن أبـي هريرة، قال: خرج رسول الله صلى الله عليه وسلم وهو غضبـان مـحمارّ
+  وجههُ، حتـى جلس علـى الـمنبر، فقام إلـيه رجل، فقال أين أبـي؟ قال:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" فـي النَّارِ \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\">فقام آخر فقال: من أبـي؟ قال:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" أبُوكَ حُذَافَةُ \". </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\">فقام عمر بن الـخطاب فقال: رضينا
+  بـالله ربـاً، وبـالإسلام ديناً، وبـمـحمد صلى الله عليه وسلم نبـياً، وبـالقرآن إماماً،
+  إنا يا رسول الله حديثو عهد بجاهلـية وشرك، والله يعلـم من آبـاؤنا. قال: فسكن غضبه،
+  ونزلت: { يا أيُّها الَّذِينَ آمَنُوا لا تَسْأَلُوا عَنْ أشْيَاءَ إنْ تُبْدَ لَكُمْ
+  تَسُؤْكُمْ }.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال آخرون: نزلت هذه الآية علـى
+  رسول الله صلى الله عليه وسلم من أجل مسألة سائل سأله عن شيء فـي أمر الـحجّ. ذكر من
+  قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا أبو كريب، قال: ثنا منصور
+  بن وردان الأسديّ، قال: ثنا علـيّ بن عبد الأعلـى، قال: لـما نزلت هذه الآية: وَللَّهِ
+  علـى النَّاسِ حِجُّ البَـيْتِ مَنِ اسْتَطاعَ إلَـيْهِ سَبِـيلاً قالوا: يا رسول الله
+  أفـي كلّ عام؟ فسكت، ثم قالوا: أفـي كلّ عام؟ فسكت، ثم قال:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" لا، ولَوْ قُلْتُ نَعَمْ لَوَجَبَت
+  \" </font></font></b><font class=\"TextResultArabic\"><font color=\"black\">فأنزل
+  الله هذه الآية: { يا أيُّها الَّذِينَ آمَنُوا لا تَسْأَلُوا عَنْ أشْياءَ إنْ تُبْدَ
+  لَكُمْ تَسُؤْكُمْ }.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا أبو كريب، قال: ثنا عبد الرحمن
+  بن سلـيـمان، عن إبراهيـم بن مسلـم الهَجَريّ، عن ابن عياض، عن أبـي هريرة، قال: قال
+  رسول الله صلى الله عليه وسلم:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" إنَّ اللَّهَ كَتَبَ عَلَـيْكُمُ الـحَجَّ \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\">فقال رجل: أفـي كلّ عام يا رسول
+  الله؟ فأعرض عنه، حتـى عاد مرّتـين أو ثلاثاً، فقال:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" مَنِ السَّائِلُ؟ \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">فقال فلان، فقال:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" والذي نَفْسِي بِـيَدِهِ، لَوْ قُلْتُ نَعَمْ لَوَجَبَتْ، وَلَوْ
+  وَجَبَتْ عَلَـيْكُمْ ما أطَقْتُـموه، وَلَوْ تَرَكْتُـمُوهُ لَكَفَرْتـمْ \". </font></font></b>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">3 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(5, 101)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(5,101)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">يٰأَيُّهَا ٱلَّذِينَ آمَنُواْ لاَ تَسْأَلُواْ عَنْ
+  أَشْيَآءَ إِن تُبْدَ لَكُمْ تَسُؤْكُمْ وَإِن تَسْأَلُواْ عَنْهَا حِينَ يُنَزَّلُ
+  ٱلْقُرْآنُ تُبْدَ لَكُمْ عَفَا ٱللَّهُ عَنْهَا وَٱللَّهُ غَفُورٌ حَلِيمٌ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><b><font class=\"TextResultArabic\"><font
+  color=\"Red\">  </font></font></b><font class=\"TextResultArabic\"><font color=\"black\">فأنزل
+  الله هذه الآية: { يا أيُّها الَّذِينَ آمَنُوا لا تَسْأَلُوا عَنْ أشْياءَ إن تُبْدَ
+  لَكُمْ تَسُؤْكُمْ } حتـى ختـم الآية.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  مـحمد بن علـيّ بن الـحسين بن شقـيق، قال سمعت أبـي، قال: أخبرنا الـحسين بن واقد،
+  عن مـحمد بن زياد، قال: سمعت أبـا هريرة يقول: خطبنا رسول الله صلى الله عليه وسلم
+  فقال:</font></font><b><font class=\"TextResultArabic\"><font color=\"Red\"> \" يا
+  أيُّهَا النَّاسُ، كَتَبَ اللَّهُ عَلَـيْكُمْ الـحَجَّ \". </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\">فقام مـحصن الأسديّ، فقال: أفـي
+  كلّ عام يا رسول الله؟ فقال:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" أمَا إنِّـي لَوْ قُلْتُ نَعَمْ لَوَجَبَتْ، ولَوْ وَجَبَتْ ثُمَّ
   تَرَكْتُـمْ لَضَلَلْتُـمْ. اسْكُتُوا عَنِّى ما سَكَتُّ عَنْكُمْ، فإنَّـمَا هَلَكَ
-  مَنْ كَانَ قَبْلَكُمْ بِسُؤَالِهِمْ واخْتِلافِهِمْ علـى أنْبِـيائِهمْ \" فأنزل الله
-  تعالـى: { يا أيُّها الَّذِينَ آمَنُوا لا تَسْأَلُوا عَنْ أشْيَاءَ إنْ تُبْدَ لَكُمْ
-  تَسُؤْكُمْ } إلـى آخر الآية.حدثنا ابن حميد، قال: ثنا يحيى بن واضح، قال: ثنا الـحسين
-  بن واقد، عن مـحمد بن زياد، قال: سمعت أبـا هريرة يقول: خطبنا رسول الله صلى الله عليه
-  وسلم، فذكر مثله، إلا أنه قام: فقام عُكاشة ابنِ مـحْصَن الأسديُّ.حدثنا زكريا بن يحيى
-  بن أبـان الـمصري، قال: ثنا أبو زيد عبد الرحمن بن أبـي العمر، قال: ثنا أبو مطيع معاوية
-  بن يحيى، عن صفوان بن عمرو، قال: ثنـي سلـيـم بن عامر، قال: سمعت أبـا أمامة البـاهلـي
-  يقول: قام رسول الله صلى الله عليه وسلم فـي الناس فقال: \" كُتِبَ عَلَـيْكُمُ الـحَجّ
-  \" فقام رجل من الأعراب، فقال: أفـي كل عام؟ قال: فعلا كلام رسول الله صلى الله عليه
-  وسلم وأسكت وأغضب واستغضب. فمكث طويلاً ثم تكلـم فقال: \" مَنِ السَّائِلُ؟ \" فقال
-  الأعرابـيّ: أنا ذا، فقال: \" وَيْحَكَ ماذَا يُؤْمِنُكَ أنْ أقُولَ نَعَمْ، وَلَوْ
-  قُلْتُ نَعَمُ لَوَجَبَتْ، وَلَوْ وَجَبَتْ لَكَفَرْتُـمْ؟ ألا إنَّهُ إنَّـمَا أهْلَكَ
-  الَّذِينَ قبْلَكُمْ أئِمَّةُ الـحَرَجِ، وَاللَّهُ لَوْ أنّـي أحْلَلْتُ لَكُمْ جَمِيعَ
-  ما فِـي الأرْضِ وَحَرَّمْتُ عَلَـيْكُمْ مِنْها مَوْضِعَ خُفّ لَوَقَعْتُـمْ فِـيه
-  \" قال: فأنزل الله تعالـى عند ذلك { يا أيُّها الَّذِينَ آمَنُوا لا تَسْأَلُوا عَنْ
-  أشْياءَ }... إلـى آخر الآية.حدثنـي مـحمد بن سعد، قال: ثنـي أبـي، قال: ثنـي عمي،
-  قال: ثنـي أبـي، عن أبـيه، عن ابن عبـاس، قوله: { يا أيُّها الَّذِينَ آمَنُوا لا تَسْأَلُوا
-  عَنْ أشْيَاء إنْ تُبْدَ لَكُمْ تَسُؤْكُمْ } وذلك أن رسول الله صلى الله عليه وسلم
-  أذّن فـي الناس، فقال: \" يا قَوْمِ، كُتِبَ عَلَـيْكُمُ الـحَجُّ \" فقام رجل من بنـي
-  أسد فقال: يا رسول الله، أفـي كلّ عام؟ فأُغْضِبَ رسول الله صلى الله عليه وسلم غضبـاً
-  شديداً، فقال: \" وَالَّذِي نَفْسُ مُـحَمَّدِ بَـيَدِهِ لَوْ قُلْتُ نَعَمْ لَوَجَبَتْ،
+  مَنْ كَانَ قَبْلَكُمْ بِسُؤَالِهِمْ واخْتِلافِهِمْ علـى أنْبِـيائِهمْ \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\">فأنزل الله تعالـى: { يا أيُّها
+  الَّذِينَ آمَنُوا لا تَسْأَلُوا عَنْ أشْيَاءَ إنْ تُبْدَ لَكُمْ تَسُؤْكُمْ } إلـى
+  آخر الآية.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن حميد، قال: ثنا يحيى بن
+  واضح، قال: ثنا الـحسين بن واقد، عن مـحمد بن زياد، قال: سمعت أبـا هريرة يقول: خطبنا
+  رسول الله صلى الله عليه وسلم، فذكر مثله، إلا أنه قام: فقام عُكاشة ابنِ مـحْصَن الأسديُّ.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا زكريا بن يحيى بن أبـان الـمصري، قال: ثنا أبو زيد عبد الرحمن
+  بن أبـي العمر، قال: ثنا أبو مطيع معاوية بن يحيى، عن صفوان بن عمرو، قال: ثنـي سلـيـم
+  بن عامر، قال: سمعت أبـا أمامة البـاهلـي يقول: قام رسول الله صلى الله عليه وسلم فـي
+  الناس فقال:</font></font><b><font class=\"TextResultArabic\"><font color=\"Red\">
+  \" كُتِبَ عَلَـيْكُمُ الـحَجّ \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">فقام رجل من الأعراب، فقال: أفـي كل عام؟ قال: فعلا كلام رسول الله
+  صلى الله عليه وسلم وأسكت وأغضب واستغضب. فمكث طويلاً ثم تكلـم فقال:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" مَنِ السَّائِلُ؟ \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\">فقال الأعرابـيّ: أنا ذا، فقال:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" وَيْحَكَ ماذَا يُؤْمِنُكَ أنْ
+  أقُولَ نَعَمْ، وَلَوْ قُلْتُ نَعَمُ لَوَجَبَتْ، وَلَوْ وَجَبَتْ لَكَفَرْتُـمْ؟ ألا
+  إنَّهُ إنَّـمَا أهْلَكَ الَّذِينَ قبْلَكُمْ أئِمَّةُ الـحَرَجِ، وَاللَّهُ لَوْ أنّـي
+  أحْلَلْتُ لَكُمْ جَمِيعَ ما فِـي الأرْضِ وَحَرَّمْتُ عَلَـيْكُمْ مِنْها مَوْضِعَ
+  خُفّ لَوَقَعْتُـمْ فِـيه \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">قال: فأنزل الله تعالـى عند ذلك { يا أيُّها الَّذِينَ آمَنُوا لا
+  تَسْأَلُوا عَنْ أشْياءَ }... إلـى آخر الآية.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  مـحمد بن سعد، قال: ثنـي أبـي، قال: ثنـي عمي، قال: ثنـي أبـي، عن أبـيه، عن ابن عبـاس،
+  قوله: { يا أيُّها الَّذِينَ آمَنُوا لا تَسْأَلُوا عَنْ أشْيَاء إنْ تُبْدَ لَكُمْ
+  تَسُؤْكُمْ } وذلك أن رسول الله صلى الله عليه وسلم أذّن فـي الناس، فقال:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" يا قَوْمِ، كُتِبَ عَلَـيْكُمُ
+  الـحَجُّ \" </font></font></b><font class=\"TextResultArabic\"><font color=\"black\">فقام
+  رجل من بنـي أسد فقال: يا رسول الله، أفـي كلّ عام؟ فأُغْضِبَ رسول الله صلى الله عليه
+  وسلم غضبـاً شديداً، فقال:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" وَالَّذِي نَفْسُ مُـحَمَّدِ بَـيَدِهِ لَوْ قُلْتُ نَعَمْ لَوَجَبَتْ،
   وَلَوْ وَجَبَتْ ما اسْتَطَعْتُـمْ، وِإذَنْ لَكَفَرْتُـمْ فـاتْرُكُونِـي ما تَرَكْتُكُمْ،
   فإذَا أمَرْتُكُمْ بِشَيْءٍ فـافْعَلُوا، وإذَا نَهَيْتُكُمْ عَنْ شَيْء فـانُتَهُوا
-  عَنْهُ \". \r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ يٰأَيُّهَا ٱلَّذِينَ آمَنُواْ لاَ
-  تَسْأَلُواْ عَنْ أَشْيَآءَ إِن تُبْدَ لَكُمْ تَسُؤْكُمْ وَإِن تَسْأَلُواْ عَنْهَا
-  حِينَ يُنَزَّلُ ٱلْقُرْآنُ تُبْدَ لَكُمْ عَفَا ٱللَّهُ عَنْهَا وَٱللَّهُ غَفُورٌ
-  حَلِيمٌ }  فأنزل الله تعالـى: { يا أيُّها الَّذِين آمَنُوا لا تَسْأَلُوا عَنْ أشْياءَ
-  إنْ تُبْدَ لَكُمْ تَسُؤْكُمْ }. نهاهم أن يسألوا عن مثل الذي سألت النصارى من الـمائدة،
-  فأصبحوا بها كافرين فنهى الله تعالـى عن ذلك، وقال: لا تسألوا عن أشياء إن نزل القرآن
-  فـيها بتغلـيظ ساءكم ذلك، ولكن انتظروا فإذا نزل القرآن فإنَّكُمْ لا تسألون عن شيء
-  إلا وجدتـم تبـيانه.حدثني أبو عاصم، قال ثنا شبل عن ابن أبي نجيح مثله.حدثنـي الـمثنى،
-  قال: ثنا عبد الله بن صالـح، قال: ثنـي معاوية بن صالـح، قال: ثنا علـيّ بن أبـي طلـحة،
-  عن ابن عبـاس، قوله: { يا أيُّها الَّذِين آمَنُوا لا تَسْأَلُوا عَنْ أشْياءَ إنْ
-  تُبْدَ لَكُمْ تَسُؤْكُمْ وإنْ تَسْأَلُوا عَنْها حِينَ يُنزَّل القُرْآنِ تُبْدَ لَكُمْ
-  } قال: لـما أنزلت آية الـحجّ، نادى النبـي صلى الله عليه وسلم فـي الناس، فقال \"
-  يا أيُّها النَّاسُ، إنَّ اللَّهَ قَدْ كَتَبَ عَلَـيْكُمْ الـحَجّ فَحُجُّوا \" فقالوا:
-  يا رسول الله، أعاماً واحداً أم كل عام؟ فقال \" لا بَلْ عاماً وَاحِداً، وَلَوْ قُلْتُ
-  كُلِّ عامٍ لَوَجَبَتْ، وَلَوْ وَجَبَتْ لَكَفَرْتُـمْ \" ثم قال الله تعالـى: { يا
-  أيُّها الَّذِين آمَنُوا لا تَسْأَلُوا عَنْ أشْياءَ إنْ تُبْدَ لَكُمْ تَسُؤْكُمْ
-  } قال: سألوا النبـي صلى الله عليه وسلم عن أشياء فوعظهم، فـانتهوا.حدثنـي مـحمد بن
-  عمرو، قال: ثنا أبو عاصم، عن عيسى، عن ابن أبـي نـجيح، عن مـجاهد، فـي قوله: { يا أيُّها
+  عَنْهُ \". </font></font></b>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">4 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(5, 101)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(5,101)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">يٰأَيُّهَا ٱلَّذِينَ آمَنُواْ لاَ تَسْأَلُواْ عَنْ
+  أَشْيَآءَ إِن تُبْدَ لَكُمْ تَسُؤْكُمْ وَإِن تَسْأَلُواْ عَنْهَا حِينَ يُنَزَّلُ
+  ٱلْقُرْآنُ تُبْدَ لَكُمْ عَفَا ٱللَّهُ عَنْهَا وَٱللَّهُ غَفُورٌ حَلِيمٌ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><b><font class=\"TextResultArabic\"><font
+  color=\"Red\">  </font></font></b><font class=\"TextResultArabic\"><font color=\"black\">فأنزل
+  الله تعالـى: { يا أيُّها الَّذِين آمَنُوا لا تَسْأَلُوا عَنْ أشْياءَ إنْ تُبْدَ
+  لَكُمْ تَسُؤْكُمْ }. نهاهم أن يسألوا عن مثل الذي سألت النصارى من الـمائدة، فأصبحوا
+  بها كافرين فنهى الله تعالـى عن ذلك، وقال: لا تسألوا عن أشياء إن نزل القرآن فـيها
+  بتغلـيظ ساءكم ذلك، ولكن انتظروا فإذا نزل القرآن فإنَّكُمْ لا تسألون عن شيء إلا وجدتـم
+  تبـيانه.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثني أبو عاصم، قال ثنا شبل عن
+  ابن أبي نجيح مثله.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي الـمثنى، قال: ثنا عبد الله
+  بن صالـح، قال: ثنـي معاوية بن صالـح، قال: ثنا علـيّ بن أبـي طلـحة، عن ابن عبـاس،
+  قوله: { يا أيُّها الَّذِين آمَنُوا لا تَسْأَلُوا عَنْ أشْياءَ إنْ تُبْدَ لَكُمْ
+  تَسُؤْكُمْ وإنْ تَسْأَلُوا عَنْها حِينَ يُنزَّل القُرْآنِ تُبْدَ لَكُمْ } قال: لـما
+  أنزلت آية الـحجّ، نادى النبـي صلى الله عليه وسلم فـي الناس، فقال</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" يا أيُّها النَّاسُ، إنَّ اللَّهَ
+  قَدْ كَتَبَ عَلَـيْكُمْ الـحَجّ فَحُجُّوا \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">فقالوا: يا رسول الله، أعاماً واحداً أم كل عام؟ فقال</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" لا بَلْ عاماً وَاحِداً، وَلَوْ
+  قُلْتُ كُلِّ عامٍ لَوَجَبَتْ، وَلَوْ وَجَبَتْ لَكَفَرْتُـمْ \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\">ثم قال الله تعالـى: { يا أيُّها
   الَّذِين آمَنُوا لا تَسْأَلُوا عَنْ أشْياءَ إنْ تُبْدَ لَكُمْ تَسُؤْكُمْ } قال:
-  ذكر رسول الله صلى الله عليه وسلم الـحجّ، فقـيـل: أواجب هو يا رسول الله كلّ عام؟
-  قال: \" لا، لَوْ قُلْتُها لَوَجَبَتْ، وَلَوْ وَجَبَتْ ما أطَقْتُـمْ، وَلَوْ لَـمْ
-  تُطِيقُوا لَكَفَرْتُـمْ \" ثم قال: \" سَلُونِـي فَلا يَسْأَلُنِـي رَجُلٌ فـي مَـجْلِسِي
-  هَذَا عَنْ شَيْءٍ إلاَّ أخْبَرْتُهُ، وإنْ سَأَلَنِـي عَنْ أبِـيهِ \" فقام إلـيه
-  رجل، فقال: من أبـي؟ قال: \" أبُوكَ حُذَافَةُ بْنُ قَـيْسٍ \" فقام عمر، فقال: يا
-  رسول اصلى الله عليه وسلم رضينا بـالله ربـاً، وبـالإسلام ديناً، وبـمـحمد صلى الله
-  عليه وسلم نبـياً، ونعوذ بـالله من غضبه وغضب رسوله.وقال آخرون: بل نزلت هذه الآية
-  من أجل أنهم سألوا رسول الله صلى الله عليه وسلم عن البحيرة والسائبة والوصيـلة والـحامي.
-  ذكر من قال ذلك:حدثنـي إسحاق بن إبراهيـم بن حبـيب بن الشهيد، قال: ثنا عتاب بن بشير،
-  عن خصيف، عن مـجاهد، عن ابن عبـاس { لا تَسْأَلُوا عَنْ أشْياءَ } قال: هي البحيرة
-  والسائبة والوصيـلة والـحام. ألا ترى أنه يقول بعد ذلك: ما جعل الله من كذا ولا كذا؟
-  قال: وأما عكرمة فإنه قال: إنهم كانوا يسألونه عن الآيات فنهوا عن ذلك. ثم قال: قَدْ
-  سَأَلها قَوْمٌ مِنْ قَبْلِكُمْ ثُمَّ أصْبَحُوا بها كَافِرينَ قال: فقلت: قد حدثنـي
-  مـجاهد بخلاف هذا عن ابن عبـاس، فما لك تقول هذا؟ فقال هَيْهَ.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ يٰأَيُّهَا ٱلَّذِينَ آمَنُواْ لاَ
-  تَسْأَلُواْ عَنْ أَشْيَآءَ إِن تُبْدَ لَكُمْ تَسُؤْكُمْ وَإِن تَسْأَلُواْ عَنْهَا
-  حِينَ يُنَزَّلُ ٱلْقُرْآنُ تُبْدَ لَكُمْ عَفَا ٱللَّهُ عَنْهَا وَٱللَّهُ غَفُورٌ
-  حَلِيمٌ }حدثنا ابن وكيع، قال: ثنا يزيد بن هارون، عن ابن عون، عن عكرمة عن الأعمش،
-  قال: هو الذي سأل رسول الله صلى الله عليه وسلم: من أبـي؟. وقال سعيد بن جبـير: هم
-  الذين سألوا رسول الله صلى الله عليه وسلم عن البحيرة والسائبة.وأولـى الأقوال بـالصواب
-  فـي ذلك قول من قال: نزلت هذه الآية من أجل إكثار السائلـين رسول الله صلى الله عليه
-  وسلم الـمسائل، كمسئلة ابن حذافة إياه من أبوه، ومسئلة سائله إذ قال: \" إنَّ اللَّهَ
-  فَرَضَ عَلَـيْكُمْ الـحَجَّ \" أفـي كلّ عام؟ وما أشبه ذلك من الـمسائل، لتظاهر الأخبـار
-  بذلك عن الصحابة والتابعين وعامة أهل التأويـل، وأما القول الذي رواه مـجاهد عن ابن
-  عبـاس، فقول غير بعيد من الصواب، ولكن الأخبـار الـمتظاهرة عن الصحابة والتابعين بخلافه،
-  وكرهنا القول به من أجل ذلك. علـى أنه غير مستنكر أن تكون الـمسألة عن البحيرة والسائبة
-  والوصيـلة والـحام كانت فـيـما سألوا النبـي صلى الله عليه وسلم عنه من الـمسائل التـي
-  كره الله لهم السؤال عنها، كما كره الله لهم الـمسألة عن الـحجّ، أكلّ عام هو أم عاماً
-  واحداً؟ وكما كره لعبد الله بن حذافة مسألته عن أبـيه، فنزلت الآية بـالنهي عن الـمسائل
-  كلّها، فأخبر كلّ مخبر منهم ببعض ما نزلت الآية من أجله وأجل غيره. وهذا القول أولـى
-  الأقوال فـي ذلك عندي بـالصحة، لأن مخارج الأخبـار بجميع الـمعانـي التـي ذُكرت صحاح،
-  فتوجيهها إلـى الصواب من وجودها أوْلـى.القول فـي تأويـل قوله تعالـى: { وَإنْ تَسْأَلُوا
-  عَنْها حِينَ يُنَزَّلُ القُرْآنُ تُبْدَ لَكُمْ عَفـا اللَّهُ عَنْهَا وَاللَّهُ غَفُورٌ
-  حَلِـيـمٌ }:يقول تعالـى ذكره للذين نهاهم من أصحاب رسول الله صلى الله عليه وسلم،
+  سألوا النبـي صلى الله عليه وسلم عن أشياء فوعظهم، فـانتهوا.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  مـحمد بن عمرو، قال: ثنا أبو عاصم، عن عيسى، عن ابن أبـي نـجيح، عن مـجاهد، فـي قوله:
+  { يا أيُّها الَّذِين آمَنُوا لا تَسْأَلُوا عَنْ أشْياءَ إنْ تُبْدَ لَكُمْ تَسُؤْكُمْ
+  } قال: ذكر رسول الله صلى الله عليه وسلم الـحجّ، فقـيـل: أواجب هو يا رسول الله كلّ
+  عام؟ قال:</font></font><b><font class=\"TextResultArabic\"><font color=\"Red\">
+  \" لا، لَوْ قُلْتُها لَوَجَبَتْ، وَلَوْ وَجَبَتْ ما أطَقْتُـمْ، وَلَوْ لَـمْ تُطِيقُوا
+  لَكَفَرْتُـمْ \" </font></font></b><font class=\"TextResultArabic\"><font color=\"black\">ثم
+  قال:</font></font><b><font class=\"TextResultArabic\"><font color=\"Red\"> \" سَلُونِـي
+  فَلا يَسْأَلُنِـي رَجُلٌ فـي مَـجْلِسِي هَذَا عَنْ شَيْءٍ إلاَّ أخْبَرْتُهُ، وإنْ
+  سَأَلَنِـي عَنْ أبِـيهِ \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">فقام إلـيه رجل، فقال: من أبـي؟ قال:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" أبُوكَ حُذَافَةُ بْنُ قَـيْسٍ \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">فقام عمر، فقال: يا رسول اصلى الله عليه وسلم رضينا بـالله ربـاً،
+  وبـالإسلام ديناً، وبـمـحمد صلى الله عليه وسلم نبـياً، ونعوذ بـالله من غضبه وغضب
+  رسوله.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال آخرون: بل نزلت هذه الآية من
+  أجل أنهم سألوا رسول الله صلى الله عليه وسلم عن البحيرة والسائبة والوصيـلة والـحامي.
+  ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي إسحاق بن إبراهيـم بن حبـيب
+  بن الشهيد، قال: ثنا عتاب بن بشير، عن خصيف، عن مـجاهد، عن ابن عبـاس { لا تَسْأَلُوا
+  عَنْ أشْياءَ } قال: هي البحيرة والسائبة والوصيـلة والـحام. ألا ترى أنه يقول بعد
+  ذلك: ما جعل الله من كذا ولا كذا؟ قال: وأما عكرمة فإنه قال: إنهم كانوا يسألونه عن
+  الآيات فنهوا عن ذلك. ثم قال: قَدْ سَأَلها قَوْمٌ مِنْ قَبْلِكُمْ ثُمَّ أصْبَحُوا
+  بها كَافِرينَ قال: فقلت: قد حدثنـي مـجاهد بخلاف هذا عن ابن عبـاس، فما لك تقول هذا؟
+  فقال هَيْهَ.</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">5 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(5, 101)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(5,101)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">يٰأَيُّهَا ٱلَّذِينَ آمَنُواْ لاَ تَسْأَلُواْ عَنْ
+  أَشْيَآءَ إِن تُبْدَ لَكُمْ تَسُؤْكُمْ وَإِن تَسْأَلُواْ عَنْهَا حِينَ يُنَزَّلُ
+  ٱلْقُرْآنُ تُبْدَ لَكُمْ عَفَا ٱللَّهُ عَنْهَا وَٱللَّهُ غَفُورٌ حَلِيمٌ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن وكيع، قال: ثنا يزيد بن هارون، عن ابن عون، عن عكرمة عن
+  الأعمش، قال: هو الذي سأل رسول الله صلى الله عليه وسلم: من أبـي؟. وقال سعيد بن جبـير:
+  هم الذين سألوا رسول الله صلى الله عليه وسلم عن البحيرة والسائبة.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وأولـى الأقوال بـالصواب فـي ذلك قول من قال: نزلت هذه الآية من أجل
+  إكثار السائلـين رسول الله صلى الله عليه وسلم الـمسائل، كمسئلة ابن حذافة إياه من
+  أبوه، ومسئلة سائله إذ قال:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" إنَّ اللَّهَ فَرَضَ عَلَـيْكُمْ الـحَجَّ \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\">أفـي كلّ عام؟ وما أشبه ذلك من الـمسائل،
+  لتظاهر الأخبـار بذلك عن الصحابة والتابعين وعامة أهل التأويـل، وأما القول الذي رواه
+  مـجاهد عن ابن عبـاس، فقول غير بعيد من الصواب، ولكن الأخبـار الـمتظاهرة عن الصحابة
+  والتابعين بخلافه، وكرهنا القول به من أجل ذلك. علـى أنه غير مستنكر أن تكون الـمسألة
+  عن البحيرة والسائبة والوصيـلة والـحام كانت فـيـما سألوا النبـي صلى الله عليه وسلم
+  عنه من الـمسائل التـي كره الله لهم السؤال عنها، كما كره الله لهم الـمسألة عن الـحجّ،
+  أكلّ عام هو أم عاماً واحداً؟ وكما كره لعبد الله بن حذافة مسألته عن أبـيه، فنزلت
+  الآية بـالنهي عن الـمسائل كلّها، فأخبر كلّ مخبر منهم ببعض ما نزلت الآية من أجله
+  وأجل غيره. وهذا القول أولـى الأقوال فـي ذلك عندي بـالصحة، لأن مخارج الأخبـار بجميع
+  الـمعانـي التـي ذُكرت صحاح، فتوجيهها إلـى الصواب من وجودها أوْلـى.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">القول فـي تأويـل قوله تعالـى: { وَإنْ تَسْأَلُوا عَنْها حِينَ يُنَزَّلُ
+  القُرْآنُ تُبْدَ لَكُمْ عَفـا اللَّهُ عَنْهَا وَاللَّهُ غَفُورٌ حَلِـيـمٌ }:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">يقول تعالـى ذكره للذين نهاهم من أصحاب رسول الله صلى الله عليه وسلم،
   عن مسألة رسول الله صلى الله عليه وسلم، عما نهاهم عن مسألتهم إياه عنه، من فرائض لـم
   يفرضها الله علـيهم، وتـحلـيـل أمور لهم يحللها لهم، وتـحريـم أشياء لـم يحرّمها علـيهم
   قبل نزول القرآن بذلك: أيها الـمؤمنون السائلون عما سألوا عنه رسولـي مـما لـم أنزل
@@ -197,27 +439,73 @@ text: "<section>قراءة الآيةفتح صفحة القرآنالانتقا�
   تـحريـمه، وفـي ذلك لكم مساءة لنقلكم عما كنتـم ترونه حقاً إلـى ما كنتـم ترونه بـاطلاً،
   ولكنكم إن سألتـم عنها بعد نزول القرآن بها وبعد ابتدائكم شأن أمرها فـي كتابـي إلـى
   رسولـي إلـيكم، بـين لكم ما أنزلته إلـيه من إتـيان كتابـي وتأويـل تنزيـلـي ووحي وذلك
-  نظير الـخبر الذي رُويَ عن بعض أصحاب رسول الله صلى الله عليه وسلم، الذي:حدثنا به
-  هناد بن السريّ، قال: ثنا أبو معاوية، عن داود بن أبـي هند، عن مكحول، عن أبـي ثعلبة
-  الـخشنـي، قال:\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ يٰأَيُّهَا ٱلَّذِينَ آمَنُواْ لاَ
-  تَسْأَلُواْ عَنْ أَشْيَآءَ إِن تُبْدَ لَكُمْ تَسُؤْكُمْ وَإِن تَسْأَلُواْ عَنْهَا
-  حِينَ يُنَزَّلُ ٱلْقُرْآنُ تُبْدَ لَكُمْ عَفَا ٱللَّهُ عَنْهَا وَٱللَّهُ غَفُورٌ
-  حَلِيمٌ } \" إن الله تعالـى فرض فرائض فلا تضيعوها، ونهى عن أشياء فلا تنتهكوها، وحدّ
-  حدوداً فلا تعتدوها، وعفـا عن أشياء من غير نسيان فلا تبحثوا عنها \". حدثنا هناد،
-  قال: ثنا ابن أبـي زائدة، قال: أخبرنا ابن جريج، عن عطاء، قال: كان عبـيد بن عمير يقول:
-  إن الله تعالـى أحلّ وحرّم، فما أحلّ فـاستـحلوه وما حرّم فـاجتنبوه، وترك من ذلك أشياء
-  لـم يحلها ولـم يحرّمها فذلك عفو من الله عفـاه ثم يتلو: { يا أيُّها الَّذِين آمَنُوا
-  لا تَسْأَلُوا عَنْ أشْياءَ إنْ تُبْدَ لَكُمْ تَسُؤْكُمْ }.حدثنا ابن الـمثنى، قال:
-  ثنا الضحاك، قال: أخبرنا ابن جريج، قال: أخبرنـي عطاء، عن عبـيد ابن عمير، أنه كان
-  يقول: إن الله حرّم وأحلّ، ثم ذكر نـحوه.وأما قوله: { عَفـا اللَّهُ عَنْها } فإنه
-  يعنـي به: عفـا الله لكم عن مسألتكم عن الأشياء التـي سألتـم عنها رسول الله صلى الله
-  عليه وسلم الذي كره الله لكم مسألتكم إياه عنها، أن يؤاخذكم بها، أو يعاقبكم علـيها،
-  إن عرف منها توبتكم وإنابتكم. { وَاللَّهُ غَفُورٌ } يقول: والله ساتر ذنوب من تاب
-  منها، فتارك أن يفضحه فـي الآخرة { حَلِـيـمٌ } أن يعاقبه بها لتغمده التائب منها برحمته
-  وعفوه، عن عقوبته علـيها.وبنـحو الذي قلنا فـي ذلك رُوي الـخبر عن ابن عبـاس الذي ذكرناه
-  آنفـاً. وذلك ما:حدثنـي به مـحمد بن سعد، قال: ثنـي أبـي، قال ثني عمي، قال: ثني أبي،
-  عن أبـيه، عن ابن عبـاس: يقول { لا تسْأَلُوا عَنْ أشْيَاءَ } إن نزل القرآن فـيها
-  بتغلـيظ ساءكم ذلك، ولكن انتظروا فإذا نزل القرآن، فإنكم لا تسألون عن شيء إلا وجدتـم
-  تبـيانه.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  نظير الـخبر الذي رُويَ عن بعض أصحاب رسول الله صلى الله عليه وسلم، الذي:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا به هناد بن السريّ، قال: ثنا أبو معاوية، عن داود بن أبـي هند،
+  عن مكحول، عن أبـي ثعلبة الـخشنـي، قال:</font></font>&#13;\t\t\t<label disabled=\"true\"
+  class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,7,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">6 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(5, 101)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(5,101)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">يٰأَيُّهَا ٱلَّذِينَ آمَنُواْ لاَ تَسْأَلُواْ عَنْ
+  أَشْيَآءَ إِن تُبْدَ لَكُمْ تَسُؤْكُمْ وَإِن تَسْأَلُواْ عَنْهَا حِينَ يُنَزَّلُ
+  ٱلْقُرْآنُ تُبْدَ لَكُمْ عَفَا ٱللَّهُ عَنْهَا وَٱللَّهُ غَفُورٌ حَلِيمٌ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\"/></font><b><font class=\"TextResultArabic\"><font color=\"Red\">
+  \" إن الله تعالـى فرض فرائض فلا تضيعوها، ونهى عن أشياء فلا تنتهكوها، وحدّ حدوداً
+  فلا تعتدوها، وعفـا عن أشياء من غير نسيان فلا تبحثوا عنها \". </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا هناد، قال: ثنا ابن أبـي زائدة،
+  قال: أخبرنا ابن جريج، عن عطاء، قال: كان عبـيد بن عمير يقول: إن الله تعالـى أحلّ
+  وحرّم، فما أحلّ فـاستـحلوه وما حرّم فـاجتنبوه، وترك من ذلك أشياء لـم يحلها ولـم
+  يحرّمها فذلك عفو من الله عفـاه ثم يتلو: { يا أيُّها الَّذِين آمَنُوا لا تَسْأَلُوا
+  عَنْ أشْياءَ إنْ تُبْدَ لَكُمْ تَسُؤْكُمْ }.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن الـمثنى، قال: ثنا الضحاك، قال: أخبرنا ابن جريج، قال: أخبرنـي عطاء، عن عبـيد
+  ابن عمير، أنه كان يقول: إن الله حرّم وأحلّ، ثم ذكر نـحوه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وأما
+  قوله: { عَفـا اللَّهُ عَنْها } فإنه يعنـي به: عفـا الله لكم عن مسألتكم عن الأشياء
+  التـي سألتـم عنها رسول الله صلى الله عليه وسلم الذي كره الله لكم مسألتكم إياه عنها،
+  أن يؤاخذكم بها، أو يعاقبكم علـيها، إن عرف منها توبتكم وإنابتكم. { وَاللَّهُ غَفُورٌ
+  } يقول: والله ساتر ذنوب من تاب منها، فتارك أن يفضحه فـي الآخرة { حَلِـيـمٌ } أن
+  يعاقبه بها لتغمده التائب منها برحمته وعفوه، عن عقوبته علـيها.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وبنـحو الذي قلنا فـي ذلك رُوي الـخبر عن ابن عبـاس الذي ذكرناه آنفـاً.
+  وذلك ما:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي به مـحمد بن سعد، قال: ثنـي
+  أبـي، قال ثني عمي، قال: ثني أبي، عن أبـيه، عن ابن عبـاس: يقول { لا تسْأَلُوا عَنْ
+  أشْيَاءَ } إن نزل القرآن فـيها بتغلـيظ ساءكم ذلك، ولكن انتظروا فإذا نزل القرآن،
+  فإنكم لا تسألون عن شيء إلا وجدتـم تبـيانه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,6,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">7 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a id=\"NextClass\"/></td></tr></table></center></div></section>"
 

@@ -1,4 +1,4 @@
-location:
+position:
   sura: '002'
   aaya: '136'
   madhab: '02'
@@ -11,23 +11,52 @@ aaya: قُولُوا آمَنَّا بِاللَّهِ وَمَا أُنْزِل
   وَإِسْمَاعِيلَ وَإِسْحَاقَ وَيَعْقُوبَ وَالْأَسْبَاطِ وَمَا أُوتِيَ مُوسَىٰ وَعِيسَىٰ
   وَمَا أُوتِيَ النَّبِيُّونَ مِنْ رَبِّهِمْ لَا نُفَرِّقُ بَيْنَ أَحَدٍ مِنْهُمْ
   وَنَحْنُ لَهُ مُسْلِمُونَ
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ قُولُوۤاْ آمَنَّا
-  بِٱللَّهِ وَمَآ أُنْزِلَ إِلَيْنَا وَمَآ أُنزِلَ إِلَىٰ إِبْرَاهِيمَ وَإِسْمَاعِيلَ
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(2, 136)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(2,136)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">قُولُوۤاْ
+  آمَنَّا بِٱللَّهِ وَمَآ أُنْزِلَ إِلَيْنَا وَمَآ أُنزِلَ إِلَىٰ إِبْرَاهِيمَ وَإِسْمَاعِيلَ
   وَإِسْحَاقَ وَيَعْقُوبَ وَٱلأَسْبَاطِ وَمَآ أُوتِيَ مُوسَىٰ وَعِيسَىٰ وَمَا أُوتِيَ
   ٱلنَّبِيُّونَ مِن رَّبِّهِمْ لاَ نُفَرِّقُ بَيْنَ أَحَدٍ مِّنْهُمْ وَنَحْنُ لَهُ
-  مُسْلِمُونَ } * { فَإِنْ آمَنُواْ بِمِثْلِ مَآ آمَنْتُمْ بِهِ فَقَدِ ٱهْتَدَواْ
-  وَّإِن تَوَلَّوْاْ فَإِنَّمَا هُمْ فِي شِقَاقٍ فَسَيَكْفِيكَهُمُ ٱللَّهُ وَهُوَ
-  ٱلسَّمِيعُ ٱلْعَلِيمُ } * { صِبْغَةَ ٱللَّهِ وَمَنْ أَحْسَنُ مِنَ ٱللَّهِ صِبْغَةً
-  وَنَحْنُ لَهُ عَابِدونَ }قوله تعالى: { فَإِنْ ءَامَنُوا بِمِثْلِ مَآ ءَامَنتُم بِهِ
-  فَقَدِ اهْتَدَوا } فإن قيل: فهل للإيمان مثل لا يكون إيماناً؟ قيل معنى الكلام: فإن
-  آمنوا مثل إيمانكم، وصدَّقوا مثل تصديقكم فقد اهتدوا، وهذا هو معنى القراءة وإن خالف
-  المصحف.{ وَإِن تَوَلَّوا فَإِنَّمَا هُمْ فِي شِقَاقٍ } يعني في مشاقة وعداوة، وأصل
-  الشِّقَاقِ البُعْدُ، من قولهم قد أخذ فلان في شِقٍّ، وفلان في شِقٍّ آخر، إذا تباعدوا.
-  وكذلك قيل للخارج عن الجماعة، قد شَقَّ عصا المسلمين لبُعْدِهِ عنهم.قوله تعالى: {
-  صِبْغَةَ اللهِ وَمَنْ أَحْسَنُ مِنَ اللهِ صِبْغَةً } فيه تأويلان:أحدهما: معناه دين
-  الله، وهذا قول قتادة.وسبب ذلك أن النصارى كانوا يصبغون أولادهم في ماء لهم، ويقولون
-  هذا تطهير لهم كالختان، فرد الله تعالى ذلك عليهم بأن قال: { صِبْغَةَ اللهِ } أي صبغة
-  الله أحسن صبغة، وهي الإسلام.والثاني: أن صبغة الله، هي خلقة الله، وهذا قول مجاهد.فإن
-  كانت الصبغة هي الدين، فإنما سُمِّيَ الدين صبغة، لظهوره على صاحبه، كظهور الصِّبْغِ
-  عَلَى الثوبِ، وإن كانت هي الخلقة فلإحداثه كإحداث اللون على الثوب.\r\n\t\t\t\r\n\t\t\t</section>"
+  مُسْلِمُونَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">فَإِنْ آمَنُواْ بِمِثْلِ مَآ آمَنْتُمْ بِهِ
+  فَقَدِ ٱهْتَدَواْ وَّإِن تَوَلَّوْاْ فَإِنَّمَا هُمْ فِي شِقَاقٍ فَسَيَكْفِيكَهُمُ
+  ٱللَّهُ وَهُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">صِبْغَةَ ٱللَّهِ
+  وَمَنْ أَحْسَنُ مِنَ ٱللَّهِ صِبْغَةً وَنَحْنُ لَهُ عَابِدونَ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">قوله تعالى: { فَإِنْ ءَامَنُوا بِمِثْلِ مَآ ءَامَنتُم بِهِ فَقَدِ
+  اهْتَدَوا } فإن قيل: فهل للإيمان مثل لا يكون إيماناً؟ قيل معنى الكلام: فإن آمنوا
+  مثل إيمانكم، وصدَّقوا مثل تصديقكم فقد اهتدوا، وهذا هو معنى القراءة وإن خالف المصحف.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">{ وَإِن تَوَلَّوا فَإِنَّمَا هُمْ فِي شِقَاقٍ } يعني في مشاقة وعداوة،
+  وأصل الشِّقَاقِ البُعْدُ، من قولهم قد أخذ فلان في شِقٍّ، وفلان في شِقٍّ آخر، إذا
+  تباعدوا. وكذلك قيل للخارج عن الجماعة، قد شَقَّ عصا المسلمين لبُعْدِهِ عنهم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قوله تعالى: { صِبْغَةَ اللهِ وَمَنْ أَحْسَنُ مِنَ اللهِ صِبْغَةً
+  } فيه تأويلان:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">أحدهما: معناه دين الله، وهذا قول
+  قتادة.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وسبب ذلك أن النصارى كانوا يصبغون
+  أولادهم في ماء لهم، ويقولون هذا تطهير لهم كالختان، فرد الله تعالى ذلك عليهم بأن
+  قال: { صِبْغَةَ اللهِ } أي صبغة الله أحسن صبغة، وهي الإسلام.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">والثاني: أن صبغة الله، هي خلقة الله، وهذا قول مجاهد.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">فإن كانت الصبغة هي الدين، فإنما سُمِّيَ الدين صبغة، لظهوره على صاحبه،
+  كظهور الصِّبْغِ عَلَى الثوبِ، وإن كانت هي الخلقة فلإحداثه كإحداث اللون على الثوب.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

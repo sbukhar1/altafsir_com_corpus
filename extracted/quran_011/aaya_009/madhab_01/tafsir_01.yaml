@@ -1,4 +1,4 @@
-location:
+position:
   sura: '011'
   aaya: 009
   madhab: '01'
@@ -9,17 +9,38 @@ meta:
   year: '310'
 aaya: وَلَئِنْ أَذَقْنَا الْإِنْسَانَ مِنَّا رَحْمَةً ثُمَّ نَزَعْنَاهَا مِنْهُ إِنَّهُ
   لَيَئُوسٌ كَفُورٌ
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَلَئِنْ أَذَقْنَا
-  ٱلإِنْسَانَ مِنَّا رَحْمَةً ثُمَّ نَزَعْنَاهَا مِنْهُ إِنَّهُ لَيَئُوسٌ كَفُورٌ
-  }يقول تعالـى ذكره: ولئن أذقنا الإنسان منا رخاء وسعة فـي الرزق والعيش، فبسطنا علـيه
-  من الدنـيا، وهي الرحمة التـي ذكرها تعالـى ذكره فـي هذا الـموضع، { ثُمَّ نَزَعْناها
-  مِنْهُ } يقول: ثم سلبناه ذلك، فأصابته مصائب أجاحته فذهبت به { إنَّهُ لَـيَئُوسٌ
-  كَفُورٌ } يقول: يظلّ قناطاً من رحمة الله آيساً من الـخير. وقوله: «يئوس»: فعول، من
-  قول القائل: يئس فلان من كذا فهو يئوس، إذا كان ذلك صفة له. وقوله: «كفور»، يقول: هو
-  كفور لـمن أنعم علـيه، قلـيـل الشكر لربه الـمتفضل علـيه بـما كان وهب له من نعمته.وبنـحو
-  الذي قلنا فـي ذلك قال أهل التأويـل. ذكر من قال ذلك:حدثنا القاسم، قال: ثنا الـحسين،
-  قال: ثنـي حجاج، عن ابن جريج: { وَلَئِنْ أذَقْنا الإنْسانَ مِنَّا رَحْمَةً ثُمَّ
-  نَزَعْناها مِنْهُ إنَّهُ لَـيَئُوسٌ كَفُورٌ } قال: يا ابن آدم إذا كانت بك نعمة من
-  الله من السعة والأمن والعافـية فكفور لـمِا بك منها، وإذا نزعت منك يبتغ لك فراغك
-  فـيئوس من رَوْحِ الله، قنوط من رحمته، كذلك الـمرء الـمنافق والكافر.\r\n\t\t\t\r\n\t\t\t</section>"
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(11, 9)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(11,9)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَلَئِنْ
+  أَذَقْنَا ٱلإِنْسَانَ مِنَّا رَحْمَةً ثُمَّ نَزَعْنَاهَا مِنْهُ إِنَّهُ لَيَئُوسٌ
+  كَفُورٌ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">يقول تعالـى ذكره: ولئن أذقنا الإنسان
+  منا رخاء وسعة فـي الرزق والعيش، فبسطنا علـيه من الدنـيا، وهي الرحمة التـي ذكرها
+  تعالـى ذكره فـي هذا الـموضع، { ثُمَّ نَزَعْناها مِنْهُ } يقول: ثم سلبناه ذلك، فأصابته
+  مصائب أجاحته فذهبت به { إنَّهُ لَـيَئُوسٌ كَفُورٌ } يقول: يظلّ قناطاً من رحمة الله
+  آيساً من الـخير. وقوله: «يئوس»: فعول، من قول القائل: يئس فلان من كذا فهو يئوس، إذا
+  كان ذلك صفة له. وقوله: «كفور»، يقول: هو كفور لـمن أنعم علـيه، قلـيـل الشكر لربه
+  الـمتفضل علـيه بـما كان وهب له من نعمته.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وبنـحو
+  الذي قلنا فـي ذلك قال أهل التأويـل. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  القاسم، قال: ثنا الـحسين، قال: ثنـي حجاج، عن ابن جريج: { وَلَئِنْ أذَقْنا الإنْسانَ
+  مِنَّا رَحْمَةً ثُمَّ نَزَعْناها مِنْهُ إنَّهُ لَـيَئُوسٌ كَفُورٌ } قال: يا ابن
+  آدم إذا كانت بك نعمة من الله من السعة والأمن والعافـية فكفور لـمِا بك منها، وإذا
+  نزعت منك يبتغ لك فراغك فـيئوس من رَوْحِ الله، قنوط من رحمته، كذلك الـمرء الـمنافق
+  والكافر.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

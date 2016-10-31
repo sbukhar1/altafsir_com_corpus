@@ -1,4 +1,4 @@
-location:
+position:
   sura: '012'
   aaya: 083
   madhab: '01'
@@ -9,19 +9,43 @@ meta:
   year: '310'
 aaya: قَالَ بَلْ سَوَّلَتْ لَكُمْ أَنْفُسُكُمْ أَمْرًا ۖ فَصَبْرٌ جَمِيلٌ ۖ عَسَى
   اللَّهُ أَنْ يَأْتِيَنِي بِهِمْ جَمِيعًا ۚ إِنَّهُ هُوَ الْعَلِيمُ الْحَكِيمُ
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ قَالَ بَلْ سَوَّلَتْ
-  لَكُمْ أَنفُسُكُمْ أَمْراً فَصَبْرٌ جَمِيلٌ عَسَى ٱللَّهُ أَن يَأْتِيَنِي بِهِمْ
-  جَمِيعاً إِنَّهُ هُوَ ٱلْعَلِيمُ ٱلْحَكِيمُ }قال أبو جعفر: فـي الكلام متروك، وهو:
-  فرجع إخوة بنـيامين إلـى أبـيهم، وتـخـلَّف روبـيـل، فأخبروه خبره، فلـما أخبروه أنه
-  سرق قال: { بَلْ سَوَّلَتْ لَكُمْ أنْفُسُكُمْ أمْراً } يقول: بل زيَّنت لكم أنفكسم
-  أمراً همـمتـم به وأردتـموه. { فصَبْرٌ جَمِيـلٌ } يقول: فصبري علـى ما نالنـي من فقد
-  ولدي صبر جميـل لا جزع فـيه ولا شكاية، عسى الله أن يأتـينـي بأولادي جميعاً فـيردّهم
-  علـيّ. { إنَّهُ هُوَ العَلِـيـمُ } بوحدتـي وبفقدهم وحزنـي علـيهم وصدق ما يقولون
-  من كذبه. { الـحَكِيـمِ } فـي تدبـيره خـلقه.وبنـحو الذي قلنا فـي ذلك قال أهل التأويـل.
-  ذكر من قال ذلك:حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: { بَلْ سَوَّلَتْ
-  لَكُمْ أنْفُسُكُمْ أمْراً فَصَبْرٌ جَمِيـلٌ } يقول: زينت.وقوله: { عَسَى اللّهُ أنْ
-  يَأْتِـيَنِـي بِهِمْ جَمِيعاً } يقول: بـيوسف وأخيه وروبيل.حدثنا ابن حميد، قال: ثنا
-  سلـمة، عن ابن إسحاق، قال: لـما جاءوا بذلك إلـى يعقوب، يعنـي بقول روبـيـل لهم اتهمهم،
-  وظنّ أن ذلك كفعلتهم بـيوسف، ثم قال: { بَلْ سَوَّلَتْ لَكُمْ أنْفُسُكُمْ أمْراً فَصَبْرٌ
-  جَميـلٌ عَسَى اللّهُ أنْ يَأْتِـيَنِـي بهِمْ جَميعاً }: أي بـيوسف وأخيه وروبـيـل.\r\n\t\t\t\r\n\t\t\t</section>"
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(12, 83)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(12,83)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">قَالَ
+  بَلْ سَوَّلَتْ لَكُمْ أَنفُسُكُمْ أَمْراً فَصَبْرٌ جَمِيلٌ عَسَى ٱللَّهُ أَن يَأْتِيَنِي
+  بِهِمْ جَمِيعاً إِنَّهُ هُوَ ٱلْعَلِيمُ ٱلْحَكِيمُ</a> <b>}</b></font>, <br/>, <br/>,
+  <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">قال
+  أبو جعفر: فـي الكلام متروك، وهو: فرجع إخوة بنـيامين إلـى أبـيهم، وتـخـلَّف روبـيـل،
+  فأخبروه خبره، فلـما أخبروه أنه سرق قال: { بَلْ سَوَّلَتْ لَكُمْ أنْفُسُكُمْ أمْراً
+  } يقول: بل زيَّنت لكم أنفكسم أمراً همـمتـم به وأردتـموه. { فصَبْرٌ جَمِيـلٌ } يقول:
+  فصبري علـى ما نالنـي من فقد ولدي صبر جميـل لا جزع فـيه ولا شكاية، عسى الله أن يأتـينـي
+  بأولادي جميعاً فـيردّهم علـيّ. { إنَّهُ هُوَ العَلِـيـمُ } بوحدتـي وبفقدهم وحزنـي
+  علـيهم وصدق ما يقولون من كذبه. { الـحَكِيـمِ } فـي تدبـيره خـلقه.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وبنـحو الذي قلنا فـي ذلك قال أهل التأويـل. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: { بَلْ
+  سَوَّلَتْ لَكُمْ أنْفُسُكُمْ أمْراً فَصَبْرٌ جَمِيـلٌ } يقول: زينت.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقوله: { عَسَى اللّهُ أنْ يَأْتِـيَنِـي بِهِمْ جَمِيعاً } يقول:
+  بـيوسف وأخيه وروبيل.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن حميد، قال: ثنا سلـمة،
+  عن ابن إسحاق، قال: لـما جاءوا بذلك إلـى يعقوب، يعنـي بقول روبـيـل لهم اتهمهم، وظنّ
+  أن ذلك كفعلتهم بـيوسف، ثم قال: { بَلْ سَوَّلَتْ لَكُمْ أنْفُسُكُمْ أمْراً فَصَبْرٌ
+  جَميـلٌ عَسَى اللّهُ أنْ يَأْتِـيَنِـي بهِمْ جَميعاً }: أي بـيوسف وأخيه وروبـيـل.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

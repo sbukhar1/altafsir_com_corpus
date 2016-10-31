@@ -1,4 +1,4 @@
-location:
+position:
   sura: '054'
   aaya: '012'
   madhab: '01'
@@ -7,22 +7,54 @@ meta:
   title: تفسير جامع البيان في تفسير القرآن
   author: الطبري
   year: '310'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ فَفَتَحْنَآ أَبْوَابَ
-  ٱلسَّمَآءِ بِمَاءٍ مُّنْهَمِرٍ } * { وَفَجَّرْنَا ٱلأَرْضَ عُيُوناً فَالْتَقَى ٱلمَآءُ
-  عَلَىٰ أَمْرٍ قَدْ قُدِرَ }يقول تعالى ذكره: { فَفَتَحْنا } لما دعانا نوح مستغيثاً
-  بنا على قومه { أبْوَابَ السَّماءِ بِمَاءٍ مُنْهَمِرٍ } وهو المندفق، كما قال امرؤ
-  القيس في صفة غيث:رَاحَ تَمْرِيه الصَّبا ثُمَّ انْتَحَى   فِيهِ شُؤْبُوبُ جنوبٍ مُنْهَمِرْوبنحو
-  الذي قلنا في ذلك قال أهل التأويل. ذكر من قال ذلك:حدثنا ابن حُمَيد، قال: ثنا مهران،
-  عن سفيان { بِمَاءٍ مُنْهَمِرٍ } قال: ينصبّ انصباباً.وقوله: { وَفَجَّرْنا الأرْضَ
-  عُيُوناً } يقول جلّ ثناؤه: وأسلنا الأرض عيون الماء. كما:حدثنا ابن حُمَيد، قال: ثنا
-  مهران، عن سفيان، في قوله: { وَفَجَّرْنا الأرْضَ عُيُوناً } قال: فجَّرنا الأرض الماءَ
-  وجاء من السماء.{ فالْتَقَى المَاءُ على أمْرٍ قَدْ قُدرْ } يقول تعالى ذكره: فالتقى
-  ماء السماء وماء الأرض على أمر قد قدره الله وقضاه، كما:حدثنا ابن حُمَيد، قال: ثنا
-  مهران، عن سفيان { فالْتَقَى المَاءُ على أمْرٍ قَدْ قُدِرْ } قال: ماء السماء وماء
-  الأرض. وإنما قيل: فالتقى الماء على أمر قد قدر، والالتقاء لا يكون من واحد، وإنما
-  يكون من اثنين فصاعداً، لأن الماء قد يكون جمعاً وواحداً، وأريد به في هذا الموضع:
-  مياه السماء ومياه الأرض، فخرج بلفظ الواحد ومعناه الجمع. وقيل: التقى الماء على أمر
-  قد قُدر، لأن ذلك كان أمراً قد قضاه الله في اللوح المحفوظ. كما:حدثنا ابن بشار، قال:
-  ثنا مؤمل، قال: ثنا سفيان، عن موسى بن عبيدة، عن محمد بن كعب قال: كانت الأقوات قبل
-  الأجساد، وكان القدر قبل البلاء، وتلا { فالْتَقَى المَاءُ على أمْرٍ قَدْ قُدِرَ }.\r\n\t\t\t\r\n\t\t\t</section>"
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(54, 11)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(54,11)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">فَفَتَحْنَآ
+  أَبْوَابَ ٱلسَّمَآءِ بِمَاءٍ مُّنْهَمِرٍ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَفَجَّرْنَا ٱلأَرْضَ
+  عُيُوناً فَالْتَقَى ٱلمَآءُ عَلَىٰ أَمْرٍ قَدْ قُدِرَ</a> <b>}</b></font>, <br/>,
+  <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">يقول
+  تعالى ذكره: { فَفَتَحْنا } لما دعانا نوح مستغيثاً بنا على قومه { أبْوَابَ السَّماءِ
+  بِمَاءٍ مُنْهَمِرٍ } وهو المندفق، كما قال امرؤ القيس في صفة غيث:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><table class=\"TextArabic\"
+  dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">رَاحَ تَمْرِيه الصَّبا ثُمَّ انْتَحَى</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">فِيهِ شُؤْبُوبُ جنوبٍ مُنْهَمِرْ</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">وبنحو الذي قلنا في ذلك قال أهل
+  التأويل. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن حُمَيد، قال: ثنا مهران،
+  عن سفيان { بِمَاءٍ مُنْهَمِرٍ } قال: ينصبّ انصباباً.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقوله:
+  { وَفَجَّرْنا الأرْضَ عُيُوناً } يقول جلّ ثناؤه: وأسلنا الأرض عيون الماء. كما:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن حُمَيد، قال: ثنا مهران، عن سفيان، في قوله: { وَفَجَّرْنا
+  الأرْضَ عُيُوناً } قال: فجَّرنا الأرض الماءَ وجاء من السماء.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">{ فالْتَقَى المَاءُ على أمْرٍ قَدْ قُدرْ } يقول تعالى ذكره: فالتقى
+  ماء السماء وماء الأرض على أمر قد قدره الله وقضاه، كما:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن حُمَيد، قال: ثنا مهران، عن سفيان { فالْتَقَى المَاءُ على أمْرٍ قَدْ قُدِرْ }
+  قال: ماء السماء وماء الأرض. وإنما قيل: فالتقى الماء على أمر قد قدر، والالتقاء لا
+  يكون من واحد، وإنما يكون من اثنين فصاعداً، لأن الماء قد يكون جمعاً وواحداً، وأريد
+  به في هذا الموضع: مياه السماء ومياه الأرض، فخرج بلفظ الواحد ومعناه الجمع. وقيل:
+  التقى الماء على أمر قد قُدر، لأن ذلك كان أمراً قد قضاه الله في اللوح المحفوظ. كما:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن بشار، قال: ثنا مؤمل، قال: ثنا سفيان، عن موسى بن عبيدة،
+  عن محمد بن كعب قال: كانت الأقوات قبل الأجساد، وكان القدر قبل البلاء، وتلا { فالْتَقَى
+  المَاءُ على أمْرٍ قَدْ قُدِرَ }.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

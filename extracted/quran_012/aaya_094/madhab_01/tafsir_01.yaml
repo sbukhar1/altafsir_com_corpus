@@ -1,4 +1,4 @@
-location:
+position:
   sura: '012'
   aaya: 094
   madhab: '01'
@@ -9,119 +9,308 @@ meta:
   year: '310'
 aaya: وَلَمَّا فَصَلَتِ الْعِيرُ قَالَ أَبُوهُمْ إِنِّي لَأَجِدُ رِيحَ يُوسُفَ ۖ لَوْلَا
   أَنْ تُفَنِّدُونِ
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَلَمَّا فَصَلَتِ
-  ٱلْعِيرُ قَالَ أَبُوهُمْ إِنِّي لأَجِدُ رِيحَ يُوسُفَ لَوْلاَ أَن تُفَنِّدُونِ }يقول
-  تعالى ذكره: ولـما فصلت عير بني يعقوب من عند يوسف متوجهة إلى يعقوب، قال أبوهم يعقوب:
-  { إنّي لأَجِدُ رِيحَ يُوسُفَ } ذكر أن الريح استأذنت ربها فـي أن تأتـي يعقوب بريح
-  يوسف قبل أن يأتـيه البشير، فأذن لها، فأتته بها. ذكر من قال ذلك:حدثنـي يونس، قال:
-  أخبرنا ابن وهب، قال: ثنـي أبو شريح، عن أبـي أيوب الهوزنـي، حدثه، قال: استأذنت الريح
-  أن تأتـي يعقوب بريح يوسف حين بعث بـالقميص إلـى أبـيه قبل أن يأتـيه البشير، ففعل،
-  قال يعقوب: { إنّـي لأجِدُ ريحَ يُوسُفَ لَوْلا أنْ تُفَنِّدُونِ }.حدثنا أبو كريب،
-  قال: ثنا وكيع، عن إسرائيـل، عن أبـي سنان، عن ابن أبـي الهذيـل، عن ابن عبـاس، فـي
-  قوله: { وَلـمَّا فَصَلَتِ العِيرُ قالَ أبُوهُمْ إنّـي لأَجِدُ رِيحَ يُوسُفَ لَوْلا
-  أنْ تُفَنِّدُونِ } قال: هاجت ريح، فجاءت بريح يوسف من مسيرة ثمان لـيال، فقال: { إنّـي
-  لأَجِدُ رِيحَ يُوسُفَ لَوْلا أنْ تُفَنِّدُونِ }.حدثنا ابن وكيع، قال: ثنا أبـي، عن
-  إسرائيـل، عن أبـي سنان، عن ابن أبـي الهذيـل، عن ابن عبـاس: { وَلـمَّا فَصَلَتِ العِيرُ
-  } قال: هاجت ريح، فجاءت بريح قميص يوسف من مسيرة ثمان لـيال.حدثنـي أبو السائب، قال:
-  ثنا ابن فضيـل، عن ضرار، عن ابن أبـي الهذيـل، قال: سمعت ابن عبـاس يقول: وجد يعقوب
-  ريح يوسف، وهو منه علـى مسيرة ثمان لـيال.حدثنا ابن وكيع والـحسن بن مـحمد، قالا: ثنا
-  سفـيان بن عيـينة، عن أبـي سنان، عن ابن أبـي الهذيـل، قال: كنت إلـى جنب ابن عبـاس،
-  فسئل: مِن كم وجدَ يعقوب ريح القميص؟ قال: من مسيرة سبع لـيال أو ثمان لـيال.حدثنا
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(12, 94)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(12,94)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَلَمَّا
+  فَصَلَتِ ٱلْعِيرُ قَالَ أَبُوهُمْ إِنِّي لأَجِدُ رِيحَ يُوسُفَ لَوْلاَ أَن تُفَنِّدُونِ</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">يقول تعالى ذكره: ولـما فصلت عير بني يعقوب من عند يوسف متوجهة إلى
+  يعقوب، قال أبوهم يعقوب: { إنّي لأَجِدُ رِيحَ يُوسُفَ } ذكر أن الريح استأذنت ربها
+  فـي أن تأتـي يعقوب بريح يوسف قبل أن يأتـيه البشير، فأذن لها، فأتته بها. ذكر من قال
+  ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي يونس، قال: أخبرنا ابن وهب،
+  قال: ثنـي أبو شريح، عن أبـي أيوب الهوزنـي، حدثه، قال: استأذنت الريح أن تأتـي يعقوب
+  بريح يوسف حين بعث بـالقميص إلـى أبـيه قبل أن يأتـيه البشير، ففعل، قال يعقوب: { إنّـي
+  لأجِدُ ريحَ يُوسُفَ لَوْلا أنْ تُفَنِّدُونِ }.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  أبو كريب، قال: ثنا وكيع، عن إسرائيـل، عن أبـي سنان، عن ابن أبـي الهذيـل، عن ابن
+  عبـاس، فـي قوله: { وَلـمَّا فَصَلَتِ العِيرُ قالَ أبُوهُمْ إنّـي لأَجِدُ رِيحَ يُوسُفَ
+  لَوْلا أنْ تُفَنِّدُونِ } قال: هاجت ريح، فجاءت بريح يوسف من مسيرة ثمان لـيال، فقال:
+  { إنّـي لأَجِدُ رِيحَ يُوسُفَ لَوْلا أنْ تُفَنِّدُونِ }.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن وكيع، قال: ثنا أبـي، عن إسرائيـل، عن أبـي سنان، عن ابن أبـي الهذيـل، عن ابن
+  عبـاس: { وَلـمَّا فَصَلَتِ العِيرُ } قال: هاجت ريح، فجاءت بريح قميص يوسف من مسيرة
+  ثمان لـيال.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي أبو السائب، قال: ثنا ابن
+  فضيـل، عن ضرار، عن ابن أبـي الهذيـل، قال: سمعت ابن عبـاس يقول: وجد يعقوب ريح يوسف،
+  وهو منه علـى مسيرة ثمان لـيال.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن وكيع والـحسن بن مـحمد، قالا: ثنا سفـيان بن عيـينة، عن أبـي سنان، عن ابن أبـي
+  الهذيـل، قال: كنت إلـى جنب ابن عبـاس، فسئل: مِن كم وجدَ يعقوب ريح القميص؟ قال: من
+  مسيرة سبع لـيال أو ثمان لـيال.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
   ابن وكيع، قال: ثنا جرير، عن أبـي سنان، عن أبـي الهذيـل، قال: قال لـي أصحابـي: إنك
   تأتـي ابن عبـاس، فسله لنا، قال: فقلت: ما أسأله عن شيء، ولكن أجلس خـلف السرير فـيأتـيه
   الكوفـيون فـيسألون عن حاجتهم وحاجتـي، فسمعته يقول: وجد يعقوب ريح قميص يوسف من مسيرة
-  ثمان لـيال، قال ابن أبـي الهذيـل: فقلت: ذاك كمكان البصرة من الكوفة.حدثنا الـحسن
-  بن مـحمد، قال: ثنا علـيّ بن عاصم، عن ضرار بن مرّة، عن عبد الله بن أبـي الهذيـل،
-  قال: سمعت ابن عبـاس يقول: وجد يعقوب ريح قميص يوسف من مسيرة ثمان لـيال. قال: فقلت
-  فـي نفسي: هذا كمكان البصرة من الكوفة.حدثناأبو كريب، قال: ثنا وكيع وحدثنا ابن وكيع،
-  قال: ثنا أبـي، عن سفـيان، عن أبـي سنان، عن ابن أبـي الهذيـل، عن ابن عبـاس، فـي قوله:
-  { إنّـي لأَجِدُ رِيحَ يُوسُفَ } قال: وجد ريح قميص يوسف من مسيرة ثمان لـيال. قال:
-  قلت له: ذاك كما بـين البصرة إلـى الكوفة.\r\n\t\t\t\r\n\t\t\t1 2 3 4 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَلَمَّا فَصَلَتِ ٱلْعِيرُ قَالَ أَبُوهُمْ
-  إِنِّي لأَجِدُ رِيحَ يُوسُفَ لَوْلاَ أَن تُفَنِّدُونِ }واللفظ لـحديث أبـي كريب.حدثنا
-  الـحسين بن مـحمد، قال: ثنا عاصم وعلـي، قالا: أخبرنا شعبة، قال: أخبرنـي أبو سنان،
-  قال: سمعت عبد الله بن أبـي الهذيـل، عن ابن عبـاس فـي هذه الآية: { إنّـي لأَجِدُ
-  رِيحَ يُوسُفَ } قال: وجد ريحه من مسيرة ما بـين البصرة إلـى الكوفة.حدثنـي الـمثنى،
-  قال: ثنا آدم العسقلانـي، قال: ثنا شعبة، قال: ثنا أبو سنان، قال: سمعت عبد الله بن
-  أبـي الهذيـل يحدث عن ابن عبـاس، مثله.قال: ثنا أبو نعيـم، قال: ثنا سفـيان، عن أبـي
-  سنان، عن عبد الله بن أبـي الهذيـل، قال: كنا عند ابن عبـاس فقال: { إنّـي لأَجِدُ
-  رِيحَ يُوسُفَ } قال: وجد ريح قميصه من مسيرة ثمان لـيال.حدثنا الـحسن بن يحيى، قال:
-  أخبرنا عبد الرزاق، قال: أخبرنا إسرائيـل، عن أبـي سنان، عن عبد الله بن أبـي الهذيـل،
-  قال: سمعت ابن عبـاس يقول: { وَلـما فَصَلَتِ العِيرُ } قال: لـما خرجت العير هاجت
-  ريح فجاءت يعقوب بريح قميص يوسف، فقال: { إنّـي لأَجِدُ رِيحَ يُوسُفَ لَوْلا أنْ تُفَنِّدُونِ
-  } قال: فوجد ريحه من مسيرة ثمان لـيال.حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن
-  قتادة، عن الـحسن: ذكر لنا أنه كان بـينهما يومئذٍ ثمانون فرسخاً، يوسف بأرض مصر ويعقوب
-  بأرض كنعان، وقد أتـى لذلك زمان طويـل.حدثنا القاسم، قال: ثنا الـحسين، قال: ثنـي حجاج،
-  عن ابن جريج، قوله: { إنّـي لأَجِدُ رِيحَ يُوسُفَ } قال: بلغنا أنه كان بـينهم يومئذٍ
-  ثمانون فرسخاً، وقال: { إنّـي لأَجِدُ رِيحَ يُوسُفَ } وكان قد فـارقه قبل ذلك سبعاً
-  وسبعين سنة.حدثنا أحمد بن إسحاق، قال: ثنا أبو أحمد، قال: ثنا سفـيان، عن أبـي سنان،
-  عن عبد الله بن أبـي الهذيـل عن ابن عبـاس، فـي قوله: { إنّـي لأَجِدُ رَيحَ يُوسُفَ
-  } قال: وجد ريح قميص من مسيرة ثمانـية أيام.قال: ثنا أبو أحمد، قال: ثنا إسرائيـل،
-  عن أبـي سنان، عن عبد الله بن أبـي الهذيـل، عن ابن عبـاس، قوله: { وَلـمَّا فَصَلَتِ
-  العِيرُ } قال: فلـما خرجت العير هبَّت ريح، فذهبت بريح قميص يوسف إلـى يعقوب، فقال:
-  { إنّـي لأجِدُ رِيحَ يُوسُفَ } قال: ووجد ريح قميصه من مسيرة ثمانـية أيام.حدثنا ابن
-  حميد، قال: ثنا سلـمة، عن ابن إسحاق قال: لـما فصلت العير من مصر استروح يعقوب ريح
-  يوسف، فقال لـمن عنده من ولده: { إنّـي لأجِدُ رِيحَ يُوسُفَ لَوْلا أنْ تُفَنِّدُونِ
-  }.وأما قوله: { لَوْلا أنْ تُفَنِّدُونِ } فإنه يعنـي: لولا أن تُعَنَّفُونـي، وتُعَجِّزونـي،
-  وتلُومونـي، وتكذّبونـي ومنه قول الشاعر:يا صاحِبَـيَّ دَعا لَوْمي وتَفْنِـيدِي   فلَـيْس
-  ما فـاتَ من أمْرِي بـمرْدودِويقال: أفند فلاناً الدهر، وذلك إذا أفسده ومنه قول ابن
-  مقبل:دَع الدَّهرَ يفْعَلْ ما أرَاد فإنَّه   إذا كُلِّفَ الإفْنادَ بـالنَّاس أفْنَداواختلف
-  أهل التأويـل فـي معناه، فقال بعضهم: معناه: لولا أن تسفهونـي.\r\n\t\t\t\r\n\t\t\t1 2 3 4 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَلَمَّا فَصَلَتِ ٱلْعِيرُ قَالَ أَبُوهُمْ
-  إِنِّي لأَجِدُ رِيحَ يُوسُفَ لَوْلاَ أَن تُفَنِّدُونِ }ذكر من قال ذلك:حدثنا ابن
-  وكيع، قال: ثنا ابن عيـينة، عن أبـي سنان، عن ابن أبـي الهذيـل، عن ابن عبـاس: { لَوْلا
-  أنْ تُفَنِّدُونِ } قال: تسفهون.حدثنا أبو كريب، قال: ثنا وكيع وحدثنا ابن وكيع، قال:
-  ثنا أبـي، عن إسرائيـل، عن أبـي سنان عن ابن أبـي الهذيـل، عن ابن عبـاس، مثله.وبه
-  قال: ثنا أبـي، عن سفـيان، عن خَصيف، عن مـجاهد: { لَوْلا أنْ تُفَنِّدُونِ } قال:
-  تسفهون.حدثنـي الـمثنى وعلـيّ بن داود، قالا: ثنا عبد الله، قال: ثنـي معاوية، عن علـيّ،
-  عن ابن عبـاس، قوله: { لَوْلا أنْ تُفَنِّدُونِ } يقول: تـجهلون.حدثنا أحمد بن إسحاق،
-  قال: ثنا أبو أحمد، قال: ثنا إسرائيـل، عن أبـي سنان، عن عبد الله بن أبـي الهذيـل،
-  عن ابن عبـاس: { لَوْلا أنْ تُفَنِّدُونِ } قال: لولا أن تسفهون.حدثنا أحمد، قال: ثنا
-  أبو أحمد وحدثنـي الـمثنى، قال: ثنا أبو نعيـم، قالا: جميعاً، ثنا سفـيان، عن خَصِيف،
-  عن مـجاهد: { لَوْلا أنْ تُفَنِّدُونِ } قال: لولا أن تسفهون.حدثنـي الـمثنى، قال:
-  ثنا الـحِمَّانـي، قال: ثنا شريك، عن أبـي سنان، عن سعيد بن جبـير، عن ابن عبـاس، وسالـم
-  عن سعيد: { لَوْلا أنْ تُفَنِّدُونْ } قال أحدهما: تسفهون، وقال الآخر: تكذّبون.حدثنـي
+  ثمان لـيال، قال ابن أبـي الهذيـل: فقلت: ذاك كمكان البصرة من الكوفة.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا الـحسن بن مـحمد، قال: ثنا علـيّ بن عاصم، عن ضرار بن مرّة،
+  عن عبد الله بن أبـي الهذيـل، قال: سمعت ابن عبـاس يقول: وجد يعقوب ريح قميص يوسف من
+  مسيرة ثمان لـيال. قال: فقلت فـي نفسي: هذا كمكان البصرة من الكوفة.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثناأبو كريب، قال: ثنا وكيع وحدثنا ابن وكيع، قال: ثنا أبـي، عن
+  سفـيان، عن أبـي سنان، عن ابن أبـي الهذيـل، عن ابن عبـاس، فـي قوله: { إنّـي لأَجِدُ
+  رِيحَ يُوسُفَ } قال: وجد ريح قميص يوسف من مسيرة ثمان لـيال. قال: قلت له: ذاك كما
+  بـين البصرة إلـى الكوفة.</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\"
+  border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE:
+  none; BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(12, 94)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(12,94)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَلَمَّا فَصَلَتِ ٱلْعِيرُ قَالَ أَبُوهُمْ إِنِّي
+  لأَجِدُ رِيحَ يُوسُفَ لَوْلاَ أَن تُفَنِّدُونِ</a> <b>}</b></font>, <br/>, <br/>,
+  <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">واللفظ
+  لـحديث أبـي كريب.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا الـحسين بن مـحمد، قال: ثنا
+  عاصم وعلـي، قالا: أخبرنا شعبة، قال: أخبرنـي أبو سنان، قال: سمعت عبد الله بن أبـي
+  الهذيـل، عن ابن عبـاس فـي هذه الآية: { إنّـي لأَجِدُ رِيحَ يُوسُفَ } قال: وجد ريحه
+  من مسيرة ما بـين البصرة إلـى الكوفة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  الـمثنى، قال: ثنا آدم العسقلانـي، قال: ثنا شعبة، قال: ثنا أبو سنان، قال: سمعت عبد
+  الله بن أبـي الهذيـل يحدث عن ابن عبـاس، مثله.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال:
+  ثنا أبو نعيـم، قال: ثنا سفـيان، عن أبـي سنان، عن عبد الله بن أبـي الهذيـل، قال:
+  كنا عند ابن عبـاس فقال: { إنّـي لأَجِدُ رِيحَ يُوسُفَ } قال: وجد ريح قميصه من مسيرة
+  ثمان لـيال.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا الـحسن بن يحيى، قال: أخبرنا
+  عبد الرزاق، قال: أخبرنا إسرائيـل، عن أبـي سنان، عن عبد الله بن أبـي الهذيـل، قال:
+  سمعت ابن عبـاس يقول: { وَلـما فَصَلَتِ العِيرُ } قال: لـما خرجت العير هاجت ريح فجاءت
+  يعقوب بريح قميص يوسف، فقال: { إنّـي لأَجِدُ رِيحَ يُوسُفَ لَوْلا أنْ تُفَنِّدُونِ
+  } قال: فوجد ريحه من مسيرة ثمان لـيال.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، عن الـحسن: ذكر لنا أنه كان بـينهما
+  يومئذٍ ثمانون فرسخاً، يوسف بأرض مصر ويعقوب بأرض كنعان، وقد أتـى لذلك زمان طويـل.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا القاسم، قال: ثنا الـحسين، قال: ثنـي حجاج، عن ابن جريج، قوله:
+  { إنّـي لأَجِدُ رِيحَ يُوسُفَ } قال: بلغنا أنه كان بـينهم يومئذٍ ثمانون فرسخاً،
+  وقال: { إنّـي لأَجِدُ رِيحَ يُوسُفَ } وكان قد فـارقه قبل ذلك سبعاً وسبعين سنة.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا أحمد بن إسحاق، قال: ثنا أبو أحمد، قال: ثنا سفـيان، عن أبـي
+  سنان، عن عبد الله بن أبـي الهذيـل عن ابن عبـاس، فـي قوله: { إنّـي لأَجِدُ رَيحَ
+  يُوسُفَ } قال: وجد ريح قميص من مسيرة ثمانـية أيام.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال:
+  ثنا أبو أحمد، قال: ثنا إسرائيـل، عن أبـي سنان، عن عبد الله بن أبـي الهذيـل، عن ابن
+  عبـاس، قوله: { وَلـمَّا فَصَلَتِ العِيرُ } قال: فلـما خرجت العير هبَّت ريح، فذهبت
+  بريح قميص يوسف إلـى يعقوب، فقال: { إنّـي لأجِدُ رِيحَ يُوسُفَ } قال: ووجد ريح قميصه
+  من مسيرة ثمانـية أيام.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن حميد، قال: ثنا سلـمة،
+  عن ابن إسحاق قال: لـما فصلت العير من مصر استروح يعقوب ريح يوسف، فقال لـمن عنده من
+  ولده: { إنّـي لأجِدُ رِيحَ يُوسُفَ لَوْلا أنْ تُفَنِّدُونِ }.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وأما قوله: { لَوْلا أنْ تُفَنِّدُونِ } فإنه يعنـي: لولا أن تُعَنَّفُونـي،
+  وتُعَجِّزونـي، وتلُومونـي، وتكذّبونـي ومنه قول الشاعر:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><table class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">يا صاحِبَـيَّ
+  دَعا لَوْمي وتَفْنِـيدِي</font></font></b></td><td class=\"TextArabic\">   </td><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">فلَـيْس
+  ما فـاتَ من أمْرِي بـمرْدودِ</font></font></b></td></tr></table><font class=\"TextResultArabic\"><font
+  color=\"black\">ويقال: أفند فلاناً الدهر، وذلك إذا أفسده ومنه قول ابن مقبل:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><table class=\"TextArabic\"
+  dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">دَع الدَّهرَ يفْعَلْ ما أرَاد فإنَّه</font></font></b></td><td class=\"TextArabic\">   </td><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">إذا كُلِّفَ
+  الإفْنادَ بـالنَّاس أفْنَدا</font></font></b></td></tr></table><font class=\"TextResultArabic\"><font
+  color=\"black\">واختلف أهل التأويـل فـي معناه، فقال بعضهم: معناه: لولا أن تسفهونـي.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(12, 94)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(12,94)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَلَمَّا فَصَلَتِ ٱلْعِيرُ قَالَ أَبُوهُمْ إِنِّي
+  لأَجِدُ رِيحَ يُوسُفَ لَوْلاَ أَن تُفَنِّدُونِ</a> <b>}</b></font>, <br/>, <br/>,
+  <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">ذكر
+  من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن وكيع، قال: ثنا ابن عيـينة،
+  عن أبـي سنان، عن ابن أبـي الهذيـل، عن ابن عبـاس: { لَوْلا أنْ تُفَنِّدُونِ } قال:
+  تسفهون.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا أبو كريب، قال: ثنا وكيع وحدثنا
+  ابن وكيع، قال: ثنا أبـي، عن إسرائيـل، عن أبـي سنان عن ابن أبـي الهذيـل، عن ابن عبـاس،
+  مثله.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وبه قال: ثنا أبـي، عن سفـيان، عن
+  خَصيف، عن مـجاهد: { لَوْلا أنْ تُفَنِّدُونِ } قال: تسفهون.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  الـمثنى وعلـيّ بن داود، قالا: ثنا عبد الله، قال: ثنـي معاوية، عن علـيّ، عن ابن عبـاس،
+  قوله: { لَوْلا أنْ تُفَنِّدُونِ } يقول: تـجهلون.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  أحمد بن إسحاق، قال: ثنا أبو أحمد، قال: ثنا إسرائيـل، عن أبـي سنان، عن عبد الله بن
+  أبـي الهذيـل، عن ابن عبـاس: { لَوْلا أنْ تُفَنِّدُونِ } قال: لولا أن تسفهون.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا أحمد، قال: ثنا أبو أحمد وحدثنـي الـمثنى، قال: ثنا أبو نعيـم،
+  قالا: جميعاً، ثنا سفـيان، عن خَصِيف، عن مـجاهد: { لَوْلا أنْ تُفَنِّدُونِ } قال:
+  لولا أن تسفهون.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي الـمثنى، قال: ثنا الـحِمَّانـي،
+  قال: ثنا شريك، عن أبـي سنان، عن سعيد بن جبـير، عن ابن عبـاس، وسالـم عن سعيد: { لَوْلا
+  أنْ تُفَنِّدُونْ } قال أحدهما: تسفهون، وقال الآخر: تكذّبون.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
   يعقوب، قال: ثنا هشيـم، قال: أخبرنا عبد الـملك بن أبـي سلـيـمان، عن عطاء: { لَوْلا
-  أنْ تُفَنِّدُونِ } قال: لولا أن تكذّبون، لولا أن تسفهون.حدثنا ابن وكيع، قال: ثنا
-  يزيد بن هارون، عن عبد الـملك، عن عطاء، قال: تسفهون.حدثنا بشر، قال: ثنا يزيد، قال:
-  ثنا سعيد، عن قتادة: { لَوْلا أنْ تُفَنِّدُونِ } يقول: لولا أن تسفهون.حدثنا مـحمد
-  بن عبد الأعلـى، قال: ثنا مـحمد بن ثور، عن معمر، عن قتادة: { لَوْلا أنْ تُفَنِّدونِ
-  } يقول: لولا أن تسفهون.حدثنا الـحسن بن يحيى، قال: أخبرنا عبد الرزاق، قال: أخبرنا
-  إسرائيـل، عن أبـي سنان، عن عبد الله بن أبـي الهذيـل، قال: سمعت ابن عبـاس يقول: {
-  لَوْلا أنْ تُفَنِّدُونِ } يقول: تسفهون.حدثنا الـحسن بن مـحمد، قال: ثنا شبـابة، قال:
-  ثنا ورقاء، عن ابن أبـي نـجيح، عن مـجاهد، قوله: { لَوْلا أنْ تُفَنِّدُونِ } قال:
-  ذهب عقله.حدثنـي مـحمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، عن ابن أبـي نـجيح،
-  عن مـجاهد: { لَوْلا أنْ تُفَنِّدُونِ } قال: قد ذهب عقله.حدثنـي الـمثنى، قال: ثنا
-  أبو حذيفة، قال: ثنا شبل، عن ابن أبـي نـجيح، عن مـجاهد وحدثنـي الـمثنى قال: ثنا إسحاق،
-  قال: ثنا عبد الله، عن ورقاء، عن ابن أبـي نـجيح، عن مـجاهد: { لَوْلا أنْ تُفَنِّدُونِ
-  } قال: قد ذهب عقله.حدثنا القاسم، قال: ثنا الـحسين، قال: ثنـي حجاج، عن ابن جريج،
-  عن مـجاهد: { لَوْلا أنْ تُفَنِّدُونِ } قال لولا أن تقولوا: ذهب عقلك.حدثنا ابن حميد،
-  قال: ثنا سلـمة، عن ابن إسحاق: { لَوْلا أنْ تُفَنِّدُونِ } يقول: لولا أن تضعفونـي.\r\n\t\t\t\r\n\t\t\t1 2 3 4 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَلَمَّا فَصَلَتِ ٱلْعِيرُ قَالَ أَبُوهُمْ
-  إِنِّي لأَجِدُ رِيحَ يُوسُفَ لَوْلاَ أَن تُفَنِّدُونِ }حدثنـي يونس، قال: أخبرنا
-  ابن وهب، قال: قال ابن زيد، فـي قوله: { لَوْلا أنْ تُفَنِّدُونِ } قال: الذي لـيس
-  له عقل ذلك الـمفند، يقولون لا يعقل.وقال آخرون: معناه: لولا أن تكذّبون. ذكر من قال
-  ذلك:حدثنا ابن وكيع، قال: ثنا سويد بن عمرو الكلبـي، عن شريك، عن سالـم: { لَوْلا أنْ
-  تُفَنِّدُونِ } قال: تكذبون.قال: ثنا عمرو، عن أسبـاط، عن السديّ، قال: لولا أن تهرّمون
-  وتكذّبون.قال: ثنا مـحمد بن بكر، عن ابن جريج، قال: بلغنـي عن مـجاهد، قال: تكذّبون.قال:
-  ثنا عبدة وأبو خالد، عن جويبر، عن الضحاك، قال: لولا أن تكذّبون.حُدثت عن الـحسين،
-  قال: سمعت أبـا معاذ، يقول: ثنا عبـيد بن سلـيـمان، قال: سمعت الضحاك يقول فـي قوله:
-  { لَوْلا تُفَنِّدُونِ } تكذّبون.حدثنـي الـمثنى، قال: ثنا عمرو، قال: أخبرنا هشيـم،
-  عن عبد الـملك، عن عطاء، فـي قوله: { لَوْلا أنْ تُفَنِّدُونِ } قال: تسفهون أو تكذّبون.حدثنـي
-  مـحمد بن سعد، قال: ثنـي أبـي، قال: ثنـي عمي، قال: ثنـي أبـي، عن أبـيه، عن ابن عبـاس،
-  قوله: { لَوْلا أنْ تُفَنِّدُونِ } يقول: تكذّبون.وقال آخرون: معناه تهرّمون. ذكر من
-  قال ذلك:حدثنا أحمد بن إسحاق، قال: ثنا أبو أحمد، قال: ثنا إسرائيـل، عن ابن أبـي نـجيح،
-  عن مـجاهد: { لَوْلا أنْ تُفَنِّدُونِ } قال: لولا أن تهرِّمون.حدثنا ابن وكيع، قال:
-  ثنا عبـيد الله، عن إسرائيـل، عن أبـي يحيى، عن مـجاهد، مثله.حدثنا بشر، قال: ثنا يزيد،
-  قال: ثنا سعيد، عن قتادة، عن الـحسن، قال: تُهرِّمون.حدثنـي يعقوب، قال: ثنا هشيـم،
-  قال: أخبرنا أبو الأشهب، عن الـحسن: { لَوْلا أنْ تُفَنِّدُونِ } قال: تهرمون.حدثنـي
-  الـمثنى، قال: ثنا عمرو بن عون، قال: أخبرنا هشيـم، عن أبـي الأشهب وغيره، عن الـحسن،
-  مثله.وقد بـيَّنا أن أصل التفنـيد: الإفساد. وإذا كان ذلك كذلك فـالضعف والهرم والكذب
-  وذهاب العقل وكل معانـي الإفساد تدخـل فـي التفنـيد، لأن أصل ذلك كله الفساد، والفساد
-  فـي الـجسم: الهرم وذهاب العقل والضعف، وفـي الفعل الكذب واللوم بـالبـاطل، ولذلك قال
-  جرير بن عطية:يا عاذلـيَّ دَعا الـمَلام وأقْصِرَا   طالَ الهَوَى وأطلْتُـما التَّفْنِـيدايعني
-  الملامة. فقد تبـين إذ كان الأمر علـى ما وصفنا أن الأقوال التـي قالها مَن ذكرنا قوله
-  فـي قوله: { لَوْلا أنْ تُفَنِّدُونِ } علـى اختلاف عبـاراتهم عن تأويـله، متقاربة
-  الـمعانـي، مـحتـمل جميعها ظاهر التنزيـل، إذ لـم يكن فـي الآية دلـيـل علـى أنه معنـيّ
-  به بعض ذلك دون بعض.\r\n\t\t\t\r\n\t\t\t1 2 3 4 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  أنْ تُفَنِّدُونِ } قال: لولا أن تكذّبون، لولا أن تسفهون.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن وكيع، قال: ثنا يزيد بن هارون، عن عبد الـملك، عن عطاء، قال: تسفهون.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة: { لَوْلا أنْ
+  تُفَنِّدُونِ } يقول: لولا أن تسفهون.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  مـحمد بن عبد الأعلـى، قال: ثنا مـحمد بن ثور، عن معمر، عن قتادة: { لَوْلا أنْ تُفَنِّدونِ
+  } يقول: لولا أن تسفهون.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا الـحسن بن يحيى، قال: أخبرنا
+  عبد الرزاق، قال: أخبرنا إسرائيـل، عن أبـي سنان، عن عبد الله بن أبـي الهذيـل، قال:
+  سمعت ابن عبـاس يقول: { لَوْلا أنْ تُفَنِّدُونِ } يقول: تسفهون.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا الـحسن بن مـحمد، قال: ثنا شبـابة، قال: ثنا ورقاء، عن ابن أبـي
+  نـجيح، عن مـجاهد، قوله: { لَوْلا أنْ تُفَنِّدُونِ } قال: ذهب عقله.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي مـحمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، عن ابن أبـي
+  نـجيح، عن مـجاهد: { لَوْلا أنْ تُفَنِّدُونِ } قال: قد ذهب عقله.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي الـمثنى، قال: ثنا أبو حذيفة، قال: ثنا شبل، عن ابن أبـي نـجيح،
+  عن مـجاهد وحدثنـي الـمثنى قال: ثنا إسحاق، قال: ثنا عبد الله، عن ورقاء، عن ابن أبـي
+  نـجيح، عن مـجاهد: { لَوْلا أنْ تُفَنِّدُونِ } قال: قد ذهب عقله.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا القاسم، قال: ثنا الـحسين، قال: ثنـي حجاج، عن ابن جريج، عن
+  مـجاهد: { لَوْلا أنْ تُفَنِّدُونِ } قال لولا أن تقولوا: ذهب عقلك.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن حميد، قال: ثنا سلـمة، عن ابن إسحاق: { لَوْلا أنْ تُفَنِّدُونِ
+  } يقول: لولا أن تضعفونـي.</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">3 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(12, 94)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(12,94)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَلَمَّا فَصَلَتِ ٱلْعِيرُ قَالَ أَبُوهُمْ إِنِّي
+  لأَجِدُ رِيحَ يُوسُفَ لَوْلاَ أَن تُفَنِّدُونِ</a> <b>}</b></font>, <br/>, <br/>,
+  <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، فـي قوله: { لَوْلا أنْ تُفَنِّدُونِ
+  } قال: الذي لـيس له عقل ذلك الـمفند، يقولون لا يعقل.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  آخرون: معناه: لولا أن تكذّبون. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن وكيع، قال: ثنا سويد بن عمرو الكلبـي، عن شريك، عن سالـم: { لَوْلا أنْ تُفَنِّدُونِ
+  } قال: تكذبون.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">قال: ثنا عمرو، عن أسبـاط، عن السديّ،
+  قال: لولا أن تهرّمون وتكذّبون.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال:
+  ثنا مـحمد بن بكر، عن ابن جريج، قال: بلغنـي عن مـجاهد، قال: تكذّبون.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قال: ثنا عبدة وأبو خالد، عن جويبر، عن الضحاك، قال: لولا أن تكذّبون.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حُدثت عن الـحسين، قال: سمعت أبـا معاذ، يقول: ثنا عبـيد بن سلـيـمان،
+  قال: سمعت الضحاك يقول فـي قوله: { لَوْلا تُفَنِّدُونِ } تكذّبون.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي الـمثنى، قال: ثنا عمرو، قال: أخبرنا هشيـم، عن عبد الـملك،
+  عن عطاء، فـي قوله: { لَوْلا أنْ تُفَنِّدُونِ } قال: تسفهون أو تكذّبون.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي مـحمد بن سعد، قال: ثنـي أبـي، قال: ثنـي عمي، قال: ثنـي أبـي،
+  عن أبـيه، عن ابن عبـاس، قوله: { لَوْلا أنْ تُفَنِّدُونِ } يقول: تكذّبون.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال آخرون: معناه تهرّمون. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  أحمد بن إسحاق، قال: ثنا أبو أحمد، قال: ثنا إسرائيـل، عن ابن أبـي نـجيح، عن مـجاهد:
+  { لَوْلا أنْ تُفَنِّدُونِ } قال: لولا أن تهرِّمون.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن وكيع، قال: ثنا عبـيد الله، عن إسرائيـل، عن أبـي يحيى، عن مـجاهد، مثله.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، عن الـحسن، قال:
+  تُهرِّمون.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي يعقوب، قال: ثنا هشيـم، قال:
+  أخبرنا أبو الأشهب، عن الـحسن: { لَوْلا أنْ تُفَنِّدُونِ } قال: تهرمون.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي الـمثنى، قال: ثنا عمرو بن عون، قال: أخبرنا هشيـم، عن أبـي
+  الأشهب وغيره، عن الـحسن، مثله.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقد
+  بـيَّنا أن أصل التفنـيد: الإفساد. وإذا كان ذلك كذلك فـالضعف والهرم والكذب وذهاب
+  العقل وكل معانـي الإفساد تدخـل فـي التفنـيد، لأن أصل ذلك كله الفساد، والفساد فـي
+  الـجسم: الهرم وذهاب العقل والضعف، وفـي الفعل الكذب واللوم بـالبـاطل، ولذلك قال جرير
+  بن عطية:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><table
+  class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">يا عاذلـيَّ دَعا الـمَلام وأقْصِرَا</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">طالَ الهَوَى وأطلْتُـما التَّفْنِـيدا</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">يعني الملامة. فقد تبـين إذ كان
+  الأمر علـى ما وصفنا أن الأقوال التـي قالها مَن ذكرنا قوله فـي قوله: { لَوْلا أنْ
+  تُفَنِّدُونِ } علـى اختلاف عبـاراتهم عن تأويـله، متقاربة الـمعانـي، مـحتـمل جميعها
+  ظاهر التنزيـل، إذ لـم يكن فـي الآية دلـيـل علـى أنه معنـيّ به بعض ذلك دون بعض.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">4 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section>"
 

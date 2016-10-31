@@ -1,4 +1,4 @@
-location:
+position:
   sura: '006'
   aaya: 099
   madhab: '01'
@@ -7,121 +7,292 @@ meta:
   title: تفسير جامع البيان في تفسير القرآن
   author: الطبري
   year: '310'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَهُوَ ٱلَّذِيۤ
-  أَنزَلَ مِنَ ٱلسَّمَآءِ مَآءً فَأَخْرَجْنَا بِهِ نَبَاتَ كُلِّ شَيْءٍ فَأَخْرَجْنَا
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(6, 99)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(6,99)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَهُوَ
+  ٱلَّذِيۤ أَنزَلَ مِنَ ٱلسَّمَآءِ مَآءً فَأَخْرَجْنَا بِهِ نَبَاتَ كُلِّ شَيْءٍ فَأَخْرَجْنَا
   مِنْهُ خَضِراً نُّخْرِجُ مِنْهُ حَبّاً مُّتَرَاكِباً وَمِنَ ٱلنَّخْلِ مِن طَلْعِهَا
   قِنْوَانٌ دَانِيَةٌ وَجَنَّٰتٍ مِّنْ أَعْنَابٍ وَٱلزَّيْتُونَ وَٱلرُّمَّانَ مُشْتَبِهاً
   وَغَيْرَ مُتَشَٰبِهٍ ٱنْظُرُوۤاْ إِلِىٰ ثَمَرِهِ إِذَآ أَثْمَرَ وَيَنْعِهِ إِنَّ
-  فِي ذٰلِكُمْ لأَيَٰتٍ لِّقَوْمٍ يُؤْمِنُونَ }يقول تعالى ذكره: والله الذي له العبادة
-  خالصة لا شركة فيه لشيء سواه، هو الإله { الَّذي أَنْزَلَ مِنَ السَّمَاء مَاءً فأخْرَجْنا
-  به نَبَاتَ كُلِّ شَيْءٍ } فأخرجنا بالماء الذي أنزلناه من السماء من غذاء الأنعام
-  والبهائم والطير والوحش، وأرزاق بني آدم وأقواتهم ما يتغذّون به ويأكلونه فينبتون عليه
-  وينمون.وإنما معنى قوله: { فَأخْرَجْنَا بِهِ نَباتَ كُلّ شَيْءٍ }: فأخرجنا به ما
-  ينبت به كلّ شيء وينمو عليه ويصلح. ولو قيل معناه: فأخرجنا به نبات جميع أنواع النبات
-  فيكون كلّ شيء هو أصناف النبات، كان مذهباً وإن كان الوجه الصحيح هو القول الأوّل.وقوله:
-  { فأخْرَجْنا مِنْهُ خَضِراً } يقول: فأخرجنا منه يعني من الماء الذي أنزلناه من السماء
-  خضراً رطباً من الزرع والخَضِرُ: هو الأخضر، كقول العرب: أرنيها نَمرَةً أُرِكْها مَطِرَةً،
-  يقال: خَضِرَت الأرضُ خَضَراً وَخَضارة، والخضر: رطب البقول، ويقال: نخلة خضيرة: إذا
-  كانت ترمي ببسرها أخضر قبل أن ينضج، وقد اختُضر الرجل واغتضر: إذا مات شابًّا مصححاً،
-  ويقال: هو لك خضراً مضراً: أي هنيئاً مريئاً. قوله: { نُخْرِجُ مِنْهُ حَبًّا مُتَرَاكِباً
-  } يقول: نخرج من الخضر حبًّا، يعني: ما في السنبل، سنبل الحنطة والشعير والأرز، وما
-  أشبه ذلك من السنابل التي حبها يركب بعضه بعضاً.وبنحو الذي قلنا في ذلك قال جماعة أهل
-  التأويل. ذكر من قال ذلك:حدثني محمد بن الحسين، قال: ثنا أحمد بن مفضل، قال: ثنا أسباط،
-  عن السديّ، قوله: { مِنْه خَضِراً نُخْرِجُ مِنْهُ حَبًّا مُتَرَاكِباً } فهذا السنبل.القول
-  في تأويل قوله تعالى: { وَمِنَ النَّخْلِ مِنْ طَلْعِها قِنْوَانٌ دَانِيَةٌ }.يقول
-  تعالى ذكره: ومن النخل من طلعها قنوان دانية ولذلك رفعت «القنوان». والقنوان: جمع قِنْو،
-  كما الصنوان: جمع صِنْو، وهو العِذْق، يقال للواحد: هو قِنو وقُنْو وقَنَا: يثنى قِنوانِ،
-  ويجمع قِنوانٌ وقُنْوانٌ، قالوا في جمع قليله: ثلاثة أقناء، والقِنْوان: من لغة الحجاز،
-  والقنوان: من لغة قيس وقال امرؤ القيس:فأثَّتْ أعالِيهِ وآدَتْ أُصُولُهُ   وَمالَ
-  بِقِنْوَانٍ مِنَ البُسْرِ أحْمَرَاوقنيان جميعاً وقال آخر:لَهَا ذَنَبٌ كالْقِنْوِ
-  قَدْ مَذِلَتْ بِهِ   وأسْحَمَ للتَّخْطارِ بَعْدَ التَّشَذُّرِوتميم تقول: قنيان بالياء.
-  ويعني بقوله: «دانية»: قريبة متهدلة.وبنحو الذي قلنا في ذلك قال أهل التأويل. ذكر من
-  قال ذلك:حدثنا المثنى، قال: ثنا عبد الله بن صالح، قال: ثني معاوية بن صالح، عن عليّ
-  بن أبي طلحة، عن ابن عباس: { قِنْوَانٌ دَانِيَةٌ } يعني بالقنوان الدانية: قصار النخل
-  لاصقة عذوقها بالأرض.حدثنا بشر بن معاذ، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله:
-  { مِنْ طَلْعِها قِنْوَانٌ دَانِيَةٌ } قال: عذوق متهدلة.حدثنا محمد بن الأعلى، قال:
-  ثنا محمد بن ثور، عن معمر، عن قتادة: { قِنْوَانٌ دَانِيَةٌ } يقول: متهدلة.\r\n\t\t\t\r\n\t\t\t1 2 3 4 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَهُوَ ٱلَّذِيۤ أَنزَلَ مِنَ ٱلسَّمَآءِ
-  مَآءً فَأَخْرَجْنَا بِهِ نَبَاتَ كُلِّ شَيْءٍ فَأَخْرَجْنَا مِنْهُ خَضِراً نُّخْرِجُ
-  مِنْهُ حَبّاً مُّتَرَاكِباً وَمِنَ ٱلنَّخْلِ مِن طَلْعِهَا قِنْوَانٌ دَانِيَةٌ وَجَنَّٰتٍ
-  مِّنْ أَعْنَابٍ وَٱلزَّيْتُونَ وَٱلرُّمَّانَ مُشْتَبِهاً وَغَيْرَ مُتَشَٰبِهٍ ٱنْظُرُوۤاْ
-  إِلِىٰ ثَمَرِهِ إِذَآ أَثْمَرَ وَيَنْعِهِ إِنَّ فِي ذٰلِكُمْ لأَيَٰتٍ لِّقَوْمٍ
-  يُؤْمِنُونَ }حدثنا هناد، قال: ثنا وكيع، وحدثنا ابن وكيع، قال: ثنا أبي، عن سفيان،
-  عن أبي إسحاق، عن البراء، في قوله: { قِنْوَانٌ دَانِيَةٌ } قال: قريبة.حدثنا الحسن
-  بن يحيى، قال: أخبرنا عبد الرزاق، قال: أخبرنا الثوري، عن أبي إسحاق، عن البراء بن
-  عازب: { قِنْوَانٌ دَانِيَةٌ } قال: قريبة.حدثني محمد بن سعيد، قال: ثني أبي، قال:
-  ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس، قوله: { وَمِنَ النَّخْلِ مِنْ طَلُعِها
-  قِنْوَانٌ دَانِيَةٌ } قال: الدانية لتهدّل العذوق من الطلع.حُدثت عن الحسين بن الفرج،
-  قال: سمعت أبا معاذ، قال: ثنا عبيد بن سليمان، قال: سمعت الضحاك يقول في قوله: { وَمِنَ
-  النَّخْلِ مِنْ طَلْعها قِنْوَانٌ دَانِيَةٌ } يعني: النخل القصار الملتزقة بالأرض،
-  والقنوان: طلعه.القول في تأويل قوله تعالى: { وَجَنَّاتٍ مِنْ أعْنَابٍ والزَّيْتُونَ
-  والرُّمَّانِ مُشْتَبِهاً وَغيرَ مُتَشابِه }.يقول تعالى ذكره: وأخرجنا أيضاً جنات
-  من أعناب، يعني: بساتين من أعناب.واختلف القرّاء في قراءة ذلك، فقرأه عامة القرّاء:
-  { وَجَنَّاتٍ } نصباً، غير أن التاء كسرت لأنها تاء جمع المؤنث، وهي تخفض (في) موضع
-  النصب. وقد:حدثني الحارث، قال: ثنا القاسم بن سلام، عن الكسائي، قال: أخبرنا حمزة،
-  عن الأعمش، أنه قرأ: { وَجَنَّاتٍ مِنْ أعْنَابٍ } بالرفع، فرفع «جنات» على إتباعها
-  «القنوان» في الإعراب، وإن لم تكن من جنسها، كما قال الشاعر:ورأيْت زَوْجَكِ في الوَغَى   مُتَقَلِّداً
-  سَيْفاً وَرُمْحَاوالقراءة التي لا أستجيز أن يُقرأ ذلك إلا بها النصب { وَجَنَّاتٍ
+  فِي ذٰلِكُمْ لأَيَٰتٍ لِّقَوْمٍ يُؤْمِنُونَ</a> <b>}</b></font>, <br/>, <br/>, <div
+  align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">يقول
+  تعالى ذكره: والله الذي له العبادة خالصة لا شركة فيه لشيء سواه، هو الإله { الَّذي
+  أَنْزَلَ مِنَ السَّمَاء مَاءً فأخْرَجْنا به نَبَاتَ كُلِّ شَيْءٍ } فأخرجنا بالماء
+  الذي أنزلناه من السماء من غذاء الأنعام والبهائم والطير والوحش، وأرزاق بني آدم وأقواتهم
+  ما يتغذّون به ويأكلونه فينبتون عليه وينمون.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وإنما
+  معنى قوله: { فَأخْرَجْنَا بِهِ نَباتَ كُلّ شَيْءٍ }: فأخرجنا به ما ينبت به كلّ شيء
+  وينمو عليه ويصلح. ولو قيل معناه: فأخرجنا به نبات جميع أنواع النبات فيكون كلّ شيء
+  هو أصناف النبات، كان مذهباً وإن كان الوجه الصحيح هو القول الأوّل.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقوله: { فأخْرَجْنا مِنْهُ خَضِراً } يقول: فأخرجنا منه يعني من الماء
+  الذي أنزلناه من السماء خضراً رطباً من الزرع والخَضِرُ: هو الأخضر، كقول العرب: أرنيها
+  نَمرَةً أُرِكْها مَطِرَةً، يقال: خَضِرَت الأرضُ خَضَراً وَخَضارة، والخضر: رطب البقول،
+  ويقال: نخلة خضيرة: إذا كانت ترمي ببسرها أخضر قبل أن ينضج، وقد اختُضر الرجل واغتضر:
+  إذا مات شابًّا مصححاً، ويقال: هو لك خضراً مضراً: أي هنيئاً مريئاً. قوله: { نُخْرِجُ
+  مِنْهُ حَبًّا مُتَرَاكِباً } يقول: نخرج من الخضر حبًّا، يعني: ما في السنبل، سنبل
+  الحنطة والشعير والأرز، وما أشبه ذلك من السنابل التي حبها يركب بعضه بعضاً.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وبنحو الذي قلنا في ذلك قال جماعة أهل التأويل. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني محمد بن الحسين، قال: ثنا أحمد بن مفضل، قال: ثنا أسباط، عن
+  السديّ، قوله: { مِنْه خَضِراً نُخْرِجُ مِنْهُ حَبًّا مُتَرَاكِباً } فهذا السنبل.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">القول في تأويل قوله تعالى: { وَمِنَ النَّخْلِ مِنْ طَلْعِها قِنْوَانٌ
+  دَانِيَةٌ }.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">يقول تعالى ذكره: ومن النخل من طلعها
+  قنوان دانية ولذلك رفعت «القنوان». والقنوان: جمع قِنْو، كما الصنوان: جمع صِنْو، وهو
+  العِذْق، يقال للواحد: هو قِنو وقُنْو وقَنَا: يثنى قِنوانِ، ويجمع قِنوانٌ وقُنْوانٌ،
+  قالوا في جمع قليله: ثلاثة أقناء، والقِنْوان: من لغة الحجاز، والقنوان: من لغة قيس
+  وقال امرؤ القيس:</font></font><table class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">فأثَّتْ
+  أعالِيهِ وآدَتْ أُصُولُهُ</font></font></b></td><td class=\"TextArabic\">   </td><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">وَمالَ بِقِنْوَانٍ
+  مِنَ البُسْرِ أحْمَرَا</font></font></b></td></tr></table><font class=\"TextResultArabic\"><font
+  color=\"black\">وقنيان جميعاً وقال آخر:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><table class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">لَهَا ذَنَبٌ
+  كالْقِنْوِ قَدْ مَذِلَتْ بِهِ</font></font></b></td><td class=\"TextArabic\">   </td><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">وأسْحَمَ
+  للتَّخْطارِ بَعْدَ التَّشَذُّرِ</font></font></b></td></tr></table><font class=\"TextResultArabic\"><font
+  color=\"black\">وتميم تقول: قنيان بالياء. ويعني بقوله: «دانية»: قريبة متهدلة.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وبنحو الذي قلنا في ذلك قال أهل التأويل. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا المثنى، قال: ثنا عبد الله بن صالح، قال: ثني معاوية بن صالح،
+  عن عليّ بن أبي طلحة، عن ابن عباس: { قِنْوَانٌ دَانِيَةٌ } يعني بالقنوان الدانية:
+  قصار النخل لاصقة عذوقها بالأرض.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  بشر بن معاذ، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: { مِنْ طَلْعِها قِنْوَانٌ
+  دَانِيَةٌ } قال: عذوق متهدلة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  محمد بن الأعلى، قال: ثنا محمد بن ثور، عن معمر، عن قتادة: { قِنْوَانٌ دَانِيَةٌ }
+  يقول: متهدلة.</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\"
+  border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE:
+  none; BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(6, 99)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(6,99)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَهُوَ ٱلَّذِيۤ أَنزَلَ مِنَ ٱلسَّمَآءِ مَآءً فَأَخْرَجْنَا
+  بِهِ نَبَاتَ كُلِّ شَيْءٍ فَأَخْرَجْنَا مِنْهُ خَضِراً نُّخْرِجُ مِنْهُ حَبّاً مُّتَرَاكِباً
+  وَمِنَ ٱلنَّخْلِ مِن طَلْعِهَا قِنْوَانٌ دَانِيَةٌ وَجَنَّٰتٍ مِّنْ أَعْنَابٍ وَٱلزَّيْتُونَ
+  وَٱلرُّمَّانَ مُشْتَبِهاً وَغَيْرَ مُتَشَٰبِهٍ ٱنْظُرُوۤاْ إِلِىٰ ثَمَرِهِ إِذَآ
+  أَثْمَرَ وَيَنْعِهِ إِنَّ فِي ذٰلِكُمْ لأَيَٰتٍ لِّقَوْمٍ يُؤْمِنُونَ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا هناد، قال: ثنا وكيع، وحدثنا ابن وكيع، قال: ثنا أبي، عن سفيان،
+  عن أبي إسحاق، عن البراء، في قوله: { قِنْوَانٌ دَانِيَةٌ } قال: قريبة.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا الحسن بن يحيى، قال: أخبرنا عبد الرزاق، قال: أخبرنا الثوري،
+  عن أبي إسحاق، عن البراء بن عازب: { قِنْوَانٌ دَانِيَةٌ } قال: قريبة.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني محمد بن سعيد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن
+  أبيه، عن ابن عباس، قوله: { وَمِنَ النَّخْلِ مِنْ طَلُعِها قِنْوَانٌ دَانِيَةٌ }
+  قال: الدانية لتهدّل العذوق من الطلع.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حُدثت
+  عن الحسين بن الفرج، قال: سمعت أبا معاذ، قال: ثنا عبيد بن سليمان، قال: سمعت الضحاك
+  يقول في قوله: { وَمِنَ النَّخْلِ مِنْ طَلْعها قِنْوَانٌ دَانِيَةٌ } يعني: النخل
+  القصار الملتزقة بالأرض، والقنوان: طلعه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">القول
+  في تأويل قوله تعالى: { وَجَنَّاتٍ مِنْ أعْنَابٍ والزَّيْتُونَ والرُّمَّانِ مُشْتَبِهاً
+  وَغيرَ مُتَشابِه }.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">يقول تعالى ذكره: وأخرجنا أيضاً
+  جنات من أعناب، يعني: بساتين من أعناب.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">واختلف
+  القرّاء في قراءة ذلك، فقرأه عامة القرّاء: { وَجَنَّاتٍ } نصباً، غير أن التاء كسرت
+  لأنها تاء جمع المؤنث، وهي تخفض (في) موضع النصب. وقد:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  الحارث، قال: ثنا القاسم بن سلام، عن الكسائي، قال: أخبرنا حمزة، عن الأعمش، أنه قرأ:
+  { وَجَنَّاتٍ مِنْ أعْنَابٍ } بالرفع، فرفع «جنات» على إتباعها «القنوان» في الإعراب،
+  وإن لم تكن من جنسها، كما قال الشاعر:</font></font><table class=\"TextArabic\" dir=\"rtl\"><tr
+  class=\"TextArabic\"><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">ورأيْت زَوْجَكِ في الوَغَى</font></font></b></td><td class=\"TextArabic\">   </td><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">مُتَقَلِّداً
+  سَيْفاً وَرُمْحَا</font></font></b></td></tr></table><font class=\"TextResultArabic\"><font
+  color=\"black\">والقراءة التي لا أستجيز أن يُقرأ ذلك إلا بها النصب { وَجَنَّاتٍ
   مِنْ أعْنَابٍ } لإجماع الحجة من القرّاء على تصويبها والقراءة بها ورفضهم ما عداها،
   وبُعْد معنى ذلك من الصواب إذ قرىء رفعاً. وقوله: { والزَّيْتُونَ والرُّمَّانِ } عطف
-  بالزيتون على «الجنات» بمعنى: وأخرجنا الزيتون والرمان مشتبهاً وغير متشابه.وكان قتادة
-  يقول في معنى { مُشْتَبِهاً وَغيرَ مُتَشابِه } ما:حدثنا بشر بن معاذ، قال: ثنا يزيد،
-  قال: ثنا سعيد، عن قتادة، قوله: { وَجَنَّاتٍ مِنْ أعْنَابٍ والزَّيْتُونَ والرُّمَّانِ
-  مُشْتَبِهاً وَغيرَ مُتَشابِه } قال: مشتبهاً ورقه، مختلفاً ثمره.وجائز أن يكون مراداً
-  به: مشتبهاً في الخلق مختلفاً في الطعم ومعنى الكلام: وشجر الزيتون والرمان، فاكتفى
-  من ذكر الشجر بذكر ثمره، كما قيل: وَاسأل القَرْيَةَ فاكتفى بذكر القرية من ذكر أهلها،
-  لمعرفة المخاطبين بذلك بمعناه.القول في تأويل قوله تعالى: { انْظُرُوا إلى ثَمَرِهِ
-  إذَا أثْمَرَ وَيَنْعِهِ }.اختلفت القرّاء في قراءة ذلك، فقرأته عامة قرّاء أهل المدينة
-  وبعض أهل البصرة: { انْظُرُوا إلى ثَمَرِهِ } بفتح الثاء والميم، وقرأه بعض قراء أهل
-  مكة وعامة قرّاء الكوفيين: { إلى ثُمُرِهِ } بضم الثاء والميم. فكأنَّ من فتح الثاء
-  والميم من ذلك وجَّه معنى الكلام: انظروا إلى ثمر هذه الأشجار التي سمينا من النخل
-  والأعناب والزيتون والرمان إذا أثمر وأن الثَّمَر جمع ثمرة، كما القَصَب جمع قصبة،
-  والخشب جمع خشبة. وكأن من ضمّ الثاء والميم، وجه ذلك إلى أنه جمع ثمار، كما الحُمُر
-  جمع حمار، والجُرُب جمع جراب.\r\n\t\t\t\r\n\t\t\t1 2 3 4 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَهُوَ ٱلَّذِيۤ أَنزَلَ مِنَ ٱلسَّمَآءِ
-  مَآءً فَأَخْرَجْنَا بِهِ نَبَاتَ كُلِّ شَيْءٍ فَأَخْرَجْنَا مِنْهُ خَضِراً نُّخْرِجُ
-  مِنْهُ حَبّاً مُّتَرَاكِباً وَمِنَ ٱلنَّخْلِ مِن طَلْعِهَا قِنْوَانٌ دَانِيَةٌ وَجَنَّٰتٍ
-  مِّنْ أَعْنَابٍ وَٱلزَّيْتُونَ وَٱلرُّمَّانَ مُشْتَبِهاً وَغَيْرَ مُتَشَٰبِهٍ ٱنْظُرُوۤاْ
-  إِلِىٰ ثَمَرِهِ إِذَآ أَثْمَرَ وَيَنْعِهِ إِنَّ فِي ذٰلِكُمْ لأَيَٰتٍ لِّقَوْمٍ
-  يُؤْمِنُونَ }وقد:حدثني المثنى، قال: ثنا إسحاق، قال: ثنا عبد الرحمن بن أبي حماد،
-  عن ابن إدريس، عن الأعمش، عن يحيى بن وثاب، أنه كان يقرأ: «إلى ثُمُرِهِ» يقول: هو
-  أصناف المال.حدثني المثنى، قال: ثنا إسحاق، ثنا بن أبي حماد، قال: ثنا محمد بن عبيد
-  الله، عن قيس بن سعد، عن مجاهد، قال الثُّمُر: هو المال، والثَّمَر: ثمر النخل.وأولى
+  بالزيتون على «الجنات» بمعنى: وأخرجنا الزيتون والرمان مشتبهاً وغير متشابه.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وكان قتادة يقول في معنى { مُشْتَبِهاً وَغيرَ مُتَشابِه } ما:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا بشر بن معاذ، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله:
+  { وَجَنَّاتٍ مِنْ أعْنَابٍ والزَّيْتُونَ والرُّمَّانِ مُشْتَبِهاً وَغيرَ مُتَشابِه
+  } قال: مشتبهاً ورقه، مختلفاً ثمره.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وجائز
+  أن يكون مراداً به: مشتبهاً في الخلق مختلفاً في الطعم ومعنى الكلام: وشجر الزيتون
+  والرمان، فاكتفى من ذكر الشجر بذكر ثمره، كما قيل: وَاسأل القَرْيَةَ فاكتفى بذكر القرية
+  من ذكر أهلها، لمعرفة المخاطبين بذلك بمعناه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">القول
+  في تأويل قوله تعالى: { انْظُرُوا إلى ثَمَرِهِ إذَا أثْمَرَ وَيَنْعِهِ }.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">اختلفت القرّاء في قراءة ذلك، فقرأته عامة قرّاء أهل المدينة وبعض
+  أهل البصرة: { انْظُرُوا إلى ثَمَرِهِ } بفتح الثاء والميم، وقرأه بعض قراء أهل مكة
+  وعامة قرّاء الكوفيين: { إلى ثُمُرِهِ } بضم الثاء والميم. فكأنَّ من فتح الثاء والميم
+  من ذلك وجَّه معنى الكلام: انظروا إلى ثمر هذه الأشجار التي سمينا من النخل والأعناب
+  والزيتون والرمان إذا أثمر وأن الثَّمَر جمع ثمرة، كما القَصَب جمع قصبة، والخشب جمع
+  خشبة. وكأن من ضمّ الثاء والميم، وجه ذلك إلى أنه جمع ثمار، كما الحُمُر جمع حمار،
+  والجُرُب جمع جراب.</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(6, 99)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(6,99)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَهُوَ ٱلَّذِيۤ أَنزَلَ مِنَ ٱلسَّمَآءِ مَآءً فَأَخْرَجْنَا
+  بِهِ نَبَاتَ كُلِّ شَيْءٍ فَأَخْرَجْنَا مِنْهُ خَضِراً نُّخْرِجُ مِنْهُ حَبّاً مُّتَرَاكِباً
+  وَمِنَ ٱلنَّخْلِ مِن طَلْعِهَا قِنْوَانٌ دَانِيَةٌ وَجَنَّٰتٍ مِّنْ أَعْنَابٍ وَٱلزَّيْتُونَ
+  وَٱلرُّمَّانَ مُشْتَبِهاً وَغَيْرَ مُتَشَٰبِهٍ ٱنْظُرُوۤاْ إِلِىٰ ثَمَرِهِ إِذَآ
+  أَثْمَرَ وَيَنْعِهِ إِنَّ فِي ذٰلِكُمْ لأَيَٰتٍ لِّقَوْمٍ يُؤْمِنُونَ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">وقد:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثني المثنى، قال: ثنا إسحاق، قال:
+  ثنا عبد الرحمن بن أبي حماد، عن ابن إدريس، عن الأعمش، عن يحيى بن وثاب، أنه كان يقرأ:
+  «إلى ثُمُرِهِ» يقول: هو أصناف المال.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  المثنى، قال: ثنا إسحاق، ثنا بن أبي حماد، قال: ثنا محمد بن عبيد الله، عن قيس بن سعد،
+  عن مجاهد، قال الثُّمُر: هو المال، والثَّمَر: ثمر النخل.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وأولى
   القراءتين في ذلك عند بالصواب، قراءة من قرأ: { انْظُرُوا إلى ثُمُرِهِ } بضمّ الثاء
   والميم، لأن الله جلّ ثناؤه وصف أصنافاً من المال، كما قال يحيى بن وثاب. وكذلك حبّ
   الزرع المتراكب، وقنوان النخل الدانية، والجنات من الأعناب والزيتون والرمان، فكان
   ذلك أنواعاً من الثمر، فجمعت الثمرة ثَمراً ثم جمع الثمر ثماراً، ثم جمع ذلك فقيل:
-  «انظروا إلى ثُمُره»، فكان ذلك جمع الثمار، والثمار جمع الثمرة، وإثماره: عقد الثمر.وأما
-  قوله: { وَيَنْعِهِ } فإنه نضجه وبلوغه حين يبلغ. وكان بعض أهل العلم بكلام العرب من
-  أهل البصرة يقول في «يَنْعِهِ» إذا فتحت ياؤه: هو جمع يانع، كما التَّجْر: جمع تاجر،
-  والصَّحْب: جمع صاحب. وكان بعض أهل مكة ينكر ذلك ويرى أنه مصدر، من قولهم: ينع الثمر
-  فهو يَيْنَع يَنْعاً، ويحكى في مصدره عن العرب لغات ثلاثاً: يَنْع، ويُنْعٌ، ويَنَع،
-  وكذلك في النَّضْج النُّضْج والنَّضَج.وأما في قراءة من قرأ ذلك: «ويَانِعِهِ» فإنه
-  يعني به: وناضجه وبالغه وقد يجوز في مصدره ينُوعاً، ومسموع من العرب: أينعت الثمرة
-  تونع إيناعاً ومن لغة اللذين قالوا يَنَع، قول الشاعر:فِي قِبابٍ عِنْدَ دَسْكَرَةٍ   حَوْلَهَا
-  الزَّيْتُونُ قَدْ يَنَعاوبنحو الذي قلنا في ذلك قال أهل التأويل. ذكر من قال ذلك:حدثني
-  المثنى، قال: ثنا عبد الله بن صالح، قال: ثني معاوية بن صالح، عن عليّ بن أبي طلحة،
-  عن ابن عباس: { ويَنْعِهِ } يعني: إذا نضج.حدثني محمد بن سعد، قال: ثني أبي، قال: ثني
-  عمي، قال: ثني أبي، عن أبيه، عن ابن عباس قوله: { انْطُرُوا إلى ثَمَرِهِ إذَا أثْمَرَ
-  وَيَنْعِهِ } قال: ينعه: نضجه.حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة:
-  { انْظُرُوا إلى ثَمَرِهِ إذَا أثْمَرَ ويَنْعِهِ } أي نضجه.حدثنا الحسن بن يحيى، قال:
-  أخبرنا عبد الرزاق، قال: أخبرنا معمر، عن قتادة، في قوله: { وَيَنْعِهِ } قال: نضجه.حدثني
-  محمد بن الحسين، قال: ثنا أحمد بن المفضل، قال: ثنا أسباط، عن السديّ: { ويَنْعِهِ
-  } يقول: ونضجه.حُدثت عن الحسين بن الفرج، قال: سمعت أبا معاذ، قال: ثنا عبيد بن سليمان،
-  قال: سمعت الضحاك يقول في قوله: { وَيَنْعِهِ } قال: يعني: نضجه.حدثنا القاسم، قال:
-  ثنا الحسين، قال: ثني حجاج، عن ابن جريج، قال: قال ابن عباس: { وَيَنْعِهِ } قال: نضجه.\r\n\t\t\t\r\n\t\t\t1 2 3 4 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَهُوَ ٱلَّذِيۤ أَنزَلَ مِنَ ٱلسَّمَآءِ
-  مَآءً فَأَخْرَجْنَا بِهِ نَبَاتَ كُلِّ شَيْءٍ فَأَخْرَجْنَا مِنْهُ خَضِراً نُّخْرِجُ
-  مِنْهُ حَبّاً مُّتَرَاكِباً وَمِنَ ٱلنَّخْلِ مِن طَلْعِهَا قِنْوَانٌ دَانِيَةٌ وَجَنَّٰتٍ
-  مِّنْ أَعْنَابٍ وَٱلزَّيْتُونَ وَٱلرُّمَّانَ مُشْتَبِهاً وَغَيْرَ مُتَشَٰبِهٍ ٱنْظُرُوۤاْ
-  إِلِىٰ ثَمَرِهِ إِذَآ أَثْمَرَ وَيَنْعِهِ إِنَّ فِي ذٰلِكُمْ لأَيَٰتٍ لِّقَوْمٍ
-  يُؤْمِنُونَ }القول في تأويل قوله تعالى: { إنَّ فِي ذَلكَ لآياتٍ لِقَوْمٍ يُؤْمِنُونَ
-  }.يقول تعالى ذكره: إن في إنزال الله تعالى من السماء الماء الذي أخرج به نبات كلّ
-  شيء، والخضر الذي أخرج منه الحبّ المتراكب، وسائر ما عدّد في هذه الآية من صنوف خلقه
-  { لآيَاتٍ } يقول: في ذلكم أيها الناس إذا أنتم نظرتم إلى ثمره عند عقد ثمره، وعند
-  ينعه وانتهائه، فرأيتم اختلاف أحواله وتصرّفه في زيادته ونموّه، علمتم أن له مدبراً
-  ليس كمثله شيء، ولا تصلح العبادة إلاَّ له دون الآلهة والأنداد، وكان فيه حجج وبرهان
-  وبيان { لَقوْمٍ يُؤْمِنُونَ } يقول: لقوم يصدّقون بوحدانية الله وقدرته على ما يشاء.
-  وخصّ بذلك تعالى ذكره القوم الذين يؤمنون، لأنهم هم المنتفعون بحجج الله والمعتبرون
-  بها، دون من قد طبع على قلبه فلا يعرف حقًّا من باطل ولا يتبين هدى من ضلالة.\r\n\t\t\t\r\n\t\t\t1 2 3 4 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  «انظروا إلى ثُمُره»، فكان ذلك جمع الثمار، والثمار جمع الثمرة، وإثماره: عقد الثمر.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وأما قوله: { وَيَنْعِهِ } فإنه نضجه وبلوغه حين يبلغ. وكان بعض أهل
+  العلم بكلام العرب من أهل البصرة يقول في «يَنْعِهِ» إذا فتحت ياؤه: هو جمع يانع، كما
+  التَّجْر: جمع تاجر، والصَّحْب: جمع صاحب. وكان بعض أهل مكة ينكر ذلك ويرى أنه مصدر،
+  من قولهم: ينع الثمر فهو يَيْنَع يَنْعاً، ويحكى في مصدره عن العرب لغات ثلاثاً: يَنْع،
+  ويُنْعٌ، ويَنَع، وكذلك في النَّضْج النُّضْج والنَّضَج.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وأما
+  في قراءة من قرأ ذلك: «ويَانِعِهِ» فإنه يعني به: وناضجه وبالغه وقد يجوز في مصدره
+  ينُوعاً، ومسموع من العرب: أينعت الثمرة تونع إيناعاً ومن لغة اللذين قالوا يَنَع،
+  قول الشاعر:</font></font><table class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">فِي قِبابٍ
+  عِنْدَ دَسْكَرَةٍ</font></font></b></td><td class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">حَوْلَهَا الزَّيْتُونُ قَدْ يَنَعا</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">وبنحو الذي قلنا في ذلك قال أهل
+  التأويل. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثني المثنى، قال: ثنا عبد الله
+  بن صالح، قال: ثني معاوية بن صالح، عن عليّ بن أبي طلحة، عن ابن عباس: { ويَنْعِهِ
+  } يعني: إذا نضج.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثني محمد بن سعد، قال: ثني أبي،
+  قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس قوله: { انْطُرُوا إلى ثَمَرِهِ
+  إذَا أثْمَرَ وَيَنْعِهِ } قال: ينعه: نضجه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة: { انْظُرُوا إلى ثَمَرِهِ إذَا أثْمَرَ
+  ويَنْعِهِ } أي نضجه.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا الحسن بن يحيى، قال: أخبرنا
+  عبد الرزاق، قال: أخبرنا معمر، عن قتادة، في قوله: { وَيَنْعِهِ } قال: نضجه.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني محمد بن الحسين، قال: ثنا أحمد بن المفضل، قال: ثنا أسباط، عن
+  السديّ: { ويَنْعِهِ } يقول: ونضجه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حُدثت
+  عن الحسين بن الفرج، قال: سمعت أبا معاذ، قال: ثنا عبيد بن سليمان، قال: سمعت الضحاك
+  يقول في قوله: { وَيَنْعِهِ } قال: يعني: نضجه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن ابن جريج، قال: قال ابن عباس: { وَيَنْعِهِ
+  } قال: نضجه.</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">3 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(6, 99)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(6,99)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَهُوَ ٱلَّذِيۤ أَنزَلَ مِنَ ٱلسَّمَآءِ مَآءً فَأَخْرَجْنَا
+  بِهِ نَبَاتَ كُلِّ شَيْءٍ فَأَخْرَجْنَا مِنْهُ خَضِراً نُّخْرِجُ مِنْهُ حَبّاً مُّتَرَاكِباً
+  وَمِنَ ٱلنَّخْلِ مِن طَلْعِهَا قِنْوَانٌ دَانِيَةٌ وَجَنَّٰتٍ مِّنْ أَعْنَابٍ وَٱلزَّيْتُونَ
+  وَٱلرُّمَّانَ مُشْتَبِهاً وَغَيْرَ مُتَشَٰبِهٍ ٱنْظُرُوۤاْ إِلِىٰ ثَمَرِهِ إِذَآ
+  أَثْمَرَ وَيَنْعِهِ إِنَّ فِي ذٰلِكُمْ لأَيَٰتٍ لِّقَوْمٍ يُؤْمِنُونَ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">القول في تأويل قوله تعالى: { إنَّ فِي ذَلكَ لآياتٍ لِقَوْمٍ يُؤْمِنُونَ
+  }.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">يقول تعالى ذكره: إن في إنزال الله
+  تعالى من السماء الماء الذي أخرج به نبات كلّ شيء، والخضر الذي أخرج منه الحبّ المتراكب،
+  وسائر ما عدّد في هذه الآية من صنوف خلقه { لآيَاتٍ } يقول: في ذلكم أيها الناس إذا
+  أنتم نظرتم إلى ثمره عند عقد ثمره، وعند ينعه وانتهائه، فرأيتم اختلاف أحواله وتصرّفه
+  في زيادته ونموّه، علمتم أن له مدبراً ليس كمثله شيء، ولا تصلح العبادة إلاَّ له دون
+  الآلهة والأنداد، وكان فيه حجج وبرهان وبيان { لَقوْمٍ يُؤْمِنُونَ } يقول: لقوم يصدّقون
+  بوحدانية الله وقدرته على ما يشاء. وخصّ بذلك تعالى ذكره القوم الذين يؤمنون، لأنهم
+  هم المنتفعون بحجج الله والمعتبرون بها، دون من قد طبع على قلبه فلا يعرف حقًّا من
+  باطل ولا يتبين هدى من ضلالة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">4 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section>"
 

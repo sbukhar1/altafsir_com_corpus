@@ -1,4 +1,4 @@
-location:
+position:
   sura: '002'
   aaya: 018
   madhab: '01'
@@ -7,126 +7,297 @@ meta:
   title: تفسير الكشاف
   author: الزمخشري
   year: '538'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ مَثَلُهُمْ كَمَثَلِ
-  ٱلَّذِي ٱسْتَوْقَدَ نَاراً فَلَمَّآ أَضَآءَتْ مَا حَوْلَهُ ذَهَبَ ٱللَّهُ بِنُورِهِمْ
-  وَتَرَكَهُمْ فِي ظُلُمَٰتٍ لاَّ يُبْصِرُونَ } * { صُمٌّ بُكْمٌ عُمْيٌ فَهُمْ لاَ
-  يَرْجِعُونَ }لما جاء بحقيقة صفتهم عقبها بضرب المثل زيادة في الكشف وتتميماً للبيان.
-  ولضرب العرب الأمثال واستحضار العلماء المثل والنظائر ـ شأن ليس بالخفي في إبراز خبيات
-  المعاني، ورفع الأستار عن الحقائق، حتى تريك المتخيل في صورة المحقق، والمتوهم في معرض
-  المتيقن، والغائب كأنه مشاهد. وفيه تبكيت للخصم الألد، وقمع لسورة الجامح الأبيّ، ولأمر
-  مّا أكثر الله في كتابه المبين وفي سائر كتبه أمثاله، وفشت في كلام رسول الله صلى الله
-  عليه وسلم وكلام الأنبياء والحكماء. قال الله تعالى:{ وَتِلْكَ ٱلاْمْثَالُ نَضْرِبُهَا
-  لِلنَّاسِ وَمَا يَعْقِلُهَا إِلاَّ ٱلْعَـٰلِمُونَ }[العنكبوت: 43] ومن سور الإنجيل
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(2, 17)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(2,17)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">مَثَلُهُمْ
+  كَمَثَلِ ٱلَّذِي ٱسْتَوْقَدَ نَاراً فَلَمَّآ أَضَآءَتْ مَا حَوْلَهُ ذَهَبَ ٱللَّهُ
+  بِنُورِهِمْ وَتَرَكَهُمْ فِي ظُلُمَٰتٍ لاَّ يُبْصِرُونَ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">صُمٌّ
+  بُكْمٌ عُمْيٌ فَهُمْ لاَ يَرْجِعُونَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\"
+  dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">لما جاء بحقيقة
+  صفتهم عقبها بضرب المثل زيادة في الكشف وتتميماً للبيان. ولضرب العرب الأمثال واستحضار
+  العلماء المثل والنظائر ـ شأن ليس بالخفي في إبراز خبيات المعاني، ورفع الأستار عن
+  الحقائق، حتى تريك المتخيل في صورة المحقق، والمتوهم في معرض المتيقن، والغائب كأنه
+  مشاهد. وفيه تبكيت للخصم الألد، وقمع لسورة الجامح الأبيّ، ولأمر مّا أكثر الله في
+  كتابه المبين وفي سائر كتبه أمثاله، وفشت في كلام رسول الله صلى الله عليه وسلم وكلام
+  الأنبياء والحكماء. قال الله تعالى:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">وَتِلْكَ ٱلاْمْثَالُ نَضْرِبُهَا
+  لِلنَّاسِ وَمَا يَعْقِلُهَا إِلاَّ ٱلْعَـٰلِمُونَ</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">[العنكبوت: 43] ومن سور الإنجيل
   سورة الأمثال. والمثل في أصل كلامهم: بمعنى المثل، وهو النظير. يقال: مثل ومثل ومثيل،
   كشبه وشبه وشبيه. ثم قيل للقول السائر الممثل مضربه بمورده: مثل. ولم يضربوا مثلاً،
   ولا رأوه أهلا للتسيير، ولا جديراً بالتداول والقبول، إلا قولاً فيه غرابة من بعض الوجوه.
   ومن ثمّ حوفظ عليه وحمى من التغيير. فإن قلت: ما معنى مثلهم كمثل الذي استوقد ناراً،
   وما مثل المنافقين ومثل الذي استوقد ناراً حتى شبه أحد المثلين بصاحبه؟ قلت: قد استعير
   المثل استعارة الأسد للمقدام، للحال أو الصفة أو القصة، إذا كان لها شأن وفيها غرابة،
-  كأنه قيل: حالهم العجيبة الشأن كحال الذي استوقد ناراً. وكذلك قوله:{ مَّثَلُ ٱلْجَنَّةِ
-  ٱلَّتِى وُعِدَ ٱلْمُتَّقُونَ }[الرعد: 35] أي وفيما قصصنا عليك من العجائب: قصة الجنة
-  العجيبة. ثم أخذ في بيان عجائبها.{ وَلِلَّهِ ٱلْمَثَلُ ٱلاْعْلَىٰ }[النحل: 60]: أي
-  الوصف الذي له شأن من العظمة والجلالة.{ مَثَلُهُمْ فِى ٱلتَّوْرَاةِ }[الفتح: 29]
-  أي صفتهم وشأنهم المتعجب منه. ولما في المثل من معنى الغرابة قالوا: فلان مثلة في الخير
-  والشر، فاشتقوا منه صفة للعجيب الشأن. فإن قلت: كيف مثلت الجماعة بالواحد؟ قلت: وضع
-  الذي موضع الذين، كقوله:{ وَخُضْتُمْ كَٱلَّذِي خَاضُواْ }[التوبة: 69] والذي سوّغ
-  وضع الذي موضع الذين، ولم يجز وضع القائم موضع القائمين ولا نحوه من الصفات أمران:
-  أحدهما: أنّ «الذي» لكونه وصلة إلى وصف كل معرفة بجملة، وتكاثر وقوعه في كلامهم، ولكونه
-  مستطالاً بصلته، حقيق بالتخفيف، ولذلك نهكوه بالحذف فحذفوا ياءه ثم كسرته ثم اقتصروا
-  به على اللام وحدها في أسماء الفاعلين والمفعولين. والثاني: أن جمعه ليس بمنزلة جمع
-  غيره بالواو والنون. وإنما ذاك علامة لزيادة الدلالة. ألا ترى أن سائر الموصولات لفظ
-  الجمع، والواحد فيهن واحد. أو قصد جنس المستوقدين. أو أريد الجمع أو الفوج الذي استوقد
-  ناراً. على أنّ المنافقين وذواتهم لم يشبهوا بذات المستوقد حتى يلزم منه تشبيه الجماعة
-  بالواحد؛ إنما شبهت قصتهم بقصة المستوقد. ونحوه قوله:{ مَثَلُ ٱلَّذِينَ حُمّلُواْ
-  ٱلتَّوْرَاةَ ثُمَّ لَمْ يَحْمِلُوهَا كَمَثَلِ ٱلْحِمَارِ يَحْمِلُ أَسْفَاراً }\r\n\t\t\t1 2 3 4 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ مَثَلُهُمْ كَمَثَلِ ٱلَّذِي ٱسْتَوْقَدَ
-  نَاراً فَلَمَّآ أَضَآءَتْ مَا حَوْلَهُ ذَهَبَ ٱللَّهُ بِنُورِهِمْ وَتَرَكَهُمْ فِي
-  ظُلُمَٰتٍ لاَّ يُبْصِرُونَ } * { صُمٌّ بُكْمٌ عُمْيٌ فَهُمْ لاَ يَرْجِعُونَ }[الجمعة:
-  5]، وقوله:{ يَنظُرُونَ إِلَيْكَ نَظَرَ ٱلْمَغْشِىّ عَلَيْهِ مِنَ ٱلْمَوْتِ }[محمد:
-  20]. ووقود النار: سطوعها وارتفاع لهبها. ومن أخواته: وقل في الجبل إذا صعد وعلا، والنار:
-  جوهر لطيف مضيء حارّ محرق. والنور: ضوءها وضوء كل نير، وهو نقيض الظلمة. واشتقاقها
-  من نار ينور إذا نفر؛ لأنّ فيها حركة واضطراباً، والنور مشتق منها. والإضاءة: فرط الإنارة.
-  ومصداق ذلك قوله:{ هُوَ ٱلَّذِى جَعَلَ ٱلشَّمْسَ ضِيَاء وَٱلْقَمَرَ نُوراً }[يونس:
-  5]، وهي في الآية متعدية. ويحتمل أن تكون غير متعدية مسندة إلى ما حوله. والتأنيث للحمل
-  على المعنى؛ لأنّ ما حول المستوقد أماكن وأشياء. ويعضده قراءة ابن أبي عبلة «ضاءت».
-  وفيه وجه آخر، وهو أن يستتر في الفعل ضمير النار. ويجعل إشراق ضوء النار حوله بمنزلة
-  إشراق النار نفسها، على أنّ ما مزيدة أو موصولة في معنى الأمكنة. و { حَوْلَهُ } نصب
-  على الظرف وتأليفه للدوران والإطافة. وقيل للعام: حول؛ لأنه يدور. فإن قلت: أين جواب
-  لما؟ قلت: فيه وجهان: أحدهما أن جوابه { ذَهَبَ ٱللَّهُ بِنُورِهِمْ }. والثاني: أنه
-  محذوف كما حذف في قوله:{ فَلَمَّا ذَهَبُواْ بِهِ }[يوسف: 15]. وإنما جاز حذفه لاستطالة
-  الكلام مع أمن الإلباس للدالّ عليه، وكان الحذف أولى من الإثبات لما فيه من الوجازة،
-  مع الإعراب عن الصفة التي حصل عليها المستوقد بما هو أبلغ من اللفظ في أداء المعنى،
-  كأنه قيل: فلما أضاءت ما حوله خمدت فبقوا خابطين في ظلام، متحيرين متحسرين على فوت
-  الضوء، خائبين بعد الكدح في إحياء النار. فإن قلت: فإذا قدّر الجواب محذوفاً فبم يتعلق
-  { ذَهَبَ ٱللَّهُ بِنُورِهِمْ }؟ قلت: يكون كلاماً مستأنفاً. كأنهم لما شبهت حالهم
-  بحال المستوقد الذي طفئت ناره، اعترض سائل فقال: ما بالهم قد أشبهت حالهم حال هذا المستوقد؟
-  فقيل له: ذهب الله بنورهم. أو يكون بدلاً من جملة التمثيل على سبيل البيان. فإن قلت:
-  قد رجع الضمير في هذا الوجه إلى المنافقين فما مرجعه في الوجه الثاني؟ قلت: مرجعه الذي
-  استوقد؛ لأنه في معنى الجمع. وأما جمع هذا الضمير وتوحيده في { حَوْلَهُ } ، فللحمل
-  على اللفظ تارة، وعلى المعنى أخرى. فإن قلت: فما معنى إسناد الفعل إلى الله تعالى في
-  قوله: { ذَهَبَ ٱللَّهُ بِنُورِهِمْ }؟ قلت: إذا طفئت النار بسبب سماوي ريح أو مطر،
-  فقد أطفأها الله تعالى وذهب بنور المستوقد. ووجه آخر، وهو أن يكون المستوقد في هذا
-  الوجه مستوقد نار لا يرضاها الله. ثم إما أن تكون ناراً مجازية كنار الفتنة والعداوة
-  للإسلام، وتلك النار متقاصرة مدّة اشتعالها قليلة البقاء. ألا ترى إلى قوله:{ كُلَّمَا
-  أَوْقَدُواْ نَاراً لّلْحَرْبِ أَطْفَأَهَا ٱللَّهُ }[المائدة: 64]، وإما ناراً حقيقية
-  أوقدها الغواة ليتوصلوا بالاستضاءة بها إلى بعض المعاصي، ويتهدوا بها في طرق العبث،
-  فأطفأها الله وخيب أمانيهم. فإن قلت: كيف صح في النار المجازية أن توصف بإضاءة ما حول
-  المستوقد؟ قلت: هو خارج على طريقة المجاز المرشح فأحسن تدبره.\r\n\t\t\t\r\n\t\t\t1 2 3 4 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ مَثَلُهُمْ كَمَثَلِ ٱلَّذِي ٱسْتَوْقَدَ
-  نَاراً فَلَمَّآ أَضَآءَتْ مَا حَوْلَهُ ذَهَبَ ٱللَّهُ بِنُورِهِمْ وَتَرَكَهُمْ فِي
-  ظُلُمَٰتٍ لاَّ يُبْصِرُونَ } * { صُمٌّ بُكْمٌ عُمْيٌ فَهُمْ لاَ يَرْجِعُونَ }فإن
-  قلت: هلا قيل ذهب الله بضوئهم؟ لقوله: { فَلَمَّا أَضَاءتْ }؟ قلت: ذكر النور أبلغ؛
-  لأنّ الضوء فيه دلالة على الزيادة. فلو قيل: ذهب الله بضوئهم، لأوهم الذهاب بالزيادة
-  وبقاء ما يسمى نوراً، والغرض إزالة النور عنهم رأساً وطمسه أصلاً. ألا ترى كيف ذكر
-  عقيبه { وَتَرَكَهُمْ فِي ظُلُمَـٰتٍ } والظلمة عبارة عن عدم النور وانطماسه، وكيف
-  جمعها، وكيف نكرها، وكيف أتبعها ما يدل على أنها ظلمة مبهمة لا يتراءى فيها شبحان وهو
-  قوله: { لاَّ يُبْصِرُونَ }. فإن قلت: فلم وصفت بالإضاءة؟ قلت: هذا على مذهب قولهم:
-  للباطل صولة ثم يضمحل. ولريح الضلالة عصفة ثم تخفت، ونار العرفج مثل لنزوة كل طماح.
-  والفرق بين أذهبه وذهب به، أن معنى أذهبه: أزاله وجعله ذاهباً. ويقال: ذهب به إذا استصحبه
-  ومضى به معه. وذهبت السلطان بماله: أخذه (فلما ذهبوا به)،{ إِذاً لَّذَهَبَ كُلُّ إِلَـٰهٍ
-  بِمَا خَلَقَ }[المؤمنون: 91]. ومنه: ذهب به الخيلاء. والمعنى: أخذ الله نورهم وأمسكه،{ وَمَا
-  يُمْسِكْ فَلاَ مُرْسِلَ لَهُ }[فاطر: 2] فهو أبلغ من الإذهاب. وقرأ اليماني: أذهب
-  الله نورهم. وترك: بمعنى طرح وخلى، إذا علق بواحد، كقولهم: تركه ترك ظبي ظله. فإذا
-  علق بشيئين كان مضمناً معنى صير، فيجري مجرى أفعال القلوب كقول عنترة:فَتَرَكْتُهُ
-  جَزَرَ السِّبَاعِ يَنُشْنَهُ   ومنه قوله: { وَتَرَكَهُمْ فِي ظُلُمَـٰتٍ } أصله:
-  هم في ظلمات، ثم دخل ترك فنصب الجزأين. والظلمة عدم النور. وقيل: عرض ينافي النور.
-  واشتقاقها من قولهم: ما ظلمك أن تفعل كذا: أي ما منعك وشغلك، لأنها تسدّ البصر وتمنع
-  الرؤية. وقرأ الحسن «ظلمات» بسكون اللام وقرأ اليماني «في ظُلمة» على التوحيد. والمفعول
-  الساقط من { لاَّ يُبْصِرُونَ } من قبيل المتروك المطرح الذي لا يلتفت إلى إخطاره بالبال،
-  لا من قبيل المقدر المنوى، كأنّ الفعل غير متعدّ أصلاً، نحو { يَعْمَهُونَ } في قوله:{ وَيَذَرُهُمْ
-  فِى طُغْيَـٰنِهِمْ يَعْمَهُونَ }[الأعراف: 186]. فإن قلت: فيم شبهت حالهم بحال المستوقد؟
-  قلت: في أنهم غب الإضاءة خبطوا في ظلمة وتورّطوا في حيرة. فإن قلت: وأين الإضاءة في
-  حال المنافق؟ وهل هو أبداً إلا حائر خابط في ظلماء الكفر؟ قلت: المراد ما استضاءوا
-  به قليلاً من الانتفاع بالكلمة المجراة على ألسنتهم، ووراء استضاءتهم بنور هذه الكلمة
-  ظلمة النفاق التي ترمي بهم إلى ظلمة سخط الله وظلمة العقاب السرمد. ويجوز أن يشبه بذهاب
-  الله بنور المستوقد اطلاع الله على أسرارهم وما افتضحوا به بين المؤمنين واتسموا به
-  من سمة النفاق. والأوجه أن يراد الطبع، لقوله: { صُمٌّ بُكْمٌ عُمْىٌ }. وفي الآية
-  تفسير آخر: وهو أنهم لما وصفوا بأنهم اشتروا الضلالة بالهدى، عقب ذلك بهذا التمثيل
-  ليمثل هداهم الذي باعوه بالنار المضيئة ما حول المستوقد، والضلالة التي اشتروها وطبع
-  بها على قلوبهم بذهاب الله بنورهم وتركه إياهم في الظلمات.\r\n\t\t\t\r\n\t\t\t1 2 3 4 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ مَثَلُهُمْ كَمَثَلِ ٱلَّذِي ٱسْتَوْقَدَ
-  نَاراً فَلَمَّآ أَضَآءَتْ مَا حَوْلَهُ ذَهَبَ ٱللَّهُ بِنُورِهِمْ وَتَرَكَهُمْ فِي
-  ظُلُمَٰتٍ لاَّ يُبْصِرُونَ } * { صُمٌّ بُكْمٌ عُمْيٌ فَهُمْ لاَ يَرْجِعُونَ }وتنكير
-  النار للتعظيم. كانت حواسهم سليمة ولكن لما سدّوا عن الإصاخة إلى الحق مسامعهم، وأبوا
-  أن ينطقوا به ألسنتهم، وأن ينظروا ويتبصروا بعيونهم جعلوا كأنما أيفت مشاعرهم وانتقضت
-  بناها التي بنيت عليها للإحساس والإدراك كقوله:صُم إذا سَمِعُوا خَيْراً ذُكِرْتُ بِه   وإنْ
-  ذُكِرْتُ بُسوءٍ عِنْدَهُمْ أَذِنُواأَصَمُّ عَمَّا سَاءَهُ سَمِيعُأ   َصَمُّ عَنِ
-  الشَّيْءِ الَّذِي لا أرِيدُهُ   واسمع خلق الله حين أريد فأصَممت عمراً وأعميته   عَنِ
-  الجُودِ والفَخْرِ يَوْمَ الفَخَارفإن قلت: كيف طريقته عند علماء البيان؟ قلت: طريقة
-  قولهم «هم ليوث» للشجعان، وبحور للأسخياء. إلا أنّ هذا في الصفات، وذاك في الأسماء،
-  وقد جاءت الاستعارة في الأسماء والصفات والأفعال جميعاً. تقول: رأيت ليوثاً، ولقيت
-  صماً عن الخير، ودجا الإسلام. وأضاء الحق. فإن قلت: هل يسمى ما في الآية استعارة؟ قلت:
-  مختلف فيه. والمحققون على تسميته تشبيهاً بليغاً لا استعارة؛ لأنّ المستعار له مذكور
-  وهم المنافقون. والاستعارة إنما تطلق حيث يطوى ذكر المستعار له، ويجعل الكلام خلواً
-  عنه صالحاً لأن يراد به المنقول عنه والمنقول إليه، لولا دلالة الحال أو فحوى الكلام،
-  كقول زهير:لَدَى أَسَدٍ شَاكِي السِّلاَحِ مُقَذَّفٍ   لَهُ لِبَدٌ أَظْفَارُهُ لَمْ
-  تُقَلَّمِومن ثم ترى المفلقين السحرة منهم كأنهم يتناسون التشبيه ويضربون عن توهمه
-  صفحاً. قال أبو تمام:ويُصْعِدُ حتَّي يَظُنَّ الجَهُولُ   بأَنَّ لهُ حَاجَةً في السَّمَاءْوبعضهم:لا
-  تَحْسَبُوا أَنَّ في سِرْبَالِهِ رَجُلاً   ففِيهِ غَيْثٌ وَلَيْثٌ مُسْبِلٌ مُشْبِلوليس
-  لقائل أن يقول: طوى ذكرهم عن الجملة بحذف المبتدأ فأتسلق بذلك إلى تسميته استعارة لأنه
-  في حكم المنطوق به، نظيره قول من يخاطب الحجاج:أَسَدٌ عَلَيَّ وفي الحُرُوبِ نَعَامَةٌ   فَتْخاءُ
-  تَنْفُرُ مِنْ صَفِيرِ الصَّافِرِومعنى { لاَ يَرْجِعُونَ } أنهم لا يعودون إلى الهدى
-  بعد أن باعوه، أو عن الضلالة بعد أن اشتروها، تسجيلاً عليهم بالطبع، أو أراد أنهم بمنزلة
-  المتحيرين الذين بقوا جامدين في مكانهم لا يبرحون، ولا يدرون أيتقدّمون أم يتأخرون؟
-  وكيف يرجعون إلى حيث ابتدءوا منه؟\r\n\t\t\t\r\n\t\t\t1 2 3 4 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  كأنه قيل: حالهم العجيبة الشأن كحال الذي استوقد ناراً. وكذلك قوله:</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">مَّثَلُ
+  ٱلْجَنَّةِ ٱلَّتِى وُعِدَ ٱلْمُتَّقُونَ</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">[الرعد: 35] أي وفيما قصصنا عليك
+  من العجائب: قصة الجنة العجيبة. ثم أخذ في بيان عجائبها.</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">وَلِلَّهِ ٱلْمَثَلُ ٱلاْعْلَىٰ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[النحل:
+  60]: أي الوصف الذي له شأن من العظمة والجلالة.</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">مَثَلُهُمْ فِى ٱلتَّوْرَاةِ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[الفتح:
+  29] أي صفتهم وشأنهم المتعجب منه. ولما في المثل من معنى الغرابة قالوا: فلان مثلة
+  في الخير والشر، فاشتقوا منه صفة للعجيب الشأن. فإن قلت: كيف مثلت الجماعة بالواحد؟
+  قلت: وضع الذي موضع الذين، كقوله:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">وَخُضْتُمْ كَٱلَّذِي خَاضُواْ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[التوبة:
+  69] والذي سوّغ وضع الذي موضع الذين، ولم يجز وضع القائم موضع القائمين ولا نحوه من
+  الصفات أمران: أحدهما: أنّ «الذي» لكونه وصلة إلى وصف كل معرفة بجملة، وتكاثر وقوعه
+  في كلامهم، ولكونه مستطالاً بصلته، حقيق بالتخفيف، ولذلك نهكوه بالحذف فحذفوا ياءه
+  ثم كسرته ثم اقتصروا به على اللام وحدها في أسماء الفاعلين والمفعولين. والثاني: أن
+  جمعه ليس بمنزلة جمع غيره بالواو والنون. وإنما ذاك علامة لزيادة الدلالة. ألا ترى
+  أن سائر الموصولات لفظ الجمع، والواحد فيهن واحد. أو قصد جنس المستوقدين. أو أريد الجمع
+  أو الفوج الذي استوقد ناراً. على أنّ المنافقين وذواتهم لم يشبهوا بذات المستوقد حتى
+  يلزم منه تشبيه الجماعة بالواحد؛ إنما شبهت قصتهم بقصة المستوقد. ونحوه قوله:</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">مَثَلُ
+  ٱلَّذِينَ حُمّلُواْ ٱلتَّوْرَاةَ ثُمَّ لَمْ يَحْمِلُوهَا كَمَثَلِ ٱلْحِمَارِ يَحْمِلُ
+  أَسْفَاراً</font></font> }</b><br class=\"TextArabic\"/><label disabled=\"true\"
+  class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(2,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(2,2,1)\"><u>2</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(2,3,1)\"><u>3</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(2,4,1)\"><u>4</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2, 17)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,17)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">مَثَلُهُمْ كَمَثَلِ ٱلَّذِي ٱسْتَوْقَدَ نَاراً فَلَمَّآ
+  أَضَآءَتْ مَا حَوْلَهُ ذَهَبَ ٱللَّهُ بِنُورِهِمْ وَتَرَكَهُمْ فِي ظُلُمَٰتٍ لاَّ
+  يُبْصِرُونَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">صُمٌّ بُكْمٌ عُمْيٌ فَهُمْ لاَ يَرْجِعُونَ</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">[الجمعة: 5]، وقوله:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">يَنظُرُونَ إِلَيْكَ نَظَرَ ٱلْمَغْشِىّ
+  عَلَيْهِ مِنَ ٱلْمَوْتِ</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">[محمد: 20]. ووقود النار: سطوعها وارتفاع لهبها. ومن أخواته: وقل في
+  الجبل إذا صعد وعلا، والنار: جوهر لطيف مضيء حارّ محرق. والنور: ضوءها وضوء كل نير،
+  وهو نقيض الظلمة. واشتقاقها من نار ينور إذا نفر؛ لأنّ فيها حركة واضطراباً، والنور
+  مشتق منها. والإضاءة: فرط الإنارة. ومصداق ذلك قوله:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">هُوَ ٱلَّذِى جَعَلَ ٱلشَّمْسَ ضِيَاء
+  وَٱلْقَمَرَ نُوراً</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">[يونس: 5]، وهي في الآية متعدية. ويحتمل أن تكون غير متعدية مسندة
+  إلى ما حوله. والتأنيث للحمل على المعنى؛ لأنّ ما حول المستوقد أماكن وأشياء. ويعضده
+  قراءة ابن أبي عبلة «ضاءت». وفيه وجه آخر، وهو أن يستتر في الفعل ضمير النار. ويجعل
+  إشراق ضوء النار حوله بمنزلة إشراق النار نفسها، على أنّ ما مزيدة أو موصولة في معنى
+  الأمكنة. و { حَوْلَهُ } نصب على الظرف وتأليفه للدوران والإطافة. وقيل للعام: حول؛
+  لأنه يدور. فإن قلت: أين جواب لما؟ قلت: فيه وجهان: أحدهما أن جوابه { ذَهَبَ ٱللَّهُ
+  بِنُورِهِمْ }. والثاني: أنه محذوف كما حذف في قوله:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">فَلَمَّا ذَهَبُواْ بِهِ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[يوسف:
+  15]. وإنما جاز حذفه لاستطالة الكلام مع أمن الإلباس للدالّ عليه، وكان الحذف أولى
+  من الإثبات لما فيه من الوجازة، مع الإعراب عن الصفة التي حصل عليها المستوقد بما هو
+  أبلغ من اللفظ في أداء المعنى، كأنه قيل: فلما أضاءت ما حوله خمدت فبقوا خابطين في
+  ظلام، متحيرين متحسرين على فوت الضوء، خائبين بعد الكدح في إحياء النار. فإن قلت: فإذا
+  قدّر الجواب محذوفاً فبم يتعلق { ذَهَبَ ٱللَّهُ بِنُورِهِمْ }؟ قلت: يكون كلاماً مستأنفاً.
+  كأنهم لما شبهت حالهم بحال المستوقد الذي طفئت ناره، اعترض سائل فقال: ما بالهم قد
+  أشبهت حالهم حال هذا المستوقد؟ فقيل له: ذهب الله بنورهم. أو يكون بدلاً من جملة التمثيل
+  على سبيل البيان. فإن قلت: قد رجع الضمير في هذا الوجه إلى المنافقين فما مرجعه في
+  الوجه الثاني؟ قلت: مرجعه الذي استوقد؛ لأنه في معنى الجمع. وأما جمع هذا الضمير وتوحيده
+  في { حَوْلَهُ } ، فللحمل على اللفظ تارة، وعلى المعنى أخرى. فإن قلت: فما معنى إسناد
+  الفعل إلى الله تعالى في قوله: { ذَهَبَ ٱللَّهُ بِنُورِهِمْ }؟ قلت: إذا طفئت النار
+  بسبب سماوي ريح أو مطر، فقد أطفأها الله تعالى وذهب بنور المستوقد. ووجه آخر، وهو أن
+  يكون المستوقد في هذا الوجه مستوقد نار لا يرضاها الله. ثم إما أن تكون ناراً مجازية
+  كنار الفتنة والعداوة للإسلام، وتلك النار متقاصرة مدّة اشتعالها قليلة البقاء. ألا
+  ترى إلى قوله:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">كُلَّمَا أَوْقَدُواْ نَاراً لّلْحَرْبِ أَطْفَأَهَا ٱللَّهُ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[المائدة:
+  64]، وإما ناراً حقيقية أوقدها الغواة ليتوصلوا بالاستضاءة بها إلى بعض المعاصي، ويتهدوا
+  بها في طرق العبث، فأطفأها الله وخيب أمانيهم. فإن قلت: كيف صح في النار المجازية أن
+  توصف بإضاءة ما حول المستوقد؟ قلت: هو خارج على طريقة المجاز المرشح فأحسن تدبره.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(2,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(2,3,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(2,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td><td><a href=\"Javascript:InnerLink_onchange(2,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(2,4,1)\"><u>4</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2, 17)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,17)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">مَثَلُهُمْ كَمَثَلِ ٱلَّذِي ٱسْتَوْقَدَ نَاراً فَلَمَّآ
+  أَضَآءَتْ مَا حَوْلَهُ ذَهَبَ ٱللَّهُ بِنُورِهِمْ وَتَرَكَهُمْ فِي ظُلُمَٰتٍ لاَّ
+  يُبْصِرُونَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">صُمٌّ بُكْمٌ عُمْيٌ فَهُمْ لاَ يَرْجِعُونَ</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">فإن قلت: هلا قيل ذهب الله بضوئهم؟ لقوله: { فَلَمَّا أَضَاءتْ }؟
+  قلت: ذكر النور أبلغ؛ لأنّ الضوء فيه دلالة على الزيادة. فلو قيل: ذهب الله بضوئهم،
+  لأوهم الذهاب بالزيادة وبقاء ما يسمى نوراً، والغرض إزالة النور عنهم رأساً وطمسه أصلاً.
+  ألا ترى كيف ذكر عقيبه { وَتَرَكَهُمْ فِي ظُلُمَـٰتٍ } والظلمة عبارة عن عدم النور
+  وانطماسه، وكيف جمعها، وكيف نكرها، وكيف أتبعها ما يدل على أنها ظلمة مبهمة لا يتراءى
+  فيها شبحان وهو قوله: { لاَّ يُبْصِرُونَ }. فإن قلت: فلم وصفت بالإضاءة؟ قلت: هذا
+  على مذهب قولهم: للباطل صولة ثم يضمحل. ولريح الضلالة عصفة ثم تخفت، ونار العرفج مثل
+  لنزوة كل طماح. والفرق بين أذهبه وذهب به، أن معنى أذهبه: أزاله وجعله ذاهباً. ويقال:
+  ذهب به إذا استصحبه ومضى به معه. وذهبت السلطان بماله: أخذه (فلما ذهبوا به)،</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">إِذاً
+  لَّذَهَبَ كُلُّ إِلَـٰهٍ بِمَا خَلَقَ</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">[المؤمنون: 91]. ومنه: ذهب به الخيلاء.
+  والمعنى: أخذ الله نورهم وأمسكه،</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">وَمَا يُمْسِكْ فَلاَ مُرْسِلَ لَهُ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[فاطر:
+  2] فهو أبلغ من الإذهاب. وقرأ اليماني: أذهب الله نورهم. وترك: بمعنى طرح وخلى، إذا
+  علق بواحد، كقولهم: تركه ترك ظبي ظله. فإذا علق بشيئين كان مضمناً معنى صير، فيجري
+  مجرى أفعال القلوب كقول عنترة:</font></font><table class=\"TextArabic\" dir=\"rtl\"><tr
+  class=\"TextArabic\"><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">فَتَرَكْتُهُ جَزَرَ السِّبَاعِ يَنُشْنَهُ</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\"/></font></b></td></tr></table><font class=\"TextResultArabic\"><font
+  color=\"black\">ومنه قوله: { وَتَرَكَهُمْ فِي ظُلُمَـٰتٍ } أصله: هم في ظلمات، ثم
+  دخل ترك فنصب الجزأين. والظلمة عدم النور. وقيل: عرض ينافي النور. واشتقاقها من قولهم:
+  ما ظلمك أن تفعل كذا: أي ما منعك وشغلك، لأنها تسدّ البصر وتمنع الرؤية. وقرأ الحسن
+  «ظلمات» بسكون اللام وقرأ اليماني «في ظُلمة» على التوحيد. والمفعول الساقط من { لاَّ
+  يُبْصِرُونَ } من قبيل المتروك المطرح الذي لا يلتفت إلى إخطاره بالبال، لا من قبيل
+  المقدر المنوى، كأنّ الفعل غير متعدّ أصلاً، نحو { يَعْمَهُونَ } في قوله:</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">وَيَذَرُهُمْ
+  فِى طُغْيَـٰنِهِمْ يَعْمَهُونَ</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">[الأعراف: 186]. فإن قلت: فيم شبهت
+  حالهم بحال المستوقد؟ قلت: في أنهم غب الإضاءة خبطوا في ظلمة وتورّطوا في حيرة. فإن
+  قلت: وأين الإضاءة في حال المنافق؟ وهل هو أبداً إلا حائر خابط في ظلماء الكفر؟ قلت:
+  المراد ما استضاءوا به قليلاً من الانتفاع بالكلمة المجراة على ألسنتهم، ووراء استضاءتهم
+  بنور هذه الكلمة ظلمة النفاق التي ترمي بهم إلى ظلمة سخط الله وظلمة العقاب السرمد.
+  ويجوز أن يشبه بذهاب الله بنور المستوقد اطلاع الله على أسرارهم وما افتضحوا به بين
+  المؤمنين واتسموا به من سمة النفاق. والأوجه أن يراد الطبع، لقوله: { صُمٌّ بُكْمٌ
+  عُمْىٌ }. وفي الآية تفسير آخر: وهو أنهم لما وصفوا بأنهم اشتروا الضلالة بالهدى، عقب
+  ذلك بهذا التمثيل ليمثل هداهم الذي باعوه بالنار المضيئة ما حول المستوقد، والضلالة
+  التي اشتروها وطبع بها على قلوبهم بذهاب الله بنورهم وتركه إياهم في الظلمات.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(2,2,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(2,4,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(2,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(2,2,1)\"><u>2</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">3 </font></td><td><a href=\"Javascript:InnerLink_onchange(2,4,1)\"><u>4</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2, 17)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,17)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">مَثَلُهُمْ كَمَثَلِ ٱلَّذِي ٱسْتَوْقَدَ نَاراً فَلَمَّآ
+  أَضَآءَتْ مَا حَوْلَهُ ذَهَبَ ٱللَّهُ بِنُورِهِمْ وَتَرَكَهُمْ فِي ظُلُمَٰتٍ لاَّ
+  يُبْصِرُونَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">صُمٌّ بُكْمٌ عُمْيٌ فَهُمْ لاَ يَرْجِعُونَ</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">وتنكير النار للتعظيم. كانت حواسهم سليمة ولكن لما سدّوا عن الإصاخة
+  إلى الحق مسامعهم، وأبوا أن ينطقوا به ألسنتهم، وأن ينظروا ويتبصروا بعيونهم جعلوا
+  كأنما أيفت مشاعرهم وانتقضت بناها التي بنيت عليها للإحساس والإدراك كقوله:</font></font><table
+  class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">صُم إذا سَمِعُوا خَيْراً ذُكِرْتُ بِه</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">وإنْ ذُكِرْتُ بُسوءٍ عِنْدَهُمْ أَذِنُوا</font></font></b></td></tr><tr
+  class=\"TextArabic\"><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">أَصَمُّ عَمَّا سَاءَهُ سَمِيعُأ</font></font></b></td><td class=\"TextArabic\">   </td><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\"/></font></b></td></tr><tr
+  class=\"TextArabic\"><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">َصَمُّ عَنِ الشَّيْءِ الَّذِي لا أرِيدُهُ</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">واسمع خلق الله حين أريد ف</font></font></b></td></tr><tr class=\"TextArabic\"><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">أصَممت عمراً
+  وأعميته</font></font></b></td><td class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">عَنِ الجُودِ والفَخْرِ يَوْمَ الفَخَار</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">فإن قلت: كيف طريقته عند علماء البيان؟
+  قلت: طريقة قولهم «هم ليوث» للشجعان، وبحور للأسخياء. إلا أنّ هذا في الصفات، وذاك
+  في الأسماء، وقد جاءت الاستعارة في الأسماء والصفات والأفعال جميعاً. تقول: رأيت ليوثاً،
+  ولقيت صماً عن الخير، ودجا الإسلام. وأضاء الحق. فإن قلت: هل يسمى ما في الآية استعارة؟
+  قلت: مختلف فيه. والمحققون على تسميته تشبيهاً بليغاً لا استعارة؛ لأنّ المستعار له
+  مذكور وهم المنافقون. والاستعارة إنما تطلق حيث يطوى ذكر المستعار له، ويجعل الكلام
+  خلواً عنه صالحاً لأن يراد به المنقول عنه والمنقول إليه، لولا دلالة الحال أو فحوى
+  الكلام، كقول زهير:</font></font><table class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">لَدَى أَسَدٍ
+  شَاكِي السِّلاَحِ مُقَذَّفٍ</font></font></b></td><td class=\"TextArabic\">   </td><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">لَهُ لِبَدٌ
+  أَظْفَارُهُ لَمْ تُقَلَّمِ</font></font></b></td></tr></table><font class=\"TextResultArabic\"><font
+  color=\"black\">ومن ثم ترى المفلقين السحرة منهم كأنهم يتناسون التشبيه ويضربون عن
+  توهمه صفحاً. قال أبو تمام:</font></font><table class=\"TextArabic\" dir=\"rtl\"><tr
+  class=\"TextArabic\"><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">ويُصْعِدُ حتَّي يَظُنَّ الجَهُولُ</font></font></b></td><td class=\"TextArabic\">   </td><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">بأَنَّ لهُ
+  حَاجَةً في السَّمَاءْ</font></font></b></td></tr></table><font class=\"TextResultArabic\"><font
+  color=\"black\">وبعضهم:</font></font><table class=\"TextArabic\" dir=\"rtl\"><tr
+  class=\"TextArabic\"><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">لا تَحْسَبُوا أَنَّ في سِرْبَالِهِ رَجُلاً</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">ففِيهِ غَيْثٌ وَلَيْثٌ مُسْبِلٌ مُشْبِل</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">وليس لقائل أن يقول: طوى ذكرهم عن
+  الجملة بحذف المبتدأ فأتسلق بذلك إلى تسميته استعارة لأنه في حكم المنطوق به، نظيره
+  قول من يخاطب الحجاج:</font></font><table class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">أَسَدٌ عَلَيَّ
+  وفي الحُرُوبِ نَعَامَةٌ</font></font></b></td><td class=\"TextArabic\">   </td><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">فَتْخاءُ
+  تَنْفُرُ مِنْ صَفِيرِ الصَّافِرِ</font></font></b></td></tr></table><font class=\"TextResultArabic\"><font
+  color=\"black\">ومعنى { لاَ يَرْجِعُونَ } أنهم لا يعودون إلى الهدى بعد أن باعوه،
+  أو عن الضلالة بعد أن اشتروها، تسجيلاً عليهم بالطبع، أو أراد أنهم بمنزلة المتحيرين
+  الذين بقوا جامدين في مكانهم لا يبرحون، ولا يدرون أيتقدّمون أم يتأخرون؟ وكيف يرجعون
+  إلى حيث ابتدءوا منه؟</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(2,3,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(2,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(2,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(2,3,1)\"><u>3</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">4 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section>"
 

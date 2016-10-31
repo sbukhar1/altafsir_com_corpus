@@ -1,4 +1,4 @@
-location:
+position:
   sura: '002'
   aaya: 078
   madhab: '02'
@@ -7,48 +7,170 @@ meta:
   title: تفسير النكت والعيون
   author: الماوردي
   year: '450'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَمِنْهُمْ أُمِّيُّونَ
-  لاَ يَعْلَمُونَ ٱلْكِتَابَ إِلاَّ أَمَانِيَّ وَإِنْ هُمْ إِلاَّ يَظُنُّونَ } * {
-  فَوَيْلٌ لِّلَّذِينَ يَكْتُبُونَ ٱلْكِتَابَ بِأَيْدِيهِمْ ثُمَّ يَقُولُونَ هَـٰذَا
-  مِنْ عِنْدِ ٱللَّهِ لِيَشْتَرُواْ بِهِ ثَمَناً قَلِيلاً فَوَيْلٌ لَّهُمْ مِّمَّا
-  كَتَبَتْ أَيْدِيهِمْ وَوَيْلٌ لَّهُمْ مِّمَّا يَكْسِبُونَ }قوله تعالى: { وَمِنْهُم
-  أُمِّيُّونَ } فيه قولان:أحدهما: أن الأُمّي: الذي لا يكتب ولا يقرأ، وهو قول مجاهد
-  وأظهرُ تأويله.والثاني: أنَّ الأُمّيين: قوم لم يصدقوا رسولاً أرسله الله، ولا كتاباً
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(2, 78)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(2,78)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَمِنْهُمْ
+  أُمِّيُّونَ لاَ يَعْلَمُونَ ٱلْكِتَابَ إِلاَّ أَمَانِيَّ وَإِنْ هُمْ إِلاَّ يَظُنُّونَ</a>
+  <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">فَوَيْلٌ
+  لِّلَّذِينَ يَكْتُبُونَ ٱلْكِتَابَ بِأَيْدِيهِمْ ثُمَّ يَقُولُونَ هَـٰذَا مِنْ عِنْدِ
+  ٱللَّهِ لِيَشْتَرُواْ بِهِ ثَمَناً قَلِيلاً فَوَيْلٌ لَّهُمْ مِّمَّا كَتَبَتْ أَيْدِيهِمْ
+  وَوَيْلٌ لَّهُمْ مِّمَّا يَكْسِبُونَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\"
+  dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">قوله تعالى: {
+  وَمِنْهُم أُمِّيُّونَ } فيه قولان:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">أحدهما:
+  أن الأُمّي: الذي لا يكتب ولا يقرأ، وهو قول مجاهد وأظهرُ تأويله.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">والثاني: أنَّ الأُمّيين: قوم لم يصدقوا رسولاً أرسله الله، ولا كتاباً
   أنزله الله، وكتبوا كتاباً بأيديهم، وقال الجهال لقومهم: هذا من عند الله، وهذا قول
-  ابن عباس.وفي تسمية الذي لا يكتب بالأمي قولان:أحدها: أنه مأخوذ من الأمة، أي على أصل
-  ما عليه الأمّة، لأنه باق على خلقته من أنه لا يكتب، ومنه قول الأعشى:وإنّ معاويةَ
-  الأكرمين   حسانُ الوجوه طوال الأمَمْوالثاني: أنه مأخوذ من الأُم، وفي أخذه من الأُم
-  تأويلان:أحدهما: أنه مأخوذ منها، لأنه على ما ولدته أُمُّهُ من أنه لا يكتب.والثاني:
+  ابن عباس.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وفي تسمية الذي لا يكتب بالأمي قولان:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">أحدها: أنه مأخوذ من الأمة، أي على أصل ما عليه الأمّة، لأنه باق على
+  خلقته من أنه لا يكتب، ومنه قول الأعشى:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><table class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">وإنّ معاويةَ
+  الأكرمين</font></font></b></td><td class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">حسانُ الوجوه طوال الأمَمْ</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">والثاني: أنه مأخوذ من الأُم، وفي
+  أخذه من الأُم تأويلان:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">أحدهما: أنه مأخوذ منها، لأنه على
+  ما ولدته أُمُّهُ من أنه لا يكتب.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">والثاني:
   أنه نُسِبَ إلى أُمّهِ، لأن الكتاب في الرجال دون النساء، فنسب من لا يكتب من الرجال
-  إلى أمه، لجهلها بالكتاب دونه أبيه.وفي قوله تعالى: { لاَ يَعْلَمُونَ الْكِتَابَ إِلاَّ
-  أَمَانِيَّ } أربعة تأويلات:أحدها: إِلاَّ أَمَانِيَّ: يعني: إلا كذباً، قاله ابن عباس
-  ومجاهد، قال الشاعر:ولكنما ذاك الذي كان منكما   أمانّي ما لاقت سماء ولا أرضاوالثاني:
-  إِلاَّ أَمَانِيَّ، يعني، أنهم يَتَمَنَّونَ على الله ما ليس لهم، قاله قتادة.والثالث:
+  إلى أمه، لجهلها بالكتاب دونه أبيه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وفي
+  قوله تعالى: { لاَ يَعْلَمُونَ الْكِتَابَ إِلاَّ أَمَانِيَّ } أربعة تأويلات:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">أحدها: إِلاَّ أَمَانِيَّ: يعني: إلا كذباً، قاله ابن عباس ومجاهد،
+  قال الشاعر:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><table
+  class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">ولكنما ذاك الذي كان منكما</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">أمانّي ما لاقت سماء ولا أرضا</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">والثاني: إِلاَّ أَمَانِيَّ، يعني،
+  أنهم يَتَمَنَّونَ على الله ما ليس لهم، قاله قتادة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">والثالث:
   إِلاَّ أَمَانِيَّ، يعني [إلا أماني يعني إلا تلاوة من غير فهم قاله الفراء والكسائي
-  ومنه قوله تعالى:{ إلاَّ إذَا تَمَنَّى ألْقَى الشيْطَانُ في أمنيِّتِه }[سورة الحج:
-  52] يعني ألقى الشيطانُ في أُمنيِّتِه، وقال كعب بن مالك:تمنّى كتاب الله أول ليلهِ   وآخرَه
-  لاقي حمام المقادروالرابع: أنَّ الأَمَانِيَّ: التقدير، حكاه ابن بحر وأنشد قول الشاعر:ولا
-  تقولَنْ لشيء سوف أفعله   حتى تَبَيّنَ ما يمني لك الماني(وإلا): في هذا الموضع بمعنى
-  (لكن) وهو عندهم من الاستثناء المنقطع ومنه قوله تعالى:{ مَا لَهُم بِهِ مِنْ عِلْمٍ
-  إِلاَّ اتِّبَاعَ الظَّنَّ }[النساء: 157] قال النابغة:حلفت يميناً غير ذي مثنوية   ولا
-  علم إلا حسن ظن بصاحب{ وَإِنْ هُم إِلاَّ يَظُنُّونَ } فيه وجهان:أحدهما: يكذبون، قاله
-  مجاهد.والثاني: يحدثون، قاله البصريون.قوله تعالى: { فَوَيلٌ لِلَّذِينَ يَكْتُبُونَ
-  الْكِتَابَ بِأَيْدِيهِم } في الويل ستة أقاويل:أحدها: أنه العذاب، قاله ابن عباس.والثاني:
-  أنه التقبيح، وهو قول الأصمعي. ومنه قوله تعالى:{ وَلَكُمُ الْوَيْلُ مِمَّا تَصِفُونَ }[الأنبياء:
-  18]. وقال الشاعر:كسا اللؤم سهما خضرة في جلودها   فويل لسهم من سرابيلها الخُضْرِوالثالث:
-  أنه الحزن، قاله المفضل.والرابع: أنه الخزي والهوان.والخامس: أن الويل وادٍ في جهنم،
-  وهذا قول أبي سعيد الخدري.والسادس: أنه جبل في النار، وهو قول عثمان بن عفان.\r\n\t\t\t\r\n\t\t\t1 2 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَمِنْهُمْ أُمِّيُّونَ لاَ يَعْلَمُونَ
-  ٱلْكِتَابَ إِلاَّ أَمَانِيَّ وَإِنْ هُمْ إِلاَّ يَظُنُّونَ } * { فَوَيْلٌ لِّلَّذِينَ
+  ومنه قوله تعالى:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">إلاَّ إذَا تَمَنَّى ألْقَى الشيْطَانُ في أمنيِّتِه</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[سورة
+  الحج: 52] يعني ألقى الشيطانُ في أُمنيِّتِه، وقال كعب بن مالك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><table class=\"TextArabic\"
+  dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">تمنّى كتاب الله أول ليلهِ</font></font></b></td><td class=\"TextArabic\">   </td><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">وآخرَه لاقي
+  حمام المقادر</font></font></b></td></tr></table><font class=\"TextResultArabic\"><font
+  color=\"black\">والرابع: أنَّ الأَمَانِيَّ: التقدير، حكاه ابن بحر وأنشد قول الشاعر:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><table class=\"TextArabic\"
+  dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">ولا تقولَنْ لشيء سوف أفعله</font></font></b></td><td class=\"TextArabic\">   </td><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">حتى تَبَيّنَ
+  ما يمني لك الماني</font></font></b></td></tr></table><font class=\"TextResultArabic\"><font
+  color=\"black\">(وإلا): في هذا الموضع بمعنى (لكن) وهو عندهم من الاستثناء المنقطع
+  ومنه قوله تعالى:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">مَا لَهُم بِهِ مِنْ عِلْمٍ إِلاَّ اتِّبَاعَ الظَّنَّ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[النساء:
+  157] قال النابغة:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><table
+  class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">حلفت يميناً غير ذي مثنوية</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">ولا علم إلا حسن ظن بصاحب</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">{ وَإِنْ هُم إِلاَّ يَظُنُّونَ
+  } فيه وجهان:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">أحدهما: يكذبون، قاله مجاهد.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">والثاني: يحدثون، قاله البصريون.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قوله
+  تعالى: { فَوَيلٌ لِلَّذِينَ يَكْتُبُونَ الْكِتَابَ بِأَيْدِيهِم } في الويل ستة أقاويل:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">أحدها: أنه العذاب، قاله ابن عباس.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">والثاني:
+  أنه التقبيح، وهو قول الأصمعي. ومنه قوله تعالى:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">وَلَكُمُ الْوَيْلُ مِمَّا تَصِفُونَ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[الأنبياء:
+  18]. وقال الشاعر:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><table
+  class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">كسا اللؤم سهما خضرة في جلودها</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">فويل لسهم من سرابيلها الخُضْرِ</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">والثالث: أنه الحزن، قاله المفضل.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">والرابع: أنه الخزي والهوان.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">والخامس:
+  أن الويل وادٍ في جهنم، وهذا قول أبي سعيد الخدري.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">والسادس:
+  أنه جبل في النار، وهو قول عثمان بن عفان.</font></font>&#13;\t\t\t<label disabled=\"true\"
+  class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(12,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(12,2,1)\"><u>2</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2, 78)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,78)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَمِنْهُمْ أُمِّيُّونَ لاَ يَعْلَمُونَ ٱلْكِتَابَ
+  إِلاَّ أَمَانِيَّ وَإِنْ هُمْ إِلاَّ يَظُنُّونَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">فَوَيْلٌ لِّلَّذِينَ
   يَكْتُبُونَ ٱلْكِتَابَ بِأَيْدِيهِمْ ثُمَّ يَقُولُونَ هَـٰذَا مِنْ عِنْدِ ٱللَّهِ
   لِيَشْتَرُواْ بِهِ ثَمَناً قَلِيلاً فَوَيْلٌ لَّهُمْ مِّمَّا كَتَبَتْ أَيْدِيهِمْ
-  وَوَيْلٌ لَّهُمْ مِّمَّا يَكْسِبُونَ }{ يَكْتُبُونَ الْكِتَابَ بِأَيْدِيهِم } أي
-  يغيرون ما في الكتاب من نبوة محمد صلى الله عليه وسلم ونعته.وفي قوله تعالى: { بِأَيدِيهِم
-  } تأويلان:أحدهما: أنه أراد بذلك تحقيق الإضافة، وإن كانت الكتابة لا تكون إلا باليد،
-  كقوله تعالى: { لِمَا خَلَقْتُ بِيَدَيّ }.والثاني: أن معنى { بِأَيْدِيهِم } أي من
-  تلقاء أنفسهم، قاله ابن السراج.وفي قوله تعالى: { لِيَشْتَرُوا بِهِ ثَمَنَاً قَلِيلاً
-  } تأويلان:أحدهما: ليأخذوا به عرض الدنيا، لأنه قليل المدة، كما قال تعالى: { قُلْ
-  مَتَاعُ الدُّنْيَا قَلِيلٌ } وهذا قول أبي العالية.والثاني: أنه قليل لأنه حرام.{
-  وَوَيلٌ لَّهُم مِمَّا يَكْسِبُونَ } فيه وجهان:أحدهما: من تحريف كتبهم.والثاني: من
-  أيام معاصيهم.\r\n\t\t\t\r\n\t\t\t1 2 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  وَوَيْلٌ لَّهُمْ مِّمَّا يَكْسِبُونَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\"
+  dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">{ يَكْتُبُونَ
+  الْكِتَابَ بِأَيْدِيهِم } أي يغيرون ما في الكتاب من نبوة محمد صلى الله عليه وسلم
+  ونعته.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وفي قوله تعالى: { بِأَيدِيهِم }
+  تأويلان:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">أحدهما: أنه أراد بذلك تحقيق الإضافة،
+  وإن كانت الكتابة لا تكون إلا باليد، كقوله تعالى: { لِمَا خَلَقْتُ بِيَدَيّ }.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">والثاني: أن معنى { بِأَيْدِيهِم } أي من تلقاء أنفسهم، قاله ابن السراج.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وفي قوله تعالى: { لِيَشْتَرُوا بِهِ ثَمَنَاً قَلِيلاً } تأويلان:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">أحدهما: ليأخذوا به عرض الدنيا، لأنه قليل المدة، كما قال تعالى: {
+  قُلْ مَتَاعُ الدُّنْيَا قَلِيلٌ } وهذا قول أبي العالية.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">والثاني:
+  أنه قليل لأنه حرام.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">{ وَوَيلٌ لَّهُم مِمَّا يَكْسِبُونَ
+  } فيه وجهان:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">أحدهما: من تحريف كتبهم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">والثاني: من أيام معاصيهم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(12,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(12,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section>"
 

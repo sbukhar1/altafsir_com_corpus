@@ -1,4 +1,4 @@
-location:
+position:
   sura: '011'
   aaya: '051'
   madhab: '01'
@@ -9,14 +9,33 @@ meta:
   year: '310'
 aaya: يَا قَوْمِ لَا أَسْأَلُكُمْ عَلَيْهِ أَجْرًا ۖ إِنْ أَجْرِيَ إِلَّا عَلَى الَّذِي
   فَطَرَنِي ۚ أَفَلَا تَعْقِلُونَ
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ يٰقَوْمِ لاۤ أَسْأَلُكُمْ
-  عَلَيْهِ أَجْراً إِنْ أَجْرِيَ إِلاَّ عَلَى ٱلَّذِي فَطَرَنِيۤ أَفَلاَ تَعْقِلُونَ
-  }يقول تعالـى ذكره مخبراً عن قـيـل هود لقومه: يا قوم لا أسألكم علـى ما أدعوكم إلـيه
-  من إخلاص العبـادة لله وخـلع الأوثان والبراءة منها جزاء وثوابـاً. { إنْ أجْرِيَ إلاَّ
-  علـى الَّذِي فَطَرَنِـي } يقول: إن ثوابـي وجزائي علـى نصيحتـي لكم، ودعائكم إلـى
-  الله، إلا علـى الذي خـلقنـي. { أفَلا تَعْقِلُونَ } يقول: أفلا تعقلون أنـي لو كنت
-  أبتغي بدعايتكم إلـى الله غير النصيحة لكم وطلب الـحظّ لكم فـي الدنـيا والآخرة لالتـمست
-  منكم علـى ذلك بعض أعراض الدنـيا وطلبت منكم الأجر والثواب؟حدثنا بشر، قال: ثنا يزيد،
-  قال: ثنا سعيد، عن قتادة، قوله: { إنْ أجْرِيَ إلاَّ علـى الَّذِي فَطَرَنِـي } أي
-  خـلقنـي.\r\n\t\t\t\r\n\t\t\t</section>"
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(11, 51)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(11,51)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">يٰقَوْمِ
+  لاۤ أَسْأَلُكُمْ عَلَيْهِ أَجْراً إِنْ أَجْرِيَ إِلاَّ عَلَى ٱلَّذِي فَطَرَنِيۤ
+  أَفَلاَ تَعْقِلُونَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">يقول تعالـى ذكره مخبراً عن قـيـل
+  هود لقومه: يا قوم لا أسألكم علـى ما أدعوكم إلـيه من إخلاص العبـادة لله وخـلع الأوثان
+  والبراءة منها جزاء وثوابـاً. { إنْ أجْرِيَ إلاَّ علـى الَّذِي فَطَرَنِـي } يقول:
+  إن ثوابـي وجزائي علـى نصيحتـي لكم، ودعائكم إلـى الله، إلا علـى الذي خـلقنـي. { أفَلا
+  تَعْقِلُونَ } يقول: أفلا تعقلون أنـي لو كنت أبتغي بدعايتكم إلـى الله غير النصيحة
+  لكم وطلب الـحظّ لكم فـي الدنـيا والآخرة لالتـمست منكم علـى ذلك بعض أعراض الدنـيا
+  وطلبت منكم الأجر والثواب؟</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا بشر، قال: ثنا يزيد، قال:
+  ثنا سعيد، عن قتادة، قوله: { إنْ أجْرِيَ إلاَّ علـى الَّذِي فَطَرَنِـي } أي خـلقنـي.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

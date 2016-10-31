@@ -1,4 +1,4 @@
-location:
+position:
   sura: '002'
   aaya: '121'
   madhab: '02'
@@ -9,22 +9,49 @@ meta:
   year: '803'
 aaya: الَّذِينَ آتَيْنَاهُمُ الْكِتَابَ يَتْلُونَهُ حَقَّ تِلَاوَتِهِ أُولَٰئِكَ يُؤْمِنُونَ
   بِهِ ۗ وَمَنْ يَكْفُرْ بِهِ فَأُولَٰئِكَ هُمُ الْخَاسِرُونَ
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ ٱلَّذِينَ آتَيْنَاهُمُ
-  ٱلْكِتَـٰبَ يَتْلُونَهُ حَقَّ تِلاَوَتِهِ أُوْلَـٰئِكَ يُؤْمِنُونَ بِهِ وَمن يَكْفُرْ
-  بِهِ فَأُوْلَـٰئِكَ هُمُ ٱلْخَٰسِرُونَ }قوله تعالى: { ٱلَّذِينَ ءَاتَيْنَاهُمُ ٱلْكِتَابَ
-  يَتْلُونَهُ حَقَّ تِلاَوَتِهِ... }ابن عطية: عن قتادة: هم المؤمنون بمحمد، والكتاب
-  القرآن. وعن ابن زيد: هم المؤمنون بموسى عليه السلام، والكتاب التوراة، وقيل: الأربعون
-  الواردون مع جعفر بن أبي طالب في السفينة.قال ابن عرفة: المراد به الأنبياء والرّسل
-  فقط. لكن يضعف لقوله \" يُؤْمِنُونَ بِهِ \" فكأنه إخبار بالمعلوم.ابن عطية: ويصح أن
-  يكون \" يَتْلُونَهُ \" حالا والخبر \" أُوْلئِكَ يُؤْمِنُونَ \".ورده ابن عرفة: بأنه
-  إخبار بالمعلوم فيمتنع كما امتنع أنّ الذاهبة جاريته مالكها، لأنّهم فسّروا \" يتلونه
-  \" بمعنى يتبعونه بامتثال أوامره ونواهيه، وهذا هو حقيقة الإيمان به. لكن قال: هذا
-  إنما يلزم إذا جعلنا الهاء من \" به \" عائدة على الكتاب، وأما إن أعدناها على محمد
-  صلى الله عليه وسلم أو على \" الهُدَى \" فيتم له ما قال.قيل لابن عرفة: أو يجاب بأن
-  الحال من شرطها الانتقال فالتلاوة غير لازمة؟فقال: الإخبار عن (المبتدإ) إنما هو (بصفته)
-  والحال من صفته فإذا انتقلت انتقل الخبر.قال ابن عرفة: وفي الآية رحمة وترجّ لكونها
-  لم يذكر فيها إلا من آمن بالكتاب ومن كفر به، ويبقى من كان في زمن الفترة والمجانين
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(2, 121)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(2,121)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">ٱلَّذِينَ
+  آتَيْنَاهُمُ ٱلْكِتَـٰبَ يَتْلُونَهُ حَقَّ تِلاَوَتِهِ أُوْلَـٰئِكَ يُؤْمِنُونَ
+  بِهِ وَمن يَكْفُرْ بِهِ فَأُوْلَـٰئِكَ هُمُ ٱلْخَٰسِرُونَ</a> <b>}</b></font>, <br/>,
+  <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">قوله
+  تعالى: { ٱلَّذِينَ ءَاتَيْنَاهُمُ ٱلْكِتَابَ يَتْلُونَهُ حَقَّ تِلاَوَتِهِ... }</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">ابن عطية: عن قتادة: هم المؤمنون بمحمد، والكتاب القرآن. وعن ابن زيد:
+  هم المؤمنون بموسى عليه السلام، والكتاب التوراة، وقيل: الأربعون الواردون مع جعفر
+  بن أبي طالب في السفينة.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">قال ابن عرفة: المراد به الأنبياء
+  والرّسل فقط. لكن يضعف لقوله \" يُؤْمِنُونَ بِهِ \" فكأنه إخبار بالمعلوم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">ابن عطية: ويصح أن يكون \" يَتْلُونَهُ \" حالا والخبر \" أُوْلئِكَ
+  يُؤْمِنُونَ \".</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">ورده ابن عرفة: بأنه إخبار بالمعلوم
+  فيمتنع كما امتنع أنّ الذاهبة جاريته مالكها، لأنّهم فسّروا \" يتلونه \" بمعنى يتبعونه
+  بامتثال أوامره ونواهيه، وهذا هو حقيقة الإيمان به. لكن قال: هذا إنما يلزم إذا جعلنا
+  الهاء من \" به \" عائدة على الكتاب، وأما إن أعدناها على محمد صلى الله عليه وسلم
+  أو على \" الهُدَى \" فيتم له ما قال.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قيل
+  لابن عرفة: أو يجاب بأن الحال من شرطها الانتقال فالتلاوة غير لازمة؟</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">فقال: الإخبار عن (المبتدإ) إنما هو (بصفته) والحال من صفته فإذا انتقلت
+  انتقل الخبر.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">قال ابن عرفة: وفي الآية رحمة وترجّ
+  لكونها لم يذكر فيها إلا من آمن بالكتاب ومن كفر به، ويبقى من كان في زمن الفترة والمجانين
   والصغار مسكوتا عنهم لم يتناولهم هذا الوعيد. وجاءت الآية مفصولة بغير عطف غير موصولة
   مع أنهم شرطوا في ذلك اختلاف الجملتين بأن تكون إحداهما طلبية، والأخرى خبرية وكذا
-  الأمر والنهي وهاتان متفقتان في الخبر لكنهما مختلفان.\r\n\t\t\t\r\n\t\t\t</section>"
+  الأمر والنهي وهاتان متفقتان في الخبر لكنهما مختلفان.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

@@ -1,4 +1,4 @@
-location:
+position:
   sura: 008
   aaya: '047'
   madhab: '01'
@@ -9,14 +9,32 @@ meta:
   year: '538'
 aaya: وَلَا تَكُونُوا كَالَّذِينَ خَرَجُوا مِنْ دِيَارِهِمْ بَطَرًا وَرِئَاءَ النَّاسِ
   وَيَصُدُّونَ عَنْ سَبِيلِ اللَّهِ ۚ وَاللَّهُ بِمَا يَعْمَلُونَ مُحِيطٌ
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَلاَ تَكُونُواْ
-  كَٱلَّذِينَ خَرَجُواْ مِن دِيَارِهِم بَطَراً وَرِئَآءَ ٱلنَّاسِ وَيَصُدُّونَ عَن
-  سَبِيلِ ٱللَّهِ وَٱللَّهُ بِمَا يَعْمَلُونَ مُحِيطٌ }حذرهم - بالنهي عن التنازع واختلاف
-  الرأي - نحو ما وقع لهم بأحد لمخالفتهم رسول الله صلى الله عليه وسلم من فشلهم وذهاب
-  ريحهم { كَٱلَّذِينَ خَرَجُواْ مِن دِيَـٰرِهِم } هم أهل مكة حين خرجوا لحماية العير،
-  فأتاهم رسول أبي سفيان وهم بالجحفة: أن ارجعوا فقد سلمت عيركم، فأبى أبو جهل وقال:
-  حتى نقدم بدراً نشرب بها الخمور، وتعزف علينا القيان ونطعم بها من حضرنا من العرب.
-  فذلك بطرهم ورئاؤهم الناس بإطعامهم، فوافوها، فسقوا كؤس المنايا مكان الخمر وناحت عليهم
-  النوائح مكان القيان، فنهاهم أن يكونوا مثلهم بطرين طربين مرائين بأعمالهم، وأن يكونوا
-  من أهل التقوى، والكآبة والحزن من خشية الله عز وجل، مخلصين أعمالهم لله.\r\n\t\t\t\r\n\t\t\t</section>"
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(8, 47)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(8,47)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَلاَ
+  تَكُونُواْ كَٱلَّذِينَ خَرَجُواْ مِن دِيَارِهِم بَطَراً وَرِئَآءَ ٱلنَّاسِ وَيَصُدُّونَ
+  عَن سَبِيلِ ٱللَّهِ وَٱللَّهُ بِمَا يَعْمَلُونَ مُحِيطٌ</a> <b>}</b></font>, <br/>,
+  <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">حذرهم
+  - بالنهي عن التنازع واختلاف الرأي - نحو ما وقع لهم بأحد لمخالفتهم رسول الله صلى
+  الله عليه وسلم من فشلهم وذهاب ريحهم { كَٱلَّذِينَ خَرَجُواْ مِن دِيَـٰرِهِم } هم
+  أهل مكة حين خرجوا لحماية العير، فأتاهم رسول أبي سفيان وهم بالجحفة: أن ارجعوا فقد
+  سلمت عيركم، فأبى أبو جهل وقال: حتى نقدم بدراً نشرب بها الخمور، وتعزف علينا القيان
+  ونطعم بها من حضرنا من العرب. فذلك بطرهم ورئاؤهم الناس بإطعامهم، فوافوها، فسقوا كؤس
+  المنايا مكان الخمر وناحت عليهم النوائح مكان القيان، فنهاهم أن يكونوا مثلهم بطرين
+  طربين مرائين بأعمالهم، وأن يكونوا من أهل التقوى، والكآبة والحزن من خشية الله عز
+  وجل، مخلصين أعمالهم لله.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

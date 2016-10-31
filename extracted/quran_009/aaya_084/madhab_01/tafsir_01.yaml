@@ -1,4 +1,4 @@
-location:
+position:
   sura: 009
   aaya: 084
   madhab: '01'
@@ -9,78 +9,176 @@ meta:
   year: '310'
 aaya: وَلَا تُصَلِّ عَلَىٰ أَحَدٍ مِنْهُمْ مَاتَ أَبَدًا وَلَا تَقُمْ عَلَىٰ قَبْرِهِ
   ۖ إِنَّهُمْ كَفَرُوا بِاللَّهِ وَرَسُولِهِ وَمَاتُوا وَهُمْ فَاسِقُونَ
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَلاَ تُصَلِّ
-  عَلَىٰ أَحَدٍ مِّنْهُم مَّاتَ أَبَداً وَلاَ تَقُمْ عَلَىٰ قَبْرِهِ إِنَّهُمْ كَفَرُواْ
-  بِٱللَّهِ وَرَسُولِهِ وَمَاتُواْ وَهُمْ فَاسِقُونَ }يقول جلّ ثناؤه لنبيه محمد صلى
-  الله عليه وسلم: ولا تصلّ يا محمد على أحد مات من هؤلاء المنافقين الذين تخلفوا عن
-  الخروج معك أبداً. { وَلا تَقُمْ على قَبْرِهِ } يقول: ولا تتولّ دفنه وتقبره من قول
-  القائل: قام فلان بأمر فلان: إذا كفاه أمره. { إنَّهُمْ كَفَرُوا باللَّهِ } يقول إنهم
-  جحدوا توحيد الله ورسالة رسوله، وماتوا وهم خارجون من الإسلام مفارقون أمر الله ونهيه.
-  وقد ذكر أن هذه الآية نزلت حين صلى النبيّ صلى الله عليه وسلم على عبد الله بن أبيّ.
-  ذكر من قال ذلك:حدثنا محمد بن المثنى وسفيان بن وكيع، وسوّار بن عبد الله، قالوا: ثنا
-  يحيى بن سعيد، عن عبيد الله قال: أخبرني نافع، عن ابن عمر، قال: جاء ابن عبد الله بن
-  أبيّ ابن سلولَ إلى رسول الله صلى الله عليه وسلم حين مات أبوه، فقال: أعطني قميصك
-  حتى أكفنه فيه، وصلّ عليه واستغفر له فأعطاه قميصه، وقال: \" إذَا فَرَغْتُمْ فَآذِنُونِي
-  \" فلما أراد أن يصلي عليه، جذبه عمر وقال: أليس قد نهاك الله أن تصلي على المنافقين؟
-  فقال: \" بَلْ خَيَّرَنِي وقالَ اسْتَغْفِرْ لَهُمْ أوْ لا تَسْتَغْفرْ لَهُمْ \" قال:
-  فصلي عليه. قال: فأنزل الله تبارك وتعالى: { وَلا تُصَلّ على أحَدٍ منْهُمْ ماتَ أبَداً
-  وَلا تَقُمْ على قَبْرِهِ } قال: فترك الصلاة عليهم.حدثنا ابن وكيع، قال: ثنا أبو أسامة،
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(9, 84)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(9,84)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَلاَ
+  تُصَلِّ عَلَىٰ أَحَدٍ مِّنْهُم مَّاتَ أَبَداً وَلاَ تَقُمْ عَلَىٰ قَبْرِهِ إِنَّهُمْ
+  كَفَرُواْ بِٱللَّهِ وَرَسُولِهِ وَمَاتُواْ وَهُمْ فَاسِقُونَ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">يقول جلّ ثناؤه لنبيه محمد صلى الله عليه وسلم: ولا تصلّ يا محمد على
+  أحد مات من هؤلاء المنافقين الذين تخلفوا عن الخروج معك أبداً. { وَلا تَقُمْ على قَبْرِهِ
+  } يقول: ولا تتولّ دفنه وتقبره من قول القائل: قام فلان بأمر فلان: إذا كفاه أمره.
+  { إنَّهُمْ كَفَرُوا باللَّهِ } يقول إنهم جحدوا توحيد الله ورسالة رسوله، وماتوا وهم
+  خارجون من الإسلام مفارقون أمر الله ونهيه. وقد ذكر أن هذه الآية نزلت حين صلى النبيّ
+  صلى الله عليه وسلم على عبد الله بن أبيّ. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  محمد بن المثنى وسفيان بن وكيع، وسوّار بن عبد الله، قالوا: ثنا يحيى بن سعيد، عن عبيد
+  الله قال: أخبرني نافع، عن ابن عمر، قال: جاء ابن عبد الله بن أبيّ ابن سلولَ إلى رسول
+  الله صلى الله عليه وسلم حين مات أبوه، فقال: أعطني قميصك حتى أكفنه فيه، وصلّ عليه
+  واستغفر له فأعطاه قميصه، وقال:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" إذَا فَرَغْتُمْ فَآذِنُونِي \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">فلما أراد أن يصلي عليه، جذبه عمر وقال: أليس قد نهاك الله أن تصلي
+  على المنافقين؟ فقال:</font></font><b><font class=\"TextResultArabic\"><font color=\"Red\">
+  \" بَلْ خَيَّرَنِي وقالَ اسْتَغْفِرْ لَهُمْ أوْ لا تَسْتَغْفرْ لَهُمْ \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\">قال: فصلي عليه. قال: فأنزل الله
+  تبارك وتعالى: { وَلا تُصَلّ على أحَدٍ منْهُمْ ماتَ أبَداً وَلا تَقُمْ على قَبْرِهِ
+  } قال: فترك الصلاة عليهم.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن وكيع، قال: ثنا أبو أسامة،
   عن عبيد الله، عن ابن عمر، قال: لما توفي عبد الله بن أبيّ ابن سلول، جاء ابنه عبد
   الله إلى النبيّ صلى الله عليه وسلم، فسأله أن يعطيه قميصه يكفن فيه أباه فأعطاه. ثم
   سأله أن يصلي عليه. فقام عمر بن الخطاب رضي الله عنه، فأخذ بثوب النبيّ صلى الله عليه
   وسلم، فقال ابنَ سلول أتصلي عليه وقد نهاك الله أن تصلي عليه؟ فقال النبيّ صلى الله
-  عليه وسلم: \" إنَّمَا خَيَّرَنِي رَبّي، فقالَ: { اسْتَغْفِرْ لَهُمْ أوْ لا تَسْتَغْفِرْ
-  لَهُمْ إنْ تَسْتَغْفِرْ لَهُمْ سَبْعِينَ مَرَّةً فَلَنْ يَغْفِرَ اللَّهُ لَهُمْ
-  } وسأزِيدُ على سَبْعِينَ \" فقال: إنه منافق فصلى عليه رسول الله صلى الله عليه وسلم،
-  فأنزل الله: { وَلا تُصَلّ على أحَدٍ مِنْهُمْ ماتَ أبَداً وَلا تَقُمْ على قَبْرِهِ
-  }.حدثنا سوار بن عبد الله العنبريّ، قال: ثنا يحيى بن سعيد، عن مجالد، قال: ثني عامر،
-  عن جابر بن عبد الله، أن رأس المنافقين مات بالمدينة، فأوصى أن يصلَّى عليه النبيّ
-  صلى الله عليه وسلم وأن يكفن في قميصه. فكفنه في قميصه، وصلى عليه، وقام على قبره،
-  فأنزل الله تبارك وتعالى: { وَلا تُصَلّ على أحَدٍ منْهُمْ ماتَ أبَداً وَلا تَقُمْ
-  على قَبْرِهِ }.\r\n\t\t\t\r\n\t\t\t1 2 3 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَلاَ تُصَلِّ عَلَىٰ أَحَدٍ مِّنْهُم
-  مَّاتَ أَبَداً وَلاَ تَقُمْ عَلَىٰ قَبْرِهِ إِنَّهُمْ كَفَرُواْ بِٱللَّهِ وَرَسُولِهِ
-  وَمَاتُواْ وَهُمْ فَاسِقُونَ }حدثني أحمد بن إسحاق، قال: ثنا أبو أحمد، قال: ثنا سلمة،
-  عن يزيد الرَّقاشيِّ، عن أنس: أن رسول الله صلى الله عليه وسلم أراد أن يصلي علي عبد
-  الله بن أبيّ ابن سلول، فأخذ جبريل عليه السلام بثوبه فقال: { وَلا تُصَلّ على أحَدٍ
-  منْهُمْ ماتَ أبَداً وَلا تَقُمْ على قَبْرِهِ }.حدثنا ابن وكيع، قال: ثنا ابن عيينة،
-  عن عمرو، عن جابر، قال: جاء النبيّ صلى الله عليه وسلم عبد الله بن أبيّ وقد أدخل حفرته،
-  فأخرجه، فوضعه على ركبتيه وألبسه قميصه وتفل عليه من ريقه، والله أعلم.حدثنا ابن حميد،
-  قال: ثنا سلمة، عن محمد بن إسحاق، عن الزهريّ، عن عبيد الله بن عبد الله بن عتبة بن
-  مسعود، عن عبد الله بن عباس، قال: سمعت عمر بن الخطاب رضي الله عنه يقول: لما توفي
-  عبد الله بن أبيّ ابن سلول، دُعي رسول الله صلى الله عليه وسلم للصلاة عليه، فقام إليه
-  فلما وقف عليه يريد الصلاة، تحوّلت حتى قمت في صدره، فقلت: يا رسول الله، أتصلي على
-  عدوّ الله عبد الله بن أبيّ القائل يوم كذا كذا وكذا، أعدّد أيامه، ورسول الله عليه
-  الصلاة والسلام يتبسمّ. حتى إذا أكثرت عليه، قال: \" اخِّرْ عَنِّيِ يا عُمَرُ إنّي
+  عليه وسلم:</font></font><b><font class=\"TextResultArabic\"><font color=\"Red\">
+  \" إنَّمَا خَيَّرَنِي رَبّي، فقالَ: { اسْتَغْفِرْ لَهُمْ أوْ لا تَسْتَغْفِرْ لَهُمْ
+  إنْ تَسْتَغْفِرْ لَهُمْ سَبْعِينَ مَرَّةً فَلَنْ يَغْفِرَ اللَّهُ لَهُمْ } وسأزِيدُ
+  على سَبْعِينَ \" </font></font></b><font class=\"TextResultArabic\"><font color=\"black\">فقال:
+  إنه منافق فصلى عليه رسول الله صلى الله عليه وسلم، فأنزل الله: { وَلا تُصَلّ على
+  أحَدٍ مِنْهُمْ ماتَ أبَداً وَلا تَقُمْ على قَبْرِهِ }.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  سوار بن عبد الله العنبريّ، قال: ثنا يحيى بن سعيد، عن مجالد، قال: ثني عامر، عن جابر
+  بن عبد الله، أن رأس المنافقين مات بالمدينة، فأوصى أن يصلَّى عليه النبيّ صلى الله
+  عليه وسلم وأن يكفن في قميصه. فكفنه في قميصه، وصلى عليه، وقام على قبره، فأنزل الله
+  تبارك وتعالى: { وَلا تُصَلّ على أحَدٍ منْهُمْ ماتَ أبَداً وَلا تَقُمْ على قَبْرِهِ
+  }.</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\"
+  border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE:
+  none; BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(9, 84)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(9,84)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَلاَ تُصَلِّ عَلَىٰ أَحَدٍ مِّنْهُم مَّاتَ أَبَداً
+  وَلاَ تَقُمْ عَلَىٰ قَبْرِهِ إِنَّهُمْ كَفَرُواْ بِٱللَّهِ وَرَسُولِهِ وَمَاتُواْ
+  وَهُمْ فَاسِقُونَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثني أحمد بن إسحاق، قال: ثنا أبو
+  أحمد، قال: ثنا سلمة، عن يزيد الرَّقاشيِّ، عن أنس: أن رسول الله صلى الله عليه وسلم
+  أراد أن يصلي علي عبد الله بن أبيّ ابن سلول، فأخذ جبريل عليه السلام بثوبه فقال: {
+  وَلا تُصَلّ على أحَدٍ منْهُمْ ماتَ أبَداً وَلا تَقُمْ على قَبْرِهِ }.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن وكيع، قال: ثنا ابن عيينة، عن عمرو، عن جابر، قال: جاء النبيّ
+  صلى الله عليه وسلم عبد الله بن أبيّ وقد أدخل حفرته، فأخرجه، فوضعه على ركبتيه وألبسه
+  قميصه وتفل عليه من ريقه، والله أعلم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن حميد، قال: ثنا سلمة، عن محمد بن إسحاق، عن الزهريّ، عن عبيد الله بن عبد الله
+  بن عتبة بن مسعود، عن عبد الله بن عباس، قال: سمعت عمر بن الخطاب رضي الله عنه يقول:
+  لما توفي عبد الله بن أبيّ ابن سلول، دُعي رسول الله صلى الله عليه وسلم للصلاة عليه،
+  فقام إليه فلما وقف عليه يريد الصلاة، تحوّلت حتى قمت في صدره، فقلت: يا رسول الله،
+  أتصلي على عدوّ الله عبد الله بن أبيّ القائل يوم كذا كذا وكذا، أعدّد أيامه، ورسول
+  الله عليه الصلاة والسلام يتبسمّ. حتى إذا أكثرت عليه، قال:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" اخِّرْ عَنِّيِ يا عُمَرُ إنّي
   خُيِّرْتُ فاخْتَرْتُ، وَقَدْ قِيلَ لي { اسْتَغْفِرْ لَهُمْ أوْ لا تَسْتَغْفِرْ لَهُمْ
   إنْ تَسْتَغْفِرْ لَهُمْ سَبْعِينَ مَرَّةً فَلَنْ يَغْفِرَ اللَّهُ لهم } فلو أني
-  أعلم أنين إن زدت على السبعين غفر له لزدت \" قال ثم صلى عليه ومشى معه فقام على قبره
-  حتى فرغ منه قال: اتعجب لي وجرأتي على رسول الله صلى الله عليه وسلم، والله ورسوله
-  أعلم، فوالله ما كان إلاَّ يسيراً حتى نزلت هاتان الآيتان { ولا تصلِّ على أحَدٍ مِنْهُمْ
-  ماتَ أبَداً } فما صلى رسول الله صلى الله عليه وسلم بعده على منافق، ولا قام على قبره
-  حتى قبضه الله.حدثنا ابن حميد، قال: ثنا سلمة، عن محمد بن إسحاق، عن عاصم بن عمر بن
-  قتادة، قال: لما مات عبد الله بن أبيّ، أتي ابنه عبد الله بن عبد الله رسول الله صلى
-  الله عليه وسلم، فسأله قميصه، فأعطاه، فكفَّن فيه أباه.حدثنا المثنى، قال: ثنا أبو
-  صالح، قال: ثني الليث، قال: ثني عقيل، عن ابن شهاب، قال: أخبرني عبيد الله بن عبد الله
-  بن عتبة، عن عبد الله بن عباس، عن عمر بن الخطاب، قال: لما مات عبد الله بن أبيّ، فذكر
-  مثل حديث ابن حميد، عن سلمة.حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله:
-  { وَلا تُصَلّ على أحَدٍ مِنْهُمْ ماتَ أبَداً، وَلا تَقُمْ على قَبْرِهِ... } الآية،
-  قال: بعث عبد الله بن أبيّ إلى رسول الله صلى الله عليه وسلم وهو مريض ليأتيه، فنهاه
-  عن ذلك عمر، فأتاه نبيّ الله صلى الله عليه وسلم فلما دخل عليه قال نبيّ الله صلى الله
-  عليه وسلم:\r\n\t\t\t\r\n\t\t\t1 2 3 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَلاَ تُصَلِّ عَلَىٰ أَحَدٍ مِّنْهُم
-  مَّاتَ أَبَداً وَلاَ تَقُمْ عَلَىٰ قَبْرِهِ إِنَّهُمْ كَفَرُواْ بِٱللَّهِ وَرَسُولِهِ
-  وَمَاتُواْ وَهُمْ فَاسِقُونَ } \" أهْلَكَكَ حُبُّ اليَهُودِ \" قال: فقال: يا نبيّ
-  الله إني لم أبعث إليك لتؤنبني، ولكن بعثت إليك لتستغفر لي وسأله قميصه أن يكفن فيه،
-  فأعطاه إياه، فاستغفر له رسول الله صلى الله عليه وسلم فمات، فكفن في قميص رسول الله
-  صلى الله عليه وسلم، ونفث في جلده ودلاّه في قبره. فأنزل الله تبارك وتعالى: { وَلا
-  تُصَلّ على أحَدٍ مِنْهُمْ ماتَ أبَداً... } الآية. قال: ذكر لنا أن نبيّ الله صلى
-  الله عليه وسلم كلم في ذلك، فقال: \" وَما يُغْنِي عَنْهُ قَمِيصِي مِنَ اللَّهِ أوْ
-  رَبِّي وَصَلاتي عَلَيْهِ؟ وإنّي لأرْجُو أنْ يُسْلِمَ بِهِ ألْفٌ مِنْ قَوْمِهِ \"
-  حدثنا محمد بن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة، قال: أرسل عبد الله
-  بن أبيّ ابن سلول وهو مريض إلى النبيّ صلى الله عليه وسلم فلما دخل عليه، قال له النبيّ
-  صلى الله عليه وسلم: \" أهْلَكَكَ حُبُّ يَهُودَ \" قال: يا رسول الله، إنما أرسلت
-  إليك لتستغفر لي ولم أرسل إليك لتؤنبني. ثم سأله عبد الله أن يعطيه قميصه أن يكفن فيه،
-  فأعطاه إياه وصلى عليه، وقام على قبره، فأنزل الله تعالى ذكره: { وَلا تُصَلّ على أحَدٍ
-  مِنْهُمْ ماتَ أبَداً، وَلا تَقُمْ على قَبْرِهِ }.\r\n\t\t\t\r\n\t\t\t1 2 3 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  أعلم أنين إن زدت على السبعين غفر له لزدت \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">قال ثم صلى عليه ومشى معه فقام على قبره حتى فرغ منه قال: اتعجب لي
+  وجرأتي على رسول الله صلى الله عليه وسلم، والله ورسوله أعلم، فوالله ما كان إلاَّ
+  يسيراً حتى نزلت هاتان الآيتان { ولا تصلِّ على أحَدٍ مِنْهُمْ ماتَ أبَداً } فما صلى
+  رسول الله صلى الله عليه وسلم بعده على منافق، ولا قام على قبره حتى قبضه الله.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن حميد، قال: ثنا سلمة، عن محمد بن إسحاق، عن عاصم بن عمر
+  بن قتادة، قال: لما مات عبد الله بن أبيّ، أتي ابنه عبد الله بن عبد الله رسول الله
+  صلى الله عليه وسلم، فسأله قميصه، فأعطاه، فكفَّن فيه أباه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  المثنى، قال: ثنا أبو صالح، قال: ثني الليث، قال: ثني عقيل، عن ابن شهاب، قال: أخبرني
+  عبيد الله بن عبد الله بن عتبة، عن عبد الله بن عباس، عن عمر بن الخطاب، قال: لما مات
+  عبد الله بن أبيّ، فذكر مثل حديث ابن حميد، عن سلمة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: { وَلا تُصَلّ على أحَدٍ مِنْهُمْ
+  ماتَ أبَداً، وَلا تَقُمْ على قَبْرِهِ... } الآية، قال: بعث عبد الله بن أبيّ إلى
+  رسول الله صلى الله عليه وسلم وهو مريض ليأتيه، فنهاه عن ذلك عمر، فأتاه نبيّ الله
+  صلى الله عليه وسلم فلما دخل عليه قال نبيّ الله صلى الله عليه وسلم:</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(9, 84)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(9,84)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَلاَ تُصَلِّ عَلَىٰ أَحَدٍ مِّنْهُم مَّاتَ أَبَداً
+  وَلاَ تَقُمْ عَلَىٰ قَبْرِهِ إِنَّهُمْ كَفَرُواْ بِٱللَّهِ وَرَسُولِهِ وَمَاتُواْ
+  وَهُمْ فَاسِقُونَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\"/></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" أهْلَكَكَ حُبُّ اليَهُودِ \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">قال: فقال: يا نبيّ الله إني لم أبعث إليك لتؤنبني، ولكن بعثت إليك
+  لتستغفر لي وسأله قميصه أن يكفن فيه، فأعطاه إياه، فاستغفر له رسول الله صلى الله عليه
+  وسلم فمات، فكفن في قميص رسول الله صلى الله عليه وسلم، ونفث في جلده ودلاّه في قبره.
+  فأنزل الله تبارك وتعالى: { وَلا تُصَلّ على أحَدٍ مِنْهُمْ ماتَ أبَداً... } الآية.
+  قال: ذكر لنا أن نبيّ الله صلى الله عليه وسلم كلم في ذلك، فقال:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" وَما يُغْنِي عَنْهُ قَمِيصِي
+  مِنَ اللَّهِ أوْ رَبِّي وَصَلاتي عَلَيْهِ؟ وإنّي لأرْجُو أنْ يُسْلِمَ بِهِ ألْفٌ
+  مِنْ قَوْمِهِ \" </font></font></b><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا محمد بن عبد الأعلى، قال:
+  ثنا ابن ثور، عن معمر، عن قتادة، قال: أرسل عبد الله بن أبيّ ابن سلول وهو مريض إلى
+  النبيّ صلى الله عليه وسلم فلما دخل عليه، قال له النبيّ صلى الله عليه وسلم:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" أهْلَكَكَ حُبُّ يَهُودَ \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\">قال: يا رسول الله، إنما أرسلت إليك
+  لتستغفر لي ولم أرسل إليك لتؤنبني. ثم سأله عبد الله أن يعطيه قميصه أن يكفن فيه، فأعطاه
+  إياه وصلى عليه، وقام على قبره، فأنزل الله تعالى ذكره: { وَلا تُصَلّ على أحَدٍ مِنْهُمْ
+  ماتَ أبَداً، وَلا تَقُمْ على قَبْرِهِ }.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">3 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a id=\"NextClass\"/></td></tr></table></center></div></section>"
 

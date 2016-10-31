@@ -1,4 +1,4 @@
-location:
+position:
   sura: '002'
   aaya: '035'
   madhab: '02'
@@ -7,50 +7,139 @@ meta:
   title: تفسير التفسير
   author: ابن عرفة
   year: '803'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَقُلْنَا يَآءَادَمُ
-  ٱسْكُنْ أَنْتَ وَزَوْجُكَ ٱلْجَنَّةَ وَكُلاَ مِنْهَا رَغَداً حَيْثُ شِئْتُمَا وَلاَ
-  تَقْرَبَا هَـٰذِهِ ٱلشَّجَرَةَ فَتَكُونَا مِنَ ٱلْظَّٰلِمِينَ }قوله تعالى: { وَقُلْنَا
-  يَآءَادَمُ ٱسْكُنْ أَنتَ وَزَوْجُكَ... }.قال ابن عرفة: (الجمع) من قوله تعالى، وزيادة
-  \" قلنا \" في بعض الآيات تنبيها على تشريف القول وتعظيمه والاهتمام به.فرد عليه بقوله
-  تعالى:{ وَقُلْنَا لَهُمُ ٱدْخُلُواْ ٱلْبَابَ سُجَّداً }{ قُلْنَا لَهُمْ كُونُواْ
-  قِرَدَةً خَاسِئِينَ }والتعظيم للقول لا للمفعول له، ففيه تهويل وتفخيم لذلك الأمر.
-  والسكنى لا تفيد التأبيد.قال في المدونة في أواخر كتاب الهبات: ومن قال لرجل: داري
-  هذه لك صدقة سكنى فإنما له السكنى فقط دون عقبتها، وأما إن قال هذه الدار لك ولعقبك
-  سكناها فإنها ترجع إليه ملكا بعد انقراضهم. فإن مات فأولى الناس به يوم مات وإلى ورثتهم
-  لأنهم هم ورثته.قال ابن عطية: اختلف (مَتَى) خلقت حواء من ضلع آدم؟ ثم قال: عن ابن
-  عباس رضي الله عنهما أنه سألوه لم سميت حواء؟ قال: لأنها خلقت من حي.قال ابن عرفة:
-  قال بعضهم: المناسب لهذا أن (كان) يكون اسمها حيا؟ وأجيب بأنه اشتقاق أكبر، ومنهم من
-  قال: سميت حواء لأن امرأة الرجل تحوي عليه وتستحمله، فيدخل طوعها ويسمع منها في غالب
-  أمره.قوله تعالى: { وَكُلاَ مِنْهَا رَغَداً... }.قال ابن عرفة: رأيت تأليفا للشيخ
-  عزّ الدين بن عبد السلام في إعجاز القرآن وغيره قال: إنه على حذف مضاف تقديره: وكُلاَ
-  من ثمارها رغدا.قال ابن عرفة: هذا إن أعربنا \" رغدا \" نعتا للمصدر فتكون \" من \"
-  للتبعيض والثمر ليس هو بعض الجنة إنما الجنة هي الأشجار والأرض بدليل أن من باع جنة
-  فيها ثمر قد أبرّ فإنه للبائع ولا يتناوله البيع إلا بالشرط فليس الأكل من الجنة.قيل
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(2, 35)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(2,35)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَقُلْنَا
+  يَآءَادَمُ ٱسْكُنْ أَنْتَ وَزَوْجُكَ ٱلْجَنَّةَ وَكُلاَ مِنْهَا رَغَداً حَيْثُ شِئْتُمَا
+  وَلاَ تَقْرَبَا هَـٰذِهِ ٱلشَّجَرَةَ فَتَكُونَا مِنَ ٱلْظَّٰلِمِينَ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">قوله تعالى: { وَقُلْنَا يَآءَادَمُ ٱسْكُنْ أَنتَ وَزَوْجُكَ... }.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قال ابن عرفة: (الجمع) من قوله تعالى، وزيادة \" قلنا \" في بعض الآيات
+  تنبيها على تشريف القول وتعظيمه والاهتمام به.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">فرد
+  عليه بقوله تعالى:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">وَقُلْنَا لَهُمُ ٱدْخُلُواْ ٱلْبَابَ سُجَّداً</font></font> }</b><br
+  class=\"TextArabic\"/><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">قُلْنَا لَهُمْ كُونُواْ قِرَدَةً خَاسِئِينَ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">والتعظيم
+  للقول لا للمفعول له، ففيه تهويل وتفخيم لذلك الأمر. والسكنى لا تفيد التأبيد.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قال في المدونة في أواخر كتاب الهبات: ومن قال لرجل: داري هذه لك صدقة
+  سكنى فإنما له السكنى فقط دون عقبتها، وأما إن قال هذه الدار لك ولعقبك سكناها فإنها
+  ترجع إليه ملكا بعد انقراضهم. فإن مات فأولى الناس به يوم مات وإلى ورثتهم لأنهم هم
+  ورثته.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">قال ابن عطية: اختلف (مَتَى) خلقت
+  حواء من ضلع آدم؟ ثم قال: عن ابن عباس رضي الله عنهما أنه سألوه لم سميت حواء؟ قال:
+  لأنها خلقت من حي.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">قال ابن عرفة: قال بعضهم: المناسب
+  لهذا أن (كان) يكون اسمها حيا؟ وأجيب بأنه اشتقاق أكبر، ومنهم من قال: سميت حواء لأن
+  امرأة الرجل تحوي عليه وتستحمله، فيدخل طوعها ويسمع منها في غالب أمره.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قوله تعالى: { وَكُلاَ مِنْهَا رَغَداً... }.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال
+  ابن عرفة: رأيت تأليفا للشيخ عزّ الدين بن عبد السلام في إعجاز القرآن وغيره قال: إنه
+  على حذف مضاف تقديره: وكُلاَ من ثمارها رغدا.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال
+  ابن عرفة: هذا إن أعربنا \" رغدا \" نعتا للمصدر فتكون \" من \" للتبعيض والثمر ليس
+  هو بعض الجنة إنما الجنة هي الأشجار والأرض بدليل أن من باع جنة فيها ثمر قد أبرّ فإنه
+  للبائع ولا يتناوله البيع إلا بالشرط فليس الأكل من الجنة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قيل
   لابن عرفة: هذه حقيقة شرعية؟ فقال الأصل موافقة الشيء للغة حتى يدل الدليل على خلاف
   ذلك. قال وإن أعربنا \" رغدا: (نعتاً) للمفعول مقدرا أي { وَكُلاَ مِنْهَا } (مأكولا)
   رغدا وتكون \" من \" للغاية أعني لابتدائها وانتهائها فلا يحتاج إلى تقدير المضاف وقال
-  في الأعراف{ وَيَآءَادَمُ ٱسْكُنْ أَنتَ وَزَوْجُكَ ٱلْجَنَّةَ فَكُلاَ مِنْ حَيْثُ
-  شِئْتُمَا }فعطف بالفاء وهنا بالواو.قال ابن عرفة: يجاب بأن تكون هذه نزلت قبل تلك
-  الآية فعبر هنا باللَّفظ الأعم وهو الواو المحتلة لأن يكون الأكل عقب السكنى وبعدها
-  بتراخ ثمّ خوطب هناك باللفظ الأخص الدال على إباحة الأكل بعقب السكنى ليكون الكلام
-  تأسيسا مقيدا.وأجاب الفخر في درة التنزيل: بأن الأكل من الموضع لا يكون إلا بعد دخوله
-  له إما قبل سكناه أو بعده والأعراف وردت بعد قوله:{ ٱخْرُجْ مِنْهَا مَذْءُوماً مَّدْحُوراً }(خطابا
-  للشيطان) ثم قال:{ وَيَآءَادَمُ ٱسْكُنْ أَنتَ وَزَوْجُكَ ٱلْجَنَّةَ }معناه: ادخلْها
-  أنت دخول سكنى وهي الإقامة مع طول مكث فناسب العطف بالفاء لأن (الدّخول) متقدم في الرتبة
-  على الأكل وآية البقرة لم يتقدم فيها ما يدل على الدخول، فالمراد اسكن حقيقة.\r\n\t\t\t\r\n\t\t\t1 2 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَقُلْنَا يَآءَادَمُ ٱسْكُنْ أَنْتَ
-  وَزَوْجُكَ ٱلْجَنَّةَ وَكُلاَ مِنْهَا رَغَداً حَيْثُ شِئْتُمَا وَلاَ تَقْرَبَا هَـٰذِهِ
-  ٱلشَّجَرَةَ فَتَكُونَا مِنَ ٱلْظَّٰلِمِينَ }وتأخر الأكل على السكنى ليس بلازم.قوله
-  تعالى: { حَيْثُ شِئْتُمَا... }قال ابن عرفة: / قالوا: إنه على التوزيع أي يأكل واحد
-  منكما من حيث شاء، لأن الأكل متوقف على اجتماعهما معا على المشيئة لأن المضمرات عندنا
-  كلية (وصيغة) الأمر هنا للامتنان، وعبر عنه ابن عطية بالإذن.قال الشيخ الفخر: إمّا
-  للندب أو الإباحة والظاهر ما قلناه.قوله تعالى: { وَلاَ تَقْرَبَا هَـٰذِهِ ٱلشَّجَرَةَ...
-  }قال ابن عطية: قال بعض الحذاق: إن الله لما أراد النّهي عن أكل الشجرة نهى عنه بلفظ
-  يقتضي الأكل والقرب منه.قال ابن عطية: وهذا مثال لسد الذرائع.قال ابن عرفة: فرق بين
-  سد الذرائع وبين النّهي عن الشيء لأجل غيره وهو النهي عما هو سبب في غيره، فسد الذرائع
-  هو الامتناع مما لم ينه عنه خشية الوقوع في ما نهى عنه، ومنها (بياعات) الآجال المختلف
-  فيها التي هي ذريعة للوقوع في المحرم ولولا أنّها مختلف فيها ما كان ذريعة فالذريعة
-  (هنا) هو أن يقارب قرب الأكل من الشجرة لأنه نهى عن قرب القرب.قال ابن الخطيب: والنّهي
-  على الكراهة.قال ابن عرفة: بل على التحريم لقوله{ وَعَصَىٰ ءَادَمُ رَبَّهُ فَغَوَىٰ }والظلم
-  الخروج عن الحد إما بكفر أو ارتكاب أمور أدناها الصّغائر.\r\n\t\t\t\r\n\t\t\t1 2 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  في الأعراف</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">وَيَآءَادَمُ ٱسْكُنْ أَنتَ وَزَوْجُكَ ٱلْجَنَّةَ فَكُلاَ مِنْ
+  حَيْثُ شِئْتُمَا</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">فعطف بالفاء وهنا بالواو.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال
+  ابن عرفة: يجاب بأن تكون هذه نزلت قبل تلك الآية فعبر هنا باللَّفظ الأعم وهو الواو
+  المحتلة لأن يكون الأكل عقب السكنى وبعدها بتراخ ثمّ خوطب هناك باللفظ الأخص الدال
+  على إباحة الأكل بعقب السكنى ليكون الكلام تأسيسا مقيدا.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وأجاب
+  الفخر في درة التنزيل: بأن الأكل من الموضع لا يكون إلا بعد دخوله له إما قبل سكناه
+  أو بعده والأعراف وردت بعد قوله:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">ٱخْرُجْ مِنْهَا مَذْءُوماً مَّدْحُوراً</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">(خطابا
+  للشيطان) ثم قال:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">وَيَآءَادَمُ ٱسْكُنْ أَنتَ وَزَوْجُكَ ٱلْجَنَّةَ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">معناه:
+  ادخلْها أنت دخول سكنى وهي الإقامة مع طول مكث فناسب العطف بالفاء لأن (الدّخول) متقدم
+  في الرتبة على الأكل وآية البقرة لم يتقدم فيها ما يدل على الدخول، فالمراد اسكن حقيقة.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(20,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(20,2,1)\"><u>2</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2, 35)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,35)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَقُلْنَا يَآءَادَمُ ٱسْكُنْ أَنْتَ وَزَوْجُكَ ٱلْجَنَّةَ
+  وَكُلاَ مِنْهَا رَغَداً حَيْثُ شِئْتُمَا وَلاَ تَقْرَبَا هَـٰذِهِ ٱلشَّجَرَةَ فَتَكُونَا
+  مِنَ ٱلْظَّٰلِمِينَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">وتأخر الأكل على السكنى ليس بلازم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قوله تعالى: { حَيْثُ شِئْتُمَا... }</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال
+  ابن عرفة: / قالوا: إنه على التوزيع أي يأكل واحد منكما من حيث شاء، لأن الأكل متوقف
+  على اجتماعهما معا على المشيئة لأن المضمرات عندنا كلية (وصيغة) الأمر هنا للامتنان،
+  وعبر عنه ابن عطية بالإذن.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">قال الشيخ الفخر: إمّا للندب أو
+  الإباحة والظاهر ما قلناه.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">قوله تعالى: { وَلاَ تَقْرَبَا هَـٰذِهِ
+  ٱلشَّجَرَةَ... }</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">قال ابن عطية: قال بعض الحذاق: إن
+  الله لما أراد النّهي عن أكل الشجرة نهى عنه بلفظ يقتضي الأكل والقرب منه.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قال ابن عطية: وهذا مثال لسد الذرائع.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال
+  ابن عرفة: فرق بين سد الذرائع وبين النّهي عن الشيء لأجل غيره وهو النهي عما هو سبب
+  في غيره، فسد الذرائع هو الامتناع مما لم ينه عنه خشية الوقوع في ما نهى عنه، ومنها
+  (بياعات) الآجال المختلف فيها التي هي ذريعة للوقوع في المحرم ولولا أنّها مختلف فيها
+  ما كان ذريعة فالذريعة (هنا) هو أن يقارب قرب الأكل من الشجرة لأنه نهى عن قرب القرب.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قال ابن الخطيب: والنّهي على الكراهة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال
+  ابن عرفة: بل على التحريم لقوله</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">وَعَصَىٰ ءَادَمُ رَبَّهُ فَغَوَىٰ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">والظلم
+  الخروج عن الحد إما بكفر أو ارتكاب أمور أدناها الصّغائر.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(20,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(20,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section>"
 

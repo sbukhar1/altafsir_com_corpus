@@ -1,4 +1,4 @@
-location:
+position:
   sura: '003'
   aaya: '118'
   madhab: '01'
@@ -7,138 +7,304 @@ meta:
   title: تفسير جامع البيان في تفسير القرآن
   author: الطبري
   year: '310'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ يٰأَيُّهَا ٱلَّذِينَ
-  آمَنُواْ لاَ تَتَّخِذُواْ بِطَانَةً مِّن دُونِكُمْ لاَ يَأْلُونَكُمْ خَبَالاً وَدُّواْ
-  مَا عَنِتُّمْ قَدْ بَدَتِ ٱلْبَغْضَآءُ مِنْ أَفْوَاهِهِمْ وَمَا تُخْفِي صُدُورُهُمْ
-  أَكْبَرُ قَدْ بَيَّنَّا لَكُمُ الآيَاتِ إِنْ كُنْتُمْ تَعْقِلُونَ }يعنـي بذلك تعالـى
-  ذكره: يا أيها الذين صدّقوا الله ورسوله، وأقرّوا بـما جاءهم به نبـيهم من عند ربهم،
-  { لاَ تَتَّخِذُواْ بِطَانَةً مّن دُونِكُمْ } يقول: لا تتـخذوا أولـياء وأصدقاء لأنفسكم
-  من دونكم، يقول: من دون أهل دينكم وملتكم، يعنـي من غير الـمؤمنـين. وإنـما جعل البطانة
-  مثلاً لـخـلـيـل الرجل فشبهه بـما ولـي بطنه من ثـيابه لـحلوله منه فـي اطلاعه علـى
-  أسراره، وما يطويه عن أبـاعده وكثـير من أقاربه، مـحلّ ما ولـي جسده من ثـيابه، فنهى
-  الله الـمؤمنـين به أن يتـخذوا من الكفـار به أخلاء وأصفـياء ثم عرّفهم ما هم علـيه
-  لهم منطوون من الغشّ والـخيانة، وبغيهم إياهم الغوائل، فحذّرهم بذلك منهم عن مخالّتهم،
-  فقال تعالـى ذكره: { لاَ يَأْلُونَكُمْ خَبَالاً } يعنـي لا يستطيعُونَكُمْ شرًّا،
-  من أَلَوْتُ آلُو ألُوًّا، يقال: ما ألا فلان كذا، أي ما استطاع، كما قال الشاعر:جَهْراءُ
-  لا تأْلُو إذا هِيَ أظْهَرَتْ   بَصَراً وَلا مِنْ عَيْـلَةٍ تُغْنِـينـييعنـي لا تستطيع
-  عند الظهر إبصاراً.وإنـما يعنـي جلّ ذكره بقوله: { لاَ يَأْلُونَكُمْ خَبَالاً } البطانة
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(3, 118)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(3,118)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">يٰأَيُّهَا
+  ٱلَّذِينَ آمَنُواْ لاَ تَتَّخِذُواْ بِطَانَةً مِّن دُونِكُمْ لاَ يَأْلُونَكُمْ خَبَالاً
+  وَدُّواْ مَا عَنِتُّمْ قَدْ بَدَتِ ٱلْبَغْضَآءُ مِنْ أَفْوَاهِهِمْ وَمَا تُخْفِي
+  صُدُورُهُمْ أَكْبَرُ قَدْ بَيَّنَّا لَكُمُ الآيَاتِ إِنْ كُنْتُمْ تَعْقِلُونَ</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">يعنـي بذلك تعالـى ذكره: يا أيها الذين صدّقوا الله ورسوله، وأقرّوا
+  بـما جاءهم به نبـيهم من عند ربهم، { لاَ تَتَّخِذُواْ بِطَانَةً مّن دُونِكُمْ } يقول:
+  لا تتـخذوا أولـياء وأصدقاء لأنفسكم من دونكم، يقول: من دون أهل دينكم وملتكم، يعنـي
+  من غير الـمؤمنـين. وإنـما جعل البطانة مثلاً لـخـلـيـل الرجل فشبهه بـما ولـي بطنه
+  من ثـيابه لـحلوله منه فـي اطلاعه علـى أسراره، وما يطويه عن أبـاعده وكثـير من أقاربه،
+  مـحلّ ما ولـي جسده من ثـيابه، فنهى الله الـمؤمنـين به أن يتـخذوا من الكفـار به أخلاء
+  وأصفـياء ثم عرّفهم ما هم علـيه لهم منطوون من الغشّ والـخيانة، وبغيهم إياهم الغوائل،
+  فحذّرهم بذلك منهم عن مخالّتهم، فقال تعالـى ذكره: { لاَ يَأْلُونَكُمْ خَبَالاً }
+  يعنـي لا يستطيعُونَكُمْ شرًّا، من أَلَوْتُ آلُو ألُوًّا، يقال: ما ألا فلان كذا،
+  أي ما استطاع، كما قال الشاعر:</font></font><table class=\"TextArabic\" dir=\"rtl\"><tr
+  class=\"TextArabic\"><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">جَهْراءُ لا تأْلُو إذا هِيَ أظْهَرَتْ</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">بَصَراً وَلا مِنْ عَيْـلَةٍ تُغْنِـينـي</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">يعنـي لا تستطيع عند الظهر إبصاراً.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وإنـما يعنـي جلّ ذكره بقوله: { لاَ يَأْلُونَكُمْ خَبَالاً } البطانة
   التـي نهى الـمؤمنـين عن اتـخاذها من دونهم، فقال: إن هذه البطانة لا تترككم طاقتها
   خبـالاً: أي لا تدع جهدها فـيـما أورثكم الـخبـال. وأصل الـخبـال والـخبـال: الفساد،
-  ثم يستعمل فـي معان كثـيرة، يدلّ علـى ذلك الـخبر عن النبـيّ صلى الله عليه وسلم: \"
-  مَنْ أُصِيبَ بَخْبلٍ ـ أو جِرَاحٍ \" وأما قوله: { وَدُّواْ مَا عَنِتُّمْ } فإنه
-  يعنـي: ودّوا عنتكم، يقول: يتـمنون لكم العنت والشرّ فـي دينكم وما يسوءكم ولا يسرّكم.
-  وذكر أن هذه الآية نزلت فـي قوم من الـمسلـمين كانوا يخالطون حلفـاءهم من الـيهود وأهل
-  النفـاق منهم، ويصافونهم الـمودة بـالأسبـاب التـي كانت بـينهم فـي جاهلـيتهم قبل الإسلام،
-  فنهاهم الله عن ذلك وأن يستنصحوهم فـي شيء من أمورهم. ذكر من قال ذلك:حدثنا ابن حميد،
-  قال: ثنا سلـمة، عن مـحمد بن إسحاق، قال: قال مـحمد بن أبـي مـحمد، عن عكرمة، أو عن
-  سعيد بن جبـير، عن ابن عبـاس، قال: كان رجال من الـمسلـمين يواصلون رجالاً من الـيهود
-  لـما كان بـينهم من الـجوار والـحلف فـي الـجاهلـية، فأنزل الله عزّ وجلّ فـيهم، فنهاهم
-  عن مبـاطنتهم تـخوّف الفتنة علـيهم منهم: { يٰأَيُّهَا ٱلَّذِينَ ءامَنُواْ لاَ تَتَّخِذُواْ
-  بِطَانَةً مّن دُونِكُمْ } إلـى قوله:{ وَتُؤْمِنُونَ بِٱلْكِتَـٰبِ كُلّهِ }[آل عمران:
-  119].حدثنـي مـحمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، عن ابن أبـي نـجيح،
-  عن مـجاهد فـي قول الله عزّ وجلّ: { يٰأَيُّهَا ٱلَّذِينَ ءامَنُواْ لاَ تَتَّخِذُواْ
-  بِطَانَةً مِّن دُونِكُمْ لاَ يَأْلُونَكُمْ خَبَالاً } فـي الـمنافقـين من أهل الـمدينة،
-  نهى الله عزّ وجلّ الـمؤمنـين أن يتولوهم.\r\n\t\t\t\r\n\t\t\t1 2 3 4 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ يٰأَيُّهَا ٱلَّذِينَ آمَنُواْ لاَ
-  تَتَّخِذُواْ بِطَانَةً مِّن دُونِكُمْ لاَ يَأْلُونَكُمْ خَبَالاً وَدُّواْ مَا عَنِتُّمْ
-  قَدْ بَدَتِ ٱلْبَغْضَآءُ مِنْ أَفْوَاهِهِمْ وَمَا تُخْفِي صُدُورُهُمْ أَكْبَرُ قَدْ
-  بَيَّنَّا لَكُمُ الآيَاتِ إِنْ كُنْتُمْ تَعْقِلُونَ }حدثنا بشر، قال: ثنا يزيد، قال:
-  ثنا سعيد، عن قتادة، قوله: { يٰأَيُّهَا ٱلَّذِينَ ءامَنُواْ لاَ تَتَّخِذُواْ بِطَانَةً
-  مِّن دُونِكُمْ لاَ يَأْلُونَكُمْ خَبَالاً وَدُّواْ مَا عَنِتُّمْ } نهى الله عزّ
-  وجلّ الـمؤمنـين أن يستدخـلوا الـمنافقـين أو يؤاخوهم، أي يتولوهم من دون الـمؤمنـين.حدثنـي
-  مـحمد بن سعد، قال: ثنـي أبـي، قال: ثنـي عمي، قال: ثنـي أبـي، عن أبـيه، عن ابن عبـاس،
-  قوله: { لاَ تَتَّخِذُواْ بِطَانَةً مّن دُونِكُمْ } هم الـمنافقون.حدثت عن عمار. قال:
-  ثنا ابن أبـي جعفر، عن أبـيه، عن الربـيع، قوله: { يَظْلِمُونَ يٰأَيُّهَا ٱلَّذِينَ
-  ءامَنُواْ لاَ تَتَّخِذُواْ بِطَانَةً مّن دُونِكُمْ لاَ يَأْلُونَكُمْ خَبَالاً }
-  يقول: لا تستدخـلوا الـمنافقـين، تتولوهم دون الـمؤمنـين.حدثنا أبو كريب ويعقوب بن
-  إبراهيـم، قالا: ثنا هشيـم، قال: أخبرنا العوام بن حوشب، عن الأزهر بن راشد، عن أنس
-  بن مالك، قال: قال رسول الله صلى الله عليه وسلم: \" لاتَسْتَضِيئُوا بِنارِ أهْلِ
-  الشِّرْكِ، وَلا تَنْقُشُوا فِـي خَوَاتِـيـمِكُمْ عَرَبِـيًّا \" قال: فلـم ندر ما
-  ذلك حتـى أتوا الـحسن فسألوه، فقال: نعم، أما قوله: \" لا تَنْقُشُوا فـي خَوَاتِـيـمِكُمْ
-  عَرَبـيًّا \" ، فإنه يقول: لا تنقشوا في خواتيمكم «مـحمد»؛ وأما قوله: \" ولا تَسْتَيضِئُوا
-  بَنارِ أهْل الشِّرْكِ \" ، فإنه يعني به الـمشركين، يقول: لا تستشيروهم فـي شيء من
-  أموركم. قال: قال الـحسن: وتصديق ذلك فـي كتاب الله، ثم تلا هذه الآية: { يٰأَيُّهَا
-  ٱلَّذِينَ ءامَنُواْ لاَ تَتَّخِذُواْ بِطَانَةً مّن دُونِكُمْ }.حدثنا مـحمد بن الـحسين،
-  قال: ثنا أحمد بن الـمفضل، قال: ثنا أسبـاط، عن السديّ: { يٰأَيُّهَا ٱلَّذِينَ ءامَنُواْ
-  لاَ تَتَّخِذُواْ بِطَانَةً مّن دُونِكُمْ } أما البطانة: فهم الـمنافقون.حدثنا القاسم،
-  قال: ثنا الـحسين، قال: ثنـي حجاج، عن ابن جريج، قوله: { يٰأَيُّهَا ٱلَّذِينَ ءامَنُواْ
-  لاَ تَتَّخِذُواْ بِطَانَةً مّن دُونِكُمْ }... الآية، قال: لا يستدخـل الـمؤمن الـمنافق
-  دون أخيه.حدثنـي يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد فـي قوله: { يٰأَيُّهَا
+  ثم يستعمل فـي معان كثـيرة، يدلّ علـى ذلك الـخبر عن النبـيّ صلى الله عليه وسلم:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" مَنْ أُصِيبَ بَخْبلٍ ـ أو جِرَاحٍ
+  \" </font></font></b><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وأما قوله: { وَدُّواْ مَا عَنِتُّمْ
+  } فإنه يعنـي: ودّوا عنتكم، يقول: يتـمنون لكم العنت والشرّ فـي دينكم وما يسوءكم ولا
+  يسرّكم. وذكر أن هذه الآية نزلت فـي قوم من الـمسلـمين كانوا يخالطون حلفـاءهم من الـيهود
+  وأهل النفـاق منهم، ويصافونهم الـمودة بـالأسبـاب التـي كانت بـينهم فـي جاهلـيتهم
+  قبل الإسلام، فنهاهم الله عن ذلك وأن يستنصحوهم فـي شيء من أمورهم. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن حميد، قال: ثنا سلـمة، عن مـحمد بن إسحاق، قال: قال مـحمد
+  بن أبـي مـحمد، عن عكرمة، أو عن سعيد بن جبـير، عن ابن عبـاس، قال: كان رجال من الـمسلـمين
+  يواصلون رجالاً من الـيهود لـما كان بـينهم من الـجوار والـحلف فـي الـجاهلـية، فأنزل
+  الله عزّ وجلّ فـيهم، فنهاهم عن مبـاطنتهم تـخوّف الفتنة علـيهم منهم: { يٰأَيُّهَا
+  ٱلَّذِينَ ءامَنُواْ لاَ تَتَّخِذُواْ بِطَانَةً مّن دُونِكُمْ } إلـى قوله:</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">وَتُؤْمِنُونَ
+  بِٱلْكِتَـٰبِ كُلّهِ</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">[آل عمران: 119].</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  مـحمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، عن ابن أبـي نـجيح، عن مـجاهد فـي
+  قول الله عزّ وجلّ: { يٰأَيُّهَا ٱلَّذِينَ ءامَنُواْ لاَ تَتَّخِذُواْ بِطَانَةً مِّن
+  دُونِكُمْ لاَ يَأْلُونَكُمْ خَبَالاً } فـي الـمنافقـين من أهل الـمدينة، نهى الله
+  عزّ وجلّ الـمؤمنـين أن يتولوهم.</font></font>&#13;\t\t\t<label disabled=\"true\"
+  class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(3, 118)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(3,118)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">يٰأَيُّهَا ٱلَّذِينَ آمَنُواْ لاَ تَتَّخِذُواْ بِطَانَةً
+  مِّن دُونِكُمْ لاَ يَأْلُونَكُمْ خَبَالاً وَدُّواْ مَا عَنِتُّمْ قَدْ بَدَتِ ٱلْبَغْضَآءُ
+  مِنْ أَفْوَاهِهِمْ وَمَا تُخْفِي صُدُورُهُمْ أَكْبَرُ قَدْ بَيَّنَّا لَكُمُ الآيَاتِ
+  إِنْ كُنْتُمْ تَعْقِلُونَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\"
+  dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">حدثنا بشر، قال:
+  ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: { يٰأَيُّهَا ٱلَّذِينَ ءامَنُواْ لاَ تَتَّخِذُواْ
+  بِطَانَةً مِّن دُونِكُمْ لاَ يَأْلُونَكُمْ خَبَالاً وَدُّواْ مَا عَنِتُّمْ } نهى
+  الله عزّ وجلّ الـمؤمنـين أن يستدخـلوا الـمنافقـين أو يؤاخوهم، أي يتولوهم من دون
+  الـمؤمنـين.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي مـحمد بن سعد، قال: ثنـي
+  أبـي، قال: ثنـي عمي، قال: ثنـي أبـي، عن أبـيه، عن ابن عبـاس، قوله: { لاَ تَتَّخِذُواْ
+  بِطَانَةً مّن دُونِكُمْ } هم الـمنافقون.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثت
+  عن عمار. قال: ثنا ابن أبـي جعفر، عن أبـيه، عن الربـيع، قوله: { يَظْلِمُونَ يٰأَيُّهَا
+  ٱلَّذِينَ ءامَنُواْ لاَ تَتَّخِذُواْ بِطَانَةً مّن دُونِكُمْ لاَ يَأْلُونَكُمْ خَبَالاً
+  } يقول: لا تستدخـلوا الـمنافقـين، تتولوهم دون الـمؤمنـين.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  أبو كريب ويعقوب بن إبراهيـم، قالا: ثنا هشيـم، قال: أخبرنا العوام بن حوشب، عن الأزهر
+  بن راشد، عن أنس بن مالك، قال: قال رسول الله صلى الله عليه وسلم:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" لاتَسْتَضِيئُوا بِنارِ أهْلِ
+  الشِّرْكِ، وَلا تَنْقُشُوا فِـي خَوَاتِـيـمِكُمْ عَرَبِـيًّا \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\">قال: فلـم ندر ما ذلك حتـى أتوا
+  الـحسن فسألوه، فقال: نعم، أما قوله:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" لا تَنْقُشُوا فـي خَوَاتِـيـمِكُمْ عَرَبـيًّا \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\">، فإنه يقول: لا تنقشوا في خواتيمكم
+  «مـحمد»؛ وأما قوله:</font></font><b><font class=\"TextResultArabic\"><font color=\"Red\">
+  \" ولا تَسْتَيضِئُوا بَنارِ أهْل الشِّرْكِ \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">، فإنه يعني به الـمشركين، يقول: لا تستشيروهم فـي شيء من أموركم.
+  قال: قال الـحسن: وتصديق ذلك فـي كتاب الله، ثم تلا هذه الآية: { يٰأَيُّهَا ٱلَّذِينَ
+  ءامَنُواْ لاَ تَتَّخِذُواْ بِطَانَةً مّن دُونِكُمْ }.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  مـحمد بن الـحسين، قال: ثنا أحمد بن الـمفضل، قال: ثنا أسبـاط، عن السديّ: { يٰأَيُّهَا
+  ٱلَّذِينَ ءامَنُواْ لاَ تَتَّخِذُواْ بِطَانَةً مّن دُونِكُمْ } أما البطانة: فهم
+  الـمنافقون.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا القاسم، قال: ثنا الـحسين،
+  قال: ثنـي حجاج، عن ابن جريج، قوله: { يٰأَيُّهَا ٱلَّذِينَ ءامَنُواْ لاَ تَتَّخِذُواْ
+  بِطَانَةً مّن دُونِكُمْ }... الآية، قال: لا يستدخـل الـمؤمن الـمنافق دون أخيه.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد فـي قوله: { يٰأَيُّهَا
   ٱلَّذِينَ ءامَنُواْ لاَ تَتَّخِذُواْ بِطَانَةً مِّن دُونِكُمْ }... الآية، قال: هؤلاء
-  الـمنافقون، وقرأ قوله: { قَدْ بَدَتِ ٱلْبَغْضَاء مِنْ أَفْوٰهِهِمْ }... الآية.واختلفوا
-  فـي تأويـل قوله { وَدُّواْ مَا عَنِتُّمْ } فقال بعضهم معناه: ودّوا ما ضللتـم عن
-  دينكم. ذكر من قال ذلك:حدثنا مـحمد بن الـحسين، قال: ثنا أحمد، قال: ثنا أسبـاط، عن
-  السديّ: { وَدُّواْ مَا عَنِتُّمْ } يقول: ما ضللتـم.وقال آخرون بـما:حدثنا القاسم،
-  قال: ثنا الـحسين، قال: ثنـي حجاج، عن ابن جريج: { وَدُّواْ مَا عَنِتُّمْ } يقول فـي
-  دينكم، يعنـي: أنهم يودّون أن تعنتوا فـي دينكم.فإن قال لنا قائل: وكيف قـيـل: { وَدُّواْ
-  مَا عَنِتُّمْ } فجاء بـالـخبر عن البطانة بلفظ الـماضي فـي مـحل الـحال والقطع بعد
-  تـمام الـخبر، والـحالات لا تكون إلا بصور الأسماء والأفعال المستقبلة دون الماضية
-  منها؟ قيل: ليس الأمر في ذلك على ما ظننت من أن قوله: { وَدُّواْ مَا عَنِتُّمْ } حال
-  من البطانة، وإنما هو خبر عنهم ثان، منقطع عن الأوّل غير متصل به.\r\n\t\t\t\r\n\t\t\t1 2 3 4 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ يٰأَيُّهَا ٱلَّذِينَ آمَنُواْ لاَ
-  تَتَّخِذُواْ بِطَانَةً مِّن دُونِكُمْ لاَ يَأْلُونَكُمْ خَبَالاً وَدُّواْ مَا عَنِتُّمْ
-  قَدْ بَدَتِ ٱلْبَغْضَآءُ مِنْ أَفْوَاهِهِمْ وَمَا تُخْفِي صُدُورُهُمْ أَكْبَرُ قَدْ
-  بَيَّنَّا لَكُمُ الآيَاتِ إِنْ كُنْتُمْ تَعْقِلُونَ }وإنـما تأويل الكلام: يا أيها
-  الذين آمنوا لا تتخذوا بطانة صفتهم كذا صفتهم كذا. فـالـخبر عن الصفة الثانـية غير
-  متصل بـالصفة الأولـى، وإن كانتا جميعاً من صفة شخص واحد.وقد زعم بعض أهل العربـية
-  أن قوله: { وَدُّواْ مَا عَنِتُّمْ } من صلة البطانة، وقد وصلت بقوله: { لاَ يَأْلُونَكُمْ
-  خَبَالاً } فلا وجه لصلة أخرى بعد تـمام البطانة بصلته، ولكن القول فـي ذلك كما بـينا
-  قبل من أن قوله: { وَدُّواْ مَا عَنِتُّمْ } خبر مبتدأ عن البطانة غير الـخبر الأوّل،
-  وغير حال من البطانة ولا قطع منها.القول فـي تأويـل قوله تعالـى: { قَدْ بَدَتِ ٱلْبَغْضَاء
-  مِنْ أَفْوٰهِهِمْ }.يعنـي بذلك جلّ ثناؤه: قد بدت بغضاء هؤلاء الذين نهيتكم أيها الـمؤمنون
-  أن تتـخذوهم بطانة من دونكم لكم بأفواههم، يعنـي بألسنتهم. والذي بدا لهم منهم بألسنتهم
-  إقامتهم علـى كفرهم، وعداوتهم من خالف ما هم علـيه مقـيـمون من الضلالة، فذلك من أوكد
-  الأسبـاب من معاداتهم أهل الإيـمان، لأن ذلك عداوة علـى الدين، والعداوة علـى الدين،
-  العداوة التـي لا زوال لها إلا بـانتقال أحد الـمتعاديـين إلـى ملة الآخر منهما، وذلك
-  انتقال من هدى إلا ضلالة كانت عند الـمنتقل إلـيها ضلالة قبل ذلك، فكان فـي إبدائهم
-  ذلك للـمؤمنـين ومقامهم علـيه أبـين الدلالة لأهل الإيـمان علـى ما هم علـيه من البغضاء
-  والعداوة.وقد قال بعضهم: معنى قوله: { قَدْ بَدَتِ ٱلْبَغْضَاء مِنْ أَفْوٰهِهِمْ }
-  قد بدت بغضاؤهم لأهل الإيـمان إلـى أولـيائهم من الـمنافقـين وأهل الكفر بإطلاع بعضهم
-  بعضاً علـى ذلك.وزعم قائلو هذه الـمقالة أن الذين عنوا بهذه الآية: أهل النفـاق، دون
-  من كان مصرّحاً بـالكفر من الـيهود وأهل الشرك. ذكر من قال ذلك.حدثنا بشر، قال: ثنا
-  يزيد، قال: ثنا سعيد، عن قتادة، قوله: { قَدْ بَدَتِ ٱلْبَغْضَاء مِنْ أَفْوٰهِهِمْ
-  } يقول: قد بدت البغضاء من أفواه الـمنافقـين إلـى إخوانهم من الكفـار، من غِشّهم للإسلام
-  وأهله وبغضهم إياهم.حدثت عن عمار، قال: ثنا ابن أبـي جعفر، عن أبـيه، عن الربـيع: {
-  قَدْ بَدَتِ ٱلْبَغْضَاء مِنْ أَفْوٰهِهِمْ } يقول: من أفواه الـمنافقـين.وهذا القول
-  الذي ذكرناه عن قتادة قول لا معنى له، وذلك أن الله تعالـى ذكره إنـما نهى الـمؤمنـين
-  أن يتـخذوا بطانة مـمن قد عرفوه بـالغشّ للإسلام وأهله، والبغضاء إما بأدلة ظاهرة دالة
-  علـى أن ذلك من صفتهم، وإما بإظهار الـموصوفـين بذلك العداوة والشنآن والـمناصبة لهم.
-  فأما من لـم يثبتوه معرفة أنه الذي نهاهم الله عزّ وجلّ عن مخالته ومبـاطنته، فغير
-  جائز أن يكونوا نهوا عن مخالته ومصادقته إلا بعد تعريفهم إياهم، إما بأعيانهم وأسمائهم،
-  وإما بصفـات قد عرفوهم بها.\r\n\t\t\t\r\n\t\t\t1 2 3 4 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ يٰأَيُّهَا ٱلَّذِينَ آمَنُواْ لاَ
-  تَتَّخِذُواْ بِطَانَةً مِّن دُونِكُمْ لاَ يَأْلُونَكُمْ خَبَالاً وَدُّواْ مَا عَنِتُّمْ
-  قَدْ بَدَتِ ٱلْبَغْضَآءُ مِنْ أَفْوَاهِهِمْ وَمَا تُخْفِي صُدُورُهُمْ أَكْبَرُ قَدْ
-  بَيَّنَّا لَكُمُ الآيَاتِ إِنْ كُنْتُمْ تَعْقِلُونَ }وإذ كان ذلك كذلك، وكان إبداء
-  الـمنافقـين بألسنتهم ما فـي قلوبهم من بغضاء الـمؤمنـين إلـى إخوانهم من الكفـار،
-  غير مدرك به الـمؤمنون معرفة ما هم علـيه لهم مع إظهارهم الإيـمان بألسنتهم لهم والتودّد
-  إلـيهم، كان بـيناً أن الذي نهى الله الـمؤمنون عن اتـخاذهم لأنفسهم بطانة دونهم، هم
-  الذين قد ظهرت لهم بغضاؤهم بألسنتهم علـى ما وصفهم الله عزّ وجلّ به، فعرفهم الـمؤمنون
-  بـالصفة التـي نعتهم الله بها، وأنهم هم الذين وصفهم تعالـى ذكره بأنهم أصحاب النار
-  هم فـيها خالدون مـمن كان له ذمة وعهد من رسول الله صلى الله عليه وسلم وأصحابه من
-  أهل الكتاب، لأنهم لو كانوا الـمنافقـين لكان الأمر فـيهم علـى ما قد بـينا، ولو كانوا
-  الكفـار مـمن قد ناصب الـمؤمنـين الـحرب، لـم يكن الـمؤمنون متـخذيهم لأنفسهم بطانة
-  من دون الـمؤمنـين مع اختلاف بلادهم وافتراق أمصارهم، ولكنهم الذين كانوا بـين أظهر
-  الـمؤمنـين من أهل الكتاب أيام رسول الله صلى الله عليه وسلم، مـمن كان له من رسول
-  الله صلى الله عليه وسلم عهد وعقد من يهود بنـي إسرائيـل. والبغضاء: مصدر، وقد ذكر
-  أنها فـي قراءة عبد الله بن مسعود: «قد بدا البغضاء من أفواههم»، علـى وجه التذكير،
+  الـمنافقون، وقرأ قوله: { قَدْ بَدَتِ ٱلْبَغْضَاء مِنْ أَفْوٰهِهِمْ }... الآية.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">واختلفوا فـي تأويـل قوله { وَدُّواْ مَا عَنِتُّمْ } فقال بعضهم معناه:
+  ودّوا ما ضللتـم عن دينكم. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  مـحمد بن الـحسين، قال: ثنا أحمد، قال: ثنا أسبـاط، عن السديّ: { وَدُّواْ مَا عَنِتُّمْ
+  } يقول: ما ضللتـم.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال آخرون بـما:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا القاسم، قال: ثنا الـحسين، قال: ثنـي حجاج، عن ابن جريج: { وَدُّواْ
+  مَا عَنِتُّمْ } يقول فـي دينكم، يعنـي: أنهم يودّون أن تعنتوا فـي دينكم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">فإن قال لنا قائل: وكيف قـيـل: { وَدُّواْ مَا عَنِتُّمْ } فجاء بـالـخبر
+  عن البطانة بلفظ الـماضي فـي مـحل الـحال والقطع بعد تـمام الـخبر، والـحالات لا تكون
+  إلا بصور الأسماء والأفعال المستقبلة دون الماضية منها؟ قيل: ليس الأمر في ذلك على
+  ما ظننت من أن قوله: { وَدُّواْ مَا عَنِتُّمْ } حال من البطانة، وإنما هو خبر عنهم
+  ثان، منقطع عن الأوّل غير متصل به.</font></font>&#13;\t\t\t<label disabled=\"true\"
+  class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(3, 118)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(3,118)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">يٰأَيُّهَا ٱلَّذِينَ آمَنُواْ لاَ تَتَّخِذُواْ بِطَانَةً
+  مِّن دُونِكُمْ لاَ يَأْلُونَكُمْ خَبَالاً وَدُّواْ مَا عَنِتُّمْ قَدْ بَدَتِ ٱلْبَغْضَآءُ
+  مِنْ أَفْوَاهِهِمْ وَمَا تُخْفِي صُدُورُهُمْ أَكْبَرُ قَدْ بَيَّنَّا لَكُمُ الآيَاتِ
+  إِنْ كُنْتُمْ تَعْقِلُونَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\"
+  dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">وإنـما تأويل
+  الكلام: يا أيها الذين آمنوا لا تتخذوا بطانة صفتهم كذا صفتهم كذا. فـالـخبر عن الصفة
+  الثانـية غير متصل بـالصفة الأولـى، وإن كانتا جميعاً من صفة شخص واحد.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقد زعم بعض أهل العربـية أن قوله: { وَدُّواْ مَا عَنِتُّمْ } من
+  صلة البطانة، وقد وصلت بقوله: { لاَ يَأْلُونَكُمْ خَبَالاً } فلا وجه لصلة أخرى بعد
+  تـمام البطانة بصلته، ولكن القول فـي ذلك كما بـينا قبل من أن قوله: { وَدُّواْ مَا
+  عَنِتُّمْ } خبر مبتدأ عن البطانة غير الـخبر الأوّل، وغير حال من البطانة ولا قطع
+  منها.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">القول فـي تأويـل قوله تعالـى: {
+  قَدْ بَدَتِ ٱلْبَغْضَاء مِنْ أَفْوٰهِهِمْ }.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">يعنـي
+  بذلك جلّ ثناؤه: قد بدت بغضاء هؤلاء الذين نهيتكم أيها الـمؤمنون أن تتـخذوهم بطانة
+  من دونكم لكم بأفواههم، يعنـي بألسنتهم. والذي بدا لهم منهم بألسنتهم إقامتهم علـى
+  كفرهم، وعداوتهم من خالف ما هم علـيه مقـيـمون من الضلالة، فذلك من أوكد الأسبـاب من
+  معاداتهم أهل الإيـمان، لأن ذلك عداوة علـى الدين، والعداوة علـى الدين، العداوة التـي
+  لا زوال لها إلا بـانتقال أحد الـمتعاديـين إلـى ملة الآخر منهما، وذلك انتقال من هدى
+  إلا ضلالة كانت عند الـمنتقل إلـيها ضلالة قبل ذلك، فكان فـي إبدائهم ذلك للـمؤمنـين
+  ومقامهم علـيه أبـين الدلالة لأهل الإيـمان علـى ما هم علـيه من البغضاء والعداوة.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقد قال بعضهم: معنى قوله: { قَدْ بَدَتِ ٱلْبَغْضَاء مِنْ أَفْوٰهِهِمْ
+  } قد بدت بغضاؤهم لأهل الإيـمان إلـى أولـيائهم من الـمنافقـين وأهل الكفر بإطلاع بعضهم
+  بعضاً علـى ذلك.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وزعم قائلو هذه الـمقالة أن الذين
+  عنوا بهذه الآية: أهل النفـاق، دون من كان مصرّحاً بـالكفر من الـيهود وأهل الشرك.
+  ذكر من قال ذلك.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا بشر، قال: ثنا يزيد، قال:
+  ثنا سعيد، عن قتادة، قوله: { قَدْ بَدَتِ ٱلْبَغْضَاء مِنْ أَفْوٰهِهِمْ } يقول: قد
+  بدت البغضاء من أفواه الـمنافقـين إلـى إخوانهم من الكفـار، من غِشّهم للإسلام وأهله
+  وبغضهم إياهم.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثت عن عمار، قال: ثنا ابن أبـي
+  جعفر، عن أبـيه، عن الربـيع: { قَدْ بَدَتِ ٱلْبَغْضَاء مِنْ أَفْوٰهِهِمْ } يقول:
+  من أفواه الـمنافقـين.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وهذا القول الذي ذكرناه عن قتادة
+  قول لا معنى له، وذلك أن الله تعالـى ذكره إنـما نهى الـمؤمنـين أن يتـخذوا بطانة مـمن
+  قد عرفوه بـالغشّ للإسلام وأهله، والبغضاء إما بأدلة ظاهرة دالة علـى أن ذلك من صفتهم،
+  وإما بإظهار الـموصوفـين بذلك العداوة والشنآن والـمناصبة لهم. فأما من لـم يثبتوه
+  معرفة أنه الذي نهاهم الله عزّ وجلّ عن مخالته ومبـاطنته، فغير جائز أن يكونوا نهوا
+  عن مخالته ومصادقته إلا بعد تعريفهم إياهم، إما بأعيانهم وأسمائهم، وإما بصفـات قد
+  عرفوهم بها.</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">3 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(3, 118)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(3,118)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">يٰأَيُّهَا ٱلَّذِينَ آمَنُواْ لاَ تَتَّخِذُواْ بِطَانَةً
+  مِّن دُونِكُمْ لاَ يَأْلُونَكُمْ خَبَالاً وَدُّواْ مَا عَنِتُّمْ قَدْ بَدَتِ ٱلْبَغْضَآءُ
+  مِنْ أَفْوَاهِهِمْ وَمَا تُخْفِي صُدُورُهُمْ أَكْبَرُ قَدْ بَيَّنَّا لَكُمُ الآيَاتِ
+  إِنْ كُنْتُمْ تَعْقِلُونَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\"
+  dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">وإذ كان ذلك كذلك،
+  وكان إبداء الـمنافقـين بألسنتهم ما فـي قلوبهم من بغضاء الـمؤمنـين إلـى إخوانهم من
+  الكفـار، غير مدرك به الـمؤمنون معرفة ما هم علـيه لهم مع إظهارهم الإيـمان بألسنتهم
+  لهم والتودّد إلـيهم، كان بـيناً أن الذي نهى الله الـمؤمنون عن اتـخاذهم لأنفسهم بطانة
+  دونهم، هم الذين قد ظهرت لهم بغضاؤهم بألسنتهم علـى ما وصفهم الله عزّ وجلّ به، فعرفهم
+  الـمؤمنون بـالصفة التـي نعتهم الله بها، وأنهم هم الذين وصفهم تعالـى ذكره بأنهم أصحاب
+  النار هم فـيها خالدون مـمن كان له ذمة وعهد من رسول الله صلى الله عليه وسلم وأصحابه
+  من أهل الكتاب، لأنهم لو كانوا الـمنافقـين لكان الأمر فـيهم علـى ما قد بـينا، ولو
+  كانوا الكفـار مـمن قد ناصب الـمؤمنـين الـحرب، لـم يكن الـمؤمنون متـخذيهم لأنفسهم
+  بطانة من دون الـمؤمنـين مع اختلاف بلادهم وافتراق أمصارهم، ولكنهم الذين كانوا بـين
+  أظهر الـمؤمنـين من أهل الكتاب أيام رسول الله صلى الله عليه وسلم، مـمن كان له من
+  رسول الله صلى الله عليه وسلم عهد وعقد من يهود بنـي إسرائيـل. والبغضاء: مصدر، وقد
+  ذكر أنها فـي قراءة عبد الله بن مسعود: «قد بدا البغضاء من أفواههم»، علـى وجه التذكير،
   وإنـما جاز ذلك بـالتذكير ولفظه لفظ الـمؤنث، لأن الـمصادر تأنـيثها لـيس بـالتأنـيث
-  اللازم، فـيجوز تذكير ما خرج منها علـى لفظ الـمؤنث وتأنـيثه، كما قال عزّ وجلّ:{ وَأَخَذَ
-  ٱلَّذِينَ ظَلَمُواْ ٱلصَّيْحَةُ }[هود: 67] وكما قال:{ فَقَدْ جَاءكُمْ بَيِّنَةٌ
-  مِّن رَّبِّكُمْ }[الأنعام: 157] وفـي موضع آخر:{ وَأَخَذَتِ ٱلَّذِينَ ظَلَمُواْ الصَّيْحَةُ }[هود:
-  67]{ جَاءتْكُم بَيِّنَةٌ مِّن رَّبِّكُمْ }[الأعراف: 73]. وقال: { مِنْ أَفْوَاهِهِمْ
-  } وإنـما بدا ما بدا من البغضاء بألسنتهم، لأن الـمعنـيّ به الكلام الذي ظهر للـمؤمنـين
-  منهم من أفواههم، فقال: قد بدت البغضاء من أفواههم بألسنتهم.القول فـي تأويـل قوله
-  تعالـى: { وَمَا تُخْفِى صُدُورُهُمْ أَكْبَرُ }.يعنـي تعالـى ذكره بذلك: والذي تـخفـي
+  اللازم، فـيجوز تذكير ما خرج منها علـى لفظ الـمؤنث وتأنـيثه، كما قال عزّ وجلّ:</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">وَأَخَذَ
+  ٱلَّذِينَ ظَلَمُواْ ٱلصَّيْحَةُ</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">[هود: 67] وكما قال:</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">فَقَدْ
+  جَاءكُمْ بَيِّنَةٌ مِّن رَّبِّكُمْ</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">[الأنعام: 157] وفـي موضع آخر:</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">وَأَخَذَتِ
+  ٱلَّذِينَ ظَلَمُواْ الصَّيْحَةُ</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">[هود: 67]</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">جَاءتْكُم بَيِّنَةٌ مِّن رَّبِّكُمْ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[الأعراف:
+  73]. وقال: { مِنْ أَفْوَاهِهِمْ } وإنـما بدا ما بدا من البغضاء بألسنتهم، لأن الـمعنـيّ
+  به الكلام الذي ظهر للـمؤمنـين منهم من أفواههم، فقال: قد بدت البغضاء من أفواههم بألسنتهم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">القول فـي تأويـل قوله تعالـى: { وَمَا تُخْفِى صُدُورُهُمْ أَكْبَرُ
+  }.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">يعنـي تعالـى ذكره بذلك: والذي تـخفـي
   صدورهم، يعنـي صدور هؤلاء الذين نهاهم عن اتـخاذهم بطانة فتـخفـيه عنكم أيها الـمؤمنون
-  أكبر، يقول: أكبر مـما قد بدا لكم بألسنتهم من أفواههم من البغضاء وأعظم. كما:حدثنا
-  بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: { وَمَا تُخْفِى صُدُورُهُمْ أَكْبَرُ
-  } يقول: وما تـخفـي صدورهم أكبر مـما قد أبدوا بألسنتهم.حُدثت عن عمار، عن ابن أبـي
-  جعفر، عن أبـيه، عن الربـيع، قوله: { وَمَا تُخْفِى صُدُورُهُمْ أَكْبَرُ } يقول: ما
-  تكنّ صدورهم أكبر مـما قد أبدوا بألسنتهم.القول فـي تأويـل قوله تعالـى: { قَدْ بَيَّنَّا
-  لَكُمُ الاْيَـٰتِ إِنْ كُنتُمْ تَعْقِلُونَ }.يعنـي بذلك جلّ ثناؤه: قد بـينا لكم
-  أيها الـمؤمنون الآيات، يعنـي بـالآيات: العبر، قد بـينا لكم من أمر هؤلاء الـيهود
-  الذين نهيناكم أن تتـخذوهم بطانة من دون الـمؤمنـين ما تعتبرون وتتعظون به من أمرهم،
-  { إِنْ كُنتُمْ تَعْقِلُونَ } يعنـي: إن كنتـم تعقلون عن الله مواعظه وأمره ونهيه،
-  وتعرفون مواقع نفع ذلك منكم ومبلغ عائدته علـيكم.\r\n\t\t\t\r\n\t\t\t1 2 3 4 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  أكبر، يقول: أكبر مـما قد بدا لكم بألسنتهم من أفواههم من البغضاء وأعظم. كما:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: { وَمَا
+  تُخْفِى صُدُورُهُمْ أَكْبَرُ } يقول: وما تـخفـي صدورهم أكبر مـما قد أبدوا بألسنتهم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حُدثت عن عمار، عن ابن أبـي جعفر، عن أبـيه، عن الربـيع، قوله: { وَمَا
+  تُخْفِى صُدُورُهُمْ أَكْبَرُ } يقول: ما تكنّ صدورهم أكبر مـما قد أبدوا بألسنتهم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">القول فـي تأويـل قوله تعالـى: { قَدْ بَيَّنَّا لَكُمُ الاْيَـٰتِ
+  إِنْ كُنتُمْ تَعْقِلُونَ }.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">يعنـي
+  بذلك جلّ ثناؤه: قد بـينا لكم أيها الـمؤمنون الآيات، يعنـي بـالآيات: العبر، قد بـينا
+  لكم من أمر هؤلاء الـيهود الذين نهيناكم أن تتـخذوهم بطانة من دون الـمؤمنـين ما تعتبرون
+  وتتعظون به من أمرهم، { إِنْ كُنتُمْ تَعْقِلُونَ } يعنـي: إن كنتـم تعقلون عن الله
+  مواعظه وأمره ونهيه، وتعرفون مواقع نفع ذلك منكم ومبلغ عائدته علـيكم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">4 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section>"
 

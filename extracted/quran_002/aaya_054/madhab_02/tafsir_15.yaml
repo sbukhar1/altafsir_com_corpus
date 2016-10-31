@@ -1,4 +1,4 @@
-location:
+position:
   sura: '002'
   aaya: '054'
   madhab: '02'
@@ -7,26 +7,55 @@ meta:
   title: تفسير زاد المسير في علم التفسير
   author: ابن الجوزي
   year: '597'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَإِذْ قَالَ مُوسَىٰ
-  لِقَوْمِهِ يَٰقَوْمِ إِنَّكُمْ ظَلَمْتُمْ أَنْفُسَكُمْ بِٱتِّخَاذِكُمُ ٱلْعِجْلَ
-  فَتُوبُوۤاْ إِلَىٰ بَارِئِكُمْ فَٱقْتُلُوۤاْ أَنفُسَكُمْ ذَٰلِكُمْ خَيْرٌ لَّكُمْ
-  عِنْدَ بَارِئِكُمْ فَتَابَ عَلَيْكُمْ إِنَّهُ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ }القوم:
-  اسم للرجال دون النساء، قال الله تعالى:{ لا يسخر قوم من قوم عَسى أنْ يَكُونُوا خَيْراً
-  مِنْهُمْ ولا نساء من نساء }[الحجرات:11] وقال زهير:وما أدري وسوف إِخال أدري   أقوم
-  آل حصن أم نساء؟!وإنما سموا قوماً، لأنهم يقومون بالأمور.قوله تعالى: { فتوبوا إِلى
-  بارئكم } قال أبو علي: كان ابن كثير ونافع وعاصم وابن عامر وحمزة والكسائي يكسرون الهمزة
-  من غير اختلاس ولا تخفيف. وروى اليزيدي وعبد الوارث عن أبي عمرو: { بارئْكم } بجزم
-  الهمزة. روى عنه العباس بن الفضل: «بارئكم» مهموزة غير مثقلة. وقال سيبويه: كان أبو
-  عمر يختلس الحركة في: «بارئكم» و: «يأمركم» وما أشبه ذلك مما تتوالى فيه الحركات، فيرى
-  من سمعه أنه قد أسكن ولم يسكن.والبارىء: الخالق ومعنى { فاقتلوا أنفسكم }: ليقتل بعضكم
-  بعضاً، قاله ابن عباس و مجاهد.واختلفوا فيمن خوطب بهذا على ثلاثة أقوال. أحدها: أنه
-  خطاب للكل، قاله السدي عن أشياخه. والثاني: أنه خطاب لمن لم يعبد ليقتل من عبد، قاله
-  مقاتل. والثالث: أنه خطاب للعابدين فحسب، أمروا أن يقتل بعضهم بعضاً، قاله أبو سليمان
-  الدمشقي. وفي الإشارة بقوله: «ذا» في: «ذلكم» قولان. أحدهما: أنه يعود إِلى القتل.
-  والثاني: أنه يعود إِلى التوبة.الإِشارة إِلى قصتهم في ذلكقال ابن عباس: قالوا لموسى:
-  كيف يقتل الآباء الأبناء، والإخوة الإخوة؟ فأنزل الله عليهم ظلمة لا يرى بعضهم بعضاً،
-  فقالوا: فما آية توبتنا؟ قال: أن يقوم السلاح فلا يقتل، وترفع الظلمة. فقتلوا حتى خاضوا
-  في الدماء، وصاح الصبيان: يا موسى: العفو العفو. فبكى موسى، فنزلت التوبة، وقام السلاح،
-  وارتفعت الظلمة. قال مجاهد: بلغ القتلى سبعين ألفاً. قال قتادة: جعل القتل للقتيل شهادة،
-  وللحي توبة.\r\n\t\t\t\r\n\t\t\t</section>"
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(2, 54)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(2,54)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَإِذْ
+  قَالَ مُوسَىٰ لِقَوْمِهِ يَٰقَوْمِ إِنَّكُمْ ظَلَمْتُمْ أَنْفُسَكُمْ بِٱتِّخَاذِكُمُ
+  ٱلْعِجْلَ فَتُوبُوۤاْ إِلَىٰ بَارِئِكُمْ فَٱقْتُلُوۤاْ أَنفُسَكُمْ ذَٰلِكُمْ خَيْرٌ
+  لَّكُمْ عِنْدَ بَارِئِكُمْ فَتَابَ عَلَيْكُمْ إِنَّهُ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">القوم: اسم للرجال دون النساء، قال الله تعالى:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">لا يسخر قوم من قوم عَسى أنْ يَكُونُوا
+  خَيْراً مِنْهُمْ ولا نساء من نساء</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">[الحجرات:11] وقال زهير:</font></font><table
+  class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">وما أدري وسوف إِخال أدري</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">أقوم آل حصن أم نساء؟!</font></font></b></td></tr></table><font class=\"TextResultArabic\"><font
+  color=\"black\">وإنما سموا قوماً، لأنهم يقومون بالأمور.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قوله
+  تعالى: { فتوبوا إِلى بارئكم } قال أبو علي: كان ابن كثير ونافع وعاصم وابن عامر وحمزة
+  والكسائي يكسرون الهمزة من غير اختلاس ولا تخفيف. وروى اليزيدي وعبد الوارث عن أبي
+  عمرو: { بارئْكم } بجزم الهمزة. روى عنه العباس بن الفضل: «بارئكم» مهموزة غير مثقلة.
+  وقال سيبويه: كان أبو عمر يختلس الحركة في: «بارئكم» و: «يأمركم» وما أشبه ذلك مما
+  تتوالى فيه الحركات، فيرى من سمعه أنه قد أسكن ولم يسكن.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">والبارىء:
+  الخالق ومعنى { فاقتلوا أنفسكم }: ليقتل بعضكم بعضاً، قاله ابن عباس و مجاهد.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">واختلفوا فيمن خوطب بهذا على ثلاثة أقوال. أحدها: أنه خطاب للكل، قاله
+  السدي عن أشياخه. والثاني: أنه خطاب لمن لم يعبد ليقتل من عبد، قاله مقاتل. والثالث:
+  أنه خطاب للعابدين فحسب، أمروا أن يقتل بعضهم بعضاً، قاله أبو سليمان الدمشقي. وفي
+  الإشارة بقوله: «ذا» في: «ذلكم» قولان. أحدهما: أنه يعود إِلى القتل. والثاني: أنه
+  يعود إِلى التوبة.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">الإِشارة إِلى قصتهم في ذلك</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قال ابن عباس: قالوا لموسى: كيف يقتل الآباء الأبناء، والإخوة الإخوة؟
+  فأنزل الله عليهم ظلمة لا يرى بعضهم بعضاً، فقالوا: فما آية توبتنا؟ قال: أن يقوم السلاح
+  فلا يقتل، وترفع الظلمة. فقتلوا حتى خاضوا في الدماء، وصاح الصبيان: يا موسى: العفو
+  العفو. فبكى موسى، فنزلت التوبة، وقام السلاح، وارتفعت الظلمة. قال مجاهد: بلغ القتلى
+  سبعين ألفاً. قال قتادة: جعل القتل للقتيل شهادة، وللحي توبة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

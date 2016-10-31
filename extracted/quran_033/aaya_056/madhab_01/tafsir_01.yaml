@@ -1,4 +1,4 @@
-location:
+position:
   sura: '033'
   aaya: '056'
   madhab: '01'
@@ -7,55 +7,124 @@ meta:
   title: تفسير جامع البيان في تفسير القرآن
   author: الطبري
   year: '310'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ إِنَّ ٱللَّهَ
-  وَمَلاَئِكَـتَهُ يُصَلُّونَ عَلَى ٱلنَّبِيِّ يٰأَيُّهَا ٱلَّذِينَ آمَنُواْ صَلُّواْ
-  عَلَيْهِ وَسَلِّمُواْ تَسْلِيماً }يقول تعالـى ذكره: إن الله وملائكته يبرّكون علـى
-  النبـيّ مـحمد صلى الله عليه وسلم، كما:حدثنـي علـيّ، قال: ثنا أبو صالـح، قال: ثنـي
-  معاوية، عن علـيّ، عن ابن عبـاس، قوله: { إنَّ اللَّهَ وَمَلائِكَتَهُ يُصَلُّونَ علـى
-  النَّبِـيّ يا أيُّها الَّذِينَ آمَنُوا صَلُّوا عَلَـيْهِ } يقول: يبـاركون علـى النبـيّ.وقد
-  يحتـمل أن يقال: إن معنى ذلك: أن الله يرحم النبـيّ، وتدعو له ملائكته ويستغفرون، وذلك
-  أن الصلاة فـي كلام العرب من غير الله إنـما هو دعاء. وقد بـيَّنا ذلك فـيـما مضى من
-  كتابنا هذا بشواهده، فأغنى ذلك عن إعادته.{ يا أيُّها الَّذِينَ آمَنُوا صَلُّوا عَلَـيْهِ
-  } يقول تعالـى ذكره: يا أيها الذين آمنوا ادعوا لنبـيّ الله مـحمد صلى الله عليه وسلم
-  { وَسَلِّـمُوا عَلَـيْهِ تَسْلِـيـماً } يقول: وحيوه تـحية الإسلام. وبنـحو الذي قلنا
-  فـي ذلك جاءت الآثار عن رسول الله صلى الله عليه وسلم. ذكر من قال ذلك:حدثنا ابن حميد،
-  قال: ثنا هارون، عن عنبسة، عن عثمان بن موهب، عن موسى بن طلـحة، عن أبـيه، قال: أتـى
-  رجل النبـيّ صلى الله عليه وسلم، فقال: سمعت الله يقول: { إنَّ اللَّهَ وَمَلائِكَتَهُ
-  يُصَلُّونَ عَلـى النَّبِـيّ }... الآية، فكيف الصلاة علـيك؟ فقال: \" قُلِ: اللَّهُمَّ
-  صَلّ علـى مُـحَمَّدٍ وَعَلـى آلِ مُـحَمَّدٍ، كمَا صَلَّـيْتَ عَلـى إبْراَهِيـمَ
-  إنَّكَ حَمِيدٌ مَـجِيدٌ، وَبـارِكْ عَلـى مُـحَمَّدٍ وَعَلـى آلِ مُـحَمَّدٍ، كمَا
-  بـارَكْتَ عَلـى إبْراهِيـمَ إنَّكَ حَمِيدٌ مَـجِيدٌ \" حدثنـي جعفر بن مـحمد الكوفـي،
-  قال: ثنا يعلـى بن الأجلـح، عن الـحكم بن عُتـيبة، عن عبد الرحمن بن أبـي لَـيـلـى،
-  عن كعب بن عُجرة، قال: لـما نزلت: { إنَّ اللَّهَ وَمَلائِكَتَهُ يُصَلُّونَ عَلـى
-  النَّبِـيّ يا أيها الَّذِينَ آمَنُوا صَلُّوا عَلَـيْهِ وَسَلِّـمُوا تَسْلِـيـماً
-  } قمت إلـيه، فقلت: السلام علـيك قد عرفناه، فكيف الصلاة علـيك يا رسول الله؟ قال:
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(33, 56)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(33,56)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">إِنَّ
+  ٱللَّهَ وَمَلاَئِكَـتَهُ يُصَلُّونَ عَلَى ٱلنَّبِيِّ يٰأَيُّهَا ٱلَّذِينَ آمَنُواْ
+  صَلُّواْ عَلَيْهِ وَسَلِّمُواْ تَسْلِيماً</a> <b>}</b></font>, <br/>, <br/>, <div
+  align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">يقول
+  تعالـى ذكره: إن الله وملائكته يبرّكون علـى النبـيّ مـحمد صلى الله عليه وسلم، كما:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي علـيّ، قال: ثنا أبو صالـح، قال: ثنـي معاوية، عن علـيّ، عن
+  ابن عبـاس، قوله: { إنَّ اللَّهَ وَمَلائِكَتَهُ يُصَلُّونَ علـى النَّبِـيّ يا أيُّها
+  الَّذِينَ آمَنُوا صَلُّوا عَلَـيْهِ } يقول: يبـاركون علـى النبـيّ.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقد يحتـمل أن يقال: إن معنى ذلك: أن الله يرحم النبـيّ، وتدعو له
+  ملائكته ويستغفرون، وذلك أن الصلاة فـي كلام العرب من غير الله إنـما هو دعاء. وقد
+  بـيَّنا ذلك فـيـما مضى من كتابنا هذا بشواهده، فأغنى ذلك عن إعادته.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">{ يا أيُّها الَّذِينَ آمَنُوا صَلُّوا عَلَـيْهِ } يقول تعالـى ذكره:
+  يا أيها الذين آمنوا ادعوا لنبـيّ الله مـحمد صلى الله عليه وسلم { وَسَلِّـمُوا عَلَـيْهِ
+  تَسْلِـيـماً } يقول: وحيوه تـحية الإسلام. وبنـحو الذي قلنا فـي ذلك جاءت الآثار عن
+  رسول الله صلى الله عليه وسلم. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن حميد، قال: ثنا هارون، عن عنبسة، عن عثمان بن موهب، عن موسى بن طلـحة، عن أبـيه،
+  قال: أتـى رجل النبـيّ صلى الله عليه وسلم، فقال: سمعت الله يقول: { إنَّ اللَّهَ وَمَلائِكَتَهُ
+  يُصَلُّونَ عَلـى النَّبِـيّ }... الآية، فكيف الصلاة علـيك؟ فقال:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" قُلِ: اللَّهُمَّ صَلّ علـى مُـحَمَّدٍ
+  وَعَلـى آلِ مُـحَمَّدٍ، كمَا صَلَّـيْتَ عَلـى إبْراَهِيـمَ إنَّكَ حَمِيدٌ مَـجِيدٌ،
+  وَبـارِكْ عَلـى مُـحَمَّدٍ وَعَلـى آلِ مُـحَمَّدٍ، كمَا بـارَكْتَ عَلـى إبْراهِيـمَ
+  إنَّكَ حَمِيدٌ مَـجِيدٌ \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  جعفر بن مـحمد الكوفـي، قال: ثنا يعلـى بن الأجلـح، عن الـحكم بن عُتـيبة، عن عبد الرحمن
+  بن أبـي لَـيـلـى، عن كعب بن عُجرة، قال: لـما نزلت: { إنَّ اللَّهَ وَمَلائِكَتَهُ
+  يُصَلُّونَ عَلـى النَّبِـيّ يا أيها الَّذِينَ آمَنُوا صَلُّوا عَلَـيْهِ وَسَلِّـمُوا
+  تَسْلِـيـماً } قمت إلـيه، فقلت: السلام علـيك قد عرفناه، فكيف الصلاة علـيك يا رسول
+  الله؟ قال:</font></font><b><font class=\"TextResultArabic\"><font color=\"Red\">
   \" قُلِ اللَّهُمَّ صَلّ علـى مُـحَمَّدٍ وَعَلـى آلِ مُـحَمَّدٍ، كمَا صَلَّـيْتَ
   عَلـى إبْراهِيـمَ وآلِ إبْراهِيـمَ، إنَّكَ حَمِيدٌ مَـجِيدٌ، وَبـارِكْ عَلـى مُـحَمَّدٍ
   وَعَلـى آلِ مُـحَمَّدٍ، كمَا بـارَكْتَ عَلـى إبْراهِيـمَ وآلِ إبْراهِيـمَ إنَّكَ
-  حَمِيدٌ مَـجِيدٌ \" حدثنا أبو كُرَيب، قال: ثنا مالك بن إسماعيـل، قال: ثنا أبو إسرائيـل،
-  عن يونس بن خبـاب، قال: خطبنا بفـارس فقال: { إنَّ اللَّهَ وَمَلائِكَتَهُ }... الآية،
-  فقال: أنبأنـي من سمع ابن عبـاس يقول: هكذا أنزل، فقلنا: أو قالوا يا رسول الله قد
-  علـمنا السلام علـيك، فكيف الصلاة علـيك؟ فقال: \" اللَّهُمَّ صَلّ عَلـى مُـحَمَّدٍ
+  حَمِيدٌ مَـجِيدٌ \" </font></font></b><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا أبو كُرَيب، قال: ثنا مالك
+  بن إسماعيـل، قال: ثنا أبو إسرائيـل، عن يونس بن خبـاب، قال: خطبنا بفـارس فقال: {
+  إنَّ اللَّهَ وَمَلائِكَتَهُ }... الآية، فقال: أنبأنـي من سمع ابن عبـاس يقول: هكذا
+  أنزل، فقلنا: أو قالوا يا رسول الله قد علـمنا السلام علـيك، فكيف الصلاة علـيك؟ فقال:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" اللَّهُمَّ صَلّ عَلـى مُـحَمَّدٍ
   وَعَلـى آلِ مُـحَمَّدٍ، كمَا صَلَّـيْتَ عَلـى إبْرَاهِيـمَ وآلِ إبْراهِيـمَ، إنَّكَ
   حَمِيدٌ مَـجِيدٌ، وَبـارِكْ عَلـى مُـحَمَّدٍ وَعَلـى آلِ مُـحَمَّدٍ، كمَا بـارَكْتَ
-  عَلـى إبْراهِيـمَ إنَّكَ حَمِيدٌ مَـجِيدٌ \" حدثنا ابن حميد، قال: ثنا جرير، عن مغيرة،
-  عن زياد، عن إبراهيـم فـي قوله { إنَّ اللَّهَ وَمَلائِكَتَهُ }.\r\n\t\t\t\r\n\t\t\t1 2 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ إِنَّ ٱللَّهَ وَمَلاَئِكَـتَهُ يُصَلُّونَ
-  عَلَى ٱلنَّبِيِّ يٰأَيُّهَا ٱلَّذِينَ آمَنُواْ صَلُّواْ عَلَيْهِ وَسَلِّمُواْ تَسْلِيماً
-  }.. الآية، قالوا: يا رسول الله هذا السلام قد عرفناه، فكيف الصلاة علـيك؟ فقال: قولوا:
+  عَلـى إبْراهِيـمَ إنَّكَ حَمِيدٌ مَـجِيدٌ \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن حميد، قال: ثنا جرير، عن مغيرة، عن زياد، عن إبراهيـم فـي قوله { إنَّ اللَّهَ
+  وَمَلائِكَتَهُ }.</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\"
+  border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE:
+  none; BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(33, 56)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(33,56)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">إِنَّ ٱللَّهَ وَمَلاَئِكَـتَهُ يُصَلُّونَ عَلَى
+  ٱلنَّبِيِّ يٰأَيُّهَا ٱلَّذِينَ آمَنُواْ صَلُّواْ عَلَيْهِ وَسَلِّمُواْ تَسْلِيماً</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">.. الآية، قالوا: يا رسول الله هذا السلام قد عرفناه، فكيف الصلاة
+  علـيك؟ فقال: قولوا:</font></font><b><font class=\"TextResultArabic\"><font color=\"Red\">
   \" اللَّهُمَّ صَلّ عَلـى مَـحَمَّدٍ عَبْدِدَكَ وَرَسُولِكَ وأهْلِ بَـيْتِهِ كمَا
-  صَلَّـيْتَ عَلـى إبْراهِيـمَ إنَّكَ حَمِيدٌ مَـجِيدٌ \" حدثنـي يعقوب الدورقـي، قال:
-  ثنا ابن علـية، قال: ثنا أيوب، عن مـحمد بن سيرين، عن عبد الرحمن بن بشر بن مسعود الأنصاري،
-  قال: لـما نزلت: { إنَّ اللَّهَ وَمَلائِكَتَهُ يُصَلُّونَ عَلـى النَّبِـيّ يا أيُّها
-  الَّذِينَ آمَنُوا صَلُّوا عَلَـيْهِ وَسَلِّـمُوا تَسْلِـيـماً } قالوا: يا رسول الله
-  هذا السلام قد عرفناه، فكيف الصلاة، وقد غفر الله لك ما تقدّم من ذنبك وما تأخر؟ قال:
-  \" قولوا: اللَّهُمّ صَلّ عَلـى مُـحَمَّدٍ كمَا صَلَّـيْتَ عَلـى آلِ إبْراهِيـمَ،
-  اللَّهُمَّ بـارِكْ عَلـى مُـحَمَّدٍ كمَا بـارَكْتَ علـى آلِ إبْراهِيـمَ \" حدثنا
-  بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: { إنَّ اللَّهَ وَمَلائِكَتَهُ
-  يُصَلُّونَ عَلـى النَّبِـيّ يا أيُّها الَّذِينَ آمَنُوا صَلُّوا عَلَـيْهِ وَسَلِّـمُوا
-  تَسْلِـيـماً } قال: لـما نزلت هذه الآية قالوا: يا رسول الله قد علـمنا السلام علـيك،
-  فكيف الصلاة علـيك؟ قال: \" قولوا: اللَّهُمّ صَلّ علـى مُـحَمَّدٍ، كمَا صَلَّـيْتَ
-  عَلـى إبْرَاهِيـمَ، وَبـارِكْ عَلـى مُـحَمَّدٍ كمَا بـارَكْتَ عَلـى إبْرَاهِيـمَ
-  \" وقال الـحسن: «اللهمّ اجعل صلواتك وبركاتك علـى آل مـحمد، كما جعلتها علـى إبراهيـم
-  إنك حميد مـجيد».\r\n\t\t\t\r\n\t\t\t1 2 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  صَلَّـيْتَ عَلـى إبْراهِيـمَ إنَّكَ حَمِيدٌ مَـجِيدٌ \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي يعقوب الدورقـي، قال: ثنا ابن علـية، قال: ثنا أيوب، عن مـحمد
+  بن سيرين، عن عبد الرحمن بن بشر بن مسعود الأنصاري، قال: لـما نزلت: { إنَّ اللَّهَ
+  وَمَلائِكَتَهُ يُصَلُّونَ عَلـى النَّبِـيّ يا أيُّها الَّذِينَ آمَنُوا صَلُّوا عَلَـيْهِ
+  وَسَلِّـمُوا تَسْلِـيـماً } قالوا: يا رسول الله هذا السلام قد عرفناه، فكيف الصلاة،
+  وقد غفر الله لك ما تقدّم من ذنبك وما تأخر؟ قال:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" قولوا: اللَّهُمّ صَلّ عَلـى مُـحَمَّدٍ كمَا صَلَّـيْتَ عَلـى آلِ
+  إبْراهِيـمَ، اللَّهُمَّ بـارِكْ عَلـى مُـحَمَّدٍ كمَا بـارَكْتَ علـى آلِ إبْراهِيـمَ
+  \" </font></font></b><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا بشر، قال: ثنا يزيد، قال:
+  ثنا سعيد، عن قتادة، قوله: { إنَّ اللَّهَ وَمَلائِكَتَهُ يُصَلُّونَ عَلـى النَّبِـيّ
+  يا أيُّها الَّذِينَ آمَنُوا صَلُّوا عَلَـيْهِ وَسَلِّـمُوا تَسْلِـيـماً } قال: لـما
+  نزلت هذه الآية قالوا: يا رسول الله قد علـمنا السلام علـيك، فكيف الصلاة علـيك؟ قال:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" قولوا: اللَّهُمّ صَلّ علـى مُـحَمَّدٍ،
+  كمَا صَلَّـيْتَ عَلـى إبْرَاهِيـمَ، وَبـارِكْ عَلـى مُـحَمَّدٍ كمَا بـارَكْتَ عَلـى
+  إبْرَاهِيـمَ \" </font></font></b><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  الـحسن: «اللهمّ اجعل صلواتك وبركاتك علـى آل مـحمد، كما جعلتها علـى إبراهيـم إنك
+  حميد مـجيد».</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section>"
 

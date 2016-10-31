@@ -1,4 +1,4 @@
-location:
+position:
   sura: '002'
   aaya: '124'
   madhab: '01'
@@ -10,13 +10,31 @@ meta:
 aaya: ۞ وَإِذِ ابْتَلَىٰ إِبْرَاهِيمَ رَبُّهُ بِكَلِمَاتٍ فَأَتَمَّهُنَّ ۖ قَالَ إِنِّي
   جَاعِلُكَ لِلنَّاسِ إِمَامًا ۖ قَالَ وَمِنْ ذُرِّيَّتِي ۖ قَالَ لَا يَنَالُ عَهْدِي
   الظَّالِمِينَ
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَإِذِ ٱبْتَلَىٰ
-  إِبْرَاهِيمَ رَبُّهُ بِكَلِمَاتٍ فَأَتَمَّهُنَّ قَالَ إِنِّي جَاعِلُكَ لِلنَّاسِ
-  إِمَاماً قَالَ وَمِن ذُرِّيَّتِي قَالَ لاَ يَنَالُ عَهْدِي ٱلظَّالِمِينَ }{ وَ }
-  اذكر { إِذْ ٱبْتَلَىٰ } اختبر { إِبْرَاهِيمَ } وفي قراءة (إبراهام) { رَبُّهُ بِكَلِمَٰتٍ
-  } بأوامر ونواه كلَّفه بها قيل هي مناسك الحج وقيل المضمضة والاستنشاق والسواك وقص
-  الشارب وَفرْقُ الرأس وقَلْمُ الأظفار ونتف الإبط وحلق العانة والختان والاستنجاء {
-  فَأَتَمَّهُنَّ } أدّاهن تامات { قَالَ } تعالى له: { إِنّى جَٰعِلُكَ لِلنَّاسِ إِمَامًا
-  } قدوة في الدين { قَالَ وَمِن ذُرّيَّتِى } أولادي اجعل أئمة { قَالَ لاَ يَنَالُ
-  عَهْدِي } بالإمامة { ٱلْظَّٰلِمِينَ } الكافرين منهم دل على أنه ينال غير الظالم.\r\n\t\t\t\r\n\t\t\t</section>"
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(2, 124)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(2,124)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَإِذِ
+  ٱبْتَلَىٰ إِبْرَاهِيمَ رَبُّهُ بِكَلِمَاتٍ فَأَتَمَّهُنَّ قَالَ إِنِّي جَاعِلُكَ
+  لِلنَّاسِ إِمَاماً قَالَ وَمِن ذُرِّيَّتِي قَالَ لاَ يَنَالُ عَهْدِي ٱلظَّالِمِينَ</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">{ وَ } اذكر { إِذْ ٱبْتَلَىٰ } اختبر { إِبْرَاهِيمَ } وفي قراءة
+  (إبراهام) { رَبُّهُ بِكَلِمَٰتٍ } بأوامر ونواه كلَّفه بها قيل هي مناسك الحج وقيل
+  المضمضة والاستنشاق والسواك وقص الشارب وَفرْقُ الرأس وقَلْمُ الأظفار ونتف الإبط وحلق
+  العانة والختان والاستنجاء { فَأَتَمَّهُنَّ } أدّاهن تامات { قَالَ } تعالى له: {
+  إِنّى جَٰعِلُكَ لِلنَّاسِ إِمَامًا } قدوة في الدين { قَالَ وَمِن ذُرّيَّتِى } أولادي
+  اجعل أئمة { قَالَ لاَ يَنَالُ عَهْدِي } بالإمامة { ٱلْظَّٰلِمِينَ } الكافرين منهم
+  دل على أنه ينال غير الظالم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

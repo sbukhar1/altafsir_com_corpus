@@ -1,4 +1,4 @@
-location:
+position:
   sura: '002'
   aaya: '225'
   madhab: '02'
@@ -7,18 +7,41 @@ meta:
   title: تفسير تفسير القرآن
   author: ابن عبد السلام
   year: '660'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ لاَّ يُؤَاخِذُكُمُ
-  ٱللَّهُ بِٱلَّلغْوِ فِيۤ أَيْمَانِكُمْ وَلَـٰكِن يُؤَاخِذُكُم بِمَا كَسَبَتْ قُلُوبُكُمْ
-  وَٱللَّهُ غَفُورٌ حَلِيمٌ }{ بِاللَّغْوِ } كل كلام مذموم، لغا فلان: قال قبيحاً،
-  فلغو اليمين: ما سبق إليه اللسان من غير قصد، كلا والله، وبلى والله، مَّر الرسول صلى
-  الله عليه وسلم بقوم يتناضلون فرمى رجل فقال: اصبت والله، أخطأت والله، فقال رجل مع
-  الرسول صلى الله عليه وسلم حنث الرجل فقال الرسول صلى الله عليه وسلم: \" كلا إن أيمان
-  الرماة [لغو] لا كفارة ولا عقوبة \" أو الحلف على شيء ظاناً ثم تبين بخلافه، أو الحلف
-  في حال الغضب من غير عقد ولا عزم بل صلة في الكلام وعن الرسول صلى الله عليه وسلم:
-  \" لا يمين في غضب \" ، أو الحلف على معصية فلا يؤاخذ بترك المعصية ويكفِّر، وعن الرسول
-  صلى الله عليه وسلم \" من حلف على معصية فلا يمين له \" أو دعاء الحالف على نفسه، كقوله:
-  \" إن لم أفعل فأعمى الله بصري، او أخرجني من مالي، أو أنا كافر بالله، قاله زيد بن
-  أسلم \" أو اللغو: الأيمان المكفَّرة، أو ما حنث فيه ناسياً { كَسَبَتْ قُلُوبُكُمْ
-  } عمدتم، أو الحلف كاذباً، أو على باطل، أو اعتقاد الشرك بالله ـ تعالى ـ والكفر، عند
-  زيد بن أسلم. { غَفُورٌ } للغو { حَلِيمٌ } بترك معاجلة العصاة.\r\n\t\t\t\r\n\t\t\t</section>"
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(2, 225)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(2,225)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">لاَّ
+  يُؤَاخِذُكُمُ ٱللَّهُ بِٱلَّلغْوِ فِيۤ أَيْمَانِكُمْ وَلَـٰكِن يُؤَاخِذُكُم بِمَا
+  كَسَبَتْ قُلُوبُكُمْ وَٱللَّهُ غَفُورٌ حَلِيمٌ</a> <b>}</b></font>, <br/>, <br/>,
+  <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">{
+  بِاللَّغْوِ } كل كلام مذموم، لغا فلان: قال قبيحاً، فلغو اليمين: ما سبق إليه اللسان
+  من غير قصد، كلا والله، وبلى والله، مَّر الرسول صلى الله عليه وسلم بقوم يتناضلون
+  فرمى رجل فقال: اصبت والله، أخطأت والله، فقال رجل مع الرسول صلى الله عليه وسلم حنث
+  الرجل فقال الرسول صلى الله عليه وسلم:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" كلا إن أيمان الرماة [لغو] لا كفارة ولا عقوبة \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\">أو الحلف على شيء ظاناً ثم تبين
+  بخلافه، أو الحلف في حال الغضب من غير عقد ولا عزم بل صلة في الكلام وعن الرسول صلى
+  الله عليه وسلم:</font></font><b><font class=\"TextResultArabic\"><font color=\"Red\">
+  \" لا يمين في غضب \" </font></font></b><font class=\"TextResultArabic\"><font color=\"black\">،
+  أو الحلف على معصية فلا يؤاخذ بترك المعصية ويكفِّر، وعن الرسول صلى الله عليه وسلم</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" من حلف على معصية فلا يمين له
+  \" </font></font></b><font class=\"TextResultArabic\"><font color=\"black\">أو دعاء
+  الحالف على نفسه، كقوله: \" إن لم أفعل فأعمى الله بصري، او أخرجني من مالي، أو أنا
+  كافر بالله، قاله زيد بن أسلم \" أو اللغو: الأيمان المكفَّرة، أو ما حنث فيه ناسياً
+  { كَسَبَتْ قُلُوبُكُمْ } عمدتم، أو الحلف كاذباً، أو على باطل، أو اعتقاد الشرك بالله
+  ـ تعالى ـ والكفر، عند زيد بن أسلم. { غَفُورٌ } للغو { حَلِيمٌ } بترك معاجلة العصاة.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

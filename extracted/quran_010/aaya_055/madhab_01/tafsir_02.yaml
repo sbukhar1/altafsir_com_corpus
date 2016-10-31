@@ -1,4 +1,4 @@
-location:
+position:
   sura: '010'
   aaya: '055'
   madhab: '01'
@@ -9,12 +9,30 @@ meta:
   year: '538'
 aaya: أَلَا إِنَّ لِلَّهِ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ ۗ أَلَا إِنَّ وَعْدَ اللَّهِ
   حَقٌّ وَلَٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَلَوْ أَنَّ لِكُلِّ
-  نَفْسٍ ظَلَمَتْ مَا فِي ٱلأَرْضِ لاَفْتَدَتْ بِهِ وَأَسَرُّواْ ٱلنَّدَامَةَ لَمَّا
-  رَأَوُاْ ٱلْعَذَابَ وَقُضِيَ بَيْنَهُمْ بِٱلْقِسْطِ وَهُمْ لاَ يُظْلَمُونَ } * {
-  أَلاۤ إِنَّ للَّهِ مَا فِي ٱلسَّمَٰوَٰتِ وَٱلأَرْضِ أَلاَ إِنَّ وَعْدَ ٱللَّهِ حَقٌّ
-  وَلَـٰكِنَّ أَكْثَرَهُمْ لاَ يَعْلَمُونَ } * { هُوَ يُحْيِـي وَيُمِيتُ وَإِلَيْهِ
-  تُرْجَعُونَ }{ ظَلَمَتْ } صفة لنفس على: ولو أنّ لكل نفس ظالمة { مَّا فِى ٱلأَرْضِ
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(10, 54)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(10,54)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَلَوْ
+  أَنَّ لِكُلِّ نَفْسٍ ظَلَمَتْ مَا فِي ٱلأَرْضِ لاَفْتَدَتْ بِهِ وَأَسَرُّواْ ٱلنَّدَامَةَ
+  لَمَّا رَأَوُاْ ٱلْعَذَابَ وَقُضِيَ بَيْنَهُمْ بِٱلْقِسْطِ وَهُمْ لاَ يُظْلَمُونَ</a>
+  <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">أَلاۤ
+  إِنَّ للَّهِ مَا فِي ٱلسَّمَٰوَٰتِ وَٱلأَرْضِ أَلاَ إِنَّ وَعْدَ ٱللَّهِ حَقٌّ وَلَـٰكِنَّ
+  أَكْثَرَهُمْ لاَ يَعْلَمُونَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">هُوَ يُحْيِـي وَيُمِيتُ وَإِلَيْهِ تُرْجَعُونَ</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">{ ظَلَمَتْ } صفة لنفس على: ولو أنّ لكل نفس ظالمة { مَّا فِى ٱلأَرْضِ
   } أي ما في الدنيا اليوم من خزائنها وأموالها وجميع منافعها على كثرتها { لاَفْتَدَتْ
   بِهِ } لجعلته فدية لها. يقال: فده فافتدى. ويقال: افتداه أيضاً بمعنى فداه { وَأَسَرُّواْ
   ٱلنَّدَامَةَ لَمَّا رَأَوُاْ ٱلْعَذَابَ } لأنهم بهتوا لرؤيتهم ما لم يحتسبوه ولم
@@ -27,5 +45,7 @@ text: "<section>قراءة الآيةفتح صفحة القرآنالانتقا�
   وأشره إذا أظهره. وليس هناك تجلد { وَقُضِىَ بَيْنَهُمْ } أي بين الظالمين والمظلومين،
   دلّ على ذلك ذكر الظلم. ثم أتبع ذلك الإعلام بأنّ له الملك كله، وأنه المثيب المعاقب،
   وما وعدوه من الثواب والعقاب فهو حق. وهو القادر على الإحياء والإماتة، لا يقدر عليهما
-  غيره، وإلى حسابه وجزائه المرجع، ليعلم أن الأمر كذلك، فيخاف ويرجىء ولا يغتر به المغترون.\r\n\t\t\t\r\n\t\t\t</section>"
+  غيره، وإلى حسابه وجزائه المرجع، ليعلم أن الأمر كذلك، فيخاف ويرجىء ولا يغتر به المغترون.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

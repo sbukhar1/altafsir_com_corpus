@@ -1,4 +1,4 @@
-location:
+position:
   sura: '022'
   aaya: '053'
   madhab: '01'
@@ -7,17 +7,35 @@ meta:
   title: تفسير الكشاف
   author: الزمخشري
   year: '538'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ لِّيَجْعَلَ مَا
-  يُلْقِي ٱلشَّيْطَانُ فِتْنَةً لِّلَّذِينَ فِي قُلُوبِهِم مَّرَضٌ وَٱلْقَاسِيَةِ
-  قُلُوبُهُمْ وَإِنَّ ٱلظَّالِمِينَ لَفِي شِقَاقٍ بَعِيدٍ } * { وَلِيَعْلَمَ ٱلَّذِينَ
-  أُوتُواْ ٱلْعِلْمَ أَنَّهُ ٱلْحَقُّ مِن رَّبِّكَ فَيُؤْمِنُواْ بِهِ فَتُخْبِتَ لَهُ
-  قُلُوبُهُمْ وَإِنَّ ٱللَّهَ لَهَادِ ٱلَّذِينَ آمَنُوۤاْ إِلَىٰ صِرَاطٍ مُّسْتَقِيمٍ
-  }والذين { فِى قُلُوبِهِمْ مَّرَضٌ } المنافقون والشاكون { وَٱلْقَاسِيَةِ قُلُوبُهُمْ
-  } المشركون المكذبون { وَإِنَّ ٱلظَّـٰلِمِينَ } يريد: وإن هؤلاء المنافقين والمشركين.
-  وأصله: وإنهم، فوضع الظاهر موضع الضمير قضاء عليهم بالظلم { أَنَّهُ ٱلْحَقُّ مِن رَّبّكَ
-  } أي ليعلموا أن تمكين الشيطان من الإلقاء: هو الحق من ربك والحكمة { وإِنَّ ٱللهَ
-  لَهَادِ ٱلَّذِينَ ءَامَنُوۤاْ إِلَىٰ } أن يتأولوا ما يتشابه في الدين بالتأويلات
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(22, 53)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(22,53)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">لِّيَجْعَلَ
+  مَا يُلْقِي ٱلشَّيْطَانُ فِتْنَةً لِّلَّذِينَ فِي قُلُوبِهِم مَّرَضٌ وَٱلْقَاسِيَةِ
+  قُلُوبُهُمْ وَإِنَّ ٱلظَّالِمِينَ لَفِي شِقَاقٍ بَعِيدٍ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَلِيَعْلَمَ
+  ٱلَّذِينَ أُوتُواْ ٱلْعِلْمَ أَنَّهُ ٱلْحَقُّ مِن رَّبِّكَ فَيُؤْمِنُواْ بِهِ فَتُخْبِتَ
+  لَهُ قُلُوبُهُمْ وَإِنَّ ٱللَّهَ لَهَادِ ٱلَّذِينَ آمَنُوۤاْ إِلَىٰ صِرَاطٍ مُّسْتَقِيمٍ</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">والذين { فِى قُلُوبِهِمْ مَّرَضٌ } المنافقون والشاكون { وَٱلْقَاسِيَةِ
+  قُلُوبُهُمْ } المشركون المكذبون { وَإِنَّ ٱلظَّـٰلِمِينَ } يريد: وإن هؤلاء المنافقين
+  والمشركين. وأصله: وإنهم، فوضع الظاهر موضع الضمير قضاء عليهم بالظلم { أَنَّهُ ٱلْحَقُّ
+  مِن رَّبّكَ } أي ليعلموا أن تمكين الشيطان من الإلقاء: هو الحق من ربك والحكمة { وإِنَّ
+  ٱللهَ لَهَادِ ٱلَّذِينَ ءَامَنُوۤاْ إِلَىٰ } أن يتأولوا ما يتشابه في الدين بالتأويلات
   الصحيحة، ويطلبوا لما أشكل منه المحمل الذي تقتضيه الأصول والمحكمة والقوانين الممهدة،
   حتى لا تلحقهم حيرة ولا تعتريهم شبهة ولا تزل أقدامهم. وقرىء: «لهادٍ الذين آمنوا»
-  بالتنوين.\r\n\t\t\t\r\n\t\t\t</section>"
+  بالتنوين.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

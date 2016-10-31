@@ -1,4 +1,4 @@
-location:
+position:
   sura: 038
   aaya: 019
   madhab: '01'
@@ -7,151 +7,372 @@ meta:
   title: تفسير جامع البيان في تفسير القرآن
   author: الطبري
   year: '310'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ ٱصْبِر عَلَىٰ
-  مَا يَقُولُونَ وَٱذْكُرْ عَبْدَنَا دَاوُودَ ذَا ٱلأَيْدِ إِنَّهُ أَوَّابٌ } * {
-  إِنَّا سَخَّرْنَا ٱلجِبَالَ مَعَهُ يُسَبِّحْنَ بِٱلْعَشِيِّ وَٱلإِشْرَاقِ } * {
-  وَٱلطَّيْرَ مَحْشُورَةً كُلٌّ لَّهُ أَوَّابٌ } * { وَشَدَدْنَا مُلْكَهُ وَآتَيْنَاهُ
-  ٱلْحِكْمَةَ وَفَصْلَ ٱلْخِطَابِ }يقول تعالـى ذكره لنبـيه مـحمد صلى الله عليه وسلم:
-  اصبر يا مـحمد علـى ما يقول مشركو قومك لك مـما تكره قـيـلهم لك، فإنا مـمتـحنوك بـالـمكاره
-  امتـحاننا سائر رسلنا قبلك، ثم جاعلو العلوّ والرفعة والظفر لك علـى من كذبك وشاقَّك
-  سنتنا فـي الرسل الذين أرسلناهم إلـى عبـادنا قبلك فمنهم عبدنا أيوب وداود بن إيشا،
-  فـاذكره ذا الأيد ويعنـي بقوله: { ذَا الأَيْدِ } ذا القوّة والبطش الشديد فـي ذات
-  الله والصبر علـى طاعته. وبنـحو الذي قلنا فـي ذلك قال أهل التأويـل. ذكر من قال ذلك:حدثنـي
-  مـحمد بن سعد، قال: ثنـي أبـي، قال: ثنـي عمي، قال: ثنـي أبـي، عن أبـيه، عن ابن عبـاس
-  { دَاوُد ذَا الأَيْدِ } قال: ذا القوّة.حدثنـي مـحمد بن عمرو، قال: ثنـي أبو عاصم،
-  قال: ثنا عيسى وحدثنـي الـحارث، قال: ثنا الـحسن، قال: ثنا ورقاء، جميعاً عن ابن أبـي
-  نـجيح، عن مـجاهد، قوله: { ذَا الأَيْد } قال: ذا القوّة فـي طاعة الله.حدثنا بشر،
-  قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة { وَاذْكُرْ عَبْدَنا دَاوُدَ ذَا الأَيْد
-  } قال: أعطي قوّة فـي العبـادة، وفقهاً فـي الإسلام.وقد ذُكر لنا أن داود صلى الله
-  عليه وسلم كان يقوم اللـيـل ويصوم نصف الدهر.حدثنا مـحمد بن الـحسين، قال: ثنا أحمد
-  بن الـمفضل، قال: ثنا أسبـاط، عن السديّ، قوله: { دَاوُدَ ذَا الأَيْدِ } ذا القوّة
-  فـي طاعة الله.حدثنـي يونس قال: أخبرنا ابن وهب، قال: قال ابن زيد، فـي قوله: { دَاوُدَ
-  ذَا الأَيْدِ } قال: ذا القوّة فـي عبـادة الله، الأيد: القوّة، وقرأ:{ والسَّماءَ
-  بَنَـيْناها بأَيْدٍ }قال: بقوّة.وقوله: { إنَّهُ أوّابٌ } يقول: إن داود رَجَّاع لـما
-  يكرهه الله إلـى ما يرضيه أوّاب، وهو من قولهم: آب الرجل إلـى أهله: إذا رجع. وبنـحو
-  الذي قلنا فـي ذلك قال أهل التأويـل. ذكر من قال ذلك:حدثنا مـحمد بن عمرو، قال: ثنا
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(38, 17)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(38,17)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">ٱصْبِر
+  عَلَىٰ مَا يَقُولُونَ وَٱذْكُرْ عَبْدَنَا دَاوُودَ ذَا ٱلأَيْدِ إِنَّهُ أَوَّابٌ</a>
+  <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">إِنَّا
+  سَخَّرْنَا ٱلجِبَالَ مَعَهُ يُسَبِّحْنَ بِٱلْعَشِيِّ وَٱلإِشْرَاقِ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَٱلطَّيْرَ
+  مَحْشُورَةً كُلٌّ لَّهُ أَوَّابٌ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">وَشَدَدْنَا مُلْكَهُ وَآتَيْنَاهُ ٱلْحِكْمَةَ
+  وَفَصْلَ ٱلْخِطَابِ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">يقول تعالـى ذكره لنبـيه مـحمد صلى
+  الله عليه وسلم: اصبر يا مـحمد علـى ما يقول مشركو قومك لك مـما تكره قـيـلهم لك، فإنا
+  مـمتـحنوك بـالـمكاره امتـحاننا سائر رسلنا قبلك، ثم جاعلو العلوّ والرفعة والظفر لك
+  علـى من كذبك وشاقَّك سنتنا فـي الرسل الذين أرسلناهم إلـى عبـادنا قبلك فمنهم عبدنا
+  أيوب وداود بن إيشا، فـاذكره ذا الأيد ويعنـي بقوله: { ذَا الأَيْدِ } ذا القوّة والبطش
+  الشديد فـي ذات الله والصبر علـى طاعته. وبنـحو الذي قلنا فـي ذلك قال أهل التأويـل.
+  ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي مـحمد بن سعد، قال: ثنـي
+  أبـي، قال: ثنـي عمي، قال: ثنـي أبـي، عن أبـيه، عن ابن عبـاس { دَاوُد ذَا الأَيْدِ
+  } قال: ذا القوّة.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي مـحمد بن عمرو، قال: ثنـي
   أبو عاصم، قال: ثنا عيسى وحدثنـي الـحارث، قال: ثنا الـحسن، قال: ثنا ورقاء، جميعاً
-  عن ابن أبـي نـجيح، عن مـجاهد { إنَّهُ أوَّابٌ } قال: رجاع عن الذنوب.حدثنـي الـحارث،
-  قال: ثنا الـحسن، قال: ثنا ورقاء جميعاً، عن ابن أبـي نـجيح، عن مـجاهد { إنَّهُ أوَّابٌ
-  } قال: الراجع عن الذنوب.حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله:
-  { أنَّهُ أوَّابٌ }: أي كان مطيعاً لله كثـير الصلاة.حدثنا مـحمد بن الـحسين، قال:
-  ثنا أحمد بن الـمفضل، قال: ثنا أسبـاط، عن السديّ، قوله: { إنَّهُ أوَّابٌ } قال: الـمسبِّح.حدثنـي
+  عن ابن أبـي نـجيح، عن مـجاهد، قوله: { ذَا الأَيْد } قال: ذا القوّة فـي طاعة الله.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة { وَاذْكُرْ عَبْدَنا
+  دَاوُدَ ذَا الأَيْد } قال: أعطي قوّة فـي العبـادة، وفقهاً فـي الإسلام.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقد ذُكر لنا أن داود صلى الله عليه وسلم كان يقوم اللـيـل ويصوم نصف
+  الدهر.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا مـحمد بن الـحسين، قال: ثنا
+  أحمد بن الـمفضل، قال: ثنا أسبـاط، عن السديّ، قوله: { دَاوُدَ ذَا الأَيْدِ } ذا القوّة
+  فـي طاعة الله.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي يونس قال: أخبرنا ابن وهب،
+  قال: قال ابن زيد، فـي قوله: { دَاوُدَ ذَا الأَيْدِ } قال: ذا القوّة فـي عبـادة الله،
+  الأيد: القوّة، وقرأ:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">والسَّماءَ بَنَـيْناها بأَيْدٍ</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">قال: بقوّة.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقوله: { إنَّهُ أوّابٌ } يقول: إن داود رَجَّاع لـما يكرهه الله إلـى
+  ما يرضيه أوّاب، وهو من قولهم: آب الرجل إلـى أهله: إذا رجع. وبنـحو الذي قلنا فـي
+  ذلك قال أهل التأويـل. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  مـحمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى وحدثنـي الـحارث، قال: ثنا الـحسن،
+  قال: ثنا ورقاء، جميعاً عن ابن أبـي نـجيح، عن مـجاهد { إنَّهُ أوَّابٌ } قال: رجاع
+  عن الذنوب.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي الـحارث، قال: ثنا الـحسن،
+  قال: ثنا ورقاء جميعاً، عن ابن أبـي نـجيح، عن مـجاهد { إنَّهُ أوَّابٌ } قال: الراجع
+  عن الذنوب.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا بشر، قال: ثنا يزيد، قال:
+  ثنا سعيد، عن قتادة، قوله: { أنَّهُ أوَّابٌ }: أي كان مطيعاً لله كثـير الصلاة.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا مـحمد بن الـحسين، قال: ثنا أحمد بن الـمفضل، قال: ثنا أسبـاط،
+  عن السديّ، قوله: { إنَّهُ أوَّابٌ } قال: الـمسبِّح.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
   يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، فـي قوله: { إنَّهُ أوَّابٌ } قال: الأوّاب
-  التوّاب الذي يئوب إلـى طاعة الله ويرجع إلـيها، ذلك الأوّاب، قال: والأوّاب: الـمطيع.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ ٱصْبِر عَلَىٰ مَا يَقُولُونَ وَٱذْكُرْ
-  عَبْدَنَا دَاوُودَ ذَا ٱلأَيْدِ إِنَّهُ أَوَّابٌ } * { إِنَّا سَخَّرْنَا ٱلجِبَالَ
-  مَعَهُ يُسَبِّحْنَ بِٱلْعَشِيِّ وَٱلإِشْرَاقِ } * { وَٱلطَّيْرَ مَحْشُورَةً كُلٌّ
-  لَّهُ أَوَّابٌ } * { وَشَدَدْنَا مُلْكَهُ وَآتَيْنَاهُ ٱلْحِكْمَةَ وَفَصْلَ ٱلْخِطَابِ
-  }وقوله: { إنَّا سَخَّرْنا الـجِبـالَ مَعَهُ يُسَبِّحْنَ بـالعَشِيّ وَالإشْرَاقِ
-  } يقول تعالـى ذكره: إنا سخرنا الـجبـال يسبِّحن مع داود بـالعشيّ، وذلك من قوت العصر
-  إلـى اللـيـل، والإشراق، وذلك بـالغداة وقت الضحى. ذُكر أن داود كان إذا سبح سبحت معه
-  الـجبـال، كما:حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة { إنَّا سخَّرْنا
-  الـجِبـالَ مَعَهُ يُسَبِّحْنَ بـالعَشِيّ والإشْراقِ } يسبحن مع داود إذا سبح بـالعشيّ
-  والإشراق.حدثنـي يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، فـي قوله: { بـالعَشيّ
-  والإشْرَاقِ } قال: حين تُشرق الشمس وتضحى.حدثنا أبو كريب، قال: ثنا مـحمد بن بشر،
-  عن مسعر بن عبد الكريـم، عن موسى بن أبـي كثـير، عن ابن عبـاس أنه بلغه أن أمّ هانىء
-  ذكرت أن رسول الله صلى الله عليه وسلم يوم فتـح مكة، صلـى الضحى ثمان ركعات، فقال ابن
-  عبـاس: قد ظننت أن لهذه الساعة صلاة، يقول الله: { يُسَبِّحْنَ بـالعَشيّ والإشْراقِ
-  }.حدثنا ابن عبد الرحيـم البرقـي، قال: ثنا عمرو بن أبـي سلـمة، قال: ثنا صدقة، قال:
-  ثنـي سعيد بن أبـي عَروبة، عن أبـي الـمتوكل، عن أيوب بن صفوان، عن عبد الله بن الـحارث
-  بن نوفل أن ابن عبـاس كان لا يصلـي الضحى، قال: فأدخـلته علـى أم هانىء، فقلت: أخبري
-  هذا بـما أخبرتنـي به، فقالت أمّ هانىء: دخـل علـيّ رسول الله صلى الله عليه وسلم يوم
-  الفتـح فـي بـيتـي، فأمر بـماء فصبّ فـي قصعة، ثم أمر بثوب فأخذ بـينـي وبـينه، فـاغتسل،
-  ثم رشّ ناحية البـيت فصلّـى ثمان ركعات، وذلك من الضحى قـيامهنّ وركوعهنّ وسجودهنّ
-  وجلوسهنّ سواء، قريب بعضهنّ من بعض، فخرج ابن عبـاس، وهو يقول: لقد قرأت ما بـين اللوحين،
-  ما عرفت صلاة الضحى إلا الآن { يُسَبِّحْنَ بـالعَشَيّ والإشْراق } وكنت أقول: أين
-  صلاة الإِشراق، ثم قال: بعدهنّ صلاة الإِشراق.حدثنا عمرو بن علـيّ، قال: ثنا عبد الأعلـى،
-  قال: ثنا سعيد بن أبـي عروبة، عن متوكل، عن أيوب بن صفوان، مولـى عبد الله بن الـحارث،
-  عن عبد الله بن الـحارث، أن أمّ هانىء ابنة أبـي طالب، حَدّثت أن رسول الله صلى الله
-  عليه وسلم يوم الفتـح دخـل علـيها ثم ذكر نـحوه.وعن ابن عبـاس فـي قوله: { يُسَبِّحْنَ
-  بـالعَشِيّ } مثل ذلك.وقوله: { والطَّيْرَ مَـحْشُورَةً } يقول تعالـى ذكره: وسخرنا
-  الطير يسبحن معه مـحشورة بـمعنى: مـجموعة له ذُكر أنه صلى الله عليه وسلم كان إذا سبح
-  أجابته الـجبـال، واجتـمعت إلـيه الطير، فسبحت معه واجتـماعها إلـيه كان حشرها. وقد
-  ذكرنا أقوال أهل التأويـل فـي معنى الـحشر فـيـما مضى، فكرهنا إعادته. وكان قتادة يقول
-  فـي ذلك فـي هذا الـموضع ما:حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة { والطَّيْرَ
-  مَـحْشُورَةً }: مسخَّرة.وقوله: { كُلٌّ لَهُ أوَّابٌ } يقول: كل ذلك له مطيع رجَّاع
-  إلـى طاعته وأمره.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ ٱصْبِر عَلَىٰ مَا يَقُولُونَ وَٱذْكُرْ
-  عَبْدَنَا دَاوُودَ ذَا ٱلأَيْدِ إِنَّهُ أَوَّابٌ } * { إِنَّا سَخَّرْنَا ٱلجِبَالَ
-  مَعَهُ يُسَبِّحْنَ بِٱلْعَشِيِّ وَٱلإِشْرَاقِ } * { وَٱلطَّيْرَ مَحْشُورَةً كُلٌّ
-  لَّهُ أَوَّابٌ } * { وَشَدَدْنَا مُلْكَهُ وَآتَيْنَاهُ ٱلْحِكْمَةَ وَفَصْلَ ٱلْخِطَابِ
-  }ويعنـي بـالكلّ: كلّ الطير. وبنـحو الذي قلنا فـي ذلك قال أهل التأويـل. ذكر من قال
-  ذلك:حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة { كُلّ لَهُ أوَّابٌ }: أي
-  مطيع.حدثنـي يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، فـي قوله: { والطَّيْرَ
-  مَـحْشُورَةً كُلّ لَهُ أوَّابٌ } قال: كلّ له مطيع.وقال آخرون: معنى ذلك: كل ذلك لله
-  مسبِّح. ذكر من قال ذلك:حدثنـي مـحمد بن الـحسين، قال: ثنا أحمد بن الـمفضل، قال: ثنا
-  أسبـاط، عن السديّ، قوله: { والطَّيْر مَـحْشُورَةً كُلّ لَهُ أوَّابٌ } يقول: مسبِّح
-  لله.وقوله: { وَشَدَدْنا مُلْكَهُ } اختلف أهل التأويـل فـي الـمعنى الذي به شدّد ملكه،
-  فقال بعضهم: شدّد ذلك بـالـجنود والرجال، فكان يحرسه كلّ يوم ولـيـلة أربعة آلاف، أربعة
-  آلاف. ذكر من قال ذلك:حدثنا مـحمد بن الـحسين، قال: ثنا أحمد بن الـمفضل، قال: ثنا
-  أسبـاط، عن السدّيّ، قوله: { وَشَدَدْنا مُلْكَهُ } قال: كان يحرسه كلّ يوم ولـيـلة
-  أربعة آلاف، أربعة آلاف.وقال آخرون: كان الذي شدد به ملكه، أن أُعطِيَ هيبة من الناس
-  له لقضية كان قضاها. ذكر من قال ذلك:حدثنـي ابن حرب، قال: ثنا موسى، قال: ثنا داود،
-  عن علبـاء بن أحمر، عن عكرمة، عن ابن عبـاس، أن رجلاً من بنـي إسرائيـل استعدى علـى
-  رجل من عظمائهم، فـاجتـمعا عند داود النبـيّ صلى الله عليه وسلم فقال الـمستعدي: إن
-  هذا اغتصبنـي بقراً لـي، فسأل داود الرجل عن ذلك فجحده، فسأل الآخر البـينة، فلـم يكن
-  له بـيِّنة، فقال لهما داود: قوماً حتـى أنظر فـي أمركما فقاما من عنده، فأوحى الله
-  إلـى داود فـي منامه أن يقتل الرجل الذي استُعدي علـيه، فقال: هذه رؤيا ولست أعجل حتـى
-  أتثبت، فأوحى الله إلـى داود فـي منامه مرّة أخرى أن يقتل الرجل، وأوحى الله إلـيه
+  التوّاب الذي يئوب إلـى طاعة الله ويرجع إلـيها، ذلك الأوّاب، قال: والأوّاب: الـمطيع.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(38, 17)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(38,17)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">ٱصْبِر عَلَىٰ مَا يَقُولُونَ وَٱذْكُرْ عَبْدَنَا
+  دَاوُودَ ذَا ٱلأَيْدِ إِنَّهُ أَوَّابٌ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">إِنَّا سَخَّرْنَا
+  ٱلجِبَالَ مَعَهُ يُسَبِّحْنَ بِٱلْعَشِيِّ وَٱلإِشْرَاقِ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَٱلطَّيْرَ
+  مَحْشُورَةً كُلٌّ لَّهُ أَوَّابٌ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">وَشَدَدْنَا مُلْكَهُ وَآتَيْنَاهُ ٱلْحِكْمَةَ
+  وَفَصْلَ ٱلْخِطَابِ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">وقوله: { إنَّا سَخَّرْنا الـجِبـالَ
+  مَعَهُ يُسَبِّحْنَ بـالعَشِيّ وَالإشْرَاقِ } يقول تعالـى ذكره: إنا سخرنا الـجبـال
+  يسبِّحن مع داود بـالعشيّ، وذلك من قوت العصر إلـى اللـيـل، والإشراق، وذلك بـالغداة
+  وقت الضحى. ذُكر أن داود كان إذا سبح سبحت معه الـجبـال، كما:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة { إنَّا سخَّرْنا الـجِبـالَ مَعَهُ يُسَبِّحْنَ
+  بـالعَشِيّ والإشْراقِ } يسبحن مع داود إذا سبح بـالعشيّ والإشراق.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، فـي قوله: {
+  بـالعَشيّ والإشْرَاقِ } قال: حين تُشرق الشمس وتضحى.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  أبو كريب، قال: ثنا مـحمد بن بشر، عن مسعر بن عبد الكريـم، عن موسى بن أبـي كثـير،
+  عن ابن عبـاس أنه بلغه أن أمّ هانىء ذكرت أن رسول الله صلى الله عليه وسلم يوم فتـح
+  مكة، صلـى الضحى ثمان ركعات، فقال ابن عبـاس: قد ظننت أن لهذه الساعة صلاة، يقول الله:
+  { يُسَبِّحْنَ بـالعَشيّ والإشْراقِ }.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن عبد الرحيـم البرقـي، قال: ثنا عمرو بن أبـي سلـمة، قال: ثنا صدقة، قال: ثنـي سعيد
+  بن أبـي عَروبة، عن أبـي الـمتوكل، عن أيوب بن صفوان، عن عبد الله بن الـحارث بن نوفل
+  أن ابن عبـاس كان لا يصلـي الضحى، قال: فأدخـلته علـى أم هانىء، فقلت: أخبري هذا بـما
+  أخبرتنـي به، فقالت أمّ هانىء: دخـل علـيّ رسول الله صلى الله عليه وسلم يوم الفتـح
+  فـي بـيتـي، فأمر بـماء فصبّ فـي قصعة، ثم أمر بثوب فأخذ بـينـي وبـينه، فـاغتسل، ثم
+  رشّ ناحية البـيت فصلّـى ثمان ركعات، وذلك من الضحى قـيامهنّ وركوعهنّ وسجودهنّ وجلوسهنّ
+  سواء، قريب بعضهنّ من بعض، فخرج ابن عبـاس، وهو يقول: لقد قرأت ما بـين اللوحين، ما
+  عرفت صلاة الضحى إلا الآن { يُسَبِّحْنَ بـالعَشَيّ والإشْراق } وكنت أقول: أين صلاة
+  الإِشراق، ثم قال: بعدهنّ صلاة الإِشراق.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  عمرو بن علـيّ، قال: ثنا عبد الأعلـى، قال: ثنا سعيد بن أبـي عروبة، عن متوكل، عن أيوب
+  بن صفوان، مولـى عبد الله بن الـحارث، عن عبد الله بن الـحارث، أن أمّ هانىء ابنة أبـي
+  طالب، حَدّثت أن رسول الله صلى الله عليه وسلم يوم الفتـح دخـل علـيها ثم ذكر نـحوه.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وعن ابن عبـاس فـي قوله: { يُسَبِّحْنَ بـالعَشِيّ } مثل ذلك.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقوله: { والطَّيْرَ مَـحْشُورَةً } يقول تعالـى ذكره: وسخرنا الطير
+  يسبحن معه مـحشورة بـمعنى: مـجموعة له ذُكر أنه صلى الله عليه وسلم كان إذا سبح أجابته
+  الـجبـال، واجتـمعت إلـيه الطير، فسبحت معه واجتـماعها إلـيه كان حشرها. وقد ذكرنا
+  أقوال أهل التأويـل فـي معنى الـحشر فـيـما مضى، فكرهنا إعادته. وكان قتادة يقول فـي
+  ذلك فـي هذا الـموضع ما:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا بشر، قال: ثنا يزيد، قال:
+  ثنا سعيد، عن قتادة { والطَّيْرَ مَـحْشُورَةً }: مسخَّرة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقوله:
+  { كُلٌّ لَهُ أوَّابٌ } يقول: كل ذلك له مطيع رجَّاع إلـى طاعته وأمره.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(38, 17)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(38,17)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">ٱصْبِر عَلَىٰ مَا يَقُولُونَ وَٱذْكُرْ عَبْدَنَا
+  دَاوُودَ ذَا ٱلأَيْدِ إِنَّهُ أَوَّابٌ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">إِنَّا سَخَّرْنَا
+  ٱلجِبَالَ مَعَهُ يُسَبِّحْنَ بِٱلْعَشِيِّ وَٱلإِشْرَاقِ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَٱلطَّيْرَ
+  مَحْشُورَةً كُلٌّ لَّهُ أَوَّابٌ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">وَشَدَدْنَا مُلْكَهُ وَآتَيْنَاهُ ٱلْحِكْمَةَ
+  وَفَصْلَ ٱلْخِطَابِ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">ويعنـي بـالكلّ: كلّ الطير. وبنـحو
+  الذي قلنا فـي ذلك قال أهل التأويـل. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة { كُلّ لَهُ أوَّابٌ }: أي مطيع.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، فـي قوله: {
+  والطَّيْرَ مَـحْشُورَةً كُلّ لَهُ أوَّابٌ } قال: كلّ له مطيع.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال آخرون: معنى ذلك: كل ذلك لله مسبِّح. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي مـحمد بن الـحسين، قال: ثنا أحمد بن الـمفضل، قال: ثنا أسبـاط،
+  عن السديّ، قوله: { والطَّيْر مَـحْشُورَةً كُلّ لَهُ أوَّابٌ } يقول: مسبِّح لله.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقوله: { وَشَدَدْنا مُلْكَهُ } اختلف أهل التأويـل فـي الـمعنى الذي
+  به شدّد ملكه، فقال بعضهم: شدّد ذلك بـالـجنود والرجال، فكان يحرسه كلّ يوم ولـيـلة
+  أربعة آلاف، أربعة آلاف. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  مـحمد بن الـحسين، قال: ثنا أحمد بن الـمفضل، قال: ثنا أسبـاط، عن السدّيّ، قوله: {
+  وَشَدَدْنا مُلْكَهُ } قال: كان يحرسه كلّ يوم ولـيـلة أربعة آلاف، أربعة آلاف.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال آخرون: كان الذي شدد به ملكه، أن أُعطِيَ هيبة من الناس له لقضية
+  كان قضاها. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي ابن حرب، قال: ثنا موسى،
+  قال: ثنا داود، عن علبـاء بن أحمر، عن عكرمة، عن ابن عبـاس، أن رجلاً من بنـي إسرائيـل
+  استعدى علـى رجل من عظمائهم، فـاجتـمعا عند داود النبـيّ صلى الله عليه وسلم فقال الـمستعدي:
+  إن هذا اغتصبنـي بقراً لـي، فسأل داود الرجل عن ذلك فجحده، فسأل الآخر البـينة، فلـم
+  يكن له بـيِّنة، فقال لهما داود: قوماً حتـى أنظر فـي أمركما فقاما من عنده، فأوحى
+  الله إلـى داود فـي منامه أن يقتل الرجل الذي استُعدي علـيه، فقال: هذه رؤيا ولست أعجل
+  حتـى أتثبت، فأوحى الله إلـى داود فـي منامه مرّة أخرى أن يقتل الرجل، وأوحى الله إلـيه
   الثالثة أن يقتله أو تأتـيه العقوبة من الله، فأرسل داود إلـى الرجل: إن الله قد أوحى
   إلـيّ أن أقتلك، فقال الرجل: تقتلنـي بغير بـينة ولا تثبت؟ فقال له داود: نعم، والله
   لأنفذنّ أمر الله فـيك فلـما عرف الرجل أنه قاتله، قال: لا تعجل علـيّ حتـى أخبرك،
   إنـي والله وما أُخِذت بهذا الذنب، ولكنـي كنت اغتلت والد هذا فقتلته، فبذلك قُتلت،
   فأمر به داود فقُتل، فـاشتدّت هيبة بنـي إسرائيـل عند ذلك لداود، وشدد به ملْكه، فهو
-  قول الله: { وَشَدَدْنا مُلْكَهُ }.وأولـى الأقوال فـي ذلك بـالصواب أن يقال: إن الله
-  تبـارك وتعالـى أخبر أنه شَدَّد ملك داود، ولـم يحضر ذلك من تشديده علـى التشديد بـالرجال
-  والـجنود دون الهيبة من الناس له ولا علـى هيبة الناس له دون الـجنود. وجائز أن يكون
-  تشديده ذلك كان ببعض ما ذكرنا، وجائز أن يكون كان بجميعها، ولا قول أولـى فـي ذلك بـالصحة
-  من قول الله، إذ لـم يحصُرْ ذلك علـى بعض معانـي التشديد خبر يجب التسلـيـم له.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ ٱصْبِر عَلَىٰ مَا يَقُولُونَ وَٱذْكُرْ
-  عَبْدَنَا دَاوُودَ ذَا ٱلأَيْدِ إِنَّهُ أَوَّابٌ } * { إِنَّا سَخَّرْنَا ٱلجِبَالَ
-  مَعَهُ يُسَبِّحْنَ بِٱلْعَشِيِّ وَٱلإِشْرَاقِ } * { وَٱلطَّيْرَ مَحْشُورَةً كُلٌّ
-  لَّهُ أَوَّابٌ } * { وَشَدَدْنَا مُلْكَهُ وَآتَيْنَاهُ ٱلْحِكْمَةَ وَفَصْلَ ٱلْخِطَابِ
-  }وقوله: { وآتَـيْناهُ الـحِكْمَةَ } اختلف أهل التأويـل فـي معنى الـحكمة فـي هذا
-  الـموضع، فقال بعضهم: عُنـي بها النبوّة. ذكر من قال ذلك:حدثنا مـحمد بن الـحسين، قال:
-  ثنا أحمد بن الـمفضل، قال: ثنا أسبـاط عن السديّ، قوله: { وآتَـيْناهُ الـحِكْمَةَ
-  } قال: النبوّة.وقال آخرون: عُنـي بها أنه علـم السنن. ذكر من قال ذلك:حدثنا بشر، قال:
-  ثنا يزيد، قال: ثنا سعيد، عن قتادة { وآتَـيْناهُ الـحِكْمَةَ }: أي السنة.وقد بـيَّنا
-  معنى الـحكمة فـي غير هذا الـموضع بشواهده، فأغنى ذلك عن إعادته فـي هذا الـموضع.وقوله:
-  { وفَصْلَ الـخِطابِ } اختلف أهل التأويـل فـي معنى ذلك، فقال بعضهم: عنـي به أنه علـم
-  القضاء والفهم به. ذكر من قال ذلك:حدثنـي مـحمد بن سعد، قال: ثنـي أبـي، قال: ثنـي
-  عمي، قال: ثنـي أبـي، عن أبـيه، عن ابن عبـاس { وَآتَـيْناهُ الـحِكْمَةَ وَفَصْلَ
-  الـخِطابِ } قال: أعطي الفهم.حدثنا أبو كُرَيب، قال: ثنا ابن إدريس، عن لـيث، عن مـجاهد
-  { وَفَصْلَ الـخِطاب } قال: إصابة القضاء وفهمه.حدثنا مـحمد بن الـحسين، قال: ثنا أحمد
-  بن الـمفضل، قال: ثنا أسبـاط، عن السديّ، فـي قوله: { وَفَصْل الـخِطابِ } قال: علـم
-  القضاء.حدثنـي يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، فـي قوله: { وآتَـيْناهُ
-  الـحِكْمَةَ وَفَصْلَ الـخِطابِ } قال: الـخصومات التـي يخاصم الناس إلـيه فصل ذلك
-  الـخطاب، الكلام الفهم، وإصابة القضاء والبـيِّنات.حدثنا ابن بشار، قال: ثنا عبد الرحمن،
-  قال: ثنا سفـيان، عن أبـي حُصين، قال: سمعت أبـا عبد الرحمن يقول: فصل الـخطاب: القضاء.وقال
+  قول الله: { وَشَدَدْنا مُلْكَهُ }.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وأولـى
+  الأقوال فـي ذلك بـالصواب أن يقال: إن الله تبـارك وتعالـى أخبر أنه شَدَّد ملك داود،
+  ولـم يحضر ذلك من تشديده علـى التشديد بـالرجال والـجنود دون الهيبة من الناس له ولا
+  علـى هيبة الناس له دون الـجنود. وجائز أن يكون تشديده ذلك كان ببعض ما ذكرنا، وجائز
+  أن يكون كان بجميعها، ولا قول أولـى فـي ذلك بـالصحة من قول الله، إذ لـم يحصُرْ ذلك
+  علـى بعض معانـي التشديد خبر يجب التسلـيـم له.</font></font>&#13;\t\t\t<label disabled=\"true\"
+  class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">3 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(38, 17)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(38,17)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">ٱصْبِر عَلَىٰ مَا يَقُولُونَ وَٱذْكُرْ عَبْدَنَا
+  دَاوُودَ ذَا ٱلأَيْدِ إِنَّهُ أَوَّابٌ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">إِنَّا سَخَّرْنَا
+  ٱلجِبَالَ مَعَهُ يُسَبِّحْنَ بِٱلْعَشِيِّ وَٱلإِشْرَاقِ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَٱلطَّيْرَ
+  مَحْشُورَةً كُلٌّ لَّهُ أَوَّابٌ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">وَشَدَدْنَا مُلْكَهُ وَآتَيْنَاهُ ٱلْحِكْمَةَ
+  وَفَصْلَ ٱلْخِطَابِ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">وقوله: { وآتَـيْناهُ الـحِكْمَةَ
+  } اختلف أهل التأويـل فـي معنى الـحكمة فـي هذا الـموضع، فقال بعضهم: عُنـي بها النبوّة.
+  ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا مـحمد بن الـحسين، قال: ثنا
+  أحمد بن الـمفضل، قال: ثنا أسبـاط عن السديّ، قوله: { وآتَـيْناهُ الـحِكْمَةَ } قال:
+  النبوّة.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال آخرون: عُنـي بها أنه علـم
+  السنن. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا بشر، قال: ثنا يزيد، قال:
+  ثنا سعيد، عن قتادة { وآتَـيْناهُ الـحِكْمَةَ }: أي السنة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقد
+  بـيَّنا معنى الـحكمة فـي غير هذا الـموضع بشواهده، فأغنى ذلك عن إعادته فـي هذا الـموضع.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقوله: { وفَصْلَ الـخِطابِ } اختلف أهل التأويـل فـي معنى ذلك، فقال
+  بعضهم: عنـي به أنه علـم القضاء والفهم به. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  مـحمد بن سعد، قال: ثنـي أبـي، قال: ثنـي عمي، قال: ثنـي أبـي، عن أبـيه، عن ابن عبـاس
+  { وَآتَـيْناهُ الـحِكْمَةَ وَفَصْلَ الـخِطابِ } قال: أعطي الفهم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا أبو كُرَيب، قال: ثنا ابن إدريس، عن لـيث، عن مـجاهد { وَفَصْلَ
+  الـخِطاب } قال: إصابة القضاء وفهمه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  مـحمد بن الـحسين، قال: ثنا أحمد بن الـمفضل، قال: ثنا أسبـاط، عن السديّ، فـي قوله:
+  { وَفَصْل الـخِطابِ } قال: علـم القضاء.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، فـي قوله: { وآتَـيْناهُ الـحِكْمَةَ
+  وَفَصْلَ الـخِطابِ } قال: الـخصومات التـي يخاصم الناس إلـيه فصل ذلك الـخطاب، الكلام
+  الفهم، وإصابة القضاء والبـيِّنات.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا سفـيان، عن أبـي حُصين، قال: سمعت أبـا عبد
+  الرحمن يقول: فصل الـخطاب: القضاء.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
   آخرون: بل معنى ذلك: وفصل الـخطاب، بتكلـيف الـمدّعي البـينة، والـيـمين علـى الـمدَّعَى
-  علـيه. ذكر من قال ذلك:حدثنا أبو كُرَيب، قال: ثنا هشيـم، قال: أخبرنا داود بن أبـي
-  هند، قال: ثنـي الشعبـيّ أو غيره، عن شريح أنه قال فـي قوله: { وفَصْلَ الـخِطابِ }
-  قال: بـيِّنة الـمدّعي، أو يـمين الـمُدَّعى علـيه.حدثنـي يعقوب بن إبراهيـم، قال:
-  ثنا ابن عُلـيَّة، عن داود بن أبـي هند، فـي قوله: { وآتَـيْناه الـحِكْمَةَ وَفَصْلَ
-  الـخِطابِ } قال: نُبِّئت عن شريح أنه قال: شاهدان أو يـمين.حدثنا ابن عبد الأعلـى،
-  قال: ثنا معتـمر، قال: سمعت داود قال: بلغنـي أن شريحاً قال فصل الـخِطابِ الشاهدان
-  علـى الـمدعي، والـيـمين علـى من أنكر.حدثنا ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا
-  سفـيان، عن منصور، عن طاوس، أن شريحاً قال لرجل: إن هذا يعيب علـيّ ما أُعْطِيَ داود،
-  الشهود والأيـمان.حدثنا ابن الـمثنى، قال: ثنا مـحمد بن جعفر، قال: ثنا شعبة، عن الـحكم،
-  عن شريح أنه قال فـي هذه الآية { وَفَصْلَ الـخِطابِ } قال: الشهود والأيـمان.حدثنا
-  عمران بن موسى، قال: ثنا عبد الوارث، قال: ثنا داود، عن الشعبـيّ، فـي قوله: { وآتَـيْناهُ
-  الـحِكْمَةَ وَفَصْلَ الـخِطابِ } قال: يـمين أوْ شاهِدٌ.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ ٱصْبِر عَلَىٰ مَا يَقُولُونَ وَٱذْكُرْ
-  عَبْدَنَا دَاوُودَ ذَا ٱلأَيْدِ إِنَّهُ أَوَّابٌ } * { إِنَّا سَخَّرْنَا ٱلجِبَالَ
-  مَعَهُ يُسَبِّحْنَ بِٱلْعَشِيِّ وَٱلإِشْرَاقِ } * { وَٱلطَّيْرَ مَحْشُورَةً كُلٌّ
-  لَّهُ أَوَّابٌ } * { وَشَدَدْنَا مُلْكَهُ وَآتَيْنَاهُ ٱلْحِكْمَةَ وَفَصْلَ ٱلْخِطَابِ
-  }حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة { وَفَصْلَ الـخِطابِ } البـينة
-  علـى الطالب، والـيـمين علـى الـمطلوب، هذا فصل الـخطاب.وقال آخرون: بل هو قولُ: أما
-  بعد. ذكر من قال ذلك:حدثنا أبو كُرَيب، قال: ثنا جابر بن نوح، قال: ثنا إسماعيـل، عن
-  الشعبـيّ فـي قوله: { وَفَصْلَ الـخِطابِ } قال: قول الرجل: أما بعد.وأولـى الأقوال
-  فـي ذلك بـالصواب أن يقال: إن الله أخبر أنه آتـى داود صلوات الله علـيه فصل الـخطاب،
-  والفصل: هو القطع، والـخطاب هو الـمخاطبة، ومن قطع مخاطبة الرجل الرجل فـي حال احتكام
-  أحدهما إلـى صاحبه قطع الـمـحتكم إلـيه الـحكم بـين الـمـحتكم إلـيه وخصمه بصواب من
-  الـحكم، ومن قطع مخاطبته أيضاً صاحبه إلزام الـمخاطب فـي الـحكم ما يجب علـيه إن كان
-  مدعياً، فإقامة البـينة علـى دعواه وإن كان مدعى علـيه فتكلـيفه الـيـمين إن طلب ذلك
-  خصمه. ومن قطع الـخطاب أيضاً الذي هو خطبة عند انقضاء قصة وابتداء فـي أخرى الفصل بـينهما
-  بأما بعد. فإذ كان ذلك كله مـحتـملاً ظاهر الـخبر ولـم تكن فـي هذه الآية دلالة علـى
-  أيّ ذلك الـمرادُ، ولا ورد به خبر عن الرسول صلى الله عليه وسلم ثابت، فـالصواب أن
-  يعم الـخبر، كما عمه الله، فـيقال: أُوتـي داود فصل الـخطاب فـي القضاء والـمـحاورة
-  والـخطب.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  علـيه. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا أبو كُرَيب، قال: ثنا هشيـم،
+  قال: أخبرنا داود بن أبـي هند، قال: ثنـي الشعبـيّ أو غيره، عن شريح أنه قال فـي قوله:
+  { وفَصْلَ الـخِطابِ } قال: بـيِّنة الـمدّعي، أو يـمين الـمُدَّعى علـيه.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي يعقوب بن إبراهيـم، قال: ثنا ابن عُلـيَّة، عن داود بن أبـي
+  هند، فـي قوله: { وآتَـيْناه الـحِكْمَةَ وَفَصْلَ الـخِطابِ } قال: نُبِّئت عن شريح
+  أنه قال: شاهدان أو يـمين.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن عبد الأعلـى، قال: ثنا
+  معتـمر، قال: سمعت داود قال: بلغنـي أن شريحاً قال فصل الـخِطابِ الشاهدان علـى الـمدعي،
+  والـيـمين علـى من أنكر.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن بشار، قال: ثنا عبد الرحمن،
+  قال: ثنا سفـيان، عن منصور، عن طاوس، أن شريحاً قال لرجل: إن هذا يعيب علـيّ ما أُعْطِيَ
+  داود، الشهود والأيـمان.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن الـمثنى، قال: ثنا مـحمد
+  بن جعفر، قال: ثنا شعبة، عن الـحكم، عن شريح أنه قال فـي هذه الآية { وَفَصْلَ الـخِطابِ
+  } قال: الشهود والأيـمان.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا عمران بن موسى، قال: ثنا عبد
+  الوارث، قال: ثنا داود، عن الشعبـيّ، فـي قوله: { وآتَـيْناهُ الـحِكْمَةَ وَفَصْلَ
+  الـخِطابِ } قال: يـمين أوْ شاهِدٌ.</font></font>&#13;\t\t\t<label disabled=\"true\"
+  class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">4 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(38, 17)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(38,17)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">ٱصْبِر عَلَىٰ مَا يَقُولُونَ وَٱذْكُرْ عَبْدَنَا
+  دَاوُودَ ذَا ٱلأَيْدِ إِنَّهُ أَوَّابٌ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">إِنَّا سَخَّرْنَا
+  ٱلجِبَالَ مَعَهُ يُسَبِّحْنَ بِٱلْعَشِيِّ وَٱلإِشْرَاقِ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَٱلطَّيْرَ
+  مَحْشُورَةً كُلٌّ لَّهُ أَوَّابٌ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">وَشَدَدْنَا مُلْكَهُ وَآتَيْنَاهُ ٱلْحِكْمَةَ
+  وَفَصْلَ ٱلْخِطَابِ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا بشر، قال: ثنا يزيد، قال:
+  ثنا سعيد، عن قتادة { وَفَصْلَ الـخِطابِ } البـينة علـى الطالب، والـيـمين علـى الـمطلوب،
+  هذا فصل الـخطاب.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال آخرون: بل هو قولُ: أما بعد.
+  ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا أبو كُرَيب، قال: ثنا جابر
+  بن نوح، قال: ثنا إسماعيـل، عن الشعبـيّ فـي قوله: { وَفَصْلَ الـخِطابِ } قال: قول
+  الرجل: أما بعد.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وأولـى الأقوال فـي ذلك بـالصواب
+  أن يقال: إن الله أخبر أنه آتـى داود صلوات الله علـيه فصل الـخطاب، والفصل: هو القطع،
+  والـخطاب هو الـمخاطبة، ومن قطع مخاطبة الرجل الرجل فـي حال احتكام أحدهما إلـى صاحبه
+  قطع الـمـحتكم إلـيه الـحكم بـين الـمـحتكم إلـيه وخصمه بصواب من الـحكم، ومن قطع مخاطبته
+  أيضاً صاحبه إلزام الـمخاطب فـي الـحكم ما يجب علـيه إن كان مدعياً، فإقامة البـينة
+  علـى دعواه وإن كان مدعى علـيه فتكلـيفه الـيـمين إن طلب ذلك خصمه. ومن قطع الـخطاب
+  أيضاً الذي هو خطبة عند انقضاء قصة وابتداء فـي أخرى الفصل بـينهما بأما بعد. فإذ كان
+  ذلك كله مـحتـملاً ظاهر الـخبر ولـم تكن فـي هذه الآية دلالة علـى أيّ ذلك الـمرادُ،
+  ولا ورد به خبر عن الرسول صلى الله عليه وسلم ثابت، فـالصواب أن يعم الـخبر، كما عمه
+  الله، فـيقال: أُوتـي داود فصل الـخطاب فـي القضاء والـمـحاورة والـخطب.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">5 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a id=\"NextClass\"/></td></tr></table></center></div></section>"
 

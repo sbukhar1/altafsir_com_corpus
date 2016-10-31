@@ -1,4 +1,4 @@
-location:
+position:
   sura: '005'
   aaya: '067'
   madhab: '01'
@@ -7,82 +7,194 @@ meta:
   title: تفسير جامع البيان في تفسير القرآن
   author: الطبري
   year: '310'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ يَـٰأَيُّهَا ٱلرَّسُولُ
-  بَلِّغْ مَآ أُنزِلَ إِلَيْكَ مِن رَّبِّكَ وَإِن لَّمْ تَفْعَلْ فَمَا بَلَّغْتَ رِسَالَتَهُ
-  وَٱللَّهُ يَعْصِمُكَ مِنَ ٱلنَّاسِ إِنَّ ٱللَّهَ لاَ يَهْدِي ٱلْقَوْمَ ٱلْكَافِرِينَ
-  }وهذا أمر من الله تعالـى ذكره لنبـيه مـحمد صلى الله عليه وسلم، بإبلاغ هؤلاء الـيهود
-  والنصارى من أهل الكتابـين الذين قصّ الله تعالـى قصصهم فـي هذه السورة وذكر فـيها
-  معايبهم وخبث أديانهم واجتراءهم علـى ربهم وتوثبهم علـى أنبـيائهم وتبديـلهم كتابه
-  وتـحريفهم إياه ورداءة مطامعهم ومآكلهم وسائر الـمشركين غيرهم، ما أنزل علـيه فـيهم
-  من معايبهم والإزراء علـيهم والتقصير بهم والتهجين لهم، وما أمرهم به ونهاهم عنه، وأن
-  لا يشعر نفسه حذراً منهم أن يصيبه فـي نفسه مكروه، ما قام فـيهم بأمر الله، ولا جزعاً
-  من كثرة عددهم وقلة عدد من معه، وأن لا يتقـى أحداً فـي ذات الله، فإن الله تعالـى
-  كافـيه كلّ أحد من خـلقه، ودافعٌ عنه مكروه كل من يتقـي مكروهه. وأعلـمه تعالـى ذكره
-  أنه إن قصر عن إبلاغ شيء مـما أنزل إلـيه إلـيهم، فهو فـي تركه تبلـيغ ذلك وإن قلّ
-  ما لـم يبلغ منه، فهو فـي عظيـم ما ركب بذلك من الذنب بـمنزلته لو لـم يبلغ من تنزيـله
-  شيئاً.وبـما قلنا فـي ذلك قال أهل التأويـل. ذكر من قال ذلك:حدثنـي الـمثنى، قال: ثنا
-  عبد الله بن صالـح، قال: ثنـي معاوية، عن علـيّ بن أبـي طلـحة، عن ابن عبـاس، قوله:
-  { يا أيُّها الرَّسُولُ بَلِّغْ ما أُنْزِلَ إلَـيْكَ مِنْ رَبِّكَ وَإنْ لَـمْ تَفْعَلْ
-  فَمَا بَلَّغْتَ رسالَتَهُ } يعنـي: إن كتـمت آية مـما أنزل علـيك من ربك، لـم تبلغ
-  رسالتـي.حدثنا بشر بن معاذ، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة: { يا أيُّها الرَّسُولُ
-  بَلِّغْ ما أُنْزِلَ إلَـيْكَ مِنْ رَبِّكَ }... الآية، أخبر الله نبـيه صلى الله عليه
-  وسلم أنه سيكفـيه الناس ويعصمه منهم، وأمره بـالبلاغ. ذكِر لنا أن نبـيّ الله صلى الله
-  عليه وسلم قـيـل له: لو احتـجبت فقال: \" واللَّهِ لأُبْدِيَنَّ عَقِبـي للنَّاسِ ما
-  صَاحَبْتُهُمْ \" حدثنـي الـحارث بن مـحمد، قال: ثنا عبد العزيز، قال: ثنا سفـيان الثوريّ،
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(5, 67)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(5,67)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">يَـٰأَيُّهَا
+  ٱلرَّسُولُ بَلِّغْ مَآ أُنزِلَ إِلَيْكَ مِن رَّبِّكَ وَإِن لَّمْ تَفْعَلْ فَمَا
+  بَلَّغْتَ رِسَالَتَهُ وَٱللَّهُ يَعْصِمُكَ مِنَ ٱلنَّاسِ إِنَّ ٱللَّهَ لاَ يَهْدِي
+  ٱلْقَوْمَ ٱلْكَافِرِينَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\"
+  dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">وهذا أمر من الله
+  تعالـى ذكره لنبـيه مـحمد صلى الله عليه وسلم، بإبلاغ هؤلاء الـيهود والنصارى من أهل
+  الكتابـين الذين قصّ الله تعالـى قصصهم فـي هذه السورة وذكر فـيها معايبهم وخبث أديانهم
+  واجتراءهم علـى ربهم وتوثبهم علـى أنبـيائهم وتبديـلهم كتابه وتـحريفهم إياه ورداءة
+  مطامعهم ومآكلهم وسائر الـمشركين غيرهم، ما أنزل علـيه فـيهم من معايبهم والإزراء علـيهم
+  والتقصير بهم والتهجين لهم، وما أمرهم به ونهاهم عنه، وأن لا يشعر نفسه حذراً منهم
+  أن يصيبه فـي نفسه مكروه، ما قام فـيهم بأمر الله، ولا جزعاً من كثرة عددهم وقلة عدد
+  من معه، وأن لا يتقـى أحداً فـي ذات الله، فإن الله تعالـى كافـيه كلّ أحد من خـلقه،
+  ودافعٌ عنه مكروه كل من يتقـي مكروهه. وأعلـمه تعالـى ذكره أنه إن قصر عن إبلاغ شيء
+  مـما أنزل إلـيه إلـيهم، فهو فـي تركه تبلـيغ ذلك وإن قلّ ما لـم يبلغ منه، فهو فـي
+  عظيـم ما ركب بذلك من الذنب بـمنزلته لو لـم يبلغ من تنزيـله شيئاً.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وبـما قلنا فـي ذلك قال أهل التأويـل. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي الـمثنى، قال: ثنا عبد الله بن صالـح، قال: ثنـي معاوية، عن
+  علـيّ بن أبـي طلـحة، عن ابن عبـاس، قوله: { يا أيُّها الرَّسُولُ بَلِّغْ ما أُنْزِلَ
+  إلَـيْكَ مِنْ رَبِّكَ وَإنْ لَـمْ تَفْعَلْ فَمَا بَلَّغْتَ رسالَتَهُ } يعنـي: إن
+  كتـمت آية مـما أنزل علـيك من ربك، لـم تبلغ رسالتـي.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  بشر بن معاذ، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة: { يا أيُّها الرَّسُولُ بَلِّغْ
+  ما أُنْزِلَ إلَـيْكَ مِنْ رَبِّكَ }... الآية، أخبر الله نبـيه صلى الله عليه وسلم
+  أنه سيكفـيه الناس ويعصمه منهم، وأمره بـالبلاغ. ذكِر لنا أن نبـيّ الله صلى الله عليه
+  وسلم قـيـل له: لو احتـجبت فقال:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" واللَّهِ لأُبْدِيَنَّ عَقِبـي للنَّاسِ ما صَاحَبْتُهُمْ \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي الـحارث بن مـحمد، قال: ثنا عبد العزيز، قال: ثنا سفـيان الثوريّ،
   عن رجل، عن مـجاهد، قال: لـما نزلت: { بَلِّغْ ما أُنْزِلَ إلَـيْكَ مِنْ رَبِّكَ }
-  قال: \" إنّـما أنا وَاحِدٌ، كَيْفَ أصْنَعُ؟ تَـجْتَـمِعُ علـيَّ الناسُ \" فنزلت:
-  { وَإنْ لَـمْ تَفْعَلْ فَمَا بَلَّغْتَ رسالَتَهُ }... الآية.حدثنا هناد وابن وكيع،
-  قالا: ثنا جرير، عن ثعلبة، عن جعفر، عن سعيد بن جبـير، قال: لـمَّا نزلت: { يا أيُّها
-  الرَّسُولُ بَلِّغْ ما أُنْزِلَ إلَـيْكَ مِنْ رَبِّكَ وَإنْ لَـمْ تَفْعَلْ فَمَا
-  بَلَّغْتَ رسالَتَهُ واللَّهُ يَعْصِمُكَ مِنَ النَّاسِ } قال رسول الله صلى الله عليه
-  وسلم: \" لا تَـحْرُسُونِـي إنَّ رَبـيِّ قَدْ عَصَمَنِـي \" حدثنـي يعقوب بن إبراهيـم
-  وابن وكيع، قالا: ثنا ابن عُلَـية، عن الـجريري، عن عبد الله بن شقـيق: أن رسول الله
-  صلى الله عليه وسلم كان يعتقبه ناس من أصحابه، فلـما نزلت: { وَاللَّهُ يَعْصِمُكَ
-  مِنَ النَّاسِ } خرج فقال:\r\n\t\t\t\r\n\t\t\t1 2 3 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ يَـٰأَيُّهَا ٱلرَّسُولُ بَلِّغْ مَآ
-  أُنزِلَ إِلَيْكَ مِن رَّبِّكَ وَإِن لَّمْ تَفْعَلْ فَمَا بَلَّغْتَ رِسَالَتَهُ وَٱللَّهُ
-  يَعْصِمُكَ مِنَ ٱلنَّاسِ إِنَّ ٱللَّهَ لاَ يَهْدِي ٱلْقَوْمَ ٱلْكَافِرِينَ } \"
-  يا أيُّها النَّاسُ الْـحَقُوا بِـمَلاحِقِكُمْ، فإنَّ اللَّهَ قَدْ عَصَمَنِـي مِنَ
-  النَّاسِ \" حدثنا هناد، قال: ثنا وكيع، عن عاصم بن مـحمد، عن مـحمد بن كعب القرظي،
-  قال: كان النبـيّ صلى الله عليه وسلم يتـحارسه أصحابه، فأنزل الله: { يا أيُّها الرَّسُولُ
-  بَلِّغْ ما أُنْزِلَ إلَـيْكَ مِنْ رَبِّكَ وَإنْ لَـمْ تَفْعَلْ فَمَا بَلَّغْتَ رَسالَتَهُ
-  }... إلـى آخرها.حدثنـي الـمثنى، قال: ثنا مسلـم بن إبراهيـم، قال: ثنا الـحارث بن
-  عبـيدة أبو قدامة الإيادي، قال: ثنا سعيد الـجريري، عن عبد الله بن شقـيق، عن عائشة،
-  قالت: كان النبـيّ صلى الله عليه وسلم يُحرس، حتـى نزلت هذه الآية: { وَاللّهُ يَعْصِمُكَ
-  مِنَ النَّاسِ } قالت: فأخرج النبـيّ صلى الله عليه وسلم رأسه من القبة، فقال: \" أيُّها
-  النَّاسُ انْصَرِفُوا، فإنَّ اللّهَ قَدْ عَصَمَنِـي \" حدثنا عمرو بن عبد الـحميد،
-  قال: ثنا سفـيان، عن عاصم، عن القرظي: أن رسول الله صلى الله عليه وسلم ما زال يحرس
-  حتـى أنزل الله: { وَاللّهُ يَعْصِمُكَ مِنَ النَّاسِ }.واختلف أهل التأويـل فـي السبب
-  الذي من أجله نزلت هذه الآية، فقال بعضهم: نزلت بسب أعرابـيّ كان همّ بقتل رسول الله
-  صلى الله عليه وسلم، فكفـاه الله إياه. ذكر من قال ذلك:حدثنـي الـحارث، قال: ثنا عبد
-  العزيز، قال: ثنا أبو معشر، عن مـحمد بن كعب القرظي وغيره، قال: كان رسول الله صلى
-  الله عليه وسلم إذا نزل منزلاً اختار له أصحابه شجرة ظلـيـلة، فـيقـيـل تـحتها، فأتاه
-  أعرابـي، فـاخترط سيفه ثم قال: من يـمنعك منـي؟ قال: «الله». فرعدت يد الأعرابـي، وسقط
-  السيف منه. قال: وضرب برأسه الشجرة حتـى انتثر دماغه، فأنزل الله: { وَاللّهُ يَعْصِمُكَ
-  مِنَ النَّاسِ }.وقال آخرون: بل نزلت لأنه كان يخاف قريشاً، فأومن من ذلك. ذكر من قال
-  ذلك:حدثنا القاسم، قال: ثنا الـحسين، قال: ثنـي حجاج، عن ابن جريج، قال: كان النبـيّ
-  صلى الله عليه وسلم يهاب قريشاً، فلـما نزلت: { وَاللّهُ يَعْصِمُكَ مِنَ النَّاسِ
-  } استلقـى ثم قال: \" مَنْ شاءَ فَلْـيَخْذُلْنِـي \" مرّتـين أو ثلاثاً.حدثنا هناد،
-  قال: ثنا وكيع، عن أبـي خالد، عن عامر، عن مسروق، قال: قالت عائشة: من حدّثك أن رسول
-  الله صلى الله عليه وسلم كتـم شيئاً من الوحي فقد كذب. ثم قرأت: «يا أيُّها الرَّسُولُ
-  بَلِّغْ ما أُنْزِلَ إلَـيْكَ }... الآية.حدثنا ابن حميد، قال: ثنا جرير، عن الـمغيرة،
-  عن الشعبـيّ، قال: قالت عائشة: من قال إن مـحمداً صلى الله عليه وسلم كتـم فقد كذب
-  وأعظم الفرية علـى الله، قال الله: { يا أيُّها الرَّسُولُ بَلِّغْ ما أُنْزِلَ إلَـيْكَ
-  مِنْ رَبِّكَ }... الآية.حدثنـي يعقوب بن إبراهيـم، قال: ثنا ابن علـية، قال: أخبرنا
-  داود بن أبـي هند، عن الشعبـيّ، عن مسروق، قال: قالت عائشة: من زعم أن مـحمداً صلى
-  الله عليه وسلم كتـم شيئاً من كتاب الله فقد أعظم علـى الله الفرية، والله يقول: {
-  يا أيُّها الرَّسُولُ بَلِّغْ ما أُنْزِلَ إلَـيْكَ مِنْ رَبِّك }.\r\n\t\t\t\r\n\t\t\t1 2 3 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ يَـٰأَيُّهَا ٱلرَّسُولُ بَلِّغْ مَآ
-  أُنزِلَ إِلَيْكَ مِن رَّبِّكَ وَإِن لَّمْ تَفْعَلْ فَمَا بَلَّغْتَ رِسَالَتَهُ وَٱللَّهُ
-  يَعْصِمُكَ مِنَ ٱلنَّاسِ إِنَّ ٱللَّهَ لاَ يَهْدِي ٱلْقَوْمَ ٱلْكَافِرِينَ }.. الآية.حدثنـي
-  الـمثنى، قال: ثنا عبد الله بن صالـح، قال: ثنـي اللـيث، قال: ثنـي خالد، عن سعيد بن
-  أبـي هلال، عن مـحمد بن الـحميـم، عن مسروق بن الأجدع، قال: دخـلت علـى عائشة يوما،
-  فسمعتها تقول: لقد أعظم الفرية من قال: إن مـحمداً كتـم شيئاً من الوحي، والله يقول:
-  { يا أيُّها الرَّسُولُ بَلِّغْ ما أنْزِلَ إلَـيْكَ مِنْ رَبِّكَ }.ويعنـي بقوله:
-  { وَاللّهُ يَعْصِمُكَ مِنَ النَّاسِ }: يـمنعك من أن ينالوك بسوء، وأصله من عصام القربة،
-  وهو ما توكأ به من سير وخيط، ومنه قول الشاعر:وَقُلْتُ عَلَـيْكُمْ مالِكاً إنَّ مالِكاً   سيَعْصِمُكْم
-  إنْ كانَ فِـي النَّاسِ عاصِمُيعنـي: يـمنعكم. وأما قوله: { إنَّ اللّهَ لاَ يَهْدِي
-  القَوْمَ الكافِرِينَ } فإنه يعنـي: إن الله لا يوفق للرشد من حاد عن سبـيـل الـحقّ
-  وجار عن قصد السبـيـل وجحد ما جئته به من عند الله، ولـم ينته إلـى أمر الله وطاعته
-  فـيـما فرض علـيه وأوجبه.\r\n\t\t\t\r\n\t\t\t1 2 3 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  قال:</font></font><b><font class=\"TextResultArabic\"><font color=\"Red\"> \" إنّـما
+  أنا وَاحِدٌ، كَيْفَ أصْنَعُ؟ تَـجْتَـمِعُ علـيَّ الناسُ \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\">فنزلت: { وَإنْ لَـمْ تَفْعَلْ فَمَا
+  بَلَّغْتَ رسالَتَهُ }... الآية.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  هناد وابن وكيع، قالا: ثنا جرير، عن ثعلبة، عن جعفر، عن سعيد بن جبـير، قال: لـمَّا
+  نزلت: { يا أيُّها الرَّسُولُ بَلِّغْ ما أُنْزِلَ إلَـيْكَ مِنْ رَبِّكَ وَإنْ لَـمْ
+  تَفْعَلْ فَمَا بَلَّغْتَ رسالَتَهُ واللَّهُ يَعْصِمُكَ مِنَ النَّاسِ } قال رسول
+  الله صلى الله عليه وسلم:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" لا تَـحْرُسُونِـي إنَّ رَبـيِّ قَدْ عَصَمَنِـي \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي يعقوب بن إبراهيـم وابن وكيع، قالا: ثنا ابن عُلَـية، عن الـجريري،
+  عن عبد الله بن شقـيق: أن رسول الله صلى الله عليه وسلم كان يعتقبه ناس من أصحابه،
+  فلـما نزلت: { وَاللَّهُ يَعْصِمُكَ مِنَ النَّاسِ } خرج فقال:</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(5, 67)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(5,67)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">يَـٰأَيُّهَا ٱلرَّسُولُ بَلِّغْ مَآ أُنزِلَ إِلَيْكَ
+  مِن رَّبِّكَ وَإِن لَّمْ تَفْعَلْ فَمَا بَلَّغْتَ رِسَالَتَهُ وَٱللَّهُ يَعْصِمُكَ
+  مِنَ ٱلنَّاسِ إِنَّ ٱللَّهَ لاَ يَهْدِي ٱلْقَوْمَ ٱلْكَافِرِينَ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\"/></font><b><font class=\"TextResultArabic\"><font color=\"Red\">
+  \" يا أيُّها النَّاسُ الْـحَقُوا بِـمَلاحِقِكُمْ، فإنَّ اللَّهَ قَدْ عَصَمَنِـي
+  مِنَ النَّاسِ \" </font></font></b><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا هناد، قال: ثنا وكيع، عن عاصم
+  بن مـحمد، عن مـحمد بن كعب القرظي، قال: كان النبـيّ صلى الله عليه وسلم يتـحارسه أصحابه،
+  فأنزل الله: { يا أيُّها الرَّسُولُ بَلِّغْ ما أُنْزِلَ إلَـيْكَ مِنْ رَبِّكَ وَإنْ
+  لَـمْ تَفْعَلْ فَمَا بَلَّغْتَ رَسالَتَهُ }... إلـى آخرها.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  الـمثنى، قال: ثنا مسلـم بن إبراهيـم، قال: ثنا الـحارث بن عبـيدة أبو قدامة الإيادي،
+  قال: ثنا سعيد الـجريري، عن عبد الله بن شقـيق، عن عائشة، قالت: كان النبـيّ صلى الله
+  عليه وسلم يُحرس، حتـى نزلت هذه الآية: { وَاللّهُ يَعْصِمُكَ مِنَ النَّاسِ } قالت:
+  فأخرج النبـيّ صلى الله عليه وسلم رأسه من القبة، فقال:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" أيُّها النَّاسُ انْصَرِفُوا، فإنَّ اللّهَ قَدْ عَصَمَنِـي \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا عمرو بن عبد الـحميد، قال: ثنا سفـيان، عن عاصم، عن القرظي:
+  أن رسول الله صلى الله عليه وسلم ما زال يحرس حتـى أنزل الله: { وَاللّهُ يَعْصِمُكَ
+  مِنَ النَّاسِ }.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">واختلف أهل التأويـل فـي السبب الذي
+  من أجله نزلت هذه الآية، فقال بعضهم: نزلت بسب أعرابـيّ كان همّ بقتل رسول الله صلى
+  الله عليه وسلم، فكفـاه الله إياه. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  الـحارث، قال: ثنا عبد العزيز، قال: ثنا أبو معشر، عن مـحمد بن كعب القرظي وغيره، قال:
+  كان رسول الله صلى الله عليه وسلم إذا نزل منزلاً اختار له أصحابه شجرة ظلـيـلة، فـيقـيـل
+  تـحتها، فأتاه أعرابـي، فـاخترط سيفه ثم قال: من يـمنعك منـي؟ قال: «الله». فرعدت يد
+  الأعرابـي، وسقط السيف منه. قال: وضرب برأسه الشجرة حتـى انتثر دماغه، فأنزل الله:
+  { وَاللّهُ يَعْصِمُكَ مِنَ النَّاسِ }.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  آخرون: بل نزلت لأنه كان يخاف قريشاً، فأومن من ذلك. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا القاسم، قال: ثنا الـحسين، قال: ثنـي حجاج، عن ابن جريج، قال:
+  كان النبـيّ صلى الله عليه وسلم يهاب قريشاً، فلـما نزلت: { وَاللّهُ يَعْصِمُكَ مِنَ
+  النَّاسِ } استلقـى ثم قال:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" مَنْ شاءَ فَلْـيَخْذُلْنِـي \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">مرّتـين أو ثلاثاً.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  هناد، قال: ثنا وكيع، عن أبـي خالد، عن عامر، عن مسروق، قال: قالت عائشة: من حدّثك
+  أن رسول الله صلى الله عليه وسلم كتـم شيئاً من الوحي فقد كذب. ثم قرأت: «يا أيُّها
+  الرَّسُولُ بَلِّغْ ما أُنْزِلَ إلَـيْكَ }... الآية.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن حميد، قال: ثنا جرير، عن الـمغيرة، عن الشعبـيّ، قال: قالت عائشة: من قال إن مـحمداً
+  صلى الله عليه وسلم كتـم فقد كذب وأعظم الفرية علـى الله، قال الله: { يا أيُّها الرَّسُولُ
+  بَلِّغْ ما أُنْزِلَ إلَـيْكَ مِنْ رَبِّكَ }... الآية.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  يعقوب بن إبراهيـم، قال: ثنا ابن علـية، قال: أخبرنا داود بن أبـي هند، عن الشعبـيّ،
+  عن مسروق، قال: قالت عائشة: من زعم أن مـحمداً صلى الله عليه وسلم كتـم شيئاً من كتاب
+  الله فقد أعظم علـى الله الفرية، والله يقول: { يا أيُّها الرَّسُولُ بَلِّغْ ما أُنْزِلَ
+  إلَـيْكَ مِنْ رَبِّك }.</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(5, 67)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(5,67)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">يَـٰأَيُّهَا ٱلرَّسُولُ بَلِّغْ مَآ أُنزِلَ إِلَيْكَ
+  مِن رَّبِّكَ وَإِن لَّمْ تَفْعَلْ فَمَا بَلَّغْتَ رِسَالَتَهُ وَٱللَّهُ يَعْصِمُكَ
+  مِنَ ٱلنَّاسِ إِنَّ ٱللَّهَ لاَ يَهْدِي ٱلْقَوْمَ ٱلْكَافِرِينَ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">.. الآية.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي الـمثنى، قال: ثنا عبد الله
+  بن صالـح، قال: ثنـي اللـيث، قال: ثنـي خالد، عن سعيد بن أبـي هلال، عن مـحمد بن الـحميـم،
+  عن مسروق بن الأجدع، قال: دخـلت علـى عائشة يوما، فسمعتها تقول: لقد أعظم الفرية من
+  قال: إن مـحمداً كتـم شيئاً من الوحي، والله يقول: { يا أيُّها الرَّسُولُ بَلِّغْ
+  ما أنْزِلَ إلَـيْكَ مِنْ رَبِّكَ }.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">ويعنـي
+  بقوله: { وَاللّهُ يَعْصِمُكَ مِنَ النَّاسِ }: يـمنعك من أن ينالوك بسوء، وأصله من
+  عصام القربة، وهو ما توكأ به من سير وخيط، ومنه قول الشاعر:</font></font><table class=\"TextArabic\"
+  dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">وَقُلْتُ عَلَـيْكُمْ مالِكاً إنَّ مالِكاً</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">سيَعْصِمُكْم إنْ كانَ فِـي النَّاسِ عاصِمُ</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">يعنـي: يـمنعكم. وأما قوله: { إنَّ
+  اللّهَ لاَ يَهْدِي القَوْمَ الكافِرِينَ } فإنه يعنـي: إن الله لا يوفق للرشد من حاد
+  عن سبـيـل الـحقّ وجار عن قصد السبـيـل وجحد ما جئته به من عند الله، ولـم ينته إلـى
+  أمر الله وطاعته فـيـما فرض علـيه وأوجبه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">3 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a id=\"NextClass\"/></td></tr></table></center></div></section>"
 

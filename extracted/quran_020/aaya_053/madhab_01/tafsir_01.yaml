@@ -1,4 +1,4 @@
-location:
+position:
   sura: '020'
   aaya: '053'
   madhab: '01'
@@ -7,24 +7,48 @@ meta:
   title: تفسير جامع البيان في تفسير القرآن
   author: الطبري
   year: '310'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ ٱلَّذِي جَعَلَ
-  لَكُمُ ٱلأَرْضَ مَهْداً وَسَلَكَ لَكُمْ فِيهَا سُبُلاً وَأَنزَلَ مِنَ ٱلسَّمَآءِ
-  مَآءً فَأَخْرَجْنَا بِهِ أَزْوَاجاً مِّن نَّبَاتٍ شَتَّىٰ }اختلف أهل التأويـل فـي
-  قراءة قوله { مَهْداً } فقرأته عامَّة قرّاء الـمدينة والبصرة: (الَّذِي جَعَلَ لَكُمُ
-  الأرْضَ مِهاداً ) بكسر الـمِيـم من الـمِهاد وإلـحاق ألف فـيه بعد الهاء، وكذلك عملهم
-  ذلك فـي كلّ القرآن. وزعم بعض من اختار قراءة ذلك كذلك، أنه إنـما اختاره من أجل أن
-  الـمهاد: اسم الـموضّع، وأن الـمهد الفعل قال: وهو مثل الفرش والفراش. وقرأ ذلك عامة
-  قرّاء الكوفـيـين: { مَهْداً } بـمعنى: الذي مهد لكم الأرض مهداً.والصواب من القول
-  فـي ذلك أن يقال: إنهما قراءتان مستفـيضتان فـي قَرأة الأمصار مشهورتان، فبأيتهما قرأ
-  القارىء فمصيب الصواب فـيها.وقوله: { وَسَلَكَ لَكُمْ فـيها سُبُلاً } يقول: وأنهج
-  لكم فـي الأرض طرقا. والهاء فـي قوله فـيها: من ذكر الأرض، كما:حدثنا بِشر، قال: ثنا
-  يزيد، قال: ثنا سعيد، عن قتادة { وَسَلَكَ لَكُمْ فِـيها سُبُلاً }: أي طرقاً.وقوله:
-  { وأنْزَلَ مِنَ السَّماءِ ماءً } يقول: وأنزل من السماء مطراً { فأخرجنا به أزْوَاجاً
-  مِنْ نَبـاتٍ شَتَّـى } وهذا خبر من الله تعالـى ذكره عن إنعامه علـى خـلقه بـما يحدث
-  لهم من الغيث الذي ينزله من سمائه إلـى أرضه، بعد تناهي خبره عن جواب موسى فرعون عما
-  سأله عنه وثنائه علـى ربه بـما هو أهله. يقول جلّ ثناؤه: فأخرجنا نـحن أيها الناس بـما
-  ننزل من السماء من ماء أزواجاً، يعنـي ألواناً من نبـات شتـى، يعنـي مختلفة الطعوم،
-  والأرايـيح والـمنظر. وبنـحو الذي قلنا فـي ذلك، قال أهل التأويـل. ذكر من قال ذلك:حدثنـي
-  علـيّ، قال: ثنا عبد الله، قال: ثنـي معاوية، عن علـيّ، عن ابن عبـاس، قوله: { مِنْ
-  نَبـاتٍ شَتَّـى } يقول: مختلف.\r\n\t\t\t\r\n\t\t\t</section>"
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(20, 53)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(20,53)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">ٱلَّذِي
+  جَعَلَ لَكُمُ ٱلأَرْضَ مَهْداً وَسَلَكَ لَكُمْ فِيهَا سُبُلاً وَأَنزَلَ مِنَ ٱلسَّمَآءِ
+  مَآءً فَأَخْرَجْنَا بِهِ أَزْوَاجاً مِّن نَّبَاتٍ شَتَّىٰ</a> <b>}</b></font>, <br/>,
+  <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">اختلف
+  أهل التأويـل فـي قراءة قوله { مَهْداً } فقرأته عامَّة قرّاء الـمدينة والبصرة: (الَّذِي
+  جَعَلَ لَكُمُ الأرْضَ مِهاداً ) بكسر الـمِيـم من الـمِهاد وإلـحاق ألف فـيه بعد الهاء،
+  وكذلك عملهم ذلك فـي كلّ القرآن. وزعم بعض من اختار قراءة ذلك كذلك، أنه إنـما اختاره
+  من أجل أن الـمهاد: اسم الـموضّع، وأن الـمهد الفعل قال: وهو مثل الفرش والفراش. وقرأ
+  ذلك عامة قرّاء الكوفـيـين: { مَهْداً } بـمعنى: الذي مهد لكم الأرض مهداً.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">والصواب من القول فـي ذلك أن يقال: إنهما قراءتان مستفـيضتان فـي قَرأة
+  الأمصار مشهورتان، فبأيتهما قرأ القارىء فمصيب الصواب فـيها.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقوله:
+  { وَسَلَكَ لَكُمْ فـيها سُبُلاً } يقول: وأنهج لكم فـي الأرض طرقا. والهاء فـي قوله
+  فـيها: من ذكر الأرض، كما:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا بِشر، قال: ثنا يزيد، قال:
+  ثنا سعيد، عن قتادة { وَسَلَكَ لَكُمْ فِـيها سُبُلاً }: أي طرقاً.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقوله: { وأنْزَلَ مِنَ السَّماءِ ماءً } يقول: وأنزل من السماء مطراً
+  { فأخرجنا به أزْوَاجاً مِنْ نَبـاتٍ شَتَّـى } وهذا خبر من الله تعالـى ذكره عن إنعامه
+  علـى خـلقه بـما يحدث لهم من الغيث الذي ينزله من سمائه إلـى أرضه، بعد تناهي خبره
+  عن جواب موسى فرعون عما سأله عنه وثنائه علـى ربه بـما هو أهله. يقول جلّ ثناؤه: فأخرجنا
+  نـحن أيها الناس بـما ننزل من السماء من ماء أزواجاً، يعنـي ألواناً من نبـات شتـى،
+  يعنـي مختلفة الطعوم، والأرايـيح والـمنظر. وبنـحو الذي قلنا فـي ذلك، قال أهل التأويـل.
+  ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي علـيّ، قال: ثنا عبد الله،
+  قال: ثنـي معاوية، عن علـيّ، عن ابن عبـاس، قوله: { مِنْ نَبـاتٍ شَتَّـى } يقول: مختلف.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

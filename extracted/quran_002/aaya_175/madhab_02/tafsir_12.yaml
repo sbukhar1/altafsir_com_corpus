@@ -1,4 +1,4 @@
-location:
+position:
   sura: '002'
   aaya: '175'
   madhab: '02'
@@ -9,28 +9,72 @@ meta:
   year: '450'
 aaya: أُولَٰئِكَ الَّذِينَ اشْتَرَوُا الضَّلَالَةَ بِالْهُدَىٰ وَالْعَذَابَ بِالْمَغْفِرَةِ
   ۚ فَمَا أَصْبَرَهُمْ عَلَى النَّارِ
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ إِنَّ ٱلَّذِينَ
-  يَكْتُمُونَ مَآ أَنزَلَ ٱللَّهُ مِنَ ٱلْكِتَابِ وَيَشْتَرُونَ بِهِ ثَمَناً قَلِيلاً
-  أُولَـٰئِكَ مَا يَأْكُلُونَ فِي بُطُونِهِمْ إِلاَّ ٱلنَّارَ وَلاَ يُكَلِّمُهُمُ
-  ٱللَّهُ يَوْمَ ٱلْقِيَامَةِ وَلاَ يُزَكِّيهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌ } * { أُولَـٰئِكَ
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(2, 174)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(2,174)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">إِنَّ
+  ٱلَّذِينَ يَكْتُمُونَ مَآ أَنزَلَ ٱللَّهُ مِنَ ٱلْكِتَابِ وَيَشْتَرُونَ بِهِ ثَمَناً
+  قَلِيلاً أُولَـٰئِكَ مَا يَأْكُلُونَ فِي بُطُونِهِمْ إِلاَّ ٱلنَّارَ وَلاَ يُكَلِّمُهُمُ
+  ٱللَّهُ يَوْمَ ٱلْقِيَامَةِ وَلاَ يُزَكِّيهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌ</a> <b>}
+  * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">أُولَـٰئِكَ
   ٱلَّذِينَ ٱشْتَرَوُاْ ٱلضَّلاَلَةَ بِٱلْهُدَىٰ وَٱلْعَذَابَ بِٱلْمَغْفِرَةِ فَمَآ
-  أَصْبَرَهُمْ عَلَى ٱلنَّارِ } * { ذَلِكَ بِأَنَّ ٱللَّهَ نَزَّلَ ٱلْكِتَابَ بِٱلْحَقِّ
-  وَإِنَّ ٱلَّذِينَ ٱخْتَلَفُواْ فِي ٱلْكِتَابِ لَفِي شِقَاقٍ بَعِيدٍ }قوله تعالى:
-  { إِنَّ الَّذِينَ يَكْتُمُونَ مَا أَنزَلَ اللهُ مِنَ الْكِتَابِ } يعني علماء اليهود
-  كتموا ما أنزل الله عز وجل في التوراة من صفة محمد صلى الله عليه وسلم وصحة رسالته.
-  { وَيَشْتَرُونَ بِهِ ثَمَنَاً قَلِيلاً } يعني قبول الرُشَا على كتم رسالته وتغيير
-  صفته، وسماه قليلاً لانقطاع مدته وسوء عاقبته. وقيل: لأن ما كانوا يأخذون من الرُشا
-  كان قليلاً.{ أُوْلَئِكَ مَا يَأْكُلُونَ في بُطُونِهِمْ إِلاَّ النَّارَ } فيه تأويلان:أحدهما:
-  يريد أنه حرام يعذبهم الله عليه بالنار فصار ما يأكلون ناراً، فسماه في الحال بما يصير
-  إليه في ثاني الحال، كما قال الشاعر:\tوأمّ سماك فلا تجزعي   فللموت ما تلد الوالدة{
-  وَلاَ يُكْلِّمُهُمُ اللهُ يَوْمَ الْقِيَامَةِ } فيه ثلاثة أقاويل:أحدها: معناه يغضب
-  عليهم، من قولهم: فلان لا يكلم فلاناً إذا غضب عليه.والثاني: لا يرسل إليهم الملائكة
-  بالتحية.والثالث: معناه لا يسمعهم كلامه.{ وَلاَ يُزَكِّيهِمْ } فيه قولان:أحدهما:
-  يعني لا يصلح أعمالهم الخبيثة.والثاني: لا يثني عليهم، ومن لا يثني الله عليه فهو معذب
-  { وَلَهُمْ عَذَابٌ أَلِيمٌ } أي مؤلم موجع.قوله تعالى: { أُوْلَئِكَ الَّذِينَ اشْتَرَوُا
-  الضَّلاَلَةَ بِالْهُدَى } يعني من تقدم ذكره من علماء اليهود اشتروا الكفر بالإيمان
-  { وَالْعَذَابَ بِالْمَغْفِرَةِ } يعني النار بالجنة.{ فَمَا أَصْبَرَهُمْ عَلَى النَّارِ
-  } فيه أربعة أقاويل:أحدها: معناه ما أجرأهم على النار، وهذا قول أبي صالح.والثاني:
-  فما أصبرهم على عمل يؤدي بهم إلى النار.والثالث: معناه فما أبقاهم على النار، من قولهم:
-  ما أصبر فلاناً على الحبس، أي ما أبقاه فيه.والرابع: بمعنى أي شيء صبّرهم على النار؟\r\n\t\t\t\r\n\t\t\t</section>"
+  أَصْبَرَهُمْ عَلَى ٱلنَّارِ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">ذَلِكَ بِأَنَّ ٱللَّهَ نَزَّلَ ٱلْكِتَابَ
+  بِٱلْحَقِّ وَإِنَّ ٱلَّذِينَ ٱخْتَلَفُواْ فِي ٱلْكِتَابِ لَفِي شِقَاقٍ بَعِيدٍ</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">قوله تعالى: { إِنَّ الَّذِينَ يَكْتُمُونَ مَا أَنزَلَ اللهُ مِنَ
+  الْكِتَابِ } يعني علماء اليهود كتموا ما أنزل الله عز وجل في التوراة من صفة محمد
+  صلى الله عليه وسلم وصحة رسالته. { وَيَشْتَرُونَ بِهِ ثَمَنَاً قَلِيلاً } يعني قبول
+  الرُشَا على كتم رسالته وتغيير صفته، وسماه قليلاً لانقطاع مدته وسوء عاقبته. وقيل:
+  لأن ما كانوا يأخذون من الرُشا كان قليلاً.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">{
+  أُوْلَئِكَ مَا يَأْكُلُونَ في بُطُونِهِمْ إِلاَّ النَّارَ } فيه تأويلان:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">أحدهما: يريد أنه حرام يعذبهم الله عليه بالنار فصار ما يأكلون ناراً،
+  فسماه في الحال بما يصير إليه في ثاني الحال، كما قال الشاعر:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><table class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">\tوأمّ سماك
+  فلا تجزعي</font></font></b></td><td class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">فللموت ما تلد الوالدة</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">{ وَلاَ يُكْلِّمُهُمُ اللهُ يَوْمَ
+  الْقِيَامَةِ } فيه ثلاثة أقاويل:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">أحدها:
+  معناه يغضب عليهم، من قولهم: فلان لا يكلم فلاناً إذا غضب عليه.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">والثاني: لا يرسل إليهم الملائكة بالتحية.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">والثالث:
+  معناه لا يسمعهم كلامه.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">{ وَلاَ يُزَكِّيهِمْ } فيه قولان:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">أحدهما: يعني لا يصلح أعمالهم الخبيثة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">والثاني:
+  لا يثني عليهم، ومن لا يثني الله عليه فهو معذب { وَلَهُمْ عَذَابٌ أَلِيمٌ } أي مؤلم
+  موجع.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">قوله تعالى: { أُوْلَئِكَ الَّذِينَ
+  اشْتَرَوُا الضَّلاَلَةَ بِالْهُدَى } يعني من تقدم ذكره من علماء اليهود اشتروا الكفر
+  بالإيمان { وَالْعَذَابَ بِالْمَغْفِرَةِ } يعني النار بالجنة.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">{ فَمَا أَصْبَرَهُمْ عَلَى النَّارِ } فيه أربعة أقاويل:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">أحدها: معناه ما أجرأهم على النار، وهذا قول أبي صالح.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">والثاني: فما أصبرهم على عمل يؤدي بهم إلى النار.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">والثالث: معناه فما أبقاهم على النار، من قولهم: ما أصبر فلاناً على
+  الحبس، أي ما أبقاه فيه.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">والرابع: بمعنى أي شيء صبّرهم على
+  النار؟</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

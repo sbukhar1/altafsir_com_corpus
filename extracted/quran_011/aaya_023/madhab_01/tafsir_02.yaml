@@ -1,4 +1,4 @@
-location:
+position:
   sura: '011'
   aaya: '023'
   madhab: '01'
@@ -9,10 +9,32 @@ meta:
   year: '538'
 aaya: إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَأَخْبَتُوا إِلَىٰ رَبِّهِمْ
   أُولَٰئِكَ أَصْحَابُ الْجَنَّةِ ۖ هُمْ فِيهَا خَالِدُونَ
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ إِنَّ ٱلَّذِينَ
-  آمَنُواْ وَعَمِلُواْ ٱلصَّالِحَاتِ وَأَخْبَتُوۤاْ إِلَىٰ رَبِّهِمْ أُوْلَـٰئِكَ
-  أَصْحَابُ ٱلجَنَّةِ هُمْ فِيهَا خَالِدُونَ }{ وَأَخْبَتُواْ إِلَىٰ رَبّهِمْ } واطمأنوا
-  إليه وانقطعوا إلى عبادته بالخشوع والتواضع من الخبت وهي الأرض المطمئنة. ومنه قولهم
-  للشيء: الدنيء الخبيت. قال:يَنْفَعُ الطَّيِّبُ الْقَلِيلُ مِنَ الرِّز   قِ وَلاَ
-  يَنْفَعُ الْكَثِيرُ الْخَبِيتُوقيل: التاء فيه بدل من الثاء.\r\n\t\t\t\r\n\t\t\t</section>"
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(11, 23)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(11,23)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">إِنَّ
+  ٱلَّذِينَ آمَنُواْ وَعَمِلُواْ ٱلصَّالِحَاتِ وَأَخْبَتُوۤاْ إِلَىٰ رَبِّهِمْ أُوْلَـٰئِكَ
+  أَصْحَابُ ٱلجَنَّةِ هُمْ فِيهَا خَالِدُونَ</a> <b>}</b></font>, <br/>, <br/>, <div
+  align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">{
+  وَأَخْبَتُواْ إِلَىٰ رَبّهِمْ } واطمأنوا إليه وانقطعوا إلى عبادته بالخشوع والتواضع
+  من الخبت وهي الأرض المطمئنة. ومنه قولهم للشيء: الدنيء الخبيت. قال:</font></font><table
+  class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">يَنْفَعُ الطَّيِّبُ الْقَلِيلُ مِنَ الرِّز</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">قِ وَلاَ يَنْفَعُ الْكَثِيرُ الْخَبِيتُ</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">وقيل: التاء فيه بدل من الثاء.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

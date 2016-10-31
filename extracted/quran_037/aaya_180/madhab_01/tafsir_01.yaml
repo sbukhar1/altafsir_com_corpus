@@ -1,4 +1,4 @@
-location:
+position:
   sura: '037'
   aaya: '180'
   madhab: '01'
@@ -7,25 +7,53 @@ meta:
   title: تفسير جامع البيان في تفسير القرآن
   author: الطبري
   year: '310'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَتَوَلَّ عَنْهُمْ
-  حَتَّىٰ حِينٍ } * { وَأَبْصِرْ فَسَوْفَ يُبْصِرُونَ } * { سُبْحَانَ رَبِّكَ رَبِّ
-  ٱلْعِزَّةِ عَمَّا يَصِفُونَ } * { وَسَلاَمٌ عَلَىٰ ٱلْمُرْسَلِينَ } * { وَٱلْحَمْدُ
-  للَّهِ رَبِّ ٱلْعَالَمِينَ }يقول تعالـى ذكره لنبـيه مـحمد صلى الله عليه وسلم: وأعرض
-  يا مـحمد عن هؤلاء الـمشركين، وخـلِّهم وقريتهم علـى ربهم { حتَّـى حِينٍ } يقول: إلـى
-  حين يأذن الله بهلاكهم { وأبْصِرْ فَسَوْفَ يُبْصِرُونَ } يقول: وانظرهم فسوف يَروْن
-  ما يحلّ بهم من عقابنا فـي حين لا تنفعهم التوبة، وذلك عند نزول بأس الله بهم. وقوله:
-  { سُبْحانَ رَبِّكَ رَبِّ العِزَّةِ عَمَّا يَصِفُونَ } يقول تعالـى ذكره تنزيهاً لربك
-  يا مـحمد وتبرئة له. { رَبّ العزّة } يقول: ربّ القوّة والبطش { عَمَّا يَصِفُونَ }
-  يقول: عمَّا يصف هؤلاء الـمفترون علـيه من مشركي قريش، من قولهم ولد الله، وقولهم:
-  الـملائكة بنات الله، وغير ذلك من شركهم وفِرْيتهم علـى ربهم، كما:حدثنا بشر، قال:
-  ثنا يزيد، قال: ثنا سعيد، عن قتادة { سُبْحانَ رَبِّكَ رَبّ العِزَّةِ عَمَّا يَصِفُونَ
-  }: أي عما يكذبون يسبح نفسه إذا قـيـل علـيه البُهتان.وقوله: { وَسَلامٌ علـى الـمُرْسَلِـينَ
-  } يقول: وأمنَة من الله للـمرسلـين الذين أرسلهم إلـى أمـمهم الذي ذكرهم فـي هذه السورة
-  وغيرهم من فزع يوم العذاب الأكبر، وغير ذلك من مكروه أن ينالهم من قِبل الله تبـارك
-  وتعالـى.حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة { وَسَلامٌ علـى الـمُرْسَلِـينَ
-  } قال رسول الله صلى الله عليه وسلم: \" إذَا سَلَّـمْتُـمْ عَلـيَّ فَسَلِّـمُوا عَلـى
-  الـمُرْسَلِـينَ، فإنَّـمَا أنا رَسُولٌ مِنَ الـمُرْسَلِـينَ \". { والـحَمْدُ لِلّهِ
-  رَبّ العالَـمِينَ } يقول تعالـى ذكره: والـحمد لله ربّ الثَّقَلـين الـجن والإنس،
-  خالصاً دون ما سواه، لأن كلّ نعمة لعبـاده فمنه، فـالـحمد له خالص لا شريك له، كما
-  لا شريك له فـي نعمه عندهم، بل كلها من قِبَله، ومن عنده.\r\n\t\t\t\r\n\t\t\t</section>"
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(37, 178)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(37,178)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَتَوَلَّ
+  عَنْهُمْ حَتَّىٰ حِينٍ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">وَأَبْصِرْ فَسَوْفَ يُبْصِرُونَ</a> <b>}
+  * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">سُبْحَانَ
+  رَبِّكَ رَبِّ ٱلْعِزَّةِ عَمَّا يَصِفُونَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَسَلاَمٌ عَلَىٰ
+  ٱلْمُرْسَلِينَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">وَٱلْحَمْدُ للَّهِ رَبِّ ٱلْعَالَمِينَ</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">يقول تعالـى ذكره لنبـيه مـحمد صلى الله عليه وسلم: وأعرض يا مـحمد
+  عن هؤلاء الـمشركين، وخـلِّهم وقريتهم علـى ربهم { حتَّـى حِينٍ } يقول: إلـى حين يأذن
+  الله بهلاكهم { وأبْصِرْ فَسَوْفَ يُبْصِرُونَ } يقول: وانظرهم فسوف يَروْن ما يحلّ
+  بهم من عقابنا فـي حين لا تنفعهم التوبة، وذلك عند نزول بأس الله بهم. وقوله: { سُبْحانَ
+  رَبِّكَ رَبِّ العِزَّةِ عَمَّا يَصِفُونَ } يقول تعالـى ذكره تنزيهاً لربك يا مـحمد
+  وتبرئة له. { رَبّ العزّة } يقول: ربّ القوّة والبطش { عَمَّا يَصِفُونَ } يقول: عمَّا
+  يصف هؤلاء الـمفترون علـيه من مشركي قريش، من قولهم ولد الله، وقولهم: الـملائكة بنات
+  الله، وغير ذلك من شركهم وفِرْيتهم علـى ربهم، كما:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة { سُبْحانَ رَبِّكَ رَبّ العِزَّةِ عَمَّا
+  يَصِفُونَ }: أي عما يكذبون يسبح نفسه إذا قـيـل علـيه البُهتان.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقوله: { وَسَلامٌ علـى الـمُرْسَلِـينَ } يقول: وأمنَة من الله للـمرسلـين
+  الذين أرسلهم إلـى أمـمهم الذي ذكرهم فـي هذه السورة وغيرهم من فزع يوم العذاب الأكبر،
+  وغير ذلك من مكروه أن ينالهم من قِبل الله تبـارك وتعالـى.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة { وَسَلامٌ علـى الـمُرْسَلِـينَ } قال
+  رسول الله صلى الله عليه وسلم:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" إذَا سَلَّـمْتُـمْ عَلـيَّ فَسَلِّـمُوا عَلـى الـمُرْسَلِـينَ،
+  فإنَّـمَا أنا رَسُولٌ مِنَ الـمُرْسَلِـينَ \". </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">{ والـحَمْدُ لِلّهِ رَبّ العالَـمِينَ } يقول تعالـى ذكره: والـحمد
+  لله ربّ الثَّقَلـين الـجن والإنس، خالصاً دون ما سواه، لأن كلّ نعمة لعبـاده فمنه،
+  فـالـحمد له خالص لا شريك له، كما لا شريك له فـي نعمه عندهم، بل كلها من قِبَله، ومن
+  عنده.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

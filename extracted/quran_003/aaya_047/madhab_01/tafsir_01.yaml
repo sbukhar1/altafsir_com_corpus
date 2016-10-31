@@ -1,4 +1,4 @@
-location:
+position:
   sura: '003'
   aaya: '047'
   madhab: '01'
@@ -7,19 +7,38 @@ meta:
   title: تفسير جامع البيان في تفسير القرآن
   author: الطبري
   year: '310'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ قَالَتْ رَبِّ
-  أَنَّىٰ يَكُونُ لِي وَلَدٌ وَلَمْ يَمْسَسْنِي بَشَرٌ قَالَ كَذَلِكَ ٱللَّهُ يَخْلُقُ
-  مَا يَشَآءُ إِذَا قَضَىٰ أَمْراً فَإِنَّمَا يَقُولُ لَهُ كُنْ فَيَكُونُ }يعنـي بذلك
-  جلّ ثناؤه: قالت مريـم ـ إذ قالت لها الـملائكة: إن الله يبشرك بكلـمة منه ـ: { ربّ
-  أنى يكون لـي ولد }: من أي وجه يكون لـي ولد؟ أمن قِبَل زوج أتزوّجه وبعل أنكحه؟ أو
-  تبتدىء فـي خـلقه من غير بعل ولا فحل، ومن غير أن يـمسنـي بشر؟ فقال الله لها: { كَذٰلِكَ
-  ٱللَّهُ يَخْلُقُ مَا يَشَاءُ } يعنـي: هكذا يخـلق الله منك ولداً لك من غير أن يـمسك
-  بشر، فـيجعله آية للناس وعبرة، فإنه يخـلق ما يشاء، ويصنع ما يريد، فـيعطي الولد من
-  شاء من غير فحل ومن فحل، ويحرم ذلك من يشاء من النساء وإن كانت ذات بعل، لأنه لا يتعذّر
-  علـيه خـلق شيء أراد خـلقه، إنـما هو أن يأمر إذا أراد شيئاً ما أراد، فـيقول له كن
-  فـيكون ما شاء مـما يشاء، وكيف شاء. كما:حدثنا ابن حميد، قال: ثنا سلـمة، عن ابن إسحاق،
-  عن مـحمد بن جعفر بن الزبـير: { قَالَتْ رَبّ أَنَّىٰ يَكُونُ لِى وَلَدٌ وَلَمْ يَمْسَسْنِى
-  بَشَرٌ قَالَ كَذٰلِكَ ٱللَّهُ يَخْلُقُ مَا يَشَاءُ }: يصنع ما أراد ويخـلق ما يشاء
-  من بشر أو غير بشر: أي إذا قضى أمراً فإنـما يقول له كن فـيكون، مـما يشاء، وكيف يشاء،
-  فـيكون ما أراد.\r\n\t\t\t\r\n\t\t\t</section>"
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(3, 47)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(3,47)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">قَالَتْ
+  رَبِّ أَنَّىٰ يَكُونُ لِي وَلَدٌ وَلَمْ يَمْسَسْنِي بَشَرٌ قَالَ كَذَلِكَ ٱللَّهُ
+  يَخْلُقُ مَا يَشَآءُ إِذَا قَضَىٰ أَمْراً فَإِنَّمَا يَقُولُ لَهُ كُنْ فَيَكُونُ</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">يعنـي بذلك جلّ ثناؤه: قالت مريـم ـ إذ قالت لها الـملائكة: إن الله
+  يبشرك بكلـمة منه ـ: { ربّ أنى يكون لـي ولد }: من أي وجه يكون لـي ولد؟ أمن قِبَل
+  زوج أتزوّجه وبعل أنكحه؟ أو تبتدىء فـي خـلقه من غير بعل ولا فحل، ومن غير أن يـمسنـي
+  بشر؟ فقال الله لها: { كَذٰلِكَ ٱللَّهُ يَخْلُقُ مَا يَشَاءُ } يعنـي: هكذا يخـلق
+  الله منك ولداً لك من غير أن يـمسك بشر، فـيجعله آية للناس وعبرة، فإنه يخـلق ما يشاء،
+  ويصنع ما يريد، فـيعطي الولد من شاء من غير فحل ومن فحل، ويحرم ذلك من يشاء من النساء
+  وإن كانت ذات بعل، لأنه لا يتعذّر علـيه خـلق شيء أراد خـلقه، إنـما هو أن يأمر إذا
+  أراد شيئاً ما أراد، فـيقول له كن فـيكون ما شاء مـما يشاء، وكيف شاء. كما:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن حميد، قال: ثنا سلـمة، عن ابن إسحاق، عن مـحمد بن جعفر بن
+  الزبـير: { قَالَتْ رَبّ أَنَّىٰ يَكُونُ لِى وَلَدٌ وَلَمْ يَمْسَسْنِى بَشَرٌ قَالَ
+  كَذٰلِكَ ٱللَّهُ يَخْلُقُ مَا يَشَاءُ }: يصنع ما أراد ويخـلق ما يشاء من بشر أو غير
+  بشر: أي إذا قضى أمراً فإنـما يقول له كن فـيكون، مـما يشاء، وكيف يشاء، فـيكون ما
+  أراد.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

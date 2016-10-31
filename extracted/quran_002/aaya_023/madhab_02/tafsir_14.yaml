@@ -1,4 +1,4 @@
-location:
+position:
   sura: '002'
   aaya: '023'
   madhab: '02'
@@ -7,53 +7,139 @@ meta:
   title: تفسير المحرر الوجيز في تفسير الكتاب العزيز
   author: ابن عطية
   year: '546'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَإِن كُنْتُمْ
-  فِي رَيْبٍ مِّمَّا نَزَّلْنَا عَلَىٰ عَبْدِنَا فَأْتُواْ بِسُورَةٍ مِّن مِّثْلِهِ
-  وَٱدْعُواْ شُهَدَآءَكُم مِّن دُونِ ٱللَّهِ إِنْ كُنْتُمْ صَٰدِقِينَ } * { فَإِن
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(2, 23)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(2,23)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَإِن
+  كُنْتُمْ فِي رَيْبٍ مِّمَّا نَزَّلْنَا عَلَىٰ عَبْدِنَا فَأْتُواْ بِسُورَةٍ مِّن
+  مِّثْلِهِ وَٱدْعُواْ شُهَدَآءَكُم مِّن دُونِ ٱللَّهِ إِنْ كُنْتُمْ صَٰدِقِينَ</a>
+  <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">فَإِن
   لَّمْ تَفْعَلُواْ وَلَن تَفْعَلُواْ فَٱتَّقُواْ ٱلنَّارَ ٱلَّتِي وَقُودُهَا ٱلنَّاسُ
-  وَٱلْحِجَارَةُ أُعِدَّتْ لِلْكَٰفِرِينَ }الريب الشك، وهذه الآية تقتضي أن الخطاب
-  المتقدم إنما هو لجماعة المشركين الذي تحدوا، وتقدم تفسير لفظ سورة في صدر هذا التعليق.
-  وقرأ يزيد بن قطيب: \" أنزلنا \" بألف.واختلف المتأولون على من يعود الضمير في قوله
-  { مثله }: فقال جمهور العلماء: هو عائد على القرآن ثم اختلفوا. فقال الأكثر من مثل
-  نظمه ورصفه وفصاحة معانية التي يعرفونها ولا يعجزهم إلا التأليف الذي خُصَّ به القرآن،
-  وبه وقع الإعجاز على قول حذاق أهل النظر.وقال بعضهم: { من مثله } في غيوبه وصدقه وقدمه،
-  فالتحدي عند هؤلاء وقع بالقدم، والأول أبين و { من } على هذا القول زائدة، أو لبيان
-  الجنس، وعلى القول الأول هي للتعبيض، أو لبيان الجنس.وقالت فرقة: الضمير في قوله {
-  من مثله } عائد على محمد صلى الله عليه وسلم، ثم اختلفوا.فقالت طائفة: من أمي صادق
-  مثله.وقالت طائفة: من ساحر أو كاهن أو شاعر مثله. على زعمكم أيها المشركون.وقالت طائفة:
-  الضمير في { مثله } عائد على الكتب القديمة التوراة والإنجيل والزبور.وقوله تعالى:
-  { وادعوا شهداءكم } معناه دعاء استصراخ، والشهداء من شهدهم وحضرهم من عون ونصير، قاله
-  ابن عباس. وقيل عن مجاهد: إن المعنى دعاء استحضار.والشهداء جمع شاهد، أي من يشهد لكم
-  أنكم عارضتم، وهذا قول ضعيف.وقال الفراء: شهداؤهم يراد بهم آلهتهم.وقوله تعالى: { إن
-  كنتم صادقين } أي فيما قلتم من الريب. هذا قول بعض المفسرين.وقال غيره: فيما قلتم من
-  أنكم تقدرون على المعارضة. ويؤيد هذا القول أنه قد حكى عنهم في آية أخرى:{ لو نشاء
-  لقلنا مثل هذا }[الأنفال:31].وقوله تعالى: { فإن لم تفعلوا } ، دخلت \" إن \" على {
-  لم } لأن { لم تفعلوا } معناه تركتم الفعل، فـ \" إن \" لا تؤثر كما لا تؤثر في الماضي
-  من الأفعال، و { تفعلوا } جزم بـ { لم } ، وجزمت بـ { لم } لأنها أشبهت \" لا \" في
-  التبرية في أنهما ينفيان، فكما تحذف لا تنوين الاسم كذلك تحذف لم الحركة أو العلامة
-  من الفعل.وقوله: { ولن تفعلوا } نصبت { لن } ، ومن العرب من تجزم بها، ذكره أبو عبيدة،
-  ومنه بيت النابغة على بعض الروايات: [البسيط]فلن أعرّضْ أبيت اللعن بالصفد   وفي الحديث
-  في منامة عبد الله بن عمر فقيل لي: \" لن ترعْ \" هذا على تلك اللغة، وفي قوله: { لن
-  تفعلوا } إثارة لهممهم وتحريك لنفوسهم، ليكون عجزهم بعد ذلك أبدع، وهو أيضاً من الغيوب
-  التي أخبر بها القرآن قبل وقوعها.وقوله تعالى: { فاتقوا النار } ، أمر بالإيمان وطاعة
-  الله خرج في هذه الألفاظ المحذرة.وقرأ الجمهور: \" وَقودها \" بفتح الواو. وقرأ الحسن
-  بن أبي الحسن ومجاهد وطلحة بن مصرف وأبو حيوة: \" وقودها \" بضم الواو في كل القرآن،
-  إلا أن طلحة استثنى الحرف الذي في البروج، وبفتح الواو هو الحطب وبضمها هو المصدر،
-  وقد حكيا جميعاً في الحطب وقد حكيا في المصدر.\r\n\t\t\t\r\n\t\t\t1 2 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَإِن كُنْتُمْ فِي رَيْبٍ مِّمَّا
-  نَزَّلْنَا عَلَىٰ عَبْدِنَا فَأْتُواْ بِسُورَةٍ مِّن مِّثْلِهِ وَٱدْعُواْ شُهَدَآءَكُم
-  مِّن دُونِ ٱللَّهِ إِنْ كُنْتُمْ صَٰدِقِينَ } * { فَإِن لَّمْ تَفْعَلُواْ وَلَن
-  تَفْعَلُواْ فَٱتَّقُواْ ٱلنَّارَ ٱلَّتِي وَقُودُهَا ٱلنَّاسُ وَٱلْحِجَارَةُ أُعِدَّتْ
-  لِلْكَٰفِرِينَ }قال ابن جني: \" من قرأ بضم الواو فهو على حذف مضاف تقديره ذو وقودها،
+  وَٱلْحِجَارَةُ أُعِدَّتْ لِلْكَٰفِرِينَ</a> <b>}</b></font>, <br/>, <br/>, <div
+  align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">الريب
+  الشك، وهذه الآية تقتضي أن الخطاب المتقدم إنما هو لجماعة المشركين الذي تحدوا، وتقدم
+  تفسير لفظ سورة في صدر هذا التعليق. وقرأ يزيد بن قطيب: \" أنزلنا \" بألف.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">واختلف المتأولون على من يعود الضمير في قوله { مثله }: فقال جمهور
+  العلماء: هو عائد على القرآن ثم اختلفوا. فقال الأكثر من مثل نظمه ورصفه وفصاحة معانية
+  التي يعرفونها ولا يعجزهم إلا التأليف الذي خُصَّ به القرآن، وبه وقع الإعجاز على قول
+  حذاق أهل النظر.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال بعضهم: { من مثله } في غيوبه
+  وصدقه وقدمه، فالتحدي عند هؤلاء وقع بالقدم، والأول أبين و { من } على هذا القول زائدة،
+  أو لبيان الجنس، وعلى القول الأول هي للتعبيض، أو لبيان الجنس.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقالت فرقة: الضمير في قوله { من مثله } عائد على محمد صلى الله عليه
+  وسلم، ثم اختلفوا.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">فقالت طائفة: من أمي صادق مثله.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقالت طائفة: من ساحر أو كاهن أو شاعر مثله. على زعمكم أيها المشركون.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقالت طائفة: الضمير في { مثله } عائد على الكتب القديمة التوراة والإنجيل
+  والزبور.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقوله تعالى: { وادعوا شهداءكم }
+  معناه دعاء استصراخ، والشهداء من شهدهم وحضرهم من عون ونصير، قاله ابن عباس. وقيل عن
+  مجاهد: إن المعنى دعاء استحضار.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">والشهداء
+  جمع شاهد، أي من يشهد لكم أنكم عارضتم، وهذا قول ضعيف.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  الفراء: شهداؤهم يراد بهم آلهتهم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقوله
+  تعالى: { إن كنتم صادقين } أي فيما قلتم من الريب. هذا قول بعض المفسرين.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال غيره: فيما قلتم من أنكم تقدرون على المعارضة. ويؤيد هذا القول
+  أنه قد حكى عنهم في آية أخرى:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">لو نشاء لقلنا مثل هذا</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">[الأنفال:31].</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقوله تعالى: { فإن لم تفعلوا } ، دخلت \" إن \" على { لم } لأن {
+  لم تفعلوا } معناه تركتم الفعل، فـ \" إن \" لا تؤثر كما لا تؤثر في الماضي من الأفعال،
+  و { تفعلوا } جزم بـ { لم } ، وجزمت بـ { لم } لأنها أشبهت \" لا \" في التبرية في
+  أنهما ينفيان، فكما تحذف لا تنوين الاسم كذلك تحذف لم الحركة أو العلامة من الفعل.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقوله: { ولن تفعلوا } نصبت { لن } ، ومن العرب من تجزم بها، ذكره
+  أبو عبيدة، ومنه بيت النابغة على بعض الروايات: [البسيط]</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><table class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">فلن أعرّضْ
+  أبيت اللعن بالصفد</font></font></b></td><td class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\"/></font></b></td></tr></table><font class=\"TextResultArabic\"><font
+  color=\"black\">وفي الحديث في منامة عبد الله بن عمر فقيل لي: \" لن ترعْ \" هذا على
+  تلك اللغة، وفي قوله: { لن تفعلوا } إثارة لهممهم وتحريك لنفوسهم، ليكون عجزهم بعد
+  ذلك أبدع، وهو أيضاً من الغيوب التي أخبر بها القرآن قبل وقوعها.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقوله تعالى: { فاتقوا النار } ، أمر بالإيمان وطاعة الله خرج في هذه
+  الألفاظ المحذرة.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقرأ الجمهور: \" وَقودها \" بفتح
+  الواو. وقرأ الحسن بن أبي الحسن ومجاهد وطلحة بن مصرف وأبو حيوة: \" وقودها \" بضم
+  الواو في كل القرآن، إلا أن طلحة استثنى الحرف الذي في البروج، وبفتح الواو هو الحطب
+  وبضمها هو المصدر، وقد حكيا جميعاً في الحطب وقد حكيا في المصدر.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(14,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(14,2,1)\"><u>2</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2, 23)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,23)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَإِن كُنْتُمْ فِي رَيْبٍ مِّمَّا نَزَّلْنَا عَلَىٰ
+  عَبْدِنَا فَأْتُواْ بِسُورَةٍ مِّن مِّثْلِهِ وَٱدْعُواْ شُهَدَآءَكُم مِّن دُونِ
+  ٱللَّهِ إِنْ كُنْتُمْ صَٰدِقِينَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">فَإِن لَّمْ تَفْعَلُواْ وَلَن تَفْعَلُواْ
+  فَٱتَّقُواْ ٱلنَّارَ ٱلَّتِي وَقُودُهَا ٱلنَّاسُ وَٱلْحِجَارَةُ أُعِدَّتْ لِلْكَٰفِرِينَ</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">قال ابن جني: \" من قرأ بضم الواو فهو على حذف مضاف تقديره ذو وقودها،
   لأن الوقود بالضم مصدر، وليس بالناس، وقد جاء عنهم الوقود بالفتح في المصدر، ومثله
-  ولعت به \" ولوعاً \" بفتح الواو، وكله شاذ، والباب هو الضم \".وقوله: { الناس } عموم
-  معناه الخصوص فيمن سبق عليه القضاء بدخولها.وروي عن ابن مسعود في { الحجارة } أنها
-  حجارة الكبريت وخصت بذلك لأنها تزيد على جميع الأحجار بخمسة أنواع من العذاب: سرعة
-  الاتقاد، ونتن الرائحة، وكثرة الدخان، وشدة الالتصاق بالأبدان، وقوة حرها إذا حميت.وفي
+  ولعت به \" ولوعاً \" بفتح الواو، وكله شاذ، والباب هو الضم \".</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقوله: { الناس } عموم معناه الخصوص فيمن سبق عليه القضاء بدخولها.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وروي عن ابن مسعود في { الحجارة } أنها حجارة الكبريت وخصت بذلك لأنها
+  تزيد على جميع الأحجار بخمسة أنواع من العذاب: سرعة الاتقاد، ونتن الرائحة، وكثرة الدخان،
+  وشدة الالتصاق بالأبدان، وقوة حرها إذا حميت.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وفي
   قوله تعالى: { أعدت } رد على من قال: إن النار لم تخلق حتى الآن، وهو القول الذي سقط
   فيه منذر بن سعيد البلوطي الأندلسي، وذهب بعض المتأولين إلى أن هذه النار المخصصة بالحجارة
-  هي نار الكافرين خاصة، وأن غيرها هي للعصاة.وقال الجمهور: بل الإشارة إلى جميع النار
-  لا إلى نار مخصوصة، وإنما ذكر الكافرين ليحصل المخاطبون في الوعيد، إذ فعلهم كفر، فكأنه
-  قال أعدت لمن فعل فعلكم، وليس يقتضي ذلك أنه لا يدخلها غيرهم.وقرأ ابن أبي عبلة: \"
-  أَعدَّها الله للكافرين \".\r\n\t\t\t\r\n\t\t\t1 2 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  هي نار الكافرين خاصة، وأن غيرها هي للعصاة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  الجمهور: بل الإشارة إلى جميع النار لا إلى نار مخصوصة، وإنما ذكر الكافرين ليحصل المخاطبون
+  في الوعيد، إذ فعلهم كفر، فكأنه قال أعدت لمن فعل فعلكم، وليس يقتضي ذلك أنه لا يدخلها
+  غيرهم.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقرأ ابن أبي عبلة: \" أَعدَّها
+  الله للكافرين \".</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(14,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(14,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section>"
 

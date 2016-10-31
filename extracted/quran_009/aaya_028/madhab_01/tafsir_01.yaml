@@ -1,4 +1,4 @@
-location:
+position:
   sura: 009
   aaya: 028
   madhab: '01'
@@ -10,131 +10,300 @@ meta:
 aaya: يَا أَيُّهَا الَّذِينَ آمَنُوا إِنَّمَا الْمُشْرِكُونَ نَجَسٌ فَلَا يَقْرَبُوا
   الْمَسْجِدَ الْحَرَامَ بَعْدَ عَامِهِمْ هَٰذَا ۚ وَإِنْ خِفْتُمْ عَيْلَةً فَسَوْفَ
   يُغْنِيكُمُ اللَّهُ مِنْ فَضْلِهِ إِنْ شَاءَ ۚ إِنَّ اللَّهَ عَلِيمٌ حَكِيمٌ
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ يٰأَيُّهَا ٱلَّذِينَ
-  آمَنُوۤاْ إِنَّمَا ٱلْمُشْرِكُونَ نَجَسٌ فَلاَ يَقْرَبُواْ ٱلْمَسْجِدَ ٱلْحَرَامَ
-  بَعْدَ عَامِهِمْ هَـٰذَا وَإِنْ خِفْتُمْ عَيْلَةً فَسَوْفَ يُغْنِيكُمُ ٱللَّهُ مِن
-  فَضْلِهِ إِن شَآءَ إِنَّ ٱللَّهَ عَلِيمٌ حَكِيمٌ }يقول تعالى ذكره للمؤمنين به وبرسوله
-  وأقرّوا بوحدانيته: ما المشركون إلا نجس.واختلف أهل التأويل في معنى النجَس وما السبب
-  الذي من أجله سماهم بذلك، فقال بعضهم: سماهم بذلك لأنهم يُجْنِبون فلا يغتسلون، فقال:
-  هم نجس، ولا يقربوا المسجد الحرام، لأن الجنب لا ينبغي له أن يدخل المسجد. ذكر من قال
-  ذلك:حدثنا محمد بن عبد الأعلى، قال: ثنا محمد بن ثور، عن معمر، في قوله: { إنَّمَا
-  المُشْرِكُونَ نَجَسٌ }: لا أعلم قتادة إلا قال: النجَس: الجنابة.وبه عن معمر، قال:
-  وبلغني أن النبيّ صلى الله عليه وسلم لقي حذيفة، وأخذ النبيّ صلى الله عليه وسلم بيده،
-  فقال حذيفة: يا رسول الله إني جُنُب فقال: \" إنَّ المُؤْمِنَ لا يَنْجُس \" حدثنا
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(9, 28)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(9,28)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">يٰأَيُّهَا
+  ٱلَّذِينَ آمَنُوۤاْ إِنَّمَا ٱلْمُشْرِكُونَ نَجَسٌ فَلاَ يَقْرَبُواْ ٱلْمَسْجِدَ
+  ٱلْحَرَامَ بَعْدَ عَامِهِمْ هَـٰذَا وَإِنْ خِفْتُمْ عَيْلَةً فَسَوْفَ يُغْنِيكُمُ
+  ٱللَّهُ مِن فَضْلِهِ إِن شَآءَ إِنَّ ٱللَّهَ عَلِيمٌ حَكِيمٌ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">يقول تعالى ذكره للمؤمنين به وبرسوله وأقرّوا بوحدانيته: ما المشركون
+  إلا نجس.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">واختلف أهل التأويل في معنى النجَس
+  وما السبب الذي من أجله سماهم بذلك، فقال بعضهم: سماهم بذلك لأنهم يُجْنِبون فلا يغتسلون،
+  فقال: هم نجس، ولا يقربوا المسجد الحرام، لأن الجنب لا ينبغي له أن يدخل المسجد. ذكر
+  من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا محمد بن عبد الأعلى، قال:
+  ثنا محمد بن ثور، عن معمر، في قوله: { إنَّمَا المُشْرِكُونَ نَجَسٌ }: لا أعلم قتادة
+  إلا قال: النجَس: الجنابة.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وبه عن معمر، قال: وبلغني أن النبيّ
+  صلى الله عليه وسلم لقي حذيفة، وأخذ النبيّ صلى الله عليه وسلم بيده، فقال حذيفة: يا
+  رسول الله إني جُنُب فقال:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" إنَّ المُؤْمِنَ لا يَنْجُس \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
   بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، في قوله: { يا أيُّها الَّذِينَ آمَنُوا
-  إنَّمَا المُشْرِكُونَ نَجَسٌ }: أي أجناب.وقال آخرون: معنى ذلك: ما المشركون إلا رجس
-  خنزير أو كلب. وهذ قول رُوي عن ابن عباس من وجه غير حميد، فكرهنا ذكره.وقوله: { فَلا
-  يَقْرَبُوا المَسْجِدَ الحَرَامَ بَعْدَ عامِهِمْ هَذَا } يقول للمؤمنين: فلا تدعوهم
-  أن يقربوا المسجد الحرام بدخولهم الحرَم. وإنما عني بذلك منعهم من دخول الحرَم، لأنهم
-  إذا دخلوا الحرَم فقد قربوا المسجد الحرام.وقد اختلف أهل التأويل في معنى ذلك، فقال
-  بعضهم فيه نحو الذي قلناه. ذكر من قال ذلك:حدثنا بشر وابن المثنى، قالا: ثنا أبو عاصم،
-  قال: أخبرنا ابن جريج، قال: قال عطاء: الحرَم كله قبلة ومسجد، قال: { فَلا يَقْرَبُوا
-  المَسْجِدَ الحَرَامَ } لم يعن المسجد وحده، إنما عنى مكة والحرَم. قال ذلك غير مرة.وذُكر
-  عن عمر بن عبد العزيز في ذلك ما:حدثنا عبد الكريم بن أبي عمير، قال: ثني الوليد بن
-  مسلم، قال: ثنا أبو عمرو: أن عمر بن عبد العزيز كتب: أن امنعوا اليهود والنصارى من
-  دخول مساجد المسلمين وأتبع في نهيه قول الله: { إنَّمَا المُشْرِكُونَ نَجَسٌ }.حدثنا
+  إنَّمَا المُشْرِكُونَ نَجَسٌ }: أي أجناب.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  آخرون: معنى ذلك: ما المشركون إلا رجس خنزير أو كلب. وهذ قول رُوي عن ابن عباس من وجه
+  غير حميد، فكرهنا ذكره.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقوله: { فَلا يَقْرَبُوا المَسْجِدَ
+  الحَرَامَ بَعْدَ عامِهِمْ هَذَا } يقول للمؤمنين: فلا تدعوهم أن يقربوا المسجد الحرام
+  بدخولهم الحرَم. وإنما عني بذلك منعهم من دخول الحرَم، لأنهم إذا دخلوا الحرَم فقد
+  قربوا المسجد الحرام.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقد اختلف أهل التأويل في معنى ذلك،
+  فقال بعضهم فيه نحو الذي قلناه. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  بشر وابن المثنى، قالا: ثنا أبو عاصم، قال: أخبرنا ابن جريج، قال: قال عطاء: الحرَم
+  كله قبلة ومسجد، قال: { فَلا يَقْرَبُوا المَسْجِدَ الحَرَامَ } لم يعن المسجد وحده،
+  إنما عنى مكة والحرَم. قال ذلك غير مرة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وذُكر
+  عن عمر بن عبد العزيز في ذلك ما:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  عبد الكريم بن أبي عمير، قال: ثني الوليد بن مسلم، قال: ثنا أبو عمرو: أن عمر بن عبد
+  العزيز كتب: أن امنعوا اليهود والنصارى من دخول مساجد المسلمين وأتبع في نهيه قول الله:
+  { إنَّمَا المُشْرِكُونَ نَجَسٌ }.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
   ابن وكيع، قال: ثنا ابن فضيل، عن أشعث، عن الحسن: { إنَّمَا المُشْرِكُونَ نَجَسٌ }
-  قال: لا تصافحوهم، فمن صافحهم فليتوضأ.وأما قوله: { بَعْدَ عامِهِمْ هَذَا } فإنه يعني:
-  بعد العام الذي نادى فيه عليّ رحمة الله عليه ببراءة، وذلك عامَ حجّ بالناس أبو بكر،
-  وهي سنة تسع من الهجرة. كما:حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله:
-  { فَلا يَقْرَبُوا المَسْجِدَ الحَرَامِ بَعْدَ عامِهِمْ هَذَا } وهو العام الذي حجّ
-  فيه أبو بكر، ونادى عليّ رحمة الله عليهما بالأذان وذلك لتسع سنين مضين من هجرة رسول
-  الله صلى الله عليه وسلم. وحجّ نبيّ الله صلى الله عليه وسلم من العام المقبل حِجة
-  الوداع لم يحجّ قبلها ولا بعدها.\r\n\t\t\t\r\n\t\t\t1 2 3 4 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ يٰأَيُّهَا ٱلَّذِينَ آمَنُوۤاْ إِنَّمَا
-  ٱلْمُشْرِكُونَ نَجَسٌ فَلاَ يَقْرَبُواْ ٱلْمَسْجِدَ ٱلْحَرَامَ بَعْدَ عَامِهِمْ
-  هَـٰذَا وَإِنْ خِفْتُمْ عَيْلَةً فَسَوْفَ يُغْنِيكُمُ ٱللَّهُ مِن فَضْلِهِ إِن شَآءَ
-  إِنَّ ٱللَّهَ عَلِيمٌ حَكِيمٌ }وقوله: { وَإنْ خِفْتُمْ عَيلَةً } يقول للمؤمنين:
-  وإن خفتم فاقة وفقراً، بمنع المشركين من أن يقربوا المسجد الحرام. { فَسَوْفَ يُغْنِيكُمُ
-  اللَّهُ مِنْ فَضْلِهِ إنْ شَاءَ } يقال منه: عال يَعِيل عَيْلَةً وعُيُولاً، ومنه
-  قول الشاعر:وَما يَدْرِي الفَقِيرُ مَتَى غناهُ   وَما يَدْرِي الغَنيُّ مَتَى يَعِيلُوقد
-  حُكي عن بعضهم أن من العرب من يقول في الفاقة: عال يَعُول بالواو. وذكر عن عمر بن فائد
-  أنه كان تأوّل قوله: { وَإنْ خِفْتُمْ عَيْلَةً } بمعنى: وإذ خفتم، ويقول: كان القوم
-  قد خافوا، وذلك نحو قول القائل لأبيه: إن كنت أبي فأكرمني، بمعنى: إذ كنت أبي. وإنما
-  قيل ذلك لهم، لأن المؤمنين خافوا بانقطاع المشركين عن دخول الحرم انقطاع تجاراتهم ودخول
-  ضرر عليهم بانقطاع ذلك، وأمَّنهم الله من العَيْلة وعوّضهم مما كانوا يكرهون انقطاعه
-  عنهم ما هو خير لهم منه، وهو الجزية، فقال لهم:{ قاتلُوا الَّذِينَ لا يُؤْمنُونَ باللَّهِ
-  وَلا باليَوْمِ الآخِرِ وَلا يُحَرّمُونَ ما حَرَّمَ اللَّهُ وَرَسُولُهُ... }إلى:{ صَاغِرُونَ }وقال
-  قوم بإدرار المطر عليهم.وبنحو الذي قلنا في ذلك قال أهل التأويل. ذكر من قال ذلك:حدثني
+  قال: لا تصافحوهم، فمن صافحهم فليتوضأ.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وأما
+  قوله: { بَعْدَ عامِهِمْ هَذَا } فإنه يعني: بعد العام الذي نادى فيه عليّ رحمة الله
+  عليه ببراءة، وذلك عامَ حجّ بالناس أبو بكر، وهي سنة تسع من الهجرة. كما:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: { فَلا
+  يَقْرَبُوا المَسْجِدَ الحَرَامِ بَعْدَ عامِهِمْ هَذَا } وهو العام الذي حجّ فيه أبو
+  بكر، ونادى عليّ رحمة الله عليهما بالأذان وذلك لتسع سنين مضين من هجرة رسول الله صلى
+  الله عليه وسلم. وحجّ نبيّ الله صلى الله عليه وسلم من العام المقبل حِجة الوداع لم
+  يحجّ قبلها ولا بعدها.</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\"
+  border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE:
+  none; BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(9, 28)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(9,28)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">يٰأَيُّهَا ٱلَّذِينَ آمَنُوۤاْ إِنَّمَا ٱلْمُشْرِكُونَ
+  نَجَسٌ فَلاَ يَقْرَبُواْ ٱلْمَسْجِدَ ٱلْحَرَامَ بَعْدَ عَامِهِمْ هَـٰذَا وَإِنْ
+  خِفْتُمْ عَيْلَةً فَسَوْفَ يُغْنِيكُمُ ٱللَّهُ مِن فَضْلِهِ إِن شَآءَ إِنَّ ٱللَّهَ
+  عَلِيمٌ حَكِيمٌ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">وقوله: { وَإنْ خِفْتُمْ عَيلَةً
+  } يقول للمؤمنين: وإن خفتم فاقة وفقراً، بمنع المشركين من أن يقربوا المسجد الحرام.
+  { فَسَوْفَ يُغْنِيكُمُ اللَّهُ مِنْ فَضْلِهِ إنْ شَاءَ } يقال منه: عال يَعِيل عَيْلَةً
+  وعُيُولاً، ومنه قول الشاعر:</font></font><table class=\"TextArabic\" dir=\"rtl\"><tr
+  class=\"TextArabic\"><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">وَما يَدْرِي الفَقِيرُ مَتَى غناهُ</font></font></b></td><td class=\"TextArabic\">   </td><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">وَما يَدْرِي
+  الغَنيُّ مَتَى يَعِيلُ</font></font></b></td></tr></table><font class=\"TextResultArabic\"><font
+  color=\"black\">وقد حُكي عن بعضهم أن من العرب من يقول في الفاقة: عال يَعُول بالواو.
+  وذكر عن عمر بن فائد أنه كان تأوّل قوله: { وَإنْ خِفْتُمْ عَيْلَةً } بمعنى: وإذ خفتم،
+  ويقول: كان القوم قد خافوا، وذلك نحو قول القائل لأبيه: إن كنت أبي فأكرمني، بمعنى:
+  إذ كنت أبي. وإنما قيل ذلك لهم، لأن المؤمنين خافوا بانقطاع المشركين عن دخول الحرم
+  انقطاع تجاراتهم ودخول ضرر عليهم بانقطاع ذلك، وأمَّنهم الله من العَيْلة وعوّضهم مما
+  كانوا يكرهون انقطاعه عنهم ما هو خير لهم منه، وهو الجزية، فقال لهم:</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">قاتلُوا
+  الَّذِينَ لا يُؤْمنُونَ باللَّهِ وَلا باليَوْمِ الآخِرِ وَلا يُحَرّمُونَ ما حَرَّمَ
+  اللَّهُ وَرَسُولُهُ...</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">إلى:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">صَاغِرُونَ</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال قوم بإدرار المطر عليهم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وبنحو
+  الذي قلنا في ذلك قال أهل التأويل. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
   المثنى، قال: ثنا عبد الله، قال: ثني معاوية، عن عليّ، عن ابن عباس، قوله: { يا أيُّها
   الَّذِينَ آمَنُوا إنَّمَا المُشْرِكُونَ نَجَسٌ فَلا يَقْرَبُوا المَسْجِدَ الحَرَامِ
   بَعْدَ عامِهِمْ هَذَا } قال: لما نفى الله المشركين عن المسجد الحرام ألقى الشيطان
   في قلوب المؤمنين الحزن، قال: من أين تأكلون وقد نُفي المشركون وانقطعت عنكم العِير؟
   فقال الله: { وَإنْ خِفْتُمْ عَيلَةً فَسَوْفَ يُغْنِيكُمُ اللَّهُ مِنْ فَضْلِهِ إنْ
-  شاءَ } فأمرهم بقتال أهل الكتاب، وأغناهم من فضله.حدثنا هناد بن السريّ، قال: ثنا أبو
-  الأحوص، عن سماك، عن عكرمة، في قوله: { يا أيُّها الَّذِينَ آمَنُوا إنَّمَا المُشْرِكُونَ
-  نَجَسٌ فَلا يَقْرَبُوا المَسْجِدَ الحَرَامِ بَعْدَ عامِهِمْ هَذَا } قال: كان المشركون
-  يجيئون إلى البيت، ويجيئون معهم بالطعام ويَتَّجرون فيه فلما نهُوُا أن يأتوا البيت
-  قال المسلمون: من أين لنا طعام؟ فأنزل الله: { وَإنْ خِفْتُمْ عَيلَةً فَسَوْفَ يُغْنِيكُمُ
-  اللَّهُ مِنْ فَضْلِهِ إنْ شَاءَ } فأنزل عليهم المطر، وكثر خيرهم حين ذهب عنهم المشركون.حدثنا
+  شاءَ } فأمرهم بقتال أهل الكتاب، وأغناهم من فضله.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  هناد بن السريّ، قال: ثنا أبو الأحوص، عن سماك، عن عكرمة، في قوله: { يا أيُّها الَّذِينَ
+  آمَنُوا إنَّمَا المُشْرِكُونَ نَجَسٌ فَلا يَقْرَبُوا المَسْجِدَ الحَرَامِ بَعْدَ
+  عامِهِمْ هَذَا } قال: كان المشركون يجيئون إلى البيت، ويجيئون معهم بالطعام ويَتَّجرون
+  فيه فلما نهُوُا أن يأتوا البيت قال المسلمون: من أين لنا طعام؟ فأنزل الله: { وَإنْ
+  خِفْتُمْ عَيلَةً فَسَوْفَ يُغْنِيكُمُ اللَّهُ مِنْ فَضْلِهِ إنْ شَاءَ } فأنزل عليهم
+  المطر، وكثر خيرهم حين ذهب عنهم المشركون.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
   ابن وكيع، قال: ثنا حميد بن عبد الرحمن، عن عليّ بن صالح، عن سماك، عن عكرمة: { إنَّمَا
-  المُشْرِكُونَ نَجَسٌ... } الآية، ثم ذكر نحو حديث هناد، عن أبي الأحوص/حدثنا ابن بشار،
-  قال: ثنا مؤمل، قال: ثنا سفيان، عن واقد، عن سعيد بن جبير، قال: لما نزلت: { إنَّمَا
-  المُشْرِكُونَ نَجَسٌ فَلا يَقْرَبُوا المَسْجِدَ الحَرَامِ بَعْدَ عامِهِمْ هَذَا
-  } شقّ ذلك على أصحاب رسول الله صلى الله عليه وسلم، وقالوا: من يأتينا بطعامنا، ومن
-  يأتينا بالمتاع؟ فنزلت: { وَإنْ خِفْتُمْ عَيلَةً فَسَوْفَ يُغْنِيكُمُ اللَّهُ مِنْ
-  فَضْلِهِ إنْ شَاءَ }.\r\n\t\t\t\r\n\t\t\t1 2 3 4 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ يٰأَيُّهَا ٱلَّذِينَ آمَنُوۤاْ إِنَّمَا
-  ٱلْمُشْرِكُونَ نَجَسٌ فَلاَ يَقْرَبُواْ ٱلْمَسْجِدَ ٱلْحَرَامَ بَعْدَ عَامِهِمْ
-  هَـٰذَا وَإِنْ خِفْتُمْ عَيْلَةً فَسَوْفَ يُغْنِيكُمُ ٱللَّهُ مِن فَضْلِهِ إِن شَآءَ
-  إِنَّ ٱللَّهَ عَلِيمٌ حَكِيمٌ }حدثنا ابن وكيع، قال: ثنا أبي، عن سفيان، عن واقد مولى
-  زيد بن خليدة، عن سعيد بن جبير، قال: كان المشركون يقدمون عليهم بالتجارة، فنزلت هذه
-  الآية: { إنَّمَا المُشْرِكُونَ نَجَسٌ... } إلى قوله: { عَيلَةً } قال: الفقر. { فَسَوْفَ
-  يُغْنِيكُمُ اللَّهُ مِنْ فَضْلِهِ }.حدثنا ابن وكيع، قال: ثنا ابن إدريس، عن أبيه،
-  عن عطية العوفيّ، قال: قال المسلمون: قد كنا نصيب من تجارتهم وبياعاتهم، فنزلت: { إنَّمَا
-  المُشْرِكُونَ نَجَسٌ... } إلى قوله: { مِنْ فَضْلِهِ }.حدثنا أبو كريب، قال: ثنا ابن
-  إدريس، قال: سمعت أبي، أحسبه قال: أنبأنا أبو جعفر، عن عطية، قال: لما قيل: ولا يحجّ
-  بعد العام مشرك قالوا: قد كنا نصيب من بياعاتهم في الموسم. قال: فنزلت: { يا أيُّها
-  الَّذِينَ آمَنُوا إنَّمَا المُشْرِكُونَ نَجَسٌ فَلا يَقْرَبُوا المَسْجِدَ الحَرَامِ
-  بَعْدَ عامِهِمْ هَذَا وَإنْ خِفْتُمْ عَيلَةً فَسَوْفَ يُغْنِيكُمُ اللَّهُ مِنْ فَضْلِهِ
-  } يعني: بما فاتهم من بياعاتهم.حدثنا أبو كريب وابن وكيع، قالا: ثنا ابن يمان، عن أبي
-  سنان، عن ثابت، عن الضحاك: { وَإنْ خِفْتُمْ عَيلَةً فَسَوْفَ يُغْنِيكُمُ اللَّهُ
-  مِنْ فَضْلِهِ } قال: بالجزية.حدثنا ابن وكيع، قال: ثنا ابن يمان وأبو معاوية، عن أبي
-  سنان، عن ثابت، عن الضحاك، قال: أخرج المشركون من مكة، فشقّ ذلك على المسلمين، وقالوا:
-  كنا نصيب منهم التجارة والمِيرة. فأنزل الله:{ قاتِلُوا الَّذِينَ لا يُؤْمِنُونَ باللَّهِ
-  وَلا باليَوْمِ الآخِرِ }حُدثت عن الحسين بن الفرج، قال: سمعت أبا معاذ، قال: ثنا عبيد
-  بن سليمان، قال: سمعت الضحاك يقول في قوله: { وَإنْ خِفْتُمْ عَيلَةً فَسَوْفَ يُغْنِيكُمُ
-  اللَّهُ مِنْ فَضْلِهِ } كان ناس من المسلمين يتألفون العير فلما نزلت براءة بقتال
-  المشركين حيثما ثُقِفوا، وأن يقعدوا لهم كل مرصد، قذف الشيطان في قلوب المؤمنين. فمن
-  أين تعيشون وقد أمرتم بقتال أهل العِير؟ فعلم الله من ذلك ما علم، فقال: أطيعوني، وامضوا
-  لأمري، وأطيعوا رسولي، فإني سوف أغنيكم من فضلي فتوكل لهم الله بذلك.حدثني محمد بن
-  عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، عن ابن أبي نجيح، عن مجاهد، في قوله: { إنَّمَا
-  المُشْرِكُونَ نَجَسٌ... } إلى قوله: { فَسَوْفَ يُغْنِيكُمُ اللَّهُ مِنْ فَضْلِهِ
-  إنْ شاءَ } قال: قال المؤمنون: كنا نصيب من متاجر المشركين. فوعدهم الله أن يغنيهم
-  من فضله عوضاً لهم بأن لا يقربوهم المسجد الحرام. فهذه الآية من أوّل براءة في القراءة،
-  ومن آخرها في التأويل:{ قاتِلُوا الَّذِينَ لا يؤمِنُونَ باللَّهِ وَلا باليَوْمِ الآخِرِ... }إلى
-  قوله:{ عَنْ يَدٍ وَهُمْ صَاغِرُونَ }حين أمر محمد وأصحابه بغزوة تبوك.حدثنا القاسم،
-  قال: ثنا الحسين، قال: ثنا حجاج، عن ابن جريج، عن مجاهد، بنحوه.حدثنا بشر بن معاذ،
-  قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قال: لما نفى الله المشركين عن المسجد الحرام،
-  شقّ ذلك على المسلمين، وكانوا يأتون ببياعات ينتفع بذلك المسلمون، فأنزل الله تعالى
-  ذكره: { وَإنْ خِفْتُمْ عَيلَةً فَسَوْفَ يُغْنِيكُمُ اللَّهُ مِنْ فَضْلِهِ } فأغناهم
-  بهذا الخراج الجزية الجارية عليهم، يأخذونها شهراً شهراً، عاماً عاماً.\r\n\t\t\t\r\n\t\t\t1 2 3 4 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ يٰأَيُّهَا ٱلَّذِينَ آمَنُوۤاْ إِنَّمَا
-  ٱلْمُشْرِكُونَ نَجَسٌ فَلاَ يَقْرَبُواْ ٱلْمَسْجِدَ ٱلْحَرَامَ بَعْدَ عَامِهِمْ
-  هَـٰذَا وَإِنْ خِفْتُمْ عَيْلَةً فَسَوْفَ يُغْنِيكُمُ ٱللَّهُ مِن فَضْلِهِ إِن شَآءَ
-  إِنَّ ٱللَّهَ عَلِيمٌ حَكِيمٌ }فليس لأحد من المشركين أن يقرَب المسجد الحرام بعد
-  عامهم بحال إلا صاحب الجزية، أو عبد رجل من المسلمين.حدثنا الحسن بن يحيى، قال: أخبرنا
-  عبد الرزاق، قال: أخبرنا ابن جريج، قال: أخبرنا أبو الزبير أنه سمع جابر بن عبد الله
-  يقول في قوله: { إنَّمَا المُشْرِكُونَ نَجَسٌ فَلا يَقْرَبُوا المَسْجِدَ الحَرَامِ
-  بَعْدَ عامِهِمْ هَذَا } إلا أن يكون عبداً أو أحداً من أهل الذمة.قال: أخبرنا عبد
-  الرزاق، قال: أخبرنا معمر، عن قتادة، في قوله: { فَلا يَقْرَبُوا المَسْجِدَ الحَرَامِ
-  بَعْدَ عامِهِمْ هَذَا } قال: إلا صاحب جزية، أو عبدا لرجل من المسلمين.حدثنا زكريا
-  بن يحيى بن أبي زائدة، قال: ثنا حجاج، عن عبد الملك بن عبد العزيز بن جريج، قال: أخبرني
-  أبو الزبير أنه سمع جابر بن عبد الله يقول في هذه الآية: { إنَّمَا المُشْرِكُونَ نَجَسٌ
-  فَلا يَقْرَبُوا المَسْجِدَ الحَرَامِ } إلا أن يكون عبداً أو أحداً من أهل الجزية.حدثنا
+  المُشْرِكُونَ نَجَسٌ... } الآية، ثم ذكر نحو حديث هناد، عن أبي الأحوص/</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن بشار، قال: ثنا مؤمل، قال: ثنا سفيان، عن واقد، عن سعيد
+  بن جبير، قال: لما نزلت: { إنَّمَا المُشْرِكُونَ نَجَسٌ فَلا يَقْرَبُوا المَسْجِدَ
+  الحَرَامِ بَعْدَ عامِهِمْ هَذَا } شقّ ذلك على أصحاب رسول الله صلى الله عليه وسلم،
+  وقالوا: من يأتينا بطعامنا، ومن يأتينا بالمتاع؟ فنزلت: { وَإنْ خِفْتُمْ عَيلَةً فَسَوْفَ
+  يُغْنِيكُمُ اللَّهُ مِنْ فَضْلِهِ إنْ شَاءَ }.</font></font>&#13;\t\t\t<label disabled=\"true\"
+  class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(9, 28)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(9,28)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">يٰأَيُّهَا ٱلَّذِينَ آمَنُوۤاْ إِنَّمَا ٱلْمُشْرِكُونَ
+  نَجَسٌ فَلاَ يَقْرَبُواْ ٱلْمَسْجِدَ ٱلْحَرَامَ بَعْدَ عَامِهِمْ هَـٰذَا وَإِنْ
+  خِفْتُمْ عَيْلَةً فَسَوْفَ يُغْنِيكُمُ ٱللَّهُ مِن فَضْلِهِ إِن شَآءَ إِنَّ ٱللَّهَ
+  عَلِيمٌ حَكِيمٌ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن وكيع، قال: ثنا أبي، عن
+  سفيان، عن واقد مولى زيد بن خليدة، عن سعيد بن جبير، قال: كان المشركون يقدمون عليهم
+  بالتجارة، فنزلت هذه الآية: { إنَّمَا المُشْرِكُونَ نَجَسٌ... } إلى قوله: { عَيلَةً
+  } قال: الفقر. { فَسَوْفَ يُغْنِيكُمُ اللَّهُ مِنْ فَضْلِهِ }.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن وكيع، قال: ثنا ابن إدريس، عن أبيه، عن عطية العوفيّ، قال:
+  قال المسلمون: قد كنا نصيب من تجارتهم وبياعاتهم، فنزلت: { إنَّمَا المُشْرِكُونَ نَجَسٌ...
+  } إلى قوله: { مِنْ فَضْلِهِ }.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  أبو كريب، قال: ثنا ابن إدريس، قال: سمعت أبي، أحسبه قال: أنبأنا أبو جعفر، عن عطية،
+  قال: لما قيل: ولا يحجّ بعد العام مشرك قالوا: قد كنا نصيب من بياعاتهم في الموسم.
+  قال: فنزلت: { يا أيُّها الَّذِينَ آمَنُوا إنَّمَا المُشْرِكُونَ نَجَسٌ فَلا يَقْرَبُوا
+  المَسْجِدَ الحَرَامِ بَعْدَ عامِهِمْ هَذَا وَإنْ خِفْتُمْ عَيلَةً فَسَوْفَ يُغْنِيكُمُ
+  اللَّهُ مِنْ فَضْلِهِ } يعني: بما فاتهم من بياعاتهم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  أبو كريب وابن وكيع، قالا: ثنا ابن يمان، عن أبي سنان، عن ثابت، عن الضحاك: { وَإنْ
+  خِفْتُمْ عَيلَةً فَسَوْفَ يُغْنِيكُمُ اللَّهُ مِنْ فَضْلِهِ } قال: بالجزية.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن وكيع، قال: ثنا ابن يمان وأبو معاوية، عن أبي سنان، عن ثابت،
+  عن الضحاك، قال: أخرج المشركون من مكة، فشقّ ذلك على المسلمين، وقالوا: كنا نصيب منهم
+  التجارة والمِيرة. فأنزل الله:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">قاتِلُوا الَّذِينَ لا يُؤْمِنُونَ
+  باللَّهِ وَلا باليَوْمِ الآخِرِ</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حُدثت عن الحسين بن الفرج، قال: سمعت أبا معاذ، قال: ثنا عبيد بن سليمان،
+  قال: سمعت الضحاك يقول في قوله: { وَإنْ خِفْتُمْ عَيلَةً فَسَوْفَ يُغْنِيكُمُ اللَّهُ
+  مِنْ فَضْلِهِ } كان ناس من المسلمين يتألفون العير فلما نزلت براءة بقتال المشركين
+  حيثما ثُقِفوا، وأن يقعدوا لهم كل مرصد، قذف الشيطان في قلوب المؤمنين. فمن أين تعيشون
+  وقد أمرتم بقتال أهل العِير؟ فعلم الله من ذلك ما علم، فقال: أطيعوني، وامضوا لأمري،
+  وأطيعوا رسولي، فإني سوف أغنيكم من فضلي فتوكل لهم الله بذلك.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، عن ابن أبي نجيح، عن مجاهد، في قوله:
+  { إنَّمَا المُشْرِكُونَ نَجَسٌ... } إلى قوله: { فَسَوْفَ يُغْنِيكُمُ اللَّهُ مِنْ
+  فَضْلِهِ إنْ شاءَ } قال: قال المؤمنون: كنا نصيب من متاجر المشركين. فوعدهم الله أن
+  يغنيهم من فضله عوضاً لهم بأن لا يقربوهم المسجد الحرام. فهذه الآية من أوّل براءة
+  في القراءة، ومن آخرها في التأويل:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">قاتِلُوا الَّذِينَ لا يؤمِنُونَ باللَّهِ
+  وَلا باليَوْمِ الآخِرِ...</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">إلى قوله:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">عَنْ يَدٍ وَهُمْ صَاغِرُونَ</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">حين أمر محمد وأصحابه بغزوة تبوك.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا القاسم، قال: ثنا الحسين، قال: ثنا حجاج، عن ابن جريج، عن مجاهد،
+  بنحوه.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا بشر بن معاذ، قال: ثنا يزيد،
+  قال: ثنا سعيد، عن قتادة، قال: لما نفى الله المشركين عن المسجد الحرام، شقّ ذلك على
+  المسلمين، وكانوا يأتون ببياعات ينتفع بذلك المسلمون، فأنزل الله تعالى ذكره: { وَإنْ
+  خِفْتُمْ عَيلَةً فَسَوْفَ يُغْنِيكُمُ اللَّهُ مِنْ فَضْلِهِ } فأغناهم بهذا الخراج
+  الجزية الجارية عليهم، يأخذونها شهراً شهراً، عاماً عاماً.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">3 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(9, 28)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(9,28)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">يٰأَيُّهَا ٱلَّذِينَ آمَنُوۤاْ إِنَّمَا ٱلْمُشْرِكُونَ
+  نَجَسٌ فَلاَ يَقْرَبُواْ ٱلْمَسْجِدَ ٱلْحَرَامَ بَعْدَ عَامِهِمْ هَـٰذَا وَإِنْ
+  خِفْتُمْ عَيْلَةً فَسَوْفَ يُغْنِيكُمُ ٱللَّهُ مِن فَضْلِهِ إِن شَآءَ إِنَّ ٱللَّهَ
+  عَلِيمٌ حَكِيمٌ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">فليس لأحد من المشركين أن يقرَب
+  المسجد الحرام بعد عامهم بحال إلا صاحب الجزية، أو عبد رجل من المسلمين.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا الحسن بن يحيى، قال: أخبرنا عبد الرزاق، قال: أخبرنا ابن جريج،
+  قال: أخبرنا أبو الزبير أنه سمع جابر بن عبد الله يقول في قوله: { إنَّمَا المُشْرِكُونَ
+  نَجَسٌ فَلا يَقْرَبُوا المَسْجِدَ الحَرَامِ بَعْدَ عامِهِمْ هَذَا } إلا أن يكون
+  عبداً أو أحداً من أهل الذمة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال:
+  أخبرنا عبد الرزاق، قال: أخبرنا معمر، عن قتادة، في قوله: { فَلا يَقْرَبُوا المَسْجِدَ
+  الحَرَامِ بَعْدَ عامِهِمْ هَذَا } قال: إلا صاحب جزية، أو عبدا لرجل من المسلمين.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا زكريا بن يحيى بن أبي زائدة، قال: ثنا حجاج، عن عبد الملك بن
+  عبد العزيز بن جريج، قال: أخبرني أبو الزبير أنه سمع جابر بن عبد الله يقول في هذه
+  الآية: { إنَّمَا المُشْرِكُونَ نَجَسٌ فَلا يَقْرَبُوا المَسْجِدَ الحَرَامِ } إلا
+  أن يكون عبداً أو أحداً من أهل الجزية.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
   الحسن بن يحيى، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر، عن قتادة، في قوله: { وَإنْ
   خِفْتُمْ عَيلَةً فَسَوْفَ يُغْنِيكُمُ اللَّهُ مِنْ فَضْلِهِ } قال: أغناهم الله بالجزية
-  الجارية شهراً فشهراً وعاماً فعاماً.حدثنا أحمد بن إسحاق، قال: ثنا أبو أحمد، قال:
-  ثنا عباد بن العوّام، عن الحجاج، عن أبي الزبير، عن جابر: { إنَّمَا المُشْرِكُونَ
-  نَجَسٌ فَلا يَقْرَبُوا المَسْجِدَ الحَرَامِ بَعْدَ عامِهِمْ هَذَا } قال: لا يقرب
-  المسجد الحرام بعد عامه هذا مشرك ولا ذميّ.حدثنا ابن حميد، قال: ثنا سلمة، عن ابن إسحاق:
-  { إنَّمَا المُشْرِكُونَ نَجَسٌ فَلا يَقْرَبُوا المَسْجِدَ الحَرَامِ بَعْدَ عامِهِمْ
-  هَذَا وَإنْ خِفْتُمْ عَيلَةً } وذلك أن الناس قالوا: لُتْقَطَعنّ عنا الأسواق ولَتهلِكنّ
-  التجارة وليذهبنّ ما كنا نصيب فيها من المرافق فنزل: { وَإنْ خِفْتُمْ عَيلَةً فَسَوْفَ
-  يُغْنِيكُمُ اللَّهُ مِنْ فَضْلِهِ } من وجه غير ذلك { إنْ شاءَ... } إلى قوله:{ وَهُمْ
-  صَاغِرُونَ }، ففي هذا عوض مما تخوّفتم من قطع تلك الأسواق. فعوّضهم الله بما قطع عنهم
-  من أمر الشرك ما أعطاهم من أعناق أهل الكتاب من الجزية.وأما قوله: { إنَّ اللَّهَ عَلِيمٌ
-  حَكِيمٌ } فإن معناه: إن الله عليم بما حدثْتكم به أنفسكم أيها المؤمنون من خوف العيلة
-  عليها بمنع المشركين من أن يقربوا المسجد الحرام، وغير ذلك من مصالح عباده، حكيم في
-  تدبيره إياهم وتدبير جميع خلقه.\r\n\t\t\t\r\n\t\t\t1 2 3 4 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  الجارية شهراً فشهراً وعاماً فعاماً.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  أحمد بن إسحاق، قال: ثنا أبو أحمد، قال: ثنا عباد بن العوّام، عن الحجاج، عن أبي الزبير،
+  عن جابر: { إنَّمَا المُشْرِكُونَ نَجَسٌ فَلا يَقْرَبُوا المَسْجِدَ الحَرَامِ بَعْدَ
+  عامِهِمْ هَذَا } قال: لا يقرب المسجد الحرام بعد عامه هذا مشرك ولا ذميّ.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن حميد، قال: ثنا سلمة، عن ابن إسحاق: { إنَّمَا المُشْرِكُونَ
+  نَجَسٌ فَلا يَقْرَبُوا المَسْجِدَ الحَرَامِ بَعْدَ عامِهِمْ هَذَا وَإنْ خِفْتُمْ
+  عَيلَةً } وذلك أن الناس قالوا: لُتْقَطَعنّ عنا الأسواق ولَتهلِكنّ التجارة وليذهبنّ
+  ما كنا نصيب فيها من المرافق فنزل: { وَإنْ خِفْتُمْ عَيلَةً فَسَوْفَ يُغْنِيكُمُ
+  اللَّهُ مِنْ فَضْلِهِ } من وجه غير ذلك { إنْ شاءَ... } إلى قوله:</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">وَهُمْ
+  صَاغِرُونَ</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">، ففي هذا عوض مما تخوّفتم من قطع تلك الأسواق. فعوّضهم الله بما قطع
+  عنهم من أمر الشرك ما أعطاهم من أعناق أهل الكتاب من الجزية.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وأما
+  قوله: { إنَّ اللَّهَ عَلِيمٌ حَكِيمٌ } فإن معناه: إن الله عليم بما حدثْتكم به أنفسكم
+  أيها المؤمنون من خوف العيلة عليها بمنع المشركين من أن يقربوا المسجد الحرام، وغير
+  ذلك من مصالح عباده، حكيم في تدبيره إياهم وتدبير جميع خلقه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">4 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section>"
 

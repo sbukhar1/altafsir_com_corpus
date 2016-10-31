@@ -1,4 +1,4 @@
-location:
+position:
   sura: '016'
   aaya: '062'
   madhab: '01'
@@ -9,89 +9,222 @@ meta:
   year: '310'
 aaya: وَيَجْعَلُونَ لِلَّهِ مَا يَكْرَهُونَ وَتَصِفُ أَلْسِنَتُهُمُ الْكَذِبَ أَنَّ
   لَهُمُ الْحُسْنَىٰ ۖ لَا جَرَمَ أَنَّ لَهُمُ النَّارَ وَأَنَّهُمْ مُفْرَطُونَ
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَيَجْعَلُونَ
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(16, 62)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(16,62)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَيَجْعَلُونَ
   لِلَّهِ مَا يَكْرَهُونَ وَتَصِفُ أَلْسِنَتُهُمُ ٱلْكَذِبَ أَنَّ لَهُمُ ٱلْحُسْنَىٰ
-  لاَ جَرَمَ أَنَّ لَهُمُ ٱلْنَّارَ وَأَنَّهُمْ مُّفْرَطُونَ }يقول تعالـى ذكره: ويجعل
-  هؤلاء الـمشركون لله ما يكرهونه لأنفسهم. { وَتَصِفُ ألْسِنَتُهُمُ الكَذِبَ } يقول:
-  وتقول ألسنتهم الكذب وتفتريه { أنَّ لهم الـحُسْنَى } فأن فـي موضع نصب، لأنها ترجمة
-  عن الكذب. وتأويـل الكلام: ويجعلون لله ما يكرهونه لأنفسهم، ويزعمون أن لهم الـحسنى
-  الذي يكرهونه لأنفسهم، البنات يجعلونهن لله تعالـى، وزعموا أن الـملائكة بنات الله.
-  وأما الـحُسنى التـي جعلوها لأنفسهم: فـالذكور من الأولاد وذلك أنهم كانوا يئدون الإناث
-  من أولادهم ويستبقون الذكور منهم، ويقولون: لنا الذكور ولله البنات. وهو نـحو قوله:{ ويَجْعَلُونَ
-  لِلَّهِ البَناتِ سُبْحانَهُ وَلهُمْ ما يَشْتَهونَ }وبنـحو الذي قلنا فـي ذلك قال
-  أهل التأويـل. ذكر من قال ذلك:حدثنـي مـحمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى
-  وحدثنـي الـحارث، قال: ثنا الـحسن، قال: ثنا ورقاء وحدثنـي الـمثنى، قال: أخبرنا أبو
-  حذيفة، قال: ثنا شبل وحدثنـي الـمثنى، قال: أخبرنا إسحاق، قال: ثنا عبد الله، عن ورقاء،
-  جميعاً عن ابن أبـي نـجيح، عن مـجاهد: { وَتَصِفُ ألْسِنَتُهُمُ الكَذِبَ أنَّ لَهُمُ
-  الـحُسْنَى } قال: قول قريش: لنا البنون ولله البنات.حدثنا القاسم، قال: ثنا الـحسين،
-  قال: ثنـي حجاج، عن ابن جريج، عن مـجاهد، مثله، إلا أنه قال: قول كفَّـار قُريش.حدثنا
-  بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: { ويَجْعَلُونَ لِلَّهِ ما يَكْرَهُونَ
-  وَتَصِفُ ألْسِنَتِهُمُ الكَذِبَ }: أي يتكلـمون بأن لهم الـحُسنى أي الغلـمان.حدثنا
-  مـحمد بن عبد الأعلـى، قال: ثنا مـحمد بن ثور، عن معمر، عن قتادة: { أنَّ لَهُمُ الـحُسْنَى
-  } قال: الغلـمان.وقوله: { لا جَرَمَ أن لَهُمُ النَّارَ وأنَّهُمْ مُفْرَطُونَ } يقول
+  لاَ جَرَمَ أَنَّ لَهُمُ ٱلْنَّارَ وَأَنَّهُمْ مُّفْرَطُونَ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">يقول تعالـى ذكره: ويجعل هؤلاء الـمشركون لله ما يكرهونه لأنفسهم.
+  { وَتَصِفُ ألْسِنَتُهُمُ الكَذِبَ } يقول: وتقول ألسنتهم الكذب وتفتريه { أنَّ لهم
+  الـحُسْنَى } فأن فـي موضع نصب، لأنها ترجمة عن الكذب. وتأويـل الكلام: ويجعلون لله
+  ما يكرهونه لأنفسهم، ويزعمون أن لهم الـحسنى الذي يكرهونه لأنفسهم، البنات يجعلونهن
+  لله تعالـى، وزعموا أن الـملائكة بنات الله. وأما الـحُسنى التـي جعلوها لأنفسهم: فـالذكور
+  من الأولاد وذلك أنهم كانوا يئدون الإناث من أولادهم ويستبقون الذكور منهم، ويقولون:
+  لنا الذكور ولله البنات. وهو نـحو قوله:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">ويَجْعَلُونَ لِلَّهِ البَناتِ سُبْحانَهُ
+  وَلهُمْ ما يَشْتَهونَ</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وبنـحو
+  الذي قلنا فـي ذلك قال أهل التأويـل. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  مـحمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى وحدثنـي الـحارث، قال: ثنا الـحسن،
+  قال: ثنا ورقاء وحدثنـي الـمثنى، قال: أخبرنا أبو حذيفة، قال: ثنا شبل وحدثنـي الـمثنى،
+  قال: أخبرنا إسحاق، قال: ثنا عبد الله، عن ورقاء، جميعاً عن ابن أبـي نـجيح، عن مـجاهد:
+  { وَتَصِفُ ألْسِنَتُهُمُ الكَذِبَ أنَّ لَهُمُ الـحُسْنَى } قال: قول قريش: لنا البنون
+  ولله البنات.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا القاسم، قال: ثنا الـحسين،
+  قال: ثنـي حجاج، عن ابن جريج، عن مـجاهد، مثله، إلا أنه قال: قول كفَّـار قُريش.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: { ويَجْعَلُونَ
+  لِلَّهِ ما يَكْرَهُونَ وَتَصِفُ ألْسِنَتِهُمُ الكَذِبَ }: أي يتكلـمون بأن لهم الـحُسنى
+  أي الغلـمان.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا مـحمد بن عبد الأعلـى، قال:
+  ثنا مـحمد بن ثور، عن معمر، عن قتادة: { أنَّ لَهُمُ الـحُسْنَى } قال: الغلـمان.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقوله: { لا جَرَمَ أن لَهُمُ النَّارَ وأنَّهُمْ مُفْرَطُونَ } يقول
   تعالـى ذكره: حقًّا واجبـاً أن لهؤلاء القائلـين لله البنات الـجاعلـين له ما يكرهونه
-  لأنفسهم ولأنفسهم الـحسنى عند الله يوم القـيامة النار.وقد بـيَّنا تأويـل قول الله:
-  { لا جَرَمَ } فـي غير موضع من كتابنا هذا بشواهده بـما أغنى عن إعادته فـي هذا الـموضع.ورُوي
-  عن ابن عبـاس فـي ذلك، ما:حدثنـي الـمثنى، قال: ثنا أبو صالـح، قال: ثنـي معاوية، عن
-  علـيّ، عن ابن عبـاس، قوله: { لا جَرَمَ } يقول: بلـى.وقوله: { لا جَرَمَ } كان بعض
-  أهل العربـية يقول: لـم تُنْصَب جَرَمَ بـ «لا» كما نصبت الـميـم من قول: لا غلام لك
-  قال: ولكنها نُصِبَت لأنها فعل ماض، مثل قول القائل: قَعَدَ فلان وجلس، والكلام: لا
-  ردّ لكلامهم أي لـيس الأمر هكذا، جَرَم: كَسَبَ، مثل قوله: لا أقسم، ونـحو ذلك. وكان
-  بعضهم يقول: نصب «جَرَمَ» بـ «لا»، وإنـما بـمعنى: لا بدّ، ولا مـحالة ولكنها كثرت
-  فـي الكلام حتـى صارت بـمنزلة «حقًّا».وقوله: { وأنَّهُمْ مُفْرَطُونَ } يقول تعالـى
-  ذكره: وأنهم مُخَـلَّفون متروكون فـي النار، منسيُّون فـيها.واختلف أهل التأويـل فـي
-  تأويـل ذلك، فقال أكثرهم بنـحو ما قلنا فـي ذلك.\r\n\t\t\t\r\n\t\t\t1 2 3 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَيَجْعَلُونَ لِلَّهِ مَا يَكْرَهُونَ
-  وَتَصِفُ أَلْسِنَتُهُمُ ٱلْكَذِبَ أَنَّ لَهُمُ ٱلْحُسْنَىٰ لاَ جَرَمَ أَنَّ لَهُمُ
-  ٱلْنَّارَ وَأَنَّهُمْ مُّفْرَطُونَ }ذكر من قال ذلك:حدثنا مـحمد بن بشار وابن وكيع،
-  قالا: ثنا مـحمد بن جعفر، قال: ثنا شعبة، عن أبـي بشر، عن سعيد بن جبـير فـي هذه الآية:
-  { لا جَرَمَ أنّ لهُمُ النَّارَ وأنَّهُمْ مُفْرَطُونَ } قال: منسيُّون مُضَيَّعون.حدثنـي
+  لأنفسهم ولأنفسهم الـحسنى عند الله يوم القـيامة النار.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقد
+  بـيَّنا تأويـل قول الله: { لا جَرَمَ } فـي غير موضع من كتابنا هذا بشواهده بـما أغنى
+  عن إعادته فـي هذا الـموضع.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">ورُوي عن ابن عبـاس فـي ذلك، ما:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي الـمثنى، قال: ثنا أبو صالـح، قال: ثنـي معاوية، عن علـيّ،
+  عن ابن عبـاس، قوله: { لا جَرَمَ } يقول: بلـى.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقوله:
+  { لا جَرَمَ } كان بعض أهل العربـية يقول: لـم تُنْصَب جَرَمَ بـ «لا» كما نصبت الـميـم
+  من قول: لا غلام لك قال: ولكنها نُصِبَت لأنها فعل ماض، مثل قول القائل: قَعَدَ فلان
+  وجلس، والكلام: لا ردّ لكلامهم أي لـيس الأمر هكذا، جَرَم: كَسَبَ، مثل قوله: لا أقسم،
+  ونـحو ذلك. وكان بعضهم يقول: نصب «جَرَمَ» بـ «لا»، وإنـما بـمعنى: لا بدّ، ولا مـحالة
+  ولكنها كثرت فـي الكلام حتـى صارت بـمنزلة «حقًّا».</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقوله:
+  { وأنَّهُمْ مُفْرَطُونَ } يقول تعالـى ذكره: وأنهم مُخَـلَّفون متروكون فـي النار،
+  منسيُّون فـيها.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">واختلف أهل التأويـل فـي تأويـل
+  ذلك، فقال أكثرهم بنـحو ما قلنا فـي ذلك.</font></font>&#13;\t\t\t<label disabled=\"true\"
+  class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(16, 62)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(16,62)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَيَجْعَلُونَ لِلَّهِ مَا يَكْرَهُونَ وَتَصِفُ أَلْسِنَتُهُمُ
+  ٱلْكَذِبَ أَنَّ لَهُمُ ٱلْحُسْنَىٰ لاَ جَرَمَ أَنَّ لَهُمُ ٱلْنَّارَ وَأَنَّهُمْ
+  مُّفْرَطُونَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا مـحمد بن بشار وابن وكيع، قالا: ثنا مـحمد بن جعفر، قال: ثنا
+  شعبة، عن أبـي بشر، عن سعيد بن جبـير فـي هذه الآية: { لا جَرَمَ أنّ لهُمُ النَّارَ
+  وأنَّهُمْ مُفْرَطُونَ } قال: منسيُّون مُضَيَّعون.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
   موسى بن عبد الرحمن الـمسروقـي، قال: ثنا زيد بن حبـاب، قال: أخبرنا سعيد، عن أبـي
-  بشر، عن سعيد بن جبـير، مثله.حدثنا ابن حميد، قال: ثنا بهز بن أسد، عن شعبة، قال: أخبرنـي
-  أبو بشر، عن سعيد بن جبـير، مثله.حدثنـي يعقوب، قال: ثنا هشيـم، قال: أخبرنا أبو بشر،
-  عن سعيد بن جبـير، فـي قوله: { لا جَرَمَ أنَّ لَهُمْ النَّارَ وأنَّهُمْ مُفْرَطُونَ
-  } قال: متروكون فـي النار، منسيُّون فـيها.حدثنـي يعقوب، قال: ثنا هشيـم، قال: حصين،
-  أخبرنا، عن سعيد بن جبـير، بـمثله.حدثنـي الـمثنى، قال: أخبرنا الـحجاج بن الـمنهال،
-  قال: ثنا هشيـم، عن حصين، عن سعيد بن جبـير بـمثله.حدثنـي مـحمد بن عمرو، قال: ثنا
-  أبو عاصم، قال: ثنا عيسى، عن ابن أبـي نـجيح، عن مـجاهد: { وأنَّهُم مُفْرَطُونَ }
-  قال: منسيُّون.حدثنـي الـحارث، قال: ثنا الـحسن، قال: ثنا ورقاء وحدثنـي الـمثنى، قال:
-  أخبرنا أبو حذيفة، قال: ثنا شبل وحدثنـي الـمثنى، قال: أخبرنا إسحاق، قال: ثنا عبد
-  الله، عن ورقاء، جميعاً عن ابن أبـي نـجيح، عن مـجاهد، مثله.حدثنا ابن وكيع، قال: ثنا
-  عبدة وأبو معاوية وأبو خالد، عن جويبر، عن الضحاك: { وأنَّهُم مُفْرَطُونَ } قال: متروكون
-  فـي النار.حدثنا القاسم، قال: ثنا الـحسين، قال: ثنـي حجاج، عن ابن جريج، عن القاسم،
-  عن مـجاهد: { مُفْرَطُونَ } قال: مَنْسيّون.حدثنـي عبد الوارث بن عبد الصمد، قال: ثنـي
-  أبـي، عن الـحسين، عن قتادة: { وأنَّهُم مُفْرَطُونَ } يقول: مُضَاعُون.حدثنا ابن الـمثنى،
-  قال: ثنا بدل، قال: ثنا عبـاد بن راشد، قال: سمعت داود بن أبـي هند، فـي قول الله:
-  { وأنَّهُم مُفْرَطُونَ } قال: منسيون فـي النار.وقال آخرون: معنى ذلك مُعْجَلُون إلـى
-  النار مقدّمون إلـيها. وذهبوا فـي ذلك إلـى قول العرب: أفرطنا فلاناً فـي طلب الـماء،
-  إذا قدّموه لإصلاح الدّلاء والأرشية وتسوية ما يحتاجون إلـيه عند ورودهم علـيه فهو
-  مُفْرَط. فأما الـمتقدّم نفسه فهو فـارط، يقال: قد فَرَط فلان أصحابَه يَفْرُطهم فُرْطاً
-  وفُروطاً: إذا تقدمهم. وجمع فـارط: فَرَّاط ومنه قول القُطامِيّ:واسْتَعْجَلُونا وكانُوا
-  مِنْ صَحَابَتِنا   كمَا تَعَجَّلَ فُرَّاطٌ لِوُرَّادِومن قول النبـيّ صلى الله عليه
-  وسلم: \" أنا فَرَطُكُمْ علـى الـحَوْضِ \" أي متقدمكم إلـيه وسابقكم «حتـى تَردُوه».
-  ذكر من قال ذلك:حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة: { وأنَّهُم مُفْرَطُونَ
-  } يقول: مُعْجَلُون إلـى النار.حدثنا مـحمد بن عبد الأعلـى، قال: ثنا مـحمد بن ثور،
-  عن معمر، عن قتادة: { وأنَّهُم مُفْرَطُونَ } قال: قد أُفْرِطوا فـي النار أي مُعْجَلُون.\r\n\t\t\t\r\n\t\t\t1 2 3 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَيَجْعَلُونَ لِلَّهِ مَا يَكْرَهُونَ
-  وَتَصِفُ أَلْسِنَتُهُمُ ٱلْكَذِبَ أَنَّ لَهُمُ ٱلْحُسْنَىٰ لاَ جَرَمَ أَنَّ لَهُمُ
-  ٱلْنَّارَ وَأَنَّهُمْ مُّفْرَطُونَ }وقال آخرون: معنى ذلك: مُبْعَدُون فـي النار.
-  ذكر من قال ذلك:حدثنا ابن وكيع، قال: ثنا أبـي، عن أشعث السَّمان، عن الربـيع، عن أبـي
-  بشر، عن سعيد: { وأنَّهُم مُفْرَطُونَ } قال: مُخْسَئون مُبْعَدون.وأولـى الأقوال فـي
-  ذلك بـالصواب القول الذي اخترناه، وذلك أن الإفراط الذي هو بـمعنى التقديـم، إنـما
-  يقال فـيـمن قدَم مقدمَاً لإصلاح ما يقدم إلـيه إلـى وقت ورود من قدّمه علـيه، ولـيس
-  بـمُقَدَّم من قُدِّم إلـى النار من أهلها لإصلاح شيء فـيها لوارد يرد علـيها فـيها
-  فـيوافقه مصلـحاً، وإنـما تَقَدّم مَن قُدِّم إلـيها لعذاب يُعجَّل له. فإذا كان معنى
-  ذلك الإفراط الذي هو تأويـل التعجيـل ففسد أن يكون له وجه فـي الصحة، صحّ الـمعنى الآخر
-  وهو الإفراط الذي بـمعنى التـخـلـيف والترك وذلك أن يُحْكَى عن العرب: ما أفْرَطت ورائي
-  أحداً: أي ما خَـلَّفته وما فرطته: أي لـم أخـلفه.واختلفت القرّاء فـي قراءة ذلك، فقرأته
-  عامة قرّاء الـمِصرَينِ الكوفة والبصرة: { وأنَّهُم مُفْرَطُونَ } بتـخفـيف الراء وفتـحها،
-  علـى معنى ما لـم يُسَمّ فـاعله من أُفرِط فهو مُفْرَط. وقد بـيَّنت اختلاف قراءة ذلك
-  كذلك فـي التأويـل. وقرأه أبو جعفر القارىء: «وأنَّهُم مُفْرَطُونَ» بكسر الراء وتشديدها،
-  بتأويـل: أنهم مفرِّطون فـي أداء الواجب الذي كان لله علـيهم فـي الدنـيا، من طاعته
-  وحقوقه، مضيعو ذلك، من قول الله تعالـى:{ يا حَسْرتَا علـى ما فَرَّطْتُ فـي جَنْبِ
-  اللَّهِ }وقرأ نافع بن أبـي نعيـم: «وأنَّهُم مُفْرَطُونَ» بكسر الراء وتـخفـيفها.حدثنـي
-  بذلك يونس، عن وَرْش عنه.بتأويـل: أنهم مُفْرِطون فـي الذنوب والـمعاصي، مُسْرِفون
-  علـى أنفسهم مكثرون منها، من قولهم: أفرط فلان فـي القول: إذا تـجاوز حَدَّه، وأسرف
-  فـيه.والذي هو أولـى القراءات فـي ذلك بـالصواب قراءة الذين ذكرنا قراءتهم من أهل العراق
-  لـموافقتها تأويـل أهل التأويـل الذي ذكرنا قبل، وخروج القراءات الأخرى عن تأويـلهم.\r\n\t\t\t\r\n\t\t\t1 2 3 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  بشر، عن سعيد بن جبـير، مثله.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن حميد، قال: ثنا بهز بن أسد، عن شعبة، قال: أخبرنـي أبو بشر، عن سعيد بن جبـير،
+  مثله.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي يعقوب، قال: ثنا هشيـم، قال:
+  أخبرنا أبو بشر، عن سعيد بن جبـير، فـي قوله: { لا جَرَمَ أنَّ لَهُمْ النَّارَ وأنَّهُمْ
+  مُفْرَطُونَ } قال: متروكون فـي النار، منسيُّون فـيها.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  يعقوب، قال: ثنا هشيـم، قال: حصين، أخبرنا، عن سعيد بن جبـير، بـمثله.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي الـمثنى، قال: أخبرنا الـحجاج بن الـمنهال، قال: ثنا هشيـم،
+  عن حصين، عن سعيد بن جبـير بـمثله.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  مـحمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، عن ابن أبـي نـجيح، عن مـجاهد: {
+  وأنَّهُم مُفْرَطُونَ } قال: منسيُّون.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  الـحارث، قال: ثنا الـحسن، قال: ثنا ورقاء وحدثنـي الـمثنى، قال: أخبرنا أبو حذيفة،
+  قال: ثنا شبل وحدثنـي الـمثنى، قال: أخبرنا إسحاق، قال: ثنا عبد الله، عن ورقاء، جميعاً
+  عن ابن أبـي نـجيح، عن مـجاهد، مثله.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن وكيع، قال: ثنا عبدة وأبو معاوية وأبو خالد، عن جويبر، عن الضحاك: { وأنَّهُم مُفْرَطُونَ
+  } قال: متروكون فـي النار.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا القاسم، قال: ثنا الـحسين،
+  قال: ثنـي حجاج، عن ابن جريج، عن القاسم، عن مـجاهد: { مُفْرَطُونَ } قال: مَنْسيّون.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي عبد الوارث بن عبد الصمد، قال: ثنـي أبـي، عن الـحسين، عن قتادة:
+  { وأنَّهُم مُفْرَطُونَ } يقول: مُضَاعُون.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن الـمثنى، قال: ثنا بدل، قال: ثنا عبـاد بن راشد، قال: سمعت داود بن أبـي هند، فـي
+  قول الله: { وأنَّهُم مُفْرَطُونَ } قال: منسيون فـي النار.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  آخرون: معنى ذلك مُعْجَلُون إلـى النار مقدّمون إلـيها. وذهبوا فـي ذلك إلـى قول العرب:
+  أفرطنا فلاناً فـي طلب الـماء، إذا قدّموه لإصلاح الدّلاء والأرشية وتسوية ما يحتاجون
+  إلـيه عند ورودهم علـيه فهو مُفْرَط. فأما الـمتقدّم نفسه فهو فـارط، يقال: قد فَرَط
+  فلان أصحابَه يَفْرُطهم فُرْطاً وفُروطاً: إذا تقدمهم. وجمع فـارط: فَرَّاط ومنه قول
+  القُطامِيّ:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><table
+  class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">واسْتَعْجَلُونا وكانُوا مِنْ صَحَابَتِنا</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">كمَا تَعَجَّلَ فُرَّاطٌ لِوُرَّادِ</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">ومن قول النبـيّ صلى الله عليه وسلم:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" أنا فَرَطُكُمْ علـى الـحَوْضِ
+  \" </font></font></b><font class=\"TextResultArabic\"><font color=\"black\">أي متقدمكم
+  إلـيه وسابقكم «حتـى تَردُوه». ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة: { وأنَّهُم مُفْرَطُونَ } يقول: مُعْجَلُون
+  إلـى النار.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا مـحمد بن عبد الأعلـى، قال:
+  ثنا مـحمد بن ثور، عن معمر، عن قتادة: { وأنَّهُم مُفْرَطُونَ } قال: قد أُفْرِطوا
+  فـي النار أي مُعْجَلُون.</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(16, 62)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(16,62)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَيَجْعَلُونَ لِلَّهِ مَا يَكْرَهُونَ وَتَصِفُ أَلْسِنَتُهُمُ
+  ٱلْكَذِبَ أَنَّ لَهُمُ ٱلْحُسْنَىٰ لاَ جَرَمَ أَنَّ لَهُمُ ٱلْنَّارَ وَأَنَّهُمْ
+  مُّفْرَطُونَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال آخرون: معنى ذلك: مُبْعَدُون
+  فـي النار. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن وكيع، قال: ثنا أبـي،
+  عن أشعث السَّمان، عن الربـيع، عن أبـي بشر، عن سعيد: { وأنَّهُم مُفْرَطُونَ } قال:
+  مُخْسَئون مُبْعَدون.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وأولـى الأقوال فـي ذلك بـالصواب
+  القول الذي اخترناه، وذلك أن الإفراط الذي هو بـمعنى التقديـم، إنـما يقال فـيـمن قدَم
+  مقدمَاً لإصلاح ما يقدم إلـيه إلـى وقت ورود من قدّمه علـيه، ولـيس بـمُقَدَّم من قُدِّم
+  إلـى النار من أهلها لإصلاح شيء فـيها لوارد يرد علـيها فـيها فـيوافقه مصلـحاً، وإنـما
+  تَقَدّم مَن قُدِّم إلـيها لعذاب يُعجَّل له. فإذا كان معنى ذلك الإفراط الذي هو تأويـل
+  التعجيـل ففسد أن يكون له وجه فـي الصحة، صحّ الـمعنى الآخر وهو الإفراط الذي بـمعنى
+  التـخـلـيف والترك وذلك أن يُحْكَى عن العرب: ما أفْرَطت ورائي أحداً: أي ما خَـلَّفته
+  وما فرطته: أي لـم أخـلفه.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">واختلفت القرّاء فـي قراءة ذلك،
+  فقرأته عامة قرّاء الـمِصرَينِ الكوفة والبصرة: { وأنَّهُم مُفْرَطُونَ } بتـخفـيف
+  الراء وفتـحها، علـى معنى ما لـم يُسَمّ فـاعله من أُفرِط فهو مُفْرَط. وقد بـيَّنت
+  اختلاف قراءة ذلك كذلك فـي التأويـل. وقرأه أبو جعفر القارىء: «وأنَّهُم مُفْرَطُونَ»
+  بكسر الراء وتشديدها، بتأويـل: أنهم مفرِّطون فـي أداء الواجب الذي كان لله علـيهم
+  فـي الدنـيا، من طاعته وحقوقه، مضيعو ذلك، من قول الله تعالـى:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">يا حَسْرتَا علـى ما فَرَّطْتُ فـي
+  جَنْبِ اللَّهِ</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">وقرأ نافع بن أبـي نعيـم: «وأنَّهُم مُفْرَطُونَ» بكسر الراء وتـخفـيفها.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي بذلك يونس، عن وَرْش عنه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">بتأويـل:
+  أنهم مُفْرِطون فـي الذنوب والـمعاصي، مُسْرِفون علـى أنفسهم مكثرون منها، من قولهم:
+  أفرط فلان فـي القول: إذا تـجاوز حَدَّه، وأسرف فـيه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">والذي
+  هو أولـى القراءات فـي ذلك بـالصواب قراءة الذين ذكرنا قراءتهم من أهل العراق لـموافقتها
+  تأويـل أهل التأويـل الذي ذكرنا قبل، وخروج القراءات الأخرى عن تأويـلهم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">3 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a id=\"NextClass\"/></td></tr></table></center></div></section>"
 

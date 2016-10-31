@@ -1,4 +1,4 @@
-location:
+position:
   sura: '074'
   aaya: '026'
   madhab: '01'
@@ -7,139 +7,340 @@ meta:
   title: تفسير جامع البيان في تفسير القرآن
   author: الطبري
   year: '310'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ سَأُصْلِيهِ سَقَرَ
-  } * { وَمَآ أَدْرَاكَ مَا سَقَرُ } * { لاَ تُبْقِي وَلاَ تَذَرُ } * { لَوَّاحَةٌ
-  لِّلْبَشَرِ } * { عَلَيْهَا تِسْعَةَ عَشَرَ } * { وَمَا جَعَلْنَآ أَصْحَٰبَ ٱلنَّارِ
-  إِلاَّ مَلَٰئِكَةً وَمَا جَعَلْنَا عِدَّتَهُمْ إِلاَّ فِتْنَةً لِّلَّذِينَ كَفَرُواْ
-  لِيَسْتَيْقِنَ ٱلَّذِينَ أُوتُواْ ٱلْكِتَٰبَ وَيَزْدَادَ ٱلَّذِينَ ءَامَنُوۤاْ إِيمَٰناً
-  وَلاَ يَرْتَابَ ٱلَّذِينَ أُوتُواْ ٱلْكِتَٰبَ وَٱلْمُؤْمِنُونَ وَلِيَقُولَ ٱلَّذِينَ
-  فِي قُلُوبِهِم مَّرَضٌ وَٱلْكَٰفِرُونَ مَاذَآ أَرَادَ ٱللَّهُ بِهَـٰذَا مَثَلاً
-  كَذَلِكَ يُضِلُّ ٱللَّهُ مَن يَشَآءُ وَيَهْدِي مَن يَشَآءُ وَمَا يَعْلَمُ جُنُودَ
-  رَبِّكَ إِلاَّ هُوَ وَمَا هِيَ إِلاَّ ذِكْرَىٰ لِلْبَشَرِ }يعني تعالى ذكره بقوله:
-  { سأُصْلِيهِ سَقَرَ } سأورده باباً من أبواب جهنم اسمه سقر ولم يُجرَّ سقر لأنه اسم
-  من أسماء جهنم { وَما أدْرَاكَ ما سَقَرُ } يقول تعالى ذكره: وأيّ شيء أدراك يا محمد،
-  أي، شيء سقر. ثم بين الله تعالى ذكره ما سقر، فقال: هي نار { لا تُبْقى } من فيها حياً
-  { وَلا تَذَرُ } من فيها ميتاً، ولكنها تحرقهم كلما جدّد خلقهم. وبنحو الذي قلنا في
-  ذلك قال أهل التأويل.ذكر من قال ذلك:حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا
-  عيسى، عن ابن أبي نجيح، عن مجاهد، قوله: { لا تُبْقى وَلا تَذَرُ } قال: لا تميت ولا
-  تحي.حدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، عن ابن أبي نجيح، عن مجاهد، مثله.حدثني
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(74, 26)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(74,26)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">سَأُصْلِيهِ
+  سَقَرَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَمَآ أَدْرَاكَ مَا سَقَرُ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">لاَ
+  تُبْقِي وَلاَ تَذَرُ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">لَوَّاحَةٌ لِّلْبَشَرِ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">عَلَيْهَا
+  تِسْعَةَ عَشَرَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">وَمَا جَعَلْنَآ أَصْحَٰبَ ٱلنَّارِ إِلاَّ
+  مَلَٰئِكَةً وَمَا جَعَلْنَا عِدَّتَهُمْ إِلاَّ فِتْنَةً لِّلَّذِينَ كَفَرُواْ لِيَسْتَيْقِنَ
+  ٱلَّذِينَ أُوتُواْ ٱلْكِتَٰبَ وَيَزْدَادَ ٱلَّذِينَ ءَامَنُوۤاْ إِيمَٰناً وَلاَ
+  يَرْتَابَ ٱلَّذِينَ أُوتُواْ ٱلْكِتَٰبَ وَٱلْمُؤْمِنُونَ وَلِيَقُولَ ٱلَّذِينَ فِي
+  قُلُوبِهِم مَّرَضٌ وَٱلْكَٰفِرُونَ مَاذَآ أَرَادَ ٱللَّهُ بِهَـٰذَا مَثَلاً كَذَلِكَ
+  يُضِلُّ ٱللَّهُ مَن يَشَآءُ وَيَهْدِي مَن يَشَآءُ وَمَا يَعْلَمُ جُنُودَ رَبِّكَ
+  إِلاَّ هُوَ وَمَا هِيَ إِلاَّ ذِكْرَىٰ لِلْبَشَرِ</a> <b>}</b></font>, <br/>, <br/>,
+  <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">يعني
+  تعالى ذكره بقوله: { سأُصْلِيهِ سَقَرَ } سأورده باباً من أبواب جهنم اسمه سقر ولم
+  يُجرَّ سقر لأنه اسم من أسماء جهنم { وَما أدْرَاكَ ما سَقَرُ } يقول تعالى ذكره: وأيّ
+  شيء أدراك يا محمد، أي، شيء سقر. ثم بين الله تعالى ذكره ما سقر، فقال: هي نار { لا
+  تُبْقى } من فيها حياً { وَلا تَذَرُ } من فيها ميتاً، ولكنها تحرقهم كلما جدّد خلقهم.
+  وبنحو الذي قلنا في ذلك قال أهل التأويل.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">ذكر
+  من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثني محمد بن عمرو، قال: ثنا أبو
+  عاصم، قال: ثنا عيسى، عن ابن أبي نجيح، عن مجاهد، قوله: { لا تُبْقى وَلا تَذَرُ }
+  قال: لا تميت ولا تحي.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثني الحارث، قال: ثنا الحسن، قال:
+  ثنا ورقاء، عن ابن أبي نجيح، عن مجاهد، مثله.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
   محمد بن عمارة الأسدي، قال: ثنا عبيد الله بن موسى، قال: أخبرنا أبو ليلى، عن مرثد،
   في قوله: { لا تُبْقى وَلا تَذَرُ } قال: لا تبقى منهم شيئاً أن تأكلهم، فإذا خلقوا
-  لها لا تذرهم حتى تأخذهم فتأكلهم.وقوله: { لَوَّاحَةٌ للبَشَر } يعني جلّ ثناؤه مغيِّرة
-  لبشر أهلها واللوّاحة من نعت سقر، وبالردّ عليها رُفعت، وحسُن الرفع فيها، وهي نكرة،
-  وسقر معرفة، لما فيها من معنى المدح. وبنحو الذي قلنا في ذلك قال أهل التأويل.ذكر من
-  قال ذلك:حدثنا محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى وحدثني الحارث، قال:
-  ثنا الحسن، قال: ثنا ورقاء، جميعاً عن ابن أبي نجيح، عن مجاهد { لَوَّاحَةٌ للْبَشَر
-  } قال: الجلد.حدثني أبو السائب، قال: ثنا أبو معاوية، عن إسماعيل، عن أبي رزين { لَوَّاحَةٌ
-  للْبَشَر } قال: تلفح الجلد لفحة، فتدعه أشدّ سواداً من الليل.حدثني محمد بن عبد الله
-  بن عبد الحكم، قال: ثنا أبي وشعيب بن الليث، عن خالد بن يزيد، عن ابن أبي هلال، قال:
-  قال زيد بن أسلم لَوَّاحَةٌ للْبَشَر: أي تلوَّح أجسادهم عليها.حدثنا بشر، قال: ثنا
-  يزيد، قال: ثنا سعيد، عن قتادة، قوله: { لَوَّاحَةٌ للْبَشَر } أي حرّاقة للجلد.حدثني
+  لها لا تذرهم حتى تأخذهم فتأكلهم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقوله:
+  { لَوَّاحَةٌ للبَشَر } يعني جلّ ثناؤه مغيِّرة لبشر أهلها واللوّاحة من نعت سقر، وبالردّ
+  عليها رُفعت، وحسُن الرفع فيها، وهي نكرة، وسقر معرفة، لما فيها من معنى المدح. وبنحو
+  الذي قلنا في ذلك قال أهل التأويل.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">ذكر
+  من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا محمد بن عمرو، قال: ثنا أبو
+  عاصم، قال: ثنا عيسى وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، جميعاً عن ابن
+  أبي نجيح، عن مجاهد { لَوَّاحَةٌ للْبَشَر } قال: الجلد.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  أبو السائب، قال: ثنا أبو معاوية، عن إسماعيل، عن أبي رزين { لَوَّاحَةٌ للْبَشَر }
+  قال: تلفح الجلد لفحة، فتدعه أشدّ سواداً من الليل.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  محمد بن عبد الله بن عبد الحكم، قال: ثنا أبي وشعيب بن الليث، عن خالد بن يزيد، عن
+  ابن أبي هلال، قال: قال زيد بن أسلم لَوَّاحَةٌ للْبَشَر: أي تلوَّح أجسادهم عليها.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: { لَوَّاحَةٌ
+  للْبَشَر } أي حرّاقة للجلد.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
   محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس: { لَوَّاحَةٌ
-  للْبَشَر } يقول: تحرق بشرة الإنسان.حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن
-  زيد، في قوله: { لَوَّاحَةٌ للْبَشَر } قال: تغير البشر، تحرق البشر يقال: قد لاحه
-  استقباله السماء، ثم قال: النار تغير ألوانهم.حدثنا ابن حميد، قال: ثنا مهران، عن سفيان،
-  عن إسماعيل بن سميع، عن أبي رزين { لَوَّاحَةٌ لِلْبَشَر } غيرت جلودهم فاسودّت.حدثنا
-  أبو كريب، قال: ثنا وكيع، عن سفيان، عن إسماعيل بن سميع، عن أبي رزين مثله.\r\n\t\t\t\r\n\t\t\t1 2 3 4 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ سَأُصْلِيهِ سَقَرَ } * { وَمَآ أَدْرَاكَ
-  مَا سَقَرُ } * { لاَ تُبْقِي وَلاَ تَذَرُ } * { لَوَّاحَةٌ لِّلْبَشَرِ } * { عَلَيْهَا
-  تِسْعَةَ عَشَرَ } * { وَمَا جَعَلْنَآ أَصْحَٰبَ ٱلنَّارِ إِلاَّ مَلَٰئِكَةً وَمَا
-  جَعَلْنَا عِدَّتَهُمْ إِلاَّ فِتْنَةً لِّلَّذِينَ كَفَرُواْ لِيَسْتَيْقِنَ ٱلَّذِينَ
-  أُوتُواْ ٱلْكِتَٰبَ وَيَزْدَادَ ٱلَّذِينَ ءَامَنُوۤاْ إِيمَٰناً وَلاَ يَرْتَابَ
-  ٱلَّذِينَ أُوتُواْ ٱلْكِتَٰبَ وَٱلْمُؤْمِنُونَ وَلِيَقُولَ ٱلَّذِينَ فِي قُلُوبِهِم
-  مَّرَضٌ وَٱلْكَٰفِرُونَ مَاذَآ أَرَادَ ٱللَّهُ بِهَـٰذَا مَثَلاً كَذَلِكَ يُضِلُّ
-  ٱللَّهُ مَن يَشَآءُ وَيَهْدِي مَن يَشَآءُ وَمَا يَعْلَمُ جُنُودَ رَبِّكَ إِلاَّ
-  هُوَ وَمَا هِيَ إِلاَّ ذِكْرَىٰ لِلْبَشَرِ }حُدثت عن الحسين، قال: سمعت أبا معاذ
-  يقول: أخبرنا عبيد، قال: سمعت الضحاك يقول في قوله: { لَوَّاحَةٌ للْبَشَر } يعني بشر
-  الإنسان، يقول: تحرق بشره.ورُوي عن ابن عباس في ذلك ما:حدثني عليّ، قال: ثنا أبو صالح،
-  قال: ثني معاوية، عن عليّ، عن ابن عباس، في قوله { لَوَّاحَةٌ للْبَشَر } يقول: معرّضة.وأخشى
-  أن يكون خبر عليّ بن أبي طلحة، عن ابن عباس هذا غلطاً، وأن يكون موضع معرّضة مغيَّرة،
-  لكن صحَّف فيه.وقوله: { عَلَيْها تِسْعَةَ عَشَرَ } يقول تعالى ذكره: على سقر تسعة
-  عشر من الخزَنة.وذُكر أن ذلك لما أنزل على رسول الله صلى الله عليه وسلم، قال أبو جهل
-  ما:حدثني به محمد بن سعد قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن
-  عباس { عَلَيْها تِسْعَةَ عَشَرَ }... إلى قوله: { وَيَزْدادَ الَّذِينَ آمَنُوا إيمَاناً
+  للْبَشَر } يقول: تحرق بشرة الإنسان.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله: { لَوَّاحَةٌ للْبَشَر } قال:
+  تغير البشر، تحرق البشر يقال: قد لاحه استقباله السماء، ثم قال: النار تغير ألوانهم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن حميد، قال: ثنا مهران، عن سفيان، عن إسماعيل بن سميع، عن
+  أبي رزين { لَوَّاحَةٌ لِلْبَشَر } غيرت جلودهم فاسودّت.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  أبو كريب، قال: ثنا وكيع، عن سفيان، عن إسماعيل بن سميع، عن أبي رزين مثله.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(74, 26)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(74,26)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">سَأُصْلِيهِ سَقَرَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَمَآ أَدْرَاكَ
+  مَا سَقَرُ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">لاَ تُبْقِي وَلاَ تَذَرُ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">لَوَّاحَةٌ
+  لِّلْبَشَرِ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">عَلَيْهَا تِسْعَةَ عَشَرَ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَمَا
+  جَعَلْنَآ أَصْحَٰبَ ٱلنَّارِ إِلاَّ مَلَٰئِكَةً وَمَا جَعَلْنَا عِدَّتَهُمْ إِلاَّ
+  فِتْنَةً لِّلَّذِينَ كَفَرُواْ لِيَسْتَيْقِنَ ٱلَّذِينَ أُوتُواْ ٱلْكِتَٰبَ وَيَزْدَادَ
+  ٱلَّذِينَ ءَامَنُوۤاْ إِيمَٰناً وَلاَ يَرْتَابَ ٱلَّذِينَ أُوتُواْ ٱلْكِتَٰبَ وَٱلْمُؤْمِنُونَ
+  وَلِيَقُولَ ٱلَّذِينَ فِي قُلُوبِهِم مَّرَضٌ وَٱلْكَٰفِرُونَ مَاذَآ أَرَادَ ٱللَّهُ
+  بِهَـٰذَا مَثَلاً كَذَلِكَ يُضِلُّ ٱللَّهُ مَن يَشَآءُ وَيَهْدِي مَن يَشَآءُ وَمَا
+  يَعْلَمُ جُنُودَ رَبِّكَ إِلاَّ هُوَ وَمَا هِيَ إِلاَّ ذِكْرَىٰ لِلْبَشَرِ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">حُدثت عن الحسين، قال: سمعت أبا معاذ يقول: أخبرنا عبيد، قال: سمعت
+  الضحاك يقول في قوله: { لَوَّاحَةٌ للْبَشَر } يعني بشر الإنسان، يقول: تحرق بشره.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">ورُوي عن ابن عباس في ذلك ما:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  عليّ، قال: ثنا أبو صالح، قال: ثني معاوية، عن عليّ، عن ابن عباس، في قوله { لَوَّاحَةٌ
+  للْبَشَر } يقول: معرّضة.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وأخشى أن يكون خبر عليّ بن أبي طلحة،
+  عن ابن عباس هذا غلطاً، وأن يكون موضع معرّضة مغيَّرة، لكن صحَّف فيه.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقوله: { عَلَيْها تِسْعَةَ عَشَرَ } يقول تعالى ذكره: على سقر تسعة
+  عشر من الخزَنة.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وذُكر أن ذلك لما أنزل على رسول
+  الله صلى الله عليه وسلم، قال أبو جهل ما:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  به محمد بن سعد قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس {
+  عَلَيْها تِسْعَةَ عَشَرَ }... إلى قوله: { وَيَزْدادَ الَّذِينَ آمَنُوا إيمَاناً
   } فلما سمع أبو جهل بذلك قال لقريش: ثكلتكم أمهاتكم، أسمع ابن أبي كبشة يخبركم أن خزَنة
   النار تسعة عشر وأنتم الدَّهم، أفيعجز كل عشرة منكم أن يبطشوا برجل من خزنة جهنم؟ فأوحي
   إلى رسول الله صلى الله عليه وسلم أن يأتي أبا جهل، فيأخذه بيده في بطحاء مكة فيقول
-  له:{ أَوْلى لَكَ فأوْلى ثمَّ أوْلى لَكَ فأَوْلى }فلما فعل ذلك به رسول الله صلى الله
-  عليه وسلم قال أبو جهل: والله لا تفعل أنت وربك شيئاً فأخزاه الله يوم بدر.حدثنا بشر،
-  قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة { عَلَيْها تِسْعَةَ عَشَرَ } ذُكر لنا أن
-  أبا جهل حين أُنزلت هذه الآية قال: يا معشر قريش ما يستطيع كلّ عشرة منكم أن يغلبوا
-  واحداً من خزَنة النار وأنتم الدَّهم؟ فصاحبكم يحدثكم أن عليها تسعة عشر.حدثنا ابن
-  عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة، قال: قال أبو جهل: يخبركم محمد أن
-  خزَنة النار تسعة عشر، وأنتم الدَّهم ليجتمع كلّ عشرة على واحد.حدثني يونس، قال: أخبرنا
-  ابن وهب، قال: قال ابن زيد، في قوله: { عَلَيْها تِسْعَةَ عَشَرَ } قال: خزنتها تسعة
-  عشر.وقوله: { وَما جَعَلْنا أصحَابَ النَّارِ إلاَّ مَلائِكَةً } يقول تعالى ذكره:
-  وما جعلنا خزَنة النار إلا ملائكة. يقول لأبي جهل في قوله لقريش: أما يستطيع كلّ عشرة
-  منكم أن تغلب منها واحداً؟ فمن ذا يغلب خزنة النار وهم الملائكة. وبنحو الذي قلنا في
-  ذلك قال أهل التأويل.ذكر من قال ذلك:حدثني يونس، قال: أخبرنا ابن وهب، قال: ثنا ابن
-  زيد، في قوله: { وَما جَعَلْنا أصحَابَ النَّارِ إلاَّ مَلائِكَةً } قال: ما جعلناهم
-  رجالاً، فيأخذ كلّ رجل رجلاً كما قال هذا.وقوله: { وَما جَعَلْنا عِدَّتَهُمْ إلاَّ
-  فِتْنَةً للَّذِينَ كَفَرُوا } يقول: وما جعلنا عدّة هؤلاء الخزنة إلا فتنة للذين كفروا
-  بالله من مُشركي قريش.\r\n\t\t\t\r\n\t\t\t1 2 3 4 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ سَأُصْلِيهِ سَقَرَ } * { وَمَآ أَدْرَاكَ
-  مَا سَقَرُ } * { لاَ تُبْقِي وَلاَ تَذَرُ } * { لَوَّاحَةٌ لِّلْبَشَرِ } * { عَلَيْهَا
-  تِسْعَةَ عَشَرَ } * { وَمَا جَعَلْنَآ أَصْحَٰبَ ٱلنَّارِ إِلاَّ مَلَٰئِكَةً وَمَا
-  جَعَلْنَا عِدَّتَهُمْ إِلاَّ فِتْنَةً لِّلَّذِينَ كَفَرُواْ لِيَسْتَيْقِنَ ٱلَّذِينَ
-  أُوتُواْ ٱلْكِتَٰبَ وَيَزْدَادَ ٱلَّذِينَ ءَامَنُوۤاْ إِيمَٰناً وَلاَ يَرْتَابَ
-  ٱلَّذِينَ أُوتُواْ ٱلْكِتَٰبَ وَٱلْمُؤْمِنُونَ وَلِيَقُولَ ٱلَّذِينَ فِي قُلُوبِهِم
-  مَّرَضٌ وَٱلْكَٰفِرُونَ مَاذَآ أَرَادَ ٱللَّهُ بِهَـٰذَا مَثَلاً كَذَلِكَ يُضِلُّ
-  ٱللَّهُ مَن يَشَآءُ وَيَهْدِي مَن يَشَآءُ وَمَا يَعْلَمُ جُنُودَ رَبِّكَ إِلاَّ
-  هُوَ وَمَا هِيَ إِلاَّ ذِكْرَىٰ لِلْبَشَرِ }وبنحو الذي قلنا في ذلك قال أهل التأويل.ذكر
-  من قال ذلك:حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة { وَما جَعَلْنا عِدَّتَهُمْ
-  إلاَّ فِتْنَةً للَّذِينَ كَفَرُوا }: إلا بلاء.وإنما جعل الله الخبر عن عدّة خزنة
+  له:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">أَوْلى
+  لَكَ فأوْلى ثمَّ أوْلى لَكَ فأَوْلى</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">فلما فعل ذلك به رسول الله صلى الله
+  عليه وسلم قال أبو جهل: والله لا تفعل أنت وربك شيئاً فأخزاه الله يوم بدر.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة { عَلَيْها تِسْعَةَ
+  عَشَرَ } ذُكر لنا أن أبا جهل حين أُنزلت هذه الآية قال: يا معشر قريش ما يستطيع كلّ
+  عشرة منكم أن يغلبوا واحداً من خزَنة النار وأنتم الدَّهم؟ فصاحبكم يحدثكم أن عليها
+  تسعة عشر.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن عبد الأعلى، قال: ثنا
+  ابن ثور، عن معمر، عن قتادة، قال: قال أبو جهل: يخبركم محمد أن خزَنة النار تسعة عشر،
+  وأنتم الدَّهم ليجتمع كلّ عشرة على واحد.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله: { عَلَيْها تِسْعَةَ عَشَرَ
+  } قال: خزنتها تسعة عشر.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقوله: { وَما جَعَلْنا أصحَابَ
+  النَّارِ إلاَّ مَلائِكَةً } يقول تعالى ذكره: وما جعلنا خزَنة النار إلا ملائكة. يقول
+  لأبي جهل في قوله لقريش: أما يستطيع كلّ عشرة منكم أن تغلب منها واحداً؟ فمن ذا يغلب
+  خزنة النار وهم الملائكة. وبنحو الذي قلنا في ذلك قال أهل التأويل.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  يونس، قال: أخبرنا ابن وهب، قال: ثنا ابن زيد، في قوله: { وَما جَعَلْنا أصحَابَ النَّارِ
+  إلاَّ مَلائِكَةً } قال: ما جعلناهم رجالاً، فيأخذ كلّ رجل رجلاً كما قال هذا.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقوله: { وَما جَعَلْنا عِدَّتَهُمْ إلاَّ فِتْنَةً للَّذِينَ كَفَرُوا
+  } يقول: وما جعلنا عدّة هؤلاء الخزنة إلا فتنة للذين كفروا بالله من مُشركي قريش.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(74, 26)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(74,26)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">سَأُصْلِيهِ سَقَرَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَمَآ أَدْرَاكَ
+  مَا سَقَرُ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">لاَ تُبْقِي وَلاَ تَذَرُ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">لَوَّاحَةٌ
+  لِّلْبَشَرِ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">عَلَيْهَا تِسْعَةَ عَشَرَ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَمَا
+  جَعَلْنَآ أَصْحَٰبَ ٱلنَّارِ إِلاَّ مَلَٰئِكَةً وَمَا جَعَلْنَا عِدَّتَهُمْ إِلاَّ
+  فِتْنَةً لِّلَّذِينَ كَفَرُواْ لِيَسْتَيْقِنَ ٱلَّذِينَ أُوتُواْ ٱلْكِتَٰبَ وَيَزْدَادَ
+  ٱلَّذِينَ ءَامَنُوۤاْ إِيمَٰناً وَلاَ يَرْتَابَ ٱلَّذِينَ أُوتُواْ ٱلْكِتَٰبَ وَٱلْمُؤْمِنُونَ
+  وَلِيَقُولَ ٱلَّذِينَ فِي قُلُوبِهِم مَّرَضٌ وَٱلْكَٰفِرُونَ مَاذَآ أَرَادَ ٱللَّهُ
+  بِهَـٰذَا مَثَلاً كَذَلِكَ يُضِلُّ ٱللَّهُ مَن يَشَآءُ وَيَهْدِي مَن يَشَآءُ وَمَا
+  يَعْلَمُ جُنُودَ رَبِّكَ إِلاَّ هُوَ وَمَا هِيَ إِلاَّ ذِكْرَىٰ لِلْبَشَرِ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">وبنحو الذي قلنا في ذلك قال أهل التأويل.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">ذكر
+  من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا بشر، قال: ثنا يزيد، قال:
+  ثنا سعيد، عن قتادة { وَما جَعَلْنا عِدَّتَهُمْ إلاَّ فِتْنَةً للَّذِينَ كَفَرُوا
+  }: إلا بلاء.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وإنما جعل الله الخبر عن عدّة خزنة
   جهنم فتنة للذين كفروا، لتكذيبهم بذلك، وقول بعضهم لأصحابه: أنا أكفيكموهم. ذكر الخبر
-  عمن قال ذلك:حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى وحدثني الحارث،
-  قال: ثنا الحسن، قال: ثنا ورقاء، جميعاً عن ابن أبي نجيح، عن مجاهد، قوله: { تِسْعَةَ
-  عَشَرَ } قال: جعلوا فتنة، قال أبو الأشدّ بن الجمحي: لا يبلغون رتوتي حتى أجهضهم عن
-  جهنم.وقوله: { لِيَسْتَيْقِنَ الَّذِينَ أُوتُوا الكِتابَ } يقول تعالى ذكره: ليستيقن
-  أهل التوراة والإنجيل حقيقة ما في كتبهم من الخبر عن عدّة خزَنة جهنم، إذ وافق ذلك
-  ما أنزل الله في كتابه على محمد صلى الله عليه وسلم. وبنحو الذي قلنا في ذلك قال أهل
-  التأويل.ذكر من قال ذلك:حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي،
-  عن أبيه، عن ابن عباس، قوله: { لِيَسْتَيْقِنَ الَّذِينَ أُوتُوا الكِتابَ وَيَزْدَادَ
-  الَّذِينَ آمَنُوا إيمَاناً } قال: وإنها في التوراة والإنجيل تسعة عشرة، فأراد الله
-  أن يستيقن أهل الكتاب، ويزداد الذين آمنوا إيماناً.حدثني محمد بن عمرو، قال: ثنا أبو
+  عمن قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثني محمد بن عمرو، قال: ثنا أبو
+  عاصم، قال: ثنا عيسى وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، جميعاً عن ابن
+  أبي نجيح، عن مجاهد، قوله: { تِسْعَةَ عَشَرَ } قال: جعلوا فتنة، قال أبو الأشدّ بن
+  الجمحي: لا يبلغون رتوتي حتى أجهضهم عن جهنم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقوله:
+  { لِيَسْتَيْقِنَ الَّذِينَ أُوتُوا الكِتابَ } يقول تعالى ذكره: ليستيقن أهل التوراة
+  والإنجيل حقيقة ما في كتبهم من الخبر عن عدّة خزَنة جهنم، إذ وافق ذلك ما أنزل الله
+  في كتابه على محمد صلى الله عليه وسلم. وبنحو الذي قلنا في ذلك قال أهل التأويل.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس، قوله:
+  { لِيَسْتَيْقِنَ الَّذِينَ أُوتُوا الكِتابَ وَيَزْدَادَ الَّذِينَ آمَنُوا إيمَاناً
+  } قال: وإنها في التوراة والإنجيل تسعة عشرة، فأراد الله أن يستيقن أهل الكتاب، ويزداد
+  الذين آمنوا إيماناً.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثني محمد بن عمرو، قال: ثنا أبو
   عاصم، قال: ثنا عيسى وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، جميعاً عن ابن
   أبي نجيح، عن مجاهد، قوله: { لِيَسْتَيْقِنَ الَّذِينَ أُوتُوا الكِتابَ } قال: يجدونه
-  مكتوباً عندهم عدّة خزَنة أهل النار.حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة
-  { لِيَسْتَيْقِنَ الَّذِينَ أُوتُوا الكِتابَ } يصدّق القرآن الكتب التي كانت قبله
-  فيها كلها، التوراة والإنجيل أن خزنة النار تسعة عشر.حدثنا ابن عبد الأعلى، قال: ثنا
+  مكتوباً عندهم عدّة خزَنة أهل النار.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة { لِيَسْتَيْقِنَ الَّذِينَ أُوتُوا الكِتابَ
+  } يصدّق القرآن الكتب التي كانت قبله فيها كلها، التوراة والإنجيل أن خزنة النار تسعة
+  عشر.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن عبد الأعلى، قال: ثنا
   ابن ثور، عن معمر، عن قتادة، في قوله: { لِيَسْتَيْقِنَ الَّذِينَ أُوتُوا الكِتابَ
-  } قال: ليستيقن أهل الكتاب حين وافق عدّة خزنة النار ما في كتبهم.حُدثت عن الحسين،
-  قال: سمعت أبا معاذ يقول: ثنا عبيد، قال: سمعت الضحاك يقول في قوله: { لِيَسْتَيْقِنَ
-  الَّذِينَ أُوتُوا الكِتابَ } قال: عدّة خزنة جهنم تسعة عشر في التوراة والإنجيل.وكان
-  ابن زيد يقول في ذلك ما:حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد في قوله:
-  { لِيَسْتَيْقِنَ الَّذِينَ أُوتُوا الكِتابَ } أنك رسول الله.وقوله: { وَيَزْدَادَ
-  الَّذِينَ آمَنُوا إيمَاناً } يقول تعالى ذكره: وليزداد الذين آمنوا بالله تصديقاً
-  إلى تصديقهم بالله وبرسوله بتصديقهم بعدّة خزنة جهنم.وقوله: { وَلا يَرْتابَ الَّذِينَ
-  أُوتُوا الكِتابَ وَالمُؤْمِنُونَ } يقول: ولا يشكّ أهل التوراة والإنجيل في حقيقة
-  ذلك والمؤمنون بالله من أمة محمد صلى الله عليه وسلم.وقوله: { وَليَقُولَ الَّذِينَ
-  فِي قُلُوبِهِمْ مَرَضٌ والكافِرُونَ } يقول تعالى ذكره: وليقول الذين في قلوبهم مرض
-  النفاق، والكافرون بالله من مشركي قريش { ماذَا أرَادَ اللَّهُ بِهَذَا مَثَلاً } ،
-  كما:حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة { وَلِيَقُولَ الَّذِينَ فِي
-  قُلُوبِهِمْ مَرَضٌ }: أي نفاق.\r\n\t\t\t\r\n\t\t\t1 2 3 4 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ سَأُصْلِيهِ سَقَرَ } * { وَمَآ أَدْرَاكَ
-  مَا سَقَرُ } * { لاَ تُبْقِي وَلاَ تَذَرُ } * { لَوَّاحَةٌ لِّلْبَشَرِ } * { عَلَيْهَا
-  تِسْعَةَ عَشَرَ } * { وَمَا جَعَلْنَآ أَصْحَٰبَ ٱلنَّارِ إِلاَّ مَلَٰئِكَةً وَمَا
-  جَعَلْنَا عِدَّتَهُمْ إِلاَّ فِتْنَةً لِّلَّذِينَ كَفَرُواْ لِيَسْتَيْقِنَ ٱلَّذِينَ
-  أُوتُواْ ٱلْكِتَٰبَ وَيَزْدَادَ ٱلَّذِينَ ءَامَنُوۤاْ إِيمَٰناً وَلاَ يَرْتَابَ
-  ٱلَّذِينَ أُوتُواْ ٱلْكِتَٰبَ وَٱلْمُؤْمِنُونَ وَلِيَقُولَ ٱلَّذِينَ فِي قُلُوبِهِم
-  مَّرَضٌ وَٱلْكَٰفِرُونَ مَاذَآ أَرَادَ ٱللَّهُ بِهَـٰذَا مَثَلاً كَذَلِكَ يُضِلُّ
-  ٱللَّهُ مَن يَشَآءُ وَيَهْدِي مَن يَشَآءُ وَمَا يَعْلَمُ جُنُودَ رَبِّكَ إِلاَّ
-  هُوَ وَمَا هِيَ إِلاَّ ذِكْرَىٰ لِلْبَشَرِ }حدثني يونس، قال: أخبرنا ابن وهب، قال:
-  قال ابن زيد، في قوله: { وَلِيَقُولَ الَّذِينَ فِي قُلُوبِهِمْ مَرَضٌ والكافِرُونَ
-  ماذَا أرَادَ اللَّهُ بِهَذَا مَثَلاً } يقول: حتى يخوّفنا بهؤلاء التسعة عشر.وقوله:
+  } قال: ليستيقن أهل الكتاب حين وافق عدّة خزنة النار ما في كتبهم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حُدثت عن الحسين، قال: سمعت أبا معاذ يقول: ثنا عبيد، قال: سمعت الضحاك
+  يقول في قوله: { لِيَسْتَيْقِنَ الَّذِينَ أُوتُوا الكِتابَ } قال: عدّة خزنة جهنم
+  تسعة عشر في التوراة والإنجيل.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وكان
+  ابن زيد يقول في ذلك ما:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثني يونس، قال: أخبرنا ابن وهب،
+  قال: قال ابن زيد في قوله: { لِيَسْتَيْقِنَ الَّذِينَ أُوتُوا الكِتابَ } أنك رسول
+  الله.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقوله: { وَيَزْدَادَ الَّذِينَ
+  آمَنُوا إيمَاناً } يقول تعالى ذكره: وليزداد الذين آمنوا بالله تصديقاً إلى تصديقهم
+  بالله وبرسوله بتصديقهم بعدّة خزنة جهنم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقوله:
+  { وَلا يَرْتابَ الَّذِينَ أُوتُوا الكِتابَ وَالمُؤْمِنُونَ } يقول: ولا يشكّ أهل
+  التوراة والإنجيل في حقيقة ذلك والمؤمنون بالله من أمة محمد صلى الله عليه وسلم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقوله: { وَليَقُولَ الَّذِينَ فِي قُلُوبِهِمْ مَرَضٌ والكافِرُونَ
+  } يقول تعالى ذكره: وليقول الذين في قلوبهم مرض النفاق، والكافرون بالله من مشركي قريش
+  { ماذَا أرَادَ اللَّهُ بِهَذَا مَثَلاً } ، كما:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة { وَلِيَقُولَ الَّذِينَ فِي قُلُوبِهِمْ
+  مَرَضٌ }: أي نفاق.</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">3 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(74, 26)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(74,26)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">سَأُصْلِيهِ سَقَرَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَمَآ أَدْرَاكَ
+  مَا سَقَرُ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">لاَ تُبْقِي وَلاَ تَذَرُ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">لَوَّاحَةٌ
+  لِّلْبَشَرِ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">عَلَيْهَا تِسْعَةَ عَشَرَ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَمَا
+  جَعَلْنَآ أَصْحَٰبَ ٱلنَّارِ إِلاَّ مَلَٰئِكَةً وَمَا جَعَلْنَا عِدَّتَهُمْ إِلاَّ
+  فِتْنَةً لِّلَّذِينَ كَفَرُواْ لِيَسْتَيْقِنَ ٱلَّذِينَ أُوتُواْ ٱلْكِتَٰبَ وَيَزْدَادَ
+  ٱلَّذِينَ ءَامَنُوۤاْ إِيمَٰناً وَلاَ يَرْتَابَ ٱلَّذِينَ أُوتُواْ ٱلْكِتَٰبَ وَٱلْمُؤْمِنُونَ
+  وَلِيَقُولَ ٱلَّذِينَ فِي قُلُوبِهِم مَّرَضٌ وَٱلْكَٰفِرُونَ مَاذَآ أَرَادَ ٱللَّهُ
+  بِهَـٰذَا مَثَلاً كَذَلِكَ يُضِلُّ ٱللَّهُ مَن يَشَآءُ وَيَهْدِي مَن يَشَآءُ وَمَا
+  يَعْلَمُ جُنُودَ رَبِّكَ إِلاَّ هُوَ وَمَا هِيَ إِلاَّ ذِكْرَىٰ لِلْبَشَرِ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله: { وَلِيَقُولَ
+  الَّذِينَ فِي قُلُوبِهِمْ مَرَضٌ والكافِرُونَ ماذَا أرَادَ اللَّهُ بِهَذَا مَثَلاً
+  } يقول: حتى يخوّفنا بهؤلاء التسعة عشر.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقوله:
   { كَذَلكَ يُضِلُّ اللَّهُ مَنْ يَشاءُ ويَهْدِي مَنْ يَشاءُ } يقول تعالى ذكره: كما
   أضل الله هؤلاء المنافقين والمشركين القائلين في خبر الله عن عدّة خزنة جهنم: أيّ شيء
   أراد الله بهذا الخبر من المثل حتى يخوّفنا بذكر عدتهم، ويهتدي به المؤمنون، فازدادوا
   بتصديقهم إلى إيمانهم إيماناً { كَذلكَ يُضِل اللَّهُ مَنْ يَشاءُ مِنْ خَلْقِهِ }
   فيخذله عن إصابة الحقّ { ويَهْدِي مَنْ يَشاءُ } منهم، فيوفقه لإصابة الصواب { وَما
-  يَعْلَمُ جُنُودَ رَبِّكَ } من كثرتهم { إلاَّ هُوَ }: يعني الله، كما:حدثنا بشر، قال:
-  ثنا يزيد، قال: ثنا سعيد، عن قتادة { وَما يَعْلَمُ جُنُودَ رَبِّكَ إلاَّ هُوَ } أي
-  من كثرتهم.وقوله: { وَما هِيَ إلاَّ ذِكْرَى للْبَشَرِ } يقول تعالى ذكره: وما النار
-  التي وصفتها إلا تذكرة ذكر بها البشر، وهم بنو آدم. وبنحو الذي قلنا في ذلك قال أهل
-  التأويل.ذكر من قال ذلك:حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله:
-  { وَما هِيَ إلاَّ ذِكْرَى للْبَشَر } يعني النار.حدثني محمد بن عمرو، قال: ثنا أبو
+  يَعْلَمُ جُنُودَ رَبِّكَ } من كثرتهم { إلاَّ هُوَ }: يعني الله، كما:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة { وَما يَعْلَمُ
+  جُنُودَ رَبِّكَ إلاَّ هُوَ } أي من كثرتهم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقوله:
+  { وَما هِيَ إلاَّ ذِكْرَى للْبَشَرِ } يقول تعالى ذكره: وما النار التي وصفتها إلا
+  تذكرة ذكر بها البشر، وهم بنو آدم. وبنحو الذي قلنا في ذلك قال أهل التأويل.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: { وَما هِيَ إلاَّ ذِكْرَى للْبَشَر
+  } يعني النار.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثني محمد بن عمرو، قال: ثنا أبو
   عاصم، قال: ثنا عيسى وحدثني الحارث، قال: ثنا الحسن، قال قال: ثنا ورقاء، جميعاً عن
-  ابن أبي نجيح، عن مجاهد { وَما هِيَ إلاَّ ذِكْرَى للْبَشَر } قال: النار.\r\n\t\t\t\r\n\t\t\t1 2 3 4 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  ابن أبي نجيح، عن مجاهد { وَما هِيَ إلاَّ ذِكْرَى للْبَشَر } قال: النار.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">4 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section>"
 

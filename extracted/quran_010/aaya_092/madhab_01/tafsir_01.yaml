@@ -1,4 +1,4 @@
-location:
+position:
   sura: '010'
   aaya: 092
   madhab: '01'
@@ -9,52 +9,130 @@ meta:
   year: '310'
 aaya: فَالْيَوْمَ نُنَجِّيكَ بِبَدَنِكَ لِتَكُونَ لِمَنْ خَلْفَكَ آيَةً ۚ وَإِنَّ
   كَثِيرًا مِنَ النَّاسِ عَنْ آيَاتِنَا لَغَافِلُونَ
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ فَٱلْيَوْمَ نُنَجِّيكَ
-  بِبَدَنِكَ لِتَكُونَ لِمَنْ خَلْفَكَ آيَةً وَإِنَّ كَثِيراً مِّنَ ٱلنَّاسِ عَنْ
-  آيَاتِنَا لَغَافِلُونَ }يقول تعالى ذكره لفرعون: فاليوم نجعلك على نجوة من الأرض ببدنك،
-  ينظر إليك هالكا من كذّب بهلاكك. { لِتَكُونَ لِمَنْ خَلْفَكَ آيَةً } يقول: لمن بعدك
-  من الناس عبرة يعتبرون بك، فينزجرون عن معصية الله والكفر به والسعي في أرضه بالفساد.
-  والنجوة: الموضع المرتفع على ما حوله من الأرض، ومنه قوله أوس بن حجرفَمَنْ بِعَقْوَتِهِ
-  كَمَنْ بِنَجْوَتِهِ   والمُسْتَكِنُّ كمَنْ يَمْشِي بِقرْوَاحِوبنحو الذي قلنا في
-  ذلك قال أهل التأويل. ذكر من قال ذلك:حدثنا محمد بن عبد الأعلى، قال: ثنا المعتمر بن
-  سليمان، عن أبيه، عن أبي السليل، عن قيس بن عباد وغيره قال: قالت بنو إسرائيل لموسى:
-  إنه لم يمت فرعون. قال: فأخرجه الله إليهم ينظرون إليه مثل الثور الأحمر.حدثني يعقوب
-  بن إبراهيم، قال: ثنا ابن علية، عن سعيد الجريري، عن أبي السليل، عن قيس بن عباد، قال:
-  وكان من أكثر الناس، أو أحدث الناس عن بني إسرائيل. قال: فحدثنا أن أول جنود فرعون
-  لما انتهى إلى البحر هابت الخيل اللهب، قال: ومثل لحصان منها فرس وديق، فوجد ريحها
-  أحسبه أنا قال: فانسل فاتبعته قال: فلما تتامَّ آخر جنود فرعون في البحر وخرج آخر بني
-  إسرائيل أمر البحر فانطبق عليهم، فقالت بنو إسرائيل: ما مات فرعون، وما كان ليموت أبدا
-  فسمع الله تكذيبهم نبيه. قال: فرمى به على الساحل كأنه ثور أحمر يتراءآه بنو إسرائيل.حدثنا
-  ابن حميد، قال: ثنا يحيى بن واضح، قال: ثنا موسى بن عبيدة، عن محمد بن كعب، عن عبد
-  الله بن شداد: { فالْيَوْمَ نُنَجِّيكَ بِبَدنِكَ } قال: بدنه: جسده رمى به البحر.حدثني
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(10, 92)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(10,92)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">فَٱلْيَوْمَ
+  نُنَجِّيكَ بِبَدَنِكَ لِتَكُونَ لِمَنْ خَلْفَكَ آيَةً وَإِنَّ كَثِيراً مِّنَ ٱلنَّاسِ
+  عَنْ آيَاتِنَا لَغَافِلُونَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\"
+  dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">يقول تعالى ذكره
+  لفرعون: فاليوم نجعلك على نجوة من الأرض ببدنك، ينظر إليك هالكا من كذّب بهلاكك. {
+  لِتَكُونَ لِمَنْ خَلْفَكَ آيَةً } يقول: لمن بعدك من الناس عبرة يعتبرون بك، فينزجرون
+  عن معصية الله والكفر به والسعي في أرضه بالفساد. والنجوة: الموضع المرتفع على ما حوله
+  من الأرض، ومنه قوله أوس بن حجر</font></font><table class=\"TextArabic\" dir=\"rtl\"><tr
+  class=\"TextArabic\"><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">فَمَنْ بِعَقْوَتِهِ كَمَنْ بِنَجْوَتِهِ</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">والمُسْتَكِنُّ كمَنْ يَمْشِي بِقرْوَاحِ</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">وبنحو الذي قلنا في ذلك قال أهل
+  التأويل. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا محمد بن عبد الأعلى، قال:
+  ثنا المعتمر بن سليمان، عن أبيه، عن أبي السليل، عن قيس بن عباد وغيره قال: قالت بنو
+  إسرائيل لموسى: إنه لم يمت فرعون. قال: فأخرجه الله إليهم ينظرون إليه مثل الثور الأحمر.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني يعقوب بن إبراهيم، قال: ثنا ابن علية، عن سعيد الجريري، عن أبي
+  السليل، عن قيس بن عباد، قال: وكان من أكثر الناس، أو أحدث الناس عن بني إسرائيل. قال:
+  فحدثنا أن أول جنود فرعون لما انتهى إلى البحر هابت الخيل اللهب، قال: ومثل لحصان منها
+  فرس وديق، فوجد ريحها أحسبه أنا قال: فانسل فاتبعته قال: فلما تتامَّ آخر جنود فرعون
+  في البحر وخرج آخر بني إسرائيل أمر البحر فانطبق عليهم، فقالت بنو إسرائيل: ما مات
+  فرعون، وما كان ليموت أبدا فسمع الله تكذيبهم نبيه. قال: فرمى به على الساحل كأنه ثور
+  أحمر يتراءآه بنو إسرائيل.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن حميد، قال: ثنا يحيى بن
+  واضح، قال: ثنا موسى بن عبيدة، عن محمد بن كعب، عن عبد الله بن شداد: { فالْيَوْمَ
+  نُنَجِّيكَ بِبَدنِكَ } قال: بدنه: جسده رمى به البحر.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
   المثنى، قال: ثنا أبو حذيفة، قال: ثنا شبل، عن ابن أبي نجيح، عن مجاهد، عن مجاهد: {
-  فالْيَوْمَ نُنَجِّيكَ بِبَدنِكَ قال: بجسدك.حدثني المثنى، قال: ثنا إسحاق، قال: ثنا
-  عبد الله، عن ورقاء، عن ابن أبي نجيح، عن مجاهد، مثله.حدثنا القاسم، قال: ثنا الحسين،
-  قال: ثنا حجاج، عن ابن جريج، عن مجاهد، مثله.حدثنا تميم بن المنتصر، قال: ثنا يزيد،
-  قال: ثنا الأصغر بن زيد، عن القاسم بن أبي أيوب، قال: ثني سعيد بن جبير، عن ابن عباس،
-  قال: لما جاوز موسى البحر بجميع من معه، التقى البحر عليهم يعني على فرعون وقومه فأغرقهم،
-  فقال أصحاب موسى: إنا نخاف أن لا يكون فرعون غرق، ولا نؤمن بهلاكه فدعا ربه فأخرجه،
-  فنبذه البحر حتى استيقنوا بهلاكه.حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة:
-  { فالْيَوْمَ نُنَجِّيكَ بِبَدنِكَ لِتَكُونَ لِمَنْ خَلْفَكَ آيَةً } يقول: أنكر ذلك
-  طوائف من بني إسرائيل، فقذفه الله على ساحل البحر ينظرون إليه.\r\n\t\t\t\r\n\t\t\t1 2 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ فَٱلْيَوْمَ نُنَجِّيكَ بِبَدَنِكَ
-  لِتَكُونَ لِمَنْ خَلْفَكَ آيَةً وَإِنَّ كَثِيراً مِّنَ ٱلنَّاسِ عَنْ آيَاتِنَا لَغَافِلُونَ
-  }حدثنا محمد بن عبد الأعلى، قال: ثنا محمد بن ثور، عن معمر، عن قتادة: { لِتَكُونَ
-  لِمَنْ خَلْفَكَ آيَةً } قال: لما أغرق الله فرعون لم تصدق طائفة من الناس بذلك، فأخرجه
-  الله آية وعظة.حدثنا الحسن بن يحيى، قال: أخبرنا عبد الرزاق، قال: أخبرنا ابن التيمي،
-  عن أبيه، عن أبي السليل عن قيس بن عباد أو غيره، بنحو حديث ابن عبد الأعلى، عن معمر.حدثنا
+  فالْيَوْمَ نُنَجِّيكَ بِبَدنِكَ قال: بجسدك.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  المثنى، قال: ثنا إسحاق، قال: ثنا عبد الله، عن ورقاء، عن ابن أبي نجيح، عن مجاهد،
+  مثله.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا القاسم، قال: ثنا الحسين،
+  قال: ثنا حجاج، عن ابن جريج، عن مجاهد، مثله.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  تميم بن المنتصر، قال: ثنا يزيد، قال: ثنا الأصغر بن زيد، عن القاسم بن أبي أيوب، قال:
+  ثني سعيد بن جبير، عن ابن عباس، قال: لما جاوز موسى البحر بجميع من معه، التقى البحر
+  عليهم يعني على فرعون وقومه فأغرقهم، فقال أصحاب موسى: إنا نخاف أن لا يكون فرعون غرق،
+  ولا نؤمن بهلاكه فدعا ربه فأخرجه، فنبذه البحر حتى استيقنوا بهلاكه.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة: { فالْيَوْمَ
+  نُنَجِّيكَ بِبَدنِكَ لِتَكُونَ لِمَنْ خَلْفَكَ آيَةً } يقول: أنكر ذلك طوائف من بني
+  إسرائيل، فقذفه الله على ساحل البحر ينظرون إليه.</font></font>&#13;\t\t\t<label disabled=\"true\"
+  class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(10, 92)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(10,92)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">فَٱلْيَوْمَ نُنَجِّيكَ بِبَدَنِكَ لِتَكُونَ لِمَنْ
+  خَلْفَكَ آيَةً وَإِنَّ كَثِيراً مِّنَ ٱلنَّاسِ عَنْ آيَاتِنَا لَغَافِلُونَ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا محمد بن عبد الأعلى، قال: ثنا محمد بن ثور، عن معمر، عن قتادة:
+  { لِتَكُونَ لِمَنْ خَلْفَكَ آيَةً } قال: لما أغرق الله فرعون لم تصدق طائفة من الناس
+  بذلك، فأخرجه الله آية وعظة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  الحسن بن يحيى، قال: أخبرنا عبد الرزاق، قال: أخبرنا ابن التيمي، عن أبيه، عن أبي السليل
+  عن قيس بن عباد أو غيره، بنحو حديث ابن عبد الأعلى، عن معمر.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
   ابن وكيع، قال: ثنا عبد الله بن رجاء، عن ابن جريج، عن عبد الله بن كثير، عن مجاهد:
-  { فالْيَوْمَ نُنَجِّيكَ بِبَدنِكَ } قال: بجسدك.قال: ثنا محمد بن بكير، عن ابن جريج،
-  قال: بلغني، عن مجاهد: { فالْيَوْمَ نُنَجِّيكَ بِبَدنِكَ } قال: بجسدك.حدثنا القاسم،
-  قال: ثنا الحسين، قال: ثني حجاج، عن ابن جريج، قال: كذب بعض بني إسرائيل بموت فرعون،
-  فرمى به على ساحل البحر ليراه بنو إسرائيل، قال: كأنه ثور أحمر.وقال آخرون: تنجو بجسدك
-  من البحر فتخرج منه. ذكر من قال ذلك:حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي،
-  قال: ثني أبي، عن أبيه، عن ابن عباس، قوله: { فالْيَوْمَ نُنَجِّيكَ بِبَدنِكَ لِتَكُونَ
-  لِمَنْ خَلْفَكَ آيَةً } يقول: أنجى الله فرعون لبني إسرائيل من البحر، فنظروا إليه
-  بعد ما غرق.فإن قال قائل: وما وجه قوله: ببدنك؟ وهل يجوز أن ينجيه بغير بدنه، فيحتاج
-  الكلام إلى أن يقال فيه ببدنك؟ قيل: كان جائزاً أن ينجيه بهيئته حياً كما البحر فلما
-  كان جائراً ذلك قيل فاليوم ننجيك ببدنك ليعلم أنه ينجيه بالبدن بغير روح، ولكن ميتاً.وقوله:
-  { وإنَّ كَثِيراً مِنَ النَّاسِ عَنْ آياتِنا لَغافِلُونَ } يقول تعالى ذكره: { وإنَّ
-  كَثِيراً مِنَ النَّاسِ عَنْ آياتِنَا } يعني: عن حججنا وأدلتنا على أن العبادة والألوهة
-  لنا خالصة، { لغَافِلُونَ } يقول: لساهون، لا يتفكرون فيها ولا يعتبرون بها.\r\n\t\t\t\r\n\t\t\t1 2 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  { فالْيَوْمَ نُنَجِّيكَ بِبَدنِكَ } قال: بجسدك.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال:
+  ثنا محمد بن بكير، عن ابن جريج، قال: بلغني، عن مجاهد: { فالْيَوْمَ نُنَجِّيكَ بِبَدنِكَ
+  } قال: بجسدك.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا القاسم، قال: ثنا الحسين،
+  قال: ثني حجاج، عن ابن جريج، قال: كذب بعض بني إسرائيل بموت فرعون، فرمى به على ساحل
+  البحر ليراه بنو إسرائيل، قال: كأنه ثور أحمر.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  آخرون: تنجو بجسدك من البحر فتخرج منه. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس، قوله:
+  { فالْيَوْمَ نُنَجِّيكَ بِبَدنِكَ لِتَكُونَ لِمَنْ خَلْفَكَ آيَةً } يقول: أنجى الله
+  فرعون لبني إسرائيل من البحر، فنظروا إليه بعد ما غرق.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">فإن
+  قال قائل: وما وجه قوله: ببدنك؟ وهل يجوز أن ينجيه بغير بدنه، فيحتاج الكلام إلى أن
+  يقال فيه ببدنك؟ قيل: كان جائزاً أن ينجيه بهيئته حياً كما البحر فلما كان جائراً ذلك
+  قيل فاليوم ننجيك ببدنك ليعلم أنه ينجيه بالبدن بغير روح، ولكن ميتاً.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقوله: { وإنَّ كَثِيراً مِنَ النَّاسِ عَنْ آياتِنا لَغافِلُونَ }
+  يقول تعالى ذكره: { وإنَّ كَثِيراً مِنَ النَّاسِ عَنْ آياتِنَا } يعني: عن حججنا وأدلتنا
+  على أن العبادة والألوهة لنا خالصة، { لغَافِلُونَ } يقول: لساهون، لا يتفكرون فيها
+  ولا يعتبرون بها.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section>"
 

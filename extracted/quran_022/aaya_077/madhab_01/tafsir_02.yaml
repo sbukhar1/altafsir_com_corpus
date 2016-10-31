@@ -1,4 +1,4 @@
-location:
+position:
   sura: '022'
   aaya: '077'
   madhab: '01'
@@ -7,18 +7,39 @@ meta:
   title: تفسير الكشاف
   author: الزمخشري
   year: '538'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ يٰأَيُّهَا ٱلَّذِينَ
-  آمَنُواْ ٱرْكَعُواْ وَٱسْجُدُواْ وَاعْبُدُواْ رَبَّكُمْ وَٱفْعَلُواْ ٱلْخَيْرَ لَعَلَّكُمْ
-  تُفْلِحُونَ }للذكر شأن ليس لغيره من الطاعات. وفي هذه السورة دلالات على ذلك، فمن
-  ثمة دعا المؤمنين أولاً إلى الصلاة التي هي ذكر خالص، ثم إلى العبادة بغير الصلاة كالصوم
-  والحجّ والغزو، ثم عمّ بالحثّ على سائر الخيرات. وقيل: كان الناس أوّل ما أسلموا يسجدون
-  بلا ركوع ويركعون بلا سجود، فأمروا أن تكون صلاتهم بركوع وسجود. وقيل: معنى: { وَاعْبُدُواْ
-  رَبَّكُمْ } اقصدوا بركوعكم وسجودكم وجه الله. وعن ابن عباس في قوله: { وَٱفْعَلُواْ
-  ٱلْخَيْرَ } صلة الأرحام ومكارم الأخلاق { لَعَلَّكُمْ تُفْلِحُونَ } أي افعلوا هذا
-  كله وأنتم راجون للفلاح طامعون فيه، غير مستيقنين ولا تتكلوا على أعمالكم، وعن عقبة
-  بن عامر رضي الله عنه قال:(714) قلت: يا رسول الله في سورة الحجّ سجدتان؟ قال: \" نعم،
-  إن لم تسجدهما فلا تقرأهما \" وعن عبد الله ابن عمر رضي الله عنهما فضلت سورة الحج
-  بسجدتين. وبذلك احتجّ الشافعي رضي الله عنه، فرأى سجدتين في سورة الحجّ، وأبو حنيفة
-  وأصحابه رضي لله عنهم لا يرون فيها إلا سجدة واحدة، لأنهم يقولون: قرن السجود بالركوع،
-  فدلّ ذلك على أنها سجدة صلاة لا سجدة تلاوة.\r\n\t\t\t\r\n\t\t\t</section>"
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(22, 77)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(22,77)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">يٰأَيُّهَا
+  ٱلَّذِينَ آمَنُواْ ٱرْكَعُواْ وَٱسْجُدُواْ وَاعْبُدُواْ رَبَّكُمْ وَٱفْعَلُواْ ٱلْخَيْرَ
+  لَعَلَّكُمْ تُفْلِحُونَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\"
+  dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">للذكر شأن ليس
+  لغيره من الطاعات. وفي هذه السورة دلالات على ذلك، فمن ثمة دعا المؤمنين أولاً إلى
+  الصلاة التي هي ذكر خالص، ثم إلى العبادة بغير الصلاة كالصوم والحجّ والغزو، ثم عمّ
+  بالحثّ على سائر الخيرات. وقيل: كان الناس أوّل ما أسلموا يسجدون بلا ركوع ويركعون
+  بلا سجود، فأمروا أن تكون صلاتهم بركوع وسجود. وقيل: معنى: { وَاعْبُدُواْ رَبَّكُمْ
+  } اقصدوا بركوعكم وسجودكم وجه الله. وعن ابن عباس في قوله: { وَٱفْعَلُواْ ٱلْخَيْرَ
+  } صلة الأرحام ومكارم الأخلاق { لَعَلَّكُمْ تُفْلِحُونَ } أي افعلوا هذا كله وأنتم
+  راجون للفلاح طامعون فيه، غير مستيقنين ولا تتكلوا على أعمالكم، وعن عقبة بن عامر رضي
+  الله عنه قال:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">(714) قلت: يا رسول الله في سورة
+  الحجّ سجدتان؟ قال:</font></font><b><font class=\"TextResultArabic\"><font color=\"Red\">
+  \" نعم، إن لم تسجدهما فلا تقرأهما \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">وعن عبد الله ابن عمر رضي الله عنهما فضلت سورة الحج بسجدتين. وبذلك
+  احتجّ الشافعي رضي الله عنه، فرأى سجدتين في سورة الحجّ، وأبو حنيفة وأصحابه رضي لله
+  عنهم لا يرون فيها إلا سجدة واحدة، لأنهم يقولون: قرن السجود بالركوع، فدلّ ذلك على
+  أنها سجدة صلاة لا سجدة تلاوة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

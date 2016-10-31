@@ -1,4 +1,4 @@
-location:
+position:
   sura: '005'
   aaya: '037'
   madhab: '01'
@@ -7,24 +7,49 @@ meta:
   title: تفسير الكشاف
   author: الزمخشري
   year: '538'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ إِنَّ ٱلَّذِينَ
-  كَفَرُواْ لَوْ أَنَّ لَهُمْ مَّا فِي ٱلأَرْضِ جَمِيعاً وَمِثْلَهُ مَعَهُ لِيَفْتَدُواْ
-  بِهِ مِنْ عَذَابِ يَوْمِ ٱلْقِيَامَةِ مَا تُقُبِّلَ مِنْهُمْ وَلَهُمْ عَذَابٌ أَلِيمٌ
-  } * { يُرِيدُونَ أَن يَخْرُجُواْ مِنَ ٱلنَّارِ وَمَا هُم بِخَارِجِينَ مِنْهَا وَلَهُمْ
-  عَذَابٌ مُّقِيمٌ }{ لِيَفْتَدُواْ بِهِ } ليجعلوه فدية لأنفسهم. وهذا تمثيل للزوم
-  العذاب لهم، وأنه لا سبيل لهم إلى النجاة منه بوجه. وعن النبي صلى الله عليه وسلم:(348)
-  \" يقال للكافر يوم القيامة: أرأيت لو كان لك ملء الأرض ذهباً أكنت تفتدي به، فيقول:
-  نعم، فيقال له: قد سئلت أيسر من ذلك \" و (لو) مع ما في حيزه خبر (أن). فإن قلت: لم
-  وحد الراجع في قوله: { لِيَفْتَدُواْ بِهِ } وقد ذكر شيئان؟ قلت: نحو قوله:فَإنِّي
-  وَقَيَّارٌ بِهَا لَغَرِيبُ   أو على إجراء الضمير مجرى اسم الإشارة، كأنه قيل: ليفتدوا
-  بذلك. ويجوز أن يكون الواو في (مثله) بمعنى (مع) فيتوحد المرجوع إليه. فإن قلت: فبم
-  ينصب المفعول معه؟ قلت: بما يستدعيه (لو) من الفعل، لأن التقدير: لو ثبت أن لهم ما
-  في الأرض. قرأ أبو واقد «أن يُخرجوا» بضم الياء من أخرج. ويشهد لقراءة العامّة قوله:
-  (بخارجين). وما يروى عن عكرمة أن نافع بن الأزرق قال لابن عباس: يا أعمى البصر أعمى
-  القلب تزعم أن قوماً يخرجون من النار، وقد قال الله تعالى: { وَمَا هُم بِخَـٰرِجِينَ
-  مِنْهَا } فقال: ويحك، اقرأ ما فوقها. هذا للكفار. فما لفقته المجبرة وليس بأول تكاذيبهم
-  وفراهم. وكفاك بما فيه من مواجهة ابن الأزرق ابن عمّ رسول الله صلى الله عليه وسلم
-  وهو بين أظهر أعضاده من قريش وأنضاده من بني عبد المطلب وهو حبر الأمّة وبحرها ومفسرها،
-  بالخطاب الذي لا يجسر على مثله أحد من أهل الدنيا، وبرفعه إلى عكرمة دليلين ناصين أن
-  الحديث فرية ما فيها مرية.\r\n\t\t\t\r\n\t\t\t</section>"
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(5, 36)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(5,36)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">إِنَّ
+  ٱلَّذِينَ كَفَرُواْ لَوْ أَنَّ لَهُمْ مَّا فِي ٱلأَرْضِ جَمِيعاً وَمِثْلَهُ مَعَهُ
+  لِيَفْتَدُواْ بِهِ مِنْ عَذَابِ يَوْمِ ٱلْقِيَامَةِ مَا تُقُبِّلَ مِنْهُمْ وَلَهُمْ
+  عَذَابٌ أَلِيمٌ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">يُرِيدُونَ أَن يَخْرُجُواْ مِنَ ٱلنَّارِ
+  وَمَا هُم بِخَارِجِينَ مِنْهَا وَلَهُمْ عَذَابٌ مُّقِيمٌ</a> <b>}</b></font>, <br/>,
+  <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">{
+  لِيَفْتَدُواْ بِهِ } ليجعلوه فدية لأنفسهم. وهذا تمثيل للزوم العذاب لهم، وأنه لا
+  سبيل لهم إلى النجاة منه بوجه. وعن النبي صلى الله عليه وسلم:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">(348)</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" يقال للكافر يوم القيامة: أرأيت
+  لو كان لك ملء الأرض ذهباً أكنت تفتدي به، فيقول: نعم، فيقال له: قد سئلت أيسر من ذلك
+  \" </font></font></b><font class=\"TextResultArabic\"><font color=\"black\">و (لو)
+  مع ما في حيزه خبر (أن). فإن قلت: لم وحد الراجع في قوله: { لِيَفْتَدُواْ بِهِ } وقد
+  ذكر شيئان؟ قلت: نحو قوله:</font></font><table class=\"TextArabic\" dir=\"rtl\"><tr
+  class=\"TextArabic\"><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">فَإنِّي وَقَيَّارٌ بِهَا لَغَرِيبُ</font></font></b></td><td class=\"TextArabic\">   </td><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\"/></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">أو على إجراء الضمير مجرى اسم الإشارة،
+  كأنه قيل: ليفتدوا بذلك. ويجوز أن يكون الواو في (مثله) بمعنى (مع) فيتوحد المرجوع
+  إليه. فإن قلت: فبم ينصب المفعول معه؟ قلت: بما يستدعيه (لو) من الفعل، لأن التقدير:
+  لو ثبت أن لهم ما في الأرض. قرأ أبو واقد «أن يُخرجوا» بضم الياء من أخرج. ويشهد لقراءة
+  العامّة قوله: (بخارجين). وما يروى عن عكرمة أن نافع بن الأزرق قال لابن عباس: يا أعمى
+  البصر أعمى القلب تزعم أن قوماً يخرجون من النار، وقد قال الله تعالى: { وَمَا هُم
+  بِخَـٰرِجِينَ مِنْهَا } فقال: ويحك، اقرأ ما فوقها. هذا للكفار. فما لفقته المجبرة
+  وليس بأول تكاذيبهم وفراهم. وكفاك بما فيه من مواجهة ابن الأزرق ابن عمّ رسول الله
+  صلى الله عليه وسلم وهو بين أظهر أعضاده من قريش وأنضاده من بني عبد المطلب وهو حبر
+  الأمّة وبحرها ومفسرها، بالخطاب الذي لا يجسر على مثله أحد من أهل الدنيا، وبرفعه إلى
+  عكرمة دليلين ناصين أن الحديث فرية ما فيها مرية.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

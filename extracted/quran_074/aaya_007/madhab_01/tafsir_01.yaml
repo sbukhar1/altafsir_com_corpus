@@ -1,4 +1,4 @@
-location:
+position:
   sura: '074'
   aaya: '007'
   madhab: '01'
@@ -7,212 +7,624 @@ meta:
   title: تفسير جامع البيان في تفسير القرآن
   author: الطبري
   year: '310'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ يٰأَيُّهَا ٱلْمُدَّثِّرُ
-  } * { قُمْ فَأَنذِرْ } * { وَرَبَّكَ فَكَبِّرْ } * { وَثِيَابَكَ فَطَهِّرْ } * {
-  وَٱلرُّجْزَ فَٱهْجُرْ } * { وَلاَ تَمْنُن تَسْتَكْثِرُ } * { وَلِرَبِّكَ فَٱصْبِرْ
-  }يقول جلّ ثناؤه: { يا أيُّها المُدَّثِّرُ }: يا أيها المتدثر بثيابه عند نومه.وذُكر
-  أن نبيّ الله صلى الله عليه وسلم قيل له ذلك، وهو متدثر بقطيفة. ذكر من قال ذلك:حدثنا
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(74, 1)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(74,1)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">يٰأَيُّهَا
+  ٱلْمُدَّثِّرُ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">قُمْ فَأَنذِرْ</a> <b>} * </b><b>{</b> <a
+  class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَرَبَّكَ
+  فَكَبِّرْ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">وَثِيَابَكَ فَطَهِّرْ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَٱلرُّجْزَ
+  فَٱهْجُرْ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">وَلاَ تَمْنُن تَسْتَكْثِرُ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَلِرَبِّكَ
+  فَٱصْبِرْ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">يقول جلّ ثناؤه: { يا أيُّها المُدَّثِّرُ
+  }: يا أيها المتدثر بثيابه عند نومه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وذُكر أن نبيّ الله صلى الله عليه
+  وسلم قيل له ذلك، وهو متدثر بقطيفة. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
   محمد بن المثنى، قال: ثنا يحيى بن سعيد، عن شعبة، عن المغيرة، عن إبراهيم { يا أيُّها
-  المُدَّثِّرُ } قال: كان متدثراً في قطيفة.وذُكر أن هذه الآية أوّل شيء نزل من القرآن
-  على رسول الله صلى الله عليه وسلم، وأنه قيل له: { يا أيُّها المُدَّثِّرُ } ، كما:حدثنا
+  المُدَّثِّرُ } قال: كان متدثراً في قطيفة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وذُكر
+  أن هذه الآية أوّل شيء نزل من القرآن على رسول الله صلى الله عليه وسلم، وأنه قيل له:
+  { يا أيُّها المُدَّثِّرُ } ، كما:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
   يونس، قال: أخبرنا ابن وهب، قال: أخبرنا يونس، عن ابن شهاب، قال: أخبرني أبو سلمة بن
   عبد الرحمن، أن جابر بن عبد الله الأنصاري قال: قال رسول الله صلى الله عليه وسلم وهو
-  يحدّث عن فترة الوحي: \" بَيْنا أنا أمْشِي سَمِعْت صَوْتاً مِنَ السَّماءِ فَرَفَعْتُ
-  رأسِي، فإذَا المَلَك الَّذِي جاءَنِي بِحِرَاءَ جالِسٌ على كُرْسِيّ بَينَ السَّماءِ
-  والأرْضِ \" قال رسول الله صلى الله عليه وسلم: \" فَجُثِثْتُ مِنْهُ فَرَقاً، وجِئْتُ
-  أهْلي فَقُلْتُ: زَمِّلُونِي زَمِّلُوني، فدَثَّرُونِي \" فأنزل الله: { يا أيُّها
-  المُدَّثِّرُ قُمْ فأنْذِرْ وَرَبِّكَ فَكَبِّرْ }... إلى قوله: { وَالرُّجْزَ فاهْجُرْ
-  } قال: ثم تتابع الوحي.حدثنا ابن المثنى، قال: ثنا الوليد بن مسلم، قال: ثنا الأوزاعي،
-  قال: ثني يحيى بن أبي كثير، قال: سألت أبا سلمة: أيّ القرآن أُنزل أوّل، فقال: { يا
-  أيُّها المُدَّثِّرُ } فقلت: يقولون{ اقْرأ باسْمِ رَبِّكَ الَّذي خَلَقَ }، فقال أبو
-  سلمة: سألت جابر بن عبد الله: أيّ القرآن أنزل أوّل؟ فقال: { يا أيُّها المُدَّثِّرُ
-  } ، فقلت يقولون:{ اقْرأ باسْمِ رَبِّكَ الَّذِي خَلَقَ }فقال: لا أخبرك إلا ما حدثنا
-  النبيّ صلى الله عليه وسلم، قال: \" جاورت في حِراء فلما قضيت جواري هبطت، فاستبطنت
-  الوادي، فنوديت، فنظرت عن يميني وعن شمالي وخلفي وقدّامي، فلم أر شيئاً، فنظرت فوق
-  رأسي فإذا هو جالس على عرش بين السماء والأرض، فخشيت منه \" هكذا قال عثمان بن عمرو،
-  إنما هو: «فجثثت منه، ولقيت خديجة، فقلت: دثروني، فدثروني، وصبوا عليّ ماءً، فأنزل
-  الله عليّ: { يا أيُّها المُدَّثِّرُ قُمْ فأنْدِرْ }.حدثنا أبو كريب، قال: ثنا وكيع،
+  يحدّث عن فترة الوحي:</font></font><b><font class=\"TextResultArabic\"><font color=\"Red\">
+  \" بَيْنا أنا أمْشِي سَمِعْت صَوْتاً مِنَ السَّماءِ فَرَفَعْتُ رأسِي، فإذَا المَلَك
+  الَّذِي جاءَنِي بِحِرَاءَ جالِسٌ على كُرْسِيّ بَينَ السَّماءِ والأرْضِ \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\">قال رسول الله صلى الله عليه وسلم:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" فَجُثِثْتُ مِنْهُ فَرَقاً، وجِئْتُ
+  أهْلي فَقُلْتُ: زَمِّلُونِي زَمِّلُوني، فدَثَّرُونِي \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\">فأنزل الله: { يا أيُّها المُدَّثِّرُ
+  قُمْ فأنْذِرْ وَرَبِّكَ فَكَبِّرْ }... إلى قوله: { وَالرُّجْزَ فاهْجُرْ } قال: ثم
+  تتابع الوحي.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن المثنى، قال: ثنا الوليد
+  بن مسلم، قال: ثنا الأوزاعي، قال: ثني يحيى بن أبي كثير، قال: سألت أبا سلمة: أيّ القرآن
+  أُنزل أوّل، فقال: { يا أيُّها المُدَّثِّرُ } فقلت: يقولون</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">اقْرأ باسْمِ رَبِّكَ الَّذي خَلَقَ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">، فقال
+  أبو سلمة: سألت جابر بن عبد الله: أيّ القرآن أنزل أوّل؟ فقال: { يا أيُّها المُدَّثِّرُ
+  } ، فقلت يقولون:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">اقْرأ باسْمِ رَبِّكَ الَّذِي خَلَقَ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">فقال:
+  لا أخبرك إلا ما حدثنا النبيّ صلى الله عليه وسلم، قال:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" جاورت في حِراء فلما قضيت جواري هبطت، فاستبطنت الوادي، فنوديت،
+  فنظرت عن يميني وعن شمالي وخلفي وقدّامي، فلم أر شيئاً، فنظرت فوق رأسي فإذا هو جالس
+  على عرش بين السماء والأرض، فخشيت منه \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">هكذا قال عثمان بن عمرو، إنما هو: «فجثثت منه، ولقيت خديجة، فقلت:
+  دثروني، فدثروني، وصبوا عليّ ماءً، فأنزل الله عليّ: { يا أيُّها المُدَّثِّرُ قُمْ
+  فأنْدِرْ }.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا أبو كريب، قال: ثنا وكيع،
   عن عليّ بن مبارك، عن يحيى بن أبي كثير، قال: سألت أبا سلمة عن أوّل ما نزل من القرآن،
   قال: نزلت { يا أيُّها المُدَّثِّرُ } أوّل قال: قلت: إنهم يقولون { اقْرأ باسْمِ رَبِّكَ
   الَّذِي خَلَقَ } ، فقال: سألت جابر بن عبد الله، فقال: لا أحدّثك إلا ما حدثنا رسول
-  الله صلى الله عليه وسلم قال: \" جاوَرْتُ بِحِرَاءً فلمَّا قَضَيْتُ جِوَارِي هَبَطْتُ،
-  فَسَمِعْتُ صَوْتاً، فَنَظَرْتُ عَنْ يَمِيِني فَلَمْ أرَ شَيْئاً، وَنَظَرْتُ خَلْفِي
-  فَلَمْ أرَ شَيْئاً، فَرَفَعْتُ رأسي فرأيْتُ شَيْئاً، فأتَيْتُ خَدِيجَةَ، فَقُلْتُ:
-  دَثِّرُونِي وَصبُّوا عَليَّ ماء بارِداً، فنزلت { يا أيُّها المُدَّثِّرُ } \" \r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ يٰأَيُّهَا ٱلْمُدَّثِّرُ } * { قُمْ
-  فَأَنذِرْ } * { وَرَبَّكَ فَكَبِّرْ } * { وَثِيَابَكَ فَطَهِّرْ } * { وَٱلرُّجْزَ
-  فَٱهْجُرْ } * { وَلاَ تَمْنُن تَسْتَكْثِرُ } * { وَلِرَبِّكَ فَٱصْبِرْ }  حدثنا
-  ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن الزهريّ، قال: فتر الوحي عن رسول الله
-  صلى الله عليه وسلم فترة، فحزن حزناً، فجعل يعدو إلى شواهق رؤوس الجبال ليتردّي منها،
-  فكلما أوفي بذروة جبل تبدّى له جبريل عليه السلام فيقول: إنك نبيّ الله، فيسكن جأشه،
-  وتسكن نفسه فكان النبيّ صلى الله عليه وسلم يحدّث عن ذلك، قال: \" بَيْنَما أنا أمْشِي
-  يَوْماً إذْ رأيْتُ المَلَكَ الَّذِي كان يأتِيني بِحرَاءَ على كُرْسِيّ بَينَ السَّماءِ
-  والأرْضِ، فَجُثِثْتُ مِنْهُ رُعْباً، فَرَجَعْتُ إلى خَدِيجَةَ فَقُلْتُ: زَمِّلُونِي،
-  فزمِّلناه \" أي فدثرناه، فأنزل الله { يا أيُّها المُدَّثِّرُ، قُمْ فأنْذِرْ، وَرَبِّكَ
-  فَكَبِّرْ، وَثِيابَكَ فَطَهِّرْ } قال الزهري: فكان أوّل شيء أنزل عليه:{ اقْرأ باسْمِ
-  رَبِّكَ الَّذِي خَلَقَ }.. حتى بلغ{ ما لَمْ يَعْلَمْ }واختلف أهل التأويل في معنى
-  قوله: { يا أيُّها المُدَّثِّرُ } ، فقال بعضهم: معنى ذلك: يا أيها النائم في ثيابه.ذكر
-  من قال ذلك:حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه،
-  عن ابن عباس، قوله: { يا أيُّها المُدَّثِّرُ } قال: يا أيها النائم.حدثنا بشر، قال:
-  ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: { يا أيُّها المُدَّثِّرُ } يقول: المتدثر
-  في ثيابه.وقال آخرون: بل معنى ذلك: يا أيها المتدثر النبوّة وأثقالها.ذكر من قال ذلك:حدثنا
-  ابن المثنى، قال: ثنا عبد الأعلى، قال: وسُئل داود عن هذه الآية: { يا أيُّها المُدَّثِّرُ
-  } فحدثنا عن عكرمة أنه قال: دثِّرت هذا الأمر فقم به.وقوله: { قُمْ فأنْذِر } يقول
-  تعالى ذكره لنبيه محمد صلى الله عليه وسلم: قم من نومك فأنذر عذاب الله قومك الذين
-  أشركوا بالله، وعبدوا غيره. وبنحو الذي قلنا في ذلك قال أهل التأويل.ذكر من قال ذلك:حدثنا
-  بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة { قُمْ فأنْذِرْ }: أي أنذر عذاب الله
-  ووقائعه في الأمم، وشدّة نقمته.وقوله: { وَرَبَّكَ فَكَبِّرْ } يقول تعالى ذكره: وربك
-  يا محمد فعظم بعبادته، والرغبة إليه في حاجاتك دون غيره من الآلهة والأنداد.وقوله:
-  { وَثِيابَكَ فَطَهِّرْ } اختلف أهل التأويل في تأويل ذلك، فقال بعضهم: معنى ذلك: لا
-  تلبس ثيابك على معصية، ولا على غدرة.ذكر من قال ذلك:حدثني محمد بن سعد، قال: ثني أبي،
-  قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس { وَثِيابَكَ فَطَهِّرْ } قال: أما
-  سمعت قول غَيلان بن سَلَمة:وإنّى بِحَمْدِ اللَّهِ لا ثَوْبَ فاجِرٍ   لَبِسْتُ وَلا
-  مِنْ غَدْرَةٍ أتَقَنَّعُحدثنا أبو كريب، قال: ثنا مُصْعَب بن سلام، عن الأجلح، عن
-  عكرِمة، عن ابن عباس، قال: أتاه رجل وأنا جالس فقال: أرأيت قول الله: { وَثِيابَكَ
-  فَطَهِّرْ } قال: لا تلبسها على معصية ولا على غدرة، ثم قال: أما سمعت قول غيلان بن
-  سلمة الثقفيّ:\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ يٰأَيُّهَا ٱلْمُدَّثِّرُ } * { قُمْ
-  فَأَنذِرْ } * { وَرَبَّكَ فَكَبِّرْ } * { وَثِيَابَكَ فَطَهِّرْ } * { وَٱلرُّجْزَ
-  فَٱهْجُرْ } * { وَلاَ تَمْنُن تَسْتَكْثِرُ } * { وَلِرَبِّكَ فَٱصْبِرْ }وإنّى بِحَمْدِ
-  اللَّهِ لا ثَوْبَ فاجِرٍ   لَبِسْتُ وَلا مِنْ غَدْرَةٍ أتَقَنَّعُحدثنا سعيد بن يحيى،
-  قال: ثنا حفص بن غياث، عن الأجلح، عن عكرِمة، قوله: { وَثِيابَكَ فَطَهِّرْ } قال:
-  لا تلبسها على غدرة، ولا على فجرة، ثم تمثَّل بشعر غيلان بن سلمة هذا.حدثنا ابن حميد،
-  قال: ثنا مهران، قال: ثنا سفيان، عن الأجلح بن عبد الله الكندي، عن عكرِمة { وَثِيابَكَ
-  فَطَهِّرْ } قال: لا تلبس ثيابك على معصية، ألم تسمع قول غيلان بن سَلَمَةَ الثقفّي:وإنّى
-  بِحَمْدِ اللَّهِ لا ثَوْبَ فاجِرٍ   لَبِسْتُ وَلا مِنْ غَدْرَةٍ أتَقَنَّعُحدثني
-  زكريا بن يحيى بن أبي زائدة، قال: ثنا حجاج، قال ابن جريج، أخبرني عطاء، أنه سمع ابن
-  عباس يقول: { وَثِيابَكَ فَطَهِّرْ } قال: من الإثم، ثم قال: نقيّ الثياب في كلام العرب.حدثنا
+  الله صلى الله عليه وسلم قال:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" جاوَرْتُ بِحِرَاءً فلمَّا قَضَيْتُ جِوَارِي هَبَطْتُ، فَسَمِعْتُ
+  صَوْتاً، فَنَظَرْتُ عَنْ يَمِيِني فَلَمْ أرَ شَيْئاً، وَنَظَرْتُ خَلْفِي فَلَمْ
+  أرَ شَيْئاً، فَرَفَعْتُ رأسي فرأيْتُ شَيْئاً، فأتَيْتُ خَدِيجَةَ، فَقُلْتُ: دَثِّرُونِي
+  وَصبُّوا عَليَّ ماء بارِداً، فنزلت { يا أيُّها المُدَّثِّرُ } \" </font></font></b>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(74, 1)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(74,1)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">يٰأَيُّهَا ٱلْمُدَّثِّرُ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">قُمْ
+  فَأَنذِرْ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">وَرَبَّكَ فَكَبِّرْ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَثِيَابَكَ
+  فَطَهِّرْ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">وَٱلرُّجْزَ فَٱهْجُرْ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَلاَ
+  تَمْنُن تَسْتَكْثِرُ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">وَلِرَبِّكَ فَٱصْبِرْ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><b><font class=\"TextResultArabic\"><font
+  color=\"Red\">  </font></font></b><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن عبد الأعلى، قال: ثنا
+  ابن ثور، عن معمر، عن الزهريّ، قال: فتر الوحي عن رسول الله صلى الله عليه وسلم فترة،
+  فحزن حزناً، فجعل يعدو إلى شواهق رؤوس الجبال ليتردّي منها، فكلما أوفي بذروة جبل تبدّى
+  له جبريل عليه السلام فيقول: إنك نبيّ الله، فيسكن جأشه، وتسكن نفسه فكان النبيّ صلى
+  الله عليه وسلم يحدّث عن ذلك، قال:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" بَيْنَما أنا أمْشِي يَوْماً إذْ رأيْتُ المَلَكَ الَّذِي كان يأتِيني
+  بِحرَاءَ على كُرْسِيّ بَينَ السَّماءِ والأرْضِ، فَجُثِثْتُ مِنْهُ رُعْباً، فَرَجَعْتُ
+  إلى خَدِيجَةَ فَقُلْتُ: زَمِّلُونِي، فزمِّلناه \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">أي فدثرناه، فأنزل الله { يا أيُّها المُدَّثِّرُ، قُمْ فأنْذِرْ،
+  وَرَبِّكَ فَكَبِّرْ، وَثِيابَكَ فَطَهِّرْ } قال الزهري: فكان أوّل شيء أنزل عليه:</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">اقْرأ
+  باسْمِ رَبِّكَ الَّذِي خَلَقَ</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">.. حتى بلغ</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">ما لَمْ يَعْلَمْ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">واختلف أهل التأويل في معنى قوله:
+  { يا أيُّها المُدَّثِّرُ } ، فقال بعضهم: معنى ذلك: يا أيها النائم في ثيابه.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس، قوله:
+  { يا أيُّها المُدَّثِّرُ } قال: يا أيها النائم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: { يا أيُّها المُدَّثِّرُ } يقول:
+  المتدثر في ثيابه.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال آخرون: بل معنى ذلك: يا أيها
+  المتدثر النبوّة وأثقالها.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن المثنى، قال: ثنا عبد الأعلى، قال: وسُئل داود عن هذه الآية:
+  { يا أيُّها المُدَّثِّرُ } فحدثنا عن عكرمة أنه قال: دثِّرت هذا الأمر فقم به.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقوله: { قُمْ فأنْذِر } يقول تعالى ذكره لنبيه محمد صلى الله عليه
+  وسلم: قم من نومك فأنذر عذاب الله قومك الذين أشركوا بالله، وعبدوا غيره. وبنحو الذي
+  قلنا في ذلك قال أهل التأويل.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">ذكر
+  من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا بشر، قال: ثنا يزيد، قال:
+  ثنا سعيد، عن قتادة { قُمْ فأنْذِرْ }: أي أنذر عذاب الله ووقائعه في الأمم، وشدّة
+  نقمته.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقوله: { وَرَبَّكَ فَكَبِّرْ }
+  يقول تعالى ذكره: وربك يا محمد فعظم بعبادته، والرغبة إليه في حاجاتك دون غيره من الآلهة
+  والأنداد.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقوله: { وَثِيابَكَ فَطَهِّرْ }
+  اختلف أهل التأويل في تأويل ذلك، فقال بعضهم: معنى ذلك: لا تلبس ثيابك على معصية، ولا
+  على غدرة.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن
+  أبيه، عن ابن عباس { وَثِيابَكَ فَطَهِّرْ } قال: أما سمعت قول غَيلان بن سَلَمة:</font></font><table
+  class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">وإنّى بِحَمْدِ اللَّهِ لا ثَوْبَ فاجِرٍ</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">لَبِسْتُ وَلا مِنْ غَدْرَةٍ أتَقَنَّعُ</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا أبو كريب، قال: ثنا مُصْعَب
+  بن سلام، عن الأجلح، عن عكرِمة، عن ابن عباس، قال: أتاه رجل وأنا جالس فقال: أرأيت
+  قول الله: { وَثِيابَكَ فَطَهِّرْ } قال: لا تلبسها على معصية ولا على غدرة، ثم قال:
+  أما سمعت قول غيلان بن سلمة الثقفيّ:</font></font>&#13;\t\t\t<label disabled=\"true\"
+  class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(74, 1)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(74,1)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">يٰأَيُّهَا ٱلْمُدَّثِّرُ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">قُمْ
+  فَأَنذِرْ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">وَرَبَّكَ فَكَبِّرْ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَثِيَابَكَ
+  فَطَهِّرْ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">وَٱلرُّجْزَ فَٱهْجُرْ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَلاَ
+  تَمْنُن تَسْتَكْثِرُ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">وَلِرَبِّكَ فَٱصْبِرْ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\"/></font><table class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">وإنّى بِحَمْدِ
+  اللَّهِ لا ثَوْبَ فاجِرٍ</font></font></b></td><td class=\"TextArabic\">   </td><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">لَبِسْتُ
+  وَلا مِنْ غَدْرَةٍ أتَقَنَّعُ</font></font></b></td></tr></table><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا سعيد بن يحيى، قال: ثنا حفص بن غياث، عن الأجلح، عن عكرِمة،
+  قوله: { وَثِيابَكَ فَطَهِّرْ } قال: لا تلبسها على غدرة، ولا على فجرة، ثم تمثَّل
+  بشعر غيلان بن سلمة هذا.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن حميد، قال: ثنا مهران،
+  قال: ثنا سفيان، عن الأجلح بن عبد الله الكندي، عن عكرِمة { وَثِيابَكَ فَطَهِّرْ }
+  قال: لا تلبس ثيابك على معصية، ألم تسمع قول غيلان بن سَلَمَةَ الثقفّي:</font></font><table
+  class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">وإنّى بِحَمْدِ اللَّهِ لا ثَوْبَ فاجِرٍ</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">لَبِسْتُ وَلا مِنْ غَدْرَةٍ أتَقَنَّعُ</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثني زكريا بن يحيى بن أبي زائدة،
+  قال: ثنا حجاج، قال ابن جريج، أخبرني عطاء، أنه سمع ابن عباس يقول: { وَثِيابَكَ فَطَهِّرْ
+  } قال: من الإثم، ثم قال: نقيّ الثياب في كلام العرب.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
   سعيد بن يحيى، قال: ثنا حفص بن غياث القاضي، عن ابن جُرَيج، عن عطاء، عن ابن عباس،
-  قوله { وَثِيابَكَ فَطَهِّرْ } قال: في كلام العرب: نقيّ الثياب.حدثنا ابن المثنى،
-  قال: ثنا يحيى بن سعيد، عن شعبة، عن مغيرة، عن إبراهيم { وَثِيابَكَ فَطَهِّرْ } قال:
-  من الذنوب.حدثنا أبو كريب، قال: ثنا يحيى بن سعيد، عن ابن جريج، عن عطاء، عن ابن عباس
-  { وَثِيابَكَ فَطَهِّرْ } قال: من الذنوب.حدثنا ابن عبد الأعلى، قال ثنا ابن ثور، عن
-  معمر، عن قتادة { وَثِيابَكَ فَطَهِّرْ } قال: هي كلمة من العربية كانت العرب تقولها:
-  طهر ثيابك: أي من الذنوب.حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله:
-  { وَثِيابَكَ فَطَهِّرْ } يقول: طهِّرها من المعاصي، فكانت العرب تسمى الرجل إذا نكث
-  ولم يف بعهد أنه دَنِس الثياب، وإذا وفى وأصلح قالوا: مطهَّر الثياب.حدثنا ابن حميد،
-  قال: ثنا مهران، عن سفيان، عن ابن جريج، عن عطاء، عن ابن عباس: { وَثِيابَكَ فَطَهِّرْ
-  } قال: من الإثم.قال: ثنا مهران، عن سفيان، عن مغيرة، عن إبراهيم { وَثِيابَكَ فَطَهِّرْ
-  } قال: من الإثم.حُدثت عن الحسين، قال: سمعت أبا معاذ يقول: ثنا عبيد، قال: سمعت الضحاك
-  يقول في قوله: { وَثِيابَكَ فَطَهِّرْ } يقول: لا تلبس ثيابك على معصية.حدثنا أبو كريب،
-  قال: ثنا وكيع، عن سفيان، عن ابن جُريج، عن عطاء، عن ابن عباس { وَثِيابَكَ فَطَهِّرْ
-  } قال: من الإثم.قال: ثنا وكيع، عن سفيان، عن مغيرة، عن إبراهيم، قال: من الإثم.قال:
-  ثنا وكيع، عن سفيان، عن الأجلح، سمع عكرمة قال: لا تلبس ثيابك على معصية.قال: ثنا وكيع،
-  عن سفيان، عن جابر، عن عامر وعطاء قالا: من الخطايا.وقال آخرون: بل معنى ذلك: لا تلبس
-  ثيابك من مكسب غير طيب.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ يٰأَيُّهَا ٱلْمُدَّثِّرُ } * { قُمْ
-  فَأَنذِرْ } * { وَرَبَّكَ فَكَبِّرْ } * { وَثِيَابَكَ فَطَهِّرْ } * { وَٱلرُّجْزَ
-  فَٱهْجُرْ } * { وَلاَ تَمْنُن تَسْتَكْثِرُ } * { وَلِرَبِّكَ فَٱصْبِرْ }ذكر من قال
-  ذلك:حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن
-  عباس { وَثِيابَكَ فَطَهِّرْ } قال: لا تكن ثيابك التي تلبس من مكسب غير طائب، ويقال:
-  لا تلبس ثيابك على معصية.وقال آخرون: بل معنى ذلك: أصلح عملك.ذكر من قال ذلك:حدثني
+  قوله { وَثِيابَكَ فَطَهِّرْ } قال: في كلام العرب: نقيّ الثياب.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن المثنى، قال: ثنا يحيى بن سعيد، عن شعبة، عن مغيرة، عن إبراهيم
+  { وَثِيابَكَ فَطَهِّرْ } قال: من الذنوب.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  أبو كريب، قال: ثنا يحيى بن سعيد، عن ابن جريج، عن عطاء، عن ابن عباس { وَثِيابَكَ
+  فَطَهِّرْ } قال: من الذنوب.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن عبد الأعلى، قال ثنا ابن ثور، عن معمر، عن قتادة { وَثِيابَكَ فَطَهِّرْ } قال:
+  هي كلمة من العربية كانت العرب تقولها: طهر ثيابك: أي من الذنوب.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: { وَثِيابَكَ
+  فَطَهِّرْ } يقول: طهِّرها من المعاصي، فكانت العرب تسمى الرجل إذا نكث ولم يف بعهد
+  أنه دَنِس الثياب، وإذا وفى وأصلح قالوا: مطهَّر الثياب.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن حميد، قال: ثنا مهران، عن سفيان، عن ابن جريج، عن عطاء، عن ابن عباس: { وَثِيابَكَ
+  فَطَهِّرْ } قال: من الإثم.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">قال: ثنا مهران، عن سفيان، عن مغيرة،
+  عن إبراهيم { وَثِيابَكَ فَطَهِّرْ } قال: من الإثم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حُدثت
+  عن الحسين، قال: سمعت أبا معاذ يقول: ثنا عبيد، قال: سمعت الضحاك يقول في قوله: { وَثِيابَكَ
+  فَطَهِّرْ } يقول: لا تلبس ثيابك على معصية.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  أبو كريب، قال: ثنا وكيع، عن سفيان، عن ابن جُريج، عن عطاء، عن ابن عباس { وَثِيابَكَ
+  فَطَهِّرْ } قال: من الإثم.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">قال: ثنا وكيع، عن سفيان، عن مغيرة،
+  عن إبراهيم، قال: من الإثم.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">قال: ثنا وكيع، عن سفيان، عن الأجلح،
+  سمع عكرمة قال: لا تلبس ثيابك على معصية.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال:
+  ثنا وكيع، عن سفيان، عن جابر، عن عامر وعطاء قالا: من الخطايا.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال آخرون: بل معنى ذلك: لا تلبس ثيابك من مكسب غير طيب.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">3 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(74, 1)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(74,1)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">يٰأَيُّهَا ٱلْمُدَّثِّرُ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">قُمْ
+  فَأَنذِرْ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">وَرَبَّكَ فَكَبِّرْ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَثِيَابَكَ
+  فَطَهِّرْ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">وَٱلرُّجْزَ فَٱهْجُرْ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَلاَ
+  تَمْنُن تَسْتَكْثِرُ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">وَلِرَبِّكَ فَٱصْبِرْ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس { وَثِيابَكَ
+  فَطَهِّرْ } قال: لا تكن ثيابك التي تلبس من مكسب غير طائب، ويقال: لا تلبس ثيابك على
+  معصية.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال آخرون: بل معنى ذلك: أصلح عملك.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
   يحيى بن طلحة اليربوعي، قال: ثنا فضيل بن عياض، عن منصور، عن مجاهد، في قوله: { وَثِيابَكَ
-  فَطَهِّرْ } قال: عملك فأصلح.حدثنا ابن حميد، قال: ثنا جرير، عن منصور، عن أبي رَزِين
-  في قوله: { وَثِيابَكَ فَطَهِّرْ } قال: عملك فأصلحه، وكان الرجل إذا كان خبيث العمل،
-  قالوا: فلان خبيث الثياب، وإذا كان حسن العمل قالوا: فلان طاهر الثياب.وقال آخرون في
-  ذلك ما.حدثنا محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى وحدثني الحارث قال: ثنا
-  الحسن، قال: ثنا ورقاء، جميعاً عن ابن أبي نجيح، عن مجاهد، قوله: { وَثِيابَكَ فَطَهِّرْ
-  } قال: لست بكاهن ولا ساحر، فأعرض عما قالوا.وقال آخرون: بل معنى ذلك: اغسلها بالماء،
-  وطهرها من النجاسة. ذكر من قال ذلك:حدثني عباس بن أبي طالب، قال: ثنا عليّ بن عبد الله
-  بن جعفر، عن أحمد بن موسى بن أبي مريم صاحب اللؤلؤ، قال: أخبرنا ابن عون، عن محمد بن
-  سيرين { وَثِيابَكَ فَطَهِّرْ } قال: اغسلها بالماء.حدثني يونس، قال: أخبرنا ابن وهب،
+  فَطَهِّرْ } قال: عملك فأصلح.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن حميد، قال: ثنا جرير، عن منصور، عن أبي رَزِين في قوله: { وَثِيابَكَ فَطَهِّرْ
+  } قال: عملك فأصلحه، وكان الرجل إذا كان خبيث العمل، قالوا: فلان خبيث الثياب، وإذا
+  كان حسن العمل قالوا: فلان طاهر الثياب.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  آخرون في ذلك ما.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا محمد بن عمرو، قال: ثنا أبو
+  عاصم، قال: ثنا عيسى وحدثني الحارث قال: ثنا الحسن، قال: ثنا ورقاء، جميعاً عن ابن
+  أبي نجيح، عن مجاهد، قوله: { وَثِيابَكَ فَطَهِّرْ } قال: لست بكاهن ولا ساحر، فأعرض
+  عما قالوا.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال آخرون: بل معنى ذلك: اغسلها
+  بالماء، وطهرها من النجاسة. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  عباس بن أبي طالب، قال: ثنا عليّ بن عبد الله بن جعفر، عن أحمد بن موسى بن أبي مريم
+  صاحب اللؤلؤ، قال: أخبرنا ابن عون، عن محمد بن سيرين { وَثِيابَكَ فَطَهِّرْ } قال:
+  اغسلها بالماء.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثني يونس، قال: أخبرنا ابن وهب،
   قال: قال ابن زيد، في قوله: { وَثِيابَكَ فَطَهِّرْ } قال: كان المشركون لا يتطهرون،
-  فأمره أن يتطهر، ويطهِّر ثيابه.وهذا القول الذي قاله ابن سيرين وابن زيد في ذلك أظهر
-  معانيه، والذي قاله ابن عباس وعكرِمة وابن زكريا قول عليه أكثر السلف من أنه عُنِيَ
-  به: جسمك فطهر من الذنوب، والله أعلم بمراده من ذلك.{ وَالرُّجْزَ فاهْجُرْ } اختلفت
+  فأمره أن يتطهر، ويطهِّر ثيابه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وهذا
+  القول الذي قاله ابن سيرين وابن زيد في ذلك أظهر معانيه، والذي قاله ابن عباس وعكرِمة
+  وابن زكريا قول عليه أكثر السلف من أنه عُنِيَ به: جسمك فطهر من الذنوب، والله أعلم
+  بمراده من ذلك.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">{ وَالرُّجْزَ فاهْجُرْ } اختلفت
   القرّاء في قراءة ذلك، فقرأه بعض قرّاء المدينة وعامة قرّاء الكوفة: «والرِّجْز» بكسر
   الراء، وقرأه بعض المكيين والمدنيين { والرُّجْزَ } بضم الراء، فمن ضمّ الراء وجهه
   إلى الأوثان، وقال: معنى الكلام: والأوثان فاهجر عبادتها، واترك خدمتها، ومن كسر الراء
-  وجَّهه إلى العذاب، وقال: معناه: والعذاب فاهجر، أي ما أوجب لك العذاب من الأعمال فاهجر.والصواب
-  من القول في ذلك أنهما قراءتان معروفتان، فبأيتهما قرأ القارىء فمصيب، والضمّ والكسر
-  في ذلك لغتان بمعنى واحد، ولم نجد أحداً من متقدّمي أهل التأويل فرّق بين تأويل ذلك،
-  وإنما فرّق بين ذلك فيما بلغنا الكسائيّ.واختلف أهل التأويل في معنى { الرُّجْزَ }
-  في هذا الموضع، فقال بعضهم: هو الأصنام.ذكر من قال ذلك:حدثني عليّ، قال: ثنا أبو صالح،
-  قال: ثني معاوية، عن عليّ، عن ابن عباس، في قوله: { وَالرُّجْزَ فاهْجُرْ } يقول: السخط
-  وهو الأصنام.حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى وحدثني الحارث،
-  قال: ثنا الحسن، قال: ثنا ورقاء، جميعاً عن ابن أبي نجيح، عن مجاهد، قوله: { وَالرّجْزَ
-  فاهْجُرْ } قال: الأوثان.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ يٰأَيُّهَا ٱلْمُدَّثِّرُ } * { قُمْ
-  فَأَنذِرْ } * { وَرَبَّكَ فَكَبِّرْ } * { وَثِيَابَكَ فَطَهِّرْ } * { وَٱلرُّجْزَ
-  فَٱهْجُرْ } * { وَلاَ تَمْنُن تَسْتَكْثِرُ } * { وَلِرَبِّكَ فَٱصْبِرْ }حدثنا أبو
-  كُرَيب، قال: ثنا وكيع، عن إسرائيل قال أبو جعفر: أحسبه أنا عن جابرٍ عن مجاهد وعكرِمة
-  { وَالرّجْزَ فاهْجُرْ } قال: الأوثان.حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن
-  قتادة { وَالرُّجْزَ فاهْجُرْ }: إساف ونائلة، وهما صنمان كانا عند البيت يمسح وجوههما
-  من أتى عليهما، فأمر الله نبيَّهُ صلى الله عليه وسلم أن يجتنبهما ويعتزلهما.حدثنا
+  وجَّهه إلى العذاب، وقال: معناه: والعذاب فاهجر، أي ما أوجب لك العذاب من الأعمال فاهجر.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">والصواب من القول في ذلك أنهما قراءتان معروفتان، فبأيتهما قرأ القارىء
+  فمصيب، والضمّ والكسر في ذلك لغتان بمعنى واحد، ولم نجد أحداً من متقدّمي أهل التأويل
+  فرّق بين تأويل ذلك، وإنما فرّق بين ذلك فيما بلغنا الكسائيّ.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">واختلف
+  أهل التأويل في معنى { الرُّجْزَ } في هذا الموضع، فقال بعضهم: هو الأصنام.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  عليّ، قال: ثنا أبو صالح، قال: ثني معاوية، عن عليّ، عن ابن عباس، في قوله: { وَالرُّجْزَ
+  فاهْجُرْ } يقول: السخط وهو الأصنام.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى وحدثني الحارث، قال: ثنا الحسن، قال:
+  ثنا ورقاء، جميعاً عن ابن أبي نجيح، عن مجاهد، قوله: { وَالرّجْزَ فاهْجُرْ } قال:
+  الأوثان.</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">4 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(74, 1)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(74,1)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">يٰأَيُّهَا ٱلْمُدَّثِّرُ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">قُمْ
+  فَأَنذِرْ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">وَرَبَّكَ فَكَبِّرْ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَثِيَابَكَ
+  فَطَهِّرْ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">وَٱلرُّجْزَ فَٱهْجُرْ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَلاَ
+  تَمْنُن تَسْتَكْثِرُ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">وَلِرَبِّكَ فَٱصْبِرْ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا أبو كُرَيب، قال: ثنا وكيع، عن إسرائيل قال أبو جعفر: أحسبه
+  أنا عن جابرٍ عن مجاهد وعكرِمة { وَالرّجْزَ فاهْجُرْ } قال: الأوثان.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة { وَالرُّجْزَ
+  فاهْجُرْ }: إساف ونائلة، وهما صنمان كانا عند البيت يمسح وجوههما من أتى عليهما، فأمر
+  الله نبيَّهُ صلى الله عليه وسلم أن يجتنبهما ويعتزلهما.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
   ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن الزهريّ { وَالرُّجْزَ فاهْجُرْ } قال:
-  هي الأوثان.حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله: { وَالرُّجْزَ
-  فاهْجُرْ } قال: الرجز: آلهتهم التي كانوا يعبدون أمره أن يهجرها، فلا يأتيها، ولا
-  يقربها.وقال آخرون: بل معنى ذلك: والمعصية والإثم فاهجر.ذكر من قال ذلك:حدثنا ابن حميد،
-  قال: ثنا مهران، عن سفيان، عن مغيرة، عن إبراهيم { وَالرُّجْزَ فاهْجُرْ } قال الإثم.حُدثت
-  عن الحسين، قال: سمعت أبا معاذ يقول: ثنا عبيد، قال: سمعت الضحاك يقول في قوله: { وَالرُّجْزَ
-  فاهْجُرْ } يقول: اهجر المعصية.وقد بيَّنا معنى الرجز فيما مضى بشواهده المغنية عن
-  إعادتها في هذا الموضع.وقوله: { وَلا تَمْنُنْ تَسْتَكْثِرُ } اختلف أهل التأويل في
-  تأويل ذلك، فقال بعضهم: معنى ذلك: ولا تُعطِ يا محمد عطية لتعطَى أكثر منها.ذكر من
-  قال ذلك:حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن
-  ابن عباس، قوله: { وَلا تَمْنُنْ تَسْتَكْثِرُ } قال: لا تُعط عطية تلتمس بها أفضل
-  منها.حدثنا أبو حميد الحمصي أحمد بن المُغيرة، قال: ثني أبو حيوة شريح بن يزيد الحضرميّ،
-  قال: ثني أرطاة عن ضمرة بن حبيب وأبي الأحوص في قوله: { وَلا تَمْنُنْ تَسْتَكْثِرُ
-  } قال: لا تعط شيئاً، لتُعْطي أكثر منه.حدثني يعقوب، قال: ثنا ابن علية، عن أبي رجاء،
-  عن عكرِمة، في قوله: { وَلا تَمْنُنْ تَسْتَكْثِرُ } قال: لا تعطِ شيئاً لتُعْطَي أكثر
-  منه.حدثنا ابن المثنى، قال: ثنا محمد بن جعفر، قال: ثنا شعبة، قال: أخبرني من سمع عكرِمة
-  يقول: { وَلا تَمْنُنْ تَسْتَكْثِرُ } قال: لا تعط العطية لتريد أن تأخذ أكثر منها.حدثني
-  يحيى بن طلحة اليربوعي، قال: ثنا فضيل، عن منصور، عن إبراهيم { وَلا تَمْنُنْ تَسْتَكْثِرُ
-  } قال: لا تعط كيما تَزداد.حدثنا ابن بشار، قال: ثنا أبو عاصم، قال: ثنا سفيان، عن
-  مُغيرة، عن إبراهيم، في قوله { وَلا تَمْنُنْ تَسْتَكْثِرُ } قال: لا تعط شيئاً لتأخذ
-  أكثر منه.حدثنا أبو كُرَيب، قال: ثنا وكيع، عن سلمة، عن الضحاك { وَلا تَمْنُنْ تَسْتَكْثِرُ
-  } قال: لا تعطِ لتُعْطَي أكثر منه.قال: ثنا وكيع، عن سفيان، عن مغيرة، عن إبراهيم،
-  في قوله { وَلا تَمْنُنْ تَسْتَكْثِرُ } قال: لا تعطِ لتُعْطَى أكثر منه.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ يٰأَيُّهَا ٱلْمُدَّثِّرُ } * { قُمْ
-  فَأَنذِرْ } * { وَرَبَّكَ فَكَبِّرْ } * { وَثِيَابَكَ فَطَهِّرْ } * { وَٱلرُّجْزَ
-  فَٱهْجُرْ } * { وَلاَ تَمْنُن تَسْتَكْثِرُ } * { وَلِرَبِّكَ فَٱصْبِرْ }حدثنا ابن
-  حميد، قال: ثنا جرير، عن منصور، عن إبراهيم، في قوله { وَلا تَمْنُنْ تَسْتَكْثِرُ
-  } قال: لا تعط شيئاً لتزداد.حدثنا أبو كُرَيْبٍ قال: ثنا وكيع، عن ابن أبي روّاد، عن
-  الضحاك، قال: هو الربا الحلال، كان للنبيّ صلى الله عليه وسلم خاصّة.حدثنا أبو كُرَيْبٍ،
-  قال: ثنا وكيع، عن أبي حجيرة، عن الضحاك، هما رِبَوَان: حلال، وحرام فأما الحلال: فالهدايا،
-  والحرام: فالربا.حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: { وَلا
-  تَمْنُنْ تَسْتَكْثِرُ } يقول: لا تعط شيئاً، إنما بك مجازاة الدنيا ومعارضها.حدثنا
+  هي الأوثان.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثني يونس، قال: أخبرنا ابن وهب،
+  قال: قال ابن زيد، في قوله: { وَالرُّجْزَ فاهْجُرْ } قال: الرجز: آلهتهم التي كانوا
+  يعبدون أمره أن يهجرها، فلا يأتيها، ولا يقربها.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  آخرون: بل معنى ذلك: والمعصية والإثم فاهجر.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">ذكر
+  من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن حميد، قال: ثنا مهران،
+  عن سفيان، عن مغيرة، عن إبراهيم { وَالرُّجْزَ فاهْجُرْ } قال الإثم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حُدثت عن الحسين، قال: سمعت أبا معاذ يقول: ثنا عبيد، قال: سمعت الضحاك
+  يقول في قوله: { وَالرُّجْزَ فاهْجُرْ } يقول: اهجر المعصية.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقد
+  بيَّنا معنى الرجز فيما مضى بشواهده المغنية عن إعادتها في هذا الموضع.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقوله: { وَلا تَمْنُنْ تَسْتَكْثِرُ } اختلف أهل التأويل في تأويل
+  ذلك، فقال بعضهم: معنى ذلك: ولا تُعطِ يا محمد عطية لتعطَى أكثر منها.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس، قوله:
+  { وَلا تَمْنُنْ تَسْتَكْثِرُ } قال: لا تُعط عطية تلتمس بها أفضل منها.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا أبو حميد الحمصي أحمد بن المُغيرة، قال: ثني أبو حيوة شريح بن
+  يزيد الحضرميّ، قال: ثني أرطاة عن ضمرة بن حبيب وأبي الأحوص في قوله: { وَلا تَمْنُنْ
+  تَسْتَكْثِرُ } قال: لا تعط شيئاً، لتُعْطي أكثر منه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  يعقوب، قال: ثنا ابن علية، عن أبي رجاء، عن عكرِمة، في قوله: { وَلا تَمْنُنْ تَسْتَكْثِرُ
+  } قال: لا تعطِ شيئاً لتُعْطَي أكثر منه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن المثنى، قال: ثنا محمد بن جعفر، قال: ثنا شعبة، قال: أخبرني من سمع عكرِمة يقول:
+  { وَلا تَمْنُنْ تَسْتَكْثِرُ } قال: لا تعط العطية لتريد أن تأخذ أكثر منها.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني يحيى بن طلحة اليربوعي، قال: ثنا فضيل، عن منصور، عن إبراهيم
+  { وَلا تَمْنُنْ تَسْتَكْثِرُ } قال: لا تعط كيما تَزداد.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن بشار، قال: ثنا أبو عاصم، قال: ثنا سفيان، عن مُغيرة، عن إبراهيم، في قوله { وَلا
+  تَمْنُنْ تَسْتَكْثِرُ } قال: لا تعط شيئاً لتأخذ أكثر منه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  أبو كُرَيب، قال: ثنا وكيع، عن سلمة، عن الضحاك { وَلا تَمْنُنْ تَسْتَكْثِرُ } قال:
+  لا تعطِ لتُعْطَي أكثر منه.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">قال: ثنا وكيع، عن سفيان، عن مغيرة،
+  عن إبراهيم، في قوله { وَلا تَمْنُنْ تَسْتَكْثِرُ } قال: لا تعطِ لتُعْطَى أكثر منه.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">5 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(74, 1)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(74,1)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">يٰأَيُّهَا ٱلْمُدَّثِّرُ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">قُمْ
+  فَأَنذِرْ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">وَرَبَّكَ فَكَبِّرْ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَثِيَابَكَ
+  فَطَهِّرْ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">وَٱلرُّجْزَ فَٱهْجُرْ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَلاَ
+  تَمْنُن تَسْتَكْثِرُ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">وَلِرَبِّكَ فَٱصْبِرْ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن حميد، قال: ثنا جرير، عن منصور، عن إبراهيم، في قوله { وَلا
+  تَمْنُنْ تَسْتَكْثِرُ } قال: لا تعط شيئاً لتزداد.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  أبو كُرَيْبٍ قال: ثنا وكيع، عن ابن أبي روّاد، عن الضحاك، قال: هو الربا الحلال، كان
+  للنبيّ صلى الله عليه وسلم خاصّة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  أبو كُرَيْبٍ، قال: ثنا وكيع، عن أبي حجيرة، عن الضحاك، هما رِبَوَان: حلال، وحرام
+  فأما الحلال: فالهدايا، والحرام: فالربا.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: { وَلا تَمْنُنْ تَسْتَكْثِرُ
+  } يقول: لا تعط شيئاً، إنما بك مجازاة الدنيا ومعارضها.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
   ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة { وَلا تَمْنُنْ تَسْتَكْثِرُ
-  } قال: لا تعط شيئاً لتثاب أفضل منه، وقاله أيضا طاوس.حدثني محمد بن عمرو، قال: ثنا
-  أبو عاصم، قال: ثنا عيسى وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، جميعاًعن
-  ابن أبي نجيح، عن مجاهد، قوله { وَلا تَمْنُنْ تَسْتَكْثِرُ } قال: تعطي مالاً مصانعة
-  رجاء أفضل منه من الثواب في الدنيا.حدثنا ابن حميد، قال: ثنا مهران، عن سفيان، عن مغيرة،
-  عن إبراهيم، قال: لا تعط لتُعْطى أكثر منه.قال: ثنا مهران، عن سفيان، عن منصور، عن
-  إبراهيم { وَلا تَمْنُنْ تَسْتَكْثِرُ } قال: لا تعط لتزداد.قال: ثنا مهران، عن سفيان،
-  عن رجل، عن الضحاك بن مزاحم { وَلا تَمْنُنْ تَسْتَكْثِرُ } قال: هي للنبيّ صلى الله
-  عليه وسلم خاصّة، وللناس عامَّة مُوَسَّع عليهم.وقال آخرون: بل معنى ذلك: ولا تمنن
-  عملك على ربك تستكثر.ذكر من قال ذلك:حدثنا مجاهد بن موسى، قال: ثنا يزيد، قال: ثنا
-  سفيان بن حسين، عن الحسن، في قوله: { وَلا تَمْنُنْ تَسْتَكْثِرُ } قال: لا تمنن عملك
-  تستكثره على ربك.حدثنا محمد بن بشار، قال: ثنا هوذة، قال: ثنا عوف، عن الحسن { وَلا
-  تَمْنُنْ تَسْتَكْثِرُ } قال: لا تمنن تستكثر عملك.حدثنا ابن حميد، قال: ثنا يحيى بن
-  واضح، قال: ثنا يونس بن نافع أبو غانم، عن أبي سهل، كثير بن زياد، عن الحسن { وَلا
-  تَمْنُنْ تَسْتَكْثِرُ } يقول: لا تمنن تستكثر عملك الصالح.حدثنا ابن حُميد، قال: ثنا
-  مهران، عن سفيان، عن أبي جعفر، عن الربيع بن أنس { وَلا تَمْنُنْ تَسْتَكْثِرُ } قال:
-  لا يكثر عملك في عينك، فإنه فيما أنعم الله عليك وأعطاك قليل.وقال آخرون: بل معنى ذلك:
-  لا تضعف أن تستكثر من الخير. ووجَّهوا معنى قوله: { وَلا تَمْنُنْ } أي لا تضعف، من
-  قولهم: حبل منين: إذا كان ضعيفاً.ذكر من قال ذلك:حدثنا أبو حميد بن المغيرة الحمصي،
-  قال: ثنا عبد الله بن عمرو، قال: ثنا محمد بن سلمة، عن خَصِيف عن مجاهد، في قوله: {
-  وَلا تَمْنُنْ تَسْتَكْثِرُ } قال: لا تضعف أن تستكثر من الخير، قال: تمنن في كلام
-  العرب: تضعف.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ يٰأَيُّهَا ٱلْمُدَّثِّرُ } * { قُمْ
-  فَأَنذِرْ } * { وَرَبَّكَ فَكَبِّرْ } * { وَثِيَابَكَ فَطَهِّرْ } * { وَٱلرُّجْزَ
-  فَٱهْجُرْ } * { وَلاَ تَمْنُن تَسْتَكْثِرُ } * { وَلِرَبِّكَ فَٱصْبِرْ }وقال آخرون
-  في ذلك: لا تمنن بالنبوّة على الناس، تأخذ عليه منهم أجراً.ذكر من قال ذلك:حدثني يونس،
-  قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله: { وَلا تَمْنُنْ تَسْتَكْثِرُ } قال:
-  لا تمنن بالنبوّة والقرآن الذي أرسلناك به تستكثرهم به، تأخذ عليه عوضاً من الدنيا.وأولى
-  هذه الأقوال عندي بالصواب في ذلك قول من قال: معنى ذلك: ولا تمنن على ربك من أن تستكثر
-  عملك الصالح.وإنما قلت ذلك أولى بالصواب، لأن ذلك في سياق آيات تقدمّ فيهنّ أمر الله
-  نبيه صلى الله عليه وسلم بالجدّ في الدعاء إليه، والصبر على ما يَلْقَى من الأذى فيه،
-  فهذه بأن تكون من أنواع تلك، أشبه منها بأن تكون من غيرها. وذُكر عن عبد الله بن مسعود
-  أن ذلك في قراءته: «وَلا تَمْنُنْ أنْ تَسْتَكْثِرُ».وقوله: { وَلِرَبَكَ فاصْبِرْ
-  } يقول تعالى ذكره: ولربك فاصبر على ما لقيت فيه من المكروه. وبنحو الذي قلنا في ذلك
-  قال جماعة من أهل التأويل على اختلاف فيه بين أهل التأويل.ذكر من قال ذلك:حدثنا محمد
-  بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى وحدثني الحارث، قال: ثنا الحسن، قال: ثنا
-  ورقاء، جميعاً عن ابن أبي نجيح، عن مجاهد، قوله: { وَلِرَبِّكَ فاصْبِرْ } قال: على
-  ما أوتيت.حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله: { وَلِرَبِّكَ
-  فاصْبِرْ } قال: حمل أمراً عظيماً محاربة العرب، ثم العجم من بعد العرب في الله.وقال
-  آخرون: بل معنى ذلك: ولربك فاصبر على عطيتك.ذكر من قال ذلك:حدثنا أبو كُرَيب، قال:
-  ثنا وكيع، عن سفيان، عن مغيرة، عن إبراهيم { وَلِرَبِّكَ فاصْبِرْ } قال: اصبر على
-  عطيتك.حدثنا ابن حميد، قال: ثنا مهران، عن سفيان، عن مغيرة، عن إبراهيم، قال: اصبر
-  على عطيتك لله.حدثنا ابن بشار، قال: ثنا أبو عاصم، قال: ثنا سفيان، عن مغيرة، عن إبراهيم،
-  في قوله: { وَلِرَبِّكَ فاصْبِرْ } قال: عطيتك اصبر عليها.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  } قال: لا تعط شيئاً لتثاب أفضل منه، وقاله أيضا طاوس.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى وحدثني الحارث، قال: ثنا الحسن، قال:
+  ثنا ورقاء، جميعاًعن ابن أبي نجيح، عن مجاهد، قوله { وَلا تَمْنُنْ تَسْتَكْثِرُ }
+  قال: تعطي مالاً مصانعة رجاء أفضل منه من الثواب في الدنيا.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن حميد، قال: ثنا مهران، عن سفيان، عن مغيرة، عن إبراهيم، قال: لا تعط لتُعْطى أكثر
+  منه.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">قال: ثنا مهران، عن سفيان، عن منصور،
+  عن إبراهيم { وَلا تَمْنُنْ تَسْتَكْثِرُ } قال: لا تعط لتزداد.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قال: ثنا مهران، عن سفيان، عن رجل، عن الضحاك بن مزاحم { وَلا تَمْنُنْ
+  تَسْتَكْثِرُ } قال: هي للنبيّ صلى الله عليه وسلم خاصّة، وللناس عامَّة مُوَسَّع عليهم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال آخرون: بل معنى ذلك: ولا تمنن عملك على ربك تستكثر.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  مجاهد بن موسى، قال: ثنا يزيد، قال: ثنا سفيان بن حسين، عن الحسن، في قوله: { وَلا
+  تَمْنُنْ تَسْتَكْثِرُ } قال: لا تمنن عملك تستكثره على ربك.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  محمد بن بشار، قال: ثنا هوذة، قال: ثنا عوف، عن الحسن { وَلا تَمْنُنْ تَسْتَكْثِرُ
+  } قال: لا تمنن تستكثر عملك.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن حميد، قال: ثنا يحيى بن واضح، قال: ثنا يونس بن نافع أبو غانم، عن أبي سهل، كثير
+  بن زياد، عن الحسن { وَلا تَمْنُنْ تَسْتَكْثِرُ } يقول: لا تمنن تستكثر عملك الصالح.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن حُميد، قال: ثنا مهران، عن سفيان، عن أبي جعفر، عن الربيع
+  بن أنس { وَلا تَمْنُنْ تَسْتَكْثِرُ } قال: لا يكثر عملك في عينك، فإنه فيما أنعم
+  الله عليك وأعطاك قليل.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال آخرون: بل معنى ذلك: لا تضعف
+  أن تستكثر من الخير. ووجَّهوا معنى قوله: { وَلا تَمْنُنْ } أي لا تضعف، من قولهم:
+  حبل منين: إذا كان ضعيفاً.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا أبو حميد بن المغيرة الحمصي، قال: ثنا عبد الله بن عمرو، قال:
+  ثنا محمد بن سلمة، عن خَصِيف عن مجاهد، في قوله: { وَلا تَمْنُنْ تَسْتَكْثِرُ } قال:
+  لا تضعف أن تستكثر من الخير، قال: تمنن في كلام العرب: تضعف.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,7,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">6 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(74, 1)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(74,1)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">يٰأَيُّهَا ٱلْمُدَّثِّرُ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">قُمْ
+  فَأَنذِرْ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">وَرَبَّكَ فَكَبِّرْ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَثِيَابَكَ
+  فَطَهِّرْ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">وَٱلرُّجْزَ فَٱهْجُرْ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَلاَ
+  تَمْنُن تَسْتَكْثِرُ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">وَلِرَبِّكَ فَٱصْبِرْ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال آخرون في ذلك: لا تمنن بالنبوّة على الناس، تأخذ عليه منهم أجراً.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله: { وَلا تَمْنُنْ تَسْتَكْثِرُ
+  } قال: لا تمنن بالنبوّة والقرآن الذي أرسلناك به تستكثرهم به، تأخذ عليه عوضاً من
+  الدنيا.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وأولى هذه الأقوال عندي بالصواب
+  في ذلك قول من قال: معنى ذلك: ولا تمنن على ربك من أن تستكثر عملك الصالح.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وإنما قلت ذلك أولى بالصواب، لأن ذلك في سياق آيات تقدمّ فيهنّ أمر
+  الله نبيه صلى الله عليه وسلم بالجدّ في الدعاء إليه، والصبر على ما يَلْقَى من الأذى
+  فيه، فهذه بأن تكون من أنواع تلك، أشبه منها بأن تكون من غيرها. وذُكر عن عبد الله
+  بن مسعود أن ذلك في قراءته: «وَلا تَمْنُنْ أنْ تَسْتَكْثِرُ».</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقوله: { وَلِرَبَكَ فاصْبِرْ } يقول تعالى ذكره: ولربك فاصبر على
+  ما لقيت فيه من المكروه. وبنحو الذي قلنا في ذلك قال جماعة من أهل التأويل على اختلاف
+  فيه بين أهل التأويل.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى وحدثني الحارث،
+  قال: ثنا الحسن، قال: ثنا ورقاء، جميعاً عن ابن أبي نجيح، عن مجاهد، قوله: { وَلِرَبِّكَ
+  فاصْبِرْ } قال: على ما أوتيت.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله: { وَلِرَبِّكَ فاصْبِرْ } قال:
+  حمل أمراً عظيماً محاربة العرب، ثم العجم من بعد العرب في الله.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال آخرون: بل معنى ذلك: ولربك فاصبر على عطيتك.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  أبو كُرَيب، قال: ثنا وكيع، عن سفيان، عن مغيرة، عن إبراهيم { وَلِرَبِّكَ فاصْبِرْ
+  } قال: اصبر على عطيتك.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن حميد، قال: ثنا مهران،
+  عن سفيان، عن مغيرة، عن إبراهيم، قال: اصبر على عطيتك لله.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن بشار، قال: ثنا أبو عاصم، قال: ثنا سفيان، عن مغيرة، عن إبراهيم، في قوله: { وَلِرَبِّكَ
+  فاصْبِرْ } قال: عطيتك اصبر عليها.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,6,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">7 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a id=\"NextClass\"/></td></tr></table></center></div></section>"
 

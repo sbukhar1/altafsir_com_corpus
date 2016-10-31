@@ -1,4 +1,4 @@
-location:
+position:
   sura: '002'
   aaya: '020'
   madhab: '01'
@@ -7,202 +7,502 @@ meta:
   title: تفسير جامع البيان في تفسير القرآن
   author: الطبري
   year: '310'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ يَكَادُ ٱلْبَرْقُ
-  يَخْطَفُ أَبْصَٰرَهُمْ كُلَّمَا أَضَآءَ لَهُمْ مَّشَوْاْ فِيهِ وَإِذَآ أَظْلَمَ
-  عَلَيْهِمْ قَامُواْ وَلَوْ شَآءَ ٱللَّهُ لَذَهَبَ بِسَمْعِهِمْ وَأَبْصَٰرِهِمْ إِنَّ
-  ٱللَّهَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ }القول فـي تأويـل قوله تعالـى: { يَكَادُ ٱلْبَرْقُ
-  يَخْطَفُ أَبْصَـٰرَهُمْ كُلَّمَا أَضَآء لَهُم مَّشَوْاْ فِيهِ وَإِذآ أَظْلَمَ عَلَيْهِمْ
-  قَامُواْ }.قال أبو جعفر: فأما الظلـمات فجمع، واحدها ظلـمة وأما الرعد فإن أهل العلـم
-  اختلفوا فـيه فقال بعضهم: هو ملك يزجر السحاب. ذكر من قال ذلك:حدثنا مـحمد بن الـمثنى،
-  قال: حدثنا مـحمد بن جعفر، قال: حدثنا شعبة عن الـحكم، عن مـجاهد، قال: الرعد ملك يزجر
-  السحاب بصوته.وحدثنا مـحمد بن الـمثنى، قال: حدثنا ابن أبـي عديّ، عن شعبة عن الـحكم
-  عن مـجاهد مثله.وحدثنـي يحيى بن طلـحة الـيربوعي، قال: حدثنا فضيـل بن عياض، عن لـيث،
-  عن مـجاهد مثله.وحدثنـي يعقوب بن إبراهيـم، قال: حدثنا هشيـم قال: أنبأنا إسماعيـل
-  بن سالـم عن أبـي صالـح، قال: الرعد ملك من الـملائكة يسبح.وحدثنـي نصر ابن عبد الرحمن
-  الأودي، قال: حدثنا مـحمد بن يعلـى، عن أبـي الـخطاب البصري، عن شهر بن حوشب قال: الرعد:
-  ملك موكل بـالسحاب، يسوقه كما يسوق الـحادي الإبل، يسبح كلـما خالفت سحابة سحابة صاح
-  بها، فإذا اشتد غضبه طارت النار من فـيه، فهي الصواعق التـي رأيتـم.وحدثت عن الـمنـجاب
-  بن الـحارث، قال: حدثنا بشر بن عمارة، عن أبـي روق، عن الضحاك، عن ابن عبـاس، قال:
-  الرعد: ملك من الـملائكة اسمه الرعد، وهو الذي تسمعون صوته.حدثنا أحمد بن إسحاق الأهوازي،
-  قال: حدثنا أبو أحمد، قال: حدثنا عبد الـملك بن حسين عن السدي، عن أبـي مالك، عن ابن
-  عبـاس، قال: الرعد: ملك يزجر السحاب بـالتسبـيح والتكبـير.وحدثنا الـحسن بن مـحمد،
-  قال: حدثنا علـيّ بن عاصم، عن ابن جريج، عن مـجاهد، عن ابن عبـاس، قال: الرعد: اسم
-  ملك، وصوته هذا تسبـيحه، فإذا اشتدّ زجره السحاب اضطرب السحاب واحتك فتـخرج الصواعق
-  من بـينه.حدثنا الـحسن، قال: حدثنا عفـان، قال: حدثنا أبو عوانة، عن موسى البزار، عن
-  شهر بن حوشب عن ابن عبـاس، قال: الرعد: ملك يسوق السحاب بـالتسبـيح، كما يسوق الـحادي
-  الإبل بحدائه.حدثنا الـحسن بن مـحمد، قال: حدثنا يحيى بن عبـاد وشبـابة قالا: ثنا شعبة،
-  عن الـحكم، عن مـجاهد، قال: الرعد: ملك يزجر السحاب.حدثنا أحمد بن إسحاق، قال: حدثنا
-  أبو أحمد الزبـيري، قال: حدثنا عتاب بن زياد، عن عكرمة، قال: الرعد: ملك فـي السحاب
-  يجمع السحاب كما يجمع الراعي الإبل.وحدثنا بشر، قال: حدثنا يزيد، قال: حدثنا سعيد،
-  عن قتادة، قال: الرعد: خَـلْقٌ من خَـلْقِ الله جل وعز سامع مطيع لله جل وعز.حدثنا
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(2, 20)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(2,20)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">يَكَادُ
+  ٱلْبَرْقُ يَخْطَفُ أَبْصَٰرَهُمْ كُلَّمَا أَضَآءَ لَهُمْ مَّشَوْاْ فِيهِ وَإِذَآ
+  أَظْلَمَ عَلَيْهِمْ قَامُواْ وَلَوْ شَآءَ ٱللَّهُ لَذَهَبَ بِسَمْعِهِمْ وَأَبْصَٰرِهِمْ
+  إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ</a> <b>}</b></font>, <br/>, <br/>, <div
+  align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">القول
+  فـي تأويـل قوله تعالـى: { يَكَادُ ٱلْبَرْقُ يَخْطَفُ أَبْصَـٰرَهُمْ كُلَّمَا أَضَآء
+  لَهُم مَّشَوْاْ فِيهِ وَإِذآ أَظْلَمَ عَلَيْهِمْ قَامُواْ }.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قال أبو جعفر: فأما الظلـمات فجمع، واحدها ظلـمة وأما الرعد فإن أهل
+  العلـم اختلفوا فـيه فقال بعضهم: هو ملك يزجر السحاب. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا مـحمد بن الـمثنى، قال: حدثنا مـحمد بن جعفر، قال: حدثنا شعبة
+  عن الـحكم، عن مـجاهد، قال: الرعد ملك يزجر السحاب بصوته.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وحدثنا
+  مـحمد بن الـمثنى، قال: حدثنا ابن أبـي عديّ، عن شعبة عن الـحكم عن مـجاهد مثله.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وحدثنـي يحيى بن طلـحة الـيربوعي، قال: حدثنا فضيـل بن عياض، عن لـيث،
+  عن مـجاهد مثله.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وحدثنـي يعقوب بن إبراهيـم، قال:
+  حدثنا هشيـم قال: أنبأنا إسماعيـل بن سالـم عن أبـي صالـح، قال: الرعد ملك من الـملائكة
+  يسبح.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وحدثنـي نصر ابن عبد الرحمن الأودي،
+  قال: حدثنا مـحمد بن يعلـى، عن أبـي الـخطاب البصري، عن شهر بن حوشب قال: الرعد: ملك
+  موكل بـالسحاب، يسوقه كما يسوق الـحادي الإبل، يسبح كلـما خالفت سحابة سحابة صاح بها،
+  فإذا اشتد غضبه طارت النار من فـيه، فهي الصواعق التـي رأيتـم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وحدثت عن الـمنـجاب بن الـحارث، قال: حدثنا بشر بن عمارة، عن أبـي
+  روق، عن الضحاك، عن ابن عبـاس، قال: الرعد: ملك من الـملائكة اسمه الرعد، وهو الذي
+  تسمعون صوته.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا أحمد بن إسحاق الأهوازي، قال:
+  حدثنا أبو أحمد، قال: حدثنا عبد الـملك بن حسين عن السدي، عن أبـي مالك، عن ابن عبـاس،
+  قال: الرعد: ملك يزجر السحاب بـالتسبـيح والتكبـير.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وحدثنا
+  الـحسن بن مـحمد، قال: حدثنا علـيّ بن عاصم، عن ابن جريج، عن مـجاهد، عن ابن عبـاس،
+  قال: الرعد: اسم ملك، وصوته هذا تسبـيحه، فإذا اشتدّ زجره السحاب اضطرب السحاب واحتك
+  فتـخرج الصواعق من بـينه.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا الـحسن، قال: حدثنا عفـان،
+  قال: حدثنا أبو عوانة، عن موسى البزار، عن شهر بن حوشب عن ابن عبـاس، قال: الرعد: ملك
+  يسوق السحاب بـالتسبـيح، كما يسوق الـحادي الإبل بحدائه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  الـحسن بن مـحمد، قال: حدثنا يحيى بن عبـاد وشبـابة قالا: ثنا شعبة، عن الـحكم، عن
+  مـجاهد، قال: الرعد: ملك يزجر السحاب.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  أحمد بن إسحاق، قال: حدثنا أبو أحمد الزبـيري، قال: حدثنا عتاب بن زياد، عن عكرمة،
+  قال: الرعد: ملك فـي السحاب يجمع السحاب كما يجمع الراعي الإبل.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وحدثنا بشر، قال: حدثنا يزيد، قال: حدثنا سعيد، عن قتادة، قال: الرعد:
+  خَـلْقٌ من خَـلْقِ الله جل وعز سامع مطيع لله جل وعز.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
   القاسم بن الـحسن، قال: حدثنا الـحسين بن داود، قال: حدثنـي حجاج، عن ابن جريج، عن
-  عكرمة، قال: إن الرعد ملك يؤمر بـازجاء السحاب فـيؤلف بـينه، فذلك الصوت تسبـيحه.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 9 10 \r\n\t\t\t\t\t\t\t\tمزيد</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ يَكَادُ ٱلْبَرْقُ يَخْطَفُ أَبْصَٰرَهُمْ
-  كُلَّمَا أَضَآءَ لَهُمْ مَّشَوْاْ فِيهِ وَإِذَآ أَظْلَمَ عَلَيْهِمْ قَامُواْ وَلَوْ
-  شَآءَ ٱللَّهُ لَذَهَبَ بِسَمْعِهِمْ وَأَبْصَٰرِهِمْ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَيْءٍ
-  قَدِيرٌ }وحدثنا القاسم، قال: حدثنا الـحسين، قال: حدثنـي حجاح، عن ابن جريج، عن مـجاهد،
-  قال: الرعد: ملك.وحدثنـي الـمثنى، قال: حدثنا الـحجاج بن الـمنهال، قال: حدثنا حماد
-  بن سلـمة، عن الـمغيرة بن سالـم، عن أبـيه أو غيره، أن علـي بن أبـي طالب قال: الرعد:
-  ملك.حدثنا الـمثنى، قال: حدثنا حجاج، قال: حدثنا حماد، قال: أخبرنا موسى بن سالـم أبو
-  جهضم مولـى ابن عبـاس، قال: كتب ابن عبـاس إلـى أبـي الـخلَد يسأله عن الرعد؟ فقال:
-  الرعد: ملك.حدثنا الـمثنى، قال: حدثنا مسلـم بن إبراهيـم، قال: حدثنا عمر بن الولـيد
-  السنـي، عن عكرمة، قال: الرعد: ملك يسوق السحاب كما يسوق الراعي الإبل.حدثنـي سعد بن
-  عبد الله بن عبد الـحكم، قال: حدثنا حفص بن عمر، قال: حدثنا الـحكم بن أبـان، عن عكرمة،
-  قال: كان ابن عبـاس إذا سمع الرعد، قال: سبحان الذي سبحت له، قال: وكان يقول: إن الرعد:
-  ملك ينعق بـالغيث كما ينعق الراعي بغنـمه.وقال آخرون: إن الرعد: ريح تـختنق تـحت السحاب،
-  فتصاعد فـيكون منه ذلك الصوت ذكر من قال ذلك:حدثنا أحمد بن إسحاق، قال: حدثنا أبو أحمد
-  الزبـيري، قال: حدثنا بشر بن إسماعيـل، عن أبـي كثـير، قال: كنت عند أبـي الـخلَد،
-  إذ جاءه رسول ابن عبـاس بكتاب إلـيه، فكتب إلـيه: كتبت تسألنـي عن الرعد، فـالرعد:
-  الريح.حدثنـي إبراهيـم بن عبد الله، قال: حدثنا عمران بن ميسرة، قال: حدثنا ابن إدريس
-  عن الـحسن بن الفرات، عن أبـيه، قال: كتب ابن عبـاس إلـى أبـي الـخلد يسأله عن الرعد،
-  فقال: الرعد: ريح.قال أبو جعفر: فإن كان الرعد ما ذكره ابن عبـاس ومـجاهد، فمعنى الآية:
-  أو كصيب من السماء فـيه ظلـمات وصوت رعد لأن الرعد إنْ كان ملكاً يسوق السحاب، فغير
-  كائن فـي الصيب لأن الصِّيب إنـما هو ما تـحدَّر من صوب السحاب والرعد: إنـما هو فـي
-  جوّ السماء يسوق السحاب، علـى أنه لو كان فـيه يـمر لـم يكن له صوت مسموع، فلـم يكن
-  هنالك رعب يرعب به أحد لأنه قد قـيـل: إن مع كل قطرة من قطر الـمطر ملكاً، فلا يعدو
-  الـملك الذي اسمه الرعد لو كان مع الصيب إذا لـم يكن مسموعاً صوته أن يكون كبعض تلك
-  الـملائكة التـي تنزل مع القطر إلـى الأرض فـي أن لا رعب علـى أحد بكونه فـيه. فقد
-  عُلـم إذْ كان الأمر علـى ما وصفنا من قول ابن عبـاس إن معنى الآية: أو كمثل غيث تـحدر
-  من السماء فـيه ظلـمات وصوت رعد إن كان الرعد هو ما قاله ابن عبـاس، وأنه استغنى بدلالة
-  ذكر الرعد بـاسمه علـى الـمراد فـي الكلام من ذكر صوته. وإن كان الرعد ما قاله أبو
-  الـخـلد فلا شيء فـي قوله: «فـيه ظلـمات ورعد» متروك، لأن معنى الكلام حينئذٍ: فـيه
-  ظلـمات ورعد الذي هو وما وصفنا صفته.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 9 10 \r\n\t\t\t\t\t\t\t\tمزيد</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ يَكَادُ ٱلْبَرْقُ يَخْطَفُ أَبْصَٰرَهُمْ
-  كُلَّمَا أَضَآءَ لَهُمْ مَّشَوْاْ فِيهِ وَإِذَآ أَظْلَمَ عَلَيْهِمْ قَامُواْ وَلَوْ
-  شَآءَ ٱللَّهُ لَذَهَبَ بِسَمْعِهِمْ وَأَبْصَٰرِهِمْ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَيْءٍ
-  قَدِيرٌ }وأما البرق، فإن أهل العلـم اختلفوا فـيه فقال بعضهم بـما:حدثنا مطر بن مـحمد
-  الضبـي، قال: حدثنا أبو عاصم ح وحدثنـي مـحمد بن بشار قال: حدثنـي عبد الرحمن بن مهدي
-  ح وحدثنا أحمد بن إسحاق الأهوازي، قال: حدثنا أبو أحمد الزبـيري، قالوا جميعاً: حدثنا
-  سفـيان الثوري، عن سلـمة بن كهيـل، عن سعيد بن أشوع، عن ربـيعة بن الأبـيض، عن علـيّ
-  قال: البرق: مخاريق الـملائكة.حدثنا أحمد بن إسحاق، قال: حدثنا أبو أحمد الزبـيري،
-  قال: حدثنا عبد الـملك بن الـحسين، عن السدي عن أبـي مالك، عن ابن عبـاس: البرق مخاريق
-  بأيدي الـملائكة يزجرون بها السحاب.وحدثنـي الـمثنى، قال: حدثنا الـحجاج، قال: حدثنا
-  حماد، عن الـمغيرة بن سالـم، عن أبـيه أو غيره أن علـيّ بن أبـي طالب قال: الرعد: الـملك،
-  والبرق: ضربه السحاب بـمخراق من حديد.وقال آخرون: هو سوط من نور يزجر به الـملك السحاب.حدثت
-  عن الـمنـجاب بن الـحارث، قال: حدثنا بشر بن عمارة عن أبـي روق، عن الضحاك، عن ابن
-  عبـاس بذلك.وقال آخرون: هو ماء. ذكر من قال ذلك:حدثنا أحمد بن إسحاق الأهوازي، قال:
-  حدثنا أبو أحمد الزبـيري، قال: حدثنا بشر بن إسماعيـل، عن أبـي كثـير، قال: كنت عند
-  أبـي الـخلَد إذ جاءه رسول ابن عبـاس بكتاب إلـيه، فكتب إلـيه: تسألنـي عن البرق، فـالبرق:
-  الـماء.حدثنا إبراهيـم بن عبد الله، قال: حدثنا عمران بن ميسرة، قال: حدثنا ابن إدريس،
-  عن الـحسن بن الفرات، عن أبـيه، قال: كتب ابن عبـاس إلـى أبـي الـخلَد يسأله عن البرق،
-  فقال: البرق: ماء.حدثنا ابن حميد، قال: حدثنا جرير، عن عطاء، عن رجل من أهل البصرة
-  من قرائهم، قال: كتب ابن عبـاس إلـى أبـي الـخلَد رجل من أهل هجر يسأله عن البرق، فكتب
-  إلـيه: كتبت إلـيّ تسألنـي عن البرق: وإنه من الـماء.وقال آخرون: هو مَصْعُ مَلَكٍ.حدثنا
+  عكرمة، قال: إن الرعد ملك يؤمر بـازجاء السحاب فـيؤلف بـينه، فذلك الصوت تسبـيحه.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,8,1)\"><u>8</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,9,1)\"><u>9</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(1,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2,
+  20)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,20)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">يَكَادُ ٱلْبَرْقُ يَخْطَفُ أَبْصَٰرَهُمْ كُلَّمَا
+  أَضَآءَ لَهُمْ مَّشَوْاْ فِيهِ وَإِذَآ أَظْلَمَ عَلَيْهِمْ قَامُواْ وَلَوْ شَآءَ
+  ٱللَّهُ لَذَهَبَ بِسَمْعِهِمْ وَأَبْصَٰرِهِمْ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَيْءٍ
+  قَدِيرٌ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">وحدثنا القاسم، قال: حدثنا الـحسين،
+  قال: حدثنـي حجاح، عن ابن جريج، عن مـجاهد، قال: الرعد: ملك.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وحدثنـي
+  الـمثنى، قال: حدثنا الـحجاج بن الـمنهال، قال: حدثنا حماد بن سلـمة، عن الـمغيرة بن
+  سالـم، عن أبـيه أو غيره، أن علـي بن أبـي طالب قال: الرعد: ملك.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا الـمثنى، قال: حدثنا حجاج، قال: حدثنا حماد، قال: أخبرنا موسى
+  بن سالـم أبو جهضم مولـى ابن عبـاس، قال: كتب ابن عبـاس إلـى أبـي الـخلَد يسأله عن
+  الرعد؟ فقال: الرعد: ملك.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا الـمثنى، قال: حدثنا مسلـم
+  بن إبراهيـم، قال: حدثنا عمر بن الولـيد السنـي، عن عكرمة، قال: الرعد: ملك يسوق السحاب
+  كما يسوق الراعي الإبل.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي سعد بن عبد الله بن عبد الـحكم،
+  قال: حدثنا حفص بن عمر، قال: حدثنا الـحكم بن أبـان، عن عكرمة، قال: كان ابن عبـاس
+  إذا سمع الرعد، قال: سبحان الذي سبحت له، قال: وكان يقول: إن الرعد: ملك ينعق بـالغيث
+  كما ينعق الراعي بغنـمه.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال آخرون: إن الرعد: ريح تـختنق
+  تـحت السحاب، فتصاعد فـيكون منه ذلك الصوت ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  أحمد بن إسحاق، قال: حدثنا أبو أحمد الزبـيري، قال: حدثنا بشر بن إسماعيـل، عن أبـي
+  كثـير، قال: كنت عند أبـي الـخلَد، إذ جاءه رسول ابن عبـاس بكتاب إلـيه، فكتب إلـيه:
+  كتبت تسألنـي عن الرعد، فـالرعد: الريح.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  إبراهيـم بن عبد الله، قال: حدثنا عمران بن ميسرة، قال: حدثنا ابن إدريس عن الـحسن
+  بن الفرات، عن أبـيه، قال: كتب ابن عبـاس إلـى أبـي الـخلد يسأله عن الرعد، فقال: الرعد:
+  ريح.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">قال أبو جعفر: فإن كان الرعد ما
+  ذكره ابن عبـاس ومـجاهد، فمعنى الآية: أو كصيب من السماء فـيه ظلـمات وصوت رعد لأن
+  الرعد إنْ كان ملكاً يسوق السحاب، فغير كائن فـي الصيب لأن الصِّيب إنـما هو ما تـحدَّر
+  من صوب السحاب والرعد: إنـما هو فـي جوّ السماء يسوق السحاب، علـى أنه لو كان فـيه
+  يـمر لـم يكن له صوت مسموع، فلـم يكن هنالك رعب يرعب به أحد لأنه قد قـيـل: إن مع كل
+  قطرة من قطر الـمطر ملكاً، فلا يعدو الـملك الذي اسمه الرعد لو كان مع الصيب إذا لـم
+  يكن مسموعاً صوته أن يكون كبعض تلك الـملائكة التـي تنزل مع القطر إلـى الأرض فـي أن
+  لا رعب علـى أحد بكونه فـيه. فقد عُلـم إذْ كان الأمر علـى ما وصفنا من قول ابن عبـاس
+  إن معنى الآية: أو كمثل غيث تـحدر من السماء فـيه ظلـمات وصوت رعد إن كان الرعد هو
+  ما قاله ابن عبـاس، وأنه استغنى بدلالة ذكر الرعد بـاسمه علـى الـمراد فـي الكلام من
+  ذكر صوته. وإن كان الرعد ما قاله أبو الـخـلد فلا شيء فـي قوله: «فـيه ظلـمات ورعد»
+  متروك، لأن معنى الكلام حينئذٍ: فـيه ظلـمات ورعد الذي هو وما وصفنا صفته.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,8,1)\"><u>8</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,9,1)\"><u>9</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(1,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2,
+  20)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,20)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">يَكَادُ ٱلْبَرْقُ يَخْطَفُ أَبْصَٰرَهُمْ كُلَّمَا
+  أَضَآءَ لَهُمْ مَّشَوْاْ فِيهِ وَإِذَآ أَظْلَمَ عَلَيْهِمْ قَامُواْ وَلَوْ شَآءَ
+  ٱللَّهُ لَذَهَبَ بِسَمْعِهِمْ وَأَبْصَٰرِهِمْ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَيْءٍ
+  قَدِيرٌ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">وأما البرق، فإن أهل العلـم اختلفوا
+  فـيه فقال بعضهم بـما:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا مطر بن مـحمد الضبـي، قال:
+  حدثنا أبو عاصم ح وحدثنـي مـحمد بن بشار قال: حدثنـي عبد الرحمن بن مهدي ح وحدثنا أحمد
+  بن إسحاق الأهوازي، قال: حدثنا أبو أحمد الزبـيري، قالوا جميعاً: حدثنا سفـيان الثوري،
+  عن سلـمة بن كهيـل، عن سعيد بن أشوع، عن ربـيعة بن الأبـيض، عن علـيّ قال: البرق: مخاريق
+  الـملائكة.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا أحمد بن إسحاق، قال: حدثنا
+  أبو أحمد الزبـيري، قال: حدثنا عبد الـملك بن الـحسين، عن السدي عن أبـي مالك، عن ابن
+  عبـاس: البرق مخاريق بأيدي الـملائكة يزجرون بها السحاب.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وحدثنـي
+  الـمثنى، قال: حدثنا الـحجاج، قال: حدثنا حماد، عن الـمغيرة بن سالـم، عن أبـيه أو
+  غيره أن علـيّ بن أبـي طالب قال: الرعد: الـملك، والبرق: ضربه السحاب بـمخراق من حديد.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال آخرون: هو سوط من نور يزجر به الـملك السحاب.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثت عن الـمنـجاب بن الـحارث، قال: حدثنا بشر بن عمارة عن أبـي روق،
+  عن الضحاك، عن ابن عبـاس بذلك.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  آخرون: هو ماء. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  أحمد بن إسحاق الأهوازي، قال: حدثنا أبو أحمد الزبـيري، قال: حدثنا بشر بن إسماعيـل،
+  عن أبـي كثـير، قال: كنت عند أبـي الـخلَد إذ جاءه رسول ابن عبـاس بكتاب إلـيه، فكتب
+  إلـيه: تسألنـي عن البرق، فـالبرق: الـماء.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  إبراهيـم بن عبد الله، قال: حدثنا عمران بن ميسرة، قال: حدثنا ابن إدريس، عن الـحسن
+  بن الفرات، عن أبـيه، قال: كتب ابن عبـاس إلـى أبـي الـخلَد يسأله عن البرق، فقال:
+  البرق: ماء.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن حميد، قال: حدثنا جرير،
+  عن عطاء، عن رجل من أهل البصرة من قرائهم، قال: كتب ابن عبـاس إلـى أبـي الـخلَد رجل
+  من أهل هجر يسأله عن البرق، فكتب إلـيه: كتبت إلـيّ تسألنـي عن البرق: وإنه من الـماء.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال آخرون: هو مَصْعُ مَلَكٍ.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
   مـحمد بن بشار، قال: حدثنا عبد الرحمن بن مهدي، قال: حدثنا سفـيان عن عثمان بن الأسود،
-  عن مـجاهد، قال: البرق: مَصْع مَلَك.حدثنـي الـمثنى، قال: حدثنا إسحاق، قال: حدثنا
-  هشام، عن مـحمد بن مسلـم الطائفـي، قال: بلغنـي أن البرق ملك له أربعة أوجه: وجه إنسان،
-  ووجه ثور، ووجه نسر، ووجه أسد، فإذا مصع بأجنـحته فذلك البرق.حدثنا القاسم، قال: حدثنا
-  الـحسين، قال: حدثنـي حجاج، عن ابن جريج، عن وهب بن سلـيـمان، عن شعيب الـجبـائي، قال:
-  فـي كتاب الله الـملائكة حملة العرش، لكل ملك منهم وجه إنسان، وثور، وأسد، فإذا حركوا
-  أجنـحتهم فهو البرق. وقال أمية بن أبـي الصلت:رَجُلٌ وَثَوْرٌ تَـحْتَ رِجْلِ يَـمِينِهِ   والنَّسْرُ
-  للاخْرَى وَلَـيْثٌ مُرْصَدُ\r\n\t\t\t1 2 3 4 5 6 7 8 9 10 \r\n\t\t\t\t\t\t\t\tمزيد</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ يَكَادُ ٱلْبَرْقُ يَخْطَفُ أَبْصَٰرَهُمْ
-  كُلَّمَا أَضَآءَ لَهُمْ مَّشَوْاْ فِيهِ وَإِذَآ أَظْلَمَ عَلَيْهِمْ قَامُواْ وَلَوْ
-  شَآءَ ٱللَّهُ لَذَهَبَ بِسَمْعِهِمْ وَأَبْصَٰرِهِمْ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَيْءٍ
-  قَدِيرٌ }حدثنا الـحسين بن مـحمد، قال: حدثنا علـيّ بن عاصم، عن ابن جريج، عن مـجاهد،
-  عن ابن عبـاس: البرق: ملك.وقد حدثنا القاسم، قال: حدثنا الـحسين، قال: حدثنـي حجاج،
-  عن ابن جريج، قال: الصواعق ملك يضرب السحاب بـالـمخاريق يصيب منه من يشاء.قال أبو جعفر:
-  وقد يحتـمل أن يكون ما قاله علـيّ بن أبـي طالب وابن عبـاس ومـجاهد بـمعنى واحد وذلك
-  أن تكون الـمخاريق التـي ذكر علـيّ رضي الله عنه أنها هي البرق هي السياط التـي هي
-  من نور التـي يزجي بها الـملك السحاب، كما قال ابن عبـاس. ويكون إزجاء الـملك السحاب:
-  مَصْعَهُ إياه بها، وذاك أن الـمِصَاعَ عند العرب أصله الـمـجالدة بـالسيوف، ثم تستعمله
-  فـي كل شيء جُولد به فـي حرب وغير حرب، كما قال أعشى بنـي ثعلبة وهو يصف جواري يـلعبن
-  بحلـيهن ويجالدن به.إذَا هُنَّ نازَلْنَ أقْرَانَهُنَّ   وكانَ الـمِصَاعُ بِـمَا فـي
-  الـجُؤَنِيقال منه: ماصعه مِصَاعاً. وكأن مـجاهداً إنـما قال: «مصع ملك»، إذ كان السحاب
-  لا يـماصع الـملك، وإنـما الرعد هو الـمـماصع له، فجعله مصدراً من مصعه يَـمْصَعُه
-  مصعاً، وقد ذكرنا ما فـي معنى الصاعقة ما قال شهر بن حوشب فـيـما مضى.وأما تأويـل الآية،
-  فإن أهل التأويـل مختلفون فـيه. فرُوي عن ابن عبـاس فـي ذلك أقوال أحدها ما:حدثنا به
-  مـحمد بن حميد، قال: حدثنا سلـمة، قال: حدثنا مـحمد بن إسحاق، عن مـحمد بن أبـي مـحمد
-  مولـى زيد بن ثابت، عن عكرمة، أو عن سعيد بن جبـير، عن ابن عبـاس:{ أَوْ كَصَيِّبٍ
-  مِّنَ ٱلسَّمَآءِ فِيهِ ظُلُمَٰتٌ وَرَعْدٌ وَبَرْقٌ يَجْعَلُونَ أَصَٰبِعَهُمْ فِيۤ
-  آذَانِهِم مِّنَ ٱلصَّوَٰعِقِ حَذَرَ ٱلْمَوْتِ }[البقرة: 19] أي هم من ظلـمات ما هم
-  فـيه من الكفر والـحذر من القتل علـى الذي هم علـيه من الـخلاف، والتـخوّف منكم علـى
-  مثل ما وصف من الذي هو فـي ظلـمة الصيب، فجعل أصابعه فـي أذنـيه من الصواعق حذر الـموت
-  { يَكَادُ ٱلْبَرْقُ يَخْطَفُ أَبْصَـٰرَهُمْ } أي لشدة ضوء الـحق، { كُلَّمَا أَضَآء
-  لَهُم مَّشَوْاْ فِيهِ وَإِذآ أَظْلَمَ عَلَيْهِمْ قَامُواْ } أي يعرفون الـحق ويتكلـمون
-  به، فهم من قولهم به علـى استقامة، فإذا ارتكسوا منه إلـى الكفر قاموا متـحيرين. والآخر
-  ما:حدثنـي به موسى بن هارون، قال: حدثنا عمرو، قال: حدثنا أسبـاط، عن السدي فـي خبر
-  ذكره عن أبـي مالك، وعن أبـي صالـح، عن ابن عبـاس، وعن مرة، عن ابن مسعود، وعن ناس
-  من أصحاب النبـي صلى الله عليه وسلم:{ أَوْ كَصَيِّبٍ مِّنَ ٱلسَّمَآءِ فِيهِ ظُلُمَٰتٌ
-  وَرَعْدٌ وَبَرْقٌ }[البقرة: 19] إلـى: { إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ
-  }: أما الصيب والـمطر. كانا رجلان من الـمنافقـين من أهل الـمدينة هربـا من رسول الله
+  عن مـجاهد، قال: البرق: مَصْع مَلَك.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  الـمثنى، قال: حدثنا إسحاق، قال: حدثنا هشام، عن مـحمد بن مسلـم الطائفـي، قال: بلغنـي
+  أن البرق ملك له أربعة أوجه: وجه إنسان، ووجه ثور، ووجه نسر، ووجه أسد، فإذا مصع بأجنـحته
+  فذلك البرق.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا القاسم، قال: حدثنا الـحسين،
+  قال: حدثنـي حجاج، عن ابن جريج، عن وهب بن سلـيـمان، عن شعيب الـجبـائي، قال: فـي كتاب
+  الله الـملائكة حملة العرش، لكل ملك منهم وجه إنسان، وثور، وأسد، فإذا حركوا أجنـحتهم
+  فهو البرق. وقال أمية بن أبـي الصلت:</font></font><table class=\"TextArabic\" dir=\"rtl\"><tr
+  class=\"TextArabic\"><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">رَجُلٌ وَثَوْرٌ تَـحْتَ رِجْلِ يَـمِينِهِ</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">والنَّسْرُ للاخْرَى وَلَـيْثٌ مُرْصَدُ</font></font></b></td></tr></table><label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">3 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,8,1)\"><u>8</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,9,1)\"><u>9</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(1,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2,
+  20)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,20)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">يَكَادُ ٱلْبَرْقُ يَخْطَفُ أَبْصَٰرَهُمْ كُلَّمَا
+  أَضَآءَ لَهُمْ مَّشَوْاْ فِيهِ وَإِذَآ أَظْلَمَ عَلَيْهِمْ قَامُواْ وَلَوْ شَآءَ
+  ٱللَّهُ لَذَهَبَ بِسَمْعِهِمْ وَأَبْصَٰرِهِمْ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَيْءٍ
+  قَدِيرٌ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا الـحسين بن مـحمد، قال: حدثنا
+  علـيّ بن عاصم، عن ابن جريج، عن مـجاهد، عن ابن عبـاس: البرق: ملك.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقد حدثنا القاسم، قال: حدثنا الـحسين، قال: حدثنـي حجاج، عن ابن جريج،
+  قال: الصواعق ملك يضرب السحاب بـالـمخاريق يصيب منه من يشاء.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال
+  أبو جعفر: وقد يحتـمل أن يكون ما قاله علـيّ بن أبـي طالب وابن عبـاس ومـجاهد بـمعنى
+  واحد وذلك أن تكون الـمخاريق التـي ذكر علـيّ رضي الله عنه أنها هي البرق هي السياط
+  التـي هي من نور التـي يزجي بها الـملك السحاب، كما قال ابن عبـاس. ويكون إزجاء الـملك
+  السحاب: مَصْعَهُ إياه بها، وذاك أن الـمِصَاعَ عند العرب أصله الـمـجالدة بـالسيوف،
+  ثم تستعمله فـي كل شيء جُولد به فـي حرب وغير حرب، كما قال أعشى بنـي ثعلبة وهو يصف
+  جواري يـلعبن بحلـيهن ويجالدن به.</font></font><table class=\"TextArabic\" dir=\"rtl\"><tr
+  class=\"TextArabic\"><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">إذَا هُنَّ نازَلْنَ أقْرَانَهُنَّ</font></font></b></td><td class=\"TextArabic\">   </td><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">وكانَ الـمِصَاعُ
+  بِـمَا فـي الـجُؤَنِ</font></font></b></td></tr></table><font class=\"TextResultArabic\"><font
+  color=\"black\">يقال منه: ماصعه مِصَاعاً. وكأن مـجاهداً إنـما قال: «مصع ملك»، إذ
+  كان السحاب لا يـماصع الـملك، وإنـما الرعد هو الـمـماصع له، فجعله مصدراً من مصعه
+  يَـمْصَعُه مصعاً، وقد ذكرنا ما فـي معنى الصاعقة ما قال شهر بن حوشب فـيـما مضى.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وأما تأويـل الآية، فإن أهل التأويـل مختلفون فـيه. فرُوي عن ابن عبـاس
+  فـي ذلك أقوال أحدها ما:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا به مـحمد بن حميد، قال: حدثنا
+  سلـمة، قال: حدثنا مـحمد بن إسحاق، عن مـحمد بن أبـي مـحمد مولـى زيد بن ثابت، عن عكرمة،
+  أو عن سعيد بن جبـير، عن ابن عبـاس:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">أَوْ كَصَيِّبٍ مِّنَ ٱلسَّمَآءِ فِيهِ
+  ظُلُمَٰتٌ وَرَعْدٌ وَبَرْقٌ يَجْعَلُونَ أَصَٰبِعَهُمْ فِيۤ آذَانِهِم مِّنَ ٱلصَّوَٰعِقِ
+  حَذَرَ ٱلْمَوْتِ</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">[البقرة: 19] أي هم من ظلـمات ما هم فـيه من الكفر والـحذر من القتل
+  علـى الذي هم علـيه من الـخلاف، والتـخوّف منكم علـى مثل ما وصف من الذي هو فـي ظلـمة
+  الصيب، فجعل أصابعه فـي أذنـيه من الصواعق حذر الـموت { يَكَادُ ٱلْبَرْقُ يَخْطَفُ
+  أَبْصَـٰرَهُمْ } أي لشدة ضوء الـحق، { كُلَّمَا أَضَآء لَهُم مَّشَوْاْ فِيهِ وَإِذآ
+  أَظْلَمَ عَلَيْهِمْ قَامُواْ } أي يعرفون الـحق ويتكلـمون به، فهم من قولهم به علـى
+  استقامة، فإذا ارتكسوا منه إلـى الكفر قاموا متـحيرين. والآخر ما:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي به موسى بن هارون، قال: حدثنا عمرو، قال: حدثنا أسبـاط، عن
+  السدي فـي خبر ذكره عن أبـي مالك، وعن أبـي صالـح، عن ابن عبـاس، وعن مرة، عن ابن مسعود،
+  وعن ناس من أصحاب النبـي صلى الله عليه وسلم:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">أَوْ كَصَيِّبٍ مِّنَ ٱلسَّمَآءِ فِيهِ
+  ظُلُمَٰتٌ وَرَعْدٌ وَبَرْقٌ</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">[البقرة: 19] إلـى: { إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ }:
+  أما الصيب والـمطر. كانا رجلان من الـمنافقـين من أهل الـمدينة هربـا من رسول الله
   صلى الله عليه وسلم إلـى الـمشركين، فأصابهما هذا الـمطر الذي ذكر الله فـيه رعد شديد
   وصواعق وبرق، فجعلا كلـما أضاء لهما الصواعق جعلا أصابعهما فـي آذانهما من الفَرَق
   أن تدخـل الصواعق فـي مسامعهما فتقتلهما، وإذ لـمع البرق مشوا فـي ضوئه، وإذا لـم يـلـمع
   لـم يبصرا قاما مكانهما لا يـمشيان، فجعلا يقولان: لـيتنا قد أصبحنا فنأتـي مـحمداً
-  فنضع أيدينا فـي يده فأصبحا فأتـياه فأسلـما ووضعا أيديهما فـي يده وحسن إسلامهما.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 9 10 \r\n\t\t\t\t\t\t\t\tمزيد</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ يَكَادُ ٱلْبَرْقُ يَخْطَفُ أَبْصَٰرَهُمْ
-  كُلَّمَا أَضَآءَ لَهُمْ مَّشَوْاْ فِيهِ وَإِذَآ أَظْلَمَ عَلَيْهِمْ قَامُواْ وَلَوْ
-  شَآءَ ٱللَّهُ لَذَهَبَ بِسَمْعِهِمْ وَأَبْصَٰرِهِمْ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَيْءٍ
-  قَدِيرٌ }فضرب الله شأن هذين الـمنافقـين الـخارجين مثلاً للـمنافقـين الذين بـالـمدينة.
-  وكان الـمنافقون إذا حضروا مـجلس النبـي صلى الله عليه وسلم، جعلوا أصابعهم فـي آذانهم
-  فَرَقاً من كلام النبـي صلى الله عليه وسلم أن ينزل فـيهم شيء أو يذكروا بشيء فـيقتلوا،
-  كما كان ذانك الـمنافقان الـخارجان يجعلان أصابعهما فـي آذانهما، وإذا أضاء لهم مشوا
-  فـيه. فإذا كثرت أموالهم وولد لهم الغلـمان وأصابوا غنـيـمة أو فتـحاً مشوا فـيه، وقالوا:
-  إن دين مـحمد صلى الله عليه وسلم دين صدق فـاستقاموا علـيه، كما كان ذانك الـمنافقان
-  يـمشيان إذا أضاء لهم البرق مشوا فـيه، وإذا أظلـم علـيهم قاموا. فكانوا إذا هلكت أموالهم،
-  وولد لهم الـجواري، وأصابهم البلاء قالوا: هذا من أجل دين مـحمد، فـارتدّوا كفـاراً
-  كما قام ذانك الـمنافقان حين أظلـم البرق علـيهما. والثالث ما:حدثنـي به مـحمد بن سعد
-  قال: حدثنـي أبـي، قال: حدثنـي عمي، عن أبـيه، عن جده، عن ابن عبـاس:{ أَوْ كَصَيِّبٍ
-  مِّنَ ٱلسَّمَآءِ }[البقرة: 19] كمطر{ فِيهِ ظُلُمَٰتٌ وَرَعْدٌ وَبَرْقٌ }[البقرة:
+  فنضع أيدينا فـي يده فأصبحا فأتـياه فأسلـما ووضعا أيديهما فـي يده وحسن إسلامهما.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">4 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,8,1)\"><u>8</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,9,1)\"><u>9</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(1,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2,
+  20)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,20)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">يَكَادُ ٱلْبَرْقُ يَخْطَفُ أَبْصَٰرَهُمْ كُلَّمَا
+  أَضَآءَ لَهُمْ مَّشَوْاْ فِيهِ وَإِذَآ أَظْلَمَ عَلَيْهِمْ قَامُواْ وَلَوْ شَآءَ
+  ٱللَّهُ لَذَهَبَ بِسَمْعِهِمْ وَأَبْصَٰرِهِمْ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَيْءٍ
+  قَدِيرٌ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">فضرب الله شأن هذين الـمنافقـين
+  الـخارجين مثلاً للـمنافقـين الذين بـالـمدينة. وكان الـمنافقون إذا حضروا مـجلس النبـي
+  صلى الله عليه وسلم، جعلوا أصابعهم فـي آذانهم فَرَقاً من كلام النبـي صلى الله عليه
+  وسلم أن ينزل فـيهم شيء أو يذكروا بشيء فـيقتلوا، كما كان ذانك الـمنافقان الـخارجان
+  يجعلان أصابعهما فـي آذانهما، وإذا أضاء لهم مشوا فـيه. فإذا كثرت أموالهم وولد لهم
+  الغلـمان وأصابوا غنـيـمة أو فتـحاً مشوا فـيه، وقالوا: إن دين مـحمد صلى الله عليه
+  وسلم دين صدق فـاستقاموا علـيه، كما كان ذانك الـمنافقان يـمشيان إذا أضاء لهم البرق
+  مشوا فـيه، وإذا أظلـم علـيهم قاموا. فكانوا إذا هلكت أموالهم، وولد لهم الـجواري،
+  وأصابهم البلاء قالوا: هذا من أجل دين مـحمد، فـارتدّوا كفـاراً كما قام ذانك الـمنافقان
+  حين أظلـم البرق علـيهما. والثالث ما:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  به مـحمد بن سعد قال: حدثنـي أبـي، قال: حدثنـي عمي، عن أبـيه، عن جده، عن ابن عبـاس:</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">أَوْ
+  كَصَيِّبٍ مِّنَ ٱلسَّمَآءِ</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">[البقرة: 19] كمطر</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">فِيهِ ظُلُمَٰتٌ وَرَعْدٌ وَبَرْقٌ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[البقرة:
   19] إلـى آخر الآية، هو مثل الـمنافق فـي ضوء ما تكلـم بـما معه من كتاب الله وعمل،
   مراءاةً للناس، فإذا خلا وحده عمل بغيره. فهو فـي ظلـمة ما أقام علـى ذلك. وأما الظلـمات
   فـالضلالة، وأما البرق فـالإيـمان، وهم أهل الكتاب. وإذا أظلـم علـيهم، فهو رجل يأخذ
-  بطرف الـحق لا يستطيع أن يجاوزه. والرابع ما:حدثنـي به الـمثنى، قال: حدثنا عبد الله
-  بن صالـح، قال: حدثنـي معاوية بن صالـح، عن علـيّ بن أبـي طلـحة، عن ابن عبـاس:{ أَوْ
-  كَصَيِّبٍ مِّنَ ٱلسَّمَآءِ }[البقرة: 19] وهو الـمطر، ضرب مثله فـي القرآن يقول: «فـيه
-  ظلـمات»، يقول: ابتلاء. «ورعد» يقول: فـيه تـخويف، وبرق { يَكَادُ ٱلْبَرْقُ يَخْطَفُ
-  أَبْصَـٰرَهُمْ } يقول: يكاد مـحكم القرآن يدلّ علـى عورات الـمنافقـين، { كُلَّمَا
-  أَضَآء لَهُم مَّشَوْاْ فِيهِ } يقول: كلـما أصاب الـمنافقون من الإسلام عزّاً اطمأنوا،
-  وإن أصابوا الإسلام نكبة، قالوا: ارجعوا إلـى الكفر. يقول: { وَإِذآ أَظْلَمَ عَلَيْهِمْ
-  قَامُواْ } كقوله:{ وَمِنَ ٱلنَّاسِ مَن يَعْبُدُ ٱللَّهَ عَلَىٰ حَرْفٍ فَإِنْ أَصَابَهُ
-  خَيْرٌ ٱطْمَأَنَّ بِهِ وَإِنْ أَصَابَتْهُ فِتْنَةٌ }[الحج: 11] إلـى آخر الآية.ثم
-  اختلف سائر أهل التأويـل بعد ذلك فـي نظير ما رُوي عن ابن عبـاس من الاختلاف.فحدثنـي
+  بطرف الـحق لا يستطيع أن يجاوزه. والرابع ما:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  به الـمثنى، قال: حدثنا عبد الله بن صالـح، قال: حدثنـي معاوية بن صالـح، عن علـيّ
+  بن أبـي طلـحة، عن ابن عبـاس:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">أَوْ كَصَيِّبٍ مِّنَ ٱلسَّمَآءِ</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">[البقرة: 19] وهو الـمطر، ضرب مثله
+  فـي القرآن يقول: «فـيه ظلـمات»، يقول: ابتلاء. «ورعد» يقول: فـيه تـخويف، وبرق { يَكَادُ
+  ٱلْبَرْقُ يَخْطَفُ أَبْصَـٰرَهُمْ } يقول: يكاد مـحكم القرآن يدلّ علـى عورات الـمنافقـين،
+  { كُلَّمَا أَضَآء لَهُم مَّشَوْاْ فِيهِ } يقول: كلـما أصاب الـمنافقون من الإسلام
+  عزّاً اطمأنوا، وإن أصابوا الإسلام نكبة، قالوا: ارجعوا إلـى الكفر. يقول: { وَإِذآ
+  أَظْلَمَ عَلَيْهِمْ قَامُواْ } كقوله:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">وَمِنَ ٱلنَّاسِ مَن يَعْبُدُ ٱللَّهَ
+  عَلَىٰ حَرْفٍ فَإِنْ أَصَابَهُ خَيْرٌ ٱطْمَأَنَّ بِهِ وَإِنْ أَصَابَتْهُ فِتْنَةٌ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[الحج:
+  11] إلـى آخر الآية.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">ثم اختلف سائر أهل التأويـل بعد
+  ذلك فـي نظير ما رُوي عن ابن عبـاس من الاختلاف.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">فحدثنـي
   مـحمد بن عمرو البـاهلـي، قال: حدثنا أبو عاصم، عن عيسى بن ميـمون، عن ابن أبـي نـجيح،
-  عن مـجاهد، قال: إضاءة البرق وإظلامه علـى نـحو ذلك الـمثل.وحدثنـي الـمثنى، قال: حدثنا
-  أبو حذيفة، قال: حدثنا شبل عن ابن أبـي نـجيح، عن مـجاهد مثله.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 9 10 \r\n\t\t\t\t\t\t\t\tمزيد</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ يَكَادُ ٱلْبَرْقُ يَخْطَفُ أَبْصَٰرَهُمْ
-  كُلَّمَا أَضَآءَ لَهُمْ مَّشَوْاْ فِيهِ وَإِذَآ أَظْلَمَ عَلَيْهِمْ قَامُواْ وَلَوْ
-  شَآءَ ٱللَّهُ لَذَهَبَ بِسَمْعِهِمْ وَأَبْصَٰرِهِمْ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَيْءٍ
-  قَدِيرٌ }حدثنا عمرو بن علـيّ، قال: حدثنا أبو عاصم، قال: حدثنا عيسى، عن ابن أبـي
-  نـجيح عن مـجاهد مثله.وحدثنا بشر بن معاذ، قال: حدثنا يزيد بن زُريع، عن سعيد، عن قتادة
-  فـي قول الله:{ فِيهِ ظُلُمَٰتٌ وَرَعْدٌ وَبَرْقٌ }[البقرة: 19] إلـى قوله: { وَإِذآ
+  عن مـجاهد، قال: إضاءة البرق وإظلامه علـى نـحو ذلك الـمثل.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وحدثنـي
+  الـمثنى، قال: حدثنا أبو حذيفة، قال: حدثنا شبل عن ابن أبـي نـجيح، عن مـجاهد مثله.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">5 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,8,1)\"><u>8</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,9,1)\"><u>9</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(1,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2,
+  20)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,20)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">يَكَادُ ٱلْبَرْقُ يَخْطَفُ أَبْصَٰرَهُمْ كُلَّمَا
+  أَضَآءَ لَهُمْ مَّشَوْاْ فِيهِ وَإِذَآ أَظْلَمَ عَلَيْهِمْ قَامُواْ وَلَوْ شَآءَ
+  ٱللَّهُ لَذَهَبَ بِسَمْعِهِمْ وَأَبْصَٰرِهِمْ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَيْءٍ
+  قَدِيرٌ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا عمرو بن علـيّ، قال: حدثنا
+  أبو عاصم، قال: حدثنا عيسى، عن ابن أبـي نـجيح عن مـجاهد مثله.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وحدثنا بشر بن معاذ، قال: حدثنا يزيد بن زُريع، عن سعيد، عن قتادة
+  فـي قول الله:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">فِيهِ ظُلُمَٰتٌ وَرَعْدٌ وَبَرْقٌ</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">[البقرة: 19] إلـى قوله: { وَإِذآ
   أَظْلَمَ عَلَيْهِمْ قَامُواْ } ، فـالـمنافق إذا رأى فـي الإسلام رخاء أو طمأنـينة
   أو سلوة من عيش، قال: أنا معكم وأنا منكم وإذا أصابته شدة حقحق والله عندها فـانقُطع
-  به فلـم يصبر علـى بلائها، ولـم يحتسب أجرها، ولـم يَرْجُ عاقبتها.وحدثنا الـحسن بن
-  يحيى، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر، عن قتادة:{ فِيهِ ظُلُمَٰتٌ وَرَعْدٌ
-  وَبَرْقٌ }[البقرة: 19] يقول: أخبر عن قوم لا يسمعون شيئاً إلا ظنوا أنهم هالكون فـيه
-  حذراً من الـموت، والله مـحيط بـالكافرين. ثم ضرب لهم مثلاً آخر فقال: { يَكَادُ ٱلْبَرْقُ
-  يَخْطَفُ أَبْصَـٰرَهُمْ كُلَّمَا أَضَآء لَهُم مَّشَوْاْ فِيهِ } يقول: هذا الـمنافق،
-  إذا كثر ماله وكثرت ماشيته وأصابته عافـية قال: لـم يصبنـي منذ دخـلت فـي دينـي هذا
-  إلاّ خير، { وَإِذآ أَظْلَمَ عَلَيْهِمْ قَامُواْ } يقول: إذا ذهبت أموالهم وهلكت مواشيهم
-  وأصابهم البلاء قاموا متـحيرين.وحدثنـي الـمثنى، قال: حدثنا إسحاق بن الـحجاج، عن عبد
-  الله بن أبـي جعفر، عن أبـيه، عن الربـيع بن أنس:{ فِيهِ ظُلُمَٰتٌ وَرَعْدٌ وَبَرْقٌ }[البقرة:
+  به فلـم يصبر علـى بلائها، ولـم يحتسب أجرها، ولـم يَرْجُ عاقبتها.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وحدثنا الـحسن بن يحيى، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر،
+  عن قتادة:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">فِيهِ ظُلُمَٰتٌ وَرَعْدٌ وَبَرْقٌ</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">[البقرة: 19] يقول: أخبر عن قوم
+  لا يسمعون شيئاً إلا ظنوا أنهم هالكون فـيه حذراً من الـموت، والله مـحيط بـالكافرين.
+  ثم ضرب لهم مثلاً آخر فقال: { يَكَادُ ٱلْبَرْقُ يَخْطَفُ أَبْصَـٰرَهُمْ كُلَّمَا
+  أَضَآء لَهُم مَّشَوْاْ فِيهِ } يقول: هذا الـمنافق، إذا كثر ماله وكثرت ماشيته وأصابته
+  عافـية قال: لـم يصبنـي منذ دخـلت فـي دينـي هذا إلاّ خير، { وَإِذآ أَظْلَمَ عَلَيْهِمْ
+  قَامُواْ } يقول: إذا ذهبت أموالهم وهلكت مواشيهم وأصابهم البلاء قاموا متـحيرين.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وحدثنـي الـمثنى، قال: حدثنا إسحاق بن الـحجاج، عن عبد الله بن أبـي
+  جعفر، عن أبـيه، عن الربـيع بن أنس:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">فِيهِ ظُلُمَٰتٌ وَرَعْدٌ وَبَرْقٌ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[البقرة:
   19] قال: مثلهم كمثل قوم ساروا فـي لـيـلة مظلـمة ولها مطر ورعد وبرق علـى جادة، فلـما
   أبرقت أبصروا الـجادّة فمضوا فـيها، وإذا ذهب البرق تـحيروا. وكذلك الـمنافق كلـما
   تكلـم بكلـمة الإخلاص أضاء له، فإذا شك تـحير ووقع فـي الظلـمة، فكذلك قوله: { كُلَّمَا
   أَضَآء لَهُم مَّشَوْاْ فِيهِ وَإِذآ أَظْلَمَ عَلَيْهِمْ قَامُواْ } ثم قال: فـي أسماعهم
   وأبصارهم التـي عاشوا بها فـي الناس { وَلَوْ شَآءَ ٱللَّهُ لَذَهَبَ بِسَمْعِهِمْ
-  وَأَبْصَٰرِهِمْ } قال أبو جعفر:وحدثنا القاسم، قال: حدثنا الـحسين، قال: حدثنا أبو
-  نُـميـلة، عن عبـيد بن سلـيـمان البـاهلـي، عن الضحاك بن مزاحم: { فِيهِ ظُلُمَٰتٌ
-  } قال: أما الظلـمات فـالضلالة، والبرق: الإيـمان.وحدثنـي يونس، قال: أخبرنا ابن وهب،
-  قال: حدثنـي عبد الرحمن بن زيد فـي قوله:{ فِيهِ ظُلُمَٰتٌ وَرَعْدٌ وَبَرْقٌ }[البقرة:
-  19] فقرأ حتـى بلغ: { إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ } قال: هذا أيضاً
-  مثل ضربه الله للـمنافقـين، كانوا قد استناروا بـالإسلام كما استنار هذا بنور هذا البرق.وحدثنا
+  وَأَبْصَٰرِهِمْ } قال أبو جعفر:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وحدثنا
+  القاسم، قال: حدثنا الـحسين، قال: حدثنا أبو نُـميـلة، عن عبـيد بن سلـيـمان البـاهلـي،
+  عن الضحاك بن مزاحم: { فِيهِ ظُلُمَٰتٌ } قال: أما الظلـمات فـالضلالة، والبرق: الإيـمان.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وحدثنـي يونس، قال: أخبرنا ابن وهب، قال: حدثنـي عبد الرحمن بن زيد
+  فـي قوله:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">فِيهِ ظُلُمَٰتٌ وَرَعْدٌ وَبَرْقٌ</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">[البقرة: 19] فقرأ حتـى بلغ: { إِنَّ
+  ٱللَّهَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ } قال: هذا أيضاً مثل ضربه الله للـمنافقـين،
+  كانوا قد استناروا بـالإسلام كما استنار هذا بنور هذا البرق.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وحدثنا
   القاسم، قال: حدثنا الـحسين، قال: حدثنـي حجاج، قال: قال ابن جريج: لـيس شيءٌ فـي الأرض
   سمعه الـمنافق إلا ظنّ أنه يراد به وأنه الـموت كراهية له، والـمنافق أكره خـلق الله
-  للـموت، كما إذا كانوا بـالبَراز فـي الـمطر فرّوا من الصواعق.حدثنا عمرو ابن علـيّ،
-  قال: حدثنا أبو معاوية، قال: حدثنا ابن جريج، عن عطاء فـي قوله:{ أَوْ كَصَيِّبٍ مِّنَ
-  ٱلسَّمَآءِ فِيهِ ظُلُمَٰتٌ وَرَعْدٌ وَبَرْقٌ }\r\n\t\t\t1 2 3 4 5 6 7 8 9 10 \r\n\t\t\t\t\t\t\t\tمزيد</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ يَكَادُ ٱلْبَرْقُ يَخْطَفُ أَبْصَٰرَهُمْ
-  كُلَّمَا أَضَآءَ لَهُمْ مَّشَوْاْ فِيهِ وَإِذَآ أَظْلَمَ عَلَيْهِمْ قَامُواْ وَلَوْ
-  شَآءَ ٱللَّهُ لَذَهَبَ بِسَمْعِهِمْ وَأَبْصَٰرِهِمْ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَيْءٍ
-  قَدِيرٌ }[البقرة: 19] قال: مثل ضُرِبَ للكافر.وهذه الأقوال التـي ذكرنا عمن رويناها
-  عنه، فإنها وإن اختلفت فـيها ألفـاظ قائلـيها متقاربـات الـمعانـي لأنها جميعاً تنبىء
-  عن أن الله ضرب الصيب لظاهر إيـمان الـمنافق مثلاً، ومثَّل ما فـيه من ظلـمات بضلالته،
-  وما فـيه من ضياء برق بنور إيـمانه، واتقاءه من الصواعق بتصيـير أصابعه فـي أذنـيه
-  بضعف جنانه وتحير فؤاده من حلول عقوبة الله بساحته، ومشيه فـي ضوء البرق بـاستقامته
-  علـى نور إيـمانه، وقـيامه فـي الظلام بحيرته فـي ضلالته وارتكاسه فـي عمهه.فتأويـل
+  للـموت، كما إذا كانوا بـالبَراز فـي الـمطر فرّوا من الصواعق.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا عمرو ابن علـيّ، قال: حدثنا أبو معاوية، قال: حدثنا ابن جريج،
+  عن عطاء فـي قوله:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">أَوْ كَصَيِّبٍ مِّنَ ٱلسَّمَآءِ فِيهِ ظُلُمَٰتٌ وَرَعْدٌ وَبَرْقٌ</font></font> }</b><br
+  class=\"TextArabic\"/><label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,7,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">6 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,8,1)\"><u>8</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,9,1)\"><u>9</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(1,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2,
+  20)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,20)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">يَكَادُ ٱلْبَرْقُ يَخْطَفُ أَبْصَٰرَهُمْ كُلَّمَا
+  أَضَآءَ لَهُمْ مَّشَوْاْ فِيهِ وَإِذَآ أَظْلَمَ عَلَيْهِمْ قَامُواْ وَلَوْ شَآءَ
+  ٱللَّهُ لَذَهَبَ بِسَمْعِهِمْ وَأَبْصَٰرِهِمْ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَيْءٍ
+  قَدِيرٌ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">[البقرة: 19] قال: مثل ضُرِبَ للكافر.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وهذه الأقوال التـي ذكرنا عمن رويناها عنه، فإنها وإن اختلفت فـيها
+  ألفـاظ قائلـيها متقاربـات الـمعانـي لأنها جميعاً تنبىء عن أن الله ضرب الصيب لظاهر
+  إيـمان الـمنافق مثلاً، ومثَّل ما فـيه من ظلـمات بضلالته، وما فـيه من ضياء برق بنور
+  إيـمانه، واتقاءه من الصواعق بتصيـير أصابعه فـي أذنـيه بضعف جنانه وتحير فؤاده من
+  حلول عقوبة الله بساحته، ومشيه فـي ضوء البرق بـاستقامته علـى نور إيـمانه، وقـيامه
+  فـي الظلام بحيرته فـي ضلالته وارتكاسه فـي عمهه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">فتأويـل
   الآية إذا إذا كان الأمر علـى ما وصفنا: أَوَ مَثَلُ ما استضاء به الـمنافقون من قـيـلهم
   لرسول الله صلى الله عليه وسلم وللـمؤمنـين بألسنتهم: آمنا بـالله وبـالـيوم الآخر
   وبـمـحمد وما جاء به، حتـى صار لهم بذلك فـي الدنـيا أحكام الـمؤمنـين، وهم مع إظهارهم
@@ -222,108 +522,262 @@ text: "<section>قراءة الآيةفتح صفحة القرآنالانتقا�
   أي يحل بهم مع شكهم فـي ذلك: هل هو كائن، أم غير كائن، وهل له حقـيقة أم ذلك كذب وبـاطل؟
   مَثَلٌ. فهم من وجلهم أن يكون ذلك حقاً يتقونه بـالإقرار بـما جاء به مـحمد صلى الله
   عليه وسلم بألسنتهم مخافة علـى أنفسهم من الهلاك ونزول النقمات. وذلك تأويـل قوله جل
-  ثناؤه:{ يَجْعَلُونَ أَصَٰبِعَهُمْ فِيۤ آذَانِهِم مِّنَ ٱلصَّوَٰعِقِ حَذَرَ ٱلْمَوْتِ }[البقرة:
-  19] يعنـي بذلك يتقون وعيد الله الذي أنزله فـي كتابه علـى لسان رسوله صلى الله عليه
-  وسلم بـما يبدونه بألسنتهم من ظاهر الإقرار، كما يتقـي الـخائف أصوات الصواعق بتغطية
-  أذنـيه وتصيـير أصابعه فـيها حذراً علـى نفسه منها.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 9 10 \r\n\t\t\t\t\t\t\t\tمزيد</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ يَكَادُ ٱلْبَرْقُ يَخْطَفُ أَبْصَٰرَهُمْ
-  كُلَّمَا أَضَآءَ لَهُمْ مَّشَوْاْ فِيهِ وَإِذَآ أَظْلَمَ عَلَيْهِمْ قَامُواْ وَلَوْ
-  شَآءَ ٱللَّهُ لَذَهَبَ بِسَمْعِهِمْ وَأَبْصَٰرِهِمْ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَيْءٍ
-  قَدِيرٌ }وقد ذكرنا الـخبر الذي رُوي عن ابن مسعود وابن عبـاس أنهما كانا يقولان: إن
-  الـمنافقـين كانوا إذا حضروا مـجلس رسول الله صلى الله عليه وسلم أدخـلوا أصابعهم فـي
-  آذانهم فَرَقاً من كلام رسول الله صلى الله عليه وسلم أن ينزل فـيهم شيء، أو يُذكروا
-  بشيء فـيقتلوا. فإن كان ذلك صحيحاً، ولست أعلـمه صحيحاً، إذ كنت بإسناده مرتابـاً فإن
-  القول الذي روي عنهما هو القول. وإن يكن غير صحيح، فأولـى بتأويـل الآية ما قلنا لأن
-  الله إنـما قص علـينا من خبرهم فـي أول مبتدأ قصصهم أنهم يخادعون الله ورسوله والـمؤمنـين
-  بقولهم آمنا بـالله وبـالـيوم الآخر، مع شك قلوبهم ومرض أفئدتهم فـي حقـيقة ما زعموا
-  أنهم به مؤمنون مـما جاءهم به رسول الله صلى الله عليه وسلم من عند ربهم، وبذلك وصفهم
-  فـي جميع آي القرآن التـي ذكر فـيها صفتهم. فكذلك ذلك فـي هذه الآية.وإنـما جعل الله
-  إدخالهم أصابعهم فـي آذانهم مثلاً لاتقائهم رسول الله صلى الله عليه وسلم والـمؤمنـين
-  بـما ذكرنا أنهم يتقونهم به كما يتقـي سامع صوت الصاعقة بإدخال أصابعه فـي أذنـيه.
-  وذلك من الـمَثَلِ نظير تـمثـيـل الله جل ثناؤه ما أنزل فـيهم من الوعيد فـي آي كتابه
-  بأصوات الصواعق، وكذلك قوله: { حَذَرَ ٱلْمَوْتِ } جعله جل ثناؤه مثلاً لـخوفهم وإشفـاقهم
-  من حلول عاجل العقاب الـمهلك الذي توعده بساحتهم، كما يجعل سامع أصوات الصواعق أصابعه
-  فـي أذنـيه حذر العطب والـموت علـى نفسه أن تزهق من شدتها. وإنـما نصب قوله: حذر الـموت
-  علـى نـحو ما تنصب به التكرمة فـي قولك: زرتَكَ تكرمَةَ لك، تريد بذلك: من أجل تكرمتك،
-  وكما قال جل ثناؤه: { وَيَدْعُونَنَا رَغَبـاً وَرَهَبـاً } علـى التفسير للفعل. وقد
-  رُوي عن قتادة أنه كان يتأوّل قوله: { حَذَرَ ٱلْمَوْتِ }: حذراً من الـموت.حدثنا بذلك
-  الـحسن بن يحيى، قال: حدثنا عبد الرزاق، قال: أنبأنا معمر عنه.وذلك مذهب من التأويـل
-  ضعيف، لأن القوم لـم يجعلوا أصابعهم فـي آذانهم حذراً من الـموت فـيكون معناه ما قال
-  إنه مراد به حذراً من الـموت، وإنـما جعلوها من حذار الـموت فـي آذانهم.وكان قتادة
-  وابن جريج يتأوّلان قوله:{ يَجْعَلُونَ أَصَٰبِعَهُمْ فِيۤ آذَانِهِم مِّنَ ٱلصَّوَٰعِقِ
-  حَذَرَ ٱلْمَوْتِ }[البقرة: 19] أن ذلك من الله جل ثناؤه صفةٌ للـمنافقـين بـالهلع.
-  وضعف القلوب، وكراهة الـموت، ويتأوّلان فـي ذلك قوله:{ يَحْسَبُونَ كُلَّ صَيْحَةٍ
-  عَلَيْهِمْ }[المنافقون: 4] ولـيس الأمر فـي ذلك عندي كالذي قالا. وذلك أنه قد كان
-  فـيهم من لا تنكر شجاعته ولا تدفع بسالته كقزمان الذي لـم يقم مقامه أحد من الـمؤمنـين
+  ثناؤه:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">يَجْعَلُونَ أَصَٰبِعَهُمْ فِيۤ آذَانِهِم مِّنَ ٱلصَّوَٰعِقِ
+  حَذَرَ ٱلْمَوْتِ</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">[البقرة: 19] يعنـي بذلك يتقون وعيد الله الذي أنزله فـي كتابه علـى
+  لسان رسوله صلى الله عليه وسلم بـما يبدونه بألسنتهم من ظاهر الإقرار، كما يتقـي الـخائف
+  أصوات الصواعق بتغطية أذنـيه وتصيـير أصابعه فـيها حذراً علـى نفسه منها.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,8,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">7 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,8,1)\"><u>8</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,9,1)\"><u>9</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(1,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2,
+  20)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,20)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">يَكَادُ ٱلْبَرْقُ يَخْطَفُ أَبْصَٰرَهُمْ كُلَّمَا
+  أَضَآءَ لَهُمْ مَّشَوْاْ فِيهِ وَإِذَآ أَظْلَمَ عَلَيْهِمْ قَامُواْ وَلَوْ شَآءَ
+  ٱللَّهُ لَذَهَبَ بِسَمْعِهِمْ وَأَبْصَٰرِهِمْ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَيْءٍ
+  قَدِيرٌ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">وقد ذكرنا الـخبر الذي رُوي عن ابن
+  مسعود وابن عبـاس أنهما كانا يقولان: إن الـمنافقـين كانوا إذا حضروا مـجلس رسول الله
+  صلى الله عليه وسلم أدخـلوا أصابعهم فـي آذانهم فَرَقاً من كلام رسول الله صلى الله
+  عليه وسلم أن ينزل فـيهم شيء، أو يُذكروا بشيء فـيقتلوا. فإن كان ذلك صحيحاً، ولست
+  أعلـمه صحيحاً، إذ كنت بإسناده مرتابـاً فإن القول الذي روي عنهما هو القول. وإن يكن
+  غير صحيح، فأولـى بتأويـل الآية ما قلنا لأن الله إنـما قص علـينا من خبرهم فـي أول
+  مبتدأ قصصهم أنهم يخادعون الله ورسوله والـمؤمنـين بقولهم آمنا بـالله وبـالـيوم الآخر،
+  مع شك قلوبهم ومرض أفئدتهم فـي حقـيقة ما زعموا أنهم به مؤمنون مـما جاءهم به رسول
+  الله صلى الله عليه وسلم من عند ربهم، وبذلك وصفهم فـي جميع آي القرآن التـي ذكر فـيها
+  صفتهم. فكذلك ذلك فـي هذه الآية.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وإنـما
+  جعل الله إدخالهم أصابعهم فـي آذانهم مثلاً لاتقائهم رسول الله صلى الله عليه وسلم
+  والـمؤمنـين بـما ذكرنا أنهم يتقونهم به كما يتقـي سامع صوت الصاعقة بإدخال أصابعه
+  فـي أذنـيه. وذلك من الـمَثَلِ نظير تـمثـيـل الله جل ثناؤه ما أنزل فـيهم من الوعيد
+  فـي آي كتابه بأصوات الصواعق، وكذلك قوله: { حَذَرَ ٱلْمَوْتِ } جعله جل ثناؤه مثلاً
+  لـخوفهم وإشفـاقهم من حلول عاجل العقاب الـمهلك الذي توعده بساحتهم، كما يجعل سامع
+  أصوات الصواعق أصابعه فـي أذنـيه حذر العطب والـموت علـى نفسه أن تزهق من شدتها. وإنـما
+  نصب قوله: حذر الـموت علـى نـحو ما تنصب به التكرمة فـي قولك: زرتَكَ تكرمَةَ لك، تريد
+  بذلك: من أجل تكرمتك، وكما قال جل ثناؤه: { وَيَدْعُونَنَا رَغَبـاً وَرَهَبـاً } علـى
+  التفسير للفعل. وقد رُوي عن قتادة أنه كان يتأوّل قوله: { حَذَرَ ٱلْمَوْتِ }: حذراً
+  من الـموت.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا بذلك الـحسن بن يحيى، قال:
+  حدثنا عبد الرزاق، قال: أنبأنا معمر عنه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وذلك
+  مذهب من التأويـل ضعيف، لأن القوم لـم يجعلوا أصابعهم فـي آذانهم حذراً من الـموت فـيكون
+  معناه ما قال إنه مراد به حذراً من الـموت، وإنـما جعلوها من حذار الـموت فـي آذانهم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وكان قتادة وابن جريج يتأوّلان قوله:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">يَجْعَلُونَ أَصَٰبِعَهُمْ فِيۤ آذَانِهِم
+  مِّنَ ٱلصَّوَٰعِقِ حَذَرَ ٱلْمَوْتِ</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">[البقرة: 19] أن ذلك من الله جل
+  ثناؤه صفةٌ للـمنافقـين بـالهلع. وضعف القلوب، وكراهة الـموت، ويتأوّلان فـي ذلك قوله:</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">يَحْسَبُونَ
+  كُلَّ صَيْحَةٍ عَلَيْهِمْ</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">[المنافقون: 4] ولـيس الأمر فـي ذلك عندي كالذي قالا. وذلك أنه قد
+  كان فـيهم من لا تنكر شجاعته ولا تدفع بسالته كقزمان الذي لـم يقم مقامه أحد من الـمؤمنـين
   بـأحد و دونه. وإنـما كانت كراهتهم شُهود الـمشاهد مع رسول الله صلى الله عليه وسلم
   وتركهم معاونته علـى أعدائه لأنهم لـم يكونوا فـي أديانهم مستبصرين ولا برسول الله
-  صلى الله عليه وسلم مصدقـين، فكانوا للـحضور معه مشاهده كارهين، إلا بـالتـخذيـل عنه.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 9 10 \r\n\t\t\t\t\t\t\t\tمزيد</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ يَكَادُ ٱلْبَرْقُ يَخْطَفُ أَبْصَٰرَهُمْ
-  كُلَّمَا أَضَآءَ لَهُمْ مَّشَوْاْ فِيهِ وَإِذَآ أَظْلَمَ عَلَيْهِمْ قَامُواْ وَلَوْ
-  شَآءَ ٱللَّهُ لَذَهَبَ بِسَمْعِهِمْ وَأَبْصَٰرِهِمْ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَيْءٍ
-  قَدِيرٌ }ولكن ذلك وصف من الله جل ثناؤه لهم بـالإشفـاق من حلول عقوبة الله بهم علـى
-  نفـاقهم، إما عاجلاً، وإما آجلاً.ثم أخبر جل ثناؤه أن الـمنافقـين الذين نعتهم النعت
-  الذي ذكر وضرب لهم الأمثال التـي وصف وإن اتقوا عقابه وأشفقوا عذابه إشفـاق الـجاعل
-  فـي أذنـيه أصابعه حِذَار حلول الوعيد الذي توعدهم به فـي آي كتابه، غير منـجيهم ذلك
-  من نزوله بعَقْوَتهم وحلوله بساحتهم، إما عاجلاً فـي الدنـيا، وإما آجلاً فـي الآخرة،
-  للذي فـي قلوبهم من مرضها والشك فـي اعتقادها، فقال:{ وٱللَّهُ مُحِيطٌ بِٱلْكَٰفِرِينَ }[البقرة:
-  19] بـمعنى جامعهم فمـحلٌّ بهم عقوبته.وكان مـجاهد يتأوّل ذلك كما:حدثنـي مـحمد بن
-  عمرو البـاهلـي، قال: حدثنا أبو عاصم عن عيسى ابن ميـمون، عن عبد الله بن أبـي نـجيح،
-  عن مـجاهد فـي قول الله:{ وٱللَّهُ مُحِيطٌ بِٱلْكَٰفِرِينَ }[البقرة: 19] قال: جامعهم
-  فـي جهنـم.وأما ابن عبـاس فروي عنه فـي ذلك ما:حدثنـي به ابن حميد، قال: حدثنا سلـمة،
-  عن ابن إسحاق، عن مـحمد بن أبـي مـحمد مولـى زيد بن ثابت، عن عكرمة، أو عن سعيد بن
-  جبـير، عن ابن عبـاس:{ وٱللَّهُ مُحِيطٌ بِٱلْكَٰفِرِينَ }[البقرة: 19] يقول: الله
-  منزل ذلك بهم من النقمة.حدثنا القاسم، قال: حدثنا الـحسين، قال: حدثنا حجاج عن ابن
-  جريج، عن مـجاهد فـي قوله:{ وٱللَّهُ مُحِيطٌ بِٱلْكَٰفِرِينَ }[البقرة: 19] قال: جامعهم.ثم
+  صلى الله عليه وسلم مصدقـين، فكانوا للـحضور معه مشاهده كارهين، إلا بـالتـخذيـل عنه.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,7,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,9,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">8 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,9,1)\"><u>9</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(1,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2,
+  20)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,20)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">يَكَادُ ٱلْبَرْقُ يَخْطَفُ أَبْصَٰرَهُمْ كُلَّمَا
+  أَضَآءَ لَهُمْ مَّشَوْاْ فِيهِ وَإِذَآ أَظْلَمَ عَلَيْهِمْ قَامُواْ وَلَوْ شَآءَ
+  ٱللَّهُ لَذَهَبَ بِسَمْعِهِمْ وَأَبْصَٰرِهِمْ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَيْءٍ
+  قَدِيرٌ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">ولكن ذلك وصف من الله جل ثناؤه لهم
+  بـالإشفـاق من حلول عقوبة الله بهم علـى نفـاقهم، إما عاجلاً، وإما آجلاً.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">ثم أخبر جل ثناؤه أن الـمنافقـين الذين نعتهم النعت الذي ذكر وضرب
+  لهم الأمثال التـي وصف وإن اتقوا عقابه وأشفقوا عذابه إشفـاق الـجاعل فـي أذنـيه أصابعه
+  حِذَار حلول الوعيد الذي توعدهم به فـي آي كتابه، غير منـجيهم ذلك من نزوله بعَقْوَتهم
+  وحلوله بساحتهم، إما عاجلاً فـي الدنـيا، وإما آجلاً فـي الآخرة، للذي فـي قلوبهم من
+  مرضها والشك فـي اعتقادها، فقال:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">وٱللَّهُ مُحِيطٌ بِٱلْكَٰفِرِينَ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[البقرة:
+  19] بـمعنى جامعهم فمـحلٌّ بهم عقوبته.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وكان
+  مـجاهد يتأوّل ذلك كما:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي مـحمد بن عمرو البـاهلـي،
+  قال: حدثنا أبو عاصم عن عيسى ابن ميـمون، عن عبد الله بن أبـي نـجيح، عن مـجاهد فـي
+  قول الله:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">وٱللَّهُ مُحِيطٌ بِٱلْكَٰفِرِينَ</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">[البقرة: 19] قال: جامعهم فـي جهنـم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وأما ابن عبـاس فروي عنه فـي ذلك ما:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  به ابن حميد، قال: حدثنا سلـمة، عن ابن إسحاق، عن مـحمد بن أبـي مـحمد مولـى زيد بن
+  ثابت، عن عكرمة، أو عن سعيد بن جبـير، عن ابن عبـاس:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">وٱللَّهُ مُحِيطٌ بِٱلْكَٰفِرِينَ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[البقرة:
+  19] يقول: الله منزل ذلك بهم من النقمة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  القاسم، قال: حدثنا الـحسين، قال: حدثنا حجاج عن ابن جريج، عن مـجاهد فـي قوله:</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">وٱللَّهُ
+  مُحِيطٌ بِٱلْكَٰفِرِينَ</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">[البقرة: 19] قال: جامعهم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">ثم
   عاد جل ذكره إلـى نعت إقرار الـمنافقـين بألسنتهم، والـخبر عنه وعنهم وعن نفـاقهم،
   وإتـمام الـمثل الذي ابتدأ ضربه لهم ولشكهم ومرض قلوبهم، فقال: { يَكَادُ ٱلْبَرْقُ
   } يعنـي بـالبرق: الإقرار الذي أظهروه بألسنتهم بـالله وبرسوله وما جاء به من عند ربهم،
   فجعل البرق له مثلاً علـى ما قدمنا صفته. { يَخْطَفُ أَبْصَٰرَهُمْ } يعنـي: يذهب بها
-  ويستلبها ويـلتـمعها من شدة ضيائه ونور شعاعه. كما:حدثت عن الـمنـجاب بن الـحارث، قال:
-  حدثنا بشر بن عمار، عن أبـي روق، عن الضحاك، عن ابن عبـاس، فـي قوله: { يَكَادُ ٱلْبَرْقُ
-  يَخْطَفُ أَبْصَٰرَهُمْ } قال: يـلتـمع أبصارَهم ولـمّا يفعل.قال أبو جعفر: والـخطف:
-  السلب، ومنه الـخبر الذي رُوي عن النبـي صلى الله عليه وسلم «أنه نهى عن الـخطفة» يعنـي
-  بها النُّهْبَة ومنه قـيـل للـخُطاف الذي يخرج به الدلو من البئر خُطَّاف لاختطافه
-  واستلابه ما علق به. ومنه قول نابغة بنـي ذبـيان:خطَاطِيفُ حُجْنٍ فِـي حبـالٍ مَتِـينَةٍ   تَـمُدُّ
-  بِها أيْدٍ إلَـيْكَ نَوَازِعُفجعل ضوء البرق وشدة شعاع نوره كضوء إقرارهم بألسنتهم
-  وبرسوله صلى الله عليه وسلم وبـما جاء به من عند الله والـيوم الآخر وشعاع نوره، مثلاً.ثم
-  قال تعالـى ذكره: { كُلَّمَا أَضَآءَ لَهُمْ } يعنـي أن البرق كلـما أضاء لهم، وجعل
-  البرق لإيـمانهم مثلاً. وإنـما أراد بذلك أنهم كلـما أضاء لهم الإيـمان وإضاءته لهم
-  أن يروا فـيه ما يعجبهم فـي عاجل دنـياهم من النصرة علـى الأعداء، وإصابة الغنائم فـي
-  الـمغازي، وكثرة الفتوح، ومنافعها، والثراء فـي الأموال، والسلامة فـي الأبدان والأهل
-  والأولاد، فذلك إضاءته لهم لأنهم إنـما يظهرون بألسنتهم ما يظهرونه من الإقرار ابتغاء
-  ذلك، ومدافعة عن أنفسهم وأموالهم وأهلـيهم وذراريهم، وهم كما وصفهم الله جل ثناؤه بقوله:\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 9 10 \r\n\t\t\t\t\t\t\t\tمزيد</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ يَكَادُ ٱلْبَرْقُ يَخْطَفُ أَبْصَٰرَهُمْ
-  كُلَّمَا أَضَآءَ لَهُمْ مَّشَوْاْ فِيهِ وَإِذَآ أَظْلَمَ عَلَيْهِمْ قَامُواْ وَلَوْ
-  شَآءَ ٱللَّهُ لَذَهَبَ بِسَمْعِهِمْ وَأَبْصَٰرِهِمْ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَيْءٍ
-  قَدِيرٌ }{ وَمِنَ ٱلنَّاسِ مَن يَعْبُدُ ٱللَّهَ عَلَىٰ حَرْفٍ فَإِنْ أَصَابَهُ خَيْرٌ
-  ٱطْمَأَنَّ بِهِ وَإِنْ أَصَابَتْهُ فِتْنَةٌ ٱنْقَلَبَ عَلَىٰ وَجْهِهِ }[الحج: 11]
-  ويعنـي بقوله: { مَّشَوْاْ فِيهِ } مشوا فـي ضوء البرق. وإنـما ذلك مثل لإقرارهم علـى
-  ما وصفنا. فمعناه: كلـما رأوا فـي الإيـمان ما يعجبهم فـي عاجل دنـياهم علـى ما وصفنا،
-  ثبتوا علـيه وأقاموا فـيه، كما يـمشي السائر فـي ظلـمة اللـيـل وظلـمة الصيب الذي وصفه
-  جل ثناؤه، إذا برقت فـيها بـارقة أبصر طريقه فـيها { وَإِذَآ أَظْلَمَ } يعنـي ذهب
-  ضوء البرق عنهم. ويعنـي بقوله: «علـيهم»: علـى السائرين فـي الصيب الذي وصف جل ذكره،
-  وذلك للـمنافقـين مثل. ومعنى إظلام ذلك: أن الـمنافقـين كلـما لـم يروا فـي الإسلام
-  ما يعجبهم فـي دنـياهم عند ابتلاء الله مؤمنـي عبـاده بـالضرّاء وتـمـحيصه إياهم بـالشدائد
-  والبلاء من إخفـاقهم فـي مغزاهم وإنالة عدوّهم منهم، أو إدبـار من دنـياهم عنهم أقاموا
-  علـى نفـاقهم وثبتوا علـى ضلالتهم كما قام السائرون فـي الصيب الذي وصف جل ذكره إذا
-  أظلـم وخفت ضوء البرق، فحار فـي طريقه فلـم يعرف منهجه.قال أبو جعفر: وإنـما خص جل
-  ذكره السمع والأبصار بأنه لو شاء أذهبها من الـمنافقـين دون سائر أعضاء أجسامهم للذي
-  جرى من ذكرها فـي الآيتـين، أعنـي قوله:{ يَجْعَلُونَ أَصَٰبِعَهُمْ فِيۤ آذَانِهِم
-  مِّنَ ٱلصَّوَٰعِقِ }[البقرة: 19] وقوله: { يَكَادُ ٱلْبَرْقُ يَخْطَفُ أَبْصَٰرَهُمْ
-  كُلَّمَا أَضَآءَ لَهُمْ مَّشَوْاْ فِيهِ } فجرى ذكرها فـي الآيتـين علـى وجه الـمثل.
-  ثم عقب جل ثناؤه ذكر ذلك بأنه لو شاء أذهبه من الـمنافقـين عقوبة لهم علـى نفـاقهم
-  وكفرهم، وعيداً من الله لهم، كما توعدهم فـي الآية التـي قبلها بقوله:{ وٱللَّهُ مُحِيطٌ
-  بِٱلْكَٰفِرِينَ }[البقرة: 19] واصفـاً بذلك جل ذكره نفسه أنه الـمقتدر علـيهم وعلـى
-  جمعهم، لإحلال سخطه بهم، وإنزال نقمته علـيهم، ومـحذرهم بذلك سطوته، ومخوّفهم به عقوبته،
-  لـيتقوا بأسه، ويسارعوا إلـيه بـالتوبة. كما:حدثنا ابن حميد، قال: حدثنا سلـمة، عن
-  ابن إسحاق، عن مـحمد بن أبـي مـحمد، عن عكرمة، أو عن سعيد بن جبـير، عن ابن عبـاس:
-  { وَلَوْ شَآءَ ٱللَّهُ لَذَهَبَ بِسَمْعِهِمْ وَأَبْصَٰرِهِمْ } لـما تركوا من الـحق
-  بعد معرفته.وحدثنـي الـمثنى، قال: حدثنا إسحاق، قال: حدثنا ابن أبـي جعفر، عن أبـيه،
-  عن الربـيع بن أنس، قال: ثم قال يعنـي قال الله فـي أسماعهم يعنـي أسماع الـمنافقـين
+  ويستلبها ويـلتـمعها من شدة ضيائه ونور شعاعه. كما:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثت
+  عن الـمنـجاب بن الـحارث، قال: حدثنا بشر بن عمار، عن أبـي روق، عن الضحاك، عن ابن
+  عبـاس، فـي قوله: { يَكَادُ ٱلْبَرْقُ يَخْطَفُ أَبْصَٰرَهُمْ } قال: يـلتـمع أبصارَهم
+  ولـمّا يفعل.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">قال أبو جعفر: والـخطف: السلب، ومنه
+  الـخبر الذي رُوي عن النبـي صلى الله عليه وسلم «أنه نهى عن الـخطفة» يعنـي بها النُّهْبَة
+  ومنه قـيـل للـخُطاف الذي يخرج به الدلو من البئر خُطَّاف لاختطافه واستلابه ما علق
+  به. ومنه قول نابغة بنـي ذبـيان:</font></font><table class=\"TextArabic\" dir=\"rtl\"><tr
+  class=\"TextArabic\"><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">خطَاطِيفُ حُجْنٍ فِـي حبـالٍ مَتِـينَةٍ</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">تَـمُدُّ بِها أيْدٍ إلَـيْكَ نَوَازِعُ</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">فجعل ضوء البرق وشدة شعاع نوره كضوء
+  إقرارهم بألسنتهم وبرسوله صلى الله عليه وسلم وبـما جاء به من عند الله والـيوم الآخر
+  وشعاع نوره، مثلاً.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">ثم قال تعالـى ذكره: { كُلَّمَا
+  أَضَآءَ لَهُمْ } يعنـي أن البرق كلـما أضاء لهم، وجعل البرق لإيـمانهم مثلاً. وإنـما
+  أراد بذلك أنهم كلـما أضاء لهم الإيـمان وإضاءته لهم أن يروا فـيه ما يعجبهم فـي عاجل
+  دنـياهم من النصرة علـى الأعداء، وإصابة الغنائم فـي الـمغازي، وكثرة الفتوح، ومنافعها،
+  والثراء فـي الأموال، والسلامة فـي الأبدان والأهل والأولاد، فذلك إضاءته لهم لأنهم
+  إنـما يظهرون بألسنتهم ما يظهرونه من الإقرار ابتغاء ذلك، ومدافعة عن أنفسهم وأموالهم
+  وأهلـيهم وذراريهم، وهم كما وصفهم الله جل ثناؤه بقوله:</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,8,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,10,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,8,1)\"><u>8</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">9 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(1,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2,
+  20)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,20)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">يَكَادُ ٱلْبَرْقُ يَخْطَفُ أَبْصَٰرَهُمْ كُلَّمَا
+  أَضَآءَ لَهُمْ مَّشَوْاْ فِيهِ وَإِذَآ أَظْلَمَ عَلَيْهِمْ قَامُواْ وَلَوْ شَآءَ
+  ٱللَّهُ لَذَهَبَ بِسَمْعِهِمْ وَأَبْصَٰرِهِمْ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَيْءٍ
+  قَدِيرٌ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\"/></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">وَمِنَ ٱلنَّاسِ مَن يَعْبُدُ ٱللَّهَ
+  عَلَىٰ حَرْفٍ فَإِنْ أَصَابَهُ خَيْرٌ ٱطْمَأَنَّ بِهِ وَإِنْ أَصَابَتْهُ فِتْنَةٌ
+  ٱنْقَلَبَ عَلَىٰ وَجْهِهِ</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">[الحج: 11] ويعنـي بقوله: { مَّشَوْاْ فِيهِ } مشوا فـي ضوء البرق.
+  وإنـما ذلك مثل لإقرارهم علـى ما وصفنا. فمعناه: كلـما رأوا فـي الإيـمان ما يعجبهم
+  فـي عاجل دنـياهم علـى ما وصفنا، ثبتوا علـيه وأقاموا فـيه، كما يـمشي السائر فـي ظلـمة
+  اللـيـل وظلـمة الصيب الذي وصفه جل ثناؤه، إذا برقت فـيها بـارقة أبصر طريقه فـيها
+  { وَإِذَآ أَظْلَمَ } يعنـي ذهب ضوء البرق عنهم. ويعنـي بقوله: «علـيهم»: علـى السائرين
+  فـي الصيب الذي وصف جل ذكره، وذلك للـمنافقـين مثل. ومعنى إظلام ذلك: أن الـمنافقـين
+  كلـما لـم يروا فـي الإسلام ما يعجبهم فـي دنـياهم عند ابتلاء الله مؤمنـي عبـاده بـالضرّاء
+  وتـمـحيصه إياهم بـالشدائد والبلاء من إخفـاقهم فـي مغزاهم وإنالة عدوّهم منهم، أو
+  إدبـار من دنـياهم عنهم أقاموا علـى نفـاقهم وثبتوا علـى ضلالتهم كما قام السائرون
+  فـي الصيب الذي وصف جل ذكره إذا أظلـم وخفت ضوء البرق، فحار فـي طريقه فلـم يعرف منهجه.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قال أبو جعفر: وإنـما خص جل ذكره السمع والأبصار بأنه لو شاء أذهبها
+  من الـمنافقـين دون سائر أعضاء أجسامهم للذي جرى من ذكرها فـي الآيتـين، أعنـي قوله:</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">يَجْعَلُونَ
+  أَصَٰبِعَهُمْ فِيۤ آذَانِهِم مِّنَ ٱلصَّوَٰعِقِ</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">[البقرة: 19] وقوله: { يَكَادُ ٱلْبَرْقُ
+  يَخْطَفُ أَبْصَٰرَهُمْ كُلَّمَا أَضَآءَ لَهُمْ مَّشَوْاْ فِيهِ } فجرى ذكرها فـي
+  الآيتـين علـى وجه الـمثل. ثم عقب جل ثناؤه ذكر ذلك بأنه لو شاء أذهبه من الـمنافقـين
+  عقوبة لهم علـى نفـاقهم وكفرهم، وعيداً من الله لهم، كما توعدهم فـي الآية التـي قبلها
+  بقوله:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">وٱللَّهُ مُحِيطٌ بِٱلْكَٰفِرِينَ</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">[البقرة: 19] واصفـاً بذلك جل ذكره
+  نفسه أنه الـمقتدر علـيهم وعلـى جمعهم، لإحلال سخطه بهم، وإنزال نقمته علـيهم، ومـحذرهم
+  بذلك سطوته، ومخوّفهم به عقوبته، لـيتقوا بأسه، ويسارعوا إلـيه بـالتوبة. كما:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن حميد، قال: حدثنا سلـمة، عن ابن إسحاق، عن مـحمد بن أبـي
+  مـحمد، عن عكرمة، أو عن سعيد بن جبـير، عن ابن عبـاس: { وَلَوْ شَآءَ ٱللَّهُ لَذَهَبَ
+  بِسَمْعِهِمْ وَأَبْصَٰرِهِمْ } لـما تركوا من الـحق بعد معرفته.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وحدثنـي الـمثنى، قال: حدثنا إسحاق، قال: حدثنا ابن أبـي جعفر، عن
+  أبـيه، عن الربـيع بن أنس، قال: ثم قال يعنـي قال الله فـي أسماعهم يعنـي أسماع الـمنافقـين
   وأبصارهم التـي عاشوا بها فـي الناس: { وَلَوْ شَآءَ ٱللَّهُ لَذَهَبَ بِسَمْعِهِمْ
-  وَأَبْصَٰرِهِمْ }.قال أبو جعفر: وإنـما معنى قوله: { لَذَهَبَ بِسَمْعِهِمْ وَأَبْصَٰرِهِمْ
-  } لأذهب سمعهم وأبصارهم، ولكن العرب إذا أدخـلوا البـاء فـي مثل ذلك قالوا: ذهبت ببصره،
-  وإذا حذفوا البـاء قالوا: أذهبت بصره، كما قال جل ثناؤه: آتنا غَدَاءَنَا ولو أدخـلت
-  البـاء فـي الغداء لقـيـل: ائتنا بغدائنا.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 9 10 \r\n\t\t\t\t\t\t\t\tمزيد</section>"
+  وَأَبْصَٰرِهِمْ }.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">قال أبو جعفر: وإنـما معنى قوله:
+  { لَذَهَبَ بِسَمْعِهِمْ وَأَبْصَٰرِهِمْ } لأذهب سمعهم وأبصارهم، ولكن العرب إذا أدخـلوا
+  البـاء فـي مثل ذلك قالوا: ذهبت ببصره، وإذا حذفوا البـاء قالوا: أذهبت بصره، كما قال
+  جل ثناؤه: آتنا غَدَاءَنَا ولو أدخـلت البـاء فـي الغداء لقـيـل: ائتنا بغدائنا.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,9,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,11,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,8,1)\"><u>8</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,9,1)\"><u>9</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">10 </font></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(1,11,1)\">مزيد</a></td></tr></table></center></div></section>"
 

@@ -1,4 +1,4 @@
-location:
+position:
   sura: '005'
   aaya: '114'
   madhab: '01'
@@ -7,115 +7,278 @@ meta:
   title: تفسير جامع البيان في تفسير القرآن
   author: الطبري
   year: '310'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ قَالَ عِيسَى ٱبْنُ
-  مَرْيَمَ ٱللَّهُمَّ رَبَّنَآ أَنزِلْ عَلَيْنَا مَآئِدَةً مِّنَ ٱلسَّمَآءِ تَكُونُ
-  لَنَا عِيداً لأَوَّلِنَا وَآخِرِنَا وَآيَةً مِّنْكَ وَٱرْزُقْنَا وَأَنتَ خَيْرُ
-  ٱلرَّازِقِينَ }وهذا خبر من الله تعالى ذكره عن نبيه عيسى صلى الله عليه وسلم أنه أجاب
-  القوم إلى ما سألوه من مسألة ربه مائدة تنزل عليهم من السماء.ثم اختلف أهل التأويل
-  في تأويل قوله: { تَكُونُ لَنا عِيداً لأَوَّلِنا وآخِرِنا } فقال بعضهم: معناه: نتخذ
-  اليوم الذي نزلت فيه عيداً نعظمه نحن ومن بعدنا. ذكر من قال ذلك:حدثني محمد بن الحسين،
-  قال: ثنا أحمد بن المفضل، قال: ثنا أسباط، عن السديّ، قوله: { تَكُونُ لَنَا عِيداً
-  لأَوَّلِنا وآخِرِنا } يقول: نتخذ اليوم الذي نزلت فيه عيداً نعظمه نحن ومن بعدنا.حدثنا
-  بشر بن معاذ،قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: { تَكُونُ لَنا عِيدا لأَوَّلِنا
-  وآخِرِنا } قال: أرادوا أن تكون لعقبهم من بعدهم.حدثنا القاسم، قال: ثنا الحسين، قال:
-  ثني حجاج، عن ابن جريج، قوله: { أنْزِلْ عَلَيْنا مائِدةً مِنَ السَّماءِ تَكُونُ لَنا
-  عِيداً لأَوَّلِنا } قال: الذين هم أحياء منهم يومئذ { وآخِرِنا } مَن بعدهم منهم.حدثني
-  الحرث، قال: ثنا عبد العزيز، قال: قال سفيان: { تَكُونُ لَنا عِيداً } قالوا: نصلي
-  فيه نزلت مرّتين.وقال آخرون: معناه: نأكل منها جميعاً. ذكر من قال ذلك:حدثنا القاسم،
-  قال: ثنا الحسين، قال: ثني حجاج، عن ليث، عن عقيل، عن ابن عباس، أنه قال: أكل منها
-  يعني من المائدة حين وضعت بين أيديهم آخر الناس كما أكل منها أوّلهم.وقال آخرون: معنى
-  قوله { عِيداً } عائدة من الله تعالى علينا حجة وبرهاناً.وأولى الأقوال بالصواب قول
-  من قال: معناه: تكون لنا عيداً، نعبد ربنا في اليوم الذي تنزل فيه ونصلي له فيه، كما
-  يعيِّد الناس في أعيادهم. لأن المعروف من كلام الناس المستعمل بينهم في العيد ما ذكرنا
-  دون القول الذي قاله من قال معناه: عائدة من الله علينا وتوجيه معاني كلام الله إلى
-  المعروف من كلام من خوطب به أولى من توجيهه إلى المجهول منه ما وجد إليه السبيل.وأما
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(5, 114)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(5,114)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">قَالَ
+  عِيسَى ٱبْنُ مَرْيَمَ ٱللَّهُمَّ رَبَّنَآ أَنزِلْ عَلَيْنَا مَآئِدَةً مِّنَ ٱلسَّمَآءِ
+  تَكُونُ لَنَا عِيداً لأَوَّلِنَا وَآخِرِنَا وَآيَةً مِّنْكَ وَٱرْزُقْنَا وَأَنتَ
+  خَيْرُ ٱلرَّازِقِينَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">وهذا خبر من الله تعالى ذكره عن
+  نبيه عيسى صلى الله عليه وسلم أنه أجاب القوم إلى ما سألوه من مسألة ربه مائدة تنزل
+  عليهم من السماء.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">ثم اختلف أهل التأويل في تأويل قوله:
+  { تَكُونُ لَنا عِيداً لأَوَّلِنا وآخِرِنا } فقال بعضهم: معناه: نتخذ اليوم الذي نزلت
+  فيه عيداً نعظمه نحن ومن بعدنا. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  محمد بن الحسين، قال: ثنا أحمد بن المفضل، قال: ثنا أسباط، عن السديّ، قوله: { تَكُونُ
+  لَنَا عِيداً لأَوَّلِنا وآخِرِنا } يقول: نتخذ اليوم الذي نزلت فيه عيداً نعظمه نحن
+  ومن بعدنا.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا بشر بن معاذ،قال: ثنا يزيد،
+  قال: ثنا سعيد، عن قتادة، قوله: { تَكُونُ لَنا عِيدا لأَوَّلِنا وآخِرِنا } قال: أرادوا
+  أن تكون لعقبهم من بعدهم.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا القاسم، قال: ثنا الحسين،
+  قال: ثني حجاج، عن ابن جريج، قوله: { أنْزِلْ عَلَيْنا مائِدةً مِنَ السَّماءِ تَكُونُ
+  لَنا عِيداً لأَوَّلِنا } قال: الذين هم أحياء منهم يومئذ { وآخِرِنا } مَن بعدهم منهم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني الحرث، قال: ثنا عبد العزيز، قال: قال سفيان: { تَكُونُ لَنا
+  عِيداً } قالوا: نصلي فيه نزلت مرّتين.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  آخرون: معناه: نأكل منها جميعاً. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن ليث، عن عقيل، عن ابن عباس، أنه قال: أكل
+  منها يعني من المائدة حين وضعت بين أيديهم آخر الناس كما أكل منها أوّلهم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال آخرون: معنى قوله { عِيداً } عائدة من الله تعالى علينا حجة وبرهاناً.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وأولى الأقوال بالصواب قول من قال: معناه: تكون لنا عيداً، نعبد ربنا
+  في اليوم الذي تنزل فيه ونصلي له فيه، كما يعيِّد الناس في أعيادهم. لأن المعروف من
+  كلام الناس المستعمل بينهم في العيد ما ذكرنا دون القول الذي قاله من قال معناه: عائدة
+  من الله علينا وتوجيه معاني كلام الله إلى المعروف من كلام من خوطب به أولى من توجيهه
+  إلى المجهول منه ما وجد إليه السبيل.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وأما
   قوله: { لأَوَّلِنا وآخِرِنا } فإن الأولى من تأويله بالصواب قول من قال: تأويله للأحياء
   منا اليوم ومن يجيء بعدنا منا للعلة التي ذكرناها في قوله: { تَكُونُ لَنا عِيداً }
-  لأن ذلك هو الأغلب من معناه.وأما قوله: { وآيَةً مِنْكَ } فإن معناه: وعلامة وحجة منك
-  يا ربّ على عبادك في وحدانيتك، وفي صدقي على أني رسول إليهم بما أرسلتني به. { وَارْزُقْنا
-  وأنْتَ خَيْرُ الرَّازِقِينَ }: وأعطنا من عطائك، فإنك يا ربّ خير من يعطي وأجود من
-  تفضّل، لأنه لا يدخل عطاءه منّ ولا نكد.وقد اختلف أهل التأويل في المائدة، هل أنزلت
-  عليهم أم لا؟ وما كانت؟ فقال بعضهم: نزلت وكانت حوتاً وطعاماً، فأكل القوم منها، ولكنها
-  رفعت بعد ما نزلت بأحداث منهم أحدثوها فيما بينهم وبين الله تعالى.\r\n\t\t\t\r\n\t\t\t1 2 3 4 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ قَالَ عِيسَى ٱبْنُ مَرْيَمَ ٱللَّهُمَّ
-  رَبَّنَآ أَنزِلْ عَلَيْنَا مَآئِدَةً مِّنَ ٱلسَّمَآءِ تَكُونُ لَنَا عِيداً لأَوَّلِنَا
-  وَآخِرِنَا وَآيَةً مِّنْكَ وَٱرْزُقْنَا وَأَنتَ خَيْرُ ٱلرَّازِقِينَ }ذكر من قال
-  ذلك:حدثنا محمد بن المثنى، قال: ثنا محمد بن جعفر، قال: ثنا شعبة، عن أبي إسحاق، عن
-  أبي عبد الرحمن السلمي، قال: نزلت المائدة خبزاً وسمكاً.حدثني الحسين بن عليّ الصدائي،
-  قال: ثنا أبي، عن الفضيل، عن عطية، قال: المائدة سمكة فيها طعم كلّ طعام.حدثنا ابن
-  وكيع، قال: ثنا عبيد الله، عن فضيل، عن مسروق، عن عطية، قال: المائدة: سمك فيه من طعم
-  كلّ طعام.حدثنا ابن وكيع، قال: ثنا يحيى بن آدم، عن إسرائيل، عن أبي إسحاق، عن أبي
-  عبد الرحمن، قال: نزلت المائدة خبزاً وسمكاً.حدثني محمد بن سعد، قال: ثني أبي، قال:
-  ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس، قال: نزلت على عيسى ابن مريم والحواريين
-  خوان عليه خبز وسمك يأكلون منه أينما نزلوا إذا شاءوا.حدثنا الحسن بن يحيى، قال: أخبرنا
-  عبد الرزاق، قال: أخبرنا المنذر بن النعمان، أنه سمع وهب بن منبه يقول في قوله: { أنْزِلْ
-  عَلَيْنا مائِدةً مِنَ السَّماءِ تَكُونُ لَنا عِيداً } قال: نزل عليهم قِرصَة من شعير
-  وأحوات. قال الحسن: قال أبو بكر: فحدّثت به عبد الصمد بن معقل، فقال: سمعت وهباً وقيل
-  له: وما كان ذلك يغني عنهم؟ فقال: لا شيء ولكن الله حثا بين أضعافهنّ البركة، فكان
-  قوم يأكلون ثم يخرجون، ويجيء آخرون فيأكلون ثم يخرجون، حتى أكلوا جميعهم وأفضلوا.حدثنا
-  ابن وكيع، قال: ثنا عبيد الله، عن إسرائيل، عن أبي يحيى، عن مجاهد، قال: هو الطعام
-  ينزل عليهم حيث نزلوا.حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، عن ابن
-  أبي نجيح، عن مجاهد، في قول الله تعالى: { مائدَةً مِنَ السَّماءِ } قال: مائدة عليها
-  طعام أبَوْها حين عرض عليهم العذاب إن كفروا فأبوا أن تنزل عليهم.حدثنا القاسم، قال:
-  ثنا الحسين، قال: ثني حجاج، عن أبي معشر، عن إسحاق بن عبد الله: أن المائدة نزلت على
-  عيسى ابن مريم، عليها سبعة أرغفة وسبعة أحوات، يأكلون منها ما شاءوا. قال: فسرق بعضهم
-  منها، وقال: لعلها لا تنزل غداً فرفعت.حدثنا المثنى، قال: ثنا عبد الأعلى، قال: ثنا
-  داود، عن سماك بن حرب، عن رجل من بني عجل قال: صليت إلى جنب عمار بن ياسر، فلما فرغ،
-  قال: هل تدري كيف كان شأن مائدة بني إسرائيل؟ قال: فقلت لا. قال: إنهم سألوا عيسى ابن
-  مريم مائدة يكون عليها طعام يأكلون منه لا ينفد، قال: فقيل لهم: فإنها مقيمة لكم ما
-  لم تخبئوا أو تخونوا أو ترفعوا، فإن فعلتم فإني أعذّبكم عذاباً لا أعذّبه أحداً من
-  العالمين. قال: فما تمّ يومهم حتى خبئوا ورفعوا وخانوا، فعُذّبوا عذاباً لم يعذّبه
-  أحداً من العالمين.\r\n\t\t\t\r\n\t\t\t1 2 3 4 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ قَالَ عِيسَى ٱبْنُ مَرْيَمَ ٱللَّهُمَّ
-  رَبَّنَآ أَنزِلْ عَلَيْنَا مَآئِدَةً مِّنَ ٱلسَّمَآءِ تَكُونُ لَنَا عِيداً لأَوَّلِنَا
-  وَآخِرِنَا وَآيَةً مِّنْكَ وَٱرْزُقْنَا وَأَنتَ خَيْرُ ٱلرَّازِقِينَ }وإنكم معشر
-  العرب كنتم تتبعون أذناب الإبل والشاء، فبعث الله فيكم رسولاً من أنفسكم تعرفون حسبه
-  ونسبه، وأخبركم على لسان نبيكم أنكم ستظهرون على العرب، ونهاكم أن تكنزوا الذهب والفضة،
-  وأيم الله لا يذهب الليل والنهار حتى تكنزوهما ويعذّبكم عذاباً أليماًحدثنا الحسن بن
-  قزعة البصريّ، قال: ثنا سفيان بن حبيب، قال: ثنا سعيد، عن قتادة، عن جلاس بن عمرو،
-  عن عمار بن ياسر، قال: قال رسول الله صلى الله عليه وسلم: \" نَزَلَتِ المَائدَةُ خُبْزاً
-  ولَحْماً، وأُمِرُوا أنْ لا يَخُونُوا وَلا يَدَّخِرُوا وَلا يَرْفَعُوا لِغَد، فَخانُوا
-  وَادَّخَرُوا وَرَفَعُوا، فَمُسِخُوا قِرَدَةً وَخَنازِيرَ \". حدثني محمد بن عبد الله
-  بن بزيع، قال: ثنا يوسف بن خالد، قال: ثنا نافع بن مالك، عن عكرمة عن ابن عباس في المائدة،
-  قال: كانت طعاماً ينزل عليهم من السماء حيثما نزلوا. ذكر من قال ذلك:حدثنا محمد بن
-  بشار، قال: ثنا ابن أبي عديّ، عن سعيد، عن قتادة، عن جلاس بن عمرو، عن عمار، قال: نزلت
-  المائدة، وعليها ثمر من ثمر الجنة، فأمروا أن لا يخبئوا ولا يخونوا ولا يدّخروا. قال:
-  فخان القوم وخبئوا وادخروا، فحوّلهم الله قردة وخنازير.حدثنا بشر، قال: ثنا يزيد، قال:
-  ثنا سعيد، عن قتادة، قال: ذكر لنا أنها كانت مائدة ينزل عليها الثمر من ثمار الجنة،
-  وأمروا أن لا يخبئوا ولا يخونوا ولا يدّخروا لغد، بلاء ابلاهم الله (به)، وكانوا إذا
-  فعلوا شيئاً من ذلك أنبأهم به عيسى، فخان القوم فيه فخبئوا وادّخروا لغد.وقال آخرون:
-  كان عليها من كلّ طعام إلا اللحم. ذكر من قال ذلك:حدثنا أبو كريب، قال: ثنا جرير، عن
-  عطاء، عن ميسرة، قال: كانت إذا وضعت المائدة لبني إسرائيل، اختلفت عليها الأيدي بكلّ
-  طعام.حدثنا ابن وكيع، قال: ثنا يحيى بن آدم، عن شريك، عن عطاء، عن ميسرة وزاذان، قالا:
-  كانت الأيدي تختلف عليها بكل طعام.حدثني الحرث، قال: ثنا عبد العزيز، قال: ثنا سفيان
-  الثوريّ، عن عطاء بن السائب، عن زاذان وميسرة في: { هَلْ يَسْتَطِيعُ رَبُّكَ أنْ يُنَزّلَ
-  عَلَيْنا مائِدَةً مِنَ السَّماءِ } قالا: رأوا الأيدي تختلف عليها بكلّ شيء إلا اللحم.وقال
-  آخرون: لم ينزل الله على بني إسرائيل مائدة: ثم اختلف قائلو هذه المقالة فقال بعضهم:
-  إنما هذا مثل ضربه الله تعالى لخلقه نهاهم به عن مسألة نبيّ الله الآيات. ذكر من قال
-  ذلك:حدثنا ابن وكيع، قال: ثنا يحيى بن آدم، عن شريك، عن ليث، عن مجاهد، في قوله: {
-  أنْزِلْ عَلَيْنا مائِدةً مِنَ السَّماءِ } قال: مثل ضرب، لم ينزل عليهم شيء.وقال آخرون:
-  إن القوم لما قيل لهم:\r\n\t\t\t\r\n\t\t\t1 2 3 4 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ قَالَ عِيسَى ٱبْنُ مَرْيَمَ ٱللَّهُمَّ
-  رَبَّنَآ أَنزِلْ عَلَيْنَا مَآئِدَةً مِّنَ ٱلسَّمَآءِ تَكُونُ لَنَا عِيداً لأَوَّلِنَا
-  وَآخِرِنَا وَآيَةً مِّنْكَ وَٱرْزُقْنَا وَأَنتَ خَيْرُ ٱلرَّازِقِينَ }{ فَمَنْ يَكْفُرْ
-  بَعْدُ مِنْكُمْ فإنّي أُعَذّبُهُ عَذَاباً لا أعذّبُه أحَداً مِنَ العالَمِينَ }استعْفَوا
-  منها فلم تنزل. ذكر من قال ذلك:حدثنا بشر بن معاذ، قال: ثنا يزيد بن زريع، قال: ثنا
-  سعيد، عن قتادة، قال: كان الحسن يقول لما قيل لهم:{ فَمَنْ يَكْفُرْ بَعْدُ مِنْكُمْ }إلى
-  آخر الآية، قالوا: لا حاجة لنا فيها فلم تنزل.حدثنا ابن المثنى، قال: ثنا محمد بن جعفر،
-  قال: ثنا شعبة، عن منصور بن زاذان، عن الحسن أنه قال في المائدة: لم تنزل.حدثني الحرث،
-  قال: ثنا القاسم بن سلام، قال: ثنا حجاج، عن ابن جريج، عن مجاهد، قال: مائدة عليها
-  طعام أبوها حين عرض عليهم العذاب إن كفروا، فأبَوْا أن تنزل عليهم.والصواب من القول
-  عندنا في ذلك أن يقال: إن الله تعالى أنزل المائدة على الذين سألوا عيسى مسألته ذلك
-  ربه. وإنما قلنا ذلك للخبر الذي روينا بذلك عن رسول الله صلى الله عليه وسلم وأصحابه
-  وأهل التأويل من بعدهم غير من انفرد بما ذكرنا عنه. وبعد، فإن الله تعالى لا يخلف وعده
-  ولا يقع في خبره الخلف، وقد قال تعالى مخبراً في كتابه عن إجابة نبيه عيسى صلى الله
-  عليه وسلم حين سأله ما سأله من ذلك: { إنّي مُنَزِّلُهَا عَلَيْكُمْ } ، وغير جائز
-  أن يقول تعالى ذكره إني منزلها عليكم، ثم لا ينزلها لأن ذلك منه تعالى خبر، ولا يكون
-  منه خلاف ما يخبر. ولو جاز أن يقول: إني منزلها عليكم، ثم لا ينزلها عليهم، جاز أن
-  يقول:{ فَمَنْ يَكْفُرْ بَعْدُ مِنْكُمْ فإنّي أُعَذّبُهُ عَذَاباً لا أُعَذّبُهُ أحَداً
-  مِن العالَمِينَ }ثم يكفر منهم بعد ذلك فلا يعذّبه، فلا يكون لوعده ولا لوعيده حقيقة
-  ولا صحة، وغير جائز أن يوصف ربنا تعالى بذلك.وأما الصواب من القول فيما كان على المائدة،
-  فأن يقال: كان عليها مأكول، وجائز أن يكون كان سمكاً وخبزاً، وجائز أن يكون كان ثمراً
-  من ثمر الجنة وغير نافع العلم به ولا ضارّ الجهل به إذا أقرّ تالي الآية بظاهر ما احتمله
-  التنزيل.\r\n\t\t\t\r\n\t\t\t1 2 3 4 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  لأن ذلك هو الأغلب من معناه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وأما
+  قوله: { وآيَةً مِنْكَ } فإن معناه: وعلامة وحجة منك يا ربّ على عبادك في وحدانيتك،
+  وفي صدقي على أني رسول إليهم بما أرسلتني به. { وَارْزُقْنا وأنْتَ خَيْرُ الرَّازِقِينَ
+  }: وأعطنا من عطائك، فإنك يا ربّ خير من يعطي وأجود من تفضّل، لأنه لا يدخل عطاءه منّ
+  ولا نكد.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقد اختلف أهل التأويل في المائدة،
+  هل أنزلت عليهم أم لا؟ وما كانت؟ فقال بعضهم: نزلت وكانت حوتاً وطعاماً، فأكل القوم
+  منها، ولكنها رفعت بعد ما نزلت بأحداث منهم أحدثوها فيما بينهم وبين الله تعالى.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(5, 114)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(5,114)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">قَالَ عِيسَى ٱبْنُ مَرْيَمَ ٱللَّهُمَّ رَبَّنَآ
+  أَنزِلْ عَلَيْنَا مَآئِدَةً مِّنَ ٱلسَّمَآءِ تَكُونُ لَنَا عِيداً لأَوَّلِنَا وَآخِرِنَا
+  وَآيَةً مِّنْكَ وَٱرْزُقْنَا وَأَنتَ خَيْرُ ٱلرَّازِقِينَ</a> <b>}</b></font>, <br/>,
+  <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">ذكر
+  من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا محمد بن المثنى، قال: ثنا
+  محمد بن جعفر، قال: ثنا شعبة، عن أبي إسحاق، عن أبي عبد الرحمن السلمي، قال: نزلت المائدة
+  خبزاً وسمكاً.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثني الحسين بن عليّ الصدائي، قال:
+  ثنا أبي، عن الفضيل، عن عطية، قال: المائدة سمكة فيها طعم كلّ طعام.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن وكيع، قال: ثنا عبيد الله، عن فضيل، عن مسروق، عن عطية،
+  قال: المائدة: سمك فيه من طعم كلّ طعام.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن وكيع، قال: ثنا يحيى بن آدم، عن إسرائيل، عن أبي إسحاق، عن أبي عبد الرحمن، قال:
+  نزلت المائدة خبزاً وسمكاً.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثني محمد بن سعد، قال: ثني أبي،
+  قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس، قال: نزلت على عيسى ابن مريم والحواريين
+  خوان عليه خبز وسمك يأكلون منه أينما نزلوا إذا شاءوا.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  الحسن بن يحيى، قال: أخبرنا عبد الرزاق، قال: أخبرنا المنذر بن النعمان، أنه سمع وهب
+  بن منبه يقول في قوله: { أنْزِلْ عَلَيْنا مائِدةً مِنَ السَّماءِ تَكُونُ لَنا عِيداً
+  } قال: نزل عليهم قِرصَة من شعير وأحوات. قال الحسن: قال أبو بكر: فحدّثت به عبد الصمد
+  بن معقل، فقال: سمعت وهباً وقيل له: وما كان ذلك يغني عنهم؟ فقال: لا شيء ولكن الله
+  حثا بين أضعافهنّ البركة، فكان قوم يأكلون ثم يخرجون، ويجيء آخرون فيأكلون ثم يخرجون،
+  حتى أكلوا جميعهم وأفضلوا.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن وكيع، قال: ثنا عبيد الله،
+  عن إسرائيل، عن أبي يحيى، عن مجاهد، قال: هو الطعام ينزل عليهم حيث نزلوا.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، عن ابن أبي
+  نجيح، عن مجاهد، في قول الله تعالى: { مائدَةً مِنَ السَّماءِ } قال: مائدة عليها طعام
+  أبَوْها حين عرض عليهم العذاب إن كفروا فأبوا أن تنزل عليهم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن أبي معشر، عن إسحاق بن عبد الله: أن المائدة
+  نزلت على عيسى ابن مريم، عليها سبعة أرغفة وسبعة أحوات، يأكلون منها ما شاءوا. قال:
+  فسرق بعضهم منها، وقال: لعلها لا تنزل غداً فرفعت.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  المثنى، قال: ثنا عبد الأعلى، قال: ثنا داود، عن سماك بن حرب، عن رجل من بني عجل قال:
+  صليت إلى جنب عمار بن ياسر، فلما فرغ، قال: هل تدري كيف كان شأن مائدة بني إسرائيل؟
+  قال: فقلت لا. قال: إنهم سألوا عيسى ابن مريم مائدة يكون عليها طعام يأكلون منه لا
+  ينفد، قال: فقيل لهم: فإنها مقيمة لكم ما لم تخبئوا أو تخونوا أو ترفعوا، فإن فعلتم
+  فإني أعذّبكم عذاباً لا أعذّبه أحداً من العالمين. قال: فما تمّ يومهم حتى خبئوا ورفعوا
+  وخانوا، فعُذّبوا عذاباً لم يعذّبه أحداً من العالمين.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(5, 114)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(5,114)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">قَالَ عِيسَى ٱبْنُ مَرْيَمَ ٱللَّهُمَّ رَبَّنَآ
+  أَنزِلْ عَلَيْنَا مَآئِدَةً مِّنَ ٱلسَّمَآءِ تَكُونُ لَنَا عِيداً لأَوَّلِنَا وَآخِرِنَا
+  وَآيَةً مِّنْكَ وَٱرْزُقْنَا وَأَنتَ خَيْرُ ٱلرَّازِقِينَ</a> <b>}</b></font>, <br/>,
+  <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">وإنكم
+  معشر العرب كنتم تتبعون أذناب الإبل والشاء، فبعث الله فيكم رسولاً من أنفسكم تعرفون
+  حسبه ونسبه، وأخبركم على لسان نبيكم أنكم ستظهرون على العرب، ونهاكم أن تكنزوا الذهب
+  والفضة، وأيم الله لا يذهب الليل والنهار حتى تكنزوهما ويعذّبكم عذاباً أليماً</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا الحسن بن قزعة البصريّ، قال: ثنا سفيان بن حبيب، قال: ثنا سعيد،
+  عن قتادة، عن جلاس بن عمرو، عن عمار بن ياسر، قال: قال رسول الله صلى الله عليه وسلم:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" نَزَلَتِ المَائدَةُ خُبْزاً ولَحْماً،
+  وأُمِرُوا أنْ لا يَخُونُوا وَلا يَدَّخِرُوا وَلا يَرْفَعُوا لِغَد، فَخانُوا وَادَّخَرُوا
+  وَرَفَعُوا، فَمُسِخُوا قِرَدَةً وَخَنازِيرَ \". </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني محمد بن عبد الله بن بزيع، قال: ثنا يوسف بن خالد، قال: ثنا
+  نافع بن مالك، عن عكرمة عن ابن عباس في المائدة، قال: كانت طعاماً ينزل عليهم من السماء
+  حيثما نزلوا. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  محمد بن بشار، قال: ثنا ابن أبي عديّ، عن سعيد، عن قتادة، عن جلاس بن عمرو، عن عمار،
+  قال: نزلت المائدة، وعليها ثمر من ثمر الجنة، فأمروا أن لا يخبئوا ولا يخونوا ولا يدّخروا.
+  قال: فخان القوم وخبئوا وادخروا، فحوّلهم الله قردة وخنازير.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قال: ذكر لنا أنها كانت مائدة ينزل عليها
+  الثمر من ثمار الجنة، وأمروا أن لا يخبئوا ولا يخونوا ولا يدّخروا لغد، بلاء ابلاهم
+  الله (به)، وكانوا إذا فعلوا شيئاً من ذلك أنبأهم به عيسى، فخان القوم فيه فخبئوا وادّخروا
+  لغد.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال آخرون: كان عليها من كلّ طعام
+  إلا اللحم. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا أبو كريب، قال: ثنا جرير،
+  عن عطاء، عن ميسرة، قال: كانت إذا وضعت المائدة لبني إسرائيل، اختلفت عليها الأيدي
+  بكلّ طعام.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن وكيع، قال: ثنا يحيى بن
+  آدم، عن شريك، عن عطاء، عن ميسرة وزاذان، قالا: كانت الأيدي تختلف عليها بكل طعام.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني الحرث، قال: ثنا عبد العزيز، قال: ثنا سفيان الثوريّ، عن عطاء
+  بن السائب، عن زاذان وميسرة في: { هَلْ يَسْتَطِيعُ رَبُّكَ أنْ يُنَزّلَ عَلَيْنا
+  مائِدَةً مِنَ السَّماءِ } قالا: رأوا الأيدي تختلف عليها بكلّ شيء إلا اللحم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال آخرون: لم ينزل الله على بني إسرائيل مائدة: ثم اختلف قائلو هذه
+  المقالة فقال بعضهم: إنما هذا مثل ضربه الله تعالى لخلقه نهاهم به عن مسألة نبيّ الله
+  الآيات. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن وكيع، قال: ثنا يحيى بن
+  آدم، عن شريك، عن ليث، عن مجاهد، في قوله: { أنْزِلْ عَلَيْنا مائِدةً مِنَ السَّماءِ
+  } قال: مثل ضرب، لم ينزل عليهم شيء.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  آخرون: إن القوم لما قيل لهم:</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">3 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(5, 114)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(5,114)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">قَالَ عِيسَى ٱبْنُ مَرْيَمَ ٱللَّهُمَّ رَبَّنَآ
+  أَنزِلْ عَلَيْنَا مَآئِدَةً مِّنَ ٱلسَّمَآءِ تَكُونُ لَنَا عِيداً لأَوَّلِنَا وَآخِرِنَا
+  وَآيَةً مِّنْكَ وَٱرْزُقْنَا وَأَنتَ خَيْرُ ٱلرَّازِقِينَ</a> <b>}</b></font>, <br/>,
+  <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\"/></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">فَمَنْ
+  يَكْفُرْ بَعْدُ مِنْكُمْ فإنّي أُعَذّبُهُ عَذَاباً لا أعذّبُه أحَداً مِنَ العالَمِينَ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">استعْفَوا
+  منها فلم تنزل. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  بشر بن معاذ، قال: ثنا يزيد بن زريع، قال: ثنا سعيد، عن قتادة، قال: كان الحسن يقول
+  لما قيل لهم:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">فَمَنْ يَكْفُرْ بَعْدُ مِنْكُمْ</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">إلى آخر الآية، قالوا: لا حاجة لنا
+  فيها فلم تنزل.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن المثنى، قال: ثنا محمد
+  بن جعفر، قال: ثنا شعبة، عن منصور بن زاذان، عن الحسن أنه قال في المائدة: لم تنزل.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني الحرث، قال: ثنا القاسم بن سلام، قال: ثنا حجاج، عن ابن جريج،
+  عن مجاهد، قال: مائدة عليها طعام أبوها حين عرض عليهم العذاب إن كفروا، فأبَوْا أن
+  تنزل عليهم.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">والصواب من القول عندنا في ذلك أن
+  يقال: إن الله تعالى أنزل المائدة على الذين سألوا عيسى مسألته ذلك ربه. وإنما قلنا
+  ذلك للخبر الذي روينا بذلك عن رسول الله صلى الله عليه وسلم وأصحابه وأهل التأويل من
+  بعدهم غير من انفرد بما ذكرنا عنه. وبعد، فإن الله تعالى لا يخلف وعده ولا يقع في خبره
+  الخلف، وقد قال تعالى مخبراً في كتابه عن إجابة نبيه عيسى صلى الله عليه وسلم حين سأله
+  ما سأله من ذلك: { إنّي مُنَزِّلُهَا عَلَيْكُمْ } ، وغير جائز أن يقول تعالى ذكره
+  إني منزلها عليكم، ثم لا ينزلها لأن ذلك منه تعالى خبر، ولا يكون منه خلاف ما يخبر.
+  ولو جاز أن يقول: إني منزلها عليكم، ثم لا ينزلها عليهم، جاز أن يقول:</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">فَمَنْ
+  يَكْفُرْ بَعْدُ مِنْكُمْ فإنّي أُعَذّبُهُ عَذَاباً لا أُعَذّبُهُ أحَداً مِن العالَمِينَ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">ثم
+  يكفر منهم بعد ذلك فلا يعذّبه، فلا يكون لوعده ولا لوعيده حقيقة ولا صحة، وغير جائز
+  أن يوصف ربنا تعالى بذلك.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وأما الصواب من القول فيما كان على
+  المائدة، فأن يقال: كان عليها مأكول، وجائز أن يكون كان سمكاً وخبزاً، وجائز أن يكون
+  كان ثمراً من ثمر الجنة وغير نافع العلم به ولا ضارّ الجهل به إذا أقرّ تالي الآية
+  بظاهر ما احتمله التنزيل.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">4 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section>"
 

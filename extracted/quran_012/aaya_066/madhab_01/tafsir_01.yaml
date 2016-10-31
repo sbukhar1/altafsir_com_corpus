@@ -1,4 +1,4 @@
-location:
+position:
   sura: '012'
   aaya: '066'
   madhab: '01'
@@ -10,24 +10,54 @@ meta:
 aaya: قَالَ لَنْ أُرْسِلَهُ مَعَكُمْ حَتَّىٰ تُؤْتُونِ مَوْثِقًا مِنَ اللَّهِ لَتَأْتُنَّنِي
   بِهِ إِلَّا أَنْ يُحَاطَ بِكُمْ ۖ فَلَمَّا آتَوْهُ مَوْثِقَهُمْ قَالَ اللَّهُ عَلَىٰ
   مَا نَقُولُ وَكِيلٌ
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ قَالَ لَنْ أُرْسِلَهُ
-  مَعَكُمْ حَتَّىٰ تُؤْتُونِ مَوْثِقاً مِّنَ ٱللَّهِ لَتَأْتُنَّنِي بِهِ إِلاَّ أَن
-  يُحَاطَ بِكُمْ فَلَمَّآ آتَوْهُ مَوْثِقَهُمْ قَالَ ٱللَّهُ عَلَىٰ مَا نَقُولُ وَكِيلٌ
-  }يقول تعالـى ذكره: قال يعقوب لبنـيه: لن أرسل أخاكم معكم إلـى ملك مصر { حتـى تُؤْتُون
-  مَوْثِقاً مِنَ اللّهِ } يقول: حتـى تُعْطون مؤثقاً من الله، بـمعنى الـميثاق، وهو
-  ما يوثق به من يـمين وعهد، { لَتَأتُنَّنِـي بِهِ } يقول لتأتننـي: بأخيكم، { إلاَّ
-  أنْ يُحاطَ بِكُمْ } يقول: إلا أن يحيط بجميعكم ما لا تقدرون معه علـى أن تأتونـي به.وبنـحو
-  الذي قلنا فـي ذلك قال أهل التأويـل. ذكر من قال ذلك:حدثنـي الـمثنى، قال: ثنا أبو
-  حذيفة، قال: ثنا شبل، عن ابن أبـي نـجيح، عن مـجاهد: { فَلَـمَّا آتَوْهُ مَوْثِقَهُمْ
-  } قال: عهدهم.حدثنـي الـمثنى، قال: أخبرنا إسحاق، قال: ثنا عبد الله، عن ورقاء، عن
-  ابن أبـي نـجيح، عن مـجاهد، مثله.حدثنا الـحسن بن مـحمد، قال: ثنا شبـابة، قال: ثنا
-  ورقاء، عن ابن أبـي نـجيح، عن مـجاهد، قوله: { إلاَّ أنْ يُحاطَ بِكُمْ }: إلا أن تهلكوا
-  جميعاً.حدثنـي الـمثنى، قال: ثنا أبو حذيفة، قال: ثنا شبل، عن ابن أبـي نـجيح، عن مـجاهد.قال:
-  وحدثنا إسحاق، قال: أخبرنا عبد الله، عن ورقاء، عن ابن أبـي نـجيح، عن مـجاهد، مثله.حدثنا
-  الـحسن بن يحيى، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر، عن قتادة: { إلاَّ أنْ
-  يُحاطَ بِكُمْ } قال: إلا أن تُغلَبوا حتـى لا تطيقوا ذلك.حدثنا ابن حميد، قال: ثنا
-  سلـمة، عن ابن إسحاق، قوله: { إلاَّ أنْ يُحاطَ بِكُمْ }: إلا أن يصيبكم أمر يذهب بكم
-  جميعاً، فـيكون ذلك عذراً لكم عندي.وقوله: { فَلَـمَّا آتَوْهُ مَوْثِقَهُمْ } يقول:
-  فلـما أعطوه عهودهم، قال يعقوب: { اللّهُ علـى ما نَقُولُ } أنا وأنتـم { وَكِيـلٌ
-  } يقول: هو شهيد علـينا بـالوفـاء بـما نقول جميعاً.\r\n\t\t\t\r\n\t\t\t</section>"
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(12, 66)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(12,66)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">قَالَ
+  لَنْ أُرْسِلَهُ مَعَكُمْ حَتَّىٰ تُؤْتُونِ مَوْثِقاً مِّنَ ٱللَّهِ لَتَأْتُنَّنِي
+  بِهِ إِلاَّ أَن يُحَاطَ بِكُمْ فَلَمَّآ آتَوْهُ مَوْثِقَهُمْ قَالَ ٱللَّهُ عَلَىٰ
+  مَا نَقُولُ وَكِيلٌ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">يقول تعالـى ذكره: قال يعقوب لبنـيه:
+  لن أرسل أخاكم معكم إلـى ملك مصر { حتـى تُؤْتُون مَوْثِقاً مِنَ اللّهِ } يقول: حتـى
+  تُعْطون مؤثقاً من الله، بـمعنى الـميثاق، وهو ما يوثق به من يـمين وعهد، { لَتَأتُنَّنِـي
+  بِهِ } يقول لتأتننـي: بأخيكم، { إلاَّ أنْ يُحاطَ بِكُمْ } يقول: إلا أن يحيط بجميعكم
+  ما لا تقدرون معه علـى أن تأتونـي به.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وبنـحو
+  الذي قلنا فـي ذلك قال أهل التأويـل. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  الـمثنى، قال: ثنا أبو حذيفة، قال: ثنا شبل، عن ابن أبـي نـجيح، عن مـجاهد: { فَلَـمَّا
+  آتَوْهُ مَوْثِقَهُمْ } قال: عهدهم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  الـمثنى، قال: أخبرنا إسحاق، قال: ثنا عبد الله، عن ورقاء، عن ابن أبـي نـجيح، عن مـجاهد،
+  مثله.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا الـحسن بن مـحمد، قال: ثنا
+  شبـابة، قال: ثنا ورقاء، عن ابن أبـي نـجيح، عن مـجاهد، قوله: { إلاَّ أنْ يُحاطَ بِكُمْ
+  }: إلا أن تهلكوا جميعاً.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي الـمثنى، قال: ثنا أبو حذيفة،
+  قال: ثنا شبل، عن ابن أبـي نـجيح، عن مـجاهد.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال:
+  وحدثنا إسحاق، قال: أخبرنا عبد الله، عن ورقاء، عن ابن أبـي نـجيح، عن مـجاهد، مثله.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا الـحسن بن يحيى، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر،
+  عن قتادة: { إلاَّ أنْ يُحاطَ بِكُمْ } قال: إلا أن تُغلَبوا حتـى لا تطيقوا ذلك.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن حميد، قال: ثنا سلـمة، عن ابن إسحاق، قوله: { إلاَّ أنْ
+  يُحاطَ بِكُمْ }: إلا أن يصيبكم أمر يذهب بكم جميعاً، فـيكون ذلك عذراً لكم عندي.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقوله: { فَلَـمَّا آتَوْهُ مَوْثِقَهُمْ } يقول: فلـما أعطوه عهودهم،
+  قال يعقوب: { اللّهُ علـى ما نَقُولُ } أنا وأنتـم { وَكِيـلٌ } يقول: هو شهيد علـينا
+  بـالوفـاء بـما نقول جميعاً.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

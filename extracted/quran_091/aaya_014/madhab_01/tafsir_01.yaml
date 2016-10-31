@@ -1,4 +1,4 @@
-location:
+position:
   sura: 091
   aaya: '014'
   madhab: '01'
@@ -7,148 +7,400 @@ meta:
   title: تفسير جامع البيان في تفسير القرآن
   author: الطبري
   year: '310'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ قَدْ أَفْلَحَ
-  مَن زَكَّاهَا } * { وَقَدْ خَابَ مَن دَسَّاهَا } * { كَذَّبَتْ ثَمُودُ بِطَغْوَاهَآ
-  } * { إِذِ ٱنبَعَثَ أَشْقَاهَا } * { فَقَالَ لَهُمْ رَسُولُ ٱللَّهِ نَاقَةَ ٱللَّهِ
-  وَسُقْيَاهَا } * { فَكَذَّبُوهُ فَعَقَرُوهَا فَدَمْدَمَ عَلَيْهِمْ رَبُّهُمْ بِذَنبِهِمْ
-  فَسَوَّاهَا } * { وَلاَ يَخَافُ عُقْبَاهَا }قوله: { قَدْ أفْلَحَ مَنْ زَكَّاها }
-  يقول: قد أفلح من زكَّى اللّهُ نفسه، فكَّثر تطهيرها من الكفر والمعاصي، وأصلحها بالصالحات
-  من الأعمال. وبنحو الذي قلنا في ذلك قال أهل التأويل. ذكر من قال ذلك:حدثني عليّ، قال:
-  ثنا أبو صالح، قال: ثني معاوية، عن عليّ، عن ابن عباس { قَدْ أفْلَحَ مَنْ زَكَّاها
-  } يقول: قد أفلح من زكَّى اللّهُ نفسَه.حدثنا ابن حميد، قال: ثنا مَهْران، عن سفيان،
-  عن خَصِيف، عن مجاهد وسعيد بن جُبير وعكرِمة: { قَدْ أفْلَحَ مَنْ زَكَّاها } قالوا:
-  من أصلحها.حدثنا أبو كُرَيب، قال: ثنا وكيع، عن سفيان، عن خصيف، عن مجاهد وسعيد بن
-  جُبير، ولم يذكر عكرِمة.حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة { قَدْ
-  أفْلَحَ مَنْ زَكَّاها } من عمل خيراً زكَّاها بطاعة الله.حدثنا ابن عبد الأعلى، قال:
-  ثنا ابن ثور، عن معمر، عن قتادة { قَدْ أفْلَحَ مَنْ زَكَّاها } قال: قد أفلح من زكَّى
-  نفسَه بعمل صالح.حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله: { قَدْ
-  أفْلَحَ مَنْ زَكَّاها } يقول: قد أفلح من زكى اللّهُ نفسَه. وهذا هو موضع القسم، كما:حدثنا
-  بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قال: قد وقع القسم ها هنا { قَدْ أفْلَحَ
-  مَنْ زَكَّاها }.وقد ذكرتُ ما تقول أهل العربية في ذلك فيما مضى من نظائره قبلُ.وقوله:
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(91, 9)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(91,9)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">قَدْ
+  أَفْلَحَ مَن زَكَّاهَا</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">وَقَدْ خَابَ مَن دَسَّاهَا</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">كَذَّبَتْ
+  ثَمُودُ بِطَغْوَاهَآ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">إِذِ ٱنبَعَثَ أَشْقَاهَا</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">فَقَالَ
+  لَهُمْ رَسُولُ ٱللَّهِ نَاقَةَ ٱللَّهِ وَسُقْيَاهَا</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">فَكَذَّبُوهُ فَعَقَرُوهَا
+  فَدَمْدَمَ عَلَيْهِمْ رَبُّهُمْ بِذَنبِهِمْ فَسَوَّاهَا</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَلاَ
+  يَخَافُ عُقْبَاهَا</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">قوله: { قَدْ أفْلَحَ مَنْ زَكَّاها
+  } يقول: قد أفلح من زكَّى اللّهُ نفسه، فكَّثر تطهيرها من الكفر والمعاصي، وأصلحها
+  بالصالحات من الأعمال. وبنحو الذي قلنا في ذلك قال أهل التأويل. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني عليّ، قال: ثنا أبو صالح، قال: ثني معاوية، عن عليّ، عن ابن
+  عباس { قَدْ أفْلَحَ مَنْ زَكَّاها } يقول: قد أفلح من زكَّى اللّهُ نفسَه.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن حميد، قال: ثنا مَهْران، عن سفيان، عن خَصِيف، عن مجاهد
+  وسعيد بن جُبير وعكرِمة: { قَدْ أفْلَحَ مَنْ زَكَّاها } قالوا: من أصلحها.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا أبو كُرَيب، قال: ثنا وكيع، عن سفيان، عن خصيف، عن مجاهد وسعيد
+  بن جُبير، ولم يذكر عكرِمة.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا بشر، قال: ثنا يزيد، قال:
+  ثنا سعيد، عن قتادة { قَدْ أفْلَحَ مَنْ زَكَّاها } من عمل خيراً زكَّاها بطاعة الله.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة { قَدْ
+  أفْلَحَ مَنْ زَكَّاها } قال: قد أفلح من زكَّى نفسَه بعمل صالح.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله: { قَدْ
+  أفْلَحَ مَنْ زَكَّاها } يقول: قد أفلح من زكى اللّهُ نفسَه. وهذا هو موضع القسم، كما:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قال: قد وقع القسم
+  ها هنا { قَدْ أفْلَحَ مَنْ زَكَّاها }.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقد
+  ذكرتُ ما تقول أهل العربية في ذلك فيما مضى من نظائره قبلُ.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقوله:
   { وَقَدْ خاب مَنْ دَسَّاها } يقول تعالى ذكره: وقد خاب في طِلبته، فلم يُدرك ما طلب
   والتمس لنفسه من الصلاح { مَنْ دسَّاهَا } يعني: من دَسَّس الله نفسه فأحْملها، ووضع
   منها، بخُذلانه إياها عن الهدى حتى ركب المعاصِيَ، وترك طاعة الله. وقيل: دسَّاها وهي
-  دَسَّسها، فقُلبت إحدى سيناتها ياء، كما قال العجَّاج:تَقَضِّيَ الْبازِي إذا البازِي
-  كَسَرْ   يريد: تَقَضُّض. وتظنَّيت هذا الأمر، بمعنى: تظننت، والعرب تفعل ذلك كثيراً،
-  فتبدل في الحرف المشدّد بعضَ حروفه، ياء أحياناً، وواواً أحياناً ومنه قول الآخر:يَذْهَبُ
-  بِي فِي الشِّعْرِ كُلَّ فَنَّ   حتى يَرُدَّ عَنِّي التَظَنِّييريد: التظنن: وبنحو
-  الذي قلنا في ذلك قال أهل التأويل. ذكر من قال ذلك:حدثني عليّ، قال: ثنا أبو صالح،
+  دَسَّسها، فقُلبت إحدى سيناتها ياء، كما قال العجَّاج:</font></font><table class=\"TextArabic\"
+  dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">تَقَضِّيَ الْبازِي إذا البازِي كَسَرْ</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\"/></font></b></td></tr></table><font class=\"TextResultArabic\"><font
+  color=\"black\">يريد: تَقَضُّض. وتظنَّيت هذا الأمر، بمعنى: تظننت، والعرب تفعل ذلك
+  كثيراً، فتبدل في الحرف المشدّد بعضَ حروفه، ياء أحياناً، وواواً أحياناً ومنه قول
+  الآخر:</font></font><table class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">يَذْهَبُ
+  بِي فِي الشِّعْرِ كُلَّ فَنَّ</font></font></b></td><td class=\"TextArabic\">   </td><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">حتى يَرُدَّ
+  عَنِّي التَظَنِّي</font></font></b></td></tr></table><font class=\"TextResultArabic\"><font
+  color=\"black\">يريد: التظنن: وبنحو الذي قلنا في ذلك قال أهل التأويل. ذكر من قال
+  ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثني عليّ، قال: ثنا أبو صالح،
   قال: ثني معاوية، عن عليّ، عن ابن عباس { وَقَدْ خابَ مَنْ دَسَّاها } يقول: وقد خاب
-  من دَسَّى الله نُفسَه فأضلَّه.حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال:
-  ثني أبي، عن أبيه، عن ابن عباس: { وَقَدْ خابَ مَنْ دَسَّاها } يعني: تكذيبها.حدثنا
+  من دَسَّى الله نُفسَه فأضلَّه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس: { وَقَدْ
+  خابَ مَنْ دَسَّاها } يعني: تكذيبها.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
   أبو كُرَيب، قال: ثنا وكيع، عن سفيان، عن خَصِيف، عن مجاهد وسعيد بن جُبير { وَقَدْ
-  خابَ مَنْ دَسَّاها } قال أحدهما: أغواها، وقال الآخر: أضلَّها.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ قَدْ أَفْلَحَ مَن زَكَّاهَا } * {
-  وَقَدْ خَابَ مَن دَسَّاهَا } * { كَذَّبَتْ ثَمُودُ بِطَغْوَاهَآ } * { إِذِ ٱنبَعَثَ
-  أَشْقَاهَا } * { فَقَالَ لَهُمْ رَسُولُ ٱللَّهِ نَاقَةَ ٱللَّهِ وَسُقْيَاهَا } *
-  { فَكَذَّبُوهُ فَعَقَرُوهَا فَدَمْدَمَ عَلَيْهِمْ رَبُّهُمْ بِذَنبِهِمْ فَسَوَّاهَا
-  } * { وَلاَ يَخَافُ عُقْبَاهَا }حدثنا ابن حميد، قال: ثنا مهران، عن سفيان، عن خَصِيف،
-  عن مجاهد { وَقَدْ خابَ مَنْ دَسَّاها } قال: أضلها، وقال سعيد: من أغواها.حدثني محمد
-  بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى وحدثني الحارث، قال: ثنا الحسن، قال: ثنا
-  ورقاء، جميعاً عن ابن أبي نجيح، عن مجاهد، قوله: { مَنْ دَسَّاها } قال: أغواها.حدثنا
-  بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة { وَقَدْ خابَ مَنْ دَسَّاها } قال: أثَّمها
-  وأفجرها.حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة، مثله.حدثني يونس،
-  قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله: { وَقَدْ خابَ } يقول: وقد خاب من
-  دَسَّى اللّهُ نَفسَه.وقوله: { كَذَّبَتْ ثَمُودُ بِطَغْوَاها } يقول: كذّبت ثمود بطغيانها،
-  يعني: بعذابها الذي وعدهموه صالح عليه السلام، فكان ذلك العذاب طاغياً طغى عليهم، كما
-  قال جلّ ثناؤه: { فأمَّا ثَمُودُ فأُهْلِكُوا بالطَّاغيَة }. وبنحو الذي قلنا في ذلك
-  قال أهل التأويل، وإن كان فيه اختلاف بين أهل التأويل. ذكر من قال القول الذي قلنا
-  في ذلك:حدثني سعيد بن عمرو السَّكونيّ، قال: ثنا الوليد بن سَلَمة الفِلَسْطِينيّ،
+  خابَ مَنْ دَسَّاها } قال أحدهما: أغواها، وقال الآخر: أضلَّها.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(91, 9)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(91,9)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">قَدْ أَفْلَحَ مَن زَكَّاهَا</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَقَدْ
+  خَابَ مَن دَسَّاهَا</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">كَذَّبَتْ ثَمُودُ بِطَغْوَاهَآ</a> <b>} *
+  </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">إِذِ
+  ٱنبَعَثَ أَشْقَاهَا</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">فَقَالَ لَهُمْ رَسُولُ ٱللَّهِ نَاقَةَ ٱللَّهِ
+  وَسُقْيَاهَا</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">فَكَذَّبُوهُ فَعَقَرُوهَا فَدَمْدَمَ عَلَيْهِمْ
+  رَبُّهُمْ بِذَنبِهِمْ فَسَوَّاهَا</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَلاَ يَخَافُ عُقْبَاهَا</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن حميد، قال: ثنا مهران، عن سفيان، عن خَصِيف، عن مجاهد {
+  وَقَدْ خابَ مَنْ دَسَّاها } قال: أضلها، وقال سعيد: من أغواها.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى وحدثني الحارث،
+  قال: ثنا الحسن، قال: ثنا ورقاء، جميعاً عن ابن أبي نجيح، عن مجاهد، قوله: { مَنْ دَسَّاها
+  } قال: أغواها.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا بشر، قال: ثنا يزيد، قال:
+  ثنا سعيد، عن قتادة { وَقَدْ خابَ مَنْ دَسَّاها } قال: أثَّمها وأفجرها.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة، مثله.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله: { وَقَدْ
+  خابَ } يقول: وقد خاب من دَسَّى اللّهُ نَفسَه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقوله:
+  { كَذَّبَتْ ثَمُودُ بِطَغْوَاها } يقول: كذّبت ثمود بطغيانها، يعني: بعذابها الذي
+  وعدهموه صالح عليه السلام، فكان ذلك العذاب طاغياً طغى عليهم، كما قال جلّ ثناؤه: {
+  فأمَّا ثَمُودُ فأُهْلِكُوا بالطَّاغيَة }. وبنحو الذي قلنا في ذلك قال أهل التأويل،
+  وإن كان فيه اختلاف بين أهل التأويل. ذكر من قال القول الذي قلنا في ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني سعيد بن عمرو السَّكونيّ، قال: ثنا الوليد بن سَلَمة الفِلَسْطِينيّ،
   قال: ثني يزيد بن سمرة المَذحِجيّ عن عطاء الخُراسانيّ، عن ابن عباس، في قول الله:
   { كَذَّبَتْ ثَمُودُ بطَغْوَاها } قال: اسم العذاب الذي جاءها، الطَّغْوَى، فقال: كذّبت
-  ثمود بعذابها.حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة { كَذَّبَتْ ثَمُودُ
-  بطَغْوَاها }: أي بالطغيان.وقال آخرون: كذّبت ثمود بمعصيتهم الله. ذكر من قال ذلك:حدثني
-  محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى وحدثني الحارث، قال: ثنا الحسن، قال:
-  ثنا ورقاء، جميعاً عن ابن أبي نجيح، عن مجاهد { كَذَّبَتْ ثَمُودُ بِطَغْوَاها } قال:
-  معصيتها.حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله: { كَذَّبَتْ
-  ثَمُودُ بِطَغْوَاها } قال: بطغيانهم وبمعصيتهم.وقال آخرون: بل معنى ذلك بأجمعها. ذكر
-  من قال ذلك:حدثني يونس، قال: أخبرنا ابن وهب، قال: أخبرني يحيى بن أيوب وابن لَهِيعة،
-  عن عُمارة بن غزية، عن محمد بن رفاعة القُرَظِيّ، عن محمد بن كعب، أنه قال: { كَذَّبَتْ
-  ثَمُودُ بِطَغْوَاها } قال: بأجمعها.حدثني ابن عبد الرحيم الَبْرِقيّ، قال: ثنا ابن
-  أبي مَرْيم، قال: أخبرني يحيى بن أيوب، قال: ثني عُمارة بن غزية، عن محمد بن رفاعة
-  القُرَظِيّ، عن محمد بن كعب، مثله.وقيل { طَغْوَاها } بمعنى: طغيانهم، وهما مصدران،
-  للتوفيق بين رؤوس الآي، إذ كانت الَّطْغَوى أشبه بسائر رؤوس الآيات في هذه السورة،
-  وذلك نظير قوله:{ وآخِرُ دَعْوَاهُمْ }بمعنى: وآخر دعائهم.وقوله: { إذِ انْبَعَثَ أشْقاها
-  } يقول: إذ ثار أشقى ثمود، وهو قُدَار بن سالف، كما:حدثني يعقوب بن إبراهيم، قال: ثنا
+  ثمود بعذابها.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا بشر، قال: ثنا يزيد، قال:
+  ثنا سعيد، عن قتادة { كَذَّبَتْ ثَمُودُ بطَغْوَاها }: أي بالطغيان.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال آخرون: كذّبت ثمود بمعصيتهم الله. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى وحدثني الحارث،
+  قال: ثنا الحسن، قال: ثنا ورقاء، جميعاً عن ابن أبي نجيح، عن مجاهد { كَذَّبَتْ ثَمُودُ
+  بِطَغْوَاها } قال: معصيتها.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله: { كَذَّبَتْ ثَمُودُ بِطَغْوَاها
+  } قال: بطغيانهم وبمعصيتهم.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال آخرون: بل معنى ذلك بأجمعها.
+  ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثني يونس، قال: أخبرنا ابن وهب،
+  قال: أخبرني يحيى بن أيوب وابن لَهِيعة، عن عُمارة بن غزية، عن محمد بن رفاعة القُرَظِيّ،
+  عن محمد بن كعب، أنه قال: { كَذَّبَتْ ثَمُودُ بِطَغْوَاها } قال: بأجمعها.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني ابن عبد الرحيم الَبْرِقيّ، قال: ثنا ابن أبي مَرْيم، قال: أخبرني
+  يحيى بن أيوب، قال: ثني عُمارة بن غزية، عن محمد بن رفاعة القُرَظِيّ، عن محمد بن كعب،
+  مثله.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقيل { طَغْوَاها } بمعنى: طغيانهم،
+  وهما مصدران، للتوفيق بين رؤوس الآي، إذ كانت الَّطْغَوى أشبه بسائر رؤوس الآيات في
+  هذه السورة، وذلك نظير قوله:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">وآخِرُ دَعْوَاهُمْ</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">بمعنى: وآخر دعائهم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقوله: { إذِ انْبَعَثَ أشْقاها } يقول: إذ ثار أشقى ثمود، وهو قُدَار
+  بن سالف، كما:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثني يعقوب بن إبراهيم، قال: ثنا
   الطُّفاويّ، عن هشام، عن أبيه، عن عبد الله بن زَمَعة، قال: خطب رسول الله صلى الله
-  عليه وسلم، فذكر في خطبته الناقة، والذي عَقَرها، فقال:\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ قَدْ أَفْلَحَ مَن زَكَّاهَا } * {
-  وَقَدْ خَابَ مَن دَسَّاهَا } * { كَذَّبَتْ ثَمُودُ بِطَغْوَاهَآ } * { إِذِ ٱنبَعَثَ
-  أَشْقَاهَا } * { فَقَالَ لَهُمْ رَسُولُ ٱللَّهِ نَاقَةَ ٱللَّهِ وَسُقْيَاهَا } *
-  { فَكَذَّبُوهُ فَعَقَرُوهَا فَدَمْدَمَ عَلَيْهِمْ رَبُّهُمْ بِذَنبِهِمْ فَسَوَّاهَا
-  } * { وَلاَ يَخَافُ عُقْبَاهَا } \" إذِ انْبَعَثَ أشْقاها: انْبَعَثَ لَهَا رَجُلٌ
-  عَزِيزٌ عارِمٌ، مَنِيعٌ فِي رَهْطِهِ، مِثْلُ أبي زَمَعَة \" حدثنا بشر، قال: ثنا
-  يزيد، قال: ثنا سعيد، عن قتادة، في قوله: { إذِ انْبَعَثَ أشْقاها } يعني أُحَيْمِرَ
-  ثَمود.وقوله: { فَقالَ لَهُمْ رَسُولُ اللّهِ } يعني بذلك جَلّ ثناؤه: صالحاً رسول
-  الله صلى الله عليه وسلم، فقال لثمود صَالحٌ: { ناقَةَ اللّهِ وَسُقْياها } احذَروا
+  عليه وسلم، فذكر في خطبته الناقة، والذي عَقَرها، فقال:</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(91, 9)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(91,9)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">قَدْ أَفْلَحَ مَن زَكَّاهَا</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَقَدْ
+  خَابَ مَن دَسَّاهَا</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">كَذَّبَتْ ثَمُودُ بِطَغْوَاهَآ</a> <b>} *
+  </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">إِذِ
+  ٱنبَعَثَ أَشْقَاهَا</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">فَقَالَ لَهُمْ رَسُولُ ٱللَّهِ نَاقَةَ ٱللَّهِ
+  وَسُقْيَاهَا</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">فَكَذَّبُوهُ فَعَقَرُوهَا فَدَمْدَمَ عَلَيْهِمْ
+  رَبُّهُمْ بِذَنبِهِمْ فَسَوَّاهَا</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَلاَ يَخَافُ عُقْبَاهَا</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\"/></font><b><font class=\"TextResultArabic\"><font color=\"Red\">
+  \" إذِ انْبَعَثَ أشْقاها: انْبَعَثَ لَهَا رَجُلٌ عَزِيزٌ عارِمٌ، مَنِيعٌ فِي رَهْطِهِ،
+  مِثْلُ أبي زَمَعَة \" </font></font></b><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا بشر، قال: ثنا يزيد، قال:
+  ثنا سعيد، عن قتادة، في قوله: { إذِ انْبَعَثَ أشْقاها } يعني أُحَيْمِرَ ثَمود.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقوله: { فَقالَ لَهُمْ رَسُولُ اللّهِ } يعني بذلك جَلّ ثناؤه: صالحاً
+  رسول الله صلى الله عليه وسلم، فقال لثمود صَالحٌ: { ناقَةَ اللّهِ وَسُقْياها } احذَروا
   ناقة الله وسُقياها، وإنما حذّرهم سُقيَا الناقة، لأنه كان تقدّم إليهم عن أمر الله،
   أن للناقة شِرَب يوم، ولهم شِرْب يومٍ آخر، غير يوم الناقة، على ما قد بيَّنت فيما
-  مضى قبل، وكما:حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة { فَقالَ لَهُمْ
-  رَسُولُ اللّهِ ناقَةَ اللّهِ وسُقْياها } قَسْم الله الذي قسم لها من هذا الماء.وقوله:
+  مضى قبل، وكما:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا بشر، قال: ثنا يزيد، قال:
+  ثنا سعيد، عن قتادة { فَقالَ لَهُمْ رَسُولُ اللّهِ ناقَةَ اللّهِ وسُقْياها } قَسْم
+  الله الذي قسم لها من هذا الماء.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقوله:
   { فَكَذَّبُوهُ فَعَقَرُوها } يقول: فكذّبوا صالحاً في خبره الذي أخبرهم به، من أن
   الله الذي جعل شِرْبَ الناقة يوماً، ولهم شربُ يوم معلوم، وأن اللّهُ يحِلّ بهم نقمته،
-  إن هم عقروها، كما وصفهم جلّ ثناؤه فقال:{ كَذَّبَتْ ثَمُودُ وَعادٌ بِالْقَارِعَةِ }،
-  وقد يحتمل أن يكون التكذيب بالعقْر. وإذا كان ذلك كذلك، جاز تقديم التكذيب قبل العقر،
-  والعقر قبل التكذيب، وذلك أن كلّ فعل وقع عن سبب حسن ابتداؤه قبل السبب وبعده، كقول
-  القائل: أعطيت فأحسنت، وأحسنت فأعطيت، لأن الإعطاء: هو الإحسان، ومن الإحسان الإعطاء،
-  وكذلك لو كان العَقْر هو سبب التكذيب، جاز تقديم أيّ ذلك شاء المتكلم. وقد زعم بعضهم
-  أن قوله: { فَكَذَّبُوهُ } كلمة مكتفية بنفسها، وأن قوله: { فَعَقَرُوها } جواب لقوله:
-  { إذِ انْبَعَث أشْقاها } كأنه قيل: إذ انبعث أشقاها فعقرها، فقال: وكيف؟ قيل { فَكَذَّبُوهُ
+  إن هم عقروها، كما وصفهم جلّ ثناؤه فقال:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">كَذَّبَتْ ثَمُودُ وَعادٌ بِالْقَارِعَةِ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">، وقد
+  يحتمل أن يكون التكذيب بالعقْر. وإذا كان ذلك كذلك، جاز تقديم التكذيب قبل العقر، والعقر
+  قبل التكذيب، وذلك أن كلّ فعل وقع عن سبب حسن ابتداؤه قبل السبب وبعده، كقول القائل:
+  أعطيت فأحسنت، وأحسنت فأعطيت، لأن الإعطاء: هو الإحسان، ومن الإحسان الإعطاء، وكذلك
+  لو كان العَقْر هو سبب التكذيب، جاز تقديم أيّ ذلك شاء المتكلم. وقد زعم بعضهم أن قوله:
+  { فَكَذَّبُوهُ } كلمة مكتفية بنفسها، وأن قوله: { فَعَقَرُوها } جواب لقوله: { إذِ
+  انْبَعَث أشْقاها } كأنه قيل: إذ انبعث أشقاها فعقرها، فقال: وكيف؟ قيل { فَكَذَّبُوهُ
   فَعَقَرُوها } وقد كان القوم قبل قتل الناقة مُسَلّمين، لها شرب يوم، ولهم شرب يوم
   آخر. قيل: جاء الخبر أنهم بعد تسليمهم ذلك، أجمعوا على منعها الشربَ، ورضُوا بقتلها،
   وعن رضا جميعهم قَتَلها قاتِلُها، وعَقَرها مَنْ عقرها ولذلك نُسب التكذيب والعقر إلى
-  جميعهم، فقال جلّ ثناؤه: { فَكَذَّبُوهُ فَعَقَرُوها }.وقوله: { فَدَمْدَمَ عَلَيْهِمْ
-  رَبُّهُمْ بِذَنْبِهِمْ فَسَوَّاها } يقول تعالى ذكره: فدمَّر عليهم ربهم بذنبهم ذلك،
-  وكفَّرهم به، وتكذيبهم رسوله صالحاً، وعَقْرهم ناقته { فَسَوَّاها } يقول: فَسوّى الدمدمة
-  عليهم جميعهم، فلم يُفْلِت منهم أحد، كما:حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد،
-  عن قتادة، قوله: { فَدَمْدَمَ عَلَيْهِمْ رَبُّهُمْ بِذَنْبِهِمْ فَسَوَّاها } ذُكر
-  لنا أن أحيمرَ ثمود أبى أن يعقِرَها، حتى بايعه صغيرُهم وكبيرُهم، وذَكَرُهم وأنثاهم،
-  فلما اشترك القومُ في عَقْرها دمدم الله عليهم بذنبهم فسوّاها.حدثني بشر بن آدم، قال:
-  ثنا قُتيبة، قال: ثنا أبو هلال، قال: سمعت الحسن يقول: لما عقروا الناقةَ طلبوا فَصِيلَها،
-  فصار في قارة الجبل، فقطع اللّهُ قلوبَهم.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ قَدْ أَفْلَحَ مَن زَكَّاهَا } * {
-  وَقَدْ خَابَ مَن دَسَّاهَا } * { كَذَّبَتْ ثَمُودُ بِطَغْوَاهَآ } * { إِذِ ٱنبَعَثَ
-  أَشْقَاهَا } * { فَقَالَ لَهُمْ رَسُولُ ٱللَّهِ نَاقَةَ ٱللَّهِ وَسُقْيَاهَا } *
-  { فَكَذَّبُوهُ فَعَقَرُوهَا فَدَمْدَمَ عَلَيْهِمْ رَبُّهُمْ بِذَنبِهِمْ فَسَوَّاهَا
-  } * { وَلاَ يَخَافُ عُقْبَاهَا }وقوله: { وَلا يَخافُ عقْباها } اختلف أهل التأويل
-  في معنى ذلك، فقال بعضهم: معناه: لا يخاف تبعة دَمْدمته عليهم. ذكر من قال ذلك:حدثني
+  جميعهم، فقال جلّ ثناؤه: { فَكَذَّبُوهُ فَعَقَرُوها }.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقوله:
+  { فَدَمْدَمَ عَلَيْهِمْ رَبُّهُمْ بِذَنْبِهِمْ فَسَوَّاها } يقول تعالى ذكره: فدمَّر
+  عليهم ربهم بذنبهم ذلك، وكفَّرهم به، وتكذيبهم رسوله صالحاً، وعَقْرهم ناقته { فَسَوَّاها
+  } يقول: فَسوّى الدمدمة عليهم جميعهم، فلم يُفْلِت منهم أحد، كما:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: { فَدَمْدَمَ
+  عَلَيْهِمْ رَبُّهُمْ بِذَنْبِهِمْ فَسَوَّاها } ذُكر لنا أن أحيمرَ ثمود أبى أن يعقِرَها،
+  حتى بايعه صغيرُهم وكبيرُهم، وذَكَرُهم وأنثاهم، فلما اشترك القومُ في عَقْرها دمدم
+  الله عليهم بذنبهم فسوّاها.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثني بشر بن آدم، قال: ثنا قُتيبة،
+  قال: ثنا أبو هلال، قال: سمعت الحسن يقول: لما عقروا الناقةَ طلبوا فَصِيلَها، فصار
+  في قارة الجبل، فقطع اللّهُ قلوبَهم.</font></font>&#13;\t\t\t<label disabled=\"true\"
+  class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">3 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(91, 9)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(91,9)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">قَدْ أَفْلَحَ مَن زَكَّاهَا</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَقَدْ
+  خَابَ مَن دَسَّاهَا</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">كَذَّبَتْ ثَمُودُ بِطَغْوَاهَآ</a> <b>} *
+  </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">إِذِ
+  ٱنبَعَثَ أَشْقَاهَا</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">فَقَالَ لَهُمْ رَسُولُ ٱللَّهِ نَاقَةَ ٱللَّهِ
+  وَسُقْيَاهَا</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">فَكَذَّبُوهُ فَعَقَرُوهَا فَدَمْدَمَ عَلَيْهِمْ
+  رَبُّهُمْ بِذَنبِهِمْ فَسَوَّاهَا</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَلاَ يَخَافُ عُقْبَاهَا</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">وقوله: { وَلا يَخافُ عقْباها } اختلف أهل التأويل في معنى ذلك، فقال
+  بعضهم: معناه: لا يخاف تبعة دَمْدمته عليهم. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
   عليّ، قال: ثنا أبو صالح، قال: ثني معاوية، عن عليّ، عن ابن عباس، قوله: { وَلا يَخافُ
-  عُقْباها } قال: لا يخاف اللّهُ من أحد تَبِعَةً.حدثني إبراهيم بن المستمرّ، قال: ثنا
-  عثمان بن عمرو، قال: ثنا عمر بن مرثد، عن الحسن، في قوله: وَلا يَخاف عُقْباها قال:
-  ذاك ربنا تبارك وتعالى، لا يخاف تبعةً مما صنع بهم.حدثنا أبو كُرَيب، قال: ثنا وكيع،
-  عن عمرو بن منبه، هكذا هو في كتابي، سمعت الحسن قرأ: { وَلا يَخافُ عُقْباها } قال:
-  ذلك الربّ صنع ذلك بهم، ولم يخف تبعةً.حدثني يعقوب، قال: ثنا ابن عُلَية، عن أبي رجاء،
-  عن الحسن، في قوله: { وَلا يَخاف عُقْباها } قال: لا يخاف تبعتهم.حدثنا بشر، قال: ثنا
-  يزيد، قال: ثنا سعيد، عن قتادة { وَلا يَخافُ عُقْباها } يقول: لا يخاف أن يُتْبَعَ
-  بشيء مما صَنعَ بهم.حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى وحدثني الحارث،
-  قال: ثنا الحسن، قال: ثنا ورقاء، جميعاً عن ابن أبي نجيح، عن مجاهد، قوله: { وَلا يَخافُ
-  عُقْباها } قال محمد بن عمرو في حديثه، قال: الله { لا يَخافُ عُقْباها }. وقال الحارث
-  في حديثه: الله لا يخاف عقباها.حدثني محمد بن سنان، قال: ثنا يعقوب، قال: ثنا رزين
-  بن إبراهيم، عن أبي سليمان، قال: سمعت بكر بن عبد الله المُزَنيّ يقول في قوله: { وَلا
-  يَخافُ عُقْباها } قال: لا يخاف الله التبعةَ.وقال آخرون: بل معنى ذلك: ولم يخف الذي
-  عقرها عقباها: أي عُقبى فَعْلَتِهِ التي فعل. ذكر من قال ذلك:حدثنا أبو كُرَيب، قال:
-  ثنا جابر بن نوح، قال: ثنا أبو رَوْق، قال: ثنا الضحاك { وَلا يَخافُ عُقْباها } قال:
-  لم يَخَفِ الذي عقرها عقباها.حدثنا ابن حُميد، قال: ثنا مِهْران، عن سفيان، عن السُّدِّيّ:
-  { وَلا يَخافُ عُقْباها } قال: لم يخف الذي عقرها عقباها.حدثنا ابن حُميد، قال: ثنا
-  مِهْران، عن سفيان، عن السديّ { وَلا يَخافُ عُقْباها } قال: الذي لا يخاف الذي صنع،
-  عُقْبَى ما صنع.واختلفت القرّاء في قراءة ذلك، فقرأته عامة قرّاء الحجاز والشام: «فَلا
-  يَخافُ عُقْباها» بالفاء، وكذلك ذلك في مصاحفهم، وقرأته عامة قرّاء العراق في المِصْرين
-  بالواو { وَلا يَخاف عُقْباها } وكذلك هو في مصاحفهم.والصواب من القول في ذلك: أنهما
-  قراءتان معروفتان، غير مختلفي المعنى، فبأيتهما قرأ القارىء فمصيب.واختلفت القرّاء
-  في إمالة ما كان من ذوات الواو في هذه السورة وغيرها، كقوله:{ وَالقَمَرِ إذَا تَلاها }{ وَما
-  طَحاها }ونحو ذلك، فكان يفتح ذلك كلَّه عامةُ قرّاء الكوفة، ويُميلون ما كان من ذوات
-  الياء، غير عاصم والكسائي، فإن عاصماً كان يفتح جميعَ ذلك، ما كان منه من ذوات الواو
-  وذوات الياء، لا يُضْجِعُ منه شيئاً.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ قَدْ أَفْلَحَ مَن زَكَّاهَا } * {
-  وَقَدْ خَابَ مَن دَسَّاهَا } * { كَذَّبَتْ ثَمُودُ بِطَغْوَاهَآ } * { إِذِ ٱنبَعَثَ
-  أَشْقَاهَا } * { فَقَالَ لَهُمْ رَسُولُ ٱللَّهِ نَاقَةَ ٱللَّهِ وَسُقْيَاهَا } *
-  { فَكَذَّبُوهُ فَعَقَرُوهَا فَدَمْدَمَ عَلَيْهِمْ رَبُّهُمْ بِذَنبِهِمْ فَسَوَّاهَا
-  } * { وَلاَ يَخَافُ عُقْبَاهَا }وكان الكسائي يكسر ذلك كلَّه. وكان أبو عمرو ينظر
-  إلى اتساق رؤوس الآي، فإن كانت متسقة على شيء واحد، أمال جميعَها. وأما عامة قرّاء
-  المدينة، فإنهم لا يميلون شيئاً من ذلك الإمالة الشديدة، ولا يفتحونه الفتحَ الشديد،
-  ولكن بين ذلك وأفصح ذلك وأحسنه: أن ينظر إلى ابتداء السورة، فإن كانت رؤوسها بالياء،
-  أُجْريَ جميعُها بالإمالة غير الفاحشة، وإن كانت رؤوسها بالواو، فتحت وجرى جميعها بالفتح
-  غير الفاحش، وإذا انفرد نوع من ذلك في موضع، أميل ذوات الياء الإمالة المعتدلة، وفتح
-  ذوات الواو الفتح المتوسِّط، وإن أُميلت هذه، وفُتحت هذه لم يكن لحناً، غير أن الفصيح
-  من الكلام هو الذي وصفنا صفته.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  عُقْباها } قال: لا يخاف اللّهُ من أحد تَبِعَةً.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  إبراهيم بن المستمرّ، قال: ثنا عثمان بن عمرو، قال: ثنا عمر بن مرثد، عن الحسن، في
+  قوله: وَلا يَخاف عُقْباها قال: ذاك ربنا تبارك وتعالى، لا يخاف تبعةً مما صنع بهم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا أبو كُرَيب، قال: ثنا وكيع، عن عمرو بن منبه، هكذا هو في كتابي،
+  سمعت الحسن قرأ: { وَلا يَخافُ عُقْباها } قال: ذلك الربّ صنع ذلك بهم، ولم يخف تبعةً.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني يعقوب، قال: ثنا ابن عُلَية، عن أبي رجاء، عن الحسن، في قوله:
+  { وَلا يَخاف عُقْباها } قال: لا يخاف تبعتهم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة { وَلا يَخافُ عُقْباها } يقول: لا يخاف
+  أن يُتْبَعَ بشيء مما صَنعَ بهم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى وحدثني الحارث، قال: ثنا الحسن، قال:
+  ثنا ورقاء، جميعاً عن ابن أبي نجيح، عن مجاهد، قوله: { وَلا يَخافُ عُقْباها } قال
+  محمد بن عمرو في حديثه، قال: الله { لا يَخافُ عُقْباها }. وقال الحارث في حديثه: الله
+  لا يخاف عقباها.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثني محمد بن سنان، قال: ثنا يعقوب،
+  قال: ثنا رزين بن إبراهيم، عن أبي سليمان، قال: سمعت بكر بن عبد الله المُزَنيّ يقول
+  في قوله: { وَلا يَخافُ عُقْباها } قال: لا يخاف الله التبعةَ.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال آخرون: بل معنى ذلك: ولم يخف الذي عقرها عقباها: أي عُقبى فَعْلَتِهِ
+  التي فعل. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا أبو كُرَيب، قال: ثنا جابر
+  بن نوح، قال: ثنا أبو رَوْق، قال: ثنا الضحاك { وَلا يَخافُ عُقْباها } قال: لم يَخَفِ
+  الذي عقرها عقباها.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن حُميد، قال: ثنا مِهْران،
+  عن سفيان، عن السُّدِّيّ: { وَلا يَخافُ عُقْباها } قال: لم يخف الذي عقرها عقباها.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن حُميد، قال: ثنا مِهْران، عن سفيان، عن السديّ { وَلا يَخافُ
+  عُقْباها } قال: الذي لا يخاف الذي صنع، عُقْبَى ما صنع.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">واختلفت
+  القرّاء في قراءة ذلك، فقرأته عامة قرّاء الحجاز والشام: «فَلا يَخافُ عُقْباها» بالفاء،
+  وكذلك ذلك في مصاحفهم، وقرأته عامة قرّاء العراق في المِصْرين بالواو { وَلا يَخاف
+  عُقْباها } وكذلك هو في مصاحفهم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">والصواب
+  من القول في ذلك: أنهما قراءتان معروفتان، غير مختلفي المعنى، فبأيتهما قرأ القارىء
+  فمصيب.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">واختلفت القرّاء في إمالة ما كان
+  من ذوات الواو في هذه السورة وغيرها، كقوله:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">وَالقَمَرِ إذَا تَلاها</font></font> }</b><br
+  class=\"TextArabic\"/><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">وَما طَحاها</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">ونحو ذلك، فكان يفتح ذلك كلَّه عامةُ
+  قرّاء الكوفة، ويُميلون ما كان من ذوات الياء، غير عاصم والكسائي، فإن عاصماً كان يفتح
+  جميعَ ذلك، ما كان منه من ذوات الواو وذوات الياء، لا يُضْجِعُ منه شيئاً.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">4 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(91, 9)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(91,9)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">قَدْ أَفْلَحَ مَن زَكَّاهَا</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَقَدْ
+  خَابَ مَن دَسَّاهَا</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">كَذَّبَتْ ثَمُودُ بِطَغْوَاهَآ</a> <b>} *
+  </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">إِذِ
+  ٱنبَعَثَ أَشْقَاهَا</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">فَقَالَ لَهُمْ رَسُولُ ٱللَّهِ نَاقَةَ ٱللَّهِ
+  وَسُقْيَاهَا</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">فَكَذَّبُوهُ فَعَقَرُوهَا فَدَمْدَمَ عَلَيْهِمْ
+  رَبُّهُمْ بِذَنبِهِمْ فَسَوَّاهَا</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَلاَ يَخَافُ عُقْبَاهَا</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">وكان الكسائي يكسر ذلك كلَّه. وكان أبو عمرو ينظر إلى اتساق رؤوس الآي،
+  فإن كانت متسقة على شيء واحد، أمال جميعَها. وأما عامة قرّاء المدينة، فإنهم لا يميلون
+  شيئاً من ذلك الإمالة الشديدة، ولا يفتحونه الفتحَ الشديد، ولكن بين ذلك وأفصح ذلك
+  وأحسنه: أن ينظر إلى ابتداء السورة، فإن كانت رؤوسها بالياء، أُجْريَ جميعُها بالإمالة
+  غير الفاحشة، وإن كانت رؤوسها بالواو، فتحت وجرى جميعها بالفتح غير الفاحش، وإذا انفرد
+  نوع من ذلك في موضع، أميل ذوات الياء الإمالة المعتدلة، وفتح ذوات الواو الفتح المتوسِّط،
+  وإن أُميلت هذه، وفُتحت هذه لم يكن لحناً، غير أن الفصيح من الكلام هو الذي وصفنا صفته.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">5 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a id=\"NextClass\"/></td></tr></table></center></div></section>"
 

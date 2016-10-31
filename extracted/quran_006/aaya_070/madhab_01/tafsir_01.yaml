@@ -1,4 +1,4 @@
-location:
+position:
   sura: '006'
   aaya: '070'
   madhab: '01'
@@ -7,102 +7,250 @@ meta:
   title: تفسير جامع البيان في تفسير القرآن
   author: الطبري
   year: '310'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَذَرِ الَّذِينَ
-  ٱتَّخَذُواْ دِينَهُمْ لَعِباً وَلَهْواً وَغَرَّتْهُمُ ٱلْحَيَٰوةُ ٱلدُّنْيَا وَذَكِّرْ
-  بِهِ أَن تُبْسَلَ نَفْسٌ بِمَا كَسَبَتْ لَيْسَ لَهَا مِن دُونِ ٱللَّهِ وَلِيٌّ وَلاَ
-  شَفِيعٌ وَإِن تَعْدِلْ كُلَّ عَدْلٍ لاَّ يُؤْخَذْ مِنْهَآ أُوْلَـٰئِكَ ٱلَّذِينَ
-  أُبْسِلُواْ بِمَا كَسَبُواْ لَهُمْ شَرَابٌ مِّنْ حَمِيمٍ وَعَذَابٌ أَلِيمٌ بِمَا
-  كَانُواْ يَكْفُرُونَ }يقول تعالى ذكره لنبيه محمد صلى الله عليه وسلم: ذر هؤلاء الذين
-  اتخذوا دين الله وطاعتهم إياه لعباً ولهواً، فجعلوا حظوظهم من طاعتهم إياه اللعب بآياته
-  واللهو والاستهزاء بها إذا سمعوها وتليت عليهم، فأعرض عنهم، فإني لهم بالمرصاد، وإني
-  لهم من وراء الإنتقام منهم والعقوبة لهم على ما يفعلون وعلى اغترارهم بزينة الحياة
-  الدنيا ونسيانهم المعاد إلى الله تعالى والمصير إليه بعد الممات. كالذي:حدثني محمد
-  بن عروة، قال: ثنا أبو عاصم، قال: ثنا عيسى، عن ابن أبي نجيح، عن مجاهد، في قوله الله:
-  { وَذَرِ الَّذِينَ اتَّخَذُوا دِينَهُمْ لَعِبا ولَهْواً } قال: كقوله:{ ذَرْنِي وَمَنْ
-  خَلَقْتُ وَحِيداً }حدثني المثنى، قال: ثنا أبو حذيفة، قال: ثنا شبل، عن ابن أبي نجيح،
-  عن مجاهد، مثله.وقد نسخ الله تعالى هذه الآية بقوله:{ فاقْتُلُوا المُشْرِكِينَ حَيْثُ
-  وَجَدْتُمُوهُمْ }وكذلك قال عدد من أهل التأويل. ذكر من قال ذلك:حدثني المثنى، قال:
-  ثنا حجاج بن المنهال، قال: ثنا همام بن يحيى، عن قتادة: { وَذَرِ الَّذِينَ اتَّخَذُوا
-  دِينَهُمْ لَعِباً ولَهْواً } ثم أنزل في سورة براءة، فأمر بقتالهم.حدثنا ابن وكيع،
-  قال: ثنا عبدة بن سليمان، قال: قرأت علي ابن أبي عروبة، فقال: هكذا سمعته من قتادة:
-  { وَذَرِ الَّذِينَ اتَّخَذُوا دِينَهُمْ لَعِباً ولَهْواً } ثم أنزل الله تعالى ذكره
-  براءة، وأمر بقتالهم، فقال:{ فاقْتُلُوا المُشْرِكِينَ حَيْثُ وَجَدْتُمُوهُمْ }وأما
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(6, 70)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(6,70)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَذَرِ
+  الَّذِينَ ٱتَّخَذُواْ دِينَهُمْ لَعِباً وَلَهْواً وَغَرَّتْهُمُ ٱلْحَيَٰوةُ ٱلدُّنْيَا
+  وَذَكِّرْ بِهِ أَن تُبْسَلَ نَفْسٌ بِمَا كَسَبَتْ لَيْسَ لَهَا مِن دُونِ ٱللَّهِ
+  وَلِيٌّ وَلاَ شَفِيعٌ وَإِن تَعْدِلْ كُلَّ عَدْلٍ لاَّ يُؤْخَذْ مِنْهَآ أُوْلَـٰئِكَ
+  ٱلَّذِينَ أُبْسِلُواْ بِمَا كَسَبُواْ لَهُمْ شَرَابٌ مِّنْ حَمِيمٍ وَعَذَابٌ أَلِيمٌ
+  بِمَا كَانُواْ يَكْفُرُونَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\"
+  dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">يقول تعالى ذكره
+  لنبيه محمد صلى الله عليه وسلم: ذر هؤلاء الذين اتخذوا دين الله وطاعتهم إياه لعباً
+  ولهواً، فجعلوا حظوظهم من طاعتهم إياه اللعب بآياته واللهو والاستهزاء بها إذا سمعوها
+  وتليت عليهم، فأعرض عنهم، فإني لهم بالمرصاد، وإني لهم من وراء الإنتقام منهم والعقوبة
+  لهم على ما يفعلون وعلى اغترارهم بزينة الحياة الدنيا ونسيانهم المعاد إلى الله تعالى
+  والمصير إليه بعد الممات. كالذي:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  محمد بن عروة، قال: ثنا أبو عاصم، قال: ثنا عيسى، عن ابن أبي نجيح، عن مجاهد، في قوله
+  الله: { وَذَرِ الَّذِينَ اتَّخَذُوا دِينَهُمْ لَعِبا ولَهْواً } قال: كقوله:</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">ذَرْنِي
+  وَمَنْ خَلَقْتُ وَحِيداً</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني المثنى، قال: ثنا أبو حذيفة، قال: ثنا شبل، عن ابن أبي نجيح،
+  عن مجاهد، مثله.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقد نسخ الله تعالى هذه الآية بقوله:</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">فاقْتُلُوا
+  المُشْرِكِينَ حَيْثُ وَجَدْتُمُوهُمْ</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">وكذلك قال عدد من أهل التأويل. ذكر
+  من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثني المثنى، قال: ثنا حجاج بن
+  المنهال، قال: ثنا همام بن يحيى، عن قتادة: { وَذَرِ الَّذِينَ اتَّخَذُوا دِينَهُمْ
+  لَعِباً ولَهْواً } ثم أنزل في سورة براءة، فأمر بقتالهم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن وكيع، قال: ثنا عبدة بن سليمان، قال: قرأت علي ابن أبي عروبة، فقال: هكذا سمعته
+  من قتادة: { وَذَرِ الَّذِينَ اتَّخَذُوا دِينَهُمْ لَعِباً ولَهْواً } ثم أنزل الله
+  تعالى ذكره براءة، وأمر بقتالهم، فقال:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">فاقْتُلُوا المُشْرِكِينَ حَيْثُ وَجَدْتُمُوهُمْ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">وأما
   قوله: { وَذَكِّر بِهِ أنْ تُبْسَلَ نَفْسٌ بِمَا كَسَبَتْ } فإنه يعني به: وذكر يا
   محمد بهذا القرآن هؤلاء المولين عنك وعنه { أن تُبْسَل نَفْسٌ } بمعنى: أن لا تبسل،
-  كما قال:{ يُبَيِّنُ اللَّهُ لَكُمْ أنْ تَضِلُّوا }بمعنى: أن لا تضلوا. وإنما معنى
-  الكلام: وذكر به ليؤمنوا ويتبعوا ما جاءهم من عند الله من الحقّ، فلا تُبْسَل أنفسهم
-  بما كسبت من الأوزار ولكن حذفت «لا» لدلالة الكلام عليها.واختلف أهل التأويل في تأويل
-  قوله: { أنْ تُبْسَلَ نَفْسٌ } فقال بعضهم: معنى ذلك: أن تُسْلَم. ذكر من قال ذلك:حدثنا
+  كما قال:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">يُبَيِّنُ اللَّهُ لَكُمْ أنْ تَضِلُّوا</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">بمعنى:
+  أن لا تضلوا. وإنما معنى الكلام: وذكر به ليؤمنوا ويتبعوا ما جاءهم من عند الله من
+  الحقّ، فلا تُبْسَل أنفسهم بما كسبت من الأوزار ولكن حذفت «لا» لدلالة الكلام عليها.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">واختلف أهل التأويل في تأويل قوله: { أنْ تُبْسَلَ نَفْسٌ } فقال بعضهم:
+  معنى ذلك: أن تُسْلَم. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
   حدثنا ابن حميد، قال: ثنا يحيى بن واضح، قال: ثنا الحسين بن واقد، عن يزيد النحويّ،
-  عن عكرمة، قوله: { أنْ تُبْسَلَ نَفْسٌ بِمَا كَسَبَتْ } قال: تسلم.حدثنا محمد بن عبد
-  الأعلى، قال: ثنا محمد بن ثور، عن معمر، عن الحسن: { أنْ لا تُبْسَلَ نَفْسٌ } قال:
-  أن تُسْلَم.حدثنا الحسن بن يحيى، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر، عن الحسن،
-  مثله.حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، عن ابن أبي نجيح، عن مجاهد
-  في قول الله تعالى ذكره: { أنْ تُبْسَلَ } قال: تسلم.حدثني المثنى، قال: ثنا أبو حذيفة،
-  قال: ثنا شبل، عن ابن أبي نجيح، عن مجاهد: { أنْ تُبْسَلَ نَفْسٌ } قال: تسلم.\r\n\t\t\t\r\n\t\t\t1 2 3 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَذَرِ الَّذِينَ ٱتَّخَذُواْ دِينَهُمْ
-  لَعِباً وَلَهْواً وَغَرَّتْهُمُ ٱلْحَيَٰوةُ ٱلدُّنْيَا وَذَكِّرْ بِهِ أَن تُبْسَلَ
-  نَفْسٌ بِمَا كَسَبَتْ لَيْسَ لَهَا مِن دُونِ ٱللَّهِ وَلِيٌّ وَلاَ شَفِيعٌ وَإِن
-  تَعْدِلْ كُلَّ عَدْلٍ لاَّ يُؤْخَذْ مِنْهَآ أُوْلَـٰئِكَ ٱلَّذِينَ أُبْسِلُواْ بِمَا
-  كَسَبُواْ لَهُمْ شَرَابٌ مِّنْ حَمِيمٍ وَعَذَابٌ أَلِيمٌ بِمَا كَانُواْ يَكْفُرُونَ
-  }حدثنا ابن حميد، قال: ثنا حكام، عن عنبسة، عن ليث، عن مجاهد: { أولَئِكَ الَّذِينَ
-  أُبْسِلُوا } أسلموا.وقال آخرون: بل معنى ذلك: تحبس. ذكر من قال ذلك:حدثنا محمد بن
-  عبد الأعلى، قال: ثنا محمد بن ثور، عن معمر، عن قتادة: { أنْ تُبْسَلَ نَفْسٌ } قال:
-  تؤخذ فتحبس.حدثنا الحسن بن يحيى، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر، عن قتادة،
-  مثله.حدثني يونس، قال: أخبرنا ابن وهب، قال: ابن زيد، في قوله: { أنْ تُبْسَلَ نَفْسٌ
-  بِمَا كَسَبَتْ }: أن تؤخذ نفس بما كسبت.وقال آخرون: معناه: تفضح. ذكر من قال ذلك:حدثني
-  المثنى، قال: ثنا عبد الله بن صالح، عن عليّ بن أبي طلحة، عن ابن عباس: { وَذَكِّرْ
-  بِهِ أنْ تُبْسَلَ نَفْس بِمَا كَسَبَتْ } يقول: تفضح.وقال آخرون: معناه: أن تجزى.
-  ذكر من قال ذلك:حدثنا ابن حميد، قال: ثنا يحيى بن واضح، قال: ثنا الحسين بن واقد، قال:
-  قال الكلبي: { أنْ تُبْسَلَ }: أن تجزى.وأصل الإبسال: التحريم، يقال منه: أبسلت المكان:
-  إذا حرمته فلم تقر به ومنه قوله الشاعر:بَكَرَتْ تَلُومُكَ بَعْدَ وَهْنٍ فِي النَّدَى   بَسْلٌ
-  عَلَيْكَ مَلاَمَتِي وَعِتابيأي حرام ومنه قولهم: وعتابي أسد آسد، ويراد به: لا يقربه
-  شيء، فكأنه قد حرم نفسه. ثم يجعل ذلك صفة لكل شديد يُتحامى لشدّته، ويقال: أعط الراقي
-  بسيلَتَهُ، يراد بذلك: أجرته، شراب بسيل: بمعنى متروك، وكذلك المبسل بالجريرة، وهو
-  المرتهن بها، قيل له مبسل لأنه محرّم من كلّ شيء إلا مما رهن فيه وأسلم به ومنه قول
-  عوف بن الأحوص الكلابي:وإبْسالي بَنِيَّ بغَيْرِ جُرْمٍ   بَعَوْناهُ وَلا بدَمٍ مُرَاقِوقال
-  الشَّنْفَرَي:هُنالِكَ لا أرْجُو حيَاةً تَسُرُّنِي   سَمِيرَ اللَّيالي مُبْسَلاً
-  بالجَرائِرِفتأويل الكلام إذن: وذكِّر بالقرآن هؤلاء الذين يخوضون في آياتنا وغيرَهم
+  عن عكرمة، قوله: { أنْ تُبْسَلَ نَفْسٌ بِمَا كَسَبَتْ } قال: تسلم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا محمد بن عبد الأعلى، قال: ثنا محمد بن ثور، عن معمر، عن الحسن:
+  { أنْ لا تُبْسَلَ نَفْسٌ } قال: أن تُسْلَم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  الحسن بن يحيى، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر، عن الحسن، مثله.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، عن ابن أبي
+  نجيح، عن مجاهد في قول الله تعالى ذكره: { أنْ تُبْسَلَ } قال: تسلم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني المثنى، قال: ثنا أبو حذيفة، قال: ثنا شبل، عن ابن أبي نجيح،
+  عن مجاهد: { أنْ تُبْسَلَ نَفْسٌ } قال: تسلم.</font></font>&#13;\t\t\t<label disabled=\"true\"
+  class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(6, 70)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(6,70)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَذَرِ الَّذِينَ ٱتَّخَذُواْ دِينَهُمْ لَعِباً وَلَهْواً
+  وَغَرَّتْهُمُ ٱلْحَيَٰوةُ ٱلدُّنْيَا وَذَكِّرْ بِهِ أَن تُبْسَلَ نَفْسٌ بِمَا كَسَبَتْ
+  لَيْسَ لَهَا مِن دُونِ ٱللَّهِ وَلِيٌّ وَلاَ شَفِيعٌ وَإِن تَعْدِلْ كُلَّ عَدْلٍ
+  لاَّ يُؤْخَذْ مِنْهَآ أُوْلَـٰئِكَ ٱلَّذِينَ أُبْسِلُواْ بِمَا كَسَبُواْ لَهُمْ
+  شَرَابٌ مِّنْ حَمِيمٍ وَعَذَابٌ أَلِيمٌ بِمَا كَانُواْ يَكْفُرُونَ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن حميد، قال: ثنا حكام، عن عنبسة، عن ليث، عن مجاهد: { أولَئِكَ
+  الَّذِينَ أُبْسِلُوا } أسلموا.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  آخرون: بل معنى ذلك: تحبس. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  محمد بن عبد الأعلى، قال: ثنا محمد بن ثور، عن معمر، عن قتادة: { أنْ تُبْسَلَ نَفْسٌ
+  } قال: تؤخذ فتحبس.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا الحسن بن يحيى، قال: أخبرنا
+  عبد الرزاق، قال: أخبرنا معمر، عن قتادة، مثله.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  يونس، قال: أخبرنا ابن وهب، قال: ابن زيد، في قوله: { أنْ تُبْسَلَ نَفْسٌ بِمَا كَسَبَتْ
+  }: أن تؤخذ نفس بما كسبت.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال آخرون: معناه: تفضح. ذكر من
+  قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثني المثنى، قال: ثنا عبد الله
+  بن صالح، عن عليّ بن أبي طلحة، عن ابن عباس: { وَذَكِّرْ بِهِ أنْ تُبْسَلَ نَفْس بِمَا
+  كَسَبَتْ } يقول: تفضح.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال آخرون: معناه: أن تجزى. ذكر
+  من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن حميد، قال: ثنا يحيى بن
+  واضح، قال: ثنا الحسين بن واقد، قال: قال الكلبي: { أنْ تُبْسَلَ }: أن تجزى.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وأصل الإبسال: التحريم، يقال منه: أبسلت المكان: إذا حرمته فلم تقر
+  به ومنه قوله الشاعر:</font></font><table class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">بَكَرَتْ
+  تَلُومُكَ بَعْدَ وَهْنٍ فِي النَّدَى</font></font></b></td><td class=\"TextArabic\">   </td><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">بَسْلٌ عَلَيْكَ
+  مَلاَمَتِي وَعِتابي</font></font></b></td></tr></table><font class=\"TextResultArabic\"><font
+  color=\"black\">أي حرام ومنه قولهم: وعتابي أسد آسد، ويراد به: لا يقربه شيء، فكأنه
+  قد حرم نفسه. ثم يجعل ذلك صفة لكل شديد يُتحامى لشدّته، ويقال: أعط الراقي بسيلَتَهُ،
+  يراد بذلك: أجرته، شراب بسيل: بمعنى متروك، وكذلك المبسل بالجريرة، وهو المرتهن بها،
+  قيل له مبسل لأنه محرّم من كلّ شيء إلا مما رهن فيه وأسلم به ومنه قول عوف بن الأحوص
+  الكلابي:</font></font><table class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">وإبْسالي
+  بَنِيَّ بغَيْرِ جُرْمٍ</font></font></b></td><td class=\"TextArabic\">   </td><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">بَعَوْناهُ
+  وَلا بدَمٍ مُرَاقِ</font></font></b></td></tr></table><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال الشَّنْفَرَي:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><table class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">هُنالِكَ
+  لا أرْجُو حيَاةً تَسُرُّنِي</font></font></b></td><td class=\"TextArabic\">   </td><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">سَمِيرَ
+  اللَّيالي مُبْسَلاً بالجَرائِرِ</font></font></b></td></tr></table><font class=\"TextResultArabic\"><font
+  color=\"black\">فتأويل الكلام إذن: وذكِّر بالقرآن هؤلاء الذين يخوضون في آياتنا وغيرَهم
   ممن سلك سبيلهم من المشركين، كيلا تبسل نفس بذنوبها وكفرها بربها، وترتهن فتغلق بما
   كسبت من إجرامها في عذاب الله. { لَيْسَ لهَا مِنْ دُونِ اللَّهِ } يقول: ليس لها حين
   تسلم بذنوبها فترتهن بما كسبت من آثامها أحد ينصرها فينقذها من الله الذي جازاها بذنوبها
-  جزاءها، ولا شفيع يشفع لها، لوسيلة له عنده.القول في تأويل قوله تعالى: { وَإنْ تَعْدِلْ
-  كُلَّ عَدْلٍ لا يُؤْخَذْ مِنْها }.يقول تعالى ذكره: { وَإنْ تَعْدِلْ } النفس التي
-  أبسلت بما كسبت، يعني وإن تعدل { كُلَّ عَدْلٍ } يعني: كلّ فداء، يقال منه: عَدَلَ
-  يعدِلُ: إذا فدى، عَدْلاً. ومنه قول الله تعالى ذكره: أوْ عَدْلُ ذلكَ صِياماً وهو
-  ما عادله من غير نوعه.وبنحو الذي قلنا في ذلك قال أهل التأويل. ذكر من قال ذلك:حدثنا
-  محمد بن عبد الأعلى، قال: ثنا محمد بن ثور، عن معمر، عن قتادة: { وَإنْ تَعْدِلْ كُلَّ
-  عَدْلٍ لا يُؤْخَذْ مِنْها } قال: لو جاءت بملء الأرض ذهباً لم يُقبل منها.\r\n\t\t\t\r\n\t\t\t1 2 3 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَذَرِ الَّذِينَ ٱتَّخَذُواْ دِينَهُمْ
-  لَعِباً وَلَهْواً وَغَرَّتْهُمُ ٱلْحَيَٰوةُ ٱلدُّنْيَا وَذَكِّرْ بِهِ أَن تُبْسَلَ
-  نَفْسٌ بِمَا كَسَبَتْ لَيْسَ لَهَا مِن دُونِ ٱللَّهِ وَلِيٌّ وَلاَ شَفِيعٌ وَإِن
-  تَعْدِلْ كُلَّ عَدْلٍ لاَّ يُؤْخَذْ مِنْهَآ أُوْلَـٰئِكَ ٱلَّذِينَ أُبْسِلُواْ بِمَا
-  كَسَبُواْ لَهُمْ شَرَابٌ مِّنْ حَمِيمٍ وَعَذَابٌ أَلِيمٌ بِمَا كَانُواْ يَكْفُرُونَ
-  }حدثنا محمد بن الحسين، قال: ثنا أحمد بن المفضل، قال: ثنا أسباط، عن السديّ في قوله:
-  { وَإنْ تَعْدِلْ كُلَّ عَدْلٍ لا يُؤْخَذْ مِنْها } فما يَعْدِلها، لو جاءت بملء الأرض
-  ذهباً لتفتدى به ما قُبِل منها.حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد
-  في قوله: { وَإنْ تَعْدِلْ كُلَّ عَدْلٍ لا يُؤْخَذْ مِنْها } قال: وأن تعدل: وإن تفتد
-  يكون له الدنيا وما فيها يفتدي بها لا يؤخذْ منه عَدَلاً عن نفسه، لا يقبل منه.وقد
+  جزاءها، ولا شفيع يشفع لها، لوسيلة له عنده.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">القول
+  في تأويل قوله تعالى: { وَإنْ تَعْدِلْ كُلَّ عَدْلٍ لا يُؤْخَذْ مِنْها }.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">يقول تعالى ذكره: { وَإنْ تَعْدِلْ } النفس التي أبسلت بما كسبت، يعني
+  وإن تعدل { كُلَّ عَدْلٍ } يعني: كلّ فداء، يقال منه: عَدَلَ يعدِلُ: إذا فدى، عَدْلاً.
+  ومنه قول الله تعالى ذكره: أوْ عَدْلُ ذلكَ صِياماً وهو ما عادله من غير نوعه.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وبنحو الذي قلنا في ذلك قال أهل التأويل. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا محمد بن عبد الأعلى، قال: ثنا محمد بن ثور، عن معمر، عن قتادة:
+  { وَإنْ تَعْدِلْ كُلَّ عَدْلٍ لا يُؤْخَذْ مِنْها } قال: لو جاءت بملء الأرض ذهباً
+  لم يُقبل منها.</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(6, 70)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(6,70)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَذَرِ الَّذِينَ ٱتَّخَذُواْ دِينَهُمْ لَعِباً وَلَهْواً
+  وَغَرَّتْهُمُ ٱلْحَيَٰوةُ ٱلدُّنْيَا وَذَكِّرْ بِهِ أَن تُبْسَلَ نَفْسٌ بِمَا كَسَبَتْ
+  لَيْسَ لَهَا مِن دُونِ ٱللَّهِ وَلِيٌّ وَلاَ شَفِيعٌ وَإِن تَعْدِلْ كُلَّ عَدْلٍ
+  لاَّ يُؤْخَذْ مِنْهَآ أُوْلَـٰئِكَ ٱلَّذِينَ أُبْسِلُواْ بِمَا كَسَبُواْ لَهُمْ
+  شَرَابٌ مِّنْ حَمِيمٍ وَعَذَابٌ أَلِيمٌ بِمَا كَانُواْ يَكْفُرُونَ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا محمد بن الحسين، قال: ثنا أحمد بن المفضل، قال: ثنا أسباط، عن
+  السديّ في قوله: { وَإنْ تَعْدِلْ كُلَّ عَدْلٍ لا يُؤْخَذْ مِنْها } فما يَعْدِلها،
+  لو جاءت بملء الأرض ذهباً لتفتدى به ما قُبِل منها.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد في قوله: { وَإنْ تَعْدِلْ كُلَّ عَدْلٍ
+  لا يُؤْخَذْ مِنْها } قال: وأن تعدل: وإن تفتد يكون له الدنيا وما فيها يفتدي بها لا
+  يؤخذْ منه عَدَلاً عن نفسه، لا يقبل منه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقد
   تأوّل ذلك بعض أهل العلم بالعربية بمعنى: وإن تَقْسِط كلّ قِسْط لا يُقبل منها وقال
   إنها التوبة في الحياة. وليس لما قال من ذلك معنى، وذلك أن كلّ تائب في الدنيا فإن
-  الله تعالى يقبل توبته.القول في تأويل قوله تعالى: { أُولَئِكَ الَّذِينَ أُبْسَلُوا
-  بِمَا كَسَبُوا لَهُمْ شَرَابٌ مِنْ حَمِيمٍ وَعَذَابٌ ألِيمٌ بِمَا كَانُوا يَكْفُرُونَ
-  }.يقول تعالى ذكره: وهؤلاء الذين إن فدوا أنفسهم من عذاب الله يوم القيامة كلّ فداء
-  لم يؤخذ منهم، هم { الَّذِينَ أُبْسِلُوا بِمَا كَسَبُوا } يقول: أسلموا لعذاب الله،
-  فرُهنوا به جزاء بما كسبوا في الدنيا من الآثام والأوزار. { لَهُمْ شَرَابٌ مِنْ حَمِيمٍ
-  } والحميم: هو الحارّ في كلام العرب، وإنما هو محموم صُرف إلى فعيل، ومنه قيل للحمَّام:
-  حمام، لإسخانه الجسم ومنه قول مرقش:في كُلّ مُمْسًى لَهَا مِقْطِرَةٌ   فِيها كِباءٌ
-  مُعَدٌّ وحَمِيمْيعني بذلك ماءً حارّاً ومنه قول أبي ذويب الهُذلي في صفة فرس:تَأْبَى
-  بِدِرْتِها إذَا ما اسْتُغْضِبَتْ   إلاَّ الحَمِيمَ فإنَّهُ يَتَبَضَّعُيعني بالحميم:
-  عرق الفرس. وإنما جعل تعالى ذكره لهؤلاء الذين وصف صفتهم في هذه الآية شراباً من حميم،
-  لأن الحارّ من الماء لا يُروِي من عطش، فأخبر أنهم إذا عطشوا في جهنم لم يغاثوا بماء
-  يرويهم، ولكن بما يزيدون به عطشاً على ما بهم من العطش، { وعَذَابٌ ألِيمٌ } يقول:
-  ولهم أيضاً مع الشراب الحميم من الله العذاب الأليم والهوان المقيم. { بِمَا كانُوا
-  يَكْفُرُونَ } يقول: بما كان من كفرهم في الدنيا بالله وإنكارهم توحيده وعبادتهم معه
-  آلهة دونه.حدثني محمد بن الحسين، قال: ثنا أحمد بن المفضل، قال: ثنا أسباط، عن السديّ:
-  { أُولَئِكَ الَّذِينَ أُبْسِلُوا بِمَا كَسَبُوا } قال: يقال: أسلِموا.حدثني المثنى،
-  قال: ثنا عبد الله بن صالح، قال: ثني معاوية بن صالح، عن عليّ بن أبي طلحة، عن ابن
-  عباس: { أُولَئِكَ الَّذِينَ أُبْسِلُوا } قال: فضحوا.حدثني يونس، قال: أخبرنا ابن
-  وهب، قال: قال ابن زيد في قوله: { أُولَئِكَ الَّذِينَ أُبْسِلُوا بِمَا كَسَبُوا }
-  قال: أخذوا بما كسبوا.\r\n\t\t\t\r\n\t\t\t1 2 3 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  الله تعالى يقبل توبته.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">القول في تأويل قوله تعالى: { أُولَئِكَ
+  الَّذِينَ أُبْسَلُوا بِمَا كَسَبُوا لَهُمْ شَرَابٌ مِنْ حَمِيمٍ وَعَذَابٌ ألِيمٌ
+  بِمَا كَانُوا يَكْفُرُونَ }.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">يقول
+  تعالى ذكره: وهؤلاء الذين إن فدوا أنفسهم من عذاب الله يوم القيامة كلّ فداء لم يؤخذ
+  منهم، هم { الَّذِينَ أُبْسِلُوا بِمَا كَسَبُوا } يقول: أسلموا لعذاب الله، فرُهنوا
+  به جزاء بما كسبوا في الدنيا من الآثام والأوزار. { لَهُمْ شَرَابٌ مِنْ حَمِيمٍ }
+  والحميم: هو الحارّ في كلام العرب، وإنما هو محموم صُرف إلى فعيل، ومنه قيل للحمَّام:
+  حمام، لإسخانه الجسم ومنه قول مرقش:</font></font><table class=\"TextArabic\" dir=\"rtl\"><tr
+  class=\"TextArabic\"><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">في كُلّ مُمْسًى لَهَا مِقْطِرَةٌ</font></font></b></td><td class=\"TextArabic\">   </td><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">فِيها كِباءٌ
+  مُعَدٌّ وحَمِيمْ</font></font></b></td></tr></table><font class=\"TextResultArabic\"><font
+  color=\"black\">يعني بذلك ماءً حارّاً ومنه قول أبي ذويب الهُذلي في صفة فرس:</font></font><table
+  class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">تَأْبَى بِدِرْتِها إذَا ما اسْتُغْضِبَتْ</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">إلاَّ الحَمِيمَ فإنَّهُ يَتَبَضَّعُ</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">يعني بالحميم: عرق الفرس. وإنما
+  جعل تعالى ذكره لهؤلاء الذين وصف صفتهم في هذه الآية شراباً من حميم، لأن الحارّ من
+  الماء لا يُروِي من عطش، فأخبر أنهم إذا عطشوا في جهنم لم يغاثوا بماء يرويهم، ولكن
+  بما يزيدون به عطشاً على ما بهم من العطش، { وعَذَابٌ ألِيمٌ } يقول: ولهم أيضاً مع
+  الشراب الحميم من الله العذاب الأليم والهوان المقيم. { بِمَا كانُوا يَكْفُرُونَ }
+  يقول: بما كان من كفرهم في الدنيا بالله وإنكارهم توحيده وعبادتهم معه آلهة دونه.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني محمد بن الحسين، قال: ثنا أحمد بن المفضل، قال: ثنا أسباط، عن
+  السديّ: { أُولَئِكَ الَّذِينَ أُبْسِلُوا بِمَا كَسَبُوا } قال: يقال: أسلِموا.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني المثنى، قال: ثنا عبد الله بن صالح، قال: ثني معاوية بن صالح،
+  عن عليّ بن أبي طلحة، عن ابن عباس: { أُولَئِكَ الَّذِينَ أُبْسِلُوا } قال: فضحوا.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد في قوله: { أُولَئِكَ
+  الَّذِينَ أُبْسِلُوا بِمَا كَسَبُوا } قال: أخذوا بما كسبوا.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">3 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a id=\"NextClass\"/></td></tr></table></center></div></section>"
 

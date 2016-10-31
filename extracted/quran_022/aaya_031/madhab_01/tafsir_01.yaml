@@ -1,4 +1,4 @@
-location:
+position:
   sura: '022'
   aaya: '031'
   madhab: '01'
@@ -7,27 +7,56 @@ meta:
   title: تفسير جامع البيان في تفسير القرآن
   author: الطبري
   year: '310'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ حُنَفَآءَ للَّهِ
-  غَيْرَ مُشْرِكِينَ بِهِ وَمَن يُشْرِكْ بِٱللَّهِ فَكَأَنَّمَا خَرَّ مِنَ ٱلسَّمَآءِ
-  فَتَخْطَفُهُ ٱلطَّيْرُ أَوْ تَهْوِي بِهِ ٱلرِّيحُ فِي مَكَانٍ سَحِيقٍ }يقول تعالى
-  ذكره: اجتنبوا أيها الناس عبادة الأوثان، وقول الشرك، مستقيمين لله علـى إخلاص التوحيد
-  له، وإفراد الطاعة والعبـادة له خالصاً دون الأوثان والأصنام، غير مشركين به شيئاً
-  من دونه فإنه من يُشرك بـالله شيئاً من دونه فمثله فـي بعده من الهدى وإصابة الـحقّ
-  وهلاكه وذهابه عن ربه، مَثل من خرّ من السماء فتـخطفه الطير فهلك، أو هوت به الريح
-  فـي مكان سحيق، يعنـي من بعيد، من قولهم: أبعده الله وأسحقه، وفـيه لغتان: أسحقته الريح
-  وسحقته، ومنه قـيـل للنـخـلة الطويـلة: نـخـلة سحوق ومنه قول الشاعر:كانَتْ لَنا جارَةٌ
-  فَأزْعَجَها   قاذُورَةٌ تَسْحَقُ النَّوَى قُدُمَاويُروى: «تُسْحِقُ». يقول: فهكذا
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(22, 31)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(22,31)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">حُنَفَآءَ
+  للَّهِ غَيْرَ مُشْرِكِينَ بِهِ وَمَن يُشْرِكْ بِٱللَّهِ فَكَأَنَّمَا خَرَّ مِنَ
+  ٱلسَّمَآءِ فَتَخْطَفُهُ ٱلطَّيْرُ أَوْ تَهْوِي بِهِ ٱلرِّيحُ فِي مَكَانٍ سَحِيقٍ</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">يقول تعالى ذكره: اجتنبوا أيها الناس عبادة الأوثان، وقول الشرك، مستقيمين
+  لله علـى إخلاص التوحيد له، وإفراد الطاعة والعبـادة له خالصاً دون الأوثان والأصنام،
+  غير مشركين به شيئاً من دونه فإنه من يُشرك بـالله شيئاً من دونه فمثله فـي بعده من
+  الهدى وإصابة الـحقّ وهلاكه وذهابه عن ربه، مَثل من خرّ من السماء فتـخطفه الطير فهلك،
+  أو هوت به الريح فـي مكان سحيق، يعنـي من بعيد، من قولهم: أبعده الله وأسحقه، وفـيه
+  لغتان: أسحقته الريح وسحقته، ومنه قـيـل للنـخـلة الطويـلة: نـخـلة سحوق ومنه قول الشاعر:</font></font><table
+  class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">كانَتْ لَنا جارَةٌ فَأزْعَجَها</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">قاذُورَةٌ تَسْحَقُ النَّوَى قُدُمَا</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">ويُروى: «تُسْحِقُ». يقول: فهكذا
   مَثل الـمشرك بـالله فـي بُعده من ربه ومن إصابة الـحقّ، كبُعد هذا الواقع من السماء
-  إلـى الأرض، أو كهلاك من اختطفته الطير منهم فـي الهواء.وبنـحو الذي قلنا فـي ذلك قال
-  أهل التأويـل. ذكر من قال ذلك:حدثنا مـحمد بن عبد الأعلـى، قال: ثنا مـحمد بن ثور،
-  عن معمر، عن قَتادة: { فَكأنَّـمَا خَرَّ منَ السَّماءِ } قال: هذا مَثل ضربه الله
-  لـمن أشرك بـالله فـي بُعده من الهُدى وهلاكه { فَتَـخْطَفُهُ الطَّيْرُ أوْ تَهْوِى
-  بِهِ الرّيحُ فِـي مَكانٍ سَحِيقٍ }.حدثنا الـحسن، قال: أخبرنا عبد الرزاق، قال: أخبرنا
-  معمر، عن قَتادة، مثله.حدثنـي مـحمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى وحدثنـي
-  الـحارث، قال: ثنا الـحسن، قال: ثنا ورقاء جميعاً، عن ابن أبـي نـجيح، عن مـجاهد، فـي
-  قول الله: { فِـي مَكانٍ سَحِيقٍ } قال: بعيد.حدثنا القاسم، قال: ثنا الـحسين، قال:
-  ثنـي حجاج، عن ابن جُرَيج، عن مـجاهد، مثله.وقـيـل: { فَتَـخْطَفُهُ الطَّيْرُ } وقد
-  قـيـل قبله: { فكأنَّـمَا خَرَّ منَ السَّماءِ } وخرّ فعل ماض، وتـخطفه مستقبل، فعطف
-  بـالـمستقبل علـى الـماضي، كما فعل ذلك فـي قوله: { إنَّ الَّذِينَ كَفَرُوا ويَصُدُّونَ
-  عَنْ سَبِـيـلِ اللَّهِ } وقد بـيَّنت ذلك هناك.\r\n\t\t\t\r\n\t\t\t</section>"
+  إلـى الأرض، أو كهلاك من اختطفته الطير منهم فـي الهواء.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وبنـحو
+  الذي قلنا فـي ذلك قال أهل التأويـل. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  مـحمد بن عبد الأعلـى، قال: ثنا مـحمد بن ثور، عن معمر، عن قَتادة: { فَكأنَّـمَا خَرَّ
+  منَ السَّماءِ } قال: هذا مَثل ضربه الله لـمن أشرك بـالله فـي بُعده من الهُدى وهلاكه
+  { فَتَـخْطَفُهُ الطَّيْرُ أوْ تَهْوِى بِهِ الرّيحُ فِـي مَكانٍ سَحِيقٍ }.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا الـحسن، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر، عن قَتادة،
+  مثله.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي مـحمد بن عمرو، قال: ثنا
+  أبو عاصم، قال: ثنا عيسى وحدثنـي الـحارث، قال: ثنا الـحسن، قال: ثنا ورقاء جميعاً،
+  عن ابن أبـي نـجيح، عن مـجاهد، فـي قول الله: { فِـي مَكانٍ سَحِيقٍ } قال: بعيد.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا القاسم، قال: ثنا الـحسين، قال: ثنـي حجاج، عن ابن جُرَيج، عن
+  مـجاهد، مثله.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقـيـل: { فَتَـخْطَفُهُ الطَّيْرُ
+  } وقد قـيـل قبله: { فكأنَّـمَا خَرَّ منَ السَّماءِ } وخرّ فعل ماض، وتـخطفه مستقبل،
+  فعطف بـالـمستقبل علـى الـماضي، كما فعل ذلك فـي قوله: { إنَّ الَّذِينَ كَفَرُوا ويَصُدُّونَ
+  عَنْ سَبِـيـلِ اللَّهِ } وقد بـيَّنت ذلك هناك.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

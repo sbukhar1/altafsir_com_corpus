@@ -1,4 +1,4 @@
-location:
+position:
   sura: '005'
   aaya: 099
   madhab: '01'
@@ -7,16 +7,33 @@ meta:
   title: تفسير جامع البيان في تفسير القرآن
   author: الطبري
   year: '310'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ مَّا عَلَى ٱلرَّسُولِ
-  إِلاَّ ٱلْبَلاَغُ وَٱللَّهُ يَعْلَمُ مَا تُبْدُونَ وَمَا تَكْتُمُونَ }وهذا من الله
-  تعالـى ذكره تهديد لعبـاده ووعيد، يقول تعالـى ذكره: لـيس علـى رسولنا الذي أرسلناه
-  إلـيكم أيها الناس بإنذاركم عقابنا بـين يدي عذاب شديد وإعذارنا إلـيكم بـما فـيه قطع
-  حججكم، إلاَّ أن يؤدي إلـيكم رسالتنا، ثم إلـينا الثواب علـى الطاعة، وعلـينا العقاب
-  علـى الـمعصية. { وَاللّهُ يَعْلَـمُ ما تُبْدُونَ وَما تَكْتُـمُونَ } يقول: وغير
-  خفـيّ علـينا الـمطيع منكم القابل رسالتنا العامل بـما أمرته بـالعمل به من العاصي
-  التارك العمل بـما أمرته بـالعمل به لأنا نعلـم ما عمله العامل منكم فأظهره بجوارحه
-  ونطق به لسانه. { وَما تَكْتُـمُونَ } يعنـي: ما تـخفونه فـي أنفسكم من إيـمان وكفر
-  أو يقـين وشكّ ونفـاق. يقول تعالـى ذكره: فمن كان كذلك لا يخفـى علـيه شيء من ضمائر
-  الصدور وظواهر أعمال النفوس، مـما فـي السموات وما فـي الأرض، وبـيده الثواب والعقاب،
-  فحقـيق أن يُتقَـى وأن يطاع فلا يعصَى.\r\n\t\t\t\r\n\t\t\t</section>"
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(5, 99)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(5,99)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">مَّا
+  عَلَى ٱلرَّسُولِ إِلاَّ ٱلْبَلاَغُ وَٱللَّهُ يَعْلَمُ مَا تُبْدُونَ وَمَا تَكْتُمُونَ</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">وهذا من الله تعالـى ذكره تهديد لعبـاده ووعيد، يقول تعالـى ذكره:
+  لـيس علـى رسولنا الذي أرسلناه إلـيكم أيها الناس بإنذاركم عقابنا بـين يدي عذاب شديد
+  وإعذارنا إلـيكم بـما فـيه قطع حججكم، إلاَّ أن يؤدي إلـيكم رسالتنا، ثم إلـينا الثواب
+  علـى الطاعة، وعلـينا العقاب علـى الـمعصية. { وَاللّهُ يَعْلَـمُ ما تُبْدُونَ وَما
+  تَكْتُـمُونَ } يقول: وغير خفـيّ علـينا الـمطيع منكم القابل رسالتنا العامل بـما أمرته
+  بـالعمل به من العاصي التارك العمل بـما أمرته بـالعمل به لأنا نعلـم ما عمله العامل
+  منكم فأظهره بجوارحه ونطق به لسانه. { وَما تَكْتُـمُونَ } يعنـي: ما تـخفونه فـي أنفسكم
+  من إيـمان وكفر أو يقـين وشكّ ونفـاق. يقول تعالـى ذكره: فمن كان كذلك لا يخفـى علـيه
+  شيء من ضمائر الصدور وظواهر أعمال النفوس، مـما فـي السموات وما فـي الأرض، وبـيده
+  الثواب والعقاب، فحقـيق أن يُتقَـى وأن يطاع فلا يعصَى.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

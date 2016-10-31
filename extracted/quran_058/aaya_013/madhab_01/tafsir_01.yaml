@@ -1,4 +1,4 @@
-location:
+position:
   sura: 058
   aaya: '013'
   madhab: '01'
@@ -7,24 +7,48 @@ meta:
   title: تفسير جامع البيان في تفسير القرآن
   author: الطبري
   year: '310'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ ءَأَشْفَقْتُمْ
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(58, 13)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(58,13)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">ءَأَشْفَقْتُمْ
   أَن تُقَدِّمُواْ بَيْنَ يَدَيْ نَجْوَاكُمْ صَدَقَاتٍ فَإِذْ لَمْ تَفْعَلُواْ وَتَابَ
   ٱللَّهُ عَلَيْكُمْ فَأَقِيمُواْ ٱلصَّلاَةَ وَآتُواْ ٱلزَّكَاةَ وَأَطِيعُواْ ٱللَّهَ
-  وَرَسُولَهُ وَٱللَّهُ خَبِيرٌ بِمَا تَعْمَلُونَ }يقول تعالى ذكره: أشقّ عليكم وخشيتم
-  أيها المؤمنون بأن تقدموا بين يدي نجواكم رسول الله صلى الله عليه وسلم صدقات الفاقة،
-  وأصل الإشفاق في كلام العرب: الخوف والحذر، ومعناه في هذا الموضع: أخشيتم بتقديم الصدقة
-  الفاقة والفقر. وبنحو الذي قلنا في ذلك قال أهل التأويل. ذكر من قال ذلك:حدثني محمد
-  بن عمر، قال: ثنا أبو عاصم، قال: ثنا عيسى وحدثني الحارث، قال: ثنا الحسن، قال: ثنا
-  ورقاء، جميعاً عن ابن أبي نجيح، عن مجاهد { أأشْفَقْتُمْ } قال: شقّ عليكم تقديم الصدقة،
-  فقد وُضِعَتْ عنكم، وأمروا بمناجاة رسول الله صلى الله عليه وسلم بغير صدقة حين شقّ
-  عليهم ذلك.حدثني موسى بن عبد الرحمن المسروقي، قال: ثنا أبو أُسامة، عن شبل بن عباد
-  المكّي، عن ابن أبي نجيح، عن مجاهد، مثله.حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد،
-  عن قتادة { أأشْفَقْتُمْ أنْ تُقدّمُوا بَينَ يَدَيْ نَجْوَاكُمْ صَدَقاتٍ فإذْ لَمْ
-  تَفْعَلُوا وَتابَ اللَّهُ عَلَيْكُمْ فأقِيمُوا الصَّلاة وآتُوا الزَّكاةَ } فريضتان
-  واجبتان لا رجعة لأحد فيهما، فنسخت هذه الآية ما كان قبلها من أمر الصدقة في النجوى.وقوله:
-  { فإذْ لَمْ تَفْعَلُوا وَتابَ اللَّهُ عَلَيْكُمْ } يقول تعالى ذكره: فإذ لم تقدّموا
-  بين يدي نجواكم صدقات، ورزقكم الله التوبة من ترككم ذلك، فأدّوا فرائض الله التي أوجبها
-  عليكم، ولم يضعها عنكم من الصلاة والزكاة، وأطيعوا الله ورسوله، فيما أمركم به، وفيما
-  نهاكم عنه.{ وَاللَّهُ خَبِيرٌ بِمَا تَعْمَلونَ } يقول جلّ ثناؤه: والله ذو خبرة وعلم
-  بأعمالكم، وهو محصيها عليكم ليجازيكم بها.\r\n\t\t\t\r\n\t\t\t</section>"
+  وَرَسُولَهُ وَٱللَّهُ خَبِيرٌ بِمَا تَعْمَلُونَ</a> <b>}</b></font>, <br/>, <br/>,
+  <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">يقول
+  تعالى ذكره: أشقّ عليكم وخشيتم أيها المؤمنون بأن تقدموا بين يدي نجواكم رسول الله
+  صلى الله عليه وسلم صدقات الفاقة، وأصل الإشفاق في كلام العرب: الخوف والحذر، ومعناه
+  في هذا الموضع: أخشيتم بتقديم الصدقة الفاقة والفقر. وبنحو الذي قلنا في ذلك قال أهل
+  التأويل. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثني محمد بن عمر، قال: ثنا أبو
+  عاصم، قال: ثنا عيسى وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، جميعاً عن ابن
+  أبي نجيح، عن مجاهد { أأشْفَقْتُمْ } قال: شقّ عليكم تقديم الصدقة، فقد وُضِعَتْ عنكم،
+  وأمروا بمناجاة رسول الله صلى الله عليه وسلم بغير صدقة حين شقّ عليهم ذلك.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني موسى بن عبد الرحمن المسروقي، قال: ثنا أبو أُسامة، عن شبل بن
+  عباد المكّي، عن ابن أبي نجيح، عن مجاهد، مثله.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة { أأشْفَقْتُمْ أنْ تُقدّمُوا بَينَ يَدَيْ
+  نَجْوَاكُمْ صَدَقاتٍ فإذْ لَمْ تَفْعَلُوا وَتابَ اللَّهُ عَلَيْكُمْ فأقِيمُوا الصَّلاة
+  وآتُوا الزَّكاةَ } فريضتان واجبتان لا رجعة لأحد فيهما، فنسخت هذه الآية ما كان قبلها
+  من أمر الصدقة في النجوى.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقوله: { فإذْ لَمْ تَفْعَلُوا وَتابَ
+  اللَّهُ عَلَيْكُمْ } يقول تعالى ذكره: فإذ لم تقدّموا بين يدي نجواكم صدقات، ورزقكم
+  الله التوبة من ترككم ذلك، فأدّوا فرائض الله التي أوجبها عليكم، ولم يضعها عنكم من
+  الصلاة والزكاة، وأطيعوا الله ورسوله، فيما أمركم به، وفيما نهاكم عنه.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">{ وَاللَّهُ خَبِيرٌ بِمَا تَعْمَلونَ } يقول جلّ ثناؤه: والله ذو
+  خبرة وعلم بأعمالكم، وهو محصيها عليكم ليجازيكم بها.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

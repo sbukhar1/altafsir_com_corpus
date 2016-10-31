@@ -1,4 +1,4 @@
-location:
+position:
   sura: '026'
   aaya: '131'
   madhab: '01'
@@ -7,19 +7,49 @@ meta:
   title: تفسير الكشاف
   author: الزمخشري
   year: '538'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ كَذَّبَتْ عَادٌ
-  ٱلْمُرْسَلِينَ } * { إِذْ قَالَ لَهُمْ أَخُوهُمْ هُودٌ أَلاَ تَتَّقُونَ } * { إِنِّي
-  لَكُمْ رَسُولٌ أَمِينٌ } * { فَٱتَّقُواْ ٱللَّهَ وَأَطِيعُونِ } * { وَمَآ أَسْأَلُكُمْ
-  عَلَيْهِ مِنْ أَجْرٍ إِنْ أَجْرِيَ إِلاَّ عَلَىٰ رَبِّ ٱلْعَالَمِينَ } * { أَتَبْنُونَ
-  بِكُلِّ رِيعٍ آيَةً تَعْبَثُونَ } * { وَتَتَّخِذُونَ مَصَانِعَ لَعَلَّكُمْ تَخْلُدُونَ
-  } * { وَإِذَا بَطَشْتُمْ بَطَشْتُمْ جَبَّارِينَ } * { فَٱتَّقُواْ ٱللَّهَ وَأَطِيعُونِ
-  }قرىء: «بكل ريع»، بالكسر والفتح: وهو المكان المرتفع. قال المسيب بن علس:في الآلِ
-  يَرْفَعُهَا وَيَخْفِضُهَا   رِيعٌ يَلُوحُ كَأَنَّهُ سَحْلُومنه قولهم: كم ريع أرضك؟
-  وهو ارتفاعها. والآية: العلم وكانوا ممن يهتدون بالنجوم في أسفارهم. فاتخذوا في طرقهم
-  أعلاماً طوالاً فعبثوا بذلك، لأنهم كانوا مستغنين عنها بالنجوم. وعن مجاهد: بنو بكل
-  ريع بروج الحمام. والمصانع: مآخذ الماء. وقيل: القصور المشيدة والحصون { لَعَلَّكُمْ
-  تَخْلُدُونَ } ترجون الخلود في الدنيا. أو تشبه حالكم حال من يخلد. وفي حرف أبيّ: كأنكم.
-  وقرىء: «تخلدون» بضم التاء مخففاً ومشدداً { وَإِذَا بَطَشْتُمْ } بسوط أو سيف كان
-  ذلك ظلماً وعلواً، وقيل: الجبار الذي يقتل ويضرب على الغضب. وعن الحسن: تبادرون تعجيل
-  العذاب، لا تتثبتون متفكرين في العواقب.\r\n\t\t\t\r\n\t\t\t</section>"
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(26, 123)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(26,123)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">كَذَّبَتْ
+  عَادٌ ٱلْمُرْسَلِينَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">إِذْ قَالَ لَهُمْ أَخُوهُمْ هُودٌ أَلاَ تَتَّقُونَ</a>
+  <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">إِنِّي
+  لَكُمْ رَسُولٌ أَمِينٌ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">فَٱتَّقُواْ ٱللَّهَ وَأَطِيعُونِ</a> <b>}
+  * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَمَآ
+  أَسْأَلُكُمْ عَلَيْهِ مِنْ أَجْرٍ إِنْ أَجْرِيَ إِلاَّ عَلَىٰ رَبِّ ٱلْعَالَمِينَ</a>
+  <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">أَتَبْنُونَ
+  بِكُلِّ رِيعٍ آيَةً تَعْبَثُونَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">وَتَتَّخِذُونَ مَصَانِعَ لَعَلَّكُمْ تَخْلُدُونَ</a>
+  <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَإِذَا
+  بَطَشْتُمْ بَطَشْتُمْ جَبَّارِينَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">فَٱتَّقُواْ ٱللَّهَ
+  وَأَطِيعُونِ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">قرىء: «بكل ريع»، بالكسر والفتح:
+  وهو المكان المرتفع. قال المسيب بن علس:</font></font><table class=\"TextArabic\"
+  dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">في الآلِ يَرْفَعُهَا وَيَخْفِضُهَا</font></font></b></td><td class=\"TextArabic\">   </td><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">رِيعٌ يَلُوحُ
+  كَأَنَّهُ سَحْلُ</font></font></b></td></tr></table><font class=\"TextResultArabic\"><font
+  color=\"black\">ومنه قولهم: كم ريع أرضك؟ وهو ارتفاعها. والآية: العلم وكانوا ممن
+  يهتدون بالنجوم في أسفارهم. فاتخذوا في طرقهم أعلاماً طوالاً فعبثوا بذلك، لأنهم كانوا
+  مستغنين عنها بالنجوم. وعن مجاهد: بنو بكل ريع بروج الحمام. والمصانع: مآخذ الماء.
+  وقيل: القصور المشيدة والحصون { لَعَلَّكُمْ تَخْلُدُونَ } ترجون الخلود في الدنيا.
+  أو تشبه حالكم حال من يخلد. وفي حرف أبيّ: كأنكم. وقرىء: «تخلدون» بضم التاء مخففاً
+  ومشدداً { وَإِذَا بَطَشْتُمْ } بسوط أو سيف كان ذلك ظلماً وعلواً، وقيل: الجبار الذي
+  يقتل ويضرب على الغضب. وعن الحسن: تبادرون تعجيل العذاب، لا تتثبتون متفكرين في العواقب.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

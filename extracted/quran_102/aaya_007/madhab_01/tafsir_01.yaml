@@ -1,4 +1,4 @@
-location:
+position:
   sura: '102'
   aaya: '007'
   madhab: '01'
@@ -7,187 +7,496 @@ meta:
   title: تفسير جامع البيان في تفسير القرآن
   author: الطبري
   year: '310'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ أَلْهَاكُمُ ٱلتَّكَّاثُرُ
-  } * { حَتَّىٰ زُرْتُمُ ٱلْمَقَابِرَ } * { كَلاَّ سَوْفَ تَعْلَمُونَ } * { ثُمَّ
-  كَلاَّ سَوْفَ تَعْلَمُونَ } * { كَلاَّ لَوْ تَعْلَمُونَ عِلْمَ ٱلْيَقِينِ } * {
-  لَتَرَوُنَّ ٱلْجَحِيمَ } * { ثُمَّ لَتَرَوُنَّهَا عَيْنَ ٱلْيَقِينِ } * { ثُمَّ
-  لَتُسْأَلُنَّ يَوْمَئِذٍ عَنِ ٱلنَّعِيمِ }يقول تعالى ذكره: ألهاكم أيها الناس المباهاة
-  بكثرة المال والعدد عن طاعة ربكم، وعما ينجيكم من سخطه عليكم. وبنحو الذي قلنا في ذلك
-  قال أهل التأويل. ذكر من قال ذلك:حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة
-  { ألهَاكُمُ التَّكاثُرُ حتى زُرْتُمُ المَقابِرَ } قال: كانوا يقولون: نحن أكثر من
-  بني فلان، ونحن أعدّ من بني فلان، وهم كلّ يوم يتساقطون إلى آخرهم، والله ما زالوا
-  كذلك حتى صاروا من أهل القبور كلهم.حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر،
-  عن قتادة { ألهَاكُمُ التَّكاثُرُ } قالوا: نحن أكثر من بني فلان، وبنو فلان أكثر من
-  بني فلان، ألهاهم ذلك حتى ماتوا ضلالاً.وروى عن النبيّ صلى الله عليه وسلم كلام يدلّ
-  على أن معناه التكاثر بالمال. ذكر الخبر بذلك:حدثنا أبو كُرَيب، قال: ثنا وكيع، عن
-  هشام الدَّستَوائيّ، عن قتادة، عن مطرَّف بن عبد الله بن الشِّخِّير، عن أبيه أنه انتهى
-  إلى النبيّ صلى الله عليه وسلم، وهو يقرأ: { ألهَاكُمُ التَّكاثُرُ حَتَّى زُرْتُمُ
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(102, 1)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(102,1)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">أَلْهَاكُمُ
+  ٱلتَّكَّاثُرُ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">حَتَّىٰ زُرْتُمُ ٱلْمَقَابِرَ</a> <b>} *
+  </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">كَلاَّ
+  سَوْفَ تَعْلَمُونَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">ثُمَّ كَلاَّ سَوْفَ تَعْلَمُونَ</a> <b>}
+  * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">كَلاَّ
+  لَوْ تَعْلَمُونَ عِلْمَ ٱلْيَقِينِ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">لَتَرَوُنَّ ٱلْجَحِيمَ</a>
+  <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">ثُمَّ
+  لَتَرَوُنَّهَا عَيْنَ ٱلْيَقِينِ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">ثُمَّ لَتُسْأَلُنَّ يَوْمَئِذٍ عَنِ ٱلنَّعِيمِ</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">يقول تعالى ذكره: ألهاكم أيها الناس المباهاة بكثرة المال والعدد عن
+  طاعة ربكم، وعما ينجيكم من سخطه عليكم. وبنحو الذي قلنا في ذلك قال أهل التأويل. ذكر
+  من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا بشر، قال: ثنا يزيد، قال:
+  ثنا سعيد، عن قتادة { ألهَاكُمُ التَّكاثُرُ حتى زُرْتُمُ المَقابِرَ } قال: كانوا
+  يقولون: نحن أكثر من بني فلان، ونحن أعدّ من بني فلان، وهم كلّ يوم يتساقطون إلى آخرهم،
+  والله ما زالوا كذلك حتى صاروا من أهل القبور كلهم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة { ألهَاكُمُ التَّكاثُرُ } قالوا:
+  نحن أكثر من بني فلان، وبنو فلان أكثر من بني فلان، ألهاهم ذلك حتى ماتوا ضلالاً.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وروى عن النبيّ صلى الله عليه وسلم كلام يدلّ على أن معناه التكاثر
+  بالمال. ذكر الخبر بذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا أبو كُرَيب، قال: ثنا وكيع،
+  عن هشام الدَّستَوائيّ، عن قتادة، عن مطرَّف بن عبد الله بن الشِّخِّير، عن أبيه أنه
+  انتهى إلى النبيّ صلى الله عليه وسلم، وهو يقرأ: { ألهَاكُمُ التَّكاثُرُ حَتَّى زُرْتُمُ
   المَقابرَ } قال: «ابنَ آدم، ليس لك من مالك إلا ما أكلت فأفنيت، أو لبِست فأبليت،
-  أو تصدّقت فأمضيت».حدثنا محمد بن خلف العسقلاني، قال: ثنا آدم، قال: ثنا حماد بن سلمة،
-  عن ثابت البُنَاني، عن أنس بن مالك، عن أُبيّ بن كعب، قال: كنا نرى أن هذا الحديث من
-  القرآن: \" لو أن لابن آدم واديين من مالٍ، لتمنى وادياً ثالثاً، ولا يملأ جوفَ ابنِ
-  آدم إلا التُّراب، ثم يتوب الله على من تاب \" حتى نزلت هذه السورة: { ألهَاكُمُ التَّكاثُرُ
-  } إلى آخرها.وقوله صلى الله عليه وسلم بعَقِب قراءته: «ألهاكُمُ»: ليس لك من مالك إلا
-  كذا وكذا، ينبىء أن معنى ذلك عنده: ألهاكم التكاثر: المال.وقوله: { حَتَّى زُرْتُمُ
-  المَقابِرَ } يعني: حتى صرتم إلى المقابر فدفنتم فيها وفي هذا دليل على صحة القول بعذاب
-  القبر، لأن الله تعالى ذكره، أخبر عن هؤلاء القوم الذين ألهاهم التكاثر، أنهم سيعلمون
-  ما يلقون إذا هم زاروا القبور وعيداً منه لهم وتهدّداً. وبنحو الذي قلنا في ذلك قال
-  أهل التأويل. ذكر من قال ذلك:حدثنا أبو كُرَيب، قال: ثنا ابن عطية، عن قيس، عن حجاج،
-  عن المنهال، عن زِرّ، عن عليّ، قال: كنا نشكّ في عذاب القبر، حتى نزلت هذه الآية: {
-  ألهَاكَمُ التَّكاثُر } ُ... إلى: { كَلاَّ سَوْفَ تَعْلَمُونَ } في عذاب القبر.حدثنا
+  أو تصدّقت فأمضيت».</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا محمد بن خلف العسقلاني، قال:
+  ثنا آدم، قال: ثنا حماد بن سلمة، عن ثابت البُنَاني، عن أنس بن مالك، عن أُبيّ بن كعب،
+  قال: كنا نرى أن هذا الحديث من القرآن:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" لو أن لابن آدم واديين من مالٍ، لتمنى وادياً ثالثاً، ولا يملأ جوفَ
+  ابنِ آدم إلا التُّراب، ثم يتوب الله على من تاب \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">حتى نزلت هذه السورة: { ألهَاكُمُ التَّكاثُرُ } إلى آخرها.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقوله صلى الله عليه وسلم بعَقِب قراءته: «ألهاكُمُ»: ليس لك من مالك
+  إلا كذا وكذا، ينبىء أن معنى ذلك عنده: ألهاكم التكاثر: المال.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقوله: { حَتَّى زُرْتُمُ المَقابِرَ } يعني: حتى صرتم إلى المقابر
+  فدفنتم فيها وفي هذا دليل على صحة القول بعذاب القبر، لأن الله تعالى ذكره، أخبر عن
+  هؤلاء القوم الذين ألهاهم التكاثر، أنهم سيعلمون ما يلقون إذا هم زاروا القبور وعيداً
+  منه لهم وتهدّداً. وبنحو الذي قلنا في ذلك قال أهل التأويل. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا أبو كُرَيب، قال: ثنا ابن عطية، عن قيس، عن حجاج، عن المنهال،
+  عن زِرّ، عن عليّ، قال: كنا نشكّ في عذاب القبر، حتى نزلت هذه الآية: { ألهَاكَمُ التَّكاثُر
+  } ُ... إلى: { كَلاَّ سَوْفَ تَعْلَمُونَ } في عذاب القبر.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
   ابن حميد، قال: ثنا حكام بن سلم، عن عنبسة، عن ابن أبي ليلىَ، عن المنهال، عن زِرّ،
-  عن عليّ، قال: نزلت { ألهَاكُمُ التَّكاثُر } ُ في عذاب القبر.حدثنا ابن حميد، قال:
-  ثنا حَكَّام، عن عمرو، عن الحجاج، عن المنهال بن عمرو، عن زِرّ، عن عليّ، قال: ما زلنا
-  نشكّ في عذاب القبر، حتى نزلت: { ألهَاكُمُ التَّكاثُرُ حَتَّى زُرْتُمُ المَقابِرَ
-  }.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ أَلْهَاكُمُ ٱلتَّكَّاثُرُ } * { حَتَّىٰ
-  زُرْتُمُ ٱلْمَقَابِرَ } * { كَلاَّ سَوْفَ تَعْلَمُونَ } * { ثُمَّ كَلاَّ سَوْفَ
-  تَعْلَمُونَ } * { كَلاَّ لَوْ تَعْلَمُونَ عِلْمَ ٱلْيَقِينِ } * { لَتَرَوُنَّ ٱلْجَحِيمَ
-  } * { ثُمَّ لَتَرَوُنَّهَا عَيْنَ ٱلْيَقِينِ } * { ثُمَّ لَتُسْأَلُنَّ يَوْمَئِذٍ
-  عَنِ ٱلنَّعِيمِ }وقوله: { كَلاَّ سَوْفَ تَعْلَمُونَ } يعني تعالى ذكره بقوله: كلا:
-  ما هكذا ينبغي أن تفعلوا، أن يُلْهِيكم التكاثر.وقوله: { سَوْفَ تَعْلَمُونَ } يقول
+  عن عليّ، قال: نزلت { ألهَاكُمُ التَّكاثُر } ُ في عذاب القبر.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن حميد، قال: ثنا حَكَّام، عن عمرو، عن الحجاج، عن المنهال
+  بن عمرو، عن زِرّ، عن عليّ، قال: ما زلنا نشكّ في عذاب القبر، حتى نزلت: { ألهَاكُمُ
+  التَّكاثُرُ حَتَّى زُرْتُمُ المَقابِرَ }.</font></font>&#13;\t\t\t<label disabled=\"true\"
+  class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(102, 1)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(102,1)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">أَلْهَاكُمُ ٱلتَّكَّاثُرُ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">حَتَّىٰ
+  زُرْتُمُ ٱلْمَقَابِرَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">كَلاَّ سَوْفَ تَعْلَمُونَ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">ثُمَّ
+  كَلاَّ سَوْفَ تَعْلَمُونَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">كَلاَّ لَوْ تَعْلَمُونَ عِلْمَ ٱلْيَقِينِ</a>
+  <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">لَتَرَوُنَّ
+  ٱلْجَحِيمَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">ثُمَّ لَتَرَوُنَّهَا عَيْنَ ٱلْيَقِينِ</a>
+  <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">ثُمَّ
+  لَتُسْأَلُنَّ يَوْمَئِذٍ عَنِ ٱلنَّعِيمِ</a> <b>}</b></font>, <br/>, <br/>, <div
+  align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">وقوله:
+  { كَلاَّ سَوْفَ تَعْلَمُونَ } يعني تعالى ذكره بقوله: كلا: ما هكذا ينبغي أن تفعلوا،
+  أن يُلْهِيكم التكاثر.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقوله: { سَوْفَ تَعْلَمُونَ } يقول
   جلّ ثناؤه: سوف تعلمون إذا زرتم المقابر، أيها الذين ألهاهم التكاثر، غِبّ فعلكم، واشتغالكم
-  بالتكاثر في الدنيا عن طاعة الله ربكم.وقوله: { ثُمَّ كَلاَّ سَوْفَ تَعْلَمُونَ }
-  يقول: ثم ما هكذا ينبغي أن تفعلوا أن يلهيكم التكاثر بالأموال، وكثرة العدد، سوف تعلمون
-  إذا زرتم المقابر، ما تلقَوْن إذا أنتم زرتموها، من مكروه اشتغالكم عن طاعة ربكم بالتكاثر.
-  وكرّر قوله: { كَلاَّ سوْفَ تَعْلَمُونَ } مرّتين، لأن العرب إذا أرادت التغليظ في
-  التخويف والتهديد، كرّروا الكلمة مرّتين. وروي عن الضحَّاك في ذلك ما:حدثنا به ابن
-  حميد، قال: ثنا مهران، عن أبي سنان، عن ثابت، عن الضحاك { كَلاَّ سَوْفَ تَعْلَمُونَ
-  } قال: الكفار { ثُمَّ كَلاَّ سَوْفَ تَعْلَمُونَ } قال: المؤمنون. وكذلك كان يقرؤها.وقوله:
-  { كَلاَّ لَوْ تَعْلَمُونَ عِلْمَ الْيَقِينِ } يقول تعالى ذكره: ما هكذا ينبغي أن
-  تفعلوا، أن يلهيكم التكاثر أيها الناس، لو تعلمون أيها الناس علماً يقيناً، أن الله
-  باعثكم يوم القيامة من بعد مماتكم، من قبوركم، ما ألهاكم التكاثر عن طاعة الله ربكم،
-  ولسارعتم إلى عبادته، والانتهاء إلى أمره ونهيه، ورفض الدنيا إشفاقاً على أنفسكم من
-  عقوبته. وبنحو الذي قلنا في ذلك قال أهل التأويل. ذكر من قال ذلك:حدثنا بشر، قال: ثنا
-  يزيد، قال: ثنا سعيد، عن قتادة { كَلاَّ لَوْ تَعْلَمُونَ عِلْمَ الْيَقِينِ } كنا
-  نحدّث أن علم اليقين، أن يعلم أنَّ الله باعثه بعد الموت.وقوله: { لَتَرُونَّ الجَحِيمَ
-  } اختلفت القرّاء في قراءة ذلك، فقرأته قرّاء الأمصار: { لَتَرَوُنَّ الجَحيمَ } بفتح
+  بالتكاثر في الدنيا عن طاعة الله ربكم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقوله:
+  { ثُمَّ كَلاَّ سَوْفَ تَعْلَمُونَ } يقول: ثم ما هكذا ينبغي أن تفعلوا أن يلهيكم التكاثر
+  بالأموال، وكثرة العدد، سوف تعلمون إذا زرتم المقابر، ما تلقَوْن إذا أنتم زرتموها،
+  من مكروه اشتغالكم عن طاعة ربكم بالتكاثر. وكرّر قوله: { كَلاَّ سوْفَ تَعْلَمُونَ
+  } مرّتين، لأن العرب إذا أرادت التغليظ في التخويف والتهديد، كرّروا الكلمة مرّتين.
+  وروي عن الضحَّاك في ذلك ما:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  به ابن حميد، قال: ثنا مهران، عن أبي سنان، عن ثابت، عن الضحاك { كَلاَّ سَوْفَ تَعْلَمُونَ
+  } قال: الكفار { ثُمَّ كَلاَّ سَوْفَ تَعْلَمُونَ } قال: المؤمنون. وكذلك كان يقرؤها.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقوله: { كَلاَّ لَوْ تَعْلَمُونَ عِلْمَ الْيَقِينِ } يقول تعالى
+  ذكره: ما هكذا ينبغي أن تفعلوا، أن يلهيكم التكاثر أيها الناس، لو تعلمون أيها الناس
+  علماً يقيناً، أن الله باعثكم يوم القيامة من بعد مماتكم، من قبوركم، ما ألهاكم التكاثر
+  عن طاعة الله ربكم، ولسارعتم إلى عبادته، والانتهاء إلى أمره ونهيه، ورفض الدنيا إشفاقاً
+  على أنفسكم من عقوبته. وبنحو الذي قلنا في ذلك قال أهل التأويل. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة { كَلاَّ لَوْ
+  تَعْلَمُونَ عِلْمَ الْيَقِينِ } كنا نحدّث أن علم اليقين، أن يعلم أنَّ الله باعثه
+  بعد الموت.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقوله: { لَتَرُونَّ الجَحِيمَ }
+  اختلفت القرّاء في قراءة ذلك، فقرأته قرّاء الأمصار: { لَتَرَوُنَّ الجَحيمَ } بفتح
   التاء من { لَتَرَوُنَّ } في الحرفين كليهما، وقرأ ذلك الكسائي بضم التاء من الأولىَ،
-  وفتحها من الثانية.والصواب عندنا في ذلك الفتح فيهما كليهما، لإجماع الحجة عليه. وإذا
-  كان ذلك كذلك، فتأويل الكلام: لترونّ أيها المشركون جهنم يوم القيامة، ثم لترونها عياناً
-  لا تغيبون عنها.حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه،
-  عن ابن عباس قوله: { ثُمَّ لَتَرَوُنَّها عَيْنَ الْيَقِينِ } يعني: أهل الشرك.وقوله:
+  وفتحها من الثانية.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">والصواب عندنا في ذلك الفتح فيهما
+  كليهما، لإجماع الحجة عليه. وإذا كان ذلك كذلك، فتأويل الكلام: لترونّ أيها المشركون
+  جهنم يوم القيامة، ثم لترونها عياناً لا تغيبون عنها.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس قوله:
+  { ثُمَّ لَتَرَوُنَّها عَيْنَ الْيَقِينِ } يعني: أهل الشرك.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقوله:
   { ثُمَّ لَتُسْئَلُنَّ يَوْمَئِذٍ عَنِ النَّعِيمِ } يقول: ثم ليسألنكم الله عزّ وجلّ
   عن النعيم الذي كنتم فيه في الدنيا: ماذا عملتم فيه، من أين وصلتم إليه، وفيم أصبتموه،
-  وماذا عملتم به؟.واختلف أهل التأويل في ذلك النعيم ما هو؟ فقال بعضهم: هو الأمن والصحة.
-  ذكر من قال ذلك:حدثني عباد بن يعقوب، قال: ثنا محمد بن سليمان، عن ابن أبي ليلى، عن
-  الشعبيّ، عن ابن مسعود، في قوله: { ثُمَّ لَتُسْئَلُنَّ يَوْمَئِذٍ عَنِ النَّعِيمِ
-  } قال: الأمن والصحة.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ أَلْهَاكُمُ ٱلتَّكَّاثُرُ } * { حَتَّىٰ
-  زُرْتُمُ ٱلْمَقَابِرَ } * { كَلاَّ سَوْفَ تَعْلَمُونَ } * { ثُمَّ كَلاَّ سَوْفَ
-  تَعْلَمُونَ } * { كَلاَّ لَوْ تَعْلَمُونَ عِلْمَ ٱلْيَقِينِ } * { لَتَرَوُنَّ ٱلْجَحِيمَ
-  } * { ثُمَّ لَتَرَوُنَّهَا عَيْنَ ٱلْيَقِينِ } * { ثُمَّ لَتُسْأَلُنَّ يَوْمَئِذٍ
-  عَنِ ٱلنَّعِيمِ }حدثنا أبو كُرَيب، قال: ثنا حفص، عن ابن أبي ليلى، عن الشعبيّ، عن
-  عبد الله، مثله.حدثني عليّ بن سعيد الكنديّ، قال: ثنا محمد بن مروان، عن ليث، عن مجاهد
-  { ثُمَّ لَتُسْئَلُنَّ يَوْمَئِذٍ عَنِ النَّعِيمِ } قال: الأمن والصحة.حدثنا ابن بشار،
-  قال: ثنا أبو عاصم، قال: ثنا سفيان، قال: بلغني في قوله: { لَتُسْئَلُنَّ يَوْمَئِذٍ
-  عَنِ النَّعِيمِ } قال: الأمن والصحة.حدثنا ابن حميد، قال: ثنا مهران، عن إسماعيل بن
-  عياش، عن عبد العزيز بن عبد الله، قال: سمعت الشعبيّ يقول: النعيم المسئول عنه يوم
-  القيامة: الأمن والصحة.قال: ثنا مهران، عن خالد الزيات، عن ابن أبي ليلى، عن عامر الشعبيّ،
-  عن ابن مسعود، مثله.قال: ثنا مهران، عن سفيان { ثُمَّ لَتُسْئَلُنَّ يَوْمَئِذٍ عَنِ
-  النَّعِيمِ } قال: الأمن والصحة.وقال آخرون: بل معنى ذلك: ثم لَيُسْئَلُنّ يومئذٍ عما
-  أنعم الله به عليهم مما وهب لهم من السمع والبصر وصحة البدن. ذكر من قال ذلك:حدثني
-  عليّ، قال: ثنا أبو صالح، قال: ثني معاوية، عن عليّ، عن ابن عباس، في قوله: { ثُمَّ
-  لَتُسْئَلُنَّ يَوْمَئِذٍ عَنِ النَّعِيمِ } قال: النعيم: صحة الأبدان والأسماع والأبصار،
-  قال: يسأل الله العباد فيم استعملوها، وهو أعلم بذلك منهم، وهو قوله:{ إنَّ السَّمْعَ
-  والْبَصَرَ والفُؤَادَ كُلُّ أُولَئِكَ كانَ عَنْهُ مَسْئُولاً }حدثني إسماعيل بن موسى
-  الفَزاريّ، قال: أخبرنا عمر بن شاكر، عن الحسن قال: كان يقول في قوله: { ثُمَّ لَتُسْئَلُنَّ
-  يَوْمَئِذٍ عَنِ النَّعِيمِ } قال: السمع والبصر، وصحة البدن.وقال آخرون: هو العافية.
-  ذكر من قال ذلك:حدثني عباد بن يعقوب، قال: ثنا نوح بن درّاج، عن سعد بن طريف، عن أبي
-  جعفر { ثُمَّ لَتُسْئَلُنَّ يَوْمَئِذٍ عَنِ النَّعِيمِ } قال: العافية.وقال آخرون:
-  بل عُنِي بذلك: بعض ما يطعمه الإنسان، أو يشربه. ذكر من قال ذلك:حدثنا ابن بشار، قال:
-  ثنا عبد الرحمن، قال: ثنا سفيان، عن بكير بن عتيق، قال: رأيت سعيد بن جُبَير أُتِيَ
-  بشربة عسل، فشربها، وقال: هذا النعيم الذي تُسئلون عنه.حدثني عليّ بن سهل الرمليّ،
-  قال: ثنا الحسن بن بلال، قال: ثنا حماد بن سلمة، عن عَمَّار بن أبي عمار، قال: سمعت
-  جابر بن عبد الله يقول: أتانا النبيّ صلى الله عليه وسلم وأبو بكر وعمر رضي الله عنهما،
-  فأطعمناهم رُطَباً، وسقيناهم ماء، فقال رسول الله صلى الله عليه وسلم: \" هَذَا مِنَ
-  النَّعِيمِ الَّذِي تُسْئَلُونَ عَنْهُ \" حدثنا جابر بن الكرديّ، قال: ثنا يزيد بن
-  هارون، قال: ثنا حماد بن سلمة، عن عمار بن أبي عمار، قال: سمعت جابر بن عبد الله يقول:
-  أتانا النبيّ صلى الله عليه وسلم، فذكر نحوه.حدثني الحسن بن عليّ الصُّدائي، قال: ثنا
-  الوليد بن القاسم، عن يزيد بن كيسان، عن أبي حازم، عن أبي هريرة، قال: بينما أبو بكر
-  وعمر رضي الله عنهما جالسان، إذ جاء النبيّ صلى الله عليه وسلم، فقال:\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ أَلْهَاكُمُ ٱلتَّكَّاثُرُ } * { حَتَّىٰ
-  زُرْتُمُ ٱلْمَقَابِرَ } * { كَلاَّ سَوْفَ تَعْلَمُونَ } * { ثُمَّ كَلاَّ سَوْفَ
-  تَعْلَمُونَ } * { كَلاَّ لَوْ تَعْلَمُونَ عِلْمَ ٱلْيَقِينِ } * { لَتَرَوُنَّ ٱلْجَحِيمَ
-  } * { ثُمَّ لَتَرَوُنَّهَا عَيْنَ ٱلْيَقِينِ } * { ثُمَّ لَتُسْأَلُنَّ يَوْمَئِذٍ
-  عَنِ ٱلنَّعِيمِ } \" ما أجْلَسَكُما هاهُنا؟ \" قالا: الجوع، قال: \" وَالَّذِي بَعَثَنِي
-  بالْحَقّ ما أخْرَجَنِي غَيرُهُ \" ، فانطلقوا حتى أتوا بيت رجل من الأنصار، فاستقبلتهم
-  المرأة، فقال لها النبي صلى الله عليه وسلم: \" أيْنَ فُلانُ؟ \" فقالت: ذهب يستعذب
-  لنا ماء، فجاء صاحبهم يحمل قربته، فقال: مَرْحَباً، ما زار العِبادَ شَيءٌ أفضلَ من
-  شيء زارني اليوم، فعلَّق قربته بكَرَب نخلة، وانطلق فجاءهم بعِذْق، فقال النبيّ صلى
-  الله عليه وسلم: \" ألا كُنْتَ اجْتَنَيْتَ؟ \" فقال: أحببت أن تكونوا الذين تختارون
-  على أعينكم، ثم أخذ الشَّفرة، فقال النبيّ صلى الله عليه وسلم: \" إيَّاكَ والْحَلُوبَ
-  \" ، فذبح لهم يومئذٍ، فأكلوا، فقال النبيّ صلى الله عليه وسلم: \" لَتُسْئَلُنَّ عَنْ
-  هَذَا يَوْمَ القِيامَةِ، أخْرَجَكُمْ مِنْ بُيُوتِكُمُ الجُوعُ، فَلَمْ تَرْجِعُوا
-  حتَّى أصَبْتُمْ هَذَا، فَهَذَا مِنَ النَّعِيمِ \" حدثنا أبو كُرَيب، قال: ثنا يحيى
-  بن أبي بكير، قال: ثنا شيبان بن عبد الرحمن، عن عبد الملك بن عُمَير، عن أبي سَلَمة،
-  عن أبي هريرة، قال: قال النبيّ صلى الله عليه وسلم لأبي بكر وعمر: \" انْطَلِقُوا بِنا
-  إلى أبي الهَيْثَمِ بن التَّيَّهانِ الأنْصَارِيّ، \" فَأتَوهُ، فانطلق بهم إلى ظلّ
-  حديقته، فبسط لهم بساطاً، ثم انطلق إلى نخلة، فجاء بِقِنْوٍ، فقال رسول الله صلى الله
-  عليه وسلم: \" فَهَلا تَنَقَّيْتَ لَنَا مِنْ رُطَبِهِ؟ \" فقال: أردت أن تَخَيَّروا
-  من رطبه وبُسره، فأكلوا وشربوا من الماء فلما فرغ رسول الله صلى الله عليه وسلم، قال:
-  \" هَذَا وَالَّذِي نَفْسِي بِيدِهِ مِنَ النَّعِيمِ، الَّذِي أنْتُمْ فِيهِ مَسْئُولُونَ
-  عَنْهُ يَوْمَ القِيامَةِ، هَذَا الظِّلُّ البارِدُ، والرُّطَبُ البارِدُ، عَلَيْهِ
-  الماءُ البارِدُ \" حدثني صالح بن مسمار المروزي، قال: ثنا آدم بن أبي إياس، قال: ثنا
-  شيبان، قال: ثنا عبد الملك بن عمير، عن أبي سلمة بن عبد الرحمن، عن أبي هريرة، عن رسول
-  الله صلى الله عليه وسلم بنحوه، إلا أنه قال في حديثه: \" ظِلُّ بارِدٌ، وَرُطَبٌ بارِدٌ،
-  وَماءٌ بارِدٌ \" حدثنا عليّ بن عيسى البزاز، قال: ثنا سعيد بن سليمان، عن حشرج بن
-  نباتة، قال: ثنا أبو بصيرة عن أبي عسيب، مولى رسول الله صلى الله عليه وسلم، قال: مرّ
-  النبيّ صلى الله عليه وسلم حتى دخل حائطاً لبعض الأنصار، فقال لصاحب الحائط: \" أطْعِمْنا
-  بُسْراً \" ، فجاءه بِعْذِقٍ فَوَضَعهُ فأكل رسول الله صلى الله عليه وسلم وأصحابه،
-  ثم دعا بماء بارد فشرب، فقال: \" لتُسْئَلُنَّ عَنْ هَذَا يَوْمَ القِيامَةِ \" \r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ أَلْهَاكُمُ ٱلتَّكَّاثُرُ } * { حَتَّىٰ
-  زُرْتُمُ ٱلْمَقَابِرَ } * { كَلاَّ سَوْفَ تَعْلَمُونَ } * { ثُمَّ كَلاَّ سَوْفَ
-  تَعْلَمُونَ } * { كَلاَّ لَوْ تَعْلَمُونَ عِلْمَ ٱلْيَقِينِ } * { لَتَرَوُنَّ ٱلْجَحِيمَ
-  } * { ثُمَّ لَتَرَوُنَّهَا عَيْنَ ٱلْيَقِينِ } * { ثُمَّ لَتُسْأَلُنَّ يَوْمَئِذٍ
-  عَنِ ٱلنَّعِيمِ }  ، فأخذ عُمَر العِذْق، فضرب به الأرض، حتى تناثر البسر، ثم قال:
-  يا رسول الله، إنا لمسؤولون عن هذا؟ قال: \" نَعَمْ، إلاَّ مِنْ كِسْرَةٍ يَسَدُّ بِها
-  جَوْعَةً، أوْ جُحْرٍ يُدْخَلُ فِيهِ مِنَ الحَرِّ والقَرِّ \" حدثني سعيد بن عمرو
-  السكونيّ، قال: ثنا بقية، عن حشرج بن نباتة، قال: حدثني أبو بصيرة، عن أبي عسيب مولى
-  رسول الله صلى الله عليه وسلم، قال: مرّ بي النبيّ صلى الله عليه وسلم، فدعاني وخرجت
-  ومعه أبو بكر وعمر رضي الله عنهما، فدخل حائطاً لبعض الأنصار، فأُتِيَ بِبُسْرِ عِذْق
-  منه، فوضع بين يديه، فأكل هو وأصحابه، ثم دعا بما بارد، فشرب، ثم قال: \" لَتُسْئَلُنَّ
-  عَنْ هَذَا يَوْمَ القِيامَةِ \" ، فقال عمر: عن هذا يوم القيامة؟ فقال: \" نَعَمْ،
-  إلاَّ مِنْ ثَلاثَةٍ: خِرْقَةٍ كَفَّ بِها عَوْرَتَهُ، أو كِسْرَةٍ سَدَّ بِها جَوْعَتَهُ،
-  أوْ جُحْرِ يَدْخُلُ فِيهِ مِنَ الحَرّ والقَرّ \" حدثني يعقوب، قال: ثنا ابن عُلَّية،
+  وماذا عملتم به؟.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">واختلف أهل التأويل في ذلك النعيم
+  ما هو؟ فقال بعضهم: هو الأمن والصحة. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  عباد بن يعقوب، قال: ثنا محمد بن سليمان، عن ابن أبي ليلى، عن الشعبيّ، عن ابن مسعود،
+  في قوله: { ثُمَّ لَتُسْئَلُنَّ يَوْمَئِذٍ عَنِ النَّعِيمِ } قال: الأمن والصحة.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(102, 1)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(102,1)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">أَلْهَاكُمُ ٱلتَّكَّاثُرُ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">حَتَّىٰ
+  زُرْتُمُ ٱلْمَقَابِرَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">كَلاَّ سَوْفَ تَعْلَمُونَ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">ثُمَّ
+  كَلاَّ سَوْفَ تَعْلَمُونَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">كَلاَّ لَوْ تَعْلَمُونَ عِلْمَ ٱلْيَقِينِ</a>
+  <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">لَتَرَوُنَّ
+  ٱلْجَحِيمَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">ثُمَّ لَتَرَوُنَّهَا عَيْنَ ٱلْيَقِينِ</a>
+  <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">ثُمَّ
+  لَتُسْأَلُنَّ يَوْمَئِذٍ عَنِ ٱلنَّعِيمِ</a> <b>}</b></font>, <br/>, <br/>, <div
+  align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  أبو كُرَيب، قال: ثنا حفص، عن ابن أبي ليلى، عن الشعبيّ، عن عبد الله، مثله.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني عليّ بن سعيد الكنديّ، قال: ثنا محمد بن مروان، عن ليث، عن مجاهد
+  { ثُمَّ لَتُسْئَلُنَّ يَوْمَئِذٍ عَنِ النَّعِيمِ } قال: الأمن والصحة.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن بشار، قال: ثنا أبو عاصم، قال: ثنا سفيان، قال: بلغني في
+  قوله: { لَتُسْئَلُنَّ يَوْمَئِذٍ عَنِ النَّعِيمِ } قال: الأمن والصحة.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن حميد، قال: ثنا مهران، عن إسماعيل بن عياش، عن عبد العزيز
+  بن عبد الله، قال: سمعت الشعبيّ يقول: النعيم المسئول عنه يوم القيامة: الأمن والصحة.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قال: ثنا مهران، عن خالد الزيات، عن ابن أبي ليلى، عن عامر الشعبيّ،
+  عن ابن مسعود، مثله.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">قال: ثنا مهران، عن سفيان { ثُمَّ
+  لَتُسْئَلُنَّ يَوْمَئِذٍ عَنِ النَّعِيمِ } قال: الأمن والصحة.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال آخرون: بل معنى ذلك: ثم لَيُسْئَلُنّ يومئذٍ عما أنعم الله به
+  عليهم مما وهب لهم من السمع والبصر وصحة البدن. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني عليّ، قال: ثنا أبو صالح، قال: ثني معاوية، عن عليّ، عن ابن
+  عباس، في قوله: { ثُمَّ لَتُسْئَلُنَّ يَوْمَئِذٍ عَنِ النَّعِيمِ } قال: النعيم: صحة
+  الأبدان والأسماع والأبصار، قال: يسأل الله العباد فيم استعملوها، وهو أعلم بذلك منهم،
+  وهو قوله:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">إنَّ السَّمْعَ والْبَصَرَ والفُؤَادَ كُلُّ أُولَئِكَ كانَ
+  عَنْهُ مَسْئُولاً</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  إسماعيل بن موسى الفَزاريّ، قال: أخبرنا عمر بن شاكر، عن الحسن قال: كان يقول في قوله:
+  { ثُمَّ لَتُسْئَلُنَّ يَوْمَئِذٍ عَنِ النَّعِيمِ } قال: السمع والبصر، وصحة البدن.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال آخرون: هو العافية. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  عباد بن يعقوب، قال: ثنا نوح بن درّاج، عن سعد بن طريف، عن أبي جعفر { ثُمَّ لَتُسْئَلُنَّ
+  يَوْمَئِذٍ عَنِ النَّعِيمِ } قال: العافية.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  آخرون: بل عُنِي بذلك: بعض ما يطعمه الإنسان، أو يشربه. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا سفيان، عن بكير بن
+  عتيق، قال: رأيت سعيد بن جُبَير أُتِيَ بشربة عسل، فشربها، وقال: هذا النعيم الذي تُسئلون
+  عنه.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثني عليّ بن سهل الرمليّ، قال:
+  ثنا الحسن بن بلال، قال: ثنا حماد بن سلمة، عن عَمَّار بن أبي عمار، قال: سمعت جابر
+  بن عبد الله يقول: أتانا النبيّ صلى الله عليه وسلم وأبو بكر وعمر رضي الله عنهما،
+  فأطعمناهم رُطَباً، وسقيناهم ماء، فقال رسول الله صلى الله عليه وسلم:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" هَذَا مِنَ النَّعِيمِ الَّذِي
+  تُسْئَلُونَ عَنْهُ \" </font></font></b><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا جابر بن الكرديّ، قال: ثنا
+  يزيد بن هارون، قال: ثنا حماد بن سلمة، عن عمار بن أبي عمار، قال: سمعت جابر بن عبد
+  الله يقول: أتانا النبيّ صلى الله عليه وسلم، فذكر نحوه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  الحسن بن عليّ الصُّدائي، قال: ثنا الوليد بن القاسم، عن يزيد بن كيسان، عن أبي حازم،
+  عن أبي هريرة، قال: بينما أبو بكر وعمر رضي الله عنهما جالسان، إذ جاء النبيّ صلى الله
+  عليه وسلم، فقال:</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">3 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(102, 1)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(102,1)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">أَلْهَاكُمُ ٱلتَّكَّاثُرُ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">حَتَّىٰ
+  زُرْتُمُ ٱلْمَقَابِرَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">كَلاَّ سَوْفَ تَعْلَمُونَ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">ثُمَّ
+  كَلاَّ سَوْفَ تَعْلَمُونَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">كَلاَّ لَوْ تَعْلَمُونَ عِلْمَ ٱلْيَقِينِ</a>
+  <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">لَتَرَوُنَّ
+  ٱلْجَحِيمَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">ثُمَّ لَتَرَوُنَّهَا عَيْنَ ٱلْيَقِينِ</a>
+  <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">ثُمَّ
+  لَتُسْأَلُنَّ يَوْمَئِذٍ عَنِ ٱلنَّعِيمِ</a> <b>}</b></font>, <br/>, <br/>, <div
+  align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\"/></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" ما أجْلَسَكُما هاهُنا؟ \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\">قالا: الجوع، قال:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" وَالَّذِي بَعَثَنِي بالْحَقّ
+  ما أخْرَجَنِي غَيرُهُ \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">، فانطلقوا حتى أتوا بيت رجل من الأنصار، فاستقبلتهم المرأة، فقال
+  لها النبي صلى الله عليه وسلم:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" أيْنَ فُلانُ؟ \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">فقالت: ذهب يستعذب لنا ماء، فجاء صاحبهم يحمل قربته، فقال: مَرْحَباً،
+  ما زار العِبادَ شَيءٌ أفضلَ من شيء زارني اليوم، فعلَّق قربته بكَرَب نخلة، وانطلق
+  فجاءهم بعِذْق، فقال النبيّ صلى الله عليه وسلم:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" ألا كُنْتَ اجْتَنَيْتَ؟ \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">فقال: أحببت أن تكونوا الذين تختارون على أعينكم، ثم أخذ الشَّفرة،
+  فقال النبيّ صلى الله عليه وسلم:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" إيَّاكَ والْحَلُوبَ \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">، فذبح لهم يومئذٍ، فأكلوا، فقال النبيّ صلى الله عليه وسلم:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" لَتُسْئَلُنَّ عَنْ هَذَا يَوْمَ
+  القِيامَةِ، أخْرَجَكُمْ مِنْ بُيُوتِكُمُ الجُوعُ، فَلَمْ تَرْجِعُوا حتَّى أصَبْتُمْ
+  هَذَا، فَهَذَا مِنَ النَّعِيمِ \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  أبو كُرَيب، قال: ثنا يحيى بن أبي بكير، قال: ثنا شيبان بن عبد الرحمن، عن عبد الملك
+  بن عُمَير، عن أبي سَلَمة، عن أبي هريرة، قال: قال النبيّ صلى الله عليه وسلم لأبي
+  بكر وعمر:</font></font><b><font class=\"TextResultArabic\"><font color=\"Red\">
+  \" انْطَلِقُوا بِنا إلى أبي الهَيْثَمِ بن التَّيَّهانِ الأنْصَارِيّ، \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\">فَأتَوهُ، فانطلق بهم إلى ظلّ حديقته،
+  فبسط لهم بساطاً، ثم انطلق إلى نخلة، فجاء بِقِنْوٍ، فقال رسول الله صلى الله عليه
+  وسلم:</font></font><b><font class=\"TextResultArabic\"><font color=\"Red\"> \" فَهَلا
+  تَنَقَّيْتَ لَنَا مِنْ رُطَبِهِ؟ \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">فقال: أردت أن تَخَيَّروا من رطبه وبُسره، فأكلوا وشربوا من الماء
+  فلما فرغ رسول الله صلى الله عليه وسلم، قال:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" هَذَا وَالَّذِي نَفْسِي بِيدِهِ مِنَ النَّعِيمِ، الَّذِي أنْتُمْ
+  فِيهِ مَسْئُولُونَ عَنْهُ يَوْمَ القِيامَةِ، هَذَا الظِّلُّ البارِدُ، والرُّطَبُ
+  البارِدُ، عَلَيْهِ الماءُ البارِدُ \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  صالح بن مسمار المروزي، قال: ثنا آدم بن أبي إياس، قال: ثنا شيبان، قال: ثنا عبد الملك
+  بن عمير، عن أبي سلمة بن عبد الرحمن، عن أبي هريرة، عن رسول الله صلى الله عليه وسلم
+  بنحوه، إلا أنه قال في حديثه:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" ظِلُّ بارِدٌ، وَرُطَبٌ بارِدٌ، وَماءٌ بارِدٌ \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا عليّ بن عيسى البزاز، قال: ثنا سعيد بن سليمان، عن حشرج بن نباتة،
+  قال: ثنا أبو بصيرة عن أبي عسيب، مولى رسول الله صلى الله عليه وسلم، قال: مرّ النبيّ
+  صلى الله عليه وسلم حتى دخل حائطاً لبعض الأنصار، فقال لصاحب الحائط:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" أطْعِمْنا بُسْراً \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\">، فجاءه بِعْذِقٍ فَوَضَعهُ فأكل
+  رسول الله صلى الله عليه وسلم وأصحابه، ثم دعا بماء بارد فشرب، فقال:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" لتُسْئَلُنَّ عَنْ هَذَا يَوْمَ
+  القِيامَةِ \" </font></font></b>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">4 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(102, 1)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(102,1)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">أَلْهَاكُمُ ٱلتَّكَّاثُرُ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">حَتَّىٰ
+  زُرْتُمُ ٱلْمَقَابِرَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">كَلاَّ سَوْفَ تَعْلَمُونَ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">ثُمَّ
+  كَلاَّ سَوْفَ تَعْلَمُونَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">كَلاَّ لَوْ تَعْلَمُونَ عِلْمَ ٱلْيَقِينِ</a>
+  <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">لَتَرَوُنَّ
+  ٱلْجَحِيمَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">ثُمَّ لَتَرَوُنَّهَا عَيْنَ ٱلْيَقِينِ</a>
+  <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">ثُمَّ
+  لَتُسْأَلُنَّ يَوْمَئِذٍ عَنِ ٱلنَّعِيمِ</a> <b>}</b></font>, <br/>, <br/>, <div
+  align=\"right\" dir=\"rtl\"><b><font class=\"TextResultArabic\"><font color=\"Red\">
+  \ </font></font></b><font class=\"TextResultArabic\"><font color=\"black\">، فأخذ
+  عُمَر العِذْق، فضرب به الأرض، حتى تناثر البسر، ثم قال: يا رسول الله، إنا لمسؤولون
+  عن هذا؟ قال:</font></font><b><font class=\"TextResultArabic\"><font color=\"Red\">
+  \" نَعَمْ، إلاَّ مِنْ كِسْرَةٍ يَسَدُّ بِها جَوْعَةً، أوْ جُحْرٍ يُدْخَلُ فِيهِ
+  مِنَ الحَرِّ والقَرِّ \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  سعيد بن عمرو السكونيّ، قال: ثنا بقية، عن حشرج بن نباتة، قال: حدثني أبو بصيرة، عن
+  أبي عسيب مولى رسول الله صلى الله عليه وسلم، قال: مرّ بي النبيّ صلى الله عليه وسلم،
+  فدعاني وخرجت ومعه أبو بكر وعمر رضي الله عنهما، فدخل حائطاً لبعض الأنصار، فأُتِيَ
+  بِبُسْرِ عِذْق منه، فوضع بين يديه، فأكل هو وأصحابه، ثم دعا بما بارد، فشرب، ثم قال:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" لَتُسْئَلُنَّ عَنْ هَذَا يَوْمَ
+  القِيامَةِ \" </font></font></b><font class=\"TextResultArabic\"><font color=\"black\">،
+  فقال عمر: عن هذا يوم القيامة؟ فقال:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" نَعَمْ، إلاَّ مِنْ ثَلاثَةٍ: خِرْقَةٍ كَفَّ بِها عَوْرَتَهُ، أو
+  كِسْرَةٍ سَدَّ بِها جَوْعَتَهُ، أوْ جُحْرِ يَدْخُلُ فِيهِ مِنَ الحَرّ والقَرّ \"
+  </font></font></b><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثني يعقوب، قال: ثنا ابن عُلَّية،
   عن الجريريّ، عن أبي بصيرة، قال: أكل رسول الله صلى الله عليه وسلم وناس من أصحابه
-  أكلة من خبز شعير لم يُنْخَل، بلحم سمين، ثم شربوا من جدول، فقال: \" هذا كله من النعيم
-  الذي تُسئلون عنه يوم القيامة \" حدثنا مجاهد بن موسى، قال: ثنا يزيد، قال: ثنا محمد
-  بن عمرو، عن صفوان بن سليم، عن محمد بن محمود بن لبيد، قال: «لما نزلت { ألهَاكُمُ
-  التَّكاثُرُ } فقرأها حتى بلغ: { لَتُسْئَلُنَّ يَوْمَئِذٍ عنِ النَّعِيمِ } قالوا:
-  يا رسول الله عن أيّ النعيم نُسْأل وإنما هو الأسودان: الماء، والتمر، وسيوفنا على
-  عواتقنا، والعدوّ حاضر، قال: \" إنَّ ذلكَ سَيَكُونُ \" حدثني يعقوب بن إبراهيم والحسين
-  بن عليّ الصُّدَائي، قالا: ثنا شَبَابة بن سوّار، قال: ثني عبد الله بن العلاء أبو
-  رَزِين الشامي، قال: ثنا الضحاك بن عَرْزَم، قال: سمعت أبا هريرة يقول: قال رسول الله
-  صلى الله عليه وسلم: \" إنَّ أوَّلَ ما يُسْئَلُ عَنْهُ العَبْدُ يَوْمَ الْقِيامَةِ
-  مِنَ النَّعِيمِ أنْ يُقالَ لَهُ: أَلَمْ نُصِحَّ لَكَ جِسْمَكَ، وَتُرْوَ مِنَ الماءِ
-  البارِدِ \" حدثني يعقوب، قال: ثنا ابن عُلَية، قال: ثنا ليث، عن مجاهد، قال: قال أبو
-  معمر: عبد الله بن سخبرة: ما أصبح أحد بالكوفة إلا ناعماً وإن أهونهم عيشاً الذي يأكل
-  خبز البرّ، ويشرب ماء الفُرات، ويستظلّ من الظلّ، وذلك من النعيم.حدثنا ابن حميد، قال:
-  ثنا مهران، عن إسماعيل بن عياش، عن عبد الرحمن بن الحرث التميميّ، عن ثابت البُنَاني،
-  عن النبيّ صلى الله عليه وسلم قال: \" النَّعِيم: المَسْئُولُ عَنْهُ يَوْمَ القِيامَةِ:
-  كِسْرَةٌ تُقَوّيهِ، وَماءٌ يُرْوِيهِ، وَثَوْبٌّ يُوَارِيهِ \" قال: ثنا مهران، عن
-  إسماعيل بن عياش، عن بشر بن عبد الله بن بشار، قال: سمعت بعض أهل اليمن يقول: سمعت
-  أبا أُمامة يقول: النعيم المسئول عنه يوم القيامة: خبز البُرّ، والماء العذب.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ أَلْهَاكُمُ ٱلتَّكَّاثُرُ } * { حَتَّىٰ
-  زُرْتُمُ ٱلْمَقَابِرَ } * { كَلاَّ سَوْفَ تَعْلَمُونَ } * { ثُمَّ كَلاَّ سَوْفَ
-  تَعْلَمُونَ } * { كَلاَّ لَوْ تَعْلَمُونَ عِلْمَ ٱلْيَقِينِ } * { لَتَرَوُنَّ ٱلْجَحِيمَ
-  } * { ثُمَّ لَتَرَوُنَّهَا عَيْنَ ٱلْيَقِينِ } * { ثُمَّ لَتُسْأَلُنَّ يَوْمَئِذٍ
-  عَنِ ٱلنَّعِيمِ }قال: ثنا مهران، عن سفيان، عن بكير بن عتيق العامريّ، قال: أُتِيَ
-  سعيد بن جُبير بشربة عسل، فقال: أما إن هذا النعيم الذي نُسْأل عنه يوم القيامة { ثُمَّ
-  لَتُسْئَلُنَّ يَوْمَئِذٍ عَنِ النَّعِيمِ }.حدثنا أبو كُرَيب، قال: ثنا وكيع، عن سفيان،
-  عن بكير بن عتيق، عن سعيد بن جُبير، أنه أُتِيَ بشربة عسل، فقال: هذا من النعيم الذي
-  تُسألون عنه.وقال آخرون: ذلك كلّ ما التذّه الإنسان في الدنيا من شيء. ذكر من قال ذلك:حدثني
+  أكلة من خبز شعير لم يُنْخَل، بلحم سمين، ثم شربوا من جدول، فقال:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" هذا كله من النعيم الذي تُسئلون
+  عنه يوم القيامة \" </font></font></b><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا مجاهد بن موسى، قال: ثنا يزيد،
+  قال: ثنا محمد بن عمرو، عن صفوان بن سليم، عن محمد بن محمود بن لبيد، قال: «لما نزلت
+  { ألهَاكُمُ التَّكاثُرُ } فقرأها حتى بلغ: { لَتُسْئَلُنَّ يَوْمَئِذٍ عنِ النَّعِيمِ
+  } قالوا: يا رسول الله عن أيّ النعيم نُسْأل وإنما هو الأسودان: الماء، والتمر، وسيوفنا
+  على عواتقنا، والعدوّ حاضر، قال:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" إنَّ ذلكَ سَيَكُونُ \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  يعقوب بن إبراهيم والحسين بن عليّ الصُّدَائي، قالا: ثنا شَبَابة بن سوّار، قال: ثني
+  عبد الله بن العلاء أبو رَزِين الشامي، قال: ثنا الضحاك بن عَرْزَم، قال: سمعت أبا
+  هريرة يقول: قال رسول الله صلى الله عليه وسلم:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" إنَّ أوَّلَ ما يُسْئَلُ عَنْهُ العَبْدُ يَوْمَ الْقِيامَةِ مِنَ
+  النَّعِيمِ أنْ يُقالَ لَهُ: أَلَمْ نُصِحَّ لَكَ جِسْمَكَ، وَتُرْوَ مِنَ الماءِ البارِدِ
+  \" </font></font></b><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  يعقوب، قال: ثنا ابن عُلَية، قال: ثنا ليث، عن مجاهد، قال: قال أبو معمر: عبد الله
+  بن سخبرة: ما أصبح أحد بالكوفة إلا ناعماً وإن أهونهم عيشاً الذي يأكل خبز البرّ، ويشرب
+  ماء الفُرات، ويستظلّ من الظلّ، وذلك من النعيم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن حميد، قال: ثنا مهران، عن إسماعيل بن عياش، عن عبد الرحمن بن الحرث التميميّ، عن
+  ثابت البُنَاني، عن النبيّ صلى الله عليه وسلم قال:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" النَّعِيم: المَسْئُولُ عَنْهُ يَوْمَ القِيامَةِ: كِسْرَةٌ تُقَوّيهِ،
+  وَماءٌ يُرْوِيهِ، وَثَوْبٌّ يُوَارِيهِ \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال:
+  ثنا مهران، عن إسماعيل بن عياش، عن بشر بن عبد الله بن بشار، قال: سمعت بعض أهل اليمن
+  يقول: سمعت أبا أُمامة يقول: النعيم المسئول عنه يوم القيامة: خبز البُرّ، والماء العذب.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">5 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(102, 1)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(102,1)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">أَلْهَاكُمُ ٱلتَّكَّاثُرُ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">حَتَّىٰ
+  زُرْتُمُ ٱلْمَقَابِرَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">كَلاَّ سَوْفَ تَعْلَمُونَ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">ثُمَّ
+  كَلاَّ سَوْفَ تَعْلَمُونَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">كَلاَّ لَوْ تَعْلَمُونَ عِلْمَ ٱلْيَقِينِ</a>
+  <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">لَتَرَوُنَّ
+  ٱلْجَحِيمَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">ثُمَّ لَتَرَوُنَّهَا عَيْنَ ٱلْيَقِينِ</a>
+  <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">ثُمَّ
+  لَتُسْأَلُنَّ يَوْمَئِذٍ عَنِ ٱلنَّعِيمِ</a> <b>}</b></font>, <br/>, <br/>, <div
+  align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">قال:
+  ثنا مهران، عن سفيان، عن بكير بن عتيق العامريّ، قال: أُتِيَ سعيد بن جُبير بشربة عسل،
+  فقال: أما إن هذا النعيم الذي نُسْأل عنه يوم القيامة { ثُمَّ لَتُسْئَلُنَّ يَوْمَئِذٍ
+  عَنِ النَّعِيمِ }.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا أبو كُرَيب، قال: ثنا وكيع،
+  عن سفيان، عن بكير بن عتيق، عن سعيد بن جُبير، أنه أُتِيَ بشربة عسل، فقال: هذا من
+  النعيم الذي تُسألون عنه.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال آخرون: ذلك كلّ ما التذّه الإنسان
+  في الدنيا من شيء. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
   محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى وحدثني الحارث، قال: ثنا الحسن، قال:
   ثنا ورقاء، جميعاً عن ابن أبي نجيح، عن مجاهد، في قول الله: { ثُمَّ لَتُسْئَلَنَّ
-  يَوْمَئِذٍ عَنِ النَّعِيمِ } قال: عن كلّ شيء من لذّة الدنيا.حدثنا بشر، قال: ثنا
-  يزيد، قال: ثنا سعيد، عن قتادة، قوله: { ثُمَّ لَتُسْئَلُنَّ يَوْمَئِذٍ عَنِ النَّعِيمِ
-  }: إن الله عزّ وجلّ سائل كلّ عبد عما استودعه من نِعَمه وحقه.حدثنا ابن عبد الأعلى،
-  قال: ثنا ابن ثور، عن مَعْمر، عن قتادة { لَتُسْئَلُنَّ يَوْمَئِذٍ عَنِ النَّعِيمِ
-  } قال: إن الله تعالى ذكره سائل كلَّ ذي نعمة فيما أنعم عليه.وكان الحسن وقتادة يقولان:
-  ثلاث لا يُسئل عنهنّ ابن آدم، وما خَلاهنّ فيه المسألة والحساب، إلا ما شاء الله: كُسوة
-  يواري بها سَوْءَته، وكسرة يشدّ بها صُلْبه، وبيت يظلُّه.والصواب من القول في ذلك:
-  أن يقال: إن الله أخبر أنه سائل هؤلاء القوم عن النعيم، ولم يخصص في خبره أنه سائلهم
-  عن نوع من النعيم دون نوع، بل عمّ بالخبر في ذلك عن الجميع، فهو سائلهم كما قال عن
-  جميع النعيم، لا عن بعض دون بعض.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  يَوْمَئِذٍ عَنِ النَّعِيمِ } قال: عن كلّ شيء من لذّة الدنيا.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: { ثُمَّ
+  لَتُسْئَلُنَّ يَوْمَئِذٍ عَنِ النَّعِيمِ }: إن الله عزّ وجلّ سائل كلّ عبد عما استودعه
+  من نِعَمه وحقه.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن عبد الأعلى، قال: ثنا
+  ابن ثور، عن مَعْمر، عن قتادة { لَتُسْئَلُنَّ يَوْمَئِذٍ عَنِ النَّعِيمِ } قال: إن
+  الله تعالى ذكره سائل كلَّ ذي نعمة فيما أنعم عليه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وكان
+  الحسن وقتادة يقولان: ثلاث لا يُسئل عنهنّ ابن آدم، وما خَلاهنّ فيه المسألة والحساب،
+  إلا ما شاء الله: كُسوة يواري بها سَوْءَته، وكسرة يشدّ بها صُلْبه، وبيت يظلُّه.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">والصواب من القول في ذلك: أن يقال: إن الله أخبر أنه سائل هؤلاء القوم
+  عن النعيم، ولم يخصص في خبره أنه سائلهم عن نوع من النعيم دون نوع، بل عمّ بالخبر في
+  ذلك عن الجميع، فهو سائلهم كما قال عن جميع النعيم، لا عن بعض دون بعض.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">6 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section>"
 

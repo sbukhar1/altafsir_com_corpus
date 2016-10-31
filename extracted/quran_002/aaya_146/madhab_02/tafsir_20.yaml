@@ -1,4 +1,4 @@
-location:
+position:
   sura: '002'
   aaya: '146'
   madhab: '02'
@@ -9,30 +9,65 @@ meta:
   year: '803'
 aaya: الَّذِينَ آتَيْنَاهُمُ الْكِتَابَ يَعْرِفُونَهُ كَمَا يَعْرِفُونَ أَبْنَاءَهُمْ
   ۖ وَإِنَّ فَرِيقًا مِنْهُمْ لَيَكْتُمُونَ الْحَقَّ وَهُمْ يَعْلَمُونَ
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ ٱلَّذِينَ آتَيْنَاهُمُ
-  ٱلْكِتَابَ يَعْرِفُونَهُ كَمَا يَعْرِفُونَ أَبْنَاءَهُمْ وَإِنَّ فَرِيقاً مِّنْهُمْ
-  لَيَكْتُمُونَ ٱلْحَقَّ وَهُمْ يَعْلَمُونَ }قوله تعالى: { ٱلَّذِينَ آتَيْنَاهُمُ
-  ٱلْكِتَابَ يَعْرِفُونَهُ كَمَا يَعْرِفُونَ أَبْنَآءَهُمْ... }.أي يميزونه بصفاته
-  من حيث كونه رسولا. (كما يعرفون) أبناءهم (من حيث كونهم أبْنَاءهم، أو يكون من تشبيه
-  المركب بالمفرد، أي يعلمونه بصفاته من حيث كونه رسولا كما يعرفون أبناءهم) بالإطلاق
-  لا من حيث النسبة كما قال عبد الله بن سلام: إنه لا يتحقق أن ابنه المنسوب إليه ابنه
-  حقيقة، ويتحقق رسالته صلى الله عليه وسلم علما يقينيا.قال ابن عطية: لم شبّه معرفتهم
-  له بمعرفتهم أبناءهم ولم يشبهها بمعرفتهم أنفسهم؟وأجاب بأن الإنسان يتقدم له زمن لا
-  يعرف فيه حال نفسه وهو زمن الصغر بخلاف ولده فإنه يشاهده من صغره إلى كبره.قال ابن
-  عرفة: ويحتمل عندي أن يجاب بأن ذلك التشبيه للمشاكلة لأن الكتاب منفصل عنهم فشبه بما
-  هو منفصل عنهم وهو الولد بخلاف أنفسهم.قوله تعالى: { لَيَكْتُمُونَ ٱلْحَقَّ وَهُمْ
-  يَعْلَمُونَ }.وباقيهم إما يقرون بالحقّ، أو يكتمون الحق وهم يجلهون. وهذا دليل على
-  أن كفر الأولين عناد.قلت: تقدم لنا في الختمة الأخرى عن الشيخ الإمام ابن عرفة وهو
-  أن آخر الآية مناقض لأولها لأن قوله { يَعْرِفُونَهُ كَمَا يَعْرِفُونَ أَبْنَآءَهُمْ
-  } دليل على أن جميعهم يعلمونه.وقوله تعالى: { وَإِنَّ فَرِيقاً مِّنْهُمْ لَيَكْتُمُونَ
-  ٱلْحَقَّ... }.دليل على أن بعضهم يجهلونه.فإن قلت: إنما مقتضاه أن باقيهم يعلمون الحق
-  ويظهرونه؟قلنا: لا يصح لوجهين: الأول: أن الضمير المجرور في قوله { مِّنْهُم } عائد
-  على { ٱلَّذِينَ آتَيْنَاهُمُ ٱلْكِتَابَ } وقد قالوا: إن { ٱلَّذِينَ } بدل من { الظالمين
-  } ، فإذا كان كذلك بطل أن يكون بعضهم عالمين به ومظهرين له إذ لا يسمى فاعل ذلك ظالما.-
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(2, 146)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(2,146)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">ٱلَّذِينَ
+  آتَيْنَاهُمُ ٱلْكِتَابَ يَعْرِفُونَهُ كَمَا يَعْرِفُونَ أَبْنَاءَهُمْ وَإِنَّ فَرِيقاً
+  مِّنْهُمْ لَيَكْتُمُونَ ٱلْحَقَّ وَهُمْ يَعْلَمُونَ</a> <b>}</b></font>, <br/>,
+  <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">قوله
+  تعالى: { ٱلَّذِينَ آتَيْنَاهُمُ ٱلْكِتَابَ يَعْرِفُونَهُ كَمَا يَعْرِفُونَ أَبْنَآءَهُمْ...
+  }.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">أي يميزونه بصفاته من حيث كونه رسولا.
+  (كما يعرفون) أبناءهم (من حيث كونهم أبْنَاءهم، أو يكون من تشبيه المركب بالمفرد، أي
+  يعلمونه بصفاته من حيث كونه رسولا كما يعرفون أبناءهم) بالإطلاق لا من حيث النسبة كما
+  قال عبد الله بن سلام: إنه لا يتحقق أن ابنه المنسوب إليه ابنه حقيقة، ويتحقق رسالته
+  صلى الله عليه وسلم علما يقينيا.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال
+  ابن عطية: لم شبّه معرفتهم له بمعرفتهم أبناءهم ولم يشبهها بمعرفتهم أنفسهم؟</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وأجاب بأن الإنسان يتقدم له زمن لا يعرف فيه حال نفسه وهو زمن الصغر
+  بخلاف ولده فإنه يشاهده من صغره إلى كبره.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال
+  ابن عرفة: ويحتمل عندي أن يجاب بأن ذلك التشبيه للمشاكلة لأن الكتاب منفصل عنهم فشبه
+  بما هو منفصل عنهم وهو الولد بخلاف أنفسهم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قوله
+  تعالى: { لَيَكْتُمُونَ ٱلْحَقَّ وَهُمْ يَعْلَمُونَ }.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وباقيهم
+  إما يقرون بالحقّ، أو يكتمون الحق وهم يجلهون. وهذا دليل على أن كفر الأولين عناد.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قلت: تقدم لنا في الختمة الأخرى عن الشيخ الإمام ابن عرفة وهو أن آخر
+  الآية مناقض لأولها لأن قوله { يَعْرِفُونَهُ كَمَا يَعْرِفُونَ أَبْنَآءَهُمْ } دليل
+  على أن جميعهم يعلمونه.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقوله تعالى: { وَإِنَّ فَرِيقاً
+  مِّنْهُمْ لَيَكْتُمُونَ ٱلْحَقَّ... }.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">دليل
+  على أن بعضهم يجهلونه.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">فإن قلت: إنما مقتضاه أن باقيهم
+  يعلمون الحق ويظهرونه؟</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">قلنا: لا يصح لوجهين: الأول: أن
+  الضمير المجرور في قوله { مِّنْهُم } عائد على { ٱلَّذِينَ آتَيْنَاهُمُ ٱلْكِتَابَ
+  } وقد قالوا: إن { ٱلَّذِينَ } بدل من { الظالمين } ، فإذا كان كذلك بطل أن يكون بعضهم
+  عالمين به ومظهرين له إذ لا يسمى فاعل ذلك ظالما.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">-
   الثاني: { إِنَّ فَرِيقاً } إنما يطلق على القليل من الجماعة ولا يقال للنصف (فريقا)(فيلزم)
-  أن يكون أكثرهم مظهرين للحق، وذلك مخالف لسياق الآية لأنها إنما سيقت لذمهم.وأجاب ابن
-  / عرفة عن الإشكال باحتمال كون فيهم مِن علِم وتحقق ولم تعرض له شبهة توجب له الريبة
-  والشك في علمه فهؤلاء هم الّذين قيل فيهم { وَإِنَّ فَرِيقاً مِّنْهُمْ لَيَكْتُمُونَ
-  ٱلْحَقَّ وَهُمْ يَعْلَمُونَ }. ومنهم من علم وعرضت له شبهة توجب التردد في علمه فهؤلاء
-  هم المسكوت عنهم.\r\n\t\t\t\r\n\t\t\t</section>"
+  أن يكون أكثرهم مظهرين للحق، وذلك مخالف لسياق الآية لأنها إنما سيقت لذمهم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وأجاب ابن / عرفة عن الإشكال باحتمال كون فيهم مِن علِم وتحقق ولم
+  تعرض له شبهة توجب له الريبة والشك في علمه فهؤلاء هم الّذين قيل فيهم { وَإِنَّ فَرِيقاً
+  مِّنْهُمْ لَيَكْتُمُونَ ٱلْحَقَّ وَهُمْ يَعْلَمُونَ }. ومنهم من علم وعرضت له شبهة
+  توجب التردد في علمه فهؤلاء هم المسكوت عنهم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

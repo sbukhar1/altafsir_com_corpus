@@ -1,4 +1,4 @@
-location:
+position:
   sura: '001'
   aaya: '004'
   madhab: '02'
@@ -7,18 +7,42 @@ meta:
   title: تفسير زاد المسير في علم التفسير
   author: ابن الجوزي
   year: '597'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ مَـٰلِكِ يَوْمِ
-  ٱلدِّينِ }قوله تعالى: { مَالِك يَومِ الدينِ }قرأ عاصم والكسائي، وخلف، ويعقوب: «مالك»
-  بألف. وقرأ ابن السميفع، وابن أبي عبلة كذلك، إِلا أنهما نصبا الكاف. وقرأ أبو هريرة،
-  وعاصم الجحدري:«ملْكِ» باسكان اللام من غير الألف مع كسر الكاف، وقرأ أبو عثمان النهدي،
-  والشعبي «مَلِكَ» بكسر اللام ونصب الكاف من غير ألف. وقرأ سعد بن أبي وقاص، وعائشة،
-  ومورَّق العجلي: «مَلِكُ» مثل ذلك إلا أنهم رفعوا الكاف. وقرأ أبيّ بن كعب، وأبو رجاء
-  العطاردي «مليك» بياء بعد اللام مكسورة الكاف من غير ألف. وقرأ عمرو بن العاص كذلك،
-  إلا أنه ضمَّ الكاف. وقرأَ أبو حنيفة، وأبو حيوة «مَلكَ» على الفعل الماضي، «ويومَ»
-  بالنصب.وروى عبد الوارث عن أبي عمرو: إِسكان اللام، والمشهور عن أبي عمرو وجمهور القراء
-  «مَلِك» بفتح الميم مع كسر اللام، وهو أظهر في المدح، لأن كل ملك مالك، وليس كل مالك
-  ملكاً.وفي «الدين» هاهنا قولان.أحدهما: أنه الحساب. قاله ابن مسعود.والثاني: الجزاء.
-  قاله ابن عباس، ولما أقر الله عز وجل في قوله { رب العالمين } أنه مالك الدنيا. دل
-  بقوله { مالك يوم الدين } على أنه مالك الأخرى. وقيل: إِنما خصَّ يوم الدين، لأنه ينفرد
-  يومئذ بالحكم في خلقه.\r\n\t\t\t\r\n\t\t\t</section>"
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(1, 4)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(1,4)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">مَـٰلِكِ
+  يَوْمِ ٱلدِّينِ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">قوله تعالى: { مَالِك يَومِ الدينِ
+  }</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">قرأ عاصم والكسائي، وخلف، ويعقوب:
+  «مالك» بألف. وقرأ ابن السميفع، وابن أبي عبلة كذلك، إِلا أنهما نصبا الكاف. وقرأ أبو
+  هريرة، وعاصم الجحدري:«ملْكِ» باسكان اللام من غير الألف مع كسر الكاف، وقرأ أبو عثمان
+  النهدي، والشعبي «مَلِكَ» بكسر اللام ونصب الكاف من غير ألف. وقرأ سعد بن أبي وقاص،
+  وعائشة، ومورَّق العجلي: «مَلِكُ» مثل ذلك إلا أنهم رفعوا الكاف. وقرأ أبيّ بن كعب،
+  وأبو رجاء العطاردي «مليك» بياء بعد اللام مكسورة الكاف من غير ألف. وقرأ عمرو بن العاص
+  كذلك، إلا أنه ضمَّ الكاف. وقرأَ أبو حنيفة، وأبو حيوة «مَلكَ» على الفعل الماضي، «ويومَ»
+  بالنصب.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وروى عبد الوارث عن أبي عمرو: إِسكان
+  اللام، والمشهور عن أبي عمرو وجمهور القراء «مَلِك» بفتح الميم مع كسر اللام، وهو أظهر
+  في المدح، لأن كل ملك مالك، وليس كل مالك ملكاً.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وفي
+  «الدين» هاهنا قولان.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">أحدهما: أنه الحساب. قاله ابن مسعود.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">والثاني: الجزاء. قاله ابن عباس، ولما أقر الله عز وجل في قوله { رب
+  العالمين } أنه مالك الدنيا. دل بقوله { مالك يوم الدين } على أنه مالك الأخرى. وقيل:
+  إِنما خصَّ يوم الدين، لأنه ينفرد يومئذ بالحكم في خلقه.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

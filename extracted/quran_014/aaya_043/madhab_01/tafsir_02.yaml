@@ -1,4 +1,4 @@
-location:
+position:
   sura: '014'
   aaya: '043'
   madhab: '01'
@@ -9,29 +9,64 @@ meta:
   year: '538'
 aaya: مُهْطِعِينَ مُقْنِعِي رُءُوسِهِمْ لَا يَرْتَدُّ إِلَيْهِمْ طَرْفُهُمْ ۖ وَأَفْئِدَتُهُمْ
   هَوَاءٌ
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَلاَ تَحْسَبَنَّ
-  ٱللَّهَ غَافِلاً عَمَّا يَعْمَلُ ٱلظَّالِمُونَ إِنَّمَا يُؤَخِّرُهُمْ لِيَوْمٍ تَشْخَصُ
-  فِيهِ ٱلأَبْصَارُ } * { مُهْطِعِينَ مُقْنِعِي رُءُوسِهِمْ لاَ يَرْتَدُّ إِلَيْهِمْ
-  طَرْفُهُمْ وَأَفْئِدَتُهُمْ هَوَآءٌ }فإن قلت: يتعالى الله عن السهو والغفلة، فكيف
-  يحسبه رسول الله صلى الله عليه وسلم وهو أعلم الناس به غافلاً حتى قيل { وَلاَ تَحْسَبَنَّ
-  ٱللَّهَ غَـٰفِلاً }؟ قلت: إن كان خطابا لرسول الله صلى الله عليه وسلم ففيه وجهان.
-  أحدهما التثبيت على ما كان عليه من أنه لا يحسب الله غافلاً، كقوله:{ فَلاَ تَكُونَنَّ
-  مِنَ ٱلْمُشْرِكِينَ }[الأنعام: 14]،{ وَلاَ تَدْعُ مَعَ ٱللَّهِ إِلَـٰهاً ءاخَرَ }[الشعراء:
-  213]، كما جاء في الأمر{ يَا أَيُّهَا ٱلَّذِينَ آمَنُواْ آمِنُواْ بِٱللَّهِ وَرَسُولِهِ }[النساء:
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(14, 42)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(14,42)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَلاَ
+  تَحْسَبَنَّ ٱللَّهَ غَافِلاً عَمَّا يَعْمَلُ ٱلظَّالِمُونَ إِنَّمَا يُؤَخِّرُهُمْ
+  لِيَوْمٍ تَشْخَصُ فِيهِ ٱلأَبْصَارُ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">مُهْطِعِينَ مُقْنِعِي
+  رُءُوسِهِمْ لاَ يَرْتَدُّ إِلَيْهِمْ طَرْفُهُمْ وَأَفْئِدَتُهُمْ هَوَآءٌ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">فإن قلت: يتعالى الله عن السهو والغفلة، فكيف يحسبه رسول الله صلى
+  الله عليه وسلم وهو أعلم الناس به غافلاً حتى قيل { وَلاَ تَحْسَبَنَّ ٱللَّهَ غَـٰفِلاً
+  }؟ قلت: إن كان خطابا لرسول الله صلى الله عليه وسلم ففيه وجهان. أحدهما التثبيت على
+  ما كان عليه من أنه لا يحسب الله غافلاً، كقوله:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">فَلاَ تَكُونَنَّ مِنَ ٱلْمُشْرِكِينَ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[الأنعام:
+  14]،</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">وَلاَ تَدْعُ مَعَ ٱللَّهِ إِلَـٰهاً ءاخَرَ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[الشعراء:
+  213]، كما جاء في الأمر</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">يَا أَيُّهَا ٱلَّذِينَ آمَنُواْ آمِنُواْ بِٱللَّهِ وَرَسُولِهِ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[النساء:
   136] والثاني: أنّ المراد بالنهي عن حسبانه غافلاً، الإيذان بأنه عالم بما يفعل الظالمون،
-  لا يخفى عليه منه شيء، وأنه معاقبهم على قليله وكثيره على سبيل الوعيد والتهديد كقوله:{ وَٱللَّهُ
-  بِمَا تَعْمَلُونَ عَلِيمٌ }[البقرة: 283] يريد الوعيد. ويجوز أن يراد: ولا تحسبنه
-  يعاملهم معاملة الغافل عما يعملون، ولكن معاملة الرقيب عليهم، المحاسب على النقير والقطمير،
-  وإن كان خطابا لغيره ممن يجوز أن يحسبه غافلاً، لجهله بصفاته، فلا سؤال فيه، وعن ابن
-  عيينة: تسلية للمظلوم وتهديد للظالم، فقيل له من قال هذا؟ فغضب وقال: إنما قاله من
-  علمه وقرىء: «يؤخرهم» بالنون والياء { تَشْخَصُ فِيهِ ٱلابْصَـٰرُ } أي أبصارهم لا
-  تقرّ في أماكنها من هول ما ترى { مُهْطِعِينَ } مسرعين إلى الداعي. وقيل: الإهطاع أن
-  تقبل ببصرك على المرئي تديم النظر إليه لا تطرف { مُقْنِعِى رُؤُوسِهِمْ } رافعيها
-  { لاَ يَرْتَدُّ إِلَيْهِمْ طَرْفُهُمْ } لا يرجع إليهم أن يطرفوا بعيونهم، أي: لا
-  يطرفون، ولكن عيونهم مفتوحة ممدودة من غير تحريك للأجفان. أو لا يرجع إليهم نظرهم فينظروا
-  إلى أنفسهم. الهواء: الخلاء الذي لم تشغله الأجرام، فوصف به فقيل: قلب فلان هواء إذا
-  كان جباناً لا قوّة في قلبه ولا جرأة. ويقال للأحمق أيضاً: قلبه هواء. قال زهير:مِنَ
-  الظُّلْمَانِ جُؤْجُؤُهُ هَوَاءُ   لأنّ النعام مثل في الجبن والحمق. وقال حسان:فَأَنْتَ
-  مُجَوَّفٌ نَخْبٌ هَوَاءُ   وعن ابن جريج { وَأَفْئِدَتُهُمْ هَوآءُ } صفر من الخير
-  خاوية منه، وقال أبو عبيدة: جوف لا عقول لهم.\r\n\t\t\t\r\n\t\t\t</section>"
+  لا يخفى عليه منه شيء، وأنه معاقبهم على قليله وكثيره على سبيل الوعيد والتهديد كقوله:</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">وَٱللَّهُ
+  بِمَا تَعْمَلُونَ عَلِيمٌ</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">[البقرة: 283] يريد الوعيد. ويجوز أن يراد: ولا تحسبنه يعاملهم معاملة
+  الغافل عما يعملون، ولكن معاملة الرقيب عليهم، المحاسب على النقير والقطمير، وإن كان
+  خطابا لغيره ممن يجوز أن يحسبه غافلاً، لجهله بصفاته، فلا سؤال فيه، وعن ابن عيينة:
+  تسلية للمظلوم وتهديد للظالم، فقيل له من قال هذا؟ فغضب وقال: إنما قاله من علمه وقرىء:
+  «يؤخرهم» بالنون والياء { تَشْخَصُ فِيهِ ٱلابْصَـٰرُ } أي أبصارهم لا تقرّ في أماكنها
+  من هول ما ترى { مُهْطِعِينَ } مسرعين إلى الداعي. وقيل: الإهطاع أن تقبل ببصرك على
+  المرئي تديم النظر إليه لا تطرف { مُقْنِعِى رُؤُوسِهِمْ } رافعيها { لاَ يَرْتَدُّ
+  إِلَيْهِمْ طَرْفُهُمْ } لا يرجع إليهم أن يطرفوا بعيونهم، أي: لا يطرفون، ولكن عيونهم
+  مفتوحة ممدودة من غير تحريك للأجفان. أو لا يرجع إليهم نظرهم فينظروا إلى أنفسهم. الهواء:
+  الخلاء الذي لم تشغله الأجرام، فوصف به فقيل: قلب فلان هواء إذا كان جباناً لا قوّة
+  في قلبه ولا جرأة. ويقال للأحمق أيضاً: قلبه هواء. قال زهير:</font></font><table class=\"TextArabic\"
+  dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">مِنَ الظُّلْمَانِ جُؤْجُؤُهُ هَوَاءُ</font></font></b></td><td class=\"TextArabic\">   </td><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\"/></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">لأنّ النعام مثل في الجبن والحمق.
+  وقال حسان:</font></font><table class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">فَأَنْتَ
+  مُجَوَّفٌ نَخْبٌ هَوَاءُ</font></font></b></td><td class=\"TextArabic\">   </td><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\"/></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">وعن ابن جريج { وَأَفْئِدَتُهُمْ
+  هَوآءُ } صفر من الخير خاوية منه، وقال أبو عبيدة: جوف لا عقول لهم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

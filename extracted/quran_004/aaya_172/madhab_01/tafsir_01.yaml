@@ -1,4 +1,4 @@
-location:
+position:
   sura: '004'
   aaya: '172'
   madhab: '01'
@@ -7,20 +7,46 @@ meta:
   title: تفسير جامع البيان في تفسير القرآن
   author: الطبري
   year: '310'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ لَّن يَسْتَنكِفَ
-  ٱلْمَسِيحُ أَن يَكُونَ عَبْداً للَّهِ وَلاَ ٱلْمَلاۤئِكَةُ ٱلْمُقَرَّبُونَ وَمَن
-  يَسْتَنْكِفْ عَنْ عِبَادَتِهِ وَيَسْتَكْبِرْ فَسَيَحْشُرُهُمْ إِلَيهِ جَمِيعاً }يعنـي
-  جلّ ثناؤه بقوله: { لَنْ يَسْتَنْكِفَ الـمَسِيحُ }: لن يأنف ولن يستكبر الـمسيح {
-  أنْ يَكُونَ عَبْداً لله } يعنـي: من أن يكون عبداً لله. كما:حدثنا بشر بن معاذ، قال:
-  ثنا يزيد، قال: ثنا سعيد، عن قتادة: { لَنْ يَسْتَنْكِفَ الـمَسِيحُ أنْ يكُون عبداً
-  لِلَّهِ وَلا الـمَلائِكَةُ الـمُقَّربُونَ }: لن يحتشم الـمسيح أن يكون عبداً لله
-  ولا الـملائكة.وأما قوله: { وَلا الـمَلائِكَةُ الـمُقَرَّبُونَ } فإنه يعنـي: ولن
-  يستنكف أيضاً من الإقرار لله بـالعبودية، والإذعان له بذلك رُسُله الـمقرّبون الذين
-  قرّبهم الله ورفع منازلهم علـى غيرهم من خـلقه.ورُوي عن الضحاك أنه كان يقول فـي ذلك
-  ما:حدثنـي به جعفر بن مـحمد البزوري، قال: ثنا يعلـى بن عبـيد، عن الأجلـح، قال: قلت
-  للضحاك: ما الـمقرّبون؟ قال: أقربهم إلـى السماء الثانـية.القول فـي تأويـل قوله تعالـى:
-  { وَمَنْ يَسْتَنْكفْ عَنْ عِبـادَتِهِ وَيَسْتَكْبِرْ فَسَيَحْشُرُهُمْ إلَـيهِ جَمِيعاً
-  }.يعنـي جلّ ثناؤه بذلك: ومن يتعظم عن عبـادة ربه، ويأنف من التذلل والـخضوع له بـالطاعة
-  من الـخـلق كلهم، ويستكبر عن ذلك، { فَسَيْحُشُرُهُمْ إلـيه جَمِيعاً } يقول: فسيبعثهم
-  يوم القـيامة جميعاً، فـيجمعهم لـموعدهم عنده.\r\n\t\t\t\r\n\t\t\t</section>"
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(4, 172)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(4,172)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">لَّن
+  يَسْتَنكِفَ ٱلْمَسِيحُ أَن يَكُونَ عَبْداً للَّهِ وَلاَ ٱلْمَلاۤئِكَةُ ٱلْمُقَرَّبُونَ
+  وَمَن يَسْتَنْكِفْ عَنْ عِبَادَتِهِ وَيَسْتَكْبِرْ فَسَيَحْشُرُهُمْ إِلَيهِ جَمِيعاً</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">يعنـي جلّ ثناؤه بقوله: { لَنْ يَسْتَنْكِفَ الـمَسِيحُ }: لن يأنف
+  ولن يستكبر الـمسيح { أنْ يَكُونَ عَبْداً لله } يعنـي: من أن يكون عبداً لله. كما:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا بشر بن معاذ، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة: { لَنْ
+  يَسْتَنْكِفَ الـمَسِيحُ أنْ يكُون عبداً لِلَّهِ وَلا الـمَلائِكَةُ الـمُقَّربُونَ
+  }: لن يحتشم الـمسيح أن يكون عبداً لله ولا الـملائكة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وأما
+  قوله: { وَلا الـمَلائِكَةُ الـمُقَرَّبُونَ } فإنه يعنـي: ولن يستنكف أيضاً من الإقرار
+  لله بـالعبودية، والإذعان له بذلك رُسُله الـمقرّبون الذين قرّبهم الله ورفع منازلهم
+  علـى غيرهم من خـلقه.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">ورُوي عن الضحاك أنه كان يقول فـي
+  ذلك ما:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي به جعفر بن مـحمد البزوري،
+  قال: ثنا يعلـى بن عبـيد، عن الأجلـح، قال: قلت للضحاك: ما الـمقرّبون؟ قال: أقربهم
+  إلـى السماء الثانـية.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">القول فـي تأويـل قوله تعالـى: {
+  وَمَنْ يَسْتَنْكفْ عَنْ عِبـادَتِهِ وَيَسْتَكْبِرْ فَسَيَحْشُرُهُمْ إلَـيهِ جَمِيعاً
+  }.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">يعنـي جلّ ثناؤه بذلك: ومن يتعظم
+  عن عبـادة ربه، ويأنف من التذلل والـخضوع له بـالطاعة من الـخـلق كلهم، ويستكبر عن
+  ذلك، { فَسَيْحُشُرُهُمْ إلـيه جَمِيعاً } يقول: فسيبعثهم يوم القـيامة جميعاً، فـيجمعهم
+  لـموعدهم عنده.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

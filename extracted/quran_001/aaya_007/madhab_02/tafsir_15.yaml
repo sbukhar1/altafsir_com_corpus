@@ -1,4 +1,4 @@
-location:
+position:
   sura: '001'
   aaya: '007'
   madhab: '02'
@@ -7,44 +7,141 @@ meta:
   title: تفسير زاد المسير في علم التفسير
   author: ابن الجوزي
   year: '597'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ صِرَاطَ ٱلَّذِينَ
-  أَنْعَمْتَ عَلَيْهِمْ غَيْرِ ٱلْمَغْضُوبِ عَلَيْهِم وَلاَ ٱلضَّآلِّينَ }قوله تعالى:
-  { الَّذِينَ أَنْعَمْتَ عَلَيْهمْ }قال ابن عباس: هم النبيُّون، والصديقون، والشهداء،
-  والصالحون. وقرأ الأكثرون «عليهم» بكسر الهاء، وكذلك «لديهم» و «إِليهم» وقرأهنَّ حمزة
-  بضمها. وكان ابن كثير يصل [ضم] الميم بواو. وقال ابن الأنباري: حكى اللغويون في «عليهم»
-  عشر لغات، قرى بعامتها «عليهُمْ» بضم الهاء وإِسكان الميم و«عليهِمْ» بكسر الهاء وإِسكان
-  الميم، و«عليهمي» بكسر الهاء والميم وإلحاق ياء بعد الكسرة، و«عليهُمو» بكسر الهاء
-  وضم الميم وزيادة واو بعد الضمة، و«عليهمو» بضم الهاء والميم وإِدخال واو بعد الميم
-  و«عليهُمُ» بضم الهاء والميم من غير زيادة واو، وهذه الأوجه الستة مأثورة عن القراء،
-  وأوجه أربعة منقولة عن العرب «عليهُمي» بضم الهاء وكسر الميم وإِدخال ياء، و«عليهُمِ»
-  بضم الهاء وكسر الميم من غير زيادة ياءٍ، و«عليهِمُ» بكسر الهاء وضم الميم من غير إِلحاق
-  واو، و «عليهِمِ» بكسر الهاء والميم ولا ياء بعد الميم.فأما «المغضوب عليهم» فهم اليهود؛
-  و «الضالون»: النصارى.رواه عدي بن حاتم عن النبي صلى الله عليه وسلم.قال ابن قتيبة:
-  والضلال: الحيرة والعدول عن الحق.فصلومن السنة في حق قارىء الفاتحة أن يعقبها بـ «آمين».
-  قال شيخنا أبو الحسن علي ابن عبيد الله: وسواء كان خارج الصلاة أو فيها، لما روى أبو
-  هريرة عن النبي صلى الله عليه وسلم أنه قال: \" إذا قال الامام { غَيْرِ المغْضُوبِ
-  عَليْهم ولا الضَّالين } فقال من خلفه: آمين، فوافق ذلك قول أهل السماء، غفر له ما
-  تقدم من ذنبه \" وفي معنى آمين: ثلاثة أقوال.أحدها: أن معنى آمين: كذلك يكون. حكاه
-  ابن الأنباري عن ابن عباس، والحسن.والثاني: أنها بمعنى: اللهم استجب. قاله الحسن والزجاج.والثالث:
-  أنه اسم من أسماء الله تعالى. قاله مجاهد، وهلال بن يساف، وجعفر ابن محمد.وقال ابن
-  قتيبة: معناها: يا أمين أجب دعاءنا، فسقطت يا، كما سقطت في قوله:{ يوسف أعرض عن هذا }[يوسف:29]
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(1, 7)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(1,7)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">صِرَاطَ
+  ٱلَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ ٱلْمَغْضُوبِ عَلَيْهِم وَلاَ ٱلضَّآلِّينَ</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">قوله تعالى: { الَّذِينَ أَنْعَمْتَ عَلَيْهمْ }</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قال ابن عباس: هم النبيُّون، والصديقون، والشهداء، والصالحون. وقرأ
+  الأكثرون «عليهم» بكسر الهاء، وكذلك «لديهم» و «إِليهم» وقرأهنَّ حمزة بضمها. وكان
+  ابن كثير يصل [ضم] الميم بواو. وقال ابن الأنباري: حكى اللغويون في «عليهم» عشر لغات،
+  قرى بعامتها «عليهُمْ» بضم الهاء وإِسكان الميم و«عليهِمْ» بكسر الهاء وإِسكان الميم،
+  و«عليهمي» بكسر الهاء والميم وإلحاق ياء بعد الكسرة، و«عليهُمو» بكسر الهاء وضم الميم
+  وزيادة واو بعد الضمة، و«عليهمو» بضم الهاء والميم وإِدخال واو بعد الميم و«عليهُمُ»
+  بضم الهاء والميم من غير زيادة واو، وهذه الأوجه الستة مأثورة عن القراء، وأوجه أربعة
+  منقولة عن العرب «عليهُمي» بضم الهاء وكسر الميم وإِدخال ياء، و«عليهُمِ» بضم الهاء
+  وكسر الميم من غير زيادة ياءٍ، و«عليهِمُ» بكسر الهاء وضم الميم من غير إِلحاق واو،
+  و «عليهِمِ» بكسر الهاء والميم ولا ياء بعد الميم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">فأما
+  «المغضوب عليهم» فهم اليهود؛ و «الضالون»: النصارى.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">رواه
+  عدي بن حاتم عن النبي صلى الله عليه وسلم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال
+  ابن قتيبة: والضلال: الحيرة والعدول عن الحق.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">فصل</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">ومن السنة في حق قارىء الفاتحة أن يعقبها بـ «آمين». قال شيخنا أبو
+  الحسن علي ابن عبيد الله: وسواء كان خارج الصلاة أو فيها، لما روى أبو هريرة عن النبي
+  صلى الله عليه وسلم أنه قال:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" إذا قال الامام { غَيْرِ المغْضُوبِ عَليْهم ولا الضَّالين } فقال
+  من خلفه: آمين، فوافق ذلك قول أهل السماء، غفر له ما تقدم من ذنبه \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وفي معنى آمين: ثلاثة أقوال.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">أحدها:
+  أن معنى آمين: كذلك يكون. حكاه ابن الأنباري عن ابن عباس، والحسن.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">والثاني: أنها بمعنى: اللهم استجب. قاله الحسن والزجاج.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">والثالث: أنه اسم من أسماء الله تعالى. قاله مجاهد، وهلال بن يساف،
+  وجعفر ابن محمد.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال ابن قتيبة: معناها: يا أمين
+  أجب دعاءنا، فسقطت يا، كما سقطت في قوله:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">يوسف أعرض عن هذا</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[يوسف:29]
   تأويله: يا يوسف. ومن طوَّل الألف فقال: آمين، أدخل ألف النداء على ألف أمين، كما يقال،
   آزيد أَقبل. ومعناه: يا زيد. قال ابن الأنباري: وهذا القول خطأ عند جميع النحويين،
   لأنه إِذا أدخل «يا» على« آمين» كان منادىً مفرداً، فحكم آخره الرفع، فلما أجمعت العرب
   على فتح نونه، دل على أنه غير منادى، وإنما فتحت نون «آمين» لسكونها وسكون الياء التي
   قبلها، كما تقول العرب: ليت، ولعل. قال: وفي «آمين» لغتان: «أمين» بالقصر، «وآمين»
-  بالمد، والنون فيهما مفتوحة.أنشدنا أبو العباس عن ابن الاعرابي:سقى الله حياً بين صارة
-  والحمى   (حمى) فيْدَ صوبَ المُدْجِنات المواطرأمين وأَدى الله ركباً إليهمُ   بخير
-  ووقَّاهم حِمام المقادر\r\n\t\t\t1 2 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ صِرَاطَ ٱلَّذِينَ أَنْعَمْتَ عَلَيْهِمْ
-  غَيْرِ ٱلْمَغْضُوبِ عَلَيْهِم وَلاَ ٱلضَّآلِّينَ }وأَنشدنا أبو العباس أيضاً:تباعد
-  مني فُطْحُل وابن أمه   أَمين فزاد الله ما بيننا بعداوأنشدنا أبو العباس أيضاً:يا
-  رب لا تسلبنّي حبها أبداً   ويرحم الله عبداً قال آميناوأَنشدني أَبي:أمين ومن أعطاك
-  مني هوداة   رمى الله في أطرافه فاقفعلَّتوأنشدني أبي:فقلت له قد هجت لي بارح الهوى   أصَاب
-  حمام الموت أَهوننا وجداأمين وأضناه الهوى فوق ما به   أمين ولاقى من تباريحه جهدافصلنقل
+  بالمد، والنون فيهما مفتوحة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">أنشدنا
+  أبو العباس عن ابن الاعرابي:</font></font><table class=\"TextArabic\" dir=\"rtl\"><tr
+  class=\"TextArabic\"><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">سقى الله حياً بين صارة والحمى</font></font></b></td><td class=\"TextArabic\">   </td><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">(حمى) فيْدَ
+  صوبَ المُدْجِنات المواطر</font></font></b></td></tr><tr class=\"TextArabic\"><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">أمين وأَدى
+  الله ركباً إليهمُ</font></font></b></td><td class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">بخير ووقَّاهم حِمام المقادر</font></font></b></td></tr></table><label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(15,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(15,2,1)\"><u>2</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(1, 7)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(1,7)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">صِرَاطَ ٱلَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ ٱلْمَغْضُوبِ
+  عَلَيْهِم وَلاَ ٱلضَّآلِّينَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\"
+  dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">وأَنشدنا أبو
+  العباس أيضاً:</font></font><table class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">تباعد مني
+  فُطْحُل وابن أمه</font></font></b></td><td class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">أَمين فزاد الله ما بيننا بعدا</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">وأنشدنا أبو العباس أيضاً:</font></font><table
+  class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">يا رب لا تسلبنّي حبها أبداً</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">ويرحم الله عبداً قال آمينا</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">وأَنشدني أَبي:</font></font><table
+  class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">أمين ومن أعطاك مني هوداة</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">رمى الله في أطرافه فاقفعلَّت</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">وأنشدني أبي:</font></font><table
+  class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">فقلت له قد هجت لي بارح الهوى</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">أصَاب حمام الموت أَهوننا وجدا</font></font></b></td></tr><tr class=\"TextArabic\"><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">أمين وأضناه
+  الهوى فوق ما به</font></font></b></td><td class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">أمين ولاقى من تباريحه جهدا</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">فصل</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">نقل
   الأكثرون عن أحمد أن الفاتحة شرط في صحة الصلاة، فمن تركها مع القدرة عليها لم تصح
   صلاته، وهو قول مالك، والشافعي. وقال أبو حنيفة رحمه الله: لا تتعين، وهي رواية عن
   أحمد، ويدل على الرواية الأولى ما روي في «الصحيحين» من حديث عبادة بن الصامت عن النبي
-  صلى الله عليه وسلم أنه قال: \" لا صلاة لمن لم يقرأ بفاتحة الكتاب \" والله تعالى
-  أعلم بالصواب.\r\n\t\t\t\r\n\t\t\t1 2 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  صلى الله عليه وسلم أنه قال:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" لا صلاة لمن لم يقرأ بفاتحة الكتاب \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">والله
+  تعالى أعلم بالصواب.</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(15,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(15,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section>"
 

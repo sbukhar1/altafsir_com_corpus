@@ -1,4 +1,4 @@
-location:
+position:
   sura: '003'
   aaya: '199'
   madhab: '01'
@@ -7,85 +7,191 @@ meta:
   title: تفسير جامع البيان في تفسير القرآن
   author: الطبري
   year: '310'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَإِنَّ مِنْ أَهْلِ
-  ٱلْكِتَٰبِ لَمَن يُؤْمِنُ بِٱللَّهِ وَمَآ أُنزِلَ إِلَيْكُمْ وَمَآ أُنزِلَ إِلَيْهِمْ
-  خَٰشِعِينَ للَّهِ لاَ يَشْتَرُونَ بِآيَـٰتِ ٱللَّهِ ثَمَناً قَلِيلاً أُوْلـٰئِكَ
-  لَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ إِنَّ ٱللَّهَ سَرِيعُ ٱلْحِسَابِ }اختلف أهل التأويـل
-  فـيـمن عنى بهذه الآية، فقال بعضهم: عنى بها أصحمة النـجاشي، وفـيه أنزلت. ذكر من قال
-  ذلك:حدثنا عصام بن زياد بن رواد بن الـجراح، قال: ثنا أبـي، قال: ثنا أبو بكر الهذلـي،
-  عن قتادة، عن سعيد بن الـمسيب، عن جابر بن عبد الله: أن النبـي صلى الله عليه وسلم
-  قال: \" اخْرُجُوا فَصَلُّوا علـى أخٍ لَكُم! \" فصلـى بنا، فكبر أربع تكبـيرات، فقال:
-  \" هَذَا النَّـجاشِي أصَحمةُ \" ، فقال الـمنافقون: انظروا هذا يصلـي علـى علـج نصرانـي
-  لـم يره قط! فأنزل الله: { وَإِنَّ مِنْ أَهْلِ ٱلْكِتَـٰبِ لَمَن يُؤْمِنُ بِٱللَّهِ
-  }.حدثنا ابن بشار، قال: ثنا معاذ بن هشام، قال: ثنا أبـي، عن قتادة: أن النبـي صلى
-  الله عليه وسلم قال: \" إنَّ أخاكُمْ النَّـجاشِيَّ قَدْ ماتَ فَصَلُّوا عَلَـيّه!
-  \" قالوا: يصلي على رجل لـيس بـمسلـم؟ قال: فنزلت: { وَإِنَّ مِنْ أَهْلِ ٱلْكِتَـٰبِ
-  لَمَن يُؤْمِنُ بِٱللَّهِ وَمَا أُنزِلَ إِلَيْكُمْ وَمَا أُنزِلَ إِلَيْهِمْ خَـٰشِعِينَ
-  للَّهِ } قال قتادة: فقالوا: فإنه كان لا يصلـي إلـى القبلة. فأنزل الله: { وَلِلَّهِ
-  ٱلْمَشْرِقُ وَٱلْمَغْرِبُ فَأَيْنَمَا تُوَلُّواْ فَثَمَّ وَجْهُ ٱللَّهِ }.حدثنا
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(3, 199)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(3,199)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَإِنَّ
+  مِنْ أَهْلِ ٱلْكِتَٰبِ لَمَن يُؤْمِنُ بِٱللَّهِ وَمَآ أُنزِلَ إِلَيْكُمْ وَمَآ أُنزِلَ
+  إِلَيْهِمْ خَٰشِعِينَ للَّهِ لاَ يَشْتَرُونَ بِآيَـٰتِ ٱللَّهِ ثَمَناً قَلِيلاً
+  أُوْلـٰئِكَ لَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ إِنَّ ٱللَّهَ سَرِيعُ ٱلْحِسَابِ</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">اختلف أهل التأويـل فـيـمن عنى بهذه الآية، فقال بعضهم: عنى بها أصحمة
+  النـجاشي، وفـيه أنزلت. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  عصام بن زياد بن رواد بن الـجراح، قال: ثنا أبـي، قال: ثنا أبو بكر الهذلـي، عن قتادة،
+  عن سعيد بن الـمسيب، عن جابر بن عبد الله: أن النبـي صلى الله عليه وسلم قال:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" اخْرُجُوا فَصَلُّوا علـى أخٍ
+  لَكُم! \" </font></font></b><font class=\"TextResultArabic\"><font color=\"black\">فصلـى
+  بنا، فكبر أربع تكبـيرات، فقال:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" هَذَا النَّـجاشِي أصَحمةُ \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">، فقال الـمنافقون: انظروا هذا يصلـي علـى علـج نصرانـي لـم يره قط!
+  فأنزل الله: { وَإِنَّ مِنْ أَهْلِ ٱلْكِتَـٰبِ لَمَن يُؤْمِنُ بِٱللَّهِ }.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن بشار، قال: ثنا معاذ بن هشام، قال: ثنا أبـي، عن قتادة:
+  أن النبـي صلى الله عليه وسلم قال:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" إنَّ أخاكُمْ النَّـجاشِيَّ قَدْ ماتَ فَصَلُّوا عَلَـيّه! \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\">قالوا: يصلي على رجل لـيس بـمسلـم؟
+  قال: فنزلت: { وَإِنَّ مِنْ أَهْلِ ٱلْكِتَـٰبِ لَمَن يُؤْمِنُ بِٱللَّهِ وَمَا أُنزِلَ
+  إِلَيْكُمْ وَمَا أُنزِلَ إِلَيْهِمْ خَـٰشِعِينَ للَّهِ } قال قتادة: فقالوا: فإنه
+  كان لا يصلـي إلـى القبلة. فأنزل الله: { وَلِلَّهِ ٱلْمَشْرِقُ وَٱلْمَغْرِبُ فَأَيْنَمَا
+  تُوَلُّواْ فَثَمَّ وَجْهُ ٱللَّهِ }.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
   بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: { وَإِنَّ مِنْ أَهْلِ ٱلْكِتَـٰبِ
   لَمَن يُؤْمِنُ بِٱللَّهِ وَمَا أُنزِلَ إِلَيْكُمْ وَمَا أُنزِلَ إِلَيْهِمْ } ذكر
   لنا أن هذه الآية نزلت فـي النـجاشي وفـي ناس من أصحابه آمنوا بنبـي الله صلى الله
   عليه وسلم، وصدقوا به. قال: وذكر لنا أن نبـي الله صلى الله عليه وسلم استغفر للنـجاشي،
-  وصلـى علـيه حين بلغه موته، قال لأصحابه: \" صَلُّوا علـى أخٍ لَكُمْ قَدْ ماتَ بِغَيْرِ
-  بِلادِكُم! \" فقال أناس من أهل النفـاق: يصلـي علـى رجل مات لـيس من أهل دينه! فأنزل
-  الله هذه الآية: { وَإِنَّ مِنْ أَهْلِ ٱلْكِتَـٰبِ لَمَن يُؤْمِنُ بِٱللَّهِ وَمَا
-  أُنزِلَ إِلَيْكُمْ وَمَا أُنزِلَ إِلَيْهِمْ خَـٰشِعِينَ للَّهِ لاَ يَشْتَرُونَ بِـئَايَـٰتِ
-  بٱللَّهِ ثَمَناً قَلِيلاً أُولَئِكَ لَهُمْ أجْرُهُمْ عِنْدَ رَبِّهِمْ إنَّ ٱللَّهَ
-  سَرِيعُ ٱلحِسابِ }.حدثنا الـحسن ن يحيـى، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر،
-  عن قتادة، فـي قوله: { وَإِنَّ مِنْ أَهْلِ ٱلْكِتَـٰبِ لَمَن يُؤْمِنُ بِٱللَّهِ وَمَا
-  أُنزِلَ إِلَيْكُمْ وَمَا أُنزِلَ إِلَيْهِمْ } قال: نزلت فـي النـجاشي وأصحابه مـمن
-  آمن بـالنبـي صلى الله عليه وسلم، واسم النـجاشي أصحمة.حدثنا الـمثنى، قال: ثنا إسحاق،
-  قال: قال عبد الرزاق، وقال ابن عيـينة: اسم النـجاشي بـالعربـية عطية.حدثنا القاسم،
-  قال: ثنا الـحسين، قال: ثنا حجاج، عن ابن جريج، قال: لـما صلـى النبـي صلى الله عليه
-  وسلم علـى النـجاشي، طعن فـي ذلك الـمنافقون، فنزلت هذه الآية: { وَإِنَّ مِنْ أَهْلِ
-  ٱلْكِتَـٰبِ لَمَن يُؤْمِنُ بِٱللَّهِ }.\r\n\t\t\t\r\n\t\t\t1 2 3 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَإِنَّ مِنْ أَهْلِ ٱلْكِتَٰبِ لَمَن
-  يُؤْمِنُ بِٱللَّهِ وَمَآ أُنزِلَ إِلَيْكُمْ وَمَآ أُنزِلَ إِلَيْهِمْ خَٰشِعِينَ
-  للَّهِ لاَ يَشْتَرُونَ بِآيَـٰتِ ٱللَّهِ ثَمَناً قَلِيلاً أُوْلـٰئِكَ لَهُمْ أَجْرُهُمْ
-  عِندَ رَبِّهِمْ إِنَّ ٱللَّهَ سَرِيعُ ٱلْحِسَابِ }.. إلا آخر الآية.وقال آخرون: بل
-  عنى بذلك عبد الله بن سلام ومن معه. ذكر من قال ذلك:حدثنا القاسم، قال: ثنا الـحسين،
-  قال: ثنـي حجاج، عن ابن جريج، قال: نزلت ـ يعنـي هذه الآية ـ فـي عبد الله بن سلام
-  ومن معه.حدثنـي يونس، قال: أخبرنا ابن وهب، قال: أخبرنـي ابن زيد فـي قوله: { وَإِنَّ
-  مِنْ أَهْلِ ٱلْكِتَـٰبِ لَمَن يُؤْمِنُ بِٱللَّهِ وَمَا أُنزِلَ إِلَيْكُمْ وَمَا
-  أُنزِلَ إِلَيْهِمْ }... الآية كلها، قال: هؤلاء يهود.وقال آخرون: بل عنى بذلك: مسلـمة
-  أهل الكتاب. ذكر من قال ذلك:حدثنـي الـمثنى، قال: ثنا أبو حذيفة، قال: ثنا شبل عن ابن
-  أبـي نـجيح، عن مـجاهد: { وَإِنَّ مِنْ أَهْلِ ٱلْكِتَـٰبِ لَمَن يُؤْمِنُ بِٱللَّهِ
-  وَمَا أُنزِلَ إِلَيْكُمْ } من الـيهود والنصارى، وهم مسلـمة أهل الكتاب.وأولـى هذه
-  الأقوال بتأويـل الآية ما قاله مـجاهد، وذلك أن الله جلّ ثناؤه عمّ بقوله: { وَإِن
+  وصلـى علـيه حين بلغه موته، قال لأصحابه:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" صَلُّوا علـى أخٍ لَكُمْ قَدْ ماتَ بِغَيْرِ بِلادِكُم! \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\">فقال أناس من أهل النفـاق: يصلـي
+  علـى رجل مات لـيس من أهل دينه! فأنزل الله هذه الآية: { وَإِنَّ مِنْ أَهْلِ ٱلْكِتَـٰبِ
+  لَمَن يُؤْمِنُ بِٱللَّهِ وَمَا أُنزِلَ إِلَيْكُمْ وَمَا أُنزِلَ إِلَيْهِمْ خَـٰشِعِينَ
+  للَّهِ لاَ يَشْتَرُونَ بِـئَايَـٰتِ بٱللَّهِ ثَمَناً قَلِيلاً أُولَئِكَ لَهُمْ أجْرُهُمْ
+  عِنْدَ رَبِّهِمْ إنَّ ٱللَّهَ سَرِيعُ ٱلحِسابِ }.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  الـحسن ن يحيـى، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر، عن قتادة، فـي قوله: {
+  وَإِنَّ مِنْ أَهْلِ ٱلْكِتَـٰبِ لَمَن يُؤْمِنُ بِٱللَّهِ وَمَا أُنزِلَ إِلَيْكُمْ
+  وَمَا أُنزِلَ إِلَيْهِمْ } قال: نزلت فـي النـجاشي وأصحابه مـمن آمن بـالنبـي صلى
+  الله عليه وسلم، واسم النـجاشي أصحمة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  الـمثنى، قال: ثنا إسحاق، قال: قال عبد الرزاق، وقال ابن عيـينة: اسم النـجاشي بـالعربـية
+  عطية.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا القاسم، قال: ثنا الـحسين،
+  قال: ثنا حجاج، عن ابن جريج، قال: لـما صلـى النبـي صلى الله عليه وسلم علـى النـجاشي،
+  طعن فـي ذلك الـمنافقون، فنزلت هذه الآية: { وَإِنَّ مِنْ أَهْلِ ٱلْكِتَـٰبِ لَمَن
+  يُؤْمِنُ بِٱللَّهِ }.</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\"
+  border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE:
+  none; BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(3, 199)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(3,199)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَإِنَّ مِنْ أَهْلِ ٱلْكِتَٰبِ لَمَن يُؤْمِنُ بِٱللَّهِ
+  وَمَآ أُنزِلَ إِلَيْكُمْ وَمَآ أُنزِلَ إِلَيْهِمْ خَٰشِعِينَ للَّهِ لاَ يَشْتَرُونَ
+  بِآيَـٰتِ ٱللَّهِ ثَمَناً قَلِيلاً أُوْلـٰئِكَ لَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ
+  إِنَّ ٱللَّهَ سَرِيعُ ٱلْحِسَابِ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\"
+  dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">.. إلا آخر الآية.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال آخرون: بل عنى بذلك عبد الله بن سلام ومن معه. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا القاسم، قال: ثنا الـحسين، قال: ثنـي حجاج، عن ابن جريج، قال:
+  نزلت ـ يعنـي هذه الآية ـ فـي عبد الله بن سلام ومن معه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  يونس، قال: أخبرنا ابن وهب، قال: أخبرنـي ابن زيد فـي قوله: { وَإِنَّ مِنْ أَهْلِ
+  ٱلْكِتَـٰبِ لَمَن يُؤْمِنُ بِٱللَّهِ وَمَا أُنزِلَ إِلَيْكُمْ وَمَا أُنزِلَ إِلَيْهِمْ
+  }... الآية كلها، قال: هؤلاء يهود.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  آخرون: بل عنى بذلك: مسلـمة أهل الكتاب. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  الـمثنى، قال: ثنا أبو حذيفة، قال: ثنا شبل عن ابن أبـي نـجيح، عن مـجاهد: { وَإِنَّ
+  مِنْ أَهْلِ ٱلْكِتَـٰبِ لَمَن يُؤْمِنُ بِٱللَّهِ وَمَا أُنزِلَ إِلَيْكُمْ } من الـيهود
+  والنصارى، وهم مسلـمة أهل الكتاب.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وأولـى
+  هذه الأقوال بتأويـل الآية ما قاله مـجاهد، وذلك أن الله جلّ ثناؤه عمّ بقوله: { وَإِن
   مِّنْ أَهْلِ ٱلْكِتَـٰبِ } أهل الكتاب جميعاً، فلـم يخصص منهم النصارى دون الـيهود،
   ولا الـيهود دون النصارى، وإنـما أخبر أن من أهل الكتاب من يؤمن بـالله، وكلا الفريقـين،
-  أعنـي الـيهود والنصارى، من أهل الكتاب.فإن قال قائل: فما أنت قائل فـي الـخبر الذي
-  رويت عن جابر وغيره أنها نزلت فـي النـجاشي وأصحابه؟ قـيـل: ذلك خبر فـي إسناده نظر،
-  ولو كان صحيحاً لا شكّ فـيه لـم يكن لـما قلنا فـي معنى الآية بخلاف، وذلك أن جابراً
-  ومن قال بقوله إنـما قالوا: نزلت فـي النـجاشي، وقد تنزل الآية فـي الشيء ثم يعمّ بها
-  كلّ من كان فـي معناه. فـالآية وإن كانت نزلت فـي النـجاشي، فإن الله تبـارك وتعالـى
-  قد جعل الـحكم الذي حكم به للنـجاشي حكماً لـجميع عبـاده الذين هم بصفة النـجاشي فـي
-  اتبـاعهم رسول الله صلى الله عليه وسلم والتصديق بـما جاءهم به من عند الله، بعد الذي
-  كانوا علـيه قبل ذلك من اتبـاع أمر الله فـيـما أمر به عبـاده فـي الكتابـين: التوراة
-  والإنـجيـل. فإذا كان ذلك كذلك، فتأويـل الآية: وإن من أهل الكتاب التوراة والإنـجيـل
-  لـمن يؤمن بـالله، فـيقرّ بوحدانـيته، وما أنزل إلـيكم أيها الـمؤمنون، يقول: وما أنزل
-  إلـيكم من كتابه ووحيه، علـى لسان رسوله مـحمد صلى الله عليه وسلم، وما أنزل إلـيهم،
-  يعنـي: وما أنزل علـى أهل الكتاب من الكتب، وذلك التوراة والإنـجيـل والزبور، خاشعين
-  لله، يعنـي: خاضعين لله بـالطاعة، مستكينـين له بها متذللـين. كما:حدثنا يونس، قال:
-  أخبرنا ابن وهب، قال: أخبرنـي ابن زيد فـي قوله: { خَـٰشِعِينَ للَّهِ } قال: الـخاشع:
-  الـمتذلل لله الـخائف.ونصب قوله: { خَـٰشِعِينَ للَّهِ } علـى الـحال من قوله: { لَمَن
-  يُؤْمِنُ بِٱللَّهِ } وهو حال مَّـما فـي «يؤمن» من ذكر «من».{ لاَ يَشْتَرُونَ بِـئَايَـٰتِ
+  أعنـي الـيهود والنصارى، من أهل الكتاب.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">فإن
+  قال قائل: فما أنت قائل فـي الـخبر الذي رويت عن جابر وغيره أنها نزلت فـي النـجاشي
+  وأصحابه؟ قـيـل: ذلك خبر فـي إسناده نظر، ولو كان صحيحاً لا شكّ فـيه لـم يكن لـما
+  قلنا فـي معنى الآية بخلاف، وذلك أن جابراً ومن قال بقوله إنـما قالوا: نزلت فـي النـجاشي،
+  وقد تنزل الآية فـي الشيء ثم يعمّ بها كلّ من كان فـي معناه. فـالآية وإن كانت نزلت
+  فـي النـجاشي، فإن الله تبـارك وتعالـى قد جعل الـحكم الذي حكم به للنـجاشي حكماً لـجميع
+  عبـاده الذين هم بصفة النـجاشي فـي اتبـاعهم رسول الله صلى الله عليه وسلم والتصديق
+  بـما جاءهم به من عند الله، بعد الذي كانوا علـيه قبل ذلك من اتبـاع أمر الله فـيـما
+  أمر به عبـاده فـي الكتابـين: التوراة والإنـجيـل. فإذا كان ذلك كذلك، فتأويـل الآية:
+  وإن من أهل الكتاب التوراة والإنـجيـل لـمن يؤمن بـالله، فـيقرّ بوحدانـيته، وما أنزل
+  إلـيكم أيها الـمؤمنون، يقول: وما أنزل إلـيكم من كتابه ووحيه، علـى لسان رسوله مـحمد
+  صلى الله عليه وسلم، وما أنزل إلـيهم، يعنـي: وما أنزل علـى أهل الكتاب من الكتب، وذلك
+  التوراة والإنـجيـل والزبور، خاشعين لله، يعنـي: خاضعين لله بـالطاعة، مستكينـين له
+  بها متذللـين. كما:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا يونس، قال: أخبرنا ابن وهب،
+  قال: أخبرنـي ابن زيد فـي قوله: { خَـٰشِعِينَ للَّهِ } قال: الـخاشع: الـمتذلل لله
+  الـخائف.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">ونصب قوله: { خَـٰشِعِينَ للَّهِ
+  } علـى الـحال من قوله: { لَمَن يُؤْمِنُ بِٱللَّهِ } وهو حال مَّـما فـي «يؤمن» من
+  ذكر «من».</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">{ لاَ يَشْتَرُونَ بِـئَايَـٰتِ
   ٱللَّهِ ثَمَناً قَلِيلاً } يقول: لا يحرّفون ما أنزل إلـيهم فـي كتبه من نعت مـحمد
   صلى الله عليه وسلم فـيبدلونه، ولا غير ذلك من أحكامه وحججه فـيه، لعرض من الدنـيا
   خسيس، يعطونه علـى ذلك التبديـل، وابتغاء الرياسة علـى الـجهال، ولكن ينقادون للـحقّ،
   فـيعملون بـما أمرهم الله به، فـيـما أنزل إلـيهم من كتبه، وينتهون عما نهاهم عنه فـيها،
-  ويؤثرون أمر الله تعالـى علـى هوى أنفسهم.\r\n\t\t\t\r\n\t\t\t1 2 3 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَإِنَّ مِنْ أَهْلِ ٱلْكِتَٰبِ لَمَن
-  يُؤْمِنُ بِٱللَّهِ وَمَآ أُنزِلَ إِلَيْكُمْ وَمَآ أُنزِلَ إِلَيْهِمْ خَٰشِعِينَ
-  للَّهِ لاَ يَشْتَرُونَ بِآيَـٰتِ ٱللَّهِ ثَمَناً قَلِيلاً أُوْلـٰئِكَ لَهُمْ أَجْرُهُمْ
-  عِندَ رَبِّهِمْ إِنَّ ٱللَّهَ سَرِيعُ ٱلْحِسَابِ }القول فـي تأويـل قوله: { أُوْلـئِكَ
-  لَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ إِنَّ ٱللَّهَ سَرِيعُ ٱلْحِسَابِ }.يعنـي بقوله
-  جلّ ثناؤه: { أُوْلـئِكَ لَهُمْ أَجْرُهُمْ }: هؤلاء الذين يؤمنون بـالله، وما أنزل
-  إلـيكم، وما أنزل إلـيهم، لهم أجرهم عند ربهم؛ يعنـي: لهم عوض أعمالهم التـي عملوها،
-  وثواب طاعتهم ربهم فـيـما أطاعوه فـيه عند ربهم، يعنـي: مذخور ذلك لهم لديه، حتـى يصيروا
-  إلـيه فـي القـيامة، فـيوفـيهم ذلك { إِنَّ ٱللَّهَ سَرِيعُ ٱلْحِسَابِ } وسرعة حسابه
-  تعالـى ذكره، أنه لا يخفـى علـيه شيء من أعمالهم قبل أن يعملوها، وبعد ما عملوها، فلا
-  حاجة به إلـى إحصاء عدد ذلك، فـيقع فـي الإحصاء إبطاء، فلذلك قال: { إِنَّ ٱللَّهَ
-  سَرِيعُ ٱلْحِسَابِ }.\r\n\t\t\t\r\n\t\t\t1 2 3 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  ويؤثرون أمر الله تعالـى علـى هوى أنفسهم.</font></font>&#13;\t\t\t<label disabled=\"true\"
+  class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(3, 199)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(3,199)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَإِنَّ مِنْ أَهْلِ ٱلْكِتَٰبِ لَمَن يُؤْمِنُ بِٱللَّهِ
+  وَمَآ أُنزِلَ إِلَيْكُمْ وَمَآ أُنزِلَ إِلَيْهِمْ خَٰشِعِينَ للَّهِ لاَ يَشْتَرُونَ
+  بِآيَـٰتِ ٱللَّهِ ثَمَناً قَلِيلاً أُوْلـٰئِكَ لَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ
+  إِنَّ ٱللَّهَ سَرِيعُ ٱلْحِسَابِ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\"
+  dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">القول فـي تأويـل
+  قوله: { أُوْلـئِكَ لَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ إِنَّ ٱللَّهَ سَرِيعُ ٱلْحِسَابِ
+  }.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">يعنـي بقوله جلّ ثناؤه: { أُوْلـئِكَ
+  لَهُمْ أَجْرُهُمْ }: هؤلاء الذين يؤمنون بـالله، وما أنزل إلـيكم، وما أنزل إلـيهم،
+  لهم أجرهم عند ربهم؛ يعنـي: لهم عوض أعمالهم التـي عملوها، وثواب طاعتهم ربهم فـيـما
+  أطاعوه فـيه عند ربهم، يعنـي: مذخور ذلك لهم لديه، حتـى يصيروا إلـيه فـي القـيامة،
+  فـيوفـيهم ذلك { إِنَّ ٱللَّهَ سَرِيعُ ٱلْحِسَابِ } وسرعة حسابه تعالـى ذكره، أنه
+  لا يخفـى علـيه شيء من أعمالهم قبل أن يعملوها، وبعد ما عملوها، فلا حاجة به إلـى إحصاء
+  عدد ذلك، فـيقع فـي الإحصاء إبطاء، فلذلك قال: { إِنَّ ٱللَّهَ سَرِيعُ ٱلْحِسَابِ
+  }.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">3 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a id=\"NextClass\"/></td></tr></table></center></div></section>"
 

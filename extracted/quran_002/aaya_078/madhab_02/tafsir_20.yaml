@@ -1,4 +1,4 @@
-location:
+position:
   sura: '002'
   aaya: 078
   madhab: '02'
@@ -7,26 +7,76 @@ meta:
   title: تفسير التفسير
   author: ابن عرفة
   year: '803'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَمِنْهُمْ أُمِّيُّونَ
-  لاَ يَعْلَمُونَ ٱلْكِتَابَ إِلاَّ أَمَانِيَّ وَإِنْ هُمْ إِلاَّ يَظُنُّونَ }قوله
-  تعالى: { وَمِنْهُمْ أُمِّيُّونَ لاَ يَعْلَمُونَ ٱلْكِتَابَ إِلاَّ أَمَانِيَّ...
-  }قال ابن عطية: الأميون عامة اليهود وأتباعهم لا يطمع في إيمانهم.قال ابن عرفة: يؤخذ
-  منه ذم التقليد لكن في الباطل، ولا نزاع فيه.ابن عطية: وقيل: قوم ذهب كتابهم. وقيل:
-  نصارى العرب. وعن عليّ هم المجوس.واستبعده ابن عرفة لأنهم لا كتاب لهم، (وقد) جعلهم
-  منهم.ووجهه ابن عطية: بأن الضمير في \" مِنْهُم \" على هذا يرجع للكفار أجمعين (لا
-  أنه) خاص بأهل الكتاب.قال أبو حيان: والاستثناء منفصل.قال الطيبي: يعلمون (بمعنى) يعرفون.
-  ولا يصح أن تكون \" أَمَانِيَّ \" مفعولا ثانيا لها لأن عَلِمَ المتعدية إلى اثنين
-  داخلة على المبتدأ والخبر والكتاب ليس هو الأماني بل غيرها.ورده ابن عرفة بأن ذلك إنما
-  هو في الإثبات، وأما في النفي فيجوز أن تقول: لا أعلم زيدا حمارا.قيل له: هذا الثاني
-  مثبت ولا يجوز أن تقول: لا أعلم زيد إلا حمارا؟فقال: الأَمَانِي (هنا) في معنى النفي
-  إذ ليس المراد إلا النفي المطلق.قال ابن عرفة: والأَمَانِيّ، إمّا بمعنى التلاوة أي
-  لا يعلمون معنى الكتاب بل يحفظون ألفاظه فقط، وأنشدوا عليه قولا في عثمان:(تمنّى) كتاب
-  الله أول ليله   وآخره لاقى حمام المقادوإِمَّا معنى (التمني) أي أنهم يتمنون أن يكونوا
-  يحفظونه ويعلمونه.قلت: وتقدم لنا في الختمة الأخرى أنه من تأكيد الذّم بما يشبه المدح
-  كقوله:هو الكلب إلاّ أنّ فيه ملالة   وسوء مراعاة وما ذاك في الكلبوعكسه كقوله:ولا
-  عيب فيهم غير أن سيوفهم   بهن فلول من قراع الكتائبقوله تعالى: { وَإِنْ هُمْ إِلاَّ
-  يَظُنُّونَ }.ابن عطية: الظن على بابهونقل عن الشيخ أبي علي ناصر الدين أنه معنى يَشُكونَ.وردّه
-  ابن عرفة: بأن فروع الشريعة عندنا يكفي فيها الظنّ والأمور الاعتقادية لا بد فيها من
-  العلم وهذا أمر اعتقادي فالظن (فيه) غير (كاف) فلذلك سجل (عليهم بوصف الظنّ) دون الاتصاف
-  بالعلم فلا يحتاج إلى جعله بمعنى الشك.\r\n\t\t\t\r\n\t\t\t</section>"
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(2, 78)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(2,78)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَمِنْهُمْ
+  أُمِّيُّونَ لاَ يَعْلَمُونَ ٱلْكِتَابَ إِلاَّ أَمَانِيَّ وَإِنْ هُمْ إِلاَّ يَظُنُّونَ</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">قوله تعالى: { وَمِنْهُمْ أُمِّيُّونَ لاَ يَعْلَمُونَ ٱلْكِتَابَ
+  إِلاَّ أَمَانِيَّ... }</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">قال ابن عطية: الأميون عامة اليهود
+  وأتباعهم لا يطمع في إيمانهم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال
+  ابن عرفة: يؤخذ منه ذم التقليد لكن في الباطل، ولا نزاع فيه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">ابن
+  عطية: وقيل: قوم ذهب كتابهم. وقيل: نصارى العرب. وعن عليّ هم المجوس.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">واستبعده ابن عرفة لأنهم لا كتاب لهم، (وقد) جعلهم منهم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">ووجهه ابن عطية: بأن الضمير في \" مِنْهُم \" على هذا يرجع للكفار
+  أجمعين (لا أنه) خاص بأهل الكتاب.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال
+  أبو حيان: والاستثناء منفصل.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال
+  الطيبي: يعلمون (بمعنى) يعرفون. ولا يصح أن تكون \" أَمَانِيَّ \" مفعولا ثانيا لها
+  لأن عَلِمَ المتعدية إلى اثنين داخلة على المبتدأ والخبر والكتاب ليس هو الأماني بل
+  غيرها.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">ورده ابن عرفة بأن ذلك إنما هو في
+  الإثبات، وأما في النفي فيجوز أن تقول: لا أعلم زيدا حمارا.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قيل
+  له: هذا الثاني مثبت ولا يجوز أن تقول: لا أعلم زيد إلا حمارا؟</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">فقال: الأَمَانِي (هنا) في معنى النفي إذ ليس المراد إلا النفي المطلق.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قال ابن عرفة: والأَمَانِيّ، إمّا بمعنى التلاوة أي لا يعلمون معنى
+  الكتاب بل يحفظون ألفاظه فقط، وأنشدوا عليه قولا في عثمان:</font></font><table class=\"TextArabic\"
+  dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">(تمنّى) كتاب الله أول ليله</font></font></b></td><td class=\"TextArabic\">   </td><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">وآخره لاقى
+  حمام المقاد</font></font></b></td></tr></table><font class=\"TextResultArabic\"><font
+  color=\"black\">وإِمَّا معنى (التمني) أي أنهم يتمنون أن يكونوا يحفظونه ويعلمونه.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قلت: وتقدم لنا في الختمة الأخرى أنه من تأكيد الذّم بما يشبه المدح
+  كقوله:</font></font><table class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">هو الكلب
+  إلاّ أنّ فيه ملالة</font></font></b></td><td class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">وسوء مراعاة وما ذاك في الكلب</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">وعكسه كقوله:</font></font><table
+  class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">ولا عيب فيهم غير أن سيوفهم</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">بهن فلول من قراع الكتائب</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">قوله تعالى: { وَإِنْ هُمْ إِلاَّ
+  يَظُنُّونَ }.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">ابن عطية: الظن على بابه</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">ونقل عن الشيخ أبي علي ناصر الدين أنه معنى يَشُكونَ.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وردّه ابن عرفة: بأن فروع الشريعة عندنا يكفي فيها الظنّ والأمور الاعتقادية
+  لا بد فيها من العلم وهذا أمر اعتقادي فالظن (فيه) غير (كاف) فلذلك سجل (عليهم بوصف
+  الظنّ) دون الاتصاف بالعلم فلا يحتاج إلى جعله بمعنى الشك.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

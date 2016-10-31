@@ -1,4 +1,4 @@
-location:
+position:
   sura: '004'
   aaya: '024'
   madhab: '01'
@@ -7,210 +7,500 @@ meta:
   title: تفسير جامع البيان في تفسير القرآن
   author: الطبري
   year: '310'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَٱلْمُحْصَنَٰتُ
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(4, 24)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(4,24)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَٱلْمُحْصَنَٰتُ
   مِنَ ٱلنِّسَآءِ إِلاَّ مَا مَلَكْتَ أَيْمَٰنُكُمْ كِتَٰبَ ٱللَّهِ عَلَيْكُمْ وَأُحِلَّ
   لَكُمْ مَّا وَرَاءَ ذَٰلِكُمْ أَن تَبْتَغُواْ بِأَمْوَٰلِكُمْ مُّحْصِنِينَ غَيْرَ
   مُسَٰفِحِينَ فَمَا ٱسْتَمْتَعْتُمْ بِهِ مِنْهُنَّ فَآتُوهُنَّ أُجُورَهُنَّ فَرِيضَةً
   وَلاَ جُنَاحَ عَلَيْكُمْ فِيمَا تَرَٰضَيْتُمْ بِهِ مِن بَعْدِ ٱلْفَرِيضَةِ إِنَّ
-  ٱللَّهَ كَانَ عَلِيماً حَكِيماً }يعني بذلك جلّ ثناؤه: حرّمت عليكم المحصنات من النساء،
-  إلا ما ملكت أيمانكم.واختلف أهل التأويل في المحصنات التي عناهنّ الله في هذه الآية،
-  فقال بعضهم: هن ذوات الأزواج غير المسبيات منهنّ. وملكُ اليمين: السبايا اللواتي فرّق
-  بينهنّ وبين أزواجهنّ السباء، فحللن لمن صرن له بملك اليمين من غير طلاق كان من زوجها
-  الحربيّ لها. ذكر من قال ذلك:حدثنا محمد بن بشار، قال: ثنا عبد الرحمن، قال: ثنا إسرائيل،
-  عن أبي حصين، عن سعيد بن جبير، عن ابن عباس، قال: كل ذات زوج إتيانها زنا، إلا ما سَبَيْتَ.حدثنا
-  أبو كريب، قال: ثنا ابن عطية، قال: ثنا إسرائيل، عن أبي حصين، عن سعيد بن جبير، عن
-  ابن عباس، مثله.حدثني المثنى، قال: ثنا عبد الله بن صالح، قال: ثنى معاوية، عن عليّ
-  بن أبي طلحة، عن ابن عباس في قوله: { وَٱلْمُحْصَنَـٰتُ مِنَ ٱلنِّسَاء إِلاَّ مَا
-  مَلَكْتَ أَيْمَـٰنُكُمْ } يقول: كل امرأة لها زوج فهي عليك حرام إلا أمة ملكتها ولها
-  زوج بأرض الحرب، فهي لك حلال إذا استبرأتها.وحدثني المثنى، قال: ثنا عمرو بن عون، قال:
-  أخبرنا هشيم، عن خالد، عن أبي قلابة في قوله: { وَٱلْمُحْصَنَـٰتُ مِنَ ٱلنّسَاء إِلاَّ
-  مَا مَلَكْتَ أَيْمَـٰنُكُمْ } قال: ما سبيتم من النساء، إذا سَبَيْتَ المرأة ولها
-  زوج في قومها، فلا بأس أن تطأها.حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد
+  ٱللَّهَ كَانَ عَلِيماً حَكِيماً</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\"
+  dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">يعني بذلك جلّ
+  ثناؤه: حرّمت عليكم المحصنات من النساء، إلا ما ملكت أيمانكم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">واختلف
+  أهل التأويل في المحصنات التي عناهنّ الله في هذه الآية، فقال بعضهم: هن ذوات الأزواج
+  غير المسبيات منهنّ. وملكُ اليمين: السبايا اللواتي فرّق بينهنّ وبين أزواجهنّ السباء،
+  فحللن لمن صرن له بملك اليمين من غير طلاق كان من زوجها الحربيّ لها. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا محمد بن بشار، قال: ثنا عبد الرحمن، قال: ثنا إسرائيل، عن أبي
+  حصين، عن سعيد بن جبير، عن ابن عباس، قال: كل ذات زوج إتيانها زنا، إلا ما سَبَيْتَ.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا أبو كريب، قال: ثنا ابن عطية، قال: ثنا إسرائيل، عن أبي حصين،
+  عن سعيد بن جبير، عن ابن عباس، مثله.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  المثنى، قال: ثنا عبد الله بن صالح، قال: ثنى معاوية، عن عليّ بن أبي طلحة، عن ابن
+  عباس في قوله: { وَٱلْمُحْصَنَـٰتُ مِنَ ٱلنِّسَاء إِلاَّ مَا مَلَكْتَ أَيْمَـٰنُكُمْ
+  } يقول: كل امرأة لها زوج فهي عليك حرام إلا أمة ملكتها ولها زوج بأرض الحرب، فهي لك
+  حلال إذا استبرأتها.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وحدثني المثنى، قال: ثنا عمرو بن
+  عون، قال: أخبرنا هشيم، عن خالد، عن أبي قلابة في قوله: { وَٱلْمُحْصَنَـٰتُ مِنَ ٱلنّسَاء
+  إِلاَّ مَا مَلَكْتَ أَيْمَـٰنُكُمْ } قال: ما سبيتم من النساء، إذا سَبَيْتَ المرأة
+  ولها زوج في قومها، فلا بأس أن تطأها.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد في قوله: { وَٱلْمُحْصَنَـٰتُ مِنَ ٱلنِّسَاء
+  إِلاَّ مَا مَلَكْتَ أَيْمَـٰنُكُمْ } قال: كل امرأة محصنة لها زوج فهي محرمة إلا ما
+  ملكت يمينك من السبي وهي محصنة لها زوج، فلا تحرم عليك به. قال: كان أبي يقول ذلك.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني المثنى، قال: ثنا عتبة بن سعيد الحمصي، قال: ثنا سعيد، عن مكحول
   في قوله: { وَٱلْمُحْصَنَـٰتُ مِنَ ٱلنِّسَاء إِلاَّ مَا مَلَكْتَ أَيْمَـٰنُكُمْ }
-  قال: كل امرأة محصنة لها زوج فهي محرمة إلا ما ملكت يمينك من السبي وهي محصنة لها زوج،
-  فلا تحرم عليك به. قال: كان أبي يقول ذلك.حدثني المثنى، قال: ثنا عتبة بن سعيد الحمصي،
-  قال: ثنا سعيد، عن مكحول في قوله: { وَٱلْمُحْصَنَـٰتُ مِنَ ٱلنِّسَاء إِلاَّ مَا مَلَكْتَ
-  أَيْمَـٰنُكُمْ } قال: السبايا.واعتلّ قائلو هذه المقالة بالأخبار التي رُويت أن هذه
-  الآية نزلت فيمن سُبي من أَوْطاس. ذكر الرواية بذلك:حدثنا بشر بن معاذ قال: ثنا يزيد،
-  قال: ثنا سعيد، عن قتادة، عن أبي الخليل، عن أبي علقمة الهاشمي، عن أبي سعيد الخدريّ:
-  أن نبيّ الله صلى الله عليه وسلم يوم حنين بعث جيشاً إلى أوطاس، فلقوا عدواً، فأصابوا
-  سبايا لهنّ أزواج من المشركين، فكان المسلمون يتأثّمون من غشيانهنّ، فأنزل الله تبارك
-  وتعالى هذه الآية: { وَٱلْمُحْصَنَـٰتُ مِنَ ٱلنِّسَاء إِلاَّ مَا مَلَكْتَ أَيْمَـٰنُكُمْ
-  } أي هنّ حلال لكم إذا ما انقضت عِدَدُهن.حدثنا محمد بن بشار، قال: ثنا عبد الأعلى،
-  قال: ثنا سعيد، عن قتادة، عن صالح أبي الخليل: أن أبا علقمة الهاشمي حدّث، أن أبا سعيد
-  الخدريّ حدّث: أن نبيّ الله صلى الله عليه وسلم بعث يوم حنين سرية، فأصابوا حيًّا من
-  أحياء العرب يوم أوطاس، فهزموهم وأصابوا لهم سبايا، فكان ناس من أصحاب رسول الله صلى
-  الله عليه وسلم يتأثمون من غشيانهن من أجل أزواجهنّ، فأنزل الله تبارك وتعالى: { والمُحْصَناتُ
-  مِنَ النَّساءِ إلاَّ ما مَلَكَتْ أيمَانُكُمْ } منهنّ، فحلال لكم ذلك.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 9 10 \r\n\t\t\t\t\t\t\t\tمزيد</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَٱلْمُحْصَنَٰتُ مِنَ ٱلنِّسَآءِ إِلاَّ
-  مَا مَلَكْتَ أَيْمَٰنُكُمْ كِتَٰبَ ٱللَّهِ عَلَيْكُمْ وَأُحِلَّ لَكُمْ مَّا وَرَاءَ
-  ذَٰلِكُمْ أَن تَبْتَغُواْ بِأَمْوَٰلِكُمْ مُّحْصِنِينَ غَيْرَ مُسَٰفِحِينَ فَمَا
-  ٱسْتَمْتَعْتُمْ بِهِ مِنْهُنَّ فَآتُوهُنَّ أُجُورَهُنَّ فَرِيضَةً وَلاَ جُنَاحَ
-  عَلَيْكُمْ فِيمَا تَرَٰضَيْتُمْ بِهِ مِن بَعْدِ ٱلْفَرِيضَةِ إِنَّ ٱللَّهَ كَانَ
-  عَلِيماً حَكِيماً }حدثني عليّ بن سعيد الكناني، قال: ثنا عبد الرحيم بن سليمان، عن
-  أشعث بن سوار، عن عثمان البتي، عن أبي الخليل، عن أبي سعيد الخدري، قال: لما سبي رسول
-  الله صلى الله عليه وسلم أهل أوطاس، قلنا: يا رسول الله، كيف نقع على نساء قد عرفنا
-  أنسابهن وأزواجهنّ؟ قال: فنزلت هذه الآية: { والمُحْصَناتُ مِنَ النِّساءِ إلاَّ ما
-  مَلَكَتْ أيمَانُكُمْ }.حدثنا الحسن بن يحيـى، قال: أخبرنا عبد الرزاق، قال: أخبرنا
-  الثوري، عن عثمان البتي، عن أبي الخليل، عن أبي سعيد الخدري، قال: أصبنا نساء من سبي
-  أوطاس لهنّ أزواج، فكرهنا أن نقع عليهنّ ولهن أزواج، فسألنا النبيّ صلى الله عليه وسلم،
-  فنزلت: { وَٱلْمُحْصَنَـٰتُ مِنَ ٱلنِّسَاء إِلاَّ مَا مَلَكْتَ أَيْمَـٰنُكُمْ } فاستحللنا
-  فروجهنّ.حدثنا الحسن بن يحيـى، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر، عن قتادة،
-  عن أبي الخليل عن أبي سعيد، قال: نزلت في يوم أوطاس، أصاب المسلمون سبايا لهن أزواج
-  في الشرك، فقال: { وَٱلْمُحْصَنَـٰتُ مِنَ ٱلنِّسَاء إِلاَّ مَا مَلَكْتَ أَيْمَـٰنُكُمْ
-  } يقول: إلا ما أفاء الله عليكم، قال: فاستحللنا بها فروجهنّ.وقال آخرون ممن قال: «المحصنات
-  ذوات الأزواج في هذا الموضع». بل هنّ كل ذات زوج من النساء حرام على غير أزواجهنّ،
-  إلا أن تكون مملوكة اشتراها مشتر من مولاها فتحلّ لمشتريها، ويُبطل بيع سيدها إياها
-  النكاحَ بينها وبين زوجها. ذكر من قال ذلك:حدثني أبو السائب سلم بن جنادة، قال: ثنا
-  أبو معاوية، عن الأعمش، عن إبراهيم، عن عبد الله في قوله: { وَٱلْمُحْصَنَـٰتُ مِنَ
-  ٱلنِّسَاء إِلاَّ مَا مَلَكْتَ أَيْمَـٰنُكُمْ } قال: كل ذات زوج عليك حرام إلا أن
-  تشتريها، أو ما ملكت يمينك.حدثني المثنى، قال: ثنا محمد بن جعفر، عن شعبة، عن مغيرة
-  عن إبراهيم: أنه سئل عن الأمة تباع ولها زوج، قال: كان عبد الله يقول: بيعها طلاقها،
-  ويتلو هذه الآية: { وَٱلْمُحْصَنَـٰتُ مِنَ ٱلنِّسَاء إِلاَّ مَا مَلَكْتَ أَيْمَـٰنُكُمْ
-  }.حدثنا ابن حميد، قال: ثنا جرير، عن مغيرة، عن إبراهيم، عن عبد الله في قوله: { وَٱلْمُحْصَنَـٰتُ
-  مِنَ ٱلنِّسَاء إِلاَّ مَا مَلَكْتَ أَيْمَـٰنُكُمْ } قال: كل ذات زوج عليك حرام، إلا
-  ما اشتريت بمالك؛ وكان يقول: بيع الأمة: طلاقها.حدثنا الحسن بن يحيـى، قال: أخبرنا
-  عبد الرزاق، قال: أخبرنا معمر، عن الزهري، عن ابن المسيب قوله: { وَٱلْمُحْصَنَـٰتُ
-  مِنَ ٱلنِّسَاء } قال: هنّ ذوات الأزواج حرم الله نكاحهنّ إلا ما ملكت يمينك، فبيعها
-  طلاقها.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 9 10 \r\n\t\t\t\t\t\t\t\tمزيد</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَٱلْمُحْصَنَٰتُ مِنَ ٱلنِّسَآءِ إِلاَّ
-  مَا مَلَكْتَ أَيْمَٰنُكُمْ كِتَٰبَ ٱللَّهِ عَلَيْكُمْ وَأُحِلَّ لَكُمْ مَّا وَرَاءَ
-  ذَٰلِكُمْ أَن تَبْتَغُواْ بِأَمْوَٰلِكُمْ مُّحْصِنِينَ غَيْرَ مُسَٰفِحِينَ فَمَا
-  ٱسْتَمْتَعْتُمْ بِهِ مِنْهُنَّ فَآتُوهُنَّ أُجُورَهُنَّ فَرِيضَةً وَلاَ جُنَاحَ
-  عَلَيْكُمْ فِيمَا تَرَٰضَيْتُمْ بِهِ مِن بَعْدِ ٱلْفَرِيضَةِ إِنَّ ٱللَّهَ كَانَ
-  عَلِيماً حَكِيماً }قال معمر: وقال الحسن مثل ذلك.حدثنا ابن بشار، قال: ثنا عبد الأعلى،
-  قال: ثنا سعيد، عن قتادة، عن الحسن في قوله: { وَٱلْمُحْصَنَـٰتُ مِنَ ٱلنِّسَاء إِلاَّ
-  مَا مَلَكْتَ أَيْمَـٰنُكُمْ } قال: إذا كان لها زوج فبيعها طلاقها.حدثنا ابن بشار،
-  قال: ثنا عبد الأعلى، قال: حدثنا سعيد، عن قتادة أن أبيّ بن كعب وجابر بن عبد الله
-  وأنس بن مالك قالوا: بيعها طلاقها.حدثنا محمد بن المثنى، قال: ثنا عبد الأعلى، قال:
-  ثنا سعيد، عن قتادة أن أبيّ بن كعب وجابرا وابن عباس، قالوا: بيعها طلاقها.حدثنا أبو
-  كريب، قال: ثنا عمر بن عبيد، عن مغيرة، عن إبراهيم، قال: قال عبد الله: بيع الأمة طلاقها.حدثنا
-  ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا سفيان، عن منصور ومغيرة والأعمش، عن إبراهيم،
-  عن عبد الله، قال: بيع الأمة طلاقها.حدثنا ابن بشار، قال: ثنا مؤمِّل، قال: ثنا سعيد،
-  عن حماد، عن إبراهيم، عن عبد الله. مثله.حدثنا ابن المثنى، قال: ثنا محمد بن جعفر،
-  قال: ثنا شعبة، عن حماد، عن إبراهيم، عن عبد الله مثله.حدثني يعقوب بن إبراهيم، قال:
-  ثنا ابن عُلَية، عن خالد، عن عكرمة، عن ابن عباس، قال: طلاق الأمة ستٌّ: بيعها طلاقها،
-  وعتقها طلاقها، وهبتها طلاقها، وبراءتها طلاقها، وطلاق زوجها طلاقها.حدثني أحمد بن
-  المغيرة الحمصي. قال: ثنا عثمان بن سعيد، عن عيسى بن أبي إسحاق، عن أشعث، عن الحسن،
-  عن أبيّ بن كعب: أنه قال: بيع الأمة طلاقها.حدثنا ابن بشار، قال: ثنا عبد الأعلى، عن
-  عوف، عن الحسن، قال: بيع الأمة طلاقها، وبيعه طلاقها.حدثنا حميد بن مسعدة، قال: ثنا
-  بشر بن المفضل، قال: ثنا خالد، عن أبي قلابة، قال: قال عبد الله: مشتريها أحقّ ببُضْعِها.
-  يعني: الأمة تباع ولها زوج.حدثنا محمد بن عبد الأعلى، قال: ثنا المعتمر، عن أبيه، عن
-  الحسن، قال: طلاق الأمة بيعها.حدثنا حميد، قال: ثنا سفيان بن حبيب، قال: ثنا يونس،
-  عن الحسن أن أبيًّا، قال: بيعها طلاقها.حدثنا أحمد، قال: ثنا سفيان، عن خالد، عن أبي
-  قلابة، عن ابن مسعود، قال: إذا بيعت الأمة ولها زوج فسيدها أحقّ بُبْضعها.حدثنا حميد،
-  قال: ثنا يزيد بن زريع، قال: ثنى سعيد، عن قتادة، عن أبي معشر، عن إبراهيم، قال: بيعها
-  طلاقها. قال: فقيل لإبراهيم: فبيعه؟ قال: ذلك ما لا نقول فيه شيئاً.وقال آخرون: بل
-  معنى المحصنات في هذا الموضع: العفائف. قالوا: وتأويل الآية: والعفائف من النساء حرام
-  أيضاً عليكم، إلا ما ملكت أيمانكم منهنّ بنكاح وصداق وسنة وشهود من واحدة إلى أربع.
-  ذكر من قال ذلك:حدثنا القاسم، قال: ثنا الحسين، قال: ثنى حجاج، عن أبي جعفر، عن أبي
+  قال: السبايا.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">واعتلّ قائلو هذه المقالة بالأخبار
+  التي رُويت أن هذه الآية نزلت فيمن سُبي من أَوْطاس. ذكر الرواية بذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا بشر بن معاذ قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، عن أبي
+  الخليل، عن أبي علقمة الهاشمي، عن أبي سعيد الخدريّ: أن نبيّ الله صلى الله عليه وسلم
+  يوم حنين بعث جيشاً إلى أوطاس، فلقوا عدواً، فأصابوا سبايا لهنّ أزواج من المشركين،
+  فكان المسلمون يتأثّمون من غشيانهنّ، فأنزل الله تبارك وتعالى هذه الآية: { وَٱلْمُحْصَنَـٰتُ
+  مِنَ ٱلنِّسَاء إِلاَّ مَا مَلَكْتَ أَيْمَـٰنُكُمْ } أي هنّ حلال لكم إذا ما انقضت
+  عِدَدُهن.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا محمد بن بشار، قال: ثنا عبد
+  الأعلى، قال: ثنا سعيد، عن قتادة، عن صالح أبي الخليل: أن أبا علقمة الهاشمي حدّث،
+  أن أبا سعيد الخدريّ حدّث: أن نبيّ الله صلى الله عليه وسلم بعث يوم حنين سرية، فأصابوا
+  حيًّا من أحياء العرب يوم أوطاس، فهزموهم وأصابوا لهم سبايا، فكان ناس من أصحاب رسول
+  الله صلى الله عليه وسلم يتأثمون من غشيانهن من أجل أزواجهنّ، فأنزل الله تبارك وتعالى:
+  { والمُحْصَناتُ مِنَ النَّساءِ إلاَّ ما مَلَكَتْ أيمَانُكُمْ } منهنّ، فحلال لكم
+  ذلك.</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\"
+  border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE:
+  none; BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,8,1)\"><u>8</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,9,1)\"><u>9</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(1,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(4,
+  24)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(4,24)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَٱلْمُحْصَنَٰتُ مِنَ ٱلنِّسَآءِ إِلاَّ مَا مَلَكْتَ
+  أَيْمَٰنُكُمْ كِتَٰبَ ٱللَّهِ عَلَيْكُمْ وَأُحِلَّ لَكُمْ مَّا وَرَاءَ ذَٰلِكُمْ
+  أَن تَبْتَغُواْ بِأَمْوَٰلِكُمْ مُّحْصِنِينَ غَيْرَ مُسَٰفِحِينَ فَمَا ٱسْتَمْتَعْتُمْ
+  بِهِ مِنْهُنَّ فَآتُوهُنَّ أُجُورَهُنَّ فَرِيضَةً وَلاَ جُنَاحَ عَلَيْكُمْ فِيمَا
+  تَرَٰضَيْتُمْ بِهِ مِن بَعْدِ ٱلْفَرِيضَةِ إِنَّ ٱللَّهَ كَانَ عَلِيماً حَكِيماً</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني عليّ بن سعيد الكناني، قال: ثنا عبد الرحيم بن سليمان، عن أشعث
+  بن سوار، عن عثمان البتي، عن أبي الخليل، عن أبي سعيد الخدري، قال: لما سبي رسول الله
+  صلى الله عليه وسلم أهل أوطاس، قلنا: يا رسول الله، كيف نقع على نساء قد عرفنا أنسابهن
+  وأزواجهنّ؟ قال: فنزلت هذه الآية: { والمُحْصَناتُ مِنَ النِّساءِ إلاَّ ما مَلَكَتْ
+  أيمَانُكُمْ }.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا الحسن بن يحيـى، قال: أخبرنا
+  عبد الرزاق، قال: أخبرنا الثوري، عن عثمان البتي، عن أبي الخليل، عن أبي سعيد الخدري،
+  قال: أصبنا نساء من سبي أوطاس لهنّ أزواج، فكرهنا أن نقع عليهنّ ولهن أزواج، فسألنا
+  النبيّ صلى الله عليه وسلم، فنزلت: { وَٱلْمُحْصَنَـٰتُ مِنَ ٱلنِّسَاء إِلاَّ مَا
+  مَلَكْتَ أَيْمَـٰنُكُمْ } فاستحللنا فروجهنّ.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  الحسن بن يحيـى، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر، عن قتادة، عن أبي الخليل
+  عن أبي سعيد، قال: نزلت في يوم أوطاس، أصاب المسلمون سبايا لهن أزواج في الشرك، فقال:
+  { وَٱلْمُحْصَنَـٰتُ مِنَ ٱلنِّسَاء إِلاَّ مَا مَلَكْتَ أَيْمَـٰنُكُمْ } يقول: إلا
+  ما أفاء الله عليكم، قال: فاستحللنا بها فروجهنّ.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  آخرون ممن قال: «المحصنات ذوات الأزواج في هذا الموضع». بل هنّ كل ذات زوج من النساء
+  حرام على غير أزواجهنّ، إلا أن تكون مملوكة اشتراها مشتر من مولاها فتحلّ لمشتريها،
+  ويُبطل بيع سيدها إياها النكاحَ بينها وبين زوجها. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني أبو السائب سلم بن جنادة، قال: ثنا أبو معاوية، عن الأعمش، عن
+  إبراهيم، عن عبد الله في قوله: { وَٱلْمُحْصَنَـٰتُ مِنَ ٱلنِّسَاء إِلاَّ مَا مَلَكْتَ
+  أَيْمَـٰنُكُمْ } قال: كل ذات زوج عليك حرام إلا أن تشتريها، أو ما ملكت يمينك.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني المثنى، قال: ثنا محمد بن جعفر، عن شعبة، عن مغيرة عن إبراهيم:
+  أنه سئل عن الأمة تباع ولها زوج، قال: كان عبد الله يقول: بيعها طلاقها، ويتلو هذه
+  الآية: { وَٱلْمُحْصَنَـٰتُ مِنَ ٱلنِّسَاء إِلاَّ مَا مَلَكْتَ أَيْمَـٰنُكُمْ }.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن حميد، قال: ثنا جرير، عن مغيرة، عن إبراهيم، عن عبد الله
+  في قوله: { وَٱلْمُحْصَنَـٰتُ مِنَ ٱلنِّسَاء إِلاَّ مَا مَلَكْتَ أَيْمَـٰنُكُمْ }
+  قال: كل ذات زوج عليك حرام، إلا ما اشتريت بمالك؛ وكان يقول: بيع الأمة: طلاقها.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا الحسن بن يحيـى، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر،
+  عن الزهري، عن ابن المسيب قوله: { وَٱلْمُحْصَنَـٰتُ مِنَ ٱلنِّسَاء } قال: هنّ ذوات
+  الأزواج حرم الله نكاحهنّ إلا ما ملكت يمينك، فبيعها طلاقها.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,8,1)\"><u>8</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,9,1)\"><u>9</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(1,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(4,
+  24)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(4,24)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَٱلْمُحْصَنَٰتُ مِنَ ٱلنِّسَآءِ إِلاَّ مَا مَلَكْتَ
+  أَيْمَٰنُكُمْ كِتَٰبَ ٱللَّهِ عَلَيْكُمْ وَأُحِلَّ لَكُمْ مَّا وَرَاءَ ذَٰلِكُمْ
+  أَن تَبْتَغُواْ بِأَمْوَٰلِكُمْ مُّحْصِنِينَ غَيْرَ مُسَٰفِحِينَ فَمَا ٱسْتَمْتَعْتُمْ
+  بِهِ مِنْهُنَّ فَآتُوهُنَّ أُجُورَهُنَّ فَرِيضَةً وَلاَ جُنَاحَ عَلَيْكُمْ فِيمَا
+  تَرَٰضَيْتُمْ بِهِ مِن بَعْدِ ٱلْفَرِيضَةِ إِنَّ ٱللَّهَ كَانَ عَلِيماً حَكِيماً</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">قال معمر: وقال الحسن مثل ذلك.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن بشار، قال: ثنا عبد الأعلى، قال: ثنا سعيد، عن قتادة، عن الحسن في قوله: { وَٱلْمُحْصَنَـٰتُ
+  مِنَ ٱلنِّسَاء إِلاَّ مَا مَلَكْتَ أَيْمَـٰنُكُمْ } قال: إذا كان لها زوج فبيعها
+  طلاقها.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن بشار، قال: ثنا عبد الأعلى،
+  قال: حدثنا سعيد، عن قتادة أن أبيّ بن كعب وجابر بن عبد الله وأنس بن مالك قالوا: بيعها
+  طلاقها.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا محمد بن المثنى، قال: ثنا
+  عبد الأعلى، قال: ثنا سعيد، عن قتادة أن أبيّ بن كعب وجابرا وابن عباس، قالوا: بيعها
+  طلاقها.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا أبو كريب، قال: ثنا عمر بن
+  عبيد، عن مغيرة، عن إبراهيم، قال: قال عبد الله: بيع الأمة طلاقها.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا سفيان، عن منصور ومغيرة
+  والأعمش، عن إبراهيم، عن عبد الله، قال: بيع الأمة طلاقها.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن بشار، قال: ثنا مؤمِّل، قال: ثنا سعيد، عن حماد، عن إبراهيم، عن عبد الله. مثله.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن المثنى، قال: ثنا محمد بن جعفر، قال: ثنا شعبة، عن حماد،
+  عن إبراهيم، عن عبد الله مثله.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  يعقوب بن إبراهيم، قال: ثنا ابن عُلَية، عن خالد، عن عكرمة، عن ابن عباس، قال: طلاق
+  الأمة ستٌّ: بيعها طلاقها، وعتقها طلاقها، وهبتها طلاقها، وبراءتها طلاقها، وطلاق زوجها
+  طلاقها.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثني أحمد بن المغيرة الحمصي. قال:
+  ثنا عثمان بن سعيد، عن عيسى بن أبي إسحاق، عن أشعث، عن الحسن، عن أبيّ بن كعب: أنه
+  قال: بيع الأمة طلاقها.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن بشار، قال: ثنا عبد الأعلى،
+  عن عوف، عن الحسن، قال: بيع الأمة طلاقها، وبيعه طلاقها.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  حميد بن مسعدة، قال: ثنا بشر بن المفضل، قال: ثنا خالد، عن أبي قلابة، قال: قال عبد
+  الله: مشتريها أحقّ ببُضْعِها. يعني: الأمة تباع ولها زوج.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  محمد بن عبد الأعلى، قال: ثنا المعتمر، عن أبيه، عن الحسن، قال: طلاق الأمة بيعها.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا حميد، قال: ثنا سفيان بن حبيب، قال: ثنا يونس، عن الحسن أن أبيًّا،
+  قال: بيعها طلاقها.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا أحمد، قال: ثنا سفيان، عن
+  خالد، عن أبي قلابة، عن ابن مسعود، قال: إذا بيعت الأمة ولها زوج فسيدها أحقّ بُبْضعها.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا حميد، قال: ثنا يزيد بن زريع، قال: ثنى سعيد، عن قتادة، عن أبي
+  معشر، عن إبراهيم، قال: بيعها طلاقها. قال: فقيل لإبراهيم: فبيعه؟ قال: ذلك ما لا نقول
+  فيه شيئاً.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال آخرون: بل معنى المحصنات في
+  هذا الموضع: العفائف. قالوا: وتأويل الآية: والعفائف من النساء حرام أيضاً عليكم، إلا
+  ما ملكت أيمانكم منهنّ بنكاح وصداق وسنة وشهود من واحدة إلى أربع. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا القاسم، قال: ثنا الحسين، قال: ثنى حجاج، عن أبي جعفر، عن أبي
   العالية، قال: يقول: انكحوا ما طاب لكم من النساء: مثَنى، وثلاثَ، ورباع، ثم حرم ما
   حرم من النسب والصهر، ثم قال: { وَٱلْمُحْصَنَـٰتُ مِنَ ٱلنِّسَاء إِلاَّ مَا مَلَكْتَ
   أَيْمَـٰنُكُمْ } قال: فرجع إلى أوّل السورة إلى أربع، فقال: هنّ حرام أيضاً، ألا بصداق
-  وسنّة وشهود.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 9 10 \r\n\t\t\t\t\t\t\t\tمزيد</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَٱلْمُحْصَنَٰتُ مِنَ ٱلنِّسَآءِ إِلاَّ
-  مَا مَلَكْتَ أَيْمَٰنُكُمْ كِتَٰبَ ٱللَّهِ عَلَيْكُمْ وَأُحِلَّ لَكُمْ مَّا وَرَاءَ
-  ذَٰلِكُمْ أَن تَبْتَغُواْ بِأَمْوَٰلِكُمْ مُّحْصِنِينَ غَيْرَ مُسَٰفِحِينَ فَمَا
-  ٱسْتَمْتَعْتُمْ بِهِ مِنْهُنَّ فَآتُوهُنَّ أُجُورَهُنَّ فَرِيضَةً وَلاَ جُنَاحَ
-  عَلَيْكُمْ فِيمَا تَرَٰضَيْتُمْ بِهِ مِن بَعْدِ ٱلْفَرِيضَةِ إِنَّ ٱللَّهَ كَانَ
-  عَلِيماً حَكِيماً }حدثنا الحسن بن يحيـى، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر،
+  وسنّة وشهود.</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">3 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,8,1)\"><u>8</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,9,1)\"><u>9</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(1,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(4,
+  24)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(4,24)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَٱلْمُحْصَنَٰتُ مِنَ ٱلنِّسَآءِ إِلاَّ مَا مَلَكْتَ
+  أَيْمَٰنُكُمْ كِتَٰبَ ٱللَّهِ عَلَيْكُمْ وَأُحِلَّ لَكُمْ مَّا وَرَاءَ ذَٰلِكُمْ
+  أَن تَبْتَغُواْ بِأَمْوَٰلِكُمْ مُّحْصِنِينَ غَيْرَ مُسَٰفِحِينَ فَمَا ٱسْتَمْتَعْتُمْ
+  بِهِ مِنْهُنَّ فَآتُوهُنَّ أُجُورَهُنَّ فَرِيضَةً وَلاَ جُنَاحَ عَلَيْكُمْ فِيمَا
+  تَرَٰضَيْتُمْ بِهِ مِن بَعْدِ ٱلْفَرِيضَةِ إِنَّ ٱللَّهَ كَانَ عَلِيماً حَكِيماً</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا الحسن بن يحيـى، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر،
   عن أيوب، عن ابن سيرين عن عبيدة، قال: أحلّ الله لك أربعاً في أوّل السورة، وحرّم نكاح
   كلّ محصنة بعد الأربع، إلا ما ملكت يمينك. قال معمر: وأخبرني ابن طاوس عن أبيه: إلا
   ما ملكت يمينك، قال: فزوجك مما ملكت يمينك، يقول: حرّم الله الزنا، لا يحلّ لك أن تطأ
-  امرأة إلا ما ملكت يمينك.حدثني عليّ بن مسروق الكندي، قال: ثنا عبد الرحيم بن سليمان،
-  عن هشام بن حسان، عن ابن سيرين، قال: سألت عبيدة عن قول الله تعالى: { وَٱلْمُحْصَنَـٰتُ
-  مِنَ ٱلنِّسَاء إِلاَّ مَا مَلَكْتَ أَيْمَـٰنُكُمْ } قال: أربع.حدثني عليّ بن سعيد،
-  قال: ثنا عبد الرحيم، عن أشعث بن سوار، عن ابن سيرين، عن عبيدة، عن عمر بن الخطاب،
-  مثله.حدثنا أبو كريب، قال: ثنا ابن يمان، عن أشعث، عن جعفر، عن سعيد بن جبير في قوله:
-  { وَٱلْمُحْصَنَـٰتُ مِنَ ٱلنِّسَاء إِلاَّ مَا مَلَكْتَ أَيْمَـٰنُكُمْ } قال: الأربع،
-  فمابعدهنّ حرام.حدثنا القاسم، قال: ثنا الحسين، قال: ثنا حجاج، عن ابن جريج، قال: سألت
-  عطاء عنها، فقال: حرّم الله ذوات القرابة، ثم قال: { وَٱلْمُحْصَنَـٰتُ مِنَ ٱلنِّسَاء
-  إِلاَّ مَا مَلَكْتَ أَيْمَـٰنُكُمْ } يقول: حرّم ما فوق الأربع منهنّ.حدثنا محمد بن
-  الحسين، قال: ثنا أحمد بن المفضل، قال: ثنا أسباط، عن السديّ: { وَٱلْمُحْصَنَـٰتُ
-  مِنَ ٱلنِّسَاء } قال: الخامسة حرام كحرمة الأمهات والأخوات.ذكر من قال: عَنَى بالمحصنات
-  في هذا الموضع العفائفَ من المسلمين وأهل الكتاب:حدثني إسحاق بن إبراهيم بن حبيب بن
-  الشهيد، قال: ثنا عتاب بن بشير، عن خصيف، عن مجاهد، عن ابن عباس في قوله: (والمُحْصَناتُ)
-  قال: العفيفة العاقلة من مسلمة، أو من أهل الكتاب.حدثنا أبو كريب، قال: ثنا ابن إدريس،
+  امرأة إلا ما ملكت يمينك.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثني عليّ بن مسروق الكندي، قال:
+  ثنا عبد الرحيم بن سليمان، عن هشام بن حسان، عن ابن سيرين، قال: سألت عبيدة عن قول
+  الله تعالى: { وَٱلْمُحْصَنَـٰتُ مِنَ ٱلنِّسَاء إِلاَّ مَا مَلَكْتَ أَيْمَـٰنُكُمْ
+  } قال: أربع.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثني عليّ بن سعيد، قال: ثنا عبد
+  الرحيم، عن أشعث بن سوار، عن ابن سيرين، عن عبيدة، عن عمر بن الخطاب، مثله.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا أبو كريب، قال: ثنا ابن يمان، عن أشعث، عن جعفر، عن سعيد بن
+  جبير في قوله: { وَٱلْمُحْصَنَـٰتُ مِنَ ٱلنِّسَاء إِلاَّ مَا مَلَكْتَ أَيْمَـٰنُكُمْ
+  } قال: الأربع، فمابعدهنّ حرام.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  القاسم، قال: ثنا الحسين، قال: ثنا حجاج، عن ابن جريج، قال: سألت عطاء عنها، فقال:
+  حرّم الله ذوات القرابة، ثم قال: { وَٱلْمُحْصَنَـٰتُ مِنَ ٱلنِّسَاء إِلاَّ مَا مَلَكْتَ
+  أَيْمَـٰنُكُمْ } يقول: حرّم ما فوق الأربع منهنّ.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  محمد بن الحسين، قال: ثنا أحمد بن المفضل، قال: ثنا أسباط، عن السديّ: { وَٱلْمُحْصَنَـٰتُ
+  مِنَ ٱلنِّسَاء } قال: الخامسة حرام كحرمة الأمهات والأخوات.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">ذكر
+  من قال: عَنَى بالمحصنات في هذا الموضع العفائفَ من المسلمين وأهل الكتاب:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني إسحاق بن إبراهيم بن حبيب بن الشهيد، قال: ثنا عتاب بن بشير،
+  عن خصيف، عن مجاهد، عن ابن عباس في قوله: (والمُحْصَناتُ) قال: العفيفة العاقلة من
+  مسلمة، أو من أهل الكتاب.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا أبو كريب، قال: ثنا ابن إدريس،
   عن بعض أصحابه، عن مجاهد: { وَٱلْمُحْصَنَـٰتُ مِنَ ٱلنِّسَاء إِلاَّ مَا مَلَكْتَ
-  أَيْمَـٰنُكُمْ } قال: العفائف.وقال آخرون: المحصنات في هذا الموضع ذوات الأزواج، غير
-  أن الذي حرم الله منهن في هذه الآية الزنا بهن، وأباحهن بقوله: { إِلاَّ مَا مَلَكْتَ
-  أَيْمَـٰنُكُمْ } بالنكاح أو الملك. ذكر من قال ذلك:حدثني محمد بن عمرو، قال: ثنا أبو
+  أَيْمَـٰنُكُمْ } قال: العفائف.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  آخرون: المحصنات في هذا الموضع ذوات الأزواج، غير أن الذي حرم الله منهن في هذه الآية
+  الزنا بهن، وأباحهن بقوله: { إِلاَّ مَا مَلَكْتَ أَيْمَـٰنُكُمْ } بالنكاح أو الملك.
+  ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثني محمد بن عمرو، قال: ثنا أبو
   عاصم، عن عيسى، عن ابن أبي نجيح، عن مجاهد، في قول الله تعالى: { وَٱلْمُحْصَنَـٰتُ
-  } قال: نهى عن الزنا.حدثني المثنى، قال: ثنا أبو حذيفة، قال: ثنا شبل، عن ابن أبي نجيح،
-  عن مجاهد: { وَٱلْمُحْصَنَـٰتُ مِنَ ٱلنِّسَاء } قال: نهى عن الزنا أن تنكح المرأة
-  زوجين.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 9 10 \r\n\t\t\t\t\t\t\t\tمزيد</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَٱلْمُحْصَنَٰتُ مِنَ ٱلنِّسَآءِ إِلاَّ
-  مَا مَلَكْتَ أَيْمَٰنُكُمْ كِتَٰبَ ٱللَّهِ عَلَيْكُمْ وَأُحِلَّ لَكُمْ مَّا وَرَاءَ
-  ذَٰلِكُمْ أَن تَبْتَغُواْ بِأَمْوَٰلِكُمْ مُّحْصِنِينَ غَيْرَ مُسَٰفِحِينَ فَمَا
-  ٱسْتَمْتَعْتُمْ بِهِ مِنْهُنَّ فَآتُوهُنَّ أُجُورَهُنَّ فَرِيضَةً وَلاَ جُنَاحَ
-  عَلَيْكُمْ فِيمَا تَرَٰضَيْتُمْ بِهِ مِن بَعْدِ ٱلْفَرِيضَةِ إِنَّ ٱللَّهَ كَانَ
-  عَلِيماً حَكِيماً }حدثني المثنى، قال: ثنا عبد الله بن صالح، قال: ثنى معاوية بن صالح،
+  } قال: نهى عن الزنا.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثني المثنى، قال: ثنا أبو حذيفة،
+  قال: ثنا شبل، عن ابن أبي نجيح، عن مجاهد: { وَٱلْمُحْصَنَـٰتُ مِنَ ٱلنِّسَاء } قال:
+  نهى عن الزنا أن تنكح المرأة زوجين.</font></font>&#13;\t\t\t<label disabled=\"true\"
+  class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">4 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,8,1)\"><u>8</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,9,1)\"><u>9</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(1,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(4,
+  24)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(4,24)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَٱلْمُحْصَنَٰتُ مِنَ ٱلنِّسَآءِ إِلاَّ مَا مَلَكْتَ
+  أَيْمَٰنُكُمْ كِتَٰبَ ٱللَّهِ عَلَيْكُمْ وَأُحِلَّ لَكُمْ مَّا وَرَاءَ ذَٰلِكُمْ
+  أَن تَبْتَغُواْ بِأَمْوَٰلِكُمْ مُّحْصِنِينَ غَيْرَ مُسَٰفِحِينَ فَمَا ٱسْتَمْتَعْتُمْ
+  بِهِ مِنْهُنَّ فَآتُوهُنَّ أُجُورَهُنَّ فَرِيضَةً وَلاَ جُنَاحَ عَلَيْكُمْ فِيمَا
+  تَرَٰضَيْتُمْ بِهِ مِن بَعْدِ ٱلْفَرِيضَةِ إِنَّ ٱللَّهَ كَانَ عَلِيماً حَكِيماً</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني المثنى، قال: ثنا عبد الله بن صالح، قال: ثنى معاوية بن صالح،
   عن علي بن أبي طلحة، عن ابن عباس: قوله: { وَٱلْمُحْصَنَـٰتُ مِنَ ٱلنِّسَاء إِلاَّ
   مَا مَلَكْتَ أَيْمَـٰنُكُمْ } قال: كل ذات زوج عليكم حرام، إلا الأربع اللاتي ينكحن
-  بالبينة والمهر.حدثنا أحمد بن عثمان، قال: ثنا وهب بن جرير، قال: ثنا أبي، قال: سمعت
-  النعمان بن راشد يحدث عن الزهري، عن سعيد بن المسيب: أنه سئل عن المُحصنات من النساء،
-  قال: هن ذوات الأزواج.حدثنا ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا سفيان، عن حماد،
-  عن إبراهيم، عن عبد الله، قال: { وَٱلْمُحْصَنَـٰتُ مِنَ ٱلنِّسَاء إِلاَّ مَا مَلَكْتَ
-  أَيْمَـٰنُكُمْ } قال: ذوات الأزواج من المسلمين والمشركين. وقال علي: ذوات الأزواج
-  من المشركين.حدثني المثنى، قال: ثنا الحماني، قال: ثنا شريك، عن سالم، عن سعيد، عن
-  ابن عباس، في قوله: { وَٱلْمُحْصَنَـٰتُ مِنَ ٱلنِّسَاء } قال: كل ذات زوج عليكم حرام.حدثني
-  المثنى، قال: ثنا الحماني، قال: ثنا شريك، عن عبد الكريم، عن مكحول، نحوه.حدثني المثنى،
-  قال: ثنا الحماني، قال: ثنا شريك، عن الصلب بن بهرام، عن إبراهيم، نحوه.حدثني محمد
-  بن سعد، قال: ثنى أبي، قال: ثنى عمي، قال: ثنى أبي، عن أبيه، عن ابن عباس قوله: { وَٱلْمُحْصَنَـٰتُ
-  مِنَ ٱلنِّسَاء إِلاَّ مَا مَلَكْتَ أَيْمَـٰنُكُمْ }... إلى: { وَأُحِلَّ لَكُمْ مَّا
-  وَرَاء ذَلِكُمْ } يعني: ذوات الإزواج من النساء لا يحل نكاحهن، يقول: لا يخلب ولا
-  يعد فتنشُز على زوجها، وكل امرأة لا تنكح إلا ببينة ومهر فهي من المحصنات التي حرم
-  الله إلا ما ملكت أيمانكم، يعني: التي أحل الله من النساء، وهو ما أحل من حرائر النساء
-  مثنى وثلاث ورباع.وقال آخرون: بل هن نساء أهل الكتاب. ذكر من قال ذلك:حدثنا ابن حميد،
-  قال: ثنا يحيـى بن واضح، قال: ثنا عيسى بن عبيد، عن أيوب بن أبي العوجاء عن أبي مجلز
-  في قوله: { وَٱلْمُحْصَنَـٰتُ مِنَ ٱلنِّسَاء إِلاَّ مَا مَلَكْتَ أَيْمَـٰنُكُمْ }
-  قال: نساء أهل الكتاب.وقال آخرون: بل هن الحرائر. ذكر من قال ذلك:حدثنا ابن بشار، قال:
-  ثنى حماد بن مسعدة، قال: ثنا سليمان بن عرعرة، في قوله: { وَٱلْمُحْصَنَـٰتُ مِنَ ٱلنِّسَاء
-  } قال: الحرائر.وقال آخرون: المحصنات: هن العفائف وذوات الأزواج، وحرام كل من الصنفين
-  إلا بنكاح أو ملك يمين. ذكر من قال ذلك:حدثني المثنى، قال: ثنا عبد الله بن صالح، قال:
-  ثنى الليث، قال: ثنى عقيل، عن ابن شهاب، وسئل عن قول الله: { وَٱلْمُحْصَنَـٰتُ مِنَ
-  ٱلنِّسَاء إِلاَّ مَا مَلَكْتَ أَيْمَـٰنُكُمْ }... الآية، قال: نرى أنه حرم في هذه
-  الآية المحصنات من النساء ذوات الأزواج أن ينكحن مع أزواجهن ـ والمحصنات: العفائف ولا
-  يحللن إلا بنكاح، أو ملك يمين.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 9 10 \r\n\t\t\t\t\t\t\t\tمزيد</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَٱلْمُحْصَنَٰتُ مِنَ ٱلنِّسَآءِ إِلاَّ
-  مَا مَلَكْتَ أَيْمَٰنُكُمْ كِتَٰبَ ٱللَّهِ عَلَيْكُمْ وَأُحِلَّ لَكُمْ مَّا وَرَاءَ
-  ذَٰلِكُمْ أَن تَبْتَغُواْ بِأَمْوَٰلِكُمْ مُّحْصِنِينَ غَيْرَ مُسَٰفِحِينَ فَمَا
-  ٱسْتَمْتَعْتُمْ بِهِ مِنْهُنَّ فَآتُوهُنَّ أُجُورَهُنَّ فَرِيضَةً وَلاَ جُنَاحَ
-  عَلَيْكُمْ فِيمَا تَرَٰضَيْتُمْ بِهِ مِن بَعْدِ ٱلْفَرِيضَةِ إِنَّ ٱللَّهَ كَانَ
-  عَلِيماً حَكِيماً }والإحصان إحصانان: إحصان تزويج، وإحصان عفاف في الحرائر والمملوكات،
-  كل ذلك حرّم الله، إلا بنكاح أو ملك يمين.وقال آخرون: نزلت هذه الآية في نساءكنّ يهاجرن
-  إلى رسول الله صلى الله عليه وسلم ولهنّ أزواج، فيتزوّجهن بعض المسلمين، ثم يقدم أزواجهنّ
-  مهاجرين، فنهى المسلمون عن نكاحهن. ذكر من قال ذلك:حدثنا القاسم، قال: ثنا الحسين،
+  بالبينة والمهر.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا أحمد بن عثمان، قال: ثنا وهب
+  بن جرير، قال: ثنا أبي، قال: سمعت النعمان بن راشد يحدث عن الزهري، عن سعيد بن المسيب:
+  أنه سئل عن المُحصنات من النساء، قال: هن ذوات الأزواج.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا سفيان، عن حماد، عن إبراهيم، عن عبد الله،
+  قال: { وَٱلْمُحْصَنَـٰتُ مِنَ ٱلنِّسَاء إِلاَّ مَا مَلَكْتَ أَيْمَـٰنُكُمْ } قال:
+  ذوات الأزواج من المسلمين والمشركين. وقال علي: ذوات الأزواج من المشركين.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني المثنى، قال: ثنا الحماني، قال: ثنا شريك، عن سالم، عن سعيد،
+  عن ابن عباس، في قوله: { وَٱلْمُحْصَنَـٰتُ مِنَ ٱلنِّسَاء } قال: كل ذات زوج عليكم
+  حرام.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثني المثنى، قال: ثنا الحماني،
+  قال: ثنا شريك، عن عبد الكريم، عن مكحول، نحوه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  المثنى، قال: ثنا الحماني، قال: ثنا شريك، عن الصلب بن بهرام، عن إبراهيم، نحوه.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني محمد بن سعد، قال: ثنى أبي، قال: ثنى عمي، قال: ثنى أبي، عن
+  أبيه، عن ابن عباس قوله: { وَٱلْمُحْصَنَـٰتُ مِنَ ٱلنِّسَاء إِلاَّ مَا مَلَكْتَ أَيْمَـٰنُكُمْ
+  }... إلى: { وَأُحِلَّ لَكُمْ مَّا وَرَاء ذَلِكُمْ } يعني: ذوات الإزواج من النساء
+  لا يحل نكاحهن، يقول: لا يخلب ولا يعد فتنشُز على زوجها، وكل امرأة لا تنكح إلا ببينة
+  ومهر فهي من المحصنات التي حرم الله إلا ما ملكت أيمانكم، يعني: التي أحل الله من النساء،
+  وهو ما أحل من حرائر النساء مثنى وثلاث ورباع.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  آخرون: بل هن نساء أهل الكتاب. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن حميد، قال: ثنا يحيـى بن واضح، قال: ثنا عيسى بن عبيد، عن أيوب بن أبي العوجاء
+  عن أبي مجلز في قوله: { وَٱلْمُحْصَنَـٰتُ مِنَ ٱلنِّسَاء إِلاَّ مَا مَلَكْتَ أَيْمَـٰنُكُمْ
+  } قال: نساء أهل الكتاب.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال آخرون: بل هن الحرائر. ذكر
+  من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن بشار، قال: ثنى حماد بن
+  مسعدة، قال: ثنا سليمان بن عرعرة، في قوله: { وَٱلْمُحْصَنَـٰتُ مِنَ ٱلنِّسَاء } قال:
+  الحرائر.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال آخرون: المحصنات: هن العفائف
+  وذوات الأزواج، وحرام كل من الصنفين إلا بنكاح أو ملك يمين. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني المثنى، قال: ثنا عبد الله بن صالح، قال: ثنى الليث، قال: ثنى
+  عقيل، عن ابن شهاب، وسئل عن قول الله: { وَٱلْمُحْصَنَـٰتُ مِنَ ٱلنِّسَاء إِلاَّ مَا
+  مَلَكْتَ أَيْمَـٰنُكُمْ }... الآية، قال: نرى أنه حرم في هذه الآية المحصنات من النساء
+  ذوات الأزواج أن ينكحن مع أزواجهن ـ والمحصنات: العفائف ولا يحللن إلا بنكاح، أو ملك
+  يمين.</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">5 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,8,1)\"><u>8</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,9,1)\"><u>9</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(1,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(4,
+  24)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(4,24)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَٱلْمُحْصَنَٰتُ مِنَ ٱلنِّسَآءِ إِلاَّ مَا مَلَكْتَ
+  أَيْمَٰنُكُمْ كِتَٰبَ ٱللَّهِ عَلَيْكُمْ وَأُحِلَّ لَكُمْ مَّا وَرَاءَ ذَٰلِكُمْ
+  أَن تَبْتَغُواْ بِأَمْوَٰلِكُمْ مُّحْصِنِينَ غَيْرَ مُسَٰفِحِينَ فَمَا ٱسْتَمْتَعْتُمْ
+  بِهِ مِنْهُنَّ فَآتُوهُنَّ أُجُورَهُنَّ فَرِيضَةً وَلاَ جُنَاحَ عَلَيْكُمْ فِيمَا
+  تَرَٰضَيْتُمْ بِهِ مِن بَعْدِ ٱلْفَرِيضَةِ إِنَّ ٱللَّهَ كَانَ عَلِيماً حَكِيماً</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">والإحصان إحصانان: إحصان تزويج، وإحصان عفاف في الحرائر والمملوكات،
+  كل ذلك حرّم الله، إلا بنكاح أو ملك يمين.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  آخرون: نزلت هذه الآية في نساءكنّ يهاجرن إلى رسول الله صلى الله عليه وسلم ولهنّ أزواج،
+  فيتزوّجهن بعض المسلمين، ثم يقدم أزواجهنّ مهاجرين، فنهى المسلمون عن نكاحهن. ذكر من
+  قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا القاسم، قال: ثنا الحسين،
   قال: ثنى حجاج، عن ابن جريج، قال: ثنى حبيب بن أبي ثابت عن أبي سعيد الخدري، قال: كان
   النساء يأتينا ثم يهاجر أزواجهنّ فمنعناهنّ؛ يعني قوله: { وَٱلْمُحْصَنَـٰتُ مِنَ ٱلنِّسَاء
-  إِلاَّ مَا مَلَكْتَ أَيْمَـٰنُكُمْ }.وقد ذكر ابن عباس وجماعة غيره أنه كان ملتبساً
-  عليهم تأويل ذلك.حدثنا محمد بن المثنى، قال: ثنا محمد بن جعفر، قال: ثنا شعبة، عن عمرو
-  بن مرة، قال: قال رجل لسعيد بن جبير: أما رأيت ابن عباس حين سئل عن هذه الآية: { وَٱلْمُحْصَنَـٰتُ
-  مِنَ ٱلنِّسَاء إِلاَّ مَا مَلَكْتَ أَيْمَـٰنُكُمْ } فلم يقل فيها شيئاً؟ قال: فقال:
-  كان لا يعلمها.حدثنا القاسم، قال: ثنا الحسين، قال: ثنا هشيم، قال: أخبرنا عبد الرحمن
-  بن يحيـى، عن مجاهد، قال: لو أعلم من يفسر لي هذه الآية لضربت إليه أكباد الإبل، قوله:
-  { وَٱلْمُحْصَنَـٰتُ مِنَ ٱلنِّسَاء إِلاَّ مَا مَلَكْتَ أَيْمَـٰنُكُمْ }... إلى قوله:
-  { فَمَا ٱسْتَمْتَعْتُمْ بِهِ مِنْهُنَّ }... إلى آخر الآية.قال أبو جعفر: فأما المحصنات
-  فإنهنّ جمع محصنة، وهي التي قد منع فرجها بزوج، يقال منه: أحصن الرجل امرأته فهو يُحْصِنها
+  إِلاَّ مَا مَلَكْتَ أَيْمَـٰنُكُمْ }.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقد
+  ذكر ابن عباس وجماعة غيره أنه كان ملتبساً عليهم تأويل ذلك.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  محمد بن المثنى، قال: ثنا محمد بن جعفر، قال: ثنا شعبة، عن عمرو بن مرة، قال: قال رجل
+  لسعيد بن جبير: أما رأيت ابن عباس حين سئل عن هذه الآية: { وَٱلْمُحْصَنَـٰتُ مِنَ
+  ٱلنِّسَاء إِلاَّ مَا مَلَكْتَ أَيْمَـٰنُكُمْ } فلم يقل فيها شيئاً؟ قال: فقال: كان
+  لا يعلمها.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا القاسم، قال: ثنا الحسين،
+  قال: ثنا هشيم، قال: أخبرنا عبد الرحمن بن يحيـى، عن مجاهد، قال: لو أعلم من يفسر لي
+  هذه الآية لضربت إليه أكباد الإبل، قوله: { وَٱلْمُحْصَنَـٰتُ مِنَ ٱلنِّسَاء إِلاَّ
+  مَا مَلَكْتَ أَيْمَـٰنُكُمْ }... إلى قوله: { فَمَا ٱسْتَمْتَعْتُمْ بِهِ مِنْهُنَّ
+  }... إلى آخر الآية.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">قال أبو جعفر: فأما المحصنات فإنهنّ
+  جمع محصنة، وهي التي قد منع فرجها بزوج، يقال منه: أحصن الرجل امرأته فهو يُحْصِنها
   أحصاناً وحَصُنَتْ هي فهي تَحْصُنُ حَصَانَةً: إذا عفَّت، وهي حاصن من النساء: عفيفة،
-  كما قال العجاج:وحاصِنٍ مِنْ حاصِنَاتٍ مُلْسِ   عَنِ الأذَى وَعَنْ قِرَافِ الوَقْسِويقال
-  أيضاً إذا هي عفت وحفظت فرجها من الفجور: قد أحصنت فرجها فهي محصنة، كما قال جلّ ثناؤه:{ وَمَرْيَمَ
-  ٱبْنَتَ عِمْرَانَ ٱلَّتِيۤ أَحْصَنَتْ فَرْجَهَا }[التحريم: 12] بمعنى: حفظته من الريبة
-  ومنعته من الفجور. وإنما قيل لحصون المدائن والقرى حصون لمنعها من أرادها وأهلها، وحفظها
-  ما وراءها ممن بغاها من أعدائها، ولذلك قيل للدرع درع حصينة. فإذا كان أصل الإحصان
-  ما ذكرنا من المنع والحفظ فبين أن معنى قوله: { وَٱلْمُحْصَنَـٰتُ مِنَ ٱلنِّسَاء }:
-  والممنوعات من النساء حرام عليكم { إِلاَّ مَا مَلَكْتَ أَيْمَـٰنُكُمْ }. وإذ كان
-  ذلك معناه، وكان الإحصان قد يكون بالحرية، كما قال جل ثناؤه:{ وَٱلْمُحْصَنَـٰتُ مِنَ
-  ٱلَّذِينَ أُوتُواْ ٱلْكِتَـٰبَ مِن قَبْلِكُمْ }[المائدة: 5] ويكون بالإسلام، كما
-  قال تعالى ذكره:{ فَإِذَا أُحْصِنَّ فَإِنْ أَتَيْنَ بِفَـٰحِشَةٍ فَعَلَيْهِنَّ نِصْفُ
-  مَا عَلَى ٱلْمُحْصَنَـٰتِ مِنَ ٱلْعَذَابِ }[النساء: 25] ويكون بالعفة كما قال جل
-  ثناؤه:{ وَٱلَّذِينَ يَرْمُونَ ٱلْمُحْصَنَاتِ ثُمَّ لَمْ يَأْتُواْ بِأَرْبَعَةِ شُهَدَآءَ }\r\n\t\t\t1 2 3 4 5 6 7 8 9 10 \r\n\t\t\t\t\t\t\t\tمزيد</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَٱلْمُحْصَنَٰتُ مِنَ ٱلنِّسَآءِ إِلاَّ
-  مَا مَلَكْتَ أَيْمَٰنُكُمْ كِتَٰبَ ٱللَّهِ عَلَيْكُمْ وَأُحِلَّ لَكُمْ مَّا وَرَاءَ
-  ذَٰلِكُمْ أَن تَبْتَغُواْ بِأَمْوَٰلِكُمْ مُّحْصِنِينَ غَيْرَ مُسَٰفِحِينَ فَمَا
-  ٱسْتَمْتَعْتُمْ بِهِ مِنْهُنَّ فَآتُوهُنَّ أُجُورَهُنَّ فَرِيضَةً وَلاَ جُنَاحَ
-  عَلَيْكُمْ فِيمَا تَرَٰضَيْتُمْ بِهِ مِن بَعْدِ ٱلْفَرِيضَةِ إِنَّ ٱللَّهَ كَانَ
-  عَلِيماً حَكِيماً }[النور: 4] ويكون بالزوج؛ ولم يكن تبارك وتعالى خصّ محصنة دون محصنة
+  كما قال العجاج:</font></font><table class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">وحاصِنٍ
+  مِنْ حاصِنَاتٍ مُلْسِ</font></font></b></td><td class=\"TextArabic\">   </td><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">عَنِ الأذَى
+  وَعَنْ قِرَافِ الوَقْسِ</font></font></b></td></tr></table><font class=\"TextResultArabic\"><font
+  color=\"black\">ويقال أيضاً إذا هي عفت وحفظت فرجها من الفجور: قد أحصنت فرجها فهي
+  محصنة، كما قال جلّ ثناؤه:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">وَمَرْيَمَ ٱبْنَتَ عِمْرَانَ ٱلَّتِيۤ أَحْصَنَتْ فَرْجَهَا</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[التحريم:
+  12] بمعنى: حفظته من الريبة ومنعته من الفجور. وإنما قيل لحصون المدائن والقرى حصون
+  لمنعها من أرادها وأهلها، وحفظها ما وراءها ممن بغاها من أعدائها، ولذلك قيل للدرع
+  درع حصينة. فإذا كان أصل الإحصان ما ذكرنا من المنع والحفظ فبين أن معنى قوله: { وَٱلْمُحْصَنَـٰتُ
+  مِنَ ٱلنِّسَاء }: والممنوعات من النساء حرام عليكم { إِلاَّ مَا مَلَكْتَ أَيْمَـٰنُكُمْ
+  }. وإذ كان ذلك معناه، وكان الإحصان قد يكون بالحرية، كما قال جل ثناؤه:</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">وَٱلْمُحْصَنَـٰتُ
+  مِنَ ٱلَّذِينَ أُوتُواْ ٱلْكِتَـٰبَ مِن قَبْلِكُمْ</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">[المائدة: 5] ويكون بالإسلام، كما
+  قال تعالى ذكره:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">فَإِذَا أُحْصِنَّ فَإِنْ أَتَيْنَ بِفَـٰحِشَةٍ فَعَلَيْهِنَّ
+  نِصْفُ مَا عَلَى ٱلْمُحْصَنَـٰتِ مِنَ ٱلْعَذَابِ</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">[النساء: 25] ويكون بالعفة كما قال
+  جل ثناؤه:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">وَٱلَّذِينَ يَرْمُونَ ٱلْمُحْصَنَاتِ ثُمَّ لَمْ يَأْتُواْ
+  بِأَرْبَعَةِ شُهَدَآءَ</font></font> }</b><br class=\"TextArabic\"/><label disabled=\"true\"
+  class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,7,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">6 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,8,1)\"><u>8</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,9,1)\"><u>9</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(1,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(4,
+  24)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(4,24)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَٱلْمُحْصَنَٰتُ مِنَ ٱلنِّسَآءِ إِلاَّ مَا مَلَكْتَ
+  أَيْمَٰنُكُمْ كِتَٰبَ ٱللَّهِ عَلَيْكُمْ وَأُحِلَّ لَكُمْ مَّا وَرَاءَ ذَٰلِكُمْ
+  أَن تَبْتَغُواْ بِأَمْوَٰلِكُمْ مُّحْصِنِينَ غَيْرَ مُسَٰفِحِينَ فَمَا ٱسْتَمْتَعْتُمْ
+  بِهِ مِنْهُنَّ فَآتُوهُنَّ أُجُورَهُنَّ فَرِيضَةً وَلاَ جُنَاحَ عَلَيْكُمْ فِيمَا
+  تَرَٰضَيْتُمْ بِهِ مِن بَعْدِ ٱلْفَرِيضَةِ إِنَّ ٱللَّهَ كَانَ عَلِيماً حَكِيماً</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">[النور: 4] ويكون بالزوج؛ ولم يكن تبارك وتعالى خصّ محصنة دون محصنة
   في قوله: { وَٱلْمُحْصَنَـٰتُ مِنَ ٱلنِّسَاء } فواجب أن يكون كل محصنة بأي معاني الإحصان
   كان إحصانها حراماً علينا سفاحاً أو نكاحاً، إلا ما ملكته أيماننا منهن بشراء، كما
   أباحه لنا كتاب الله جل ثناؤه، أو نكاح على ما أطلقه لنا تنزيل الله. فالذي أباحه اللّه
@@ -222,33 +512,66 @@ text: "<section>قراءة الآيةفتح صفحة القرآنالانتقا�
   وتعالى حرمه من جميعهن، فلم يحلَّه من حرّة ولا أمة ولا مسلمة ولا كافرة مشركة. وأما
   الأمة التي لها زوج فإنها لا تحل لمالكها إلا بعد طلاق زوجها إياها، أو وفاته وانقضاء
   عدتها منه، فأما بيع سيدها إياها فغير موجب بينها وبين زوجها فراقاً ولا تحليلاً لمشتريها،
-  لصحة الخبر عن رسول الله صلى الله عليه وسلم: \" أنه خير بريرة إذ أعتقتها عائشة بين
-  المقام مع زوجها الذي كان سادتها زوّجوها منه في حال رقها، وبين فراقه \" ولم يجعل
-  صلى الله عليه وسلم عتق عائشة إياها طلاقاً. ولو كان عتقها وزوال ملك عائشة إياها لها
-  طلاقاً لم يكن لتخيير النبيّ صلى الله عليه وسلم إياها بين المقام مع زوجها والفراق
-  معنى، ولوجب بالعتق الفراق، وبزوال ملك عائشة عنها الطلاق؛ فلما خيرها النبيّ صلى الله
-  عليه وسلم بين الذي ذكرنا وبين المقام مع زوجها والفراق كان معلوماً أنه لم يخير بين
-  ذلك إلا والنكاح عقده ثابت، كما كان قبل زوال ملك عائشة عنها، فكان نظيراً للعتق الذي
-  هو زوال ملك مالك المملوكة ذات الزوج عنها البيع الذي هو زوال ملك مالكها عنها، إذ
-  كان أحدهما زوالاً ببيع والآخر بعتق في أن الفرقة لا يجب بها بينها وبين زوجها بهما
-  ولا بواحد منهما طلاق وإن اختلفا في معان أخر، من أن لها في العتق الخيار في المقام
-  مع زوجها والفراق، لعلة مفارقة معنى البيع، وليس ذلك لها في البيع.فإن قال قائل: وكيف
-  يكون معنياً بالاستثناء من قوله: { وَٱلْمُحْصَنَـٰتُ مِنَ ٱلنِّسَاء } ما وراء الأربع
-  من الخمس إلى ما فوقهنّ بالنكاح والمنكوحات به غير مملوكات؟ قيل له: إن الله تعالى
-  لم يخصّ بقوله: { إِلاَّ مَا مَلَكْتَ أَيْمَـٰنُكُمْ } المملوكات الرقاب دون المملوك
-  عليها بعقد النكاح أمرها، بل عمّ بقوله: { إِلاَّ مَا مَلَكْتَ أَيْمَـٰنُكُمْ } كلا
-  المعنيين، أعني ملك الرقبة وملك الاستمتاع بالنكاح، لأن جميع ذلك ملكته أيماننا، أما
-  هذه فملك استمتاع، وأما هذه فملك استخدام واستمتاع وتصريف فيما أبيح لمالكها منها.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 9 10 \r\n\t\t\t\t\t\t\t\tمزيد</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَٱلْمُحْصَنَٰتُ مِنَ ٱلنِّسَآءِ إِلاَّ
-  مَا مَلَكْتَ أَيْمَٰنُكُمْ كِتَٰبَ ٱللَّهِ عَلَيْكُمْ وَأُحِلَّ لَكُمْ مَّا وَرَاءَ
-  ذَٰلِكُمْ أَن تَبْتَغُواْ بِأَمْوَٰلِكُمْ مُّحْصِنِينَ غَيْرَ مُسَٰفِحِينَ فَمَا
-  ٱسْتَمْتَعْتُمْ بِهِ مِنْهُنَّ فَآتُوهُنَّ أُجُورَهُنَّ فَرِيضَةً وَلاَ جُنَاحَ
-  عَلَيْكُمْ فِيمَا تَرَٰضَيْتُمْ بِهِ مِن بَعْدِ ٱلْفَرِيضَةِ إِنَّ ٱللَّهَ كَانَ
-  عَلِيماً حَكِيماً }ومن ادعى أن الله تبارك وتعالى عني بقوله: { وَٱلْمُحْصَنَـٰتُ
-  مِنَ ٱلنِّسَاء } محصنة وغير محصنة، سوى من ذكرنا أولاً بالاستثناء بقوله: { إِلاَّ
-  مَا مَلَكْتَ أَيْمَـٰنُكُمْ } بَعْضَ أملاك أيماننا دون بعض، غير الذي دللنا على أنه
-  غير معني به، سئل البرهان على دعواه من أصل أو نظير، فلن يقول في ذلك قولاً إلا ألزم
-  في الآخر مثله. فإن اعتل معتل منهم بحديث أبي سعيد الخدري أن هذه الآية نزلت في سبايا
+  لصحة الخبر عن رسول الله صلى الله عليه وسلم:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" أنه خير بريرة إذ أعتقتها عائشة بين المقام مع زوجها الذي كان سادتها
+  زوّجوها منه في حال رقها، وبين فراقه \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">ولم يجعل صلى الله عليه وسلم عتق عائشة إياها طلاقاً. ولو كان عتقها
+  وزوال ملك عائشة إياها لها طلاقاً لم يكن لتخيير النبيّ صلى الله عليه وسلم إياها بين
+  المقام مع زوجها والفراق معنى، ولوجب بالعتق الفراق، وبزوال ملك عائشة عنها الطلاق؛
+  فلما خيرها النبيّ صلى الله عليه وسلم بين الذي ذكرنا وبين المقام مع زوجها والفراق
+  كان معلوماً أنه لم يخير بين ذلك إلا والنكاح عقده ثابت، كما كان قبل زوال ملك عائشة
+  عنها، فكان نظيراً للعتق الذي هو زوال ملك مالك المملوكة ذات الزوج عنها البيع الذي
+  هو زوال ملك مالكها عنها، إذ كان أحدهما زوالاً ببيع والآخر بعتق في أن الفرقة لا يجب
+  بها بينها وبين زوجها بهما ولا بواحد منهما طلاق وإن اختلفا في معان أخر، من أن لها
+  في العتق الخيار في المقام مع زوجها والفراق، لعلة مفارقة معنى البيع، وليس ذلك لها
+  في البيع.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">فإن قال قائل: وكيف يكون معنياً
+  بالاستثناء من قوله: { وَٱلْمُحْصَنَـٰتُ مِنَ ٱلنِّسَاء } ما وراء الأربع من الخمس
+  إلى ما فوقهنّ بالنكاح والمنكوحات به غير مملوكات؟ قيل له: إن الله تعالى لم يخصّ بقوله:
+  { إِلاَّ مَا مَلَكْتَ أَيْمَـٰنُكُمْ } المملوكات الرقاب دون المملوك عليها بعقد النكاح
+  أمرها، بل عمّ بقوله: { إِلاَّ مَا مَلَكْتَ أَيْمَـٰنُكُمْ } كلا المعنيين، أعني ملك
+  الرقبة وملك الاستمتاع بالنكاح، لأن جميع ذلك ملكته أيماننا، أما هذه فملك استمتاع،
+  وأما هذه فملك استخدام واستمتاع وتصريف فيما أبيح لمالكها منها.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,8,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">7 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,8,1)\"><u>8</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,9,1)\"><u>9</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(1,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(4,
+  24)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(4,24)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَٱلْمُحْصَنَٰتُ مِنَ ٱلنِّسَآءِ إِلاَّ مَا مَلَكْتَ
+  أَيْمَٰنُكُمْ كِتَٰبَ ٱللَّهِ عَلَيْكُمْ وَأُحِلَّ لَكُمْ مَّا وَرَاءَ ذَٰلِكُمْ
+  أَن تَبْتَغُواْ بِأَمْوَٰلِكُمْ مُّحْصِنِينَ غَيْرَ مُسَٰفِحِينَ فَمَا ٱسْتَمْتَعْتُمْ
+  بِهِ مِنْهُنَّ فَآتُوهُنَّ أُجُورَهُنَّ فَرِيضَةً وَلاَ جُنَاحَ عَلَيْكُمْ فِيمَا
+  تَرَٰضَيْتُمْ بِهِ مِن بَعْدِ ٱلْفَرِيضَةِ إِنَّ ٱللَّهَ كَانَ عَلِيماً حَكِيماً</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">ومن ادعى أن الله تبارك وتعالى عني بقوله: { وَٱلْمُحْصَنَـٰتُ مِنَ
+  ٱلنِّسَاء } محصنة وغير محصنة، سوى من ذكرنا أولاً بالاستثناء بقوله: { إِلاَّ مَا
+  مَلَكْتَ أَيْمَـٰنُكُمْ } بَعْضَ أملاك أيماننا دون بعض، غير الذي دللنا على أنه غير
+  معني به، سئل البرهان على دعواه من أصل أو نظير، فلن يقول في ذلك قولاً إلا ألزم في
+  الآخر مثله. فإن اعتل معتل منهم بحديث أبي سعيد الخدري أن هذه الآية نزلت في سبايا
   أوطاس، قيل له: إن سبايا أوطاس لم يوطأن بالملك والسباء دون الإسلام، وذلك أنهن كن
   مشركات من عبدة الأوثان، وقد قامت الحجة بأن نساء عبدة الأوثان لا يحللن بالملك دون
   الإسلام، وأنهن إذا أسلمن فرق الإسلام بينهنّ وبين الأزواج، سبايا كنّ أو مهاجرات،
@@ -257,85 +580,198 @@ text: "<section>قراءة الآيةفتح صفحة القرآنالانتقا�
   دون غيرهن بخبر أبي سعيد الخدري أن ذلك نزل في سبايا أوطاس؛ لأنه وإن كان فيهن نزل،
   فلم ينزل في إباحة وطئهن بالسباء خاصة دون غيره من المعاني التي ذكرنا، مع أن الآية
   تنزل في معنى فتعمّ ما نزلت به فيه وغيره، فيلزم حكمها جميع ما عمته لما قد بينا من
-  القول في العموم والخصوص في كتابنا «كتاب البيان عن أصول الأحكام».القول في تأويل قوله
-  تعالى: { كِتَـٰبَ ٱللَّهِ عَلَيْكُمْ }.يعني تعالى ذكره: كتاباً من الله عليكم. فأخرج
-  الكتاب مُصَدَّراً من غير لفظه. وإنما جاز ذلك لأن قوله تعالى:{ حُرِّمَتْ عَلَيْكُمْ
-  أُمَّهَـٰتُكُمْ }[النساء: 23]... إلى قوله: { كِتَـٰبَ ٱللَّهِ عَلَيْكُمْ } بمعنى:
-  كتب الله تحريم ما حرم من ذلك وتحليل ما حلل من ذلك عليكم كتاباً.وبما قلنا في ذلك،
-  قال أهل التأويل. ذكر من قال ذلك:حدثنا محمد بن بشار، قال: ثنا أبو أحمد، قال: ثنا
-  سفيان، عن منصور، عن إبراهيم، قال: { كِتَـٰبَ ٱللَّهِ عَلَيْكُمْ } قال: ما حرم عليكم.حدثنا
+  القول في العموم والخصوص في كتابنا «كتاب البيان عن أصول الأحكام».</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">القول في تأويل قوله تعالى: { كِتَـٰبَ ٱللَّهِ عَلَيْكُمْ }.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">يعني تعالى ذكره: كتاباً من الله عليكم. فأخرج الكتاب مُصَدَّراً من
+  غير لفظه. وإنما جاز ذلك لأن قوله تعالى:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">حُرِّمَتْ عَلَيْكُمْ أُمَّهَـٰتُكُمْ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[النساء:
+  23]... إلى قوله: { كِتَـٰبَ ٱللَّهِ عَلَيْكُمْ } بمعنى: كتب الله تحريم ما حرم من
+  ذلك وتحليل ما حلل من ذلك عليكم كتاباً.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وبما
+  قلنا في ذلك، قال أهل التأويل. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  محمد بن بشار، قال: ثنا أبو أحمد، قال: ثنا سفيان، عن منصور، عن إبراهيم، قال: { كِتَـٰبَ
+  ٱللَّهِ عَلَيْكُمْ } قال: ما حرم عليكم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
   القاسم، قال: حدثنا الحسين، قال: ثنى حجاج، عن ابن جريج، قال: سألت عطاء عنها فقال:
-  { كِتَـٰبَ ٱللَّهِ عَلَيْكُمْ } قال: هو الذي كتب عليكم الأربع أن لا تزيدوا.حدثني
-  يعقوب بن إبراهيم، قال: ثنا ابن علية، عن ابن عون، عن محمد بن سيرين، قال: قلت لعبيدة:
-  { وَٱلْمُحْصَنَـٰتُ مِنَ ٱلنِّسَاء إِلاَّ مَا مَلَكْتَ أَيْمَـٰنُكُمْ كِتَـٰبَ ٱللَّهِ
-  عَلَيْكُمْ } وأشار ابن عون بأصابعه الأربع.حدثني يعقوب بن إبراهيم، قال: ثنا هشيم،
-  قال: أخبرنا هشام، عن ابن سيرين، قال: سألت عبيدة، عن قوله: { كِتَـٰبَ ٱللَّهِ عَلَيْكُمْ
-  } قال: أربع.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 9 10 \r\n\t\t\t\t\t\t\t\tمزيد</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَٱلْمُحْصَنَٰتُ مِنَ ٱلنِّسَآءِ إِلاَّ
-  مَا مَلَكْتَ أَيْمَٰنُكُمْ كِتَٰبَ ٱللَّهِ عَلَيْكُمْ وَأُحِلَّ لَكُمْ مَّا وَرَاءَ
-  ذَٰلِكُمْ أَن تَبْتَغُواْ بِأَمْوَٰلِكُمْ مُّحْصِنِينَ غَيْرَ مُسَٰفِحِينَ فَمَا
-  ٱسْتَمْتَعْتُمْ بِهِ مِنْهُنَّ فَآتُوهُنَّ أُجُورَهُنَّ فَرِيضَةً وَلاَ جُنَاحَ
-  عَلَيْكُمْ فِيمَا تَرَٰضَيْتُمْ بِهِ مِن بَعْدِ ٱلْفَرِيضَةِ إِنَّ ٱللَّهَ كَانَ
-  عَلِيماً حَكِيماً }حدثنا محمد بن الحسين، قال: ثنا أحمد بن المفضل، قال: ثنا أسباط،
-  عن السديّ: { كِتَـٰبَ ٱللَّهِ عَلَيْكُمْ }: الأربع.حدثني يونس، قال: أخبرنا ابن وهب،
-  قال: قال ابن زيد في قوله: { كِتَـٰبَ ٱللَّهِ عَلَيْكُمْ } قال: هذا أمر الله عليكم،
-  قال: يريد ما حرم عليهم من هؤلاء وما أحلّ لهم. وقرأ: { وَأُحِلَّ لَكُمْ مَّا وَرَاء
-  ذَلِكُمْ أَن تَبْتَغُواْ بِأَمْوٰلِكُمْ }... إلى آخر الآية. قال: كتاب الله عليكم
-  الذي كتبه، وأمره الذي أمركم به. { كِتَـٰبَ ٱللَّهِ عَلَيْكُمْ }: أَمْرَ الله.وقد
-  كان بعض أهل العربية يزعم أن قوله: { كِتَـٰبَ ٱللَّهِ عَلَيْكُمْ } منصوب على وجه
-  الإغراء، بمعنى: عليكم كتابَ الله، الزموا كتابَ الله. والذي قال من ذلك غير مستفيض
-  في كلام العرب، وذلك أنه لا (تكاد) تنصب بالحرف الذي تغري به، لا تكاد تقول: أخاك عليك
-  وأباك دونك، وإن كان جائزاً. والذي هو أولى بكتاب الله أن يكون محمولاً على المعروف
-  من لسان من نزل بلسانه هذا مع ما ذكرنا من تأويل أهل التأويل ذلك بمعنى ما قلنا، وخلاف
-  ما وجهه إليه من زعم أنه نصب على وجه الإغراء.القول في تأويل قوله تعالى: { وَأُحِلَّ
-  لَكُمْ مَّا وَرَاء ذَلِكُمْ أَن تَبْتَغُواْ بِأَمْوٰلِكُمْ }.اختلف أهل التأويل في
-  تأويل ذلك، فقال بعضهم: معنى ذلك: وأحلّ لكم ما دون الخمس أن تبتغوا بأموالكم على وجه
-  النكاح. ذكر من قال ذلك:حدثنا محمد بن الحسين، قال: ثنا أحمد بن المفضل، قال: ثنا أسباط،
-  عن السديّ: { وَأُحِلَّ لَكُمْ مَّا وَرَاء ذَلِكُمْ }: ما دون الأربع أن تبتغوا بأموالكم.حدثنا
-  ابن وكيع، قال: ثنا أبي، عن سفيان، عن هشام، عن ابن سيرين، عن عبيدة السلمانيّ: { وَأُحِلَّ
-  لَكُمْ مَّا وَرَاء ذَلِكُمْ } يعني: ما دون الأربع.وقال آخرون: بل معنى ذلك: وأحلّ
-  لكم ما وراء ذلكم من سَمَّى لكم تحريمه من أقاربكم. ذكر من قال ذلك:حدثنا القاسم، قال
-  ثنا الحسين، قال: ثنا حجاج، عن ابن جريج، قال: سألت عطاء عنها، فقال: { وَأُحِلَّ لَكُمْ
-  مَّا وَرَاء ذَلِكُمْ } قال: ما وراءَ ذات القرابة، { أَن تَبْتَغُواْ بِأَمْوٰلِكُمْ
-  }... الآية.وقال آخرون: بل معنى ذلك: { وَأُحِلَّ لَكُمْ مَّا وَرَاء ذَلِكُمْ }: عدد
-  ما أحل لكم من المحصنات من النساء الحرائر ومن الإماء. ذكر من قال ذلك:حدثنا محمد بن
-  بشار، قال: ثنا عبد الأعلى، قال: ثنا سعيد، عن قتادة في قوله: { وَأُحِلَّ لَكُمْ مَّا
-  وَرَاء ذَلِكُمْ } قال: ما ملكت أيمانكم.قال أبو جعفر: وأولى الأقوال في ذلك بالصواب،
-  ما نحن مبينوه؛ وهو أن الله جلّ ثناؤه بين لعباده المحرّمات بالنسب والصهر، ثم المحرّمات
-  من المحصنات من النساء، ثم أخبرهم جلّ ثناؤه أنه قد أحلّ لهم ما عدا هؤلاء المحرّمات
-  المبينات في هاتين الآيتين أن نبتغيه بأموالنا نكاحاً وملك يمين لا سفاحاً.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 9 10 \r\n\t\t\t\t\t\t\t\tمزيد</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَٱلْمُحْصَنَٰتُ مِنَ ٱلنِّسَآءِ إِلاَّ
-  مَا مَلَكْتَ أَيْمَٰنُكُمْ كِتَٰبَ ٱللَّهِ عَلَيْكُمْ وَأُحِلَّ لَكُمْ مَّا وَرَاءَ
-  ذَٰلِكُمْ أَن تَبْتَغُواْ بِأَمْوَٰلِكُمْ مُّحْصِنِينَ غَيْرَ مُسَٰفِحِينَ فَمَا
-  ٱسْتَمْتَعْتُمْ بِهِ مِنْهُنَّ فَآتُوهُنَّ أُجُورَهُنَّ فَرِيضَةً وَلاَ جُنَاحَ
-  عَلَيْكُمْ فِيمَا تَرَٰضَيْتُمْ بِهِ مِن بَعْدِ ٱلْفَرِيضَةِ إِنَّ ٱللَّهَ كَانَ
-  عَلِيماً حَكِيماً }فإن قال قائل: عرفنا المحللات اللواتي هنّ وراء المحرّمات بالأنساب
+  { كِتَـٰبَ ٱللَّهِ عَلَيْكُمْ } قال: هو الذي كتب عليكم الأربع أن لا تزيدوا.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني يعقوب بن إبراهيم، قال: ثنا ابن علية، عن ابن عون، عن محمد بن
+  سيرين، قال: قلت لعبيدة: { وَٱلْمُحْصَنَـٰتُ مِنَ ٱلنِّسَاء إِلاَّ مَا مَلَكْتَ أَيْمَـٰنُكُمْ
+  كِتَـٰبَ ٱللَّهِ عَلَيْكُمْ } وأشار ابن عون بأصابعه الأربع.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  يعقوب بن إبراهيم، قال: ثنا هشيم، قال: أخبرنا هشام، عن ابن سيرين، قال: سألت عبيدة،
+  عن قوله: { كِتَـٰبَ ٱللَّهِ عَلَيْكُمْ } قال: أربع.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,7,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,9,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">8 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,9,1)\"><u>9</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(1,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(4,
+  24)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(4,24)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَٱلْمُحْصَنَٰتُ مِنَ ٱلنِّسَآءِ إِلاَّ مَا مَلَكْتَ
+  أَيْمَٰنُكُمْ كِتَٰبَ ٱللَّهِ عَلَيْكُمْ وَأُحِلَّ لَكُمْ مَّا وَرَاءَ ذَٰلِكُمْ
+  أَن تَبْتَغُواْ بِأَمْوَٰلِكُمْ مُّحْصِنِينَ غَيْرَ مُسَٰفِحِينَ فَمَا ٱسْتَمْتَعْتُمْ
+  بِهِ مِنْهُنَّ فَآتُوهُنَّ أُجُورَهُنَّ فَرِيضَةً وَلاَ جُنَاحَ عَلَيْكُمْ فِيمَا
+  تَرَٰضَيْتُمْ بِهِ مِن بَعْدِ ٱلْفَرِيضَةِ إِنَّ ٱللَّهَ كَانَ عَلِيماً حَكِيماً</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا محمد بن الحسين، قال: ثنا أحمد بن المفضل، قال: ثنا أسباط، عن
+  السديّ: { كِتَـٰبَ ٱللَّهِ عَلَيْكُمْ }: الأربع.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد في قوله: { كِتَـٰبَ ٱللَّهِ عَلَيْكُمْ
+  } قال: هذا أمر الله عليكم، قال: يريد ما حرم عليهم من هؤلاء وما أحلّ لهم. وقرأ: {
+  وَأُحِلَّ لَكُمْ مَّا وَرَاء ذَلِكُمْ أَن تَبْتَغُواْ بِأَمْوٰلِكُمْ }... إلى آخر
+  الآية. قال: كتاب الله عليكم الذي كتبه، وأمره الذي أمركم به. { كِتَـٰبَ ٱللَّهِ عَلَيْكُمْ
+  }: أَمْرَ الله.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقد كان بعض أهل العربية يزعم أن
+  قوله: { كِتَـٰبَ ٱللَّهِ عَلَيْكُمْ } منصوب على وجه الإغراء، بمعنى: عليكم كتابَ
+  الله، الزموا كتابَ الله. والذي قال من ذلك غير مستفيض في كلام العرب، وذلك أنه لا
+  (تكاد) تنصب بالحرف الذي تغري به، لا تكاد تقول: أخاك عليك وأباك دونك، وإن كان جائزاً.
+  والذي هو أولى بكتاب الله أن يكون محمولاً على المعروف من لسان من نزل بلسانه هذا مع
+  ما ذكرنا من تأويل أهل التأويل ذلك بمعنى ما قلنا، وخلاف ما وجهه إليه من زعم أنه نصب
+  على وجه الإغراء.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">القول في تأويل قوله تعالى: { وَأُحِلَّ
+  لَكُمْ مَّا وَرَاء ذَلِكُمْ أَن تَبْتَغُواْ بِأَمْوٰلِكُمْ }.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">اختلف أهل التأويل في تأويل ذلك، فقال بعضهم: معنى ذلك: وأحلّ لكم
+  ما دون الخمس أن تبتغوا بأموالكم على وجه النكاح. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا محمد بن الحسين، قال: ثنا أحمد بن المفضل، قال: ثنا أسباط، عن
+  السديّ: { وَأُحِلَّ لَكُمْ مَّا وَرَاء ذَلِكُمْ }: ما دون الأربع أن تبتغوا بأموالكم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن وكيع، قال: ثنا أبي، عن سفيان، عن هشام، عن ابن سيرين، عن
+  عبيدة السلمانيّ: { وَأُحِلَّ لَكُمْ مَّا وَرَاء ذَلِكُمْ } يعني: ما دون الأربع.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال آخرون: بل معنى ذلك: وأحلّ لكم ما وراء ذلكم من سَمَّى لكم تحريمه
+  من أقاربكم. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  القاسم، قال ثنا الحسين، قال: ثنا حجاج، عن ابن جريج، قال: سألت عطاء عنها، فقال: {
+  وَأُحِلَّ لَكُمْ مَّا وَرَاء ذَلِكُمْ } قال: ما وراءَ ذات القرابة، { أَن تَبْتَغُواْ
+  بِأَمْوٰلِكُمْ }... الآية.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال آخرون: بل معنى ذلك: { وَأُحِلَّ
+  لَكُمْ مَّا وَرَاء ذَلِكُمْ }: عدد ما أحل لكم من المحصنات من النساء الحرائر ومن
+  الإماء. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا محمد بن بشار، قال: ثنا عبد
+  الأعلى، قال: ثنا سعيد، عن قتادة في قوله: { وَأُحِلَّ لَكُمْ مَّا وَرَاء ذَلِكُمْ
+  } قال: ما ملكت أيمانكم.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">قال أبو جعفر: وأولى الأقوال في
+  ذلك بالصواب، ما نحن مبينوه؛ وهو أن الله جلّ ثناؤه بين لعباده المحرّمات بالنسب والصهر،
+  ثم المحرّمات من المحصنات من النساء، ثم أخبرهم جلّ ثناؤه أنه قد أحلّ لهم ما عدا هؤلاء
+  المحرّمات المبينات في هاتين الآيتين أن نبتغيه بأموالنا نكاحاً وملك يمين لا سفاحاً.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,8,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,10,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,8,1)\"><u>8</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">9 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(1,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(4,
+  24)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(4,24)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَٱلْمُحْصَنَٰتُ مِنَ ٱلنِّسَآءِ إِلاَّ مَا مَلَكْتَ
+  أَيْمَٰنُكُمْ كِتَٰبَ ٱللَّهِ عَلَيْكُمْ وَأُحِلَّ لَكُمْ مَّا وَرَاءَ ذَٰلِكُمْ
+  أَن تَبْتَغُواْ بِأَمْوَٰلِكُمْ مُّحْصِنِينَ غَيْرَ مُسَٰفِحِينَ فَمَا ٱسْتَمْتَعْتُمْ
+  بِهِ مِنْهُنَّ فَآتُوهُنَّ أُجُورَهُنَّ فَرِيضَةً وَلاَ جُنَاحَ عَلَيْكُمْ فِيمَا
+  تَرَٰضَيْتُمْ بِهِ مِن بَعْدِ ٱلْفَرِيضَةِ إِنَّ ٱللَّهَ كَانَ عَلِيماً حَكِيماً</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">فإن قال قائل: عرفنا المحللات اللواتي هنّ وراء المحرّمات بالأنساب
   والأصهار، فما المحللات من المحصنات والمحرّمات منهنّ؟ قيل: هو ما دون الخمس من واحدة
   إلى أربع على ما ذكرنا عن عبيدة والسديّ من الحرائر، فأما ما عدا ذوات الأزواج فغير
-  عدد محصور بملك اليمين.وإنما قلنا إن ذلك كذلك، لأن قوله: { وَأُحِلَّ لَكُمْ مَّا
-  وَرَاء ذَلِكُمْ } عامّ في كل محلَّل لنا من النساء أن نبتغيها بأموالنا، فليس توجيه
-  معنى ذلك إلى بعض منهنّ بأولى من بعض، إلا أن تقوم بأن ذلك كذلك حجة يجب التسليم لها،
-  ولا حجة بأن ذلك كذلك.واختلف القراء في قراءة قوله: { وَأُحِلَّ لَكُمْ مَّا وَرَاء
-  ذَلِكُمْ } فقرأ ذلك بعضهم: «وأَحَلَّ لَكُمْ» بفتح الألف من أحلّ، بمعنى: كتب الله
-  عليكم وأحلّ لكم ما وراء ذلكم. وقرأه آخرون: { وَأُحِلَّ لَكُمْ مَّا وَرَاء ذَلِكُمْ
-  } اعتباراً بقوله: { حُرِّمَتْ عَلَيْكُمْ أُمَّهَـٰتُكُمْ...وَأُحِلَّ لَكُمْ مَّا
-  وَرَاء ذَلِكُمْ }.قال أبو جعفر: والذي نقول في ذلك أنهما قراءتان معروفتان مستفيضتان
-  في قراءة الإسلام غير مختلفتي المعنى، فبأيّ ذلك قرأ القارىء فمصيب الحقّ.وأما معنى
-  قوله: { مَّا وَرَاء ذَلِكُمْ } فإنه يعني: ما عدا هؤلاء اللواتي حرمتهن عليكم أن تبتغوا
-  بأموالكم، يقول: أن تطلبوا وتلتمسوا بأموالكم، إما شراء بها وإما نكاحاً بصداق معلوم،
-  كما قال جلّ ثناؤه:{ وَيَكْفُرونَ بِمَا وَرَآءَهُ }[البقرة: 91] يعني: بما عداه وبما
-  سواه. وأما موضع «أن» من قوله: { أَن تَبْتَغُواْ بِأَمْوٰلِكُمْ } فرفعٌ ترجمةً عن
-  «ما» التي في قوله: { وَأُحِلَّ لَكُمْ مَّا وَرَاء ذَلِكُمْ } في قراءة من قرأ: {
-  وَأُحِلَّ } بضم الألف. ونصبٌ على ذلك في قراءة من قرأ ذلك: «وأَحَلَّ» بفتح الألف.
-  وقد يحتمل النصب في ذلك في القراءتين على معنى: وأحلّ لكم ما وراء ذلكم لأن تبتغوا،
-  فلما حذفت اللام الخافضة اتصلت بالفعل قبلها فنصبت. وقد يحتمل أن تكون في موضع خفض
-  بهذا المعنى إذ كانت اللام في هذا الموضع معلوماً أن بالكلام إليها الحاجة.القول في
-  تأويل قوله تعالى: { مُّحْصِنِينَ غَيْرَ مُسَـٰفِحِينَ }.يعني بقوله جلّ ثناؤه: {
-  مُّحْصِنِينَ } أعفاء بابتغائكم ما وراء ما حرّم عليكم من النساء بأموالكم { غَيْرَ
-  مُسَـٰفِحِينَ } يقول: غير مزانين. كما:حدثني محمد بن عمرو، قال: ثنا أبو عاصم، عن
-  عيسى، عن ابن أبي نجيح، عن مجاهد في قوله { مُّحْصِنِينَ } قال: متناكحين. { غَيْرَ
-  مُسَـٰفِحِينَ } قال: زانين بكل زانية.حدثني المثنى، قال: ثنا أبو حذيفة، قال: ثنا
-  شبل، عن ابن أبي نجيح، عن مجاهد، قال: { مُّحْصِنِينَ } متناكحين. { غَيْرَ مُسَـٰفِحِينَ
-  } السفاح: الزنا.حدثنا محمد بن الحسين، قال: ثنا أحمد بن مفضل، قال: ثنا أسباط، عن
-  السديّ: { مُّحْصِنِينَ غَيْرَ مُسَـٰفِحِينَ } يقول: محصنين غير زناة.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 9 10 \r\n\t\t\t\t\t\t\t\tمزيد</section>"
+  عدد محصور بملك اليمين.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وإنما قلنا إن ذلك كذلك، لأن قوله:
+  { وَأُحِلَّ لَكُمْ مَّا وَرَاء ذَلِكُمْ } عامّ في كل محلَّل لنا من النساء أن نبتغيها
+  بأموالنا، فليس توجيه معنى ذلك إلى بعض منهنّ بأولى من بعض، إلا أن تقوم بأن ذلك كذلك
+  حجة يجب التسليم لها، ولا حجة بأن ذلك كذلك.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">واختلف
+  القراء في قراءة قوله: { وَأُحِلَّ لَكُمْ مَّا وَرَاء ذَلِكُمْ } فقرأ ذلك بعضهم:
+  «وأَحَلَّ لَكُمْ» بفتح الألف من أحلّ، بمعنى: كتب الله عليكم وأحلّ لكم ما وراء ذلكم.
+  وقرأه آخرون: { وَأُحِلَّ لَكُمْ مَّا وَرَاء ذَلِكُمْ } اعتباراً بقوله: { حُرِّمَتْ
+  عَلَيْكُمْ أُمَّهَـٰتُكُمْ...وَأُحِلَّ لَكُمْ مَّا وَرَاء ذَلِكُمْ }.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قال أبو جعفر: والذي نقول في ذلك أنهما قراءتان معروفتان مستفيضتان
+  في قراءة الإسلام غير مختلفتي المعنى، فبأيّ ذلك قرأ القارىء فمصيب الحقّ.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وأما معنى قوله: { مَّا وَرَاء ذَلِكُمْ } فإنه يعني: ما عدا هؤلاء
+  اللواتي حرمتهن عليكم أن تبتغوا بأموالكم، يقول: أن تطلبوا وتلتمسوا بأموالكم، إما
+  شراء بها وإما نكاحاً بصداق معلوم، كما قال جلّ ثناؤه:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">وَيَكْفُرونَ بِمَا وَرَآءَهُ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[البقرة:
+  91] يعني: بما عداه وبما سواه. وأما موضع «أن» من قوله: { أَن تَبْتَغُواْ بِأَمْوٰلِكُمْ
+  } فرفعٌ ترجمةً عن «ما» التي في قوله: { وَأُحِلَّ لَكُمْ مَّا وَرَاء ذَلِكُمْ } في
+  قراءة من قرأ: { وَأُحِلَّ } بضم الألف. ونصبٌ على ذلك في قراءة من قرأ ذلك: «وأَحَلَّ»
+  بفتح الألف. وقد يحتمل النصب في ذلك في القراءتين على معنى: وأحلّ لكم ما وراء ذلكم
+  لأن تبتغوا، فلما حذفت اللام الخافضة اتصلت بالفعل قبلها فنصبت. وقد يحتمل أن تكون
+  في موضع خفض بهذا المعنى إذ كانت اللام في هذا الموضع معلوماً أن بالكلام إليها الحاجة.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">القول في تأويل قوله تعالى: { مُّحْصِنِينَ غَيْرَ مُسَـٰفِحِينَ }.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">يعني بقوله جلّ ثناؤه: { مُّحْصِنِينَ } أعفاء بابتغائكم ما وراء ما
+  حرّم عليكم من النساء بأموالكم { غَيْرَ مُسَـٰفِحِينَ } يقول: غير مزانين. كما:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني محمد بن عمرو، قال: ثنا أبو عاصم، عن عيسى، عن ابن أبي نجيح،
+  عن مجاهد في قوله { مُّحْصِنِينَ } قال: متناكحين. { غَيْرَ مُسَـٰفِحِينَ } قال: زانين
+  بكل زانية.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثني المثنى، قال: ثنا أبو حذيفة،
+  قال: ثنا شبل، عن ابن أبي نجيح، عن مجاهد، قال: { مُّحْصِنِينَ } متناكحين. { غَيْرَ
+  مُسَـٰفِحِينَ } السفاح: الزنا.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  محمد بن الحسين، قال: ثنا أحمد بن مفضل، قال: ثنا أسباط، عن السديّ: { مُّحْصِنِينَ
+  غَيْرَ مُسَـٰفِحِينَ } يقول: محصنين غير زناة.</font></font>&#13;\t\t\t<label disabled=\"true\"
+  class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,9,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,11,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,8,1)\"><u>8</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,9,1)\"><u>9</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">10 </font></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(1,11,1)\">مزيد</a></td></tr></table></center></div></section>"
 

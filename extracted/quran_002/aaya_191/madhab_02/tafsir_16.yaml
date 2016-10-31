@@ -1,4 +1,4 @@
-location:
+position:
   sura: '002'
   aaya: '191'
   madhab: '02'
@@ -11,12 +11,32 @@ aaya: وَاقْتُلُوهُمْ حَيْثُ ثَقِفْتُمُوهُمْ �
   ۚ وَالْفِتْنَةُ أَشَدُّ مِنَ الْقَتْلِ ۚ وَلَا تُقَاتِلُوهُمْ عِنْدَ الْمَسْجِدِ
   الْحَرَامِ حَتَّىٰ يُقَاتِلُوكُمْ فِيهِ ۖ فَإِنْ قَاتَلُوكُمْ فَاقْتُلُوهُمْ ۗ كَذَٰلِكَ
   جَزَاءُ الْكَافِرِينَ
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَٱقْتُلُوهُمْ
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(2, 191)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(2,191)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَٱقْتُلُوهُمْ
   حَيْثُ ثَقِفْتُمُوهُم وَأَخْرِجُوهُمْ مِّنْ حَيْثُ أَخْرَجُوكُمْ وَٱلْفِتْنَةُ أَشَدُّ
   مِنَ ٱلْقَتْلِ وَلاَ تُقَاتِلُوهُمْ عِنْدَ ٱلْمَسْجِدِ ٱلْحَرَامِ حَتَّىٰ يُقَاتِلُوكُمْ
-  فِيهِ فَإِن قَاتَلُوكُمْ فَٱقْتُلُوهُمْ كَذَلِكَ جَزَآءُ ٱلْكَافِرِينَ }{ ثَقِفْتُمُوهُمْ
-  } ظفرتم بهم. { وَالْفِتْنَةُ } الكفر ها هنا اتفاقاً لأنه يؤدي إلى الهلاك كالفتنة.
-  { وَلاَ تُقَاتِلُوهُمْ عِندَ الْمَسْجِدِ الْحَرَامِ } نهوا عن قتال أهل الحرم إلا
-  أن يبدءوا بالقتال ثم نسخ بقوله تعالى:{ وَقَاتِلُوهُمْ حَتَّىٰ لاَ تَكُونَ فِتْنَةٌ }[البقرة:
-  193]، أو هي محكمة فلا يُقَاتل أهل الحرم ما لم يبدءوا بالقتال.\r\n\t\t\t\r\n\t\t\t</section>"
+  فِيهِ فَإِن قَاتَلُوكُمْ فَٱقْتُلُوهُمْ كَذَلِكَ جَزَآءُ ٱلْكَافِرِينَ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">{ ثَقِفْتُمُوهُمْ } ظفرتم بهم. { وَالْفِتْنَةُ } الكفر ها هنا اتفاقاً
+  لأنه يؤدي إلى الهلاك كالفتنة. { وَلاَ تُقَاتِلُوهُمْ عِندَ الْمَسْجِدِ الْحَرَامِ
+  } نهوا عن قتال أهل الحرم إلا أن يبدءوا بالقتال ثم نسخ بقوله تعالى:</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">وَقَاتِلُوهُمْ
+  حَتَّىٰ لاَ تَكُونَ فِتْنَةٌ</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">[البقرة: 193]، أو هي محكمة فلا
+  يُقَاتل أهل الحرم ما لم يبدءوا بالقتال.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

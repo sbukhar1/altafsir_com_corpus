@@ -1,4 +1,4 @@
-location:
+position:
   sura: '005'
   aaya: '001'
   madhab: '01'
@@ -7,219 +7,533 @@ meta:
   title: تفسير جامع البيان في تفسير القرآن
   author: الطبري
   year: '310'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ يٰأَيُّهَا ٱلَّذِينَ
-  آمَنُواْ أَوْفُواْ بِٱلْعُقُودِ أُحِلَّتْ لَكُمْ بَهِيمَةُ ٱلأَنْعَامِ إِلاَّ مَا
-  يُتْلَىٰ عَلَيْكُمْ غَيْرَ مُحِلِّي ٱلصَّيْدِ وَأَنْتُمْ حُرُمٌ إِنَّ ٱللَّهَ يَحْكُمُ
-  مَا يُرِيدُ }يعنـي جلّ ثناؤه بقوله: { يا أيُّها الَّذِينَ آمَنُوا أوْفُوا }: يا
-  أيها الذين أقرّوا بوحدانـية الله وأذعنوا له بـالعبودية، وسلـموا له الألوهية، وصدّقوا
-  رسوله مـحمداً صلى الله عليه وسلم فـي نبوّته وفـيـما جاءهم به من عند ربهم من شرائع
-  دينه، أوْفُوا بـالعُقُودِ يعنـي: أوفوا بـالعهود التـي عاهدتـموها ربكم والعقود التـي
-  عاقدتـموها إياه، وأوجبتـم بها علـى أنفسكم حقوقاً وألزمتـم أنفسكم بها لله فروضاً،
-  فأتـموها بـالوفـاء والكمال والتـمام منكم لله بـما ألزمكم بها، ولـمن عاقدتـموه منكم
-  بـما أوجبتـموه له بها علـى أنفسكم، ولا تنكثوها فتنقضوها بعد توكيدها.واختلف أهل التأويـل
-  فـي العقود التـي أمر الله جلّ ثناؤه بـالوفـاء بها بهذه الآية، بعد إجماع جميعهم علـى
-  أن معنى العقود: العهود فقال بعضهم: هي العقول التـي كان أهل الـجاهلـية عاقد بعضهم
-  بعضاً علـى النصرة والـمؤازرة والـمظاهرة علـى من حاول ظلـمه أو بغاه سوءاً، وذلك هو
-  معنى الـحلف الذي كانوا يتعاقدونه بـينهم. ذكر من قال ذلك: معنى العقود العهود:حدثنـي
-  الـمثنى، قال: ثنا عبد الله بن صالـح، قال: ثنـي معاوية بن صالـح، عن علـيّ، عن ابن
-  عبـاس قوله: { أوْفُوا بـالعُقُودِ } يعنـي: بـالعهود.حدثنـي مـحمد بن عمرو، قال: ثنا
-  أبو عاصم، قال: ثنا عيسى، عن ابن أبـي نـجيح، عن مـجاهد فـي قول الله جلّ وعزّ: { أوْفُوا
-  بـالعُقُودِ } قال: العهود.حدثنـي الـمثنى، قال: ثنا أبو حذيفة، قال: ثنا شبل، عن ابن
-  أبـي نـجيح، عن مـجاهد، مثله.حدثنا سفـيان، قال: ثنا أبـي، عن سفـيان، عن رجل، عن مـجاهد
-  مثله.حدثنا ابن وكيع، قال: ثنا عبـيد الله، عن أبـي جعفر الرازيّ، عن الربـيع بن أنس،
-  قال: جلسنا إلـى مطرف بن الشِّخِّير وعنده رجل يحدثهم، فقال: { يا أيُّها الَّذِينَ
-  آمَنُوا أوْفُوا بـالعُقُودِ } قال: هي العهود.حدثنا الـمثنى، قال: ثنا إسحاق، قال:
-  ثنا عبد الله بن أبـي جعفر، عن أبـيه، عن الربـيع: { أوْفُوا بـالعُقُودِ } قال: العهود.حدثنا
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(5, 1)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(5,1)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">يٰأَيُّهَا
+  ٱلَّذِينَ آمَنُواْ أَوْفُواْ بِٱلْعُقُودِ أُحِلَّتْ لَكُمْ بَهِيمَةُ ٱلأَنْعَامِ
+  إِلاَّ مَا يُتْلَىٰ عَلَيْكُمْ غَيْرَ مُحِلِّي ٱلصَّيْدِ وَأَنْتُمْ حُرُمٌ إِنَّ
+  ٱللَّهَ يَحْكُمُ مَا يُرِيدُ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\"
+  dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">يعنـي جلّ ثناؤه
+  بقوله: { يا أيُّها الَّذِينَ آمَنُوا أوْفُوا }: يا أيها الذين أقرّوا بوحدانـية الله
+  وأذعنوا له بـالعبودية، وسلـموا له الألوهية، وصدّقوا رسوله مـحمداً صلى الله عليه
+  وسلم فـي نبوّته وفـيـما جاءهم به من عند ربهم من شرائع دينه، أوْفُوا بـالعُقُودِ
+  يعنـي: أوفوا بـالعهود التـي عاهدتـموها ربكم والعقود التـي عاقدتـموها إياه، وأوجبتـم
+  بها علـى أنفسكم حقوقاً وألزمتـم أنفسكم بها لله فروضاً، فأتـموها بـالوفـاء والكمال
+  والتـمام منكم لله بـما ألزمكم بها، ولـمن عاقدتـموه منكم بـما أوجبتـموه له بها علـى
+  أنفسكم، ولا تنكثوها فتنقضوها بعد توكيدها.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">واختلف
+  أهل التأويـل فـي العقود التـي أمر الله جلّ ثناؤه بـالوفـاء بها بهذه الآية، بعد إجماع
+  جميعهم علـى أن معنى العقود: العهود فقال بعضهم: هي العقول التـي كان أهل الـجاهلـية
+  عاقد بعضهم بعضاً علـى النصرة والـمؤازرة والـمظاهرة علـى من حاول ظلـمه أو بغاه سوءاً،
+  وذلك هو معنى الـحلف الذي كانوا يتعاقدونه بـينهم. ذكر من قال ذلك: معنى العقود العهود:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي الـمثنى، قال: ثنا عبد الله بن صالـح، قال: ثنـي معاوية بن
+  صالـح، عن علـيّ، عن ابن عبـاس قوله: { أوْفُوا بـالعُقُودِ } يعنـي: بـالعهود.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي مـحمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، عن ابن أبـي
+  نـجيح، عن مـجاهد فـي قول الله جلّ وعزّ: { أوْفُوا بـالعُقُودِ } قال: العهود.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي الـمثنى، قال: ثنا أبو حذيفة، قال: ثنا شبل، عن ابن أبـي نـجيح،
+  عن مـجاهد، مثله.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا سفـيان، قال: ثنا أبـي، عن
+  سفـيان، عن رجل، عن مـجاهد مثله.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن وكيع، قال: ثنا عبـيد الله، عن أبـي جعفر الرازيّ، عن الربـيع بن أنس، قال: جلسنا
+  إلـى مطرف بن الشِّخِّير وعنده رجل يحدثهم، فقال: { يا أيُّها الَّذِينَ آمَنُوا أوْفُوا
+  بـالعُقُودِ } قال: هي العهود.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  الـمثنى، قال: ثنا إسحاق، قال: ثنا عبد الله بن أبـي جعفر، عن أبـيه، عن الربـيع: {
+  أوْفُوا بـالعُقُودِ } قال: العهود.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
   ابن وكيع، قال: ثنا أبو خالد الأحمر، عن جويبر، عن الضحاك: { يا أيُّها الَّذِينَ آمَنُوا
-  أوْفُوا بـالعُقُودِ } قال: هي العهود.حُدثت عن الـحسين بن الفرج، قال: سمعت أبـا معاذ،
-  يقول: أخبرنا عبـيد بن سلـيـمان، قال: سمعت الضحاك يقول: { أوْفُوا بـالعُقُودِ } بـالعهود.حدثنا
+  أوْفُوا بـالعُقُودِ } قال: هي العهود.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حُدثت
+  عن الـحسين بن الفرج، قال: سمعت أبـا معاذ، يقول: أخبرنا عبـيد بن سلـيـمان، قال: سمعت
+  الضحاك يقول: { أوْفُوا بـالعُقُودِ } بـالعهود.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
   الـحسن بن يحيى، قال: أخبرنا عبد الرزاق، عن معمر، عن قتادة فـي قوله: { أوْفُوا بـالعُقُودِ
-  } قال: بـالعهود.حدثنا مـحمد بن الـحسين، قال: ثنا أحمد بن الـمفضل، قال: ثنا أسبـاط،
-  عن السديّ: { أوْفُوا بـالعُقُودِ } قال: هي العهود.حدثنـي الـحرث، قال: ثنا عبد العزيز،
-  قال: سمعت الثوري يقول: { أوْفُوا بـالعُقُودِ } قال: بـالعهود.حدثنا القاسم، قال:
-  ثنا الـحسين، قال: ثنـي حجاج، عن ابن جريج، عن مـجاهد، مثله.قال أبو جعفر: والعقود:
-  جمع عقد، وأصل العقد: عقد الشيء بغيره، وهو وصله به، كما تعقد الـحبل بـالـحبل: إذا
-  وُصِل به شدّاً، يقال منه: عقد فلان بـينه وبـين فلان عقداً فهو يعقده، ومنه قول الـحطيئة:\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ يٰأَيُّهَا ٱلَّذِينَ آمَنُواْ أَوْفُواْ
-  بِٱلْعُقُودِ أُحِلَّتْ لَكُمْ بَهِيمَةُ ٱلأَنْعَامِ إِلاَّ مَا يُتْلَىٰ عَلَيْكُمْ
-  غَيْرَ مُحِلِّي ٱلصَّيْدِ وَأَنْتُمْ حُرُمٌ إِنَّ ٱللَّهَ يَحْكُمُ مَا يُرِيدُ }قَوْمٌ
-  إذَا عَقَدُوا عَقْداً لـجارِهِمُ   شَدُّوا العِناجَ وشَدُّوا فوْقَهُ الكَرَبـاوذلك
-  إذا واثقه علـى أمر، وعاهده علـيه عهدا بـالوفـاء له بـما عاقده علـيه، من أمان وذمة،
-  أو نصرة، أو نكاح، أو بـيع، أو شركة، أو غير ذلك من العقود.ذكر من قال الـمعنى الذي
-  ذكرنا عمن قاله فـي الـمراد من قوله: { أوْفُوا بـالعُقُودِ }.حدثنا بشر بن معاذ، قال:
-  ثنا يزيد، قال: ثنا سعيد، عن قتادة فـي قوله: { يا أيُّها الَّذِينَ آمَنُوا أوْفُوا
-  بـالعُقُودِ } أي بعقد الـجاهلـية. ذكر لنا أن نبـيّ الله صلى الله عليه وسلم كان يقول:
-  \" أوْفُوا بعَقْدِ الـجاهِلِـيَّةِ، وَلا تُـحْدِثُوا عَقْدا فـي الإسْلامِ \" وذكر
-  لنا أن فرات بن حيان العجلـيّ سأل رسول الله صلى الله عليه وسلم عن حلف الـجاهلـية،
-  فقال نبـيّ الله صلى الله عليه وسلم: \" لعَلَّكَ تَسألُ عَنْ حِلْفِ لْـخَمٍ وَتْـيـمِ
-  اللَّهِ؟ \" فقال: نعم يا نبـيّ الله، قال: \" لا يَزِيدُهُ الإسْلامُ إلاَّ شِدَّةً
-  \" حدثنا الـحسن بن يحيى، قال: أخبرنا عبد الرزاق، قال: ثنا معمر، عن قتادة: { أوْفُوا
-  بـالعُقُودِ } قال: عقود الـجاهلـية: الـحلف.وقال آخرون: بل هي الـحلف التـي أخذ الله
-  علـى عبـاده بـالإيـمان به وطاعته فـيـما أحلّ لهم وحرم علـيهم. ذكر من قال ذلك:حدثنـي
-  الـمثنى، قال: أخبرنا عبد الله، قال: ثنـي معاوية بن صالـح، عن علـيّ بن أبـي طلـحة،
-  عن ابن عبـاس، قوله: { أوْفُوا بـالعُقُودِ } يعنـي: ما أُحِلّ، وما حرّم، وما فُرض،
-  وما حدّ فـي القرآن كله، فلا تغدروا ولا تنكُثُو ثم شدّد ذلك فقال:{ وَٱلَّذِينَ يَنقُضُونَ
-  عَهْدَ ٱللَّهِ مِن بَعْدِ مِيثَاقِهِ وَيَقْطَعُونَ مَآ أَمَرَ ٱللَّهُ بِهِ أَن يُوصَلَ }[الرعد:
-  25]... إلـى قوله:{ سُوۤءُ ٱلدَّارِ }[الرعد: 25].حدثنـي الـمثنى، قال: ثنا أبو حذيفة،
-  قال: ثنا شبل، عن ابن أبـي نـجيح، عن مـجاهد: { أوْفُوا بـالعُقُودِ } ما عقد الله
-  علـى العبـاد مـما أحلّ لهم وحرّم علـيهم.وقال آخرون: بل هي العقود التـي يتعاقدها
-  الناس بـينهم ويعقدها الـمرء علـى نفسه. ذكر من قال ذلك:حدثنا سفـيان بن وكيع، قال:
-  ثنـي أبـي، عن موسى بن عبـيدة، عن أخيه عبد الله بن عبـيدة، قال: العقود خمس: عُقدة
-  الإيـمان، وعقدة النكاح، وعقدة العهد، وعقدة البـيع، وعقدة الـحِلف.حدثنا القاسم، قال:
-  ثنا الـحسين، قال: ثنا وكيع. عن موسى بن عبـيدة، عن مـحمد بن كعب القُرَظِيّ أو عن
-  أخيه عبد الله بن عبـيدة، نـحوه.حدثنـي يونس بن عبد الأعلـى، قال: أخبرنا ابن وهب،
-  قال: قال ابن زيد فـي قوله: { يا أيُّها الَّذِينَ آمَنُوا أوْفُوا بـالعُقُودِ }  قال:
-  عقد العهد وعقد الـيـمين، وعقد الـحلف، وعقد الشركة، وعقد النكاح.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ يٰأَيُّهَا ٱلَّذِينَ آمَنُواْ أَوْفُواْ
-  بِٱلْعُقُودِ أُحِلَّتْ لَكُمْ بَهِيمَةُ ٱلأَنْعَامِ إِلاَّ مَا يُتْلَىٰ عَلَيْكُمْ
-  غَيْرَ مُحِلِّي ٱلصَّيْدِ وَأَنْتُمْ حُرُمٌ إِنَّ ٱللَّهَ يَحْكُمُ مَا يُرِيدُ }قال:
-  هذه العقود خمس.حدثنـي الـمثنى، قال: ثنا عتبة بن سعيد الـحمصي، قال: ثنا عبد الرحمن
-  بن زيد بن أسلـم، قال: ثنا أبـي فـي قول الله جلّ وعزّ: { يا أيُّها الَّذِينَ آمَنُوا
-  أوْفُوا بـالعُقُودِ } قال: العقود خمس: عقدة النكاح، وعقد الشركة، وعقد الـيـمين،
-  وعقدة العهد، وعقدة الـحلف.وقال آخرون: بل هذه الآية أمر من الله تعالـى لأهل الكتاب
-  بـالوفـاء بـما أخذ به ميثاقهم من العمل بـما فـي التوراة والإنـجيـل فـي تصديق مـحمد
-  صلى الله عليه وسلم وما جاءهم به من عند الله. ذكر من قال ذلك:حدثنا القاسم، قال: ثنا
-  الـحسين، قال: ثنـي حجاج، عن ابن جريج: { أوْفُوا بـالعُقُودِ } قال: العهود التـي
-  أخذها الله علـى أهل الكتاب أن يعملوا بـما جاءهم.حدثنا الـمثنى، قال: ثنا أبو صالـح،
-  قال: ثنـي اللـيث، قال: ثنـي يونس، قال: قال مـحمد بن مسلـم. قرأت كتاب رسول الله صلى
-  الله عليه وسلم الذي كتب لعمرو بن حزم حين بعثه إلـى نـجران، فكان الكتاب عند أبـي
-  بكر بن حزم، فـيه: هذا بـيان من الله ورسوله { يا أيُّها الَّذِينَ آمَنُوا أوْفُوا
-  بـالعُقُودِ }. فكتب الآيات منها، حتـى بلغ:{ إِنَّ ٱللَّهَ سَرِيعُ ٱلْحِسَابِ }[المائدة:
-  4]. وأولـى الأقوال فـي ذلك عندنا بـالصواب ما قاله ابن عبـاس، وأن معناه: أوفوا يا
-  أيها الذين آمنوا بعقود الله التـي أوجبها علـيكم وعقدها، فـيـما أحلّ لكم وحرّم علـيكم،
-  وألزمكم فرضه، وبـين لكم حدوده.وأنـما قلنا ذلك أولـى بـالصواب من غيره من الأقوال،
-  لأن الله جلّ وعزّ أتبع ذلك البـيان عما أحلّ لعبـاده وحرّم علـيهم وما أوجب علـيهم
-  من فرائضه، فكان معلوماً بذلك أن قوله: { أوْفُوا بـالعُقُودِ } أمر منه عبـاده بـالعمل
-  بـما ألزمهم من فرائضه وعقوده عقـيب ذلك، ونهي منه لهم عن نقض ما عقده علـيهم منه،
-  مع أن قوله: { أوْفُوا بـالعُقُودِ } أمر منه بـالوفـاء بكلّ عقد أذن فـيه، فغير جائز
-  أن يخصّ منه شيء حتـى تقوم حجة بخصوص شيء منه يجب التسلـيـم لها. فإذ كان الأمر فـي
-  ذلك كما وصفنا، فلا معنى لقول من وجَّه ذلك إلـى معنى الأمر بـالوفـاء ببعض العقود
-  التـي أمر الله بـالوفـاء بها دون بعض.وأما قوله: { أوْفُوا } فإن للعرب فـيه لغتـين:
-  إحداهما: «أوفوا» من قول القائل: أوفـيت لفلان بعهده أو فـى له به والأخرى من قولهم:
-  وَفَـيْتُ له بعهده أفـي. والإيفـاء بـالعهد: إتـمامه علـى ما عُقد علـيه من شروطه
-  الـجائزة.القول فـي تأويـل قوله تعالـى: { أُحِلَّتْ لَكُمْ بَهِيـمَةُ الأنْعامِ }.اختلف
-  أهل التأويـل فـي بهيـمة الأنعام التـي ذكر الله عزّ ذكره فـي هذه الآية أنه أحلها
-  لنا، فقال بعضهم: هي الأنعام كلها. ذكر من قال ذلك:حدثنا سفـيان بن وكيع، قال: ثنا
-  عبد الأعلـى، عن عوف، عن الـحسن، قال: بهيـمة الأنعام: هي الإبل والبقر والغنـم.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ يٰأَيُّهَا ٱلَّذِينَ آمَنُواْ أَوْفُواْ
-  بِٱلْعُقُودِ أُحِلَّتْ لَكُمْ بَهِيمَةُ ٱلأَنْعَامِ إِلاَّ مَا يُتْلَىٰ عَلَيْكُمْ
-  غَيْرَ مُحِلِّي ٱلصَّيْدِ وَأَنْتُمْ حُرُمٌ إِنَّ ٱللَّهَ يَحْكُمُ مَا يُرِيدُ }حدثنا
-  الـحسن بن يحيى، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر، عن قتادة فـي قوله: { أُحِلَّتْ
-  لَكُمْ بَهِيـمَةُ الأنْعامِ } قال: الأنعام كلها.حدثنا مـحمد بن الـحسين، قال: ثنا
-  ابن مفضل، قال: ثنا أسبـاط، عن السديّ: { أُحِلَّتْ لَكُمْ بَهِيـمَةُ الأنْعامِ }
-  قال: الأنعام كلها.حدثنـي الـمثنى، قال: ثنا إسحاق، قال: ثنا عبد الله بن أبـي جعفر،
+  } قال: بـالعهود.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا مـحمد بن الـحسين، قال: ثنا
+  أحمد بن الـمفضل، قال: ثنا أسبـاط، عن السديّ: { أوْفُوا بـالعُقُودِ } قال: هي العهود.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي الـحرث، قال: ثنا عبد العزيز، قال: سمعت الثوري يقول: { أوْفُوا
+  بـالعُقُودِ } قال: بـالعهود.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  القاسم، قال: ثنا الـحسين، قال: ثنـي حجاج، عن ابن جريج، عن مـجاهد، مثله.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قال أبو جعفر: والعقود: جمع عقد، وأصل العقد: عقد الشيء بغيره، وهو
+  وصله به، كما تعقد الـحبل بـالـحبل: إذا وُصِل به شدّاً، يقال منه: عقد فلان بـينه
+  وبـين فلان عقداً فهو يعقده، ومنه قول الـحطيئة:</font></font>&#13;\t\t\t<label disabled=\"true\"
+  class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(5, 1)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(5,1)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">يٰأَيُّهَا ٱلَّذِينَ آمَنُواْ أَوْفُواْ بِٱلْعُقُودِ
+  أُحِلَّتْ لَكُمْ بَهِيمَةُ ٱلأَنْعَامِ إِلاَّ مَا يُتْلَىٰ عَلَيْكُمْ غَيْرَ مُحِلِّي
+  ٱلصَّيْدِ وَأَنْتُمْ حُرُمٌ إِنَّ ٱللَّهَ يَحْكُمُ مَا يُرِيدُ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\"/></font><table class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">قَوْمٌ إذَا
+  عَقَدُوا عَقْداً لـجارِهِمُ</font></font></b></td><td class=\"TextArabic\">   </td><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">شَدُّوا
+  العِناجَ وشَدُّوا فوْقَهُ الكَرَبـا</font></font></b></td></tr></table><font class=\"TextResultArabic\"><font
+  color=\"black\">وذلك إذا واثقه علـى أمر، وعاهده علـيه عهدا بـالوفـاء له بـما عاقده
+  علـيه، من أمان وذمة، أو نصرة، أو نكاح، أو بـيع، أو شركة، أو غير ذلك من العقود.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">ذكر من قال الـمعنى الذي ذكرنا عمن قاله فـي الـمراد من قوله: { أوْفُوا
+  بـالعُقُودِ }.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا بشر بن معاذ، قال: ثنا يزيد،
+  قال: ثنا سعيد، عن قتادة فـي قوله: { يا أيُّها الَّذِينَ آمَنُوا أوْفُوا بـالعُقُودِ
+  } أي بعقد الـجاهلـية. ذكر لنا أن نبـيّ الله صلى الله عليه وسلم كان يقول:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" أوْفُوا بعَقْدِ الـجاهِلِـيَّةِ،
+  وَلا تُـحْدِثُوا عَقْدا فـي الإسْلامِ \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">وذكر لنا أن فرات بن حيان العجلـيّ سأل رسول الله صلى الله عليه وسلم
+  عن حلف الـجاهلـية، فقال نبـيّ الله صلى الله عليه وسلم:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" لعَلَّكَ تَسألُ عَنْ حِلْفِ لْـخَمٍ وَتْـيـمِ اللَّهِ؟ \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\">فقال: نعم يا نبـيّ الله، قال:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" لا يَزِيدُهُ الإسْلامُ إلاَّ
+  شِدَّةً \" </font></font></b><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا الـحسن بن يحيى، قال: أخبرنا
+  عبد الرزاق، قال: ثنا معمر، عن قتادة: { أوْفُوا بـالعُقُودِ } قال: عقود الـجاهلـية:
+  الـحلف.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال آخرون: بل هي الـحلف التـي
+  أخذ الله علـى عبـاده بـالإيـمان به وطاعته فـيـما أحلّ لهم وحرم علـيهم. ذكر من قال
+  ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي الـمثنى، قال: أخبرنا عبد
+  الله، قال: ثنـي معاوية بن صالـح، عن علـيّ بن أبـي طلـحة، عن ابن عبـاس، قوله: { أوْفُوا
+  بـالعُقُودِ } يعنـي: ما أُحِلّ، وما حرّم، وما فُرض، وما حدّ فـي القرآن كله، فلا
+  تغدروا ولا تنكُثُو ثم شدّد ذلك فقال:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">وَٱلَّذِينَ يَنقُضُونَ عَهْدَ ٱللَّهِ
+  مِن بَعْدِ مِيثَاقِهِ وَيَقْطَعُونَ مَآ أَمَرَ ٱللَّهُ بِهِ أَن يُوصَلَ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[الرعد:
+  25]... إلـى قوله:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">سُوۤءُ ٱلدَّارِ</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">[الرعد: 25].</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي الـمثنى، قال: ثنا أبو حذيفة، قال: ثنا شبل، عن ابن أبـي نـجيح،
+  عن مـجاهد: { أوْفُوا بـالعُقُودِ } ما عقد الله علـى العبـاد مـما أحلّ لهم وحرّم
+  علـيهم.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال آخرون: بل هي العقود التـي
+  يتعاقدها الناس بـينهم ويعقدها الـمرء علـى نفسه. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا سفـيان بن وكيع، قال: ثنـي أبـي، عن موسى بن عبـيدة، عن أخيه
+  عبد الله بن عبـيدة، قال: العقود خمس: عُقدة الإيـمان، وعقدة النكاح، وعقدة العهد،
+  وعقدة البـيع، وعقدة الـحِلف.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  القاسم، قال: ثنا الـحسين، قال: ثنا وكيع. عن موسى بن عبـيدة، عن مـحمد بن كعب القُرَظِيّ
+  أو عن أخيه عبد الله بن عبـيدة، نـحوه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  يونس بن عبد الأعلـى، قال: أخبرنا ابن وهب، قال: قال ابن زيد فـي قوله: { يا أيُّها
+  الَّذِينَ آمَنُوا أوْفُوا بـالعُقُودِ }  قال: عقد العهد وعقد الـيـمين، وعقد الـحلف،
+  وعقد الشركة، وعقد النكاح.</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(5, 1)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(5,1)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">يٰأَيُّهَا ٱلَّذِينَ آمَنُواْ أَوْفُواْ بِٱلْعُقُودِ
+  أُحِلَّتْ لَكُمْ بَهِيمَةُ ٱلأَنْعَامِ إِلاَّ مَا يُتْلَىٰ عَلَيْكُمْ غَيْرَ مُحِلِّي
+  ٱلصَّيْدِ وَأَنْتُمْ حُرُمٌ إِنَّ ٱللَّهَ يَحْكُمُ مَا يُرِيدُ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">قال: هذه العقود خمس.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  الـمثنى، قال: ثنا عتبة بن سعيد الـحمصي، قال: ثنا عبد الرحمن بن زيد بن أسلـم، قال:
+  ثنا أبـي فـي قول الله جلّ وعزّ: { يا أيُّها الَّذِينَ آمَنُوا أوْفُوا بـالعُقُودِ
+  } قال: العقود خمس: عقدة النكاح، وعقد الشركة، وعقد الـيـمين، وعقدة العهد، وعقدة الـحلف.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال آخرون: بل هذه الآية أمر من الله تعالـى لأهل الكتاب بـالوفـاء
+  بـما أخذ به ميثاقهم من العمل بـما فـي التوراة والإنـجيـل فـي تصديق مـحمد صلى الله
+  عليه وسلم وما جاءهم به من عند الله. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  القاسم، قال: ثنا الـحسين، قال: ثنـي حجاج، عن ابن جريج: { أوْفُوا بـالعُقُودِ } قال:
+  العهود التـي أخذها الله علـى أهل الكتاب أن يعملوا بـما جاءهم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا الـمثنى، قال: ثنا أبو صالـح، قال: ثنـي اللـيث، قال: ثنـي يونس،
+  قال: قال مـحمد بن مسلـم. قرأت كتاب رسول الله صلى الله عليه وسلم الذي كتب لعمرو بن
+  حزم حين بعثه إلـى نـجران، فكان الكتاب عند أبـي بكر بن حزم، فـيه: هذا بـيان من الله
+  ورسوله { يا أيُّها الَّذِينَ آمَنُوا أوْفُوا بـالعُقُودِ }. فكتب الآيات منها، حتـى
+  بلغ:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">إِنَّ ٱللَّهَ سَرِيعُ ٱلْحِسَابِ</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">[المائدة: 4]. وأولـى الأقوال فـي
+  ذلك عندنا بـالصواب ما قاله ابن عبـاس، وأن معناه: أوفوا يا أيها الذين آمنوا بعقود
+  الله التـي أوجبها علـيكم وعقدها، فـيـما أحلّ لكم وحرّم علـيكم، وألزمكم فرضه، وبـين
+  لكم حدوده.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وأنـما قلنا ذلك أولـى بـالصواب
+  من غيره من الأقوال، لأن الله جلّ وعزّ أتبع ذلك البـيان عما أحلّ لعبـاده وحرّم علـيهم
+  وما أوجب علـيهم من فرائضه، فكان معلوماً بذلك أن قوله: { أوْفُوا بـالعُقُودِ } أمر
+  منه عبـاده بـالعمل بـما ألزمهم من فرائضه وعقوده عقـيب ذلك، ونهي منه لهم عن نقض ما
+  عقده علـيهم منه، مع أن قوله: { أوْفُوا بـالعُقُودِ } أمر منه بـالوفـاء بكلّ عقد
+  أذن فـيه، فغير جائز أن يخصّ منه شيء حتـى تقوم حجة بخصوص شيء منه يجب التسلـيـم لها.
+  فإذ كان الأمر فـي ذلك كما وصفنا، فلا معنى لقول من وجَّه ذلك إلـى معنى الأمر بـالوفـاء
+  ببعض العقود التـي أمر الله بـالوفـاء بها دون بعض.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وأما
+  قوله: { أوْفُوا } فإن للعرب فـيه لغتـين: إحداهما: «أوفوا» من قول القائل: أوفـيت
+  لفلان بعهده أو فـى له به والأخرى من قولهم: وَفَـيْتُ له بعهده أفـي. والإيفـاء بـالعهد:
+  إتـمامه علـى ما عُقد علـيه من شروطه الـجائزة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">القول
+  فـي تأويـل قوله تعالـى: { أُحِلَّتْ لَكُمْ بَهِيـمَةُ الأنْعامِ }.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">اختلف أهل التأويـل فـي بهيـمة الأنعام التـي ذكر الله عزّ ذكره فـي
+  هذه الآية أنه أحلها لنا، فقال بعضهم: هي الأنعام كلها. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا سفـيان بن وكيع، قال: ثنا عبد الأعلـى، عن عوف، عن الـحسن، قال:
+  بهيـمة الأنعام: هي الإبل والبقر والغنـم.</font></font>&#13;\t\t\t<label disabled=\"true\"
+  class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">3 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(5, 1)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(5,1)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">يٰأَيُّهَا ٱلَّذِينَ آمَنُواْ أَوْفُواْ بِٱلْعُقُودِ
+  أُحِلَّتْ لَكُمْ بَهِيمَةُ ٱلأَنْعَامِ إِلاَّ مَا يُتْلَىٰ عَلَيْكُمْ غَيْرَ مُحِلِّي
+  ٱلصَّيْدِ وَأَنْتُمْ حُرُمٌ إِنَّ ٱللَّهَ يَحْكُمُ مَا يُرِيدُ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا الـحسن بن يحيى، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر،
+  عن قتادة فـي قوله: { أُحِلَّتْ لَكُمْ بَهِيـمَةُ الأنْعامِ } قال: الأنعام كلها.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا مـحمد بن الـحسين، قال: ثنا ابن مفضل، قال: ثنا أسبـاط، عن السديّ:
+  { أُحِلَّتْ لَكُمْ بَهِيـمَةُ الأنْعامِ } قال: الأنعام كلها.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي الـمثنى، قال: ثنا إسحاق، قال: ثنا عبد الله بن أبـي جعفر،
   عن أبـيه، عن الربـيع بن أنس فـي قوله: { أُحِلَّتْ لَكُمْ بَهِيـمَةُ الأنْعامِ }
-  قال: الأنعام كلها.حُدثت عن الـحسين بن الفرج، قال: سمعت أبـا معاذ يقول: أخبرنا عبـيد
-  بن سلـيـمان، قال: سمعت الضحاك يقول فـي قوله: { بَهِيـمَةُ الأنْعامِ }: هي الأنعام.وقال
+  قال: الأنعام كلها.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حُدثت عن الـحسين بن الفرج، قال:
+  سمعت أبـا معاذ يقول: أخبرنا عبـيد بن سلـيـمان، قال: سمعت الضحاك يقول فـي قوله: {
+  بَهِيـمَةُ الأنْعامِ }: هي الأنعام.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
   آخرون: بل عنـي بقوله: { أُحِلَّتْ لَكُمْ بَهِيـمَةُ الأنْعامِ }: أجنة الأنعام التـي
-  توجد فـي بطون أمهاتها إذا نُـحِرت أو ذبحت ميتة. ذكر من قال ذلك:حدثنـي الـحرث بن
-  مـحمد، قال: ثنا عبد العزيز، قال: أخبرنا أبو عبد الرحمن الفزاري، عن عطية العوفـيّ،
-  عن ابن عمر فـي قوله: { أُحِلَّتْ لَكُمْ بَهِيـمَةُ الأنْعامِ } قال: ما فـي بطونها.
-  قال: قلت: إن خرج ميتاً آكلُه؟ قال: نعم.حدثنا القاسم، قال: ثنا الـحسين، قال: ثنا
-  يحيى بن زكريا، عن إدريس الأودي، عن عطية، عن ابن عمر نـحوه، وزاد فـيه، قال: نعم،
-  هو بـمنزلة رِئتها وكبدها.حدثنا ابن حميد وابن وكيع، قالا: ثنا جرير، عن قابوس، عن
-  أبـيه، عن ابن عبـاس، قال: الـجنـين من بهيـمة الأنعام فكلوه.حدثنا ابن وكيع، قال:
-  ثنا أبـي، عن مِسْعر وسفـيان، عن قابوس، عن أبـيه، عن ابن عبـاس: أن بقرة نُـحِرت،
-  فوجد فـي بطنها جنـين، فأخذ ابن عبـاس بذَنَب الـجنـين، فقال: هذا من بهيـمة الأنعام
-  التـي أحلت لكم.حدثنا أبو كريب، قال: ثنا ابن يـمان، عن سفـيان، عن قابوس، عن أبـيه،
-  عن ابن عبـاس، قال: هو من بهيـمة الأنعام.حدثنا ابن بشار، قال: ثنا أبو عاصم ومؤمِّل،
-  قالا: ثنا سفـيان، عن قابوس، عن أبـيه، قال: ذبحنا بقرة، فإذا فـي بطنها جنـين، فسألنا
-  ابن عبـاس، فقال: هذه بهيـمة الأنعام.وأولـى القولـين بـالصواب فـي ذلك قول من قال:
-  عَنَى بقوله: { أُحِلَّتْ لَكُمْ بَهِيـمَةُ الأنْعامِ }: الأنعام كلها، أجِنَتّها
-  وسِخالها وكبـارها، لأن العرب لا تـمتنع من تسمية جميع ذلك بهيـمة وبهائم، ولـم يخصص
-  الله منها شيئاً دون شيء، فذلك علـى عمومه وظاهره حتـى تأتـي حجة بخصوصه يجب التسلـيـم
-  لها. وأما النعم فإنها عند العرب: أسم للإبل والبقر والغنـم خاصة، كما قال جلّ ثناؤه:{ وَٱلأَنْعَامَ
-  خَلَقَهَا لَكُمْ فِيهَا دِفْءٌ وَمَنَافِعُ وَمِنْهَا تَأْكُلُونَ }[النحل: 5] ثم
-  قال:{ وَٱلْخَيْلَ وَٱلْبِغَالَ وَٱلْحَمِيرَ لِتَرْكَبُوهَا وَزِينَةً }[النحل: 8]
-  ففصل جنس النعم من غيرها من أجناس الـحيوان. وأما بهائمها فإنها أولادها. وإنـما قلنا:
-  يـلزم الكبـار منها اسم بهيـمة كما يـلزم الصغار، لأن معنى قول القائل: بهيـمة الأنعام،
-  نظير قوله: ولد الأنعام فلـما كان لا يسقط معنى الولادة عنه بعد الكبر، فكذلك لا يسقط
-  عنه اسم البهيـمة بعد الكبر.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ يٰأَيُّهَا ٱلَّذِينَ آمَنُواْ أَوْفُواْ
-  بِٱلْعُقُودِ أُحِلَّتْ لَكُمْ بَهِيمَةُ ٱلأَنْعَامِ إِلاَّ مَا يُتْلَىٰ عَلَيْكُمْ
-  غَيْرَ مُحِلِّي ٱلصَّيْدِ وَأَنْتُمْ حُرُمٌ إِنَّ ٱللَّهَ يَحْكُمُ مَا يُرِيدُ }وقد
-  قال قوم: بهيـمة الأنعام: وحشيها كالظبـاء وبقر الوحش والـحمر.القول فـي تأويـل قوله
-  تعالـى: { إلاَّ ما يُتْلَـى عَلَـيْكُمْ }.اختلف أهل التأويـل فـي الذي عناه الله
-  بقوله: { إلاَّ ما يُتْلَـى عَلَـيْكُمْ } فقال بعضهم: عنى الله بذلك: أحلت لكم أولاد
-  الإبل والبقر والغنـم، إلا ما بـين الله لكم فـيـما يتلـى علـيكم بقوله:{ حُرِّمَتْ
-  عَلَيْكُمُ ٱلْمَيْتَةُ وَٱلْدَّمُ }[المائدة: 3] الآية. ذكر من قال ذلك:حدثنـي مـحمد
-  بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، عن ابن أبـي نـجيح، عن مـجاهد: { بَهِيـمَةُ
-  الإنْعامِ إلاَّ ما يُتْلَـى عَلَـيْكُمْ }: إلا الـميتة وما ذكر معها.حدثنا بشر، قال:
-  ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: { أُحِلَّتْ لَكُمْ بَهِيـمَةُ الأنْعامِ
-  إلاَّ ما يُتْلَـى عَلَـيْكُمْ }: أي من الـميتة التـي نهى الله عنها وقدّم فـيها.حدثنا
-  الـحسن بن يحيى، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر، عن قتادة: { إلاَّ ما يُتْلَـى
-  عَلَـيْكُمْ } قال: إلا الـميتة، وما لـم يذكر اسم الله علـيه.حدثنـي مـحمد بن الـحسين،
-  قال: ثنا أحمد بن مفضل، قال: ثنا أسبـاط، عن السديّ: { إلاَّ ما يُتْلَـى عَلَـيْكُمْ
-  }: الـميتة، والدم، ولـحم الـخنزير.حدثنـي الـمثنى، قال: ثنا عبد الله، قال: ثنـي معاوية،
-  عن علـيّ بن أبـي طلـحة، عن ابن عبـاس: { أُحِلَّتْ لَكُمْ بَهِيـمَةُ الأنْعامِ إلاَّ
-  ما يُتْلَـى عَلَـيْكُمْ }: الـميتة ولـحم الـخنزير.حدثنـي الـمثنى، قال: ثنا عبد الله،
+  توجد فـي بطون أمهاتها إذا نُـحِرت أو ذبحت ميتة. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي الـحرث بن مـحمد، قال: ثنا عبد العزيز، قال: أخبرنا أبو عبد
+  الرحمن الفزاري، عن عطية العوفـيّ، عن ابن عمر فـي قوله: { أُحِلَّتْ لَكُمْ بَهِيـمَةُ
+  الأنْعامِ } قال: ما فـي بطونها. قال: قلت: إن خرج ميتاً آكلُه؟ قال: نعم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا القاسم، قال: ثنا الـحسين، قال: ثنا يحيى بن زكريا، عن إدريس
+  الأودي، عن عطية، عن ابن عمر نـحوه، وزاد فـيه، قال: نعم، هو بـمنزلة رِئتها وكبدها.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن حميد وابن وكيع، قالا: ثنا جرير، عن قابوس، عن أبـيه، عن
+  ابن عبـاس، قال: الـجنـين من بهيـمة الأنعام فكلوه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن وكيع، قال: ثنا أبـي، عن مِسْعر وسفـيان، عن قابوس، عن أبـيه، عن ابن عبـاس: أن
+  بقرة نُـحِرت، فوجد فـي بطنها جنـين، فأخذ ابن عبـاس بذَنَب الـجنـين، فقال: هذا من
+  بهيـمة الأنعام التـي أحلت لكم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  أبو كريب، قال: ثنا ابن يـمان، عن سفـيان، عن قابوس، عن أبـيه، عن ابن عبـاس، قال:
+  هو من بهيـمة الأنعام.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن بشار، قال: ثنا أبو عاصم
+  ومؤمِّل، قالا: ثنا سفـيان، عن قابوس، عن أبـيه، قال: ذبحنا بقرة، فإذا فـي بطنها جنـين،
+  فسألنا ابن عبـاس، فقال: هذه بهيـمة الأنعام.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وأولـى
+  القولـين بـالصواب فـي ذلك قول من قال: عَنَى بقوله: { أُحِلَّتْ لَكُمْ بَهِيـمَةُ
+  الأنْعامِ }: الأنعام كلها، أجِنَتّها وسِخالها وكبـارها، لأن العرب لا تـمتنع من تسمية
+  جميع ذلك بهيـمة وبهائم، ولـم يخصص الله منها شيئاً دون شيء، فذلك علـى عمومه وظاهره
+  حتـى تأتـي حجة بخصوصه يجب التسلـيـم لها. وأما النعم فإنها عند العرب: أسم للإبل والبقر
+  والغنـم خاصة، كما قال جلّ ثناؤه:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">وَٱلأَنْعَامَ خَلَقَهَا لَكُمْ فِيهَا
+  دِفْءٌ وَمَنَافِعُ وَمِنْهَا تَأْكُلُونَ</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">[النحل: 5] ثم قال:</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">وَٱلْخَيْلَ
+  وَٱلْبِغَالَ وَٱلْحَمِيرَ لِتَرْكَبُوهَا وَزِينَةً</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">[النحل: 8] ففصل جنس النعم من غيرها
+  من أجناس الـحيوان. وأما بهائمها فإنها أولادها. وإنـما قلنا: يـلزم الكبـار منها اسم
+  بهيـمة كما يـلزم الصغار، لأن معنى قول القائل: بهيـمة الأنعام، نظير قوله: ولد الأنعام
+  فلـما كان لا يسقط معنى الولادة عنه بعد الكبر، فكذلك لا يسقط عنه اسم البهيـمة بعد
+  الكبر.</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">4 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(5, 1)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(5,1)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">يٰأَيُّهَا ٱلَّذِينَ آمَنُواْ أَوْفُواْ بِٱلْعُقُودِ
+  أُحِلَّتْ لَكُمْ بَهِيمَةُ ٱلأَنْعَامِ إِلاَّ مَا يُتْلَىٰ عَلَيْكُمْ غَيْرَ مُحِلِّي
+  ٱلصَّيْدِ وَأَنْتُمْ حُرُمٌ إِنَّ ٱللَّهَ يَحْكُمُ مَا يُرِيدُ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">وقد قال قوم: بهيـمة الأنعام: وحشيها كالظبـاء وبقر الوحش والـحمر.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">القول فـي تأويـل قوله تعالـى: { إلاَّ ما يُتْلَـى عَلَـيْكُمْ }.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">اختلف أهل التأويـل فـي الذي عناه الله بقوله: { إلاَّ ما يُتْلَـى
+  عَلَـيْكُمْ } فقال بعضهم: عنى الله بذلك: أحلت لكم أولاد الإبل والبقر والغنـم، إلا
+  ما بـين الله لكم فـيـما يتلـى علـيكم بقوله:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">حُرِّمَتْ عَلَيْكُمُ ٱلْمَيْتَةُ
+  وَٱلْدَّمُ</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">[المائدة: 3] الآية. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  مـحمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، عن ابن أبـي نـجيح، عن مـجاهد: {
+  بَهِيـمَةُ الإنْعامِ إلاَّ ما يُتْلَـى عَلَـيْكُمْ }: إلا الـميتة وما ذكر معها.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: { أُحِلَّتْ
+  لَكُمْ بَهِيـمَةُ الأنْعامِ إلاَّ ما يُتْلَـى عَلَـيْكُمْ }: أي من الـميتة التـي
+  نهى الله عنها وقدّم فـيها.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا الـحسن بن يحيى، قال: أخبرنا
+  عبد الرزاق، قال: أخبرنا معمر، عن قتادة: { إلاَّ ما يُتْلَـى عَلَـيْكُمْ } قال: إلا
+  الـميتة، وما لـم يذكر اسم الله علـيه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  مـحمد بن الـحسين، قال: ثنا أحمد بن مفضل، قال: ثنا أسبـاط، عن السديّ: { إلاَّ ما
+  يُتْلَـى عَلَـيْكُمْ }: الـميتة، والدم، ولـحم الـخنزير.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  الـمثنى، قال: ثنا عبد الله، قال: ثنـي معاوية، عن علـيّ بن أبـي طلـحة، عن ابن عبـاس:
+  { أُحِلَّتْ لَكُمْ بَهِيـمَةُ الأنْعامِ إلاَّ ما يُتْلَـى عَلَـيْكُمْ }: الـميتة
+  ولـحم الـخنزير.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي الـمثنى، قال: ثنا عبد الله،
   قال: ثنـي معاوية، عن علـيّ بن أبـي طلـحة، عن ابن عبـاس: { أُحِلَّتْ لَكُمْ بَهِيـمَةُ
   الأنْعامِ إلاَّ ما يُتْلَـى عَلَـيْكُمْ }: هي الـميتة والدم ولـحم الـخنزير، وما
-  أهلّ لغير الله به.وقال آخرون: بل الذي استثنى الله بقوله: { إلاَّ ما يُتْلَـى عَلَـيْكُمْ
-  } الـخنزير. ذكر من قال ذلك:حدثنـي عبد الله بن داود، قال: ثنا عبد الله بن صالـح،
-  قال: ثنـي معاوية، عن علـيّ، عن ابن عبـاس: { إلاَّ ما يُتْلَـى عَلَـيْكُمْ } قال:
-  الـخنزير.حُدثت عن الـحسين، قال: سمعت أبـا معاذ يقول: أخبرنا عبـيد بن سلـيـمان، قال:
-  سمعت الضحاك يقول فـي قوله: { إلاَّ ما يُتْلَـى عَلَـيْكُمْ } يعنـي: الـخنزير.وأولـى
-  التأويـلـين فـي ذلك بـالصواب تأويـل من قال: عنـي بذلك: إلا ما يتلـى علـيكم من تـحريـم
-  الله ما حرّم علـيكم بقوله:{ حُرِّمَتْ عَلَيْكُمُ ٱلْمَيْتَةُ... }[المائدة: 3] الآية،
-  لأن الله عزّ وجلّ استثنى مـما أبـاح لعبـاده من بهيـمة الأنعام ما حرّم علـيهم منها،
-  والذي حرّم علـيهم منها ما بـينه فـي قوله:{ حُرِّمَتْ عَلَيْكُمُ ٱلْمَيْتَةُ وَٱلْدَّمُ
-  وَلَحْمُ ٱلْخِنْزِيرِ }[المائدة: 3] وإن كان حرّمه الله علـينا فلـيس من بهيـمة الأنعام
-  فـيستثنى منها، فـاستثناء ما حرِّم علـينا مـما دخـل فـي جملة ما قبل الاستثناء أشبه
-  من استثناء ما حرّم مـما لـم يدخـل فـي جملة ما قبل الاستثناء.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ يٰأَيُّهَا ٱلَّذِينَ آمَنُواْ أَوْفُواْ
-  بِٱلْعُقُودِ أُحِلَّتْ لَكُمْ بَهِيمَةُ ٱلأَنْعَامِ إِلاَّ مَا يُتْلَىٰ عَلَيْكُمْ
-  غَيْرَ مُحِلِّي ٱلصَّيْدِ وَأَنْتُمْ حُرُمٌ إِنَّ ٱللَّهَ يَحْكُمُ مَا يُرِيدُ }القول
-  فـي تأويـل قوله تعالـى: { غيرَ مُـحِلِّـى الصَّيْدِ وأنْتُـمْ حُرُمٌ إنَّ اللَّهَ
-  يَحْكُمُ ما يُرِيدُ }.اختلف أهل التأويـل فـي تأويـل ذلك، فقال بعضهم: معنى ذلك: يا
-  أيها الذين آمنوا أوفوا بـالعقود غير مـحلـى الصيد وأنتـم حرم، أحلت لكم بهيـمة الأنعام.
-  فذلك علـى قولهم من الـمؤخر الذي معناه التقديـم، فـ «غير» منصوب علـى قول قائلـي هذه
-  الـمقالة علـى الـحال مـما فـي قوله: «أوفوا»، من ذكر الذين آمنوا. وتأويـل الكلام
-  علـى مذهبهم: أوفوا أيها الـمؤمنون بعقود الله التـي عقدها علـيكم فـي كتابه، لا مـحلـين
-  الصيد وأنتـم حرم.وقال آخرون: معنى ذلك: أحلت لكم بهيـمة الأنعام الوحشية من الظبـاء
+  أهلّ لغير الله به.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال آخرون: بل الذي استثنى الله
+  بقوله: { إلاَّ ما يُتْلَـى عَلَـيْكُمْ } الـخنزير. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي عبد الله بن داود، قال: ثنا عبد الله بن صالـح، قال: ثنـي معاوية،
+  عن علـيّ، عن ابن عبـاس: { إلاَّ ما يُتْلَـى عَلَـيْكُمْ } قال: الـخنزير.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حُدثت عن الـحسين، قال: سمعت أبـا معاذ يقول: أخبرنا عبـيد بن سلـيـمان،
+  قال: سمعت الضحاك يقول فـي قوله: { إلاَّ ما يُتْلَـى عَلَـيْكُمْ } يعنـي: الـخنزير.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وأولـى التأويـلـين فـي ذلك بـالصواب تأويـل من قال: عنـي بذلك: إلا
+  ما يتلـى علـيكم من تـحريـم الله ما حرّم علـيكم بقوله:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">حُرِّمَتْ عَلَيْكُمُ ٱلْمَيْتَةُ...</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[المائدة:
+  3] الآية، لأن الله عزّ وجلّ استثنى مـما أبـاح لعبـاده من بهيـمة الأنعام ما حرّم
+  علـيهم منها، والذي حرّم علـيهم منها ما بـينه فـي قوله:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">حُرِّمَتْ عَلَيْكُمُ ٱلْمَيْتَةُ
+  وَٱلْدَّمُ وَلَحْمُ ٱلْخِنْزِيرِ</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">[المائدة: 3] وإن كان حرّمه الله
+  علـينا فلـيس من بهيـمة الأنعام فـيستثنى منها، فـاستثناء ما حرِّم علـينا مـما دخـل
+  فـي جملة ما قبل الاستثناء أشبه من استثناء ما حرّم مـما لـم يدخـل فـي جملة ما قبل
+  الاستثناء.</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">5 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(5, 1)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(5,1)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">يٰأَيُّهَا ٱلَّذِينَ آمَنُواْ أَوْفُواْ بِٱلْعُقُودِ
+  أُحِلَّتْ لَكُمْ بَهِيمَةُ ٱلأَنْعَامِ إِلاَّ مَا يُتْلَىٰ عَلَيْكُمْ غَيْرَ مُحِلِّي
+  ٱلصَّيْدِ وَأَنْتُمْ حُرُمٌ إِنَّ ٱللَّهَ يَحْكُمُ مَا يُرِيدُ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">القول فـي تأويـل قوله تعالـى: { غيرَ مُـحِلِّـى الصَّيْدِ وأنْتُـمْ
+  حُرُمٌ إنَّ اللَّهَ يَحْكُمُ ما يُرِيدُ }.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">اختلف
+  أهل التأويـل فـي تأويـل ذلك، فقال بعضهم: معنى ذلك: يا أيها الذين آمنوا أوفوا بـالعقود
+  غير مـحلـى الصيد وأنتـم حرم، أحلت لكم بهيـمة الأنعام. فذلك علـى قولهم من الـمؤخر
+  الذي معناه التقديـم، فـ «غير» منصوب علـى قول قائلـي هذه الـمقالة علـى الـحال مـما
+  فـي قوله: «أوفوا»، من ذكر الذين آمنوا. وتأويـل الكلام علـى مذهبهم: أوفوا أيها الـمؤمنون
+  بعقود الله التـي عقدها علـيكم فـي كتابه، لا مـحلـين الصيد وأنتـم حرم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال آخرون: معنى ذلك: أحلت لكم بهيـمة الأنعام الوحشية من الظبـاء
   والبقر والـحمر، غير مـحلـي الصيد: غير مستـحلـي اصطيادها، وأنتـم حرم، إلا ما يتلـى
   علـيكم. فـ «غير» علـى قول هؤلاء منصوب علـى الـحال من الكاف والـميـم اللتـين فـي
   قوله: «لَكُمْ» بتأويـل: أحلت لكم أيها الذين آمنوا بهيـمة الأنعام، لا مستـحِّلـي
-  اصطيادها فـي حال إحرامكم.وقال آخرون: معنى ذلك: أحلت لكم بهيـمة الأنعام كلها، إلا
-  ما يتلـى علـيكم، إلا ما كان منها وحشياً، فإنه صيد فلا يحلّ لكم وأنتـم حرم. فكأنّ
-  من قال ذلك، وجه الكلام إلـى معنى: أحلت لكم بهيـمة الأنعام كلها، إلا ما يتلـى علـيكم،
-  إلا ما يُبـيِّن لكم من وحشيها، غير مستـحلـي اصطيادها فـي حال إحرامكم، فتكون «غير»
-  منصوبة علـى قولهم علـى الـحال من الكاف والـميـم فـي قوله: { إلاَّ ما يُتْلَـى عَلَـيْكُمْ
-  }. ذكر من قال ذلك:حدثنا سفـيان بن وكيع، قال: ثنا عبـيد الله، عن أبـي جعفر الرازي،
-  عن الربـيع بن أنس، قال: جلسنا إلـى مُطَرِّفَ بن الشِّخِّير وعنده رجل، فحدثهم فقال:
-  أحلت لكم بهيـمة الأنعام صيداً، غير مـحلـي الصيد وأنتـم حرم، فهو علـيكم حرام. يعنـي:
-  بقر الوحش والظبـاء وأشبـاهه.حدثنـي الـمثنى، قال: ثنا إسحاق، قال: ثنا عبد الله بن
-  أبـي جعفر، عن أبـيه، عن الربـيع بن أنس فـي قوله: { أُحِلَّتْ لَكُمْ بَهِيـمَةُ الأنْعامِ
-  إلاَّ ما يُتْلَـى عَلَـيْكُمْ غيرَ مُـحِلِّـي الصَّيْدِ وأنْتُـمْ حُرُمٌ } قال:
-  الأنعام كلها حِلّ إلا ما كان منها وحشيًّا، فإنه صيد، فلا يحلّ إذا كان مـحرِماً.وأولـى
-  الأقوال فـي ذلك بـالصواب علـى ما تظاهر به تأويـل أهل التأويـل فـي قوله: { أُحِلَّتْ
-  لَكُمْ بَهِيـمَةُ الأنْعامِ } من أنها الأنعام وأجنتها وسخالها، وعلـى دلالة ظاهر
-  التنزيـل قول من قال: معنى ذلك: أوفوا بـالعقود غير مـحلـي الصيد وأنتـم حرم، فقد أحلت
-  لكم بهيـمة الأنعام فـي حال إحرامكم أو غيرها من أحوالكم، إلا ما يتلـى علـيكم تـحريـمه
-  من الـميتة منها والدم وما أهلّ لغير الله به. وذلك أن قوله: { إلاَّ ما يُتْلَـى عَلَـيْكُمْ
-  } لو كان معناه: إلا الصيد، لقـيـل: إلا ما يتلـى علـيكم من الصيد غير مـحلـيه، وفـي
-  ترك الله وصْل قوله: { إلاَّ ما يُتْلَـى عَلَـيْكُمْ } بـما ذكرت، وإظهار ذكر الصيد
-  فـي قوله: { غيرَ مُـحِلِّـي الصَّيْدِ } أوضح الدلـيـل علـى أن قوله: { إلاَّ ما يُتْلَـى
-  عَلَـيْكُمْ } خبر متناهيةٌ قصته، وأن معنى قوله: { غيرَ مُـحِلِّـي الصَّيْدِ } منفصل
-  منه.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ يٰأَيُّهَا ٱلَّذِينَ آمَنُواْ أَوْفُواْ
-  بِٱلْعُقُودِ أُحِلَّتْ لَكُمْ بَهِيمَةُ ٱلأَنْعَامِ إِلاَّ مَا يُتْلَىٰ عَلَيْكُمْ
-  غَيْرَ مُحِلِّي ٱلصَّيْدِ وَأَنْتُمْ حُرُمٌ إِنَّ ٱللَّهَ يَحْكُمُ مَا يُرِيدُ }وكذلك
-  لو كان قوله: { أُحِلَّتْ لَكُمْ بَهِيـمَةُ الأنْعامِ } مقصوداً به قصد الوحش، لـم
-  يكن أيضاً لإعادة ذكر الصيد فـي قوله: { غيرَ مُـحِلِّـي الصَّيْدِ } وجه وقد مضى ذكره
-  قبل، ولقـيـل: أحلت لكم بهيـمة الأنعام، إلا ما يتلـى علـيكم، غير مـحلـيه وأنتـم حرم.
-  وفـي أظهاره ذكر الصيد فـي قوله: { غيرَ مُـحِلِّـي الصَّيْدِ } أبـين الدلالة علـى
-  صحة ما قلنا فـي معنى ذلك.فإن قال قائل: فإن العرب ربـما أظهرت ذكر الشيء بـاسمه وقد
-  جرى ذكره بـاسمه؟ قـيـل: ذلك من فعلها ضرورة شعر، ولـيس ذلك بـالفصيح الـمستعمل من
-  كلامهم، وتوجيه كلام الله إلـى الأفصح من لغات من نزل كلامه بلغته أولـى ما وجد إلـى
-  ذلك سبـيـل من صرفه إلـى غير ذلك.فمعنى الكلام إذن: يا أيها الذين آمنوا أوفوا بعقود
-  الله التـي عقد علـيكم، مـما حرّم وأحلّ، لا مـحلـين الصيد فـي حَرمكم، ففـيـما أحلّ
-  لكم من بهيـمة الأنعام الـمذكَّاة دون ميتتها متسع لكم ومستغنى عن الصيد فـي حال إحرامكم.القول
-  فـي تأويـل قوله تعالـى: { إنَّ اللَّهَ يَحْكُمُ ما يُرِيد }.يعنـي بذلك جلّ ثناؤه:
-  إن الله يقضي فـي خـلقه ما يشاء من تـحلـيـل ما أراد تـحلـيـله، وتـحريـم ما أراد تـحريـمه،
-  وإيجاب ما شاء إيجابه علـيهم، وغير ذلك من أحكامه وقضاياه، فأوفوا أيها الـمؤمنون له
-  بـما عقد علـيكم من تـحلـيـل ما أحلّ لكم وتـحريـم ما حرّم علـيكم، وغير ذلك من عقوده
-  فلا تنكُثُوها ولا تنقضوها. كما:حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة
-  قوله: { إنَّ اللّهَ يَحْكُمُ ما يُرِيدُ }: إن الله يحكم ما أراد فـي خـلقه، وبـين
-  لعبـاده، وفرض فرائضه، وحدّ حدوده، وأمر بطاعته، ونَهَى عن معصيته.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  اصطيادها فـي حال إحرامكم.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال آخرون: معنى ذلك: أحلت لكم
+  بهيـمة الأنعام كلها، إلا ما يتلـى علـيكم، إلا ما كان منها وحشياً، فإنه صيد فلا يحلّ
+  لكم وأنتـم حرم. فكأنّ من قال ذلك، وجه الكلام إلـى معنى: أحلت لكم بهيـمة الأنعام
+  كلها، إلا ما يتلـى علـيكم، إلا ما يُبـيِّن لكم من وحشيها، غير مستـحلـي اصطيادها
+  فـي حال إحرامكم، فتكون «غير» منصوبة علـى قولهم علـى الـحال من الكاف والـميـم فـي
+  قوله: { إلاَّ ما يُتْلَـى عَلَـيْكُمْ }. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  سفـيان بن وكيع، قال: ثنا عبـيد الله، عن أبـي جعفر الرازي، عن الربـيع بن أنس، قال:
+  جلسنا إلـى مُطَرِّفَ بن الشِّخِّير وعنده رجل، فحدثهم فقال: أحلت لكم بهيـمة الأنعام
+  صيداً، غير مـحلـي الصيد وأنتـم حرم، فهو علـيكم حرام. يعنـي: بقر الوحش والظبـاء وأشبـاهه.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي الـمثنى، قال: ثنا إسحاق، قال: ثنا عبد الله بن أبـي جعفر،
+  عن أبـيه، عن الربـيع بن أنس فـي قوله: { أُحِلَّتْ لَكُمْ بَهِيـمَةُ الأنْعامِ إلاَّ
+  ما يُتْلَـى عَلَـيْكُمْ غيرَ مُـحِلِّـي الصَّيْدِ وأنْتُـمْ حُرُمٌ } قال: الأنعام
+  كلها حِلّ إلا ما كان منها وحشيًّا، فإنه صيد، فلا يحلّ إذا كان مـحرِماً.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وأولـى الأقوال فـي ذلك بـالصواب علـى ما تظاهر به تأويـل أهل التأويـل
+  فـي قوله: { أُحِلَّتْ لَكُمْ بَهِيـمَةُ الأنْعامِ } من أنها الأنعام وأجنتها وسخالها،
+  وعلـى دلالة ظاهر التنزيـل قول من قال: معنى ذلك: أوفوا بـالعقود غير مـحلـي الصيد
+  وأنتـم حرم، فقد أحلت لكم بهيـمة الأنعام فـي حال إحرامكم أو غيرها من أحوالكم، إلا
+  ما يتلـى علـيكم تـحريـمه من الـميتة منها والدم وما أهلّ لغير الله به. وذلك أن قوله:
+  { إلاَّ ما يُتْلَـى عَلَـيْكُمْ } لو كان معناه: إلا الصيد، لقـيـل: إلا ما يتلـى
+  علـيكم من الصيد غير مـحلـيه، وفـي ترك الله وصْل قوله: { إلاَّ ما يُتْلَـى عَلَـيْكُمْ
+  } بـما ذكرت، وإظهار ذكر الصيد فـي قوله: { غيرَ مُـحِلِّـي الصَّيْدِ } أوضح الدلـيـل
+  علـى أن قوله: { إلاَّ ما يُتْلَـى عَلَـيْكُمْ } خبر متناهيةٌ قصته، وأن معنى قوله:
+  { غيرَ مُـحِلِّـي الصَّيْدِ } منفصل منه.</font></font>&#13;\t\t\t<label disabled=\"true\"
+  class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,7,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">6 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(5, 1)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(5,1)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">يٰأَيُّهَا ٱلَّذِينَ آمَنُواْ أَوْفُواْ بِٱلْعُقُودِ
+  أُحِلَّتْ لَكُمْ بَهِيمَةُ ٱلأَنْعَامِ إِلاَّ مَا يُتْلَىٰ عَلَيْكُمْ غَيْرَ مُحِلِّي
+  ٱلصَّيْدِ وَأَنْتُمْ حُرُمٌ إِنَّ ٱللَّهَ يَحْكُمُ مَا يُرِيدُ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">وكذلك لو كان قوله: { أُحِلَّتْ لَكُمْ بَهِيـمَةُ الأنْعامِ } مقصوداً
+  به قصد الوحش، لـم يكن أيضاً لإعادة ذكر الصيد فـي قوله: { غيرَ مُـحِلِّـي الصَّيْدِ
+  } وجه وقد مضى ذكره قبل، ولقـيـل: أحلت لكم بهيـمة الأنعام، إلا ما يتلـى علـيكم، غير
+  مـحلـيه وأنتـم حرم. وفـي أظهاره ذكر الصيد فـي قوله: { غيرَ مُـحِلِّـي الصَّيْدِ
+  } أبـين الدلالة علـى صحة ما قلنا فـي معنى ذلك.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">فإن
+  قال قائل: فإن العرب ربـما أظهرت ذكر الشيء بـاسمه وقد جرى ذكره بـاسمه؟ قـيـل: ذلك
+  من فعلها ضرورة شعر، ولـيس ذلك بـالفصيح الـمستعمل من كلامهم، وتوجيه كلام الله إلـى
+  الأفصح من لغات من نزل كلامه بلغته أولـى ما وجد إلـى ذلك سبـيـل من صرفه إلـى غير
+  ذلك.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">فمعنى الكلام إذن: يا أيها الذين
+  آمنوا أوفوا بعقود الله التـي عقد علـيكم، مـما حرّم وأحلّ، لا مـحلـين الصيد فـي حَرمكم،
+  ففـيـما أحلّ لكم من بهيـمة الأنعام الـمذكَّاة دون ميتتها متسع لكم ومستغنى عن الصيد
+  فـي حال إحرامكم.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">القول فـي تأويـل قوله تعالـى: {
+  إنَّ اللَّهَ يَحْكُمُ ما يُرِيد }.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">يعنـي
+  بذلك جلّ ثناؤه: إن الله يقضي فـي خـلقه ما يشاء من تـحلـيـل ما أراد تـحلـيـله، وتـحريـم
+  ما أراد تـحريـمه، وإيجاب ما شاء إيجابه علـيهم، وغير ذلك من أحكامه وقضاياه، فأوفوا
+  أيها الـمؤمنون له بـما عقد علـيكم من تـحلـيـل ما أحلّ لكم وتـحريـم ما حرّم علـيكم،
+  وغير ذلك من عقوده فلا تنكُثُوها ولا تنقضوها. كما:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة قوله: { إنَّ اللّهَ يَحْكُمُ ما يُرِيدُ
+  }: إن الله يحكم ما أراد فـي خـلقه، وبـين لعبـاده، وفرض فرائضه، وحدّ حدوده، وأمر
+  بطاعته، ونَهَى عن معصيته.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">7 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a id=\"NextClass\"/></td></tr></table></center></div></section>"
 

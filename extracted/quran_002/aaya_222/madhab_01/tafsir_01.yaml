@@ -1,4 +1,4 @@
-location:
+position:
   sura: '002'
   aaya: '222'
   madhab: '01'
@@ -7,319 +7,774 @@ meta:
   title: تفسير جامع البيان في تفسير القرآن
   author: الطبري
   year: '310'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَيَسْأَلُونَكَ
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(2, 222)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(2,222)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَيَسْأَلُونَكَ
   عَنِ ٱلْمَحِيضِ قُلْ هُوَ أَذًى فَٱعْتَزِلُواْ ٱلنِّسَآءَ فِي ٱلْمَحِيضِ وَلاَ تَقْرَبُوهُنَّ
   حَتَّىٰ يَطْهُرْنَ فَإِذَا تَطَهَّرْنَ فَأْتُوهُنَّ مِنْ حَيْثُ أَمَرَكُمُ ٱللَّهُ
-  إِنَّ ٱللَّهَ يُحِبُّ ٱلتَّوَّابِينَ وَيُحِبُّ ٱلْمُتَطَهِّرِينَ }يعني تعالى ذكره
-  بقوله: { وَيَسَألُونَكَ عَنِ المَحِيضِ } ويسألك يا مـحمد أصحابك عن الحيض وقيل «الـمـحيض»
-  لأن ما كان من الفعل ماضيه بفتـح عين الفعل وكسرها فـي الاستقبـال، مثل قول القائل:
-  ضرب يضرب، وحبس يحبس، ونزل ينزل، فإن العرب تبني مصدره على المفعَل والاسم على المفعِل
-  مثل المضَرب والـمضرِب من ضربت، ونزلت منزِلاً ومَنْزَلاً. ومسموع فـي ذوات الياء الألف
-  والياء المعيش والمعاش والمعيب والمعاب، كما قال رؤبة فـي المعيش:إلَيْكَ أشْكُو شِدَّةَ
-  الـمَعِيشِ   وَمَرَّ أعْوَامٍ نَتَفْنَ رِيشِيوإنـما كان القوم سألوا رسول الله صلى
-  الله عليه وسلم فـيـما ذكر لنا عن الـحيض، لأنهم كانوا قبل بـيان الله لهم ما يتبـينون
-  من أمره، لا يساكنون حائضاً فـي بـيت، ولا يؤاكلونهنّ فـي إناء، ولا يشاربونهنّ، فعرّفهم
-  الله بهذه الآية أن الذي علـيهم فـي أيام حيض نسائهم أن يجتنبوا جماعهنّ فقط دون ما
-  عدا ذلك من مضاجعتهن ومآكلتهن ومشاربتهن. كما:حدثنا بشر بن معاذ، قال: ثنا يزيد، قال:
-  ثنا سعيد، عن قتادة قوله: { وَيَسَألُونَكَ عَنِ الـمَـحِيضِ } حتـى بلغ: { حَّتـى
+  إِنَّ ٱللَّهَ يُحِبُّ ٱلتَّوَّابِينَ وَيُحِبُّ ٱلْمُتَطَهِّرِينَ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">يعني تعالى ذكره بقوله: { وَيَسَألُونَكَ عَنِ المَحِيضِ } ويسألك
+  يا مـحمد أصحابك عن الحيض وقيل «الـمـحيض» لأن ما كان من الفعل ماضيه بفتـح عين الفعل
+  وكسرها فـي الاستقبـال، مثل قول القائل: ضرب يضرب، وحبس يحبس، ونزل ينزل، فإن العرب
+  تبني مصدره على المفعَل والاسم على المفعِل مثل المضَرب والـمضرِب من ضربت، ونزلت منزِلاً
+  ومَنْزَلاً. ومسموع فـي ذوات الياء الألف والياء المعيش والمعاش والمعيب والمعاب، كما
+  قال رؤبة فـي المعيش:</font></font><table class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">إلَيْكَ
+  أشْكُو شِدَّةَ الـمَعِيشِ</font></font></b></td><td class=\"TextArabic\">   </td><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">وَمَرَّ
+  أعْوَامٍ نَتَفْنَ رِيشِي</font></font></b></td></tr></table><font class=\"TextResultArabic\"><font
+  color=\"black\">وإنـما كان القوم سألوا رسول الله صلى الله عليه وسلم فـيـما ذكر لنا
+  عن الـحيض، لأنهم كانوا قبل بـيان الله لهم ما يتبـينون من أمره، لا يساكنون حائضاً
+  فـي بـيت، ولا يؤاكلونهنّ فـي إناء، ولا يشاربونهنّ، فعرّفهم الله بهذه الآية أن الذي
+  علـيهم فـي أيام حيض نسائهم أن يجتنبوا جماعهنّ فقط دون ما عدا ذلك من مضاجعتهن ومآكلتهن
+  ومشاربتهن. كما:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا بشر بن معاذ، قال: ثنا يزيد،
+  قال: ثنا سعيد، عن قتادة قوله: { وَيَسَألُونَكَ عَنِ الـمَـحِيضِ } حتـى بلغ: { حَّتـى
   يَطْهُرْنَ } فكان أهل الـجاهلـية لا تساكنهم حائض فـي بـيت، ولا تؤاكلهم فـي إناء،
   فأنزل الله تعالـى ذكره فـي ذلك، فحرم فرجها ما دامت حائضاً، وأحلّ ما سوى ذلك: أن
   تصبغ لك رأسك، وتؤاكلك من طعامك، وأن تضاجعك فـي فراشك إذا كان علـيها إزار مـحتـجزة
-  به دونك.حدثت عن عمار، قال: ثنا ابن أبـي جعفر، عن أبـيه، عن الربـيع، مثله.وقد قـيـل:
-  إنهم سألوا عن ذلك، لأنهم كانوا فـي أيام حيضهنّ يجتنبون إتـيانهنّ فـي مخرج الدم ويأتونهن
-  فـي أدبـارهن. فنهاهم الله عن أن يقربوهن فـي أيام حيضهن حتـى يطهرن، ثم أذن لهم إذا
-  تطهرن من حيضهن فـي إتـيانهن من حيث أمرهم بـاعتزالهن، وحرم إتـيانهن فـي أدبـارهن
-  بكل حال. ذكر من قال ذلك:حدثنا مـحمد بن عبد الـملك بن أبـي الشوارب، قال: ثنا عبد
-  الواحد، قال: ثنا خصيف، قال: ثنـي مـجاهد، قال: كانوا يجتنبون النساء فـي الـمـحيض،
-  ويأتونهنّ فـي أدبـارهنّ، فسألوا النبـيّ صلى الله عليه وسلم عن ذلك، فأنزل الله: {
-  وَيَسَألُونَكَ عَنِ الـمَـحِيضِ } إلـى: { فإذَا تَطَهَّرْنَ فأتُوهُنَّ مِنْ حَيْثُ
-  أمَرَكُمُ اللَّهُ } فـي الفرج ولا تعدوه.وقـيـل: إن السائل الذي سأل رسول الله صلى
-  الله عليه وسلم عن ذلك كان ثابت بن الدحداح الأنصاري.حدثنـي بذلك موسى بن هارون، قال:
-  ثنا عمرو بن حماد، قال: ثنا أسبـاط، عن السدي.القول فـي تأويـل قوله تعالـى: { قُلْ
-  هُوَ أذًى }.يعنـي تعالـى ذكره بذلك: قل لـمن سألك من أصحابك يا مـحمد عن الـمـحيض
-  هو أذى. والأذى: هو ما يؤذى به من مكروه فـيه، وهو فـي هذا الـموضع يسمى أذى لنتن ريحه
-  وقذره ونـجاسته، وهو جامع لـمعان شتـى من خلال الأذى غير واحدة.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 9 10 \r\n\t\t\t\t\t\t\t\tمزيد</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَيَسْأَلُونَكَ عَنِ ٱلْمَحِيضِ قُلْ
-  هُوَ أَذًى فَٱعْتَزِلُواْ ٱلنِّسَآءَ فِي ٱلْمَحِيضِ وَلاَ تَقْرَبُوهُنَّ حَتَّىٰ
-  يَطْهُرْنَ فَإِذَا تَطَهَّرْنَ فَأْتُوهُنَّ مِنْ حَيْثُ أَمَرَكُمُ ٱللَّهُ إِنَّ
-  ٱللَّهَ يُحِبُّ ٱلتَّوَّابِينَ وَيُحِبُّ ٱلْمُتَطَهِّرِينَ }وقد اختلف أهل التأويـل
-  فـي البـيان عن تأويـل ذلك علـى تقارب معانـي بعض ما قالوا فـيه من بعض، فقال بعضهم
-  قوله: { قُلْ هُوَ أذًى } قل هو قذر. ذكر من قال ذلك:حدثنـي موسى بن هارون، قال: ثنا
-  عمرو، قال: ثنا أسبـاط، عن السدي قوله: { قُلْ هُوَ أذًى } قال: أما أذى: فقذر.حدثنا
+  به دونك.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثت عن عمار، قال: ثنا ابن أبـي
+  جعفر، عن أبـيه، عن الربـيع، مثله.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقد
+  قـيـل: إنهم سألوا عن ذلك، لأنهم كانوا فـي أيام حيضهنّ يجتنبون إتـيانهنّ فـي مخرج
+  الدم ويأتونهن فـي أدبـارهن. فنهاهم الله عن أن يقربوهن فـي أيام حيضهن حتـى يطهرن،
+  ثم أذن لهم إذا تطهرن من حيضهن فـي إتـيانهن من حيث أمرهم بـاعتزالهن، وحرم إتـيانهن
+  فـي أدبـارهن بكل حال. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  مـحمد بن عبد الـملك بن أبـي الشوارب، قال: ثنا عبد الواحد، قال: ثنا خصيف، قال: ثنـي
+  مـجاهد، قال: كانوا يجتنبون النساء فـي الـمـحيض، ويأتونهنّ فـي أدبـارهنّ، فسألوا
+  النبـيّ صلى الله عليه وسلم عن ذلك، فأنزل الله: { وَيَسَألُونَكَ عَنِ الـمَـحِيضِ
+  } إلـى: { فإذَا تَطَهَّرْنَ فأتُوهُنَّ مِنْ حَيْثُ أمَرَكُمُ اللَّهُ } فـي الفرج
+  ولا تعدوه.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقـيـل: إن السائل الذي سأل رسول
+  الله صلى الله عليه وسلم عن ذلك كان ثابت بن الدحداح الأنصاري.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي بذلك موسى بن هارون، قال: ثنا عمرو بن حماد، قال: ثنا أسبـاط،
+  عن السدي.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">القول فـي تأويـل قوله تعالـى: {
+  قُلْ هُوَ أذًى }.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">يعنـي تعالـى ذكره بذلك: قل لـمن
+  سألك من أصحابك يا مـحمد عن الـمـحيض هو أذى. والأذى: هو ما يؤذى به من مكروه فـيه،
+  وهو فـي هذا الـموضع يسمى أذى لنتن ريحه وقذره ونـجاسته، وهو جامع لـمعان شتـى من خلال
+  الأذى غير واحدة.</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\"
+  border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE:
+  none; BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,8,1)\"><u>8</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,9,1)\"><u>9</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(1,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2,
+  222)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,222)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَيَسْأَلُونَكَ عَنِ ٱلْمَحِيضِ قُلْ هُوَ أَذًى
+  فَٱعْتَزِلُواْ ٱلنِّسَآءَ فِي ٱلْمَحِيضِ وَلاَ تَقْرَبُوهُنَّ حَتَّىٰ يَطْهُرْنَ
+  فَإِذَا تَطَهَّرْنَ فَأْتُوهُنَّ مِنْ حَيْثُ أَمَرَكُمُ ٱللَّهُ إِنَّ ٱللَّهَ يُحِبُّ
+  ٱلتَّوَّابِينَ وَيُحِبُّ ٱلْمُتَطَهِّرِينَ</a> <b>}</b></font>, <br/>, <br/>, <div
+  align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">وقد
+  اختلف أهل التأويـل فـي البـيان عن تأويـل ذلك علـى تقارب معانـي بعض ما قالوا فـيه
+  من بعض، فقال بعضهم قوله: { قُلْ هُوَ أذًى } قل هو قذر. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي موسى بن هارون، قال: ثنا عمرو، قال: ثنا أسبـاط، عن السدي قوله:
+  { قُلْ هُوَ أذًى } قال: أما أذى: فقذر.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
   الـحسن بن يحيى، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر، عن قتادة فـي قوله: { قُلْ
-  هُوَ أذًى } قال: قل هو أذى، قال: قذر.وقال آخرون: قل هو دم. ذكر من قال ذلك:حدثنا
+  هُوَ أذًى } قال: قل هو أذى، قال: قذر.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  آخرون: قل هو دم. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
   مـحمد بن بشار، قال: ثنا مؤمل، قال: ثنا سفـيان، عن ابن أبـي نـجيح، عن مـجاهد فـي
-  قوله: { وَيَسَألُونَكَ عَنِ الـمَـحِيضِ قُلْ هُوَ أذًى } قال: الأذى: الدم.القول
-  فـي تأويـل قوله تعالـى: { فـاعْتَزِلُوا النِّساءَ فِـي الـمَـحِيض } ِ.يعنـي تعالـى
-  ذكره بقوله: { فـاعْتَزِلُوا النِّساءَ فِـي الـمَـحِيضِ } فـاعتزلوا جماع النساء ونكاحهنّ
-  فـي مـحيضهن. كما:حدثنـي علـيّ بن داود، قال: ثنا أبو صالـح، قال: ثنـي معاوية، عن
-  علـيّ، عن ابن عبـاس قوله: { فـاعْتَزِلُوا النِّساءَ فِـي الـمَـحِيضِ } يقول: اعتزلوا
-  نكاح فروجهنّ.واختلف أهل العلـم فـي الذي يجب علـى الرجل اعتزاله من الـحائض، فقال
-  بعضهم: الواجب علـى الرجل اعتزال جميع بدنها أن يبـاشره بشيء من بدنه. ذكر من قال ذلك:حدثنا
+  قوله: { وَيَسَألُونَكَ عَنِ الـمَـحِيضِ قُلْ هُوَ أذًى } قال: الأذى: الدم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">القول فـي تأويـل قوله تعالـى: { فـاعْتَزِلُوا النِّساءَ فِـي الـمَـحِيض
+  } ِ.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">يعنـي تعالـى ذكره بقوله: { فـاعْتَزِلُوا
+  النِّساءَ فِـي الـمَـحِيضِ } فـاعتزلوا جماع النساء ونكاحهنّ فـي مـحيضهن. كما:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي علـيّ بن داود، قال: ثنا أبو صالـح، قال: ثنـي معاوية، عن علـيّ،
+  عن ابن عبـاس قوله: { فـاعْتَزِلُوا النِّساءَ فِـي الـمَـحِيضِ } يقول: اعتزلوا نكاح
+  فروجهنّ.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">واختلف أهل العلـم فـي الذي يجب
+  علـى الرجل اعتزاله من الـحائض، فقال بعضهم: الواجب علـى الرجل اعتزال جميع بدنها أن
+  يبـاشره بشيء من بدنه. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
   ابن بشار، قال: ثنا حماد بن مسعدة، قال: ثنا عوف، عن مـحمد، قال: قلت لعبـيدة: ما يحلّ
-  لـي من امرأتـي إذا كانت حائضاً؟ قال: اللـحاف واحد، والفراش شتـى.حدثنـي تـميـم بن
-  الـمنتصر، قال: أخبرنا يزيد، قال: ثنا مـحمد، عن الزهري، عن عروة، عن ندبة، مولاة آل
-  عبـاس قالت: بعثتنـي ميـمونة ابنة الـحرث، أو حفصة ابنة عمر، إلـى امرأة عبد الله بن
-  عبـاس، وكانت بـينهما قرابة من قبل النساء، فوجدت فراشها معتزلاً فراشه، فظننت أن ذلك
-  عن الهجران، فسألتها عن اعتزال فراشه فراشها، فقالت: إنـي طامث، وإذا طمثت أعتزل فراشي.
-  فرجعت فأخبرت بذلك ميـمونة أو حفصة، فردّتنـي إلـى ابن عبـاس، تقول لك أمك: أرغبت عن
-  سنة رسول الله صلى الله عليه وسلم فوالله لقد كان النبـيّ صلى الله عليه وسلم ينام
-  مع الـمرأة من نسائه، وإنها لـحائض، وما بـينه وبـينها إلا ثوب ما يجاوز الركبتـين.حدثنـي
+  لـي من امرأتـي إذا كانت حائضاً؟ قال: اللـحاف واحد، والفراش شتـى.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي تـميـم بن الـمنتصر، قال: أخبرنا يزيد، قال: ثنا مـحمد، عن
+  الزهري، عن عروة، عن ندبة، مولاة آل عبـاس قالت: بعثتنـي ميـمونة ابنة الـحرث، أو حفصة
+  ابنة عمر، إلـى امرأة عبد الله بن عبـاس، وكانت بـينهما قرابة من قبل النساء، فوجدت
+  فراشها معتزلاً فراشه، فظننت أن ذلك عن الهجران، فسألتها عن اعتزال فراشه فراشها، فقالت:
+  إنـي طامث، وإذا طمثت أعتزل فراشي. فرجعت فأخبرت بذلك ميـمونة أو حفصة، فردّتنـي إلـى
+  ابن عبـاس، تقول لك أمك: أرغبت عن سنة رسول الله صلى الله عليه وسلم فوالله لقد كان
+  النبـيّ صلى الله عليه وسلم ينام مع الـمرأة من نسائه، وإنها لـحائض، وما بـينه وبـينها
+  إلا ثوب ما يجاوز الركبتـين.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
   يعقوب بن إبراهيـم، قال: ثنا ابن علـية، عن أيوب وابن عون، عن مـحمد، قال: قلت لعبـيدة:
   ما للرجل من امرأته إذا كانت حائضاً؟ قال: الفراش واحد، واللـحاف شتـى، فإن لـم يجد
-  إلا أن يردّ علـيها من ثوبه ردّ علـيها منه.واعتل قائلو هذه الـمقالة بأن الله تعالـى
-  ذكره أمر بـاعتزال النساء فـي حال حيضهن، ولـم يخصص منهن شيئاً دون شيء، وذلك عامّ
-  علـى جميع أجسادهنّ واجب اعتزال كل شيء من أبدانهن فـي حيضهن.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 9 10 \r\n\t\t\t\t\t\t\t\tمزيد</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَيَسْأَلُونَكَ عَنِ ٱلْمَحِيضِ قُلْ
-  هُوَ أَذًى فَٱعْتَزِلُواْ ٱلنِّسَآءَ فِي ٱلْمَحِيضِ وَلاَ تَقْرَبُوهُنَّ حَتَّىٰ
-  يَطْهُرْنَ فَإِذَا تَطَهَّرْنَ فَأْتُوهُنَّ مِنْ حَيْثُ أَمَرَكُمُ ٱللَّهُ إِنَّ
-  ٱللَّهَ يُحِبُّ ٱلتَّوَّابِينَ وَيُحِبُّ ٱلْمُتَطَهِّرِينَ }وقال آخرون: بل الذي
-  أمر الله تعالـى ذكره بـاعتزاله منهن موضع الأذى، وذلك موضع مخرج الدم. ذكر من قال
-  ذلك:حدثنا حميد بن مسعدة، قال: ثنا يزيد بن زريع، قال: حدثنـي عيـينة بن عبد الرحمن
-  بن جوشن، قال: ثنا مروان الأصغر، عن مسروق بن الأجدع، قال: قلت لعائشة: ما يحلّ للرجل
-  من امرأته إذا كانت حائضاً؟ قالت: كل شيء إلا الـجماع.حدثنا بشر بن معاذ، قال: ثنا
-  يزيد بن زريع، قال: ثنا سعيد، وحدثنا ابن بشار، قال: ثنا عبد الأعلـى، قال: ثنا سعيد،
-  عن قتادة، قال: ذكر لنا عن عائشة أنها قالت: وأين كان ذو الفراشين وذو اللـحافـين؟حدثنا
-  ابن بشار، قال: ثنا عبد الأعلـى، قال: ثنا سعيد، عن قتادة، عن سالـم بن أبـي الـجعد،
-  عن مسروق قال: قلت لعائشة: ما يحرم علـى الرجل من امرأته إذا كانت حائضاً؟ قالت: فرجها.حدثنا
-  ابن بشار، قال: ثنا عبد الوهاب، قال: ثنا أيوب، عن كتاب أبـي قلابة: أن مسروقاً ركب
-  إلـى عائشة، فقال: السلام علـى النبـيّ وعلـى أهل بـيته فقالت عائشة: أبو عائشة مرحبـاً
-  فأذنوا له، فدخـل فقال: إنـي أريد أن أسألك عن شيء وأنا أستـحيـي فقالت: إنـما أنا
-  أمك وأنت ابنـي. فقال: ما للرجل من امرأته وهي حائض؟ قالت له: كل شيء إلا فرجها.حدثنا
+  إلا أن يردّ علـيها من ثوبه ردّ علـيها منه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">واعتل
+  قائلو هذه الـمقالة بأن الله تعالـى ذكره أمر بـاعتزال النساء فـي حال حيضهن، ولـم
+  يخصص منهن شيئاً دون شيء، وذلك عامّ علـى جميع أجسادهنّ واجب اعتزال كل شيء من أبدانهن
+  فـي حيضهن.</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,8,1)\"><u>8</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,9,1)\"><u>9</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(1,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2,
+  222)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,222)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَيَسْأَلُونَكَ عَنِ ٱلْمَحِيضِ قُلْ هُوَ أَذًى
+  فَٱعْتَزِلُواْ ٱلنِّسَآءَ فِي ٱلْمَحِيضِ وَلاَ تَقْرَبُوهُنَّ حَتَّىٰ يَطْهُرْنَ
+  فَإِذَا تَطَهَّرْنَ فَأْتُوهُنَّ مِنْ حَيْثُ أَمَرَكُمُ ٱللَّهُ إِنَّ ٱللَّهَ يُحِبُّ
+  ٱلتَّوَّابِينَ وَيُحِبُّ ٱلْمُتَطَهِّرِينَ</a> <b>}</b></font>, <br/>, <br/>, <div
+  align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  آخرون: بل الذي أمر الله تعالـى ذكره بـاعتزاله منهن موضع الأذى، وذلك موضع مخرج الدم.
+  ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا حميد بن مسعدة، قال: ثنا يزيد
+  بن زريع، قال: حدثنـي عيـينة بن عبد الرحمن بن جوشن، قال: ثنا مروان الأصغر، عن مسروق
+  بن الأجدع، قال: قلت لعائشة: ما يحلّ للرجل من امرأته إذا كانت حائضاً؟ قالت: كل شيء
+  إلا الـجماع.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا بشر بن معاذ، قال: ثنا يزيد
+  بن زريع، قال: ثنا سعيد، وحدثنا ابن بشار، قال: ثنا عبد الأعلـى، قال: ثنا سعيد، عن
+  قتادة، قال: ذكر لنا عن عائشة أنها قالت: وأين كان ذو الفراشين وذو اللـحافـين؟</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن بشار، قال: ثنا عبد الأعلـى، قال: ثنا سعيد، عن قتادة، عن
+  سالـم بن أبـي الـجعد، عن مسروق قال: قلت لعائشة: ما يحرم علـى الرجل من امرأته إذا
+  كانت حائضاً؟ قالت: فرجها.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن بشار، قال: ثنا عبد الوهاب،
+  قال: ثنا أيوب، عن كتاب أبـي قلابة: أن مسروقاً ركب إلـى عائشة، فقال: السلام علـى
+  النبـيّ وعلـى أهل بـيته فقالت عائشة: أبو عائشة مرحبـاً فأذنوا له، فدخـل فقال: إنـي
+  أريد أن أسألك عن شيء وأنا أستـحيـي فقالت: إنـما أنا أمك وأنت ابنـي. فقال: ما للرجل
+  من امرأته وهي حائض؟ قالت له: كل شيء إلا فرجها.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
   أبو كريب، قال: ثنا ابن أبـي زائدة، قال: ثنا حجاج، عن ميـمون بن مهران، عن عائشة قالت
-  له: ما فوق الإزار.حدثنـي يعقوب، قال: ثنا ابن علـية، قال: أخبرنا أيوب، عن نافع: أن
-  عائشة قالت فـي مضاجعة الـحائض: لا بأس بذلك إذا كان علـيها إزار.حدثنـي يعقوب، قال:
-  ثنا ابن علـية، عن أيوب، عن أبـي معشر قال: سألت عائشة: ما للرجل من امرأته إذا كانت
-  حائضاً؟ فقالت: كل شيء إلا الفرج.حدثنا أبو كريب، قال: ثنا ابن أبـي زائدة، عن مـحمد
-  بن عمرو، عن مـحمد بن إبراهيـم بن الـحارث قال: قال ابن عبـاس: إذا جعلت الـحائض علـى
-  فرجها ثوبـاً أو ما يكفّ الأذى، فلا بأس أن يبـاشر جِلْدُها زَوْجَها.حدثنا أبو كريب،
-  قال: ثنا ابن إدريس، قال: ثنا يزيد، عن سعيد بن جبـير، عن ابن عبـاس أنه سئل: ما للرجل
-  من امرأته إذا كانت حائضاً؟ قال: ما فوق الإزار.حدثنا يعقوب بن إبراهيـم، قال: ثنا
-  هاشم بن القاسم، قال: ثنا الـحكم بن فضيـل، عن خالد الـحذاء، عن عكرمة، عن ابن عبـاس،
-  قال: اتق من الدم مثل موضع النعل.حدثنـي يعقوب، قال: ثنا ابن علـية، قال: أخبرنا أيوب،
-  عن عكرمة، عن أم سلـمة، قالت فـي مضاجعة الـحائض: لا بأس بذلك إذا كان علـى فرجها خرقة.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 9 10 \r\n\t\t\t\t\t\t\t\tمزيد</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَيَسْأَلُونَكَ عَنِ ٱلْمَحِيضِ قُلْ
-  هُوَ أَذًى فَٱعْتَزِلُواْ ٱلنِّسَآءَ فِي ٱلْمَحِيضِ وَلاَ تَقْرَبُوهُنَّ حَتَّىٰ
-  يَطْهُرْنَ فَإِذَا تَطَهَّرْنَ فَأْتُوهُنَّ مِنْ حَيْثُ أَمَرَكُمُ ٱللَّهُ إِنَّ
-  ٱللَّهَ يُحِبُّ ٱلتَّوَّابِينَ وَيُحِبُّ ٱلْمُتَطَهِّرِينَ }حدثنا ابن بشار، قال:
-  ثنا عبد الأعلـى، عن سعيد، عن قتادة، عن الـحسن، قال: للرجل من امرأته كل شيء ما خلا
-  الفرج يعنـي وهي حائض قال: يبـيتان فـي لـحاف واحد، يعنـي الـحائض إذا كان علـى الفرج
-  ثوب.حدثنا ابن بشار، قال: ثنا ابن أبـي عديّ عن عوف عن الـحسن. قال: يبـيتان فـي لـحاف
-  واحد يعنـي الـحائض إذا كان علـى الفرج ثوب.حدثنا تـميـم، قال: أخبرنا إسحاق، عن شريك،
-  عن لـيث، قال: تذاكرنا عند مـجاهد الرجل يلاعب امرأته وهي حائض، قال: اطعن بذكرك حيثما
-  شئت فـيـما بـين الفخذين والألـيتـين والسرة، ما لـم يكن فـي الدبر أو الـحيض.حدثنا
-  أبو كريب، قال: ثنا ابن أبـي زائدة، عن إسماعيـل بن أبـي خالد، عن عامر، قال: يبـاشر
-  الرجل امرأته وهي حائض؟ قال: إذا كفّت الأذى.حدثنا حميد بن مسعدة، قال: ثنا يزيد بن
-  زريع، قال: ثنـي عمران بن حدير، قال: سمعت عكرمة يقول: كل شيء من الـحائض لك حلال غير
-  مـجرى الدم.وعلة قائل هذه الـمقالة، قـيام الـحجة بـالأخبـار الـمتواترة عن رسول الله
-  صلى الله عليه وسلم أنه كان يبـاشر نساءه وهن حيض، ولو كان الواجب اعتزال جميعهن لـما
-  فعل ذلك رسول الله صلى الله عليه وسلم، فلـما صح ذلك عن رسول الله صلى الله عليه وسلم،
-  علـم أن مراد الله تعالـى ذكره بقوله: { فـاعْتَزِلُوا النِّساءَ فِـي الـمَـحِيضِ
-  } هو اعتزال بعض جسدها دون بعض. وإذا كان ذلك كذلك، وجب أن يكون ذلك هو الـجماع الـمـجمع
-  علـى تـحريـمه علـى الزوج فـي قبلها دون ما كان فـيه اختلاف من جماعها فـي سائر بدنها.وقال
+  له: ما فوق الإزار.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي يعقوب، قال: ثنا ابن علـية،
+  قال: أخبرنا أيوب، عن نافع: أن عائشة قالت فـي مضاجعة الـحائض: لا بأس بذلك إذا كان
+  علـيها إزار.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي يعقوب، قال: ثنا ابن علـية،
+  عن أيوب، عن أبـي معشر قال: سألت عائشة: ما للرجل من امرأته إذا كانت حائضاً؟ فقالت:
+  كل شيء إلا الفرج.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا أبو كريب، قال: ثنا ابن أبـي
+  زائدة، عن مـحمد بن عمرو، عن مـحمد بن إبراهيـم بن الـحارث قال: قال ابن عبـاس: إذا
+  جعلت الـحائض علـى فرجها ثوبـاً أو ما يكفّ الأذى، فلا بأس أن يبـاشر جِلْدُها زَوْجَها.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا أبو كريب، قال: ثنا ابن إدريس، قال: ثنا يزيد، عن سعيد بن جبـير،
+  عن ابن عبـاس أنه سئل: ما للرجل من امرأته إذا كانت حائضاً؟ قال: ما فوق الإزار.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا يعقوب بن إبراهيـم، قال: ثنا هاشم بن القاسم، قال: ثنا الـحكم
+  بن فضيـل، عن خالد الـحذاء، عن عكرمة، عن ابن عبـاس، قال: اتق من الدم مثل موضع النعل.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي يعقوب، قال: ثنا ابن علـية، قال: أخبرنا أيوب، عن عكرمة، عن
+  أم سلـمة، قالت فـي مضاجعة الـحائض: لا بأس بذلك إذا كان علـى فرجها خرقة.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">3 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,8,1)\"><u>8</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,9,1)\"><u>9</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(1,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2,
+  222)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,222)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَيَسْأَلُونَكَ عَنِ ٱلْمَحِيضِ قُلْ هُوَ أَذًى
+  فَٱعْتَزِلُواْ ٱلنِّسَآءَ فِي ٱلْمَحِيضِ وَلاَ تَقْرَبُوهُنَّ حَتَّىٰ يَطْهُرْنَ
+  فَإِذَا تَطَهَّرْنَ فَأْتُوهُنَّ مِنْ حَيْثُ أَمَرَكُمُ ٱللَّهُ إِنَّ ٱللَّهَ يُحِبُّ
+  ٱلتَّوَّابِينَ وَيُحِبُّ ٱلْمُتَطَهِّرِينَ</a> <b>}</b></font>, <br/>, <br/>, <div
+  align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن بشار، قال: ثنا عبد الأعلـى، عن سعيد، عن قتادة، عن الـحسن، قال: للرجل من امرأته
+  كل شيء ما خلا الفرج يعنـي وهي حائض قال: يبـيتان فـي لـحاف واحد، يعنـي الـحائض إذا
+  كان علـى الفرج ثوب.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن بشار، قال: ثنا ابن أبـي
+  عديّ عن عوف عن الـحسن. قال: يبـيتان فـي لـحاف واحد يعنـي الـحائض إذا كان علـى الفرج
+  ثوب.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا تـميـم، قال: أخبرنا إسحاق،
+  عن شريك، عن لـيث، قال: تذاكرنا عند مـجاهد الرجل يلاعب امرأته وهي حائض، قال: اطعن
+  بذكرك حيثما شئت فـيـما بـين الفخذين والألـيتـين والسرة، ما لـم يكن فـي الدبر أو
+  الـحيض.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا أبو كريب، قال: ثنا ابن أبـي
+  زائدة، عن إسماعيـل بن أبـي خالد، عن عامر، قال: يبـاشر الرجل امرأته وهي حائض؟ قال:
+  إذا كفّت الأذى.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا حميد بن مسعدة، قال: ثنا يزيد
+  بن زريع، قال: ثنـي عمران بن حدير، قال: سمعت عكرمة يقول: كل شيء من الـحائض لك حلال
+  غير مـجرى الدم.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وعلة قائل هذه الـمقالة، قـيام الـحجة
+  بـالأخبـار الـمتواترة عن رسول الله صلى الله عليه وسلم أنه كان يبـاشر نساءه وهن حيض،
+  ولو كان الواجب اعتزال جميعهن لـما فعل ذلك رسول الله صلى الله عليه وسلم، فلـما صح
+  ذلك عن رسول الله صلى الله عليه وسلم، علـم أن مراد الله تعالـى ذكره بقوله: { فـاعْتَزِلُوا
+  النِّساءَ فِـي الـمَـحِيضِ } هو اعتزال بعض جسدها دون بعض. وإذا كان ذلك كذلك، وجب
+  أن يكون ذلك هو الـجماع الـمـجمع علـى تـحريـمه علـى الزوج فـي قبلها دون ما كان فـيه
+  اختلاف من جماعها فـي سائر بدنها.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
   آخرون: بل الذي أمر الله تعالـى ذكره بـاعتزاله منهن فـي حال حيضهن ما بـين السرة إلـى
-  الركبة، وما فوق ذلك ودونه منها. ذكر من قال ذلك:حدثنا أبو كريب، قال: ثنا ابن أبـي
-  زائدة، عن ابن عون، عن ابن سيرين، عن شريح، قال له: ما فوق السرّة. وذكر الـحائض.حدثنا
-  أبو كريب وأبو السائب قالا: ثنا ابن إدريس، قال: أخبرنا يزيد، عن سعيد بن جبـير، قال:
-  سئل ابن عبـاس عن الـحائض: ما لزوجها منها؟ فقال: ما فوق الإزار.حدثنـي يعقوب، قال:
-  ثنا ابن علـية، عن أيوب وابن عون، عن مـحمد، قال: قال شريح: له ما فوق سرتها.حدثنا
-  ابن الـمثنى، قال: ثنا ابن أبـي عديّ، عن شعبة، عن واقد بن مـحمد بن زيد بن عبد الله
-  بن عمر، قال: سئل سعيد بن الـمسيب: ما للرجل من الـحائض؟ قال: ما فوق الإزار.وعلة من
-  قال هذه الـمقالة صحة الـخبر عن رسول الله صلى الله عليه وسلم بـما:حدثنـي به ابن أبـي
-  الشوارب، قال: ثنا عبد الواحد بن زياد، قال: ثنا سلـيـمان الشيبـانـي وحدثنـي أبو السائب،
-  قال: حدثنا حفص، قال: ثنا الشيبـانـي، قال: ثنا عبد الله بن شداد بن الهاد، قال: سمعت
-  ميـمونة، تقول: «كان رسول الله صلى الله عليه وسلم إذا أراد أن يبـاشر امرأة من نسائه
-  وهي حائض أمرها فـاتّزرت».\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 9 10 \r\n\t\t\t\t\t\t\t\tمزيد</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَيَسْأَلُونَكَ عَنِ ٱلْمَحِيضِ قُلْ
-  هُوَ أَذًى فَٱعْتَزِلُواْ ٱلنِّسَآءَ فِي ٱلْمَحِيضِ وَلاَ تَقْرَبُوهُنَّ حَتَّىٰ
-  يَطْهُرْنَ فَإِذَا تَطَهَّرْنَ فَأْتُوهُنَّ مِنْ حَيْثُ أَمَرَكُمُ ٱللَّهُ إِنَّ
-  ٱللَّهَ يُحِبُّ ٱلتَّوَّابِينَ وَيُحِبُّ ٱلْمُتَطَهِّرِينَ }حدثنا الـمثنى، قال:
-  ثنا عبد الرحمن بن مهدي، قال: ثنا سفـيان، عن الشيبـانـي، عن عبد الله بن شداد، عن
-  ميـمونة: «أن النبـيّ صلى الله عليه وسلم كان يبـاشرها وهي حائض فوق الإزار».حدثنـي
-  سفـيان بن وكيع، قال: ثنا جرير، عن منصور، عن إبراهيـم، عن الأسود، عن عائشة، قالت:
-  كانت إحدانا إذا كانت حائضاً أمرها فـاتزرت بإزار ثم يبـاشرها.حدثنا سفـيان بن وكيع،
-  قال: ثنا المحاربي، عن الشيبـانـي، عن عبد الرحمن بن الأسود، عن أبـيه، عن عائشة، قالت:
-  كانت إحدانا إذا كانت حائضاً أمرها النبـيّ صلى الله عليه وسلم أن تأتزر ثم يبـاشرها.ونظائر
+  الركبة، وما فوق ذلك ودونه منها. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  أبو كريب، قال: ثنا ابن أبـي زائدة، عن ابن عون، عن ابن سيرين، عن شريح، قال له: ما
+  فوق السرّة. وذكر الـحائض.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا أبو كريب وأبو السائب قالا:
+  ثنا ابن إدريس، قال: أخبرنا يزيد، عن سعيد بن جبـير، قال: سئل ابن عبـاس عن الـحائض:
+  ما لزوجها منها؟ فقال: ما فوق الإزار.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  يعقوب، قال: ثنا ابن علـية، عن أيوب وابن عون، عن مـحمد، قال: قال شريح: له ما فوق
+  سرتها.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن الـمثنى، قال: ثنا ابن
+  أبـي عديّ، عن شعبة، عن واقد بن مـحمد بن زيد بن عبد الله بن عمر، قال: سئل سعيد بن
+  الـمسيب: ما للرجل من الـحائض؟ قال: ما فوق الإزار.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وعلة
+  من قال هذه الـمقالة صحة الـخبر عن رسول الله صلى الله عليه وسلم بـما:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي به ابن أبـي الشوارب، قال: ثنا عبد الواحد بن زياد، قال: ثنا
+  سلـيـمان الشيبـانـي وحدثنـي أبو السائب، قال: حدثنا حفص، قال: ثنا الشيبـانـي، قال:
+  ثنا عبد الله بن شداد بن الهاد، قال: سمعت ميـمونة، تقول: «كان رسول الله صلى الله
+  عليه وسلم إذا أراد أن يبـاشر امرأة من نسائه وهي حائض أمرها فـاتّزرت».</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">4 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,8,1)\"><u>8</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,9,1)\"><u>9</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(1,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2,
+  222)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,222)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَيَسْأَلُونَكَ عَنِ ٱلْمَحِيضِ قُلْ هُوَ أَذًى
+  فَٱعْتَزِلُواْ ٱلنِّسَآءَ فِي ٱلْمَحِيضِ وَلاَ تَقْرَبُوهُنَّ حَتَّىٰ يَطْهُرْنَ
+  فَإِذَا تَطَهَّرْنَ فَأْتُوهُنَّ مِنْ حَيْثُ أَمَرَكُمُ ٱللَّهُ إِنَّ ٱللَّهَ يُحِبُّ
+  ٱلتَّوَّابِينَ وَيُحِبُّ ٱلْمُتَطَهِّرِينَ</a> <b>}</b></font>, <br/>, <br/>, <div
+  align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  الـمثنى، قال: ثنا عبد الرحمن بن مهدي، قال: ثنا سفـيان، عن الشيبـانـي، عن عبد الله
+  بن شداد، عن ميـمونة: «أن النبـيّ صلى الله عليه وسلم كان يبـاشرها وهي حائض فوق الإزار».</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي سفـيان بن وكيع، قال: ثنا جرير، عن منصور، عن إبراهيـم، عن
+  الأسود، عن عائشة، قالت: كانت إحدانا إذا كانت حائضاً أمرها فـاتزرت بإزار ثم يبـاشرها.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا سفـيان بن وكيع، قال: ثنا المحاربي، عن الشيبـانـي، عن عبد الرحمن
+  بن الأسود، عن أبـيه، عن عائشة، قالت: كانت إحدانا إذا كانت حائضاً أمرها النبـيّ صلى
+  الله عليه وسلم أن تأتزر ثم يبـاشرها.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">ونظائر
   ذلك من الأخبـار التـي يطول بـاستـيعاب ذكر جميعها الكتاب قالوا: فما فعل النبـيّ صلى
   الله عليه وسلم من ذلك فجائز، وهو مبـاشرة الـحائض ما دون الإزار وفوقه، وذلك دون الركبة
-  وفوق السرّة، وما عدا ذلك من جسد الـحائض فواجب اعتزاله لعموم الآية.وأولـى الأقوال
-  فـي ذلك بـالصواب قول من قال: إن للرجل من امرأته الـحائض ما فوق الـمؤتزر ودونه لـما
-  ذكرنا من العلة لهم.القول فـي تأويـل قوله تعالـى: { وَلا تَقْرَبُوهُنّ حتَّـى يَطْهُرْنَ
-  }.اختلف القراء فـي قراءة ذلك، فقرأه بعضهم: { حتـى يَطْهُرْنَ } بضم الهاء وتـخفـيفها،
-  وقرأه آخرون بتشديد الهاء وفتـحها. وأما الذين قرءوه بتـخفـيف الهاء وضمها فإنهم وجهوا
-  معناه إلـى: ولا تقربوا النساء فـي حال حيضهن حتـى ينقطع عنهن دم الـحيض ويطهرن. وقال
-  بهذا التأويـل جماعة من أهل التأويـل. ذكر من قال ذلك:حدثنا ابن بشار، قال: ثنا ابن
-  مهدي ومؤمل، قالا: ثنا سفـيان، عن ابن أبـي نـجيح، عن مـجاهد فـي قوله: { وَلا تَقْرَبُوهُنَّ
-  حَّتـى يَطْهُرْنَ } قال: انقطاع الدم.حدثنـي مـحمد بن عمرو، قال: ثنا أبو عاصم، عن
-  سفـيان أو عثمان بن الأسود: { وَلا تَقْرَبُوهُنَّ حَّتـى يَطْهُرْنَ } حتـى ينقطع
-  عنهن الدم.حدثنا ابن حميد، قال: ثنا يحيى بن واضح، قال: ثنا عبـيد الله العتكي، عن
-  عكرمة فـي قوله: { وَلا تَقْرَبُوهُنَّ حَّتـى يَطْهُرْنَ } قال: حتـى ينقطع الدم.وأما
+  وفوق السرّة، وما عدا ذلك من جسد الـحائض فواجب اعتزاله لعموم الآية.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وأولـى الأقوال فـي ذلك بـالصواب قول من قال: إن للرجل من امرأته الـحائض
+  ما فوق الـمؤتزر ودونه لـما ذكرنا من العلة لهم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">القول
+  فـي تأويـل قوله تعالـى: { وَلا تَقْرَبُوهُنّ حتَّـى يَطْهُرْنَ }.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">اختلف القراء فـي قراءة ذلك، فقرأه بعضهم: { حتـى يَطْهُرْنَ } بضم
+  الهاء وتـخفـيفها، وقرأه آخرون بتشديد الهاء وفتـحها. وأما الذين قرءوه بتـخفـيف الهاء
+  وضمها فإنهم وجهوا معناه إلـى: ولا تقربوا النساء فـي حال حيضهن حتـى ينقطع عنهن دم
+  الـحيض ويطهرن. وقال بهذا التأويـل جماعة من أهل التأويـل. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن بشار، قال: ثنا ابن مهدي ومؤمل، قالا: ثنا سفـيان، عن ابن
+  أبـي نـجيح، عن مـجاهد فـي قوله: { وَلا تَقْرَبُوهُنَّ حَّتـى يَطْهُرْنَ } قال: انقطاع
+  الدم.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي مـحمد بن عمرو، قال: ثنا
+  أبو عاصم، عن سفـيان أو عثمان بن الأسود: { وَلا تَقْرَبُوهُنَّ حَّتـى يَطْهُرْنَ
+  } حتـى ينقطع عنهن الدم.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن حميد، قال: ثنا يحيى بن
+  واضح، قال: ثنا عبـيد الله العتكي، عن عكرمة فـي قوله: { وَلا تَقْرَبُوهُنَّ حَّتـى
+  يَطْهُرْنَ } قال: حتـى ينقطع الدم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وأما
   الذين قرءوا ذلك بتشديد الهاء وفتـحها، فإنهم عنوا به: حتـى يغتسلن بـالـماء وشدّدوا
-  الطاء لأنهم قالوا: معنى الكلـمة: حتـى يتطهرن أدغمت التاء فـي الطاء لتقارب مخرجيهما.وأولـى
-  القراءتـين بـالصواب فـي ذلك قراءة من قرأ: «حَّتـى يَطَّهَّرْنَ» بتشديدها وفتـحها،
-  بـمعنى: حتـى يغتسلن، لإجماع الـجميع علـى أن حراماً علـى الرجل أن يقرب امرأته بعد
-  انقطاع دم حيضها حتـى تطهر.وإنـما اختلف فـي التطهر الذي عناه الله تعالـى ذكره، فأحلّ
-  له جماعها، فقال بعضهم: هو الاغتسال بـالـماء، ولا يحلّ لزوجها أن يقربها حتـى تغسل
-  جميع بدنها.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 9 10 \r\n\t\t\t\t\t\t\t\tمزيد</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَيَسْأَلُونَكَ عَنِ ٱلْمَحِيضِ قُلْ
-  هُوَ أَذًى فَٱعْتَزِلُواْ ٱلنِّسَآءَ فِي ٱلْمَحِيضِ وَلاَ تَقْرَبُوهُنَّ حَتَّىٰ
-  يَطْهُرْنَ فَإِذَا تَطَهَّرْنَ فَأْتُوهُنَّ مِنْ حَيْثُ أَمَرَكُمُ ٱللَّهُ إِنَّ
-  ٱللَّهَ يُحِبُّ ٱلتَّوَّابِينَ وَيُحِبُّ ٱلْمُتَطَهِّرِينَ }وقال بعضهم: هو الوضوء
-  للصلاة. وقال آخرون: بل هو غسل الفرج، فإذا غسلت فرجها فذلك تطهرها الذي يحلّ به لزوجها
-  غشيانها.فإذا كان إجماع من الـجميع أنها لا تـحلّ لزوجها بـانقطاع الدم حتـى تطهر،
-  كان بـينا أن أولـى القراءتـين بـالصواب أنفـاهما للبس عن فهم سامعها، وذلك هو الذي
-  اخترنا، إذ كان فـي قراءة قارئها بتـخفـيف الهاء وضمها ما لا يؤمن معه اللبس علـى سامعها
-  من الـخطإ فـي تأويـلها، فـيرى أن للزوج غشيانها بعد انقطاع دم حيضها عنها وقبل اغتسالها
-  وتطهرها.فتأويـل الآية إذا: ويسألونك عن الـمـحيض، قل هو أذى، فـاعتزلوا جماع نسائكم
-  فـي وقت حيضهن، ولا تقربوهنّ حتـى يغتسلن فـيتطهرن من حيضهن بعد انقطاعه.القول فـي
-  تأويـل قوله تعالـى: { فإذَا تَطَهّرْنَ }.يعنـي تعالـى ذكره بقوله: { فإذَا تَطَهّرْنَ
-  فأْتُوهُنَّ } فإذا اغتسلن فتطهرن بـالـماء فجامعوهن.فإن قال قائل: أففرض جماعهنّ حينئذ؟
+  الطاء لأنهم قالوا: معنى الكلـمة: حتـى يتطهرن أدغمت التاء فـي الطاء لتقارب مخرجيهما.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وأولـى القراءتـين بـالصواب فـي ذلك قراءة من قرأ: «حَّتـى يَطَّهَّرْنَ»
+  بتشديدها وفتـحها، بـمعنى: حتـى يغتسلن، لإجماع الـجميع علـى أن حراماً علـى الرجل
+  أن يقرب امرأته بعد انقطاع دم حيضها حتـى تطهر.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وإنـما
+  اختلف فـي التطهر الذي عناه الله تعالـى ذكره، فأحلّ له جماعها، فقال بعضهم: هو الاغتسال
+  بـالـماء، ولا يحلّ لزوجها أن يقربها حتـى تغسل جميع بدنها.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">5 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,8,1)\"><u>8</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,9,1)\"><u>9</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(1,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2,
+  222)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,222)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَيَسْأَلُونَكَ عَنِ ٱلْمَحِيضِ قُلْ هُوَ أَذًى
+  فَٱعْتَزِلُواْ ٱلنِّسَآءَ فِي ٱلْمَحِيضِ وَلاَ تَقْرَبُوهُنَّ حَتَّىٰ يَطْهُرْنَ
+  فَإِذَا تَطَهَّرْنَ فَأْتُوهُنَّ مِنْ حَيْثُ أَمَرَكُمُ ٱللَّهُ إِنَّ ٱللَّهَ يُحِبُّ
+  ٱلتَّوَّابِينَ وَيُحِبُّ ٱلْمُتَطَهِّرِينَ</a> <b>}</b></font>, <br/>, <br/>, <div
+  align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  بعضهم: هو الوضوء للصلاة. وقال آخرون: بل هو غسل الفرج، فإذا غسلت فرجها فذلك تطهرها
+  الذي يحلّ به لزوجها غشيانها.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">فإذا
+  كان إجماع من الـجميع أنها لا تـحلّ لزوجها بـانقطاع الدم حتـى تطهر، كان بـينا أن
+  أولـى القراءتـين بـالصواب أنفـاهما للبس عن فهم سامعها، وذلك هو الذي اخترنا، إذ كان
+  فـي قراءة قارئها بتـخفـيف الهاء وضمها ما لا يؤمن معه اللبس علـى سامعها من الـخطإ
+  فـي تأويـلها، فـيرى أن للزوج غشيانها بعد انقطاع دم حيضها عنها وقبل اغتسالها وتطهرها.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">فتأويـل الآية إذا: ويسألونك عن الـمـحيض، قل هو أذى، فـاعتزلوا جماع
+  نسائكم فـي وقت حيضهن، ولا تقربوهنّ حتـى يغتسلن فـيتطهرن من حيضهن بعد انقطاعه.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">القول فـي تأويـل قوله تعالـى: { فإذَا تَطَهّرْنَ }.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">يعنـي تعالـى ذكره بقوله: { فإذَا تَطَهّرْنَ فأْتُوهُنَّ } فإذا اغتسلن
+  فتطهرن بـالـماء فجامعوهن.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">فإن قال قائل: أففرض جماعهنّ حينئذ؟
   قـيـل: لا. فإن قال: فما معنى قوله إذا: { فأْتُوهُنَّ }؟ قـيـل: ذلك إبـاحة ما كان
-  منع قبل ذلك من جماعهنّ وإطلاق لـما كان حظر فـي حال الـحيض، وذلك كقوله:{ وَإذَا حَلَلْتُـمْ
-  فـاصْطادُوا }وقوله:{ فَإِذَا قُضِيَتِ ٱلصَّلاَةُ فَٱنتَشِرُواْ فِي ٱلأَرْضِ }[الجمعة:
-  10] وما أشبه ذلك.واختلف أهل التأويـل فـي تأويـل قوله { فإذَا تَطَهّرْنَ } فقال بعضهم:
-  معنى ذلك: فإذا اغتسلن. ذكر من قال ذلك:حدثنـي الـمثنى، قال: ثنا أبو صالـح، قال: ثنـي
-  معاوية بن صالـح، عن علـيّ بن أبـي طلـحة، عن ابن عبـاس: فإذَا تَطَهّرْنَ يقول: فإذا
-  طهرت من الدم وتطهرت بـالـماء.حدثنا مـحمد بن بشار، قال: ثنـي مـحمد بن مهدي ومؤمل،
-  قالا: ثنا سفـيان، عن ابن أبـي نـجيح، عن مـجاهد: { فإذَا تَطَهّرْنَ } فإذا اغتسلن.حدثنا
-  ابن حميد، قال: ثنا يحيى بن واضح، قال: ثنا عبـيد الله العتكي، عن عكرمة فـي قوله:
-  { فإذَا تَطَهّرْنَ } يقول: اغتسلن.حدثنـي مـحمد بن عمرو، قال: ثنا أبو عاصم، عن سفـيان
-  أو عثمان بن الأسود: { فإذَا تَطَهّرْنَ } إذا اغتسلن.حدثنا عمران بن موسى، ثنا عبد
-  الوارث، ثنا عامر، عن الـحسن فـي الـحائض ترى الطهر، قال: لا يغشاها زوجها حتـى تغتسل
-  وتـحلّ لها الصلاة.حدثنـي يعقوب بن إبراهيـم، قال: ثنا هشيـم، عن مغيرة، عن إبراهيـم
-  أنه كره أن يطأها حتـى تغتسل يعنـي الـمرأة إذا طهرت.وقال آخرون: معنى ذلك فإذا تطهرن
-  للصلاة. ذكر من قال ذلك:حدثنـي يعقوب بن إبراهيـم، قال: ثنا هشيـم، قال: أخبرنا لـيث،
-  عن طاوس ومـجاهد أنهما قالا: إذا طهرت الـمرأة من الدم فشاء زوجها أن يأمرها بـالوضوء
-  قبل أن تغتسل إذا أدركه الشبق فلـيُصِب.وأولـى التأويـلـين بتأويـل الآية قول من قال:
-  معنى قوله: { فإذَا تَطَهّرْنَ } فإذا اغتسلن لإجماع الـجميع علـى أنها لا تصير بـالوضوء
-  بـالـماء طاهراً الطهر الذي يحلّ لها به الصلاة، وأن القول لا يخـلو فـي ذلك من أحد
-  أمرين: إما أن يكون معناه: فإذا تطهرن من النـجاسة فأتوهن.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 9 10 \r\n\t\t\t\t\t\t\t\tمزيد</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَيَسْأَلُونَكَ عَنِ ٱلْمَحِيضِ قُلْ
-  هُوَ أَذًى فَٱعْتَزِلُواْ ٱلنِّسَآءَ فِي ٱلْمَحِيضِ وَلاَ تَقْرَبُوهُنَّ حَتَّىٰ
-  يَطْهُرْنَ فَإِذَا تَطَهَّرْنَ فَأْتُوهُنَّ مِنْ حَيْثُ أَمَرَكُمُ ٱللَّهُ إِنَّ
-  ٱللَّهَ يُحِبُّ ٱلتَّوَّابِينَ وَيُحِبُّ ٱلْمُتَطَهِّرِينَ }وإن كان ذلك معناه، فقد
-  ينبغي أن يكون متـى انقطع عنها الدم فجائز لزوجها جماعها إذا لـم تكن هنالك نـجاسة
-  ظاهرة، هذا إن كان قوله: { فإذَا تَطَهّرْنَ } جائزاً استعماله فـي التطهر من النـجاسة،
-  ولا أعلـمه جائزاً إلا علـى استكراه الكلام أو يكون معناه: فإذا تطهرن للصلاة فـي إجماع
-  الـجميع من الـحجة علـى أنه غير جائز لزوجها غشيانها بـانقطاع دم حيضها، إذا لـم يكن
-  هنالك نـجاسة دون التطهر بـالـماء إذا كانت واجدته أدلّ الدلـيـل علـى أن معناه: فإذا
-  تطهرن الطهر الذي يجزيهن به الصلاة. وفـي إجماع الـجميع من الأمة علـى أن الصلاة لا
-  تـحلّ لها إلا بـالاغتسال أوضح الدلالة علـى صحة ما قلنا من أن غشيانها حرام إلا بعد
-  الاغتسال، وأن معنى قوله: { فإذَا تَطَهّرْنَ } فإذا اغتسلن فصرن طواهر الطهر الذي
-  يجزيهن به الصلاة.القول فـي تأويـل قوله تعالـى: { فأْتُوهُنّ مِنْ حَيْثُ أمَرَكُمُ
-  اللَّهُ }.اختلف أهل التأويـل فـي تأويـل قوله: { فأْتُوهُنّ مِنْ حَيْثُ أمَرَكُمُ
+  منع قبل ذلك من جماعهنّ وإطلاق لـما كان حظر فـي حال الـحيض، وذلك كقوله:</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">وَإذَا
+  حَلَلْتُـمْ فـاصْطادُوا</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">وقوله:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">فَإِذَا قُضِيَتِ ٱلصَّلاَةُ فَٱنتَشِرُواْ فِي ٱلأَرْضِ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[الجمعة:
+  10] وما أشبه ذلك.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">واختلف أهل التأويـل فـي تأويـل
+  قوله { فإذَا تَطَهّرْنَ } فقال بعضهم: معنى ذلك: فإذا اغتسلن. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي الـمثنى، قال: ثنا أبو صالـح، قال: ثنـي معاوية بن صالـح، عن
+  علـيّ بن أبـي طلـحة، عن ابن عبـاس: فإذَا تَطَهّرْنَ يقول: فإذا طهرت من الدم وتطهرت
+  بـالـماء.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا مـحمد بن بشار، قال: ثنـي
+  مـحمد بن مهدي ومؤمل، قالا: ثنا سفـيان، عن ابن أبـي نـجيح، عن مـجاهد: { فإذَا تَطَهّرْنَ
+  } فإذا اغتسلن.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن حميد، قال: ثنا يحيى بن
+  واضح، قال: ثنا عبـيد الله العتكي، عن عكرمة فـي قوله: { فإذَا تَطَهّرْنَ } يقول:
+  اغتسلن.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي مـحمد بن عمرو، قال: ثنا
+  أبو عاصم، عن سفـيان أو عثمان بن الأسود: { فإذَا تَطَهّرْنَ } إذا اغتسلن.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا عمران بن موسى، ثنا عبد الوارث، ثنا عامر، عن الـحسن فـي الـحائض
+  ترى الطهر، قال: لا يغشاها زوجها حتـى تغتسل وتـحلّ لها الصلاة.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي يعقوب بن إبراهيـم، قال: ثنا هشيـم، عن مغيرة، عن إبراهيـم
+  أنه كره أن يطأها حتـى تغتسل يعنـي الـمرأة إذا طهرت.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  آخرون: معنى ذلك فإذا تطهرن للصلاة. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  يعقوب بن إبراهيـم، قال: ثنا هشيـم، قال: أخبرنا لـيث، عن طاوس ومـجاهد أنهما قالا:
+  إذا طهرت الـمرأة من الدم فشاء زوجها أن يأمرها بـالوضوء قبل أن تغتسل إذا أدركه الشبق
+  فلـيُصِب.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وأولـى التأويـلـين بتأويـل الآية
+  قول من قال: معنى قوله: { فإذَا تَطَهّرْنَ } فإذا اغتسلن لإجماع الـجميع علـى أنها
+  لا تصير بـالوضوء بـالـماء طاهراً الطهر الذي يحلّ لها به الصلاة، وأن القول لا يخـلو
+  فـي ذلك من أحد أمرين: إما أن يكون معناه: فإذا تطهرن من النـجاسة فأتوهن.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,7,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">6 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,8,1)\"><u>8</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,9,1)\"><u>9</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(1,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2,
+  222)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,222)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَيَسْأَلُونَكَ عَنِ ٱلْمَحِيضِ قُلْ هُوَ أَذًى
+  فَٱعْتَزِلُواْ ٱلنِّسَآءَ فِي ٱلْمَحِيضِ وَلاَ تَقْرَبُوهُنَّ حَتَّىٰ يَطْهُرْنَ
+  فَإِذَا تَطَهَّرْنَ فَأْتُوهُنَّ مِنْ حَيْثُ أَمَرَكُمُ ٱللَّهُ إِنَّ ٱللَّهَ يُحِبُّ
+  ٱلتَّوَّابِينَ وَيُحِبُّ ٱلْمُتَطَهِّرِينَ</a> <b>}</b></font>, <br/>, <br/>, <div
+  align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">وإن
+  كان ذلك معناه، فقد ينبغي أن يكون متـى انقطع عنها الدم فجائز لزوجها جماعها إذا لـم
+  تكن هنالك نـجاسة ظاهرة، هذا إن كان قوله: { فإذَا تَطَهّرْنَ } جائزاً استعماله فـي
+  التطهر من النـجاسة، ولا أعلـمه جائزاً إلا علـى استكراه الكلام أو يكون معناه: فإذا
+  تطهرن للصلاة فـي إجماع الـجميع من الـحجة علـى أنه غير جائز لزوجها غشيانها بـانقطاع
+  دم حيضها، إذا لـم يكن هنالك نـجاسة دون التطهر بـالـماء إذا كانت واجدته أدلّ الدلـيـل
+  علـى أن معناه: فإذا تطهرن الطهر الذي يجزيهن به الصلاة. وفـي إجماع الـجميع من الأمة
+  علـى أن الصلاة لا تـحلّ لها إلا بـالاغتسال أوضح الدلالة علـى صحة ما قلنا من أن غشيانها
+  حرام إلا بعد الاغتسال، وأن معنى قوله: { فإذَا تَطَهّرْنَ } فإذا اغتسلن فصرن طواهر
+  الطهر الذي يجزيهن به الصلاة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">القول
+  فـي تأويـل قوله تعالـى: { فأْتُوهُنّ مِنْ حَيْثُ أمَرَكُمُ اللَّهُ }.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">اختلف أهل التأويـل فـي تأويـل قوله: { فأْتُوهُنّ مِنْ حَيْثُ أمَرَكُمُ
   اللَّهُ } فقال بعضهم: معنى ذلك: فأتوا نساءكم إذا تطهرن من الوجه الذي نهيتكم عن إتـيانهن
   منه فـي حال حيضهن، وذلك الفرج الذي أمر الله بترك جماعهنّ فـيه فـي حال الـحيض. ذكر
-  من قال ذلك:حدثنـي يعقوب بن إبراهيـم، قال: ثنا ابن علـية، عن مـحمد بن إسحاق، قال:
-  ثنـي أبـان بن صالـح، عن مـجاهد، قال: قال ابن عبـاس فـي قوله: { فأْتُوهُنّ مِنْ حَيْثُ
-  أمَرَكُمُ اللَّهُ } قال: من حيث أمركم أن تعتزلوهن.حدثنـي الـمثنى، قال: ثنا أبو صالـح،
+  من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي يعقوب بن إبراهيـم، قال:
+  ثنا ابن علـية، عن مـحمد بن إسحاق، قال: ثنـي أبـان بن صالـح، عن مـجاهد، قال: قال
+  ابن عبـاس فـي قوله: { فأْتُوهُنّ مِنْ حَيْثُ أمَرَكُمُ اللَّهُ } قال: من حيث أمركم
+  أن تعتزلوهن.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي الـمثنى، قال: ثنا أبو صالـح،
   قال: ثنا معاوية بن صالـح، عن علـيّ بن أبـي طلـحة، عن ابن عبـاس قوله: { فأْتُوهُنّ
   مِنْ حَيْثُ أمَرَكُمُ اللَّهُ } يقول: فـي الفرج لا تعدوه إلـى غيره، فمن فعل شيئا
-  من ذلك فقد اعتدى.حدثنـي يعقوب، قال: ثنا ابن علـية، قال: ثنا خالد الـحذاء، عن عكرمة
-  فـي قوله: { فأْتُوهُنّ مِنْ حَيْثُ أمَرَكُمُ اللَّهُ } قال: من حيث أمركم أن تعتزلوا.حدثنـي
+  من ذلك فقد اعتدى.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي يعقوب، قال: ثنا ابن علـية،
+  قال: ثنا خالد الـحذاء، عن عكرمة فـي قوله: { فأْتُوهُنّ مِنْ حَيْثُ أمَرَكُمُ اللَّهُ
+  } قال: من حيث أمركم أن تعتزلوا.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
   يونس، قال: أخبرنا ابن وهب، قال: ثنا أبو صخر، عن أبـي معاوية البجلـي، عن سعيد بن
   جبـير أنه قال: بـينا أنا ومـجاهد جالسان عند ابن عبـاس أتاه رجل فوقـف علـى رأسه،
   فقال: يا أبـا العبـاس أو يا أبـا الفضل ألا تشفـينـي عن آية الـمـحيض؟ قال: بلـى فقرأ:
   { وَيَسألُونَكَ عَنِ الـمَـحِيضِ } حتـى بلغ آخر الآية، فقال ابن عبـاس: من حيث جاء
-  الدم، ثم أُمرت أن تأتـي.حدثنا أبو كريب، قال: ثنا ابن أبـي زائدة، عن عمرة، عن مـجاهد،
-  قال: دبر الـمرأة مثله من الرجل. ثم قرأ: { وَيَسألُونَكَ عَنِ الـمَـحِيضِ }  إلـى:
-  { فأْتُوهُنّ مِنْ حَيْثُ أمَرَكُمُ اللَّهُ } قال: من حيث أمركم أن تعتزلوهن.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 9 10 \r\n\t\t\t\t\t\t\t\tمزيد</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَيَسْأَلُونَكَ عَنِ ٱلْمَحِيضِ قُلْ
-  هُوَ أَذًى فَٱعْتَزِلُواْ ٱلنِّسَآءَ فِي ٱلْمَحِيضِ وَلاَ تَقْرَبُوهُنَّ حَتَّىٰ
-  يَطْهُرْنَ فَإِذَا تَطَهَّرْنَ فَأْتُوهُنَّ مِنْ حَيْثُ أَمَرَكُمُ ٱللَّهُ إِنَّ
-  ٱللَّهَ يُحِبُّ ٱلتَّوَّابِينَ وَيُحِبُّ ٱلْمُتَطَهِّرِينَ }حدثنا ابن بشار، قال:
-  ثنا مؤمل، قال: ثنا سفـيان، عن ابن أبـي نـجيح، عن مـجاهد: { فأْتُوهُنّ مِنْ حَيْثُ
-  أمَرَكُمُ اللَّهُ } قال: أمروا أن يأتوهن من حيث نهوا عنه.حدثنا ابن أبـي الشوارب،
-  قال: ثنا عبد الواحد، قال: ثنا خصيف، قال: ثنـي مـجاهد: { فأْتُوهُنّ مِنْ حَيْثُ أمَرَكُمُ
-  اللَّهُ } فـي الفرج، ولا تعدوه.حدثنا مـحمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا
-  عيسى، عن ابن أبـي نـجيح، عن مـجاهد: { فأْتُوهُنّ مِنْ حَيْثُ أمَرَكُمُ اللَّهُ }
-  يقول: إذا تطهرن فأتوهنّ من حيث نُهي عنه فـي الـمـحيض.حدثنـي مـحمد بن عمرو، قال:
-  ثنا أبو عاصم، عن سفـيان أو عثمان بن الأسود: { فأْتُوهُنّ مِنْ حَيْثُ أمَرَكُمُ اللَّهُ
-  } بـاعتزالهنّ منه.حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة قوله: { فأْتُوهُنّ
-  مِنْ حَيْثُ أمَرَكُمُ اللَّهُ } أي من الوجه الذي يأتـي منه الـمـحيض طاهراً غير حائض،
-  ولا تعدوا ذلك إلـى غيره.حدثنا مـحمد بن بشار، قال: ثنا عبد الأعلـى، قال: ثنا سعيد،
-  عن قتادة فـي قوله: { فأْتُوهُنّ مِنْ حَيْثُ أمَرَكُمُ اللَّهُ } قال: طواهر من غير
-  جماع ومن غير حيض من الوجه الذي يأتـي الـمـحيض ولا يتعدى إلـى غيره. قال سعيد: ولا
-  أعلـمه إلا عن ابن عبـاس.حدثت عن عمار، قال: ثنا ابن أبـي جعفر، عن أبـيه، عن الربـيع
-  فـي قوله: { فَإِذَا تَطَهَّرْنَ فأْتُوهُنّ مِنْ حَيْثُ أمَرَكُمُ اللَّهُ } من حيث
-  نهيتـم عنه فـي الـمـحيض. وعن أبـيه عن لـيث، عن مـجاهد فـي قوله: { فَإِذَا تَطَهَّرْنَ
-  فأْتُوهُنّ مِنْ حَيْثُ أمَرَكُمُ اللَّهُ } من حيث نهيتـم عنه، واتقوا الأدبـار.حدثنا
+  الدم، ثم أُمرت أن تأتـي.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا أبو كريب، قال: ثنا ابن أبـي
+  زائدة، عن عمرة، عن مـجاهد، قال: دبر الـمرأة مثله من الرجل. ثم قرأ: { وَيَسألُونَكَ
+  عَنِ الـمَـحِيضِ }  إلـى: { فأْتُوهُنّ مِنْ حَيْثُ أمَرَكُمُ اللَّهُ } قال: من حيث
+  أمركم أن تعتزلوهن.</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,6,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,8,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">7 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,8,1)\"><u>8</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,9,1)\"><u>9</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(1,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2,
+  222)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,222)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَيَسْأَلُونَكَ عَنِ ٱلْمَحِيضِ قُلْ هُوَ أَذًى
+  فَٱعْتَزِلُواْ ٱلنِّسَآءَ فِي ٱلْمَحِيضِ وَلاَ تَقْرَبُوهُنَّ حَتَّىٰ يَطْهُرْنَ
+  فَإِذَا تَطَهَّرْنَ فَأْتُوهُنَّ مِنْ حَيْثُ أَمَرَكُمُ ٱللَّهُ إِنَّ ٱللَّهَ يُحِبُّ
+  ٱلتَّوَّابِينَ وَيُحِبُّ ٱلْمُتَطَهِّرِينَ</a> <b>}</b></font>, <br/>, <br/>, <div
+  align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن بشار، قال: ثنا مؤمل، قال: ثنا سفـيان، عن ابن أبـي نـجيح، عن مـجاهد: { فأْتُوهُنّ
+  مِنْ حَيْثُ أمَرَكُمُ اللَّهُ } قال: أمروا أن يأتوهن من حيث نهوا عنه.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن أبـي الشوارب، قال: ثنا عبد الواحد، قال: ثنا خصيف، قال:
+  ثنـي مـجاهد: { فأْتُوهُنّ مِنْ حَيْثُ أمَرَكُمُ اللَّهُ } فـي الفرج، ولا تعدوه.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا مـحمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، عن ابن أبـي
+  نـجيح، عن مـجاهد: { فأْتُوهُنّ مِنْ حَيْثُ أمَرَكُمُ اللَّهُ } يقول: إذا تطهرن فأتوهنّ
+  من حيث نُهي عنه فـي الـمـحيض.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  مـحمد بن عمرو، قال: ثنا أبو عاصم، عن سفـيان أو عثمان بن الأسود: { فأْتُوهُنّ مِنْ
+  حَيْثُ أمَرَكُمُ اللَّهُ } بـاعتزالهنّ منه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة قوله: { فأْتُوهُنّ مِنْ حَيْثُ أمَرَكُمُ
+  اللَّهُ } أي من الوجه الذي يأتـي منه الـمـحيض طاهراً غير حائض، ولا تعدوا ذلك إلـى
+  غيره.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا مـحمد بن بشار، قال: ثنا عبد
+  الأعلـى، قال: ثنا سعيد، عن قتادة فـي قوله: { فأْتُوهُنّ مِنْ حَيْثُ أمَرَكُمُ اللَّهُ
+  } قال: طواهر من غير جماع ومن غير حيض من الوجه الذي يأتـي الـمـحيض ولا يتعدى إلـى
+  غيره. قال سعيد: ولا أعلـمه إلا عن ابن عبـاس.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثت
+  عن عمار، قال: ثنا ابن أبـي جعفر، عن أبـيه، عن الربـيع فـي قوله: { فَإِذَا تَطَهَّرْنَ
+  فأْتُوهُنّ مِنْ حَيْثُ أمَرَكُمُ اللَّهُ } من حيث نهيتـم عنه فـي الـمـحيض. وعن أبـيه
+  عن لـيث، عن مـجاهد فـي قوله: { فَإِذَا تَطَهَّرْنَ فأْتُوهُنّ مِنْ حَيْثُ أمَرَكُمُ
+  اللَّهُ } من حيث نهيتـم عنه، واتقوا الأدبـار.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
   مـحمد بن الـمثنى، قال: ثنا ابن إدريس، قال: سمعت أبـي، عن يزيد بن الولـيد، عن إبراهيـم
-  فـي قوله: { فأْتُوهُنّ مِنْ حَيْثُ أمَرَكُمُ اللَّهُ } قال: فـي الفرج.وقال آخرون:
-  معناه: فأتوهن من الوجه الذي أمركم الله فـيه أن تأتوهن منه، وذلك الوجه هو الطهر دون
-  الـحيض. فكان معنى قائل ذلك فـي الآية: فأتُوهنّ من قُبْل طهرهنّ لا من قُبْل حيضهن.
-  ذكر من قال ذلك:حدثنـي مـحمد بن سعد، قال: ثنـي أبـي، قال: ثنـي عمي، قال: ثنـي أبـي،
-  عن أبـيه، عن ابن عبـاس: { فأْتُوهُنّ مِنْ حَيْثُ أمَرَكُمُ اللَّهُ } يعنـي أن يأتـيها
-  طاهرا غير حائض.حدثنا مـحمد بن بشار، قال: ثنا أبو أحمد، قال: ثنا سفـيان، عن منصور،
+  فـي قوله: { فأْتُوهُنّ مِنْ حَيْثُ أمَرَكُمُ اللَّهُ } قال: فـي الفرج.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال آخرون: معناه: فأتوهن من الوجه الذي أمركم الله فـيه أن تأتوهن
+  منه، وذلك الوجه هو الطهر دون الـحيض. فكان معنى قائل ذلك فـي الآية: فأتُوهنّ من قُبْل
+  طهرهنّ لا من قُبْل حيضهن. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  مـحمد بن سعد، قال: ثنـي أبـي، قال: ثنـي عمي، قال: ثنـي أبـي، عن أبـيه، عن ابن عبـاس:
+  { فأْتُوهُنّ مِنْ حَيْثُ أمَرَكُمُ اللَّهُ } يعنـي أن يأتـيها طاهرا غير حائض.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا مـحمد بن بشار، قال: ثنا أبو أحمد، قال: ثنا سفـيان، عن منصور،
   عن أبـي رزين فـي قوله: { فأْتُوهُنّ مِنْ حَيْثُ أمَرَكُمُ اللَّهُ } قال: من قُبْل
-  الطهر.حدثنا مـحمد بن بشار، قال: ثنا مـحمد بن يحيى، قال: ثنا سفـيان، عن الأعمش، عن
-  أبـي رزين بـمثله.حدثنا ابن حميد، قال: ثنا حكام، عن عمرو، عن منصور، عن أبـي رزين:
-  { فأْتُوهُنّ مِنْ حَيْثُ أمَرَكُمُ اللَّهُ } يقول: ائتوهن من عند الطهر.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 9 10 \r\n\t\t\t\t\t\t\t\tمزيد</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَيَسْأَلُونَكَ عَنِ ٱلْمَحِيضِ قُلْ
-  هُوَ أَذًى فَٱعْتَزِلُواْ ٱلنِّسَآءَ فِي ٱلْمَحِيضِ وَلاَ تَقْرَبُوهُنَّ حَتَّىٰ
-  يَطْهُرْنَ فَإِذَا تَطَهَّرْنَ فَأْتُوهُنَّ مِنْ حَيْثُ أَمَرَكُمُ ٱللَّهُ إِنَّ
-  ٱللَّهَ يُحِبُّ ٱلتَّوَّابِينَ وَيُحِبُّ ٱلْمُتَطَهِّرِينَ }حدثنـي مـحمد بن عبـيد
-  الـمـحاربـي، قال: ثنا علـيّ بن هاشم، عن الزبرقان، عن أبـي رزين: { فأْتُوهُنّ مِنْ
-  حَيْثُ أمَرَكُمُ اللَّهُ } قال: من قُبْل الطهر، ولا تأتوهن من قبل الـحيض.حدثنا ابن
-  حميد، قال: ثنا يحيى بن واضح، قال: ثنا عبـيد الله العتكي، عن عكرمة قوله: { فأْتُوهُنّ
-  مِنْ حَيْثُ أمَرَكُمُ اللَّهُ } يقول: إذا اغتسلن فأتوهنّ من حيث أمركم الله يقول:
-  طواهر غير حُيَّض.حدثنا الـحسن بن يحيى، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر،
+  الطهر.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا مـحمد بن بشار، قال: ثنا مـحمد
+  بن يحيى، قال: ثنا سفـيان، عن الأعمش، عن أبـي رزين بـمثله.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن حميد، قال: ثنا حكام، عن عمرو، عن منصور، عن أبـي رزين: { فأْتُوهُنّ مِنْ حَيْثُ
+  أمَرَكُمُ اللَّهُ } يقول: ائتوهن من عند الطهر.</font></font>&#13;\t\t\t<label disabled=\"true\"
+  class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,7,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,9,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">8 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,9,1)\"><u>9</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(1,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2,
+  222)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,222)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَيَسْأَلُونَكَ عَنِ ٱلْمَحِيضِ قُلْ هُوَ أَذًى
+  فَٱعْتَزِلُواْ ٱلنِّسَآءَ فِي ٱلْمَحِيضِ وَلاَ تَقْرَبُوهُنَّ حَتَّىٰ يَطْهُرْنَ
+  فَإِذَا تَطَهَّرْنَ فَأْتُوهُنَّ مِنْ حَيْثُ أَمَرَكُمُ ٱللَّهُ إِنَّ ٱللَّهَ يُحِبُّ
+  ٱلتَّوَّابِينَ وَيُحِبُّ ٱلْمُتَطَهِّرِينَ</a> <b>}</b></font>, <br/>, <br/>, <div
+  align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  مـحمد بن عبـيد الـمـحاربـي، قال: ثنا علـيّ بن هاشم، عن الزبرقان، عن أبـي رزين: {
+  فأْتُوهُنّ مِنْ حَيْثُ أمَرَكُمُ اللَّهُ } قال: من قُبْل الطهر، ولا تأتوهن من قبل
+  الـحيض.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن حميد، قال: ثنا يحيى بن
+  واضح، قال: ثنا عبـيد الله العتكي، عن عكرمة قوله: { فأْتُوهُنّ مِنْ حَيْثُ أمَرَكُمُ
+  اللَّهُ } يقول: إذا اغتسلن فأتوهنّ من حيث أمركم الله يقول: طواهر غير حُيَّض.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا الـحسن بن يحيى، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر،
   عن قتادة فـي قوله: { فأْتُوهُنّ مِنْ حَيْثُ أمَرَكُمُ اللَّهُ } قال: يقول طواهر
-  غير حُيَّض.حدثنـي موسى بن هارون، قال: ثنا عمرو بن حماد، قال: ثنا أسبـاط، عن السدي
-  قوله: { مِنْ حَيْثُ أمَرَكُمُ اللَّهُ } من الطهر.حدثنا ابن وكيع قال: ثنا أبـي، عن
-  سلـمة بن نبـيط، عن الضحاك: فأتوهن طُهَّرا غير حيض.حدثت عن الـحسين بن الفرج، قال:
-  سمعت أبـا معاذ، قال: ثنا عبـيد بن سلـيـمان، عن الضحاك قوله: { فأْتُوهُنّ مِنْ حَيْثُ
-  أمَرَكُمُ اللَّهُ } قال: ائتوهن طاهرات غير حيض.حدثنا عمرو بن علـيّ، قال: ثنا وكيع،
-  قال: ثنا سلـمة بن نبـيط، عن الضحاك: { فأْتُوهُنّ مِنْ حَيْثُ أمَرَكُمُ اللَّهُ }
-  قال: طُهَّرا غير حيض فـي القبل.وقال آخرون: بل معنى ذلك: فأتوا النساء من قبل النكاح
-  لا من قبل الفجور. ذكر من قال ذلك:حدثنا عمرو بن علـيّ قال: ثنا وكيع، قال: ثنا إسماعيـل
-  الأزرق، عن أبـي عمر الأسدي، عن ابن الـحنفـية: { فأْتُوهُنّ مِنْ حَيْثُ أمَرَكُمُ
-  اللَّهُ } قال: من قبل الـحلال من قبل التزويج.وأولـى الأقوال بـالصواب فـي تأويـل
-  ذلك عندي قول من قال: معنى ذلك: فأتوهن من قُبْل طهرهن وذلك أن كل أمر بـمعنى فنهي
-  عن خلافه وضده، وكذلك النهي عن الشيء أمر بضده وخلافه. فلو كان معنى قوله: { فأْتُوهُنّ
-  مِنْ حَيْثُ أمَرَكُمُ اللَّهُ فأتوهنّ } من قبل مخرج الدم الذي نهيتكم أن تأتوهن من
-  قبله فـي حال حيضهن، لوجب أن يكون قوله: { وَلا تَقْرَبُوهُنَّ حَتـى يَطْهُرْنَ }
-  تأويـله: ولا تقربوهنّ فـي مخرج الدم دون ما عدا ذلك من أماكن جسدها، فـيكون مطلقاً
-  فـي حال حيضها إتـيانهن فـي أدبـارهنّ. وفـي إجماع الـجميع علـى أن الله تعالـى ذكره
-  لـم يطلق فـي حال الـحيض من إتـيانهنّ فـي أدبـارهن شيئاً حرّمه فـي حال الطهر ولا
-  حرم من ذلك فـي حال الطهر شيئاً أحله فـي حال الـحيض، ما يعلـم به فساد هذا القول.وبعد:
+  غير حُيَّض.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي موسى بن هارون، قال: ثنا
+  عمرو بن حماد، قال: ثنا أسبـاط، عن السدي قوله: { مِنْ حَيْثُ أمَرَكُمُ اللَّهُ }
+  من الطهر.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن وكيع قال: ثنا أبـي، عن
+  سلـمة بن نبـيط، عن الضحاك: فأتوهن طُهَّرا غير حيض.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثت
+  عن الـحسين بن الفرج، قال: سمعت أبـا معاذ، قال: ثنا عبـيد بن سلـيـمان، عن الضحاك
+  قوله: { فأْتُوهُنّ مِنْ حَيْثُ أمَرَكُمُ اللَّهُ } قال: ائتوهن طاهرات غير حيض.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا عمرو بن علـيّ، قال: ثنا وكيع، قال: ثنا سلـمة بن نبـيط، عن
+  الضحاك: { فأْتُوهُنّ مِنْ حَيْثُ أمَرَكُمُ اللَّهُ } قال: طُهَّرا غير حيض فـي القبل.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال آخرون: بل معنى ذلك: فأتوا النساء من قبل النكاح لا من قبل الفجور.
+  ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا عمرو بن علـيّ قال: ثنا وكيع،
+  قال: ثنا إسماعيـل الأزرق، عن أبـي عمر الأسدي، عن ابن الـحنفـية: { فأْتُوهُنّ مِنْ
+  حَيْثُ أمَرَكُمُ اللَّهُ } قال: من قبل الـحلال من قبل التزويج.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وأولـى الأقوال بـالصواب فـي تأويـل ذلك عندي قول من قال: معنى ذلك:
+  فأتوهن من قُبْل طهرهن وذلك أن كل أمر بـمعنى فنهي عن خلافه وضده، وكذلك النهي عن الشيء
+  أمر بضده وخلافه. فلو كان معنى قوله: { فأْتُوهُنّ مِنْ حَيْثُ أمَرَكُمُ اللَّهُ فأتوهنّ
+  } من قبل مخرج الدم الذي نهيتكم أن تأتوهن من قبله فـي حال حيضهن، لوجب أن يكون قوله:
+  { وَلا تَقْرَبُوهُنَّ حَتـى يَطْهُرْنَ } تأويـله: ولا تقربوهنّ فـي مخرج الدم دون
+  ما عدا ذلك من أماكن جسدها، فـيكون مطلقاً فـي حال حيضها إتـيانهن فـي أدبـارهنّ. وفـي
+  إجماع الـجميع علـى أن الله تعالـى ذكره لـم يطلق فـي حال الـحيض من إتـيانهنّ فـي
+  أدبـارهن شيئاً حرّمه فـي حال الطهر ولا حرم من ذلك فـي حال الطهر شيئاً أحله فـي حال
+  الـحيض، ما يعلـم به فساد هذا القول.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وبعد:
   فلو كان معنى ذلك علـى ما تأوّله قائلو هذه الـمقالة لوجب أن يكون الكلام: فإذا تطهرن
   فأتوهن من حيث أمركم الله، حتـى يكون معنى الكلام حينئذ علـى التأويـل الذي تأوّله،
   ويكون ذلك أمرا بإتـيانهن فـي فروجهن، لأن الكلام الـمعروف إذا أريد ذلك أن يقال: أتـى
   فلان زوجته من قبل فرجها، ولا يقال: أتاها من فرجها إلا أن يكون أتاها من قبل فرجها
-  فـي مكان غير الفرج.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 9 10 \r\n\t\t\t\t\t\t\t\tمزيد</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَيَسْأَلُونَكَ عَنِ ٱلْمَحِيضِ قُلْ
-  هُوَ أَذًى فَٱعْتَزِلُواْ ٱلنِّسَآءَ فِي ٱلْمَحِيضِ وَلاَ تَقْرَبُوهُنَّ حَتَّىٰ
-  يَطْهُرْنَ فَإِذَا تَطَهَّرْنَ فَأْتُوهُنَّ مِنْ حَيْثُ أَمَرَكُمُ ٱللَّهُ إِنَّ
-  ٱللَّهَ يُحِبُّ ٱلتَّوَّابِينَ وَيُحِبُّ ٱلْمُتَطَهِّرِينَ }فإن قال لنا قائل: فإن
-  ذلك وإن كان كذلك، فلـيس معنى الكلام: فأتوهن فـي فروجهن، وإنـما معناه، فأتوهن من
-  قبل قبلهن فـي فروجهن، كما يقال: أتـيت هذا الأمر من مأتاه. قـيـل له: إن كان ذلك كذلك،
-  فلا شك أن مأتـى الأمر ووجهه غيره، وأن ذلك مطلبه. فإن كان ذلك علـى ما زعمتـم، فقد
-  يجب أن يكون معنى قوله: { فأْتُوهُنّ مِنْ حَيْثُ أمَرَكُمُ اللَّهُ } غير الذي زعمتـم
-  أنه معناه بقولكم: ائتوهن من قبل مخرج الدم ومن حيث أمرتـم بـاعتزالهن، ولكن الواجب
-  أن يكون تأويـله علـى ذلك: فأتوهنّ من قبل وجوههنّ فـي أقبـالهن، كما كان قول القائل
-  ائت الأمر من مأتاه إنـما معناه: اطلبه من مطلبه، ومطلب الأمر غير الأمر الـمطلوب،
-  فكذلك يجب أن مأتـى الفرج الذي أمر الله فـي قولهم بإتـيانه غير الفرج. وإذا كان كذلك
-  وكان معنى الكلام عندهم: فأتوهن من قبل وجوههنّ فـي فروجهنّ، وجب أن يكون علـى قولهم
-  مـحرّما إتـيانهنّ فـي فروجهن من قبل أدبـارهن، وذلك إن قالوه خرج من قاله من قـيـل
-  أهل الإسلام، وخالف نصّ كتاب الله تعالـى ذكره وقول رسول الله صلى الله عليه وسلم.
-  وذلك أن الله يقول: { نِسَاؤُكُمْ حَرْثٌ لَكُمْ فأْتُوا حَرْثَكُمْ أنّى شِئْتُـمْ
-  } وأذن رسول الله صلى الله عليه وسلم فـي إتـيانهن فـي فروجهن من قبل أدبـارهن.فقد
-  تبـين إذا إذ كان الأمر علـى ما وصفنا فساد تأويـل من قال ذلك: فأتوهنّ فـي فروجهنّ
-  حيث نهيتكم عن إتـيانهن فـي حال حيضهن، وصحة القول الذي قلناه، وهو أن معناه: فأتوهن
-  فـي فروجهن من الوجه الذي أذن الله لكم بإتـيانهن، وذلك حال طهرهن وتطهرهن دون حال
-  حيضهن.القول فـي تأويـل قوله تعالـى: { إنَّ اللَّهَ يُحِبُّ التَّوابِـينَ ويُحِبُّ
-  الـمُتَطَهِّرِينَ }.يعنـي تعالـى ذكره بقوله: { إنَّ اللَّهَ يُحِبُّ التَّوابِـينَ
-  } الـمنـيبـين من الإدبـار عن الله وعن طاعته إلـيه وإلـى طاعته وقد بـينا معنى التوبة
-  قبل.واختلف فـي معنى قوله: { ويُحِبُّ الـمُتَطَهِّرِينَ } فقال بعضهم: هم الـمتطهرون
-  بـالـماء. ذكر من قال ذلك:حدثنا ابن حميد، قال: ثنا يحيى بن واضح، قال: ثنا طلـحة،
-  عن عطاء قوله: { إنَّ اللَّهَ يُحِبُّ التَّوابِـينَ } قال: التوابـين من الذنوب، {
-  ويُحِبُّ الـمُتَطَهِّرِين } قال: الـمتطهرين بـالـماء للصلاة.حدثنـي أحمد بن حازم،
-  قال: ثنا أبو نعيـم، قال: ثنا طلـحة، عن عطاء، مثله.حدثنا أبو كريب، قال: حدثنا وكيع،
-  عن طلـحة بن عمرو، عن عطاء: { إنَّ اللَّهَ يُحِبُّ التَّوابِـينَ } من الذنوب لـم
-  يصيبوها { ويُحِبُّ الـمُتَطَهِّرِينَ } بـالـماء للصلاة.وقال آخرون: معنى ذلك إن الله
-  يحب التوابـين من الذنوب، ويحب الـمتطهرين من أدبـار النساء أن يأتوها. ذكر من قال
-  ذلك:حدثنا أحمد بن حازم، قال: ثنا أبو نعيـم، قال: ثنا إبراهيـم بن نافع، قال: سمعت
-  سلـيـمان مولـى أم علـي، قال: سمعت مـجاهداً يقول: من أتـى امرأته فـي دبرها فلـيس
-  من الـمتطهرين.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 9 10 \r\n\t\t\t\t\t\t\t\tمزيد</section>"
+  فـي مكان غير الفرج.</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,8,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,10,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,8,1)\"><u>8</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">9 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(1,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2,
+  222)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,222)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَيَسْأَلُونَكَ عَنِ ٱلْمَحِيضِ قُلْ هُوَ أَذًى
+  فَٱعْتَزِلُواْ ٱلنِّسَآءَ فِي ٱلْمَحِيضِ وَلاَ تَقْرَبُوهُنَّ حَتَّىٰ يَطْهُرْنَ
+  فَإِذَا تَطَهَّرْنَ فَأْتُوهُنَّ مِنْ حَيْثُ أَمَرَكُمُ ٱللَّهُ إِنَّ ٱللَّهَ يُحِبُّ
+  ٱلتَّوَّابِينَ وَيُحِبُّ ٱلْمُتَطَهِّرِينَ</a> <b>}</b></font>, <br/>, <br/>, <div
+  align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">فإن
+  قال لنا قائل: فإن ذلك وإن كان كذلك، فلـيس معنى الكلام: فأتوهن فـي فروجهن، وإنـما
+  معناه، فأتوهن من قبل قبلهن فـي فروجهن، كما يقال: أتـيت هذا الأمر من مأتاه. قـيـل
+  له: إن كان ذلك كذلك، فلا شك أن مأتـى الأمر ووجهه غيره، وأن ذلك مطلبه. فإن كان ذلك
+  علـى ما زعمتـم، فقد يجب أن يكون معنى قوله: { فأْتُوهُنّ مِنْ حَيْثُ أمَرَكُمُ اللَّهُ
+  } غير الذي زعمتـم أنه معناه بقولكم: ائتوهن من قبل مخرج الدم ومن حيث أمرتـم بـاعتزالهن،
+  ولكن الواجب أن يكون تأويـله علـى ذلك: فأتوهنّ من قبل وجوههنّ فـي أقبـالهن، كما كان
+  قول القائل ائت الأمر من مأتاه إنـما معناه: اطلبه من مطلبه، ومطلب الأمر غير الأمر
+  الـمطلوب، فكذلك يجب أن مأتـى الفرج الذي أمر الله فـي قولهم بإتـيانه غير الفرج. وإذا
+  كان كذلك وكان معنى الكلام عندهم: فأتوهن من قبل وجوههنّ فـي فروجهنّ، وجب أن يكون
+  علـى قولهم مـحرّما إتـيانهنّ فـي فروجهن من قبل أدبـارهن، وذلك إن قالوه خرج من قاله
+  من قـيـل أهل الإسلام، وخالف نصّ كتاب الله تعالـى ذكره وقول رسول الله صلى الله عليه
+  وسلم. وذلك أن الله يقول: { نِسَاؤُكُمْ حَرْثٌ لَكُمْ فأْتُوا حَرْثَكُمْ أنّى شِئْتُـمْ
+  } وأذن رسول الله صلى الله عليه وسلم فـي إتـيانهن فـي فروجهن من قبل أدبـارهن.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">فقد تبـين إذا إذ كان الأمر علـى ما وصفنا فساد تأويـل من قال ذلك:
+  فأتوهنّ فـي فروجهنّ حيث نهيتكم عن إتـيانهن فـي حال حيضهن، وصحة القول الذي قلناه،
+  وهو أن معناه: فأتوهن فـي فروجهن من الوجه الذي أذن الله لكم بإتـيانهن، وذلك حال طهرهن
+  وتطهرهن دون حال حيضهن.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">القول فـي تأويـل قوله تعالـى: {
+  إنَّ اللَّهَ يُحِبُّ التَّوابِـينَ ويُحِبُّ الـمُتَطَهِّرِينَ }.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">يعنـي تعالـى ذكره بقوله: { إنَّ اللَّهَ يُحِبُّ التَّوابِـينَ }
+  الـمنـيبـين من الإدبـار عن الله وعن طاعته إلـيه وإلـى طاعته وقد بـينا معنى التوبة
+  قبل.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">واختلف فـي معنى قوله: { ويُحِبُّ
+  الـمُتَطَهِّرِينَ } فقال بعضهم: هم الـمتطهرون بـالـماء. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن حميد، قال: ثنا يحيى بن واضح، قال: ثنا طلـحة، عن عطاء قوله:
+  { إنَّ اللَّهَ يُحِبُّ التَّوابِـينَ } قال: التوابـين من الذنوب، { ويُحِبُّ الـمُتَطَهِّرِين
+  } قال: الـمتطهرين بـالـماء للصلاة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  أحمد بن حازم، قال: ثنا أبو نعيـم، قال: ثنا طلـحة، عن عطاء، مثله.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا أبو كريب، قال: حدثنا وكيع، عن طلـحة بن عمرو، عن عطاء: { إنَّ
+  اللَّهَ يُحِبُّ التَّوابِـينَ } من الذنوب لـم يصيبوها { ويُحِبُّ الـمُتَطَهِّرِينَ
+  } بـالـماء للصلاة.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال آخرون: معنى ذلك إن الله يحب
+  التوابـين من الذنوب، ويحب الـمتطهرين من أدبـار النساء أن يأتوها. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا أحمد بن حازم، قال: ثنا أبو نعيـم، قال: ثنا إبراهيـم بن نافع،
+  قال: سمعت سلـيـمان مولـى أم علـي، قال: سمعت مـجاهداً يقول: من أتـى امرأته فـي دبرها
+  فلـيس من الـمتطهرين.</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,9,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,11,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,8,1)\"><u>8</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,9,1)\"><u>9</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">10 </font></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(1,11,1)\">مزيد</a></td></tr></table></center></div></section>"
 

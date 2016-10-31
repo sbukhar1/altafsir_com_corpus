@@ -1,4 +1,4 @@
-location:
+position:
   sura: 009
   aaya: '067'
   madhab: '01'
@@ -10,29 +10,63 @@ meta:
 aaya: الْمُنَافِقُونَ وَالْمُنَافِقَاتُ بَعْضُهُمْ مِنْ بَعْضٍ ۚ يَأْمُرُونَ بِالْمُنْكَرِ
   وَيَنْهَوْنَ عَنِ الْمَعْرُوفِ وَيَقْبِضُونَ أَيْدِيَهُمْ ۚ نَسُوا اللَّهَ فَنَسِيَهُمْ
   ۗ إِنَّ الْمُنَافِقِينَ هُمُ الْفَاسِقُونَ
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ ٱلْمُنَافِقُونَ
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(9, 67)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(9,67)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">ٱلْمُنَافِقُونَ
   وَٱلْمُنَافِقَاتُ بَعْضُهُمْ مِّن بَعْضٍ يَأْمُرُونَ بِٱلْمُنكَرِ وَيَنْهَوْنَ عَنِ
   ٱلْمَعْرُوفِ وَيَقْبِضُونَ أَيْدِيَهُمْ نَسُواْ ٱللَّهَ فَنَسِيَهُمْ إِنَّ ٱلْمُنَافِقِينَ
-  هُمُ الْفَاسِقُونَ }يقول تعالى ذكره: { المُنافِقُونَ وَالمُنافِقاتُ } وهم الذين
-  يظهرون للمؤمنين الإيمان بألسنتهم ويسرّون الكفر بالله ورسوله { بَعْضُهُمْ مِنْ بَعْضٍ
-  } يقول: هم صنف واحد، وأمرهم واحد، في إعلانهم الإيمان واستبطانهم الكفر، يأمرون من
-  قبل منهم بالمنكر، وهو الكفر بالله وبمحمد صلى الله عليه وسلم، وبما جاء به وتكذيبه.
-  { ويَنْهَوْنَ عَنِ المَعْرُوفِ } يقول: وينهونهم عن الإيمان بالله ورسوله وبما جاءهم
-  به من عند الله.وقوله: { وَيَقْبِضُونَ أيْديهُمْ } يقول: ويمسكون أيديهم عن النفقة
-  في سبيل الله ويكّفونها عن الصدقة، فيمنعون الذين فرض الله لهم في أموالهم ما فرض من
-  الزكاة حقوقهم. كما:حدثنا محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، عن ابن
-  أبي نجيح، عن مجاهد في قوله: { وَيَقْبِضُونَ أيْدِيَهُمْ } قال: لا يبسطونها بنفقة
-  في حقّ.حدثنا المثنى، قال: ثنا أبو حذيفة، قال: ثنا شبل، عن ابن أبي نجيح، عن مجاهد،
-  مثله.حدثني المثنى، قال: ثنا إسحاق، قال: ثنا عبد الله، عن ورقاء، عن ابن أبي نجيح،
-  عن مجاهد مثله.حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن ابن جريج، عن مجاهد،
-  نحوه.حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: { وَيَقْبِضُونَ أيْدِيَهُمْ
-  }: لا يبسطونها بخير.حدثنا محمد بن عبد الأعلى، قال: ثنا محمد بن ثور، عن معمر، عن
-  قتادة: { وَيَقْبِضُونَ أيْدِيَهُمْ } قال: يقبضون أيديهم عن كلّ خير.وأما قوله: {
-  نَسُوا اللَّهَ فَنَسِيَهُمْ } فإن معناه: تركوا الله أن يطيعوه ويتبعوا أمره، فتركهم
-  الله من توفيقه وهدايته ورحمته.وقد دللنا فيما مضى على أن معنى النسيان الترك بشواهده،
-  فأغنى ذلك عن إعادته ههنا.وكان قتادة يقول في ذلك ما:حدثنا بشر، قال: ثنا يزيد، قال:
-  ثنا سعيد، عن قتادة، قوله: { نَسُوا اللَّهَ فَنَسِيَهُمْ } نُسُوا من الخير، ولم ينسوا
-  من الشرّ.قوله: { إنَّ المُنافِقِينَ هُمُ الفاسِقُونَ } يقول: إن الذين يخادعون المؤمنين
-  بإظهارهم لهم بألسنتهم الإيمان بالله، وهم للكفر مستبطنون، هم المفارقون طاعة الله
-  الخارجون عن الإيمان به وبرسوله.\r\n\t\t\t\r\n\t\t\t</section>"
+  هُمُ الْفَاسِقُونَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">يقول تعالى ذكره: { المُنافِقُونَ
+  وَالمُنافِقاتُ } وهم الذين يظهرون للمؤمنين الإيمان بألسنتهم ويسرّون الكفر بالله
+  ورسوله { بَعْضُهُمْ مِنْ بَعْضٍ } يقول: هم صنف واحد، وأمرهم واحد، في إعلانهم الإيمان
+  واستبطانهم الكفر، يأمرون من قبل منهم بالمنكر، وهو الكفر بالله وبمحمد صلى الله عليه
+  وسلم، وبما جاء به وتكذيبه. { ويَنْهَوْنَ عَنِ المَعْرُوفِ } يقول: وينهونهم عن الإيمان
+  بالله ورسوله وبما جاءهم به من عند الله.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقوله:
+  { وَيَقْبِضُونَ أيْديهُمْ } يقول: ويمسكون أيديهم عن النفقة في سبيل الله ويكّفونها
+  عن الصدقة، فيمنعون الذين فرض الله لهم في أموالهم ما فرض من الزكاة حقوقهم. كما:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، عن ابن أبي
+  نجيح، عن مجاهد في قوله: { وَيَقْبِضُونَ أيْدِيَهُمْ } قال: لا يبسطونها بنفقة في
+  حقّ.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا المثنى، قال: ثنا أبو حذيفة،
+  قال: ثنا شبل، عن ابن أبي نجيح، عن مجاهد، مثله.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  المثنى، قال: ثنا إسحاق، قال: ثنا عبد الله، عن ورقاء، عن ابن أبي نجيح، عن مجاهد مثله.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن ابن جريج، عن مجاهد،
+  نحوه.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا بشر، قال: ثنا يزيد، قال:
+  ثنا سعيد، عن قتادة، قوله: { وَيَقْبِضُونَ أيْدِيَهُمْ }: لا يبسطونها بخير.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا محمد بن عبد الأعلى، قال: ثنا محمد بن ثور، عن معمر، عن قتادة:
+  { وَيَقْبِضُونَ أيْدِيَهُمْ } قال: يقبضون أيديهم عن كلّ خير.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وأما قوله: { نَسُوا اللَّهَ فَنَسِيَهُمْ } فإن معناه: تركوا الله
+  أن يطيعوه ويتبعوا أمره، فتركهم الله من توفيقه وهدايته ورحمته.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقد دللنا فيما مضى على أن معنى النسيان الترك بشواهده، فأغنى ذلك
+  عن إعادته ههنا.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وكان قتادة يقول في ذلك ما:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: { نَسُوا
+  اللَّهَ فَنَسِيَهُمْ } نُسُوا من الخير، ولم ينسوا من الشرّ.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قوله:
+  { إنَّ المُنافِقِينَ هُمُ الفاسِقُونَ } يقول: إن الذين يخادعون المؤمنين بإظهارهم
+  لهم بألسنتهم الإيمان بالله، وهم للكفر مستبطنون، هم المفارقون طاعة الله الخارجون
+  عن الإيمان به وبرسوله.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

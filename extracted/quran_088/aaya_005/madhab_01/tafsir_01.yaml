@@ -1,4 +1,4 @@
-location:
+position:
   sura: 088
   aaya: '005'
   madhab: '01'
@@ -7,91 +7,245 @@ meta:
   title: تفسير جامع البيان في تفسير القرآن
   author: الطبري
   year: '310'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ هَلْ أَتَاكَ حَدِيثُ
-  ٱلْغَاشِيَةِ } * { وُجُوهٌ يَوْمَئِذٍ خَاشِعَةٌ } * { عَامِلَةٌ نَّاصِبَةٌ } * {
-  تَصْلَىٰ نَاراً حَامِيَةً } * { تُسْقَىٰ مِنْ عَيْنٍ آنِيَةٍ } * { لَّيْسَ لَهُمْ
-  طَعَامٌ إِلاَّ مِن ضَرِيعٍ } * { لاَّ يُسْمِنُ وَلاَ يُغْنِي مِن جُوعٍ }يقول تعالى
-  ذكره لنبيه محمد صلى الله عليه وسلم: { هَلْ أتاكَ } يا محمد { حَدِيثُ الْغاشِيَةُ
-  } يعني: قصتها وخبرها. واختلف أهل التأويل في معنى الغاشية، فقال بعضهم: هي القيامة
-  تغشى الناس بالأهوال. ذكر من قال ذلك:حدثني عليّ، قال: ثنا أبو صالح، قال: ثني معاوية،
-  عن عليّ، عن ابن عباس { الْغاشِيَةُ } من أسماء يوم القيامة، عظَّمه الله، وحذّره عباده.حدثنا
-  بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: { هَلْ أتاكَ حَدِيثُ الْغاشِيَةِ
-  } قال: الغاشية: الساعة.حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي،
-  عن أبيه، عن ابن عباس، في قوله: { هَلْ أتاكَ حَدِيثُ الْغاشِيَةِ } قال: الساعة.وقال
-  آخرون: بل الغاشية: النار تغشَى وجوه الكَفَرة. ذكر من قال ذلك:حدثنا أبو كُرَيب، قال:
-  ثنا ابن يمان، عن أشعث، عن سعيد، في قوله: { هَلْ أتاكَ حَدِيثُ الْغاشِيَةِ } قال:
-  غاشية النار.... والصواب من القول في ذلك: أن يقال: إن الله قال لنبيه صلى الله عليه
-  وسلم: { هَلْ أتاكَ حَدِيثُ الْغاشِيَةِ } ولم يخبرنا أنه عنى غاشية القيامة، ولاأنه
-  عنى غاشية النار، وكلتاهما غاشية، هذه تغشى الناس بالبلاء والأهوال والكروب، وهذه تغشى
-  الكفار باللفْح في الوجوه، والشُّواظ والنُّحاس، فلا قول في ذلك أصحّ من أن يقال كما
-  قال جلّ ثناؤه، ويعمّ الخبر بذلك كما عمه.وقوله: { وُجُوهٌ يَوْمَئِذٍ خاشِعَةٌ } يقول
-  تعالى ذكره: وجوه يومئذٍ، وهي وجوه أهل الكفر به. خاشعة: يقول: ذليلة. ذكر من قال ذلك:حدثنا
-  بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة { وُجُوهٌ يَوْمَئِذٍ خاشِعَةٌ }: أي
-  ذليلة.حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة، في قوله: { خاشِعَةٌ
-  } قال: خاشعة في النار.وقوله: { عامِلةٌ } يعني: عاملة في النار. وقوله: { ناصِبَةٌ
-  } يقول: ناصبة فيها. وبنحو الذي قلنا في ذلك قال أهل التأويل. ذكر من قال ذلك:حدثني
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(88, 1)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(88,1)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">هَلْ
+  أَتَاكَ حَدِيثُ ٱلْغَاشِيَةِ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">وُجُوهٌ يَوْمَئِذٍ خَاشِعَةٌ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">عَامِلَةٌ
+  نَّاصِبَةٌ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">تَصْلَىٰ نَاراً حَامِيَةً</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">تُسْقَىٰ
+  مِنْ عَيْنٍ آنِيَةٍ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">لَّيْسَ لَهُمْ طَعَامٌ إِلاَّ مِن ضَرِيعٍ</a>
+  <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">لاَّ
+  يُسْمِنُ وَلاَ يُغْنِي مِن جُوعٍ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\"
+  dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">يقول تعالى ذكره
+  لنبيه محمد صلى الله عليه وسلم: { هَلْ أتاكَ } يا محمد { حَدِيثُ الْغاشِيَةُ } يعني:
+  قصتها وخبرها. واختلف أهل التأويل في معنى الغاشية، فقال بعضهم: هي القيامة تغشى الناس
+  بالأهوال. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثني عليّ، قال: ثنا أبو صالح،
+  قال: ثني معاوية، عن عليّ، عن ابن عباس { الْغاشِيَةُ } من أسماء يوم القيامة، عظَّمه
+  الله، وحذّره عباده.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا بشر، قال: ثنا يزيد، قال:
+  ثنا سعيد، عن قتادة، قوله: { هَلْ أتاكَ حَدِيثُ الْغاشِيَةِ } قال: الغاشية: الساعة.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن
+  أبيه، عن ابن عباس، في قوله: { هَلْ أتاكَ حَدِيثُ الْغاشِيَةِ } قال: الساعة.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال آخرون: بل الغاشية: النار تغشَى وجوه الكَفَرة. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا أبو كُرَيب، قال: ثنا ابن يمان، عن أشعث، عن سعيد، في قوله:
+  { هَلْ أتاكَ حَدِيثُ الْغاشِيَةِ } قال: غاشية النار.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">...
+  والصواب من القول في ذلك: أن يقال: إن الله قال لنبيه صلى الله عليه وسلم: { هَلْ أتاكَ
+  حَدِيثُ الْغاشِيَةِ } ولم يخبرنا أنه عنى غاشية القيامة، ولاأنه عنى غاشية النار،
+  وكلتاهما غاشية، هذه تغشى الناس بالبلاء والأهوال والكروب، وهذه تغشى الكفار باللفْح
+  في الوجوه، والشُّواظ والنُّحاس، فلا قول في ذلك أصحّ من أن يقال كما قال جلّ ثناؤه،
+  ويعمّ الخبر بذلك كما عمه.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقوله: { وُجُوهٌ يَوْمَئِذٍ خاشِعَةٌ
+  } يقول تعالى ذكره: وجوه يومئذٍ، وهي وجوه أهل الكفر به. خاشعة: يقول: ذليلة. ذكر من
+  قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا بشر، قال: ثنا يزيد، قال:
+  ثنا سعيد، عن قتادة { وُجُوهٌ يَوْمَئِذٍ خاشِعَةٌ }: أي ذليلة.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة، في قوله:
+  { خاشِعَةٌ } قال: خاشعة في النار.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقوله:
+  { عامِلةٌ } يعني: عاملة في النار. وقوله: { ناصِبَةٌ } يقول: ناصبة فيها. وبنحو الذي
+  قلنا في ذلك قال أهل التأويل. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
   محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس { عامِلَةٌ
-  ناصِبَةٌ } فإنها تعمل وتَنصَب في النار.حدثني يعقوب، قال: ثنا ابن علية، عن أبي رجاء،
-  قال: سمعت الحسن، قرأ: { عامِلَةٌ ناصِبَةٌ } قال: لم تعمل لله في الدنيا، فأعملها
-  في النار.حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة { عامِلَةٌ ناصِبَةٌ }
-  تَكَبَّرت في الدنيا عن طاعة الله، فأعملها وأنصبها في النار.حدثنا ابن عبد الأعلى،
-  قال: ثنا ابن ثور، عن معمر، عن قتادة، في قوله: { عامِلَةٌ ناصِبَةٌ } قال: عاملة ناصبة
-  في النار.حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله: { عامِلَةٌ
-  ناصِبَةٌ } قال: لا أحد أنصَبُ ولا أشدّ من أهل النار.\r\n\t\t\t\r\n\t\t\t1 2 3 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ هَلْ أَتَاكَ حَدِيثُ ٱلْغَاشِيَةِ
-  } * { وُجُوهٌ يَوْمَئِذٍ خَاشِعَةٌ } * { عَامِلَةٌ نَّاصِبَةٌ } * { تَصْلَىٰ نَاراً
-  حَامِيَةً } * { تُسْقَىٰ مِنْ عَيْنٍ آنِيَةٍ } * { لَّيْسَ لَهُمْ طَعَامٌ إِلاَّ
-  مِن ضَرِيعٍ } * { لاَّ يُسْمِنُ وَلاَ يُغْنِي مِن جُوعٍ }وقوله: { تَصْلَى ناراً
-  حامِيَةً } يقول تعالى ذكره: ترد هذه الوجوه ناراً حامية قد حَمِيت واشتدّ حرّها.واختلفت
-  القرّاء في قراءة ذلك، فقرأته عامة قرّاء الكوفة { تَصْلَى } بفتح التاء، بمعنى: تَصْلَى
-  الوجوه. وقرأ ذلك أبو عمرو: «تُصْلَى» بضم التاء اعتباراً بقوله: { تُسْقَى مِنْ عَينٍ
-  آنِيَةٍ } ، والقول في ذلك أنهما قراءتان صحيحتا المعنى، فبأيتهما قرأ القارىء فمصيب.وقوله:
+  ناصِبَةٌ } فإنها تعمل وتَنصَب في النار.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  يعقوب، قال: ثنا ابن علية، عن أبي رجاء، قال: سمعت الحسن، قرأ: { عامِلَةٌ ناصِبَةٌ
+  } قال: لم تعمل لله في الدنيا، فأعملها في النار.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة { عامِلَةٌ ناصِبَةٌ } تَكَبَّرت في الدنيا
+  عن طاعة الله، فأعملها وأنصبها في النار.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة، في قوله: { عامِلَةٌ ناصِبَةٌ
+  } قال: عاملة ناصبة في النار.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله: { عامِلَةٌ ناصِبَةٌ } قال:
+  لا أحد أنصَبُ ولا أشدّ من أهل النار.</font></font>&#13;\t\t\t<label disabled=\"true\"
+  class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(88, 1)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(88,1)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">هَلْ أَتَاكَ حَدِيثُ ٱلْغَاشِيَةِ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وُجُوهٌ
+  يَوْمَئِذٍ خَاشِعَةٌ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">عَامِلَةٌ نَّاصِبَةٌ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">تَصْلَىٰ
+  نَاراً حَامِيَةً</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">تُسْقَىٰ مِنْ عَيْنٍ آنِيَةٍ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">لَّيْسَ
+  لَهُمْ طَعَامٌ إِلاَّ مِن ضَرِيعٍ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">لاَّ يُسْمِنُ وَلاَ
+  يُغْنِي مِن جُوعٍ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">وقوله: { تَصْلَى ناراً حامِيَةً
+  } يقول تعالى ذكره: ترد هذه الوجوه ناراً حامية قد حَمِيت واشتدّ حرّها.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">واختلفت القرّاء في قراءة ذلك، فقرأته عامة قرّاء الكوفة { تَصْلَى
+  } بفتح التاء، بمعنى: تَصْلَى الوجوه. وقرأ ذلك أبو عمرو: «تُصْلَى» بضم التاء اعتباراً
+  بقوله: { تُسْقَى مِنْ عَينٍ آنِيَةٍ } ، والقول في ذلك أنهما قراءتان صحيحتا المعنى،
+  فبأيتهما قرأ القارىء فمصيب.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقوله:
   { تُسْقَى مِنْ عَينٍ آنِيَةٍ } يقول: تُسْقَى أصحاب هذه الوجوه من شَراب عين قد أَنَى
   حرّها، فبلغ غايته في شدّة الحرّ. وبنحو الذي قلنا في ذلك قال أهل التأويل. ذكر من
-  قال ذلك:حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن
-  ابن عباس، قوله: { تُسْقَى مِنْ عَينٍ آنِيَةٍ } قال: هي التي قد أطال أَنْيَها.حدثني
+  قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثني محمد بن سعد، قال: ثني أبي،
+  قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس، قوله: { تُسْقَى مِنْ عَينٍ آنِيَةٍ
+  } قال: هي التي قد أطال أَنْيَها.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
   يعقوب، قال: ثنا ابن عُلَية، عن أبي رجاء، عن الحسن، في قوله: { تُسْقَى مِنْ عَينٍ
-  آنِيَةٍ } قال: أنىَ طبخها منذ يوم خلق الله الدنيا.حدثني به يعقوب مرّة أخرى، فقال:
-  منذ يوم خلق الله السموات والأرض.حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا
-  عيسى وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، جميعاً عن ابن أبي نجيح، عن مجاهد
-  في قول الله: { مِنْ عَينٍ آنِيَةٍ } قال: قد بلغت إناها، وحان شربها.حدثنا بشر، قال:
-  ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: { تُسْقَى مِنْ عَينٍ آنِيَةٍ } يقول: قد
-  أَنَى طبخها منذ خلق الله السموات والأرض.حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور،
-  عن معمر، عن الحسن، في قوله: { مِنْ عَينٍ آنِيَةٍ } قال: من عين أَنَى حرّها: يقول:
-  قد بلغ حرّها.وقال بعضهم: عُنِي بقوله: { مِنْ عَينٍ آنِيَةٍ } من عين حاضرة. ذكر من
-  قال ذلك:حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله: { تُسْقَى مِنْ
-  عَينٍ آنِيَةٍ } قال: آنية: حاضرة.وقوله: { لَيْسَ لَهُمْ طَعامٌ إلاَّ مِنْ ضَرِيعٍ
-  } يقول: ليس لهؤلاء الذين هم أصحاب الخاشعة العاملة الناصبة يوم القيامة، طعام إلا
-  ما يطعمونه من ضرِيع. والضريع عند العرب: نبت يُقال له الشِّبْرِق، وتسميه أهل الحجاز
-  الضَّرِيع إذا يبس، ويسميه غيرهم: الشِّبْرق، وهو سمّ. وبنحو الذي قلنا في ذلك قال
-  أهل التأويل. ذكر من قال ذلك:حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال:
-  ثني أبي، عن أبيه، عن ابن عباس { لَيْسَ لَهُمْ طَعامٌ إلاَّ مِنْ ضَرِيعٍ } قال: الضريع:
-  الشِّبْرق.حدثني محمد بن عُبيدة المحاربيّ، قال: ثنا عباد بن يعقوب الأسديّ، قال محمد:
-  ثنا، وقال عباد: أخبرنا محمد بن سليمان، عن عبد الرحمن الأصبهانيّ، عن عكرِمة في قوله:
-  { لَيْسَ لَهُمْ طَعامٌ إلاَّ مِنْ ضَرِيعٍ } قال: الشِّبرق.حدثني يعقوب، قال: ثنا
-  إسماعيل بن عُلَية، عن أبي رجاء، قال: ثني نجدة، رجل من عبد القيس عن عكرِمة، في قوله:
-  { لَيْسَ لَهُمْ طَعامٌ إلاَّ مِنْ ضَرِيعٍ } قال: هي شجرة ذات شوك، لاطئة بالأرض،
-  فإذا كان الربيع سمَّتها قريش الشِّبرق، فإذا هاج العود سمتها الضِّرِيع.\r\n\t\t\t\r\n\t\t\t1 2 3 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ هَلْ أَتَاكَ حَدِيثُ ٱلْغَاشِيَةِ
-  } * { وُجُوهٌ يَوْمَئِذٍ خَاشِعَةٌ } * { عَامِلَةٌ نَّاصِبَةٌ } * { تَصْلَىٰ نَاراً
-  حَامِيَةً } * { تُسْقَىٰ مِنْ عَيْنٍ آنِيَةٍ } * { لَّيْسَ لَهُمْ طَعَامٌ إِلاَّ
-  مِن ضَرِيعٍ } * { لاَّ يُسْمِنُ وَلاَ يُغْنِي مِن جُوعٍ }حدثنا ابن بشار، قال: ثنا
-  عبد الرحمن، قال: ثنا سفيان، عن ليث، عن مجاهد { لَيْسَ لَهُمْ طَعامٌ إلاَّ مِنْ ضَرِيعٍ
-  } قال: الشبرق.حدثنا ابن حُميد، قال: ثنا مِهران، عن سفيان، عن ليث، عن مجاهد، مثله.حدثني
+  آنِيَةٍ } قال: أنىَ طبخها منذ يوم خلق الله الدنيا.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  به يعقوب مرّة أخرى، فقال: منذ يوم خلق الله السموات والأرض.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
   محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى وحدثني الحارث، قال: ثنا الحسن، قال:
-  ثنا ورقاء، جميعاً عن ابن أبي نجيح، عن مجاهد، قوله: { ضَرِيع } قال: الشِّبرق اليابس.حدثنا
-  ابن عبد الأعلى، قال: ثنا ابن ثور، عن مَعْمر، عن قتادة { إلاَّ مِنْ ضَرِيعٍ } قال:
-  هو الشبرق إذا يبس يسمى الضريع.حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة،
-  قوله: { لَيْسَ لَهُمْ طَعامٌ إلاَّ مِنْ ضَرِيعِ } يقول: من شرّ الطعام، وأبشعه وأخبثه.حدثني
+  ثنا ورقاء، جميعاً عن ابن أبي نجيح، عن مجاهد في قول الله: { مِنْ عَينٍ آنِيَةٍ }
+  قال: قد بلغت إناها، وحان شربها.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: { تُسْقَى مِنْ عَينٍ آنِيَةٍ
+  } يقول: قد أَنَى طبخها منذ خلق الله السموات والأرض.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن الحسن، في قوله: { مِنْ عَينٍ آنِيَةٍ
+  } قال: من عين أَنَى حرّها: يقول: قد بلغ حرّها.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  بعضهم: عُنِي بقوله: { مِنْ عَينٍ آنِيَةٍ } من عين حاضرة. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله: { تُسْقَى
+  مِنْ عَينٍ آنِيَةٍ } قال: آنية: حاضرة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقوله:
+  { لَيْسَ لَهُمْ طَعامٌ إلاَّ مِنْ ضَرِيعٍ } يقول: ليس لهؤلاء الذين هم أصحاب الخاشعة
+  العاملة الناصبة يوم القيامة، طعام إلا ما يطعمونه من ضرِيع. والضريع عند العرب: نبت
+  يُقال له الشِّبْرِق، وتسميه أهل الحجاز الضَّرِيع إذا يبس، ويسميه غيرهم: الشِّبْرق،
+  وهو سمّ. وبنحو الذي قلنا في ذلك قال أهل التأويل. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن
+  أبيه، عن ابن عباس { لَيْسَ لَهُمْ طَعامٌ إلاَّ مِنْ ضَرِيعٍ } قال: الضريع: الشِّبْرق.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني محمد بن عُبيدة المحاربيّ، قال: ثنا عباد بن يعقوب الأسديّ،
+  قال محمد: ثنا، وقال عباد: أخبرنا محمد بن سليمان، عن عبد الرحمن الأصبهانيّ، عن عكرِمة
+  في قوله: { لَيْسَ لَهُمْ طَعامٌ إلاَّ مِنْ ضَرِيعٍ } قال: الشِّبرق.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني يعقوب، قال: ثنا إسماعيل بن عُلَية، عن أبي رجاء، قال: ثني نجدة،
+  رجل من عبد القيس عن عكرِمة، في قوله: { لَيْسَ لَهُمْ طَعامٌ إلاَّ مِنْ ضَرِيعٍ }
+  قال: هي شجرة ذات شوك، لاطئة بالأرض، فإذا كان الربيع سمَّتها قريش الشِّبرق، فإذا
+  هاج العود سمتها الضِّرِيع.</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(88, 1)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(88,1)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">هَلْ أَتَاكَ حَدِيثُ ٱلْغَاشِيَةِ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وُجُوهٌ
+  يَوْمَئِذٍ خَاشِعَةٌ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">عَامِلَةٌ نَّاصِبَةٌ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">تَصْلَىٰ
+  نَاراً حَامِيَةً</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">تُسْقَىٰ مِنْ عَيْنٍ آنِيَةٍ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">لَّيْسَ
+  لَهُمْ طَعَامٌ إِلاَّ مِن ضَرِيعٍ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">لاَّ يُسْمِنُ وَلاَ
+  يُغْنِي مِن جُوعٍ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن بشار، قال: ثنا عبد الرحمن،
+  قال: ثنا سفيان، عن ليث، عن مجاهد { لَيْسَ لَهُمْ طَعامٌ إلاَّ مِنْ ضَرِيعٍ } قال:
+  الشبرق.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن حُميد، قال: ثنا مِهران،
+  عن سفيان، عن ليث، عن مجاهد، مثله.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى وحدثني الحارث، قال: ثنا الحسن، قال:
+  ثنا ورقاء، جميعاً عن ابن أبي نجيح، عن مجاهد، قوله: { ضَرِيع } قال: الشِّبرق اليابس.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن مَعْمر، عن قتادة { إلاَّ
+  مِنْ ضَرِيعٍ } قال: هو الشبرق إذا يبس يسمى الضريع.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: { لَيْسَ لَهُمْ طَعامٌ إلاَّ
+  مِنْ ضَرِيعِ } يقول: من شرّ الطعام، وأبشعه وأخبثه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
   محمد بن عبيد، قال: ثنا شريك بن عبد الله، في قوله: { لَيْسَ لَهُمْ طَعامٌ إلاَّ مِنْ
-  ضرِيعٍ } قال: الشِّبرق.وقال آخرون: الضَّرِيع: الحجارة. ذكر من قال ذلك:حدثنا أبو
-  كُرَيب، قال: ثنا ابن يمان، عن جعفر، عن سعيد، في قوله: { لَيْسَ لَهُمْ طَعامٌ إلاَّ
-  مِنْ ضَرِيعٍ } قال: الحجارة.وقال آخرون: الضَّريع: شجر من نار. ذكر من قال ذلك:حدثني
-  عليّ، قال: ثنا أبو صالح، قال: ثني معاوية، عن عليّ، عن ابن عباس، قوله: { لَيْسَ لَهُمْ
-  طَعامٌ إلاَّ مِنْ ضَرِيعٍ } يقول: شجر من نار.حدثني يونس، قال: أخبرنا ابن وهب، قال:
-  قال ابن زيد، في قوله: { لَيْسَ لَهُمْ طَعامٌ إلاَّ مِنْ ضَرِيعٍ } قال: الضريع: الشَّوك
-  من النار. قال: وأما في الدنيا فإن الضريع: الشوك اليابس الذي ليس له ورق، تدعوه العرب
-  الضريع، وهو في الآخرة شوك من نار.وقوله: { لا يُسْمِنُ وَلا يُغْنِي مِنْ جُوعٍ }
-  يقول: لا يُسمن هذا الضريع يوم القيامة أَكَلَته من أهل النار، { ولا يُغني من جُوعٍ
-  } يقول: ولا يُشْبِعهم من جوع يصيبهم.\r\n\t\t\t\r\n\t\t\t1 2 3 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  ضرِيعٍ } قال: الشِّبرق.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال آخرون: الضَّرِيع: الحجارة.
+  ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا أبو كُرَيب، قال: ثنا ابن
+  يمان، عن جعفر، عن سعيد، في قوله: { لَيْسَ لَهُمْ طَعامٌ إلاَّ مِنْ ضَرِيعٍ } قال:
+  الحجارة.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال آخرون: الضَّريع: شجر من نار.
+  ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثني عليّ، قال: ثنا أبو صالح،
+  قال: ثني معاوية، عن عليّ، عن ابن عباس، قوله: { لَيْسَ لَهُمْ طَعامٌ إلاَّ مِنْ ضَرِيعٍ
+  } يقول: شجر من نار.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثني يونس، قال: أخبرنا ابن وهب،
+  قال: قال ابن زيد، في قوله: { لَيْسَ لَهُمْ طَعامٌ إلاَّ مِنْ ضَرِيعٍ } قال: الضريع:
+  الشَّوك من النار. قال: وأما في الدنيا فإن الضريع: الشوك اليابس الذي ليس له ورق،
+  تدعوه العرب الضريع، وهو في الآخرة شوك من نار.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقوله:
+  { لا يُسْمِنُ وَلا يُغْنِي مِنْ جُوعٍ } يقول: لا يُسمن هذا الضريع يوم القيامة أَكَلَته
+  من أهل النار، { ولا يُغني من جُوعٍ } يقول: ولا يُشْبِعهم من جوع يصيبهم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">3 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a id=\"NextClass\"/></td></tr></table></center></div></section>"
 

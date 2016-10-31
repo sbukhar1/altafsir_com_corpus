@@ -1,4 +1,4 @@
-location:
+position:
   sura: '007'
   aaya: '204'
   madhab: '01'
@@ -8,124 +8,291 @@ meta:
   author: الطبري
   year: '310'
 aaya: وَإِذَا قُرِئَ الْقُرْآنُ فَاسْتَمِعُوا لَهُ وَأَنْصِتُوا لَعَلَّكُمْ تُرْحَمُونَ
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَإِذَا قُرِىءَ
-  ٱلْقُرْآنُ فَٱسْتَمِعُواْ لَهُ وَأَنصِتُواْ لَعَلَّكُمْ تُرْحَمُونَ }يقول تعالـى
-  ذكره للـمؤمنـين به الـمصدّقـين بكتابه الذين القرآن لهم هدى ورحمة: { إذَا قُرِىءَ
-  } علـيكم أيها الـمؤمنون، { القُرآنُ فـاسْتَـمِعُوا لَهُ } يقول: أصغوا له سمعكم لتتفهَّموا
-  آياته وتعتبروا بـمواعظه وأنصتوا إلـيه لتعقلوه وتتدبروه، ولا تلغوا فـيه فلا تعقلوه.
-  { لَعَلَّكُمْ تُرْحَمُونَ } يقول: لـيرحمكم ربكم بـاتعاظكم بـمواعظه، واعتبـاركم بعبره،
-  واستعمالكم ما بـينه لكم ربكم من فرائضه فـي آية.ثم اختلف أهل التأويـل فـي الـحال
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(7, 204)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(7,204)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَإِذَا
+  قُرِىءَ ٱلْقُرْآنُ فَٱسْتَمِعُواْ لَهُ وَأَنصِتُواْ لَعَلَّكُمْ تُرْحَمُونَ</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">يقول تعالـى ذكره للـمؤمنـين به الـمصدّقـين بكتابه الذين القرآن لهم
+  هدى ورحمة: { إذَا قُرِىءَ } علـيكم أيها الـمؤمنون، { القُرآنُ فـاسْتَـمِعُوا لَهُ
+  } يقول: أصغوا له سمعكم لتتفهَّموا آياته وتعتبروا بـمواعظه وأنصتوا إلـيه لتعقلوه
+  وتتدبروه، ولا تلغوا فـيه فلا تعقلوه. { لَعَلَّكُمْ تُرْحَمُونَ } يقول: لـيرحمكم
+  ربكم بـاتعاظكم بـمواعظه، واعتبـاركم بعبره، واستعمالكم ما بـينه لكم ربكم من فرائضه
+  فـي آية.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">ثم اختلف أهل التأويـل فـي الـحال
   التـي أمر الله بـالاستـماع لقارىء القرآن إذا قرأ والإنصات له، فقال بعضهم: ذلك حال
   كون الـمصلـي فـي الصلاة خـلف إمام يأتـمّ به، وهو يسمع قراءة الإمام علـيه أن يسمع
-  لقراءته. وقالوا: فـي ذلك أنزلت هذه الآية. ذكر من قال ذلك.حدثنا أبو كريب، قال: ثنا
-  أبو بكر بن عياش، عن عاصم، عن الـمسيب بن رافع، قال: كان عبد الله يقول: كنا يسلـم
-  بعضنا علـى بعض فـي الصلاة، سلام علـى فلان، وسلام علـى فلان، قال: فجاء القرآن: {
-  وَإذَا قرِىءَ القرآنُ فـاسْتَـمِعُوا لَهُ وأنْصِتُوا }.قال: ثنا حفص بن غياث، عن
-  إبراهيـم الهجَريّ عن أبـي عياض، عن أبـي هريرة، قال: كانوا يتكلـمون فـي الصلاة، فلـما
-  نزلت هذه الآية: { وَإذَا قُرِىءَ القُرآنُ } والآية الأخرى، أُمروا بـالإنصات.حدثنـي
+  لقراءته. وقالوا: فـي ذلك أنزلت هذه الآية. ذكر من قال ذلك.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  أبو كريب، قال: ثنا أبو بكر بن عياش، عن عاصم، عن الـمسيب بن رافع، قال: كان عبد الله
+  يقول: كنا يسلـم بعضنا علـى بعض فـي الصلاة، سلام علـى فلان، وسلام علـى فلان، قال:
+  فجاء القرآن: { وَإذَا قرِىءَ القرآنُ فـاسْتَـمِعُوا لَهُ وأنْصِتُوا }.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قال: ثنا حفص بن غياث، عن إبراهيـم الهجَريّ عن أبـي عياض، عن أبـي
+  هريرة، قال: كانوا يتكلـمون فـي الصلاة، فلـما نزلت هذه الآية: { وَإذَا قُرِىءَ القُرآنُ
+  } والآية الأخرى، أُمروا بـالإنصات.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
   أبو السائب، قال: ثنا حفص، عن أشعث، عن الزهري، قال: نزلت هذه الآية فـي فتـى من الأنصار
   كان رسول الله صلى الله عليه وسلم كلـما قرأ شيئاً قرأه، فنزلت: { وَإذَا قُرِىءَ القُرآنُ
-  فـاسْتَـمِعُوا لَهُ وأنْصِتُوا }.حدثنا أبو كريب، قال: ثنا الـمـحاربـي، عن داود بن
-  أبـي هند، عن بشير بن جابر، قال: صلـى ابن مسعود، فسمع ناسا يقرءون مع الإمام، فلـما
-  انصرف، قال: أما آن لكم أن تفقهوا؟ أما آن لكم أن تعقلوا؟ { وَإذَا قُرِىءَ القُرآنُ
-  فـاسْتَـمِعُوا لَهُ وأنْصِتُوا } كما أمركم الله.حدثنا حميد بن مسعدة، قال: ثنا بشر
+  فـاسْتَـمِعُوا لَهُ وأنْصِتُوا }.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  أبو كريب، قال: ثنا الـمـحاربـي، عن داود بن أبـي هند، عن بشير بن جابر، قال: صلـى
+  ابن مسعود، فسمع ناسا يقرءون مع الإمام، فلـما انصرف، قال: أما آن لكم أن تفقهوا؟ أما
+  آن لكم أن تعقلوا؟ { وَإذَا قُرِىءَ القُرآنُ فـاسْتَـمِعُوا لَهُ وأنْصِتُوا } كما
+  أمركم الله.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا حميد بن مسعدة، قال: ثنا بشر
   بن الـمفضل، قال: ثنا الـجريري، عن طلـحة بن عبـيد الله بن كريز، قال: رأيت عبـيد بن
   عمير وعطاء بن أبـي ربـاح يتـحدثان والقاصّ يقصّ، فقلت: ألا تستـمعان إلـى الذكر وتستوجبـان
   الـموعود؟ قال: فنظرا إلـيّ ثم أقبلا علـى حديثهما. قال: فأعدت فنظرا إلـيّ، ثم أقبلا
   علـى حديثهما، قال: فأعدت الثالثة، قال: فنظرا إلـيّ فقالا: إنـما ذلك فـي الصلاة:
-  { وَإذَا قُرِىءَ القُرآنُ فـاسْتَـمِعُوا لَهُ وأنْصِتُوا }.حدثنـي العبـاس بن الولـيد،
-  قال: أخبرنـي أبـي، قال: سمعت الأوزاعي، قال: ثنا عبد الله بن عامر قال: ثنـي زيد بن
-  أسلـم، عن أبـيه، عن أبـي هريرة، عن هذه الآية: { وَإذَا قُرِىءَ القُرآنُ فـاسْتَـمِعُوا
-  لَهُ وأنْصِتُوا } قال: نزلت فـي رفع الأصوات وهم خـلف رسول الله صلى الله عليه وسلم
-  فـي الصلاة.حدثنا ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا سفـيان، عن أبـي هاشم إسماعيـل
-  بن كثـير، عن مـجاهد فـي قوله: { وَإذَا قُرِىءَ القُرآنُ فـاسْتَـمِعُوا لَهُ وأنْصِتُوا
-  } قال: فـي الصلاة.\r\n\t\t\t\r\n\t\t\t1 2 3 4 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَإِذَا قُرِىءَ ٱلْقُرْآنُ فَٱسْتَمِعُواْ
-  لَهُ وَأَنصِتُواْ لَعَلَّكُمْ تُرْحَمُونَ }حدثنا ابن الـمثنى، قال: ثنا عبد الرحمن
-  بن مهدي، عن رجل، عن قتادة، عن سعيد بن الـمسيب: { وَإذَا قُرِىءَ القُرآنُ فـاسْتَـمِعُوا
-  لَهُ وأنْصِتُوا } قال: فـي الصلاة.حدثنا أبو كريب، قال: ثنا ابن إدريس، قال: ثنا لـيث،
-  عن مـجاهد: { وَإذَا قُرِىءَ القُرآنُ فـاسْتَـمِعُوا لَهُ وأنْصِتُوا } قال: فـي الصلاة.حدثنا
+  { وَإذَا قُرِىءَ القُرآنُ فـاسْتَـمِعُوا لَهُ وأنْصِتُوا }.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  العبـاس بن الولـيد، قال: أخبرنـي أبـي، قال: سمعت الأوزاعي، قال: ثنا عبد الله بن
+  عامر قال: ثنـي زيد بن أسلـم، عن أبـيه، عن أبـي هريرة، عن هذه الآية: { وَإذَا قُرِىءَ
+  القُرآنُ فـاسْتَـمِعُوا لَهُ وأنْصِتُوا } قال: نزلت فـي رفع الأصوات وهم خـلف رسول
+  الله صلى الله عليه وسلم فـي الصلاة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا سفـيان، عن أبـي هاشم إسماعيـل بن كثـير،
+  عن مـجاهد فـي قوله: { وَإذَا قُرِىءَ القُرآنُ فـاسْتَـمِعُوا لَهُ وأنْصِتُوا } قال:
+  فـي الصلاة.</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\"
+  border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE:
+  none; BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(7, 204)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(7,204)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَإِذَا قُرِىءَ ٱلْقُرْآنُ فَٱسْتَمِعُواْ لَهُ وَأَنصِتُواْ
+  لَعَلَّكُمْ تُرْحَمُونَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\"
+  dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن الـمثنى،
+  قال: ثنا عبد الرحمن بن مهدي، عن رجل، عن قتادة، عن سعيد بن الـمسيب: { وَإذَا قُرِىءَ
+  القُرآنُ فـاسْتَـمِعُوا لَهُ وأنْصِتُوا } قال: فـي الصلاة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  أبو كريب، قال: ثنا ابن إدريس، قال: ثنا لـيث، عن مـجاهد: { وَإذَا قُرِىءَ القُرآنُ
+  فـاسْتَـمِعُوا لَهُ وأنْصِتُوا } قال: فـي الصلاة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
   ابن الـمثنى، قال: ثنا مـحمد بن جعفر، قال: ثنا شعبة، قال: سمعت حميداً الأعرج، قال:
   سمعت مـجاهداً يقول فـي هذه الآية: { وَإذَا قُرِىءَ القُرآنُ فـاسْتَـمِعُوا لَهُ
-  وأنْصِتُوا } قال: فـي الصلاة.قال: ثنـي عبد الصمد، قال: ثنا شعبة، قال: ثنا حميد،
-  عن مـجاهد بـمثله.حدثنا ابن وكيع، قال: ثنا جرير وابن إدريس، عن لـيث، عن مـجاهد: {
-  وَإذَا قُرِىءَ القُرآنُ فـاسْتَـمِعُوا لَهُ وأنْصِتُوا } قال: فـي الصلاة الـمكتوبة.قال:
-  ثنا الـمـحاربـي، عن لـيث، عن مـجاهد، وعن حجاج، عن القاسم بن أبـي بزة، عن مـجاهد،
-  وعن ابن أبـي لـيـلـى، عن الـحكم، عن سعيد بن جبـير: { وَإذَا قُرِىءَ القُرآنُ فـاسْتَـمِعُوا
-  لَهُ وأنْصِتُوا } قال: فـي الصلاة الـمكتوبة.قال: ثنا أبـي، عن سفـيان، عن أبـي هاشم،
-  عن مـجاهد: فـي الصلاة الـمكتوبة.قال: ثنا أبـي، عن سفـيان، عن لـيث، عن مـجاهد، مثله.قال:
-  ثنا الـمـحاربـي وأبو خالد، عن جويبر، عن الضحاك قال: فـي الصلاة الـمكتوبة.قال: ثنا
-  جرير وابن فضيـل، عن مغيرة، عن إبراهيـم، قال: فـي الصلاة الـمكتوبة.حدثنا بشر بن معاذ،
-  قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: { وَإذَا قُرِىءَ القُرآنُ فـاسْتَـمِعُوا
-  لَهُ وأنْصِتُوا } قال: كانوا يتكلـمون فـي صلاتهم بحوائجهم أوّل ما فرضت علـيهم، فأنزل
-  الله ما تسمعون: { وَإذَا قُرِىءَ القُرآنُ فـاسْتَـمِعُوا لَهُ وأنْصِتُوا }.حدثنا
-  مـحمد بن عبد الأعلـى، قال: ثنا مـحمد بن ثور، عن معمر، عن قتادة: { وَإذَا قُرِىءَ
-  القُرآنُ فـاسْتَـمِعُوا لَهُ وأنْصِتُوا } قال: كان الرجل يأتـي وهم فـي الصلاة فـيسألهم:
-  كم صلـيتـم؟ كم بقـي؟ فأنزل الله: { وَإذَا قُرِىءَ القُرآنُ فـاسْتَـمِعُوا لَهُ وأنْصِتُوا
-  }. وقال غيره: كانوا يرفعون أصواتهم فـي الصلاة حين يسمعون ذكر الـجنة والنار، فأنزل
-  الله: { وَإذَا قُرِىءَ القُرآنُ }.حدثنا ابن وكيع، قال: ثنا أبو خالد والـمـحاربـي،
-  عن أشعث، عن الزهريّ، قال: كان النبـيّ صلى الله عليه وسلم يقرأ ورجل يقرأ، فنزلت:
-  { وَإذَا قُرِىءَ القُرآنُ فـاسْتَـمِعُوا لَهُ وأنْصِتُوا }.قال: ثنا أبو خالد الأحمر،
-  عن الهَجَريّ عن أبـي عياض، عن أبـي هريرة، قال: كانوا يتكلـمون فـي الصلاة، فلـما
-  نزلت: { وَإذَا قُرِىءَ القُرآنُ فـاسْتَـمِعُوا لَهُ وأنْصِتُوا } قال: هذا فـي الصلاة.قال:
-  ثنا أبـي، عن حريث، عن عامر، قال: فـي الصلاة الـمكتوبة.حدثنـي مـحمد بن الـحسين، قال:
-  ثنا أحمد بن الـمفضل، قال: ثنا أسبـاط، عن السديّ: { وَإذَا قُرِىءَ القُرآنُ فـاسْتَـمِعُوا
-  لَهُ وأنْصِتُوا } قال: إذا قرىء فـي الصلاة.\r\n\t\t\t\r\n\t\t\t1 2 3 4 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَإِذَا قُرِىءَ ٱلْقُرْآنُ فَٱسْتَمِعُواْ
-  لَهُ وَأَنصِتُواْ لَعَلَّكُمْ تُرْحَمُونَ }حدثنـي الـمثنى، قال: ثنا أبو صالـح، قال:
-  ثنا معاوية، عن علـيّ، عن ابن عبـاس، قوله: { وَإذَا قُرِىءَ القُرآنُ فـاسْتَـمِعُوا
-  لَهُ } يعنـي: فـي الصلاة الـمفروضة.حدثنا الـحسن بن يحيى، قال: أخبرنا عبد الرزاق،
-  قال: أخبرنا الثوريّ، عن أبـي هاشم، عن مـجاهد قال: هذا فـي الصلاة فـي قوله: { وَإذَا
-  قُرِىءَ القُرآنُ فـاسْتَـمِعُوا لَهُ }.قال: أخبرنا الثوريّ، عن لـيث، عن مـجاهد:
-  أنه كره إذا مرّ الإمام بآية خوف أو بآية رحمة أن يقول أحد مـمن خـلفه شيئاً، قال:
-  السكوت.قال: أخبرنا الثوري، عن لـيث، عن مـجاهد: قال: لا بأس إذا قرأ الرجل فـي غير
-  الصلاة أن يتكلـم.حدثنـي يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، فـي قوله: {
-  وَإذَا قُرِىءَ القُرآنُ فـاسْتَـمِعُوا لَهُ وأنْصِتُوا لَعَلَّكُمْ تُرْحَمُونَ }
-  قال: هذا إذا قام الإمام للصلاة فـاستـمعوا له وأنصتوا.حدثنـي الـمثنى، قال: ثنا سويد،
-  قال: أخبرنا ابن الـمبـارك، عن يونس، عن الزهريّ، قال: لا يقرأ من وراء الإمام فـيـما
-  يجهر به من القراءة، تكفـيهم قراءة الإمام وإن لـم يسمعهم صوته، ولكنهم يقرءون فـيـما
-  لـم يجهر به سرًّا فـي نفسهم، ولا يصلـح لأحد خـلفه أن يقرأ معه فـيـما يجهر به سرًّا
-  ولا علانـية، قال الله: { وَإذَا قُرِىءَ القُرآنُ فـاسْتَـمِعُوا لَهُ وأنْصِتُوا
-  لَعَلَّكُمْ تُرْحمُونَ }.حدثنـي الـمثنى، قال: ثنا سويد، قال: أخبرنا ابن الـمبـارك،
-  عن ابن لهيعة، عن ابن هبـيرة، عن ابن عبـاس أنه كان يقول فـي هذه:{ وَاذْكُرْ رَبِّكَ
-  فِـي نَفْسِكَ تَضَرُّعاً وَخِيفَةً }هذا فـي الـمكتوبة. وأما ما كان من قصص أو قراءة
-  بعد ذلك، فإنـما هي نافلة. إن نبـيّ الله صلى الله عليه وسلم قرأ فـي صلاة مكتوبة،
-  وقرأ وراءه أصحابه، فخـلطوا علـيه، قال: فنزل القرآن: { وَإذَا قُرِىءَ القُرآنُ فـاسْتَـمِعُوا
-  لَهُ وأنْصِتُوا لَعَلَّكُمْ تُرْحَمُونَ } فهذا فـي الـمكتوبة.وقال آخرون: بل عُنـي
-  بهذه الآية الأمر بـالإنصات للإمام فـي الـخطبة إذا قرىء القرآن فـي خطبة. ذكر من قال
-  ذلك.حدثنا تـميـم بن الـمنتصر، قال: ثنا إسحاق الأزرق، عن شريك، عن سعيد بن مسروق،
-  عن مـجاهد، فـي قوله: { وَإذَا قُرِىءَ القُرآنُ فـاسْتَـمِعُوا لَهُ وأنْصِتُوا }
-  قال: الإنصات للإمام يوم الـجمعة.حدثنا ابن وكيع، قال: ثنا أبو خالد وابن أبـي عتبة،
-  عن العّوام، عن مـجاهد، قال: فـي خطبة يوم الـجمعة.وقال آخرون: عُنـي بذلك: الإنصات
-  فـي الصلاة وفـي الـخطبة. ذكر من قال ذلك.حدثنـي ابن الـمثنى، قال: ثنا مـحمد بن جعفر،
-  قال: ثنا شعبة، عن منصور، قال: سمعت إبراهيـم بن أبـي حمزة، يحدث أنه سمع مـجاهداً
-  يقول فـي هذه الآية: { وَإذَا قُرِىءَ القُرآنُ فـاسْتَـمِعُوا لَهُ وأنْصِتُوا } قال:
-  فـي الصلاة، والـخطبة يوم الـجمعة.حدثنا ابن حميد، قال: ثنا هارون، عن عنبسة، عن جابر،
-  عن عطاء، قال: وجب الصموت فـي اثنتـين: عند الرجل يقرأ القرآن وهو يصلـي، وعند الإمام
-  وهو يخطب.\r\n\t\t\t\r\n\t\t\t1 2 3 4 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَإِذَا قُرِىءَ ٱلْقُرْآنُ فَٱسْتَمِعُواْ
-  لَهُ وَأَنصِتُواْ لَعَلَّكُمْ تُرْحَمُونَ }حدثنا ابن وكيع، قال: ثنا أبـي، عن سفـيان،
-  عن جابر، عن مـجاهد: { وَإذَا قُرِىءَ القُرآنُ } وجب الإنصات، قال: وجب فـي اثنتـين:
-  فـي الصلاة والإمام يقرأ، والـجمعة والإمام يخطب.حدثنا القاسم، قال: ثنا الـحسين، قال
-  هشيـم، أخبرنا من سمع الـحسن يقول: فـي الصلاة الـمكتوبة، وعند الذكر.حدثنا الـحسن
-  بن يحيى، قال: أخبرنا عبد الرزاق، قال: أخبرنا الثوري، عن جابر، عن مـجاهد، قال: وجب
-  الإنصات فـي اثنتـين: فـي الصلاة، ويوم الـجمعة.حدثنـي الـمثنى، قال: ثنا سويد، قال:
-  أخبرنا ابن الـمبـارك، عن بقـية بن الولـيد، قال: سمعت ثابت بن عجلان يقول: سمعت سعيد
-  بن جبـير يقول فـي قوله: { وَإذَا قُرِىءَ القُرآنُ فـاسْتَـمِعُوا لَهُ وأنْصِتُوا
-  } قال: الإنصات: يوم الأضحى، ويوم الفطر، ويوم الـجمعة، وفـيـما يجهر به الإمام من
-  الصلاة.حدثنـي الـمثنى، قال: ثنا عمرو بن حماد، قال: أخبرنا هشيـم، عن الربـيع بن صبـيح،
-  عن الـحسن، قال: فـي الصلاة، وعند الذكر.حدثنا ابن البرقـي، قال: ثنا ابن أبـي مريـم،
-  قال: ثنا يحيى بن أيوب، قال: ثنـي ابن جريج، عن عطاء بن أبـي ربـاح، قال: أوجب الإنصات
-  يوم الـجمعة، قول الله تعالـى: { وَإذَا قُرِىءَ القُرآنُ فـاسْتَـمِعُوا لَهُ وأنْصِتُوا
-  لَعَلَّكُمْ تُرْحَمُونَ } وفـي الصلاة مثل ذلك.قال أبو جعفر: وأولـى الأقوال فـي ذلك
-  بـالصواب قول من قال: أمروا بـاستـماع القرآن فـي الصلاة إذا قرأ الإمام وكان من خـلفه
-  مـمن يأتـمّ به يسمعه، وفـي الـخطبة.وإنـما قلنا ذلك أولـى بـالصواب، لصحة الـخبر عن
-  رسول الله صلى الله عليه وسلم، أنه قال: \" إذَا قَرأ الإمامُ فأنْصِتوا \" ، وإجماع
+  وأنْصِتُوا } قال: فـي الصلاة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال:
+  ثنـي عبد الصمد، قال: ثنا شعبة، قال: ثنا حميد، عن مـجاهد بـمثله.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن وكيع، قال: ثنا جرير وابن إدريس، عن لـيث، عن مـجاهد: {
+  وَإذَا قُرِىءَ القُرآنُ فـاسْتَـمِعُوا لَهُ وأنْصِتُوا } قال: فـي الصلاة الـمكتوبة.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قال: ثنا الـمـحاربـي، عن لـيث، عن مـجاهد، وعن حجاج، عن القاسم بن
+  أبـي بزة، عن مـجاهد، وعن ابن أبـي لـيـلـى، عن الـحكم، عن سعيد بن جبـير: { وَإذَا
+  قُرِىءَ القُرآنُ فـاسْتَـمِعُوا لَهُ وأنْصِتُوا } قال: فـي الصلاة الـمكتوبة.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قال: ثنا أبـي، عن سفـيان، عن أبـي هاشم، عن مـجاهد: فـي الصلاة الـمكتوبة.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قال: ثنا أبـي، عن سفـيان، عن لـيث، عن مـجاهد، مثله.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قال: ثنا الـمـحاربـي وأبو خالد، عن جويبر، عن الضحاك قال: فـي الصلاة
+  الـمكتوبة.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">قال: ثنا جرير وابن فضيـل، عن مغيرة،
+  عن إبراهيـم، قال: فـي الصلاة الـمكتوبة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  بشر بن معاذ، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: { وَإذَا قُرِىءَ القُرآنُ
+  فـاسْتَـمِعُوا لَهُ وأنْصِتُوا } قال: كانوا يتكلـمون فـي صلاتهم بحوائجهم أوّل ما
+  فرضت علـيهم، فأنزل الله ما تسمعون: { وَإذَا قُرِىءَ القُرآنُ فـاسْتَـمِعُوا لَهُ
+  وأنْصِتُوا }.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا مـحمد بن عبد الأعلـى، قال:
+  ثنا مـحمد بن ثور، عن معمر، عن قتادة: { وَإذَا قُرِىءَ القُرآنُ فـاسْتَـمِعُوا لَهُ
+  وأنْصِتُوا } قال: كان الرجل يأتـي وهم فـي الصلاة فـيسألهم: كم صلـيتـم؟ كم بقـي؟
+  فأنزل الله: { وَإذَا قُرِىءَ القُرآنُ فـاسْتَـمِعُوا لَهُ وأنْصِتُوا }. وقال غيره:
+  كانوا يرفعون أصواتهم فـي الصلاة حين يسمعون ذكر الـجنة والنار، فأنزل الله: { وَإذَا
+  قُرِىءَ القُرآنُ }.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن وكيع، قال: ثنا أبو خالد
+  والـمـحاربـي، عن أشعث، عن الزهريّ، قال: كان النبـيّ صلى الله عليه وسلم يقرأ ورجل
+  يقرأ، فنزلت: { وَإذَا قُرِىءَ القُرآنُ فـاسْتَـمِعُوا لَهُ وأنْصِتُوا }.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قال: ثنا أبو خالد الأحمر، عن الهَجَريّ عن أبـي عياض، عن أبـي هريرة،
+  قال: كانوا يتكلـمون فـي الصلاة، فلـما نزلت: { وَإذَا قُرِىءَ القُرآنُ فـاسْتَـمِعُوا
+  لَهُ وأنْصِتُوا } قال: هذا فـي الصلاة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال:
+  ثنا أبـي، عن حريث، عن عامر، قال: فـي الصلاة الـمكتوبة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  مـحمد بن الـحسين، قال: ثنا أحمد بن الـمفضل، قال: ثنا أسبـاط، عن السديّ: { وَإذَا
+  قُرِىءَ القُرآنُ فـاسْتَـمِعُوا لَهُ وأنْصِتُوا } قال: إذا قرىء فـي الصلاة.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(7, 204)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(7,204)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَإِذَا قُرِىءَ ٱلْقُرْآنُ فَٱسْتَمِعُواْ لَهُ وَأَنصِتُواْ
+  لَعَلَّكُمْ تُرْحَمُونَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\"
+  dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي الـمثنى،
+  قال: ثنا أبو صالـح، قال: ثنا معاوية، عن علـيّ، عن ابن عبـاس، قوله: { وَإذَا قُرِىءَ
+  القُرآنُ فـاسْتَـمِعُوا لَهُ } يعنـي: فـي الصلاة الـمفروضة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  الـحسن بن يحيى، قال: أخبرنا عبد الرزاق، قال: أخبرنا الثوريّ، عن أبـي هاشم، عن مـجاهد
+  قال: هذا فـي الصلاة فـي قوله: { وَإذَا قُرِىءَ القُرآنُ فـاسْتَـمِعُوا لَهُ }.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قال: أخبرنا الثوريّ، عن لـيث، عن مـجاهد: أنه كره إذا مرّ الإمام
+  بآية خوف أو بآية رحمة أن يقول أحد مـمن خـلفه شيئاً، قال: السكوت.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قال: أخبرنا الثوري، عن لـيث، عن مـجاهد: قال: لا بأس إذا قرأ الرجل
+  فـي غير الصلاة أن يتكلـم.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي يونس، قال: أخبرنا ابن وهب،
+  قال: قال ابن زيد، فـي قوله: { وَإذَا قُرِىءَ القُرآنُ فـاسْتَـمِعُوا لَهُ وأنْصِتُوا
+  لَعَلَّكُمْ تُرْحَمُونَ } قال: هذا إذا قام الإمام للصلاة فـاستـمعوا له وأنصتوا.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي الـمثنى، قال: ثنا سويد، قال: أخبرنا ابن الـمبـارك، عن يونس،
+  عن الزهريّ، قال: لا يقرأ من وراء الإمام فـيـما يجهر به من القراءة، تكفـيهم قراءة
+  الإمام وإن لـم يسمعهم صوته، ولكنهم يقرءون فـيـما لـم يجهر به سرًّا فـي نفسهم، ولا
+  يصلـح لأحد خـلفه أن يقرأ معه فـيـما يجهر به سرًّا ولا علانـية، قال الله: { وَإذَا
+  قُرِىءَ القُرآنُ فـاسْتَـمِعُوا لَهُ وأنْصِتُوا لَعَلَّكُمْ تُرْحمُونَ }.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي الـمثنى، قال: ثنا سويد، قال: أخبرنا ابن الـمبـارك، عن ابن
+  لهيعة، عن ابن هبـيرة، عن ابن عبـاس أنه كان يقول فـي هذه:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">وَاذْكُرْ رَبِّكَ فِـي نَفْسِكَ تَضَرُّعاً
+  وَخِيفَةً</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">هذا فـي الـمكتوبة. وأما ما كان من قصص أو قراءة بعد ذلك، فإنـما هي
+  نافلة. إن نبـيّ الله صلى الله عليه وسلم قرأ فـي صلاة مكتوبة، وقرأ وراءه أصحابه،
+  فخـلطوا علـيه، قال: فنزل القرآن: { وَإذَا قُرِىءَ القُرآنُ فـاسْتَـمِعُوا لَهُ وأنْصِتُوا
+  لَعَلَّكُمْ تُرْحَمُونَ } فهذا فـي الـمكتوبة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  آخرون: بل عُنـي بهذه الآية الأمر بـالإنصات للإمام فـي الـخطبة إذا قرىء القرآن فـي
+  خطبة. ذكر من قال ذلك.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا تـميـم بن الـمنتصر، قال:
+  ثنا إسحاق الأزرق، عن شريك، عن سعيد بن مسروق، عن مـجاهد، فـي قوله: { وَإذَا قُرِىءَ
+  القُرآنُ فـاسْتَـمِعُوا لَهُ وأنْصِتُوا } قال: الإنصات للإمام يوم الـجمعة.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن وكيع، قال: ثنا أبو خالد وابن أبـي عتبة، عن العّوام، عن
+  مـجاهد، قال: فـي خطبة يوم الـجمعة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  آخرون: عُنـي بذلك: الإنصات فـي الصلاة وفـي الـخطبة. ذكر من قال ذلك.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي ابن الـمثنى، قال: ثنا مـحمد بن جعفر، قال: ثنا شعبة، عن منصور،
+  قال: سمعت إبراهيـم بن أبـي حمزة، يحدث أنه سمع مـجاهداً يقول فـي هذه الآية: { وَإذَا
+  قُرِىءَ القُرآنُ فـاسْتَـمِعُوا لَهُ وأنْصِتُوا } قال: فـي الصلاة، والـخطبة يوم
+  الـجمعة.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن حميد، قال: ثنا هارون،
+  عن عنبسة، عن جابر، عن عطاء، قال: وجب الصموت فـي اثنتـين: عند الرجل يقرأ القرآن وهو
+  يصلـي، وعند الإمام وهو يخطب.</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">3 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(7, 204)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(7,204)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَإِذَا قُرِىءَ ٱلْقُرْآنُ فَٱسْتَمِعُواْ لَهُ وَأَنصِتُواْ
+  لَعَلَّكُمْ تُرْحَمُونَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\"
+  dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن وكيع،
+  قال: ثنا أبـي، عن سفـيان، عن جابر، عن مـجاهد: { وَإذَا قُرِىءَ القُرآنُ } وجب الإنصات،
+  قال: وجب فـي اثنتـين: فـي الصلاة والإمام يقرأ، والـجمعة والإمام يخطب.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا القاسم، قال: ثنا الـحسين، قال هشيـم، أخبرنا من سمع الـحسن
+  يقول: فـي الصلاة الـمكتوبة، وعند الذكر.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  الـحسن بن يحيى، قال: أخبرنا عبد الرزاق، قال: أخبرنا الثوري، عن جابر، عن مـجاهد،
+  قال: وجب الإنصات فـي اثنتـين: فـي الصلاة، ويوم الـجمعة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  الـمثنى، قال: ثنا سويد، قال: أخبرنا ابن الـمبـارك، عن بقـية بن الولـيد، قال: سمعت
+  ثابت بن عجلان يقول: سمعت سعيد بن جبـير يقول فـي قوله: { وَإذَا قُرِىءَ القُرآنُ
+  فـاسْتَـمِعُوا لَهُ وأنْصِتُوا } قال: الإنصات: يوم الأضحى، ويوم الفطر، ويوم الـجمعة،
+  وفـيـما يجهر به الإمام من الصلاة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  الـمثنى، قال: ثنا عمرو بن حماد، قال: أخبرنا هشيـم، عن الربـيع بن صبـيح، عن الـحسن،
+  قال: فـي الصلاة، وعند الذكر.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن البرقـي، قال: ثنا ابن أبـي مريـم، قال: ثنا يحيى بن أيوب، قال: ثنـي ابن جريج،
+  عن عطاء بن أبـي ربـاح، قال: أوجب الإنصات يوم الـجمعة، قول الله تعالـى: { وَإذَا
+  قُرِىءَ القُرآنُ فـاسْتَـمِعُوا لَهُ وأنْصِتُوا لَعَلَّكُمْ تُرْحَمُونَ } وفـي الصلاة
+  مثل ذلك.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">قال أبو جعفر: وأولـى الأقوال فـي
+  ذلك بـالصواب قول من قال: أمروا بـاستـماع القرآن فـي الصلاة إذا قرأ الإمام وكان من
+  خـلفه مـمن يأتـمّ به يسمعه، وفـي الـخطبة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وإنـما
+  قلنا ذلك أولـى بـالصواب، لصحة الـخبر عن رسول الله صلى الله عليه وسلم، أنه قال:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" إذَا قَرأ الإمامُ فأنْصِتوا \"
+  </font></font></b><font class=\"TextResultArabic\"><font color=\"black\">، وإجماع
   الـجميع علـى أن من سمع خطبة الإمام مـمن علـيه الـجمعة، الاستـماع والإنصات لها، مع
   تتابع الأخبـار بـالأمر بذلك، عن رسول الله صلى الله عليه وسلم، وأنه لا وقت يجب علـى
   أحد استـماع القرآن والإنصات لسامعه من قارئه إلاَّ فـي هاتـين الـحالتـين علـى اختلاف
   فـي إحداهما، وهي حالة أن يكون خـلف إمام مؤتـمّ به. وقد صحّ الـخبر عن رسول الله صلى
   الله عليه وسلم بـما ذكرنا من قوله: «إذَا قَرأ الإمامُ فأنْصِتُوا» فـالإنصات خـلفه
   لقراءته واجب علـى من كان به مؤتـماً سامعاً قراءته بعموم ظاهر القرآن والـخبر عن رسول
-  الله صلى الله عليه وسلم.\r\n\t\t\t\r\n\t\t\t1 2 3 4 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  الله صلى الله عليه وسلم.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">4 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section>"
 

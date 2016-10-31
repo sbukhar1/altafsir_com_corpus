@@ -1,4 +1,4 @@
-location:
+position:
   sura: 080
   aaya: 018
   madhab: '01'
@@ -7,52 +7,150 @@ meta:
   title: تفسير جامع البيان في تفسير القرآن
   author: الطبري
   year: '310'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ مِنْ أَيِّ شَيءٍ
-  خَلَقَهُ } * { مِن نُّطْفَةٍ خَلَقَهُ فَقَدَّرَهُ } * { ثُمَّ ٱلسَّبِيلَ يَسَّرَهُ
-  } * { ثُمَّ أَمَاتَهُ فَأَقْبَرَهُ } * { ثُمَّ إِذَا شَآءَ أَنشَرَهُ } * { كَلاَّ
-  لَمَّا يَقْضِ مَآ أَمَرَهُ }يقول تعالى ذكره: من أيّ شيء خلق الإنسانَ الكافرَ ربُّه
-  حتي يَتَكَبَّرَ. ويتعظَّم عن طاعة ربه، والإقرار بتوحيده ثم بين جلّ ثناؤه الذي منه
-  خلقه، فقال: { مِنْ نُطْفَةٍ خَلَقَهُ فَقَدَّرَهُ } أحوالاً: نطفة تارة، ثم عَلَقة
-  أخرى، ثم مُضْغة، إلى أن أتت عليه أحواله، وهو في رحم أمه { ثُمَّ السَّبِيلَ يَسَّرَهُ
-  } يقول: ثم يسَّره للسبيل، يعني للطريق.واختلف أهل التأويل في السبيل الذي يسَّره لها،
-  فقال بعضهم: هو خروجه من بطن أمه. ذكر من قال ذلك:حدثني محمد بن سعد، قال: ثني أبي،
-  قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس، { ثُمَّ السَّبِيلَ يَسَّرَهُ }
-  يعني بذلك: خروجه من بطن أمه يسَّره له.حدثني ابن حميد، قال: ثنا مهران، عن سفيان،
-  عن إسماعيل، عن أبي صالح { ثُمَّ السَّبِيلَ يَسَّرَهُ } قال: سبيل الرَّحِم.حدثنا
-  ابن حميد، قال: ثنا مهران، عن سفيان، عن السديّ { ثُمَّ السَّبِيلَ يَسَّرَهُ } قال:
-  خروجه من بطن أمه.حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة { ثُمَّ
-  السَبِيلَ يَسَّرَهُ } قال: خروجه من بطن أمه.حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد،
-  عن قتادة { ثُمَّ السَّبِيلَ يَسَّرَهُ } قال: أخرجه من بطن أمه.وقال آخرون: بل معنى
-  ذلك: طريق الحقّ والباطل، بيَّناه له وأعملناه، وسهلنا له العمل به. ذكر من قال ذلك:حدثنا
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(80, 18)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(80,18)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">مِنْ
+  أَيِّ شَيءٍ خَلَقَهُ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">مِن نُّطْفَةٍ خَلَقَهُ فَقَدَّرَهُ</a> <b>}
+  * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">ثُمَّ
+  ٱلسَّبِيلَ يَسَّرَهُ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">ثُمَّ أَمَاتَهُ فَأَقْبَرَهُ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">ثُمَّ
+  إِذَا شَآءَ أَنشَرَهُ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">كَلاَّ لَمَّا يَقْضِ مَآ أَمَرَهُ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">يقول تعالى ذكره: من أيّ شيء خلق الإنسانَ الكافرَ ربُّه حتي يَتَكَبَّرَ.
+  ويتعظَّم عن طاعة ربه، والإقرار بتوحيده ثم بين جلّ ثناؤه الذي منه خلقه، فقال: { مِنْ
+  نُطْفَةٍ خَلَقَهُ فَقَدَّرَهُ } أحوالاً: نطفة تارة، ثم عَلَقة أخرى، ثم مُضْغة، إلى
+  أن أتت عليه أحواله، وهو في رحم أمه { ثُمَّ السَّبِيلَ يَسَّرَهُ } يقول: ثم يسَّره
+  للسبيل، يعني للطريق.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">واختلف أهل التأويل في السبيل الذي
+  يسَّره لها، فقال بعضهم: هو خروجه من بطن أمه. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن
+  أبيه، عن ابن عباس، { ثُمَّ السَّبِيلَ يَسَّرَهُ } يعني بذلك: خروجه من بطن أمه يسَّره
+  له.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثني ابن حميد، قال: ثنا مهران،
+  عن سفيان، عن إسماعيل، عن أبي صالح { ثُمَّ السَّبِيلَ يَسَّرَهُ } قال: سبيل الرَّحِم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن حميد، قال: ثنا مهران، عن سفيان، عن السديّ { ثُمَّ السَّبِيلَ
+  يَسَّرَهُ } قال: خروجه من بطن أمه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة { ثُمَّ السَبِيلَ يَسَّرَهُ
+  } قال: خروجه من بطن أمه.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا بشر، قال: ثنا يزيد، قال:
+  ثنا سعيد، عن قتادة { ثُمَّ السَّبِيلَ يَسَّرَهُ } قال: أخرجه من بطن أمه.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال آخرون: بل معنى ذلك: طريق الحقّ والباطل، بيَّناه له وأعملناه،
+  وسهلنا له العمل به. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
   أبو كريب، قال: ثنا وكيع، عن سفيان، عن منصور، عن مجاهد { ثُمَّ السَّبِيلَ يَسَّرَهُ
-  } قال: هو كقوله:{ إنَّا هَدَيْناهُ السَّبِيلَ إمَّا شاكِراً وَإمَّا كَفُوراً }حدثني
-  محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى وحدثني الحرث، قال: ثنا الحسن، قال:
-  ثنا ورقاء، جميعاً عن ابن أبي نجيح، عن مجاهد، قوله: { ثُمَّ السَّبِيلَ يَسَّرَهُ
-  } قال: على نحو{ إنَّا هَدَيْناهُ السَّبِيلَ }حدثنا ابن حميد، قال: ثنا مهران، عن
-  سفيان، عن ابن أبي نجيح، عن مجاهد، قال: سبيل الشقاء والسعادة، وهو كقوله:{ إنَّا هَدَيْناهُ
-  السَّبِيلَ }حدثنا ابن عبدالأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة، قال: قال الحسن،
-  في قوله: { ثُمَّ السَّبيلَ يَسَّرَهُ } قال: سبيل الخير.حدثني يونس، قال: أخبرنا ابن
-  وهب، قال: قال ابن زيد، في قوله: { ثُمَّ السَّبِيلَ يَسَّرَهُ } قال: هداه للإسلام
-  الذي يسَّره له، وأعلمه به، والسبيل سبيل الإسلام.وأولى التأويلين في ذلك عندي بالصواب.
-  قول من قال: ثم الطريق، وهو الخروج من بطن أمه يسَّره.وإنما قلنا ذلك أولى التأويلين
-  بالصواب، لأنه أشبههما بظاهر الآية، وذلك أن الخبر من الله قبلها وبعدها عن صفته خلقه،
-  وتدبيره جسمه، وتصريفه إياه في الأحوال، فالأولى أن يكون أوسط ذلك نظير ما قبله وبعده.وقوله:
-  { ثُمَّ أماتَهُ فأقْبَرَهُ } يقول: ثم قَبَضَ رُوحه، فأماته بعد ذلك.\r\n\t\t\t\r\n\t\t\t1 2 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ مِنْ أَيِّ شَيءٍ خَلَقَهُ } * { مِن
-  نُّطْفَةٍ خَلَقَهُ فَقَدَّرَهُ } * { ثُمَّ ٱلسَّبِيلَ يَسَّرَهُ } * { ثُمَّ أَمَاتَهُ
-  فَأَقْبَرَهُ } * { ثُمَّ إِذَا شَآءَ أَنشَرَهُ } * { كَلاَّ لَمَّا يَقْضِ مَآ أَمَرَهُ
-  }يعني بقوله: { أقْبَرَهُ }: صيره ذا قبر، والقابر: هو الدافن المَيْتَ بيده، كما قال
-  الأعشى:لَوْ أسْنَدَتْ مَيْتاً إلى نَحْرِها   عاشَ ولَمْ يُنْقَلْ إلى قابِرِوالمُقْبِر:
-  هو الله، الذي أمر عباده أن يقبروه بعد وفاته، فصيره ذا قبر. والعرب تقول فيما ذُكر
-  لي: بَتَرْت ذنب البعير، والله أبتره وعَضَبْت قَرنَ الثور والله أعضبه وطردت عني فلاناً،
-  والله أطْرَدَه، صَيَّره طريداً.وقوله: { ثُمَّ إذَا شاءَ أنْشَرَهُ } يقول: ثم إذا
-  شاء الله أنشره بعد مماته وأحياه، يقال: أنْشَرَ الله الميت، بمعنى: أحياه، ونَشَرَ
-  الميتُ بمعنى حيي هو بنفسه ومنه قول الأعشى:حتى يَقُولَ النَّاسُ مِمَّا رأَوْا   يا
-  عَجَبَاً لِلْمَيِّتِ النَّاشِرِوقوله: { كَلاَّ لَمَّا يَقْضِ ما أمَرَهُ } يقول تعالى
-  ذكره: كلا ليس الأمر كما يقول هذا الإنسان الكافر، من أنه قد أدّى حقّ الله عليه، في
-  نفسه وماله، { لمَّا يَقْضِ ما أَمَرَهُ }: لم يؤدّ ما فرض عليه من الفرائض ربُّه.
-  وبنحو الذي قلنا في ذلك قال أهل التأويل. ذكر من قال ذلك:حدثني محمد بن عمرو، قال:
-  ثنا أبو عاصم، قال: ثنا عيسى وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، جميعاً
-  عن ابن أبي نجيح، عن مجاهد، قوله: { لَمّا يَقْضِ ما أمَرَهُ } قال: لا يقضي أحد أبداً
-  ما افُتِرض عليه. وقال الحارث: كلّ ما افترض عليه.\r\n\t\t\t\r\n\t\t\t1 2 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  } قال: هو كقوله:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">إنَّا هَدَيْناهُ السَّبِيلَ إمَّا شاكِراً وَإمَّا كَفُوراً</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثني محمد بن عمرو، قال: ثنا أبو
+  عاصم، قال: ثنا عيسى وحدثني الحرث، قال: ثنا الحسن، قال: ثنا ورقاء، جميعاً عن ابن
+  أبي نجيح، عن مجاهد، قوله: { ثُمَّ السَّبِيلَ يَسَّرَهُ } قال: على نحو</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">إنَّا
+  هَدَيْناهُ السَّبِيلَ</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن حميد، قال: ثنا مهران، عن سفيان، عن ابن أبي نجيح، عن مجاهد، قال: سبيل الشقاء
+  والسعادة، وهو كقوله:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">إنَّا هَدَيْناهُ السَّبِيلَ</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن عبدالأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة، قال: قال
+  الحسن، في قوله: { ثُمَّ السَّبيلَ يَسَّرَهُ } قال: سبيل الخير.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله: { ثُمَّ
+  السَّبِيلَ يَسَّرَهُ } قال: هداه للإسلام الذي يسَّره له، وأعلمه به، والسبيل سبيل
+  الإسلام.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وأولى التأويلين في ذلك عندي بالصواب.
+  قول من قال: ثم الطريق، وهو الخروج من بطن أمه يسَّره.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وإنما
+  قلنا ذلك أولى التأويلين بالصواب، لأنه أشبههما بظاهر الآية، وذلك أن الخبر من الله
+  قبلها وبعدها عن صفته خلقه، وتدبيره جسمه، وتصريفه إياه في الأحوال، فالأولى أن يكون
+  أوسط ذلك نظير ما قبله وبعده.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقوله:
+  { ثُمَّ أماتَهُ فأقْبَرَهُ } يقول: ثم قَبَضَ رُوحه، فأماته بعد ذلك.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(80, 18)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(80,18)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">مِنْ أَيِّ شَيءٍ خَلَقَهُ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">مِن
+  نُّطْفَةٍ خَلَقَهُ فَقَدَّرَهُ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">ثُمَّ ٱلسَّبِيلَ يَسَّرَهُ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">ثُمَّ
+  أَمَاتَهُ فَأَقْبَرَهُ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">ثُمَّ إِذَا شَآءَ أَنشَرَهُ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">كَلاَّ
+  لَمَّا يَقْضِ مَآ أَمَرَهُ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\"
+  dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">يعني بقوله: {
+  أقْبَرَهُ }: صيره ذا قبر، والقابر: هو الدافن المَيْتَ بيده، كما قال الأعشى:</font></font><table
+  class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">لَوْ أسْنَدَتْ مَيْتاً إلى نَحْرِها</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">عاشَ ولَمْ يُنْقَلْ إلى قابِرِ</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">والمُقْبِر: هو الله، الذي أمر عباده
+  أن يقبروه بعد وفاته، فصيره ذا قبر. والعرب تقول فيما ذُكر لي: بَتَرْت ذنب البعير،
+  والله أبتره وعَضَبْت قَرنَ الثور والله أعضبه وطردت عني فلاناً، والله أطْرَدَه، صَيَّره
+  طريداً.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقوله: { ثُمَّ إذَا شاءَ أنْشَرَهُ
+  } يقول: ثم إذا شاء الله أنشره بعد مماته وأحياه، يقال: أنْشَرَ الله الميت، بمعنى:
+  أحياه، ونَشَرَ الميتُ بمعنى حيي هو بنفسه ومنه قول الأعشى:</font></font><table class=\"TextArabic\"
+  dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">حتى يَقُولَ النَّاسُ مِمَّا رأَوْا</font></font></b></td><td class=\"TextArabic\">   </td><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">يا عَجَبَاً
+  لِلْمَيِّتِ النَّاشِرِ</font></font></b></td></tr></table><font class=\"TextResultArabic\"><font
+  color=\"black\">وقوله: { كَلاَّ لَمَّا يَقْضِ ما أمَرَهُ } يقول تعالى ذكره: كلا
+  ليس الأمر كما يقول هذا الإنسان الكافر، من أنه قد أدّى حقّ الله عليه، في نفسه وماله،
+  { لمَّا يَقْضِ ما أَمَرَهُ }: لم يؤدّ ما فرض عليه من الفرائض ربُّه. وبنحو الذي قلنا
+  في ذلك قال أهل التأويل. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى وحدثني الحارث، قال: ثنا الحسن، قال:
+  ثنا ورقاء، جميعاً عن ابن أبي نجيح، عن مجاهد، قوله: { لَمّا يَقْضِ ما أمَرَهُ } قال:
+  لا يقضي أحد أبداً ما افُتِرض عليه. وقال الحارث: كلّ ما افترض عليه.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section>"
 

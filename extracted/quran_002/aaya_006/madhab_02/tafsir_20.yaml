@@ -1,4 +1,4 @@
-location:
+position:
   sura: '002'
   aaya: '006'
   madhab: '02'
@@ -9,54 +9,144 @@ meta:
   year: '803'
 aaya: إِنَّ الَّذِينَ كَفَرُوا سَوَاءٌ عَلَيْهِمْ أَأَنْذَرْتَهُمْ أَمْ لَمْ تُنْذِرْهُمْ
   لَا يُؤْمِنُونَ
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ إِنَّ ٱلَّذِينَ
-  كَفَرُواْ سَوَآءٌ عَلَيْهِمْ ءَأَنذَرْتَهُمْ أَمْ لَمْ تُنْذِرْهُمْ لاَ يُؤْمِنُونَ
-  }قوله تعالى: { إِنَّ ٱلَّذِينَ كَفَرُواْ سَوَآءٌ... }قال ابن عرفة: لما كان المخاطب
-  في مادة (أن ينكر) مساواة (حالة) إنذارهم لحالة عدم الإنذار بل (نقول): إنّها مظنة
-  الانزجار والفلاح (والنجاح) احتيج إلى تأكيد المساواة بأن قال ابن عطية: قيل: (للزارع)
-  كافر لأنه يغطي الحب ويقال: إذا غطى قلبه بالدين عن (الإيمان) أو غطى الحق بأقواله
-  وأفعاله.قال ابن عرفة: أما الأول فظاهر لأنّ الدّين يجامع القلب فيصح تغطيته إياه،
-  واعتقاد الحق لا يجامع اعتقاد الباطل، بل هو نقيضه وستره (له) لا يكون إلا مع اجتماعه
-  معه: والفرض أنه لا يجامعه وأما باعتبار الأفعال فظاهر.قيل لابن عرفة: يصحّ اجتماعهما
-  باعتبار اختلاف المتعلق؟فقال: تحول المسألة وما (كلامه) إلا فيما إذا كان متعلق الكفر
-  هو متعلق الإيمان، (فحينئذ) (تتعلق) التغطية.قيل له: تكون التغطية مجازا، عبر به عن
-  (معاندة) أحد الاعتقادين للآخر؟فقال: إنما هو مخبر عن أصل العقيدة أي هذه اللفظة ممّاذَا
-  هي مشتقة؟ فما حقه أن يأتي إلاّ الحقيقة اللّغوية، وأما المجاز فليس بأصلي.واختلف الأصوليون
-  في الألف واللام الداخلة على الموصول فقيل: إنها للجنس ويكون عاما مخصوصا كأكثر عمومات
-  القرآن.وقيل: إنها مطلقة فتكون للحقيقة أعني الماهية، فلا يحتاج إلى تخصيص، ويحتمل
-  أن تكون للعهد.ابن عطية: وقال الرّبيع بن أنس: (إنّ) الآية نزلت في قادة الأحزاب وهم
-  أهمّ أهل القليب ببدر، وفي بعض النسخ وأهل القليب ببدر.قال ابن عرفة: وهو الصحيح فإن
-  غزوة الأحزاب متأخرة عن بدر، وأهل القليب ببدر قتلوا فلم يبق منهم أحد للأحزاب.قال
-  ابن عرفة: إلاّ أن يريد بالأحزاب الجماعة ولا يريد به الغزوة.قال الإمام ابن الخطيب:
-  والآية دليل على جواز تأخير البيان (عن) وقت الحاجة، فإنها لم (تبين) متعلقها.ورده
-  ابن عرفة بأنها ليس المراد بها التكليف (فيحتاج) إلى بيان وإنما هي تخويف وإنذار، والعموم
-  أدعى (لحصول) التخويف من الخصوص.قوله تعالى: { ءَأَنذَرْتَهُمْ... }أنكر الزمخشري هنا
-  قراءة ورش وجعلها لحنا وكفره الطيبي. وظاهر كلام الطيبي هذا أن (السّبع) (قراءات) أخبار
-  آحاد وليس بمتواتر.قال ابن عرفة: وحاصل (كلام) (الناس) فيها أنها على وجهين: فأما ما
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(2, 6)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(2,6)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">إِنَّ
+  ٱلَّذِينَ كَفَرُواْ سَوَآءٌ عَلَيْهِمْ ءَأَنذَرْتَهُمْ أَمْ لَمْ تُنْذِرْهُمْ لاَ
+  يُؤْمِنُونَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">قوله تعالى: { إِنَّ ٱلَّذِينَ كَفَرُواْ
+  سَوَآءٌ... }</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">قال ابن عرفة: لما كان المخاطب في
+  مادة (أن ينكر) مساواة (حالة) إنذارهم لحالة عدم الإنذار بل (نقول): إنّها مظنة الانزجار
+  والفلاح (والنجاح) احتيج إلى تأكيد المساواة بأن قال ابن عطية: قيل: (للزارع) كافر
+  لأنه يغطي الحب ويقال: إذا غطى قلبه بالدين عن (الإيمان) أو غطى الحق بأقواله وأفعاله.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قال ابن عرفة: أما الأول فظاهر لأنّ الدّين يجامع القلب فيصح تغطيته
+  إياه، واعتقاد الحق لا يجامع اعتقاد الباطل، بل هو نقيضه وستره (له) لا يكون إلا مع
+  اجتماعه معه: والفرض أنه لا يجامعه وأما باعتبار الأفعال فظاهر.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قيل لابن عرفة: يصحّ اجتماعهما باعتبار اختلاف المتعلق؟</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">فقال: تحول المسألة وما (كلامه) إلا فيما إذا كان متعلق الكفر هو متعلق
+  الإيمان، (فحينئذ) (تتعلق) التغطية.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قيل
+  له: تكون التغطية مجازا، عبر به عن (معاندة) أحد الاعتقادين للآخر؟</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">فقال: إنما هو مخبر عن أصل العقيدة أي هذه اللفظة ممّاذَا هي مشتقة؟
+  فما حقه أن يأتي إلاّ الحقيقة اللّغوية، وأما المجاز فليس بأصلي.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">واختلف الأصوليون في الألف واللام الداخلة على الموصول فقيل: إنها
+  للجنس ويكون عاما مخصوصا كأكثر عمومات القرآن.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقيل:
+  إنها مطلقة فتكون للحقيقة أعني الماهية، فلا يحتاج إلى تخصيص، ويحتمل أن تكون للعهد.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">ابن عطية: وقال الرّبيع بن أنس: (إنّ) الآية نزلت في قادة الأحزاب
+  وهم أهمّ أهل القليب ببدر، وفي بعض النسخ وأهل القليب ببدر.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال
+  ابن عرفة: وهو الصحيح فإن غزوة الأحزاب متأخرة عن بدر، وأهل القليب ببدر قتلوا فلم
+  يبق منهم أحد للأحزاب.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">قال ابن عرفة: إلاّ أن يريد بالأحزاب
+  الجماعة ولا يريد به الغزوة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال
+  الإمام ابن الخطيب: والآية دليل على جواز تأخير البيان (عن) وقت الحاجة، فإنها لم (تبين)
+  متعلقها.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">ورده ابن عرفة بأنها ليس المراد
+  بها التكليف (فيحتاج) إلى بيان وإنما هي تخويف وإنذار، والعموم أدعى (لحصول) التخويف
+  من الخصوص.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">قوله تعالى: { ءَأَنذَرْتَهُمْ...
+  }</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">أنكر الزمخشري هنا قراءة ورش وجعلها
+  لحنا وكفره الطيبي. وظاهر كلام الطيبي هذا أن (السّبع) (قراءات) أخبار آحاد وليس بمتواتر.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قال ابن عرفة: وحاصل (كلام) (الناس) فيها أنها على وجهين: فأما ما
   يرجع إلى آحاد الكلم كملك ومالك ويخدعون ويخادعون فهو متواتر اتفاقا من غير خلاف منصوص،
   إلا أن ظاهر كلام الدّاودي على ما نقل عنه (الأنباري) أنها غير متواترة. وأما ما يرجع
-  إلى كيفية النطق بها من إعراب وإمالة وكيفية وقف ففيه ثلاثة أقوال:الأول نقل (الأنباري)
-  شارح البرهان عن أبي المعالي أنها متواترة وأنكره عليه وهو اختيار الشيخ أبي عبد الله
-  محمد بن سلامة من أشياخنا.(الثاني) أنّها متواترة عند القراء فقط (نقله المازري في
-  شرح البرهان واختاره شيخنا ابن عرفة.\r\n\t\t\t\r\n\t\t\t1 2 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ إِنَّ ٱلَّذِينَ كَفَرُواْ سَوَآءٌ
-  عَلَيْهِمْ ءَأَنذَرْتَهُمْ أَمْ لَمْ تُنْذِرْهُمْ لاَ يُؤْمِنُونَ }الثالث: أنها
+  إلى كيفية النطق بها من إعراب وإمالة وكيفية وقف ففيه ثلاثة أقوال:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">الأول نقل (الأنباري) شارح البرهان عن أبي المعالي أنها متواترة وأنكره
+  عليه وهو اختيار الشيخ أبي عبد الله محمد بن سلامة من أشياخنا.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">(الثاني) أنّها متواترة عند القراء فقط (نقله المازري في شرح البرهان
+  واختاره شيخنا ابن عرفة.</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\"
+  border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE:
+  none; BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(20,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(20,2,1)\"><u>2</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2, 6)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,6)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">إِنَّ ٱلَّذِينَ كَفَرُواْ سَوَآءٌ عَلَيْهِمْ ءَأَنذَرْتَهُمْ
+  أَمْ لَمْ تُنْذِرْهُمْ لاَ يُؤْمِنُونَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\"
+  dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">الثالث: أنها
   غير متواترة) قاله ابن العربي في العواصم والقواصم (والأنباري) وابن رشد في كتاب الصلاة
-  الأول وفي كتاب (الجامع) الرابع من البيان والتحصيل.قال ابن عرفة: وهو اختيار الشيخ
-  أبي إسحاق إبراهيم (الجزري) وشيخنا القاضي أبي عبد الله محمد بن عبد السلام وصاحبنا
-  الفقيه أبي العباس أحمد بن إدريس (البجائي).ءَأنذَرْتَهُمْ: استفهام في معنى الخبر
-  أو معنى المصدر أي إنذارك وعدم إنذارك سواء.قال: (وسَوَاءٌ) مبتدأ وءَأَنذرْتَهُمْ
+  الأول وفي كتاب (الجامع) الرابع من البيان والتحصيل.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال
+  ابن عرفة: وهو اختيار الشيخ أبي إسحاق إبراهيم (الجزري) وشيخنا القاضي أبي عبد الله
+  محمد بن عبد السلام وصاحبنا الفقيه أبي العباس أحمد بن إدريس (البجائي).</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">ءَأنذَرْتَهُمْ: استفهام في معنى الخبر أو معنى المصدر أي إنذارك وعدم
+  إنذارك سواء.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">قال: (وسَوَاءٌ) مبتدأ وءَأَنذرْتَهُمْ
   إما فاعل وإما خبره (ويصح) أن يكون مبتدأ لأنه يكون الخبر أفاده المبتدأ، فلا فائدة
-  (فيه).ورده ابن عرفة: بأنه يفيد التسوية إذْ لَعلّ المراد إنذارك وعدم إنذارك مختلفان.قال
+  (فيه).</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">ورده ابن عرفة: بأنه يفيد التسوية
+  إذْ لَعلّ المراد إنذارك وعدم إنذارك مختلفان.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال
   ابن عرفة: والصواب أنه على/ حذف مضاف أي سواء عليهم جواب { ءَأَنذَرْتَهُمْ أَمْ لَمْ
   تُنذِرْهُمْ }. ويكون استفهاما حقيقة لأن الاستفهام في قوله مجاز (والمصدر) يحتاج إلى
-  (أداة) (تصيّر) الفعل مقدرا بالمصدر وهو (بمنزلة) قول.قيل: يشتمل على إنذار وجوابه
-  (إمّا معه) أو قبله ولذلك هنا جواب (الأمرين) عندهم سواء.قوله تعالى: { لاَ يُؤْمِنُونَ
-  }.هو احتراز لأنه قد يكون الاختيار (باستواء) الحالتين عندهم يقتضي مبادرتهم إلى الإيمان
-  وعدم (توقّفهم) على الإنذار فاحترز من ذلك (ببيان) أنهم على العكس.قيل لابن عرفة: إن
-  (ابن فورك) أبطل بهذه الآية قاعدة التحسين والتقبيح؟قال: لأن الله تعالى أخبر أن الإنذار
-  لا ينفع فيهم، وقد أمر بإنذارهم، ومراعاةُ الأصلح (تقتضي) عدم تكليفهم وعدم إنذارهم.(فقال):
+  (أداة) (تصيّر) الفعل مقدرا بالمصدر وهو (بمنزلة) قول.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قيل:
+  يشتمل على إنذار وجوابه (إمّا معه) أو قبله ولذلك هنا جواب (الأمرين) عندهم سواء.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قوله تعالى: { لاَ يُؤْمِنُونَ }.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">هو
+  احتراز لأنه قد يكون الاختيار (باستواء) الحالتين عندهم يقتضي مبادرتهم إلى الإيمان
+  وعدم (توقّفهم) على الإنذار فاحترز من ذلك (ببيان) أنهم على العكس.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قيل لابن عرفة: إن (ابن فورك) أبطل بهذه الآية قاعدة التحسين والتقبيح؟</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قال: لأن الله تعالى أخبر أن الإنذار لا ينفع فيهم، وقد أمر بإنذارهم،
+  ومراعاةُ الأصلح (تقتضي) عدم تكليفهم وعدم إنذارهم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">(فقال):
   (تقدم) ذلك في جواز تكليف ما لا يطاق وهذا متفق عليه فإنّ هؤلاء المخبر عنهم بذلك غير
   معيّنين فليست هذه كقضية أبي لهب وإنّما الخلاف يخبر عن معينين (بعدم) الإيمان وتكليفهم
-  بالإيمان كقضية أبي لهب فليس في هذه الآية دليل بوجه.\r\n\t\t\t\r\n\t\t\t1 2 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  بالإيمان كقضية أبي لهب فليس في هذه الآية دليل بوجه.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(20,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(20,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section>"
 

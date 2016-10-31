@@ -1,4 +1,4 @@
-location:
+position:
   sura: 009
   aaya: '047'
   madhab: '01'
@@ -9,63 +9,141 @@ meta:
   year: '310'
 aaya: لَوْ خَرَجُوا فِيكُمْ مَا زَادُوكُمْ إِلَّا خَبَالًا وَلَأَوْضَعُوا خِلَالَكُمْ
   يَبْغُونَكُمُ الْفِتْنَةَ وَفِيكُمْ سَمَّاعُونَ لَهُمْ ۗ وَاللَّهُ عَلِيمٌ بِالظَّالِمِينَ
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ لَوْ خَرَجُواْ
-  فِيكُم مَّا زَادُوكُمْ إِلاَّ خَبَالاً ولأَوْضَعُواْ خِلاَلَكُمْ يَبْغُونَكُمُ ٱلْفِتْنَةَ
-  وَفِيكُمْ سَمَّاعُونَ لَهُمْ وَٱللَّهُ عَلِيمٌ بِٱلظَّالِمِينَ }يقول تعالى ذكره:
-  لو خرج أيها المؤمنون فيكم هؤلاء المنافقون، { ما زَادُوكُمْ إلاَّ خَبالاً } يقول:
-  لم يزيدوكم بخروجهم فيكم إلا فساداً وضرّاً ولذلك ثبطتهم عن الخروج معكم. وقد بيَّنا
-  معنى الخبال بشواهده فيما مضى قبل. { وَلأَوْضَعُوا خِلالَكُمْ } يقول: ولأسرعوا بركائبهم
-  السير بينكم. وأصله من إيضاع الخيل والركاب، وهو الإسراع بها في السير، يقال للناقة
-  إذا أسرعت السير: وضعت الناقة تضع وضعاً ومَوْضُوعاً، وأوضعها صاحبها: إذا جدّ بها
-  وأسرع يُوضِعُها إيضاعاً ومنه قول الراجز:يا لَيْتَنِي فِيها جَذَعْ   أخُبُّ فيها
-  وأضَعْوأما أصل الخلال: فهو من الخلل: وهي الفرج تكون بين القوم في الصفوف وغيرها ومنه
-  قول النبيّ صلى الله عليه وسلم: \" تَرَاصُّوا فِي الصُّفُوفِ لا يَتَخَلَّلُكُمْ أوْلادُ
-  الحَذَفِ \" وأما قوله: { يَبْغُونَكُمُ الفِتْنَةَ } فإن معنى يبغونكم الفتنة: يطلبون
-  لكم ما تفتنون به عن مخرجكم في مغزاكم، بتثبيطهم إياكم عنه، يقال منه: بغيته الشرّ،
-  وبغيته الخير أبغيه بغاءً: إذا التمسته له، بمعنى: بغيت له، وكذلك عكمتك وحلبتك، بمعنى:
-  حلبت لك وعكمت لك، وإذا أرادوا أعنتك على التماسه وطلبه، قالوا: أبغيتك كذا وأحلبتك
-  وأعكمتك: أي أعنتك عليه.وبنحو الذي قلنا في ذلك قال أهل التأويل. ذكر من قال ذلك:حدثنا
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(9, 47)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(9,47)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">لَوْ
+  خَرَجُواْ فِيكُم مَّا زَادُوكُمْ إِلاَّ خَبَالاً ولأَوْضَعُواْ خِلاَلَكُمْ يَبْغُونَكُمُ
+  ٱلْفِتْنَةَ وَفِيكُمْ سَمَّاعُونَ لَهُمْ وَٱللَّهُ عَلِيمٌ بِٱلظَّالِمِينَ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">يقول تعالى ذكره: لو خرج أيها المؤمنون فيكم هؤلاء المنافقون، { ما
+  زَادُوكُمْ إلاَّ خَبالاً } يقول: لم يزيدوكم بخروجهم فيكم إلا فساداً وضرّاً ولذلك
+  ثبطتهم عن الخروج معكم. وقد بيَّنا معنى الخبال بشواهده فيما مضى قبل. { وَلأَوْضَعُوا
+  خِلالَكُمْ } يقول: ولأسرعوا بركائبهم السير بينكم. وأصله من إيضاع الخيل والركاب،
+  وهو الإسراع بها في السير، يقال للناقة إذا أسرعت السير: وضعت الناقة تضع وضعاً ومَوْضُوعاً،
+  وأوضعها صاحبها: إذا جدّ بها وأسرع يُوضِعُها إيضاعاً ومنه قول الراجز:</font></font><table
+  class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">يا لَيْتَنِي فِيها جَذَعْ</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">أخُبُّ فيها وأضَعْ</font></font></b></td></tr></table><font class=\"TextResultArabic\"><font
+  color=\"black\">وأما أصل الخلال: فهو من الخلل: وهي الفرج تكون بين القوم في الصفوف
+  وغيرها ومنه قول النبيّ صلى الله عليه وسلم:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" تَرَاصُّوا فِي الصُّفُوفِ لا يَتَخَلَّلُكُمْ أوْلادُ الحَذَفِ
+  \" </font></font></b><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وأما قوله: { يَبْغُونَكُمُ الفِتْنَةَ
+  } فإن معنى يبغونكم الفتنة: يطلبون لكم ما تفتنون به عن مخرجكم في مغزاكم، بتثبيطهم
+  إياكم عنه، يقال منه: بغيته الشرّ، وبغيته الخير أبغيه بغاءً: إذا التمسته له، بمعنى:
+  بغيت له، وكذلك عكمتك وحلبتك، بمعنى: حلبت لك وعكمت لك، وإذا أرادوا أعنتك على التماسه
+  وطلبه، قالوا: أبغيتك كذا وأحلبتك وأعكمتك: أي أعنتك عليه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وبنحو
+  الذي قلنا في ذلك قال أهل التأويل. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
   محمد بن عبد الأعلى، قال: ثنا محمد بن ثور، عن معمر، عن قتادة: { ولأَوْضَعُوا خِلالَكُم
-  } بينكم { يَبْغُونَكُمُ الفِتْنَةَ } بذلك.حدثنا بشر بن معاذ، قال: ثنا يزيد، قال:
-  ثنا سعيد، عن قتادة، قوله: { ولأَوْضَعُوا خِلالَكُمْ } يقول: ولأوضعوا أسلحتهم خلالكم
-  بالفتنة.حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، عن ابن أبي نجيح، عن
-  مجاهد: { ولأَوْضَعُوا خِلالَكُمْ يَبْغُونَكُمُ الفِتْنَةَ } يبطئونكم. قال: رفاعة
-  بن التابوت، وعبد الله بن أبيّ ابن سلول، وأوس بن قيظي.حدثنا القاسم، قال: ثنا الحسين،
-  قال: ثني حجاج، عن ابن جريج، عن مجاهد، قوله: { ولأَوْضَعُوا خِلالَكُمْ } قال: لأسرعوا
-  الأزقة خلالكم. { يَبْغُونَكُمُ الفِتْنَةَ } يبطئونكم، عبد الله بن نبتل، ورفاعة بن
-  تابوت، وعبد الله بن أبيّ ابن سلول.قال: حدثنا الحسن، قال: ثني أبو سفيان، عن معمر،
-  عن قتادة: { ولأَوْضَعُوا خِلالَكُمْ } قال: لأسرعوا خلالكم { يَبْغُونَكُمُ الفِتْنَةَ
-  } بذلك.حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد في قوله: { لَوْ خَرَجُوا
-  فِيكُمْ ما زَادُوكُمْ إلاَّ خَبالاً } قال: هؤلاء المنافقون في غزوة تبوك، يُسّليّ
-  الله عنهم نبيه صلى الله عليه وسلم والمؤمنين، فقال: وما يُحْزِنكم. { ولأَوْضَعُوا
-  خِلالَكُمْ يَبْغُونَكُمُ الفِتْنَةَ } الكفر.وأما قوله: { وَفِيكُمْ سَمَّاعُونَ لَهُمْ
-  } فإن أهل التأويل اختلفوا في تأويله، فقال بعضهم: معنى ذلك: وفيكم سماعون لحديثكم
-  لهم يؤدونه إليهم عيون لهم عليكم. ذكر من قال ذلك:حدثنا محمد بن عمرو، قال: ثنا أبو
-  عاصم، قال: ثنا عيسى، عن ابن أبي نجيح، عن مجاهد: { وَفِيكُمْ سَمَّاعُونَ لَهُمْ }
-  يحدّثون بأحاديثكم، عيونٌ غير منافقين.\r\n\t\t\t\r\n\t\t\t1 2 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ لَوْ خَرَجُواْ فِيكُم مَّا زَادُوكُمْ
-  إِلاَّ خَبَالاً ولأَوْضَعُواْ خِلاَلَكُمْ يَبْغُونَكُمُ ٱلْفِتْنَةَ وَفِيكُمْ سَمَّاعُونَ
-  لَهُمْ وَٱللَّهُ عَلِيمٌ بِٱلظَّالِمِينَ }حدثنا القاسم، قال: ثنا الحسين، قال: ثني
-  حجاج، عن ابن جريج، عن مجاهد: { وَفِيكُمْ سَمَّاعُونَ لَهُمْ } قال: محدّثون عيون
-  غير منافقين.حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله: { وَفِيكُمْ
-  سَمَّاعُونَ لَهُمْ } يسمعون ما يؤدونه لعدوّكم.وقال آخرون: بل معنى ذلك: وفيكم من
-  يسمع كلامهم ويطيع لهم. ذكر من قال ذلك:حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن
-  قتادة: { وَفِيكُمْ سَمَّاعُونَ لَهُمْ } وفيكم من يسمع كلامهم.حدثنا ابن حميد، قال:
-  ثنا سلمة، عن ابن إسحاق، قال: كان الذين استأذنوا فيما بلغني من ذوي الشرف منهم: عبد
-  الله بن أبيّ ابن سلولَ والجدّ بن قيس، وكانوا أشرافا في قومهم، فثبطهم الله لعلمه
-  بهم أن يخرجوا معهم فيفسدوا عليه جنده، وكان في جنده قوم أهل محبة لهم وطاعة فيما يدعونهم
-  إليه لشرفهم فيهم، فقال: { وَفِيكُمْ سَمَّاعُونَ لَهُمْ } فعلى هذا التأويل: وفيكم
-  أهل سمع وطاعة منكم لو صحبوكم أفسدوهم عليكم بتثبيطهم إياهم عن السير معكم.وأما على
-  التأويل الأوّل، فإن معناه: وفيكم منهم سماعون يسمعون حديثكم لهم، فيبلغونهم ويؤدونه
-  إليهم عيون لهم عليكم.قال أبو جعفر: وأولى التأويلين عندي في ذلك بالصواب تأويل من
-  قال: معناه: وفيكم سماعون لحديثكم لهم يبلغونه عنكم عيون لهم، لأن الأغلب من كلام العرب
-  في قولهم: سماع، وصف من وصف به أنه سماع للكلام، كما قال الله جلّ ثناؤه في غير موضع
-  من كتابه: سمَّاعُونَ للْكَذِبِ واصفاً بذلك قوماً بسماع الكذب من الحديث. وأما إذا
-  وصفوا الرجل بسماع كلام الرجل وأمره ونهيه وقبوله منه، وانتهائه إليه فإنما تصفه بأنه
-  له سامع ومطيع، ولا تكاد تقول: هو له سماع مطيع.وأما قوله: { وَاللَّهُ عَلِيمٌ بالظَّالِمِينَ
-  } فإن معناه: والله ذو علم بمن يوجه أفعاله إلى غير وجوهها ويضعها في غير مواضعها،
-  ومن يستأذن رسول الله صلى الله عليه وسلم لعذر ومن يستأذنه شكًّا في الإسلام ونفاقاً،
-  ومن يسمع حديث المؤمنين ليخبر به المنافقين ومن يسمعه ليسرّ بما سرّ المؤمنين ويساء
-  بما ساءهم، لا يخفى عليه شيء من سرائر خلقه وعلانيتهم. وقد بيَّنا معنى الظلم في غير
-  موضع من كتابنا هذا بما أغنى عن إعادته في هذا الموضع.\r\n\t\t\t\r\n\t\t\t1 2 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  } بينكم { يَبْغُونَكُمُ الفِتْنَةَ } بذلك.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  بشر بن معاذ، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: { ولأَوْضَعُوا خِلالَكُمْ
+  } يقول: ولأوضعوا أسلحتهم خلالكم بالفتنة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، عن ابن أبي نجيح، عن مجاهد: { ولأَوْضَعُوا
+  خِلالَكُمْ يَبْغُونَكُمُ الفِتْنَةَ } يبطئونكم. قال: رفاعة بن التابوت، وعبد الله
+  بن أبيّ ابن سلول، وأوس بن قيظي.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن ابن جريج، عن مجاهد، قوله: { ولأَوْضَعُوا
+  خِلالَكُمْ } قال: لأسرعوا الأزقة خلالكم. { يَبْغُونَكُمُ الفِتْنَةَ } يبطئونكم،
+  عبد الله بن نبتل، ورفاعة بن تابوت، وعبد الله بن أبيّ ابن سلول.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قال: حدثنا الحسن، قال: ثني أبو سفيان، عن معمر، عن قتادة: { ولأَوْضَعُوا
+  خِلالَكُمْ } قال: لأسرعوا خلالكم { يَبْغُونَكُمُ الفِتْنَةَ } بذلك.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد في قوله: { لَوْ
+  خَرَجُوا فِيكُمْ ما زَادُوكُمْ إلاَّ خَبالاً } قال: هؤلاء المنافقون في غزوة تبوك،
+  يُسّليّ الله عنهم نبيه صلى الله عليه وسلم والمؤمنين، فقال: وما يُحْزِنكم. { ولأَوْضَعُوا
+  خِلالَكُمْ يَبْغُونَكُمُ الفِتْنَةَ } الكفر.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وأما
+  قوله: { وَفِيكُمْ سَمَّاعُونَ لَهُمْ } فإن أهل التأويل اختلفوا في تأويله، فقال بعضهم:
+  معنى ذلك: وفيكم سماعون لحديثكم لهم يؤدونه إليهم عيون لهم عليكم. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، عن ابن أبي
+  نجيح، عن مجاهد: { وَفِيكُمْ سَمَّاعُونَ لَهُمْ } يحدّثون بأحاديثكم، عيونٌ غير منافقين.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(9, 47)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(9,47)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">لَوْ خَرَجُواْ فِيكُم مَّا زَادُوكُمْ إِلاَّ خَبَالاً
+  ولأَوْضَعُواْ خِلاَلَكُمْ يَبْغُونَكُمُ ٱلْفِتْنَةَ وَفِيكُمْ سَمَّاعُونَ لَهُمْ
+  وَٱللَّهُ عَلِيمٌ بِٱلظَّالِمِينَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\"
+  dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">حدثنا القاسم،
+  قال: ثنا الحسين، قال: ثني حجاج، عن ابن جريج، عن مجاهد: { وَفِيكُمْ سَمَّاعُونَ لَهُمْ
+  } قال: محدّثون عيون غير منافقين.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله: { وَفِيكُمْ سَمَّاعُونَ لَهُمْ
+  } يسمعون ما يؤدونه لعدوّكم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  آخرون: بل معنى ذلك: وفيكم من يسمع كلامهم ويطيع لهم. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة: { وَفِيكُمْ سَمَّاعُونَ
+  لَهُمْ } وفيكم من يسمع كلامهم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن حميد، قال: ثنا سلمة، عن ابن إسحاق، قال: كان الذين استأذنوا فيما بلغني من ذوي
+  الشرف منهم: عبد الله بن أبيّ ابن سلولَ والجدّ بن قيس، وكانوا أشرافا في قومهم، فثبطهم
+  الله لعلمه بهم أن يخرجوا معهم فيفسدوا عليه جنده، وكان في جنده قوم أهل محبة لهم وطاعة
+  فيما يدعونهم إليه لشرفهم فيهم، فقال: { وَفِيكُمْ سَمَّاعُونَ لَهُمْ } فعلى هذا التأويل:
+  وفيكم أهل سمع وطاعة منكم لو صحبوكم أفسدوهم عليكم بتثبيطهم إياهم عن السير معكم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وأما على التأويل الأوّل، فإن معناه: وفيكم منهم سماعون يسمعون حديثكم
+  لهم، فيبلغونهم ويؤدونه إليهم عيون لهم عليكم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال
+  أبو جعفر: وأولى التأويلين عندي في ذلك بالصواب تأويل من قال: معناه: وفيكم سماعون
+  لحديثكم لهم يبلغونه عنكم عيون لهم، لأن الأغلب من كلام العرب في قولهم: سماع، وصف
+  من وصف به أنه سماع للكلام، كما قال الله جلّ ثناؤه في غير موضع من كتابه: سمَّاعُونَ
+  للْكَذِبِ واصفاً بذلك قوماً بسماع الكذب من الحديث. وأما إذا وصفوا الرجل بسماع كلام
+  الرجل وأمره ونهيه وقبوله منه، وانتهائه إليه فإنما تصفه بأنه له سامع ومطيع، ولا تكاد
+  تقول: هو له سماع مطيع.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وأما قوله: { وَاللَّهُ عَلِيمٌ
+  بالظَّالِمِينَ } فإن معناه: والله ذو علم بمن يوجه أفعاله إلى غير وجوهها ويضعها في
+  غير مواضعها، ومن يستأذن رسول الله صلى الله عليه وسلم لعذر ومن يستأذنه شكًّا في الإسلام
+  ونفاقاً، ومن يسمع حديث المؤمنين ليخبر به المنافقين ومن يسمعه ليسرّ بما سرّ المؤمنين
+  ويساء بما ساءهم، لا يخفى عليه شيء من سرائر خلقه وعلانيتهم. وقد بيَّنا معنى الظلم
+  في غير موضع من كتابنا هذا بما أغنى عن إعادته في هذا الموضع.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section>"
 

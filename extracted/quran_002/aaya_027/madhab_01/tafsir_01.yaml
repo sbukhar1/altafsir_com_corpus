@@ -1,4 +1,4 @@
-location:
+position:
   sura: '002'
   aaya: '027'
   madhab: '01'
@@ -7,126 +7,276 @@ meta:
   title: تفسير جامع البيان في تفسير القرآن
   author: الطبري
   year: '310'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ ٱلَّذِينَ يَنقُضُونَ
-  عَهْدَ ٱللَّهِ مِن بَعْدِ مِيثَٰقِهِ وَيَقْطَعُونَ مَآ أَمَرَ ٱللَّهُ بِهِ أَن يُوصَلَ
-  وَيُفْسِدُونَ فِي ٱلأرْضِ أُولَـۤئِكَ هُمُ ٱلْخَٰسِرُونَ }قال أبو جعفر: وهذا وصف
-  من الله جل ذكره الفـاسقـين الذين أخبر أنه لا يضلّ بـالـمثل الذي ضربه لأهل النفـاق
-  غيرهم، فقال: { ومَا يُضِلُّ } اللَّهُ بـالـمثل الذي يضربه علـى ما وصف قبل فـي الآيات
-  الـمتقدمة إلا الفـاسقـين الذين ينقضون عهد الله من بعد ميثاقه.ثم اختلف أهل الـمعرفة
-  فـي معنى العهد الذي وصف الله هؤلاء الفـاسقـين بنقضه، فقال بعضهم: هو وصية الله إلـى
-  خـلقه، وأمره إياهم بـما أمرهم به من طاعته، ونهيه إياهم عما نهاهم عنه من معصيته فـي
-  كتبه وعلـى لسان رسوله صلى الله عليه وسلم، ونقضهم ذلك تركهم العمل به.وقال آخرون:
-  إنـما نزلت هذه الآيات فـي كفـار أهل الكتاب والـمنافقـين منهم، وإياهم عنى الله جل
-  ذكره بقوله:{ إِنَّ ٱلَّذِينَ كَفَرُواْ سَوَآءٌ عَلَيْهِمْ ءَأَنذَرْتَهُمْ }[البقرة:
-  6] وبقوله:{ وَمِنَ ٱلنَّاسِ مَن يَقُولُ آمَنَّا بِٱللَّهِ وَبِٱلْيَوْمِ ٱلآخِرِ }[البقرة:
-  8] فكل ما فـي هذه الآيات فعذل لهم وتوبـيخ إلـى انقضاء قصصهم. قالوا: فعهد الله الذي
-  نقضوه بعد ميثاقه: هو ما أخذه الله علـيهم فـي التوراة من العمل بـما فـيها، واتبـاع
-  مـحمد صلى الله عليه وسلم إذا بعث، والتصديق به وبـما جاء به من عند ربهم. ونقضهم ذلك
-  هو جحودهم به بعد معرفتهم بحقـيقته، وإنكارهم ذلك، وكتـمانهم علـم ذلك عن الناس، بعد
-  إعطائهم الله من أنفسهم الـميثاق لـيبـيننه للناس ولا يكتـمونه. فأخبر الله جل ثناؤه
-  أنهم نبذوه وراء ظهورهم واشتروا به ثمنا قلـيلاً.وقال بعضهم: إن الله عنى بهذه الآية
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(2, 27)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(2,27)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">ٱلَّذِينَ
+  يَنقُضُونَ عَهْدَ ٱللَّهِ مِن بَعْدِ مِيثَٰقِهِ وَيَقْطَعُونَ مَآ أَمَرَ ٱللَّهُ
+  بِهِ أَن يُوصَلَ وَيُفْسِدُونَ فِي ٱلأرْضِ أُولَـۤئِكَ هُمُ ٱلْخَٰسِرُونَ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">قال أبو جعفر: وهذا وصف من الله جل ذكره الفـاسقـين الذين أخبر أنه
+  لا يضلّ بـالـمثل الذي ضربه لأهل النفـاق غيرهم، فقال: { ومَا يُضِلُّ } اللَّهُ بـالـمثل
+  الذي يضربه علـى ما وصف قبل فـي الآيات الـمتقدمة إلا الفـاسقـين الذين ينقضون عهد
+  الله من بعد ميثاقه.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">ثم اختلف أهل الـمعرفة فـي معنى
+  العهد الذي وصف الله هؤلاء الفـاسقـين بنقضه، فقال بعضهم: هو وصية الله إلـى خـلقه،
+  وأمره إياهم بـما أمرهم به من طاعته، ونهيه إياهم عما نهاهم عنه من معصيته فـي كتبه
+  وعلـى لسان رسوله صلى الله عليه وسلم، ونقضهم ذلك تركهم العمل به.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال آخرون: إنـما نزلت هذه الآيات فـي كفـار أهل الكتاب والـمنافقـين
+  منهم، وإياهم عنى الله جل ذكره بقوله:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">إِنَّ ٱلَّذِينَ كَفَرُواْ سَوَآءٌ
+  عَلَيْهِمْ ءَأَنذَرْتَهُمْ</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">[البقرة: 6] وبقوله:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">وَمِنَ ٱلنَّاسِ مَن يَقُولُ آمَنَّا
+  بِٱللَّهِ وَبِٱلْيَوْمِ ٱلآخِرِ</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">[البقرة: 8] فكل ما فـي هذه الآيات
+  فعذل لهم وتوبـيخ إلـى انقضاء قصصهم. قالوا: فعهد الله الذي نقضوه بعد ميثاقه: هو ما
+  أخذه الله علـيهم فـي التوراة من العمل بـما فـيها، واتبـاع مـحمد صلى الله عليه وسلم
+  إذا بعث، والتصديق به وبـما جاء به من عند ربهم. ونقضهم ذلك هو جحودهم به بعد معرفتهم
+  بحقـيقته، وإنكارهم ذلك، وكتـمانهم علـم ذلك عن الناس، بعد إعطائهم الله من أنفسهم
+  الـميثاق لـيبـيننه للناس ولا يكتـمونه. فأخبر الله جل ثناؤه أنهم نبذوه وراء ظهورهم
+  واشتروا به ثمنا قلـيلاً.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال بعضهم: إن الله عنى بهذه الآية
   جميع أهل الشرك والكفر والنفـاق وعهده إلـى جميعهم فـي توحيده ما وضع لهم من الأدلة
   الدال علـى ربوبـيته وعهده إلـيهم فـي أمره ونهيه ما احتـج به لرسله من الـمعجزات التـي
   لا يقدر أحد من الناس غيرهم أن يأتـي بـمثلها الشاهدة لهم علـى صدقهم. قالوا: ونقضهم
   ذلك تركهم الإقرار بـما قد تبـينت لهم صحته بـالأدلة، وتكذيبهم الرسل والكتب، مع علـمهم
-  أن ما أتوا به حق.وقال آخرون: العهد الذي ذكره الله جل ذكره، هو العهد الذي أخذه علـيهم
-  حين أخرجهم من صلب آدم، الذي وصفه فـي قوله:{ وَإِذْ أَخَذَ رَبُّكَ مِن بَنِيۤ ءَادَمَ
-  مِن ظُهُورِهِمْ ذُرِّيَّتَهُمْ وَأَشْهَدَهُمْ عَلَىٰ أَنفُسِهِمْ }[الأعراف: 172]
-  الآيتـين، ونقضُهم ذلك، تركهم الوفـاء به. وأولـى الأقوال عندي بـالصواب فـي ذلك، قول
-  من قال: إن هذه الآيات نزلت فـي كفـار أحبـار الـيهود الذين كانوا بـين ظهرانـي مهاجر
-  رسول الله صلى الله عليه وسلم، وما قرب منها من بقايا بنـي إسرائيـل، ومن كان علـى
-  شركه من أهل النفـاق الذين قد بـينا قصصهم فـيـما مضى من كتابنا هذا. وقد دللنا علـى
-  أن قول الله جل ثناؤه: { إِنَّ ٱلَّذِينَ كَفَرُواْ سَوَآءٌ عَلَيْهِمْ } وقوله: {
-  وَمِنَ ٱلنَّاسِ مَن يَقُولُ آمَنَّا بِٱللَّهِ وَبِٱلْيَوْمِ ٱلآخِرِ } فـيهم أنزلت،
-  وفـيـمن كان علـى مثل الذي هم علـيه من الشرك بـالله.\r\n\t\t\t\r\n\t\t\t1 2 3 4 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ ٱلَّذِينَ يَنقُضُونَ عَهْدَ ٱللَّهِ
-  مِن بَعْدِ مِيثَٰقِهِ وَيَقْطَعُونَ مَآ أَمَرَ ٱللَّهُ بِهِ أَن يُوصَلَ وَيُفْسِدُونَ
-  فِي ٱلأرْضِ أُولَـۤئِكَ هُمُ ٱلْخَٰسِرُونَ }غير أن هذه الآيات عندي وإن كانت فـيهم
-  نزلت، فإنه معنـيّ بها كل من كان علـى مثل ما كانوا علـيه من الضلال، ومعنـيّ بـما
-  وافق منها صفة الـمنافقـين خاصةً جميعُ الـمنافقـين، وبـما وافق منها صفة كفـار أحبـار
-  الـيهود جميع من كان لهم نظيراً فـي كفرهم. وذلك أن الله جل ثناؤه يعمّ أحياناً جميعهم
-  بـالصفة لتقديـمه ذكر جميعها فـي أول الآيات التـي ذكرتْ قصصهم، ويخصّ أحياناً بـالصفة
-  بعضهم لتفصيـله فـي أول الآيات بـين فريقـيهم، أعنـي فريق الـمنافقـين من عبدة الأوثان
-  وأهل الشرك بـالله، وفريق كفـار أحبـار الـيهود، فـالذين ينقضون عهد الله: هم التاركون
-  ما عهد الله إلـيهم من الإقرار بـمـحمد صلى الله عليه وسلم وبـما جاء به وتبـيـين نبوّته
-  للناس الكاتـمون بـيان ذلك بعد علـمهم به وبـما قد أخذ الله علـيهم فـي ذلك، كما قال
-  الله جل ذكره:{ وَإِذْ أَخَذَ ٱللَّهُ مِيثَاقَ ٱلَّذِينَ أُوتُواْ ٱلْكِتَابَ لَتُبَيِّنُنَّهُ
-  لِلنَّاسِ وَلاَ تَكْتُمُونَهُ فَنَبَذُوهُ وَرَآءَ ظُهُورِهِمْ }[آل عمران: 187] ونبذهم
-  ذلك وراء ظهورهم: هو نقضهم العهد الذي عهد إلـيهم فـي التوراة الذي وصفناه، وتَرْكُهم
-  العمل به.وإنـما قلت: إنه عنى بهذه الآيات من قلت إنه عَنَى بها، لأن الآيات من ابتداء
-  الآيات الـخمس والستّ من سورة البقرة فـيهم نزلت إلـى تـمام قصصهم، وفـي الآية التـي
-  بعد الـخبر عن خـلق آدم وابـنائه فـي قوله:{ يَٰبَنِي إِسْرَائِيلَ ٱذْكُرُواْ نِعْمَتِيَ
-  ٱلَّتِي أَنْعَمْتُ عَلَيْكُمْ وَأَوْفُواْ بِعَهْدِيۤ أُوفِ بِعَهْدِكُمْ }[البقرة:
-  40] وخطابه إياهم جلّ ذكره بـالوفـاء فـي ذلك خاصة دون سائر البشر ما يدلّ علـى أن
-  قوله: { ٱلَّذِينَ يَنقُضُونَ عَهْدَ ٱللَّهِ مِن بَعْدِ مِيثَٰقِهِ } مقصود به كفـارهم
-  ومنافقوهم، ومن كان من أشياعهم من مشركي عبدة الأوثان علـى ضلالهم. غير أن الـخطاب
-  وإن كان لـمن وصفت من الفريقـين فداخـل فـي أحكامهم وفـيـما أوجب الله لهم من الوعيد
-  والذمّ والتوبـيخ كل من كان علـى سبـيـلهم ومنهاجهم من جميع الـخـلق وأصناف الأمـم
-  الـمخاطبـين بـالأمر والنهي. فمعنى الآية إذا: وما يضلّ به إلا التاركين طاعة الله،
-  الـخارجين عن اتبـاع أمره ونهيه، الناكثـين عهود الله التـي عهدها إلـيهم فـي الكتب
-  التـي أنزلها إلـى رسله وعلـى ألسن أنبـيائه بـاتبـاع أمر رسوله مـحمد صلى الله عليه
-  وسلم وما جاء به، وطاعة الله فـيـما افترض علـيهم فـي التوراة من تبـيـين أمره للناس،
-  وإخبـارهم إياهم أنهم يجدونه مكتوبـاً عندهم أنه رسول من عند الله مفترضة طاعته وترك
-  كتـمان ذلك لهم. ونَكْثُهم ذلك ونَقْضُهم إياه، هو مخالفتهم الله فـي عهده إلـيهم فـيـما
-  وصفت أنه عهد إلـيهم بعد إعطائهم ربهم الـميثاق بـالوفـاء بذلك كما وصفهم به جل ذكره
-  بقوله:{ فَخَلَفَ مِن بَعْدِهِمْ خَلْفٌ وَرِثُواْ ٱلْكِتَٰبَ يَأْخُذُونَ عَرَضَ هَـٰذَا
-  ٱلأَدْنَىٰ وَيَقُولُونَ سَيُغْفَرُ لَنَا وَإِن يَأْتِهِمْ عَرَضٌ مِّثْلُهُ يَأْخُذُوهُ
-  أَلَمْ يُؤْخَذْ عَلَيْهِمْ مِّيثَٰقُ ٱلْكِتَٰبِ أَن لاَّ يِقُولُواْ عَلَى ٱللَّهِ
-  إِلاَّ ٱلْحَقَّ }\r\n\t\t\t1 2 3 4 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ ٱلَّذِينَ يَنقُضُونَ عَهْدَ ٱللَّهِ
-  مِن بَعْدِ مِيثَٰقِهِ وَيَقْطَعُونَ مَآ أَمَرَ ٱللَّهُ بِهِ أَن يُوصَلَ وَيُفْسِدُونَ
-  فِي ٱلأرْضِ أُولَـۤئِكَ هُمُ ٱلْخَٰسِرُونَ }[الأعراف: 169] وأما قوله: { مِن بَعْدِ
-  مِيثَٰقِهِ } فإنه يعنـي من بعد توثق الله فـيه بأخذ عهوده بـالوفـاء له بـما عهد إلـيهم
-  فـي ذلك، غير أن التوثق مصدر من قولك: توثقت من فلان توثّقاً، والـميثاق اسم منه، والهاء
-  فـي الـميثاق عائدة علـى اسم الله.وقد يدخـل فـي حكم هذه الآية كل من كان بـالصفة التـي
-  وصف الله بها هؤلاء الفـاسقـين من الـمنافقـين والكفـار فـي نقض العهد وقطع الرحم والإفساد
-  فـي الأرض. كما:حدثنا بشر بن معاذ، قال: حدثنا يزيد، عن سعيد، عن قتادة قوله: { ٱلَّذِينَ
+  أن ما أتوا به حق.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال آخرون: العهد الذي ذكره الله
+  جل ذكره، هو العهد الذي أخذه علـيهم حين أخرجهم من صلب آدم، الذي وصفه فـي قوله:</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">وَإِذْ
+  أَخَذَ رَبُّكَ مِن بَنِيۤ ءَادَمَ مِن ظُهُورِهِمْ ذُرِّيَّتَهُمْ وَأَشْهَدَهُمْ
+  عَلَىٰ أَنفُسِهِمْ</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">[الأعراف: 172] الآيتـين، ونقضُهم ذلك، تركهم الوفـاء به. وأولـى الأقوال
+  عندي بـالصواب فـي ذلك، قول من قال: إن هذه الآيات نزلت فـي كفـار أحبـار الـيهود الذين
+  كانوا بـين ظهرانـي مهاجر رسول الله صلى الله عليه وسلم، وما قرب منها من بقايا بنـي
+  إسرائيـل، ومن كان علـى شركه من أهل النفـاق الذين قد بـينا قصصهم فـيـما مضى من كتابنا
+  هذا. وقد دللنا علـى أن قول الله جل ثناؤه: { إِنَّ ٱلَّذِينَ كَفَرُواْ سَوَآءٌ عَلَيْهِمْ
+  } وقوله: { وَمِنَ ٱلنَّاسِ مَن يَقُولُ آمَنَّا بِٱللَّهِ وَبِٱلْيَوْمِ ٱلآخِرِ }
+  فـيهم أنزلت، وفـيـمن كان علـى مثل الذي هم علـيه من الشرك بـالله.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2, 27)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,27)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">ٱلَّذِينَ يَنقُضُونَ عَهْدَ ٱللَّهِ مِن بَعْدِ مِيثَٰقِهِ
+  وَيَقْطَعُونَ مَآ أَمَرَ ٱللَّهُ بِهِ أَن يُوصَلَ وَيُفْسِدُونَ فِي ٱلأرْضِ أُولَـۤئِكَ
+  هُمُ ٱلْخَٰسِرُونَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">غير أن هذه الآيات عندي وإن كانت
+  فـيهم نزلت، فإنه معنـيّ بها كل من كان علـى مثل ما كانوا علـيه من الضلال، ومعنـيّ
+  بـما وافق منها صفة الـمنافقـين خاصةً جميعُ الـمنافقـين، وبـما وافق منها صفة كفـار
+  أحبـار الـيهود جميع من كان لهم نظيراً فـي كفرهم. وذلك أن الله جل ثناؤه يعمّ أحياناً
+  جميعهم بـالصفة لتقديـمه ذكر جميعها فـي أول الآيات التـي ذكرتْ قصصهم، ويخصّ أحياناً
+  بـالصفة بعضهم لتفصيـله فـي أول الآيات بـين فريقـيهم، أعنـي فريق الـمنافقـين من عبدة
+  الأوثان وأهل الشرك بـالله، وفريق كفـار أحبـار الـيهود، فـالذين ينقضون عهد الله:
+  هم التاركون ما عهد الله إلـيهم من الإقرار بـمـحمد صلى الله عليه وسلم وبـما جاء به
+  وتبـيـين نبوّته للناس الكاتـمون بـيان ذلك بعد علـمهم به وبـما قد أخذ الله علـيهم
+  فـي ذلك، كما قال الله جل ذكره:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">وَإِذْ أَخَذَ ٱللَّهُ مِيثَاقَ ٱلَّذِينَ
+  أُوتُواْ ٱلْكِتَابَ لَتُبَيِّنُنَّهُ لِلنَّاسِ وَلاَ تَكْتُمُونَهُ فَنَبَذُوهُ وَرَآءَ
+  ظُهُورِهِمْ</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">[آل عمران: 187] ونبذهم ذلك وراء ظهورهم: هو نقضهم العهد الذي عهد
+  إلـيهم فـي التوراة الذي وصفناه، وتَرْكُهم العمل به.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وإنـما
+  قلت: إنه عنى بهذه الآيات من قلت إنه عَنَى بها، لأن الآيات من ابتداء الآيات الـخمس
+  والستّ من سورة البقرة فـيهم نزلت إلـى تـمام قصصهم، وفـي الآية التـي بعد الـخبر عن
+  خـلق آدم وابـنائه فـي قوله:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">يَٰبَنِي إِسْرَائِيلَ ٱذْكُرُواْ نِعْمَتِيَ ٱلَّتِي أَنْعَمْتُ
+  عَلَيْكُمْ وَأَوْفُواْ بِعَهْدِيۤ أُوفِ بِعَهْدِكُمْ</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">[البقرة: 40] وخطابه إياهم جلّ ذكره
+  بـالوفـاء فـي ذلك خاصة دون سائر البشر ما يدلّ علـى أن قوله: { ٱلَّذِينَ يَنقُضُونَ
+  عَهْدَ ٱللَّهِ مِن بَعْدِ مِيثَٰقِهِ } مقصود به كفـارهم ومنافقوهم، ومن كان من أشياعهم
+  من مشركي عبدة الأوثان علـى ضلالهم. غير أن الـخطاب وإن كان لـمن وصفت من الفريقـين
+  فداخـل فـي أحكامهم وفـيـما أوجب الله لهم من الوعيد والذمّ والتوبـيخ كل من كان علـى
+  سبـيـلهم ومنهاجهم من جميع الـخـلق وأصناف الأمـم الـمخاطبـين بـالأمر والنهي. فمعنى
+  الآية إذا: وما يضلّ به إلا التاركين طاعة الله، الـخارجين عن اتبـاع أمره ونهيه، الناكثـين
+  عهود الله التـي عهدها إلـيهم فـي الكتب التـي أنزلها إلـى رسله وعلـى ألسن أنبـيائه
+  بـاتبـاع أمر رسوله مـحمد صلى الله عليه وسلم وما جاء به، وطاعة الله فـيـما افترض
+  علـيهم فـي التوراة من تبـيـين أمره للناس، وإخبـارهم إياهم أنهم يجدونه مكتوبـاً عندهم
+  أنه رسول من عند الله مفترضة طاعته وترك كتـمان ذلك لهم. ونَكْثُهم ذلك ونَقْضُهم إياه،
+  هو مخالفتهم الله فـي عهده إلـيهم فـيـما وصفت أنه عهد إلـيهم بعد إعطائهم ربهم الـميثاق
+  بـالوفـاء بذلك كما وصفهم به جل ذكره بقوله:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">فَخَلَفَ مِن بَعْدِهِمْ خَلْفٌ وَرِثُواْ
+  ٱلْكِتَٰبَ يَأْخُذُونَ عَرَضَ هَـٰذَا ٱلأَدْنَىٰ وَيَقُولُونَ سَيُغْفَرُ لَنَا وَإِن
+  يَأْتِهِمْ عَرَضٌ مِّثْلُهُ يَأْخُذُوهُ أَلَمْ يُؤْخَذْ عَلَيْهِمْ مِّيثَٰقُ ٱلْكِتَٰبِ
+  أَن لاَّ يِقُولُواْ عَلَى ٱللَّهِ إِلاَّ ٱلْحَقَّ</font></font> }</b><br class=\"TextArabic\"/><label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2, 27)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,27)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">ٱلَّذِينَ يَنقُضُونَ عَهْدَ ٱللَّهِ مِن بَعْدِ مِيثَٰقِهِ
+  وَيَقْطَعُونَ مَآ أَمَرَ ٱللَّهُ بِهِ أَن يُوصَلَ وَيُفْسِدُونَ فِي ٱلأرْضِ أُولَـۤئِكَ
+  هُمُ ٱلْخَٰسِرُونَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">[الأعراف: 169] وأما قوله: { مِن
+  بَعْدِ مِيثَٰقِهِ } فإنه يعنـي من بعد توثق الله فـيه بأخذ عهوده بـالوفـاء له بـما
+  عهد إلـيهم فـي ذلك، غير أن التوثق مصدر من قولك: توثقت من فلان توثّقاً، والـميثاق
+  اسم منه، والهاء فـي الـميثاق عائدة علـى اسم الله.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقد
+  يدخـل فـي حكم هذه الآية كل من كان بـالصفة التـي وصف الله بها هؤلاء الفـاسقـين من
+  الـمنافقـين والكفـار فـي نقض العهد وقطع الرحم والإفساد فـي الأرض. كما:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا بشر بن معاذ، قال: حدثنا يزيد، عن سعيد، عن قتادة قوله: { ٱلَّذِينَ
   يَنقُضُونَ عَهْدَ ٱللَّهِ مِن بَعْدِ مِيثَٰقِهِ } فإياكم ونقض هذا الـميثاق، فإن
   الله قد كره نقضه وأوعد فـيه وقدم فـيه فـي آي القرآن حجة وموعظة ونصيحة، وإنا لا نعلـم
   الله جل ذكره أوعد فـي ذنب ما أوعد فـي نقض الـميثاق، فمن أعطى عهد الله وميثاقه من
-  ثمرة قلبه فلـيف به لله.وحدثنـي الـمثنى، قال: حدثنا إسحاق، قال: حدثنا ابن أبـي جعفر،
-  عن أبـيه، عن الربـيع فـي قوله: { ٱلَّذِينَ يَنقُضُونَ عَهْدَ ٱللَّهِ مِن بَعْدِ
-  مِيثَٰقِهِ وَيَقْطَعُونَ مَآ أَمَرَ ٱللَّهُ بِهِ أَن يُوصَلَ وَيُفْسِدُونَ فِي ٱلأرْضِ
-  أُولَـۤئِكَ هُمُ ٱلْخَٰسِرُونَ } فهي ست خلال فـي أهل النفـاق إذا كانت لهم الظَّهَرَة
-  أظهروا هذه الـخلال الستّ جميعاً: إذا حدّثوا كذبوا، وإذا وعدوا أخـلفوا، وإذا اؤتـمنوا
-  خانوا، ونقضوا عهد الله من بعد ميثاقه، وقطعوا ما أمر الله به أن يوصل، وأفسدوا فـي
-  الأرض. وإذا كانت علـيهم الظَّهَرَة أظهروا الـخلال الثلاث: إذا حدّثوا كذبوا، وإذا
-  وعدوا أخـلفوا، وإذا اؤتـمنوا خانوا.القول فـي تأويـل قوله تعالـى: { وَيَقْطَعُونَ
-  مَآ أَمَرَ ٱللَّهُ بِهِ أَن يُوصَلَ }.قال أبو جعفر: والذي رغب الله فـي وصله وذمّ
-  علـى قطعه فـي هذه الآية: الرحم، وقد بـين ذلك فـي كتابه فقال تعالـى:{ فَهَلْ عَسَيْتُمْ
-  إِن تَوَلَّيْتُمْ أَن تُفْسِدُواْ فِي ٱلأَرْضِ وَتُقَطِّعُوۤاْ أَرْحَامَكُمْ }[محمد:
+  ثمرة قلبه فلـيف به لله.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وحدثنـي الـمثنى، قال: حدثنا إسحاق،
+  قال: حدثنا ابن أبـي جعفر، عن أبـيه، عن الربـيع فـي قوله: { ٱلَّذِينَ يَنقُضُونَ
+  عَهْدَ ٱللَّهِ مِن بَعْدِ مِيثَٰقِهِ وَيَقْطَعُونَ مَآ أَمَرَ ٱللَّهُ بِهِ أَن يُوصَلَ
+  وَيُفْسِدُونَ فِي ٱلأرْضِ أُولَـۤئِكَ هُمُ ٱلْخَٰسِرُونَ } فهي ست خلال فـي أهل النفـاق
+  إذا كانت لهم الظَّهَرَة أظهروا هذه الـخلال الستّ جميعاً: إذا حدّثوا كذبوا، وإذا
+  وعدوا أخـلفوا، وإذا اؤتـمنوا خانوا، ونقضوا عهد الله من بعد ميثاقه، وقطعوا ما أمر
+  الله به أن يوصل، وأفسدوا فـي الأرض. وإذا كانت علـيهم الظَّهَرَة أظهروا الـخلال الثلاث:
+  إذا حدّثوا كذبوا، وإذا وعدوا أخـلفوا، وإذا اؤتـمنوا خانوا.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">القول
+  فـي تأويـل قوله تعالـى: { وَيَقْطَعُونَ مَآ أَمَرَ ٱللَّهُ بِهِ أَن يُوصَلَ }.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قال أبو جعفر: والذي رغب الله فـي وصله وذمّ علـى قطعه فـي هذه الآية:
+  الرحم، وقد بـين ذلك فـي كتابه فقال تعالـى:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">فَهَلْ عَسَيْتُمْ إِن تَوَلَّيْتُمْ
+  أَن تُفْسِدُواْ فِي ٱلأَرْضِ وَتُقَطِّعُوۤاْ أَرْحَامَكُمْ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[محمد:
   22] وإنـما عنى بـالرحم: أهل الرجل الذين جمعتهم وإياه رحم والدة واحدة، وقطع ذلك ظلـمه
   فـي ترك أداء ما ألزم الله من حقوقها وأوجب من برّها ووصلها أداء الواجب لها إلـيها:
   من حقوق الله التـي أوجب لها، والتعطف علـيها بـما يحقّ التعطف به علـيها. و«أن» التـي
   مع «يوصل» فـي مـحل خفض بـمعنى ردّها علـى موضع الهاء التـي فـي «به» فكان معنى الكلام:
-  ويقطعون الذي أمر الله بأن يوصل. والهاء التـي فـي «به» هي كناية عن ذكر «أن يوصل».وبـما
-  قلنا فـي تأويـل قوله: { وَيَقْطَعُونَ مَآ أَمَرَ ٱللَّهُ بِهِ أَن يُوصَلَ } وأنه
-  الرحم كان قتادة يقول:حدثنا بشر بن معاذ. قال: حدثنا يزيد، عن سعيد، عن قتادة: { وَيَقْطَعُونَ
-  مَآ أَمَرَ ٱللَّهُ بِهِ أَن يُوصَلَ } فقطع والله ما أمر الله به أن يوصل بقطيعة الرحم
-  والقرابة.\r\n\t\t\t\r\n\t\t\t1 2 3 4 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ ٱلَّذِينَ يَنقُضُونَ عَهْدَ ٱللَّهِ
-  مِن بَعْدِ مِيثَٰقِهِ وَيَقْطَعُونَ مَآ أَمَرَ ٱللَّهُ بِهِ أَن يُوصَلَ وَيُفْسِدُونَ
-  فِي ٱلأرْضِ أُولَـۤئِكَ هُمُ ٱلْخَٰسِرُونَ }وقد تأوّل بعضهم ذلك أن الله ذمهم بقطعهم
-  رسول الله صلى الله عليه وسلم والـمؤمنـين به وأرحامهم، واستشهد علـى ذلك بعموم ظاهر
-  الآية، وأن لا دلالة علـى أنه معنـيّ بها: بعض ما أمر الله بوصله دون بعض.قال أبو جعفر:
-  وهذا مذهب من تأويـل الآية غير بعيد من الصواب، ولكن الله جل ثناؤه قد ذكر الـمنافقـين
-  فـي غير آية من كتابه، فوصفهم بقطع الأرحام. فهذه نظيرة تلك، غير أنها وإن كانت كذلك
-  فهي دالة علـى ذمّ الله كل قاطع قطع ما أمر الله بوصله رحماً كانت أو غيرها.القول فـي
-  تأويـل قوله تعالـى: { وَيُفْسِدُونَ فِي ٱلأرْضِ }.قال أبو جعفر: وفسادهم فـي الأرض
-  هو ما تقدم وَصْفُنَاه قبل من معصيتهم ربهم وكفرهم به، وتكذيبهم رسوله، وجحدهم نبوّته،
-  وإنكارهم ما أتاهم به من عند الله أنه حق من عنده.القول فـي تأويـل قوله تعالـى: {
-  أُولَـۤئِكَ هُمُ ٱلْخَٰسِرُونَ }.قال أبو جعفر: والـخاسرون جمع الخاسر، والـخاسرون:
-  الناقصون أنفسهم حظوظها بـمعصيتهم الله من رحمته، كما يخسر الرجل فـي تـجارته بأن يوضَع
-  من رأس ماله فـي بـيعه. فكذلك الكافر والـمنافق خسر بحرمان الله إياه رحمته التـي خـلقها
-  لعبـاده فـي القـيامة أحوج ما كان إلـى رحمته، يقال منه: خَسِرَ الرجل يَخْسَر خَسْراً
-  وخُسْراناً وخَسَاراً، كما قال جرير بن عطية:إنَّ سَلِـيطاً فِـي الـخسَارِ إنَّهْ   أوْلادُ
-  قَوْمٍ خُـلِقُوا أقِنَّهْيعنـي بقوله فـي الـخسار: أي فـيـما يوكسهم حظوظهم من الشرف
-  والكرم.وقد قـيـل: إن معنى { أُولَـۤئِكَ هُمُ ٱلْخَٰسِرُونَ }: أولئك هم الهالكون.
-  وقد يجوز أن يكون قائل ذلك أراد ما قلنا من هلاك الذي وصف الله صفته بـالصفة التـي
-  وصفه بها فـي هذه الآية بحرمان الله إياه ما حرمه من رحمته بـمعصيته إياه وكفره به.
-  فحمل تأويـل الكلام علـى معناه دون البـيان عن تأويـل عين الكلـمة بعينها، فإن أهل
-  التأويـل ربـما فعلوا ذلك لعلل كثـيرة تدعوهم إلـيه.وقال بعضهم فـي ذلك بـما:حدثت به
-  عن الـمنـجاب. قال: حدثنا بشر بن عمارة عن أبـي روق، عن الضحاك، عن ابن عبـاس، قال:
-  كل شيء نسبه الله إلـى غير أهل الإسلام من اسم مثل «خاسر»، فإنـما يعنـي به الكفر،
-  وما نسبه إلـى أهل الإسلام فإنـما يعنـي به الذنب.\r\n\t\t\t\r\n\t\t\t1 2 3 4 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  ويقطعون الذي أمر الله بأن يوصل. والهاء التـي فـي «به» هي كناية عن ذكر «أن يوصل».</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وبـما قلنا فـي تأويـل قوله: { وَيَقْطَعُونَ مَآ أَمَرَ ٱللَّهُ بِهِ
+  أَن يُوصَلَ } وأنه الرحم كان قتادة يقول:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  بشر بن معاذ. قال: حدثنا يزيد، عن سعيد، عن قتادة: { وَيَقْطَعُونَ مَآ أَمَرَ ٱللَّهُ
+  بِهِ أَن يُوصَلَ } فقطع والله ما أمر الله به أن يوصل بقطيعة الرحم والقرابة.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">3 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2, 27)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,27)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">ٱلَّذِينَ يَنقُضُونَ عَهْدَ ٱللَّهِ مِن بَعْدِ مِيثَٰقِهِ
+  وَيَقْطَعُونَ مَآ أَمَرَ ٱللَّهُ بِهِ أَن يُوصَلَ وَيُفْسِدُونَ فِي ٱلأرْضِ أُولَـۤئِكَ
+  هُمُ ٱلْخَٰسِرُونَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">وقد تأوّل بعضهم ذلك أن الله ذمهم
+  بقطعهم رسول الله صلى الله عليه وسلم والـمؤمنـين به وأرحامهم، واستشهد علـى ذلك بعموم
+  ظاهر الآية، وأن لا دلالة علـى أنه معنـيّ بها: بعض ما أمر الله بوصله دون بعض.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قال أبو جعفر: وهذا مذهب من تأويـل الآية غير بعيد من الصواب، ولكن
+  الله جل ثناؤه قد ذكر الـمنافقـين فـي غير آية من كتابه، فوصفهم بقطع الأرحام. فهذه
+  نظيرة تلك، غير أنها وإن كانت كذلك فهي دالة علـى ذمّ الله كل قاطع قطع ما أمر الله
+  بوصله رحماً كانت أو غيرها.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">القول فـي تأويـل قوله تعالـى: {
+  وَيُفْسِدُونَ فِي ٱلأرْضِ }.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال
+  أبو جعفر: وفسادهم فـي الأرض هو ما تقدم وَصْفُنَاه قبل من معصيتهم ربهم وكفرهم به،
+  وتكذيبهم رسوله، وجحدهم نبوّته، وإنكارهم ما أتاهم به من عند الله أنه حق من عنده.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">القول فـي تأويـل قوله تعالـى: { أُولَـۤئِكَ هُمُ ٱلْخَٰسِرُونَ }.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قال أبو جعفر: والـخاسرون جمع الخاسر، والـخاسرون: الناقصون أنفسهم
+  حظوظها بـمعصيتهم الله من رحمته، كما يخسر الرجل فـي تـجارته بأن يوضَع من رأس ماله
+  فـي بـيعه. فكذلك الكافر والـمنافق خسر بحرمان الله إياه رحمته التـي خـلقها لعبـاده
+  فـي القـيامة أحوج ما كان إلـى رحمته، يقال منه: خَسِرَ الرجل يَخْسَر خَسْراً وخُسْراناً
+  وخَسَاراً، كما قال جرير بن عطية:</font></font><table class=\"TextArabic\" dir=\"rtl\"><tr
+  class=\"TextArabic\"><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">إنَّ سَلِـيطاً فِـي الـخسَارِ إنَّهْ</font></font></b></td><td class=\"TextArabic\">   </td><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">أوْلادُ
+  قَوْمٍ خُـلِقُوا أقِنَّهْ</font></font></b></td></tr></table><font class=\"TextResultArabic\"><font
+  color=\"black\">يعنـي بقوله فـي الـخسار: أي فـيـما يوكسهم حظوظهم من الشرف والكرم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقد قـيـل: إن معنى { أُولَـۤئِكَ هُمُ ٱلْخَٰسِرُونَ }: أولئك هم
+  الهالكون. وقد يجوز أن يكون قائل ذلك أراد ما قلنا من هلاك الذي وصف الله صفته بـالصفة
+  التـي وصفه بها فـي هذه الآية بحرمان الله إياه ما حرمه من رحمته بـمعصيته إياه وكفره
+  به. فحمل تأويـل الكلام علـى معناه دون البـيان عن تأويـل عين الكلـمة بعينها، فإن
+  أهل التأويـل ربـما فعلوا ذلك لعلل كثـيرة تدعوهم إلـيه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  بعضهم فـي ذلك بـما:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثت به عن الـمنـجاب. قال: حدثنا
+  بشر بن عمارة عن أبـي روق، عن الضحاك، عن ابن عبـاس، قال: كل شيء نسبه الله إلـى غير
+  أهل الإسلام من اسم مثل «خاسر»، فإنـما يعنـي به الكفر، وما نسبه إلـى أهل الإسلام
+  فإنـما يعنـي به الذنب.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">4 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section>"
 

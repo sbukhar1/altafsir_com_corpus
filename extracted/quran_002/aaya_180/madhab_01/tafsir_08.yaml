@@ -1,4 +1,4 @@
-location:
+position:
   sura: '002'
   aaya: '180'
   madhab: '01'
@@ -9,12 +9,32 @@ meta:
   year: '864'
 aaya: كُتِبَ عَلَيْكُمْ إِذَا حَضَرَ أَحَدَكُمُ الْمَوْتُ إِنْ تَرَكَ خَيْرًا الْوَصِيَّةُ
   لِلْوَالِدَيْنِ وَالْأَقْرَبِينَ بِالْمَعْرُوفِ ۖ حَقًّا عَلَى الْمُتَّقِينَ
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ كُتِبَ عَلَيْكُمْ
-  إِذَا حَضَرَ أَحَدَكُمُ ٱلْمَوْتُ إِن تَرَكَ خَيْراً ٱلْوَصِيَّةُ لِلْوَالِدَيْنِ
-  وَٱلأَقْرَبِينَ بِٱلْمَعْرُوفِ حَقّاً عَلَى ٱلْمُتَّقِينَ }{ كُتِبَ } فرض { عَلَيْكُمْ
-  إِذَا حَضَرَ أَحَدَكُمُ ٱلْمَوْتُ } أي أسبابه { إِن تَرَكَ خَيْرًا } مالاً { ٱلْوَصِيَّةُ
-  } مرفوع (بِكُتِبَ) ومتعلق (بإذا) إن كانت ظرفية ودال على جوابها إن كانت شرطية وجواب
-  (إن) أي: فليوصِ { لِلْوٰلِدَيْنِ وَٱلأَقْرَبِينَ بِٱلْمَعْرُوفِ } بالعدل بأن لا
-  يزيد على الثلث ولا يفضل الغني { حَقّاً } مصدر مؤكد لمضمون الجملة قبله { عَلَى ٱلْمُتَّقِينَ
-  } الله وهذا منسوخ بآية الميراث وبحديث \" لا وصية لوارث \" رواه الترمذي.\r\n\t\t\t\r\n\t\t\t</section>"
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(2, 180)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(2,180)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">كُتِبَ
+  عَلَيْكُمْ إِذَا حَضَرَ أَحَدَكُمُ ٱلْمَوْتُ إِن تَرَكَ خَيْراً ٱلْوَصِيَّةُ لِلْوَالِدَيْنِ
+  وَٱلأَقْرَبِينَ بِٱلْمَعْرُوفِ حَقّاً عَلَى ٱلْمُتَّقِينَ</a> <b>}</b></font>, <br/>,
+  <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">{
+  كُتِبَ } فرض { عَلَيْكُمْ إِذَا حَضَرَ أَحَدَكُمُ ٱلْمَوْتُ } أي أسبابه { إِن تَرَكَ
+  خَيْرًا } مالاً { ٱلْوَصِيَّةُ } مرفوع (بِكُتِبَ) ومتعلق (بإذا) إن كانت ظرفية ودال
+  على جوابها إن كانت شرطية وجواب (إن) أي: فليوصِ { لِلْوٰلِدَيْنِ وَٱلأَقْرَبِينَ
+  بِٱلْمَعْرُوفِ } بالعدل بأن لا يزيد على الثلث ولا يفضل الغني { حَقّاً } مصدر مؤكد
+  لمضمون الجملة قبله { عَلَى ٱلْمُتَّقِينَ } الله وهذا منسوخ بآية الميراث وبحديث</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" لا وصية لوارث \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\">رواه الترمذي.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

@@ -1,4 +1,4 @@
-location:
+position:
   sura: '002'
   aaya: '030'
   madhab: '02'
@@ -7,49 +7,109 @@ meta:
   title: تفسير معالم التنزيل
   author: البغوي
   year: '516'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَإِذْ قَالَ رَبُّكَ
-  لِلْمَلَٰئِكَةِ إِنِّي جَاعِلٌ فِي ٱلأَرْضِ خَلِيفَةً قَالُواْ أَتَجْعَلُ فِيهَا
-  مَن يُفْسِدُ فِيهَا وَيَسْفِكُ ٱلدِّمَآءَ وَنَحْنُ نُسَبِّحُ بِحَمْدِكَ وَنُقَدِّسُ
-  لَكَ قَالَ إِنِّيۤ أَعْلَمُ مَا لاَ تَعْلَمُونَ }قوله تعالىٰ: { وَإِذْ قَالَ رَبُّكَ
-  } أي وقال ربك وإذ زائدة وقيل: معناه واذكر إذ قال ربك وكذلك كل ماورد في القرآن من
-  هذا النحو فهذا سبيله وإذ وإذا حرفا توقيت إلا أن إذ للماضي وإذا للمستقبل وقد يوضع
-  أحدهما موضع الآخر قال المبرد: إذا جاء (إذ) مع المستقبل كان معناه ماضياً كقوله تعالىٰ{ وإِذْ
-  يَمْكُرُ بِكَ ٱلَّذِينَ }[الأنفال: 30]، يريد وإذ مكروا وإذا جاء (إذا) مع الماضي
-  كانت معناه مستقبلاً كقوله:{ فَإِذَا جَآءَتِ ٱلطَّآمَّةُ }[النازعات: 34]{ إِذَا جَآءَ
-  نَصْرُ ٱللَّهِ وَٱلْفَتْحُ }[النصر: 1]، أي: يجيء { لِلْمَلَـٰئِكَةِ } جمع ملك وأصله
-  مألك من المَأَلُكَة والألوُكَةِ والألُوكِ، وهي: الرسالة فقلبت فقيل مَلأْك، ثم حذفت
-  الهمزة طلباً للخفة لكثرة استعماله ونقلت حركتها إلى اللام فقيل: مَلَك. وأراد بهم
-  الملائكة الذين كانوا في الأرض وذلك أن الله تعالىٰ خلق السماء والأرض وخلق الملائكة
-  والجن فأسكن الملائكة السماء وأسكن الجن الأرض فغبروا فعبدوا دهراً طويلاً في الأرض،
-  ثم ظهر فيهم الحسد والبغي فأفسدوا وقتلوا فبعث الله إليهم جنداً من الملائكة يقال لهم:
-  الجن، وهم خزان الجنان اشتق لهم من الجنة رأسهم إبليس وكان رئيسهم ومرشدهم وأكثرهم
-  علماً فهبطوا إلى الأرض فطردوا الجن إلى شعوب الجبال (وبطون الأودية) وجزائر البحور
-  وسكنوا الأرض وخفف الله عنهم العبادة وأعطى الله إبليس ملك الأرض، وملك السماء الدنيا
-  وخزانة الجنة فكان يعبد الله تارة في الأرض وتارة في السماء وتارة في الجنة فدخله العجب
-  فقال في نفسه: ما أعطاني الله هذا الملك إلاّ لأني أكرم الملائكة عليه فقال الله تعالى
-  له ولجنده: { إِنِّي جَاعِلٌ } خالق. { فِى ٱلأَرْضِ خَلِيفَةً } أي بدلاً منكم ورافعكم
-  إلي، فكرهوا ذلك لأنهم كانوا أهون الملائكة عبادة.والمراد بالخليفة هٰهنا آدم سماه
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(2, 30)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(2,30)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَإِذْ
+  قَالَ رَبُّكَ لِلْمَلَٰئِكَةِ إِنِّي جَاعِلٌ فِي ٱلأَرْضِ خَلِيفَةً قَالُواْ أَتَجْعَلُ
+  فِيهَا مَن يُفْسِدُ فِيهَا وَيَسْفِكُ ٱلدِّمَآءَ وَنَحْنُ نُسَبِّحُ بِحَمْدِكَ وَنُقَدِّسُ
+  لَكَ قَالَ إِنِّيۤ أَعْلَمُ مَا لاَ تَعْلَمُونَ</a> <b>}</b></font>, <br/>, <br/>,
+  <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">قوله
+  تعالىٰ: { وَإِذْ قَالَ رَبُّكَ } أي وقال ربك وإذ زائدة وقيل: معناه واذكر إذ قال
+  ربك وكذلك كل ماورد في القرآن من هذا النحو فهذا سبيله وإذ وإذا حرفا توقيت إلا أن
+  إذ للماضي وإذا للمستقبل وقد يوضع أحدهما موضع الآخر قال المبرد: إذا جاء (إذ) مع المستقبل
+  كان معناه ماضياً كقوله تعالىٰ</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">وإِذْ يَمْكُرُ بِكَ ٱلَّذِينَ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[الأنفال:
+  30]، يريد وإذ مكروا وإذا جاء (إذا) مع الماضي كانت معناه مستقبلاً كقوله:</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">فَإِذَا
+  جَآءَتِ ٱلطَّآمَّةُ</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">[النازعات: 34]</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">إِذَا جَآءَ نَصْرُ ٱللَّهِ وَٱلْفَتْحُ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[النصر:
+  1]، أي: يجيء { لِلْمَلَـٰئِكَةِ } جمع ملك وأصله مألك من المَأَلُكَة والألوُكَةِ
+  والألُوكِ، وهي: الرسالة فقلبت فقيل مَلأْك، ثم حذفت الهمزة طلباً للخفة لكثرة استعماله
+  ونقلت حركتها إلى اللام فقيل: مَلَك. وأراد بهم الملائكة الذين كانوا في الأرض وذلك
+  أن الله تعالىٰ خلق السماء والأرض وخلق الملائكة والجن فأسكن الملائكة السماء وأسكن
+  الجن الأرض فغبروا فعبدوا دهراً طويلاً في الأرض، ثم ظهر فيهم الحسد والبغي فأفسدوا
+  وقتلوا فبعث الله إليهم جنداً من الملائكة يقال لهم: الجن، وهم خزان الجنان اشتق لهم
+  من الجنة رأسهم إبليس وكان رئيسهم ومرشدهم وأكثرهم علماً فهبطوا إلى الأرض فطردوا الجن
+  إلى شعوب الجبال (وبطون الأودية) وجزائر البحور وسكنوا الأرض وخفف الله عنهم العبادة
+  وأعطى الله إبليس ملك الأرض، وملك السماء الدنيا وخزانة الجنة فكان يعبد الله تارة
+  في الأرض وتارة في السماء وتارة في الجنة فدخله العجب فقال في نفسه: ما أعطاني الله
+  هذا الملك إلاّ لأني أكرم الملائكة عليه فقال الله تعالى له ولجنده: { إِنِّي جَاعِلٌ
+  } خالق. { فِى ٱلأَرْضِ خَلِيفَةً } أي بدلاً منكم ورافعكم إلي، فكرهوا ذلك لأنهم كانوا
+  أهون الملائكة عبادة.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">والمراد بالخليفة هٰهنا آدم سماه
   خليفة لأنه خلف الجن أي جاء بعدهم وقيل لأنه يخلفه غيره والصحيح أنه خليفة الله في
   أرضه لإِقامة أحكامه وتنفيذ وصاياه { قَالُوۤاْ أَتَجْعَلُ فِيهَا مَن يُفْسِدُ فِيهَا
   } بالمعاصي. { وَيَسْفِكُ ٱلدِّمَآءَ } بغير حق أي كما فعل بنو الجان فقاسوا الشاهد
   على الغائب وإلا فهم ما كانوا يعلمون الغيب { وَنَحْنُ نُسَبِّحُ بِحَمْدِكَ } قال
   الحسن: نقول سبحان الله وبحمده وهو صلاة الخلق وصلاة البهائم وغيرهما سوى الآدميين،
-  وعليها يرزقون.أخبرنا إسماعيل بن عبد القاهر أنا عبد الغافر بن محمد أنا محمد بن عيسى
-  أنا إبراهيم بن محمد بن سفيان أنا مسلم بن الحجاج أنا زهير بن حرب أنا حبان بن هلال
-  أنا وهيب أنا سعيد الجريري عن أبي عبد الله الجسري عن عبادة بن الصامت عن أبي ذر \"
-  أن رسول الله صلى الله عليه وسلم سئل أي الكلام أفضل قال: «ما اصطفى الله لملائكته
-  أو لعباده سبحان الله وبحمده» \" \r\n\t\t\t\r\n\t\t\t1 2 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَإِذْ قَالَ رَبُّكَ لِلْمَلَٰئِكَةِ
-  إِنِّي جَاعِلٌ فِي ٱلأَرْضِ خَلِيفَةً قَالُواْ أَتَجْعَلُ فِيهَا مَن يُفْسِدُ فِيهَا
-  وَيَسْفِكُ ٱلدِّمَآءَ وَنَحْنُ نُسَبِّحُ بِحَمْدِكَ وَنُقَدِّسُ لَكَ قَالَ إِنِّيۤ
-  أَعْلَمُ مَا لاَ تَعْلَمُونَ }  وقيل: ونحن نصلي بأمرك، قال ابن عباس: كل ما في القرآن
-  من التسبيح فالمراد منه الصلاة { وَنُقَدِّسُ لَكَ } أي نثني عليك بالقدس والطهارة
-  وقيل: ونطهر أنفسنا لطاعتك وقيل: وننزهك. واللام: صلة وقيل: لم يكن هذا في الملائكة
-  على طريق الاعتراض والعجب بالعمل بل على سبيل التعجب وطلب وجه الحكمة فيه { قَالَ }
-  الله { إِنِّيۤ أَعْلَمُ مَا لاَ تَعْلَمُونَ } من المصلحة فيه، وقيل: إني أعلم أن
-  في ذريته من يطيعني ويعبدني من الأنبياء والأولياء والعلماء وقيل: إني أعلم أن فيكم
-  من يعصيني وهو إبليس، وقيل إني أعلم أنهم يذنبُون وأنا أغفر لهم. قرأ أهل الحجاز والبصرة
-  إني أعلم بفتح الياء وكذلك كل ياء إضافة استقبلها ألف مفتوحة إلا في مواضع معدودة ويفتحون
-  في بعض المواضع عند الألف المضمومة والمكسورة (وعند غير الألف) وبين القراء في تفصيله
-  اختلاف.\r\n\t\t\t\r\n\t\t\t1 2 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  وعليها يرزقون.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">أخبرنا إسماعيل بن عبد القاهر أنا
+  عبد الغافر بن محمد أنا محمد بن عيسى أنا إبراهيم بن محمد بن سفيان أنا مسلم بن الحجاج
+  أنا زهير بن حرب أنا حبان بن هلال أنا وهيب أنا سعيد الجريري عن أبي عبد الله الجسري
+  عن عبادة بن الصامت عن أبي ذر</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" أن رسول الله صلى الله عليه وسلم سئل أي الكلام أفضل قال: «ما اصطفى
+  الله لملائكته أو لعباده سبحان الله وبحمده» \" </font></font></b>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(13,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(13,2,1)\"><u>2</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2, 30)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,30)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَإِذْ قَالَ رَبُّكَ لِلْمَلَٰئِكَةِ إِنِّي جَاعِلٌ
+  فِي ٱلأَرْضِ خَلِيفَةً قَالُواْ أَتَجْعَلُ فِيهَا مَن يُفْسِدُ فِيهَا وَيَسْفِكُ
+  ٱلدِّمَآءَ وَنَحْنُ نُسَبِّحُ بِحَمْدِكَ وَنُقَدِّسُ لَكَ قَالَ إِنِّيۤ أَعْلَمُ
+  مَا لاَ تَعْلَمُونَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><b><font
+  class=\"TextResultArabic\"><font color=\"Red\">  </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">وقيل: ونحن نصلي بأمرك، قال ابن عباس: كل ما في القرآن من التسبيح
+  فالمراد منه الصلاة { وَنُقَدِّسُ لَكَ } أي نثني عليك بالقدس والطهارة وقيل: ونطهر
+  أنفسنا لطاعتك وقيل: وننزهك. واللام: صلة وقيل: لم يكن هذا في الملائكة على طريق الاعتراض
+  والعجب بالعمل بل على سبيل التعجب وطلب وجه الحكمة فيه { قَالَ } الله { إِنِّيۤ أَعْلَمُ
+  مَا لاَ تَعْلَمُونَ } من المصلحة فيه، وقيل: إني أعلم أن في ذريته من يطيعني ويعبدني
+  من الأنبياء والأولياء والعلماء وقيل: إني أعلم أن فيكم من يعصيني وهو إبليس، وقيل
+  إني أعلم أنهم يذنبُون وأنا أغفر لهم. قرأ أهل الحجاز والبصرة إني أعلم بفتح الياء
+  وكذلك كل ياء إضافة استقبلها ألف مفتوحة إلا في مواضع معدودة ويفتحون في بعض المواضع
+  عند الألف المضمومة والمكسورة (وعند غير الألف) وبين القراء في تفصيله اختلاف.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(13,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(13,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section>"
 

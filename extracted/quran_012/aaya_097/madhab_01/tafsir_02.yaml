@@ -1,4 +1,4 @@
-location:
+position:
   sura: '012'
   aaya: 097
   madhab: '01'
@@ -8,17 +8,36 @@ meta:
   author: الزمخشري
   year: '538'
 aaya: قَالُوا يَا أَبَانَا اسْتَغْفِرْ لَنَا ذُنُوبَنَا إِنَّا كُنَّا خَاطِئِينَ
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ قَالُواْ يٰأَبَانَا
-  ٱسْتَغْفِرْ لَنَا ذُنُوبَنَآ إِنَّا كُنَّا خَاطِئِينَ } * { قَالَ سَوْفَ أَسْتَغْفِرُ
-  لَكُمْ رَبِّيۤ إِنَّهُ هُوَ ٱلْغَفُورُ ٱلرَّحِيمُ }{ سَوْفَ أَسْتَغْفِرُ لَكُمْ
-  } قيل: أخر الاستغفار إلى وقت السحر. وقيل: إلى ليلة الجمعة ليتعمد به وقت الإجابة.
-  وقيل: ليتعرّف حالهم. في صدق التوبة وإخلاصها. وقيل أراد الدوام على الاستغفار لهم.
-  فقد روي أنه كان يستغفر لهم كل ليلة جمعة في نيف وعشرين سنة. وقيل: قام إلى الصلاة
-  في وقت السحر، فلما فرغ رفع يديه وقال: اللهم اغفر لي جزعي على يوسف وقلة صبري عنه،
-  واغفر لولدي ما أتوا إلى أخيهم، فأوحى إليه: إنّ الله قد غفر لك ولهم أجمعين. وروي
-  أنهم قالوا له وقد علتهم الكآبة: ما يغني عنا عفوكما إن لم يعف عنا ربنا، فإن لم يوح
-  إليك بالعفو فلا قرّت لنا عين أبداً، فاستقبل الشيخ القبلة قائماً يدعو، وقام يوسف
-  خلفه يؤمّن، وقاموا خلفهما أذلة خاشعين عشرين سنة. حتى بلغ جهدهم وظنوا أنها الهلكة
-  نزل جبريل عليه السلام فقال: إن الله قد أجاب دعوتك في ولدك، وعقد مواثيقهم بعدك على
-  النبوّة، وقد اختلف في استنبائهم.\r\n\t\t\t\r\n\t\t\t</section>"
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(12, 97)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(12,97)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">قَالُواْ
+  يٰأَبَانَا ٱسْتَغْفِرْ لَنَا ذُنُوبَنَآ إِنَّا كُنَّا خَاطِئِينَ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">قَالَ
+  سَوْفَ أَسْتَغْفِرُ لَكُمْ رَبِّيۤ إِنَّهُ هُوَ ٱلْغَفُورُ ٱلرَّحِيمُ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">{ سَوْفَ أَسْتَغْفِرُ لَكُمْ } قيل: أخر الاستغفار إلى وقت السحر.
+  وقيل: إلى ليلة الجمعة ليتعمد به وقت الإجابة. وقيل: ليتعرّف حالهم. في صدق التوبة
+  وإخلاصها. وقيل أراد الدوام على الاستغفار لهم. فقد روي أنه كان يستغفر لهم كل ليلة
+  جمعة في نيف وعشرين سنة. وقيل: قام إلى الصلاة في وقت السحر، فلما فرغ رفع يديه وقال:
+  اللهم اغفر لي جزعي على يوسف وقلة صبري عنه، واغفر لولدي ما أتوا إلى أخيهم، فأوحى
+  إليه: إنّ الله قد غفر لك ولهم أجمعين. وروي أنهم قالوا له وقد علتهم الكآبة: ما يغني
+  عنا عفوكما إن لم يعف عنا ربنا، فإن لم يوح إليك بالعفو فلا قرّت لنا عين أبداً، فاستقبل
+  الشيخ القبلة قائماً يدعو، وقام يوسف خلفه يؤمّن، وقاموا خلفهما أذلة خاشعين عشرين
+  سنة. حتى بلغ جهدهم وظنوا أنها الهلكة نزل جبريل عليه السلام فقال: إن الله قد أجاب
+  دعوتك في ولدك، وعقد مواثيقهم بعدك على النبوّة، وقد اختلف في استنبائهم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

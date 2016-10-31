@@ -1,4 +1,4 @@
-location:
+position:
   sura: '002'
   aaya: '104'
   madhab: '01'
@@ -9,174 +9,422 @@ meta:
   year: '310'
 aaya: يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَقُولُوا رَاعِنَا وَقُولُوا انْظُرْنَا وَاسْمَعُوا
   ۗ وَلِلْكَافِرِينَ عَذَابٌ أَلِيمٌ
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ يَٰأَيُّهَا ٱلَّذِينَ
-  آمَنُواْ لاَ تَقُولُواْ رَاعِنَا وَقُولُواْ ٱنْظُرْنَا وَٱسْمَعُواْ وَلِلكَافِرِينَ
-  عَذَابٌ أَلِيمٌ \r\n\r\n }اختلف أهل التأويـل فـي تأويـل قوله: { لاَ تَقُولُوا رَاعِنَا
-  } فقال بعضهم: تأويـله لا تقولوا خلافـا. ذكر من قال ذلك:حدثنا مـحمد بن بشار، قال:
-  ثنا مؤمل، قال: ثنا سفـيان، عن ابن جريج، عن عطاء فـي قوله: { لاَ تَقُولُوا رَاعِنا
-  } قال: لا تقولوا خلافـاً.حدثنـي مـحمد بن عمرو، قال: ثنا أبو عاصم، عن عيسى، عن ابن
-  أبـي نـجيح، عن مـجاهد: { لاَ تَقُولُوا رَاعِنا } لا تقولوا خلافـاً.وحدثنـي الـمثنى،
-  قال: ثنا أبو حذيفة، قال: ثنا شبل، عن ابن أبـي نـجيح، عن مـجاهد، مثله.حدثنا أحمد
-  بن إسحاق الأهوازي، قال: ثنا أبو أحمد الزبـيري، قال: ثنا سفـيان، عن رجل عن مـجاهد،
-  مثله.حدثنـي الـمثنى، قال: ثنا أبو نعيـم، قال: ثنا سفـيان، عن مـجاهد، مثله.وقال آخرون:
-  تأويـله: أرعنا سمعك: أي اسمع منا ونسمع منك. ذكر من قال ذلك:حدثنا ابن حميد، قال:
-  ثنا سلـمة، قال: حدثنـي ابن إسحاق، عن مـحمد بن أبـي مـحمد، عن عكرمة، أو عن سعيد بن
-  جبـير، عن ابن عبـاس قوله: { رَاعِنَا } أي أَرْعِنَا سمعك.حدثنـي مـحمد بن عمرو، قال:
-  ثنا أبو عاصم، قال: ثنا عيسى، عن ابن أبـي نـجيح، عن مـجاهد فـي قول الله جلّ وعزّ:
-  { يا أيُّها الّذِينَ آمَنُوا لاَ تَقُولُوا رَاعِنا } لا تقولوا اسمع منا ونسمع منك.وحدثت
-  عن الـحسين بن الفرج، قال: سمعت أبـا معاذ يقول: أخبرنا عبـيد بن سلـيـمان، قال: سمعت
-  الضحاك يقول فـي قوله: { رَاعِنا } قال: كان الرجل من الـمشركين يقول: أرْعنـي سمعك.ثم
-  اختلف أهل التأويـل فـي السبب الذي من أجله نهى الله الـمؤمنـين أن يقولوا راعنا، فقال
-  بعضهم: هي كلـمة كانت الـيهود تقولها علـى وجه الاستهزاء والـمسبّة، فنهى الله تعالـى
-  ذكره الـمؤمنـين أن يقولوا ذلك للنبـيّ صلى الله عليه وسلم. ذكر من قال ذلك:حدثنا بشر
-  بن معاذ، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة: { يا أيُّها الّذِينَ آمَنُوا لا
-  تَقُولُوا رَاعِنا } قولٌ كانت تقوله الـيهود استهزاءً، فزجر الله الـمؤمنـين أن يقولوا
-  كقولهم.حدثنا أحمد بن إسحاق، قال: ثنا أبو أحمد الزبـيري، عن فضيـل بن مرزوق، عن عطية:
-  لا تَقُولُوا رَاعِنا قال: كان أناس من الـيهود يقولون: أرعنا سمعك، حتـى قالها أناس
-  من الـمسلـمين. فكره الله لهم ما قالت الـيهود، فقال: { يا أيُّها الّذِينَ آمَنُوا
-  لاَ تَقُولُوا رَاعِنا } كما قالت الـيهود والنصارى.حدثنا الـحسن بن يحيى، قال: أخبرنا
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(2, 104)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(2,104)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">يَٰأَيُّهَا
+  ٱلَّذِينَ آمَنُواْ لاَ تَقُولُواْ رَاعِنَا وَقُولُواْ ٱنْظُرْنَا وَٱسْمَعُواْ وَلِلكَافِرِينَ
+  عَذَابٌ أَلِيمٌ &#13;&#13;</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\"
+  dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">اختلف أهل التأويـل
+  فـي تأويـل قوله: { لاَ تَقُولُوا رَاعِنَا } فقال بعضهم: تأويـله لا تقولوا خلافـا.
+  ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا مـحمد بن بشار، قال: ثنا مؤمل،
+  قال: ثنا سفـيان، عن ابن جريج، عن عطاء فـي قوله: { لاَ تَقُولُوا رَاعِنا } قال: لا
+  تقولوا خلافـاً.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي مـحمد بن عمرو، قال: ثنا
+  أبو عاصم، عن عيسى، عن ابن أبـي نـجيح، عن مـجاهد: { لاَ تَقُولُوا رَاعِنا } لا تقولوا
+  خلافـاً.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وحدثنـي الـمثنى، قال: ثنا أبو حذيفة،
+  قال: ثنا شبل، عن ابن أبـي نـجيح، عن مـجاهد، مثله.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  أحمد بن إسحاق الأهوازي، قال: ثنا أبو أحمد الزبـيري، قال: ثنا سفـيان، عن رجل عن مـجاهد،
+  مثله.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي الـمثنى، قال: ثنا أبو نعيـم،
+  قال: ثنا سفـيان، عن مـجاهد، مثله.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  آخرون: تأويـله: أرعنا سمعك: أي اسمع منا ونسمع منك. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن حميد، قال: ثنا سلـمة، قال: حدثنـي ابن إسحاق، عن مـحمد
+  بن أبـي مـحمد، عن عكرمة، أو عن سعيد بن جبـير، عن ابن عبـاس قوله: { رَاعِنَا } أي
+  أَرْعِنَا سمعك.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي مـحمد بن عمرو، قال: ثنا
+  أبو عاصم، قال: ثنا عيسى، عن ابن أبـي نـجيح، عن مـجاهد فـي قول الله جلّ وعزّ: { يا
+  أيُّها الّذِينَ آمَنُوا لاَ تَقُولُوا رَاعِنا } لا تقولوا اسمع منا ونسمع منك.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وحدثت عن الـحسين بن الفرج، قال: سمعت أبـا معاذ يقول: أخبرنا عبـيد
+  بن سلـيـمان، قال: سمعت الضحاك يقول فـي قوله: { رَاعِنا } قال: كان الرجل من الـمشركين
+  يقول: أرْعنـي سمعك.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">ثم اختلف أهل التأويـل فـي السبب
+  الذي من أجله نهى الله الـمؤمنـين أن يقولوا راعنا، فقال بعضهم: هي كلـمة كانت الـيهود
+  تقولها علـى وجه الاستهزاء والـمسبّة، فنهى الله تعالـى ذكره الـمؤمنـين أن يقولوا
+  ذلك للنبـيّ صلى الله عليه وسلم. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  بشر بن معاذ، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة: { يا أيُّها الّذِينَ آمَنُوا
+  لا تَقُولُوا رَاعِنا } قولٌ كانت تقوله الـيهود استهزاءً، فزجر الله الـمؤمنـين أن
+  يقولوا كقولهم.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا أحمد بن إسحاق، قال: ثنا أبو
+  أحمد الزبـيري، عن فضيـل بن مرزوق، عن عطية: لا تَقُولُوا رَاعِنا قال: كان أناس من
+  الـيهود يقولون: أرعنا سمعك، حتـى قالها أناس من الـمسلـمين. فكره الله لهم ما قالت
+  الـيهود، فقال: { يا أيُّها الّذِينَ آمَنُوا لاَ تَقُولُوا رَاعِنا } كما قالت الـيهود
+  والنصارى.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا الـحسن بن يحيى، قال: أخبرنا
   عبد الرزاق، قال: أخبرنا معمر، عن قتادة فـي قوله: { لا تَقُولوا رَاعِنَا وَقُولُوا
   انْظُرْنَا } قال: كانوا يقولون راعنا سمعك، فكان الـيهود يأتون فـيقولون مثل ذلك مستهزئين،
-  فقال الله: { لاَ تَقُولُوا رَاعِنَا وَقُولُوا انْظُرْنَا }.وحدثت عن الـمنـجاب، قال:
-  ثنا بشر بن عمارة، عن أبـي روق، عن الضحاك، عن ابن عبـاس فـي قوله: { لاَ تَقُولُوا
-  رَاعِنا } قال: كانوا يقولون للنبـيّ صلى الله عليه وسلم: راعنا سمعك وإنـما راعنا
-  كقولك عَاطِنَا.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ يَٰأَيُّهَا ٱلَّذِينَ آمَنُواْ لاَ
-  تَقُولُواْ رَاعِنَا وَقُولُواْ ٱنْظُرْنَا وَٱسْمَعُواْ وَلِلكَافِرِينَ عَذَابٌ أَلِيمٌ
-  \r\n\r\n }وحدثنـي يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد فـي قوله: { يا أيُّهَا
-  الّذِينَ آمَنُوا لا تَقُولُوا رَاعِنا وَقُولُوا انْظُرْنَا } قال: راعنا القول الذي
-  قاله القوم قَالُوا{ سَمِعْنَا وَعَصَيْنَا وَٱسْمَعْ غَيْرَ مُسْمَعٍ وَرَٰعِنَا لَيّاً
-  بِأَلْسِنَتِهِمْ وَطَعْناً فِي ٱلدِّينِ }[النساء: 46] قال: قال هذا الراعن، والراعن:
-  الـخطّاء. قال: فقال للـمؤمنـين: لا تقولوا خطاء كما قال القوم وقولوا انظرنا واسمعوا،
-  قال: كانوا ينظرون إلـى النبـيّ صلى الله عليه وسلم ويكلـمونه ويسمع منهم، ويسألونه
-  ويجيبهم.وقال آخرون: بل هي كلـمة كانت الأنصار فـي الـجاهلـية تقولها، فنهاهم الله
-  فـي الإسلام أن يقولوها لنبـيه صلى الله عليه وسلم. ذكر من قال ذلك:حدثنـي يعقوب بن
-  إبراهيـم، قال: حدثنـي هشيـم، قال: أخبرنا عبد الرزاق، عن عطاء فـي قوله: { لاَ تَقُولُوا
-  رَاعِنا } قال: كانت لغة فـي الأنصار فـي الـجاهلـية، فنزلت هذه الآية: { لا تَقُولُوا
-  رَاعِنا } وَلكن { قُولُوا انْظُرْنَا } إلـى آخر الآية.حدثنا أحمد بن إسحاق، قال:
-  ثنا أبو أحمد، قال: ثنا هشيـم، عن عبد الـملك، عن عطاء قال: { لاَ تَقُولُوا رَاعِنا
-  } قال: كانت لغة فـي الأنصار.حدثنا ابن حميد، قال: ثنا جرير، عن عبد الـملك، عن عطاء،
-  مثله.وحدثنـي الـمثنى، قال: ثنا إسحاق، عن ابن أبـي جعفر، عن أبـيه، عن الربـيع، عن
-  أبـي العالـية فـي قوله: { لاَ تَقُولُوا رَاعِنا } قال: إن مشركي العرب كانوا إذا
-  حدّث بعضهم بعضا يقول أحدهم لصاحبه: أَرْعنـي سمعك فنهوا عن ذلك.حدثنا القاسم، قال:
-  ثنا الـحسين، قال: حدثنـي حجاج، قال: قال ابن جريج، راعنا قول الساخر، فنهاهم أن يسخروا
-  من قول مـحمد صلى الله عليه وسلم.وقال بعضهم: بل كان ذلك كلام يهودي من الـيهود بعينه
-  يقال له رفـاعة بن زيد، كان يكلـم النبـيّ صلى الله عليه وسلم به علـى وجه السبّ له،
-  وكان الـمسلـمون أخذوا ذلك عنه، فنهى الله الـمؤمنـين عن قـيـله للنبـي صلى الله عليه
-  وسلم. ذكر من قال ذلك:حدثنـي موسى، قال ثنا عمرو، قال: ثنا أسبـاط، عن السدي: { يا
-  أيُّها الّذِينَ آمَنُوا لاَ تَقُولُوا رَاعِنا وَقُولُوا انْظُرْنَا } كان رجل من
-  الـيهود من قبـيـلة من الـيهود يقال لهم بنو قـينقاع كان يُدْعَى رفـاعة بن زيد بن
-  السائب.قال أبو جعفر: هذا خطأ إنـما هو ابن التابوت لـيس ابن السائب كان يأتـي النبـيّ
-  صلى الله عليه وسلم، فإذا لقـيه فكلـمه قال: أرعنـي سمعك واسمع غير مسمع. فكان الـمسلـمون
-  يحسبون أن الأنبـياء كانت تفخّم بهذا، فكان ناس منهم يقولون: اسمع غير مسمع، كقولك
-  اسمع غير صاغر، وهي التـي فـي النساء:\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ يَٰأَيُّهَا ٱلَّذِينَ آمَنُواْ لاَ
-  تَقُولُواْ رَاعِنَا وَقُولُواْ ٱنْظُرْنَا وَٱسْمَعُواْ وَلِلكَافِرِينَ عَذَابٌ أَلِيمٌ
-  \r\n\r\n }{ مِّنَ ٱلَّذِينَ هَادُواْ يُحَرِّفُونَ ٱلْكَلِمَ عَن مَّوَاضِعِهِ وَيَقُولُونَ
-  سَمِعْنَا وَعَصَيْنَا وَٱسْمَعْ غَيْرَ مُسْمَعٍ وَرَٰعِنَا لَيّاً بِأَلْسِنَتِهِمْ
-  وَطَعْناً فِي ٱلدِّينِ }[النساء: 46] يقول: إنـما يريد بقوله: { طَعْنا فِـي الدّينِ
-  }. ثم تقدم إلـى الـمؤمنـين فقال: لا تقولوا راعنا.والصواب من القول فـي نهي الله جل
-  ثناؤه الـمؤمنـين أن يقولوا لنبـيه: راعنا، أن يقال إنها كلـمة كرهها الله لهم أن يقولوها
-  لنبـيه صلى الله عليه وسلم، نظير الذي ذكر عن النبـيّ صلى الله عليه وسلم أنه قال:
-  \"  لاَ تَقُولُوا للعِنَبِ الكَرْمَ ولَكِنْ قُولُوا الـحَبلَة  \" ، و \"  لا تَقُولُوا
-  عبْدِي وَلَكِنْ قُولُوا فَتَايَ  \" وما أشبه ذلك من الكلـمتـين اللتـين تكونان مستعملتـين
-  بـمعنى واحد فـي كلام العرب، فتأتـي الكراهة أو النهي بـاستعمال إحداهما واختـيار الأخرى
-  علـيها فـي الـمخاطبـات.فإن قال لنا قائل: فإنا قد علـمنا معنى نهي النبـيّ صلى الله
-  عليه وسلم فـي العنب أن يقال له كرم، وفـي العبد أن يقال له عبد، فما الـمعنى الذي
-  فـي قوله: { راعِنا } حينئذٍ الذي من أجله كان النهي من الله جل ثناؤه للـمؤمنـين عن
-  أن يقولوه، حتـى أمرهم أن يؤثروا قوله: { انْظُرْنا }؟ قـيـل: الذي فـيه من ذلك، نظير
-  الذي فـي قول القائل الكرم للعنب، والعبد للـمـملوك، وذلك أن قول القائل عبد، لـجميع
-  عبـاد الله، فكره النبـيّ صلى الله عليه وسلم أن يضاف بعض عبـاد الله، بـمعنى العبودية
-  إلـى غير الله، وأمر أن يضاف ذلك إلـى غيره بغير الـمعنى الذي يضاف إلـى الله عزّ وجل،
-  فـيقال: فتاي. وكذلك وجه نهيه فـي العنب أن يقال كرم خوفـا من توهم وصفه بـالكرم، وإن
-  كانت مسكَّنة، فإن العرب قد تسكن بعض الـحركات إذا تتابعت علـى نوع واحد، فكره أن يتصف
-  بذلك العنب. فكذلك نهى الله عزّ وجل الـمؤمنـين أن يقولوا «راعنا»، لـما كان قول القائل
-  «راعنا» مـحتـملاً أن يكون بـمعنى احفظنا ونـحفظك وارقبنا ونرقبك، من قول العرب بعضهم
-  لبعض: رعاك الله بـمعنى حفظك الله وكلأك. ومـحتـملاً أن يكون بـمعنى أرعنا سمعك، من
-  قولهم: أرعيت سمعي إرعاءً، أو راعيته سمعي رعاء أو مراعاة، بـمعنى: فرّغته لسماع كلامه.
-  كما قال الأعشى ميـمون بن قـيس:يَرْعَى إلـى قَوْلِ ساداتِ الرّجالِ إذَا   أبْدَوْا
-  لَهُ الـحَزْمَ أوْ مَا شَاءهُ ابْتَدعَايعنـي بقوله يرعى: يصغي بسمعه إلـيه مُفْرِغَهُ
-  لذلك.وكأن الله جل ثناؤه قد أمر الـمؤمنـين بتوقـير نبـيه صلى الله عليه وسلم وتعظيـمه،
-  حتـى نهاهم جلّ ذكره فـيـما نهاهم عنه عن رفع أصواتهم فوق صوته وأن يجهروا له بـالقوْل
-  كجهر بعضهم لبعض وخوّفهم علـى ذلك حبوط أعمالهم، فتقدّم إلـيهم بـالزجر لهم عن أن يقولوا
-  له من القول ما فـيه جفـاء، وأمرهم أن يتـخيروا لـخطابه من الألفـاظ أحسنها، ومن الـمعانـي
-  أرقها، فكان من ذلك قولهم: { راعِنا } لِـمَا فِـيهِ من احتـمال معنى ارعنا نرعاك،
-  إذْ كانت الـمفـاعلة لا تكون إلا من اثنـين، كما يقول القائل: عاطنا وحادثنا وجالسنا،
-  بـمعنى افعل بنا ونفعل بك.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ يَٰأَيُّهَا ٱلَّذِينَ آمَنُواْ لاَ
-  تَقُولُواْ رَاعِنَا وَقُولُواْ ٱنْظُرْنَا وَٱسْمَعُواْ وَلِلكَافِرِينَ عَذَابٌ أَلِيمٌ
-  \r\n\r\n }ومعنى أرعنا سمعك حتـى نفهمك وتفهم عنا. فنهى الله تعالـى ذكره أصحاب مـحمد
-  أن يقولوا ذلك كذلك وأن يفردوا مسألته بـانتظارهم وإمهالهم لـيعقلوا عنه بتبجيـل منهم
-  له وتعظيـم، وأن لا يسألوه ما سألوه من ذلك علـى وجه الـجفـاء والتـجهم منهم له، ولا
-  بـالفظاظة والغلظة، تشبهاً منهم بـالـيهود فـي خطابهم نبـيّ الله صلى الله عليه وسلم
-  بقولهم له:{ ٱسْمَعْ غَيْرَ مُسْمَعٍ وَرَٰعِنَا }[النساء: 46]. يدلّ علـى صحة ما قلنا
-  فـي ذلك قوله:{ مَّا يَوَدُّ ٱلَّذِينَ كَفَرُواْ مِنْ أَهْلِ ٱلْكِتَابِ وَلاَ ٱلْمُشْرِكِينَ
-  أَن يُنَزَّلَ عَلَيْكُمْ مِّنْ خَيْرٍ مِّن رَّبِّكُمْ }[البقرة: 105] فدلّ بذلك أن
-  الذي عاتبهم علـيه مـما يسرّ الـيهود والـمشركين.فأما التأويـل الذي حكي عن مـجاهد
-  فـي قوله: { رَاعِنا } أنه بـمعنى خلافـاً، فمـما لا يعقل فـي كلام العرب لأن «راعيت»
-  فـي كلام العرب إنـما هو علـى أحد وجهين: أحدهما بـمعنى فـاعلت من «الرِّعْية»، وهي
-  الرِّقْبة والكلاءة. والآخر بـمعنى إفراغ السمع، بـمعنى أرعيته سمعي. وأما «راعيت»
-  بـمعنى «خالفت»، فلا وجه له مفهوم فـي كلام العرب، إلا أن يكون قرأ ذلك بـالتنوين ثم
-  وجهه إلـى معنى الرعونة والـجهل والـخطأ، علـى النـحو الذي قال فـي ذلك عبد الرحمن
-  بن زيد، فـيكون لذلك وإن كان مخالفـاً قراءة القراء معنى مفهوم حينئذٍ.وأما القول الآخر
-  الذي حكي عن عطية ومن حَكَى ذلك عنه، أن قوله: { رَاعِنا } كانت كلـمة للـيهود بـمعنى
-  السبّ والسخرية، فـاستعملها الـمؤمنون أخذاً منهم ذلك عنهم فإن ذلك غير جائز فـي صفة
-  الـمؤمنـين أن يأخذوا من كلام أهل الشرك كلاما لا يعرفون معناه ثم يستعملونه بـينهم
-  وفـي خطاب نبـيهم صلى الله عليه وسلم، ولكنه جائز أن يكون ذلك مـما روي عن قتادة أنها
-  كانت كلـمة صحيحة مفهومة من كلام العرب وافقت كلـمة من كلام الـيهود بغير اللسان العربـي
-  هي عند الـيهود سبّ، وهي عند العرب: أرْعنِـي سمعك وفرّغه لتفهم عنـي. فعلـم الله جل
-  ثناؤه معنى الـيهود فـي قـيـلهم ذلك للنبـيّ صلى الله عليه وسلم، وأن معناها منهم خلاف
-  معناها فـي كلام العرب، فنهى الله عزّ وجلّ الـمؤمنـين عن قـيـلها للنبـيّ صلى الله
-  عليه وسلم لئلا يجترىء من كان معناه فـي ذلك غير معنى الـمؤمنـين فـيه أن يخاطب رسول
-  الله صلى الله عليه وسلم به.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ يَٰأَيُّهَا ٱلَّذِينَ آمَنُواْ لاَ
-  تَقُولُواْ رَاعِنَا وَقُولُواْ ٱنْظُرْنَا وَٱسْمَعُواْ وَلِلكَافِرِينَ عَذَابٌ أَلِيمٌ
-  \r\n\r\n }وهذا تأويـل لـم يأت الـخبر بأنه كذلك من الوجه الذي تقوم به الـحجة. وإذْ
-  كان ذلك كذلك فـالذي هو أولـى بتأويـل الآية ما وصفنا، إذْ كان ذلك هو الظاهر الـمفهوم
-  بـالآية دون غيره.وقد حكي عن الـحسن البصري أنه كان يقرؤه: «لا تَقُولُوا رَاعِنا»
-  بـالتنوين، بـمعنى: لا تقولوا قولاً راعنا، من الرعونة وهي الـحمق والـجهل. وهذه قراءة
-  الـمسلـمين مخالفة، فغير جائز لأحد القراءة بها لشذوذها وخروجها من قراءة الـمتقدمين
-  والـمتأخرين وخلافها ما جاءت به الـحجة من الـمسلـمين. ومن نوّن «راعنا» نوّنه بقوله:
-  { لا تَقُولُوا } لأنه حينئذٍ عامل فـيه. ومن لـم ينوّنه فإنه ترك تنوينه لأنه أمر
-  مـحكيٌّ لأن القوم كأنهم كانوا يقولون للنبـيّ صلى الله عليه وسلم: { راعِنا } بـمعنى
-  مسألته إما أن يرعيهم سمعه، وإما أن يرعاهم ويرقبهم علـى ما قد بـينت فـيـما قد مضى
-  فقـيـل لهم: لا تقولوا فـي مسألتكم إياه راعنا. فتكون الدلالة علـى معنى الأمر فـي
-  «راعنا» حينئذٍ سقوط الـياء التـي كانت تكون فـي «يراعيه». ويدلّ علـيها أعنـي علـى
-  الـياء الساقطة كسرة العين من «راعنا». وقد ذكر أن قراءة ابن مسعود: «لا تقولوا راعونا»
-  بـمعنى حكاية أمر صالـحة لـجماعة بـمراعاتهم. فإن كان ذلك من قراءته صحيحا وُجِّه أن
-  يكون القوم كأنهم نهوا عن استعمال ذلك بـينهم فـي خطاب بعضهم بعضا كان خطابهم للنبـيّ
-  صلى الله عليه وسلم أو لغيره، ولا نعلـم ذلك صحيحاً من الوجه الذي تصحّ منه الأخبـار.القول
-  فـي تأويـل قوله تعالـى: { وَقُولُوا انْظُرْنا }.يعنـي بقوله جل ثناؤه: { وَقُولُوا
+  فقال الله: { لاَ تَقُولُوا رَاعِنَا وَقُولُوا انْظُرْنَا }.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وحدثت
+  عن الـمنـجاب، قال: ثنا بشر بن عمارة، عن أبـي روق، عن الضحاك، عن ابن عبـاس فـي قوله:
+  { لاَ تَقُولُوا رَاعِنا } قال: كانوا يقولون للنبـيّ صلى الله عليه وسلم: راعنا سمعك
+  وإنـما راعنا كقولك عَاطِنَا.</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\"
+  border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE:
+  none; BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2, 104)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,104)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">يَٰأَيُّهَا ٱلَّذِينَ آمَنُواْ لاَ تَقُولُواْ رَاعِنَا
+  وَقُولُواْ ٱنْظُرْنَا وَٱسْمَعُواْ وَلِلكَافِرِينَ عَذَابٌ أَلِيمٌ &#13;&#13;</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">وحدثنـي يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد فـي قوله: {
+  يا أيُّهَا الّذِينَ آمَنُوا لا تَقُولُوا رَاعِنا وَقُولُوا انْظُرْنَا } قال: راعنا
+  القول الذي قاله القوم قَالُوا</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">سَمِعْنَا وَعَصَيْنَا وَٱسْمَعْ غَيْرَ
+  مُسْمَعٍ وَرَٰعِنَا لَيّاً بِأَلْسِنَتِهِمْ وَطَعْناً فِي ٱلدِّينِ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[النساء:
+  46] قال: قال هذا الراعن، والراعن: الـخطّاء. قال: فقال للـمؤمنـين: لا تقولوا خطاء
+  كما قال القوم وقولوا انظرنا واسمعوا، قال: كانوا ينظرون إلـى النبـيّ صلى الله عليه
+  وسلم ويكلـمونه ويسمع منهم، ويسألونه ويجيبهم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  آخرون: بل هي كلـمة كانت الأنصار فـي الـجاهلـية تقولها، فنهاهم الله فـي الإسلام أن
+  يقولوها لنبـيه صلى الله عليه وسلم. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  يعقوب بن إبراهيـم، قال: حدثنـي هشيـم، قال: أخبرنا عبد الرزاق، عن عطاء فـي قوله:
+  { لاَ تَقُولُوا رَاعِنا } قال: كانت لغة فـي الأنصار فـي الـجاهلـية، فنزلت هذه الآية:
+  { لا تَقُولُوا رَاعِنا } وَلكن { قُولُوا انْظُرْنَا } إلـى آخر الآية.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا أحمد بن إسحاق، قال: ثنا أبو أحمد، قال: ثنا هشيـم، عن عبد الـملك،
+  عن عطاء قال: { لاَ تَقُولُوا رَاعِنا } قال: كانت لغة فـي الأنصار.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن حميد، قال: ثنا جرير، عن عبد الـملك، عن عطاء، مثله.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وحدثنـي الـمثنى، قال: ثنا إسحاق، عن ابن أبـي جعفر، عن أبـيه، عن
+  الربـيع، عن أبـي العالـية فـي قوله: { لاَ تَقُولُوا رَاعِنا } قال: إن مشركي العرب
+  كانوا إذا حدّث بعضهم بعضا يقول أحدهم لصاحبه: أَرْعنـي سمعك فنهوا عن ذلك.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا القاسم، قال: ثنا الـحسين، قال: حدثنـي حجاج، قال: قال ابن جريج،
+  راعنا قول الساخر، فنهاهم أن يسخروا من قول مـحمد صلى الله عليه وسلم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال بعضهم: بل كان ذلك كلام يهودي من الـيهود بعينه يقال له رفـاعة
+  بن زيد، كان يكلـم النبـيّ صلى الله عليه وسلم به علـى وجه السبّ له، وكان الـمسلـمون
+  أخذوا ذلك عنه، فنهى الله الـمؤمنـين عن قـيـله للنبـي صلى الله عليه وسلم. ذكر من
+  قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي موسى، قال ثنا عمرو، قال:
+  ثنا أسبـاط، عن السدي: { يا أيُّها الّذِينَ آمَنُوا لاَ تَقُولُوا رَاعِنا وَقُولُوا
+  انْظُرْنَا } كان رجل من الـيهود من قبـيـلة من الـيهود يقال لهم بنو قـينقاع كان يُدْعَى
+  رفـاعة بن زيد بن السائب.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">قال أبو جعفر: هذا خطأ إنـما هو
+  ابن التابوت لـيس ابن السائب كان يأتـي النبـيّ صلى الله عليه وسلم، فإذا لقـيه فكلـمه
+  قال: أرعنـي سمعك واسمع غير مسمع. فكان الـمسلـمون يحسبون أن الأنبـياء كانت تفخّم
+  بهذا، فكان ناس منهم يقولون: اسمع غير مسمع، كقولك اسمع غير صاغر، وهي التـي فـي النساء:</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2, 104)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,104)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">يَٰأَيُّهَا ٱلَّذِينَ آمَنُواْ لاَ تَقُولُواْ رَاعِنَا
+  وَقُولُواْ ٱنْظُرْنَا وَٱسْمَعُواْ وَلِلكَافِرِينَ عَذَابٌ أَلِيمٌ &#13;&#13;</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\"/></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">مِّنَ ٱلَّذِينَ هَادُواْ يُحَرِّفُونَ ٱلْكَلِمَ عَن مَّوَاضِعِهِ
+  وَيَقُولُونَ سَمِعْنَا وَعَصَيْنَا وَٱسْمَعْ غَيْرَ مُسْمَعٍ وَرَٰعِنَا لَيّاً بِأَلْسِنَتِهِمْ
+  وَطَعْناً فِي ٱلدِّينِ</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">[النساء: 46] يقول: إنـما يريد بقوله: { طَعْنا فِـي الدّينِ }. ثم
+  تقدم إلـى الـمؤمنـين فقال: لا تقولوا راعنا.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">والصواب
+  من القول فـي نهي الله جل ثناؤه الـمؤمنـين أن يقولوا لنبـيه: راعنا، أن يقال إنها
+  كلـمة كرهها الله لهم أن يقولوها لنبـيه صلى الله عليه وسلم، نظير الذي ذكر عن النبـيّ
+  صلى الله عليه وسلم أنه قال:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" </font></font></b><b><font class=\"TextResultArabic\"><font color=\"Red\"><b>
+  <a href=\" Javascript:OpenWindow(45) \" title=\" اضغط هنا لعرض تخريج الحديث \" style=\"
+  color: Red \" class=\" TextResultArabic \">لاَ تَقُولُوا للعِنَبِ الكَرْمَ ولَكِنْ
+  قُولُوا الـحَبلَة</a> </b></font></font></b><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" </font></font></b><font class=\"TextResultArabic\"><font color=\"black\">،
+  و</font></font><b><font class=\"TextResultArabic\"><font color=\"Red\"> \" </font></font></b><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"><b> <a href=\" Javascript:OpenWindow(46)
+  \" title=\" اضغط هنا لعرض تخريج الحديث \" style=\" color: Red \" class=\" TextResultArabic
+  \">لا تَقُولُوا عبْدِي وَلَكِنْ قُولُوا فَتَايَ</a> </b></font></font></b><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">وما أشبه ذلك من الكلـمتـين اللتـين تكونان مستعملتـين بـمعنى واحد
+  فـي كلام العرب، فتأتـي الكراهة أو النهي بـاستعمال إحداهما واختـيار الأخرى علـيها
+  فـي الـمخاطبـات.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">فإن قال لنا قائل: فإنا قد علـمنا
+  معنى نهي النبـيّ صلى الله عليه وسلم فـي العنب أن يقال له كرم، وفـي العبد أن يقال
+  له عبد، فما الـمعنى الذي فـي قوله: { راعِنا } حينئذٍ الذي من أجله كان النهي من الله
+  جل ثناؤه للـمؤمنـين عن أن يقولوه، حتـى أمرهم أن يؤثروا قوله: { انْظُرْنا }؟ قـيـل:
+  الذي فـيه من ذلك، نظير الذي فـي قول القائل الكرم للعنب، والعبد للـمـملوك، وذلك أن
+  قول القائل عبد، لـجميع عبـاد الله، فكره النبـيّ صلى الله عليه وسلم أن يضاف بعض عبـاد
+  الله، بـمعنى العبودية إلـى غير الله، وأمر أن يضاف ذلك إلـى غيره بغير الـمعنى الذي
+  يضاف إلـى الله عزّ وجل، فـيقال: فتاي. وكذلك وجه نهيه فـي العنب أن يقال كرم خوفـا
+  من توهم وصفه بـالكرم، وإن كانت مسكَّنة، فإن العرب قد تسكن بعض الـحركات إذا تتابعت
+  علـى نوع واحد، فكره أن يتصف بذلك العنب. فكذلك نهى الله عزّ وجل الـمؤمنـين أن يقولوا
+  «راعنا»، لـما كان قول القائل «راعنا» مـحتـملاً أن يكون بـمعنى احفظنا ونـحفظك وارقبنا
+  ونرقبك، من قول العرب بعضهم لبعض: رعاك الله بـمعنى حفظك الله وكلأك. ومـحتـملاً أن
+  يكون بـمعنى أرعنا سمعك، من قولهم: أرعيت سمعي إرعاءً، أو راعيته سمعي رعاء أو مراعاة،
+  بـمعنى: فرّغته لسماع كلامه. كما قال الأعشى ميـمون بن قـيس:</font></font><table class=\"TextArabic\"
+  dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">يَرْعَى إلـى قَوْلِ ساداتِ الرّجالِ إذَا</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">أبْدَوْا لَهُ الـحَزْمَ أوْ مَا شَاءهُ ابْتَدعَا</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">يعنـي بقوله يرعى: يصغي بسمعه إلـيه
+  مُفْرِغَهُ لذلك.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وكأن الله جل ثناؤه قد أمر الـمؤمنـين
+  بتوقـير نبـيه صلى الله عليه وسلم وتعظيـمه، حتـى نهاهم جلّ ذكره فـيـما نهاهم عنه
+  عن رفع أصواتهم فوق صوته وأن يجهروا له بـالقوْل كجهر بعضهم لبعض وخوّفهم علـى ذلك
+  حبوط أعمالهم، فتقدّم إلـيهم بـالزجر لهم عن أن يقولوا له من القول ما فـيه جفـاء،
+  وأمرهم أن يتـخيروا لـخطابه من الألفـاظ أحسنها، ومن الـمعانـي أرقها، فكان من ذلك
+  قولهم: { راعِنا } لِـمَا فِـيهِ من احتـمال معنى ارعنا نرعاك، إذْ كانت الـمفـاعلة
+  لا تكون إلا من اثنـين، كما يقول القائل: عاطنا وحادثنا وجالسنا، بـمعنى افعل بنا ونفعل
+  بك.</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">3 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2, 104)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,104)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">يَٰأَيُّهَا ٱلَّذِينَ آمَنُواْ لاَ تَقُولُواْ رَاعِنَا
+  وَقُولُواْ ٱنْظُرْنَا وَٱسْمَعُواْ وَلِلكَافِرِينَ عَذَابٌ أَلِيمٌ &#13;&#13;</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">ومعنى أرعنا سمعك حتـى نفهمك وتفهم عنا. فنهى الله تعالـى ذكره أصحاب
+  مـحمد أن يقولوا ذلك كذلك وأن يفردوا مسألته بـانتظارهم وإمهالهم لـيعقلوا عنه بتبجيـل
+  منهم له وتعظيـم، وأن لا يسألوه ما سألوه من ذلك علـى وجه الـجفـاء والتـجهم منهم له،
+  ولا بـالفظاظة والغلظة، تشبهاً منهم بـالـيهود فـي خطابهم نبـيّ الله صلى الله عليه
+  وسلم بقولهم له:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">ٱسْمَعْ غَيْرَ مُسْمَعٍ وَرَٰعِنَا</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[النساء:
+  46]. يدلّ علـى صحة ما قلنا فـي ذلك قوله:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">مَّا يَوَدُّ ٱلَّذِينَ كَفَرُواْ
+  مِنْ أَهْلِ ٱلْكِتَابِ وَلاَ ٱلْمُشْرِكِينَ أَن يُنَزَّلَ عَلَيْكُمْ مِّنْ خَيْرٍ
+  مِّن رَّبِّكُمْ</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">[البقرة: 105] فدلّ بذلك أن الذي عاتبهم علـيه مـما يسرّ الـيهود والـمشركين.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">فأما التأويـل الذي حكي عن مـجاهد فـي قوله: { رَاعِنا } أنه بـمعنى
+  خلافـاً، فمـما لا يعقل فـي كلام العرب لأن «راعيت» فـي كلام العرب إنـما هو علـى أحد
+  وجهين: أحدهما بـمعنى فـاعلت من «الرِّعْية»، وهي الرِّقْبة والكلاءة. والآخر بـمعنى
+  إفراغ السمع، بـمعنى أرعيته سمعي. وأما «راعيت» بـمعنى «خالفت»، فلا وجه له مفهوم فـي
+  كلام العرب، إلا أن يكون قرأ ذلك بـالتنوين ثم وجهه إلـى معنى الرعونة والـجهل والـخطأ،
+  علـى النـحو الذي قال فـي ذلك عبد الرحمن بن زيد، فـيكون لذلك وإن كان مخالفـاً قراءة
+  القراء معنى مفهوم حينئذٍ.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وأما القول الآخر الذي حكي عن عطية
+  ومن حَكَى ذلك عنه، أن قوله: { رَاعِنا } كانت كلـمة للـيهود بـمعنى السبّ والسخرية،
+  فـاستعملها الـمؤمنون أخذاً منهم ذلك عنهم فإن ذلك غير جائز فـي صفة الـمؤمنـين أن
+  يأخذوا من كلام أهل الشرك كلاما لا يعرفون معناه ثم يستعملونه بـينهم وفـي خطاب نبـيهم
+  صلى الله عليه وسلم، ولكنه جائز أن يكون ذلك مـما روي عن قتادة أنها كانت كلـمة صحيحة
+  مفهومة من كلام العرب وافقت كلـمة من كلام الـيهود بغير اللسان العربـي هي عند الـيهود
+  سبّ، وهي عند العرب: أرْعنِـي سمعك وفرّغه لتفهم عنـي. فعلـم الله جل ثناؤه معنى الـيهود
+  فـي قـيـلهم ذلك للنبـيّ صلى الله عليه وسلم، وأن معناها منهم خلاف معناها فـي كلام
+  العرب، فنهى الله عزّ وجلّ الـمؤمنـين عن قـيـلها للنبـيّ صلى الله عليه وسلم لئلا
+  يجترىء من كان معناه فـي ذلك غير معنى الـمؤمنـين فـيه أن يخاطب رسول الله صلى الله
+  عليه وسلم به.</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">4 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2, 104)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,104)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">يَٰأَيُّهَا ٱلَّذِينَ آمَنُواْ لاَ تَقُولُواْ رَاعِنَا
+  وَقُولُواْ ٱنْظُرْنَا وَٱسْمَعُواْ وَلِلكَافِرِينَ عَذَابٌ أَلِيمٌ &#13;&#13;</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">وهذا تأويـل لـم يأت الـخبر بأنه كذلك من الوجه الذي تقوم به الـحجة.
+  وإذْ كان ذلك كذلك فـالذي هو أولـى بتأويـل الآية ما وصفنا، إذْ كان ذلك هو الظاهر
+  الـمفهوم بـالآية دون غيره.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقد حكي عن الـحسن البصري أنه كان
+  يقرؤه: «لا تَقُولُوا رَاعِنا» بـالتنوين، بـمعنى: لا تقولوا قولاً راعنا، من الرعونة
+  وهي الـحمق والـجهل. وهذه قراءة الـمسلـمين مخالفة، فغير جائز لأحد القراءة بها لشذوذها
+  وخروجها من قراءة الـمتقدمين والـمتأخرين وخلافها ما جاءت به الـحجة من الـمسلـمين.
+  ومن نوّن «راعنا» نوّنه بقوله: { لا تَقُولُوا } لأنه حينئذٍ عامل فـيه. ومن لـم ينوّنه
+  فإنه ترك تنوينه لأنه أمر مـحكيٌّ لأن القوم كأنهم كانوا يقولون للنبـيّ صلى الله عليه
+  وسلم: { راعِنا } بـمعنى مسألته إما أن يرعيهم سمعه، وإما أن يرعاهم ويرقبهم علـى ما
+  قد بـينت فـيـما قد مضى فقـيـل لهم: لا تقولوا فـي مسألتكم إياه راعنا. فتكون الدلالة
+  علـى معنى الأمر فـي «راعنا» حينئذٍ سقوط الـياء التـي كانت تكون فـي «يراعيه». ويدلّ
+  علـيها أعنـي علـى الـياء الساقطة كسرة العين من «راعنا». وقد ذكر أن قراءة ابن مسعود:
+  «لا تقولوا راعونا» بـمعنى حكاية أمر صالـحة لـجماعة بـمراعاتهم. فإن كان ذلك من قراءته
+  صحيحا وُجِّه أن يكون القوم كأنهم نهوا عن استعمال ذلك بـينهم فـي خطاب بعضهم بعضا
+  كان خطابهم للنبـيّ صلى الله عليه وسلم أو لغيره، ولا نعلـم ذلك صحيحاً من الوجه الذي
+  تصحّ منه الأخبـار.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">القول فـي تأويـل قوله تعالـى: {
+  وَقُولُوا انْظُرْنا }.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">يعنـي بقوله جل ثناؤه: { وَقُولُوا
   انْظُرْنَا } وقولوا أيها الـمؤمنون لنبـيكم صلى الله عليه وسلم: انظرنا وارقبنا نفهم
-  ونتبـين ما تقول لنا وتعلـمنا. كما:حدثنـي مـحمد بن عمرو، قال: ثنا أبو عاصم، قال:
-  ثنا عيسى، عن ابن أبـي نـجيح، عن مـجاهد: { وَقُولُوا انْظُرْنَا } فهِّمْنا بـيِّنْ
-  لنا يا مـحمد.حدثنـي الـمثنى، قال: ثنا أبو حذيفة، قال: ثنا شبل، عن ابن أبـي نـجيح،
-  عن مـجاهد: { وَقُولُوا انْظُرْنَا } فَهِّمنا بـيِّن لنا يا مـحمد.حدثنا القاسم، قال:
-  ثنا الـحسين، قال: حدثنـي حجاج، عن ابن جريج، عن مـجاهد، مثله.يقال منه: نظرت الرجل
-  أنظره نظرة بـمعنى انتظرته ورقبته. ومنه قول الـحطيئة:وَقَدْ نَظَرْتُكُمْ أعْشاءَ
-  صَادِرَةٍ   للـخمْسِ طالَ بِها حَوْزي وتَنْسَاسيومنه قول الله عز وجل:{ يَوْمَ يَقُولُ
-  ٱلْمُنَافِقُونَ وَٱلْمُنَافِقَاتُ لِلَّذِينَ آمَنُواْ ٱنظُرُونَا نَقْتَبِسْ مِن
-  نُّورِكُمْ }[الحديد: 13] يعنـي به انتظرونا. وقد قرىء «أنْظِرنا» بقطع الألف فـي الـموضعين
-  جميعا، فمن قرأ ذلك كذلك أراد أَخِّرنا، كما قال الله جل ثناؤه:{ قَالَ رَبِّ فَأَنظِرْنِي
-  إِلَىٰ يَوْمِ يُبْعَثُونَ }[الحجر: 36] أي أخّرنـي. ولا وجه لقراءة ذلك كذلك فـي هذا
-  الـموضع لأن أصحاب رسول الله صلى الله عليه وسلم إنـما أُمروا بـالدنوّ من رسول الله
-  صلى الله عليه وسلم والاستـماع منه وإلطاف الـخطاب له وخفض الـجناح، لا بـالتأخر عنه
-  ولا بـمسألته تأخيرهم عنه.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ يَٰأَيُّهَا ٱلَّذِينَ آمَنُواْ لاَ
-  تَقُولُواْ رَاعِنَا وَقُولُواْ ٱنْظُرْنَا وَٱسْمَعُواْ وَلِلكَافِرِينَ عَذَابٌ أَلِيمٌ
-  \r\n\r\n }فـالصواب إن كان ذلك كذلك من القراءة قراءة من وصل الألف من قوله: { انْظُرْنا
-  } ولـم يقطعها بـمعنى انتظرنا.وقد قـيـل: إن معنى «أَنْظِرنا» بقطع الألف بـمعنى «أمهلنا»،
-  حكي عن بعض العرب سماعا: أنظرنـي أكلـمك وذكر سامع ذلك من بعضهم أنه استثبته فـي معناه،
-  فأخبره أنه أراد أمهلنـي. فإن يكن ذلك صحيحا عنهم ف«انْظُرْ» و«أنْظِرْنا» بقطع الألف
-  ووصلها متقاربـا بالمعنى. غير أن الأمر وإن كان كذلك، فإن القراءة التـي أستـجيز غيرها
-  قراءة من قرأ: { وَقُولُوا انْظُرْنا } بوصل الألف بـمعنى انتظرنا، لإجماع الـحجة علـى
-  تصويبها ورفضهم غيرها من القراءات.القول فـي تأويـل قوله تعالـى: { وَاسمَعُوا وللْكافِرِينَ
-  عَذَابٌ ألِـيـمٌ }.يعنـي بقوله جل ثناؤه: { واسمَعُوا } واسمعوا ما يقال لكم ويتلـى
-  علـيكم من كتاب ربكم وعوه وافهموه. كما:حدثنـي موسى، قال: ثنا عمرو، قال: ثنا أسبـاط،
-  عن السدي: { واسمَعُوا } اسمعوا ما يقال لكم.فمعنى الآية إذا: يا أيها الذين آمنوا
-  لا تقولوا لنبـيكم راعنا سمعك وفرّغه لنا نفهمك وتفهم عنا ما نقول، ولكن قولوا انتظرنا
-  وترقبنا حتـى نفهم عنك ما تعلـمنا وتبـينه لنا، واسمعوا منه ما يقول لكم فعوه واحفظوه
-  وافهموه. ثم أخبرهم جل ثناؤه أن لـمن جحد منهم ومن غيرهم آياته وخالف أمره ونهيه وكذب
-  رسوله العذاب الـموجع فـي الآخرة، فقال: وللكافرين بـي وبرسولـي عذاب ألـيـم، يعنـي
-  بقوله الألـيـم: الـموجع. وقد ذكرنا الدلالة علـى ذلك فـيـما مضى قبل وما فـيه من الآثار.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  ونتبـين ما تقول لنا وتعلـمنا. كما:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  مـحمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، عن ابن أبـي نـجيح، عن مـجاهد: {
+  وَقُولُوا انْظُرْنَا } فهِّمْنا بـيِّنْ لنا يا مـحمد.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  الـمثنى، قال: ثنا أبو حذيفة، قال: ثنا شبل، عن ابن أبـي نـجيح، عن مـجاهد: { وَقُولُوا
+  انْظُرْنَا } فَهِّمنا بـيِّن لنا يا مـحمد.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  القاسم، قال: ثنا الـحسين، قال: حدثنـي حجاج، عن ابن جريج، عن مـجاهد، مثله.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">يقال منه: نظرت الرجل أنظره نظرة بـمعنى انتظرته ورقبته. ومنه قول
+  الـحطيئة:</font></font><table class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">وَقَدْ نَظَرْتُكُمْ
+  أعْشاءَ صَادِرَةٍ</font></font></b></td><td class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">للـخمْسِ طالَ بِها حَوْزي وتَنْسَاسي</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">ومنه قول الله عز وجل:</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">يَوْمَ
+  يَقُولُ ٱلْمُنَافِقُونَ وَٱلْمُنَافِقَاتُ لِلَّذِينَ آمَنُواْ ٱنظُرُونَا نَقْتَبِسْ
+  مِن نُّورِكُمْ</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">[الحديد: 13] يعنـي به انتظرونا. وقد قرىء «أنْظِرنا» بقطع الألف فـي
+  الـموضعين جميعا، فمن قرأ ذلك كذلك أراد أَخِّرنا، كما قال الله جل ثناؤه:</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">قَالَ
+  رَبِّ فَأَنظِرْنِي إِلَىٰ يَوْمِ يُبْعَثُونَ</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">[الحجر: 36] أي أخّرنـي. ولا وجه
+  لقراءة ذلك كذلك فـي هذا الـموضع لأن أصحاب رسول الله صلى الله عليه وسلم إنـما أُمروا
+  بـالدنوّ من رسول الله صلى الله عليه وسلم والاستـماع منه وإلطاف الـخطاب له وخفض الـجناح،
+  لا بـالتأخر عنه ولا بـمسألته تأخيرهم عنه.</font></font>&#13;\t\t\t<label disabled=\"true\"
+  class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,6,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">5 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2, 104)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,104)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">يَٰأَيُّهَا ٱلَّذِينَ آمَنُواْ لاَ تَقُولُواْ رَاعِنَا
+  وَقُولُواْ ٱنْظُرْنَا وَٱسْمَعُواْ وَلِلكَافِرِينَ عَذَابٌ أَلِيمٌ &#13;&#13;</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">فـالصواب إن كان ذلك كذلك من القراءة قراءة من وصل الألف من قوله:
+  { انْظُرْنا } ولـم يقطعها بـمعنى انتظرنا.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقد
+  قـيـل: إن معنى «أَنْظِرنا» بقطع الألف بـمعنى «أمهلنا»، حكي عن بعض العرب سماعا: أنظرنـي
+  أكلـمك وذكر سامع ذلك من بعضهم أنه استثبته فـي معناه، فأخبره أنه أراد أمهلنـي. فإن
+  يكن ذلك صحيحا عنهم ف«انْظُرْ» و«أنْظِرْنا» بقطع الألف ووصلها متقاربـا بالمعنى. غير
+  أن الأمر وإن كان كذلك، فإن القراءة التـي أستـجيز غيرها قراءة من قرأ: { وَقُولُوا
+  انْظُرْنا } بوصل الألف بـمعنى انتظرنا، لإجماع الـحجة علـى تصويبها ورفضهم غيرها من
+  القراءات.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">القول فـي تأويـل قوله تعالـى: {
+  وَاسمَعُوا وللْكافِرِينَ عَذَابٌ ألِـيـمٌ }.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">يعنـي
+  بقوله جل ثناؤه: { واسمَعُوا } واسمعوا ما يقال لكم ويتلـى علـيكم من كتاب ربكم وعوه
+  وافهموه. كما:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي موسى، قال: ثنا عمرو، قال:
+  ثنا أسبـاط، عن السدي: { واسمَعُوا } اسمعوا ما يقال لكم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">فمعنى
+  الآية إذا: يا أيها الذين آمنوا لا تقولوا لنبـيكم راعنا سمعك وفرّغه لنا نفهمك وتفهم
+  عنا ما نقول، ولكن قولوا انتظرنا وترقبنا حتـى نفهم عنك ما تعلـمنا وتبـينه لنا، واسمعوا
+  منه ما يقول لكم فعوه واحفظوه وافهموه. ثم أخبرهم جل ثناؤه أن لـمن جحد منهم ومن غيرهم
+  آياته وخالف أمره ونهيه وكذب رسوله العذاب الـموجع فـي الآخرة، فقال: وللكافرين بـي
+  وبرسولـي عذاب ألـيـم، يعنـي بقوله الألـيـم: الـموجع. وقد ذكرنا الدلالة علـى ذلك
+  فـيـما مضى قبل وما فـيه من الآثار.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">6 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section>"
 

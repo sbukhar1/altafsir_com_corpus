@@ -1,4 +1,4 @@
-location:
+position:
   sura: '002'
   aaya: '031'
   madhab: '01'
@@ -7,207 +7,503 @@ meta:
   title: تفسير جامع البيان في تفسير القرآن
   author: الطبري
   year: '310'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَعَلَّمَ ءَادَمَ
-  ٱلأَسْمَآءَ كُلَّهَا ثُمَّ عَرَضَهُمْ عَلَى ٱلْمَلَٰئِكَةِ فَقَالَ أَنْبِئُونِي
-  بِأَسْمَآءِ هَـٰؤُلاۤءِ إِن كُنْتُمْ صَٰدِقِينَ }وَعَلَّمَ ءَادَمَ ٱلأَسْمَآءَ كُلَّهَا
-  ثُمَّ عَرَضَهُمْ عَلَى ٱلْمَلَٰئِكَةِ فَقَالَ أَنْبِئُونِي بِأَسْمَآءِ هَـٰؤُلاۤءِ
-  إِن كُنْتُمْ صَٰدِقِينَ (*) قال أبو جعفر:حدثنا مـحمد بن حميد، قال: حدثنا يعقوب القمي،
-  عن جعفر بن أبـي الـمغيرة، عن سعيد بن جبـير، عن ابن عبـاس قال: بعث ربّ العزّة ملك
-  الـموت، فأخذ من أديـم الأرض من عذبها ومالـحها، فخـلق منه آدم. ومن ثم سُمي آدم لأنه
-  خـلق من أديـم الأرض.وحدثنا أحمد بن إسحاق، قال: حدثنا أبو أحمد الزبـيري، قال: حدثنا
-  عمرو بن ثابت، عن أبـيه، عن جده، عن علـيّ، قال: إن آدم خـلق من أديـم الأرض فـيه الطيب
-  والصالـح والرديء، فكل ذلك أنت راء فـي ولده الصالـح والرديء.وحدثنا أحمد بن إسحاق،
-  قال: حدثنا أبو أحمد، قال: حدثنا مسعر، عن أبـي حصين، عن سعيد بن جبـير، قال: خـلق
-  آدم من أديـم الأرض فسمي آدم.وحدثنا ابن الـمثنى، قال: حدثنا أبو داود، قال: حدثنا
-  شعبة، عن أبـي حصين، عن سعيد بن جبـير قال: إنـما سمي آدم لأنه خـلق من أديـم الأرض.وحدثنـي
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(2, 31)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(2,31)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَعَلَّمَ
+  ءَادَمَ ٱلأَسْمَآءَ كُلَّهَا ثُمَّ عَرَضَهُمْ عَلَى ٱلْمَلَٰئِكَةِ فَقَالَ أَنْبِئُونِي
+  بِأَسْمَآءِ هَـٰؤُلاۤءِ إِن كُنْتُمْ صَٰدِقِينَ</a> <b>}</b></font>, <br/>, <br/>,
+  <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">وَعَلَّمَ
+  ءَادَمَ ٱلأَسْمَآءَ كُلَّهَا ثُمَّ عَرَضَهُمْ عَلَى ٱلْمَلَٰئِكَةِ فَقَالَ أَنْبِئُونِي
+  بِأَسْمَآءِ هَـٰؤُلاۤءِ إِن كُنْتُمْ صَٰدِقِينَ (*) قال أبو جعفر:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا مـحمد بن حميد، قال: حدثنا يعقوب القمي، عن جعفر بن أبـي الـمغيرة،
+  عن سعيد بن جبـير، عن ابن عبـاس قال: بعث ربّ العزّة ملك الـموت، فأخذ من أديـم الأرض
+  من عذبها ومالـحها، فخـلق منه آدم. ومن ثم سُمي آدم لأنه خـلق من أديـم الأرض.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وحدثنا أحمد بن إسحاق، قال: حدثنا أبو أحمد الزبـيري، قال: حدثنا عمرو
+  بن ثابت، عن أبـيه، عن جده، عن علـيّ، قال: إن آدم خـلق من أديـم الأرض فـيه الطيب
+  والصالـح والرديء، فكل ذلك أنت راء فـي ولده الصالـح والرديء.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وحدثنا
+  أحمد بن إسحاق، قال: حدثنا أبو أحمد، قال: حدثنا مسعر، عن أبـي حصين، عن سعيد بن جبـير،
+  قال: خـلق آدم من أديـم الأرض فسمي آدم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وحدثنا
+  ابن الـمثنى، قال: حدثنا أبو داود، قال: حدثنا شعبة، عن أبـي حصين، عن سعيد بن جبـير
+  قال: إنـما سمي آدم لأنه خـلق من أديـم الأرض.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وحدثنـي
   موسى بن هارون، قال: حدثنا عمرو، قال: حدثنا أسبـاط عن السدي فـي خبر ذكره، عن أبـي
   مالك، وعن أبـي صالـح، عن ابن عبـاس، وعن مرة، عن ابن مسعود، وعن ناس من أصحاب النبـي
   صلى الله عليه وسلم: إن ملك الـموت لـما بعث لـيأخذ من الأرض تربة آدم، أخذ من وجه
   الأرض وخـلط فلـم يأخذ من مكان واحد، وأخذ من تربة حمراء وبـيضاء وسوداء فلذلك خرج
-  بنو آدم مختلفـين، ولذلك سمي آدم، لأنه أخذ من أديـم الأرض.وقد رُوي عن رسول الله صلى
-  الله عليه وسلم خبر يحقق ما قال من حكينا قوله فـي معنى آدم، وذلك ما:حدثنـي به يعقوب
-  بن إبراهيـم، قال: حدثنا ابن علـية، عن عوف، وحدثنا مـحمد بن بشار وعمر بن شبة، قالا:
-  حدثنا يحيى بن سعيد، قال: حدثنا عوف، وحدثنا ابن بشار، قال: حدثنا ابن أبـي عديّ ومـحمد
-  بن جعفر وعبد الوهاب الثقـفـي قالوا: حدثنا عوف، وحدثنـي مـحمد ابن عمارة الأسدي، قال:
-  حدثنا إسماعيـل بن أبـان، قال: حدثنا عنبسة، عن عوف الأعرابـي، عن قسامة بن زهير، عن
-  أبـي موسى الأشعري، قال: قال رسول الله صلى الله عليه وسلم \"  إنَّ اللَّهَ خَـلَقَ
-  آدَمَ مِنْ قَبْضَةٍ قَبَضَهَا مِنْ جَمِيعِ الأرْضِ، فَجَاءَ بَنُو آدَمَ علـى قَدْرِ
-  الأرْضِ جاءَ مِنْهُمْ أَلاحْمَرُ وَالأسْوَدُ وَالأبْـيَضُ وَبَـيْنَ ذلكَ وَالسَّهْلُ
-  وَالـحَزْنُ وَالـخَبِـيثُ وَالطَّيِّبُ  \" \r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَعَلَّمَ ءَادَمَ ٱلأَسْمَآءَ كُلَّهَا
-  ثُمَّ عَرَضَهُمْ عَلَى ٱلْمَلَٰئِكَةِ فَقَالَ أَنْبِئُونِي بِأَسْمَآءِ هَـٰؤُلاۤءِ
-  إِن كُنْتُمْ صَٰدِقِينَ }  فعلـى التأويـل الذي تأول آدم من تأوله بـمعنى أنه خـلق
-  من أديـم الأرض، يجب أن يكون أصل آدم فعلاً سمي به أبو البشر، كما سمي أحمد بـالفعل
-  من الإحماد، وأسعد من الإسعاد، فلذلك لـم يجرّ، ويكون تأويـله حينئذٍ: آدم الـملك الأرضَ،
-  يعنـي به أبلغ أَدَمتها، وأدمتها وجهها الظاهر لرأي العين، كما أن جلدة كل ذي جلدة
-  له أدمة، ومن ذلك سمي الإدام إداماً، لأنه صار كالـجلدة العلـيا مـما هي منه، ثم نقل
-  من الفعل فجعل اسماً للشخص بعينه.القول فـي تأويـل قوله تعالـى: { ٱلأَسْمَآءَ كُلَّهَا
-  }.قال أبو جعفر: اختلف أهل التأويـل فـي الأسماء التـي علـمها آدم ثم عرضها علـى الـملائكة.
-  فقال ابن عبـاس ما:حدثنا به أبو كريب، قال: حدثنا عثمان بن سعيد، قال: حدثنا بشر بن
-  عمارة، عن أبـي روق، عن الضحاك، عن ابن عبـاس، قال: علـم الله آدم الأسماء كلها، وهي
-  هذه الأسماء التـي يتعارف بها الناس: إنسان ودابة، وأرض، وسهل، وبحر، وجبل، وحمار،
-  وأشبـاه ذلك من الأمـم وغيرها.وحدثنا مـحمد بن عمرو، قال: حدثنا أبو عاصم، قال: حدثنـي
-  عيسى عن ابن أبـي نـجيح، عن مـجاهد، وحدثنـي الـمثنى، قال: حدثنا أبو حذيفة، قال: حدثنا
-  شبل، عن ابن أبـي نـجيح، عن مـجاهد فـي قول الله: { وَعَلَّمَ ءَادَمَ ٱلأَسْمَآءَ
-  كُلَّهَا } قال: علـمه اسم كل شيء.وحدثنا ابن وكيع، قال: حدثنا أبـي، عن سفـيان، عن
-  خصيف، عن مـجاهد: { وَعَلَّمَ ءَادَمَ ٱلأَسْمَآءَ كُلَّهَا } قال: علـمه اسم كل شيء.وحدثنا
-  علـي بن الـحسن، قال: حدثنا مسلـم الـحرمي، عن مـحمد بن مصعب، عن قـيس بن الربـيع،
-  عن خصيف، عن مـجاهد، قال: علـمه اسم الغراب والـحمامة، واسم كل شيء.وحدثنا ابن وكيع،
-  قال: حدثنا أبـي، عن شريك، عن سالـم الأفطس، عن سعيد بن جبـير، قال: علـمه اسم كل شيء،
-  حتـى البعير والبقرة والشاة.وحدثنا ابن وكيع، قال: حدثنا أبـي عن شريك، عن عاصم بن
-  كلـيب، عن سعيد بن معبد، عن ابن عبـاس، قال: علـمه اسم القصعة والفسوة والفسية.وحدثنا
-  أحمد بن إسحاق، قال: حدثنا أبو أحمد، قال: حدثنا شريك، عن عاصم بن كلـيب، عن الـحسن
-  بن سعد، عن ابن عبـاس: { وَعَلَّمَ ءَادَمَ ٱلأَسْمَآءَ كُلَّهَا } قال: حتـى الفسوة
-  والفسية.حدثنا علـيّ بن الـحسن، قال: حدثنا مسلـم، قال: حدثنا مـحمد بن مصعب، عن قـيس،
-  عن عاصم بن كلـيب، عن سعيد بن معبد، عن ابن عبـاس فـي قول الله: { وَعَلَّمَ ءَادَمَ
-  ٱلأَسْمَآءَ كُلَّهَا } قال: علـمه اسم كل شيء حتـى الهنة والهنـية والفسوة والضرطة.وحدثنا
-  القاسم، قال: حدثنا الـحسين، قال: حدثنا علـيّ بن مسهر، عن عاصم بن كلـيب، قال: قال
-  ابن عبـاس: علـمه القصعة من القصيعة، والفسوة من الفسية.وحدثنا بشر بن معاذ، قال: حدثنا
-  يزيد بن زريع، عن سعيد، عن قتادة قوله: { وَعَلَّمَ ءَادَمَ ٱلأَسْمَآءَ كُلَّهَا }
-  حتـى بلغ:\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَعَلَّمَ ءَادَمَ ٱلأَسْمَآءَ كُلَّهَا
-  ثُمَّ عَرَضَهُمْ عَلَى ٱلْمَلَٰئِكَةِ فَقَالَ أَنْبِئُونِي بِأَسْمَآءِ هَـٰؤُلاۤءِ
-  إِن كُنْتُمْ صَٰدِقِينَ }{ إِنَّكَ أَنْتَ ٱلْعَلِيمُ ٱلْحَكِيمُ }[البقرة: 32] قال:
-  يا آدم أنبئهم بأسمائهم فأنبأ كل صنف من الـخـلق بـاسمه وألـجأه إلـى جنسه.وحدثنا الـحسن
-  بن يحيى، قال: حدثنا عبد الرزاق، قال: حدثنا معمر، عن قتادة فـي قوله: { وَعَلَّمَ
-  ءَادَمَ ٱلأَسْمَآءَ كُلَّهَا } قال: علـمه اسم كل شيء: هذا جبل، وهذا بحر، وهذا كذا
-  وهذا كذا، لكل شيء، ثم عرض تلك الأشياء علـى الـملائكة فقال: { أَنْبِئُونِي بِأَسْمَآءِ
-  هَـٰؤُلاۤءِ إِن كُنْتُمْ صَٰدِقِينَ }.وحدثنا القاسم، قال: حدثنا الـحسين، قال: حدثنـي
-  حجاج، عن جرير بن حازم ومبـارك، عن الـحسن، وأبـي بكر عن الـحسن وقتادة قالا: علـمه
-  اسم كل شيء: هذه الـخيـل، وهذه البغال، والإبل، والـجنّ، والوحش وجعل يسمي كل شيء بـاسمه.وحدثت
-  عن عمار، قال: حدثنا عبد الله بن أبـي جعفر عن أبـيه، عن الربـيع، قال: اسم كل شيء.وقال
-  آخرون: علـم آدم الأسماء كلها، أسماء الـملائكة. ذكر من قال ذلك:حدثت عن عمار، قال:
-  حدثنا عبد الله بن أبـي جعفر، عن أبـيه، عن الربـيع قوله: { وَعَلَّمَ ءَادَمَ ٱلأَسْمَآءَ
-  كُلَّهَا } قال: أسماء الـملائكة.وقال آخرون: إنـما علـمه أسماء ذريته كلها. ذكر من
-  قال ذلك:حدثنـي يونس بن عبد الأعلـى، قال: أخبرنا ابن وهب، قال: قال ابن زيد فـي قوله:
-  { وَعَلَّمَ ءَادَمَ ٱلأَسْمَآءَ كُلَّهَا } قال: أسماء ذرّيته أجمعين.وأولـى هذه الأقوال
-  بـالصواب وأشبهها بـما دلّ علـى صحته ظاهر التلاوة قول من قال فـي قوله: { وَعَلَّمَ
-  ءَادَمَ ٱلأَسْمَآءَ كُلَّهَا } إنها أسماء ذرّيته وأسماء الـملائكة، دون أسماء سائر
-  أجناس الـخـلق. وذلك أن الله جل ثناؤه قال: { ثُمَّ عَرَضَهُمْ عَلَى ٱلْمَلَٰئِكَةِ
+  بنو آدم مختلفـين، ولذلك سمي آدم، لأنه أخذ من أديـم الأرض.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقد
+  رُوي عن رسول الله صلى الله عليه وسلم خبر يحقق ما قال من حكينا قوله فـي معنى آدم،
+  وذلك ما:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي به يعقوب بن إبراهيـم، قال:
+  حدثنا ابن علـية، عن عوف، وحدثنا مـحمد بن بشار وعمر بن شبة، قالا: حدثنا يحيى بن سعيد،
+  قال: حدثنا عوف، وحدثنا ابن بشار، قال: حدثنا ابن أبـي عديّ ومـحمد بن جعفر وعبد الوهاب
+  الثقـفـي قالوا: حدثنا عوف، وحدثنـي مـحمد ابن عمارة الأسدي، قال: حدثنا إسماعيـل بن
+  أبـان، قال: حدثنا عنبسة، عن عوف الأعرابـي، عن قسامة بن زهير، عن أبـي موسى الأشعري،
+  قال: قال رسول الله صلى الله عليه وسلم</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" </font></font></b><b><font class=\"TextResultArabic\"><font color=\"Red\"><b>
+  <a href=\" Javascript:OpenWindow(18) \" title=\" اضغط هنا لعرض تخريج الحديث \" style=\"
+  color: Red \" class=\" TextResultArabic \">إنَّ اللَّهَ خَـلَقَ آدَمَ مِنْ قَبْضَةٍ
+  قَبَضَهَا مِنْ جَمِيعِ الأرْضِ، فَجَاءَ بَنُو آدَمَ علـى قَدْرِ الأرْضِ جاءَ مِنْهُمْ
+  أَلاحْمَرُ وَالأسْوَدُ وَالأبْـيَضُ وَبَـيْنَ ذلكَ وَالسَّهْلُ وَالـحَزْنُ وَالـخَبِـيثُ
+  وَالطَّيِّبُ</a> </b></font></font></b><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" </font></font></b>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\"
+  border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE:
+  none; BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2, 31)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,31)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَعَلَّمَ ءَادَمَ ٱلأَسْمَآءَ كُلَّهَا ثُمَّ عَرَضَهُمْ
+  عَلَى ٱلْمَلَٰئِكَةِ فَقَالَ أَنْبِئُونِي بِأَسْمَآءِ هَـٰؤُلاۤءِ إِن كُنْتُمْ صَٰدِقِينَ</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><b><font class=\"TextResultArabic\"><font
+  color=\"Red\">  </font></font></b><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">فعلـى التأويـل الذي تأول آدم من
+  تأوله بـمعنى أنه خـلق من أديـم الأرض، يجب أن يكون أصل آدم فعلاً سمي به أبو البشر،
+  كما سمي أحمد بـالفعل من الإحماد، وأسعد من الإسعاد، فلذلك لـم يجرّ، ويكون تأويـله
+  حينئذٍ: آدم الـملك الأرضَ، يعنـي به أبلغ أَدَمتها، وأدمتها وجهها الظاهر لرأي العين،
+  كما أن جلدة كل ذي جلدة له أدمة، ومن ذلك سمي الإدام إداماً، لأنه صار كالـجلدة العلـيا
+  مـما هي منه، ثم نقل من الفعل فجعل اسماً للشخص بعينه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">القول
+  فـي تأويـل قوله تعالـى: { ٱلأَسْمَآءَ كُلَّهَا }.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال
+  أبو جعفر: اختلف أهل التأويـل فـي الأسماء التـي علـمها آدم ثم عرضها علـى الـملائكة.
+  فقال ابن عبـاس ما:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا به أبو كريب، قال: حدثنا عثمان
+  بن سعيد، قال: حدثنا بشر بن عمارة، عن أبـي روق، عن الضحاك، عن ابن عبـاس، قال: علـم
+  الله آدم الأسماء كلها، وهي هذه الأسماء التـي يتعارف بها الناس: إنسان ودابة، وأرض،
+  وسهل، وبحر، وجبل، وحمار، وأشبـاه ذلك من الأمـم وغيرها.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وحدثنا
+  مـحمد بن عمرو، قال: حدثنا أبو عاصم، قال: حدثنـي عيسى عن ابن أبـي نـجيح، عن مـجاهد،
+  وحدثنـي الـمثنى، قال: حدثنا أبو حذيفة، قال: حدثنا شبل، عن ابن أبـي نـجيح، عن مـجاهد
+  فـي قول الله: { وَعَلَّمَ ءَادَمَ ٱلأَسْمَآءَ كُلَّهَا } قال: علـمه اسم كل شيء.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وحدثنا ابن وكيع، قال: حدثنا أبـي، عن سفـيان، عن خصيف، عن مـجاهد:
+  { وَعَلَّمَ ءَادَمَ ٱلأَسْمَآءَ كُلَّهَا } قال: علـمه اسم كل شيء.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وحدثنا علـي بن الـحسن، قال: حدثنا مسلـم الـحرمي، عن مـحمد بن مصعب،
+  عن قـيس بن الربـيع، عن خصيف، عن مـجاهد، قال: علـمه اسم الغراب والـحمامة، واسم كل
+  شيء.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وحدثنا ابن وكيع، قال: حدثنا أبـي،
+  عن شريك، عن سالـم الأفطس، عن سعيد بن جبـير، قال: علـمه اسم كل شيء، حتـى البعير والبقرة
+  والشاة.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وحدثنا ابن وكيع، قال: حدثنا أبـي
+  عن شريك، عن عاصم بن كلـيب، عن سعيد بن معبد، عن ابن عبـاس، قال: علـمه اسم القصعة
+  والفسوة والفسية.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وحدثنا أحمد بن إسحاق، قال: حدثنا
+  أبو أحمد، قال: حدثنا شريك، عن عاصم بن كلـيب، عن الـحسن بن سعد، عن ابن عبـاس: { وَعَلَّمَ
+  ءَادَمَ ٱلأَسْمَآءَ كُلَّهَا } قال: حتـى الفسوة والفسية.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  علـيّ بن الـحسن، قال: حدثنا مسلـم، قال: حدثنا مـحمد بن مصعب، عن قـيس، عن عاصم بن
+  كلـيب، عن سعيد بن معبد، عن ابن عبـاس فـي قول الله: { وَعَلَّمَ ءَادَمَ ٱلأَسْمَآءَ
+  كُلَّهَا } قال: علـمه اسم كل شيء حتـى الهنة والهنـية والفسوة والضرطة.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وحدثنا القاسم، قال: حدثنا الـحسين، قال: حدثنا علـيّ بن مسهر، عن
+  عاصم بن كلـيب، قال: قال ابن عبـاس: علـمه القصعة من القصيعة، والفسوة من الفسية.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وحدثنا بشر بن معاذ، قال: حدثنا يزيد بن زريع، عن سعيد، عن قتادة قوله:
+  { وَعَلَّمَ ءَادَمَ ٱلأَسْمَآءَ كُلَّهَا } حتـى بلغ:</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2, 31)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,31)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَعَلَّمَ ءَادَمَ ٱلأَسْمَآءَ كُلَّهَا ثُمَّ عَرَضَهُمْ
+  عَلَى ٱلْمَلَٰئِكَةِ فَقَالَ أَنْبِئُونِي بِأَسْمَآءِ هَـٰؤُلاۤءِ إِن كُنْتُمْ صَٰدِقِينَ</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\"/></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">إِنَّكَ أَنْتَ ٱلْعَلِيمُ ٱلْحَكِيمُ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[البقرة:
+  32] قال: يا آدم أنبئهم بأسمائهم فأنبأ كل صنف من الـخـلق بـاسمه وألـجأه إلـى جنسه.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وحدثنا الـحسن بن يحيى، قال: حدثنا عبد الرزاق، قال: حدثنا معمر، عن
+  قتادة فـي قوله: { وَعَلَّمَ ءَادَمَ ٱلأَسْمَآءَ كُلَّهَا } قال: علـمه اسم كل شيء:
+  هذا جبل، وهذا بحر، وهذا كذا وهذا كذا، لكل شيء، ثم عرض تلك الأشياء علـى الـملائكة
+  فقال: { أَنْبِئُونِي بِأَسْمَآءِ هَـٰؤُلاۤءِ إِن كُنْتُمْ صَٰدِقِينَ }.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وحدثنا القاسم، قال: حدثنا الـحسين، قال: حدثنـي حجاج، عن جرير بن
+  حازم ومبـارك، عن الـحسن، وأبـي بكر عن الـحسن وقتادة قالا: علـمه اسم كل شيء: هذه
+  الـخيـل، وهذه البغال، والإبل، والـجنّ، والوحش وجعل يسمي كل شيء بـاسمه.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وحدثت عن عمار، قال: حدثنا عبد الله بن أبـي جعفر عن أبـيه، عن الربـيع،
+  قال: اسم كل شيء.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال آخرون: علـم آدم الأسماء كلها،
+  أسماء الـملائكة. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثت
+  عن عمار، قال: حدثنا عبد الله بن أبـي جعفر، عن أبـيه، عن الربـيع قوله: { وَعَلَّمَ
+  ءَادَمَ ٱلأَسْمَآءَ كُلَّهَا } قال: أسماء الـملائكة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  آخرون: إنـما علـمه أسماء ذريته كلها. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  يونس بن عبد الأعلـى، قال: أخبرنا ابن وهب، قال: قال ابن زيد فـي قوله: { وَعَلَّمَ
+  ءَادَمَ ٱلأَسْمَآءَ كُلَّهَا } قال: أسماء ذرّيته أجمعين.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وأولـى
+  هذه الأقوال بـالصواب وأشبهها بـما دلّ علـى صحته ظاهر التلاوة قول من قال فـي قوله:
+  { وَعَلَّمَ ءَادَمَ ٱلأَسْمَآءَ كُلَّهَا } إنها أسماء ذرّيته وأسماء الـملائكة، دون
+  أسماء سائر أجناس الـخـلق. وذلك أن الله جل ثناؤه قال: { ثُمَّ عَرَضَهُمْ عَلَى ٱلْمَلَٰئِكَةِ
   } يعنـي بذلك أعيان الـمسمين بـالأسماء التـي علـمها آدم، ولا تكاد العرب تكنـي بـالهاء
   والـميـم إلا عن أسماء بنـي آدم والـملائكة وأما إذا كانت عن أسماء البهائم وسائر الـخـلق،
   سوى من وصفنا، فإنها تكنـي عنها بـالهاء والألف، أو بـالهاء والنون، فقالت: عرضهن،
   أو عرضها. وكذلك تفعل إذا كنت عن أصناف من الـخـلق، كالبهائم والطير وسائر أصناف الأمـم،
   وفـيها أسماء بنـي آدم والـملائكة، فإنها تكنـي عنها بـما وصفنا من الهاء والنون، أو
-  الهاء والألف. وربـما كنت عنها إذ كان كذلك بـالهاء والـميـم، كما قال جل ثناؤه:{ وَٱللَّهُ
+  الهاء والألف. وربـما كنت عنها إذ كان كذلك بـالهاء والـميـم، كما قال جل ثناؤه:</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">وَٱللَّهُ
   خَلَقَ كُلَّ دَآبَّةٍ مِّن مَّآءٍ فَمِنْهُمْ مَّن يَمْشِي عَلَىٰ بَطْنِهِ وَمِنهُمْ
-  مَّن يَمْشِي عَلَىٰ رِجْلَيْنِ وَمِنْهُمْ مَّن يَمْشِي عَلَىٰ أَرْبَعٍ }[النور:
+  مَّن يَمْشِي عَلَىٰ رِجْلَيْنِ وَمِنْهُمْ مَّن يَمْشِي عَلَىٰ أَرْبَعٍ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[النور:
   45] فكنـي عنها بـالهاء والـميـم، وهي أصناف مختلفة فـيها الآدميّ وغيره. وذلك وإن
   كان جائزاً فإن الغالب الـمستفـيض فـي كلام العرب ما وصفنا من إخراجهم كناية أسماء
   أجناس الأمـم إذا اختلطت بـالهاء والألف، أو الهاء والنون. فلذلك قلت: أولـى بتأويـل
-  الآية أن تكون الأسماء التـي علـمها آدم أسماء أعيان بنـي آدم وأسماء الـملائكة.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَعَلَّمَ ءَادَمَ ٱلأَسْمَآءَ كُلَّهَا
-  ثُمَّ عَرَضَهُمْ عَلَى ٱلْمَلَٰئِكَةِ فَقَالَ أَنْبِئُونِي بِأَسْمَآءِ هَـٰؤُلاۤءِ
-  إِن كُنْتُمْ صَٰدِقِينَ }وإن كان ما قال ابن عبـاس جائزاً علـى مثال ما جاء فـي كتاب
-  الله من قوله:{ وَٱللَّهُ خَلَقَ كُلَّ دَآبَّةٍ مِّن مَّآءٍ فَمِنْهُمْ مَّن يَمْشِي
-  عَلَىٰ بَطْنِهِ }[النور: 45] الآية. وقد ذكر أنها فـي حرف ابن مسعود: «ثم عرضهن»،
-  وأنها فـي حرف أبـيّ: «ثم عرضها».ولعلّ ابن عبـاس تأوّل ما تأوّل من قوله: علـمه اسم
-  كل شيء حتـى الفسوة والفسية علـى قراءة أبـيّ، فإنه فـيـما بلغنا كان يقرأ قراءة أبـيّ.
-  وتأويـل ابن عبـاس علـى ما حكي عن أبـيّ من قراءته غير مستنكر، بل هو صحيح مستفـيض
-  فـي كلام العرب علـى نـحو ما تقدم وصفـي ذلك.القول فـي تأويـل قوله تعالـى: { ثُمَّ
-  عَرَضَهُمْ عَلَى ٱلْمَلَٰئِكَةِ }.قال أبو جعفر: قد تقدم ذكرنا التأويـل الذي هو أوْلـى
-  بـالآية علـى قراءتنا ورسم مصحفنا، وأن قوله: { ثُمَّ عَرَضَهُمْ } بـالدلالة علـى
-  بنـي آدم والـملائكة أولـى منه بـالدلالة علـى أجناس الـخـلق كلها، وإن كان غير فـاسد
-  أن يكون دالاًّ علـى جميع أصناف الأمـم للعلل التـي وصفنا.ويعنـي جل ثناؤه بقوله: {
-  ثُمَّ عَرَضَهُمْ } ثم عرض أهل الأسماء علـى الـملائكة.وقد اختلف الـمفسرون فـي تأويـل
+  الآية أن تكون الأسماء التـي علـمها آدم أسماء أعيان بنـي آدم وأسماء الـملائكة.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">3 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2, 31)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,31)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَعَلَّمَ ءَادَمَ ٱلأَسْمَآءَ كُلَّهَا ثُمَّ عَرَضَهُمْ
+  عَلَى ٱلْمَلَٰئِكَةِ فَقَالَ أَنْبِئُونِي بِأَسْمَآءِ هَـٰؤُلاۤءِ إِن كُنْتُمْ صَٰدِقِينَ</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">وإن كان ما قال ابن عبـاس جائزاً علـى مثال ما جاء فـي كتاب الله من
+  قوله:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">وَٱللَّهُ خَلَقَ كُلَّ دَآبَّةٍ مِّن مَّآءٍ فَمِنْهُمْ مَّن
+  يَمْشِي عَلَىٰ بَطْنِهِ</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">[النور: 45] الآية. وقد ذكر أنها فـي حرف ابن مسعود: «ثم عرضهن»، وأنها
+  فـي حرف أبـيّ: «ثم عرضها».</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">ولعلّ ابن عبـاس تأوّل ما تأوّل
+  من قوله: علـمه اسم كل شيء حتـى الفسوة والفسية علـى قراءة أبـيّ، فإنه فـيـما بلغنا
+  كان يقرأ قراءة أبـيّ. وتأويـل ابن عبـاس علـى ما حكي عن أبـيّ من قراءته غير مستنكر،
+  بل هو صحيح مستفـيض فـي كلام العرب علـى نـحو ما تقدم وصفـي ذلك.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">القول فـي تأويـل قوله تعالـى: { ثُمَّ عَرَضَهُمْ عَلَى ٱلْمَلَٰئِكَةِ
+  }.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">قال أبو جعفر: قد تقدم ذكرنا التأويـل
+  الذي هو أوْلـى بـالآية علـى قراءتنا ورسم مصحفنا، وأن قوله: { ثُمَّ عَرَضَهُمْ }
+  بـالدلالة علـى بنـي آدم والـملائكة أولـى منه بـالدلالة علـى أجناس الـخـلق كلها،
+  وإن كان غير فـاسد أن يكون دالاًّ علـى جميع أصناف الأمـم للعلل التـي وصفنا.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">ويعنـي جل ثناؤه بقوله: { ثُمَّ عَرَضَهُمْ } ثم عرض أهل الأسماء علـى
+  الـملائكة.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقد اختلف الـمفسرون فـي تأويـل
   قوله: { ثُمَّ عَرَضَهُمْ عَلَى ٱلْمَلَٰئِكَةِ } نـحو اختلافهم فـي قوله: { وَعَلَّمَ
-  ءَادَمَ ٱلأَسْمَآءَ كُلَّهَا } وسأذكر قول من انتهى إلـينا عنه فـيه قول.حدثنا مـحمد
-  بن العلاء، قال: حدثنا عثمان بن سعيد، قال: حدثنا بشر بن عمارة، عن أبـي روق عن الضحاك،
-  عن ابن عبـاس: { ثُمَّ عَرَضَهُمْ عَلَى ٱلْمَلَٰئِكَةِ } ثم عرض هذه الأسماء يعنـي
-  أسماء جميع الأشياء التـي علـمها آدم من أصناف جميع الـخـلق.وحدثنـي موسى، قال: حدثنا
-  عمرو، قال: حدثنا أسبـاط، عن السدي فـي خبر ذكره، عن أبـي مالك، وعن أبـي صالـح، عن
-  ابن عبـاس، وعن مرة، عن ابن مسعود، وعن ناس من أصحاب النبـي صلى الله عليه وسلم: {
-  ثُمَّ عَرَضَهُمْ } ثم عرض الـخـلق علـى الـملائكة.وحدثنـي يونس، قال: أخبرنا ابن وهب،
-  قال: قال ابن زيد: أسماء ذريته كلها أخذهم من ظهره. قال: ثم عرضهم علـى الـملائكة.وحدثنا
+  ءَادَمَ ٱلأَسْمَآءَ كُلَّهَا } وسأذكر قول من انتهى إلـينا عنه فـيه قول.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا مـحمد بن العلاء، قال: حدثنا عثمان بن سعيد، قال: حدثنا بشر
+  بن عمارة، عن أبـي روق عن الضحاك، عن ابن عبـاس: { ثُمَّ عَرَضَهُمْ عَلَى ٱلْمَلَٰئِكَةِ
+  } ثم عرض هذه الأسماء يعنـي أسماء جميع الأشياء التـي علـمها آدم من أصناف جميع الـخـلق.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وحدثنـي موسى، قال: حدثنا عمرو، قال: حدثنا أسبـاط، عن السدي فـي خبر
+  ذكره، عن أبـي مالك، وعن أبـي صالـح، عن ابن عبـاس، وعن مرة، عن ابن مسعود، وعن ناس
+  من أصحاب النبـي صلى الله عليه وسلم: { ثُمَّ عَرَضَهُمْ } ثم عرض الـخـلق علـى الـملائكة.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وحدثنـي يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد: أسماء ذريته
+  كلها أخذهم من ظهره. قال: ثم عرضهم علـى الـملائكة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وحدثنا
   الـحسن بن يحيى، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر عن قتادة: { ثُمَّ عَرَضَهُمْ
-  } قال: علـمه اسم كل شيء ثم عرض تلك الأسماء علـى الـملائكة.وحدثنا القاسم، قال: حدثنا
-  الـحسين، قال: حدثنـي حجاج، عن ابن جريج، عن مـجاهد: { ثُمَّ عَرَضَهُمْ } عرض أصحاب
-  الأسماء علـى الـملائكة.وحدثنا علـيّ بن الـحسن، قال: حدثنا مسلـم، قال: حدثنا مـحمد
-  بن مصعب، عن قـيس، عن خصيف عن مـجاهد { ثُمَّ عَرَضَهُمْ عَلَى ٱلْمَلَٰئِكَةِ } يعنـي
-  عرض الأسماء الـحمامة والغراب.وحدثنا القاسم، قال: حدثنا الـحسين، قال: حدثنـي حجاج،
-  عن جرير بن حازم، ومبـارك عن الـحسن، وأبـي بكر عن الـحسن، وقتادة قالا: علـمه اسم
-  كل شيء هذه الـخيـل وهذه البغال وما أشبه ذلك، وجعل يسمي كل شيء بـاسمه، وعرضت علـيه
-  أمة أمة.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَعَلَّمَ ءَادَمَ ٱلأَسْمَآءَ كُلَّهَا
-  ثُمَّ عَرَضَهُمْ عَلَى ٱلْمَلَٰئِكَةِ فَقَالَ أَنْبِئُونِي بِأَسْمَآءِ هَـٰؤُلاۤءِ
-  إِن كُنْتُمْ صَٰدِقِينَ }القول فـي تأويـل قوله تعالـى: { فَقَالَ أَنْبِئُونِي بِأَسْمَآءِ
-  هَـٰؤُلاۤءِ }.قال أبو جعفر: وتأويـل قوله: { أَنْبِئُونِي } أخبرونـي، كما:حدثنا أبو
-  كريب قال: حدثنا عثمان، قال: حدثنا بشر، عن أبـي روق، عن الضحاك، عن ابن عبـاس: { أَنْبِئُونِي
-  } يقول: أخبرونـي بأسماء هؤلاء. ومنه قول نابغة بنـي ذبـيان:وأنْبأهُ الـمُنَبِّىء
-  أنَّ حَيًّاً   حُلُولٌ مِنْ حَرَامٍ أوْ جُذَامِيعنـي بقوله أنبأه: أخبره وأعلـمه.القول
-  فـي تأويـل قوله تعالـى: { بِأسْماءِ هَولاءِ }.قال أبو جعفر:حدثنـي مـحمد بن عمرو،
-  قال: حدثنا أبو عاصم، قال: حدثنا عيسى وحدثنا الـمثنى، قال: حدثنا أبو حذيفة، قال:
-  حدثنا شبل، عن ابن أبـي نـجيح، عن مـجاهد فـي قول الله: { بِأَسْمَآءِ هَـٰؤُلاۤءِ
-  } قال: بأسماء هذه التـي حدثت بها آدم.حدثنا القاسم، قال: حدثنا الـحسين، قال: حدثنا
-  حجاج، عن ابن جريج، عن مـجاهد: { أَنْبِئُونِي بِأَسْمَآءِ هَـٰؤُلاۤءِ إِن كُنْتُمْ
-  صَٰدِقِينَ } يقول: بأسماء هؤلاء التـي حدثت بها آدم.القول فـي تأويـل قوله تعالـى:
-  { إنْ كُنْتُـمِ صَادِقِـينَ }.قال أبو جعفر: اختلف أهل التأويـل فـي ذلك.فحدثنا أبو
-  كريب، قال: حدثنا عثمان بن سعيد، قال: حدثنا بشر بن عمارة، عن أبـي روق، عن الضحاك،
+  } قال: علـمه اسم كل شيء ثم عرض تلك الأسماء علـى الـملائكة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وحدثنا
+  القاسم، قال: حدثنا الـحسين، قال: حدثنـي حجاج، عن ابن جريج، عن مـجاهد: { ثُمَّ عَرَضَهُمْ
+  } عرض أصحاب الأسماء علـى الـملائكة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وحدثنا
+  علـيّ بن الـحسن، قال: حدثنا مسلـم، قال: حدثنا مـحمد بن مصعب، عن قـيس، عن خصيف عن
+  مـجاهد { ثُمَّ عَرَضَهُمْ عَلَى ٱلْمَلَٰئِكَةِ } يعنـي عرض الأسماء الـحمامة والغراب.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وحدثنا القاسم، قال: حدثنا الـحسين، قال: حدثنـي حجاج، عن جرير بن
+  حازم، ومبـارك عن الـحسن، وأبـي بكر عن الـحسن، وقتادة قالا: علـمه اسم كل شيء هذه
+  الـخيـل وهذه البغال وما أشبه ذلك، وجعل يسمي كل شيء بـاسمه، وعرضت علـيه أمة أمة.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">4 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2, 31)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,31)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَعَلَّمَ ءَادَمَ ٱلأَسْمَآءَ كُلَّهَا ثُمَّ عَرَضَهُمْ
+  عَلَى ٱلْمَلَٰئِكَةِ فَقَالَ أَنْبِئُونِي بِأَسْمَآءِ هَـٰؤُلاۤءِ إِن كُنْتُمْ صَٰدِقِينَ</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">القول فـي تأويـل قوله تعالـى: { فَقَالَ أَنْبِئُونِي بِأَسْمَآءِ
+  هَـٰؤُلاۤءِ }.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">قال أبو جعفر: وتأويـل قوله: { أَنْبِئُونِي
+  } أخبرونـي، كما:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا أبو كريب قال: حدثنا عثمان،
+  قال: حدثنا بشر، عن أبـي روق، عن الضحاك، عن ابن عبـاس: { أَنْبِئُونِي } يقول: أخبرونـي
+  بأسماء هؤلاء. ومنه قول نابغة بنـي ذبـيان:</font></font><table class=\"TextArabic\"
+  dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">وأنْبأهُ الـمُنَبِّىء أنَّ حَيًّاً</font></font></b></td><td class=\"TextArabic\">   </td><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">حُلُولٌ
+  مِنْ حَرَامٍ أوْ جُذَامِ</font></font></b></td></tr></table><font class=\"TextResultArabic\"><font
+  color=\"black\">يعنـي بقوله أنبأه: أخبره وأعلـمه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">القول
+  فـي تأويـل قوله تعالـى: { بِأسْماءِ هَولاءِ }.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال
+  أبو جعفر:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي مـحمد بن عمرو، قال: حدثنا
+  أبو عاصم، قال: حدثنا عيسى وحدثنا الـمثنى، قال: حدثنا أبو حذيفة، قال: حدثنا شبل،
+  عن ابن أبـي نـجيح، عن مـجاهد فـي قول الله: { بِأَسْمَآءِ هَـٰؤُلاۤءِ } قال: بأسماء
+  هذه التـي حدثت بها آدم.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا القاسم، قال: حدثنا الـحسين،
+  قال: حدثنا حجاج، عن ابن جريج، عن مـجاهد: { أَنْبِئُونِي بِأَسْمَآءِ هَـٰؤُلاۤءِ
+  إِن كُنْتُمْ صَٰدِقِينَ } يقول: بأسماء هؤلاء التـي حدثت بها آدم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">القول فـي تأويـل قوله تعالـى: { إنْ كُنْتُـمِ صَادِقِـينَ }.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قال أبو جعفر: اختلف أهل التأويـل فـي ذلك.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">فحدثنا
+  أبو كريب، قال: حدثنا عثمان بن سعيد، قال: حدثنا بشر بن عمارة، عن أبـي روق، عن الضحاك،
   عن ابن عبـاس: { إِن كُنْتُمْ صَٰدِقِينَ } إن كنتـم تعلـمون لِـمَ أجعل فـي الأرض
-  خـلـيفة.وحدثنا موسى بن هارون، قال: حدثنا عمرو بن حماد، قال: حدثنا أسبـاط عن السدي
-  فـي خبر ذكره عن أبـي مالك، وعن أبـي صالـح، عن ابن عبـاس، وعن مرة، عن ابن مسعود،
-  وعن ناس من أصحاب النبـي صلى الله عليه وسلم: { إِن كُنْتُمْ صَٰدِقِينَ } أن بنـي
-  آدم يفسدون فـي الأرض ويسفكون الدماء.وحدثنا القاسم، قال: حدثنا الـحسين، قال: حدثنا
-  حجاج، عن جرير بن حازم، ومبـارك عن الـحسن وأبـي بكر، عن الـحسن وقتادة قالا: { أَنْبِئُونِي
-  بِأَسْمَآءِ هَـٰؤُلاۤءِ إِن كُنْتُمْ صَٰدِقِينَ } أنـي لـم أخـلق خـلقاً إلا كنتـم
-  أعلـم منه، فأخبرونـي بأسماء هؤلاء إن كنتـم صادقـين.قال أبو جعفر: وأولـى هذه الأقوال
-  بتأويـل الآية تأويـل ابن عبـاس ومن قال بقوله.ومعنى ذلك فقال: أنبئونـي بأسماء من
-  عرضته علـيكم أيتها الـملائكة القائلون:{ أَتَجْعَلُ فِيهَا مَن يُفْسِدُ فِيهَا وَيَسْفِكُ
-  ٱلدِّمَآءَ }[البقرة: 30] من غيرنا، أم منّا؟ فنـحن نسبح بحمدك ونقدس لك إن كنتـم صادقـين
-  فـي قـيـلكم أنـي إن جعلت خـلـيفتـي فـي الأرض من غيركم عصانـي ذريته، وأفسدوا فـيها،
-  وسفكوا الدماء، وإن جعلتـكم فـيها أطعتـمونـي، واتبعتـم أمري بـالتعظيـم لـي والتقديس.
-  فإنكم إن كنتـم لا تعلـمون أسماء هؤلاء الذين عرضتهم علـيكم من خـلقـي وهم مخـلوقون
-  موجودون ترونهم وتعاينونهم، وعلـمه غيركم بتعلـيـمي إياه، فأنتـم بـما هو غير موجود
-  من الأمور الكائنة التـي لـم توجد بعد، وبـما هو مستتر من الأمور التـي هي موجودة عن
-  أعينكم أحرى أن تكونوا غير عالـمين، فلا تسألونـي ما لـيس لكم به علـم، فإنـي أعلـم
-  بـما يصلـحكم ويصلـح خـلقـي.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَعَلَّمَ ءَادَمَ ٱلأَسْمَآءَ كُلَّهَا
-  ثُمَّ عَرَضَهُمْ عَلَى ٱلْمَلَٰئِكَةِ فَقَالَ أَنْبِئُونِي بِأَسْمَآءِ هَـٰؤُلاۤءِ
-  إِن كُنْتُمْ صَٰدِقِينَ }وهذا الفعل من الله جل ثناؤه بـملائكته الذين قالوا له:{ أَتَجْعَلُ
-  فِيهَا مَن يُفْسِدُ فِيهَا }[البقرة: 30] من جهة عتابه جل ذكره إياهم، نظير قوله جل
-  جلاله لنبـيه نوح صلوات الله علـيه، إذ قال:{ رَبِّ إِنَّ ٱبْنِي مِنْ أَهْلِي وَإِنَّ
-  وَعْدَكَ ٱلْحَقُّ وَأَنتَ أَحْكَمُ ٱلْحَاكِمِينَ }[هود: 45]{ فَلاَ تَسْئَلْنِ مَا
-  لَيْسَ لَكَ بِهِ عِلْمٌ إِنِّيۤ أَعِظُكَ أَن تَكُونَ مِنَ ٱلْجَاهِلِينَ }[هود: 46]
-  فكذلك الـملائكة سألت ربها أن تكون خـلفـاءه فـي الأرض يسبحوه ويقدسوه فـيها، إذ كان
-  ذرية من أخبرهم أنه جاعله فـي الأرض خـلـيفة، يفسدون فـيها، ويسفكون الدماء، فقال لهم
-  جل ذكره: { إنـي أعْلَـمُ ما لا تَعْلَـمُونَ } يعنـي بذلك أنـي أعلـم أن بعضكم فـاتـح
-  الـمعاصي وخاتـمها وهو إبلـيس منكراً بذلك تعالـى ذكره قولهم. ثم عرّفهم موضع هفوتهم
-  فـي قـيـلهم ما قالوا من ذلك، بتعريفهم قصور علـمهم عما هم له شاهدون عياناً، فكيف
-  بـما لـم يروه ولـم يخبروا عنه بعرضه ما عرض علـيهم من خـلقه الـموجودين يومئذٍ، وقـيـله
-  لهم: { أَنْبِئُونِي بِأَسْمَآءِ هَـٰؤُلاۤءِ إِن كُنْتُمْ صَٰدِقِينَ } أنكم إن استـخـلفتكم
-  فـي أرضي سبحتـمونـي وقدستـمونـي، وإن استـخـلفت فـيها غيركم عصانـي ذريته، وأفسدوا
-  وسفكوا الدماء. فلـما اتضح لهم موضع خطأ قـيـلهم، وبدت لهم هفوة زلتهم أنابوا إلـى
-  الله بـالتوبة فقالوا:{ سُبْحَٰنَكَ لاَ عِلْمَ لَنَآ إِلاَّ مَا عَلَّمْتَنَآ }[البقرة:
-  32] فسارعوا الرجعة من الهفوة، وبـادروا الإنابة من الزلة، كما قال نوح حين عوتب فـي
-  مسألته، فقـيـل له:{ فَلاَ تَسْئَلْنِ مَا لَيْسَ لَكَ بِهِ عِلْمٌ.. قَالَ رَبِّ إِنِّيۤ
-  أَعُوذُ بِكَ أَنْ أَسْأَلَكَ مَا لَيْسَ لِي بِهِ عِلْمٌ وَإِلاَّ تَغْفِرْ لِي وَتَرْحَمْنِيۤ
-  أَكُن مِّنَ ٱلْخَاسِرِينَ }[هود: 46-47] وكذلك فعل كل مسدد للـحق موفق له، سريعة إلـى
-  الـحقّ إنابته، قريبة إلـيه أوبته.وقد زعم بعض نـحويـي أهل البصرة أن قوله: { أَنْبِئُونِي
-  بِأَسْمَآءِ هَـٰؤُلاۤءِ إِن كُنْتُمْ صَٰدِقِينَ } لـم يكن ذلك لأن الـملائكة ادّعوا
-  شيئاً، إنـما أخبر الله عن جهلهم بعلـم الغيب وعلـمه بذلك وفضله، فقال: أنبئونـي إن
-  كنتـم صادقـين كما يقول الرجل للرجل: أنبئنـي بهذا إن كنت تعلـم، وهو يعلـم أنه لا
-  يعلـم يريد أنه جاهل. وهذا قول إذا تدبره متدبر علـم أن بعضه مفسد بعضاً، وذلك أن قائله
-  زعم أن الله جل ثناؤه قال للـملائكة إذ عرض علـيهم أهل الأسماء: { أَنْبِئُونِي بِأَسْمَآءِ
-  هَـٰؤُلاۤءِ إِن كُنْتُمْ صَٰدِقِينَ } وهو يعلـم أنهم لا يعلـمون، ولا هم ادّعوا علـم
-  شيء يوجب أن يوبخوا بهذا القول. وزعم أن قوله: { إِن كُنْتُمْ صَٰدِقِينَ } نظير قول
-  الرجل للرجل: أنبئنـي بهذا إن كنت تعلـم، وهو يعلـم أنه لا يعلـم يريد أنه جاهل. ولا
-  شك أن معنى قوله: { إِن كُنْتُمْ صَٰدِقِينَ } إنـما هو إن كنتـم صادقـين، إما فـي
-  قولكم، وإما فـي فعلكم لأن الصدق فـي كلام العرب إنـما هو صدق فـي الـخبر لا فـي العلـم
-  وذلك أنه غير معقول فـي لغة من اللغات أن يقال صدق الرجل بـمعنى علـم.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَعَلَّمَ ءَادَمَ ٱلأَسْمَآءَ كُلَّهَا
-  ثُمَّ عَرَضَهُمْ عَلَى ٱلْمَلَٰئِكَةِ فَقَالَ أَنْبِئُونِي بِأَسْمَآءِ هَـٰؤُلاۤءِ
-  إِن كُنْتُمْ صَٰدِقِينَ }فإذا كان ذلك كذلك فقد وجب أن يكون الله جل ثناؤه قال للـملائكة
-  علـى تأويـل قول هذا الذي حكينا قوله فـي هذه الآية: { أَنْبِئُونِي بِأَسْمَآءِ هَـٰؤُلاۤءِ
+  خـلـيفة.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وحدثنا موسى بن هارون، قال: حدثنا
+  عمرو بن حماد، قال: حدثنا أسبـاط عن السدي فـي خبر ذكره عن أبـي مالك، وعن أبـي صالـح،
+  عن ابن عبـاس، وعن مرة، عن ابن مسعود، وعن ناس من أصحاب النبـي صلى الله عليه وسلم:
+  { إِن كُنْتُمْ صَٰدِقِينَ } أن بنـي آدم يفسدون فـي الأرض ويسفكون الدماء.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وحدثنا القاسم، قال: حدثنا الـحسين، قال: حدثنا حجاج، عن جرير بن حازم،
+  ومبـارك عن الـحسن وأبـي بكر، عن الـحسن وقتادة قالا: { أَنْبِئُونِي بِأَسْمَآءِ هَـٰؤُلاۤءِ
+  إِن كُنْتُمْ صَٰدِقِينَ } أنـي لـم أخـلق خـلقاً إلا كنتـم أعلـم منه، فأخبرونـي بأسماء
+  هؤلاء إن كنتـم صادقـين.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">قال أبو جعفر: وأولـى هذه الأقوال
+  بتأويـل الآية تأويـل ابن عبـاس ومن قال بقوله.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">ومعنى
+  ذلك فقال: أنبئونـي بأسماء من عرضته علـيكم أيتها الـملائكة القائلون:</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">أَتَجْعَلُ
+  فِيهَا مَن يُفْسِدُ فِيهَا وَيَسْفِكُ ٱلدِّمَآءَ</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">[البقرة: 30] من غيرنا، أم منّا؟
+  فنـحن نسبح بحمدك ونقدس لك إن كنتـم صادقـين فـي قـيـلكم أنـي إن جعلت خـلـيفتـي فـي
+  الأرض من غيركم عصانـي ذريته، وأفسدوا فـيها، وسفكوا الدماء، وإن جعلتـكم فـيها أطعتـمونـي،
+  واتبعتـم أمري بـالتعظيـم لـي والتقديس. فإنكم إن كنتـم لا تعلـمون أسماء هؤلاء الذين
+  عرضتهم علـيكم من خـلقـي وهم مخـلوقون موجودون ترونهم وتعاينونهم، وعلـمه غيركم بتعلـيـمي
+  إياه، فأنتـم بـما هو غير موجود من الأمور الكائنة التـي لـم توجد بعد، وبـما هو مستتر
+  من الأمور التـي هي موجودة عن أعينكم أحرى أن تكونوا غير عالـمين، فلا تسألونـي ما
+  لـيس لكم به علـم، فإنـي أعلـم بـما يصلـحكم ويصلـح خـلقـي.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">5 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2, 31)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,31)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَعَلَّمَ ءَادَمَ ٱلأَسْمَآءَ كُلَّهَا ثُمَّ عَرَضَهُمْ
+  عَلَى ٱلْمَلَٰئِكَةِ فَقَالَ أَنْبِئُونِي بِأَسْمَآءِ هَـٰؤُلاۤءِ إِن كُنْتُمْ صَٰدِقِينَ</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">وهذا الفعل من الله جل ثناؤه بـملائكته الذين قالوا له:</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">أَتَجْعَلُ
+  فِيهَا مَن يُفْسِدُ فِيهَا</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">[البقرة: 30] من جهة عتابه جل ذكره إياهم، نظير قوله جل جلاله لنبـيه
+  نوح صلوات الله علـيه، إذ قال:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">رَبِّ إِنَّ ٱبْنِي مِنْ أَهْلِي وَإِنَّ
+  وَعْدَكَ ٱلْحَقُّ وَأَنتَ أَحْكَمُ ٱلْحَاكِمِينَ</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">[هود: 45]</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">فَلاَ تَسْئَلْنِ مَا لَيْسَ لَكَ
+  بِهِ عِلْمٌ إِنِّيۤ أَعِظُكَ أَن تَكُونَ مِنَ ٱلْجَاهِلِينَ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[هود:
+  46] فكذلك الـملائكة سألت ربها أن تكون خـلفـاءه فـي الأرض يسبحوه ويقدسوه فـيها، إذ
+  كان ذرية من أخبرهم أنه جاعله فـي الأرض خـلـيفة، يفسدون فـيها، ويسفكون الدماء، فقال
+  لهم جل ذكره: { إنـي أعْلَـمُ ما لا تَعْلَـمُونَ } يعنـي بذلك أنـي أعلـم أن بعضكم
+  فـاتـح الـمعاصي وخاتـمها وهو إبلـيس منكراً بذلك تعالـى ذكره قولهم. ثم عرّفهم موضع
+  هفوتهم فـي قـيـلهم ما قالوا من ذلك، بتعريفهم قصور علـمهم عما هم له شاهدون عياناً،
+  فكيف بـما لـم يروه ولـم يخبروا عنه بعرضه ما عرض علـيهم من خـلقه الـموجودين يومئذٍ،
+  وقـيـله لهم: { أَنْبِئُونِي بِأَسْمَآءِ هَـٰؤُلاۤءِ إِن كُنْتُمْ صَٰدِقِينَ } أنكم
+  إن استـخـلفتكم فـي أرضي سبحتـمونـي وقدستـمونـي، وإن استـخـلفت فـيها غيركم عصانـي
+  ذريته، وأفسدوا وسفكوا الدماء. فلـما اتضح لهم موضع خطأ قـيـلهم، وبدت لهم هفوة زلتهم
+  أنابوا إلـى الله بـالتوبة فقالوا:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">سُبْحَٰنَكَ لاَ عِلْمَ لَنَآ إِلاَّ
+  مَا عَلَّمْتَنَآ</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">[البقرة: 32] فسارعوا الرجعة من الهفوة، وبـادروا الإنابة من الزلة،
+  كما قال نوح حين عوتب فـي مسألته، فقـيـل له:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">فَلاَ تَسْئَلْنِ مَا لَيْسَ لَكَ
+  بِهِ عِلْمٌ.. قَالَ رَبِّ إِنِّيۤ أَعُوذُ بِكَ أَنْ أَسْأَلَكَ مَا لَيْسَ لِي بِهِ
+  عِلْمٌ وَإِلاَّ تَغْفِرْ لِي وَتَرْحَمْنِيۤ أَكُن مِّنَ ٱلْخَاسِرِينَ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[هود:
+  46-47] وكذلك فعل كل مسدد للـحق موفق له، سريعة إلـى الـحقّ إنابته، قريبة إلـيه أوبته.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقد زعم بعض نـحويـي أهل البصرة أن قوله: { أَنْبِئُونِي بِأَسْمَآءِ
+  هَـٰؤُلاۤءِ إِن كُنْتُمْ صَٰدِقِينَ } لـم يكن ذلك لأن الـملائكة ادّعوا شيئاً، إنـما
+  أخبر الله عن جهلهم بعلـم الغيب وعلـمه بذلك وفضله، فقال: أنبئونـي إن كنتـم صادقـين
+  كما يقول الرجل للرجل: أنبئنـي بهذا إن كنت تعلـم، وهو يعلـم أنه لا يعلـم يريد أنه
+  جاهل. وهذا قول إذا تدبره متدبر علـم أن بعضه مفسد بعضاً، وذلك أن قائله زعم أن الله
+  جل ثناؤه قال للـملائكة إذ عرض علـيهم أهل الأسماء: { أَنْبِئُونِي بِأَسْمَآءِ هَـٰؤُلاۤءِ
+  إِن كُنْتُمْ صَٰدِقِينَ } وهو يعلـم أنهم لا يعلـمون، ولا هم ادّعوا علـم شيء يوجب
+  أن يوبخوا بهذا القول. وزعم أن قوله: { إِن كُنْتُمْ صَٰدِقِينَ } نظير قول الرجل للرجل:
+  أنبئنـي بهذا إن كنت تعلـم، وهو يعلـم أنه لا يعلـم يريد أنه جاهل. ولا شك أن معنى
+  قوله: { إِن كُنْتُمْ صَٰدِقِينَ } إنـما هو إن كنتـم صادقـين، إما فـي قولكم، وإما
+  فـي فعلكم لأن الصدق فـي كلام العرب إنـما هو صدق فـي الـخبر لا فـي العلـم وذلك أنه
+  غير معقول فـي لغة من اللغات أن يقال صدق الرجل بـمعنى علـم.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,7,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">6 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2, 31)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,31)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَعَلَّمَ ءَادَمَ ٱلأَسْمَآءَ كُلَّهَا ثُمَّ عَرَضَهُمْ
+  عَلَى ٱلْمَلَٰئِكَةِ فَقَالَ أَنْبِئُونِي بِأَسْمَآءِ هَـٰؤُلاۤءِ إِن كُنْتُمْ صَٰدِقِينَ</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">فإذا كان ذلك كذلك فقد وجب أن يكون الله جل ثناؤه قال للـملائكة علـى
+  تأويـل قول هذا الذي حكينا قوله فـي هذه الآية: { أَنْبِئُونِي بِأَسْمَآءِ هَـٰؤُلاۤءِ
   إِن كُنْتُمْ صَٰدِقِينَ } وهو يعلـم أنهم غير صادقـين، يريد بذلك أنهم كاذبون. وذلك
   هو عين ما أنكره، لأن زعم أن الـملائكة لـم تدع شيئاً، فكيف جاز أن يقال لهم: إن كنتـم
   صادقـين فأنبئونـي بأسماء هؤلاء؟ هذا مع خروج هذا القول الذي حكيناه عن صاحبه من أقوال
-  جميع الـمتقدمين والـمتأخرين من أهل التأويـل والتفسير.وقد حكي عن بعض أهل التفسير
-  أنه كان يتأوّل قوله: { إِن كُنْتُمْ صَٰدِقِينَ } بـمعنى: إذ كنتـم صادقـين. ولو كانت
-  «إن» بـمعنى «إذ» فـي هذا الـموضع لوجب أن تكون قراءتها بفتـح ألفها، لأن «إذ» إذا
-  تقدمها فعل مستقبل صارت علة للفعل وسببـاً له، وذلك كقول القائل: أقوم إذ قمت، فمعناه:
-  أقوم من أجل أنك قمت، والأمر بـمعنى الاستقبـال. فمعنى الكلام: لو كانت إن بـمعنى إذ
-  أنبئونـي بأسماء هؤلاء من أجل أنكم صادقون. فإذا وضعت «إن» مكان ذلك، قـيـل: { أَنْبِئُونِي
-  بِأَسْمَآءِ هَـٰؤُلاۤءِ إِن كُنْتُمْ صَٰدِقِينَ } مفتوحة الألف، وفـي إجماع جميع
-  قرّاء أهل الإسلام علـى كسر الألف من «إن» دلـيـل واضح علـى خطأ تأويـل من تأوّل «إنْ»
-  بـمعنى «إذ» فـي هذا الـموضع.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  جميع الـمتقدمين والـمتأخرين من أهل التأويـل والتفسير.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقد
+  حكي عن بعض أهل التفسير أنه كان يتأوّل قوله: { إِن كُنْتُمْ صَٰدِقِينَ } بـمعنى:
+  إذ كنتـم صادقـين. ولو كانت «إن» بـمعنى «إذ» فـي هذا الـموضع لوجب أن تكون قراءتها
+  بفتـح ألفها، لأن «إذ» إذا تقدمها فعل مستقبل صارت علة للفعل وسببـاً له، وذلك كقول
+  القائل: أقوم إذ قمت، فمعناه: أقوم من أجل أنك قمت، والأمر بـمعنى الاستقبـال. فمعنى
+  الكلام: لو كانت إن بـمعنى إذ أنبئونـي بأسماء هؤلاء من أجل أنكم صادقون. فإذا وضعت
+  «إن» مكان ذلك، قـيـل: { أَنْبِئُونِي بِأَسْمَآءِ هَـٰؤُلاۤءِ إِن كُنْتُمْ صَٰدِقِينَ
+  } مفتوحة الألف، وفـي إجماع جميع قرّاء أهل الإسلام علـى كسر الألف من «إن» دلـيـل
+  واضح علـى خطأ تأويـل من تأوّل «إنْ» بـمعنى «إذ» فـي هذا الـموضع.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">7 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a id=\"NextClass\"/></td></tr></table></center></div></section>"
 

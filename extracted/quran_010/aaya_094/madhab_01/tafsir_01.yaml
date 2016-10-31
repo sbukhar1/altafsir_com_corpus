@@ -1,4 +1,4 @@
-location:
+position:
   sura: '010'
   aaya: 094
   madhab: '01'
@@ -10,60 +10,131 @@ meta:
 aaya: فَإِنْ كُنْتَ فِي شَكٍّ مِمَّا أَنْزَلْنَا إِلَيْكَ فَاسْأَلِ الَّذِينَ يَقْرَءُونَ
   الْكِتَابَ مِنْ قَبْلِكَ ۚ لَقَدْ جَاءَكَ الْحَقُّ مِنْ رَبِّكَ فَلَا تَكُونَنَّ
   مِنَ الْمُمْتَرِينَ
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ فَإِن كُنتَ فِي
-  شَكٍّ مِّمَّآ أَنزَلْنَآ إِلَيْكَ فَاسْأَلِ ٱلَّذِينَ يَقْرَءُونَ ٱلْكِتَابَ مِن
-  قَبْلِكَ لَقَدْ جَآءَكَ ٱلْحَقُّ مِن رَّبِّكَ فَلاَ تَكُونَنَّ مِنَ ٱلْمُمْتَرِينَ
-  }يقول تعالى ذكره لنبيه محمد صلى الله عليه وسلم: فإن كنت يا محمد في شكّ من حقيقة
-  ما أخبرناك وأنزل إليك من أن بني إسرائيل لم يختلفوا في نبوّتك قبل أن تبعث رسولاً
-  إلى خلقه، لأنهم يجدونك عندهم مكتوباً ويعرفونك بالصفة التي أنت بها موصوف في كتابهم
-  في التوراة والإنجيل فاسئل الذين يقرءون الكتاب من قبلك من أهل التوراة والإنجيل كعبد
-  الله بن سلام ونحوه من أهل الصدق والإيمان بك منهم دون أهل الكذب والكفر بك منهم.وبنحو
-  الذي قلنا في ذلك قال أهل التأويل. ذكر من قال ذلك:حدثنا القاسم، قال: ثنا الحسين،
-  قال: ثني حجاج، عن ابن جريج، قال: قال ابن عباس، في قوله: { فاسْئَلِ الَّذِينَ يَقْرَءُونَ
-  الكتابَ مِنْ قَبْلِكَ } قال: التوراة والإنجيل الذين أدركوا محمداً صلى الله عليه
-  وسلم من أهل الكتاب فآمنوا به، يقول: فاسئلهم إن كنت في شكّ بأنك مكتوب عندهم.حدثني
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(10, 94)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(10,94)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">فَإِن
+  كُنتَ فِي شَكٍّ مِّمَّآ أَنزَلْنَآ إِلَيْكَ فَاسْأَلِ ٱلَّذِينَ يَقْرَءُونَ ٱلْكِتَابَ
+  مِن قَبْلِكَ لَقَدْ جَآءَكَ ٱلْحَقُّ مِن رَّبِّكَ فَلاَ تَكُونَنَّ مِنَ ٱلْمُمْتَرِينَ</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">يقول تعالى ذكره لنبيه محمد صلى الله عليه وسلم: فإن كنت يا محمد في
+  شكّ من حقيقة ما أخبرناك وأنزل إليك من أن بني إسرائيل لم يختلفوا في نبوّتك قبل أن
+  تبعث رسولاً إلى خلقه، لأنهم يجدونك عندهم مكتوباً ويعرفونك بالصفة التي أنت بها موصوف
+  في كتابهم في التوراة والإنجيل فاسئل الذين يقرءون الكتاب من قبلك من أهل التوراة والإنجيل
+  كعبد الله بن سلام ونحوه من أهل الصدق والإيمان بك منهم دون أهل الكذب والكفر بك منهم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وبنحو الذي قلنا في ذلك قال أهل التأويل. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن ابن جريج، قال:
+  قال ابن عباس، في قوله: { فاسْئَلِ الَّذِينَ يَقْرَءُونَ الكتابَ مِنْ قَبْلِكَ }
+  قال: التوراة والإنجيل الذين أدركوا محمداً صلى الله عليه وسلم من أهل الكتاب فآمنوا
+  به، يقول: فاسئلهم إن كنت في شكّ بأنك مكتوب عندهم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
   يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله تعالى: { فإنْ كُنْتَ فِي شَكّ
   مِمَّا أنْزَلْنا إلَيْكَ فاسْئَلِ الَّذِينَ يَقْرَءُونَ الكتابَ مِنْ قَبْلِكَ }
-  قال: هو عبد الله بن سلام، كان من أهل الكتاب فآمن برسول الله صلى الله عليه وسلم.حدثنا
-  القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن ابن جريج، عن مجاهد، قوله: { فاسْئَلِ
-  الَّذِينَ يَقْرَءُونَ الكتابَ مِنْ قَبْلِكَ } قال: هم أهل الكتاب.حُدثت عن الحسين
-  بن الفرج، قال: سمعت إبا معاذ يقول: أخبرنا عبيد، قال: سمعت الضحاك يقول: { فاسْئَلِ
-  الَّذِينَ يَقْرَءُونَ الكتابَ مِنْ قَبْلِكَ } يعني أهل التقوى وأهل الإيمان من أهل
-  الكتاب، ممن أدرك نبيّ الله صلى الله عليه وسلم.فإن قال قائل: أو كان رسول الله صلى
-  الله عليه وسلم في شكّ من خبر الله أنه حقّ يقين حتى قيل له: { فإنْ كُنْتَ فِي شَكّ
+  قال: هو عبد الله بن سلام، كان من أهل الكتاب فآمن برسول الله صلى الله عليه وسلم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن ابن جريج، عن مجاهد،
+  قوله: { فاسْئَلِ الَّذِينَ يَقْرَءُونَ الكتابَ مِنْ قَبْلِكَ } قال: هم أهل الكتاب.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حُدثت عن الحسين بن الفرج، قال: سمعت إبا معاذ يقول: أخبرنا عبيد،
+  قال: سمعت الضحاك يقول: { فاسْئَلِ الَّذِينَ يَقْرَءُونَ الكتابَ مِنْ قَبْلِكَ }
+  يعني أهل التقوى وأهل الإيمان من أهل الكتاب، ممن أدرك نبيّ الله صلى الله عليه وسلم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">فإن قال قائل: أو كان رسول الله صلى الله عليه وسلم في شكّ من خبر
+  الله أنه حقّ يقين حتى قيل له: { فإنْ كُنْتَ فِي شَكّ مِمَّا أنْزَلْنا إلَيْكَ فاسْئَلِ
+  الَّذِينَ يَقْرَءُونَ الكتابَ مِنْ قَبْلِكَ } قيل: لا وكذلك قال جماعة من أهل العلم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني يعقوب بن إبراهيم، قال: ثنا هشيم، عن أبي بشر، عن سعيد بن جبير،
+  في قوله: { فإنْ كُنْتَ فِي شَكّ مِمَّا أنْزَلْنا إلَيْكَ } فقال: لم يشكّ النبيّ
+  صلى الله عليه وسلم ولم يسأل.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن وكيع، قال: ثنا سويد بن عمرو، عن أبي عوانة، عن أبي بشر، عن سعيد بن جبير، في قوله:
+  { فإنْ كُنْتَ فِي شَكّ مِمَّا أنْزَلْنا إلَيْكَ فاسْئَلِ الَّذِينَ يَقْرَءُونَ الكتابَ
+  مِنْ قَبْلِكَ } قال: ما شكّ وما سأل.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  الحرث، قال: ثنا القاسم بن سلام، قال: ثنا هشيم، قال: أخبرنا أبو بشر، عن سعيد بن جبير
+  ومنصور، عن الحسن في هذه الآية، قال: لم يشكّ صلى الله عليه وسلم ولم يسأل.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(10, 94)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(10,94)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">فَإِن كُنتَ فِي شَكٍّ مِّمَّآ أَنزَلْنَآ إِلَيْكَ
+  فَاسْأَلِ ٱلَّذِينَ يَقْرَءُونَ ٱلْكِتَابَ مِن قَبْلِكَ لَقَدْ جَآءَكَ ٱلْحَقُّ
+  مِن رَّبِّكَ فَلاَ تَكُونَنَّ مِنَ ٱلْمُمْتَرِينَ</a> <b>}</b></font>, <br/>, <br/>,
+  <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: { فإنْ كُنْتَ فِي شَكّ مِمَّا
+  أنْزَلْنا إلَيْكَ فاسْئَلِ الَّذِينَ يَقْرَءُونَ الكتابَ مِنْ قَبْلِكَ } ذكر لنا
+  أن رسول الله صلى الله عليه وسلم قال:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" لا أشُك ولا أسْألُ \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  محمد بن عبد الأعلى، قال: ثنا محمد بن ثور، عن معمر، عن قتادة: { فإنْ كُنْتَ فِي شَكّ
   مِمَّا أنْزَلْنا إلَيْكَ فاسْئَلِ الَّذِينَ يَقْرَءُونَ الكتابَ مِنْ قَبْلِكَ }
-  قيل: لا وكذلك قال جماعة من أهل العلم.حدثني يعقوب بن إبراهيم، قال: ثنا هشيم، عن أبي
-  بشر، عن سعيد بن جبير، في قوله: { فإنْ كُنْتَ فِي شَكّ مِمَّا أنْزَلْنا إلَيْكَ }
-  فقال: لم يشكّ النبيّ صلى الله عليه وسلم ولم يسأل.حدثنا ابن وكيع، قال: ثنا سويد بن
-  عمرو، عن أبي عوانة، عن أبي بشر، عن سعيد بن جبير، في قوله: { فإنْ كُنْتَ فِي شَكّ
-  مِمَّا أنْزَلْنا إلَيْكَ فاسْئَلِ الَّذِينَ يَقْرَءُونَ الكتابَ مِنْ قَبْلِكَ }
-  قال: ما شكّ وما سأل.حدثني الحرث، قال: ثنا القاسم بن سلام، قال: ثنا هشيم، قال: أخبرنا
-  أبو بشر، عن سعيد بن جبير ومنصور، عن الحسن في هذه الآية، قال: لم يشكّ صلى الله عليه
-  وسلم ولم يسأل.\r\n\t\t\t\r\n\t\t\t1 2 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ فَإِن كُنتَ فِي شَكٍّ مِّمَّآ أَنزَلْنَآ
-  إِلَيْكَ فَاسْأَلِ ٱلَّذِينَ يَقْرَءُونَ ٱلْكِتَابَ مِن قَبْلِكَ لَقَدْ جَآءَكَ
-  ٱلْحَقُّ مِن رَّبِّكَ فَلاَ تَكُونَنَّ مِنَ ٱلْمُمْتَرِينَ }حدثنا بشر، قال: ثنا
-  يزيد، قال: ثنا سعيد، عن قتادة، قوله: { فإنْ كُنْتَ فِي شَكّ مِمَّا أنْزَلْنا إلَيْكَ
-  فاسْئَلِ الَّذِينَ يَقْرَءُونَ الكتابَ مِنْ قَبْلِكَ } ذكر لنا أن رسول الله صلى
-  الله عليه وسلم قال: \" لا أشُك ولا أسْألُ \" حدثنا محمد بن عبد الأعلى، قال: ثنا
-  محمد بن ثور، عن معمر، عن قتادة: { فإنْ كُنْتَ فِي شَكّ مِمَّا أنْزَلْنا إلَيْكَ
-  فاسْئَلِ الَّذِينَ يَقْرَءُونَ الكتابَ مِنْ قَبْلِكَ } قال: بلغنا أن رسول الله صلى
-  الله عليه وسلم قال: \" لا أشُكُّ ولا أسأَلُ \" فإن قال: فما وجه مخرج هذا الكلام
-  إذن إن كان الأمر على ما وصفت؟ قيل: قد بينا في غير موضع من كتابنا هذا استجازة العرب
-  قول القائل منهم لملوكه: إن كنت مملوكي فانته إلى أمري والعبد المأمور بذلك لا يشكّ
-  سيده القائل له ذلك أنه عبده. كذلك قول الرجل منهم لابنه: إن كنت ابني فبرَّني وهو
-  لا يشك في ابنه أنه ابنه، وأن ذلك من كلامهم صحيح مستفيض فيهم، وذكرنا ذلك بشواهد،
-  وأن منه قول الله تعالى:{ وَإذْ قالَ اللَّهُ يا عِيسَى ابْنَ مَرْيَمَ أأنْتَ قُلْتَ
-  للنَّاسِ اتَّخِذُونِي وأُمِّيَ إلَهَيْنِ مِنْ دُونِ اللَّهِ }وقد علم جلّ ثناؤه أن
-  عيسى لم يقل ذلك. وهذا من ذلك، لم يكن صلى الله عليه وسلم شاكاً في حقيقة خبر الله
-  وصحته، والله تعالى بذلك من أمره كان عالماً، ولكنه جلّ ثناؤه خاطبه خطاب قومه بعضهم
-  بعضاً، إذ كان القرآن بلسانهم نزل.وأما قوله: { لَقَدْ جاءَكَ الحَقُّ مِنْ رَبِّكَ
-  }... الآية، فهو خبر من الله مبتدأ، يقول تعالى ذكره: أقسم لقد جاءك الحقّ اليقين من
-  الخبر بأنك لله رسول، وأن هؤلاء اليهود والنصارى يعلمون صحة ذلك، ويجدون نعتك عندهم
-  في كتبهم. { فَلا تَكُونَنَّ مِنَ المُمْترِينَ } يقول: فلا تكوننّ مِنَ الشَّاكِين
-  في صحة ذلك وحقيقته. ولو قال قائل: إن هذه الآية خوطب بها النبيّ صلى الله عليه وسلم
-  والمراد بها بعض من لم يكن صحت بصيرته بنبوّته صلى الله عليه وسلم ممن كان قد أظهر
-  الإيمان بلسانه، تنبيهاً له على موضع تعرّف حقيقة أمره الذي يزيل اللبس عن قلبه، كما
-  قال جلّ ثناؤه:{ يا أيُّها النَّبِيُّ اتَّقِ اللَّهَ وَلا تُطِعِ الكافِرِينَ والمُنافِقِينَ
-  إنَّ اللَّهَ كانَ عَلِيماً حَكِيماً }كان قولاً غير مدفوعة صحته.\r\n\t\t\t\r\n\t\t\t1 2 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  قال: بلغنا أن رسول الله صلى الله عليه وسلم قال:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" لا أشُكُّ ولا أسأَلُ \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">فإن
+  قال: فما وجه مخرج هذا الكلام إذن إن كان الأمر على ما وصفت؟ قيل: قد بينا في غير موضع
+  من كتابنا هذا استجازة العرب قول القائل منهم لملوكه: إن كنت مملوكي فانته إلى أمري
+  والعبد المأمور بذلك لا يشكّ سيده القائل له ذلك أنه عبده. كذلك قول الرجل منهم لابنه:
+  إن كنت ابني فبرَّني وهو لا يشك في ابنه أنه ابنه، وأن ذلك من كلامهم صحيح مستفيض فيهم،
+  وذكرنا ذلك بشواهد، وأن منه قول الله تعالى:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">وَإذْ قالَ اللَّهُ يا عِيسَى ابْنَ
+  مَرْيَمَ أأنْتَ قُلْتَ للنَّاسِ اتَّخِذُونِي وأُمِّيَ إلَهَيْنِ مِنْ دُونِ اللَّهِ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">وقد
+  علم جلّ ثناؤه أن عيسى لم يقل ذلك. وهذا من ذلك، لم يكن صلى الله عليه وسلم شاكاً في
+  حقيقة خبر الله وصحته، والله تعالى بذلك من أمره كان عالماً، ولكنه جلّ ثناؤه خاطبه
+  خطاب قومه بعضهم بعضاً، إذ كان القرآن بلسانهم نزل.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وأما
+  قوله: { لَقَدْ جاءَكَ الحَقُّ مِنْ رَبِّكَ }... الآية، فهو خبر من الله مبتدأ، يقول
+  تعالى ذكره: أقسم لقد جاءك الحقّ اليقين من الخبر بأنك لله رسول، وأن هؤلاء اليهود
+  والنصارى يعلمون صحة ذلك، ويجدون نعتك عندهم في كتبهم. { فَلا تَكُونَنَّ مِنَ المُمْترِينَ
+  } يقول: فلا تكوننّ مِنَ الشَّاكِين في صحة ذلك وحقيقته. ولو قال قائل: إن هذه الآية
+  خوطب بها النبيّ صلى الله عليه وسلم والمراد بها بعض من لم يكن صحت بصيرته بنبوّته
+  صلى الله عليه وسلم ممن كان قد أظهر الإيمان بلسانه، تنبيهاً له على موضع تعرّف حقيقة
+  أمره الذي يزيل اللبس عن قلبه، كما قال جلّ ثناؤه:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">يا أيُّها النَّبِيُّ اتَّقِ اللَّهَ
+  وَلا تُطِعِ الكافِرِينَ والمُنافِقِينَ إنَّ اللَّهَ كانَ عَلِيماً حَكِيماً</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">كان
+  قولاً غير مدفوعة صحته.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section>"
 

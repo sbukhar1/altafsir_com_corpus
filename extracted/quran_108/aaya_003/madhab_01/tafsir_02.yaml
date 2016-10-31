@@ -1,4 +1,4 @@
-location:
+position:
   sura: '108'
   aaya: '003'
   madhab: '01'
@@ -7,32 +7,71 @@ meta:
   title: تفسير الكشاف
   author: الزمخشري
   year: '538'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ إِنَّآ أَعْطَيْنَاكَ
-  ٱلْكَوْثَرَ } * { فَصَلِّ لِرَبِّكَ وَٱنْحَرْ } * { إِنَّ شَانِئَكَ هُوَ ٱلأَبْتَرُ
-  }(1349) في قراءة رسول الله صلى الله عليه وسلم: «إنا أنطيناك» بالنون. وفي حديثه صلى
-  الله عليه وسلم:(1350) \" وانطوا الثبجة \" والكوثر فوعل من الكثرة وهو المفرط الكثرة.
-  وقيل لأعرابية رجع ابنها من السفر: بم آب ابنك؟ قالت: آب بكوثر. وقال:وَأَنْتَ كَثِيرٌ
-  يَا ابْنَ مَرْوَانَ طَيِّبٌ   وَكَانَ أَبُوكَ ابْنَ الْعَقَائِلِ كَوْثَرَاوقيل:
-  (الكوثر) نهر في الجنة. وعن النبي صلى الله عليه وسلم:(1351) أنه قرأها حين أنزلت عليه
-  فقال: \" أتدرون ما الكوثر؟ إنه نهر في الجنة وعدنيه ربي، فيه خير كثير \" وروي في
-  صفته:(1352) \" أحلى من العسل، وأشدّ بياضاً من اللبن، وأبرد من الثلج، وألين من الزبد؛
-  حافتاه الزبرجد، وأوانيه من فضة عدد نجوم السماء \" وروي:(1353) \" لا يظمأ من شرب
-  منه أبداً: أول وارديه: فقراء المهاجرين: الدنسو الثياب، الشعث الرؤوس، الذين لا يزوجون
-  المنعمات، ولا تفتح لهم أبواب السدد، يموت أحدهم وحاجته تتلجلج في صدره، لو أقسم على
-  الله لأبرّه \" وعن ابن عباس أنه فسر الكوثر بالخير الكثير، فقال له سعيد بن جبير:
-  إن ناساً يقولون: هو نهر في الجنة! فقال: هو من الخير الكثير. والنحر: نحر البدن؛ وعن
-  عطية: هي صلاة الفجر بجمع، والنحر بمنى. وقيل: صلاة العيد والتضحية. وقيل: هي جنس الصلاة.
-  والنحر: وضع اليمين على الشمال، والمعنى: أعطيت ما لا غاية لكثرته من خير الدارين الذي
-  لم يعطه أحد غيرك، ومعطي ذلك كله أنا إلٰه العالمين، فاجتمعت لك الغبطتان السنيتان:
-  إصابة أشرف عطاء، وأوفره، من أكرم معط وأعظم منعم؛ فاعبد ربك الذي أعزّك بإعطائه، وشرفك
-  وصانك من منن الخلق، مراغماً لقومك الذين يعبدون غير الله، وانحر لوجهه وباسمه إذا
-  نحرت، مخالفاً لهم في النحر للأوثان (إن) من أبغضك من قومك لمخالفتك لهم { هُوَ ٱلأَبْتَرُ
-  } لا أنت؛ لأنّ كل من يولد إلى يوم القيامة من المؤمنين فهم أولادك وأعقابك، وذكرك
-  موفوع على المنابر والمنار، وعلى لسان كل عالم وذاكر إلى آخر الدهر، يبدأ بذكر الله
-  ويثني بذكرك، ولك في الآخرة ما لا يدخل تحت الوصف، فمثلك لا يقال له أبتر: وإنما الأبتر
-  هو شانئك المنسي في الدنيا والآخرة، وإن ذكر ذكر باللعن. وكانوا يقولون: إنّ محمداً
-  صنبور: إذا مات مات ذكره. وقيل: نزلت في العاص بن وائل، وقد سماه الأبتر، والأبتر:
-  الذي لا عقب له. ومنه الحمار الأبتر الذي لا ذنب له.عن رسول الله صلى الله عليه وسلم:(1354)
-  \" من قرأ سورة الكوثر سقاه الله من كل نهر في الجنة ويكتب له عشر حسنات بعدد كل قربان
-  قربه العباد في يوم النحر أو يقربونه \". \r\n\t\t\t\r\n\t\t\t</section>"
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(108, 1)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(108,1)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">إِنَّآ
+  أَعْطَيْنَاكَ ٱلْكَوْثَرَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">فَصَلِّ لِرَبِّكَ وَٱنْحَرْ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">إِنَّ
+  شَانِئَكَ هُوَ ٱلأَبْتَرُ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\"
+  dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">(1349) في قراءة
+  رسول الله صلى الله عليه وسلم: «إنا أنطيناك» بالنون. وفي حديثه صلى الله عليه وسلم:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">(1350)</font></font><b><font class=\"TextResultArabic\"><font color=\"Red\">
+  \" وانطوا الثبجة \" </font></font></b><font class=\"TextResultArabic\"><font color=\"black\">والكوثر
+  فوعل من الكثرة وهو المفرط الكثرة. وقيل لأعرابية رجع ابنها من السفر: بم آب ابنك؟
+  قالت: آب بكوثر. وقال:</font></font><table class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">وَأَنْتَ
+  كَثِيرٌ يَا ابْنَ مَرْوَانَ طَيِّبٌ</font></font></b></td><td class=\"TextArabic\">   </td><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">وَكَانَ
+  أَبُوكَ ابْنَ الْعَقَائِلِ كَوْثَرَا</font></font></b></td></tr></table><font class=\"TextResultArabic\"><font
+  color=\"black\">وقيل: (الكوثر) نهر في الجنة. وعن النبي صلى الله عليه وسلم:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">(1351) أنه قرأها حين أنزلت عليه فقال:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" أتدرون ما الكوثر؟ إنه نهر في الجنة وعدنيه ربي، فيه خير كثير \"
+  </font></font></b><font class=\"TextResultArabic\"><font color=\"black\">وروي في
+  صفته:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">(1352)</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" أحلى من العسل، وأشدّ بياضاً من اللبن، وأبرد من الثلج، وألين من
+  الزبد؛ حافتاه الزبرجد، وأوانيه من فضة عدد نجوم السماء \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\">وروي:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">(1353)</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" لا يظمأ من شرب منه أبداً: أول
+  وارديه: فقراء المهاجرين: الدنسو الثياب، الشعث الرؤوس، الذين لا يزوجون المنعمات،
+  ولا تفتح لهم أبواب السدد، يموت أحدهم وحاجته تتلجلج في صدره، لو أقسم على الله لأبرّه
+  \" </font></font></b><font class=\"TextResultArabic\"><font color=\"black\">وعن
+  ابن عباس أنه فسر الكوثر بالخير الكثير، فقال له سعيد بن جبير: إن ناساً يقولون: هو
+  نهر في الجنة! فقال: هو من الخير الكثير. والنحر: نحر البدن؛ وعن عطية: هي صلاة الفجر
+  بجمع، والنحر بمنى. وقيل: صلاة العيد والتضحية. وقيل: هي جنس الصلاة. والنحر: وضع اليمين
+  على الشمال، والمعنى: أعطيت ما لا غاية لكثرته من خير الدارين الذي لم يعطه أحد غيرك،
+  ومعطي ذلك كله أنا إلٰه العالمين، فاجتمعت لك الغبطتان السنيتان: إصابة أشرف عطاء،
+  وأوفره، من أكرم معط وأعظم منعم؛ فاعبد ربك الذي أعزّك بإعطائه، وشرفك وصانك من منن
+  الخلق، مراغماً لقومك الذين يعبدون غير الله، وانحر لوجهه وباسمه إذا نحرت، مخالفاً
+  لهم في النحر للأوثان (إن) من أبغضك من قومك لمخالفتك لهم { هُوَ ٱلأَبْتَرُ } لا أنت؛
+  لأنّ كل من يولد إلى يوم القيامة من المؤمنين فهم أولادك وأعقابك، وذكرك موفوع على
+  المنابر والمنار، وعلى لسان كل عالم وذاكر إلى آخر الدهر، يبدأ بذكر الله ويثني بذكرك،
+  ولك في الآخرة ما لا يدخل تحت الوصف، فمثلك لا يقال له أبتر: وإنما الأبتر هو شانئك
+  المنسي في الدنيا والآخرة، وإن ذكر ذكر باللعن. وكانوا يقولون: إنّ محمداً صنبور: إذا
+  مات مات ذكره. وقيل: نزلت في العاص بن وائل، وقد سماه الأبتر، والأبتر: الذي لا عقب
+  له. ومنه الحمار الأبتر الذي لا ذنب له.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">عن
+  رسول الله صلى الله عليه وسلم:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">(1354)</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" من قرأ سورة الكوثر سقاه الله
+  من كل نهر في الجنة ويكتب له عشر حسنات بعدد كل قربان قربه العباد في يوم النحر أو
+  يقربونه \". </font></font></b><b><font class=\"TextResultArabic\"><font color=\"Red\"><br/></font></font></b>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

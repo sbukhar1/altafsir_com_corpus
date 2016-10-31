@@ -1,4 +1,4 @@
-location:
+position:
   sura: '002'
   aaya: '195'
   madhab: '01'
@@ -7,205 +7,478 @@ meta:
   title: تفسير جامع البيان في تفسير القرآن
   author: الطبري
   year: '310'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَأَنْفِقُواْ
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(2, 195)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(2,195)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَأَنْفِقُواْ
   فِي سَبِيلِ ٱللَّهِ وَلاَ تُلْقُواْ بِأَيْدِيكُمْ إِلَى ٱلتَّهْلُكَةِ وَأَحْسِنُوۤاْ
-  إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُحْسِنِينَ }اختلف أهل التأويـل فـي تأويـل هذه الآية، ومن
-  عَنَى بقوله: { وَلا تُلْقُوا بأيْدِيكُمْ إلـى التَّهْلُكَة } فقال بعضهم: عنى بذلك:
-  { وأنْفِقُوا فِـي سَبِـيـلِ اللَّهِ } وسبـيـل الله: طريقه الذي أمر أن يسلك فـيه
-  إلـى عدوّه من الـمشركين لـجهادهم وحربهم، { وَلا تُلْقُوا بأيْدِيكُمْ إلـى التَّهْلُكَة
-  } يقول: ولا تتركوا النفقة فـي سبـيـل الله، فإن الله يعوِّضكم منها أجراً ويرزقكم
-  عاجلاً. ذكر من قال ذلك:حدثنـي أبو السائب سلـم بن جنادة، والـحسن بن عرفة قالا: ثنا
-  أبو معاوية، عن الأعمش، عن سفـيان، عن حذيفة: { وَلا تُلْقُوا بأيْدِيكُمْ إلـى التَّهْلُكَة
-  } قال: يعنـي فـي ترك النفقة.حدثنـي مـحمد بن بشار، قال: ثنا عبد الرحمن، قال: ثنا
-  شعبة، وحدثنا ابن الـمثنى، قال: ثنا ابن أبـي عديّ، عن شعبة، عن الأعمش، عن أبـي وائل،
-  عن حذيفة وحدثنـي مـحمد بن خـلف العسقلانـي قال: ثنا آدم، قال: ثنا أبو جعفر الرازي،
-  عن الأعمش وحدثنا أحمد بن إسحاق، قال: ثنا أبو أحمد قال: ثنا سفـيان، عن عاصم جميعاً،
-  عن شقـيق، عن حذيفة، قال: هو ترك النفقة فـي سبـيـل الله.حدثنا ابن الـمثنى، قال: ثنا
-  مـحمد بن جعفر، قال: ثنا شعبة، عن منصور، عن أبـي صالـح، عن عبد الله بن عبـاس أنه
-  قال فـي هذه الآية: { وَلا تُلْقُوا بأيْدِيكُمْ إلـى التَّهْلُكَة } قال: تنفق فـي
-  سبـيـل الله وإن لـم يكن لك إلا مِشْقَصٌ أو سهم شعبة الذي يشك فـي ذلك.حدثنا ابن الـمثنى،
-  قال: ثنا ابن أبـي عديّ، عن شعبة، عن منصور، عن أبـي صالـح الذي كان يحدّث عنه الكلبـي،
-  عن ابن عبـاس قال: إن لـم يكن لك إلا سهم أو مشقص أنفقته.حدثنـي ابن بشار، قال: ثنا
-  يحيى، عن سفـيان، عن منصور، عن أبـي صالـح، عن ابن عبـاس: { وَلا تُلْقُوا بأيْدِيكُمْ
-  إلـى التَّهْلُكَة } قال: فـي النفقة.حدثنا ابن حميد، قال: ثنا حكام، عن عمرو بن أبـي
-  قـيس، عن عطاء، عن سعيد بن جبـير، عن ابن عبـاس: { وَلا تُلْقُوا بأيْدِيكُمْ إلـى
-  التَّهْلُكَة } قال: لـيس التهلكة أن يُقتل الرجل فـي سبـيـل الله، ولكن الإمساك عن
-  النفقة فـي سبـيـل الله.حدثنـي يعقوب بن إبراهيـم، قال: ثنا هشيـم، قال: أخبرنا إسماعيـل
-  بن أبـي خالد، عن عكرمة، قال: نزلت فـي النفقات فـي سبـيـل الله، يعنـي قوله: { وَلا
-  تُلْقُوا بأيْدِيكُمْ إلـى التَّهْلُكَة }.حدثنا يونس بن عبد الأعلـى، قال: ثنا ابن
-  وهب، قال: أخبرنـي أبو صخر عن مـحمد بن كعب القرظي أنه كان يقول فـي هذه الآية: { وَلا
-  تُلْقُوا بأيْدِيكُمْ إلـى التَّهْلُكَة } قال: كان القوم فـي سبـيـل الله، فـيتزوّد
-  الرجل، فكان أفضل زاداً من الآخر أنفق البـائس من زاده حتـى لا يبقـى من زاده شيء أحبّ
-  أن يواسي صاحبه، فأنزل الله: { وأنْفِقُوا فِـي سَبِـيـلِ اللَّهِ وَلا تُلْقُوا بأيْدِيكُمْ
-  إلـى التَّهْلُكَة }.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَأَنْفِقُواْ فِي سَبِيلِ ٱللَّهِ
-  وَلاَ تُلْقُواْ بِأَيْدِيكُمْ إِلَى ٱلتَّهْلُكَةِ وَأَحْسِنُوۤاْ إِنَّ ٱللَّهَ يُحِبُّ
-  ٱلْمُحْسِنِينَ }حدثنـي مـحمد بن خـلف العسقلانـي، قال: ثنا آدم، قال: ثنا شيبـان،
+  إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُحْسِنِينَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\"
+  dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">اختلف أهل التأويـل
+  فـي تأويـل هذه الآية، ومن عَنَى بقوله: { وَلا تُلْقُوا بأيْدِيكُمْ إلـى التَّهْلُكَة
+  } فقال بعضهم: عنى بذلك: { وأنْفِقُوا فِـي سَبِـيـلِ اللَّهِ } وسبـيـل الله: طريقه
+  الذي أمر أن يسلك فـيه إلـى عدوّه من الـمشركين لـجهادهم وحربهم، { وَلا تُلْقُوا بأيْدِيكُمْ
+  إلـى التَّهْلُكَة } يقول: ولا تتركوا النفقة فـي سبـيـل الله، فإن الله يعوِّضكم منها
+  أجراً ويرزقكم عاجلاً. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  أبو السائب سلـم بن جنادة، والـحسن بن عرفة قالا: ثنا أبو معاوية، عن الأعمش، عن سفـيان،
+  عن حذيفة: { وَلا تُلْقُوا بأيْدِيكُمْ إلـى التَّهْلُكَة } قال: يعنـي فـي ترك النفقة.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي مـحمد بن بشار، قال: ثنا عبد الرحمن، قال: ثنا شعبة، وحدثنا
+  ابن الـمثنى، قال: ثنا ابن أبـي عديّ، عن شعبة، عن الأعمش، عن أبـي وائل، عن حذيفة
+  وحدثنـي مـحمد بن خـلف العسقلانـي قال: ثنا آدم، قال: ثنا أبو جعفر الرازي، عن الأعمش
+  وحدثنا أحمد بن إسحاق، قال: ثنا أبو أحمد قال: ثنا سفـيان، عن عاصم جميعاً، عن شقـيق،
+  عن حذيفة، قال: هو ترك النفقة فـي سبـيـل الله.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن الـمثنى، قال: ثنا مـحمد بن جعفر، قال: ثنا شعبة، عن منصور، عن أبـي صالـح، عن
+  عبد الله بن عبـاس أنه قال فـي هذه الآية: { وَلا تُلْقُوا بأيْدِيكُمْ إلـى التَّهْلُكَة
+  } قال: تنفق فـي سبـيـل الله وإن لـم يكن لك إلا مِشْقَصٌ أو سهم شعبة الذي يشك فـي
+  ذلك.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن الـمثنى، قال: ثنا ابن
+  أبـي عديّ، عن شعبة، عن منصور، عن أبـي صالـح الذي كان يحدّث عنه الكلبـي، عن ابن عبـاس
+  قال: إن لـم يكن لك إلا سهم أو مشقص أنفقته.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  ابن بشار، قال: ثنا يحيى، عن سفـيان، عن منصور، عن أبـي صالـح، عن ابن عبـاس: { وَلا
+  تُلْقُوا بأيْدِيكُمْ إلـى التَّهْلُكَة } قال: فـي النفقة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن حميد، قال: ثنا حكام، عن عمرو بن أبـي قـيس، عن عطاء، عن سعيد بن جبـير، عن ابن
+  عبـاس: { وَلا تُلْقُوا بأيْدِيكُمْ إلـى التَّهْلُكَة } قال: لـيس التهلكة أن يُقتل
+  الرجل فـي سبـيـل الله، ولكن الإمساك عن النفقة فـي سبـيـل الله.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي يعقوب بن إبراهيـم، قال: ثنا هشيـم، قال: أخبرنا إسماعيـل بن
+  أبـي خالد، عن عكرمة، قال: نزلت فـي النفقات فـي سبـيـل الله، يعنـي قوله: { وَلا تُلْقُوا
+  بأيْدِيكُمْ إلـى التَّهْلُكَة }.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  يونس بن عبد الأعلـى، قال: ثنا ابن وهب، قال: أخبرنـي أبو صخر عن مـحمد بن كعب القرظي
+  أنه كان يقول فـي هذه الآية: { وَلا تُلْقُوا بأيْدِيكُمْ إلـى التَّهْلُكَة } قال:
+  كان القوم فـي سبـيـل الله، فـيتزوّد الرجل، فكان أفضل زاداً من الآخر أنفق البـائس
+  من زاده حتـى لا يبقـى من زاده شيء أحبّ أن يواسي صاحبه، فأنزل الله: { وأنْفِقُوا
+  فِـي سَبِـيـلِ اللَّهِ وَلا تُلْقُوا بأيْدِيكُمْ إلـى التَّهْلُكَة }.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2, 195)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,195)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَأَنْفِقُواْ فِي سَبِيلِ ٱللَّهِ وَلاَ تُلْقُواْ
+  بِأَيْدِيكُمْ إِلَى ٱلتَّهْلُكَةِ وَأَحْسِنُوۤاْ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُحْسِنِينَ</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي مـحمد بن خـلف العسقلانـي، قال: ثنا آدم، قال: ثنا شيبـان،
   عن منصور بن الـمعتـمر، عن أبـي صالـح مولـى أم هانىء، عن ابن عبـاس فـي قوله: { وَلا
   تُلْقُوا بأيْدِيكُمْ إلـى التَّهْلُكَة } قال: لا يقولنَّ أحدكم إنـي لا أجد شيئاً
-  إن لـم يجد إلا مشقصاً فلـيتـجهز به فـي سبـيـل الله.حدثنا ابن عبد الأعلـى الصنعانـي،
-  قال: ثنا الـمعتـمر، قال: سمعت داود يعنـي ابن أبـي هند، عن عامر: أن الأنصار كان احتبس
-  علـيهم بعض الرزق، وكانوا قد أنفقوا نفقات، قال: فساء ظنهم وأمسكوا. قال: فأنزل الله:
-  { وأنْفِقُوا فِـي سَبِـيـلِ اللَّهِ وَلا تُلْقُوا بِأيْدِيكُمْ إلـى التَّهْلُكَةِ
-  } قال: وكانت التهلكة سوء ظنهم وإمساكهم.حدثنـي مـحمد بن عمرو، قال: ثنا أبو عاصم،
-  قال: ثنا عيسى، وحدثنـي الـمثنى، قال: ثنا أبو حذيفة قال: حدثنا شبل، عن ابن أبـي نـجيح،
-  عن مـجاهد فـي قول الله: { وَلا تُلْقُوا بأيْدِيكُمْ إلـى التَّهْلُكَة } قال: تـمنعكم
-  نفقةً فـي حقَ خيفةُ العَيْـلة.حدثنا بشر بن معاذ، قال: ثنا يزيد، قال: ثنا سعيد، عن
-  قتادة قوله: { وأنْفِقُوا فِـي سَبِـيـلِ اللَّهِ وَلا تُلْقُوا بأيْدِيكُمْ إلـى التَّهْلُكَة
-  } قال: وكان قتادة يحدّث أن الـحسن حدثه أنهم كانوا يسافرون ويغزون ولا ينفقون من أموالهم،
-  أو قال: لا ينفقون فـي ذلك، فأمرهم الله أن ينفقوا فـي مغازيهم فـي سبـيـل الله.حدثنا
+  إن لـم يجد إلا مشقصاً فلـيتـجهز به فـي سبـيـل الله.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن عبد الأعلـى الصنعانـي، قال: ثنا الـمعتـمر، قال: سمعت داود يعنـي ابن أبـي هند،
+  عن عامر: أن الأنصار كان احتبس علـيهم بعض الرزق، وكانوا قد أنفقوا نفقات، قال: فساء
+  ظنهم وأمسكوا. قال: فأنزل الله: { وأنْفِقُوا فِـي سَبِـيـلِ اللَّهِ وَلا تُلْقُوا
+  بِأيْدِيكُمْ إلـى التَّهْلُكَةِ } قال: وكانت التهلكة سوء ظنهم وإمساكهم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي مـحمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، وحدثنـي
+  الـمثنى، قال: ثنا أبو حذيفة قال: حدثنا شبل، عن ابن أبـي نـجيح، عن مـجاهد فـي قول
+  الله: { وَلا تُلْقُوا بأيْدِيكُمْ إلـى التَّهْلُكَة } قال: تـمنعكم نفقةً فـي حقَ
+  خيفةُ العَيْـلة.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا بشر بن معاذ، قال: ثنا يزيد،
+  قال: ثنا سعيد، عن قتادة قوله: { وأنْفِقُوا فِـي سَبِـيـلِ اللَّهِ وَلا تُلْقُوا
+  بأيْدِيكُمْ إلـى التَّهْلُكَة } قال: وكان قتادة يحدّث أن الـحسن حدثه أنهم كانوا
+  يسافرون ويغزون ولا ينفقون من أموالهم، أو قال: لا ينفقون فـي ذلك، فأمرهم الله أن
+  ينفقوا فـي مغازيهم فـي سبـيـل الله.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
   الـحسن بن يحيى، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر، عن قتادة قوله: { وَلا
   تُلْقُوا بأيْدِيكُمْ إلـى التَّهْلُكَة } يقول: لا تـمسكوا بأيديكم عن النفقة فـي
-  سبـيـل الله.حدثنـي موسى بن هارون، قال: ثنا عمرو بن حماد، قال: ثنا أسبـاط، عن السدي:
-  { وأنْفِقُوا فِـي سَبِـيـلِ اللَّهِ } يقول: أنفقْ فـي سبـيـل الله ولو عقالاً، {
-  وَلا تُلْقُوا بأيْدِيكُمْ إلـى التَّهْلُكَة } تقول: لـيس عندي شيء.حدثنـي الـمثنى،
-  قال: ثنا أبو غسان، قال: ثنا زهير، قال: ثنا خصيف، عن عكرمة فـي قوله: { وَلا تُلْقُوا
-  بأيْدِيكُمْ إلـى التَّهْلُكَة } قال: لـما أمر الله بـالنفقة فكانوا أو بعضهم يقولون:
-  ننفق فـيذهب مالنا ولا يبقـى لنا شيء، قال: فقال أنفقوا ولا تلقوا بأيديكم إلـى التهلكة،
-  قال: أنفقوا وأنا أرزقكم.حدثنـي الـمثنى، قال: ثنا عمرو بن عون، قال: ثنا هشيـم، عن
-  يونس، عن الـحسن، قال: نزلت فـي النفقة.حدثنـي الـمثنى، قال: ثنا إسحاق، قال: أخبرنا
-  ابن همام الأهوازي، قال: أخبرنا يونس، عن الـحسن فـي التهلكة، قال: أمرهم الله بـالنفقة
-  فـي سبـيـل الله، وأخبرهم أن ترك النفقة فـي سبـيـل الله التهلكة.حدثنا القاسم، قال:
-  ثنا الـحسين، قال: حدثنـي حجاج، عن ابن جريج، قال: سألت عطاء عن قوله: { وأنْفِقُوا
-  فِـي سَبِـيـلِ اللَّهِ وَلا تُلْقُوا بأيْدِيكُمْ إلـى التَّهْلُكَة } قال: يقول:
-  أنفقوا فـي سبـيـل الله ما قلّ وكثر قال: وقال لـي عبد الله بن كثـير: نزلت فـي النفقة
-  فـي سبـيـل الله.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَأَنْفِقُواْ فِي سَبِيلِ ٱللَّهِ
-  وَلاَ تُلْقُواْ بِأَيْدِيكُمْ إِلَى ٱلتَّهْلُكَةِ وَأَحْسِنُوۤاْ إِنَّ ٱللَّهَ يُحِبُّ
-  ٱلْمُحْسِنِينَ }حدثنا ابن حميد، قال: ثنا جرير، عن منصور، عن أبـي صالـح، عن ابن عبـاس،
-  قال: لا يقولنّ الرجل: لا أجد شيئاً قد هلكت، فلـيتـجهز ولو بـمشقص.حدثنـي مـحمد بن
-  سعد، قال: حدثنـي أبـي، قال: ثنـي عمي، قال: ثنـي أبـي عن أبـيه، عن ابن عبـاس قوله:
+  سبـيـل الله.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي موسى بن هارون، قال: ثنا
+  عمرو بن حماد، قال: ثنا أسبـاط، عن السدي: { وأنْفِقُوا فِـي سَبِـيـلِ اللَّهِ } يقول:
+  أنفقْ فـي سبـيـل الله ولو عقالاً، { وَلا تُلْقُوا بأيْدِيكُمْ إلـى التَّهْلُكَة
+  } تقول: لـيس عندي شيء.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي الـمثنى، قال: ثنا أبو غسان،
+  قال: ثنا زهير، قال: ثنا خصيف، عن عكرمة فـي قوله: { وَلا تُلْقُوا بأيْدِيكُمْ إلـى
+  التَّهْلُكَة } قال: لـما أمر الله بـالنفقة فكانوا أو بعضهم يقولون: ننفق فـيذهب مالنا
+  ولا يبقـى لنا شيء، قال: فقال أنفقوا ولا تلقوا بأيديكم إلـى التهلكة، قال: أنفقوا
+  وأنا أرزقكم.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي الـمثنى، قال: ثنا عمرو بن
+  عون، قال: ثنا هشيـم، عن يونس، عن الـحسن، قال: نزلت فـي النفقة.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي الـمثنى، قال: ثنا إسحاق، قال: أخبرنا ابن همام الأهوازي، قال:
+  أخبرنا يونس، عن الـحسن فـي التهلكة، قال: أمرهم الله بـالنفقة فـي سبـيـل الله، وأخبرهم
+  أن ترك النفقة فـي سبـيـل الله التهلكة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  القاسم، قال: ثنا الـحسين، قال: حدثنـي حجاج، عن ابن جريج، قال: سألت عطاء عن قوله:
   { وأنْفِقُوا فِـي سَبِـيـلِ اللَّهِ وَلا تُلْقُوا بأيْدِيكُمْ إلـى التَّهْلُكَة
-  } يقول: أنفقوا ما كان من قلـيـل أو كثـير، ولا تستسلـموا، ولا تنفقوا شيئاً فتهلكوا.حدثنـي
-  الـمثنى، قال: ثنا إسحاق، قال: ثنا أبو زهير، عن جويبر، عن الضحاك، قال: التهلكة: أن
-  يـمسك الرجل نفسه وماله عن النفقة فـي الـجهاد فـي سبـيـل الله.حدثنا بشر بن معاذ،
-  قال: ثنا عبد الواحد بن زياد، عن يونس، عن الـحسن، فـي قوله: { وَلا تُلْقُوا بأيْدِيكُمْ
-  إلـى التَّهْلُكَة } فتدعوا النفقة فـي سبـيـل الله.وقال آخرون مـمن وجهوا تأويـل ذلك
-  إلـى أنه معنـية به النفقة: معنى ذلك: وأنفقوا فـي سبـيـل الله، ولا تلقوا بأيديكم
-  إلـى التهلكة، فتـخرجوا فـي سبـيـل الله بغير نفقة ولا قوّة. ذكر من قال ذلك:حدثنـي
+  } قال: يقول: أنفقوا فـي سبـيـل الله ما قلّ وكثر قال: وقال لـي عبد الله بن كثـير:
+  نزلت فـي النفقة فـي سبـيـل الله.</font></font>&#13;\t\t\t<label disabled=\"true\"
+  class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2, 195)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,195)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَأَنْفِقُواْ فِي سَبِيلِ ٱللَّهِ وَلاَ تُلْقُواْ
+  بِأَيْدِيكُمْ إِلَى ٱلتَّهْلُكَةِ وَأَحْسِنُوۤاْ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُحْسِنِينَ</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن حميد، قال: ثنا جرير، عن منصور، عن أبـي صالـح، عن ابن عبـاس،
+  قال: لا يقولنّ الرجل: لا أجد شيئاً قد هلكت، فلـيتـجهز ولو بـمشقص.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي مـحمد بن سعد، قال: حدثنـي أبـي، قال: ثنـي عمي، قال: ثنـي
+  أبـي عن أبـيه، عن ابن عبـاس قوله: { وأنْفِقُوا فِـي سَبِـيـلِ اللَّهِ وَلا تُلْقُوا
+  بأيْدِيكُمْ إلـى التَّهْلُكَة } يقول: أنفقوا ما كان من قلـيـل أو كثـير، ولا تستسلـموا،
+  ولا تنفقوا شيئاً فتهلكوا.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي الـمثنى، قال: ثنا إسحاق،
+  قال: ثنا أبو زهير، عن جويبر، عن الضحاك، قال: التهلكة: أن يـمسك الرجل نفسه وماله
+  عن النفقة فـي الـجهاد فـي سبـيـل الله.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  بشر بن معاذ، قال: ثنا عبد الواحد بن زياد، عن يونس، عن الـحسن، فـي قوله: { وَلا تُلْقُوا
+  بأيْدِيكُمْ إلـى التَّهْلُكَة } فتدعوا النفقة فـي سبـيـل الله.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال آخرون مـمن وجهوا تأويـل ذلك إلـى أنه معنـية به النفقة: معنى
+  ذلك: وأنفقوا فـي سبـيـل الله، ولا تلقوا بأيديكم إلـى التهلكة، فتـخرجوا فـي سبـيـل
+  الله بغير نفقة ولا قوّة. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
   يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد فـي قوله: { وأنْفِقُوا فِـي سَبِـيـلِ
   اللَّهِ وَلا تُلْقُوا بأيْدِيكُمْ إلـى التَّهْلُكَة } قال: إذا لـم يكن عندك ما تنفق
-  فلا تـخرج بنفسك بغير نفقة ولا قوّة فتلقـي بـيديك إلـى التهلكة.وقال آخرون: بل معناه
-  أنفقوا فـي سبـيـل الله ولا تلقوا بأيديكم فـيـما أصبتـم من الآثام إلـى التهلكة، فتـيأسوا
-  من رحمة الله، ولكن ارجوا رحمته واعملوا الـخيرات.ذكر من قال ذلك:حدثنـي مـحمد بن عبـيد
-  الـمـحاربـي، قال: ثنا أبو الأحوص، عن أبـي إسحاق، عن البراء بن عازب فـي قوله: { وَلا
-  تُلْقُوا بأيْدِيكُمْ إلـى التَّهْلُكَة } قال: هو الرجل يصيب الذنوب فـيـلقـي بـيده
-  إلـى التهلكة، يقول: لا توبة لـي.حدثنا أبو كريب، قال: ثنا أبو بكر بن عياش، قال: ثنا
-  أبو إسحاق، عن البراء، قال: سأله رجل أحمل علـى الـمشركين وحدي فـيقتلونـي أكنت ألقـيت
-  بـيدي إلـى التهلكة؟ فقال: لا إنـما التهلكة فـي النفقة بعث الله رسوله، فقال:{ فَقَاتِلْ
-  فِي سَبِيلِ ٱللَّهِ لاَ تُكَلَّفُ إِلاَّ نَفْسَكَ }[النساء: 84].حدثنا الـحسن بن
-  عرفة وابن وكيع، قالا: ثنا وكيع بن الـجراح، عن سفـيان الثوري، عن أبـي إسحاق السبـيعي،
-  عن البراء بن عازب فـي قول الله: { وَلا تُلْقُوا بأيْدِيكُمْ إلـى التَّهْلُكَة }
-  قال: هو الرجل يذنب الذنب فـيقول: لا يغفر الله له.حدثنا أحمد بن إسحاق، قال: ثنا أبو
-  أحمد، قال: ثنا إسرائيـل، عن أبـي إسحاق، قال: سمعت البراء وسأله رجل فقال: يا أبـا
-  عمارة أرأيت قول الله: { وَلا تُلْقُوا بأيْدِيكُمْ إلـى التَّهْلُكَة } أهو الرجل
-  يتقدم فـيقاتل حتـى يقتل؟ قال: لا ولكنه الرجل يعمل بـالـمعاصي، ثم يـلقـي بـيده ولا
-  يتوب.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَأَنْفِقُواْ فِي سَبِيلِ ٱللَّهِ
-  وَلاَ تُلْقُواْ بِأَيْدِيكُمْ إِلَى ٱلتَّهْلُكَةِ وَأَحْسِنُوۤاْ إِنَّ ٱللَّهَ يُحِبُّ
-  ٱلْمُحْسِنِينَ }حدثنا ابن حميد، قال: ثنا يحيى بن واضح، قال: ثنا الـحسين، عن أبـي
+  فلا تـخرج بنفسك بغير نفقة ولا قوّة فتلقـي بـيديك إلـى التهلكة.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال آخرون: بل معناه أنفقوا فـي سبـيـل الله ولا تلقوا بأيديكم فـيـما
+  أصبتـم من الآثام إلـى التهلكة، فتـيأسوا من رحمة الله، ولكن ارجوا رحمته واعملوا الـخيرات.ذكر
+  من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي مـحمد بن عبـيد الـمـحاربـي،
+  قال: ثنا أبو الأحوص، عن أبـي إسحاق، عن البراء بن عازب فـي قوله: { وَلا تُلْقُوا
+  بأيْدِيكُمْ إلـى التَّهْلُكَة } قال: هو الرجل يصيب الذنوب فـيـلقـي بـيده إلـى التهلكة،
+  يقول: لا توبة لـي.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا أبو كريب، قال: ثنا أبو بكر
+  بن عياش، قال: ثنا أبو إسحاق، عن البراء، قال: سأله رجل أحمل علـى الـمشركين وحدي فـيقتلونـي
+  أكنت ألقـيت بـيدي إلـى التهلكة؟ فقال: لا إنـما التهلكة فـي النفقة بعث الله رسوله،
+  فقال:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">فَقَاتِلْ فِي سَبِيلِ ٱللَّهِ لاَ تُكَلَّفُ إِلاَّ نَفْسَكَ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[النساء:
+  84].</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا الـحسن بن عرفة وابن وكيع،
+  قالا: ثنا وكيع بن الـجراح، عن سفـيان الثوري، عن أبـي إسحاق السبـيعي، عن البراء بن
+  عازب فـي قول الله: { وَلا تُلْقُوا بأيْدِيكُمْ إلـى التَّهْلُكَة } قال: هو الرجل
+  يذنب الذنب فـيقول: لا يغفر الله له.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  أحمد بن إسحاق، قال: ثنا أبو أحمد، قال: ثنا إسرائيـل، عن أبـي إسحاق، قال: سمعت البراء
+  وسأله رجل فقال: يا أبـا عمارة أرأيت قول الله: { وَلا تُلْقُوا بأيْدِيكُمْ إلـى التَّهْلُكَة
+  } أهو الرجل يتقدم فـيقاتل حتـى يقتل؟ قال: لا ولكنه الرجل يعمل بـالـمعاصي، ثم يـلقـي
+  بـيده ولا يتوب.</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">3 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2, 195)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,195)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَأَنْفِقُواْ فِي سَبِيلِ ٱللَّهِ وَلاَ تُلْقُواْ
+  بِأَيْدِيكُمْ إِلَى ٱلتَّهْلُكَةِ وَأَحْسِنُوۤاْ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُحْسِنِينَ</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن حميد، قال: ثنا يحيى بن واضح، قال: ثنا الـحسين، عن أبـي
   إسحاق، قال: سمعت البراء وسأله رجل فقال: الرجل يحمل علـى كتـيبة وحده فـيقاتل، أهو
   مـمن ألقـى بـيده إلـى التهلكة؟ فقال: لا ولكن التهلكة: أن يذنب الذنب فـيـلقـي بـيده،
-  فـيقول: لا تقبل لـي توبة.حدثنا ابن حميد، قال: ثنا حكام، عن الـجراح، عن أبـي إسحاق،
-  قال: قلت للبراء بن عازب: يا أبـا عمارة الرجل يـلقـى ألفـاً من العدوّ فـيحمل علـيهم
-  وإنـما هو وحده، أيكون مـمن قال: { وَلا تُلْقُوا بأيْدِيكُمْ إلـى التَّهْلُكَة }؟
-  فقال: لا، لـيقاتل حتـى يقتل، قال الله لنبـيه صلى الله عليه وسلم:{ فَقَاتِلْ فِي
-  سَبِيلِ ٱللَّهِ لاَ تُكَلَّفُ إِلاَّ نَفْسَكَ }[النساء: 84].حدثنا مـجاهد بن موسى،
-  قال: أخبرنا يزيد، قال: أخبرنا هشام. وحدثنـي يعقوب، قال: ثنا ابن علـية، عن هشام،
-  عن مـحمد قال: وسألت عبـيدة عن قول الله: { وأنْفِقُوا فِـي سَبِـيـلِ اللَّهِ وَلا
-  تُلْقُوا بأيْدِيكُمْ إلـى التَّهْلُكَة } الآية. فقال عبـيدة: كان الرجل يذنب الذنب
-  قال: حسبته قال العظيـم فـيـلقـي بـيده فـيستهلك زاد يعقوب فـي حديثه: فنهوا عن ذلك،
-  فقـيـل: { وأنْفِقُوا فِـي سَبِـيـلِ اللَّهِ وَلا تُلْقُوا بأيْدِيكُمْ إلـى التَّهْلُكَة
-  }.حدثنـي يعقوب بن إبراهيـم، قال: ثنا هشيـم، قال: أخبرنا هشام، عن ابن سيرين، قال:
-  سألت عبـيدة السلـمانـي عن ذلك، فقال: هو الرجل يذنب الذنب فـيستسلـم ويـلقـي بـيده
-  إلـى التهلكة، ويقول: لا توبة له. يعنـي قوله: { وَلا تُلْقُوا بأيْدِيكُمْ إلـى التَّهْلُكَة
-  }.حدثنـي يعقوب، قال: ثنا ابن علـية، قال: أخبرنا أيوب، عن مـحمد، عن عبـيدة فـي قوله:
-  { وَلا تُلْقُوا بأيْدِيكُمْ إلـى التَّهْلُكَة } قال: كان الرجل يصيب الذنب فـيـلقـي
-  بـيده.حدثنا ابن وكيع، قال: ثنا أبـي، عن ابن عون، عن ابن سيرين، عن عبـيدة: { وَلا
-  تُلْقُوا بأيْدِيكُمْ إلـى التَّهْلُكَة } قال: القنوط.حدثنا الـمثنى، قال: ثنا عمرو
-  بن عون، قال: أخبرنا هشيـم، عن يونس، وهشام عن ابن سيرين، عن عبـيدة السلـمانـي، قال:
-  هو الرجل يذنب الذنب فـيستسلـم، يقول: لا توبة لـي، فـيـلقـي بـيده.حدثنا الـحسن بن
-  يحيى، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر، قال: حدثنـي أيوب عن ابن سيرين، عن
-  عبـيدة أنه قال: هي فـي الرجل يصيب الذنب العظيـم، فـيـلقـي بـيده ويرى أنه قد هلك.وقال
-  آخرون: بل معنى ذلك: وأنفقوا فـي سبـيـل الله ولا تتركوا الـجهاد فـي سبـيـله. ذكر
-  من قال ذلك:حدثنـي يونس، قال: أخبرنا ابن وهب، قال: أخبرنـي حيوة، عن يزيد بن أبـي
-  حبـيب، عن أسلـم أبـي عمران، قال: غزونا من الـمدينة نريد القسطنطينـية وعلـى أهل مصر
-  عقبة بن عامر، وعلـى الـجماعة عبد الرحمن بن خالد بن الولـيد. قال: فصففنا صفـين لـم
-  أرصفـين قط أعرض ولا أطول منهما، والروم ملصقون ظهورهم بحائط الـمدينة، قال: فحمل رجل
-  منا علـى العدوّ، فقال الناس: مَهْ لا إله إلا الله، يـلقـي بـيده إلـى التهلكةقال
+  فـيقول: لا تقبل لـي توبة.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن حميد، قال: ثنا حكام،
+  عن الـجراح، عن أبـي إسحاق، قال: قلت للبراء بن عازب: يا أبـا عمارة الرجل يـلقـى ألفـاً
+  من العدوّ فـيحمل علـيهم وإنـما هو وحده، أيكون مـمن قال: { وَلا تُلْقُوا بأيْدِيكُمْ
+  إلـى التَّهْلُكَة }؟ فقال: لا، لـيقاتل حتـى يقتل، قال الله لنبـيه صلى الله عليه
+  وسلم:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">فَقَاتِلْ فِي سَبِيلِ ٱللَّهِ لاَ تُكَلَّفُ إِلاَّ نَفْسَكَ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[النساء:
+  84].</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا مـجاهد بن موسى، قال: أخبرنا
+  يزيد، قال: أخبرنا هشام. وحدثنـي يعقوب، قال: ثنا ابن علـية، عن هشام، عن مـحمد قال:
+  وسألت عبـيدة عن قول الله: { وأنْفِقُوا فِـي سَبِـيـلِ اللَّهِ وَلا تُلْقُوا بأيْدِيكُمْ
+  إلـى التَّهْلُكَة } الآية. فقال عبـيدة: كان الرجل يذنب الذنب قال: حسبته قال العظيـم
+  فـيـلقـي بـيده فـيستهلك زاد يعقوب فـي حديثه: فنهوا عن ذلك، فقـيـل: { وأنْفِقُوا
+  فِـي سَبِـيـلِ اللَّهِ وَلا تُلْقُوا بأيْدِيكُمْ إلـى التَّهْلُكَة }.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي يعقوب بن إبراهيـم، قال: ثنا هشيـم، قال: أخبرنا هشام، عن ابن
+  سيرين، قال: سألت عبـيدة السلـمانـي عن ذلك، فقال: هو الرجل يذنب الذنب فـيستسلـم ويـلقـي
+  بـيده إلـى التهلكة، ويقول: لا توبة له. يعنـي قوله: { وَلا تُلْقُوا بأيْدِيكُمْ إلـى
+  التَّهْلُكَة }.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي يعقوب، قال: ثنا ابن علـية،
+  قال: أخبرنا أيوب، عن مـحمد، عن عبـيدة فـي قوله: { وَلا تُلْقُوا بأيْدِيكُمْ إلـى
+  التَّهْلُكَة } قال: كان الرجل يصيب الذنب فـيـلقـي بـيده.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن وكيع، قال: ثنا أبـي، عن ابن عون، عن ابن سيرين، عن عبـيدة: { وَلا تُلْقُوا بأيْدِيكُمْ
+  إلـى التَّهْلُكَة } قال: القنوط.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  الـمثنى، قال: ثنا عمرو بن عون، قال: أخبرنا هشيـم، عن يونس، وهشام عن ابن سيرين، عن
+  عبـيدة السلـمانـي، قال: هو الرجل يذنب الذنب فـيستسلـم، يقول: لا توبة لـي، فـيـلقـي
+  بـيده.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا الـحسن بن يحيى، قال: أخبرنا
+  عبد الرزاق، قال: أخبرنا معمر، قال: حدثنـي أيوب عن ابن سيرين، عن عبـيدة أنه قال:
+  هي فـي الرجل يصيب الذنب العظيـم، فـيـلقـي بـيده ويرى أنه قد هلك.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال آخرون: بل معنى ذلك: وأنفقوا فـي سبـيـل الله ولا تتركوا الـجهاد
+  فـي سبـيـله. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  يونس، قال: أخبرنا ابن وهب، قال: أخبرنـي حيوة، عن يزيد بن أبـي حبـيب، عن أسلـم أبـي
+  عمران، قال: غزونا من الـمدينة نريد القسطنطينـية وعلـى أهل مصر عقبة بن عامر، وعلـى
+  الـجماعة عبد الرحمن بن خالد بن الولـيد. قال: فصففنا صفـين لـم أرصفـين قط أعرض ولا
+  أطول منهما، والروم ملصقون ظهورهم بحائط الـمدينة، قال: فحمل رجل منا علـى العدوّ،
+  فقال الناس: مَهْ لا إله إلا الله، يـلقـي بـيده إلـى التهلكة</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال
   أبو أيوب الأنصاري: إنـما تتأوّلون هذه الآية هكذا أن حمل رجل يقاتل يـلتـمس الشهادة
-  أو يُبلـي من نفسه إنـما نزلت هذه الآية فـينا معشر الأنصار.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَأَنْفِقُواْ فِي سَبِيلِ ٱللَّهِ
-  وَلاَ تُلْقُواْ بِأَيْدِيكُمْ إِلَى ٱلتَّهْلُكَةِ وَأَحْسِنُوۤاْ إِنَّ ٱللَّهَ يُحِبُّ
-  ٱلْمُحْسِنِينَ }إنا لـما نصر الله نبـيه، وأظهر الإسلام، قلنا بـيننا معشر الأنصار
+  أو يُبلـي من نفسه إنـما نزلت هذه الآية فـينا معشر الأنصار.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">4 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2, 195)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,195)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَأَنْفِقُواْ فِي سَبِيلِ ٱللَّهِ وَلاَ تُلْقُواْ
+  بِأَيْدِيكُمْ إِلَى ٱلتَّهْلُكَةِ وَأَحْسِنُوۤاْ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُحْسِنِينَ</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">إنا لـما نصر الله نبـيه، وأظهر الإسلام، قلنا بـيننا معشر الأنصار
   خفـيًّا من رسول الله صلى الله عليه وسلم: إنا قد كنا تركنا أهلنا وأموالنا أن نقـيـم
   فـيها ونصلـحها حتـى نصر الله نبـيه، هلـم نقـيـم فـي أموالنا ونصلـحها فأنزل الله
   الـخبر من السماء: { وأنْفِقُوا فِـي سَبِـيـلِ اللَّهِ وَلا تُلْقُوا بأيْدِيكُمْ
   إلـى التَّهْلُكَة } الآية، فـالإلقاء بـالأيدي إلـى التهلكة: أن نقـيـم فـي أموالنا
   ونصلـحها، وندع الـجهاد. قال أبو عمران: فلـم يزل أبو أيوب يجاهد فـي سبـيـل الله حتـى
-  دفن بـالقسطنطينـية.حدثنـي مـحمد بن عمارة الأسدي، وعبد الله بن أبـي زياد قالا: ثنا
-  أبو عبد الرحمن عبد الله بن يزيد، قال: أخبرنـي حيوة وابن لهيعة، قالا: ثنا يزيد بن
-  أبـي حبـيب، قال: حدثنـي أسلـم أبو عمران مولـى تـجيب، قال: كنا بـالقسطنطينـية، وعلـى
-  أهل مصر عقبة بن عامر الـجهنـي صاحب رسول الله صلى الله عليه وسلم، وعلـى أهل الشام
-  فضالة بن عبـيد صاحب رسول الله صلى الله عليه وسلم فخرج من الـمدينة صفّ عظيـم من الروم،
-  قال: وصففنا صفـاً عظيـماً من الـمسلـمين، فحمل رجل من الـمسلـمين علـى صفّ الروم حتـى
-  دخـل فـيهم، ثم خرج إلـينا مقبلاً، فصاح الناس وقالوا: سبحان الله، ألقـى بـيده إلـى
-  التهلكة فقام أبو أيوب الأنصاري صاحب رسول الله صلى الله عليه وسلم فقال: أيها الناس
-  إنكم تتأوّلون هذه الآية علـى هذا التأويـل، وإنـما أنزلت هذه الآية فـينا معاشر الأنصار:
-  إنا لـما أعزّ الله دينه وكثر ناصريه، قلنا فـيـما بـيننا بعضنا لبعض سرّاً من رسول
-  الله إن أموالنا قد ضاعت، فلو أنا أقمنا فـيها فأصلـحنا ما ضاع منها فأنزل الله فـي
-  كتابه يردّ علـينا ما همـمنا به، فقال: { وأنْفِقُوا فِـي سَبِـيـلِ اللَّهِ وَلا تُلْقُوا
-  بأيْدِيكُمْ إلـى التَّهْلُكَة } بـالإقامة التـي أردنا أن نقـيـم فـي الأموال ونصلـحها،
-  فأمرنا بـالغزو فما زال أبو أيوب غازياً فـي سبـيـل الله حتـى قبضه الله.والصواب من
-  القول فـي ذلك عندي أن يقال: إن الله جل ثناؤه أمر بـالإنفـاق فـي سبـيـله بقوله: {
-  وأنْفِقُوا فِـي سَبِـيـلِ اللَّهِ } وسبـيـله: طريقه الذي شرعه لعبـاده وأوضحه لهم.ومعنى
-  ذلك: وأنفقوا فـي إعزاز دينـي الذي شرعته لكم بجهاد عدوّكم الناصبـين لكم الـحرب علـى
-  الكفر بـي ونهاهم أن يـلقوا بأيديهم إلـى التهلكة، فقال: { وَلا تُلْقُوا بأيْدِيكُمْ
-  إلـى التَّهْلُكَة }. وذلك مثلٌ، والعرب تقول للـمستسلـم للأمر: أعطى فلان بـيديه،
-  وكذلك يقال للـمـمكن من نفسه مـما أريد به أعطى بـيديه.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَأَنْفِقُواْ فِي سَبِيلِ ٱللَّهِ
-  وَلاَ تُلْقُواْ بِأَيْدِيكُمْ إِلَى ٱلتَّهْلُكَةِ وَأَحْسِنُوۤاْ إِنَّ ٱللَّهَ يُحِبُّ
-  ٱلْمُحْسِنِينَ }فمعنى قوله: { وَلا تُلْقُوا بأيْدِيكُمْ إلـى التَّهْلُكَة } ولا
+  دفن بـالقسطنطينـية.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي مـحمد بن عمارة الأسدي، وعبد
+  الله بن أبـي زياد قالا: ثنا أبو عبد الرحمن عبد الله بن يزيد، قال: أخبرنـي حيوة وابن
+  لهيعة، قالا: ثنا يزيد بن أبـي حبـيب، قال: حدثنـي أسلـم أبو عمران مولـى تـجيب، قال:
+  كنا بـالقسطنطينـية، وعلـى أهل مصر عقبة بن عامر الـجهنـي صاحب رسول الله صلى الله
+  عليه وسلم، وعلـى أهل الشام فضالة بن عبـيد صاحب رسول الله صلى الله عليه وسلم فخرج
+  من الـمدينة صفّ عظيـم من الروم، قال: وصففنا صفـاً عظيـماً من الـمسلـمين، فحمل رجل
+  من الـمسلـمين علـى صفّ الروم حتـى دخـل فـيهم، ثم خرج إلـينا مقبلاً، فصاح الناس وقالوا:
+  سبحان الله، ألقـى بـيده إلـى التهلكة فقام أبو أيوب الأنصاري صاحب رسول الله صلى الله
+  عليه وسلم فقال: أيها الناس إنكم تتأوّلون هذه الآية علـى هذا التأويـل، وإنـما أنزلت
+  هذه الآية فـينا معاشر الأنصار: إنا لـما أعزّ الله دينه وكثر ناصريه، قلنا فـيـما
+  بـيننا بعضنا لبعض سرّاً من رسول الله إن أموالنا قد ضاعت، فلو أنا أقمنا فـيها فأصلـحنا
+  ما ضاع منها فأنزل الله فـي كتابه يردّ علـينا ما همـمنا به، فقال: { وأنْفِقُوا فِـي
+  سَبِـيـلِ اللَّهِ وَلا تُلْقُوا بأيْدِيكُمْ إلـى التَّهْلُكَة } بـالإقامة التـي
+  أردنا أن نقـيـم فـي الأموال ونصلـحها، فأمرنا بـالغزو فما زال أبو أيوب غازياً فـي
+  سبـيـل الله حتـى قبضه الله.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">والصواب
+  من القول فـي ذلك عندي أن يقال: إن الله جل ثناؤه أمر بـالإنفـاق فـي سبـيـله بقوله:
+  { وأنْفِقُوا فِـي سَبِـيـلِ اللَّهِ } وسبـيـله: طريقه الذي شرعه لعبـاده وأوضحه لهم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">ومعنى ذلك: وأنفقوا فـي إعزاز دينـي الذي شرعته لكم بجهاد عدوّكم الناصبـين
+  لكم الـحرب علـى الكفر بـي ونهاهم أن يـلقوا بأيديهم إلـى التهلكة، فقال: { وَلا تُلْقُوا
+  بأيْدِيكُمْ إلـى التَّهْلُكَة }. وذلك مثلٌ، والعرب تقول للـمستسلـم للأمر: أعطى فلان
+  بـيديه، وكذلك يقال للـمـمكن من نفسه مـما أريد به أعطى بـيديه.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">5 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2, 195)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,195)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَأَنْفِقُواْ فِي سَبِيلِ ٱللَّهِ وَلاَ تُلْقُواْ
+  بِأَيْدِيكُمْ إِلَى ٱلتَّهْلُكَةِ وَأَحْسِنُوۤاْ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُحْسِنِينَ</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">فمعنى قوله: { وَلا تُلْقُوا بأيْدِيكُمْ إلـى التَّهْلُكَة } ولا
   تستسلـموا للهلكة فتعطوها أزمتكم فتهلكوا والتارك النفقة فـي سبـيـل الله عند وجوب
   ذلك علـيه مستسلـم للهلكة بتركه أداء فرض الله علـيه فـي ماله. وذلك أن الله جل ثناؤه
   جعل أحد سهام الصدقات الـمفروضات الثمانـية فـي سبـيـله، فقال: إنَّـمَا الصَّدَقاتُ
   للفُقَراءِ وَالـمَساكِين إلـى قوله: وفِـي سَبِـيـلِ اللَّهِ وَابْنِ السَّبِـيـلِ
   فمن ترك إنفـاق ما لزمه من ذلك فـي سبـيـل الله علـى ما لزمه كان للهلكة مستسلـماً
   وبـيديه للتهلكة ملقـياً. وكذلك الآيس من رحمة الله لذنب سلف منه، ملق بـيديه إلـى
-  التهلكة، لأن الله قد نهى عن ذلك فقال:{ وَلاَ تَيْأَسُواْ مِن رَّوْحِ ٱللَّهِ إِنَّهُ
-  لاَ يَيْأَسُ مِن رَّوْحِ ٱللَّهِ إِلاَّ ٱلْقَوْمُ ٱلْكَافِرُونَ }[يوسف: 87]. وكذلك
-  التارك غزو الـمشركين وجهادهم فـي حال وجوب ذلك علـيه فـي حال حاجة الـمسلـمين إلـيه،
-  مضيع فرضاً، ملق بـيده إلـى التهلكة.فإذا كانت هذه الـمعانـي كلها يحتـملها قوله: {
-  وَلا تُلْقُوا بأيْدِيكُمْ إلـى التَّهْلُكَةِ } ولـم يكن الله عزّ وجل خصّ منها شيئاً
-  دون شيء، فـالصواب من القول فـي ذلك أن يقال: إن الله نهى عن الإلقاء بأيدينا لـما
-  فـيه هلاكنا، والاستسلام للهلكة، وهي العذاب، بترك ما لزمنا من فرائضه، فغير جائز لأحد
-  منا الدخول فـي شيء يكره الله منا مـما نستوجب بدخولنا فـيه عذابه. غير أن الأمر وإن
-  كان كذلك، فإن الأغلب من تأويـل الآية: وأنفقوا أيها الـمؤمنون فـي سبـيـل الله، ولا
-  تتركوا النفقة فـيها فتهلكوا بـاستـحقاقكم بترككم ذلك عذابـي. كما:حدثنـي الـمثنى،
-  قال: ثنا أبو صالـح، قال: ثنا معاوية، عن علـيّ بن أبـي طلـحة، عن ابن عبـاس قوله:
-  { وَلا تُلْقُوا بِأيْدِيكُمْ إلـى التَّهْلُكَةِ } قال: التهلكة: عذاب الله.قال أبو
-  جعفر: فـيكون ذلك إعلاما منه لهم بعد أمره إياهم بـالنفقة ما لـمن ترك النفقة الـمفروضة
-  علـيه فـي سبـيـله من العقوبة فـي الـمعاد.فإن قال قائل: فما وجه إدخال البـاء فـي
-  قوله: { وَلا تُلْقُوا بِأيْدِيكُمْ } وقد علـمت أن الـمعروف من كلام العرب ألقـيت
-  إلـى فلان درهما، دون ألقـيت إلـى فلان بدرهم؟ قـيـل: قد قـيـل إنها زيدت نـحو زيادة
-  القائل فـي البـاء فـي قوله: جذبت بـالثوب، وجذبت الثوب، وتعلقت به، وتعلقته، وتَنْبُتُ
-  بـالدُّهْنِ وإنـما هو تُنِبت الدهنَ.وقال آخرون: البـاء فـي قوله: { وَلا تُلْقُوا
-  بِأيْدِيكُمْ } أصل للكلـمة، لأن كل فعل واقع كُنـي عنه فهو مضطّر إلـيها، نـحو قولك
-  فـي رجل: «كلّـمته»، فأردت الكناية عن فعله، فإذا أردت ذلك قلت: «فعلت به» قالوا: فلـما
-  كان البـاء هي الأصل جاز إدخال البـاء وإخراجها فـي كل فعل سبـيـله سبـيـل كلـمته.
-  وأما التهلكة، فإنها التفعلة من الهلاك.القول فـي تأويـل قوله تعالـى: { وأحْسِنُوا
-  إنَّ اللَّهَ يُحِبّ الـمُـحْسِنـينَ }.يعنـي جل ثناؤه بقوله: { وأحْسِنُوا } أحسنوا
-  أيها الـمؤمنون فـي أداء ما ألزمتكم من فرائضي، وتـجنب ما أمرتكم بتـجنبه من معاصيّ،
-  ومن الإنفـاق فـي سبـيـلـي، وعود القويّ منكم علـى الضعيف ذي الـخَـلَّة، فإنـي أحبّ
-  الـمـحسنـين فـي ذلك.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَأَنْفِقُواْ فِي سَبِيلِ ٱللَّهِ
-  وَلاَ تُلْقُواْ بِأَيْدِيكُمْ إِلَى ٱلتَّهْلُكَةِ وَأَحْسِنُوۤاْ إِنَّ ٱللَّهَ يُحِبُّ
-  ٱلْمُحْسِنِينَ }كما:حدثنـي الـمثنى، قال: ثنا إسحاق، قال: ثنا زيد بن الـحبـاب، قال:
-  أخبرنا سفـيان، عن أبـي إسحاق عن رجل من الصحابة فـي قوله: { وأحْسِنُوا إنَّ اللَّهَ
-  يُحِبُّ الـمُـحْسِنِـينَ } قال: أداء الفرائض.وقال بعضهم: معناه: أحسنوا الظنّ بـالله.
-  ذكر من قال ذلك:حدثنـي الـمثنى، قال: ثنا إسحاق، قال: ثنا حفص بن عمر، عن الـحكم بن
+  التهلكة، لأن الله قد نهى عن ذلك فقال:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">وَلاَ تَيْأَسُواْ مِن رَّوْحِ ٱللَّهِ
+  إِنَّهُ لاَ يَيْأَسُ مِن رَّوْحِ ٱللَّهِ إِلاَّ ٱلْقَوْمُ ٱلْكَافِرُونَ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[يوسف:
+  87]. وكذلك التارك غزو الـمشركين وجهادهم فـي حال وجوب ذلك علـيه فـي حال حاجة الـمسلـمين
+  إلـيه، مضيع فرضاً، ملق بـيده إلـى التهلكة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">فإذا
+  كانت هذه الـمعانـي كلها يحتـملها قوله: { وَلا تُلْقُوا بأيْدِيكُمْ إلـى التَّهْلُكَةِ
+  } ولـم يكن الله عزّ وجل خصّ منها شيئاً دون شيء، فـالصواب من القول فـي ذلك أن يقال:
+  إن الله نهى عن الإلقاء بأيدينا لـما فـيه هلاكنا، والاستسلام للهلكة، وهي العذاب،
+  بترك ما لزمنا من فرائضه، فغير جائز لأحد منا الدخول فـي شيء يكره الله منا مـما نستوجب
+  بدخولنا فـيه عذابه. غير أن الأمر وإن كان كذلك، فإن الأغلب من تأويـل الآية: وأنفقوا
+  أيها الـمؤمنون فـي سبـيـل الله، ولا تتركوا النفقة فـيها فتهلكوا بـاستـحقاقكم بترككم
+  ذلك عذابـي. كما:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي الـمثنى، قال: ثنا أبو صالـح،
+  قال: ثنا معاوية، عن علـيّ بن أبـي طلـحة، عن ابن عبـاس قوله: { وَلا تُلْقُوا بِأيْدِيكُمْ
+  إلـى التَّهْلُكَةِ } قال: التهلكة: عذاب الله.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال
+  أبو جعفر: فـيكون ذلك إعلاما منه لهم بعد أمره إياهم بـالنفقة ما لـمن ترك النفقة الـمفروضة
+  علـيه فـي سبـيـله من العقوبة فـي الـمعاد.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">فإن
+  قال قائل: فما وجه إدخال البـاء فـي قوله: { وَلا تُلْقُوا بِأيْدِيكُمْ } وقد علـمت
+  أن الـمعروف من كلام العرب ألقـيت إلـى فلان درهما، دون ألقـيت إلـى فلان بدرهم؟ قـيـل:
+  قد قـيـل إنها زيدت نـحو زيادة القائل فـي البـاء فـي قوله: جذبت بـالثوب، وجذبت الثوب،
+  وتعلقت به، وتعلقته، وتَنْبُتُ بـالدُّهْنِ وإنـما هو تُنِبت الدهنَ.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال آخرون: البـاء فـي قوله: { وَلا تُلْقُوا بِأيْدِيكُمْ } أصل
+  للكلـمة، لأن كل فعل واقع كُنـي عنه فهو مضطّر إلـيها، نـحو قولك فـي رجل: «كلّـمته»،
+  فأردت الكناية عن فعله، فإذا أردت ذلك قلت: «فعلت به» قالوا: فلـما كان البـاء هي الأصل
+  جاز إدخال البـاء وإخراجها فـي كل فعل سبـيـله سبـيـل كلـمته. وأما التهلكة، فإنها
+  التفعلة من الهلاك.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">القول فـي تأويـل قوله تعالـى: {
+  وأحْسِنُوا إنَّ اللَّهَ يُحِبّ الـمُـحْسِنـينَ }.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">يعنـي
+  جل ثناؤه بقوله: { وأحْسِنُوا } أحسنوا أيها الـمؤمنون فـي أداء ما ألزمتكم من فرائضي،
+  وتـجنب ما أمرتكم بتـجنبه من معاصيّ، ومن الإنفـاق فـي سبـيـلـي، وعود القويّ منكم
+  علـى الضعيف ذي الـخَـلَّة، فإنـي أحبّ الـمـحسنـين فـي ذلك.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,7,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">6 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2, 195)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,195)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَأَنْفِقُواْ فِي سَبِيلِ ٱللَّهِ وَلاَ تُلْقُواْ
+  بِأَيْدِيكُمْ إِلَى ٱلتَّهْلُكَةِ وَأَحْسِنُوۤاْ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُحْسِنِينَ</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">كما:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي الـمثنى، قال: ثنا إسحاق،
+  قال: ثنا زيد بن الـحبـاب، قال: أخبرنا سفـيان، عن أبـي إسحاق عن رجل من الصحابة فـي
+  قوله: { وأحْسِنُوا إنَّ اللَّهَ يُحِبُّ الـمُـحْسِنِـينَ } قال: أداء الفرائض.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال بعضهم: معناه: أحسنوا الظنّ بـالله. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي الـمثنى، قال: ثنا إسحاق، قال: ثنا حفص بن عمر، عن الـحكم بن
   أبـان، عن عكرمة: { وأحْسِنُوا إن اللَّهَ يُحِبُ الـمُـحْسِنِـينَ } قال: أحسنوا الظنّ
-  بـالله يبركم.وقال آخرون: أحسنوا بـالعود علـى الـمـحتاج. ذكر من قال ذلك:حدثنـي يونس،
-  قال: أخبرنا ابن وهب، قال: قال ابن زيد فـي قوله: { وأحْسِنُوا أن اللَّهَ يُحِبُّ
-  الـمـحْسنِـينَ } عودوا علـى من لـيس فـي يده شيء.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  بـالله يبركم.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال آخرون: أحسنوا بـالعود علـى
+  الـمـحتاج. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي يونس، قال: أخبرنا ابن وهب،
+  قال: قال ابن زيد فـي قوله: { وأحْسِنُوا أن اللَّهَ يُحِبُّ الـمـحْسنِـينَ } عودوا
+  علـى من لـيس فـي يده شيء.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">7 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a id=\"NextClass\"/></td></tr></table></center></div></section>"
 

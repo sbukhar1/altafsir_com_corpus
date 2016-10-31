@@ -1,4 +1,4 @@
-location:
+position:
   sura: '002'
   aaya: '180'
   madhab: '02'
@@ -9,16 +9,42 @@ meta:
   year: '660'
 aaya: كُتِبَ عَلَيْكُمْ إِذَا حَضَرَ أَحَدَكُمُ الْمَوْتُ إِنْ تَرَكَ خَيْرًا الْوَصِيَّةُ
   لِلْوَالِدَيْنِ وَالْأَقْرَبِينَ بِالْمَعْرُوفِ ۖ حَقًّا عَلَى الْمُتَّقِينَ
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ كُتِبَ عَلَيْكُمْ
-  إِذَا حَضَرَ أَحَدَكُمُ ٱلْمَوْتُ إِن تَرَكَ خَيْراً ٱلْوَصِيَّةُ لِلْوَالِدَيْنِ
-  وَٱلأَقْرَبِينَ بِٱلْمَعْرُوفِ حَقّاً عَلَى ٱلْمُتَّقِينَ }{ خَيْراً } مالاً اتفاقاً
-  ها هنا، قال مجاهد: \" الخير المال في جميع القرآن{ وَإِنَّهُ لِحُبِّ ٱلْخَيْرِ }[العاديات:
-  8]{ أَحْبَبْتُ حُبَّ ٱلْخَيْرِ }[ص: 32]{ إِنْ عَلِمُتُمْ فِيهِمْ خَيْراً }[النور:
-  33] أراد المال في ذلك{ إِنِّيۤ أَرَاكُمْ بِخَيْرٍ }[هود: 84] بغنى ومال \". كانت
-  الوصية للوالدين والأقربين واجبة قبل نزول المواريث، فلما نزلت المواريث نسخ وجوبها
-  عند الجمهور، أو نسخ منها الوصية لكل وارث وبقي الوجوب فيمن لا يرث من الأقارب. والمال
-  الذي يجب عليه أن يوصي منه ألف درهم، أو من ألف إلى خمسمائة، أو يجب في كل قليل وكثير،
-  فلو أوصى بثلثه لغير قرابته رُد الثلث على قرابته، أو يُرد ثلث الثلث على القرابة وثلثا
-  الثلث للمُوصى له، أو ثلثاه للقرابة وثلثه للمُوصى له. { عَلَى الْمُتَّقِينَ } التقوى
-  في أن يقدم الأحوج فالأحوج من أقاربه.\r\n\t\t\t\r\n\t\t\t</section>"
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(2, 180)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(2,180)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">كُتِبَ
+  عَلَيْكُمْ إِذَا حَضَرَ أَحَدَكُمُ ٱلْمَوْتُ إِن تَرَكَ خَيْراً ٱلْوَصِيَّةُ لِلْوَالِدَيْنِ
+  وَٱلأَقْرَبِينَ بِٱلْمَعْرُوفِ حَقّاً عَلَى ٱلْمُتَّقِينَ</a> <b>}</b></font>, <br/>,
+  <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">{
+  خَيْراً } مالاً اتفاقاً ها هنا، قال مجاهد: \" الخير المال في جميع القرآن</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">وَإِنَّهُ
+  لِحُبِّ ٱلْخَيْرِ</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">[العاديات: 8]</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">أَحْبَبْتُ حُبَّ ٱلْخَيْرِ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[ص:
+  32]</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">إِنْ
+  عَلِمُتُمْ فِيهِمْ خَيْراً</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">[النور: 33] أراد المال في ذلك</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">إِنِّيۤ أَرَاكُمْ بِخَيْرٍ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[هود:
+  84] بغنى ومال \". كانت الوصية للوالدين والأقربين واجبة قبل نزول المواريث، فلما نزلت
+  المواريث نسخ وجوبها عند الجمهور، أو نسخ منها الوصية لكل وارث وبقي الوجوب فيمن لا
+  يرث من الأقارب. والمال الذي يجب عليه أن يوصي منه ألف درهم، أو من ألف إلى خمسمائة،
+  أو يجب في كل قليل وكثير، فلو أوصى بثلثه لغير قرابته رُد الثلث على قرابته، أو يُرد
+  ثلث الثلث على القرابة وثلثا الثلث للمُوصى له، أو ثلثاه للقرابة وثلثه للمُوصى له.
+  { عَلَى الْمُتَّقِينَ } التقوى في أن يقدم الأحوج فالأحوج من أقاربه.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

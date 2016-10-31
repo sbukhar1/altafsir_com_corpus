@@ -1,4 +1,4 @@
-location:
+position:
   sura: '076'
   aaya: '016'
   madhab: '01'
@@ -7,90 +7,241 @@ meta:
   title: تفسير جامع البيان في تفسير القرآن
   author: الطبري
   year: '310'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ قَوَارِيرَاْ مِن
-  فِضَّةٍ قَدَّرُوهَا تَقْدِيراً } * { وَيُسْقَوْنَ فِيهَا كَأْساً كَانَ مِزَاجُهَا
-  زَنجَبِيلاً } * { عَيْناً فِيهَا تُسَمَّىٰ سَلْسَبِيلاً }يقول تعالى ذكره: { قَوَارِيرَ
-  } في صفاء الصفاء من فضة الفضة من البياض، كما:حدثني يعقوب، قال: ثنا ابن علية، عن
-  أبي رجاء، قال: قال الحسن، في قوله: { كانَتْ قَوَارِيرَ قَوَارِيرَ مِنْ فِضَّةٍ }
-  قال: صفاء القوارير في بياض الفضة.حدثنا ابن المثنى، قال: ثنا يحيى بن كثير، قال: ثنا
-  شعبة، عن أبي رجاء، عن الحسن، في قول الله: { قَوَارِيرَ مِنْ فِضَّةٍ } قال: بياض
-  الفضة في صفاء القوارير.حدثني يعقوب، قال: ثنا مروان بن معاوية، قال: أخبرنا ابن أبي
-  خالد، عن أبي صالح، في قوله: { كانَتْ قَوَارِيرَ قَوَارِيرَ مِنْ فِضَّةٍ } قال: كان
-  ترابها من فضة.وقوله: { قَوَارِيرَ مِنْ فِضَّةٍ } قال: صفاء الزجاج في بياض الفضة.حدثنا
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(76, 16)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(76,16)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">قَوَارِيرَاْ
+  مِن فِضَّةٍ قَدَّرُوهَا تَقْدِيراً</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَيُسْقَوْنَ فِيهَا
+  كَأْساً كَانَ مِزَاجُهَا زَنجَبِيلاً</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">عَيْناً فِيهَا تُسَمَّىٰ
+  سَلْسَبِيلاً</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">يقول تعالى ذكره: { قَوَارِيرَ }
+  في صفاء الصفاء من فضة الفضة من البياض، كما:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  يعقوب، قال: ثنا ابن علية، عن أبي رجاء، قال: قال الحسن، في قوله: { كانَتْ قَوَارِيرَ
+  قَوَارِيرَ مِنْ فِضَّةٍ } قال: صفاء القوارير في بياض الفضة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن المثنى، قال: ثنا يحيى بن كثير، قال: ثنا شعبة، عن أبي رجاء، عن الحسن، في قول
+  الله: { قَوَارِيرَ مِنْ فِضَّةٍ } قال: بياض الفضة في صفاء القوارير.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني يعقوب، قال: ثنا مروان بن معاوية، قال: أخبرنا ابن أبي خالد،
+  عن أبي صالح، في قوله: { كانَتْ قَوَارِيرَ قَوَارِيرَ مِنْ فِضَّةٍ } قال: كان ترابها
+  من فضة.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقوله: { قَوَارِيرَ مِنْ فِضَّةٍ
+  } قال: صفاء الزجاج في بياض الفضة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
   ابن بشار، قال: ثنا سليمان، قال: ثنا أبو هلال، عن قتادة، في قوله: { قَوَارِيرَ قَوَارِيرَ
   مِن فِضَّةٍ } قال: لو احتاج أهل الباطل أن يعملوا إناء من فضة يرى ما فيه من خلفه،
-  كما يرى ما في القوارير ما قدروا عليه.حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن
-  معمر، عن قتادة { قَوَارِيرَ مِنْ فِضَّةٍ } قال: هي من فضة، وصفاؤها: صفاء القوارير
-  في بياض الفضة.حدثنا ابن حميد، قال: ثنا مهران، عن سفيان، عن ابن أبي نجيح، عن مجاهد
-  { قَوَارِيرَ مِنْ فِضَّة } قال: على صفاء القوارير، وبياض الفضة.وقوله: { قَدَّرُوها
-  تَقْدِيراً } يقول: قدّروا تلك الآنية التي يُطاف عليهم بها تقديراً على قَدْر رِيِّهم
-  لا تزيد ولا تنقص عن ذلك. وبنحو الذي قلنا في ذلك قال أهل التأويل.ذكر من قال ذلك:حدثني
+  كما يرى ما في القوارير ما قدروا عليه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة { قَوَارِيرَ مِنْ فِضَّةٍ }
+  قال: هي من فضة، وصفاؤها: صفاء القوارير في بياض الفضة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن حميد، قال: ثنا مهران، عن سفيان، عن ابن أبي نجيح، عن مجاهد { قَوَارِيرَ مِنْ
+  فِضَّة } قال: على صفاء القوارير، وبياض الفضة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقوله:
+  { قَدَّرُوها تَقْدِيراً } يقول: قدّروا تلك الآنية التي يُطاف عليهم بها تقديراً على
+  قَدْر رِيِّهم لا تزيد ولا تنقص عن ذلك. وبنحو الذي قلنا في ذلك قال أهل التأويل.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
   يعقوب، قال: ثنا ابن علية، عن أبي رجاء، عن الحسن، في قوله: { قدَّرُوها تَقْدِيراً
-  } قال: قُدّرت لريّ القوم.حدثنا أبو كريب، قال: ثنا ابن يمان، عن أشعث، عن جعفر، عن
-  سعيد، في قوله: { قَدَّرُوها تَقْدِيرَاً } قال: قدر رِيِّهم.حدثنا أبو كريب، قال:
-  ثنا عمر بن عبيد، عن منصور، عن مجاهد، في قوله: { قَوَارِيرَ مِنْ فِضَّةٍ قَدَّرُوها
-  تَقْدِيراً } قال: لا تنقص ولا تفيض.حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا
-  عيسى وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، جميعاً عن ابن أبي نجيح، عن مجاهد
-  { قَدَّرُوها تَقْدِيراً } قال: لا تتْرَع فتُهَراق، ولا ينقصون من مائها فتنقص فهي
-  ملأى.حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة { قَدَّرُوها تَقْدِيراً
-  } لريِّهم.حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة { قَدَّرُوها تَقْدِيراً
-  } قدرت على ريّ القوم.حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد في قوله:
-  { مِنْ فِضَّةٍ قَدَّرُوها تَقْديراً } قال: قدّروها لريهم على قدر شربهم أهل الجنة.\r\n\t\t\t\r\n\t\t\t1 2 3 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ قَوَارِيرَاْ مِن فِضَّةٍ قَدَّرُوهَا
-  تَقْدِيراً } * { وَيُسْقَوْنَ فِيهَا كَأْساً كَانَ مِزَاجُهَا زَنجَبِيلاً } * {
-  عَيْناً فِيهَا تُسَمَّىٰ سَلْسَبِيلاً }حدثنا ابن حميد، قال: ثنا جرير، عن منصور،
-  عن مجاهد، في قوله { قَدَّرُوها تَقْديراً } قال: ممتلئة لا تُهَراق، وليست بناقصة.وقال
-  آخرون: بل معنى ذلك: قدّروها على قدر الكفّ.ذكر من قال ذلك:حدثني محمد بن سعد، قال:
-  ثني أبي، قال: ثني عمي، قال: ثنا أبي، عن أبيه، عن ابن عباس، { قَدَّرُوها تَقْدِيراً
-  } قال: قدرت للكفّ.واختلفت القرّاء في قراءة قوله { قَدَّرُوها تَقْدِيراً } ، فقرأ
-  ذلك عامة قرّاء الأمصار: { قَدَّرُوها } بفتح القاف، بمعنى: قدّرها لهم السُّقاة الذين
+  } قال: قُدّرت لريّ القوم.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا أبو كريب، قال: ثنا ابن يمان،
+  عن أشعث، عن جعفر، عن سعيد، في قوله: { قَدَّرُوها تَقْدِيرَاً } قال: قدر رِيِّهم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا أبو كريب، قال: ثنا عمر بن عبيد، عن منصور، عن مجاهد، في قوله:
+  { قَوَارِيرَ مِنْ فِضَّةٍ قَدَّرُوها تَقْدِيراً } قال: لا تنقص ولا تفيض.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى وحدثني الحارث،
+  قال: ثنا الحسن، قال: ثنا ورقاء، جميعاً عن ابن أبي نجيح، عن مجاهد { قَدَّرُوها تَقْدِيراً
+  } قال: لا تتْرَع فتُهَراق، ولا ينقصون من مائها فتنقص فهي ملأى.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة { قَدَّرُوها
+  تَقْدِيراً } لريِّهم.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا بشر، قال: ثنا يزيد، قال:
+  ثنا سعيد، عن قتادة { قَدَّرُوها تَقْدِيراً } قدرت على ريّ القوم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد في قوله: { مِنْ
+  فِضَّةٍ قَدَّرُوها تَقْديراً } قال: قدّروها لريهم على قدر شربهم أهل الجنة.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(76, 16)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(76,16)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">قَوَارِيرَاْ مِن فِضَّةٍ قَدَّرُوهَا تَقْدِيراً</a>
+  <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَيُسْقَوْنَ
+  فِيهَا كَأْساً كَانَ مِزَاجُهَا زَنجَبِيلاً</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">عَيْناً فِيهَا تُسَمَّىٰ
+  سَلْسَبِيلاً</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن حميد، قال: ثنا جرير،
+  عن منصور، عن مجاهد، في قوله { قَدَّرُوها تَقْديراً } قال: ممتلئة لا تُهَراق، وليست
+  بناقصة.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال آخرون: بل معنى ذلك: قدّروها
+  على قدر الكفّ.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثنا أبي، عن
+  أبيه، عن ابن عباس، { قَدَّرُوها تَقْدِيراً } قال: قدرت للكفّ.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">واختلفت القرّاء في قراءة قوله { قَدَّرُوها تَقْدِيراً } ، فقرأ ذلك
+  عامة قرّاء الأمصار: { قَدَّرُوها } بفتح القاف، بمعنى: قدّرها لهم السُّقاة الذين
   يطوفون بها عليهم. ورُوي عن الشعبيّ وغيره من المتقدمين أنهم قرأوا ذلك بضمّ القاف،
-  بمعنى: قُدّرت عليهم، فلا زيادة فيها ولا نقصان.والقراءة التي لا أستجيز القراءة بغيرها
-  فتح القاف، لإجماع الحجة من القرّاء عليه.وقوله: { وَيُسْقَوْنَ فِيها كأساً كانَ مِزَاجُها
-  زَنْجَبِيلاً } يقول تعالى ذكره: ويُسْقَى هؤلاء القوم الأبرار في الجنة كأساً، وهي
-  كلّ إناء كان فيه شراب، فإذا كان فارغاً من الخمر لم يقل له كأس، وإنما يقال له إناء،
-  كما يقال للطبق الذي تهدي فيه الهدية المِهْدَى مقصوراً ما دامت عليه الهدية فإذا فرغ
-  مما عليه كان طبقاً أو خِوَاناً، ولم يكن مِهْدًى { كانَ مِزَاجُها زَنْجَبِيلاً }
-  يقول: كان مزاج شراب الكأس التي يُسقون منها زنجبيلاً.واختلف أهل التأويل في تأويل
-  ذلك، فقال بعضهم: يمزج لهم شرابهم بالزنجبيل.ذكر من قال ذلك:حدثنا ابن عبد الأعلى،
-  قال: ثنا ابن ثور، عن معمر، عن قتادة، في قوله: { مِزَاجُها زَنْجَبِيلاً } قال: تُمْزَج
-  بالزنجبيل.حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى وحدثني الحارث، قال:
-  ثنا الحسن، قال: ثنا ورقاء، جميعاً عن ابن أبي نجيح، عن مجاهد، قوله: { كانَ مِزَاجُها
-  زَنْجَبِيلاً } قال: يأثُرُ لهم ما كانوا يشربون في الدنيا. زاد الحارث في حديثه: فَيُحَبِّبُهُ
-  إليهم.وقال بعضهم: الزنجبيل: اسم للعين التي منها مزاج شراب الأبرار.ذكر من قال ذلك:حدثنا
-  بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: { وَيُسْقَوْنَ فِيها كأساً كانَ
-  مِزَاجُها زَنْجَبِيلاً عَيْناً فِيها تُسَمَّى سَلْسَبِيلاً } رقيقة يشربها المقرّبون
-  صِرْفاً، وتمزج لسائرٍ أهل الجنة.وقوله: { عَيْناً فِيها تُسَمَّى سَلْسَبِيلاً } يقول
-  تعالى ذكره: عيناً في الجنة تسمى سلسبيلاً. قيل: عُنِي بقوله سلسبيلاً: سلسة مُنقاداً
-  ماؤها.ذكر من قال ذلك:حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: {
-  عَيْناً فِيها تُسَمَّى سَلْسَبِيلاً }: عينا سلسة مستقيداً ماؤها.حدثنا ابن عبد الأعلى،
-  قال: ثنا ابن ثور، عن معمر، عن قتادة { تُسَمَّى سَلْسَبِيلاً } قال: سلسة يصرفونها
-  حيث شاؤوا.وقال آخرون: عُني بذلك أنها شديدة الجِرْيَةِ.ذكر من قال ذلك:حدثنا ابن بشار،
-  قال: ثنا عبد الرحمن، قال: ثنا سفيان، عن ابن أبي نجيح، عن مجاهد { عَيْناً فِيها تُسَمَّى
-  سَلْسَبِيلاً } قال: حديدة الجِرْية.\r\n\t\t\t\r\n\t\t\t1 2 3 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ قَوَارِيرَاْ مِن فِضَّةٍ قَدَّرُوهَا
-  تَقْدِيراً } * { وَيُسْقَوْنَ فِيهَا كَأْساً كَانَ مِزَاجُهَا زَنجَبِيلاً } * {
-  عَيْناً فِيهَا تُسَمَّىٰ سَلْسَبِيلاً }حدثنا أبو كريب، قال: ثنا الأشجعي، عن سفيان،
-  عن ابن أبي نجيح، عن مجاهد، مثله.قال: ثنا أبو أُسامة، عن شبل، عن ابن أبي نجيح، عن
-  مجاهد، قال: سلسة الجرية.حدثنا ابن حميد، قال: ثنا مهران، عن سفيان، عن ابن أبي نجيح،
-  عن مجاهد { عَيْناً فِيها تُسَمَّى سَلْسَبيلاً } حديدة الجِرْية.حدثنا أبو كريب، قال:
-  ثنا وكيع، عن سفيان، عن ابن أبي نجيح، عن مجاهد، مثله.واختلف أهل العربية في معنى السلسبيل
-  وفي إعرابه، فقال بعض نحويي البصرة، قال بعضهم: إن سلسبيل صفة للعين بالتسلسل. وقال
-  بعضهم: إنما أراد عيناً تسمى سلسبيلاً: أي تسمى من طيبها السلسبيل: أي توصف للناس،
-  كما تقول: الأعوجيّ والأرحبيّ والمهريّ من الإبل، وكما تنسب الخيل إذا وصفت إلى الخيل
-  المعروفة المنسوبة كذلك تنسب العين إلى أنها تسمى، لأن القرآن نزل على كلام العرب،
-  قال: وأنشدني يونس:صَفْرَاءُ مِنْ نَبْعٍ يُسَمَّى سَهْمُها   مِنْ طُولِ ما صَرَعَ
-  الصَّيُودِ الصَّيِّبُفرفع الصَّيِّبُ لأنه لم يرد أن يسمى بالصَّيب، إنما الصَّيب
-  من صفة الاسم والسهم. وقوله: «يسمى سهمها» أي يذكر سهمها. قال: وقال بعضهم: لا، بل
-  هو اسم العين، وهو معرفة، ولكنه لما كان رأس آية، وكان مفتوحاً، زيدت فيه الألف، كما
-  قال: كانت قواريراً. وقال بعض نحويي الكوفة: السلسبيل: نعت أراد به سلس في الحلق، فلذلك
-  حَرِيّ أن تسمى بسلاستها.وقال آخر منهم: ذكروا أن السلسبيل اسم للعين، وذكروا أنه صفة
-  للماء لسلسه وعذوبته قال: ونرى أنه لو كان اسماً للعين لكان ترك الإجراء فيه أكثر،
-  ولم نر أحداً ترك إجراءها و هو جائز في العربية، لأن العرب تُجري ما لا يجرى في الشعر،
-  كما قال متمم بن نويرة:فَمَا وَجْدُ أظْآرٍ ثَلاثٍ رَوَائمٍ   رأيْنَ مخرًّا مِنْ حُوَارٍ
-  ومَصْرَعافأجرى روائم، وهي مما لا يُجرَى.والصواب من القول في ذلك عندي أن قوله: {
-  تُسَمَّى سَلْسَبِيلاً } صفة للعين، وصفت بالسلاسة في الحلق، وفي حال الجري، وانقيادها
-  لأهل الجنة يصرّفونها حيث شاؤوا، كما قال مجاهد وقتادة. وإنما عنى بقوله { تُسَمَّى
-  }: توصف.وإنما قلت ذلك أولى بالصواب لإجماع أهل التأويل على أن قوله: { سَلْسَبِيلاً
-  } صفة لا اسم.\r\n\t\t\t\r\n\t\t\t1 2 3 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  بمعنى: قُدّرت عليهم، فلا زيادة فيها ولا نقصان.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">والقراءة
+  التي لا أستجيز القراءة بغيرها فتح القاف، لإجماع الحجة من القرّاء عليه.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقوله: { وَيُسْقَوْنَ فِيها كأساً كانَ مِزَاجُها زَنْجَبِيلاً }
+  يقول تعالى ذكره: ويُسْقَى هؤلاء القوم الأبرار في الجنة كأساً، وهي كلّ إناء كان فيه
+  شراب، فإذا كان فارغاً من الخمر لم يقل له كأس، وإنما يقال له إناء، كما يقال للطبق
+  الذي تهدي فيه الهدية المِهْدَى مقصوراً ما دامت عليه الهدية فإذا فرغ مما عليه كان
+  طبقاً أو خِوَاناً، ولم يكن مِهْدًى { كانَ مِزَاجُها زَنْجَبِيلاً } يقول: كان مزاج
+  شراب الكأس التي يُسقون منها زنجبيلاً.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">واختلف
+  أهل التأويل في تأويل ذلك، فقال بعضهم: يمزج لهم شرابهم بالزنجبيل.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة، في قوله: { مِزَاجُها زَنْجَبِيلاً
+  } قال: تُمْزَج بالزنجبيل.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثني محمد بن عمرو، قال: ثنا أبو
+  عاصم، قال: ثنا عيسى وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، جميعاً عن ابن
+  أبي نجيح، عن مجاهد، قوله: { كانَ مِزَاجُها زَنْجَبِيلاً } قال: يأثُرُ لهم ما كانوا
+  يشربون في الدنيا. زاد الحارث في حديثه: فَيُحَبِّبُهُ إليهم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  بعضهم: الزنجبيل: اسم للعين التي منها مزاج شراب الأبرار.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">ذكر
+  من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا بشر، قال: ثنا يزيد، قال:
+  ثنا سعيد، عن قتادة، قوله: { وَيُسْقَوْنَ فِيها كأساً كانَ مِزَاجُها زَنْجَبِيلاً
+  عَيْناً فِيها تُسَمَّى سَلْسَبِيلاً } رقيقة يشربها المقرّبون صِرْفاً، وتمزج لسائرٍ
+  أهل الجنة.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقوله: { عَيْناً فِيها تُسَمَّى
+  سَلْسَبِيلاً } يقول تعالى ذكره: عيناً في الجنة تسمى سلسبيلاً. قيل: عُنِي بقوله سلسبيلاً:
+  سلسة مُنقاداً ماؤها.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: { عَيْناً
+  فِيها تُسَمَّى سَلْسَبِيلاً }: عينا سلسة مستقيداً ماؤها.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن عبد الأعلى، قال: ثنا ابن ثور، عن معمر، عن قتادة { تُسَمَّى سَلْسَبِيلاً } قال:
+  سلسة يصرفونها حيث شاؤوا.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال آخرون: عُني بذلك أنها شديدة
+  الجِرْيَةِ.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا سفيان، عن ابن أبي
+  نجيح، عن مجاهد { عَيْناً فِيها تُسَمَّى سَلْسَبِيلاً } قال: حديدة الجِرْية.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(76, 16)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(76,16)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">قَوَارِيرَاْ مِن فِضَّةٍ قَدَّرُوهَا تَقْدِيراً</a>
+  <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَيُسْقَوْنَ
+  فِيهَا كَأْساً كَانَ مِزَاجُهَا زَنجَبِيلاً</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">عَيْناً فِيهَا تُسَمَّىٰ
+  سَلْسَبِيلاً</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا أبو كريب، قال: ثنا الأشجعي،
+  عن سفيان، عن ابن أبي نجيح، عن مجاهد، مثله.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال:
+  ثنا أبو أُسامة، عن شبل، عن ابن أبي نجيح، عن مجاهد، قال: سلسة الجرية.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن حميد، قال: ثنا مهران، عن سفيان، عن ابن أبي نجيح، عن مجاهد
+  { عَيْناً فِيها تُسَمَّى سَلْسَبيلاً } حديدة الجِرْية.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  أبو كريب، قال: ثنا وكيع، عن سفيان، عن ابن أبي نجيح، عن مجاهد، مثله.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">واختلف أهل العربية في معنى السلسبيل وفي إعرابه، فقال بعض نحويي البصرة،
+  قال بعضهم: إن سلسبيل صفة للعين بالتسلسل. وقال بعضهم: إنما أراد عيناً تسمى سلسبيلاً:
+  أي تسمى من طيبها السلسبيل: أي توصف للناس، كما تقول: الأعوجيّ والأرحبيّ والمهريّ
+  من الإبل، وكما تنسب الخيل إذا وصفت إلى الخيل المعروفة المنسوبة كذلك تنسب العين إلى
+  أنها تسمى، لأن القرآن نزل على كلام العرب، قال: وأنشدني يونس:</font></font><table
+  class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">صَفْرَاءُ مِنْ نَبْعٍ يُسَمَّى سَهْمُها</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">مِنْ طُولِ ما صَرَعَ الصَّيُودِ الصَّيِّبُ</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">فرفع الصَّيِّبُ لأنه لم يرد أن
+  يسمى بالصَّيب، إنما الصَّيب من صفة الاسم والسهم. وقوله: «يسمى سهمها» أي يذكر سهمها.
+  قال: وقال بعضهم: لا، بل هو اسم العين، وهو معرفة، ولكنه لما كان رأس آية، وكان مفتوحاً،
+  زيدت فيه الألف، كما قال: كانت قواريراً. وقال بعض نحويي الكوفة: السلسبيل: نعت أراد
+  به سلس في الحلق، فلذلك حَرِيّ أن تسمى بسلاستها.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  آخر منهم: ذكروا أن السلسبيل اسم للعين، وذكروا أنه صفة للماء لسلسه وعذوبته قال: ونرى
+  أنه لو كان اسماً للعين لكان ترك الإجراء فيه أكثر، ولم نر أحداً ترك إجراءها و هو
+  جائز في العربية، لأن العرب تُجري ما لا يجرى في الشعر، كما قال متمم بن نويرة:</font></font><table
+  class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">فَمَا وَجْدُ أظْآرٍ ثَلاثٍ رَوَائمٍ</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">رأيْنَ مخرًّا مِنْ حُوَارٍ ومَصْرَعا</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">فأجرى روائم، وهي مما لا يُجرَى.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">والصواب من القول في ذلك عندي أن قوله: { تُسَمَّى سَلْسَبِيلاً }
+  صفة للعين، وصفت بالسلاسة في الحلق، وفي حال الجري، وانقيادها لأهل الجنة يصرّفونها
+  حيث شاؤوا، كما قال مجاهد وقتادة. وإنما عنى بقوله { تُسَمَّى }: توصف.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وإنما قلت ذلك أولى بالصواب لإجماع أهل التأويل على أن قوله: { سَلْسَبِيلاً
+  } صفة لا اسم.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">3 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a id=\"NextClass\"/></td></tr></table></center></div></section>"
 

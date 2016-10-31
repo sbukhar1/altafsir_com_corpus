@@ -1,4 +1,4 @@
-location:
+position:
   sura: 038
   aaya: '074'
   madhab: '01'
@@ -7,23 +7,52 @@ meta:
   title: تفسير جامع البيان في تفسير القرآن
   author: الطبري
   year: '310'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ إِذْ قَالَ رَبُّكَ
-  لِلْمَلاَئِكَةِ إِنِّي خَالِقٌ بَشَراً مِّن طِينٍ } * { فَإِذَا سَوَّيْتُهُ وَنَفَخْتُ
-  فِيهِ مِن رُّوحِي فَقَعُواْ لَهُ سَاجِدِينَ } * { فَسَجَدَ ٱلْمَلاَئِكَةُ كُـلُّهُمْ
-  أَجْمَعُونَ } * { إِلاَّ إِبْلِيسَ ٱسْتَكْبَرَ وَكَانَ مِنَ ٱلْكَافِرِينَ }وقوله:
-  { إذْ قالَ رَبُّكَ } من صلة قوله:{ إذْ يَخْتَصِمُونَ }وتأويـل الكلام: ما كان لـي
-  من علـم بـالـملأ الأعلـى إذ يختصمون حين قال ربك يا مـحمد { للْـمَلائِكَةِ إنّـي
-  خالِقٌ بَشَراً مِنْ طِينٍ } يعنـي بذلك خـلق آدم.وقوله: { فإذَا سَوَّيْتُهُ وَنَفَخْتُ
-  فِـيهِ مِنْ رُوحي } يقول تعالـى ذكره: فإذا سوّيت خـلقه، وعَدَّلْت صورته، ونفخت فـيه
-  من روحي، قـيـل: عنى بذلك: ونفخت فـيه من قُدرتـي. ذكر من قال ذلك:حُدثت عن الـمسيب
-  بن شريك، عن أبـي روق، عن الضحاك { وَنَفَخْتُ فِـيهِ مِنْ رُوحي } قال: من قدرتـي.{
-  فَقَعُوا لَهُ ساجِدِينَ } يقول: فـاسجدوا له وخِرّوا له سُجَّداً. وقوله: { فَسَجدَ
-  الـمَلاِئكَةُ كُلُّهُمْ أجمَعُونَ } يقول تعالـى ذكره: فلـما سوّى الله خـلق ذلك البشر،
-  وهو آدم، ونفخ فـيه من روحه، سجد له الـملائكة كلهم أجمعون، يعنـي بذلك: الـملائكة
-  الذين هم فـي السموات والأرض { إلاّ إبْلِـيسَ اسْتَكْبَرَ } يقول: غير إبلـيس، فإنه
-  لـم يسجد، استكبر عن السجود له تعظماً وتكبراً { وكانَ مِنَ الكافِرِينَ } يقول: وكان
-  بتعظُّمه ذلك، وتكبره علـى ربه ومعصيته أمره، مـمن كفر فـي علـم الله السابق، فجحد
-  ربوبـيته، وأنكر ما علـيه الإقرار له به من الإذعان بـالطاعة، كما:حدثنا أبو كُرَيب،
-  قال: قال أبو بكر فـي: { إلاَّ إبْلِـيسَ اسْتَكْبَرَ وكانَ مِنَ الكافِرِينَ } قال:
-  قال ابن عبـاس: كان فـي علـم الله من الكافرين.\r\n\t\t\t\r\n\t\t\t</section>"
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(38, 71)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(38,71)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">إِذْ
+  قَالَ رَبُّكَ لِلْمَلاَئِكَةِ إِنِّي خَالِقٌ بَشَراً مِّن طِينٍ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">فَإِذَا
+  سَوَّيْتُهُ وَنَفَخْتُ فِيهِ مِن رُّوحِي فَقَعُواْ لَهُ سَاجِدِينَ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">فَسَجَدَ
+  ٱلْمَلاَئِكَةُ كُـلُّهُمْ أَجْمَعُونَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">إِلاَّ إِبْلِيسَ
+  ٱسْتَكْبَرَ وَكَانَ مِنَ ٱلْكَافِرِينَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\"
+  dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">وقوله: { إذْ
+  قالَ رَبُّكَ } من صلة قوله:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">إذْ يَخْتَصِمُونَ</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">وتأويـل الكلام: ما كان لـي من علـم
+  بـالـملأ الأعلـى إذ يختصمون حين قال ربك يا مـحمد { للْـمَلائِكَةِ إنّـي خالِقٌ بَشَراً
+  مِنْ طِينٍ } يعنـي بذلك خـلق آدم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقوله:
+  { فإذَا سَوَّيْتُهُ وَنَفَخْتُ فِـيهِ مِنْ رُوحي } يقول تعالـى ذكره: فإذا سوّيت
+  خـلقه، وعَدَّلْت صورته، ونفخت فـيه من روحي، قـيـل: عنى بذلك: ونفخت فـيه من قُدرتـي.
+  ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حُدثت عن الـمسيب بن شريك، عن أبـي
+  روق، عن الضحاك { وَنَفَخْتُ فِـيهِ مِنْ رُوحي } قال: من قدرتـي.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">{ فَقَعُوا لَهُ ساجِدِينَ } يقول: فـاسجدوا له وخِرّوا له سُجَّداً.
+  وقوله: { فَسَجدَ الـمَلاِئكَةُ كُلُّهُمْ أجمَعُونَ } يقول تعالـى ذكره: فلـما سوّى
+  الله خـلق ذلك البشر، وهو آدم، ونفخ فـيه من روحه، سجد له الـملائكة كلهم أجمعون، يعنـي
+  بذلك: الـملائكة الذين هم فـي السموات والأرض { إلاّ إبْلِـيسَ اسْتَكْبَرَ } يقول:
+  غير إبلـيس، فإنه لـم يسجد، استكبر عن السجود له تعظماً وتكبراً { وكانَ مِنَ الكافِرِينَ
+  } يقول: وكان بتعظُّمه ذلك، وتكبره علـى ربه ومعصيته أمره، مـمن كفر فـي علـم الله
+  السابق، فجحد ربوبـيته، وأنكر ما علـيه الإقرار له به من الإذعان بـالطاعة، كما:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا أبو كُرَيب، قال: قال أبو بكر فـي: { إلاَّ إبْلِـيسَ اسْتَكْبَرَ
+  وكانَ مِنَ الكافِرِينَ } قال: قال ابن عبـاس: كان فـي علـم الله من الكافرين.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

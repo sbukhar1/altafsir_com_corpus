@@ -1,4 +1,4 @@
-location:
+position:
   sura: 039
   aaya: 019
   madhab: '01'
@@ -7,17 +7,35 @@ meta:
   title: تفسير الكشاف
   author: الزمخشري
   year: '538'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ أَفَمَنْ حَقَّ
-  عَلَيْهِ كَلِمَةُ ٱلْعَذَابِ أَفَأَنتَ تُنقِذُ مَن فِي ٱلنَّارِ }أصل الكلام: أمّن
-  حق عليه كلمة العذاب فأنت تنقذه، جملة شرطية دخل عليها همزة الإنكار والفاء فاء الجزاء،
-  ثم دخلت الفاء التي في أوّلها للعطف على محذوف يدلّ عليه الخطاب، تقديره: أأنت مالك
-  أمرهم، فمن حقّ عليه العذاب فأنت تنقذه، والهمزة الثانية هي الأولى، كرّرت لتوكيد معنى
-  الإنكار والاستبعاد، ووضع { مَن فِى ٱلنَّارِ } موضع الضمير، فالآية على هذا جملة واحدة.
-  ووجه آخر: وهو أن تكون الآية جملتين: أفمن حق عليه العذاب فأنت تخلّصه؟ { أفأنت تنقذ
-  من في النار } وإنما جاز حذف: فأنت تخلصه؛ لأن { أَفَأَنتَ تُنقِذُ } يدل عليه: نزل
-  استحقاقهم العذاب وهم في الدنيا منزلة دخولهم النار، حتى نزّل اجتهاد رسول الله صلى
-  الله عليه وسلم وكدّه نفسه في دعائهم إلى الإيمان في منزلة إنقاذهم من النار. وقوله:
-  { أَفَأَنتَ تُنقِذُ } يفيد أنّ الله تعالى هو الذي يقدر على الإنقاذ من النار وحده،
-  لا يقدر على ذلك أحد غيره، فكما لا تقدر أنت أن تنقد الداخل في النار من النار، لا
-  تقدر أن تخلصه مما هو فيه من استحقاق العذاب بتحصيل الإيمان فيه.\r\n\t\t\t\r\n\t\t\t</section>"
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(39, 19)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(39,19)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">أَفَمَنْ
+  حَقَّ عَلَيْهِ كَلِمَةُ ٱلْعَذَابِ أَفَأَنتَ تُنقِذُ مَن فِي ٱلنَّارِ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">أصل الكلام: أمّن حق عليه كلمة العذاب فأنت تنقذه، جملة شرطية دخل
+  عليها همزة الإنكار والفاء فاء الجزاء، ثم دخلت الفاء التي في أوّلها للعطف على محذوف
+  يدلّ عليه الخطاب، تقديره: أأنت مالك أمرهم، فمن حقّ عليه العذاب فأنت تنقذه، والهمزة
+  الثانية هي الأولى، كرّرت لتوكيد معنى الإنكار والاستبعاد، ووضع { مَن فِى ٱلنَّارِ
+  } موضع الضمير، فالآية على هذا جملة واحدة. ووجه آخر: وهو أن تكون الآية جملتين: أفمن
+  حق عليه العذاب فأنت تخلّصه؟ { أفأنت تنقذ من في النار } وإنما جاز حذف: فأنت تخلصه؛
+  لأن { أَفَأَنتَ تُنقِذُ } يدل عليه: نزل استحقاقهم العذاب وهم في الدنيا منزلة دخولهم
+  النار، حتى نزّل اجتهاد رسول الله صلى الله عليه وسلم وكدّه نفسه في دعائهم إلى الإيمان
+  في منزلة إنقاذهم من النار. وقوله: { أَفَأَنتَ تُنقِذُ } يفيد أنّ الله تعالى هو الذي
+  يقدر على الإنقاذ من النار وحده، لا يقدر على ذلك أحد غيره، فكما لا تقدر أنت أن تنقد
+  الداخل في النار من النار، لا تقدر أن تخلصه مما هو فيه من استحقاق العذاب بتحصيل الإيمان
+  فيه.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

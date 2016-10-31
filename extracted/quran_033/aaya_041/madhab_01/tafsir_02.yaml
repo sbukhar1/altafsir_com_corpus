@@ -1,4 +1,4 @@
-location:
+position:
   sura: '033'
   aaya: '041'
   madhab: '01'
@@ -7,20 +7,43 @@ meta:
   title: تفسير الكشاف
   author: الزمخشري
   year: '538'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ يٰأَيُّهَا ٱلَّذِينَ
-  آمَنُواْ ٱذْكُرُواْ ٱللَّهَ ذِكْراً كَثِيراً } * { وَسَبِّحُوهُ بُكْرَةً وَأَصِيلاً
-  }{ ٱذْكُرُواْ ٱللَّهَ } أثنوا عليه بضروب الثناء من التقديس والتحميد والتهليل والتكبير
-  وما هو أهله، وأكثروا ذلك { بُكْرَةً وَأَصِيلاً } أي في كافة الأوقات قال رسول الله
-  صلى الله عليه وسلم:(896) \" ذكر الله على فم كل مسلم \" وروي: \" في قلب كل مسلم \"
-  وعن قتادة: قولوا سبحان الله والحمد لله ولا إلٰه إلاّ الله والله أكبر ولا حول ولا
-  قوّة إلاّ بالله العليّ العظيم، وعن مجاهد: هذه كلمات يقولها الطاهر والجنب. والفعلان،
-  أعني اذكروا وسبحوا موجهان إلى البكرة والأصيل، كقولك: صم وصلّ يوم الجمعة، والتسبيح
-  من جملة الذكر، وإنما اختصه من بين أنواعه اختصاص جبريل وميكائيل من بين الملائكة،
-  ليبين فضله عى سائر الأذكار، لأن معناه تنزيه ذاته عما لا يجوز عليه من الصفات والأفعال،
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(33, 41)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(33,41)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">يٰأَيُّهَا
+  ٱلَّذِينَ آمَنُواْ ٱذْكُرُواْ ٱللَّهَ ذِكْراً كَثِيراً</a> <b>} * </b><b>{</b> <a
+  class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَسَبِّحُوهُ
+  بُكْرَةً وَأَصِيلاً</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">{ ٱذْكُرُواْ ٱللَّهَ } أثنوا عليه
+  بضروب الثناء من التقديس والتحميد والتهليل والتكبير وما هو أهله، وأكثروا ذلك { بُكْرَةً
+  وَأَصِيلاً } أي في كافة الأوقات قال رسول الله صلى الله عليه وسلم:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">(896)</font></font><b><font class=\"TextResultArabic\"><font color=\"Red\">
+  \" ذكر الله على فم كل مسلم \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">وروي:</font></font><b><font class=\"TextResultArabic\"><font color=\"Red\">
+  \" في قلب كل مسلم \" </font></font></b><font class=\"TextResultArabic\"><font color=\"black\">وعن
+  قتادة: قولوا سبحان الله والحمد لله ولا إلٰه إلاّ الله والله أكبر ولا حول ولا قوّة
+  إلاّ بالله العليّ العظيم، وعن مجاهد: هذه كلمات يقولها الطاهر والجنب. والفعلان، أعني
+  اذكروا وسبحوا موجهان إلى البكرة والأصيل، كقولك: صم وصلّ يوم الجمعة، والتسبيح من
+  جملة الذكر، وإنما اختصه من بين أنواعه اختصاص جبريل وميكائيل من بين الملائكة، ليبين
+  فضله عى سائر الأذكار، لأن معناه تنزيه ذاته عما لا يجوز عليه من الصفات والأفعال،
   وتبرئته من القبائح. ومثال فضله على غيره من الأذكار فضل وصف العبد بالنزاهة من أدناس
   المعاصي، والطهر من أرجاس المآثم، على سائر أوصافه من كثرة الصلاة والصيام، والتوفر
   على الطاعات كلها، والاشتمال على العلوم، والاشتهار بالفضائل ويجوز أن يريد بالذكر
   وإكثاره: تكثير الطاعات، والإقبال على العبادات؛ فإن كل طاعة وكل خير من جملة الذكر،
   ثم خصّ من ذلك التسبيح بكرة وأصيلاً وهي الصلاة في جميع أوقاتها لفضل الصلاة على غيرها.
-  أو صلاة الفجر والعشاءين؛ لأنّ أداءها أشقّ ومراعاتها أشدّ.\r\n\t\t\t\r\n\t\t\t</section>"
+  أو صلاة الفجر والعشاءين؛ لأنّ أداءها أشقّ ومراعاتها أشدّ.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

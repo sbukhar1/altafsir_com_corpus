@@ -1,4 +1,4 @@
-location:
+position:
   sura: '002'
   aaya: '075'
   madhab: '02'
@@ -7,26 +7,59 @@ meta:
   title: تفسير التفسير
   author: ابن عرفة
   year: '803'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ أَفَتَطْمَعُونَ
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(2, 75)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(2,75)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">أَفَتَطْمَعُونَ
   أَن يُؤْمِنُواْ لَكُمْ وَقَدْ كَانَ فَرِيقٌ مِّنْهُمْ يَسْمَعُونَ كَلاَمَ ٱللَّهِ
-  ثُمَّ يُحَرِّفُونَهُ مِن بَعْدِ مَا عَقَلُوهُ وَهُمْ يَعْلَمُونَ }قوله تعالى: {
-  أَفَتَطْمَعُونَ أَن يُؤْمِنُواْ لَكُمْ... }استفهام على (سبيل) الاستغراب فيتناول
-  النّبي صلى الله عليه وسلم والمؤمنين، (أو على الإنكار فيتناول المؤمنين فقط).قوله
-  تعالى: { يَسْمَعُونَ كَلاَمَ ٱللَّهِ ثُمَّ يُحَرِّفُونَهُ... }.(ابن عطية: قال ابن
-  إسحاق: وهم السبعون الّذين سمعوا كلام الله مع موسى، ثم بدلوه.ابن عطية): وهذا ضعيف
-  وخطأ لأن فيها (إذهابا) لفضيلة موسى في اختصاصه (بالتّكليم).قال ابن عرفة: بل هو مقرر
-  للفضيلة لأنهم (إنما) سمعوا كلام الله بحضرته من أجله وعلى سبيل التّبعية له. وقيل:
-  المراد سماعهم تلاوة التوراة والصحف من موسى، وكونهم بدلوا فيها وغيّروا، فالسماع الأول
-  حقيقة وهذا شبه مجاز في المسموع لا في نفس السّماع، لأن مسموعهم ليس هو كلام الله تعالى،
-  إنما هو كلام موسى عليه السلام، ومدلوله كلام الله، ونظيره سماعك كلام زيد من ناقل
-  (نقله عنه).قال الزمخشري: والمراد (بالتحريف) ما يتلونه من التوراة، ثم يحرفونه كما
-  حرفوا صفة رسول الله صلى الله عليه وسلم وآية الرجم.قيل لابن عرفة: لم يبدلوا آية الرجم
-  إنما وضع مدرّسهم يده عليها فقط؟فقال: المراد بالتحريف الكتم أو عدم العمل بمقتضاها.قيل
-  لابن عرفة: إن الشيخ أبا علي ناصر الدين البجائي المشذالي كان يحتج بهذه الآية على
-  إثبات العمل بالقياس، وقرره بأنه سجل على هؤلاء بالكفر قياسا على أحبارهم ومن سلف (منهم)
-  الذين شاهدوا الآيات البينات وسمعوا كلام الله إمّا مشافهة أو بواسطة؟فقال ابن عرفة:
-  إنما فيها استحالة ثبوت المعنى وهو الإيمان لوجود المانع (منه) وهو أحبارهم (يحدثونهم)
-  بتحريف من سلف (منهم) وكفرهم.واللام في قوله عز وجل { يُؤْمِنُواْ لَكُمْ } الأصوب
-  (أن تكون بمعنى \" مع \" ويبعد كونها) للتعليل أي يؤمنوا لأجلكم لأن مفهومه حصول الإيمان
-  منهم بسبب آخر غير المؤمنين.\r\n\t\t\t\r\n\t\t\t</section>"
+  ثُمَّ يُحَرِّفُونَهُ مِن بَعْدِ مَا عَقَلُوهُ وَهُمْ يَعْلَمُونَ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">قوله تعالى: { أَفَتَطْمَعُونَ أَن يُؤْمِنُواْ لَكُمْ... }</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">استفهام على (سبيل) الاستغراب فيتناول النّبي صلى الله عليه وسلم والمؤمنين،
+  (أو على الإنكار فيتناول المؤمنين فقط).</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قوله
+  تعالى: { يَسْمَعُونَ كَلاَمَ ٱللَّهِ ثُمَّ يُحَرِّفُونَهُ... }.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">(ابن عطية: قال ابن إسحاق: وهم السبعون الّذين سمعوا كلام الله مع
+  موسى، ثم بدلوه.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">ابن عطية): وهذا ضعيف وخطأ لأن فيها
+  (إذهابا) لفضيلة موسى في اختصاصه (بالتّكليم).</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال
+  ابن عرفة: بل هو مقرر للفضيلة لأنهم (إنما) سمعوا كلام الله بحضرته من أجله وعلى سبيل
+  التّبعية له. وقيل: المراد سماعهم تلاوة التوراة والصحف من موسى، وكونهم بدلوا فيها
+  وغيّروا، فالسماع الأول حقيقة وهذا شبه مجاز في المسموع لا في نفس السّماع، لأن مسموعهم
+  ليس هو كلام الله تعالى، إنما هو كلام موسى عليه السلام، ومدلوله كلام الله، ونظيره
+  سماعك كلام زيد من ناقل (نقله عنه).</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال
+  الزمخشري: والمراد (بالتحريف) ما يتلونه من التوراة، ثم يحرفونه كما حرفوا صفة رسول
+  الله صلى الله عليه وسلم وآية الرجم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قيل
+  لابن عرفة: لم يبدلوا آية الرجم إنما وضع مدرّسهم يده عليها فقط؟</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">فقال: المراد بالتحريف الكتم أو عدم العمل بمقتضاها.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قيل لابن عرفة: إن الشيخ أبا علي ناصر الدين البجائي المشذالي كان
+  يحتج بهذه الآية على إثبات العمل بالقياس، وقرره بأنه سجل على هؤلاء بالكفر قياسا على
+  أحبارهم ومن سلف (منهم) الذين شاهدوا الآيات البينات وسمعوا كلام الله إمّا مشافهة
+  أو بواسطة؟</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">فقال ابن عرفة: إنما فيها استحالة
+  ثبوت المعنى وهو الإيمان لوجود المانع (منه) وهو أحبارهم (يحدثونهم) بتحريف من سلف
+  (منهم) وكفرهم.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">واللام في قوله عز وجل { يُؤْمِنُواْ
+  لَكُمْ } الأصوب (أن تكون بمعنى \" مع \" ويبعد كونها) للتعليل أي يؤمنوا لأجلكم لأن
+  مفهومه حصول الإيمان منهم بسبب آخر غير المؤمنين.</font></font>&#13;\t\t\t<label disabled=\"true\"
+  class=\"############\"/>&#13;\t\t\t</div></section>"
 

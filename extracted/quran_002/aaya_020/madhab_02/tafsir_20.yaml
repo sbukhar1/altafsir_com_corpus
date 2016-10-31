@@ -1,4 +1,4 @@
-location:
+position:
   sura: '002'
   aaya: '020'
   madhab: '02'
@@ -7,78 +7,216 @@ meta:
   title: تفسير التفسير
   author: ابن عرفة
   year: '803'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ يَكَادُ ٱلْبَرْقُ
-  يَخْطَفُ أَبْصَٰرَهُمْ كُلَّمَا أَضَآءَ لَهُمْ مَّشَوْاْ فِيهِ وَإِذَآ أَظْلَمَ
-  عَلَيْهِمْ قَامُواْ وَلَوْ شَآءَ ٱللَّهُ لَذَهَبَ بِسَمْعِهِمْ وَأَبْصَٰرِهِمْ إِنَّ
-  ٱللَّهَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ }قوله تعالى: { يَكَادُ ٱلْبَرْقُ يَخْطَفُ أَبْصَارَهُمْ...
-  }قال ابن عرفة: هذا من (تمام) قوله:{ فِيهِ ظُلُمَاتٌ وَرَعْدٌ وَبَرْقٌ }فصل بينهما
-  بجملة اعتراض وهي قوله{ وٱللَّهُ مُحِيطٌ بِٱلْكَافِرِينَ }أتت (مشددة) لما قبلها.قال:
-  واختلفوا في كاد فقيل: (نفيها) إيجاب، وإيجابها نفي.قال ابن الحاجب: إذا دخل النفي
-  عليها فهي كالأفعال (على الأصح وقيل: إنها تقتضي الثبوت مع الماضي والمستقبل، وقيل:
-  مع الماضي للإثبات ومع الاستقبال كالأفعال) وانظر أبا حيان.قال ابن عرفة: الظّاهر عندي
-  أن (الخلاف) لفظي يرجع إلى (الوفاق) فمن رد النفي إلى المقاربة جعلها كسائر الأفعال
-  ومن رده إلى نفس الفعل الذي تعلقت به المقاربة قال نفيها إثبات وإثباتها نفي.فإن قلت:
-  هلا قال: كلما أنار لهم مشواْ فيه؟(والجواب: أنه لشدة) الظّلمة (لا يزيلها) إلاّ شدة
-  الضوء (وقليل) النور لا يزيلها، أو لشدّة (الضوء) عقب شدة الظلمة إذ هو (أشد في التخويف).(فإن
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(2, 20)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(2,20)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">يَكَادُ
+  ٱلْبَرْقُ يَخْطَفُ أَبْصَٰرَهُمْ كُلَّمَا أَضَآءَ لَهُمْ مَّشَوْاْ فِيهِ وَإِذَآ
+  أَظْلَمَ عَلَيْهِمْ قَامُواْ وَلَوْ شَآءَ ٱللَّهُ لَذَهَبَ بِسَمْعِهِمْ وَأَبْصَٰرِهِمْ
+  إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ</a> <b>}</b></font>, <br/>, <br/>, <div
+  align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">قوله
+  تعالى: { يَكَادُ ٱلْبَرْقُ يَخْطَفُ أَبْصَارَهُمْ... }</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال
+  ابن عرفة: هذا من (تمام) قوله:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">فِيهِ ظُلُمَاتٌ وَرَعْدٌ وَبَرْقٌ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">فصل
+  بينهما بجملة اعتراض وهي قوله</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">وٱللَّهُ مُحِيطٌ بِٱلْكَافِرِينَ</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">أتت (مشددة) لما قبلها.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قال: واختلفوا في كاد فقيل: (نفيها) إيجاب، وإيجابها نفي.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قال ابن الحاجب: إذا دخل النفي عليها فهي كالأفعال (على الأصح وقيل:
+  إنها تقتضي الثبوت مع الماضي والمستقبل، وقيل: مع الماضي للإثبات ومع الاستقبال كالأفعال)
+  وانظر أبا حيان.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">قال ابن عرفة: الظّاهر عندي أن (الخلاف)
+  لفظي يرجع إلى (الوفاق) فمن رد النفي إلى المقاربة جعلها كسائر الأفعال ومن رده إلى
+  نفس الفعل الذي تعلقت به المقاربة قال نفيها إثبات وإثباتها نفي.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">فإن قلت: هلا قال: كلما أنار لهم مشواْ فيه؟</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">(والجواب:
+  أنه لشدة) الظّلمة (لا يزيلها) إلاّ شدة الضوء (وقليل) النور لا يزيلها، أو لشدّة (الضوء)
+  عقب شدة الظلمة إذ هو (أشد في التخويف).</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">(فإن
   قلت): هلا قيل: وإذا ذهب ضوؤه عنهم قاموا فإن ذهاب الضوء يكون بحصول مطلق (الظلمة)
-  حسبما تقدم أن الضوء هو إفراط الإنارة.والجواب بأنّ الحالتين لا واسطة بينهما: فإما
-  ظلام شديد وإما ضوء شديد وهذا أبلغ في التخويف، وهو معاقبة ظلام شديد (بضوء شديد) سريع
-  الذهاب يعقبه أيضا ظلام شديد.فإن قلت: ما أفاد قوله فيه مع أن المعنى يهدي إليه؟قلنا:
-  أفاد أنهم لا يمشون إلا في موضع الضوء خاصة، ولا يستطيعون المشي في غيره.فإن قلت: ما
-  أفاد قوله \" عَلَيْهمْ \"؟قلنا: التنبيه على أنّ تلك الظّلمات عقوبة فهي ظلمة عليهم
-  ولأجلهم فليست على غيرهم بوجه.قوله تعالى: { وَلَوْ شَآءَ ٱللَّهُ لَذَهَبَ بِسَمْعِهِمْ
-  وَأَبْصَارِهِمْ... }فإن قلت: هلا علقت المشيئة بما (تحذروا) منه، وهو الموت لأنهم
-  لم يتحذروا من الصمم والعمى؟والجواب: أن الموت أمر غالب عام متكرر في العادة ليس لأحد
-  مقدرة عن التحرز منه (وأما ذهاب السمع والبصر فهو نادر ليس بعام يمكن المخالفة فيه
-  وادّعاء الحذر منه) (بالتحرز) والتحصن بأسباب النجاة فلذلك أسندت (المشيئات) إليه.قلت:
-  (أو) لأنهم لم يتحرّزوا من الموت ألاّ بسدّ سمعهم فلذلك أسند الذهاب إليه.قال الطيبي:
-  والآية حجّة لمن يقول: إن القدرة (تتعلق) بالعدم الإضافي لأن المعنى: لو شاء الله أن
-  يعدم سمعهم لعدمه.وردّه ابن عرفة: بأن القدرة إنما تعلقت بإيجاد نقيض السمع والبصر
-  في المحل، فانعدم السمع والبصر إذ ذاك لوجود نقيضهما لا لكون القدرة تعلقت بإعدامهما.قال
+  حسبما تقدم أن الضوء هو إفراط الإنارة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">والجواب
+  بأنّ الحالتين لا واسطة بينهما: فإما ظلام شديد وإما ضوء شديد وهذا أبلغ في التخويف،
+  وهو معاقبة ظلام شديد (بضوء شديد) سريع الذهاب يعقبه أيضا ظلام شديد.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">فإن قلت: ما أفاد قوله فيه مع أن المعنى يهدي إليه؟</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قلنا: أفاد أنهم لا يمشون إلا في موضع الضوء خاصة، ولا يستطيعون المشي
+  في غيره.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">فإن قلت: ما أفاد قوله \" عَلَيْهمْ
+  \"؟</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">قلنا: التنبيه على أنّ تلك الظّلمات
+  عقوبة فهي ظلمة عليهم ولأجلهم فليست على غيرهم بوجه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قوله
+  تعالى: { وَلَوْ شَآءَ ٱللَّهُ لَذَهَبَ بِسَمْعِهِمْ وَأَبْصَارِهِمْ... }</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">فإن قلت: هلا علقت المشيئة بما (تحذروا) منه، وهو الموت لأنهم لم يتحذروا
+  من الصمم والعمى؟</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">والجواب: أن الموت أمر غالب عام
+  متكرر في العادة ليس لأحد مقدرة عن التحرز منه (وأما ذهاب السمع والبصر فهو نادر ليس
+  بعام يمكن المخالفة فيه وادّعاء الحذر منه) (بالتحرز) والتحصن بأسباب النجاة فلذلك
+  أسندت (المشيئات) إليه.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">قلت: (أو) لأنهم لم يتحرّزوا من
+  الموت ألاّ بسدّ سمعهم فلذلك أسند الذهاب إليه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال
+  الطيبي: والآية حجّة لمن يقول: إن القدرة (تتعلق) بالعدم الإضافي لأن المعنى: لو شاء
+  الله أن يعدم سمعهم لعدمه.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وردّه ابن عرفة: بأن القدرة إنما
+  تعلقت بإيجاد نقيض السمع والبصر في المحل، فانعدم السمع والبصر إذ ذاك لوجود نقيضهما
+  لا لكون القدرة تعلقت بإعدامهما.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال
   الطيبي: في مناسبة هذه الآية إنّه لما تقدم أن الرعد سبب/ لإذهاب سمعهم والبرق سبب
   لإذهاب سمعهم والبرق سبب لإذهاب بصرهم نبّه بهذا على أنّه ليس بسبب عقلي فيلزم ولا
-  ينفك بل هو سبب عادي بخلق الله تعالى ولم يقع ولو شاء أن يقع لوقع.\r\n\t\t\t\r\n\t\t\t1 2 3 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ يَكَادُ ٱلْبَرْقُ يَخْطَفُ أَبْصَٰرَهُمْ
-  كُلَّمَا أَضَآءَ لَهُمْ مَّشَوْاْ فِيهِ وَإِذَآ أَظْلَمَ عَلَيْهِمْ قَامُواْ وَلَوْ
-  شَآءَ ٱللَّهُ لَذَهَبَ بِسَمْعِهِمْ وَأَبْصَٰرِهِمْ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَيْءٍ
-  قَدِيرٌ }قوله تعالى: { إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ }قال ابن التلمساني:
-  لا خلاف لأن المعدوم باعتبار التقرر في الأزل لا يصدق عليه شيء واختلفوا في الإطلاق
-  اللّفظي (فذهب المعتزلة إلى أنه يطلق عليه شيء) ومنعه أهل السنة.قلت: وقال الآمدي في
-  أبكار الأفكار: هما مسألتان:-أحدهما: هل يطلق على المعدوم شيء أم لا ولا (ينبني عليها)
-  كفر ولا إيمان؟والثانية: هل المعدوم تقرر في الأزل أم لا؟فذهب المعتزلة إلى أنّ له
-  تقررا في الأزل ويلزمهم الكفر وقدم العالم.قال الزمخشري: (في) أن الشيء يطلق على الممكن
-  والمستحيل.وظاهر الآية حجة المعتزلة لأنه لو كان المراد أن الله على كل (شيء) موجودٍ
-  قديرٌ للزم تحصيل الحاصل.فإن قلت: يصح تعليق القدرة بالموجود عند من (يقول): إن (العَرض)
-  لا يبقى زمانين؟(قلت): إن كانت القدرة متعلقة (بالعرض الموجود) فيلزم تحصيل الحاصل،
-  وإن تعلقت بإيجاد العرض الذي يخلقه (هو) حين التعلق معدوم فيلزم تعلقها بالمعدوم.قلت:
-  وأجيب بثلاثة أوجه:الجواب الأول: أجاب القرافي في شرح الأربعين لابن الخطيب بأن المشتق
-  كاسم الفاعل لا خلاف في صحة (صدقه) حقيقة في الحال (مجاز) في الاستقبال. (واختلفوا)
-  في صدقه عن الماضي. قال: هذا إذا كان (محكوما) به، وأما إذا كان متعلق الحكم فلا خلاف
-  في صحة صدقه على الأزمنة الثلاثة حقيقة (نحو القائم في الدار) (قال): وكذلك لفظة شيء
-  إن كان محكوما به كقولنا: المعدوم شيء، ففيه التفصيل المتقدم، وإن كان متعلق الحكم
-  كهذه الآية فلا خلاف أنه يصدق على المستقبل حقيقة.الجواب الثاني: قال ابن عرفة: القدرة
-  تتعلق بالممكن لعدم المقدر الموجود كما يفهم (من) معنى قوله تعالى{ ٱلزَّانِيَةُ وَٱلزَّانِي
-  فَٱجْلِدُواْ كُلَّ وَاحِدٍ مِّنْهُمَا مِاْئَةَ جَلْدَةٍ }المراد من حصل منه الزنا
-  (بالفعل)، ومن سيحصل منه الزنا يصدق عليه في الحال أنّه زان (باعتبار) على تقدير (وجوده)،
-  وهذا كما (يقول) المنطقيون: القضية الخارجية والقضية الحقيقية ويجعلون (القضية) الخارجية
-  عامة في الأزمنة الثلاثة مثل كل أسود مجمع للبصر وكل أبيض (مفرق) للبصر. والمراد (به)
-  كل موصوف بالسّواد مطلقا في الماضي والحال والاستقبال.فإن قلت: (هلا) يلزمكم تخصيصه
-  بالممكن الذي علم الله تعالى أنه يوجد ولا (يصدق) (على الممكن الذي علم الله) أنه لا
-  يوجد؟قلنا: نعم وصح إطلاق الحدوث عليه لأن الآية خطاب للعوام ولو كان خطابا للخواص
-  لتناولت الممكن بالإطلاق الذي علم لله أنه (لم يوجد) فالمراد: الله قادر على كل شيء
-  موجود لأن الخطاب للعوام. ونظيره الوجهان (المذكوران) في الاستدلال على وجود الصانع.قالوا:
-  ثم دليل الإمكان يخاطب به الخواص، ودليل الحدوث بخاطب به الجميع.وأشار الطيبي إلى هذا
-  وزاد جوابا آخر، وهو ثالث، وهو الجواب الثالث: أن لفظة شيء تصدق على الموجود عند (وجود)
-  أول جزء منه فيصح تعلق القدرة به (إذ ذَاك).\r\n\t\t\t\r\n\t\t\t1 2 3 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ يَكَادُ ٱلْبَرْقُ يَخْطَفُ أَبْصَٰرَهُمْ
-  كُلَّمَا أَضَآءَ لَهُمْ مَّشَوْاْ فِيهِ وَإِذَآ أَظْلَمَ عَلَيْهِمْ قَامُواْ وَلَوْ
-  شَآءَ ٱللَّهُ لَذَهَبَ بِسَمْعِهِمْ وَأَبْصَٰرِهِمْ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَيْءٍ
-  قَدِيرٌ }قالوا: وهذا العموم مخصوص بالمستحيل.وقال ابن فورك: لا يحتاج إلى تخصيصه لأنك
-  إذا قلت (للآخر) كل مما في هذا البيت فلا (تأكل) إلا مما هو مطعوم، وما ليس بمطعوم
-  لا تأكله. وكذلك هو الذي وقع به التخصيص اللّفظُ يأباه فلا يحتاج إلى إخراجه منه.قال
+  ينفك بل هو سبب عادي بخلق الله تعالى ولم يقع ولو شاء أن يقع لوقع.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(20,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(20,2,1)\"><u>2</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(20,3,1)\"><u>3</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2, 20)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,20)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">يَكَادُ ٱلْبَرْقُ يَخْطَفُ أَبْصَٰرَهُمْ كُلَّمَا
+  أَضَآءَ لَهُمْ مَّشَوْاْ فِيهِ وَإِذَآ أَظْلَمَ عَلَيْهِمْ قَامُواْ وَلَوْ شَآءَ
+  ٱللَّهُ لَذَهَبَ بِسَمْعِهِمْ وَأَبْصَٰرِهِمْ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَيْءٍ
+  قَدِيرٌ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">قوله تعالى: { إِنَّ ٱللَّهَ عَلَىٰ
+  كُلِّ شَيْءٍ قَدِيرٌ }</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">قال ابن التلمساني: لا خلاف لأن
+  المعدوم باعتبار التقرر في الأزل لا يصدق عليه شيء واختلفوا في الإطلاق اللّفظي (فذهب
+  المعتزلة إلى أنه يطلق عليه شيء) ومنعه أهل السنة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قلت:
+  وقال الآمدي في أبكار الأفكار: هما مسألتان:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">-أحدهما:
+  هل يطلق على المعدوم شيء أم لا ولا (ينبني عليها) كفر ولا إيمان؟</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">والثانية: هل المعدوم تقرر في الأزل أم لا؟</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">فذهب
+  المعتزلة إلى أنّ له تقررا في الأزل ويلزمهم الكفر وقدم العالم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قال الزمخشري: (في) أن الشيء يطلق على الممكن والمستحيل.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وظاهر الآية حجة المعتزلة لأنه لو كان المراد أن الله على كل (شيء)
+  موجودٍ قديرٌ للزم تحصيل الحاصل.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">فإن
+  قلت: يصح تعليق القدرة بالموجود عند من (يقول): إن (العَرض) لا يبقى زمانين؟</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">(قلت): إن كانت القدرة متعلقة (بالعرض الموجود) فيلزم تحصيل الحاصل،
+  وإن تعلقت بإيجاد العرض الذي يخلقه (هو) حين التعلق معدوم فيلزم تعلقها بالمعدوم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قلت: وأجيب بثلاثة أوجه:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">الجواب
+  الأول: أجاب القرافي في شرح الأربعين لابن الخطيب بأن المشتق كاسم الفاعل لا خلاف في
+  صحة (صدقه) حقيقة في الحال (مجاز) في الاستقبال. (واختلفوا) في صدقه عن الماضي. قال:
+  هذا إذا كان (محكوما) به، وأما إذا كان متعلق الحكم فلا خلاف في صحة صدقه على الأزمنة
+  الثلاثة حقيقة (نحو القائم في الدار) (قال): وكذلك لفظة شيء إن كان محكوما به كقولنا:
+  المعدوم شيء، ففيه التفصيل المتقدم، وإن كان متعلق الحكم كهذه الآية فلا خلاف أنه يصدق
+  على المستقبل حقيقة.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">الجواب الثاني: قال ابن عرفة: القدرة
+  تتعلق بالممكن لعدم المقدر الموجود كما يفهم (من) معنى قوله تعالى</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">ٱلزَّانِيَةُ
+  وَٱلزَّانِي فَٱجْلِدُواْ كُلَّ وَاحِدٍ مِّنْهُمَا مِاْئَةَ جَلْدَةٍ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">المراد
+  من حصل منه الزنا (بالفعل)، ومن سيحصل منه الزنا يصدق عليه في الحال أنّه زان (باعتبار)
+  على تقدير (وجوده)، وهذا كما (يقول) المنطقيون: القضية الخارجية والقضية الحقيقية ويجعلون
+  (القضية) الخارجية عامة في الأزمنة الثلاثة مثل كل أسود مجمع للبصر وكل أبيض (مفرق)
+  للبصر. والمراد (به) كل موصوف بالسّواد مطلقا في الماضي والحال والاستقبال.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">فإن قلت: (هلا) يلزمكم تخصيصه بالممكن الذي علم الله تعالى أنه يوجد
+  ولا (يصدق) (على الممكن الذي علم الله) أنه لا يوجد؟</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قلنا:
+  نعم وصح إطلاق الحدوث عليه لأن الآية خطاب للعوام ولو كان خطابا للخواص لتناولت الممكن
+  بالإطلاق الذي علم لله أنه (لم يوجد) فالمراد: الله قادر على كل شيء موجود لأن الخطاب
+  للعوام. ونظيره الوجهان (المذكوران) في الاستدلال على وجود الصانع.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قالوا: ثم دليل الإمكان يخاطب به الخواص، ودليل الحدوث بخاطب به الجميع.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وأشار الطيبي إلى هذا وزاد جوابا آخر، وهو ثالث، وهو الجواب الثالث:
+  أن لفظة شيء تصدق على الموجود عند (وجود) أول جزء منه فيصح تعلق القدرة به (إذ ذَاك).</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(20,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(20,3,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(20,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td><td><a href=\"Javascript:InnerLink_onchange(20,3,1)\"><u>3</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2, 20)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,20)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">يَكَادُ ٱلْبَرْقُ يَخْطَفُ أَبْصَٰرَهُمْ كُلَّمَا
+  أَضَآءَ لَهُمْ مَّشَوْاْ فِيهِ وَإِذَآ أَظْلَمَ عَلَيْهِمْ قَامُواْ وَلَوْ شَآءَ
+  ٱللَّهُ لَذَهَبَ بِسَمْعِهِمْ وَأَبْصَٰرِهِمْ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَيْءٍ
+  قَدِيرٌ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">قالوا: وهذا العموم مخصوص بالمستحيل.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال ابن فورك: لا يحتاج إلى تخصيصه لأنك إذا قلت (للآخر) كل مما في
+  هذا البيت فلا (تأكل) إلا مما هو مطعوم، وما ليس بمطعوم لا تأكله. وكذلك هو الذي وقع
+  به التخصيص اللّفظُ يأباه فلا يحتاج إلى إخراجه منه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال
   ابن عرفة: \" إنّا إن اعتبرنا لفظ شيء من حيث الإفراد وجب التخصيص (وإن) اعتبرناه من
-  حيث التركيب لم يحتج إلى تخصيصه.قال ابن الخطيب: \" لو كان (لفظ) شيء عاما في الموجود
-  والمعدوم لما صدق على الموجود شيء لأن الآية دلّت على أن تعلق القدرة في العدم فلا
-  يصدق عليه بعد الوجود شيء \".وأبطله ابن عرفة بأنه ما صار موجودا حتى ثبت له ذلك الاسم
-  (في) العدم وتعلقت به القدرة وصدق عليه لفظ شيء \".\r\n\t\t\t\r\n\t\t\t1 2 3 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  حيث التركيب لم يحتج إلى تخصيصه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال
+  ابن الخطيب: \" لو كان (لفظ) شيء عاما في الموجود والمعدوم لما صدق على الموجود شيء
+  لأن الآية دلّت على أن تعلق القدرة في العدم فلا يصدق عليه بعد الوجود شيء \".</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وأبطله ابن عرفة بأنه ما صار موجودا حتى ثبت له ذلك الاسم (في) العدم
+  وتعلقت به القدرة وصدق عليه لفظ شيء \".</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(20,2,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(20,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(20,2,1)\"><u>2</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">3 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a id=\"NextClass\"/></td></tr></table></center></div></section>"
 

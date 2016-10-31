@@ -1,4 +1,4 @@
-location:
+position:
   sura: '007'
   aaya: '065'
   madhab: '01'
@@ -9,10 +9,28 @@ meta:
   year: '310'
 aaya: ۞ وَإِلَىٰ عَادٍ أَخَاهُمْ هُودًا ۗ قَالَ يَا قَوْمِ اعْبُدُوا اللَّهَ مَا لَكُمْ
   مِنْ إِلَٰهٍ غَيْرُهُ ۚ أَفَلَا تَتَّقُونَ
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَإِلَىٰ عَادٍ
-  أَخَاهُمْ هُوداً قَالَ يَاقَوْمِ ٱعْبُدُواْ ٱللَّهَ مَا لَكُمْ مِّنْ إِلَـٰهٍ غَيْرُهُ
-  أَفَلاَ تَتَّقُونَ }يقول تعالى ذكره: ولقد أرسلنا إلى عاد أخاهم هوداً ولذلك نصب «هوداً»،
-  لأنه معطوف به على نوح عليهما السلام. { قَالَ } هود: { يا قَوْمِ اعْبُدُوا الله }
-  فأفردوا له العبادة، ولا تجعلوا معه إلهاً غيره، فإنه ليس لكم إله غيره. { أفلا تَتَّقُونَ
-  } ربكم فتحذرونه وتخافون عقابه بعبادتكم غيره، وهو خالقكم ورازقكم دون كلّ ما سواه؟\r\n\t\t\t\r\n\t\t\t</section>"
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(7, 65)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(7,65)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَإِلَىٰ
+  عَادٍ أَخَاهُمْ هُوداً قَالَ يَاقَوْمِ ٱعْبُدُواْ ٱللَّهَ مَا لَكُمْ مِّنْ إِلَـٰهٍ
+  غَيْرُهُ أَفَلاَ تَتَّقُونَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\"
+  dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">يقول تعالى ذكره:
+  ولقد أرسلنا إلى عاد أخاهم هوداً ولذلك نصب «هوداً»، لأنه معطوف به على نوح عليهما
+  السلام. { قَالَ } هود: { يا قَوْمِ اعْبُدُوا الله } فأفردوا له العبادة، ولا تجعلوا
+  معه إلهاً غيره، فإنه ليس لكم إله غيره. { أفلا تَتَّقُونَ } ربكم فتحذرونه وتخافون
+  عقابه بعبادتكم غيره، وهو خالقكم ورازقكم دون كلّ ما سواه؟</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

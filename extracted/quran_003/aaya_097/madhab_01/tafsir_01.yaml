@@ -1,4 +1,4 @@
-location:
+position:
   sura: '003'
   aaya: 097
   madhab: '01'
@@ -7,310 +7,743 @@ meta:
   title: تفسير جامع البيان في تفسير القرآن
   author: الطبري
   year: '310'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ فِيهِ ءَايَٰتٌ
-  بَيِّنَـٰتٌ مَّقَامُ إِبْرَٰهِيمَ وَمَن دَخَلَهُ كَانَ آمِناً وَللَّهِ عَلَى ٱلنَّاسِ
-  حِجُّ ٱلْبَيْتِ مَنِ ٱسْتَطَاعَ إِلَيْهِ سَبِيلاً وَمَن كَفَرَ فَإِنَّ ٱلله غَنِيٌّ
-  عَنِ ٱلْعَٰلَمِينَ }اختلفت القراء فـي قراءة ذلك، فقرأه قراء الأمصار: { فِيهِ ءايَـٰتٌ
-  بَيّـنَـٰتٌ } علـى جماع آية، بـمعنى: فـيه علامات بـينات. وقرأ ذلك ابن عبـاس: «فـيه
-  آية بـينة» يعنـي بها: مقام إبراهيـم، يراد بها علامة واحدة.ثم اختلف أهل التأويـل
-  فـي تأويـل قوله: { فِيهِ ءايَـٰتٌ بَيّـنَـٰتٌ } وما تلك الآيات. فقال بعضهم: مقام
-  إبراهيـم والـمشعر الـحرام، ونـحو ذلك. ذكر من قال ذلك:حدثنـي مـحمد بن سعد، قال: ثنـي
-  أبـي، قال: ثنـي عمي، قال: ثنـي أبـي، عن أبـيه، عن ابن عبـاس قوله: { فِيهِ ءايَـٰتٌ
-  بَيّـنَـٰتٌ }: مقام إبراهيـم، والـمشعر.حدثنا الـحسن بن يحيـى، قال: أخبرنا عبد الرزاق،
-  قال: أخبرنا معمر، عن قتادة ومـجاهد: { فِيهِ ءايَـٰتٌ بَيّـنَـٰتٌ مَّقَامُ إِبْرٰهِيمَ
-  } قالا: مقام إبراهيـم من الآيات البـينات.وقال آخرون: الآيات البـينات { مَّقَامُ
-  إِبْرٰهِيمَ وَمَن دَخَلَهُ كَانَ ءامِناً }. ذكر من قال ذلك:حدثنـي مـحمد بن سنان،
-  قال: ثنا أبو بكر الـحنفـي، قال: ثنا عبـاد، عن الـحسن فـي قوله: { فِيهِ ءايَـٰتٌ
-  بَيّـنَـٰتٌ } قال: { مَّقَامُ إِبْرٰهِيمَ وَمَن دَخَلَهُ كَانَ ءامِناً }.وقال آخرون:
-  الآيات البـينات: هو مقام إبراهيـم. ذكر من قال ذلك:حدثنا مـحمد بن الـحسين، قال: ثنا
-  أحمد بن الـمفضل، قال: ثنا أسبـاط، عن السديّ، قوله: { فِيهِ ءايَـٰتٌ بَيّـنَـٰتٌ
-  مَّقَامُ إِبْرٰهِيمَ } أما الآيات البـينات: فمقام إبراهيـم.وأما الذين قرؤوا ذلك:
-  { فِيهِ آيَةٌ بَيّنَةً } علـى التوحيد، فإنهم عنوا بـالآية البـينة: مقام إبراهيـم.
-  ذكر من قال ذلك:حدثنا مـحمد بن عمرو، قال: ثنا أبو عاصم، عن عيسى، عن بن أبـي نـجيح،
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(3, 97)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(3,97)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">فِيهِ
+  ءَايَٰتٌ بَيِّنَـٰتٌ مَّقَامُ إِبْرَٰهِيمَ وَمَن دَخَلَهُ كَانَ آمِناً وَللَّهِ
+  عَلَى ٱلنَّاسِ حِجُّ ٱلْبَيْتِ مَنِ ٱسْتَطَاعَ إِلَيْهِ سَبِيلاً وَمَن كَفَرَ فَإِنَّ
+  ٱلله غَنِيٌّ عَنِ ٱلْعَٰلَمِينَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\"
+  dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">اختلفت القراء
+  فـي قراءة ذلك، فقرأه قراء الأمصار: { فِيهِ ءايَـٰتٌ بَيّـنَـٰتٌ } علـى جماع آية،
+  بـمعنى: فـيه علامات بـينات. وقرأ ذلك ابن عبـاس: «فـيه آية بـينة» يعنـي بها: مقام
+  إبراهيـم، يراد بها علامة واحدة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">ثم
+  اختلف أهل التأويـل فـي تأويـل قوله: { فِيهِ ءايَـٰتٌ بَيّـنَـٰتٌ } وما تلك الآيات.
+  فقال بعضهم: مقام إبراهيـم والـمشعر الـحرام، ونـحو ذلك. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي مـحمد بن سعد، قال: ثنـي أبـي، قال: ثنـي عمي، قال: ثنـي أبـي،
+  عن أبـيه، عن ابن عبـاس قوله: { فِيهِ ءايَـٰتٌ بَيّـنَـٰتٌ }: مقام إبراهيـم، والـمشعر.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا الـحسن بن يحيـى، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر،
+  عن قتادة ومـجاهد: { فِيهِ ءايَـٰتٌ بَيّـنَـٰتٌ مَّقَامُ إِبْرٰهِيمَ } قالا: مقام
+  إبراهيـم من الآيات البـينات.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  آخرون: الآيات البـينات { مَّقَامُ إِبْرٰهِيمَ وَمَن دَخَلَهُ كَانَ ءامِناً }. ذكر
+  من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي مـحمد بن سنان، قال: ثنا
+  أبو بكر الـحنفـي، قال: ثنا عبـاد، عن الـحسن فـي قوله: { فِيهِ ءايَـٰتٌ بَيّـنَـٰتٌ
+  } قال: { مَّقَامُ إِبْرٰهِيمَ وَمَن دَخَلَهُ كَانَ ءامِناً }.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال آخرون: الآيات البـينات: هو مقام إبراهيـم. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا مـحمد بن الـحسين، قال: ثنا أحمد بن الـمفضل، قال: ثنا أسبـاط،
+  عن السديّ، قوله: { فِيهِ ءايَـٰتٌ بَيّـنَـٰتٌ مَّقَامُ إِبْرٰهِيمَ } أما الآيات
+  البـينات: فمقام إبراهيـم.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وأما الذين قرؤوا ذلك: { فِيهِ آيَةٌ
+  بَيّنَةً } علـى التوحيد، فإنهم عنوا بـالآية البـينة: مقام إبراهيـم. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا مـحمد بن عمرو، قال: ثنا أبو عاصم، عن عيسى، عن بن أبـي نـجيح،
   عن مـجاهد: { فِيهِ ءايَـٰتٌ بَيّـنَـٰتٌ } قال: قَدَماه فـي الـمقام آية بـينة. يقول:
-  { وَمَن دَخَلَهُ كَانَ ءامِناً } قال: هذا شيء آخر.حدثت عن عمار، قال: ثنا ابن أبـي
-  جعفر، عن أبـيه، عن لـيث، عن مـجاهد { فِيهِ آيَةٌ بَيّنَةً مَّقَامِ إِبْرٰهِيمَ }
-  قال: أثر قدميه فـي الـمقام آية بـينة.وأولـى الأقوال فـي تأويـل ذلك بـالصواب، قول
-  من قال: الآيات البـينات منهن مقام إبراهيـم، وهو قول قتادة ومـجاهد الذي رواه معمر
-  عنهما، فـيكون الكلام مراداً فـيه «منهنّ»، فترك ذكره اكتفـاءً بدلالة الكلام علـيها.فإن
+  { وَمَن دَخَلَهُ كَانَ ءامِناً } قال: هذا شيء آخر.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثت
+  عن عمار، قال: ثنا ابن أبـي جعفر، عن أبـيه، عن لـيث، عن مـجاهد { فِيهِ آيَةٌ بَيّنَةً
+  مَّقَامِ إِبْرٰهِيمَ } قال: أثر قدميه فـي الـمقام آية بـينة.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وأولـى الأقوال فـي تأويـل ذلك بـالصواب، قول من قال: الآيات البـينات
+  منهن مقام إبراهيـم، وهو قول قتادة ومـجاهد الذي رواه معمر عنهما، فـيكون الكلام مراداً
+  فـيه «منهنّ»، فترك ذكره اكتفـاءً بدلالة الكلام علـيها.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">فإن
   قال قائل: فهذا الـمقام من الآيات البـينات، فما سائر الآيات التـي من أجلها قـيـل:
   { آيَاتٌ بَيِّنَاتٌ }؟ قـيـل: منهنّ: الـمقام، ومنهنّ الـحِجر، ومنهنّ الـحطيـم، وأصحّ
   القراءتـين فـي ذلك قراءة من قرأ { فِيهِ ءايَـٰتٌ بَيّـنَـٰتٌ } علـى الـجماع، لإجماع
-  قراء أمصار الـمسلـمين علـى أن ذلك هو القراءة الصحيحة دون غيرها.وأما اختلاف أهل التأويـل
-  فـي تأويـل: { مَّقَامِ إِبْرٰهِيمَ } فقد ذكرناه فـي سورة البقرة، وبـينا أولـى الأقوال
-  بـالصواب فـيه هنالك، وأنه عندنا: الـمقام الـمعروف به.فتأويـل الآية إذاً: إن أوّل
-  بـيت وضع للناس مبـاركاً وهدًى للعالـمين، للذي ببكة، فـيه علامات من قدرة الله وآثار
-  خـلـيـله إبراهيـم منهن أثر قدم خـلـيـله إبراهيـم صلى الله عليه وسلم فـي الـحجَر
-  الذي قام علـيه.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 9 10 \r\n\t\t\t\t\t\t\t\tمزيد</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ فِيهِ ءَايَٰتٌ بَيِّنَـٰتٌ مَّقَامُ
-  إِبْرَٰهِيمَ وَمَن دَخَلَهُ كَانَ آمِناً وَللَّهِ عَلَى ٱلنَّاسِ حِجُّ ٱلْبَيْتِ
-  مَنِ ٱسْتَطَاعَ إِلَيْهِ سَبِيلاً وَمَن كَفَرَ فَإِنَّ ٱلله غَنِيٌّ عَنِ ٱلْعَٰلَمِينَ
-  }القول فـي تأويـل قوله تعالـى: { وَمَن دَخَلَهُ كَانَ ءامِناً }.واختلف أهل التأويـل
-  فـي تأويـل ذلك، فقال بعضهم: تأويـله الـخبر عن أن كلّ من جرّ فـي الـجاهلـية جريرة
-  ثم عاذ بـالبـيت لـم يكن يها مأخوذاً. ذكر من قال ذلك:حدثنا بشر، قال: ثنا يزيد، قال:
+  قراء أمصار الـمسلـمين علـى أن ذلك هو القراءة الصحيحة دون غيرها.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وأما اختلاف أهل التأويـل فـي تأويـل: { مَّقَامِ إِبْرٰهِيمَ } فقد
+  ذكرناه فـي سورة البقرة، وبـينا أولـى الأقوال بـالصواب فـيه هنالك، وأنه عندنا: الـمقام
+  الـمعروف به.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">فتأويـل الآية إذاً: إن أوّل بـيت
+  وضع للناس مبـاركاً وهدًى للعالـمين، للذي ببكة، فـيه علامات من قدرة الله وآثار خـلـيـله
+  إبراهيـم منهن أثر قدم خـلـيـله إبراهيـم صلى الله عليه وسلم فـي الـحجَر الذي قام
+  علـيه.</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\"
+  border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE:
+  none; BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,8,1)\"><u>8</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,9,1)\"><u>9</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(1,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(3,
+  97)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(3,97)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">فِيهِ ءَايَٰتٌ بَيِّنَـٰتٌ مَّقَامُ إِبْرَٰهِيمَ
+  وَمَن دَخَلَهُ كَانَ آمِناً وَللَّهِ عَلَى ٱلنَّاسِ حِجُّ ٱلْبَيْتِ مَنِ ٱسْتَطَاعَ
+  إِلَيْهِ سَبِيلاً وَمَن كَفَرَ فَإِنَّ ٱلله غَنِيٌّ عَنِ ٱلْعَٰلَمِينَ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">القول فـي تأويـل قوله تعالـى: { وَمَن دَخَلَهُ كَانَ ءامِناً }.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">واختلف أهل التأويـل فـي تأويـل ذلك، فقال بعضهم: تأويـله الـخبر عن
+  أن كلّ من جرّ فـي الـجاهلـية جريرة ثم عاذ بـالبـيت لـم يكن يها مأخوذاً. ذكر من قال
+  ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا بشر، قال: ثنا يزيد، قال:
   ثنا سعيد، عن قتادة، قوله: { وَمَن دَخَلَهُ كَانَ ءامِناً } وهذا كان فـي الـجاهلـية،
   كان الرجل لو جرّ كل جريرة علـى نفسه ثم ألتـجأ إلـى حرم الله، لـم يتناول ولـم يطلب؛
   فأما فـي الإسلام، فإنه لا يـمنع من حدود الله، من سرق فـيه قُطع، ومن زنى فـيه أقـيـم
   علـيه الـحدّ، من قتل فـيه قُتل، وعن قتادة أن الـحسن كان يقول: إن الـحرم لا يـمنع
   من حدود الله، لو أصاب حدّاً فـي غير الـحرم فلـجأ إلـى الـحرم ولـم يـمنعه ذلك أن
-  يقام علـيه الـحدّ، ورأى قتادة ما قاله الـحسن.حدثنا الـحسن بن يحيـى، قال: أخبرنا
-  عبد الرزاق، قال: أخبرنا معمر، عن قتادة، قوله: { وَمَن دَخَلَهُ كَانَ ءامِناً } قال:
-  كان ذلك فـي الـجاهلـية، فأما الـيوم فإن سرق فـيه أحد قطع، وإن قتل فـيه قتل، ولو
-  قدر فـيه علـى الـمشركين قُتلوا.حدثنا سعيد بن يحيـى الأموي، قال: ثنا عبد السلام بن
-  حرب، قال: ثنا خصيف، عن مـجاهد فـي الرجل يقتل، ثم يدخـل الـحرم، قال: يؤخذ فـيخرج
-  من الـحرم، ثم يقام علـيه الـحدّ. يقول: القتل.حدثنا مـحمد بن الـمثنى، قال: ثنا مـحمد
-  بن جعفر، عن شعبة، عن حماد، مثل قول مـجاهد.حدثنا أبو كريب وأبو السائب، قالا ثنا ابن
-  إدريس، قال: أخبرنا هشام، عن الـحسن وعطاء فـي الرجل يصيب الـحدّ، ويـلـجأ إلـى الـحرم:
-  يخرج من الـحرم فـيقام علـيه الـحد.فتأويـل الآية علـى قول هؤلاء: فـيه آيات بـينات
-  مقام إبراهيـم، والذي دخـله من الناس كان آمناً بها فـي الـجاهلـية.وقال آخرون: معنى
-  ذلك: ومن يدخـله يكن آمناً بها، بـمعنى الـجزاء، كنـحو قول القائل: من قام لـي أكرمته:
-  بـمعنى من يقم لـي أكرمه. وقالوا: هذا أمر كان فـي الـجاهلـية، كان الـحرم مفزع كل
-  خائف، وملـجأ كلّ جانٍ، لأنه لـم يكن يُهاج له ذو جريرة، ولا يعرض الرجل فـيه لقاتل
-  أبـيه وابنه بسوء. قالوا: وكذلك هو فـي الإسلام، لأن الإسلام زاده تعظيـماً وتكريـماً.
-  ذكر من قال ذلك:حدثنـي مـحمد بن عبد الـملك بن أبـي الشوارب، قال: ثنا عبد الواحد بن
-  زياد قال: ثنا خصيف، قال ثنا مـجاهد، قال: قال ابن عبـاس: إذا أصاب الرجل الـحدّ قَتل
-  أو سَرق، فدخـل الـحرم، ولـم يبـايع ولـم يؤو حتـى يتبرّم فـيخرج من الـحرم، فـيقام
-  علـيه الـحدّ.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 9 10 \r\n\t\t\t\t\t\t\t\tمزيد</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ فِيهِ ءَايَٰتٌ بَيِّنَـٰتٌ مَّقَامُ
-  إِبْرَٰهِيمَ وَمَن دَخَلَهُ كَانَ آمِناً وَللَّهِ عَلَى ٱلنَّاسِ حِجُّ ٱلْبَيْتِ
-  مَنِ ٱسْتَطَاعَ إِلَيْهِ سَبِيلاً وَمَن كَفَرَ فَإِنَّ ٱلله غَنِيٌّ عَنِ ٱلْعَٰلَمِينَ
-  }قال: فقلت لابن عبـاس: ولكنـي لا أرى ذلك، أرى أن يؤخذ برْمَّته، ثم يخرج من الـحرم،
-  فـيقام علـيه الـحدّ، فإن الـحرم لا يزيده إلا شدة.حدثنا أبو كريب وأبو السائب، قالا:
-  ثنا ابن إدريس، قال: ثنا عبد الـملك، عن عطاء، قال: أخذ ابن الزبـير سعداً مولـى معاوية،
-  وكان فـي قلعة بـالطائف، فأرسل إلـى ابن عبـاس من يشاوره فـيهم، إنهم لنا عين، فأرسل
-  إلـيه، ابن عبـاس: لو وجدت قاتل أبـي لـم أعرض له. قال: فأرسل إلـيه، ابن الزبـير:
-  ألا نـخرجهم من الـحرم؟ قال: فأرسل إلـيه ابن عبـاس: أفلا قبل أن تدخـلهم الـحرم؟ زاد
-  أبو السائب فـي حديثه فأخرجهم فصلبهم، ولـم يصغ إلـى قول ابن عبـاس.حدثنـي يعقوب بن
-  إبراهيـم، قال: ثنا هشيـم، قال: أخبرنا حجاج، عن عطاء، عن ابن عبـاس، قال: من أحدث
-  حدثا فـي غير الـحرم ثم لـجأ إلـى الـحرم ولـم يعرض له ولـم يبـايع ولـم يكلـم ولـم
-  يؤو حتـى يخرج من الـحرم، فإذا خرج من الـحرم أُخذ فأقـيـم علـيه الـحدّ. قال: ومن
-  أحدث فـي الـحرم حدثاً أقـيـم علـيه الـحدّ.حدثنا أبو كريب قال: ثنا إبراهيـم بن إسماعيـل
-  بن نصر السلـمي، عن ابن أبـي حبـيبة، عن داود بن حصين، عن عكرمة، عن ابن عبـاس أنه
-  قال: من أحدث حدثاً ثم استـجار بـالبـيت فهو آمن، ولـيس للـمسلـمين أن يعاقبوه علـى
-  شيء إلـى أن يخرج، فإذا خرج أقاموا علـيه الـحدّ.حدثنـي يعقوب، قال: ثنا هشيـم، قال:
-  ثنا حجاج، عن عطاء، عن ابن عمر، قال: لو وجدت قاتل عمر فـي الـحرم ما هِجْتُه.حدثنا
+  يقام علـيه الـحدّ، ورأى قتادة ما قاله الـحسن.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  الـحسن بن يحيـى، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر، عن قتادة، قوله: { وَمَن
+  دَخَلَهُ كَانَ ءامِناً } قال: كان ذلك فـي الـجاهلـية، فأما الـيوم فإن سرق فـيه أحد
+  قطع، وإن قتل فـيه قتل، ولو قدر فـيه علـى الـمشركين قُتلوا.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  سعيد بن يحيـى الأموي، قال: ثنا عبد السلام بن حرب، قال: ثنا خصيف، عن مـجاهد فـي الرجل
+  يقتل، ثم يدخـل الـحرم، قال: يؤخذ فـيخرج من الـحرم، ثم يقام علـيه الـحدّ. يقول: القتل.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا مـحمد بن الـمثنى، قال: ثنا مـحمد بن جعفر، عن شعبة، عن حماد،
+  مثل قول مـجاهد.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا أبو كريب وأبو السائب، قالا
+  ثنا ابن إدريس، قال: أخبرنا هشام، عن الـحسن وعطاء فـي الرجل يصيب الـحدّ، ويـلـجأ
+  إلـى الـحرم: يخرج من الـحرم فـيقام علـيه الـحد.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">فتأويـل
+  الآية علـى قول هؤلاء: فـيه آيات بـينات مقام إبراهيـم، والذي دخـله من الناس كان آمناً
+  بها فـي الـجاهلـية.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال آخرون: معنى ذلك: ومن يدخـله
+  يكن آمناً بها، بـمعنى الـجزاء، كنـحو قول القائل: من قام لـي أكرمته: بـمعنى من يقم
+  لـي أكرمه. وقالوا: هذا أمر كان فـي الـجاهلـية، كان الـحرم مفزع كل خائف، وملـجأ كلّ
+  جانٍ، لأنه لـم يكن يُهاج له ذو جريرة، ولا يعرض الرجل فـيه لقاتل أبـيه وابنه بسوء.
+  قالوا: وكذلك هو فـي الإسلام، لأن الإسلام زاده تعظيـماً وتكريـماً. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي مـحمد بن عبد الـملك بن أبـي الشوارب، قال: ثنا عبد الواحد
+  بن زياد قال: ثنا خصيف، قال ثنا مـجاهد، قال: قال ابن عبـاس: إذا أصاب الرجل الـحدّ
+  قَتل أو سَرق، فدخـل الـحرم، ولـم يبـايع ولـم يؤو حتـى يتبرّم فـيخرج من الـحرم، فـيقام
+  علـيه الـحدّ.</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,8,1)\"><u>8</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,9,1)\"><u>9</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(1,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(3,
+  97)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(3,97)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">فِيهِ ءَايَٰتٌ بَيِّنَـٰتٌ مَّقَامُ إِبْرَٰهِيمَ
+  وَمَن دَخَلَهُ كَانَ آمِناً وَللَّهِ عَلَى ٱلنَّاسِ حِجُّ ٱلْبَيْتِ مَنِ ٱسْتَطَاعَ
+  إِلَيْهِ سَبِيلاً وَمَن كَفَرَ فَإِنَّ ٱلله غَنِيٌّ عَنِ ٱلْعَٰلَمِينَ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">قال: فقلت لابن عبـاس: ولكنـي لا أرى ذلك، أرى أن يؤخذ برْمَّته، ثم
+  يخرج من الـحرم، فـيقام علـيه الـحدّ، فإن الـحرم لا يزيده إلا شدة.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا أبو كريب وأبو السائب، قالا: ثنا ابن إدريس، قال: ثنا عبد الـملك،
+  عن عطاء، قال: أخذ ابن الزبـير سعداً مولـى معاوية، وكان فـي قلعة بـالطائف، فأرسل
+  إلـى ابن عبـاس من يشاوره فـيهم، إنهم لنا عين، فأرسل إلـيه، ابن عبـاس: لو وجدت قاتل
+  أبـي لـم أعرض له. قال: فأرسل إلـيه، ابن الزبـير: ألا نـخرجهم من الـحرم؟ قال: فأرسل
+  إلـيه ابن عبـاس: أفلا قبل أن تدخـلهم الـحرم؟ زاد أبو السائب فـي حديثه فأخرجهم فصلبهم،
+  ولـم يصغ إلـى قول ابن عبـاس.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  يعقوب بن إبراهيـم، قال: ثنا هشيـم، قال: أخبرنا حجاج، عن عطاء، عن ابن عبـاس، قال:
+  من أحدث حدثا فـي غير الـحرم ثم لـجأ إلـى الـحرم ولـم يعرض له ولـم يبـايع ولـم يكلـم
+  ولـم يؤو حتـى يخرج من الـحرم، فإذا خرج من الـحرم أُخذ فأقـيـم علـيه الـحدّ. قال:
+  ومن أحدث فـي الـحرم حدثاً أقـيـم علـيه الـحدّ.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  أبو كريب قال: ثنا إبراهيـم بن إسماعيـل بن نصر السلـمي، عن ابن أبـي حبـيبة، عن داود
+  بن حصين، عن عكرمة، عن ابن عبـاس أنه قال: من أحدث حدثاً ثم استـجار بـالبـيت فهو آمن،
+  ولـيس للـمسلـمين أن يعاقبوه علـى شيء إلـى أن يخرج، فإذا خرج أقاموا علـيه الـحدّ.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي يعقوب، قال: ثنا هشيـم، قال: ثنا حجاج، عن عطاء، عن ابن عمر،
+  قال: لو وجدت قاتل عمر فـي الـحرم ما هِجْتُه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
   أبو كريب وأبو السائب، قالا: ثنا ابن إدريس، قال: ثنا لـيث، عن عطاء: أن الولـيد بن
   عتبة أراد أن يقـيـم الـحدّ فـي الـحرم، فقال له عبـيد بن عمير: لا تقم علـيه الـحدّ
-  فـي الـحرم إلا أن يكون أصابه فـيه.حدثنا أبو كريب وأبو السائب، قالا: ثنا ابن إدريس،
-  قال: أخبرنا مطرف، عن عامر، قال: إذا أصاب الـحدّ، ثم هرب إلـى الـحرم، فقد أمن، فإذا
-  أصابه فـي الـحرم أقـيـم علـيه الـحد فـي الـحرم.حدثنا ابن بشار، قال: ثنا مؤمل، قال:
-  ثنا سفـيان، عن فراس، عن الشعبي، قال: من أصاب حداً فـي الحرم ومن أصابه خارجاً من
-  الحرم ثم دخـل الحرم، لم يكلم ولم يبايع حتى يخرج من الحرم، فيقام عليه.حدثنا سعيد
-  بن يحيـى الأموي، قال: ثنا عبد السلام بن حرب، قال: ثنا عطاء بن السائب، عن سعيد بن
-  جبـير، وعن عبد الـملك، عن عطاء بن أبـي ربـاح فـي الرجل يقتل، ثم يدخـل الـحرم، قال:
-  لا يبـيعه أهل مكة، ولا يشترون منه، ولا يسقونه ولا يطعمونه، ولا يؤوونه ـ عدّ أشياء
-  كثـيرة ـ حتـى يخرج من الـحرم، فـيؤخذ بذنبه.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 9 10 \r\n\t\t\t\t\t\t\t\tمزيد</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ فِيهِ ءَايَٰتٌ بَيِّنَـٰتٌ مَّقَامُ
-  إِبْرَٰهِيمَ وَمَن دَخَلَهُ كَانَ آمِناً وَللَّهِ عَلَى ٱلنَّاسِ حِجُّ ٱلْبَيْتِ
-  مَنِ ٱسْتَطَاعَ إِلَيْهِ سَبِيلاً وَمَن كَفَرَ فَإِنَّ ٱلله غَنِيٌّ عَنِ ٱلْعَٰلَمِينَ
-  }حدثت عن عمار، قال: ثنا ابن أبـي جعفر، عن أبـيه، عن عطاء بن السائب، عن سعيد بن جبـير
-  عن ابن عبـاس: أن الرجل إذا أصاب حدّاً ثم دخـل الـحرم أنه لا يطعم، ولا يسقـى، ولا
-  يؤوى، ولا يكلـم، ولا ينكح، ولا يبـايع، فإذا خرج منه أقـيـم علـيه الـحدّ.حدثنـي الـمثنى،
-  قال: ثنـي حجاج، قال: ثنا حماد، عن عمرو بن دينار، عن ابن عبـاس، قال: إذا أحدث الرجل
-  حدثاً، ثم دخـل الـحرم، لـم يؤو، ولـم يجالس، ولـم يبـايع، ولـم يطعم، ولـم يسق، حتـى
-  يخرج من الـحرم.حدثنـي الـمثنى، قال: ثنا حجاج، قال: ثنا حماد، عن عطاء بن السائب،
-  عن سعيد بن جبـير، عن ابن عبـاس، مثله.حدثنا مـحمد بن الـحسين، قال: ثنا أحمد بن الـمفضل،
-  قال: ثنا أسبـاط، عن السديّ: أما قوله: { وَمَن دَخَلَهُ كَانَ ءامِناً }: فلو أن رجلاً
-  قتل رجلاً، ثم أتـى الكعبة فعاذ بها، ثم لقـيه أخو الـمقتول لـم يحلّ له أبداً أن يقتله.وقال
-  آخرون: معنى ذلك: ومن دخـله يكن آمناً من النار. ذكر من قال ذلك:حدثنا علـيّ بن مسلـم،
-  قال: ثنا أبو عاصم، قال: أخبرنا رزيق بن مسلـم الـمخزومي، قال: ثنا زياد ابن أبـي عياض،
-  عن يحيـى بن جعدة، فـي قوله: { وَمَن دَخَلَهُ كَانَ ءامِناً } قال: آمناً من النار.وأولـى
+  فـي الـحرم إلا أن يكون أصابه فـيه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  أبو كريب وأبو السائب، قالا: ثنا ابن إدريس، قال: أخبرنا مطرف، عن عامر، قال: إذا أصاب
+  الـحدّ، ثم هرب إلـى الـحرم، فقد أمن، فإذا أصابه فـي الـحرم أقـيـم علـيه الـحد فـي
+  الـحرم.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن بشار، قال: ثنا مؤمل،
+  قال: ثنا سفـيان، عن فراس، عن الشعبي، قال: من أصاب حداً فـي الحرم ومن أصابه خارجاً
+  من الحرم ثم دخـل الحرم، لم يكلم ولم يبايع حتى يخرج من الحرم، فيقام عليه.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا سعيد بن يحيـى الأموي، قال: ثنا عبد السلام بن حرب، قال: ثنا
+  عطاء بن السائب، عن سعيد بن جبـير، وعن عبد الـملك، عن عطاء بن أبـي ربـاح فـي الرجل
+  يقتل، ثم يدخـل الـحرم، قال: لا يبـيعه أهل مكة، ولا يشترون منه، ولا يسقونه ولا يطعمونه،
+  ولا يؤوونه ـ عدّ أشياء كثـيرة ـ حتـى يخرج من الـحرم، فـيؤخذ بذنبه.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">3 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,8,1)\"><u>8</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,9,1)\"><u>9</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(1,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(3,
+  97)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(3,97)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">فِيهِ ءَايَٰتٌ بَيِّنَـٰتٌ مَّقَامُ إِبْرَٰهِيمَ
+  وَمَن دَخَلَهُ كَانَ آمِناً وَللَّهِ عَلَى ٱلنَّاسِ حِجُّ ٱلْبَيْتِ مَنِ ٱسْتَطَاعَ
+  إِلَيْهِ سَبِيلاً وَمَن كَفَرَ فَإِنَّ ٱلله غَنِيٌّ عَنِ ٱلْعَٰلَمِينَ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثت عن عمار، قال: ثنا ابن أبـي جعفر، عن أبـيه، عن عطاء بن السائب،
+  عن سعيد بن جبـير عن ابن عبـاس: أن الرجل إذا أصاب حدّاً ثم دخـل الـحرم أنه لا يطعم،
+  ولا يسقـى، ولا يؤوى، ولا يكلـم، ولا ينكح، ولا يبـايع، فإذا خرج منه أقـيـم علـيه
+  الـحدّ.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي الـمثنى، قال: ثنـي حجاج،
+  قال: ثنا حماد، عن عمرو بن دينار، عن ابن عبـاس، قال: إذا أحدث الرجل حدثاً، ثم دخـل
+  الـحرم، لـم يؤو، ولـم يجالس، ولـم يبـايع، ولـم يطعم، ولـم يسق، حتـى يخرج من الـحرم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي الـمثنى، قال: ثنا حجاج، قال: ثنا حماد، عن عطاء بن السائب،
+  عن سعيد بن جبـير، عن ابن عبـاس، مثله.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  مـحمد بن الـحسين، قال: ثنا أحمد بن الـمفضل، قال: ثنا أسبـاط، عن السديّ: أما قوله:
+  { وَمَن دَخَلَهُ كَانَ ءامِناً }: فلو أن رجلاً قتل رجلاً، ثم أتـى الكعبة فعاذ بها،
+  ثم لقـيه أخو الـمقتول لـم يحلّ له أبداً أن يقتله.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  آخرون: معنى ذلك: ومن دخـله يكن آمناً من النار. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا علـيّ بن مسلـم، قال: ثنا أبو عاصم، قال: أخبرنا رزيق بن مسلـم
+  الـمخزومي، قال: ثنا زياد ابن أبـي عياض، عن يحيـى بن جعدة، فـي قوله: { وَمَن دَخَلَهُ
+  كَانَ ءامِناً } قال: آمناً من النار.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وأولـى
   الأقوال فـي ذلك عندنا بـالصواب، قول ابن الزبـير ومـجاهد والـحسن، ومن قال معنى ذلك:
   ومن دخـله من غيره مـمن لـجأ إلـيه عائذاً به كان آمناً ما كان فـيه، ولكنه يخرج منه
   فـيقام عليه الـحدّ إن كان أصاب ما يستوجبه فـي غيره ثم لـجأ إلـيه، وإن كان أصابه
-  فـيه أقـيـم علـيه فـيه.فتأويـل الآية إذاً: فـيه آيات بـينات مقام إبراهيـم، ومن يدخـله
-  من الناس مستـجيراً به يكن آمناً مـما استـجار منه ما كان فـيه، حتـى يخرج منه.فإن
-  قال قائل: وما منعك من إقامة الـحدّ علـيه فـيه؟ قـيـل: لاتفـاق جميع السلف علـى أن
-  من كانت جريرته فـي غيره ثم عاذ به، فإنه لا يؤخذ بجريرته فـيه.وإنـما اختلفوا فـي
-  صفة إخراجه منه لأخذه بها، فقال بعضهم: صفة ذلك منعه الـمعانـي التـي يضطر مع منعه
-  وفقده إلـى الـخروج منه.وقال آخرون: لا صفة لذلك غير إخراجه منه بـما أمكن إخراجه من
-  الـمعانـي التـي توصل إلـى إقامة حدّ الله معها، فلذلك قلنا: غير جائز إقامة الـحدّ
-  علـيه فـيه إلا بعد إخراجه منه. فأما من أصاب الـحدّ فـيه، فإنه لا خلاف بـين الـجميع
-  فـي أنه يقام علـيه فـيه الـحدّ، فكلتا الـمسألتـين أصل مـجمع علـى حكمهما علـى ما
-  وصفنا.فإن قال لنا قائل: وما دلالتك علـى أن إخراج العائذ بـالبـيت إذا أتاه مستـجيراً
-  به من جريرة جرّها أو من حدّ أصابه من الـحرم جائز لإقامة الـحدّ علـيه وأخذه بـالـجريرة،
-  وقد أقررت بأن الله عزّ وجلّ قد جعل من دخـله آمناً، ومعنى الآمن غير معنى الـخائف،
-  فـيـما هما فـيه مختلفـان؟ قـيـل: قلنا ذلك لإجماع الـجميع من الـمتقدمين والـمتأخرين
-  من علـماء الأمة، علـى أن إخراج العائذ به من جريرة أصابها أو فـاحشة أتاها وجبت علـيه
-  بها عقوبة منه ببعض معانـي الإخراج لأخذه بـما لزمه، واجبٌ علـى إمام الـمسلـمين وأهل
-  الإسلام معه.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 9 10 \r\n\t\t\t\t\t\t\t\tمزيد</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ فِيهِ ءَايَٰتٌ بَيِّنَـٰتٌ مَّقَامُ
-  إِبْرَٰهِيمَ وَمَن دَخَلَهُ كَانَ آمِناً وَللَّهِ عَلَى ٱلنَّاسِ حِجُّ ٱلْبَيْتِ
-  مَنِ ٱسْتَطَاعَ إِلَيْهِ سَبِيلاً وَمَن كَفَرَ فَإِنَّ ٱلله غَنِيٌّ عَنِ ٱلْعَٰلَمِينَ
-  }وإنـما اختلفوا فـي السبب الذي يخرج به منه، فقال بعضهم: السبب الذي يجوز إخراجه به
-  منه ترك جميع الـمسلـمين مبـايعته وإطعامه وسقـيه وإيواء وكلامه وما أشبه ذلك من الـمعانـي
-  التـي لا قرار للعائذ به فـيه مع بعضها، فكيف مع جميعها؟ وقال آخرون منهم: بل إخراجه
-  لإقامة ما لزمه من العقوبة واجب بكل معانـي الإخراج. فلـما كان إجماعاً من الـجميع
-  علـى أن حكم الله ـ فـيـمن عاذ بـالبـيت من حدّ أصابه أو جريرة جرّها ـ إخراجه منه
-  لإقامة ما فرض الله علـى الـمؤمنـين إقامته علـيه، ثم اختلفوا فـي السبب الذي يجوز
-  إخراجه به منه كان اللازم لهم ولإمامهم إخراجه منه بأيّ معنى أمكنهم إخراجه منه حتـى
-  يقـيـموا علـيه الـحدّ الذي لزمه خارجاً منه إذا كان لـجأ إلـيه من خارج علـى ما قد
-  بـينا قبل.وبعد: فإن الله عزّ وجلّ لـم يضع حداً من حدوده عن أحد من خـلقه من أجل بقعة
-  وموضع صار إلـيها من لزمه ذلك. وقد تظاهرت الأخبـار عن رسول الله صلى الله عليه وسلم
-  أنه قال: \" إنّـي حَرَّمْتُ الـمَدِينَةَ كَمَا حَرَّمَ إبْرَاهِيـمَ مَكَّةَ \" ولا
+  فـيه أقـيـم علـيه فـيه.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">فتأويـل الآية إذاً: فـيه آيات بـينات
+  مقام إبراهيـم، ومن يدخـله من الناس مستـجيراً به يكن آمناً مـما استـجار منه ما كان
+  فـيه، حتـى يخرج منه.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">فإن قال قائل: وما منعك من إقامة
+  الـحدّ علـيه فـيه؟ قـيـل: لاتفـاق جميع السلف علـى أن من كانت جريرته فـي غيره ثم
+  عاذ به، فإنه لا يؤخذ بجريرته فـيه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وإنـما
+  اختلفوا فـي صفة إخراجه منه لأخذه بها، فقال بعضهم: صفة ذلك منعه الـمعانـي التـي يضطر
+  مع منعه وفقده إلـى الـخروج منه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  آخرون: لا صفة لذلك غير إخراجه منه بـما أمكن إخراجه من الـمعانـي التـي توصل إلـى
+  إقامة حدّ الله معها، فلذلك قلنا: غير جائز إقامة الـحدّ علـيه فـيه إلا بعد إخراجه
+  منه. فأما من أصاب الـحدّ فـيه، فإنه لا خلاف بـين الـجميع فـي أنه يقام علـيه فـيه
+  الـحدّ، فكلتا الـمسألتـين أصل مـجمع علـى حكمهما علـى ما وصفنا.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">فإن قال لنا قائل: وما دلالتك علـى أن إخراج العائذ بـالبـيت إذا أتاه
+  مستـجيراً به من جريرة جرّها أو من حدّ أصابه من الـحرم جائز لإقامة الـحدّ علـيه وأخذه
+  بـالـجريرة، وقد أقررت بأن الله عزّ وجلّ قد جعل من دخـله آمناً، ومعنى الآمن غير معنى
+  الـخائف، فـيـما هما فـيه مختلفـان؟ قـيـل: قلنا ذلك لإجماع الـجميع من الـمتقدمين
+  والـمتأخرين من علـماء الأمة، علـى أن إخراج العائذ به من جريرة أصابها أو فـاحشة أتاها
+  وجبت علـيه بها عقوبة منه ببعض معانـي الإخراج لأخذه بـما لزمه، واجبٌ علـى إمام الـمسلـمين
+  وأهل الإسلام معه.</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">4 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,8,1)\"><u>8</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,9,1)\"><u>9</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(1,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(3,
+  97)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(3,97)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">فِيهِ ءَايَٰتٌ بَيِّنَـٰتٌ مَّقَامُ إِبْرَٰهِيمَ
+  وَمَن دَخَلَهُ كَانَ آمِناً وَللَّهِ عَلَى ٱلنَّاسِ حِجُّ ٱلْبَيْتِ مَنِ ٱسْتَطَاعَ
+  إِلَيْهِ سَبِيلاً وَمَن كَفَرَ فَإِنَّ ٱلله غَنِيٌّ عَنِ ٱلْعَٰلَمِينَ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">وإنـما اختلفوا فـي السبب الذي يخرج به منه، فقال بعضهم: السبب الذي
+  يجوز إخراجه به منه ترك جميع الـمسلـمين مبـايعته وإطعامه وسقـيه وإيواء وكلامه وما
+  أشبه ذلك من الـمعانـي التـي لا قرار للعائذ به فـيه مع بعضها، فكيف مع جميعها؟ وقال
+  آخرون منهم: بل إخراجه لإقامة ما لزمه من العقوبة واجب بكل معانـي الإخراج. فلـما كان
+  إجماعاً من الـجميع علـى أن حكم الله ـ فـيـمن عاذ بـالبـيت من حدّ أصابه أو جريرة
+  جرّها ـ إخراجه منه لإقامة ما فرض الله علـى الـمؤمنـين إقامته علـيه، ثم اختلفوا فـي
+  السبب الذي يجوز إخراجه به منه كان اللازم لهم ولإمامهم إخراجه منه بأيّ معنى أمكنهم
+  إخراجه منه حتـى يقـيـموا علـيه الـحدّ الذي لزمه خارجاً منه إذا كان لـجأ إلـيه من
+  خارج علـى ما قد بـينا قبل.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وبعد: فإن الله عزّ وجلّ لـم يضع
+  حداً من حدوده عن أحد من خـلقه من أجل بقعة وموضع صار إلـيها من لزمه ذلك. وقد تظاهرت
+  الأخبـار عن رسول الله صلى الله عليه وسلم أنه قال:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" إنّـي حَرَّمْتُ الـمَدِينَةَ كَمَا حَرَّمَ إبْرَاهِيـمَ مَكَّةَ
+  \" </font></font></b><font class=\"TextResultArabic\"><font color=\"black\">ولا
   خلاف بـين جميع الأمة أن عائذاً لو عاذ من عقوبة لزمته بحرم النبـي صلى الله عليه وسلم
   يؤاخذ بـالعقوبة فـيه. ولولا ما ذكرت من إجماع السلف علـى أن حرم إبراهيـم لا يقام
   فـيه علـى من عاذ به من عقوبة لزمته حتـى يخرج منه ما لزمه، لكان أحقّ البقاع أن تؤدى
   فـيه فرائض الله التـي ألزمها عبـاده من قتل أو غيره، أعظم البقاع إلـى الله كحرم الله
   وحرم رسوله صلى الله عليه وسلم، ولكنا أمرنا بإخراج من أمرنا بإخراجه من حرم الله لإقامة
-  الـحدّ لـما ذكرنا من فعل الأمة ذلك وراثة.فمعنى الكلام إذْ كان الأمر علـى ما وصفنا:
-  ومن دخـله كان آمناً ما كان فـيه. فإذا كان ذلك كذلك، فمن لـجأ إلـيه من عقوبة لزمته
-  عائذاً به، فهو آمن ما كان به حتـى يخرج منه. وإنـما يصير إلـى الـخوف بعد الـخروج
-  أو الإخراج منه، فحينئذ هو غير داخـله، ولا هو فـيه.القول فـي تأويـل قوله تعالـى:
-  { وَللَّهِ عَلَى ٱلنَّاسِ حِجُّ ٱلْبَيْتِ مَنِ ٱسْتَطَـٰعَ إِلَيْهِ سَبِيلاً }.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 9 10 \r\n\t\t\t\t\t\t\t\tمزيد</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ فِيهِ ءَايَٰتٌ بَيِّنَـٰتٌ مَّقَامُ
-  إِبْرَٰهِيمَ وَمَن دَخَلَهُ كَانَ آمِناً وَللَّهِ عَلَى ٱلنَّاسِ حِجُّ ٱلْبَيْتِ
-  مَنِ ٱسْتَطَاعَ إِلَيْهِ سَبِيلاً وَمَن كَفَرَ فَإِنَّ ٱلله غَنِيٌّ عَنِ ٱلْعَٰلَمِينَ
-  }يعنـي بذلك جل ثناؤه: وفرض واجب لله علـى من استطاع من أهل التكلـيف السبـيـل إلـى
-  حجّ بـيته الـحرام الـحجّ إلـيه. وقد بـينا فـيـما مضى معنى الـحجّ ودللنا علـى صحة
-  ما قلنا من معناه بـما أغنى عن إعادته فـي هذا الـموضع.واختلف أهل التأويـل فـي تأويـل
-  قوله عزّ وجلّ: { مَنِ ٱسْتَطَـٰعَ إِلَيْهِ سَبِيلاً } ، وما السبـيـل التـي يجب مع
-  استطاعتها فرض الـحجّ؟ فقال بعضهم: هي الزاد والراحلة. ذكر من قال ذلك:حدثنا مـحمد
-  بن بشار، قال: ثنا مـحمد بن بكر، قال: أخبرنا ابن جريج، قال: قال عمر بن الـخطاب رضي
-  الله عنه: { مَنِ ٱسْتَطَـٰعَ إِلَيْهِ سَبِيلاً } قال: الزاد والراحلة.حدثنا ابن بشار،
-  قال: ثنا مـحمد بن بكر، قال: أخبرنا ابن جريج، قال: قال عمرو بن دينار: الزاد والراحلة.حدثنا
+  الـحدّ لـما ذكرنا من فعل الأمة ذلك وراثة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">فمعنى
+  الكلام إذْ كان الأمر علـى ما وصفنا: ومن دخـله كان آمناً ما كان فـيه. فإذا كان ذلك
+  كذلك، فمن لـجأ إلـيه من عقوبة لزمته عائذاً به، فهو آمن ما كان به حتـى يخرج منه.
+  وإنـما يصير إلـى الـخوف بعد الـخروج أو الإخراج منه، فحينئذ هو غير داخـله، ولا هو
+  فـيه.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">القول فـي تأويـل قوله تعالـى: {
+  وَللَّهِ عَلَى ٱلنَّاسِ حِجُّ ٱلْبَيْتِ مَنِ ٱسْتَطَـٰعَ إِلَيْهِ سَبِيلاً }.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">5 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,8,1)\"><u>8</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,9,1)\"><u>9</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(1,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(3,
+  97)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(3,97)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">فِيهِ ءَايَٰتٌ بَيِّنَـٰتٌ مَّقَامُ إِبْرَٰهِيمَ
+  وَمَن دَخَلَهُ كَانَ آمِناً وَللَّهِ عَلَى ٱلنَّاسِ حِجُّ ٱلْبَيْتِ مَنِ ٱسْتَطَاعَ
+  إِلَيْهِ سَبِيلاً وَمَن كَفَرَ فَإِنَّ ٱلله غَنِيٌّ عَنِ ٱلْعَٰلَمِينَ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">يعنـي بذلك جل ثناؤه: وفرض واجب لله علـى من استطاع من أهل التكلـيف
+  السبـيـل إلـى حجّ بـيته الـحرام الـحجّ إلـيه. وقد بـينا فـيـما مضى معنى الـحجّ ودللنا
+  علـى صحة ما قلنا من معناه بـما أغنى عن إعادته فـي هذا الـموضع.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">واختلف أهل التأويـل فـي تأويـل قوله عزّ وجلّ: { مَنِ ٱسْتَطَـٰعَ
+  إِلَيْهِ سَبِيلاً } ، وما السبـيـل التـي يجب مع استطاعتها فرض الـحجّ؟ فقال بعضهم:
+  هي الزاد والراحلة. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  مـحمد بن بشار، قال: ثنا مـحمد بن بكر، قال: أخبرنا ابن جريج، قال: قال عمر بن الـخطاب
+  رضي الله عنه: { مَنِ ٱسْتَطَـٰعَ إِلَيْهِ سَبِيلاً } قال: الزاد والراحلة.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن بشار، قال: ثنا مـحمد بن بكر، قال: أخبرنا ابن جريج، قال:
+  قال عمرو بن دينار: الزاد والراحلة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
   أبو كريب، قال: ثنا وكيع، عن أبـي جناب، عن الضحاك، عن ابن عبـاس فـي قوله: { مَنِ
-  ٱسْتَطَـٰعَ إِلَيْهِ سَبِيلاً } قال: الزاد والبعير.حدثنـي الـمثنى، قال: ثنا عبد
-  الله بن صالـح، قال: ثنـي معاوية، عن علـيّ، عن ابن عبـاس، قوله: { وَللَّهِ عَلَى
-  ٱلنَّاسِ حِجُّ ٱلْبَيْتِ مَنِ ٱسْتَطَـٰعَ إِلَيْهِ سَبِيلاً } ، والسبـيـل: أن يصحّ
-  بدن العبد، ويكون له ثمن زاد وراحلة من غير أن يُجْحِف به.حدثنا خلاد بن أسلـم، قال:
-  ثنا النضر بن شميـل، قال: أخبرنا إسرائيـل، عن أبـي عبد الله البجلـي، قال: سألت سعيد
-  بن جبـير عن قوله: { مَنِ ٱسْتَطَـٰعَ إِلَيْهِ سَبِيلاً } قال: قال ابن عبـاس: من
-  ملك ثلثمائة درهم، فهو السبـيـل إلـيه.حدثنـي مـحمد بن سنان، قال: ثنا أبو عاصم، عن
-  إسحاق بن عثمان، قال: سمعت عطاء يقول: السبـيـل: الزاد والراحلة.حدثنـي مـحمد بن الـحسين،
-  قال: ثنا أحمد بن الـمفضل، قال: ثنا أسبـاط، عن السدي: أما من استطاع إلـيه سبـيلاً،
-  فإن ابن عبـاس قال: السبـيـل: راحلة وزاد.حدثنـي الـمثنى، وأحمد بن حازم، قالا: ثنا
-  أبو نعيـم، قال: ثنا سفيان، عن محمد بن سوقة، عن سعيد بن جبير: { مَنِ ٱسْتَطَـٰعَ
-  إِلَيْهِ سَبِيلاً } قال: الزاد والراحلة.حدثنا أحمد بن حازم، قال: ثنا أبو نعيـم،
-  قال: أخبرنا الربـيع بن صبـيح، عن الـحسن، قال: الزاد والراحلة.حدثنا ابن حميد، قال:
-  ثنا جرير، عن منصور، عن الـحسن، قال: قرأ النبـيّ صلى الله عليه وسلم هذه الآية: {
-  وَللَّهِ عَلَى ٱلنَّاسِ حِجُّ ٱلْبَيْتِ مَنِ ٱسْتَطَـٰعَ إِلَيْهِ سَبِيلاً } فقال
-  رجل: يا رسول الله، ما السبـيـل؟ قال: \" الزَّادُ وَالرَّاحِلَةُ \" واعتلّ قائلو
-  هذه الـمقالة بأخبـار رويت عن رسول الله صلى الله عليه وسلم بنـحو ما قالوا فـي ذلك.
-  ذكر الرواية بذلك عن رسول الله صلى الله عليه وسلم:حدثنا الـحسن بن يحيـى، قال: أخبرنا
-  عبد الرزاق، قال: أخبرنا إبراهيـم بن يزيد الـخوزي، قال: سمعت مـحمد بن عبـاد بن جعفر،
-  يحدّث عن ابن عمر، قال: قام رجل إلـى رسول الله صلى الله عليه وسلم، فقال: ما السبـيـل؟
-  قال:\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 9 10 \r\n\t\t\t\t\t\t\t\tمزيد</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ فِيهِ ءَايَٰتٌ بَيِّنَـٰتٌ مَّقَامُ
-  إِبْرَٰهِيمَ وَمَن دَخَلَهُ كَانَ آمِناً وَللَّهِ عَلَى ٱلنَّاسِ حِجُّ ٱلْبَيْتِ
-  مَنِ ٱسْتَطَاعَ إِلَيْهِ سَبِيلاً وَمَن كَفَرَ فَإِنَّ ٱلله غَنِيٌّ عَنِ ٱلْعَٰلَمِينَ
-  } \" الزَّادُ وَالرَّاحِلَةُ \" حدثنـي مـحمد بن سنان، قال: ثنا أبو حذيفة، قال: ثنا
-  سفيان، عن إبراهيـم الـخوزي، عن محمد بن عباد، عن ابن عمر، أن النبيّ صلى الله عليه
-  وسلم/ قال في قوله عزّ وجلّ: { مَنِ ٱسْتَطَـٰعَ إِلَيْهِ سَبِيلاً } قال: \" السَّبِيلُ
-  إلى الحَجّ الزَّادُ وَالرَّاحِلَةُ \" حدثنا حميد بن مسعدة، قال: ثنا بشر بن الـمفضل،
-  قال: ثنا يونس، وحدثنـي يعقوب بن إبراهيـم، قال: ثنا ابن علـية، عن يونس، عن الـحسن،
-  قال: قرأ رسول الله صلى الله عليه وسلم: { وَللَّهِ عَلَى ٱلنَّاسِ حِجُّ ٱلْبَيْتِ
-  مَنِ ٱسْتَطَـٰعَ إِلَيْهِ سَبِيلاً } قالوا: يا رسول لله، ما السبـيـل؟ قال: \" الزَّادُ
-  وَالرَّاحِلَةُ \" حدثنا أبو عثمان الـمقدميّ، والـمثنى بن إبراهيـم، قالا: ثنا مسلـم
-  بن إبراهيـم، قال: ثنا هلال بن عبـيد الله مولـى ربـيعة بن عمرو بن مسلـم البـاهلـي،
-  قال: ثنا أبو إسحاق، عن الـحرث، عن علـيّ، عن النبـيّ صلى الله عليه وسلم، قال: \"
-  مَنْ مَلَكَ زَاداً وَرَاحِلَةً تُبَلِّغُهُ إلـى بَـيْتِ اللَّهِ فَلَـمْ يَحُجَّ
-  فَلا عَلَـيْهِ أنْ يـمُوتَ يَهُودِيًّا أوْ نَصْرَانِـيًّا، وذَلِكَ أنَّ الله عَزّ
-  وجَلَّ يَقُولُ فـي كِتَابِهِ: { وَللَّهِ عَلَى ٱلنَّاسِ حِجُّ ٱلْبَيْتِ مَنِ ٱسْتَطَـٰعَ
-  إِلَيْهِ سَبِيلاً } \" .. الآية.حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة،
-  عن الـحسن، قال: بلغنا أن نبـيّ الله صلى الله عليه وسلم، قال له قائل، أو رجل: يا
-  رسول الله، ما السبـيـل إلـيه؟ قال: \" مَنْ وَجَدَ زَاداً وَرَاحِلَةً \" حدثنا أحمد
-  بن الـحسن الترمذي، قال: ثنا شاذ بن فـياض البصري، قال: ثنا هلال بن هشام، عن أبـي
-  إسحاق الهمدانـي، عن الـحرث، عن علـيّ بن أبـي طالب رضي الله عنه، قال: قال رسول الله
-  صلى الله عليه وسلم: \" مَنْ مَلَكَ زاداً وَرَاحِلَةً فَلَـمْ يَحُجَّ ماتَ يُهودِيًّا
+  ٱسْتَطَـٰعَ إِلَيْهِ سَبِيلاً } قال: الزاد والبعير.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  الـمثنى، قال: ثنا عبد الله بن صالـح، قال: ثنـي معاوية، عن علـيّ، عن ابن عبـاس، قوله:
+  { وَللَّهِ عَلَى ٱلنَّاسِ حِجُّ ٱلْبَيْتِ مَنِ ٱسْتَطَـٰعَ إِلَيْهِ سَبِيلاً } ،
+  والسبـيـل: أن يصحّ بدن العبد، ويكون له ثمن زاد وراحلة من غير أن يُجْحِف به.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا خلاد بن أسلـم، قال: ثنا النضر بن شميـل، قال: أخبرنا إسرائيـل،
+  عن أبـي عبد الله البجلـي، قال: سألت سعيد بن جبـير عن قوله: { مَنِ ٱسْتَطَـٰعَ إِلَيْهِ
+  سَبِيلاً } قال: قال ابن عبـاس: من ملك ثلثمائة درهم، فهو السبـيـل إلـيه.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي مـحمد بن سنان، قال: ثنا أبو عاصم، عن إسحاق بن عثمان، قال:
+  سمعت عطاء يقول: السبـيـل: الزاد والراحلة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  مـحمد بن الـحسين، قال: ثنا أحمد بن الـمفضل، قال: ثنا أسبـاط، عن السدي: أما من استطاع
+  إلـيه سبـيلاً، فإن ابن عبـاس قال: السبـيـل: راحلة وزاد.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  الـمثنى، وأحمد بن حازم، قالا: ثنا أبو نعيـم، قال: ثنا سفيان، عن محمد بن سوقة، عن
+  سعيد بن جبير: { مَنِ ٱسْتَطَـٰعَ إِلَيْهِ سَبِيلاً } قال: الزاد والراحلة.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا أحمد بن حازم، قال: ثنا أبو نعيـم، قال: أخبرنا الربـيع بن صبـيح،
+  عن الـحسن، قال: الزاد والراحلة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن حميد، قال: ثنا جرير، عن منصور، عن الـحسن، قال: قرأ النبـيّ صلى الله عليه وسلم
+  هذه الآية: { وَللَّهِ عَلَى ٱلنَّاسِ حِجُّ ٱلْبَيْتِ مَنِ ٱسْتَطَـٰعَ إِلَيْهِ سَبِيلاً
+  } فقال رجل: يا رسول الله، ما السبـيـل؟ قال:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" الزَّادُ وَالرَّاحِلَةُ \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">واعتلّ
+  قائلو هذه الـمقالة بأخبـار رويت عن رسول الله صلى الله عليه وسلم بنـحو ما قالوا فـي
+  ذلك. ذكر الرواية بذلك عن رسول الله صلى الله عليه وسلم:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  الـحسن بن يحيـى، قال: أخبرنا عبد الرزاق، قال: أخبرنا إبراهيـم بن يزيد الـخوزي، قال:
+  سمعت مـحمد بن عبـاد بن جعفر، يحدّث عن ابن عمر، قال: قام رجل إلـى رسول الله صلى الله
+  عليه وسلم، فقال: ما السبـيـل؟ قال:</font></font>&#13;\t\t\t<label disabled=\"true\"
+  class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,7,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">6 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,8,1)\"><u>8</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,9,1)\"><u>9</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(1,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(3,
+  97)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(3,97)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">فِيهِ ءَايَٰتٌ بَيِّنَـٰتٌ مَّقَامُ إِبْرَٰهِيمَ
+  وَمَن دَخَلَهُ كَانَ آمِناً وَللَّهِ عَلَى ٱلنَّاسِ حِجُّ ٱلْبَيْتِ مَنِ ٱسْتَطَاعَ
+  إِلَيْهِ سَبِيلاً وَمَن كَفَرَ فَإِنَّ ٱلله غَنِيٌّ عَنِ ٱلْعَٰلَمِينَ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\"/></font><b><font class=\"TextResultArabic\"><font color=\"Red\">
+  \" الزَّادُ وَالرَّاحِلَةُ \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  مـحمد بن سنان، قال: ثنا أبو حذيفة، قال: ثنا سفيان، عن إبراهيـم الـخوزي، عن محمد
+  بن عباد، عن ابن عمر، أن النبيّ صلى الله عليه وسلم/ قال في قوله عزّ وجلّ: { مَنِ
+  ٱسْتَطَـٰعَ إِلَيْهِ سَبِيلاً } قال:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" السَّبِيلُ إلى الحَجّ الزَّادُ وَالرَّاحِلَةُ \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا حميد بن مسعدة، قال: ثنا بشر بن الـمفضل، قال: ثنا يونس، وحدثنـي
+  يعقوب بن إبراهيـم، قال: ثنا ابن علـية، عن يونس، عن الـحسن، قال: قرأ رسول الله صلى
+  الله عليه وسلم: { وَللَّهِ عَلَى ٱلنَّاسِ حِجُّ ٱلْبَيْتِ مَنِ ٱسْتَطَـٰعَ إِلَيْهِ
+  سَبِيلاً } قالوا: يا رسول لله، ما السبـيـل؟ قال:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" الزَّادُ وَالرَّاحِلَةُ \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  أبو عثمان الـمقدميّ، والـمثنى بن إبراهيـم، قالا: ثنا مسلـم بن إبراهيـم، قال: ثنا
+  هلال بن عبـيد الله مولـى ربـيعة بن عمرو بن مسلـم البـاهلـي، قال: ثنا أبو إسحاق،
+  عن الـحرث، عن علـيّ، عن النبـيّ صلى الله عليه وسلم، قال:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" مَنْ مَلَكَ زَاداً وَرَاحِلَةً تُبَلِّغُهُ إلـى بَـيْتِ اللَّهِ
+  فَلَـمْ يَحُجَّ فَلا عَلَـيْهِ أنْ يـمُوتَ يَهُودِيًّا أوْ نَصْرَانِـيًّا، وذَلِكَ
+  أنَّ الله عَزّ وجَلَّ يَقُولُ فـي كِتَابِهِ: { وَللَّهِ عَلَى ٱلنَّاسِ حِجُّ ٱلْبَيْتِ
+  مَنِ ٱسْتَطَـٰعَ إِلَيْهِ سَبِيلاً } \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">.. الآية.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا بشر، قال: ثنا يزيد، قال:
+  ثنا سعيد، عن قتادة، عن الـحسن، قال: بلغنا أن نبـيّ الله صلى الله عليه وسلم، قال
+  له قائل، أو رجل: يا رسول الله، ما السبـيـل إلـيه؟ قال:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" مَنْ وَجَدَ زَاداً وَرَاحِلَةً \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  أحمد بن الـحسن الترمذي، قال: ثنا شاذ بن فـياض البصري، قال: ثنا هلال بن هشام، عن
+  أبـي إسحاق الهمدانـي، عن الـحرث، عن علـيّ بن أبـي طالب رضي الله عنه، قال: قال رسول
+  الله صلى الله عليه وسلم:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" مَنْ مَلَكَ زاداً وَرَاحِلَةً فَلَـمْ يَحُجَّ ماتَ يُهودِيًّا
   أوْ نَصْرَانِـيًّا؛ وَذَلِكَ أنَّ اللَّهَ يَقُولُ فـي كِتَابِهِ: { وَللَّهِ عَلَى
-  ٱلنَّاسِ حِجُّ ٱلْبَيْتِ مَنِ ٱسْتَطَـٰعَ إِلَيْهِ سَبِيلاً } \" .. الآية.حدثني
+  ٱلنَّاسِ حِجُّ ٱلْبَيْتِ مَنِ ٱسْتَطَـٰعَ إِلَيْهِ سَبِيلاً } \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\">.. الآية.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
   أحمد بن حازم، قال: ثنا أبو نعيم، قال: ثنا حماد بن سلمة، عن قتادة وحميد، عن الـحسن،
-  أن رجلاً قال: يا رسول الله، ما السبيل إليه؟ قال: \" الزَّادُ وَالرَّاحِلَةُ \" حدثنا
+  أن رجلاً قال: يا رسول الله، ما السبيل إليه؟ قال:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" الزَّادُ وَالرَّاحِلَةُ \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
   مـحمد بن بشار، قال: ثنا الـحجاج بن الـمنهال، قال: ثنا حماد، عن قتادة، عن الـحسن،
-  عن النبـيّ صلى الله عليه وسلم، مثله.وقال آخرون: السبـيـل التـي إذا استطاعها الـمرء
-  كان علـيه الـحجّ: الطاقة للوصول إلـيه. قال: وذلك قد يكون بـالـمشي وبـالركوب، وقد
-  يكون مع وجودهما العجز عن الوصول إلـيه، بـامتناع الطريق من العدوّ الـحائل، وبقلة
-  الـماء وما أشبه ذلك.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 9 10 \r\n\t\t\t\t\t\t\t\tمزيد</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ فِيهِ ءَايَٰتٌ بَيِّنَـٰتٌ مَّقَامُ
-  إِبْرَٰهِيمَ وَمَن دَخَلَهُ كَانَ آمِناً وَللَّهِ عَلَى ٱلنَّاسِ حِجُّ ٱلْبَيْتِ
-  مَنِ ٱسْتَطَاعَ إِلَيْهِ سَبِيلاً وَمَن كَفَرَ فَإِنَّ ٱلله غَنِيٌّ عَنِ ٱلْعَٰلَمِينَ
-  }قالوا: فلا بـيان فـي ذلك أبـين مـما بـينه الله عزّ وجلّ بأن يكون مستطيعاً إلـيه
-  السبـيـل، وذلك الوصول إلـيه بغير مانع ولا حائل بـينه وبـينه، وذلك قد يكون بـالـمشي
-  وحده، وإن أعوزه الـمركب، وقد يكون بـالـمركب وغير ذلك. ذكر من قال ذلك:حدثنا مـحمد
-  بن بشار، قال: ثنا عبد الرحمن بن مهدي، قال: ثنا سفـيان، عن خالد بن أبـي كريـمة، عن
-  رجل، عن ابن الزبـير، قوله: { وَللَّهِ عَلَى ٱلنَّاسِ حِجُّ ٱلْبَيْتِ مَنِ ٱسْتَطَـٰعَ
-  إِلَيْهِ سَبِيلاً } قال: علـى قدر القوّة.حدثنا يحيـى بن أبـي طالب، قال: أخبرنا يزيد،
-  قال: أخبرنا جويبر، عن الضحاك فـي قوله: { مَنِ ٱسْتَطَـٰعَ إِلَيْهِ سَبِيلاً } قال:
-  الزاد والراحلة، فإن كان شابـاً صحيحاً لـيس له مال، فعلـيه أن يؤاجر نفسه بأكله وعقبه
-  حتـى يقضي حجته. فقال له قائل: كلف الله الناس أن يـمشوا إلـى البـيت؟ فقال: لو أن
-  لبعضهم ميراثاً بـمكة أكان تاركه؟ والله لأنطلق إلـيه ولو حبواً‍! كذلك يجب علـيه الـحجّ.حدثنا
-  مـحمد بن بشار، قال: ثنا مـحمد بن بكر، قال: أخبرنا ابن جريج، قال: قال عطاء: من وجد
-  شيئاً يبلغه فقد وجد سبـيلاً، كما قال الله عزّ وجلّ: { مَنِ ٱسْتَطَـٰعَ إِلَيْهِ
-  سَبِيلاً }.حدثنا أحمد بن حازم، قال: ثنا أبو نعيـم، قال: ثنا أبو هانىء، قال: سئل
-  عامر عن هذه الآية: { وَللَّهِ عَلَى ٱلنَّاسِ حِجُّ ٱلْبَيْتِ مَنِ ٱسْتَطَـٰعَ إِلَيْهِ
-  سَبِيلاً } قال: السبـيـل: ما يسّره الله.حدثنـي مـحمد بن سنان، قال: ثنا أبو بكر الـحنفـي،
-  قال: ثنا عبـاد، عن الـحسن: من وجد شيئاً يبلغه فقد استطاع إلـيه سبـيلاً.وقال آخرون:
-  السبـيـل إلـى ذلك: الصحة. ذكر من قال ذلك:حدثنا مـحمد بن حميد ومـحمد بن عبد الله
-  بن عبد الـحكم والـمثنى بن إبراهيـم، قالوا: حدثنا أبو عبد الرحمن الـمقري، قال: ثنا
-  حيوة بن شريح وابن لهيعة، قالا: أخبرنا شرحبـيـل بن شريك الـمعافري أنه سمع عكرمة مولـى
-  ابن عبـاس يقول فـي هذه الآية: { وَللَّهِ عَلَى ٱلنَّاسِ حِجُّ ٱلْبَيْتِ مَنِ ٱسْتَطَـٰعَ
-  إِلَيْهِ سَبِيلاً } قال: السبـيـل: الصحة.وقال آخرون بـما:حدثنـي يونس، قال: أخبرنا
-  ابن وهب، قال: قال ابن زيد فـي قول الله عزّ وجلّ: { وَللَّهِ عَلَى ٱلنَّاسِ حِجُّ
-  ٱلْبَيْتِ مَنِ ٱسْتَطَـٰعَ إِلَيْهِ سَبِيلاً } قال: من وجد قوّة فـي النفقة والـجسد
-  والـحُمْلان، قال: وإن كان فـي جسده ما لا يستطيع الـحجّ فلـيس علـيه الـحجّ، وإن كان
-  له قوّة فـي مال، كما إذا كان صحيح الـجسد ولا يجد مالاً ولا قوّة، يقولون: لا يكلف
-  أن يـمشي.وأولـى الأقوال فـي ذلك عندنا بـالصواب، قول من قال بقول ابن الزبـير وعطاء،
-  إن ذلك علـى قدر الطاقة، لأن السبـيـل فـي كلام العرب: الطريق، فمن كان واجداً طريقاً
-  إلـى الـحجّ لا مانع له منه من زمانة، أو عجز، أو عدوّ، أو قلة ماء فـي طريقه، أو زاد،
-  وضعف عن الـمشي، فعلـيه فرض الـحجّ لا يجزيه إلا أداؤه فإن لـم يكن واجداً سبـيلاً،
-  أعنـي بذلك: فإن لـم يكن مطيقاً الـحجّ بتعذّر بعض هذه الـمعانـي التـي وصفناها علـيه،
-  فهو مـمن لا يجد إلـيه طريقاً، ولا يستطيعه، لأن الاستطاعة إلـى ذلك هو القدرة علـيه،
-  ومن كان عاجزاً عنه ببعض الأسبـاب التـي ذكرنا أو بغير ذلك، فهو غير مطيق ولا مستطيع
-  إلـيه السبـيـل.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 9 10 \r\n\t\t\t\t\t\t\t\tمزيد</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ فِيهِ ءَايَٰتٌ بَيِّنَـٰتٌ مَّقَامُ
-  إِبْرَٰهِيمَ وَمَن دَخَلَهُ كَانَ آمِناً وَللَّهِ عَلَى ٱلنَّاسِ حِجُّ ٱلْبَيْتِ
-  مَنِ ٱسْتَطَاعَ إِلَيْهِ سَبِيلاً وَمَن كَفَرَ فَإِنَّ ٱلله غَنِيٌّ عَنِ ٱلْعَٰلَمِينَ
-  }وإنـما قلنا هذه الـمقالة أولـى بـالصحة مـما خالفها، لأن الله عزّ وجلّ لـم يخصص
-  إذ ألزم الناس فرض الـحجّ بعض مستطيعي السبـيـل إلـيه بسقوط فرض ذلك عنه فذلك علـى
-  كل مستطيع إلـيه سبـيلاً بعموم الآية. فأما الأخبـار التـي رويت عن رسول الله صلى الله
-  عليه وسلم فـي ذلك بأنه الزاد والراحلة، فإنها أخبـار فـي أسانـيدها نظر، لا يجوز الاحتـجاج
-  بـمثلها فـي الدين.واختلف القراء فـي قراءة الـحجّ، فقرأ ذلك جماعة من قراء أهل الـمدينة
-  والعراق بـالكسر: { وَللَّهِ عَلَى ٱلنَّاسِ حِجُّ ٱلْبَيْتِ } ، وقرأ ذلك جماعة أخر
-  منهم بـالفتـح: «وَلِلَّهِ علـى النَّاسِ حَجُّ البَـيْتِ» وهما لغتان معروفتان للعرب،
-  فـالكسر لغة أهل نـجد، والفتـح لغة أهل العالـية، ولـم نر أحداً من أهل العربـية ادّعى
-  فرقاً بـينهما فـي معنى ولا غيره غير ما ذكرنا من اختلاف اللغتـين، إلا ما:حدثنا به
-  أبو هشام الرفـاعي، قال: قال حسين الجعفي: الحَجّ مفتوح: اسم، والحِجّ مكسور: عمل.وهذا
-  قول لـم أر أهل الـمعرفة بلغات العرب ومعانـي كلامهم يعرفونه، بل رأيتهم مـجمعين علـى
-  ما وصفت من أنهما لغتان بـمعنى واحد. والذي نقول به فـي قراءة ذلك، أن القراءتـين إذ
-  كانتا مستفـيضتـين فـي قراءة أهل الإسلام، ولا اختلاف بـينهما فـي معنى ولا غيره، فهما
-  قراءتان قد جاءتا مـجيء الـحجة، فبأيّ القراءتـين ـ أعنـي بكسر الـحاء من الـحجّ أو
-  فتـحها ـ قرأ القارىء فمصيب الصواب فـي قراءته.وأما «مَنِ» التـي مع قوله: { مَنِ ٱسْتَطَـٰعَ
-  } فإنه فـي موضع خفض علـى الإبدال من الناس، لأن معنى الكلام: ولله علـى من استطاع
-  من الناس سبـيلاً إلـى حجّ البـيت حجه؛ فلـما تقدم ذكر الناس قبل «مَن» بـين بقوله:
-  { مَنِ ٱسْتَطَـٰعَ إِلَيْهِ سَبِيلاً } ، الذي علـيه فرض ذلك منهم، لأن فرض ذلك علـى
-  بعض الناس دون جميعهم.القول فـي تأويـل قوله تعالـى: { وَمَن كَفَرَ فَإِنَّ ٱلله غَنِىٌّ
-  عَنِ ٱلْعَـٰلَمِينَ }.يعنـي بذلك جلّ ثناؤه: ومن جحد ما ألزمه الله من فرض حجّ بـيته،
-  فأنكره وكفر به، فإن الله غنـيّ عنه، وعن حجه وعمله، وعن سائر خـلقه من الـجنّ والإنس.
-  كما:حدثنا ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا عبد الواحد بن زياد، عن الـحجاج
-  بن أرطاة، عن مـحمد بن أبـي الـمـجالد، قال: سمعت مقسماً، عن ابن عبـاس فـي قوله: {
-  وَمَن كَفَرَ } قال: من زعم أنه لـيس بفرض علـيه.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 9 10 \r\n\t\t\t\t\t\t\t\tمزيد</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ فِيهِ ءَايَٰتٌ بَيِّنَـٰتٌ مَّقَامُ
-  إِبْرَٰهِيمَ وَمَن دَخَلَهُ كَانَ آمِناً وَللَّهِ عَلَى ٱلنَّاسِ حِجُّ ٱلْبَيْتِ
-  مَنِ ٱسْتَطَاعَ إِلَيْهِ سَبِيلاً وَمَن كَفَرَ فَإِنَّ ٱلله غَنِيٌّ عَنِ ٱلْعَٰلَمِينَ
-  }حدثني يعقوب بن إبراهيـم، قال: ثنا هشيم، قال: أخبرنا الـحجاج، عن عطاء وجويبر، عن
-  الضحاك فـي قوله: { وَمَن كَفَرَ فَإِنَّ ٱلله غَنِىٌّ عَنِ ٱلْعَـٰلَمِينَ } قالا:
-  من جحد الـحجّ وكفر به.حدثنا ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا هشيـم، عن الـحجاج
-  بن أرطاة، عن عطاء، قال: من جحد به.حدثنا ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا
-  عمران القطان، يقول: من زعم أن الـحجّ لـيس علـيه.حدثنا مـحمد بن سنان، قال: ثنا أبو
-  بكر، عن عبـاد، عن الـحسن فـي قوله: { وَمَن كَفَرَ فَإِنَّ ٱلله غَنِىٌّ عَنِ ٱلْعَـٰلَمِينَ
-  } قال: من أنكره، ولا يرى أن ذلك علـيه حقاً، فذلك كفر.حدثنـي مـحمد بن عمرو، قال:
-  ثنا أبو عاصم، عن عيسى، عن ابن أبـي نـجيح، عن مـجاهد: { وَمَن كَفَرَ } قال: من كفر
-  بـالـحجّ.حدثنا عبد الـحميد بن بـيان، قال: أخبرنا إسحاق بن يوسف، عن أبـي بشر، عن
-  ابن أبـي نـجيح، عن مـجاهد فـي قوله: { وَمَن كَفَرَ فَإِنَّ ٱلله غَنِىٌّ عَنِ ٱلْعَـٰلَمِينَ
-  } قال: من كفر بـالـحجّ كفر بـالله.حدثنـي الـمثنى، قال: ثنا يعلـى بن أسد، قال: ثنا
-  خالد، عن هشام بن حسان، عن الـحسن فـي قول الله عزّ وجلّ: { وَللَّهِ عَلَى ٱلنَّاسِ
-  حِجُّ ٱلْبَيْتِ مَنِ ٱسْتَطَـٰعَ إِلَيْهِ سَبِيلاً وَمَن كَفَرَ } قال: من لـم يره
-  علـيه واجبـاً.حدثنـي الـمثنى، قال: ثنا أبو حذيفة، قال: ثنا شبل، عن ابن أبـي نـجيح،
-  عن مـجاهد: { وَمَن كَفَرَ } قال بـالـحجّ.وقال آخرون: معنى ذلك: أن لا يكون معتقداً
-  فـي حجه أن له الأجر علـيه، ولا أن علـيه بتركه إثماً ولا عقوبة. ذكر من قال ذلك:حدثنـي
-  يعقوب بن إبراهيـم، قال: ثنا ابن علـية، قال: أخبرنا ابن جريج، قال: ثنـي عبد الله
-  بن مسلـم، عن مـجاهد، فـي قوله: { وَمَن كَفَرَ فَإِنَّ ٱلله غَنِىٌّ عَنِ ٱلْعَـٰلَمِينَ
-  } قال: هو ما إن حجّ لـم يره بِرّاً، وإن قعد لـم يره مأثماً.حدثنا عبد الـحميد بن
-  بـيان، قال: أخبرنا إسحاق بن يوسف، عن ابن جريج، عن مـجاهد، قال: هو ما إن حجّ لـم
-  يره بِرّاً، وإن قعد لـم يره مأثماً.حدثنـي أحمد بن حازم، قال: ثنا أبو نعيـم، قال:
-  ثنا مطر، عن أبـي داود نفـيع، قال: قال رسول الله صلى الله عليه وسلم: « { وَللَّهِ
-  عَلَى ٱلنَّاسِ حِجُّ ٱلْبَيْتِ مَنِ ٱسْتَطَـٰعَ إِلَيْهِ سَبِيلاً وَمَن كَفَرَ فَإِنَّ
-  ٱلله غَنِىٌّ عَنِ ٱلْعَـٰلَمِينَ } » فقام رجل من هذيـل، فقال: يا رسول الله من تركه
-  كفر؟ قال:\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 9 10 \r\n\t\t\t\t\t\t\t\tمزيد</section>"
+  عن النبـيّ صلى الله عليه وسلم، مثله.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  آخرون: السبـيـل التـي إذا استطاعها الـمرء كان علـيه الـحجّ: الطاقة للوصول إلـيه.
+  قال: وذلك قد يكون بـالـمشي وبـالركوب، وقد يكون مع وجودهما العجز عن الوصول إلـيه،
+  بـامتناع الطريق من العدوّ الـحائل، وبقلة الـماء وما أشبه ذلك.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,8,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">7 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,8,1)\"><u>8</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,9,1)\"><u>9</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(1,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(3,
+  97)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(3,97)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">فِيهِ ءَايَٰتٌ بَيِّنَـٰتٌ مَّقَامُ إِبْرَٰهِيمَ
+  وَمَن دَخَلَهُ كَانَ آمِناً وَللَّهِ عَلَى ٱلنَّاسِ حِجُّ ٱلْبَيْتِ مَنِ ٱسْتَطَاعَ
+  إِلَيْهِ سَبِيلاً وَمَن كَفَرَ فَإِنَّ ٱلله غَنِيٌّ عَنِ ٱلْعَٰلَمِينَ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">قالوا: فلا بـيان فـي ذلك أبـين مـما بـينه الله عزّ وجلّ بأن يكون
+  مستطيعاً إلـيه السبـيـل، وذلك الوصول إلـيه بغير مانع ولا حائل بـينه وبـينه، وذلك
+  قد يكون بـالـمشي وحده، وإن أعوزه الـمركب، وقد يكون بـالـمركب وغير ذلك. ذكر من قال
+  ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا مـحمد بن بشار، قال: ثنا عبد
+  الرحمن بن مهدي، قال: ثنا سفـيان، عن خالد بن أبـي كريـمة، عن رجل، عن ابن الزبـير،
+  قوله: { وَللَّهِ عَلَى ٱلنَّاسِ حِجُّ ٱلْبَيْتِ مَنِ ٱسْتَطَـٰعَ إِلَيْهِ سَبِيلاً
+  } قال: علـى قدر القوّة.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا يحيـى بن أبـي طالب، قال:
+  أخبرنا يزيد، قال: أخبرنا جويبر، عن الضحاك فـي قوله: { مَنِ ٱسْتَطَـٰعَ إِلَيْهِ
+  سَبِيلاً } قال: الزاد والراحلة، فإن كان شابـاً صحيحاً لـيس له مال، فعلـيه أن يؤاجر
+  نفسه بأكله وعقبه حتـى يقضي حجته. فقال له قائل: كلف الله الناس أن يـمشوا إلـى البـيت؟
+  فقال: لو أن لبعضهم ميراثاً بـمكة أكان تاركه؟ والله لأنطلق إلـيه ولو حبواً‍! كذلك
+  يجب علـيه الـحجّ.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا مـحمد بن بشار، قال: ثنا مـحمد
+  بن بكر، قال: أخبرنا ابن جريج، قال: قال عطاء: من وجد شيئاً يبلغه فقد وجد سبـيلاً،
+  كما قال الله عزّ وجلّ: { مَنِ ٱسْتَطَـٰعَ إِلَيْهِ سَبِيلاً }.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا أحمد بن حازم، قال: ثنا أبو نعيـم، قال: ثنا أبو هانىء، قال:
+  سئل عامر عن هذه الآية: { وَللَّهِ عَلَى ٱلنَّاسِ حِجُّ ٱلْبَيْتِ مَنِ ٱسْتَطَـٰعَ
+  إِلَيْهِ سَبِيلاً } قال: السبـيـل: ما يسّره الله.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  مـحمد بن سنان، قال: ثنا أبو بكر الـحنفـي، قال: ثنا عبـاد، عن الـحسن: من وجد شيئاً
+  يبلغه فقد استطاع إلـيه سبـيلاً.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  آخرون: السبـيـل إلـى ذلك: الصحة. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  مـحمد بن حميد ومـحمد بن عبد الله بن عبد الـحكم والـمثنى بن إبراهيـم، قالوا: حدثنا
+  أبو عبد الرحمن الـمقري، قال: ثنا حيوة بن شريح وابن لهيعة، قالا: أخبرنا شرحبـيـل
+  بن شريك الـمعافري أنه سمع عكرمة مولـى ابن عبـاس يقول فـي هذه الآية: { وَللَّهِ عَلَى
+  ٱلنَّاسِ حِجُّ ٱلْبَيْتِ مَنِ ٱسْتَطَـٰعَ إِلَيْهِ سَبِيلاً } قال: السبـيـل: الصحة.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال آخرون بـما:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد فـي قول الله عزّ وجلّ: { وَللَّهِ عَلَى
+  ٱلنَّاسِ حِجُّ ٱلْبَيْتِ مَنِ ٱسْتَطَـٰعَ إِلَيْهِ سَبِيلاً } قال: من وجد قوّة فـي
+  النفقة والـجسد والـحُمْلان، قال: وإن كان فـي جسده ما لا يستطيع الـحجّ فلـيس علـيه
+  الـحجّ، وإن كان له قوّة فـي مال، كما إذا كان صحيح الـجسد ولا يجد مالاً ولا قوّة،
+  يقولون: لا يكلف أن يـمشي.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وأولـى الأقوال فـي ذلك عندنا بـالصواب،
+  قول من قال بقول ابن الزبـير وعطاء، إن ذلك علـى قدر الطاقة، لأن السبـيـل فـي كلام
+  العرب: الطريق، فمن كان واجداً طريقاً إلـى الـحجّ لا مانع له منه من زمانة، أو عجز،
+  أو عدوّ، أو قلة ماء فـي طريقه، أو زاد، وضعف عن الـمشي، فعلـيه فرض الـحجّ لا يجزيه
+  إلا أداؤه فإن لـم يكن واجداً سبـيلاً، أعنـي بذلك: فإن لـم يكن مطيقاً الـحجّ بتعذّر
+  بعض هذه الـمعانـي التـي وصفناها علـيه، فهو مـمن لا يجد إلـيه طريقاً، ولا يستطيعه،
+  لأن الاستطاعة إلـى ذلك هو القدرة علـيه، ومن كان عاجزاً عنه ببعض الأسبـاب التـي ذكرنا
+  أو بغير ذلك، فهو غير مطيق ولا مستطيع إلـيه السبـيـل.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,7,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,9,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">8 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,9,1)\"><u>9</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(1,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(3,
+  97)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(3,97)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">فِيهِ ءَايَٰتٌ بَيِّنَـٰتٌ مَّقَامُ إِبْرَٰهِيمَ
+  وَمَن دَخَلَهُ كَانَ آمِناً وَللَّهِ عَلَى ٱلنَّاسِ حِجُّ ٱلْبَيْتِ مَنِ ٱسْتَطَاعَ
+  إِلَيْهِ سَبِيلاً وَمَن كَفَرَ فَإِنَّ ٱلله غَنِيٌّ عَنِ ٱلْعَٰلَمِينَ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">وإنـما قلنا هذه الـمقالة أولـى بـالصحة مـما خالفها، لأن الله عزّ
+  وجلّ لـم يخصص إذ ألزم الناس فرض الـحجّ بعض مستطيعي السبـيـل إلـيه بسقوط فرض ذلك
+  عنه فذلك علـى كل مستطيع إلـيه سبـيلاً بعموم الآية. فأما الأخبـار التـي رويت عن رسول
+  الله صلى الله عليه وسلم فـي ذلك بأنه الزاد والراحلة، فإنها أخبـار فـي أسانـيدها
+  نظر، لا يجوز الاحتـجاج بـمثلها فـي الدين.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">واختلف
+  القراء فـي قراءة الـحجّ، فقرأ ذلك جماعة من قراء أهل الـمدينة والعراق بـالكسر: {
+  وَللَّهِ عَلَى ٱلنَّاسِ حِجُّ ٱلْبَيْتِ } ، وقرأ ذلك جماعة أخر منهم بـالفتـح: «وَلِلَّهِ
+  علـى النَّاسِ حَجُّ البَـيْتِ» وهما لغتان معروفتان للعرب، فـالكسر لغة أهل نـجد،
+  والفتـح لغة أهل العالـية، ولـم نر أحداً من أهل العربـية ادّعى فرقاً بـينهما فـي
+  معنى ولا غيره غير ما ذكرنا من اختلاف اللغتـين، إلا ما:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  به أبو هشام الرفـاعي، قال: قال حسين الجعفي: الحَجّ مفتوح: اسم، والحِجّ مكسور: عمل.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وهذا قول لـم أر أهل الـمعرفة بلغات العرب ومعانـي كلامهم يعرفونه،
+  بل رأيتهم مـجمعين علـى ما وصفت من أنهما لغتان بـمعنى واحد. والذي نقول به فـي قراءة
+  ذلك، أن القراءتـين إذ كانتا مستفـيضتـين فـي قراءة أهل الإسلام، ولا اختلاف بـينهما
+  فـي معنى ولا غيره، فهما قراءتان قد جاءتا مـجيء الـحجة، فبأيّ القراءتـين ـ أعنـي
+  بكسر الـحاء من الـحجّ أو فتـحها ـ قرأ القارىء فمصيب الصواب فـي قراءته.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وأما «مَنِ» التـي مع قوله: { مَنِ ٱسْتَطَـٰعَ } فإنه فـي موضع خفض
+  علـى الإبدال من الناس، لأن معنى الكلام: ولله علـى من استطاع من الناس سبـيلاً إلـى
+  حجّ البـيت حجه؛ فلـما تقدم ذكر الناس قبل «مَن» بـين بقوله: { مَنِ ٱسْتَطَـٰعَ إِلَيْهِ
+  سَبِيلاً } ، الذي علـيه فرض ذلك منهم، لأن فرض ذلك علـى بعض الناس دون جميعهم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">القول فـي تأويـل قوله تعالـى: { وَمَن كَفَرَ فَإِنَّ ٱلله غَنِىٌّ
+  عَنِ ٱلْعَـٰلَمِينَ }.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">يعنـي بذلك جلّ ثناؤه: ومن جحد ما
+  ألزمه الله من فرض حجّ بـيته، فأنكره وكفر به، فإن الله غنـيّ عنه، وعن حجه وعمله،
+  وعن سائر خـلقه من الـجنّ والإنس. كما:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا عبد الواحد بن زياد، عن الـحجاج بن أرطاة،
+  عن مـحمد بن أبـي الـمـجالد، قال: سمعت مقسماً، عن ابن عبـاس فـي قوله: { وَمَن كَفَرَ
+  } قال: من زعم أنه لـيس بفرض علـيه.</font></font>&#13;\t\t\t<label disabled=\"true\"
+  class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,8,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,10,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,8,1)\"><u>8</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">9 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(1,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(3,
+  97)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(3,97)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">فِيهِ ءَايَٰتٌ بَيِّنَـٰتٌ مَّقَامُ إِبْرَٰهِيمَ
+  وَمَن دَخَلَهُ كَانَ آمِناً وَللَّهِ عَلَى ٱلنَّاسِ حِجُّ ٱلْبَيْتِ مَنِ ٱسْتَطَاعَ
+  إِلَيْهِ سَبِيلاً وَمَن كَفَرَ فَإِنَّ ٱلله غَنِيٌّ عَنِ ٱلْعَٰلَمِينَ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني يعقوب بن إبراهيـم، قال: ثنا هشيم، قال: أخبرنا الـحجاج، عن
+  عطاء وجويبر، عن الضحاك فـي قوله: { وَمَن كَفَرَ فَإِنَّ ٱلله غَنِىٌّ عَنِ ٱلْعَـٰلَمِينَ
+  } قالا: من جحد الـحجّ وكفر به.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا هشيـم، عن الـحجاج بن أرطاة، عن عطاء، قال:
+  من جحد به.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن بشار، قال: ثنا عبد الرحمن،
+  قال: ثنا عمران القطان، يقول: من زعم أن الـحجّ لـيس علـيه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  مـحمد بن سنان، قال: ثنا أبو بكر، عن عبـاد، عن الـحسن فـي قوله: { وَمَن كَفَرَ فَإِنَّ
+  ٱلله غَنِىٌّ عَنِ ٱلْعَـٰلَمِينَ } قال: من أنكره، ولا يرى أن ذلك علـيه حقاً، فذلك
+  كفر.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي مـحمد بن عمرو، قال: ثنا
+  أبو عاصم، عن عيسى، عن ابن أبـي نـجيح، عن مـجاهد: { وَمَن كَفَرَ } قال: من كفر بـالـحجّ.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا عبد الـحميد بن بـيان، قال: أخبرنا إسحاق بن يوسف، عن أبـي بشر،
+  عن ابن أبـي نـجيح، عن مـجاهد فـي قوله: { وَمَن كَفَرَ فَإِنَّ ٱلله غَنِىٌّ عَنِ
+  ٱلْعَـٰلَمِينَ } قال: من كفر بـالـحجّ كفر بـالله.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  الـمثنى، قال: ثنا يعلـى بن أسد، قال: ثنا خالد، عن هشام بن حسان، عن الـحسن فـي قول
+  الله عزّ وجلّ: { وَللَّهِ عَلَى ٱلنَّاسِ حِجُّ ٱلْبَيْتِ مَنِ ٱسْتَطَـٰعَ إِلَيْهِ
+  سَبِيلاً وَمَن كَفَرَ } قال: من لـم يره علـيه واجبـاً.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  الـمثنى، قال: ثنا أبو حذيفة، قال: ثنا شبل، عن ابن أبـي نـجيح، عن مـجاهد: { وَمَن
+  كَفَرَ } قال بـالـحجّ.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال آخرون: معنى ذلك: أن لا يكون
+  معتقداً فـي حجه أن له الأجر علـيه، ولا أن علـيه بتركه إثماً ولا عقوبة. ذكر من قال
+  ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي يعقوب بن إبراهيـم، قال:
+  ثنا ابن علـية، قال: أخبرنا ابن جريج، قال: ثنـي عبد الله بن مسلـم، عن مـجاهد، فـي
+  قوله: { وَمَن كَفَرَ فَإِنَّ ٱلله غَنِىٌّ عَنِ ٱلْعَـٰلَمِينَ } قال: هو ما إن حجّ
+  لـم يره بِرّاً، وإن قعد لـم يره مأثماً.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  عبد الـحميد بن بـيان، قال: أخبرنا إسحاق بن يوسف، عن ابن جريج، عن مـجاهد، قال: هو
+  ما إن حجّ لـم يره بِرّاً، وإن قعد لـم يره مأثماً.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  أحمد بن حازم، قال: ثنا أبو نعيـم، قال: ثنا مطر، عن أبـي داود نفـيع، قال: قال رسول
+  الله صلى الله عليه وسلم: « { وَللَّهِ عَلَى ٱلنَّاسِ حِجُّ ٱلْبَيْتِ مَنِ ٱسْتَطَـٰعَ
+  إِلَيْهِ سَبِيلاً وَمَن كَفَرَ فَإِنَّ ٱلله غَنِىٌّ عَنِ ٱلْعَـٰلَمِينَ } » فقام
+  رجل من هذيـل، فقال: يا رسول الله من تركه كفر؟ قال:</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,9,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,11,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,8,1)\"><u>8</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,9,1)\"><u>9</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">10 </font></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(1,11,1)\">مزيد</a></td></tr></table></center></div></section>"
 

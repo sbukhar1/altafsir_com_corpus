@@ -1,4 +1,4 @@
-location:
+position:
   sura: '002'
   aaya: '219'
   madhab: '01'
@@ -7,357 +7,888 @@ meta:
   title: تفسير جامع البيان في تفسير القرآن
   author: الطبري
   year: '310'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ يَسْأَلُونَكَ
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(2, 219)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(2,219)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">يَسْأَلُونَكَ
   عَنِ ٱلْخَمْرِ وَٱلْمَيْسِرِ قُلْ فِيهِمَآ إِثْمٌ كَبِيرٌ وَمَنَٰفِعُ لِلنَّاسِ
   وَإِثْمُهُمَآ أَكْبَرُ مِن نَّفْعِهِمَا وَيَسْأَلُونَكَ مَاذَا يُنفِقُونَ قُلِ ٱلْعَفْوَ
-  كَذٰلِكَ يُبيِّنُ ٱللَّهُ لَكُمُ ٱلأيَٰتِ لَعَلَّكُمْ تَتَفَكَّرُونَ } * { فِي ٱلدُّنْيَا
-  وَٱلآخِرَةِ وَيَسْأَلُونَكَ عَنِ ٱلْيَتَامَىٰ قُلْ إِصْلاَحٌ لَّهُمْ خَيْرٌ وَإِنْ
-  تُخَالِطُوهُمْ فَإِخْوَانُكُمْ وَٱللَّهُ يَعْلَمُ ٱلْمُفْسِدَ مِنَ ٱلْمُصْلِحِ وَلَوْ
-  شَآءَ ٱللَّهُ لأَعْنَتَكُمْ إِنَّ ٱللَّهَ عَزِيزٌ حَكِيمٌ }يعنـي بذلك جل ثناؤه:
-  يسألك أصحابك يا مـحمد عن الـخمر وشربها. والـخمر: كل شراب خامر العقل فستره وغطى علـيه،
-  وهو من قول القائل: خَمَرت الإناء إذا غطيته، وخَمِرَ الرجل: إذا دخـل فـي الـخَمَرِ،
-  ويقال: هو فـي خُمار الناس وغُمارهم، يراد به: دخـل فـي عُرض الناس، ويقال للضبع: خامري
-  أم عامر، أي استتري. وما خامر العقل من داء وسكر فخالطه وغمره فهو خمر، ومن ذلك أيضاً
-  خِمار الـمرأة، وذلك لأنها تستر به رأسها فتغطيه، ومنه يقال: هو يـمشي لك الـخَمَر،
-  أي مستـخفـياً، كما قال العجاج:فِـي لامِعِ الِعقْبـانِ لا يأتـي الـخَمَرْ   يُوجِّهُ
-  الأرْضَ ويَسْتاقُ الشَّجَرْويعنـي بقوله: لا يأتـي الـخمر: لا يأتـي مستـخفـياً ولا
-  مسارقة، ولكن ظاهراً برايات وجيوش والعقبـان جمع عقاب، وهي الرايات.وأما «الـميسر»
-  فإنها «الـمفعِل» من قول القائل: يسَر لـي هذا الأمر: إذا وجب لـي فهو يَـيْسِر لـي
-  يَسَراً ومَيْسِراً، والـياسر: الواجب، بقداح وجب ذلك أو مبـاحه أو غير ذلك، ثم قـيـل
-  للـمقامر: ياسر، ويَسَر، كما قال الشاعر:فَبِتُّ كأنَّنِـي يَسَرٌ غَبِـينٌ   يُقَلِّبُ
-  بَعْدَما اخْتُلِعَ القِدَاحاوكما قال النابغة:أوْ ياسِرٌ ذَهَبَ القِداحُ بوَفْرِه   أسِفٌ
-  نآكَلَهُ الصَّديقُ مُخَـلَّعُيعنـي بـالـياسر: الـمقامر، وقـيـل للقمار: ميسر، وكان
-  مـجاهد يقول نـحو ما قلنا فـي ذلك.حدثنـي مـحمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا
-  عيسى، عن ابن أبـي نـجيح، عن مـجاهد فـي قوله: { يَسألُونَكَ عَن الـخَمْرِ وَالـمَيْسِر
-  } قال: القمار، وإنـما سمي الـميسر لقولهم أيسروا واجزروا، كقولك ضع كذا وكذا.حدثنا
-  مـحمد بن بشار، قال: ثنا أبو عاصم، قال: ثنا سفـيان، عن لـيث، عن مـجاهد، قال: كل القمار
-  من الـميسر، حتـى لعب الصبـيان بـالـجوز.حدثنا مـحمد بن بشار، قال: ثنا عبد الرحمن،قال:
-  ثنا سفـيان، عن عبد الـملك بن عمير، عن أبـي الأحوص، قال: قال عبد الله: إياكم وهذه
-  الكعاب الـموسومة التـي تزجرون بها زجرا فإنهن من الـميسر.حدثنا مـحمد بن الـمثنى،
-  قال: ثنا مـحمد بن جعفر، قال: ثنا شعبة، عن عبد الـملك بن عمير، عن أبـي الأحوص، مثله.حدثنا
+  كَذٰلِكَ يُبيِّنُ ٱللَّهُ لَكُمُ ٱلأيَٰتِ لَعَلَّكُمْ تَتَفَكَّرُونَ</a> <b>} *
+  </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">فِي
+  ٱلدُّنْيَا وَٱلآخِرَةِ وَيَسْأَلُونَكَ عَنِ ٱلْيَتَامَىٰ قُلْ إِصْلاَحٌ لَّهُمْ
+  خَيْرٌ وَإِنْ تُخَالِطُوهُمْ فَإِخْوَانُكُمْ وَٱللَّهُ يَعْلَمُ ٱلْمُفْسِدَ مِنَ
+  ٱلْمُصْلِحِ وَلَوْ شَآءَ ٱللَّهُ لأَعْنَتَكُمْ إِنَّ ٱللَّهَ عَزِيزٌ حَكِيمٌ</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">يعنـي بذلك جل ثناؤه: يسألك أصحابك يا مـحمد عن الـخمر وشربها. والـخمر:
+  كل شراب خامر العقل فستره وغطى علـيه، وهو من قول القائل: خَمَرت الإناء إذا غطيته،
+  وخَمِرَ الرجل: إذا دخـل فـي الـخَمَرِ، ويقال: هو فـي خُمار الناس وغُمارهم، يراد
+  به: دخـل فـي عُرض الناس، ويقال للضبع: خامري أم عامر، أي استتري. وما خامر العقل من
+  داء وسكر فخالطه وغمره فهو خمر، ومن ذلك أيضاً خِمار الـمرأة، وذلك لأنها تستر به رأسها
+  فتغطيه، ومنه يقال: هو يـمشي لك الـخَمَر، أي مستـخفـياً، كما قال العجاج:</font></font><table
+  class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">فِـي لامِعِ الِعقْبـانِ لا يأتـي الـخَمَرْ</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">يُوجِّهُ الأرْضَ ويَسْتاقُ الشَّجَرْ</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">ويعنـي بقوله: لا يأتـي الـخمر:
+  لا يأتـي مستـخفـياً ولا مسارقة، ولكن ظاهراً برايات وجيوش والعقبـان جمع عقاب، وهي
+  الرايات.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وأما «الـميسر» فإنها «الـمفعِل»
+  من قول القائل: يسَر لـي هذا الأمر: إذا وجب لـي فهو يَـيْسِر لـي يَسَراً ومَيْسِراً،
+  والـياسر: الواجب، بقداح وجب ذلك أو مبـاحه أو غير ذلك، ثم قـيـل للـمقامر: ياسر، ويَسَر،
+  كما قال الشاعر:</font></font><table class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">فَبِتُّ
+  كأنَّنِـي يَسَرٌ غَبِـينٌ</font></font></b></td><td class=\"TextArabic\">   </td><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">يُقَلِّبُ
+  بَعْدَما اخْتُلِعَ القِدَاحا</font></font></b></td></tr></table><font class=\"TextResultArabic\"><font
+  color=\"black\">وكما قال النابغة:</font></font><table class=\"TextArabic\" dir=\"rtl\"><tr
+  class=\"TextArabic\"><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">أوْ ياسِرٌ ذَهَبَ القِداحُ بوَفْرِه</font></font></b></td><td class=\"TextArabic\">   </td><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">أسِفٌ نآكَلَهُ
+  الصَّديقُ مُخَـلَّعُ</font></font></b></td></tr></table><font class=\"TextResultArabic\"><font
+  color=\"black\">يعنـي بـالـياسر: الـمقامر، وقـيـل للقمار: ميسر، وكان مـجاهد يقول
+  نـحو ما قلنا فـي ذلك.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي مـحمد بن عمرو، قال: ثنا
+  أبو عاصم، قال: ثنا عيسى، عن ابن أبـي نـجيح، عن مـجاهد فـي قوله: { يَسألُونَكَ عَن
+  الـخَمْرِ وَالـمَيْسِر } قال: القمار، وإنـما سمي الـميسر لقولهم أيسروا واجزروا،
+  كقولك ضع كذا وكذا.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا مـحمد بن بشار، قال: ثنا أبو
+  عاصم، قال: ثنا سفـيان، عن لـيث، عن مـجاهد، قال: كل القمار من الـميسر، حتـى لعب الصبـيان
+  بـالـجوز.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا مـحمد بن بشار، قال: ثنا عبد
+  الرحمن،قال: ثنا سفـيان، عن عبد الـملك بن عمير، عن أبـي الأحوص، قال: قال عبد الله:
+  إياكم وهذه الكعاب الـموسومة التـي تزجرون بها زجرا فإنهن من الـميسر.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا مـحمد بن الـمثنى، قال: ثنا مـحمد بن جعفر، قال: ثنا شعبة، عن
+  عبد الـملك بن عمير، عن أبـي الأحوص، مثله.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
   مـحمد بن الـمثنى، قال: ثنا مـحمد بن نافع، قال: ثنا شعبة، عن يزيد بن أبـي زياد، عن
   أبـي الأحوص، عن عبد الله أنه قال: إياكم وهذه الكعاب التـي تزجرون بها زجراً، فإنها
-  من الـميسر.حدثنـي علـيّ بن سعيد الكندي، قال: ثنا علـيّ بن مسهر، عن عاصم، عن مـحمد
-  بن سيرين، قال: القمار: ميسر.حدثنا ابن بشار، قال: ثنا أبو عامر، قال: ثنا سفـيان،
-  عن عاصم الأحول، عن مـحمد بن سيرين، قال: كل شيء له خطر، أو فـي خطر أبو عامر شك فهو
-  من الـميسر.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 9 10 \r\n\t\t\t\t\t\t\t\tمزيد</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ يَسْأَلُونَكَ عَنِ ٱلْخَمْرِ وَٱلْمَيْسِرِ
-  قُلْ فِيهِمَآ إِثْمٌ كَبِيرٌ وَمَنَٰفِعُ لِلنَّاسِ وَإِثْمُهُمَآ أَكْبَرُ مِن نَّفْعِهِمَا
+  من الـميسر.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي علـيّ بن سعيد الكندي، قال:
+  ثنا علـيّ بن مسهر، عن عاصم، عن مـحمد بن سيرين، قال: القمار: ميسر.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن بشار، قال: ثنا أبو عامر، قال: ثنا سفـيان، عن عاصم الأحول،
+  عن مـحمد بن سيرين، قال: كل شيء له خطر، أو فـي خطر أبو عامر شك فهو من الـميسر.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,8,1)\"><u>8</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,9,1)\"><u>9</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(1,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2,
+  219)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,219)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">يَسْأَلُونَكَ عَنِ ٱلْخَمْرِ وَٱلْمَيْسِرِ قُلْ
+  فِيهِمَآ إِثْمٌ كَبِيرٌ وَمَنَٰفِعُ لِلنَّاسِ وَإِثْمُهُمَآ أَكْبَرُ مِن نَّفْعِهِمَا
   وَيَسْأَلُونَكَ مَاذَا يُنفِقُونَ قُلِ ٱلْعَفْوَ كَذٰلِكَ يُبيِّنُ ٱللَّهُ لَكُمُ
-  ٱلأيَٰتِ لَعَلَّكُمْ تَتَفَكَّرُونَ } * { فِي ٱلدُّنْيَا وَٱلآخِرَةِ وَيَسْأَلُونَكَ
-  عَنِ ٱلْيَتَامَىٰ قُلْ إِصْلاَحٌ لَّهُمْ خَيْرٌ وَإِنْ تُخَالِطُوهُمْ فَإِخْوَانُكُمْ
-  وَٱللَّهُ يَعْلَمُ ٱلْمُفْسِدَ مِنَ ٱلْمُصْلِحِ وَلَوْ شَآءَ ٱللَّهُ لأَعْنَتَكُمْ
-  إِنَّ ٱللَّهَ عَزِيزٌ حَكِيمٌ }حدثنا الولـيد بن شجاع أبو همام، قال: ثنا علـيّ بن
-  مسهر، عن عاصم، عن مـحمد بن سيرين، قال: كل قمار ميسر حتـى اللعب بـالنرد علـى القـيام
-  والصياح والريشة يجعلها الرجل فـي رأسه.حدثنا ابن حميد، قال: ثنا جرير، عن عاصم، عن
-  ابن سيرين، قال: كل لعب فـيه قمار من شرب أو صياح أو قـيام فهو من الـميسر.حدثنا مـحمد
-  بن عبد الأعلـى، قال: ثنا خالد بن الـحرث، قال: ثنا الأشعث، عن الـحسن، أنه قال: الـميسر:
-  القمار.حدثنـي يعقوب بن إبراهيـم، قال: ثنا الـمعتـمر، عن لـيث، عن طاوس وعطاء قالا:
-  كل قمار فهو من الـميسر، حتـى لعب الصبـيان بـالكعاب والـجوز.حدثنا ابن حميد، قال:
-  ثنا حكام، عن عمرو، عن عطاء، عن سعيد، قال: الـميسر: القمار.حدثنـي يعقوب بن إبراهيـم،
-  قال: ثنا هشيـم، قال: أخبرنا عبد الـملك بن عمير، عن أبـي الأحوص، عن عبـيد الله قال:
-  إياكم وهاتـين الكعبتـين يزجر بهما زجراً فإنهما من الـميسر.حدثنـي يعقوب بن إبراهيـم،
-  قال: ثنا ابن علـية، عن ابن أبـي عروبة، عن قتادة، قال: أما قوله والـميسر، فهو القمار
-  كله.حدثنـي يونس بن عبد الأعلـى، قال: أخبرنا ابن وهب، قال: أخبرنـي يحيى بن عبد الله
-  بن سالـم، عن عبـيد الله بن عمر أنه سمع عمر بن عبـيد الله يقول للقاسم بن مـحمد: النرد:
-  ميسر، أرأيت الشطرنـج ميسر هو؟ فقال القاسم: كل ما ألهى عن ذكر الله وعن الصلاة، فهو
-  ميسر.حدثنـي علـيّ بن داود، قال: ثنا أبو صالـح، قال: ثنـي معاوية، عن علـيّ، عن ابن
-  عبـاس، قال: الـميسر: القمار، كان الرجل فـي الـجاهلـية يخاطر علـى أهله وماله، فأيهما
-  قمر صاحبه ذهب بأهله وماله.حدثنـي موسى بن هارون، قال: ثنا عمرو بن حماد، قال: ثنا
-  أسبـاط، عن السدي، قال: الـميسر القمار.حدثنا الـحسن بن يحيى، قال: أخبرنا عبد الرزاق،
-  قال: أخبرنا معمر، عن قتادة، قال: الـميسر القمار.حدثنا الـحسن بن يحيى، قال: أخبرنا
-  عبد الرزاق، قال: أخبرنا معمر، عن اللـيث، عن مـجاهد وسعيد بن جبـير، قالا: الـميسر:
-  القمار كله، حتـى الـجوز الذي يـلعب به الصبـيان.حدثت عن الـحسين، قال: سمعت أبـا معاذ
-  الفضل بن خالد، قال: سمعت عبـيد بن سلـيـمان يحدث عن الضحاك قوله: الـميسر: قال: القمار.حدثنا
-  بشر بن معاذ، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قال: الـميسر: القمار.حدثنا
-  الـمثنى، قال: ثنا إسحاق، قال: ثنا أبو بدر شجاع بن الولـيد، قال: ثنا موسى بن عقبة،
-  عن نافع أن ابن عمر كان يقول: القمار من الـميسر.حدثنا القاسم، قال: ثنا الـحسين، قال:
-  ثنـي حجاج، عن ابن جريج، عن مـجاهد، قال: الـميسر قداح العرب، وكعاب فـارس. قال: وقال
-  ابن جريج، وزعم عطاء بن ميسرة أن الـميسر: القمار كله.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 9 10 \r\n\t\t\t\t\t\t\t\tمزيد</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ يَسْأَلُونَكَ عَنِ ٱلْخَمْرِ وَٱلْمَيْسِرِ
-  قُلْ فِيهِمَآ إِثْمٌ كَبِيرٌ وَمَنَٰفِعُ لِلنَّاسِ وَإِثْمُهُمَآ أَكْبَرُ مِن نَّفْعِهِمَا
+  ٱلأيَٰتِ لَعَلَّكُمْ تَتَفَكَّرُونَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">فِي ٱلدُّنْيَا وَٱلآخِرَةِ
+  وَيَسْأَلُونَكَ عَنِ ٱلْيَتَامَىٰ قُلْ إِصْلاَحٌ لَّهُمْ خَيْرٌ وَإِنْ تُخَالِطُوهُمْ
+  فَإِخْوَانُكُمْ وَٱللَّهُ يَعْلَمُ ٱلْمُفْسِدَ مِنَ ٱلْمُصْلِحِ وَلَوْ شَآءَ ٱللَّهُ
+  لأَعْنَتَكُمْ إِنَّ ٱللَّهَ عَزِيزٌ حَكِيمٌ</a> <b>}</b></font>, <br/>, <br/>, <div
+  align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  الولـيد بن شجاع أبو همام، قال: ثنا علـيّ بن مسهر، عن عاصم، عن مـحمد بن سيرين، قال:
+  كل قمار ميسر حتـى اللعب بـالنرد علـى القـيام والصياح والريشة يجعلها الرجل فـي رأسه.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن حميد، قال: ثنا جرير، عن عاصم، عن ابن سيرين، قال: كل لعب
+  فـيه قمار من شرب أو صياح أو قـيام فهو من الـميسر.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  مـحمد بن عبد الأعلـى، قال: ثنا خالد بن الـحرث، قال: ثنا الأشعث، عن الـحسن، أنه قال:
+  الـميسر: القمار.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي يعقوب بن إبراهيـم، قال:
+  ثنا الـمعتـمر، عن لـيث، عن طاوس وعطاء قالا: كل قمار فهو من الـميسر، حتـى لعب الصبـيان
+  بـالكعاب والـجوز.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن حميد، قال: ثنا حكام،
+  عن عمرو، عن عطاء، عن سعيد، قال: الـميسر: القمار.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  يعقوب بن إبراهيـم، قال: ثنا هشيـم، قال: أخبرنا عبد الـملك بن عمير، عن أبـي الأحوص،
+  عن عبـيد الله قال: إياكم وهاتـين الكعبتـين يزجر بهما زجراً فإنهما من الـميسر.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي يعقوب بن إبراهيـم، قال: ثنا ابن علـية، عن ابن أبـي عروبة،
+  عن قتادة، قال: أما قوله والـميسر، فهو القمار كله.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  يونس بن عبد الأعلـى، قال: أخبرنا ابن وهب، قال: أخبرنـي يحيى بن عبد الله بن سالـم،
+  عن عبـيد الله بن عمر أنه سمع عمر بن عبـيد الله يقول للقاسم بن مـحمد: النرد: ميسر،
+  أرأيت الشطرنـج ميسر هو؟ فقال القاسم: كل ما ألهى عن ذكر الله وعن الصلاة، فهو ميسر.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي علـيّ بن داود، قال: ثنا أبو صالـح، قال: ثنـي معاوية، عن علـيّ،
+  عن ابن عبـاس، قال: الـميسر: القمار، كان الرجل فـي الـجاهلـية يخاطر علـى أهله وماله،
+  فأيهما قمر صاحبه ذهب بأهله وماله.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  موسى بن هارون، قال: ثنا عمرو بن حماد، قال: ثنا أسبـاط، عن السدي، قال: الـميسر القمار.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا الـحسن بن يحيى، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر،
+  عن قتادة، قال: الـميسر القمار.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  الـحسن بن يحيى، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر، عن اللـيث، عن مـجاهد وسعيد
+  بن جبـير، قالا: الـميسر: القمار كله، حتـى الـجوز الذي يـلعب به الصبـيان.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثت عن الـحسين، قال: سمعت أبـا معاذ الفضل بن خالد، قال: سمعت عبـيد
+  بن سلـيـمان يحدث عن الضحاك قوله: الـميسر: قال: القمار.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  بشر بن معاذ، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قال: الـميسر: القمار.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا الـمثنى، قال: ثنا إسحاق، قال: ثنا أبو بدر شجاع بن الولـيد،
+  قال: ثنا موسى بن عقبة، عن نافع أن ابن عمر كان يقول: القمار من الـميسر.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا القاسم، قال: ثنا الـحسين، قال: ثنـي حجاج، عن ابن جريج، عن
+  مـجاهد، قال: الـميسر قداح العرب، وكعاب فـارس. قال: وقال ابن جريج، وزعم عطاء بن ميسرة
+  أن الـميسر: القمار كله.</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,8,1)\"><u>8</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,9,1)\"><u>9</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(1,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2,
+  219)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,219)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">يَسْأَلُونَكَ عَنِ ٱلْخَمْرِ وَٱلْمَيْسِرِ قُلْ
+  فِيهِمَآ إِثْمٌ كَبِيرٌ وَمَنَٰفِعُ لِلنَّاسِ وَإِثْمُهُمَآ أَكْبَرُ مِن نَّفْعِهِمَا
   وَيَسْأَلُونَكَ مَاذَا يُنفِقُونَ قُلِ ٱلْعَفْوَ كَذٰلِكَ يُبيِّنُ ٱللَّهُ لَكُمُ
-  ٱلأيَٰتِ لَعَلَّكُمْ تَتَفَكَّرُونَ } * { فِي ٱلدُّنْيَا وَٱلآخِرَةِ وَيَسْأَلُونَكَ
-  عَنِ ٱلْيَتَامَىٰ قُلْ إِصْلاَحٌ لَّهُمْ خَيْرٌ وَإِنْ تُخَالِطُوهُمْ فَإِخْوَانُكُمْ
-  وَٱللَّهُ يَعْلَمُ ٱلْمُفْسِدَ مِنَ ٱلْمُصْلِحِ وَلَوْ شَآءَ ٱللَّهُ لأَعْنَتَكُمْ
-  إِنَّ ٱللَّهَ عَزِيزٌ حَكِيمٌ }حدثنا ابن البرقـي، قال: ثنا عمرو بن أبـي سلـمة، عن
-  سعيد بن عبد العزيز، قال: قال مكحول: الـميسر: القمار.حدثنا الـحسين بن مـحمد الذارع،
+  ٱلأيَٰتِ لَعَلَّكُمْ تَتَفَكَّرُونَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">فِي ٱلدُّنْيَا وَٱلآخِرَةِ
+  وَيَسْأَلُونَكَ عَنِ ٱلْيَتَامَىٰ قُلْ إِصْلاَحٌ لَّهُمْ خَيْرٌ وَإِنْ تُخَالِطُوهُمْ
+  فَإِخْوَانُكُمْ وَٱللَّهُ يَعْلَمُ ٱلْمُفْسِدَ مِنَ ٱلْمُصْلِحِ وَلَوْ شَآءَ ٱللَّهُ
+  لأَعْنَتَكُمْ إِنَّ ٱللَّهَ عَزِيزٌ حَكِيمٌ</a> <b>}</b></font>, <br/>, <br/>, <div
+  align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن البرقـي، قال: ثنا عمرو بن أبـي سلـمة، عن سعيد بن عبد العزيز، قال: قال مكحول:
+  الـميسر: القمار.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا الـحسين بن مـحمد الذارع،
   قال: ثنا الفضل بن سلـيـمان وشجاع بن الولـيد، عن موسى بن عقبة، عن نافع، عن ابن عمر،
-  قال: الـميسر: القمار.وأما قوله: { قُلْ فِـيهِمَا إثْمٌ كَبِـيرٌ وَمَنافِعُ للنّاسِ
-  } فإنه يعنـي بذلك جل ثناؤه: قل يا مـحمد لهم فـيهما، يعنـي فـي الـخمر والـميسر إثم
-  كبـير. فـالإثم الكبـير الذي فـيهما ما ذكر عن السدي فـيـما:حدثنـي به موسى بن هارون،
-  قال: ثنا عمرو بن حماد، قال: ثنا أسبـاط، عن السدي: أما قوله: { فِـيهِمَا إثْمٌ كَبِـيرٌ
-  } فإثم الـخمر أن الرجل يشرب فـيسكر فـيؤذي الناس. وإثم الـميسر أن يقامر الرجل فـيـمنع
-  الـحق ويظلـم.حدثنـي مـحمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، عن ابن أبـي
-  نـجيح، عن مـجاهد: { قُلْ فِـيهِمَا إثْمٌ كَبِـيرٌ } قال: هذا أول ما عيبت به الـخمر.حدثنـي
+  قال: الـميسر: القمار.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وأما قوله: { قُلْ فِـيهِمَا إثْمٌ
+  كَبِـيرٌ وَمَنافِعُ للنّاسِ } فإنه يعنـي بذلك جل ثناؤه: قل يا مـحمد لهم فـيهما،
+  يعنـي فـي الـخمر والـميسر إثم كبـير. فـالإثم الكبـير الذي فـيهما ما ذكر عن السدي
+  فـيـما:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي به موسى بن هارون، قال: ثنا
+  عمرو بن حماد، قال: ثنا أسبـاط، عن السدي: أما قوله: { فِـيهِمَا إثْمٌ كَبِـيرٌ }
+  فإثم الـخمر أن الرجل يشرب فـيسكر فـيؤذي الناس. وإثم الـميسر أن يقامر الرجل فـيـمنع
+  الـحق ويظلـم.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي مـحمد بن عمرو، قال: ثنا
+  أبو عاصم، قال: ثنا عيسى، عن ابن أبـي نـجيح، عن مـجاهد: { قُلْ فِـيهِمَا إثْمٌ كَبِـيرٌ
+  } قال: هذا أول ما عيبت به الـخمر.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
   علـيّ بن داود، قال: ثنا أبو صالـح، قال: ثنـي معاوية بن صالـح، عن علـيّ بن أبـي طلـحة،
   عن ابن عبـاس قوله: { قُلْ فِـيهِمَا إثْمٌ كَبِـيرٌ } يعنـي ما ينقص من الدين عند
-  من يشربها.والذي هو أولـى بتأويـل الآية، الإثم الكبـير الذي ذكر الله جل ثناؤه أنه
-  فـي الـخمر والـميسر، فـالـخمر ما قاله السدي زوال عقل شارب الـخمر إذا سكر من شربه
-  إياها حتـى يعزب عنه معرفة ربه، وذلك أعظم الآثام، وذلك معنى قول ابن عبـاس إن شاء
-  الله. وأما فـي الـميسر فما فـيه من الشغل به عن ذكر الله، وعن الصلاة، ووقوع العداوة
-  والبغضاء بـين الـمتـياسرين بسببه، كما وصف ذلك به ربنا جل ثناؤه بقوله:{ إِنَّمَا
-  يُرِيدُ ٱلشَّيْطَانُ أَن يُوقِعَ بَيْنَكُمُ ٱلْعَدَاوَةَ وَٱلْبَغْضَآءَ فِي ٱلْخَمْرِ
-  وَٱلْمَيْسِرِ وَيَصُدَّكُمْ عَن ذِكْرِ ٱللَّهِ وَعَنِ ٱلصَّلاَةِ }[المائدة: 91].وأما
+  من يشربها.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">والذي هو أولـى بتأويـل الآية، الإثم
+  الكبـير الذي ذكر الله جل ثناؤه أنه فـي الـخمر والـميسر، فـالـخمر ما قاله السدي زوال
+  عقل شارب الـخمر إذا سكر من شربه إياها حتـى يعزب عنه معرفة ربه، وذلك أعظم الآثام،
+  وذلك معنى قول ابن عبـاس إن شاء الله. وأما فـي الـميسر فما فـيه من الشغل به عن ذكر
+  الله، وعن الصلاة، ووقوع العداوة والبغضاء بـين الـمتـياسرين بسببه، كما وصف ذلك به
+  ربنا جل ثناؤه بقوله:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">إِنَّمَا يُرِيدُ ٱلشَّيْطَانُ أَن يُوقِعَ بَيْنَكُمُ ٱلْعَدَاوَةَ
+  وَٱلْبَغْضَآءَ فِي ٱلْخَمْرِ وَٱلْمَيْسِرِ وَيَصُدَّكُمْ عَن ذِكْرِ ٱللَّهِ وَعَنِ
+  ٱلصَّلاَةِ</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">[المائدة: 91].</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وأما
   قوله: { وَمَنافِعُ للنّاسِ } فإن منافع الـخمر كانت أثمانها قبل تـحريـمها، وما يصلون
-  إلـيه بشربها من اللذة، كما قال الأعشى فـي صفتها:لنَا مِنْ صُحاها خُبْثُ نَفْسٍ وكأْبَةٌ   وَذِكْرَى
-  همُومٍ ما تَفُكُّ أذَاتُهاوَعِندَ العِشاءِ طِيبُ نَفْسٍ وَلَذَّةٌ   ومالٌ كَثِـيرٌ
-  عِدَّةٌ نَشَوَاتُهاوكما قال حسان:فَنَشْرَبُها فتترُكُنا مُلُوكاً   وأُسْداً ما يُنَهْنِهُنا
-  اللِّقاءُوأما منافع الـميسر فـيـما يصيبون فـيه من أنصبـاء الـجزور، وذلك أنهم كانوا
-  يـياسرون علـى الـجزور، وإذا أفلـج الرجل منهم صاحبه نـحره، ثم اقتسموا أعشاراً علـى
-  عدد القداح، وفـي ذلك يقول أعشى بنـي ثعلبة:وجَزُورِ أيْسارٍ دَعَوْتُ إلـى النَّدَى   ونِـياطِ
-  مُقْـفِرَةٍ أخافُ ضَلاَلهَاوبنـحو الذي قلنا فـي ذلك قال أهل التأويـل. ذكر من قال
-  ذلك:حدثنـي مـحمد بن عمرو، قال: ثنا أبو عاصم،قال: ثنا عيسى، عن ابن أبـي نـجيح، عن
-  مـجاهد، قال: الـمنافع ههنا: ما يصيبون من الـجزور.حدثنـي موسى بن هارون، قال: ثنا
+  إلـيه بشربها من اللذة، كما قال الأعشى فـي صفتها:</font></font><table class=\"TextArabic\"
+  dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">لنَا مِنْ صُحاها خُبْثُ نَفْسٍ وكأْبَةٌ</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">وَذِكْرَى همُومٍ ما تَفُكُّ أذَاتُها</font></font></b></td></tr><tr
+  class=\"TextArabic\"><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">وَعِندَ العِشاءِ طِيبُ نَفْسٍ وَلَذَّةٌ</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">ومالٌ كَثِـيرٌ عِدَّةٌ نَشَوَاتُها</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">وكما قال حسان:</font></font><table
+  class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">فَنَشْرَبُها فتترُكُنا مُلُوكاً</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">وأُسْداً ما يُنَهْنِهُنا اللِّقاءُ</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">وأما منافع الـميسر فـيـما يصيبون
+  فـيه من أنصبـاء الـجزور، وذلك أنهم كانوا يـياسرون علـى الـجزور، وإذا أفلـج الرجل
+  منهم صاحبه نـحره، ثم اقتسموا أعشاراً علـى عدد القداح، وفـي ذلك يقول أعشى بنـي ثعلبة:</font></font><table
+  class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">وجَزُورِ أيْسارٍ دَعَوْتُ إلـى النَّدَى</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">ونِـياطِ مُقْـفِرَةٍ أخافُ ضَلاَلهَا</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">وبنـحو الذي قلنا فـي ذلك قال أهل
+  التأويـل. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي مـحمد بن عمرو، قال: ثنا
+  أبو عاصم،قال: ثنا عيسى، عن ابن أبـي نـجيح، عن مـجاهد، قال: الـمنافع ههنا: ما يصيبون
+  من الـجزور.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي موسى بن هارون، قال: ثنا
   عمرو بن حماد، قال: ثنا أسبـاط عن السدي: أما منافعهما فإن منفعة الـخمر فـي لذته وثمنه،
-  ومنفعة الـميسر فـيـما يصاب من القمار.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 9 10 \r\n\t\t\t\t\t\t\t\tمزيد</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ يَسْأَلُونَكَ عَنِ ٱلْخَمْرِ وَٱلْمَيْسِرِ
-  قُلْ فِيهِمَآ إِثْمٌ كَبِيرٌ وَمَنَٰفِعُ لِلنَّاسِ وَإِثْمُهُمَآ أَكْبَرُ مِن نَّفْعِهِمَا
+  ومنفعة الـميسر فـيـما يصاب من القمار.</font></font>&#13;\t\t\t<label disabled=\"true\"
+  class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">3 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,8,1)\"><u>8</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,9,1)\"><u>9</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(1,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2,
+  219)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,219)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">يَسْأَلُونَكَ عَنِ ٱلْخَمْرِ وَٱلْمَيْسِرِ قُلْ
+  فِيهِمَآ إِثْمٌ كَبِيرٌ وَمَنَٰفِعُ لِلنَّاسِ وَإِثْمُهُمَآ أَكْبَرُ مِن نَّفْعِهِمَا
   وَيَسْأَلُونَكَ مَاذَا يُنفِقُونَ قُلِ ٱلْعَفْوَ كَذٰلِكَ يُبيِّنُ ٱللَّهُ لَكُمُ
-  ٱلأيَٰتِ لَعَلَّكُمْ تَتَفَكَّرُونَ } * { فِي ٱلدُّنْيَا وَٱلآخِرَةِ وَيَسْأَلُونَكَ
-  عَنِ ٱلْيَتَامَىٰ قُلْ إِصْلاَحٌ لَّهُمْ خَيْرٌ وَإِنْ تُخَالِطُوهُمْ فَإِخْوَانُكُمْ
-  وَٱللَّهُ يَعْلَمُ ٱلْمُفْسِدَ مِنَ ٱلْمُصْلِحِ وَلَوْ شَآءَ ٱللَّهُ لأَعْنَتَكُمْ
-  إِنَّ ٱللَّهَ عَزِيزٌ حَكِيمٌ }حدثنا أبو هشام الرفـاعي، قال: ثنا ابن أبـي زائدة،
-  عن ورقاء، عن ابن أبـي نـجيح، عن مـجاهد: { قُلْ فِـيهِمَا إثْمٌ كَبِـيرٌ وَمَنافِعُ
-  للنّاسِ } قال: منافعهما قبل أن يحرّما.حدثنا علـيّ بن داود، قال: ثنا أبو صالـح، قال:
-  ثنـي معاوية، عن علـيّ، عن ابن عبـاس: { وَمَنافعُ للنَّاسِ } قال: يقول فـيـما يصيبون
-  من لذتها وفرحها إذا شربوها.واختلف القراء فـي قراءة ذلك، فقرأه عظم أهل الـمدينة وبعض
-  الكوفـيـين والبصريـين { قُلْ فِـيهِمَا إثْمٌ كَبِـيرٌ } بـالبـاء، بـمعنى: قل فـي
-  شرب هذه والقمار هذا كبـير من الآثام. وقرأه آخرون من أهل الـمصرين، البصرة والكوفة:
-  «قُلْ فِـيهِمَا إثْمٌ كَثـيرٌ» بـمعنى الكثرة من الآثام، وكأنهم رأوا أن الإثم بـمعنى
-  الآثام، وإن كان فـي اللفظ واحداً فوصفوه بـمعناه من الكثرة.وأولـى القراءتـين فـي
-  ذلك بـالصواب قراءة من قرأه بـالبـاء: { قُلْ فِـيهِمَا إثْمٌ كَبِـيرٌ } لإجماع جميعهم
-  علـى قوله: { وإثْمُهُما أكْبَرُ مِنْ نَفْعِهِمَا } وقراءته بـالبـاء وفـي ذلك دلالة
-  بـينة علـى أن الذي وصف به الإثم الأول من ذلك هو العظم والكبر، لا الكثرة فـي العدد.
-  ولو كان الذي وصف به من ذلك الكثرة، لقـيـل وإثمهما أكثر من نفعهما.القول فـي تأويـل
-  قوله تعالـى: { وإثْمُهُما أكْبَرُ مِنْ نَفْعِهِمَا }.يعنـي بذلك عزّ ذكره: والإثم
-  بشرب هذه والقمار هذا، أعظم وأكبر مضرّة علـيهم من النفع الذي يتناولون بهما. وإنـما
-  كان ذلك كذلك، لأنهم كانوا إذا سكروا وثب بعضهم علـى بعض وقاتل بعضهم بعضاً، وإذا ياسروا
-  وقع بـينهم فـيه بسببه الشرّ، فأدّاهم ذلك إلـى ما يأثمون به.ونزلت هذه الآية فـي الـخمر
-  قبل أن يصرّح بتـحريـمها، فأضاف الإثم جل ثناؤه إلـيهما، وإنـما الإثم بأسبـابهما،
-  إذ كان عن سببهما يحدث.وقد قال عدد من أهل التأويـل: معنى ذلك: وإثمهما بعد تـحريـمهما
-  أكبر من نفعهما قبل تـحريـمهما. ذكر من قال ذلك:حدثنـي مـحمد بن سعد، قال: ثنـي أبـي،
-  قال: ثنـي عمي، قال: ثنـي أبـي، عن أبـيه، عن ابن عبـاس: { وإثْمُهُما أكْبَرُ مِنْ
-  نَفْعِهِمَا } قال: منافعهما قبل التـحريـم، وإثمهما بعدما حرّما.حدثت عن عمار، قال:
-  ثنا ابن أبـي جعفر، عن أبـيه عن الربـيع: { وَمَنافِعُ للنّاسِ وإثْمُهُما أكْبَرُ
-  مِنْ نَفْعِهِمَا } ينزل الـمنافع قبل التـحريـم، والإثم بعد ما حرّم.حدثت عن الـحسين،
-  قال: سمعت أبـا معاذ، قال: أخبرنـي عبـيد بن سلـيـمان، قال: سمعت الضحاك يقول فـي قوله:
-  { وإثْمُهُما أكْبَرُ مِنْ نَفْعِهِمَا } يقول: إثمهما بعد التـحريـم أكبر من نفعهما
-  قبل التـحريـم.حدثنـي علـيّ بن داود، قال: ثنا عبد الله بن صالـح، قال: ثنـي معاوية
-  بن صالـح، عن علـيّ بن أبـي طلـحة، عن ابن عبـاس قوله: { وإثْمُهُما أكْبَرُ مِنْ نَفْعِهِمَا
-  } يقول: ما يذهب من الدين والإثم فـيه أكبر مـما يصيبون فـي فرحها إذا شربوها.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 9 10 \r\n\t\t\t\t\t\t\t\tمزيد</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ يَسْأَلُونَكَ عَنِ ٱلْخَمْرِ وَٱلْمَيْسِرِ
-  قُلْ فِيهِمَآ إِثْمٌ كَبِيرٌ وَمَنَٰفِعُ لِلنَّاسِ وَإِثْمُهُمَآ أَكْبَرُ مِن نَّفْعِهِمَا
+  ٱلأيَٰتِ لَعَلَّكُمْ تَتَفَكَّرُونَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">فِي ٱلدُّنْيَا وَٱلآخِرَةِ
+  وَيَسْأَلُونَكَ عَنِ ٱلْيَتَامَىٰ قُلْ إِصْلاَحٌ لَّهُمْ خَيْرٌ وَإِنْ تُخَالِطُوهُمْ
+  فَإِخْوَانُكُمْ وَٱللَّهُ يَعْلَمُ ٱلْمُفْسِدَ مِنَ ٱلْمُصْلِحِ وَلَوْ شَآءَ ٱللَّهُ
+  لأَعْنَتَكُمْ إِنَّ ٱللَّهَ عَزِيزٌ حَكِيمٌ</a> <b>}</b></font>, <br/>, <br/>, <div
+  align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  أبو هشام الرفـاعي، قال: ثنا ابن أبـي زائدة، عن ورقاء، عن ابن أبـي نـجيح، عن مـجاهد:
+  { قُلْ فِـيهِمَا إثْمٌ كَبِـيرٌ وَمَنافِعُ للنّاسِ } قال: منافعهما قبل أن يحرّما.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا علـيّ بن داود، قال: ثنا أبو صالـح، قال: ثنـي معاوية، عن علـيّ،
+  عن ابن عبـاس: { وَمَنافعُ للنَّاسِ } قال: يقول فـيـما يصيبون من لذتها وفرحها إذا
+  شربوها.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">واختلف القراء فـي قراءة ذلك، فقرأه
+  عظم أهل الـمدينة وبعض الكوفـيـين والبصريـين { قُلْ فِـيهِمَا إثْمٌ كَبِـيرٌ } بـالبـاء،
+  بـمعنى: قل فـي شرب هذه والقمار هذا كبـير من الآثام. وقرأه آخرون من أهل الـمصرين،
+  البصرة والكوفة: «قُلْ فِـيهِمَا إثْمٌ كَثـيرٌ» بـمعنى الكثرة من الآثام، وكأنهم رأوا
+  أن الإثم بـمعنى الآثام، وإن كان فـي اللفظ واحداً فوصفوه بـمعناه من الكثرة.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وأولـى القراءتـين فـي ذلك بـالصواب قراءة من قرأه بـالبـاء: { قُلْ
+  فِـيهِمَا إثْمٌ كَبِـيرٌ } لإجماع جميعهم علـى قوله: { وإثْمُهُما أكْبَرُ مِنْ نَفْعِهِمَا
+  } وقراءته بـالبـاء وفـي ذلك دلالة بـينة علـى أن الذي وصف به الإثم الأول من ذلك هو
+  العظم والكبر، لا الكثرة فـي العدد. ولو كان الذي وصف به من ذلك الكثرة، لقـيـل وإثمهما
+  أكثر من نفعهما.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">القول فـي تأويـل قوله تعالـى: {
+  وإثْمُهُما أكْبَرُ مِنْ نَفْعِهِمَا }.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">يعنـي
+  بذلك عزّ ذكره: والإثم بشرب هذه والقمار هذا، أعظم وأكبر مضرّة علـيهم من النفع الذي
+  يتناولون بهما. وإنـما كان ذلك كذلك، لأنهم كانوا إذا سكروا وثب بعضهم علـى بعض وقاتل
+  بعضهم بعضاً، وإذا ياسروا وقع بـينهم فـيه بسببه الشرّ، فأدّاهم ذلك إلـى ما يأثمون
+  به.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">ونزلت هذه الآية فـي الـخمر قبل
+  أن يصرّح بتـحريـمها، فأضاف الإثم جل ثناؤه إلـيهما، وإنـما الإثم بأسبـابهما، إذ كان
+  عن سببهما يحدث.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقد قال عدد من أهل التأويـل: معنى
+  ذلك: وإثمهما بعد تـحريـمهما أكبر من نفعهما قبل تـحريـمهما. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي مـحمد بن سعد، قال: ثنـي أبـي، قال: ثنـي عمي، قال: ثنـي أبـي،
+  عن أبـيه، عن ابن عبـاس: { وإثْمُهُما أكْبَرُ مِنْ نَفْعِهِمَا } قال: منافعهما قبل
+  التـحريـم، وإثمهما بعدما حرّما.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثت
+  عن عمار، قال: ثنا ابن أبـي جعفر، عن أبـيه عن الربـيع: { وَمَنافِعُ للنّاسِ وإثْمُهُما
+  أكْبَرُ مِنْ نَفْعِهِمَا } ينزل الـمنافع قبل التـحريـم، والإثم بعد ما حرّم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثت عن الـحسين، قال: سمعت أبـا معاذ، قال: أخبرنـي عبـيد بن سلـيـمان،
+  قال: سمعت الضحاك يقول فـي قوله: { وإثْمُهُما أكْبَرُ مِنْ نَفْعِهِمَا } يقول: إثمهما
+  بعد التـحريـم أكبر من نفعهما قبل التـحريـم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  علـيّ بن داود، قال: ثنا عبد الله بن صالـح، قال: ثنـي معاوية بن صالـح، عن علـيّ بن
+  أبـي طلـحة، عن ابن عبـاس قوله: { وإثْمُهُما أكْبَرُ مِنْ نَفْعِهِمَا } يقول: ما
+  يذهب من الدين والإثم فـيه أكبر مـما يصيبون فـي فرحها إذا شربوها.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">4 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,8,1)\"><u>8</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,9,1)\"><u>9</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(1,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2,
+  219)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,219)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">يَسْأَلُونَكَ عَنِ ٱلْخَمْرِ وَٱلْمَيْسِرِ قُلْ
+  فِيهِمَآ إِثْمٌ كَبِيرٌ وَمَنَٰفِعُ لِلنَّاسِ وَإِثْمُهُمَآ أَكْبَرُ مِن نَّفْعِهِمَا
   وَيَسْأَلُونَكَ مَاذَا يُنفِقُونَ قُلِ ٱلْعَفْوَ كَذٰلِكَ يُبيِّنُ ٱللَّهُ لَكُمُ
-  ٱلأيَٰتِ لَعَلَّكُمْ تَتَفَكَّرُونَ } * { فِي ٱلدُّنْيَا وَٱلآخِرَةِ وَيَسْأَلُونَكَ
-  عَنِ ٱلْيَتَامَىٰ قُلْ إِصْلاَحٌ لَّهُمْ خَيْرٌ وَإِنْ تُخَالِطُوهُمْ فَإِخْوَانُكُمْ
-  وَٱللَّهُ يَعْلَمُ ٱلْمُفْسِدَ مِنَ ٱلْمُصْلِحِ وَلَوْ شَآءَ ٱللَّهُ لأَعْنَتَكُمْ
-  إِنَّ ٱللَّهَ عَزِيزٌ حَكِيمٌ }وإنـما اخترنا ما قلنا فـي ذلك من التأويـل لتواتر
-  الأخبـار وتظاهرها بأن هذه نزلت قبل تـحريـم الـخمر والـميسر، فكان معلوماً بذلك أن
-  الإثم الذي ذكر الله فـي هذه الآية فأضافه إلـيهما إنـما عنى به الإثم الذي يحدث عن
-  أسبـابهما علـى ما وصفنا، لا الإثم بعد التـحريـم.ذكر الأخبـار الدالة علـى ما قلنا
-  من أن هذه الآية نزلت قبل تـحريـم الـخمر:حدثنا أحمد بن إسحاق، قال: ثنا أبو أحمد،
-  قال: ثنا قـيس، عن سالـم، عن سعيد بن جبـير، قال: لـما نزلت: { يَسألُونَكَ عَنِ الـخَمْرِ
-  وَالـمَيْسِرِ قُلْ فِـيهِمَا إثْمٌ كَبِـيرٌ وَمَنافِعُ للنّاسِ } فكرهها قوم لقوله:
-  { فِـيهِمَا إثْمٌ كَبِـيرٌ } وشربها قوم لقوله: { وَمَنافِعُ للنَّاسِ } ، حتـى نزلت:{ يَا
-  أَيُّهَا ٱلَّذِينَ آمَنُواْ لاَ تَقْرَبُواْ ٱلصَّلَٰوةَ وَأَنْتُمْ سُكَٰرَىٰ حَتَّىٰ
-  تَعْلَمُواْ مَا تَقُولُونَ }[النساء: 43] قال: فكانوا يدعونها فـي حين الصلاة ويشربونها
-  فـي غير حين الصلاة، حتـى نزلت: { إنّـمَا الـخَمْرُ وَالـمَيْسِرُ وَالأنْصَابُ والأزْلامُ
-  رِجْسٌ مِنْ عَمَلِ الشَّيْطانِ فـاجْتَنِبُوهُ } فقال عمر: ضيعةً لك الـيوم قرنت بـالـميسر.حدثنـي
+  ٱلأيَٰتِ لَعَلَّكُمْ تَتَفَكَّرُونَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">فِي ٱلدُّنْيَا وَٱلآخِرَةِ
+  وَيَسْأَلُونَكَ عَنِ ٱلْيَتَامَىٰ قُلْ إِصْلاَحٌ لَّهُمْ خَيْرٌ وَإِنْ تُخَالِطُوهُمْ
+  فَإِخْوَانُكُمْ وَٱللَّهُ يَعْلَمُ ٱلْمُفْسِدَ مِنَ ٱلْمُصْلِحِ وَلَوْ شَآءَ ٱللَّهُ
+  لأَعْنَتَكُمْ إِنَّ ٱللَّهَ عَزِيزٌ حَكِيمٌ</a> <b>}</b></font>, <br/>, <br/>, <div
+  align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">وإنـما
+  اخترنا ما قلنا فـي ذلك من التأويـل لتواتر الأخبـار وتظاهرها بأن هذه نزلت قبل تـحريـم
+  الـخمر والـميسر، فكان معلوماً بذلك أن الإثم الذي ذكر الله فـي هذه الآية فأضافه إلـيهما
+  إنـما عنى به الإثم الذي يحدث عن أسبـابهما علـى ما وصفنا، لا الإثم بعد التـحريـم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">ذكر الأخبـار الدالة علـى ما قلنا من أن هذه الآية نزلت قبل تـحريـم
+  الـخمر:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا أحمد بن إسحاق، قال: ثنا أبو
+  أحمد، قال: ثنا قـيس، عن سالـم، عن سعيد بن جبـير، قال: لـما نزلت: { يَسألُونَكَ عَنِ
+  الـخَمْرِ وَالـمَيْسِرِ قُلْ فِـيهِمَا إثْمٌ كَبِـيرٌ وَمَنافِعُ للنّاسِ } فكرهها
+  قوم لقوله: { فِـيهِمَا إثْمٌ كَبِـيرٌ } وشربها قوم لقوله: { وَمَنافِعُ للنَّاسِ
+  } ، حتـى نزلت:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">يَا أَيُّهَا ٱلَّذِينَ آمَنُواْ لاَ تَقْرَبُواْ ٱلصَّلَٰوةَ
+  وَأَنْتُمْ سُكَٰرَىٰ حَتَّىٰ تَعْلَمُواْ مَا تَقُولُونَ</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">[النساء: 43] قال: فكانوا يدعونها
+  فـي حين الصلاة ويشربونها فـي غير حين الصلاة، حتـى نزلت: { إنّـمَا الـخَمْرُ وَالـمَيْسِرُ
+  وَالأنْصَابُ والأزْلامُ رِجْسٌ مِنْ عَمَلِ الشَّيْطانِ فـاجْتَنِبُوهُ } فقال عمر:
+  ضيعةً لك الـيوم قرنت بـالـميسر.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
   مـحمد بن معمر، قال: ثنا أبو عامر، قال: ثنا مـحمد بن أبـي حميد، عن أبـي توبة الـمصري،
   قال: سمعت عبد الله بن عمر يقول: أنزل الله عز وجل فـي الـخمر ثلاثاً، فكان أول ما
   أنزل: { يَسألُونَكَ عَنِ الـخَمْرِ وَالـمَيْسِرِ قُلْ فِيهِمَا إثْمٌ كَبِـيرٌ }
   الآية، فقالوا: يا رسول الله ننتفع بها ونشربها، كما قال الله جل وعز فـي كتابه. ثم
-  نزلت هذه الآية:{ يَا أَيُّهَا ٱلَّذِينَ آمَنُواْ لاَ تَقْرَبُواْ ٱلصَّلَٰوةَ وَأَنْتُمْ
-  سُكَٰرَىٰ... }[النساء: 43] الآية، قالوا: يا رسول الله لا نشربها عند قرب الصلاة قال:
-  ثم نزلت:{ إِنَّمَا ٱلْخَمْرُ وَٱلْمَيْسِرُ وَٱلأَنصَابُ وَٱلأَزْلاَمُ رِجْسٌ مِّنْ
-  عَمَلِ ٱلشَّيْطَانِ فَٱجْتَنِبُوهُ }[المائدة: 90] الآية، قال: فقال رسول الله صلى
-  الله عليه وسلم: \" حُرّمَتِ الـخَمْرُ \" حدثنا ابن حميد، قال: ثنا يحيى بن واضح،
-  قال: ثنا الـحسين، عن يزيد النـحوي، عن عكرمة والـحسن قالا: قال الله:{ يَا أَيُّهَا
-  ٱلَّذِينَ آمَنُواْ لاَ تَقْرَبُواْ ٱلصَّلَٰوةَ وَأَنْتُمْ سُكَٰرَىٰ حَتَّىٰ تَعْلَمُواْ
-  مَا تَقُولُونَ }[النساء: 43] { ويَسألُونَكَ عَنِ الـخَمْرِ وَالَـمْيسِرِ قُلْ فِـيهِمَا
-  إثْمٌ كَبِـيرٌ وَمَنافِعٌ للنَّاسٍ وإثْمُهُما أكْبَرُ مِنْ نَفْعِهِمَا } فنسختها
-  الآية التـي فـي الـمائدة، فقال:{ يَٰأَيُّهَا ٱلَّذِينَ آمَنُواْ إِنَّمَا ٱلْخَمْرُ
-  وَٱلْمَيْسِرُ }[المائدة: 90] الآية.حدثنا ابن بشار، قال: ثنا عبد الوهاب، قال: ثنا
-  عوف، عن أبـي القموص زيد بن علـيّ، قال: أنزل الله عز وجل فـي الـخمر ثلاث مرات فأول
-  ما أنزل قال الله: { يَسألُونَكَ عَنِ الـخَمْرِ وَالَـمْيسِرِ قُلْ فِـيهِمَا إثْمٌ
-  كَبِـيرٌ وَمَنافِعُ للنَّاسِ وإثْمُهُما أكْبَرُ مِنْ نَفْعِهِمَا } قال: فشربها من
-  الـمسلـمين من شاء الله منهم علـى ذلك، حتـى شرب رجلان، فدخلا فـي الصلاة، فجعلا يهجران
-  كلاماً لا يدري عوف ما هو، فأنزل الله عز وجل فـيهما:\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 9 10 \r\n\t\t\t\t\t\t\t\tمزيد</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ يَسْأَلُونَكَ عَنِ ٱلْخَمْرِ وَٱلْمَيْسِرِ
-  قُلْ فِيهِمَآ إِثْمٌ كَبِيرٌ وَمَنَٰفِعُ لِلنَّاسِ وَإِثْمُهُمَآ أَكْبَرُ مِن نَّفْعِهِمَا
+  نزلت هذه الآية:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">يَا أَيُّهَا ٱلَّذِينَ آمَنُواْ لاَ تَقْرَبُواْ ٱلصَّلَٰوةَ
+  وَأَنْتُمْ سُكَٰرَىٰ...</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">[النساء: 43] الآية، قالوا: يا رسول الله لا نشربها عند قرب الصلاة
+  قال: ثم نزلت:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">إِنَّمَا ٱلْخَمْرُ وَٱلْمَيْسِرُ وَٱلأَنصَابُ وَٱلأَزْلاَمُ
+  رِجْسٌ مِّنْ عَمَلِ ٱلشَّيْطَانِ فَٱجْتَنِبُوهُ</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">[المائدة: 90] الآية، قال: فقال
+  رسول الله صلى الله عليه وسلم:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" حُرّمَتِ الـخَمْرُ \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن حميد، قال: ثنا يحيى بن واضح، قال: ثنا الـحسين، عن يزيد النـحوي، عن عكرمة والـحسن
+  قالا: قال الله:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">يَا أَيُّهَا ٱلَّذِينَ آمَنُواْ لاَ تَقْرَبُواْ ٱلصَّلَٰوةَ
+  وَأَنْتُمْ سُكَٰرَىٰ حَتَّىٰ تَعْلَمُواْ مَا تَقُولُونَ</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">[النساء: 43] { ويَسألُونَكَ عَنِ
+  الـخَمْرِ وَالَـمْيسِرِ قُلْ فِـيهِمَا إثْمٌ كَبِـيرٌ وَمَنافِعٌ للنَّاسٍ وإثْمُهُما
+  أكْبَرُ مِنْ نَفْعِهِمَا } فنسختها الآية التـي فـي الـمائدة، فقال:</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">يَٰأَيُّهَا
+  ٱلَّذِينَ آمَنُواْ إِنَّمَا ٱلْخَمْرُ وَٱلْمَيْسِرُ</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">[المائدة: 90] الآية.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن بشار، قال: ثنا عبد الوهاب، قال: ثنا عوف، عن أبـي القموص
+  زيد بن علـيّ، قال: أنزل الله عز وجل فـي الـخمر ثلاث مرات فأول ما أنزل قال الله:
+  { يَسألُونَكَ عَنِ الـخَمْرِ وَالَـمْيسِرِ قُلْ فِـيهِمَا إثْمٌ كَبِـيرٌ وَمَنافِعُ
+  للنَّاسِ وإثْمُهُما أكْبَرُ مِنْ نَفْعِهِمَا } قال: فشربها من الـمسلـمين من شاء
+  الله منهم علـى ذلك، حتـى شرب رجلان، فدخلا فـي الصلاة، فجعلا يهجران كلاماً لا يدري
+  عوف ما هو، فأنزل الله عز وجل فـيهما:</font></font>&#13;\t\t\t<label disabled=\"true\"
+  class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,6,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">5 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,8,1)\"><u>8</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,9,1)\"><u>9</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(1,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2,
+  219)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,219)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">يَسْأَلُونَكَ عَنِ ٱلْخَمْرِ وَٱلْمَيْسِرِ قُلْ
+  فِيهِمَآ إِثْمٌ كَبِيرٌ وَمَنَٰفِعُ لِلنَّاسِ وَإِثْمُهُمَآ أَكْبَرُ مِن نَّفْعِهِمَا
   وَيَسْأَلُونَكَ مَاذَا يُنفِقُونَ قُلِ ٱلْعَفْوَ كَذٰلِكَ يُبيِّنُ ٱللَّهُ لَكُمُ
-  ٱلأيَٰتِ لَعَلَّكُمْ تَتَفَكَّرُونَ } * { فِي ٱلدُّنْيَا وَٱلآخِرَةِ وَيَسْأَلُونَكَ
-  عَنِ ٱلْيَتَامَىٰ قُلْ إِصْلاَحٌ لَّهُمْ خَيْرٌ وَإِنْ تُخَالِطُوهُمْ فَإِخْوَانُكُمْ
-  وَٱللَّهُ يَعْلَمُ ٱلْمُفْسِدَ مِنَ ٱلْمُصْلِحِ وَلَوْ شَآءَ ٱللَّهُ لأَعْنَتَكُمْ
-  إِنَّ ٱللَّهَ عَزِيزٌ حَكِيمٌ }{ يَا أَيُّهَا ٱلَّذِينَ آمَنُواْ لاَ تَقْرَبُواْ
-  ٱلصَّلَٰوةَ وَأَنْتُمْ سُكَٰرَىٰ حَتَّىٰ تَعْلَمُواْ مَا تَقُولُونَ }[النساء: 43]
-  فشربها من شربها منهم، وجعلوا يتقونها عند الصلاة، حتـى شربها فـيـما زعم أبو القموص
-  رجلٌ، فجعل ينوح علـى قتلـى بدر:تُـحَيِّـي بـالسَّلامَةِ أُمُّ عَمرو   وهلْ لكِ بعدَ
-  رَهْطِكِ من سَلامِذَرِيِني أصْطَبِحْ بَكْرا فإنّي   رأيْتُ المَوْتَ نَقَّبَ عَنْ
-  هِشامِوَوَدّ بَنُو المُغِيرَةِ لَوْ فَدَوْهُ   بألْفٍ مِنْ رجالٍ أوْ سَوَامِكأني
-  بالطّوِيّ طَوِيّ بَدْرٍ   مِنَ الشيِّزَى يُكَلّلُ بالسَّنامِكأني بالطَّوِيّ طَوِيّ
-  بَدْرٍ   مِنَ الفِتْيانِ والحُلَل الكِرَامِقال: فبلغ ذلك رسول الله صلى الله عليه
-  وسلم، فجاء فزعا يجرّ رداءه من الفزع حتـى انتهى إلـيه، فلـما عاينه الرجل، فرفع رسول
-  الله صلى الله عليه وسلم شيئاً كان بيده ليضربه، قال: أعوذ بـالله من غضب الله ورسوله،
-  والله لا أطعَمُها أبداً فأنزل الله تـحريـمها:{ يَٰأَيُّهَا ٱلَّذِينَ آمَنُواْ إِنَّمَا
-  ٱلْخَمْرُ وَٱلْمَيْسِرُ وَٱلأَنصَابُ وَٱلأَزْلاَمُ رِجْسٌ... }[المائدة: 90] إلـى
-  قوله:{ فَهَلْ أَنْتُمْ مُّنتَهُونَ }[المائدة: 91] فقال عمر بن الـخطاب رضي الله عنه:
-  انتهينا انتهينا.حدثنا سفـيان بن وكيع، قال: ثنا إسحاق الأزرق، عن زكريا عن سماك، عن
+  ٱلأيَٰتِ لَعَلَّكُمْ تَتَفَكَّرُونَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">فِي ٱلدُّنْيَا وَٱلآخِرَةِ
+  وَيَسْأَلُونَكَ عَنِ ٱلْيَتَامَىٰ قُلْ إِصْلاَحٌ لَّهُمْ خَيْرٌ وَإِنْ تُخَالِطُوهُمْ
+  فَإِخْوَانُكُمْ وَٱللَّهُ يَعْلَمُ ٱلْمُفْسِدَ مِنَ ٱلْمُصْلِحِ وَلَوْ شَآءَ ٱللَّهُ
+  لأَعْنَتَكُمْ إِنَّ ٱللَّهَ عَزِيزٌ حَكِيمٌ</a> <b>}</b></font>, <br/>, <br/>, <div
+  align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\"/></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">يَا
+  أَيُّهَا ٱلَّذِينَ آمَنُواْ لاَ تَقْرَبُواْ ٱلصَّلَٰوةَ وَأَنْتُمْ سُكَٰرَىٰ حَتَّىٰ
+  تَعْلَمُواْ مَا تَقُولُونَ</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">[النساء: 43] فشربها من شربها منهم، وجعلوا يتقونها عند الصلاة، حتـى
+  شربها فـيـما زعم أبو القموص رجلٌ، فجعل ينوح علـى قتلـى بدر:</font></font><table
+  class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">تُـحَيِّـي بـالسَّلامَةِ أُمُّ عَمرو</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">وهلْ لكِ بعدَ رَهْطِكِ من سَلامِ</font></font></b></td></tr><tr
+  class=\"TextArabic\"><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">ذَرِيِني أصْطَبِحْ بَكْرا فإنّي</font></font></b></td><td class=\"TextArabic\">   </td><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">رأيْتُ المَوْتَ
+  نَقَّبَ عَنْ هِشامِ</font></font></b></td></tr><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">وَوَدّ بَنُو المُغِيرَةِ لَوْ فَدَوْهُ</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">بألْفٍ مِنْ رجالٍ أوْ سَوَامِ</font></font></b></td></tr><tr class=\"TextArabic\"><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">كأني بالطّوِيّ
+  طَوِيّ بَدْرٍ</font></font></b></td><td class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">مِنَ الشيِّزَى يُكَلّلُ بالسَّنامِ</font></font></b></td></tr><tr
+  class=\"TextArabic\"><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">كأني بالطَّوِيّ طَوِيّ بَدْرٍ</font></font></b></td><td class=\"TextArabic\">   </td><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">مِنَ الفِتْيانِ
+  والحُلَل الكِرَامِ</font></font></b></td></tr></table><font class=\"TextResultArabic\"><font
+  color=\"black\">قال: فبلغ ذلك رسول الله صلى الله عليه وسلم، فجاء فزعا يجرّ رداءه
+  من الفزع حتـى انتهى إلـيه، فلـما عاينه الرجل، فرفع رسول الله صلى الله عليه وسلم
+  شيئاً كان بيده ليضربه، قال: أعوذ بـالله من غضب الله ورسوله، والله لا أطعَمُها أبداً
+  فأنزل الله تـحريـمها:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">يَٰأَيُّهَا ٱلَّذِينَ آمَنُواْ إِنَّمَا ٱلْخَمْرُ وَٱلْمَيْسِرُ
+  وَٱلأَنصَابُ وَٱلأَزْلاَمُ رِجْسٌ...</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">[المائدة: 90] إلـى قوله:</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">فَهَلْ
+  أَنْتُمْ مُّنتَهُونَ</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">[المائدة: 91] فقال عمر بن الـخطاب رضي الله عنه: انتهينا انتهينا.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا سفـيان بن وكيع، قال: ثنا إسحاق الأزرق، عن زكريا عن سماك، عن
   الشعبـي، قال: نزلت فـي الـخمر أربع آيات: { يَسألُونَكَ عَنِ الـخَمْرِ وَالَـمْيسِرِ
-  قُلْ فِـيهِمَا إثْمٌ كَبِـيرٌ وَمَنافِعٌ للنَّاسِ } فتركوها، ثم نزلت:{ تَتَّـخِذُونَ
-  مِنْهُ سَكَراً وَرِزْقاً حَسَناً }فشربوها. ثم نزلت الآيتان فـي الـمائدة{ يَٰأَيُّهَا
-  ٱلَّذِينَ آمَنُواْ إِنَّمَا ٱلْخَمْرُ وَٱلْمَيْسِرُ وَٱلأَنصَابُ وَٱلأَزْلاَمُ }[المائدة:
-  90] إلـى قوله:{ فَهَلْ أَنْتُمْ مُّنتَهُونَ }[المائدة: 91].حدثنـي موسى بن هارون،
-  قال: ثنا عمرو بن حماد، قال: ثنا أسبـاط، عن السدي، قال: نزلت هذه الآية: { يَسألُونَكَ
-  عَنِ الـخَمْرِ وَالَـمْيسِرِ } الآية، فلـم يزالوا بذلك يشربونها، حتـى صنع عبد الرحمن
-  بن عوف طعاماً، فدعا ناساً من أصحاب النبـيّ صلى الله عليه وسلم فـيهم علـيّ بن أبـي
-  طالب، فقرأ:{ قُلْ يٰأَيُّهَا ٱلْكَافِرُونَ }[الكافرون: 1] ولـم يفهمها، فأنزل الله
-  عز وجل يشدّد فـي الـخمر:{ يَا أَيُّهَا ٱلَّذِينَ آمَنُواْ لاَ تَقْرَبُواْ ٱلصَّلَٰوةَ
-  وَأَنْتُمْ سُكَٰرَىٰ حَتَّىٰ تَعْلَمُواْ مَا تَقُولُونَ }[النساء: 43] فكانت لهم
-  حلالاً، يشربون من صلاة الفجر حتـى يرتفع النهار أو ينتصف، فـيقومون إلـى صلاة الظهر
-  وهم مُصْحون، ثم لا يشربونها حتـى يصلوا العتـمة وهي العشاء، ثم يشربونها حتـى ينتصف
-  اللـيـل وينامون، ثم يقومون إلـى صلاة الفجر وقد صحوا. فلـم يزالوا بذلك يشربونها،
-  حتـى صنع سعد بن أبـي وقاص طعاماً، فدعا ناساً من أصحاب النبـيّ صلى الله عليه وسلم
-  فـيهم رجل من الأنصار، فشوى لهم رأس بعير ثم دعاهم علـيه، فلـما أكلوا وشربوا من الـخمر
-  سكروا وأخذوا فـي الـحديث، فتكلـم سعد بشيء، فغضب الأنصاري، فرفع لـحى البعير فكسر
-  أنف سعد، فأنزل الله نسخ الـخمر وتـحريـمها وقال:{ إِنَّمَا ٱلْخَمْرُ وَٱلْمَيْسِرُ
-  وَٱلأَنصَابُ وَٱلأَزْلاَمُ }[المائدة: 90] إلـى قوله:{ فَهَلْ أَنْتُمْ مُّنتَهُونَ }[المائدة:
-  91] حدثنا الـحسن بن يحيى، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر، عن قتادة، وعن
-  رجل عن مـجاهد فـي قوله: { يَسألُونَكَ عَنِ الـخَمْرِ وَالَـمْيسِرِ } قال: لـما نزلت
-  هذه الآية شربها بعض الناس وتركها بعض، حتـى نزل تـحريـمها فـي سورة الـمائدة.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 9 10 \r\n\t\t\t\t\t\t\t\tمزيد</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ يَسْأَلُونَكَ عَنِ ٱلْخَمْرِ وَٱلْمَيْسِرِ
-  قُلْ فِيهِمَآ إِثْمٌ كَبِيرٌ وَمَنَٰفِعُ لِلنَّاسِ وَإِثْمُهُمَآ أَكْبَرُ مِن نَّفْعِهِمَا
+  قُلْ فِـيهِمَا إثْمٌ كَبِـيرٌ وَمَنافِعٌ للنَّاسِ } فتركوها، ثم نزلت:</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">تَتَّـخِذُونَ
+  مِنْهُ سَكَراً وَرِزْقاً حَسَناً</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">فشربوها. ثم نزلت الآيتان فـي الـمائدة</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">يَٰأَيُّهَا
+  ٱلَّذِينَ آمَنُواْ إِنَّمَا ٱلْخَمْرُ وَٱلْمَيْسِرُ وَٱلأَنصَابُ وَٱلأَزْلاَمُ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[المائدة:
+  90] إلـى قوله:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">فَهَلْ أَنْتُمْ مُّنتَهُونَ</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">[المائدة: 91].</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي موسى بن هارون، قال: ثنا عمرو بن حماد، قال: ثنا أسبـاط، عن
+  السدي، قال: نزلت هذه الآية: { يَسألُونَكَ عَنِ الـخَمْرِ وَالَـمْيسِرِ } الآية،
+  فلـم يزالوا بذلك يشربونها، حتـى صنع عبد الرحمن بن عوف طعاماً، فدعا ناساً من أصحاب
+  النبـيّ صلى الله عليه وسلم فـيهم علـيّ بن أبـي طالب، فقرأ:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">قُلْ يٰأَيُّهَا ٱلْكَافِرُونَ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[الكافرون:
+  1] ولـم يفهمها، فأنزل الله عز وجل يشدّد فـي الـخمر:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">يَا أَيُّهَا ٱلَّذِينَ آمَنُواْ لاَ
+  تَقْرَبُواْ ٱلصَّلَٰوةَ وَأَنْتُمْ سُكَٰرَىٰ حَتَّىٰ تَعْلَمُواْ مَا تَقُولُونَ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[النساء:
+  43] فكانت لهم حلالاً، يشربون من صلاة الفجر حتـى يرتفع النهار أو ينتصف، فـيقومون
+  إلـى صلاة الظهر وهم مُصْحون، ثم لا يشربونها حتـى يصلوا العتـمة وهي العشاء، ثم يشربونها
+  حتـى ينتصف اللـيـل وينامون، ثم يقومون إلـى صلاة الفجر وقد صحوا. فلـم يزالوا بذلك
+  يشربونها، حتـى صنع سعد بن أبـي وقاص طعاماً، فدعا ناساً من أصحاب النبـيّ صلى الله
+  عليه وسلم فـيهم رجل من الأنصار، فشوى لهم رأس بعير ثم دعاهم علـيه، فلـما أكلوا وشربوا
+  من الـخمر سكروا وأخذوا فـي الـحديث، فتكلـم سعد بشيء، فغضب الأنصاري، فرفع لـحى البعير
+  فكسر أنف سعد، فأنزل الله نسخ الـخمر وتـحريـمها وقال:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">إِنَّمَا ٱلْخَمْرُ وَٱلْمَيْسِرُ
+  وَٱلأَنصَابُ وَٱلأَزْلاَمُ</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">[المائدة: 90] إلـى قوله:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">فَهَلْ أَنْتُمْ مُّنتَهُونَ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">[المائدة: 91] حدثنا الـحسن بن يحيى،
+  قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر، عن قتادة، وعن رجل عن مـجاهد فـي قوله:
+  { يَسألُونَكَ عَنِ الـخَمْرِ وَالَـمْيسِرِ } قال: لـما نزلت هذه الآية شربها بعض
+  الناس وتركها بعض، حتـى نزل تـحريـمها فـي سورة الـمائدة.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,7,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">6 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,8,1)\"><u>8</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,9,1)\"><u>9</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(1,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2,
+  219)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,219)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">يَسْأَلُونَكَ عَنِ ٱلْخَمْرِ وَٱلْمَيْسِرِ قُلْ
+  فِيهِمَآ إِثْمٌ كَبِيرٌ وَمَنَٰفِعُ لِلنَّاسِ وَإِثْمُهُمَآ أَكْبَرُ مِن نَّفْعِهِمَا
   وَيَسْأَلُونَكَ مَاذَا يُنفِقُونَ قُلِ ٱلْعَفْوَ كَذٰلِكَ يُبيِّنُ ٱللَّهُ لَكُمُ
-  ٱلأيَٰتِ لَعَلَّكُمْ تَتَفَكَّرُونَ } * { فِي ٱلدُّنْيَا وَٱلآخِرَةِ وَيَسْأَلُونَكَ
-  عَنِ ٱلْيَتَامَىٰ قُلْ إِصْلاَحٌ لَّهُمْ خَيْرٌ وَإِنْ تُخَالِطُوهُمْ فَإِخْوَانُكُمْ
-  وَٱللَّهُ يَعْلَمُ ٱلْمُفْسِدَ مِنَ ٱلْمُصْلِحِ وَلَوْ شَآءَ ٱللَّهُ لأَعْنَتَكُمْ
-  إِنَّ ٱللَّهَ عَزِيزٌ حَكِيمٌ }حدثنا مـحمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا
-  عيسى، عن ابن أبـي نـجيح، عن مـجاهد: { قُلْ فِـيهِمَا إثْمٌ كَبِـيرٌ } قال: هذا أوّل
-  ما عيبت به الـخمر.حدثنا بشر بن معاذ، قال: ثنا يزيد بن زريع، قال: ثنا سعيد، عن قتادة
+  ٱلأيَٰتِ لَعَلَّكُمْ تَتَفَكَّرُونَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">فِي ٱلدُّنْيَا وَٱلآخِرَةِ
+  وَيَسْأَلُونَكَ عَنِ ٱلْيَتَامَىٰ قُلْ إِصْلاَحٌ لَّهُمْ خَيْرٌ وَإِنْ تُخَالِطُوهُمْ
+  فَإِخْوَانُكُمْ وَٱللَّهُ يَعْلَمُ ٱلْمُفْسِدَ مِنَ ٱلْمُصْلِحِ وَلَوْ شَآءَ ٱللَّهُ
+  لأَعْنَتَكُمْ إِنَّ ٱللَّهَ عَزِيزٌ حَكِيمٌ</a> <b>}</b></font>, <br/>, <br/>, <div
+  align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  مـحمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، عن ابن أبـي نـجيح، عن مـجاهد: {
+  قُلْ فِـيهِمَا إثْمٌ كَبِـيرٌ } قال: هذا أوّل ما عيبت به الـخمر.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا بشر بن معاذ، قال: ثنا يزيد بن زريع، قال: ثنا سعيد، عن قتادة
   قوله: { يَسألُونَكَ عَنِ الـخَمْرِ وَالَـمْيسِرِ قُلْ فِـيهِمَا إثْمٌ كَبِـيرٌ وَمَنافِعٌ
   للنَّاسِ } فذمهما الله ولـم يحرّمهما لـما أراد أن يبلغ بهما من الـمدة والأجل، ثم
   أنزل الله فـي سورة النساء أشدّ منها: { لا تَقْرَبُوا الصَّلاةَ وأنْتُـمْ سُكارَى
   حَّتـى تَعْلَـمُوا ما تَقُوُلونَ } فكانوا يشربونها، حتـى إذا حضرت الصلاة سكتوا عنها،
-  فكان السكر علـيهم حراماً. ثم أنزل الله جل وعز فـي سورة الـمائدة بعد غزوة الأحزاب:{ يَٰأَيُّهَا
-  ٱلَّذِينَ آمَنُواْ إِنَّمَا ٱلْخَمْرُ وَٱلْمَيْسِرُ }[المائدة: 90] إلـى:{ لَعَلَّكُمْ
-  تُفْلِحُونَ }[المائدة: 100] فجاء تـحريـمها فـي هذه الآية قلـيـلها وكثـيرها، ما أسكر
-  منها وما لـم يسكر، ولـيس للعرب يومئذ عيش أعجب إلـيهم منها.وحدثت عن عمار بن الـحسن،
-  قال: ثنا ابن أبـي جعفر، عن أبـيه، عن الربـيع قوله: { يَسألُونَكَ عَنِ الـخَمْرِ
-  وَالَـمْيسِرِ قُلْ فِـيهِمَا إثْمٌ كَبِـيرٌ وَمَنافِعُ للنَّاسِ وإثْمُهُما أكْبَرُ
-  مِنْ نَفْعِهِمَا }. قال: لـما نزلت هذه الآية قال رسول الله صلى الله عليه وسلم: \"
-  إنّ رَبَّكُمْ يُقَدِّمُ فِـي تَـحْريـمِ الـخَمْرِ \" قال: ثم نزلت:{ يَا أَيُّهَا
-  ٱلَّذِينَ آمَنُواْ لاَ تَقْرَبُواْ ٱلصَّلَٰوةَ وَأَنْتُمْ سُكَٰرَىٰ حَتَّىٰ تَعْلَمُواْ
-  مَا تَقُولُونَ }[النساء: 43] قال النبـيّ صلى الله عليه وسلم: \" إنَّ رَبَّكُمْ يُقَدّمُ
-  فِـي تَـحْرِيـمِ الـخَمْرِ \" قال: ثم نزلت:{ يَٰأَيُّهَا ٱلَّذِينَ آمَنُواْ إِنَّمَا
+  فكان السكر علـيهم حراماً. ثم أنزل الله جل وعز فـي سورة الـمائدة بعد غزوة الأحزاب:</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">يَٰأَيُّهَا
+  ٱلَّذِينَ آمَنُواْ إِنَّمَا ٱلْخَمْرُ وَٱلْمَيْسِرُ</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">[المائدة: 90] إلـى:</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">لَعَلَّكُمْ
+  تُفْلِحُونَ</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">[المائدة: 100] فجاء تـحريـمها فـي هذه الآية قلـيـلها وكثـيرها، ما
+  أسكر منها وما لـم يسكر، ولـيس للعرب يومئذ عيش أعجب إلـيهم منها.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وحدثت عن عمار بن الـحسن، قال: ثنا ابن أبـي جعفر، عن أبـيه، عن الربـيع
+  قوله: { يَسألُونَكَ عَنِ الـخَمْرِ وَالَـمْيسِرِ قُلْ فِـيهِمَا إثْمٌ كَبِـيرٌ وَمَنافِعُ
+  للنَّاسِ وإثْمُهُما أكْبَرُ مِنْ نَفْعِهِمَا }. قال: لـما نزلت هذه الآية قال رسول
+  الله صلى الله عليه وسلم:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" إنّ رَبَّكُمْ يُقَدِّمُ فِـي تَـحْريـمِ الـخَمْرِ \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\">قال: ثم نزلت:</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">يَا
+  أَيُّهَا ٱلَّذِينَ آمَنُواْ لاَ تَقْرَبُواْ ٱلصَّلَٰوةَ وَأَنْتُمْ سُكَٰرَىٰ حَتَّىٰ
+  تَعْلَمُواْ مَا تَقُولُونَ</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">[النساء: 43] قال النبـيّ صلى الله عليه وسلم:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" إنَّ رَبَّكُمْ يُقَدّمُ فِـي
+  تَـحْرِيـمِ الـخَمْرِ \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">قال: ثم نزلت:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">يَٰأَيُّهَا ٱلَّذِينَ آمَنُواْ إِنَّمَا
   ٱلْخَمْرُ وَٱلْمَيْسِرُ وَٱلأَنصَابُ وَٱلأَزْلاَمُ رِجْسٌ مِّنْ عَمَلِ ٱلشَّيْطَانِ
-  فَٱجْتَنِبُوهُ }[المائدة: 90] فحرّمت الـخمر عند ذلك.حدثنـي يونس، قال: أخبرنا ابن
-  وهب، قال: قال ابن زيد فـي قوله: { يَسألُونَكَ عَنِ الـخَمْرِ وَالَـمْيسِرِ } الآية
-  كلها، قال نسخت ثلاثةً: فـي سورة الـمائدة، وبـالـحدّ الذي حدّ النبـيّ صلى الله عليه
-  وسلم، وضرب النبـيّ صلى الله عليه وسلم. قال: كان النبـيّ صلى الله عليه وسلم يضربهم
-  بذلك حدّاً، ولكنه كان يعمل فـي ذلك برأيه، ولـم يكن حدّاً مسمى وهو حد. وقرأ: { إنَّـمَا
-  الـخَمْرُ وَالـمَيْسِرُ } الآية.القول فـي تأويـل قوله تعالـى: { وَيَسألُونَكَ ماذَا
-  يُنْفِقُونَ قُلِ العَفْوَ }.يعنـي جل ذكره بذلك: ويسألك يا مـحمد أصحابك: أيّ شيء
-  ينفقون من أموالهم فـيتصدقون به، فقل لهم يا مـحمد أنفقوا منها العفو.واختلف أهل التأويـل
-  فـي معنى: { العَفْو } فـي هذا الـموضع، فقال بعضهم: معناه: الفضل. ذكر من قال ذلك.حدثنا
-  عمرو بن علـيّ البـاهلـي، قال: ثنا وكيع ح، وحدثنا ابن وكيع، قال: ثنا أبـي، عن ابن
-  أبـي لـيـلـى، عن الـحكم، عن مقسم، عن ابن عبـاس قال: العفو: ما فضل عن أهلك.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 9 10 \r\n\t\t\t\t\t\t\t\tمزيد</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ يَسْأَلُونَكَ عَنِ ٱلْخَمْرِ وَٱلْمَيْسِرِ
-  قُلْ فِيهِمَآ إِثْمٌ كَبِيرٌ وَمَنَٰفِعُ لِلنَّاسِ وَإِثْمُهُمَآ أَكْبَرُ مِن نَّفْعِهِمَا
+  فَٱجْتَنِبُوهُ</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">[المائدة: 90] فحرّمت الـخمر عند ذلك.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد فـي قوله: { يَسألُونَكَ عَنِ الـخَمْرِ
+  وَالَـمْيسِرِ } الآية كلها، قال نسخت ثلاثةً: فـي سورة الـمائدة، وبـالـحدّ الذي حدّ
+  النبـيّ صلى الله عليه وسلم، وضرب النبـيّ صلى الله عليه وسلم. قال: كان النبـيّ صلى
+  الله عليه وسلم يضربهم بذلك حدّاً، ولكنه كان يعمل فـي ذلك برأيه، ولـم يكن حدّاً مسمى
+  وهو حد. وقرأ: { إنَّـمَا الـخَمْرُ وَالـمَيْسِرُ } الآية.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">القول
+  فـي تأويـل قوله تعالـى: { وَيَسألُونَكَ ماذَا يُنْفِقُونَ قُلِ العَفْوَ }.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">يعنـي جل ذكره بذلك: ويسألك يا مـحمد أصحابك: أيّ شيء ينفقون من أموالهم
+  فـيتصدقون به، فقل لهم يا مـحمد أنفقوا منها العفو.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">واختلف
+  أهل التأويـل فـي معنى: { العَفْو } فـي هذا الـموضع، فقال بعضهم: معناه: الفضل. ذكر
+  من قال ذلك.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا عمرو بن علـيّ البـاهلـي،
+  قال: ثنا وكيع ح، وحدثنا ابن وكيع، قال: ثنا أبـي، عن ابن أبـي لـيـلـى، عن الـحكم،
+  عن مقسم، عن ابن عبـاس قال: العفو: ما فضل عن أهلك.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,8,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">7 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,8,1)\"><u>8</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,9,1)\"><u>9</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(1,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2,
+  219)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,219)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">يَسْأَلُونَكَ عَنِ ٱلْخَمْرِ وَٱلْمَيْسِرِ قُلْ
+  فِيهِمَآ إِثْمٌ كَبِيرٌ وَمَنَٰفِعُ لِلنَّاسِ وَإِثْمُهُمَآ أَكْبَرُ مِن نَّفْعِهِمَا
   وَيَسْأَلُونَكَ مَاذَا يُنفِقُونَ قُلِ ٱلْعَفْوَ كَذٰلِكَ يُبيِّنُ ٱللَّهُ لَكُمُ
-  ٱلأيَٰتِ لَعَلَّكُمْ تَتَفَكَّرُونَ } * { فِي ٱلدُّنْيَا وَٱلآخِرَةِ وَيَسْأَلُونَكَ
-  عَنِ ٱلْيَتَامَىٰ قُلْ إِصْلاَحٌ لَّهُمْ خَيْرٌ وَإِنْ تُخَالِطُوهُمْ فَإِخْوَانُكُمْ
-  وَٱللَّهُ يَعْلَمُ ٱلْمُفْسِدَ مِنَ ٱلْمُصْلِحِ وَلَوْ شَآءَ ٱللَّهُ لأَعْنَتَكُمْ
-  إِنَّ ٱللَّهَ عَزِيزٌ حَكِيمٌ }حدثنا بشر بن معاذ، قال: ثنا يزيد، قال: ثنا سعيد،
-  عن قتادة: قل العفو: أي الفضل.حدثنا الـحسن بن يحيى، قال: أخبرنا عبد الرزاق، قال:
-  أخبرنا معمر، عن قتادة، قال: هو الفضل.حدثنـي يعقوب بن إبراهيـم، قال: ثنا هشيـم، قال:
-  أخبرنا عبد الـملك، عن عطاء فـي قوله: العفو، قال: الفضل.حدثنا موسى بن هارون، قال:
-  ثنا عمرو بن حماد، قال: ثنا أسبـاط، عن السدي، قال: العفو، يقول: الفضل.حدثنـي يونس،
-  قال: أخبرنا ابن وهب، قال: قال ابن زيد فـي قوله: { وَيَسألُونَكَ ماذَا يُنْفِقُونَ
+  ٱلأيَٰتِ لَعَلَّكُمْ تَتَفَكَّرُونَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">فِي ٱلدُّنْيَا وَٱلآخِرَةِ
+  وَيَسْأَلُونَكَ عَنِ ٱلْيَتَامَىٰ قُلْ إِصْلاَحٌ لَّهُمْ خَيْرٌ وَإِنْ تُخَالِطُوهُمْ
+  فَإِخْوَانُكُمْ وَٱللَّهُ يَعْلَمُ ٱلْمُفْسِدَ مِنَ ٱلْمُصْلِحِ وَلَوْ شَآءَ ٱللَّهُ
+  لأَعْنَتَكُمْ إِنَّ ٱللَّهَ عَزِيزٌ حَكِيمٌ</a> <b>}</b></font>, <br/>, <br/>, <div
+  align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  بشر بن معاذ، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة: قل العفو: أي الفضل.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا الـحسن بن يحيى، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر،
+  عن قتادة، قال: هو الفضل.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي يعقوب بن إبراهيـم، قال:
+  ثنا هشيـم، قال: أخبرنا عبد الـملك، عن عطاء فـي قوله: العفو، قال: الفضل.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا موسى بن هارون، قال: ثنا عمرو بن حماد، قال: ثنا أسبـاط، عن
+  السدي، قال: العفو، يقول: الفضل.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد فـي قوله: { وَيَسألُونَكَ ماذَا يُنْفِقُونَ
   قُلِ العَفْوَ } قال: كان القوم يعملون فـي كل يوم بـما فـيه، فإن فضل ذلك الـيوم فضل
-  عن العيال قدموه ولا يتركون عيالهم جوعا، ويتصدقون به علـى الناس.حدثنا عمرو بن علـيّ،
-  قال: ثنا يزيد بن زريع، قال: ثنا يونس، عن الـحسن فـي قوله: { وَيَسألُونَكَ ماذَا
-  يُنْفِقُونَ قُلِ العَفْوَ } قال: هوالفضل فضل الـمال.وقال آخرون: معنى ذلك ما كان
-  عفواً لا يبـين علـى من أنفقه أو تصدق به. ذكر من قال ذلك:حدثنـي علـيّ بن داود، قال:
-  ثنا عبد الله بن صالـح قال: ثنـي معاوية بن صالـح، عن علـيّ، عن ابن عبـاس: { وَيَسألُونَكَ
-  ماذَا يُنْفِقُونَ قُل العَفْوَ } يقول: ما لا يتبـين فـي أموالكم.حدثنـي مـحمد بن
-  عمرو، قال: ثنا أبو عاصم، عن عيسى، عن ابن جريج، عن طاوس فـي قول الله جل وعز: { وَيَسألُونَكَ
-  ماذَا يُنْفِقُونَ قُلِ العَفْوَ } قال: الـيسير من كل شيء.وقال آخرون: معنى ذلك: الوسط
-  من النفقة ما لـم يكن إسرافـاً ولا إقتاراً. ذكر من قال ذلك:حدثنا مـحمد بن عبد الله
-  بن بزيع، قال: ثنا بشر بن الـمفضل، عن عوف، عن الـحسن فـي قوله: { وَيَسألُونَكَ ماذَا
-  يُنْفِقُونَ قُلِ العَفْوَ } يقول: لا تـجهد مالك حتـى ينفد للناس.حدثنا القاسم، قال:
-  ثنا الـحسين، قال: ثنـي حجاج، عن ابن جريج، قال: سألت عطاء، عن قوله: { يَسألُونَكَ
-  ماذَا يُنْفِقُونَ قُل العَفْوَ } قال: العفو فـي النفقة أن لا تـجهد مالك حتـى ينفد،
-  فتسأل الناس.حدثنا القاسم، قال: ثنا الـحسين، قال: ثنا حجاج، عن ابن جريج، قال: سألت
-  عطاء، عن قوله { يَسألُونَكَ ماذَا يُنْفِقُونَ قُلِ العَفْوَ } قال: العفو: ما لـم
-  يسرفوا، ولـم يقتروا فـي الـحقّ. قال: وقال مـجاهد: العفو صدقة عن ظهر غنى.حدثنا عمرو
-  بن علـيّ، قال: ثنا يحيى بن سعيد، قال: ثنا عوف، عن الـحسن فـي قوله: { يَسألُونَكَ
-  ماذَا يُنْفِقُونَ قُلِ العَفْوَ } قال: هو أن لا تـجهد مالك.وقال آخرون: معنى ذلك
-  { قُلِ العَفْوَ } خذ منهم ما أتوك به من شيء قلـيلاً أو كثـيراً. ذكر من قال ذلك:حدثنـي
+  عن العيال قدموه ولا يتركون عيالهم جوعا، ويتصدقون به علـى الناس.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا عمرو بن علـيّ، قال: ثنا يزيد بن زريع، قال: ثنا يونس، عن الـحسن
+  فـي قوله: { وَيَسألُونَكَ ماذَا يُنْفِقُونَ قُلِ العَفْوَ } قال: هوالفضل فضل الـمال.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال آخرون: معنى ذلك ما كان عفواً لا يبـين علـى من أنفقه أو تصدق
+  به. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي علـيّ بن داود، قال: ثنا
+  عبد الله بن صالـح قال: ثنـي معاوية بن صالـح، عن علـيّ، عن ابن عبـاس: { وَيَسألُونَكَ
+  ماذَا يُنْفِقُونَ قُل العَفْوَ } يقول: ما لا يتبـين فـي أموالكم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي مـحمد بن عمرو، قال: ثنا أبو عاصم، عن عيسى، عن ابن جريج، عن
+  طاوس فـي قول الله جل وعز: { وَيَسألُونَكَ ماذَا يُنْفِقُونَ قُلِ العَفْوَ } قال:
+  الـيسير من كل شيء.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال آخرون: معنى ذلك: الوسط من
+  النفقة ما لـم يكن إسرافـاً ولا إقتاراً. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  مـحمد بن عبد الله بن بزيع، قال: ثنا بشر بن الـمفضل، عن عوف، عن الـحسن فـي قوله:
+  { وَيَسألُونَكَ ماذَا يُنْفِقُونَ قُلِ العَفْوَ } يقول: لا تـجهد مالك حتـى ينفد
+  للناس.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا القاسم، قال: ثنا الـحسين،
+  قال: ثنـي حجاج، عن ابن جريج، قال: سألت عطاء، عن قوله: { يَسألُونَكَ ماذَا يُنْفِقُونَ
+  قُل العَفْوَ } قال: العفو فـي النفقة أن لا تـجهد مالك حتـى ينفد، فتسأل الناس.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا القاسم، قال: ثنا الـحسين، قال: ثنا حجاج، عن ابن جريج، قال:
+  سألت عطاء، عن قوله { يَسألُونَكَ ماذَا يُنْفِقُونَ قُلِ العَفْوَ } قال: العفو: ما
+  لـم يسرفوا، ولـم يقتروا فـي الـحقّ. قال: وقال مـجاهد: العفو صدقة عن ظهر غنى.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا عمرو بن علـيّ، قال: ثنا يحيى بن سعيد، قال: ثنا عوف، عن الـحسن
+  فـي قوله: { يَسألُونَكَ ماذَا يُنْفِقُونَ قُلِ العَفْوَ } قال: هو أن لا تـجهد مالك.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال آخرون: معنى ذلك { قُلِ العَفْوَ } خذ منهم ما أتوك به من شيء
+  قلـيلاً أو كثـيراً. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
   مـحمد بن سعد، قال: ثنـي أبـي، قال: ثنـي عمي، قال: ثنـي أبـي، عن أبـيه، عن ابن عبـاس:
   { وَيَسألُونَكَ ماذَا يُنْفِقُونَ قَلِ العَفْوَ } يقول: ما أتوك به من شيء قلـيـل
-  أو كثـير، فـاقبله منهم.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 9 10 \r\n\t\t\t\t\t\t\t\tمزيد</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ يَسْأَلُونَكَ عَنِ ٱلْخَمْرِ وَٱلْمَيْسِرِ
-  قُلْ فِيهِمَآ إِثْمٌ كَبِيرٌ وَمَنَٰفِعُ لِلنَّاسِ وَإِثْمُهُمَآ أَكْبَرُ مِن نَّفْعِهِمَا
+  أو كثـير، فـاقبله منهم.</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,7,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,9,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">8 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,9,1)\"><u>9</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(1,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2,
+  219)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,219)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">يَسْأَلُونَكَ عَنِ ٱلْخَمْرِ وَٱلْمَيْسِرِ قُلْ
+  فِيهِمَآ إِثْمٌ كَبِيرٌ وَمَنَٰفِعُ لِلنَّاسِ وَإِثْمُهُمَآ أَكْبَرُ مِن نَّفْعِهِمَا
   وَيَسْأَلُونَكَ مَاذَا يُنفِقُونَ قُلِ ٱلْعَفْوَ كَذٰلِكَ يُبيِّنُ ٱللَّهُ لَكُمُ
-  ٱلأيَٰتِ لَعَلَّكُمْ تَتَفَكَّرُونَ } * { فِي ٱلدُّنْيَا وَٱلآخِرَةِ وَيَسْأَلُونَكَ
-  عَنِ ٱلْيَتَامَىٰ قُلْ إِصْلاَحٌ لَّهُمْ خَيْرٌ وَإِنْ تُخَالِطُوهُمْ فَإِخْوَانُكُمْ
-  وَٱللَّهُ يَعْلَمُ ٱلْمُفْسِدَ مِنَ ٱلْمُصْلِحِ وَلَوْ شَآءَ ٱللَّهُ لأَعْنَتَكُمْ
-  إِنَّ ٱللَّهَ عَزِيزٌ حَكِيمٌ }وقال آخرون: معنى ذلك ما طاب من أموالكم. ذكر من قال
-  ذلك:حدثت عن عمار، قال: ثنا ابن أبـي جعفر، عن أبـيه، عن الربـيع قوله: { يَسألُونَكَ
-  ماذَا يُنْفِقونَ قُلِ العَفْوَ } قال: يقول الطيب منه، يقول: أفضل مالك وأطيبه.حدثت
-  عن عمار بن الـحسن قال: ثنا ابن أبـي جعفر، عن أبـيه، عن قتادة، قال: كان يقول: العفو:
-  الفضل. يقول: أفضل مالك.وقال آخرون: معنى ذلك: الصدقة الـمفروضة. ذكر من قال ذلك:حدثنـي
+  ٱلأيَٰتِ لَعَلَّكُمْ تَتَفَكَّرُونَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">فِي ٱلدُّنْيَا وَٱلآخِرَةِ
+  وَيَسْأَلُونَكَ عَنِ ٱلْيَتَامَىٰ قُلْ إِصْلاَحٌ لَّهُمْ خَيْرٌ وَإِنْ تُخَالِطُوهُمْ
+  فَإِخْوَانُكُمْ وَٱللَّهُ يَعْلَمُ ٱلْمُفْسِدَ مِنَ ٱلْمُصْلِحِ وَلَوْ شَآءَ ٱللَّهُ
+  لأَعْنَتَكُمْ إِنَّ ٱللَّهَ عَزِيزٌ حَكِيمٌ</a> <b>}</b></font>, <br/>, <br/>, <div
+  align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  آخرون: معنى ذلك ما طاب من أموالكم. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثت
+  عن عمار، قال: ثنا ابن أبـي جعفر، عن أبـيه، عن الربـيع قوله: { يَسألُونَكَ ماذَا
+  يُنْفِقونَ قُلِ العَفْوَ } قال: يقول الطيب منه، يقول: أفضل مالك وأطيبه.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثت عن عمار بن الـحسن قال: ثنا ابن أبـي جعفر، عن أبـيه، عن قتادة،
+  قال: كان يقول: العفو: الفضل. يقول: أفضل مالك.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  آخرون: معنى ذلك: الصدقة الـمفروضة. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
   مـحمد بن عمرو، قال: ثنا أبو عاصم، عن عيسى، عن ابن أبـي نـجيح، عن قـيس بن سعد، أو
   عيسى عن قـيس، عن مـجاهد شك أبو عاصم قول الله جل وعز: { قُلِ العَفْوَ } قال: الصدقة
-  الـمفروضة.وأولـى هذه الأقوال بـالصواب قول من قال: معنى العفو: الفضل من مال الرجل
-  عن نفسه وأهله فـي مؤنتهم وما لا بدّ لهم منه. وذلك هو الفضل الذي تظاهرت به الأخبـار
-  عن رسول الله صلى الله عليه وسلم بـالإذن فـي الصدقة، وصدقة فـي وجه البرّ.ذكر بعض
-  الأخبـار التـي رويت عن رسول الله صلى الله عليه وسلم بذلك:حدثنا علـيّ بن مسلـم، قال:
-  ثنا أبو عاصم، عن ابن عجلان، عن الـمقبري، عن أبـي هريرة، قال: قال رجل: يا رسول الله
-  عندي دينار قال: \" أنْفِقْهُ علـى نَفْسِكَ؟ \" قال: عندي آخر قال: \" أنْفِقْهُ علـى
-  أهْلِكَ \" قال: عندي آخر قال: \" أنْفِقْهُ علـى وَلَدِكَ \" قال: عندي آخر قال: \"
-  فأنْتَ أبْصَرُ \" حدثنـي مـحمد بن معمر البحرانـي، قال: ثنا روح بن عبـادة، قال: ثنا
+  الـمفروضة.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وأولـى هذه الأقوال بـالصواب قول
+  من قال: معنى العفو: الفضل من مال الرجل عن نفسه وأهله فـي مؤنتهم وما لا بدّ لهم منه.
+  وذلك هو الفضل الذي تظاهرت به الأخبـار عن رسول الله صلى الله عليه وسلم بـالإذن فـي
+  الصدقة، وصدقة فـي وجه البرّ.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">ذكر
+  بعض الأخبـار التـي رويت عن رسول الله صلى الله عليه وسلم بذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا علـيّ بن مسلـم، قال: ثنا أبو عاصم، عن ابن عجلان، عن الـمقبري،
+  عن أبـي هريرة، قال: قال رجل: يا رسول الله عندي دينار قال:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" أنْفِقْهُ علـى نَفْسِكَ؟ \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\">قال: عندي آخر قال:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" أنْفِقْهُ علـى أهْلِكَ \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\">قال: عندي آخر قال:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" أنْفِقْهُ علـى وَلَدِكَ \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\">قال: عندي آخر قال:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" فأنْتَ أبْصَرُ \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي مـحمد بن معمر البحرانـي، قال: ثنا روح بن عبـادة، قال: ثنا
   ابن جريج، قال: أخبرنـي أبو الزبـير أنه سمع جابر بن عبد الله يقول: قال رسول الله
-  صلى الله عليه وسلم: \" إذَا كانَ أحَدُكُمَ فَقِـيراً فَلْـيَبَدأ بِنَفْسِهِ، فإنْ
-  كانَ لَهُ فَضْلٌ فَلْـيَبْدأ مَعَ نَفْسِهِ بِـمَنْ يَعُولُ، ثُمَّ إنْ وَجَدَ فَضْلاً
-  بَعْدَ ذَلِكَ فَلْـيَتَصَدَّقْ علـى غَيْرِهِمْ \" حدثنا عمرو بن علـيّ، قال: ثنا
-  يزيد بن هارون، قال: ثنا مـحمد بن إسحاق، عن عاصم، عن عمر بن قتادة، عن محمود بن لبـيد،
+  صلى الله عليه وسلم:</font></font><b><font class=\"TextResultArabic\"><font color=\"Red\">
+  \" إذَا كانَ أحَدُكُمَ فَقِـيراً فَلْـيَبَدأ بِنَفْسِهِ، فإنْ كانَ لَهُ فَضْلٌ فَلْـيَبْدأ
+  مَعَ نَفْسِهِ بِـمَنْ يَعُولُ، ثُمَّ إنْ وَجَدَ فَضْلاً بَعْدَ ذَلِكَ فَلْـيَتَصَدَّقْ
+  علـى غَيْرِهِمْ \" </font></font></b><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا عمرو بن علـيّ، قال: ثنا يزيد
+  بن هارون، قال: ثنا مـحمد بن إسحاق، عن عاصم، عن عمر بن قتادة، عن محمود بن لبـيد،
   عن جابر بن عبد الله، قال: أتى رسول الله صلى الله عليه وسلم رجلٌ ببـيضة من ذهب أصابها
   فـي بعض الـمعادن، فقال: يا رسول الله، خذ هذه منـي صدقة، فوالله ما أصبحت أملك غيرها
   فأعرض عنه، فأتاه من ركنه الأيـمن، فقال له مثل ذلك، فأعرض عنه. ثم قال له مثل ذلك
-  فأعرض عنه. ثم قال له مثل ذلك، فقال:\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 9 10 \r\n\t\t\t\t\t\t\t\tمزيد</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ يَسْأَلُونَكَ عَنِ ٱلْخَمْرِ وَٱلْمَيْسِرِ
-  قُلْ فِيهِمَآ إِثْمٌ كَبِيرٌ وَمَنَٰفِعُ لِلنَّاسِ وَإِثْمُهُمَآ أَكْبَرُ مِن نَّفْعِهِمَا
+  فأعرض عنه. ثم قال له مثل ذلك، فقال:</font></font>&#13;\t\t\t<label disabled=\"true\"
+  class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,8,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,10,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,8,1)\"><u>8</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">9 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(1,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2,
+  219)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,219)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">يَسْأَلُونَكَ عَنِ ٱلْخَمْرِ وَٱلْمَيْسِرِ قُلْ
+  فِيهِمَآ إِثْمٌ كَبِيرٌ وَمَنَٰفِعُ لِلنَّاسِ وَإِثْمُهُمَآ أَكْبَرُ مِن نَّفْعِهِمَا
   وَيَسْأَلُونَكَ مَاذَا يُنفِقُونَ قُلِ ٱلْعَفْوَ كَذٰلِكَ يُبيِّنُ ٱللَّهُ لَكُمُ
-  ٱلأيَٰتِ لَعَلَّكُمْ تَتَفَكَّرُونَ } * { فِي ٱلدُّنْيَا وَٱلآخِرَةِ وَيَسْأَلُونَكَ
-  عَنِ ٱلْيَتَامَىٰ قُلْ إِصْلاَحٌ لَّهُمْ خَيْرٌ وَإِنْ تُخَالِطُوهُمْ فَإِخْوَانُكُمْ
-  وَٱللَّهُ يَعْلَمُ ٱلْمُفْسِدَ مِنَ ٱلْمُصْلِحِ وَلَوْ شَآءَ ٱللَّهُ لأَعْنَتَكُمْ
-  إِنَّ ٱللَّهَ عَزِيزٌ حَكِيمٌ } \" هاتها \" مغضبـاً، فأخذها فحذفه بها حذفة لو أصابه
-  شجه أو عقره، ثم قال: \" يَجِيءُ أحَدُكُمْ بِـمَالِهِ كُلِّهِ يَتَصَدَّقُ بِهِ وَيجْلِسُ
-  يَتَكَفَّفُ النَّاسَ إنَّـمَا الصّدَقَةُ عَنْ ظَهْرِ غِنَى \" حدثنا مـحمد بن الـمثنى،
-  قال: ثنا مـحمد بن جعفر، قال: ثنا شعبة، عن إبراهيـم الـمخرمي، قال: سمعت أبـا الأحوص
-  يحدث عن عبد الله، عن النبـيّ صلى الله عليه وسلم أنه قال: \" ارْضَخْ مِنَ الفَضْلِ،
-  وَابْدأ بِـمَنْ تَعُولُ، وَلا تُلامُ علـى كَفـافٍ \" وما أشبه ذلك من الأخبـار التـي
-  يطول بـاستقصاء ذكرها الكتاب. فإذا كان الذي أذن صلى الله عليه وسلم لأمته الصدقة من
-  أموالهم بـالفضل عن حاجة الـمتصدق الفضل من ذلك، هو العفو من مال الرجل إذ كان العفو
-  فـي كلام العرب فـي الـمال وفـي كل شيء هو الزيادة والكثرة، ومن ذلك قوله جل ثناؤه:
-  \" حَتـى عَفَوْا \" بـمعنى: زادوا علـى ما كانوا علـيه من العدد وكثروا، ومنه قول
-  الشاعر:وَلَكِنَّا يَعضُّ السَّيْفُ مِنَّا   بأسْوُقِ عافِـياتِ الشَّحْمِ كُومِيعني
-  به كثيرات الشحوم. ومن ذلك قيل للرجل: خذ ما عفا لك من فلان، يراد به: ما فضل فصفا
-  لك عن جهده بـما لـم تـجهده. كان بينا أن الذي أذن الله به فـي قوله { قُلِ العَفْوَ
-  } لعباده من النفقة، فأذنهم بإنفاقه إذا أرادوا إنفـاقه هو الذي بيَّن لأمته رسول الله
-  صلى الله عليه وسلم بقوله: \" خَيْرُ الصَّدَقة ما أَنْفقت عن غِنًى \" وأذنهم به.فإن
-  قال لنا قائل: وما تنكر أن يكون ذلك العفو هو الصدقة الـمفروضة؟ قـيـل: أنكرنا ذلك
-  لقـيام الـحجة علـى أن من حلت فـي ماله الزكاة الـمفروضة، فهلك جميع ماله إلا قدر الذي
-  لزم ماله لأهل سهمان الصدقة، أن علـيه أن يسلـمه إلـيهم، إذا كان هلاك ماله بعد تفريطه
-  فـي أداء الواجب كان لهم (فـي) ماله إلـيهم، وذلك لا شك أنه جهده إذا سلـمه إلـيهم
-  لا عفوه، وفـي تسمية الله جل ثناؤه ما علـم عبـاده وجه إنفـاقهم من أموالهم عفواً،
-  ما يبطل أن يكون مستـحقاً اسم جهد فـي حالة، وإذا كان ذلك كذلك فبِّـين فساد قول من
-  زعم أن معنى العفو هو ما أخرجه ربّ الـمال إلـى إمامه، فأعطاه كائناً ما كان من قلـيـل
-  ماله وكثـيره، وقول من زعم أنه الصدقة الـمفروضة.وكذلك أيضاً لا وجه لقول من يقول:
+  ٱلأيَٰتِ لَعَلَّكُمْ تَتَفَكَّرُونَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">فِي ٱلدُّنْيَا وَٱلآخِرَةِ
+  وَيَسْأَلُونَكَ عَنِ ٱلْيَتَامَىٰ قُلْ إِصْلاَحٌ لَّهُمْ خَيْرٌ وَإِنْ تُخَالِطُوهُمْ
+  فَإِخْوَانُكُمْ وَٱللَّهُ يَعْلَمُ ٱلْمُفْسِدَ مِنَ ٱلْمُصْلِحِ وَلَوْ شَآءَ ٱللَّهُ
+  لأَعْنَتَكُمْ إِنَّ ٱللَّهَ عَزِيزٌ حَكِيمٌ</a> <b>}</b></font>, <br/>, <br/>, <div
+  align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\"/></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" هاتها \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\">مغضبـاً، فأخذها فحذفه بها حذفة
+  لو أصابه شجه أو عقره، ثم قال:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" يَجِيءُ أحَدُكُمْ بِـمَالِهِ كُلِّهِ يَتَصَدَّقُ بِهِ وَيجْلِسُ
+  يَتَكَفَّفُ النَّاسَ إنَّـمَا الصّدَقَةُ عَنْ ظَهْرِ غِنَى \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا مـحمد بن الـمثنى، قال: ثنا مـحمد بن جعفر، قال: ثنا شعبة، عن
+  إبراهيـم الـمخرمي، قال: سمعت أبـا الأحوص يحدث عن عبد الله، عن النبـيّ صلى الله عليه
+  وسلم أنه قال:</font></font><b><font class=\"TextResultArabic\"><font color=\"Red\">
+  \" ارْضَخْ مِنَ الفَضْلِ، وَابْدأ بِـمَنْ تَعُولُ، وَلا تُلامُ علـى كَفـافٍ \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وما أشبه ذلك من الأخبـار التـي يطول بـاستقصاء ذكرها الكتاب. فإذا
+  كان الذي أذن صلى الله عليه وسلم لأمته الصدقة من أموالهم بـالفضل عن حاجة الـمتصدق
+  الفضل من ذلك، هو العفو من مال الرجل إذ كان العفو فـي كلام العرب فـي الـمال وفـي
+  كل شيء هو الزيادة والكثرة، ومن ذلك قوله جل ثناؤه:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" حَتـى عَفَوْا \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">بـمعنى: زادوا علـى ما كانوا علـيه من العدد وكثروا، ومنه قول الشاعر:</font></font><table
+  class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">وَلَكِنَّا يَعضُّ السَّيْفُ مِنَّا</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">بأسْوُقِ عافِـياتِ الشَّحْمِ كُومِ</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">يعني به كثيرات الشحوم. ومن ذلك
+  قيل للرجل: خذ ما عفا لك من فلان، يراد به: ما فضل فصفا لك عن جهده بـما لـم تـجهده.
+  كان بينا أن الذي أذن الله به فـي قوله { قُلِ العَفْوَ } لعباده من النفقة، فأذنهم
+  بإنفاقه إذا أرادوا إنفـاقه هو الذي بيَّن لأمته رسول الله صلى الله عليه وسلم بقوله:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" خَيْرُ الصَّدَقة ما أَنْفقت عن
+  غِنًى \" </font></font></b><font class=\"TextResultArabic\"><font color=\"black\">وأذنهم
+  به.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">فإن قال لنا قائل: وما تنكر أن يكون
+  ذلك العفو هو الصدقة الـمفروضة؟ قـيـل: أنكرنا ذلك لقـيام الـحجة علـى أن من حلت فـي
+  ماله الزكاة الـمفروضة، فهلك جميع ماله إلا قدر الذي لزم ماله لأهل سهمان الصدقة، أن
+  علـيه أن يسلـمه إلـيهم، إذا كان هلاك ماله بعد تفريطه فـي أداء الواجب كان لهم (فـي)
+  ماله إلـيهم، وذلك لا شك أنه جهده إذا سلـمه إلـيهم لا عفوه، وفـي تسمية الله جل ثناؤه
+  ما علـم عبـاده وجه إنفـاقهم من أموالهم عفواً، ما يبطل أن يكون مستـحقاً اسم جهد فـي
+  حالة، وإذا كان ذلك كذلك فبِّـين فساد قول من زعم أن معنى العفو هو ما أخرجه ربّ الـمال
+  إلـى إمامه، فأعطاه كائناً ما كان من قلـيـل ماله وكثـيره، وقول من زعم أنه الصدقة
+  الـمفروضة.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وكذلك أيضاً لا وجه لقول من يقول:
   إن معناه ما لـم يتبـين فـي أموالكم، لأن النبـيّ صلى الله عليه وسلم لـما قال له أبو
   لبـابة: إن من توبتـي أن أنـخـلع إلـى الله ورسوله من مالـي صدقة، قال النبـيّ صلى
-  الله عليه وسلم: \" يَكْفِـيكَ مِنْ ذَلِكَ الثُّلُثُ \" وكذلك روي عن كعب بن مالك
-  أن النبـيّ صلى الله عليه وسلم قال له نـحواً من ذلك.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 9 10 \r\n\t\t\t\t\t\t\t\tمزيد</section>"
+  الله عليه وسلم:</font></font><b><font class=\"TextResultArabic\"><font color=\"Red\">
+  \" يَكْفِـيكَ مِنْ ذَلِكَ الثُّلُثُ \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">وكذلك روي عن كعب بن مالك أن النبـيّ صلى الله عليه وسلم قال له نـحواً
+  من ذلك.</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,9,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,11,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,8,1)\"><u>8</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,9,1)\"><u>9</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">10 </font></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(1,11,1)\">مزيد</a></td></tr></table></center></div></section>"
 

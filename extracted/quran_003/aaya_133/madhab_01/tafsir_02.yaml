@@ -1,4 +1,4 @@
-location:
+position:
   sura: '003'
   aaya: '133'
   madhab: '01'
@@ -7,78 +7,168 @@ meta:
   title: تفسير الكشاف
   author: الزمخشري
   year: '538'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَسَارِعُوۤاْ
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(3, 133)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(3,133)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَسَارِعُوۤاْ
   إِلَىٰ مَغْفِرَةٍ مِّن رَّبِّكُمْ وَجَنَّةٍ عَرْضُهَا ٱلسَّمَٰوَٰتُ وَٱلأَرْضُ أُعِدَّتْ
-  لِلْمُتَّقِينَ } * { ٱلَّذِينَ يُنفِقُونَ فِي السَّرَّآءِ وَٱلضَّرَّآءِ وَٱلْكَاظِمِينَ
-  ٱلْغَيْظَ وَٱلْعَافِينَ عَنِ ٱلنَّاسِ وَٱللَّهُ يُحِبُّ ٱلْمُحْسِنِينَ } * { وَٱلَّذِينَ
+  لِلْمُتَّقِينَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">ٱلَّذِينَ يُنفِقُونَ فِي السَّرَّآءِ وَٱلضَّرَّآءِ
+  وَٱلْكَاظِمِينَ ٱلْغَيْظَ وَٱلْعَافِينَ عَنِ ٱلنَّاسِ وَٱللَّهُ يُحِبُّ ٱلْمُحْسِنِينَ</a>
+  <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَٱلَّذِينَ
   إِذَا فَعَلُواْ فَاحِشَةً أَوْ ظَلَمُوۤاْ أَنْفُسَهُمْ ذَكَرُواْ ٱللَّهَ فَٱسْتَغْفَرُواْ
   لِذُنُوبِهِمْ وَمَن يَغْفِرُ ٱلذُّنُوبَ إِلاَّ ٱللَّهُ وَلَمْ يُصِرُّواْ عَلَىٰ
-  مَا فَعَلُواْ وَهُمْ يَعْلَمُونَ } * { أُوْلَـٰئِكَ جَزَآؤُهُمْ مَّغْفِرَةٌ مِّن
+  مَا فَعَلُواْ وَهُمْ يَعْلَمُونَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">أُوْلَـٰئِكَ جَزَآؤُهُمْ مَّغْفِرَةٌ مِّن
   رَّبِّهِمْ وَجَنَّاتٌ تَجْرِي مِن تَحْتِهَا ٱلأَنْهَارُ خَالِدِينَ فِيهَا وَنِعْمَ
-  أَجْرُ ٱلْعَامِلِينَ } * { قَدْ خَلَتْ مِن قَبْلِكُمْ سُنَنٌ فَسِيرُواْ فِي ٱلأَرْضِ
-  فَٱنْظُرُواْ كَيْفَ كَانَ عَاقِبَةُ ٱلْمُكَذِّبِينَ }في مصاحف أهل المدينة والشام(
-  سارعوا ) بغير واو. وقرأ الباقون بالواو. وتنصره قراءة أبيّ وعبد الله: وسابقوا ومعنى
-  المسارعة إلى المغفرة والجنة: الإقبال على ما يستحقان به{ عَرْضُهَا ٱلسَّمَـٰوٰتُ
-  وَٱلأَرْضُ }[الحديد: 1]أي عرضها عرض السموات والأرض، كقوله: { عَرْضُهَا كَعَرْضِ
-  ٱلسَّمَاء وَٱلاْرْضِ } والمراد وصفها بالسعة والبسطة، فشبهت بأوسع ما علمه الناس من
-  خلقه وأبسطه. وخص العرض، لأنه في العادة أدنى من الطول للمبالغة، كقوله:{ بَطَائِنُهَا
-  مِنْ إِسْتَبْرَقٍ }[الرحمن: 54]. وعن ابن عباس رضي الله عنه: كسبع سموات وسبع أرضين
-  لو وصل بعضها ببعض { فِى السَّرَّاء وَٱلضَّرَّاء } في حال الرخاء واليسر وحال الضيقة
-  والعسر، لا يخلون بأن ينفقوا في كلتا الحالتين ما قدروا عليه من كثير أو قليل، كما
-  حكي عن بعض السلف: أنه ربما تصدّق ببصلة، وعن عائشة رضي الله عنها أنها تصدّقت بحبة
-  عنب أو في جميع الأحوال لأنها لا تخلو من حال مسرة ومضرّة، لا تمنعهم حال فرح وسرور،
-  ولا حال محنة وبلاء، من المعروف، وسواء عليهم كان الواحد منهم في عرس أو في حبس، فإنه
-  لا يدع الإحسان. وافتتح بذكر الإنفاق لأنه أشق شيء على النفس وأدله على الإخلاص، ولأنه
-  كان في ذلك الوقت أعظم الأعمال للحاجة إليه في مجاهدة العدو ومواساة فقراء المسلمين.كظم
+  أَجْرُ ٱلْعَامِلِينَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">قَدْ خَلَتْ مِن قَبْلِكُمْ سُنَنٌ فَسِيرُواْ
+  فِي ٱلأَرْضِ فَٱنْظُرُواْ كَيْفَ كَانَ عَاقِبَةُ ٱلْمُكَذِّبِينَ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">في مصاحف أهل المدينة والشام( سارعوا ) بغير واو. وقرأ الباقون بالواو.
+  وتنصره قراءة أبيّ وعبد الله: وسابقوا ومعنى المسارعة إلى المغفرة والجنة: الإقبال
+  على ما يستحقان به</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">عَرْضُهَا ٱلسَّمَـٰوٰتُ وَٱلأَرْضُ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[الحديد:
+  1]أي عرضها عرض السموات والأرض، كقوله: { عَرْضُهَا كَعَرْضِ ٱلسَّمَاء وَٱلاْرْضِ
+  } والمراد وصفها بالسعة والبسطة، فشبهت بأوسع ما علمه الناس من خلقه وأبسطه. وخص العرض،
+  لأنه في العادة أدنى من الطول للمبالغة، كقوله:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">بَطَائِنُهَا مِنْ إِسْتَبْرَقٍ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[الرحمن:
+  54]. وعن ابن عباس رضي الله عنه: كسبع سموات وسبع أرضين لو وصل بعضها ببعض { فِى السَّرَّاء
+  وَٱلضَّرَّاء } في حال الرخاء واليسر وحال الضيقة والعسر، لا يخلون بأن ينفقوا في كلتا
+  الحالتين ما قدروا عليه من كثير أو قليل، كما حكي عن بعض السلف: أنه ربما تصدّق ببصلة،
+  وعن عائشة رضي الله عنها أنها تصدّقت بحبة عنب أو في جميع الأحوال لأنها لا تخلو من
+  حال مسرة ومضرّة، لا تمنعهم حال فرح وسرور، ولا حال محنة وبلاء، من المعروف، وسواء
+  عليهم كان الواحد منهم في عرس أو في حبس، فإنه لا يدع الإحسان. وافتتح بذكر الإنفاق
+  لأنه أشق شيء على النفس وأدله على الإخلاص، ولأنه كان في ذلك الوقت أعظم الأعمال للحاجة
+  إليه في مجاهدة العدو ومواساة فقراء المسلمين.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">كظم
   القربة: إذا ملأها وشد فاها. وكظم البعير: إذا لم يجتر. ومنه كظم الغيظ، وهو أن يمسك
-  على ما في نفسه منه بالصبر ولا يظهر له أثراً، وعن النبي صلى الله عليه وسلم:(207)
-  \" من كظم غيظاً وهو يقدر على إنفاذه ملأ الله قلبه أمنا وإيماناً \" ، وعن عائشة رضي
-  الله عنها: أن خادماً لها غاظها فقالت: لله درّ التقوى، ما تركت لذي غيظ شفاء. { وَٱلْعَـٰفِينَ
-  عَنِ ٱلنَّاسِ } إذا جنى عليهم أحد لم يؤاخذوه وروي:(208) \" ينادي مناد يوم القيامة:
-  أين الذين كانت أجورهم على الله فلا يقوم إلا من عفا \" وعن ابن عيينة: أنه رواه للرشيد
-  وقد غضب على رجل فخلاه. وعن النبي صلى الله عليه وسلم:(209) \" إن هؤلاء في أمّتي قليل
-  إلا من عصم الله، وقد كانوا كثيراً في الأمم التي مضت \" { وَٱللَّهُ يُحِبُّ ٱلْمُحْسِنِينَ
-  } يجوز أن تكون اللام للجنس فيتناول كل محسن ويدخل تحته هؤلاء المذكورون. وأن تكون
-  للعهد فتكون إشارة إلى هؤلاء { وَٱلَّذِينَ } عطف على المتقين. أي أعدت للمتقين وللتائبين.
-  وقوله: { أُوْلَـٰئِكَ } إشارة إلى الفريقين. ويجوز أن يكون والذين مبتدأ خبره أولئك
-  { فَـٰحِشَةً } فعلة متزايدة القبح { أَوْ ظَلَمُواْ أَنْفُسَهُمْ } أو أذنبوا أي ذنب
-  كان مما يؤاخذون به. وقيل: الفاحشة والزنا. وظلم النفس ما دونه من القبلة واللمسة ونحوهما.\r\n\t\t\t\r\n\t\t\t1 2 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَسَارِعُوۤاْ إِلَىٰ مَغْفِرَةٍ مِّن
-  رَّبِّكُمْ وَجَنَّةٍ عَرْضُهَا ٱلسَّمَٰوَٰتُ وَٱلأَرْضُ أُعِدَّتْ لِلْمُتَّقِينَ
-  } * { ٱلَّذِينَ يُنفِقُونَ فِي السَّرَّآءِ وَٱلضَّرَّآءِ وَٱلْكَاظِمِينَ ٱلْغَيْظَ
-  وَٱلْعَافِينَ عَنِ ٱلنَّاسِ وَٱللَّهُ يُحِبُّ ٱلْمُحْسِنِينَ } * { وَٱلَّذِينَ إِذَا
+  على ما في نفسه منه بالصبر ولا يظهر له أثراً، وعن النبي صلى الله عليه وسلم:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">(207)</font></font><b><font class=\"TextResultArabic\"><font color=\"Red\">
+  \" من كظم غيظاً وهو يقدر على إنفاذه ملأ الله قلبه أمنا وإيماناً \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\">، وعن عائشة رضي الله عنها: أن خادماً
+  لها غاظها فقالت: لله درّ التقوى، ما تركت لذي غيظ شفاء. { وَٱلْعَـٰفِينَ عَنِ ٱلنَّاسِ
+  } إذا جنى عليهم أحد لم يؤاخذوه وروي:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">(208)</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" ينادي مناد يوم القيامة: أين الذين
+  كانت أجورهم على الله فلا يقوم إلا من عفا \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">وعن ابن عيينة: أنه رواه للرشيد وقد غضب على رجل فخلاه. وعن النبي
+  صلى الله عليه وسلم:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">(209)</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" إن هؤلاء في أمّتي قليل إلا من عصم الله، وقد كانوا كثيراً في الأمم
+  التي مضت \" </font></font></b><font class=\"TextResultArabic\"><font color=\"black\">{
+  وَٱللَّهُ يُحِبُّ ٱلْمُحْسِنِينَ } يجوز أن تكون اللام للجنس فيتناول كل محسن ويدخل
+  تحته هؤلاء المذكورون. وأن تكون للعهد فتكون إشارة إلى هؤلاء { وَٱلَّذِينَ } عطف على
+  المتقين. أي أعدت للمتقين وللتائبين. وقوله: { أُوْلَـٰئِكَ } إشارة إلى الفريقين.
+  ويجوز أن يكون والذين مبتدأ خبره أولئك { فَـٰحِشَةً } فعلة متزايدة القبح { أَوْ ظَلَمُواْ
+  أَنْفُسَهُمْ } أو أذنبوا أي ذنب كان مما يؤاخذون به. وقيل: الفاحشة والزنا. وظلم النفس
+  ما دونه من القبلة واللمسة ونحوهما.</font></font>&#13;\t\t\t<label disabled=\"true\"
+  class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(2,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(2,2,1)\"><u>2</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(3, 133)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(3,133)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَسَارِعُوۤاْ إِلَىٰ مَغْفِرَةٍ مِّن رَّبِّكُمْ
+  وَجَنَّةٍ عَرْضُهَا ٱلسَّمَٰوَٰتُ وَٱلأَرْضُ أُعِدَّتْ لِلْمُتَّقِينَ</a> <b>} *
+  </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">ٱلَّذِينَ
+  يُنفِقُونَ فِي السَّرَّآءِ وَٱلضَّرَّآءِ وَٱلْكَاظِمِينَ ٱلْغَيْظَ وَٱلْعَافِينَ
+  عَنِ ٱلنَّاسِ وَٱللَّهُ يُحِبُّ ٱلْمُحْسِنِينَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَٱلَّذِينَ إِذَا
   فَعَلُواْ فَاحِشَةً أَوْ ظَلَمُوۤاْ أَنْفُسَهُمْ ذَكَرُواْ ٱللَّهَ فَٱسْتَغْفَرُواْ
   لِذُنُوبِهِمْ وَمَن يَغْفِرُ ٱلذُّنُوبَ إِلاَّ ٱللَّهُ وَلَمْ يُصِرُّواْ عَلَىٰ
-  مَا فَعَلُواْ وَهُمْ يَعْلَمُونَ } * { أُوْلَـٰئِكَ جَزَآؤُهُمْ مَّغْفِرَةٌ مِّن
+  مَا فَعَلُواْ وَهُمْ يَعْلَمُونَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">أُوْلَـٰئِكَ جَزَآؤُهُمْ مَّغْفِرَةٌ مِّن
   رَّبِّهِمْ وَجَنَّاتٌ تَجْرِي مِن تَحْتِهَا ٱلأَنْهَارُ خَالِدِينَ فِيهَا وَنِعْمَ
-  أَجْرُ ٱلْعَامِلِينَ } * { قَدْ خَلَتْ مِن قَبْلِكُمْ سُنَنٌ فَسِيرُواْ فِي ٱلأَرْضِ
-  فَٱنْظُرُواْ كَيْفَ كَانَ عَاقِبَةُ ٱلْمُكَذِّبِينَ }وقيل: الفاحشة الكبيرة. وظلم
-  النفس الصغيرة { ذَكَرُواْ ٱللَّهَ } تذكروا عقابه أو وعيده أو نهيه، أو حقه العظيم
-  وجلاله الموجب للخشية والحياء منه { فَٱسْتَغْفَرُواْ لِذُنُوبِهِمْ } فتابوا عنها
-  لقبحها نادمين عازمين { وَمَن يَغْفِرُ ٱلذُّنُوبَ إِلاَّ ٱللَّهُ } وصف لذاته بسعة
-  الرحمة وقرب المغفرة وإنّ التائب من الذنب عنده كمن لا ذنب له، وأنه لا مفزع للمذنبين
-  إلا فضله وكرمه، وأنّ عدله يوجب المغفرة للتائب، لأن العبد إذا جاء في الاعتذار والتنصل
-  بأقصى ما يقدر عليه وجب العفو والتجاوز وفيه تطييب لنفوس العباد، وتنشيط للتوبة، وبعث
-  عليها وردع عن اليأس والقنوط وأن الذنوب وإن جلت فإن عفوه أجل وكرمه أعظم. والمعنى:
-  أنه وحده معه مصححات المغفرة وهذه جملة معترضة بين المعطوف والمعطوف عليه { وَلَمْ
-  يُصِرُّواْ } ولم يقيموا على قبيح فعلهم غير مستغفرين. وعن النبي صلى الله عليه وسلم:(210)
-  \" ما أصرّ من استغفر وإن عاد في اليوم سبعين مرّة \" وروي:(211) «لا كبيرة مع الاستغفار
-  ولا صغيرة مع الإصرار» { وَهُمْ يَعْلَمُونَ } حال من فعل الإصرار وحرف النفي منصب
-  عليهما معاً. والمعنى: وليسوا ممن يصرون على الذنوب وهم عالمون بقبحها وبالنهي عنها
-  وبالوعيد عليها، لأنه قد يعذر من لا يعلم قبح القبيح. وفي هذه الآيات بيان قاطع أنّ
-  الذين آمنوا على ثلاث طبقات: متقون وتائبون ومصروُّن. وأن الجنة للمتقين والتائبين
-  منهم، دون المصرّين. ومن خالف في ذلك فقد كابر عقله وعاند ربه. قال { أَجْرُ ٱلْعَـٰمِلِينَ
-  } بعد قوله:{ جَزَآؤُهُمْ }[آل عمران: 87] لأنهما في معنى واحد. وإنما خالف بين اللفظين
-  لزيادة التنبيه على أنّ ذلك جزاء واجب على عمل، وأجر مستحق عليه، لا كما يقول المبطلون.
-  وروي أنّ الله عزّ وجلّ أوحى إلى موسى: ما أقلّ حياء من يطمع في جنتي بغير عمل، كيف
-  أجود برحمتي على من يبخل بطاعتي. وعن شهر بن حوشب: طلب الجنة بلا عمل ذنب من الذنوب،
-  وانتظار الشفاعة بلا سبب نوع من الغرور، وارتجاء الرحمة ممن لا يطاع حمق وجهالة. وعن
-  الحسن رضي الله عنه: يقول الله تعالى يوم القيامة «جوزوا الصراط بعفوي، وادخلوا الجنة
-  برحمتي، واقتسموها بأعمالكم» وعن رابعة البصرية رضي الله عنها أنها كانت تنشد:تَرْجُو
-  النَّجَاةَ وَلَمْ تَسْلُكْ مَسَالِكَهَا   إنّ السَّفِينَةَ لاَ تَجْرِي عَلَى اليَبَسِوالمخصوص
-  بالمدح محذوف تقديره: ونعم أجر العاملين ذلك. يعني المغفرة والجنات { قَدْ خَلَتْ مِن
-  قَبْلِكُمْ سُنَنٌ } يريد ما سنه الله في الأمم المكذبين من وقائعه، كقوله:{ وَقُتّلُواْ
-  تَقْتِيلاً سُنَّةَ ٱللَّهِ فِى ٱلَّذِينَ خَلَوْاْ مِن قَبْل }[الأحزاب: 61]{ ثُمَّ
-  لاَ يَجِدُونَ وَلِيّاً وَلاَ نَصِيراً }[الفتح: 22]،{ سُنَّةَ ٱللَّهِ ٱلَّتِى قَدْ
-  خَلَتْ مِن قَبْلُ }[الفتح: 23].\r\n\t\t\t\r\n\t\t\t1 2 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  أَجْرُ ٱلْعَامِلِينَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">قَدْ خَلَتْ مِن قَبْلِكُمْ سُنَنٌ فَسِيرُواْ
+  فِي ٱلأَرْضِ فَٱنْظُرُواْ كَيْفَ كَانَ عَاقِبَةُ ٱلْمُكَذِّبِينَ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">وقيل: الفاحشة الكبيرة. وظلم النفس الصغيرة { ذَكَرُواْ ٱللَّهَ }
+  تذكروا عقابه أو وعيده أو نهيه، أو حقه العظيم وجلاله الموجب للخشية والحياء منه {
+  فَٱسْتَغْفَرُواْ لِذُنُوبِهِمْ } فتابوا عنها لقبحها نادمين عازمين { وَمَن يَغْفِرُ
+  ٱلذُّنُوبَ إِلاَّ ٱللَّهُ } وصف لذاته بسعة الرحمة وقرب المغفرة وإنّ التائب من الذنب
+  عنده كمن لا ذنب له، وأنه لا مفزع للمذنبين إلا فضله وكرمه، وأنّ عدله يوجب المغفرة
+  للتائب، لأن العبد إذا جاء في الاعتذار والتنصل بأقصى ما يقدر عليه وجب العفو والتجاوز
+  وفيه تطييب لنفوس العباد، وتنشيط للتوبة، وبعث عليها وردع عن اليأس والقنوط وأن الذنوب
+  وإن جلت فإن عفوه أجل وكرمه أعظم. والمعنى: أنه وحده معه مصححات المغفرة وهذه جملة
+  معترضة بين المعطوف والمعطوف عليه { وَلَمْ يُصِرُّواْ } ولم يقيموا على قبيح فعلهم
+  غير مستغفرين. وعن النبي صلى الله عليه وسلم:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">(210)</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" ما أصرّ من استغفر وإن عاد في
+  اليوم سبعين مرّة \" </font></font></b><font class=\"TextResultArabic\"><font color=\"black\">وروي:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">(211) «لا كبيرة مع الاستغفار ولا صغيرة مع الإصرار» { وَهُمْ يَعْلَمُونَ
+  } حال من فعل الإصرار وحرف النفي منصب عليهما معاً. والمعنى: وليسوا ممن يصرون على
+  الذنوب وهم عالمون بقبحها وبالنهي عنها وبالوعيد عليها، لأنه قد يعذر من لا يعلم قبح
+  القبيح. وفي هذه الآيات بيان قاطع أنّ الذين آمنوا على ثلاث طبقات: متقون وتائبون ومصروُّن.
+  وأن الجنة للمتقين والتائبين منهم، دون المصرّين. ومن خالف في ذلك فقد كابر عقله وعاند
+  ربه. قال { أَجْرُ ٱلْعَـٰمِلِينَ } بعد قوله:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">جَزَآؤُهُمْ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[آل
+  عمران: 87] لأنهما في معنى واحد. وإنما خالف بين اللفظين لزيادة التنبيه على أنّ ذلك
+  جزاء واجب على عمل، وأجر مستحق عليه، لا كما يقول المبطلون. وروي أنّ الله عزّ وجلّ
+  أوحى إلى موسى: ما أقلّ حياء من يطمع في جنتي بغير عمل، كيف أجود برحمتي على من يبخل
+  بطاعتي. وعن شهر بن حوشب: طلب الجنة بلا عمل ذنب من الذنوب، وانتظار الشفاعة بلا سبب
+  نوع من الغرور، وارتجاء الرحمة ممن لا يطاع حمق وجهالة. وعن الحسن رضي الله عنه: يقول
+  الله تعالى يوم القيامة «جوزوا الصراط بعفوي، وادخلوا الجنة برحمتي، واقتسموها بأعمالكم»
+  وعن رابعة البصرية رضي الله عنها أنها كانت تنشد:</font></font><table class=\"TextArabic\"
+  dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">تَرْجُو النَّجَاةَ وَلَمْ تَسْلُكْ مَسَالِكَهَا</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">إنّ السَّفِينَةَ لاَ تَجْرِي عَلَى اليَبَسِ</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">والمخصوص بالمدح محذوف تقديره: ونعم
+  أجر العاملين ذلك. يعني المغفرة والجنات { قَدْ خَلَتْ مِن قَبْلِكُمْ سُنَنٌ } يريد
+  ما سنه الله في الأمم المكذبين من وقائعه، كقوله:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">وَقُتّلُواْ تَقْتِيلاً سُنَّةَ ٱللَّهِ
+  فِى ٱلَّذِينَ خَلَوْاْ مِن قَبْل</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">[الأحزاب: 61]</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">ثُمَّ
+  لاَ يَجِدُونَ وَلِيّاً وَلاَ نَصِيراً</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">[الفتح: 22]،</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">سُنَّةَ ٱللَّهِ ٱلَّتِى قَدْ خَلَتْ
+  مِن قَبْلُ</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">[الفتح: 23].</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(2,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(2,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section>"
 

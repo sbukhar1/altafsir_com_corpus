@@ -1,4 +1,4 @@
-location:
+position:
   sura: '005'
   aaya: '032'
   madhab: '01'
@@ -7,188 +7,418 @@ meta:
   title: تفسير جامع البيان في تفسير القرآن
   author: الطبري
   year: '310'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ مِنْ أَجْلِ ذٰلِكَ
-  كَتَبْنَا عَلَىٰ بَنِيۤ إِسْرَائِيلَ أَنَّهُ مَن قَتَلَ نَفْساً بِغَيْرِ نَفْسٍ
-  أَوْ فَسَادٍ فِي ٱلأَرْضِ فَكَأَنَّمَا قَتَلَ ٱلنَّاسَ جَمِيعاً وَمَنْ أَحْيَاهَا
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(5, 32)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(5,32)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">مِنْ
+  أَجْلِ ذٰلِكَ كَتَبْنَا عَلَىٰ بَنِيۤ إِسْرَائِيلَ أَنَّهُ مَن قَتَلَ نَفْساً بِغَيْرِ
+  نَفْسٍ أَوْ فَسَادٍ فِي ٱلأَرْضِ فَكَأَنَّمَا قَتَلَ ٱلنَّاسَ جَمِيعاً وَمَنْ أَحْيَاهَا
   فَكَأَنَّمَا أَحْيَا النَّاسَ جَمِيعاً وَلَقَدْ جَآءَتْهُمْ رُسُلُنَا بِٱلّبَيِّنَٰتِ
-  ثُمَّ إِنَّ كَثِيراً مِّنْهُمْ بَعْدَ ذٰلِكَ فِي ٱلأَرْضِ لَمُسْرِفُونَ }يعنـي تعالـى
-  ذكره بقوله: { مِنْ أجْلِ ذَلِكَ } من جَرَّ ذلك وجريرته وجنايته، يقول: من جرّ القاتل
-  أخاه من ابنـي آدم اللذَين اقتصصنا قصتهما الـجريرة التـي جرّها وجنايته التـي جناها،
-  كتبنا علـى بنـي إسرائيـل. يقال منه: أجَلْتُ هذا الأمر: أي جررته إلـيه وكسبته آجُلُه
-  له أجْلاً، كقولك: أخذته أخذاً، ومن ذلك قول الشاعر:وأهْلِ خِبـاءٍ صَالـحٍ ذاتُ بَـيْنِهِمْ   قَد
-  احْتَرَبوا فِـي عاجِلٍ أنا آجِلُهْيعنـي بقوله: أنا آجله: آنا الـجارّ ذلك علـيهم
-  والـجانـي.فمعنى الكلام: من جناية ابن آدم القاتل أخاه ظلـماً، حكمنا علـي بنـي إسرائيـل
-  أنه من قتل منهم نفساً ظلـماً بغير نفس قَتَلت فُقِتل بها قصاصاً { أو فَسَادٍ فـي
-  الأرْضِ } يقول: أو قتل منهم نفساً بغير فساد كان منها فـي الأرض، فـاستـحقت بذلك قتلها.
-  وفسادها فـي الأرض إنـما يكون بـالـحرب لله ولرسوله وإخافة السبـيـل.وبنـحو الذي قلنا
-  فـي ذلك قال أهل التأويـل. ذكر من قال ذلك:حُدثت عن الـحسين، قال: سمعت أبـا معاذ،
-  قال: ثنـي عبـيد بن سلـيـمان، قال: سمعت الضحاك يقول فـي قوله: { مِنْ أجْلِ ذَلِكَ
-  كَتَبْنا علـى بَنِـي إسْرَائِيـلَ } يقول: من أجل ابن آدم الذي قتل أخاه ظلـماً.ثم
-  اختلف أهل التأويـل فـي تأويـل قوله جلّ ثناؤه: { مَنْ قَتَلَ نَفْسا بِغَيْرِ نَفْسٍ
-  أوْ فَسادٍ فِـي الأرْضِ فَكأنـمَا قَتَلَ النَّاسَ جَمِيعاً وَمَنْ أحْياها فَكأنَّـما
-  أحيْا النَّاس جَمِيعاً } فقال بعضهم: معنى ذلك: ومن قتل نبـياً أو إمام عدل، فكأنـما
-  قتل الناس جميعاً، ومن شدّ علـى عضد نبـيّ أو إمام عدل، فكأنـما أحيا الناس جميعاً.
-  ذكر من قال ذلك:حدثنا أبو عمار حسين بن حُرَيْثٍ الـمَرْوَزِيّ، قال: ثنا الفضل بن
+  ثُمَّ إِنَّ كَثِيراً مِّنْهُمْ بَعْدَ ذٰلِكَ فِي ٱلأَرْضِ لَمُسْرِفُونَ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">يعنـي تعالـى ذكره بقوله: { مِنْ أجْلِ ذَلِكَ } من جَرَّ ذلك وجريرته
+  وجنايته، يقول: من جرّ القاتل أخاه من ابنـي آدم اللذَين اقتصصنا قصتهما الـجريرة التـي
+  جرّها وجنايته التـي جناها، كتبنا علـى بنـي إسرائيـل. يقال منه: أجَلْتُ هذا الأمر:
+  أي جررته إلـيه وكسبته آجُلُه له أجْلاً، كقولك: أخذته أخذاً، ومن ذلك قول الشاعر:</font></font><table
+  class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">وأهْلِ خِبـاءٍ صَالـحٍ ذاتُ بَـيْنِهِمْ</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">قَد احْتَرَبوا فِـي عاجِلٍ أنا آجِلُهْ</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">يعنـي بقوله: أنا آجله: آنا الـجارّ
+  ذلك علـيهم والـجانـي.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">فمعنى الكلام: من جناية ابن آدم
+  القاتل أخاه ظلـماً، حكمنا علـي بنـي إسرائيـل أنه من قتل منهم نفساً ظلـماً بغير نفس
+  قَتَلت فُقِتل بها قصاصاً { أو فَسَادٍ فـي الأرْضِ } يقول: أو قتل منهم نفساً بغير
+  فساد كان منها فـي الأرض، فـاستـحقت بذلك قتلها. وفسادها فـي الأرض إنـما يكون بـالـحرب
+  لله ولرسوله وإخافة السبـيـل.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وبنـحو
+  الذي قلنا فـي ذلك قال أهل التأويـل. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حُدثت
+  عن الـحسين، قال: سمعت أبـا معاذ، قال: ثنـي عبـيد بن سلـيـمان، قال: سمعت الضحاك يقول
+  فـي قوله: { مِنْ أجْلِ ذَلِكَ كَتَبْنا علـى بَنِـي إسْرَائِيـلَ } يقول: من أجل ابن
+  آدم الذي قتل أخاه ظلـماً.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">ثم اختلف أهل التأويـل فـي تأويـل
+  قوله جلّ ثناؤه: { مَنْ قَتَلَ نَفْسا بِغَيْرِ نَفْسٍ أوْ فَسادٍ فِـي الأرْضِ فَكأنـمَا
+  قَتَلَ النَّاسَ جَمِيعاً وَمَنْ أحْياها فَكأنَّـما أحيْا النَّاس جَمِيعاً } فقال
+  بعضهم: معنى ذلك: ومن قتل نبـياً أو إمام عدل، فكأنـما قتل الناس جميعاً، ومن شدّ علـى
+  عضد نبـيّ أو إمام عدل، فكأنـما أحيا الناس جميعاً. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا أبو عمار حسين بن حُرَيْثٍ الـمَرْوَزِيّ، قال: ثنا الفضل بن
   موسى، عن الـحسين بن واقد، عن عكرمة، عن ابن عبـاس فـي قوله: { مَنْ قَتَلَ نَفْساً
   بِغَيْرِ نَفْسٍ أوْ فَسادٍ فِـي الأرْضِ فَكأنـمَا قَتَلَ النَّاسع جَمِيعاً وَمَنْ
   أحْياها فَكأنـمَا أحيْا النَّاسَ جَمِيعاً } قال: من شدّ علـى عضد نبـيّ أو إمام عدل
-  فكأنـما أحيا الناس جميعاً. ومن قتل نبـياً أو إمام عدل فكأنـما قتل الناس جميعاً.حدثنـي
-  مـحمد بن سعد، قال: ثنـي أبـي، قال: ثنـي عمي، قال: ثنـي أبـي، عن أبـيه، عن ابن عبـاس
-  فـي قوله: { مِنْ أجْلِ ذَلِكَ كَتَبْنا علـى بَنِـي إْسرَائِيـلَ أنَّهُ مَنْ قَتَلَ
-  نَفْساً بغَيْرِ نَفْسٍ أوْ فَسادٍ فِـي الأرْضِ فَكأنَّـما قَتَلَ النَّاس جَمِيعاً
-  } يقول: من قتل نفساً واحدة حرّمتها، فهو مثل من قتل الناس جميعاً. { وَمَنْ أحْياها
-  } يقول: من ترك قتل نفس واحدة حرّمتها مخافتـي واستـحياها أن يقتلها، فهو مثل استـحياء
-  الناس جميعاً يعنـي بذلك الأنبـياء عليهم السلام.وقال آخرون: { مَنْ قَتَلَ نَفْساً
-  بِغَيْرِ نَفْسٍ أوْ فَسادٍ فِـي الأرْضِ فَكأنَـمَا قَتَلَ النَّاسَ جَمِيعاً } عند
-  الـمقتول فـي الإثم { وَمَنْ أحيْاها } فـاستنقذها من هلكة { فَكأنـمَا أحيْا النَّاسَ
-  جَمِيعاً } عند الـمستنقذ.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ مِنْ أَجْلِ ذٰلِكَ كَتَبْنَا عَلَىٰ
-  بَنِيۤ إِسْرَائِيلَ أَنَّهُ مَن قَتَلَ نَفْساً بِغَيْرِ نَفْسٍ أَوْ فَسَادٍ فِي
-  ٱلأَرْضِ فَكَأَنَّمَا قَتَلَ ٱلنَّاسَ جَمِيعاً وَمَنْ أَحْيَاهَا فَكَأَنَّمَا أَحْيَا
-  النَّاسَ جَمِيعاً وَلَقَدْ جَآءَتْهُمْ رُسُلُنَا بِٱلّبَيِّنَٰتِ ثُمَّ إِنَّ كَثِيراً
-  مِّنْهُمْ بَعْدَ ذٰلِكَ فِي ٱلأَرْضِ لَمُسْرِفُونَ }ذكر من قال ذلك):حدثنـي مـحمد
-  بن الـحسين، قال: ثنا أحمد، قال: ثنا أسبـاط، عن السديّ، فـيـما ذكر عن أبـي مالك،
-  وعن أبـي صالـح، عن ابن عبـاس، وعن مرّة الهمدانـي، عن عبد الله، وعن ناس من أصحاب
-  رسول الله صلى الله عليه وسلم، قوله: { مَنْ قَتَلَ نَفْساً بغَيْرِ نَفْسٍ أوْ فَسادٍ
-  فِـي الأرْضِ فَكأنَـمَا قَتَلَ النَّاسَ جَمِيعاً } عند الـمقتول، يقول فـي الإثم:
-  ومن أحياها فـاستنقذها من هلكة، فكأنـما أحيا الناس جميعاً عند الـمستنقَذ.وقال آخرون:
-  معنى ذلك: أن قاتل النفس الـمـحرّم قتلها يصلـي النار كما يصلاها لو قتل الناس جميعاً،
-  ومن أحياها: من سلـم من قتلها فقد سلـم من قتل الناس جميعاً. ذكر من قال ذلك:حدثنا
+  فكأنـما أحيا الناس جميعاً. ومن قتل نبـياً أو إمام عدل فكأنـما قتل الناس جميعاً.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي مـحمد بن سعد، قال: ثنـي أبـي، قال: ثنـي عمي، قال: ثنـي أبـي،
+  عن أبـيه، عن ابن عبـاس فـي قوله: { مِنْ أجْلِ ذَلِكَ كَتَبْنا علـى بَنِـي إْسرَائِيـلَ
+  أنَّهُ مَنْ قَتَلَ نَفْساً بغَيْرِ نَفْسٍ أوْ فَسادٍ فِـي الأرْضِ فَكأنَّـما قَتَلَ
+  النَّاس جَمِيعاً } يقول: من قتل نفساً واحدة حرّمتها، فهو مثل من قتل الناس جميعاً.
+  { وَمَنْ أحْياها } يقول: من ترك قتل نفس واحدة حرّمتها مخافتـي واستـحياها أن يقتلها،
+  فهو مثل استـحياء الناس جميعاً يعنـي بذلك الأنبـياء عليهم السلام.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال آخرون: { مَنْ قَتَلَ نَفْساً بِغَيْرِ نَفْسٍ أوْ فَسادٍ فِـي
+  الأرْضِ فَكأنَـمَا قَتَلَ النَّاسَ جَمِيعاً } عند الـمقتول فـي الإثم { وَمَنْ أحيْاها
+  } فـاستنقذها من هلكة { فَكأنـمَا أحيْا النَّاسَ جَمِيعاً } عند الـمستنقذ.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(5, 32)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(5,32)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">مِنْ أَجْلِ ذٰلِكَ كَتَبْنَا عَلَىٰ بَنِيۤ إِسْرَائِيلَ
+  أَنَّهُ مَن قَتَلَ نَفْساً بِغَيْرِ نَفْسٍ أَوْ فَسَادٍ فِي ٱلأَرْضِ فَكَأَنَّمَا
+  قَتَلَ ٱلنَّاسَ جَمِيعاً وَمَنْ أَحْيَاهَا فَكَأَنَّمَا أَحْيَا النَّاسَ جَمِيعاً
+  وَلَقَدْ جَآءَتْهُمْ رُسُلُنَا بِٱلّبَيِّنَٰتِ ثُمَّ إِنَّ كَثِيراً مِّنْهُمْ بَعْدَ
+  ذٰلِكَ فِي ٱلأَرْضِ لَمُسْرِفُونَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\"
+  dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">ذكر من قال ذلك):</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي مـحمد بن الـحسين، قال: ثنا أحمد، قال: ثنا أسبـاط، عن السديّ،
+  فـيـما ذكر عن أبـي مالك، وعن أبـي صالـح، عن ابن عبـاس، وعن مرّة الهمدانـي، عن عبد
+  الله، وعن ناس من أصحاب رسول الله صلى الله عليه وسلم، قوله: { مَنْ قَتَلَ نَفْساً
+  بغَيْرِ نَفْسٍ أوْ فَسادٍ فِـي الأرْضِ فَكأنَـمَا قَتَلَ النَّاسَ جَمِيعاً } عند
+  الـمقتول، يقول فـي الإثم: ومن أحياها فـاستنقذها من هلكة، فكأنـما أحيا الناس جميعاً
+  عند الـمستنقَذ.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال آخرون: معنى ذلك: أن قاتل النفس
+  الـمـحرّم قتلها يصلـي النار كما يصلاها لو قتل الناس جميعاً، ومن أحياها: من سلـم
+  من قتلها فقد سلـم من قتل الناس جميعاً. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
   ابن وكيع، قال: ثنا أبـي، عن خَصِيف، عن مـجاهد، عن ابن عبـاس، قال: { مَنْ أحْياها
   فَكأنَـمَا أحيْا النَّاسَ جَمِيعاً } قال: من كفّ عن قتلها فقد أحياها، ومن قتل نفساً
-  بغير نفس فكأنـما قتل الناس جميعاً. قال: ومن أوبقها.حدثنـي الـحرث، قال: ثنا عبد العزيز،
-  قال: ثنا سفـيان، عن خصيف، عن مـجاهد، قال: من أوبق نفساً فكما لو قتل الناس جميعاً،
-  ومن أحياها وسلـم من طلبها فلـم يقتلها فقد سلـم من قتل الناس جميعاً. حدثنـي الـمثنى،
-  قال: ثنا سويد بن نصر، قال: أخبرنا ابن الـمبـارك، عن شريك، عن خصيف، عن مـجاهد: {
-  فَكأنَـمَا قَتَلَ النَّاسَ جَمِيعاً وَمَنْ أحْياها فَكأنَـما أحيْا النَّاسَ جَمِيعاً
-  } لـم يقتلها، وقد سلـم منه الناس جميعاً لـم يقتل أحداً.حدثنـي الـمثنى، قال: ثنا
-  سويد، قال: أخبرنا ابن الـمبـارك، عن الأوزاعي، قال: أخبرنا عبدة ابن أبـي لُبـابة،
-  قال: سألت مـجاهداً، أو سمعته يُسْئل عن قوله: { مَنْ قَتَلَ نَفْساً بِغَيْرِ نَفْسٍ
-  أوْ فَسادٍ فِـي الأرْضِ فَكأنَـمَا قَتَلَ النَّاسَ جَمِيعاً } قال: لو قتل الناس
-  جميعاً كان جزاؤه جهنـم خالداً فـيها، وغضب الله علـيه ولعنه، وأعدّ له عذابـاً عظيـماً.حدثنـي
+  بغير نفس فكأنـما قتل الناس جميعاً. قال: ومن أوبقها.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  الـحرث، قال: ثنا عبد العزيز، قال: ثنا سفـيان، عن خصيف، عن مـجاهد، قال: من أوبق نفساً
+  فكما لو قتل الناس جميعاً، ومن أحياها وسلـم من طلبها فلـم يقتلها فقد سلـم من قتل
+  الناس جميعاً. حدثنـي الـمثنى، قال: ثنا سويد بن نصر، قال: أخبرنا ابن الـمبـارك، عن
+  شريك، عن خصيف، عن مـجاهد: { فَكأنَـمَا قَتَلَ النَّاسَ جَمِيعاً وَمَنْ أحْياها فَكأنَـما
+  أحيْا النَّاسَ جَمِيعاً } لـم يقتلها، وقد سلـم منه الناس جميعاً لـم يقتل أحداً.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي الـمثنى، قال: ثنا سويد، قال: أخبرنا ابن الـمبـارك، عن الأوزاعي،
+  قال: أخبرنا عبدة ابن أبـي لُبـابة، قال: سألت مـجاهداً، أو سمعته يُسْئل عن قوله:
+  { مَنْ قَتَلَ نَفْساً بِغَيْرِ نَفْسٍ أوْ فَسادٍ فِـي الأرْضِ فَكأنَـمَا قَتَلَ
+  النَّاسَ جَمِيعاً } قال: لو قتل الناس جميعاً كان جزاؤه جهنـم خالداً فـيها، وغضب
+  الله علـيه ولعنه، وأعدّ له عذابـاً عظيـماً.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
   الـمثنى، قال:ثنا سويد، قال: أخبرنا ابن الـمبـارك، عن ابن جريج قراءة، عن الأعرج،
   عن مـجاهد فـي قوله: { فَكأنَـما قَتَلَ النَّاسَ جَمِيعاً } قال: الذي يقتل النفس
   الـمؤمنة متعمداً، جعل الله جزاءه جهنـم، وغضب الله علـيه ولعنه، وأعدّ له عذابـاً
   عظيـماً يقول: لو قتل الناس جميعاً لـم يزد علـى مثل ذلك من العذاب قال ابن جريج، قال
   مـجاهد: { وَمَنْ أحْياها فَكأنَـما أحيا النَّاسَ جَمِيعاً } قال: من لـم يقتل أحداً
-  فقد استراح الناس منه.حدثنا سفـيان، قال: ثنا يحيى بن يـمان، عن سفـيان، عن خصيف، عن
-  مـجاهد، قال: أوبق نفساً.حدثنا سفـيان، قال: ثنا يحيى بن يـمان، عن سفـيان، عن منصور،
-  عن مـجاهد، قال: فـي الإثم.حدثنا ابن حميد، قال: ثنا جرير، عن لـيث، عن مـجاهد: { مَنْ
-  قَتَلَ نَفْساً بِغَيْرِ نَفْسٍ أوْ فَسادٍ فِـي الأرْضِ فَكأنـمَا قَتَلَ النَّاسَ
-  جَمِيعاً } ، وقوله:\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ مِنْ أَجْلِ ذٰلِكَ كَتَبْنَا عَلَىٰ
-  بَنِيۤ إِسْرَائِيلَ أَنَّهُ مَن قَتَلَ نَفْساً بِغَيْرِ نَفْسٍ أَوْ فَسَادٍ فِي
-  ٱلأَرْضِ فَكَأَنَّمَا قَتَلَ ٱلنَّاسَ جَمِيعاً وَمَنْ أَحْيَاهَا فَكَأَنَّمَا أَحْيَا
-  النَّاسَ جَمِيعاً وَلَقَدْ جَآءَتْهُمْ رُسُلُنَا بِٱلّبَيِّنَٰتِ ثُمَّ إِنَّ كَثِيراً
-  مِّنْهُمْ بَعْدَ ذٰلِكَ فِي ٱلأَرْضِ لَمُسْرِفُونَ }{ وَمَن يَقْتُلْ مُؤْمِناً مُّتَعَمِّداً
-  فَجَزَآؤُهُ جَهَنَّمُ }[النساء: 93] قال: يصير إلـى جهنـم بقتل الـمؤمن، كما أنه لو
-  قتل الناس جميعاً لصار إلـى جهنـم.حدثنـي الـمثنى، قال: ثنا عبد الله بن صالـح، قال:
-  ثنـي معاوية، عن علـيّ، عن ابن عبـاس: { مِنْ أجْلِ ذَلِكَ كَتَبْنا علـى بَنِـي إسْرَائِيـلَ
-  أنَّهُ مَنْ قَتَلَ نَفْساً بِغَيْرِ نَفْسٍ أوْ فَسادٍ فِـي الأرْضِ فَكأنَـما قَتَلَ
-  النَّاسَ جَمِيعاً } قال: هو كما قال. وقال: { وَمَنْ أحيْاها فَكأنـمَا أحيا النَّاسَ
-  جَمِيعاً } فإحياؤها لا يقتل نفساً حرّمها الله، فذلك الذي أحيا الناس جميعاً، يعنـي
-  أنه من حرّم قتلها إلا بحقّ حيـي الناس منه جميعاً.حدثنا ابن حميد، قال: ثنا حكام،
-  عن عنبسة، عن العلاء بن عبد الكريـم، عن مـجاهد: { وَمَنْ أحيْاها } قال: ومن حرّمها
-  فلـم يقلتها.حدثنا ابن وكيع، قال: ثنا أبـي، عن العلاء، قال: سمعت مـجاهداً يقول: {
-  مَنْ أحْياها فَكأنـمَا أحيا النَّاسَ جَمِيعاً } قال: من كفّ عن قتلها فقد أحياها.حدثنـي
+  فقد استراح الناس منه.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا سفـيان، قال: ثنا يحيى بن
+  يـمان، عن سفـيان، عن خصيف، عن مـجاهد، قال: أوبق نفساً.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  سفـيان، قال: ثنا يحيى بن يـمان، عن سفـيان، عن منصور، عن مـجاهد، قال: فـي الإثم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن حميد، قال: ثنا جرير، عن لـيث، عن مـجاهد: { مَنْ قَتَلَ
+  نَفْساً بِغَيْرِ نَفْسٍ أوْ فَسادٍ فِـي الأرْضِ فَكأنـمَا قَتَلَ النَّاسَ جَمِيعاً
+  } ، وقوله:</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(5, 32)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(5,32)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">مِنْ أَجْلِ ذٰلِكَ كَتَبْنَا عَلَىٰ بَنِيۤ إِسْرَائِيلَ
+  أَنَّهُ مَن قَتَلَ نَفْساً بِغَيْرِ نَفْسٍ أَوْ فَسَادٍ فِي ٱلأَرْضِ فَكَأَنَّمَا
+  قَتَلَ ٱلنَّاسَ جَمِيعاً وَمَنْ أَحْيَاهَا فَكَأَنَّمَا أَحْيَا النَّاسَ جَمِيعاً
+  وَلَقَدْ جَآءَتْهُمْ رُسُلُنَا بِٱلّبَيِّنَٰتِ ثُمَّ إِنَّ كَثِيراً مِّنْهُمْ بَعْدَ
+  ذٰلِكَ فِي ٱلأَرْضِ لَمُسْرِفُونَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\"
+  dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\"/></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">وَمَن يَقْتُلْ مُؤْمِناً مُّتَعَمِّداً
+  فَجَزَآؤُهُ جَهَنَّمُ</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">[النساء: 93] قال: يصير إلـى جهنـم بقتل الـمؤمن، كما أنه لو قتل الناس
+  جميعاً لصار إلـى جهنـم.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي الـمثنى، قال: ثنا عبد الله
+  بن صالـح، قال: ثنـي معاوية، عن علـيّ، عن ابن عبـاس: { مِنْ أجْلِ ذَلِكَ كَتَبْنا
+  علـى بَنِـي إسْرَائِيـلَ أنَّهُ مَنْ قَتَلَ نَفْساً بِغَيْرِ نَفْسٍ أوْ فَسادٍ فِـي
+  الأرْضِ فَكأنَـما قَتَلَ النَّاسَ جَمِيعاً } قال: هو كما قال. وقال: { وَمَنْ أحيْاها
+  فَكأنـمَا أحيا النَّاسَ جَمِيعاً } فإحياؤها لا يقتل نفساً حرّمها الله، فذلك الذي
+  أحيا الناس جميعاً، يعنـي أنه من حرّم قتلها إلا بحقّ حيـي الناس منه جميعاً.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن حميد، قال: ثنا حكام، عن عنبسة، عن العلاء بن عبد الكريـم،
+  عن مـجاهد: { وَمَنْ أحيْاها } قال: ومن حرّمها فلـم يقلتها.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن وكيع، قال: ثنا أبـي، عن العلاء، قال: سمعت مـجاهداً يقول: { مَنْ أحْياها فَكأنـمَا
+  أحيا النَّاسَ جَمِيعاً } قال: من كفّ عن قتلها فقد أحياها.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
   مـحمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، عن ابن أبـي نـجيح، عن مـجاهد فـي
-  قول الله عزّ وجلّ: { فَكأنـمَا قَتَلَ النَّاسَ جَمِيعاً } قال: هي كالتـي فـي النساء:{ وَمَن
-  يَقْتُلْ مُؤْمِناً مُّتَعَمِّداً فَجَزَآؤُهُ جَهَنَّمُ }[النساء: 93] فـي جزائه.حدثنـي
-  الـمثنى، قال: ثنا أبو حذيفة، قال: ثنا شبل، عن ابن أبـي نـجيح، عن مـجاهد: { فَكأنـمَا
-  قَتَل النَّاسَ جَمِيعاً كالتـي فـي سورة النساء:{ وَمَن يَقْتُلْ مُؤْمِناً مُّتَعَمِّداً }[النساء:
-  93] فـي جزائه { وَمَنْ أحْياها } ولـم يقتل أحداً فقد حيـي الناس منه.حدثنا هناد،
-  قال: ثنا أبو معاوية، عن العلاء بن عبد الكريـم، عن مـجاهد فـي قوله: { وَمَنْ أحياها
-  فَكأنـمَا أحيا النَّاسَ جَمِيعاً } قال: التفت إلـى جلسائه فقال: هو هذا وهذا.وقال
-  آخرون: معنى ذلك: ومن قتل نفساً بغير نفس أو فساد فـي الأرض فكأنـما قتل الناس جميعاً،
-  لأنه يجب علـيه من القصاص به والقود بقتله، مثل الذي يجب علـيه من القود والقصاص لو
-  قتل الناس جميعاً. ذكر من قال ذلك:حدثنـي يونس، قال: أخبرنا ابن وهب، قال: قال ابن
-  زيد فـي قوله: { مِنْ أجْلِ ذَلِكَ كَتَبْنا علـى بَنِـي إسْرَائِيـلَ أنَّهُ مَنْ
-  قَتَلَ نَفْساً بِغيْرِ نَفْسٍ أوْ فَسادٍ فِـي الأرْضِ فَكأنـمَا قَتَلَ النَّاسَ
-  جَمِيعاً } قال: يجب علـيه من القتل مثل لو أنه قتل الناس جميعاً. قال: كان أبـي يقول
-  ذلك.وقال آخرون: معنى قوله: { وَمَنْ أحيْاها } من عفـا عمن وجب له القصاص منه فلـم
-  يقتله. ذكر من قال ذلك:حدثنـي يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد فـي قوله:
-  { وَمنْ أحيْاها فَكأنـمَا أحيْا النَّاسَ جَمِيعاً } يقول: من أحياها أعطاه الله جلّ
-  وعزّ من الأجر مثلَ لو أنه أحيا الناس جميعاً.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ مِنْ أَجْلِ ذٰلِكَ كَتَبْنَا عَلَىٰ
-  بَنِيۤ إِسْرَائِيلَ أَنَّهُ مَن قَتَلَ نَفْساً بِغَيْرِ نَفْسٍ أَوْ فَسَادٍ فِي
-  ٱلأَرْضِ فَكَأَنَّمَا قَتَلَ ٱلنَّاسَ جَمِيعاً وَمَنْ أَحْيَاهَا فَكَأَنَّمَا أَحْيَا
-  النَّاسَ جَمِيعاً وَلَقَدْ جَآءَتْهُمْ رُسُلُنَا بِٱلّبَيِّنَٰتِ ثُمَّ إِنَّ كَثِيراً
-  مِّنْهُمْ بَعْدَ ذٰلِكَ فِي ٱلأَرْضِ لَمُسْرِفُونَ }أحياها فلـم يقتلها وعفـا عنها.
-  قال: وذلك ولـيّ القتـيـل، والقتـيـل نفسه يعفو عنه قبل أن يـموت. قال: كان أبـي يقول
-  ذلك.حدثنا مـحمد بن بشار، قال: ثنا مؤمل، قال: ثنا سفـيان، عن يونس، عن الـحسن فـي
-  قوله: { وَمَنْ أحياها فَكأنـمَا أحيا النَّاسَ جَمِيَعاً } قال: من عفـا.حدثنا سفـيان،
-  قال: ثنا عبد الأعلـى، عن يونس، عن الـحسن: { وَمَنْ أحياها فَكأنَّـمَا أحيا النَّاسَ
-  جَمِيعاً } قال: من قُتل حميـم له فعفـا عن دمه.حدثنا ابن وكيع، قال: ثنا يحيى بن يـمان،
-  عن سفـيان، عن يونس، عن الـحسن: { وَمَنْ أحياها فَكأنـمَا أحيا النَّاسَ جَمِيعاً
-  } قال: العفو بعد القدرة.وقال آخرون: معنى قوله: { وَمَنْ أحياها فَكأنـمَا أحيا النَّاسَ
-  جَمِيعاً } ومن أنـجاها من غرق أو حرق. ذكر من قال ذلك:حدثنا ابن حميد، قال: ثنا جرير،
-  عن منصور، عن مـجاهد: { وَمَنْ أحياها فَكأنَـما أحيا النَّاسَ جَمِيعاً } قال: من
-  أنـجاها من غَرَقٍ أو حَرَقٍ أو هلكة.حدثنا ابن وكيع، قال: ثنا أبـي، وحدثنا هناد،
-  قال: ثنا وكيع، عن سفـيان، عن منصور، عن مـجاهد: { وَمَنْ أحياها فَكأنـمَا أحيا النَّاس
-  جَمِيعاً } قال: من غَرَق أو حَرَق أو هَدَم.حدثنـي الـحرث، قال: ثنا عبد العزيز، قال:
-  ثنا إسرائيـل، عن خصيف، عن مـجاهد: { وَمَنْ أحياها } قال: أنـجاها. وقال الضحاك بـما:حدثنا
-  ابن وكيع، قال: ثنا ابن يـمان، عن سفـيان، عن أبـي عامر، عن الضحاك، قال: { مَنْ قَتَلَ
-  نَفْسا بِغَيْرِ نَفْسٍ } قال: من توّرع أو لـم يتورّع.حُدثت عن الـحسين، قال: سمعت
-  أبـا معاذ، قال: ثنـي عبـيد بن سلـيـمان، قال: سمعت الضحاك يقول فـي قوله: { فكأنـمَا
-  أحيا النَّاسَ جَمِيعاً } يقول: لو لـم يقتله لكان قد أحيا الناس، فلـم يستـحلّ مـحرّماً.
-  وقال قتادة والـحسن فـي ذلك بـما:حدثنا ابن وكيع، قال: ثنا عبد الأعلـى، عن يونس، عن
-  الـحسن: { مَنْ قَتَلَ نَفْساً بِغَيْرِ نَفْسٍ أوْ فَسادٍ فِـي الأرْضِ } قال: عَظُم
-  ذلك.حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة قوله: { مِنْ أجْلِ ذَلِكَ
-  كَتَبْنا علـى بَنِـي إسْرَائِيـلَ أنَّهُ مَنْ قَتَلَ نَفْسا بِغَيْرِ نَفْسٍ }...
-  الآية: من قتلها علـى غير نفس ولا فساد أفسدته { فَكأنـمَا قَتَلَ النَّاسَ جَمِيعاً
+  قول الله عزّ وجلّ: { فَكأنـمَا قَتَلَ النَّاسَ جَمِيعاً } قال: هي كالتـي فـي النساء:</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">وَمَن
+  يَقْتُلْ مُؤْمِناً مُّتَعَمِّداً فَجَزَآؤُهُ جَهَنَّمُ</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">[النساء: 93] فـي جزائه.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي الـمثنى، قال: ثنا أبو حذيفة، قال: ثنا شبل، عن ابن أبـي نـجيح،
+  عن مـجاهد: { فَكأنـمَا قَتَل النَّاسَ جَمِيعاً كالتـي فـي سورة النساء:</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">وَمَن
+  يَقْتُلْ مُؤْمِناً مُّتَعَمِّداً</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">[النساء: 93] فـي جزائه { وَمَنْ
+  أحْياها } ولـم يقتل أحداً فقد حيـي الناس منه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  هناد، قال: ثنا أبو معاوية، عن العلاء بن عبد الكريـم، عن مـجاهد فـي قوله: { وَمَنْ
+  أحياها فَكأنـمَا أحيا النَّاسَ جَمِيعاً } قال: التفت إلـى جلسائه فقال: هو هذا وهذا.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال آخرون: معنى ذلك: ومن قتل نفساً بغير نفس أو فساد فـي الأرض فكأنـما
+  قتل الناس جميعاً، لأنه يجب علـيه من القصاص به والقود بقتله، مثل الذي يجب علـيه من
+  القود والقصاص لو قتل الناس جميعاً. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد فـي قوله: { مِنْ أجْلِ ذَلِكَ كَتَبْنا
+  علـى بَنِـي إسْرَائِيـلَ أنَّهُ مَنْ قَتَلَ نَفْساً بِغيْرِ نَفْسٍ أوْ فَسادٍ فِـي
+  الأرْضِ فَكأنـمَا قَتَلَ النَّاسَ جَمِيعاً } قال: يجب علـيه من القتل مثل لو أنه
+  قتل الناس جميعاً. قال: كان أبـي يقول ذلك.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  آخرون: معنى قوله: { وَمَنْ أحيْاها } من عفـا عمن وجب له القصاص منه فلـم يقتله. ذكر
+  من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي يونس، قال: أخبرنا ابن وهب،
+  قال: قال ابن زيد فـي قوله: { وَمنْ أحيْاها فَكأنـمَا أحيْا النَّاسَ جَمِيعاً } يقول:
+  من أحياها أعطاه الله جلّ وعزّ من الأجر مثلَ لو أنه أحيا الناس جميعاً.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">3 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(5, 32)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(5,32)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">مِنْ أَجْلِ ذٰلِكَ كَتَبْنَا عَلَىٰ بَنِيۤ إِسْرَائِيلَ
+  أَنَّهُ مَن قَتَلَ نَفْساً بِغَيْرِ نَفْسٍ أَوْ فَسَادٍ فِي ٱلأَرْضِ فَكَأَنَّمَا
+  قَتَلَ ٱلنَّاسَ جَمِيعاً وَمَنْ أَحْيَاهَا فَكَأَنَّمَا أَحْيَا النَّاسَ جَمِيعاً
+  وَلَقَدْ جَآءَتْهُمْ رُسُلُنَا بِٱلّبَيِّنَٰتِ ثُمَّ إِنَّ كَثِيراً مِّنْهُمْ بَعْدَ
+  ذٰلِكَ فِي ٱلأَرْضِ لَمُسْرِفُونَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\"
+  dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">أحياها فلـم يقتلها
+  وعفـا عنها. قال: وذلك ولـيّ القتـيـل، والقتـيـل نفسه يعفو عنه قبل أن يـموت. قال:
+  كان أبـي يقول ذلك.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا مـحمد بن بشار، قال: ثنا مؤمل،
+  قال: ثنا سفـيان، عن يونس، عن الـحسن فـي قوله: { وَمَنْ أحياها فَكأنـمَا أحيا النَّاسَ
+  جَمِيَعاً } قال: من عفـا.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا سفـيان، قال: ثنا عبد الأعلـى،
+  عن يونس، عن الـحسن: { وَمَنْ أحياها فَكأنَّـمَا أحيا النَّاسَ جَمِيعاً } قال: من
+  قُتل حميـم له فعفـا عن دمه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن وكيع، قال: ثنا يحيى بن يـمان، عن سفـيان، عن يونس، عن الـحسن: { وَمَنْ أحياها
+  فَكأنـمَا أحيا النَّاسَ جَمِيعاً } قال: العفو بعد القدرة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  آخرون: معنى قوله: { وَمَنْ أحياها فَكأنـمَا أحيا النَّاسَ جَمِيعاً } ومن أنـجاها
+  من غرق أو حرق. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن حميد، قال: ثنا جرير، عن منصور، عن مـجاهد: { وَمَنْ أحياها فَكأنَـما أحيا النَّاسَ
+  جَمِيعاً } قال: من أنـجاها من غَرَقٍ أو حَرَقٍ أو هلكة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن وكيع، قال: ثنا أبـي، وحدثنا هناد، قال: ثنا وكيع، عن سفـيان، عن منصور، عن مـجاهد:
+  { وَمَنْ أحياها فَكأنـمَا أحيا النَّاس جَمِيعاً } قال: من غَرَق أو حَرَق أو هَدَم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي الـحرث، قال: ثنا عبد العزيز، قال: ثنا إسرائيـل، عن خصيف،
+  عن مـجاهد: { وَمَنْ أحياها } قال: أنـجاها. وقال الضحاك بـما:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن وكيع، قال: ثنا ابن يـمان، عن سفـيان، عن أبـي عامر، عن
+  الضحاك، قال: { مَنْ قَتَلَ نَفْسا بِغَيْرِ نَفْسٍ } قال: من توّرع أو لـم يتورّع.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حُدثت عن الـحسين، قال: سمعت أبـا معاذ، قال: ثنـي عبـيد بن سلـيـمان،
+  قال: سمعت الضحاك يقول فـي قوله: { فكأنـمَا أحيا النَّاسَ جَمِيعاً } يقول: لو لـم
+  يقتله لكان قد أحيا الناس، فلـم يستـحلّ مـحرّماً. وقال قتادة والـحسن فـي ذلك بـما:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن وكيع، قال: ثنا عبد الأعلـى، عن يونس، عن الـحسن: { مَنْ
+  قَتَلَ نَفْساً بِغَيْرِ نَفْسٍ أوْ فَسادٍ فِـي الأرْضِ } قال: عَظُم ذلك.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة قوله: { مِنْ أجْلِ
+  ذَلِكَ كَتَبْنا علـى بَنِـي إسْرَائِيـلَ أنَّهُ مَنْ قَتَلَ نَفْسا بِغَيْرِ نَفْسٍ
+  }... الآية: من قتلها علـى غير نفس ولا فساد أفسدته { فَكأنـمَا قَتَلَ النَّاسَ جَمِيعاً
   وَمَنْ أحياها فَكأنـمَا أحيا النَّاسَ جَمِيعاً } عظُم والله أجْرُها، وعظُم وِزْرُها
   فأحيها يا ابن آدم بـمالك، وأحيها بعفوك إن استطعت، ولا قوّة إلا بـالله. وإنا لا نعلـمه
   يحلّ دم رجل مسلـم من أهل هذه القبلة إلا بإحدى ثلاث: رجل كفر بعد إسلامه فعلـيه القتل،
-  أو زنى بعد إحصانه فعلـيه الرجم، أو قتل متعمداً فعلـيه القَوَد.حدثنا الـحسن بن يحيى،
-  قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر، قال: تلا قتادة: { مَنْ قَتَلَ نَفْسا بِغَيْرِ
-  نَفْسٍ فَكأنـمَا قَتَلَ النَّاسَ جَمِيعاً وَمَنْ أحْياها فَكأنـمَا أحيا النَّاسَ
-  جَمِيعاً } قال: عَظُم والله أجرُها، وَعظُم والله وِزْرُها.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ مِنْ أَجْلِ ذٰلِكَ كَتَبْنَا عَلَىٰ
-  بَنِيۤ إِسْرَائِيلَ أَنَّهُ مَن قَتَلَ نَفْساً بِغَيْرِ نَفْسٍ أَوْ فَسَادٍ فِي
-  ٱلأَرْضِ فَكَأَنَّمَا قَتَلَ ٱلنَّاسَ جَمِيعاً وَمَنْ أَحْيَاهَا فَكَأَنَّمَا أَحْيَا
-  النَّاسَ جَمِيعاً وَلَقَدْ جَآءَتْهُمْ رُسُلُنَا بِٱلّبَيِّنَٰتِ ثُمَّ إِنَّ كَثِيراً
-  مِّنْهُمْ بَعْدَ ذٰلِكَ فِي ٱلأَرْضِ لَمُسْرِفُونَ }حدثنـي الـمثنى، قال: ثنا سويد
-  بن نصر، قال: أخبرنا ابن الـمبـارك، عن سلام بن مسكين، قال: ثنـي سلـيـمان بن علـيّ
-  الرَّبْعي، قال: قلت للـحسن: { مِنْ أجْلِ ذَلِكَ كَتَبْنا علـى بَنِـي إسْرَائِيـلَ
+  أو زنى بعد إحصانه فعلـيه الرجم، أو قتل متعمداً فعلـيه القَوَد.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا الـحسن بن يحيى، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر،
+  قال: تلا قتادة: { مَنْ قَتَلَ نَفْسا بِغَيْرِ نَفْسٍ فَكأنـمَا قَتَلَ النَّاسَ جَمِيعاً
+  وَمَنْ أحْياها فَكأنـمَا أحيا النَّاسَ جَمِيعاً } قال: عَظُم والله أجرُها، وَعظُم
+  والله وِزْرُها.</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">4 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(5, 32)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(5,32)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">مِنْ أَجْلِ ذٰلِكَ كَتَبْنَا عَلَىٰ بَنِيۤ إِسْرَائِيلَ
+  أَنَّهُ مَن قَتَلَ نَفْساً بِغَيْرِ نَفْسٍ أَوْ فَسَادٍ فِي ٱلأَرْضِ فَكَأَنَّمَا
+  قَتَلَ ٱلنَّاسَ جَمِيعاً وَمَنْ أَحْيَاهَا فَكَأَنَّمَا أَحْيَا النَّاسَ جَمِيعاً
+  وَلَقَدْ جَآءَتْهُمْ رُسُلُنَا بِٱلّبَيِّنَٰتِ ثُمَّ إِنَّ كَثِيراً مِّنْهُمْ بَعْدَ
+  ذٰلِكَ فِي ٱلأَرْضِ لَمُسْرِفُونَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\"
+  dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي الـمثنى،
+  قال: ثنا سويد بن نصر، قال: أخبرنا ابن الـمبـارك، عن سلام بن مسكين، قال: ثنـي سلـيـمان
+  بن علـيّ الرَّبْعي، قال: قلت للـحسن: { مِنْ أجْلِ ذَلِكَ كَتَبْنا علـى بَنِـي إسْرَائِيـلَ
   أنَّهُ مَنْ قَتَلَ نَفْساً بِغَيْرِ نَفْسٍ }... الآية، أهي لنا يا أبـا سعيد كما
   كانت لبنـي إسرائيـل؟ فقال: إي والذي لا إله غيره، كما كانت لبنـي إسرائيـل وما جعل
-  دماء بنـي إسرائيـل أكرم علـى الله من دمائنا.حدثنـي الـمثنى، قال: ثنا سويد بن نصر،
-  قال: أخبرنا ابن الـمبـارك، عن سعيد بن زيد، قال: سمعت خالداً أبـا الفضل، قال: سمعت
-  الـحسن تلا هذه الآية:{ فَطَوَّعَتْ لَهُ نَفْسُهُ قَتْلَ أَخِيهِ }[المائدة: 30]...
-  إلـى قوله: { وَمَنْ أحياها فَكأنـمَا أحيا النَّاسَ جَمِيعاً } ثم قال: عَظَّم والله
-  فـي الوزر كما تسمعون، ورغّب والله فـي الأجر كما تسمعون إذا ظننت يا ابن آدم أنك لو
-  قتلت الناس جميعاً فإن لك من عملك ما تفوز به من النار، كَذَبَتْك والله نفسك، وكَذَبَكَ
-  الشيطان.حدثنا هناد، قال: ثنا ابن فضيـل، عن عاصم، عن الـحسن فـي قوله: { فَكأنَـما
-  قَتَلَ النَّاسَ جَمِيعاً } قال: وزراً { وَمَنْ أحياها فَكأنَّـمَا أحيا النَّاسَ
-  جَمِيعاً }. قال: أجراً.وأولـى هذه الأقوال عندي بـالصواب قول من قال: تأويـل ذلك أنه
-  من قتل نفساً مؤمنة بغير نفس قتلتها فـاستـحقت القود بها والقتل قصاصاً، أو بغير فساد
-  فـي الأرض، بحرب الله ورسوله وحرب الـمؤمنـين فـيها، فكأنـما قتل الناس جميعاً فـيـما
-  استوجب من عظيـم العقوبة من الله جلّ ثناؤه، كما أوعده ذلك من فعله ربُّه بقوله:{ وَمَن
-  يَقْتُلْ مُؤْمِناً مُّتَعَمِّداً فَجَزَآؤُهُ جَهَنَّمُ خَٰلِداً فِيهَا وَغَضِبَ
-  ٱللَّهُ عَلَيْهِ وَلَعَنَهُ وَأَعَدَّ لَهُ عَذَاباً عَظِيماً }[النساء: 93].وأما
-  قوله: { وَمَنْ أحيْاها فَكأنـمَا أحيْا النَّاسَ جَمِيعاً } فأولـى التأويلات به قول
-  من قال: من حرّم قتل من حرّم الله عزّ ذكره قتَله علـى نفسه، فلـم يتقدم علـى قتله،
-  فقد حِيـيَ الناس منه بسلامتهم منه، وذلك إحياؤه إياها. وذلك نظير خبر الله عزّ ذكره
-  عمن حاجّ إبراهيـم فـي ربه، إذ قال له إبراهيـم:{ رَبِّيَ ٱلَّذِي يُحْيِـي وَيُمِيتُ
-  قَالَ أَنَا أُحْيِـي وَأُمِيتُ }[البقرة: 258]. فكان معنى الكافر فـي قـيـله: أنا
-  أحيي وأميت: أنا أترك من قدرت علـى قتله وفـي قوله: وأميت: قَتْلُه من قتله. فكذلك
-  معن الإحياء فـي قوله: { وَمَنْ أحْياها }: من سلـم الناس من قتله إياهم، إلا فـيـما
-  أذن الله فـي قتله منهم { فَكأنـمَا أحْيا النَّاسَ جَمِيعاً }.وإنـما قلنا ذلك أولـى
-  التأويلات بتأويـل الآية، لأنه لا نفس يقوم قتلها فـي عاجل الضرّ مقام قتل جميع النفوس،
-  ولا إحياؤها مقام إحياء جميع النفوس فـي عاجل النفع، فكان معلوماً بذلك أن معنى الإحياء:
-  سلامة جميع النفوس منه، لأنه من لـم يتقدم علـى نفس واحدة، فقد سلـم منه جميع النفوس،
-  وأن الواحدة منها التـي يقوم قتلها مقام جميعها إنـما هو فـي الوزر، لأنه لا نفس من
-  نفوس بنـي آدم يقوم فقدها مقام فقد جميعها وإن كان فقد بعضها أعمّ ضرراً من فقد بعض.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ مِنْ أَجْلِ ذٰلِكَ كَتَبْنَا عَلَىٰ
-  بَنِيۤ إِسْرَائِيلَ أَنَّهُ مَن قَتَلَ نَفْساً بِغَيْرِ نَفْسٍ أَوْ فَسَادٍ فِي
-  ٱلأَرْضِ فَكَأَنَّمَا قَتَلَ ٱلنَّاسَ جَمِيعاً وَمَنْ أَحْيَاهَا فَكَأَنَّمَا أَحْيَا
-  النَّاسَ جَمِيعاً وَلَقَدْ جَآءَتْهُمْ رُسُلُنَا بِٱلّبَيِّنَٰتِ ثُمَّ إِنَّ كَثِيراً
-  مِّنْهُمْ بَعْدَ ذٰلِكَ فِي ٱلأَرْضِ لَمُسْرِفُونَ }القول فـي تأويـل قوله تعالـى:
-  { ولَقَدْ جاءَتْهُمْ رُسُلُنا بـالبَـيِّناتِ ثُمَّ إنَّ كَثِـيراً مِنْهُمْ بَعْدَ
-  ذَلِكَ فـي الأرْضِ لَـمُسْرِفُونَ }.وهذا قسم من الله جلّ ثناؤه أقسم به، إن رسله
-  صلوات الله علـيهم قد أتت بنـي إسرائيـل الذين قصّ الله قصصهم وذكر نبأهم فـي الآيات
-  التـي تقدمت من قوله:{ يَا أَيُّهَآ ٱلَّذِينَ آمَنُواْ ٱذْكُرُواْ نِعْمَتَ ٱللَّهِ
-  عَلَيْكُمْ إِذْ هَمَّ قَوْمٌ أَن يَبْسُطُواْ إِلَيْكُمْ أَيْدِيَهُمْ }[المائدة:
+  دماء بنـي إسرائيـل أكرم علـى الله من دمائنا.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  الـمثنى، قال: ثنا سويد بن نصر، قال: أخبرنا ابن الـمبـارك، عن سعيد بن زيد، قال: سمعت
+  خالداً أبـا الفضل، قال: سمعت الـحسن تلا هذه الآية:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">فَطَوَّعَتْ لَهُ نَفْسُهُ قَتْلَ
+  أَخِيهِ</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">[المائدة: 30]... إلـى قوله: { وَمَنْ أحياها فَكأنـمَا أحيا النَّاسَ
+  جَمِيعاً } ثم قال: عَظَّم والله فـي الوزر كما تسمعون، ورغّب والله فـي الأجر كما
+  تسمعون إذا ظننت يا ابن آدم أنك لو قتلت الناس جميعاً فإن لك من عملك ما تفوز به من
+  النار، كَذَبَتْك والله نفسك، وكَذَبَكَ الشيطان.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  هناد، قال: ثنا ابن فضيـل، عن عاصم، عن الـحسن فـي قوله: { فَكأنَـما قَتَلَ النَّاسَ
+  جَمِيعاً } قال: وزراً { وَمَنْ أحياها فَكأنَّـمَا أحيا النَّاسَ جَمِيعاً }. قال:
+  أجراً.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وأولـى هذه الأقوال عندي بـالصواب
+  قول من قال: تأويـل ذلك أنه من قتل نفساً مؤمنة بغير نفس قتلتها فـاستـحقت القود بها
+  والقتل قصاصاً، أو بغير فساد فـي الأرض، بحرب الله ورسوله وحرب الـمؤمنـين فـيها، فكأنـما
+  قتل الناس جميعاً فـيـما استوجب من عظيـم العقوبة من الله جلّ ثناؤه، كما أوعده ذلك
+  من فعله ربُّه بقوله:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">وَمَن يَقْتُلْ مُؤْمِناً مُّتَعَمِّداً فَجَزَآؤُهُ جَهَنَّمُ
+  خَٰلِداً فِيهَا وَغَضِبَ ٱللَّهُ عَلَيْهِ وَلَعَنَهُ وَأَعَدَّ لَهُ عَذَاباً عَظِيماً</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[النساء:
+  93].</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وأما قوله: { وَمَنْ أحيْاها فَكأنـمَا
+  أحيْا النَّاسَ جَمِيعاً } فأولـى التأويلات به قول من قال: من حرّم قتل من حرّم الله
+  عزّ ذكره قتَله علـى نفسه، فلـم يتقدم علـى قتله، فقد حِيـيَ الناس منه بسلامتهم منه،
+  وذلك إحياؤه إياها. وذلك نظير خبر الله عزّ ذكره عمن حاجّ إبراهيـم فـي ربه، إذ قال
+  له إبراهيـم:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">رَبِّيَ ٱلَّذِي يُحْيِـي وَيُمِيتُ قَالَ أَنَا أُحْيِـي وَأُمِيتُ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[البقرة:
+  258]. فكان معنى الكافر فـي قـيـله: أنا أحيي وأميت: أنا أترك من قدرت علـى قتله وفـي
+  قوله: وأميت: قَتْلُه من قتله. فكذلك معن الإحياء فـي قوله: { وَمَنْ أحْياها }: من
+  سلـم الناس من قتله إياهم، إلا فـيـما أذن الله فـي قتله منهم { فَكأنـمَا أحْيا النَّاسَ
+  جَمِيعاً }.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وإنـما قلنا ذلك أولـى التأويلات
+  بتأويـل الآية، لأنه لا نفس يقوم قتلها فـي عاجل الضرّ مقام قتل جميع النفوس، ولا إحياؤها
+  مقام إحياء جميع النفوس فـي عاجل النفع، فكان معلوماً بذلك أن معنى الإحياء: سلامة
+  جميع النفوس منه، لأنه من لـم يتقدم علـى نفس واحدة، فقد سلـم منه جميع النفوس، وأن
+  الواحدة منها التـي يقوم قتلها مقام جميعها إنـما هو فـي الوزر، لأنه لا نفس من نفوس
+  بنـي آدم يقوم فقدها مقام فقد جميعها وإن كان فقد بعضها أعمّ ضرراً من فقد بعض.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">5 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(5, 32)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(5,32)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">مِنْ أَجْلِ ذٰلِكَ كَتَبْنَا عَلَىٰ بَنِيۤ إِسْرَائِيلَ
+  أَنَّهُ مَن قَتَلَ نَفْساً بِغَيْرِ نَفْسٍ أَوْ فَسَادٍ فِي ٱلأَرْضِ فَكَأَنَّمَا
+  قَتَلَ ٱلنَّاسَ جَمِيعاً وَمَنْ أَحْيَاهَا فَكَأَنَّمَا أَحْيَا النَّاسَ جَمِيعاً
+  وَلَقَدْ جَآءَتْهُمْ رُسُلُنَا بِٱلّبَيِّنَٰتِ ثُمَّ إِنَّ كَثِيراً مِّنْهُمْ بَعْدَ
+  ذٰلِكَ فِي ٱلأَرْضِ لَمُسْرِفُونَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\"
+  dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">القول فـي تأويـل
+  قوله تعالـى: { ولَقَدْ جاءَتْهُمْ رُسُلُنا بـالبَـيِّناتِ ثُمَّ إنَّ كَثِـيراً مِنْهُمْ
+  بَعْدَ ذَلِكَ فـي الأرْضِ لَـمُسْرِفُونَ }.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وهذا
+  قسم من الله جلّ ثناؤه أقسم به، إن رسله صلوات الله علـيهم قد أتت بنـي إسرائيـل الذين
+  قصّ الله قصصهم وذكر نبأهم فـي الآيات التـي تقدمت من قوله:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">يَا أَيُّهَآ ٱلَّذِينَ آمَنُواْ ٱذْكُرُواْ
+  نِعْمَتَ ٱللَّهِ عَلَيْكُمْ إِذْ هَمَّ قَوْمٌ أَن يَبْسُطُواْ إِلَيْكُمْ أَيْدِيَهُمْ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[المائدة:
   11] إلـى هذا الـموضع. { بـالبَـيِّناتِ } يعنـي: بـالآيات الواضحة، والـحجج البـينة
   علـى حقـية ما أرسلوا به إلـيهم وصحة ما دعوهم إلـيه من الإيـمان بهم وأداء فرائض الله
   علـيهم، يقول الله عزّ ذكره: { ثُمَّ إنَّ كَثِـيراً مِنْهُمْ بَعْدَ ذَلِكَ فِـي الأرْضِ
@@ -196,5 +426,17 @@ text: "<section>قراءة الآيةفتح صفحة القرآنالانتقا�
   ثُمَّ إنَّ كَثِـيراً مِنْهُمْ } من ذكر بنـي إسرائيـل، وكذلك ذلك فـي قوله: { وَلَقَدْ
   جاءتْهُمْ } بعد ذلك، يعنـي بعد مـجيـيء رسل الله بـالبـينات فـي الأرض. { لـمُسْرِفُونَ
   } يعنـي: أنهم فـي الأرض لعاملون بـمعاصي الله، ومخالفون أمر الله ونهيه، ومـحادوا
-  الله ورْسلِهِ، بـاتبـاعهم أهواءهم وخلافهم علـى أنبـيائهم وذلك كان إسرافهم فـي الأرض.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  الله ورْسلِهِ، بـاتبـاعهم أهواءهم وخلافهم علـى أنبـيائهم وذلك كان إسرافهم فـي الأرض.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">6 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section>"
 

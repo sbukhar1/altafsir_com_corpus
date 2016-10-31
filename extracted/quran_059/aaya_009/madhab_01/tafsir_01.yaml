@@ -1,4 +1,4 @@
-location:
+position:
   sura: 059
   aaya: 009
   madhab: '01'
@@ -7,111 +7,265 @@ meta:
   title: تفسير جامع البيان في تفسير القرآن
   author: الطبري
   year: '310'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَٱلَّذِينَ تَبَوَّءُوا
-  ٱلدَّارَ وَٱلإِيمَانَ مِن قَبْلِهِمْ يُحِبُّونَ مَنْ هَاجَرَ إِلَيْهِمْ وَلاَ يَجِدُونَ
-  فِي صُدُورِهِمْ حَاجَةً مِّمَّآ أُوتُواْ وَيُؤْثِرُونَ عَلَىٰ أَنفُسِهِمْ وَلَوْ
-  كَانَ بِهِمْ خَصَاصَةٌ وَمَن يُوقَ شُحَّ نَفْسِهِ فَأُوْلَـٰئِكَ هُمُ ٱلْمُفْلِحُونَ
-  }يقول تعالى ذكره: { وَالَّذِينَ تَبَوَّءوا الدَّارَ والإيمَانَ } يقول: اتخذوا المدينة
-  مدينة الرسول صلى الله عليه وسلم، فابتنوها منازل، { وَالإيمَانَ } بالله ورسوله {
-  مِنْ قَبْلِهِمْ } يعني: من قبل المهاجرين، { يُحِبُّونَ مَنْ هاجَرَ إلَيْهِمْ }:
-  يحبون من ترك منزله، وانتقل إليهم من غيرهم، وعُنِي بذلك الأنصار يحبون المهاجرين.
-  وبنحو الذي قلنا في ذلك قال أهل التأويل. ذكر من قال ذلك:حدثني محمد بن عمرو، قال:
-  ثنا أبو عاصم، قال: ثنا عيسى وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، جميعاً
-  عن ابن أبي نجيح، عن مجاهد، في قوله: { وَالَّذِينَ تَبَوَّءوا الدَّارَ وَالإيمَانَ
-  مِنْ قَبْلِهِمْ } قال: الأنصار نعت. قال محمد بن عمرو: سفاطة أنفسهم. وقال الحارث:
-  سخاوة أنفسهم عند ما روى عنهم من ذلك، وإيثارهم إياهم ولم يصب الأنصار من ذلك الفيء
-  شيء.حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة { وَالَّذِينَ تَبَوَّءوا الدَّارَ
-  وَالإيمَانَ مِنْ قَبْلِهِمْ يُحِبُّونَ مِنْ هاجَرَ إلَيْهِمْ، وَلا يَجِدُونَ فِي
-  صُدُورِهِمْ حاجَةً مِمَّا أُوتُوا } يقول: مما أعطوا إخوانهم هذا الحيّ من الأنصار،
-  أسلموا في ديارهم، فابتنوا المساجد والمسجد، قبل قدوم النبيّ صلى الله عليه وسلم، فأحسن
-  الله عليهم الثناء في ذلك وهاتان الطائفتان الأوّلتان من هذه الآية، أخذتا بفضلهما،
-  ومضتا على مَهَلهما، وأثبت الله حظهما في الفيء.حدثني يونس، قال: أخبرنا ابن وهب، قال:
-  قال ابن زيد، في قوله الله عزّ وجلّ: { وَالَّذِينَ تَبَوَّءوا الدَّارَ وَالإيمَانَ
-  مِنْ قَبْلِهِمْ يُحِبُّونَ } قال: هؤلاء الأنصار يحبون من هاجر إليهم من المهاجرين.وقوله:
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(59, 9)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(59,9)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَٱلَّذِينَ
+  تَبَوَّءُوا ٱلدَّارَ وَٱلإِيمَانَ مِن قَبْلِهِمْ يُحِبُّونَ مَنْ هَاجَرَ إِلَيْهِمْ
+  وَلاَ يَجِدُونَ فِي صُدُورِهِمْ حَاجَةً مِّمَّآ أُوتُواْ وَيُؤْثِرُونَ عَلَىٰ أَنفُسِهِمْ
+  وَلَوْ كَانَ بِهِمْ خَصَاصَةٌ وَمَن يُوقَ شُحَّ نَفْسِهِ فَأُوْلَـٰئِكَ هُمُ ٱلْمُفْلِحُونَ</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">يقول تعالى ذكره: { وَالَّذِينَ تَبَوَّءوا الدَّارَ والإيمَانَ }
+  يقول: اتخذوا المدينة مدينة الرسول صلى الله عليه وسلم، فابتنوها منازل، { وَالإيمَانَ
+  } بالله ورسوله { مِنْ قَبْلِهِمْ } يعني: من قبل المهاجرين، { يُحِبُّونَ مَنْ هاجَرَ
+  إلَيْهِمْ }: يحبون من ترك منزله، وانتقل إليهم من غيرهم، وعُنِي بذلك الأنصار يحبون
+  المهاجرين. وبنحو الذي قلنا في ذلك قال أهل التأويل. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى وحدثني الحارث،
+  قال: ثنا الحسن، قال: ثنا ورقاء، جميعاً عن ابن أبي نجيح، عن مجاهد، في قوله: { وَالَّذِينَ
+  تَبَوَّءوا الدَّارَ وَالإيمَانَ مِنْ قَبْلِهِمْ } قال: الأنصار نعت. قال محمد بن
+  عمرو: سفاطة أنفسهم. وقال الحارث: سخاوة أنفسهم عند ما روى عنهم من ذلك، وإيثارهم إياهم
+  ولم يصب الأنصار من ذلك الفيء شيء.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة { وَالَّذِينَ تَبَوَّءوا الدَّارَ وَالإيمَانَ
+  مِنْ قَبْلِهِمْ يُحِبُّونَ مِنْ هاجَرَ إلَيْهِمْ، وَلا يَجِدُونَ فِي صُدُورِهِمْ
+  حاجَةً مِمَّا أُوتُوا } يقول: مما أعطوا إخوانهم هذا الحيّ من الأنصار، أسلموا في
+  ديارهم، فابتنوا المساجد والمسجد، قبل قدوم النبيّ صلى الله عليه وسلم، فأحسن الله
+  عليهم الثناء في ذلك وهاتان الطائفتان الأوّلتان من هذه الآية، أخذتا بفضلهما، ومضتا
+  على مَهَلهما، وأثبت الله حظهما في الفيء.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله الله عزّ وجلّ: { وَالَّذِينَ
+  تَبَوَّءوا الدَّارَ وَالإيمَانَ مِنْ قَبْلِهِمْ يُحِبُّونَ } قال: هؤلاء الأنصار
+  يحبون من هاجر إليهم من المهاجرين.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقوله:
   { وَلا يَجِدُونَ فِي صُدُورِهِمْ حاجَةً مِمَّا أُوتُوا } يقول جلّ ثناؤه: ولا يجد
   الذين تبوّءوا الدار من قبلهم، وهم الأنصار في صدورهم حاجة، يعني حسداً مما أوتوا،
   يعني مما أوتي المهاجرين من الفيء، وذلك لما ذُكر لنا من أن رسول الله صلى الله عليه
   وسلم قسم أموال بني النضير بين المهاجرين الأوّلين دون الأنصار، إلا رجلين من الأنصار،
   أعطاهما لفقرهما، وإنما فعل ذلك لرسول الله صلى الله عليه وسلم خاصة. وبنحو الذي قلنا
-  في ذلك قال أهل التأويل. ذكر من قال ذلك:حدثنا ابن حُمَيد، قال: ثنا سلمة، قال: ثني
-  محمد بن إسحاق، عن عبد الله بن أبي بكر، أنه حدّث أنّ بني النضير خَلَّوا الأموال لرسول
-  الله صلى الله عليه وسلم، فكانت النضير لرسول الله صلى الله عليه وسلم خاصة يضعها حيث
-  يشاء، فقسمها رسول الله صلى الله عليه وسلم على المهاجرين الأوّلين دون الأنصار، إلا
-  أن سهل بن حُنَيف وأبا دُجانة سِماك بن خَرَشة ذكرا فقراً، فأعطاهما رسول الله صلى
-  الله عليه وسلم.حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله: { وَلا
-  يَجِدُونَ فِي صُدُورِهِمْ حاجَةً مِمَّا أُتُوا } المهاجرون.\r\n\t\t\t\r\n\t\t\t1 2 3 4 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَٱلَّذِينَ تَبَوَّءُوا ٱلدَّارَ وَٱلإِيمَانَ
-  مِن قَبْلِهِمْ يُحِبُّونَ مَنْ هَاجَرَ إِلَيْهِمْ وَلاَ يَجِدُونَ فِي صُدُورِهِمْ
-  حَاجَةً مِّمَّآ أُوتُواْ وَيُؤْثِرُونَ عَلَىٰ أَنفُسِهِمْ وَلَوْ كَانَ بِهِمْ خَصَاصَةٌ
-  وَمَن يُوقَ شُحَّ نَفْسِهِ فَأُوْلَـٰئِكَ هُمُ ٱلْمُفْلِحُونَ }قال، وتكلم في ذلك
-  (يعني أموالَ بني النضير) بعضُ من تكلَّم من الأنصار، فعاتبهم الله عزّ وجلّ في ذلك
-  فقال:{ وَما أفاءَ اللَّهُ على رَسُولِهِ مِنْهُمْ فَمَا أوْجَفْتُمْ عَلَيْهِ مِنْ
-  خَيْلٍ وَلا رِكابٍ وَلَكِنَّ اللَّهَ يُسَلِّطُ رُسُلَهُ عَلى مَنْ يَشاءُ وَاللَّهُ
-  على كُلِّ شَيْءٍ قَدِيرٌ }قال: قال رسول الله صلى الله عليه وسلم لهم: \" إنَّ إخْوَانَكُمْ
-  قَدْ تَرَكُوا الأمْوَالَ والأولاد وَخَرَجُوا إلَيْكُمْ \" فقالوا: أموالنا بينهم
-  قطائع، فقال رسول الله صلى الله عليه وسلم: \" أوَ غَيْرَ ذَلِكَ؟ \" قالوا: وما ذلك
-  يا رسول الله؟ قال: \" هُمْ قَوْمٌ لا يَعْرِفُونَ العَمَلَ فَتَكْفُونهُمْ وَتُقاسِمُونَهُمْ
-  الثَّمَرَ \" فقالوا: نعم يا رسول الله.وبنحو الذي قلنا في قوله { وَلا يَجِدُونَ فِي
-  صُدُورِهِمْ حاجَةً مِمَّا أُوتُوا } قال أهل التأويل. ذكر من قال ذلك:حدثنا محمد بن
-  المثنى، قال: ثنا سليمان أبو داود، قال: ثنا شعبة، عن أبي رجاء، عن الحسن، في قوله
-  { وَلا يَجِدُونَ فِي صُدُورِهِمْ حاجَةً مِمَّا أوتُوا } قال: الحسد.قال: ثنا عبد
-  الصمد، قال: ثنا شعبة، عن أبي رجاء، عن الحسن { حاجَةً فِي صُدُورِهِمْ } قال: حسداً
-  في صدورهم.حدثني يعقوب، قال: ثنا ابن علية، قال: أخبرنا أبو رجاء عن الحسن، مثله.وقوله:
-  { وَيؤْثِرُونَ على أنْفُسِهِمْ } يقول تعالى ذكر: وهو يصف الأنصار الذين تبوّءُوا
-  الدار والإيمان من قبل المهاجرين { وَيؤْثِرُونَ على أنْفُسِهمْ } يقول: ويعطون المهاجرين
-  أموالهم إيثاراً لهم بها على أنفسهم { وَلَوْ كَانَ بِهِمْ خَصَاصَةٌ } يقول: ولو كان
-  بهم حاجة وفاقة إلى ما آثروا به من أموالهم على أنفسهم. والخَصاصة مصدر، وهي أيضاً
-  اسم، وهو كلّ ما تخلَّلته ببصرك كالكوّة والفرجة في الحائط، تجمع خَصاصات وخِصاص، كمال
-  قال الراجز:قَدْ عَلِمَ المَقاتِلاتُ هَجَّا   والنَّاظراتُ مِنْ خَصَاصٍ لَمْجالأَوْرِيَنْها
-  دُلَجا أوْ مُنْجَا   وبنحو الذي قلنا في ذلك قال أهل التأويل. ذكر من قال ذلك:حدثنا
-  أبو كُرَيب، قال: ثنا ابن فضيل، عن أبيه، عن أبي حازم، عن أبي هريرة، قال: جاء رجل
-  إلى النبيّ صلى الله عليه وسلم ليضيفه، فلم يكن عنده ما يضيفه، فقال: \" ألا رجلٌ يضيفُ
-  هذا رَحِمَهُ اللَّهُ؟ \" فقام رجل من الأنصار يقال له أبو طلحة، فانطلق به إلى رحله،
-  فقال لامرأته: أكرمي ضيفَ رسول الله صلى الله عليه وسلم، نوّمي الصبية، وأطفئي المصباح
-  وأريه بأنك تأكلين معه واتركيه لضيف رسول الله صلى الله عليه وسلم ففعلت فنزلت { وَيُؤْثِرُونَ
-  على أنْفُسِهِمْ وَلَوْ كانَ بِهِمْ خَصَاصَةٌ }.حدثنا أبو كُرَيب، قال: ثنا وكيع،
+  في ذلك قال أهل التأويل. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن حُمَيد، قال: ثنا سلمة، قال: ثني محمد بن إسحاق، عن عبد الله بن أبي بكر، أنه حدّث
+  أنّ بني النضير خَلَّوا الأموال لرسول الله صلى الله عليه وسلم، فكانت النضير لرسول
+  الله صلى الله عليه وسلم خاصة يضعها حيث يشاء، فقسمها رسول الله صلى الله عليه وسلم
+  على المهاجرين الأوّلين دون الأنصار، إلا أن سهل بن حُنَيف وأبا دُجانة سِماك بن خَرَشة
+  ذكرا فقراً، فأعطاهما رسول الله صلى الله عليه وسلم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله: { وَلا يَجِدُونَ فِي صُدُورِهِمْ
+  حاجَةً مِمَّا أُتُوا } المهاجرون.</font></font>&#13;\t\t\t<label disabled=\"true\"
+  class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(59, 9)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(59,9)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَٱلَّذِينَ تَبَوَّءُوا ٱلدَّارَ وَٱلإِيمَانَ مِن
+  قَبْلِهِمْ يُحِبُّونَ مَنْ هَاجَرَ إِلَيْهِمْ وَلاَ يَجِدُونَ فِي صُدُورِهِمْ حَاجَةً
+  مِّمَّآ أُوتُواْ وَيُؤْثِرُونَ عَلَىٰ أَنفُسِهِمْ وَلَوْ كَانَ بِهِمْ خَصَاصَةٌ
+  وَمَن يُوقَ شُحَّ نَفْسِهِ فَأُوْلَـٰئِكَ هُمُ ٱلْمُفْلِحُونَ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">قال، وتكلم في ذلك (يعني أموالَ بني النضير) بعضُ من تكلَّم من الأنصار،
+  فعاتبهم الله عزّ وجلّ في ذلك فقال:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">وَما أفاءَ اللَّهُ على رَسُولِهِ
+  مِنْهُمْ فَمَا أوْجَفْتُمْ عَلَيْهِ مِنْ خَيْلٍ وَلا رِكابٍ وَلَكِنَّ اللَّهَ يُسَلِّطُ
+  رُسُلَهُ عَلى مَنْ يَشاءُ وَاللَّهُ على كُلِّ شَيْءٍ قَدِيرٌ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">قال:
+  قال رسول الله صلى الله عليه وسلم لهم:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" إنَّ إخْوَانَكُمْ قَدْ تَرَكُوا الأمْوَالَ والأولاد وَخَرَجُوا
+  إلَيْكُمْ \" </font></font></b><font class=\"TextResultArabic\"><font color=\"black\">فقالوا:
+  أموالنا بينهم قطائع، فقال رسول الله صلى الله عليه وسلم:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" أوَ غَيْرَ ذَلِكَ؟ \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">قالوا: وما ذلك يا رسول الله؟ قال:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" هُمْ قَوْمٌ لا يَعْرِفُونَ العَمَلَ فَتَكْفُونهُمْ وَتُقاسِمُونَهُمْ
+  الثَّمَرَ \" </font></font></b><font class=\"TextResultArabic\"><font color=\"black\">فقالوا:
+  نعم يا رسول الله.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وبنحو الذي قلنا في قوله { وَلا
+  يَجِدُونَ فِي صُدُورِهِمْ حاجَةً مِمَّا أُوتُوا } قال أهل التأويل. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا محمد بن المثنى، قال: ثنا سليمان أبو داود، قال: ثنا شعبة، عن
+  أبي رجاء، عن الحسن، في قوله { وَلا يَجِدُونَ فِي صُدُورِهِمْ حاجَةً مِمَّا أوتُوا
+  } قال: الحسد.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">قال: ثنا عبد الصمد، قال: ثنا شعبة،
+  عن أبي رجاء، عن الحسن { حاجَةً فِي صُدُورِهِمْ } قال: حسداً في صدورهم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني يعقوب، قال: ثنا ابن علية، قال: أخبرنا أبو رجاء عن الحسن، مثله.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقوله: { وَيؤْثِرُونَ على أنْفُسِهِمْ } يقول تعالى ذكر: وهو يصف
+  الأنصار الذين تبوّءُوا الدار والإيمان من قبل المهاجرين { وَيؤْثِرُونَ على أنْفُسِهمْ
+  } يقول: ويعطون المهاجرين أموالهم إيثاراً لهم بها على أنفسهم { وَلَوْ كَانَ بِهِمْ
+  خَصَاصَةٌ } يقول: ولو كان بهم حاجة وفاقة إلى ما آثروا به من أموالهم على أنفسهم.
+  والخَصاصة مصدر، وهي أيضاً اسم، وهو كلّ ما تخلَّلته ببصرك كالكوّة والفرجة في الحائط،
+  تجمع خَصاصات وخِصاص، كمال قال الراجز:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><table class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">قَدْ عَلِمَ
+  المَقاتِلاتُ هَجَّا</font></font></b></td><td class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">والنَّاظراتُ مِنْ خَصَاصٍ لَمْجا</font></font></b></td></tr><tr
+  class=\"TextArabic\"><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">لأَوْرِيَنْها دُلَجا أوْ مُنْجَا</font></font></b></td><td class=\"TextArabic\">   </td><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\"/></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">وبنحو الذي قلنا في ذلك قال أهل
+  التأويل. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا أبو كُرَيب، قال: ثنا ابن
+  فضيل، عن أبيه، عن أبي حازم، عن أبي هريرة، قال: جاء رجل إلى النبيّ صلى الله عليه
+  وسلم ليضيفه، فلم يكن عنده ما يضيفه، فقال:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" ألا رجلٌ يضيفُ هذا رَحِمَهُ اللَّهُ؟ \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\">فقام رجل من الأنصار يقال له أبو
+  طلحة، فانطلق به إلى رحله، فقال لامرأته: أكرمي ضيفَ رسول الله صلى الله عليه وسلم،
+  نوّمي الصبية، وأطفئي المصباح وأريه بأنك تأكلين معه واتركيه لضيف رسول الله صلى الله
+  عليه وسلم ففعلت فنزلت { وَيُؤْثِرُونَ على أنْفُسِهِمْ وَلَوْ كانَ بِهِمْ خَصَاصَةٌ
+  }.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا أبو كُرَيب، قال: ثنا وكيع،
   عن فضيل، عن غزوان، عن أبي حازم، عن أبي هريرة، أن رجلاً من الأنصار بات به ضيف، فلم
   يكن عند إلا قوته وقوت صبيانه، فقال لامرأته: نَوِّمي الصَّبْية وأطفئي المصباح، وقرّبي
-  للضيف ما عندك، قال: فنزلت هذه الآية { وَمَنْ يُوقَ شُحَّ نَفْسِهِ }.\r\n\t\t\t\r\n\t\t\t1 2 3 4 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَٱلَّذِينَ تَبَوَّءُوا ٱلدَّارَ وَٱلإِيمَانَ
-  مِن قَبْلِهِمْ يُحِبُّونَ مَنْ هَاجَرَ إِلَيْهِمْ وَلاَ يَجِدُونَ فِي صُدُورِهِمْ
-  حَاجَةً مِّمَّآ أُوتُواْ وَيُؤْثِرُونَ عَلَىٰ أَنفُسِهِمْ وَلَوْ كَانَ بِهِمْ خَصَاصَةٌ
-  وَمَن يُوقَ شُحَّ نَفْسِهِ فَأُوْلَـٰئِكَ هُمُ ٱلْمُفْلِحُونَ }يقول تعالى ذكره:
-  من وقاه الله شحّ نفسه { فأُولَئِكَ هُمُ المُفْلِحُونَ } المخلَّدُونَ في الجنة. والشحّ
-  في كلام العرب: البخل، ومنع الفضل من المال ومنه قول عمرو بن كلثوم:تَرَى اللَّحِزَ
-  الشَّحيحَ إذَا أُمِرَّتْ   عَلَيْهِ لِمَالِهِ فِيها مُهينايعني بالشحيح: البخيل،
-  يقال: إنه لشحيح بين الشحّ والشحّ، وفيه شحة شديدة وشحاحة. وأما العلماء فإنهم يرون
-  أن الشحّ في هذا الموضع إنما هو أكل أموال الناس بغير حقّ.حدثنا ابن حُمَيد، قال: ثنا
-  يحيى بن واضح، قال: ثنا المسعودي، عن أشعث، عن أبي الشعثاء، عن أبيه، قال: أتى رجل
-  ابن مسعود فقال: إني أخاف أن أكون قد هلكت، قال: وما ذاك؟ قال: أسمع الله يقول: { وَمَنْ
-  يُوقَ شُحَّ نَفْسِهِ } وأنا رجل شحيح لا يكاد يخرج من يدي شيء، قال: ليس ذاك بالشحّ
-  الذي ذكر الله في القرآن، إنما الشحّ أن تأكل مال أخيك ظلماً، ذلك البخل، وبئس الشيء
-  البخل.حدثني يحيى بن إبراهيم، قال: ثني أبي، عن أبيه، عن جده، عن الأعمش، عن جامع،
-  عن الأسود بن هلال قال: جاء رجل إلى عبد الله بن مسعود، فقال يا أبا عبد الرحمن، إني
-  أخشى أن تكون أصابتني هذه الآية { وَمَنْ يُوقَ شُحَّ نَفْسِهِ فَأُولَئِكَ هُمُ المُفْلِحُونَ
-  } والله ما أعطي شيئاً أستطيع منعه، قال: ليس ذلك بالشحّ، إنما الشحّ أن تأكل مال أخيك
-  بغير حقه، ولكن ذلك البخل.حدثنا محمد بن بشار، قال: ثنا يحيى وعبد الرحمن، قالا: ثنا
-  سفيان، عن طارق بن عبد الرحمن، عن سعيد بن جُبَير، عن أبي الهياج الأسدي، قال: كنت
-  أطوف بالبيت، فرأيت رجلاً يقول: اللهمّ قني شحَّ نفسي، لا يزيد على ذلك، فقلت له، فقال:
-  إني إذا وقيت شحّ نفسي لم أسرق، ولم أزن، ولم أفعل شيئاً، وإذا الرجل عبد الرحمن بن
-  عوف.حدثني محمد بن إسحاق، قال: ثنا سليمان بن عبد الرحمن الدمشقي، قال: ثنا إسماعيل
-  بن عياش، قال: ثنا مجمع بن جارية الأنصاري، عن عمه يزيد بن جارية الأنصاري، عن أنس
-  بن مالك، عن رسول الله صلى الله عليه وسلم قال: \" بَرِىءَ مِنَ الشُّحّ مَنْ أدَّى
-  الزَّكاةَ، وَقَرَى الضَّيْفَ، وأعْطَى في النَّائِبَةِ \" حدثني محمد بن عبد الله
-  بن عبد الحكم، قال: ثنا زياد بن يونس أبو سلامة، عن نافع بن عمر المكي، عن ابن أبي
-  مليكة، عن عبد الله بن عمر، قال: إن نجوت من ثلاث طمعت أن أنجو. قال عبد الله بن صفوان
-  ما هنّ أنبيك فيهنّ، قال: أخرج المال العظيم، فأخرجه ضراراً، ثم أقول: أقرض ربي هذه
-  الليلة، ثم تعود نفسي فيه حتى أعيده من حيث أخرجته، وإن نجوت من شأن عثمان، قال ابن
-  صفوان: أما عثمان فقُتل يوم قُتل، وأنت تحبّ قتله وترضاه، فأنت ممن قتله وأما أنت فرجل
-  لم يقك الله شحّ نفسك، قال: صدقت.\r\n\t\t\t\r\n\t\t\t1 2 3 4 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَٱلَّذِينَ تَبَوَّءُوا ٱلدَّارَ وَٱلإِيمَانَ
-  مِن قَبْلِهِمْ يُحِبُّونَ مَنْ هَاجَرَ إِلَيْهِمْ وَلاَ يَجِدُونَ فِي صُدُورِهِمْ
-  حَاجَةً مِّمَّآ أُوتُواْ وَيُؤْثِرُونَ عَلَىٰ أَنفُسِهِمْ وَلَوْ كَانَ بِهِمْ خَصَاصَةٌ
-  وَمَن يُوقَ شُحَّ نَفْسِهِ فَأُوْلَـٰئِكَ هُمُ ٱلْمُفْلِحُونَ }حدثني يونس، قال:
-  أخبرنا ابن وهب، قال: قال ابن زيد، في قول الله عزّ وجلّ: { وَمَنْ يُوقَ شُحَّ نَفْسِهِ
-  } قال: من وقى شحّ نفسه فلم يأخذ من الحرام شيئاً، ولم يقربه، ولم يدعه الشحّ أن يحبس
-  من الحلال شيئاً، فهو من المفلحين، كما قال الله عزّ وجلّ.وحدثني يونس، قال: أخبرنا
-  ابن وهب، قال: قال ابن زيد، في قوله: { وَمَنْ يُوقَ شُحَّ نَفْسِهِ } قال: من لم يأخذ
-  شيئاً لشيء نهاه الله عزّ وجلّ عنه، ولم يدعه الشحّ على أن يمنع شيئاً من شيء أمره
-  الله به، فقد وقاه الله شحّ نفسه، فهو من المفلحين.\r\n\t\t\t\r\n\t\t\t1 2 3 4 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  للضيف ما عندك، قال: فنزلت هذه الآية { وَمَنْ يُوقَ شُحَّ نَفْسِهِ }.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(59, 9)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(59,9)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَٱلَّذِينَ تَبَوَّءُوا ٱلدَّارَ وَٱلإِيمَانَ مِن
+  قَبْلِهِمْ يُحِبُّونَ مَنْ هَاجَرَ إِلَيْهِمْ وَلاَ يَجِدُونَ فِي صُدُورِهِمْ حَاجَةً
+  مِّمَّآ أُوتُواْ وَيُؤْثِرُونَ عَلَىٰ أَنفُسِهِمْ وَلَوْ كَانَ بِهِمْ خَصَاصَةٌ
+  وَمَن يُوقَ شُحَّ نَفْسِهِ فَأُوْلَـٰئِكَ هُمُ ٱلْمُفْلِحُونَ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">يقول تعالى ذكره: من وقاه الله شحّ نفسه { فأُولَئِكَ هُمُ المُفْلِحُونَ
+  } المخلَّدُونَ في الجنة. والشحّ في كلام العرب: البخل، ومنع الفضل من المال ومنه قول
+  عمرو بن كلثوم:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><table
+  class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">تَرَى اللَّحِزَ الشَّحيحَ إذَا أُمِرَّتْ</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">عَلَيْهِ لِمَالِهِ فِيها مُهينا</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">يعني بالشحيح: البخيل، يقال: إنه
+  لشحيح بين الشحّ والشحّ، وفيه شحة شديدة وشحاحة. وأما العلماء فإنهم يرون أن الشحّ
+  في هذا الموضع إنما هو أكل أموال الناس بغير حقّ.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن حُمَيد، قال: ثنا يحيى بن واضح، قال: ثنا المسعودي، عن أشعث، عن أبي الشعثاء، عن
+  أبيه، قال: أتى رجل ابن مسعود فقال: إني أخاف أن أكون قد هلكت، قال: وما ذاك؟ قال:
+  أسمع الله يقول: { وَمَنْ يُوقَ شُحَّ نَفْسِهِ } وأنا رجل شحيح لا يكاد يخرج من يدي
+  شيء، قال: ليس ذاك بالشحّ الذي ذكر الله في القرآن، إنما الشحّ أن تأكل مال أخيك ظلماً،
+  ذلك البخل، وبئس الشيء البخل.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  يحيى بن إبراهيم، قال: ثني أبي، عن أبيه، عن جده، عن الأعمش، عن جامع، عن الأسود بن
+  هلال قال: جاء رجل إلى عبد الله بن مسعود، فقال يا أبا عبد الرحمن، إني أخشى أن تكون
+  أصابتني هذه الآية { وَمَنْ يُوقَ شُحَّ نَفْسِهِ فَأُولَئِكَ هُمُ المُفْلِحُونَ }
+  والله ما أعطي شيئاً أستطيع منعه، قال: ليس ذلك بالشحّ، إنما الشحّ أن تأكل مال أخيك
+  بغير حقه، ولكن ذلك البخل.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا محمد بن بشار، قال: ثنا يحيى
+  وعبد الرحمن، قالا: ثنا سفيان، عن طارق بن عبد الرحمن، عن سعيد بن جُبَير، عن أبي الهياج
+  الأسدي، قال: كنت أطوف بالبيت، فرأيت رجلاً يقول: اللهمّ قني شحَّ نفسي، لا يزيد على
+  ذلك، فقلت له، فقال: إني إذا وقيت شحّ نفسي لم أسرق، ولم أزن، ولم أفعل شيئاً، وإذا
+  الرجل عبد الرحمن بن عوف.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثني محمد بن إسحاق، قال: ثنا سليمان
+  بن عبد الرحمن الدمشقي، قال: ثنا إسماعيل بن عياش، قال: ثنا مجمع بن جارية الأنصاري،
+  عن عمه يزيد بن جارية الأنصاري، عن أنس بن مالك، عن رسول الله صلى الله عليه وسلم قال:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" بَرِىءَ مِنَ الشُّحّ مَنْ أدَّى
+  الزَّكاةَ، وَقَرَى الضَّيْفَ، وأعْطَى في النَّائِبَةِ \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني محمد بن عبد الله بن عبد الحكم، قال: ثنا زياد بن يونس أبو سلامة،
+  عن نافع بن عمر المكي، عن ابن أبي مليكة، عن عبد الله بن عمر، قال: إن نجوت من ثلاث
+  طمعت أن أنجو. قال عبد الله بن صفوان ما هنّ أنبيك فيهنّ، قال: أخرج المال العظيم،
+  فأخرجه ضراراً، ثم أقول: أقرض ربي هذه الليلة، ثم تعود نفسي فيه حتى أعيده من حيث أخرجته،
+  وإن نجوت من شأن عثمان، قال ابن صفوان: أما عثمان فقُتل يوم قُتل، وأنت تحبّ قتله وترضاه،
+  فأنت ممن قتله وأما أنت فرجل لم يقك الله شحّ نفسك، قال: صدقت.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">3 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(59, 9)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(59,9)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَٱلَّذِينَ تَبَوَّءُوا ٱلدَّارَ وَٱلإِيمَانَ مِن
+  قَبْلِهِمْ يُحِبُّونَ مَنْ هَاجَرَ إِلَيْهِمْ وَلاَ يَجِدُونَ فِي صُدُورِهِمْ حَاجَةً
+  مِّمَّآ أُوتُواْ وَيُؤْثِرُونَ عَلَىٰ أَنفُسِهِمْ وَلَوْ كَانَ بِهِمْ خَصَاصَةٌ
+  وَمَن يُوقَ شُحَّ نَفْسِهِ فَأُوْلَـٰئِكَ هُمُ ٱلْمُفْلِحُونَ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قول الله عزّ
+  وجلّ: { وَمَنْ يُوقَ شُحَّ نَفْسِهِ } قال: من وقى شحّ نفسه فلم يأخذ من الحرام شيئاً،
+  ولم يقربه، ولم يدعه الشحّ أن يحبس من الحلال شيئاً، فهو من المفلحين، كما قال الله
+  عزّ وجلّ.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وحدثني يونس، قال: أخبرنا ابن وهب،
+  قال: قال ابن زيد، في قوله: { وَمَنْ يُوقَ شُحَّ نَفْسِهِ } قال: من لم يأخذ شيئاً
+  لشيء نهاه الله عزّ وجلّ عنه، ولم يدعه الشحّ على أن يمنع شيئاً من شيء أمره الله به،
+  فقد وقاه الله شحّ نفسه، فهو من المفلحين.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">4 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section>"
 

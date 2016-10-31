@@ -1,4 +1,4 @@
-location:
+position:
   sura: '002'
   aaya: '057'
   madhab: '02'
@@ -7,23 +7,71 @@ meta:
   title: تفسير النكت والعيون
   author: الماوردي
   year: '450'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَظَلَّلْنَا عَلَيْكُمُ
-  ٱلْغَمَامَ وَأَنزَلْنَا عَلَيْكُمُ ٱلْمَنَّ وَٱلسَّلْوَىٰ كُلُواْ مِن طَيِّبَٰتِ
-  مَا رَزَقْنَٱكُمْ وَمَا ظَلَمُونَا وَلَـٰكِن كَانُوۤاْ أَنْفُسَهُمْ يَظْلِمُونَ
-  }قوله عز وجل: { وَظَلَّلْنَا عَلَيْكُمُ الْغَمَامَ }:والغمام: هو ما غَمَّ السماء،
-  فغطَّاها من سحاب وقتام، وكلُّ مُغَطٍّ فهُو غمام، ومنه: غُمَّ الهلال، أي غطاه الغَيْمُ.وفي
-  الغمام الذي ظلله الله عليهم تأويلان:أحدهما: أنه السحابة، وهو قول ابن عباس.والثاني:
-  أنه الذي أتى الملائكة في يوم بدر، مثل قوله تعالى:{ هَلْ يَنْظُرُونَ إِلاَّ أَنْ
-  يَأْتِيَهُمُ اللهُ فِي ظُلَلٍ منَ الْغَمَامِ }[البقرة: 210] وهذا قول مجاهد.قوله
-  عز وجل: { وَأَنْزَلْنَا عَلَيْكُمُ الْمَنَّ والسَّلْوَى } فيه سبعة أقاويل:أحدها:
-  أن المنَّ ما سقط على الشجر فيأكله الناس، وهو قول ابن عباس.والثاني: أن المنَّ صمغة،
-  وهو قول مجاهد.والثالث: أن المنَّ شرابٌ، كان ينزل عليهم يشربونه بعد مزجِهِ بالماء،
-  وهو قول الربيع بن أنس.والرابع: أن المنَّ عسل، كان ينزل عليهم، وهو قول ابن زيدٍ.والخامس:
-  أن المن الخبز الرقاق، هو قول وهب.والسادس: أنه الزنجبيل، وهو قول السدي.والسابع: أنه
-  الترنجين.وفي السلوى قولان:أحدهما: أنه السماني.والثاني: أنه طائر يشبه السماني كانت
-  تحشره عليهم الريح الجنوب، وهذا قول ابن عباس، واشتقاقه من السلو، كأنَّه مُسَلِّي
-  عن غيره.قال ابن جريج: كان الرجل منهم إن أخذ من المنِّ والسلوى زيادة على طعام يوم
-  واحدٍ فسد، إلا يومَ الجمعة، فإنهم كانوا إذا أخذوا طعامَ يومَيْنِ لم يفسد.وفي قوله
-  عز وجل: { كُلُوا مِنْ طَيِّبَاتِ مَا رَزَقْنَاكُمْ } ثلاثة تأويلاتٍ:أحدها: الشَّهيَّات
-  اللذيذة.والثاني: أنه الحلال.والثالث: أنها المباح.\r\n\t\t\t\r\n\t\t\t</section>"
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(2, 57)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(2,57)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَظَلَّلْنَا
+  عَلَيْكُمُ ٱلْغَمَامَ وَأَنزَلْنَا عَلَيْكُمُ ٱلْمَنَّ وَٱلسَّلْوَىٰ كُلُواْ مِن
+  طَيِّبَٰتِ مَا رَزَقْنَٱكُمْ وَمَا ظَلَمُونَا وَلَـٰكِن كَانُوۤاْ أَنْفُسَهُمْ يَظْلِمُونَ</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">قوله عز وجل: { وَظَلَّلْنَا عَلَيْكُمُ الْغَمَامَ }:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">والغمام: هو ما غَمَّ السماء، فغطَّاها من سحاب وقتام، وكلُّ مُغَطٍّ
+  فهُو غمام، ومنه: غُمَّ الهلال، أي غطاه الغَيْمُ.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وفي
+  الغمام الذي ظلله الله عليهم تأويلان:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">أحدهما:
+  أنه السحابة، وهو قول ابن عباس.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">والثاني:
+  أنه الذي أتى الملائكة في يوم بدر، مثل قوله تعالى:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">هَلْ يَنْظُرُونَ إِلاَّ أَنْ يَأْتِيَهُمُ
+  اللهُ فِي ظُلَلٍ منَ الْغَمَامِ</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">[البقرة: 210] وهذا قول مجاهد.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قوله عز وجل: { وَأَنْزَلْنَا عَلَيْكُمُ الْمَنَّ والسَّلْوَى } فيه
+  سبعة أقاويل:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">أحدها: أن المنَّ ما سقط على الشجر
+  فيأكله الناس، وهو قول ابن عباس.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">والثاني:
+  أن المنَّ صمغة، وهو قول مجاهد.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">والثالث:
+  أن المنَّ شرابٌ، كان ينزل عليهم يشربونه بعد مزجِهِ بالماء، وهو قول الربيع بن أنس.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">والرابع: أن المنَّ عسل، كان ينزل عليهم، وهو قول ابن زيدٍ.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">والخامس: أن المن الخبز الرقاق، هو قول وهب.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">والسادس:
+  أنه الزنجبيل، وهو قول السدي.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">والسابع:
+  أنه الترنجين.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وفي السلوى قولان:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">أحدهما: أنه السماني.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">والثاني:
+  أنه طائر يشبه السماني كانت تحشره عليهم الريح الجنوب، وهذا قول ابن عباس، واشتقاقه
+  من السلو، كأنَّه مُسَلِّي عن غيره.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال
+  ابن جريج: كان الرجل منهم إن أخذ من المنِّ والسلوى زيادة على طعام يوم واحدٍ فسد،
+  إلا يومَ الجمعة، فإنهم كانوا إذا أخذوا طعامَ يومَيْنِ لم يفسد.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وفي قوله عز وجل: { كُلُوا مِنْ طَيِّبَاتِ مَا رَزَقْنَاكُمْ } ثلاثة
+  تأويلاتٍ:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">أحدها: الشَّهيَّات اللذيذة.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">والثاني: أنه الحلال.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">والثالث:
+  أنها المباح.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

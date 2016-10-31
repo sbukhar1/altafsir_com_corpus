@@ -1,4 +1,4 @@
-location:
+position:
   sura: '012'
   aaya: 058
   madhab: '01'
@@ -8,15 +8,33 @@ meta:
   author: الزمخشري
   year: '538'
 aaya: وَجَاءَ إِخْوَةُ يُوسُفَ فَدَخَلُوا عَلَيْهِ فَعَرَفَهُمْ وَهُمْ لَهُ مُنْكِرُونَ
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَجَآءَ إِخْوَةُ
-  يُوسُفَ فَدَخَلُواْ عَلَيْهِ فَعَرَفَهُمْ وَهُمْ لَهُ مُنكِرُونَ }لم يعرفوه لطول
-  العهد ومفارقته إياهم في سنّ الحداثة، ولاعتقادهم أنه قد هلك، ولذهابه عن أوهامهم لقلة
-  فكرهم فيه واهتمامهم بشأنه، ولبعد حاله التي بلغها من الملك والسلطان عن حاله التي
-  فارقوه عليها طريحاً في البئر، مشرياً بدراهم معدودة، حتى لو تخيل لهم أنه هو لكذبوا
-  أنفسهم وظنونهم، ولأنّ الملك مما يبدّل الزيّ ويلبس صاحبه من التهيب والاستعظام ما
-  ينكر له المعروف. وقيل: رأوه على زيّ فرعون عليه ثياب الحرير جالساً على سرير في عنقه
-  طوق من ذهب وعلى رأسه تاج، فما خطر ببالهم أنه هو. وقيل: ما رأوه إلا من بعيد بينهم
-  وبينه مسافة وحجاب، وما وقفوا إلا حيث يقف طلاب الحوائج، وإنما عرفهم لأنه فارقهم وهم
-  رجال ورأى زيهم قريباً من زيهم إذ ذاك، ولأنّ همته كانت معقودة بهم وبمعرفتهم، فكان
-  يتأمّل ويتفطن. وعن الحسن: ما عرفهم حتى تعرّفوا له.\r\n\t\t\t\r\n\t\t\t</section>"
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(12, 58)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(12,58)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَجَآءَ
+  إِخْوَةُ يُوسُفَ فَدَخَلُواْ عَلَيْهِ فَعَرَفَهُمْ وَهُمْ لَهُ مُنكِرُونَ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">لم يعرفوه لطول العهد ومفارقته إياهم في سنّ الحداثة، ولاعتقادهم أنه
+  قد هلك، ولذهابه عن أوهامهم لقلة فكرهم فيه واهتمامهم بشأنه، ولبعد حاله التي بلغها
+  من الملك والسلطان عن حاله التي فارقوه عليها طريحاً في البئر، مشرياً بدراهم معدودة،
+  حتى لو تخيل لهم أنه هو لكذبوا أنفسهم وظنونهم، ولأنّ الملك مما يبدّل الزيّ ويلبس
+  صاحبه من التهيب والاستعظام ما ينكر له المعروف. وقيل: رأوه على زيّ فرعون عليه ثياب
+  الحرير جالساً على سرير في عنقه طوق من ذهب وعلى رأسه تاج، فما خطر ببالهم أنه هو.
+  وقيل: ما رأوه إلا من بعيد بينهم وبينه مسافة وحجاب، وما وقفوا إلا حيث يقف طلاب الحوائج،
+  وإنما عرفهم لأنه فارقهم وهم رجال ورأى زيهم قريباً من زيهم إذ ذاك، ولأنّ همته كانت
+  معقودة بهم وبمعرفتهم، فكان يتأمّل ويتفطن. وعن الحسن: ما عرفهم حتى تعرّفوا له.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

@@ -1,4 +1,4 @@
-location:
+position:
   sura: '015'
   aaya: '011'
   madhab: '01'
@@ -8,19 +8,42 @@ meta:
   author: الطبري
   year: '310'
 aaya: وَمَا يَأْتِيهِمْ مِنْ رَسُولٍ إِلَّا كَانُوا بِهِ يَسْتَهْزِئُونَ
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَلَقَدْ أَرْسَلْنَا
-  مِن قَبْلِكَ فِي شِيَعِ ٱلأَوَّلِينَ } * { وَمَا يَأْتِيهِم مِّن رَّسُولٍ إِلاَّ
-  كَانُواْ بِهِ يَسْتَهْزِئُونَ }يقول تعالـى ذكره لنبـيه مـحمد صلى الله عليه وسلم:
-  ولقد أرسلنا يا مـحمد من قبلك فـي الأمـم الأوّلـين رسلاً. وترك ذكر الرسل اكتفـاء
-  بدلالة قوله: { وَلَقَدْ أرْسَلْنا مِنْ قَبْلِكَ } علـيه، وعَنَى بشيع الأوّلـين:
-  أمـم الأوّلـين، واحدتها شيعة، ويقال أيضاً لأولـياء الرجل: شيعته.وبنـحو الذي قلنا
-  فـي ذلك قال أهل التأويـل. ذكر من قال ذلك:حدثنـي الـمثنى، قال: ثنا عبد الله، قال:
-  ثنـي معاوية، عن علـيّ، عن ابن عبـاس: { وَلَقَدْ أرْسَلْنا مِنْ قَبْلِكَ فـي شِيَعِ
-  الأوَّلِـينَ } يقول: أمـم الأوّلـين.حدثنـي الـمثنى، قال: أخبرنا إسحاق، قال: ثنا
-  هشام، عن عمرو، عن سعيد، عن قتادة، فـي قوله: { وَلَقَدْ أرْسَلْنا مِنْ قَبْلِكَ فِـي
-  شِيَعِ الأوَّلِـينَ } قال: فـي الأمـم.وقوله: { وَما يَأْتِـيهمْ مِنْ رِسُولٍ إلاَّ
-  كانُوا بِهِ يَسْتَهْزِءُونَ } يقول: وما يأتـي شيع الأوّلـين من رسول من الله يرسله
-  إلـيهم بـالدعاء إلـى توحيده والإذعان بطاعته إلاّ كَانُوا بِهِ يَسْتَهْزِءُونَ يقول:
-  إلا كانوا يَسْخَرون بـالرسول الذي يرسله الله إلـيهم عُتوًّا منهم وتـمرّداً علـى
-  ربهم.\r\n\t\t\t\r\n\t\t\t</section>"
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(15, 10)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(15,10)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَلَقَدْ
+  أَرْسَلْنَا مِن قَبْلِكَ فِي شِيَعِ ٱلأَوَّلِينَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَمَا يَأْتِيهِم
+  مِّن رَّسُولٍ إِلاَّ كَانُواْ بِهِ يَسْتَهْزِئُونَ</a> <b>}</b></font>, <br/>, <br/>,
+  <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">يقول
+  تعالـى ذكره لنبـيه مـحمد صلى الله عليه وسلم: ولقد أرسلنا يا مـحمد من قبلك فـي الأمـم
+  الأوّلـين رسلاً. وترك ذكر الرسل اكتفـاء بدلالة قوله: { وَلَقَدْ أرْسَلْنا مِنْ قَبْلِكَ
+  } علـيه، وعَنَى بشيع الأوّلـين: أمـم الأوّلـين، واحدتها شيعة، ويقال أيضاً لأولـياء
+  الرجل: شيعته.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وبنـحو الذي قلنا فـي ذلك قال أهل
+  التأويـل. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي الـمثنى، قال: ثنا عبد الله،
+  قال: ثنـي معاوية، عن علـيّ، عن ابن عبـاس: { وَلَقَدْ أرْسَلْنا مِنْ قَبْلِكَ فـي
+  شِيَعِ الأوَّلِـينَ } يقول: أمـم الأوّلـين.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  الـمثنى، قال: أخبرنا إسحاق، قال: ثنا هشام، عن عمرو، عن سعيد، عن قتادة، فـي قوله:
+  { وَلَقَدْ أرْسَلْنا مِنْ قَبْلِكَ فِـي شِيَعِ الأوَّلِـينَ } قال: فـي الأمـم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقوله: { وَما يَأْتِـيهمْ مِنْ رِسُولٍ إلاَّ كانُوا بِهِ يَسْتَهْزِءُونَ
+  } يقول: وما يأتـي شيع الأوّلـين من رسول من الله يرسله إلـيهم بـالدعاء إلـى توحيده
+  والإذعان بطاعته إلاّ كَانُوا بِهِ يَسْتَهْزِءُونَ يقول: إلا كانوا يَسْخَرون بـالرسول
+  الذي يرسله الله إلـيهم عُتوًّا منهم وتـمرّداً علـى ربهم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

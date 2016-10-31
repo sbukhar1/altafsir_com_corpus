@@ -1,4 +1,4 @@
-location:
+position:
   sura: '006'
   aaya: '142'
   madhab: '01'
@@ -7,68 +7,156 @@ meta:
   title: تفسير جامع البيان في تفسير القرآن
   author: الطبري
   year: '310'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَمِنَ ٱلأَنْعَٰمِ
-  حَمُولَةً وَفَرْشاً كُلُواْ مِمَّا رَزَقَكُمُ ٱللَّهُ وَلاَ تَتَّبِعُواْ خُطُوَٰتِ
-  ٱلشَّيْطَٰنِ إِنَّهُ لَكُمْ عَدُوٌّ مُّبِينٌ }يقول تعالى ذكره: وأنشأ من الأنعام
-  حَمولة وفرشاً، مع ما أنشأ من الجنات المعروشات وغير المعروشات. والحمولة: ما حمل عليه
-  من الإبل وغيرها، والفرش: صغار الإبل التي لم تدرك أن يحمل عليها.واختلف أهل التأويل
-  في تأويل ذلك، فقال بعضهم: الحمولة: ما حمل عليه من كبار الإبل ومسانها والفرش: صغارها
-  التي لا يحمل عليها لصغرها. ذكر من قال ذلك:حدثنا ابن وكيع، قال: ثنا أبي، عن سفيان،
-  عن أبي إسحاق، عن أبي الأحوص، عن عبد الله، في قوله: { حَمُولَةً وفَرْشاً } قال: الحمولة:
-  الكبار من الإبل وفَرْشاً: الصغار من الإبل.وقال: ثنا أبي، عن أبي بكر الهذلي، عن عكرمة،
-  عن ابن عباس: الحمولة هي الكبار، والفرش: الصغار من الإبل.حدثنا ابن وكيع، قال: ثنا
-  عبيد الله، عن إسرائيل، عن أبي يحيى، عن مجاهد، قال: الحمولة: ما حمل من الإبل، والفرش:
-  ما لم يحمل.وبه عن إسرائيل، عن خصيف، عن مجاهد: الحمولة: ما حمل من الإبل، والفرش:
-  ما لم يحمل.حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، عن ابن أبي نجيح،
-  عن مجاهد، في قول الله: { وَفَرْشاً } قال: صغار الإبل.حدثنا محمد بن بشار، قال: ثنا
-  عبد الرحمن، قال: ثنا سفيان، عن أبي إسحاق، عن أبي الأحوص، عن عبد الله، في قوله: {
-  حَمُولَةً وَفَرْشاً } قال: الحمولة: الكبار، والفرش: الصغار.حدثني يونس، قال: أخبرنا
-  ابن وهب، قال: ثنا سفيان، عن أبي إسحاق، عن أبي الأحوص، عن ابن مسعود في قوله: { حَمُولَةً
-  وَفَرْشاً } الحمولة: ما حمل من الإبل، والفرش: هنّ الصغار.حدثنا محمد بن المثنى، قال:
-  ثنا محمد بن جعفر، قال: ثنا شعبة، عن أبي إسحاق، عن أبي الأحوص عن عبد الله، أنه قال
-  في هذه الآية: { حَمُولَةً وفَرْشاً } قال: الحمولة: ما حمل عليه من الإبل، والفرش:
-  الصغار. قال ابن المثنى، قال محمد، قال شعبة: إنما كان حدثني سفيان عن ابن إسحاق.حدثنا
-  ابن عبد الأعلى، قال: ثنا المعتمر بن سليمان، عن أبيه، قال: قال الحسن: الحمولة من
-  الإبل والبقر.وقال بعضهم: الحمولة من الإبل، وما لم يكن من الحمولة فهو الفرش.حدثنا
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(6, 142)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(6,142)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَمِنَ
+  ٱلأَنْعَٰمِ حَمُولَةً وَفَرْشاً كُلُواْ مِمَّا رَزَقَكُمُ ٱللَّهُ وَلاَ تَتَّبِعُواْ
+  خُطُوَٰتِ ٱلشَّيْطَٰنِ إِنَّهُ لَكُمْ عَدُوٌّ مُّبِينٌ</a> <b>}</b></font>, <br/>,
+  <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">يقول
+  تعالى ذكره: وأنشأ من الأنعام حَمولة وفرشاً، مع ما أنشأ من الجنات المعروشات وغير
+  المعروشات. والحمولة: ما حمل عليه من الإبل وغيرها، والفرش: صغار الإبل التي لم تدرك
+  أن يحمل عليها.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">واختلف أهل التأويل في تأويل ذلك،
+  فقال بعضهم: الحمولة: ما حمل عليه من كبار الإبل ومسانها والفرش: صغارها التي لا يحمل
+  عليها لصغرها. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن وكيع، قال: ثنا أبي، عن سفيان، عن أبي إسحاق، عن أبي الأحوص، عن عبد الله، في قوله:
+  { حَمُولَةً وفَرْشاً } قال: الحمولة: الكبار من الإبل وفَرْشاً: الصغار من الإبل.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال: ثنا أبي، عن أبي بكر الهذلي، عن عكرمة، عن ابن عباس: الحمولة
+  هي الكبار، والفرش: الصغار من الإبل.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن وكيع، قال: ثنا عبيد الله، عن إسرائيل، عن أبي يحيى، عن مجاهد، قال: الحمولة: ما
+  حمل من الإبل، والفرش: ما لم يحمل.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وبه
+  عن إسرائيل، عن خصيف، عن مجاهد: الحمولة: ما حمل من الإبل، والفرش: ما لم يحمل.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، عن ابن أبي
+  نجيح، عن مجاهد، في قول الله: { وَفَرْشاً } قال: صغار الإبل.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  محمد بن بشار، قال: ثنا عبد الرحمن، قال: ثنا سفيان، عن أبي إسحاق، عن أبي الأحوص،
+  عن عبد الله، في قوله: { حَمُولَةً وَفَرْشاً } قال: الحمولة: الكبار، والفرش: الصغار.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني يونس، قال: أخبرنا ابن وهب، قال: ثنا سفيان، عن أبي إسحاق، عن
+  أبي الأحوص، عن ابن مسعود في قوله: { حَمُولَةً وَفَرْشاً } الحمولة: ما حمل من الإبل،
+  والفرش: هنّ الصغار.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا محمد بن المثنى، قال: ثنا
+  محمد بن جعفر، قال: ثنا شعبة، عن أبي إسحاق، عن أبي الأحوص عن عبد الله، أنه قال في
+  هذه الآية: { حَمُولَةً وفَرْشاً } قال: الحمولة: ما حمل عليه من الإبل، والفرش: الصغار.
+  قال ابن المثنى، قال محمد، قال شعبة: إنما كان حدثني سفيان عن ابن إسحاق.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن عبد الأعلى، قال: ثنا المعتمر بن سليمان، عن أبيه، قال:
+  قال الحسن: الحمولة من الإبل والبقر.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  بعضهم: الحمولة من الإبل، وما لم يكن من الحمولة فهو الفرش.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
   ابن عبد الأعلى، قال: ثنا محمد بن ثور، عن معمر، عن قتادة، عن الحسن: { حَمُولَةً وفَرْشاً
-  } قال: الحمولة: ما حمل عليه، والفرش: حواشيها، يعني صغارها.حدثني محمد بن سعد، قال:
-  ثني أبي، قال: ثنا عمي، قال: ثني أبي، عن أبيه، عن ابن عباس، قوله: { وَمِنَ الأنْعامِ
-  حَمُولَةً وفَرْشاً } فالحمولة ما حمل من الإبل، والفرش: صغار الإبل، الفصيل وما دون
-  ذلك مما لا يحمل.ويقال: الحمولة: من البقر والإبل، والفرش: الغنم.\r\n\t\t\t\r\n\t\t\t1 2 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَمِنَ ٱلأَنْعَٰمِ حَمُولَةً وَفَرْشاً
-  كُلُواْ مِمَّا رَزَقَكُمُ ٱللَّهُ وَلاَ تَتَّبِعُواْ خُطُوَٰتِ ٱلشَّيْطَٰنِ إِنَّهُ
-  لَكُمْ عَدُوٌّ مُّبِينٌ }وقال آخرون: الحمولة: ما حمل عليه من الإبل والخيل والبغال
-  وغير ذلك، والفرش: الغنم. ذكر من قال ذلك:حدثني المثنى، قال: ثنا عبد الله بن صالح،
-  قال: ثني معاوية، عن عليّ بن أبي طلحة، عن ابن عباس، قوله: { وَمِنَ الأنْعامِ حَمُولَةً
-  وَفَرْشاً } فأما الحمولة: فالإبل والخيل والبغال والحمير، وكلّ شيء يحمل عليه وأما
-  الفرش: فالغنم.حدثنا ابن وكيع، قال: ثنا عبيد الله، عن أبي جعفر، عن الربيع بن أنس:
-  الحمولة من الإبل: والبقر، وفرشاً: المعز والضأن.حدثنا بشر بن معاذ، قال: ثنا يزيد،
-  قال: ثنا سعيد، عن قتادة، قوله: { وَمِنَ الأنْعامِ حَمُولَةً وفَرْشاً } قال: أما
-  الحمولة: فالإبل والبقر. قال: وأما الفرش: فالغنم.حدثنا محمد بن عبد الأعلى، قال: ثنا
-  محمد بن ثور، عن معمر، عن قتادة، كان غير الحسن يقول: الحمولة: الإبل والبقر، والفرش:
-  الغنم.حدثني محمد بن الحسين، قال: ثنا أحمد بن المفضل، قال: ثنا أسباط، عن السديّ:
-  { وَمِنَ الأنْعامِ حَمُولَةً وَفَرْشاً } أما الحمولة: فالإبل. وأما الفرش: فالفُصلان
-  والعجاجيل والغنم، وما حمل عليه فهو حمولة.حُدثت عن الحسين بن الفرج، قال: سمعت أبا
-  معاذ، قال: ثنا عبيد بن سليمان، قال: سمعت الضحاك يقول في قوله: { حَمُولَةً وَفَرْشاً
-  } الحمولة: الإبل، والفرش، الغنم.حدثنا ابن وكيع، قال: ثنا أبي، عن أبي بكر الهذلي،
-  عن الحسن: { وفَرْشاً } قال: الفرش: الغنم.حدثني يونس، قال: أخبرنا ابن وهب، قال: قال
-  ابن زيد، في قوله: { حَمُولَةً وفَرْشاً } قال: الحمولة: ما تركبون، والفرش: ما تأكلون
-  وتحلبون، شاة لا تحمل، تأكلون لحمها، وتتخذون من أصوافها لحافاً وفرشاً.والصواب من
-  القول في ذلك عندي أن يقال: إن الحمولة: هي ما حمل من الأنعام، لأن ذلك من صفتها إذا
-  حملت، لا أنه اسم لها كالإبل والخيل والبغال فإذا كانت إنما سميت حمولة لأنها تحمل،
+  } قال: الحمولة: ما حمل عليه، والفرش: حواشيها، يعني صغارها.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  محمد بن سعد، قال: ثني أبي، قال: ثنا عمي، قال: ثني أبي، عن أبيه، عن ابن عباس، قوله:
+  { وَمِنَ الأنْعامِ حَمُولَةً وفَرْشاً } فالحمولة ما حمل من الإبل، والفرش: صغار الإبل،
+  الفصيل وما دون ذلك مما لا يحمل.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">ويقال:
+  الحمولة: من البقر والإبل، والفرش: الغنم.</font></font>&#13;\t\t\t<label disabled=\"true\"
+  class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(6, 142)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(6,142)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَمِنَ ٱلأَنْعَٰمِ حَمُولَةً وَفَرْشاً كُلُواْ مِمَّا
+  رَزَقَكُمُ ٱللَّهُ وَلاَ تَتَّبِعُواْ خُطُوَٰتِ ٱلشَّيْطَٰنِ إِنَّهُ لَكُمْ عَدُوٌّ
+  مُّبِينٌ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال آخرون: الحمولة: ما حمل عليه
+  من الإبل والخيل والبغال وغير ذلك، والفرش: الغنم. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني المثنى، قال: ثنا عبد الله بن صالح، قال: ثني معاوية، عن عليّ
+  بن أبي طلحة، عن ابن عباس، قوله: { وَمِنَ الأنْعامِ حَمُولَةً وَفَرْشاً } فأما الحمولة:
+  فالإبل والخيل والبغال والحمير، وكلّ شيء يحمل عليه وأما الفرش: فالغنم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن وكيع، قال: ثنا عبيد الله، عن أبي جعفر، عن الربيع بن أنس:
+  الحمولة من الإبل: والبقر، وفرشاً: المعز والضأن.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  بشر بن معاذ، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: { وَمِنَ الأنْعامِ حَمُولَةً
+  وفَرْشاً } قال: أما الحمولة: فالإبل والبقر. قال: وأما الفرش: فالغنم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا محمد بن عبد الأعلى، قال: ثنا محمد بن ثور، عن معمر، عن قتادة،
+  كان غير الحسن يقول: الحمولة: الإبل والبقر، والفرش: الغنم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  محمد بن الحسين، قال: ثنا أحمد بن المفضل، قال: ثنا أسباط، عن السديّ: { وَمِنَ الأنْعامِ
+  حَمُولَةً وَفَرْشاً } أما الحمولة: فالإبل. وأما الفرش: فالفُصلان والعجاجيل والغنم،
+  وما حمل عليه فهو حمولة.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حُدثت عن الحسين بن الفرج، قال:
+  سمعت أبا معاذ، قال: ثنا عبيد بن سليمان، قال: سمعت الضحاك يقول في قوله: { حَمُولَةً
+  وَفَرْشاً } الحمولة: الإبل، والفرش، الغنم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن وكيع، قال: ثنا أبي، عن أبي بكر الهذلي، عن الحسن: { وفَرْشاً } قال: الفرش: الغنم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله: { حَمُولَةً
+  وفَرْشاً } قال: الحمولة: ما تركبون، والفرش: ما تأكلون وتحلبون، شاة لا تحمل، تأكلون
+  لحمها، وتتخذون من أصوافها لحافاً وفرشاً.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">والصواب
+  من القول في ذلك عندي أن يقال: إن الحمولة: هي ما حمل من الأنعام، لأن ذلك من صفتها
+  إذا حملت، لا أنه اسم لها كالإبل والخيل والبغال فإذا كانت إنما سميت حمولة لأنها تحمل،
   فالواجب أن يكون كلّ ما حمل على ظهره من الأنعام فحمولة، وهي جمع لا واحد لها من لفظها،
   كالرَّكوبة والجَزُورة. وكذلك الفرش إنما هو صفة لما لطف فقرب من الأرض جسمه، ويقال
   له الفرش. وأحسبها سميت بذلك تمثيلاً لها في استواء أسنانها ولطفها بالفرش من الأرض،
   وهي الأرض المستوية التي يتوطؤها الناس. فأما الحُمولة بضمّ الحاء: فإنها الأحمال،
-  وهي الحُمُول أيضاً بضم الحاء.القول في تأويل قوله تعالى: { كُلُوا مِمَّا رَزَقَكُمُ
-  اللّهُ وَلا تَتَّبِعُوا خُطُوَاتِ الشَّيْطانِ إنَّهُ لَكُمْ عَدُوٌّ مُبِينٌ }.يقول
+  وهي الحُمُول أيضاً بضم الحاء.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">القول
+  في تأويل قوله تعالى: { كُلُوا مِمَّا رَزَقَكُمُ اللّهُ وَلا تَتَّبِعُوا خُطُوَاتِ
+  الشَّيْطانِ إنَّهُ لَكُمْ عَدُوٌّ مُبِينٌ }.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">يقول
   جلّ ثناؤه: كلوا مما رزقكم الله أيها المؤمنون، فأحلّ لكم ثمرات حروثكم وغروسكم ولحوم
   أنعامكم، إذ حرّم بعض ذلك على أنفسهم المشركون بالله، فجعلوا لله مما ذرأ من الحرث
   والأنعام نصيباً، وللشيطان مثله، فقالوا: هذا لله بزعمهم، وهذا لشركائنا. { وَلا تَتَّبِعُوا
   خُطُوَاتِ الشَّيْطانِ } كما اتبعها باحرو البحيرة ومسيبو السوائب، فتحرموا على أنفسكم
-  من طيب رزق الله الذي رزقكم ما حرموه، فتطيعوا بذلك الشيطان وتعصوا به الرحمن. كما:حدثني
-  يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله: { وَلا تَتَّبِعُوا خُطُواتِ
-  الشَّيْطانِ }: لا تتبعوا طاعته هي ذنوب لكم، وهي طاعة للخبيث.إن الشيطان لكم عدوّ
-  يبغي هلاككم وصدّكم عن سبيل ربكم، { مُبِينٌ } قد أبان لكم عدوانه بمناصبته أباكم بالعداوة،
-  حتى أخرجه من الجنة بكيده وخدعه، وحسداً منه له وبغياً عليه.\r\n\t\t\t\r\n\t\t\t1 2 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  من طيب رزق الله الذي رزقكم ما حرموه، فتطيعوا بذلك الشيطان وتعصوا به الرحمن. كما:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله: { وَلا
+  تَتَّبِعُوا خُطُواتِ الشَّيْطانِ }: لا تتبعوا طاعته هي ذنوب لكم، وهي طاعة للخبيث.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">إن الشيطان لكم عدوّ يبغي هلاككم وصدّكم عن سبيل ربكم، { مُبِينٌ }
+  قد أبان لكم عدوانه بمناصبته أباكم بالعداوة، حتى أخرجه من الجنة بكيده وخدعه، وحسداً
+  منه له وبغياً عليه.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section>"
 

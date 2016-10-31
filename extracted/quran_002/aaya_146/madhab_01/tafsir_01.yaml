@@ -1,4 +1,4 @@
-location:
+position:
   sura: '002'
   aaya: '146'
   madhab: '01'
@@ -9,51 +9,123 @@ meta:
   year: '310'
 aaya: الَّذِينَ آتَيْنَاهُمُ الْكِتَابَ يَعْرِفُونَهُ كَمَا يَعْرِفُونَ أَبْنَاءَهُمْ
   ۖ وَإِنَّ فَرِيقًا مِنْهُمْ لَيَكْتُمُونَ الْحَقَّ وَهُمْ يَعْلَمُونَ
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ ٱلَّذِينَ آتَيْنَاهُمُ
-  ٱلْكِتَابَ يَعْرِفُونَهُ كَمَا يَعْرِفُونَ أَبْنَاءَهُمْ وَإِنَّ فَرِيقاً مِّنْهُمْ
-  لَيَكْتُمُونَ ٱلْحَقَّ وَهُمْ يَعْلَمُونَ }يعنـي جل ثناؤه بقوله: { الَّذِينَ آتَـيْنَاهُمُ
-  الكِتَابَ يَعْرِفُونَهُ } أحبـار الـيهود وعلـماء النصارى. يقول: يعرف هؤلاء الأحبـار
-  من الـيهود والعلـماء من النصارى أن البـيت الـحرام قبلتهم وقبلة إبراهيـم وقبلة الأنبـياء
-  قبلك، كما يعرفون أبناءهم. كما:حدثنا بشر بن معاذ، قال: ثنا يزيد بن زريع، عن سعيد،
-  عن قتادة قوله: { الَّذِينَ آتَـيْنَاهُمُ الكِتَابَ يَعْرِفُونَهُ كَمَا يَعْرِفُونَ
-  أبْناءَهُمْ } يقول: يعرفون أن البـيت الـحرام هو القبلة.حدثنا الـمثنى، قال: ثنا إسحاق،
-  قال: ثنا عبد الله بن أبـي جعفر، عن أبـيه، عن الربـيع فـي قول الله عز وجل: { الَّذِينَ
-  آتَـيْنَاهُمُ الكِتَابَ يَعْرِفُونَهُ كما يَعْرِفُونَ أبْناءَهُمْ } يعنـي القبلة.حدثت
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(2, 146)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(2,146)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">ٱلَّذِينَ
+  آتَيْنَاهُمُ ٱلْكِتَابَ يَعْرِفُونَهُ كَمَا يَعْرِفُونَ أَبْنَاءَهُمْ وَإِنَّ فَرِيقاً
+  مِّنْهُمْ لَيَكْتُمُونَ ٱلْحَقَّ وَهُمْ يَعْلَمُونَ</a> <b>}</b></font>, <br/>,
+  <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">يعنـي
+  جل ثناؤه بقوله: { الَّذِينَ آتَـيْنَاهُمُ الكِتَابَ يَعْرِفُونَهُ } أحبـار الـيهود
+  وعلـماء النصارى. يقول: يعرف هؤلاء الأحبـار من الـيهود والعلـماء من النصارى أن البـيت
+  الـحرام قبلتهم وقبلة إبراهيـم وقبلة الأنبـياء قبلك، كما يعرفون أبناءهم. كما:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا بشر بن معاذ، قال: ثنا يزيد بن زريع، عن سعيد، عن قتادة قوله:
+  { الَّذِينَ آتَـيْنَاهُمُ الكِتَابَ يَعْرِفُونَهُ كَمَا يَعْرِفُونَ أبْناءَهُمْ
+  } يقول: يعرفون أن البـيت الـحرام هو القبلة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  الـمثنى، قال: ثنا إسحاق، قال: ثنا عبد الله بن أبـي جعفر، عن أبـيه، عن الربـيع فـي
+  قول الله عز وجل: { الَّذِينَ آتَـيْنَاهُمُ الكِتَابَ يَعْرِفُونَهُ كما يَعْرِفُونَ
+  أبْناءَهُمْ } يعنـي القبلة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثت
   عن عمار بن الـحسن، قال: ثنا ابن أبـي جعفر، عن أبـيه، عن الربـيع قوله: { الَّذِينَ
   آتَـيْنَاهُمُ الكِتَابَ يَعْرِفُونَهُ كَمَا يَعْرِفُونَ أبْنَاءَهُمْ } عرفوا أن
-  قبلة البـيت الـحرام هي قبلتهم التـي أمروا بها، كما عرفوا أبناءهم.حدثنـي مـحمد بن
-  سعد، قال: حدثنـي أبـي، قال: حدثنـي عمي، قال: حدثنـي أبـي، عن أبـيه، عن ابن عبـاس
-  قوله: { الَّذِينَ آتَـيْنَاهُمُ الكِتَابَ يَعْرِفُونَهُ كَمَا يَعْرِفُونَ أبْنَاءَهُمْ
-  } يعنـي بذلك الكعبة البـيت الـحرام.حدثنـي موسى بن هارون، قال: ثنا عمرو بن حماد،
-  قال: ثنا أسبـاط، عن السدي: { الَّذِينَ آتَـيْنَاهُمُ الكِتَابَ يَعْرِفُونَهُ كَمَا
-  يَعْرِفُونَ أبْنَاءَهُمْ } يعرفون الكعبة من قبلة الأنبـياء، كما يعرفون أبناءهم.حدثنـي
+  قبلة البـيت الـحرام هي قبلتهم التـي أمروا بها، كما عرفوا أبناءهم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي مـحمد بن سعد، قال: حدثنـي أبـي، قال: حدثنـي عمي، قال: حدثنـي
+  أبـي، عن أبـيه، عن ابن عبـاس قوله: { الَّذِينَ آتَـيْنَاهُمُ الكِتَابَ يَعْرِفُونَهُ
+  كَمَا يَعْرِفُونَ أبْنَاءَهُمْ } يعنـي بذلك الكعبة البـيت الـحرام.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي موسى بن هارون، قال: ثنا عمرو بن حماد، قال: ثنا أسبـاط، عن
+  السدي: { الَّذِينَ آتَـيْنَاهُمُ الكِتَابَ يَعْرِفُونَهُ كَمَا يَعْرِفُونَ أبْنَاءَهُمْ
+  } يعرفون الكعبة من قبلة الأنبـياء، كما يعرفون أبناءهم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
   يونس قال: أخبرنا ابن وهب، قال: قال ابن زيد فـي قوله: { الَّذِينَ آتَـيْنَاهُمُ الكِتَابَ
   يَعْرِفُونَهُ كَمَا يَعْرِفُونَ أبْنَاءَهُمْ } قال: الـيهود يعرفون أنها هي القبلة
-  مكة.حدثنا القاسم، قال: ثنا الـحسين، قال: حدثنـي حجاج، قال: قال ابن جريج فـي قوله:
-  { الَّذِينَ آتَـيْنَاهُمُ الكِتَابَ يَعْرِفُونَهُ كَمَا يَعْرِفُونَ أبْنَاءَهُمْ
-  } قال: القبلة والبـيت.القول فـي تأويـل قوله تعالـى: { وَإنَّ فَريقا مِنْهُمْ لَـيَكْتُـمُونَ
+  مكة.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا القاسم، قال: ثنا الـحسين،
+  قال: حدثنـي حجاج، قال: قال ابن جريج فـي قوله: { الَّذِينَ آتَـيْنَاهُمُ الكِتَابَ
+  يَعْرِفُونَهُ كَمَا يَعْرِفُونَ أبْنَاءَهُمْ } قال: القبلة والبـيت.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">القول فـي تأويـل قوله تعالـى: { وَإنَّ فَريقا مِنْهُمْ لَـيَكْتُـمُونَ
   الـحَقَّ وَهُمْ يَعْلَـمُونَ } يقول جل ثناؤه: وإن طائفة من الذين أوتوا الكتاب وهم
-  الـيهود والنصارى. وكان مـجاهد يقول: هم أهل الكتاب.حدثنـي مـحمد بن عمرو يعنـي البـاهلـي،
-  قال: ثنا أبو عاصم، عن عيسى، عن ابن أبـي نـجيح، عن مـجاهد بذلك.حدثنا القاسم، قال:
-  ثنا الـحسين، قال: حدثنـي حجاج، عن ابن جريج، مثله.حدثنـي الـمثنى، قال: ثنا أبو حذيفة،
-  قال: ثنا شبل، عن ابن أبـي نـجيح، مثله.قال أبو جعفر: وقوله: { لَـيَكْتُـمُونَ الـحَقَّ
-  } وذلك الـحقّ هو القبلة التـي وجه الله عز وجلّ إلـيها نبـيه مـحمداً صلى الله عليه
-  وسلم، يقول: فولّ وجهك شطر الـمسجد الـحرام التـي كانت الأنبـياء من قبل مـحمد صلى
-  الله عليه وسلم يتوجهون إلـيها. فكتـمتها الـيهود والنصارى، فتوجه بعضهم شرقاً وبعضهم
-  نـحو بـيت الـمقدس، ورفضوا ما أمرهم الله به، وكتـموا مع ذلك أمر مـحمد صلى الله عليه
-  وسلم، وهم يجدونه مكتوبـاً عندهم فـي التوراة والإنـجيـل.\r\n\t\t\t\r\n\t\t\t1 2 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ ٱلَّذِينَ آتَيْنَاهُمُ ٱلْكِتَابَ
-  يَعْرِفُونَهُ كَمَا يَعْرِفُونَ أَبْنَاءَهُمْ وَإِنَّ فَرِيقاً مِّنْهُمْ لَيَكْتُمُونَ
-  ٱلْحَقَّ وَهُمْ يَعْلَمُونَ }فأطلع الله عز وجلّ مـحمداً صلى الله عليه وسلم وأمته
-  علـى خيانتهم الله تبـارك وتعالـى، وخيانتهم عبـاده، وكتـمانهم ذلك، وأخبر أنهم يفعلون
-  ما يفعلون من ذلك علـى علـم منهم بأن الـحقّ غيره، وأن الواجب علـيهم من الله جل ثناؤه
-  خلافه فقال: لـيكتـمون الـحقّ وهم يعلـمون أن لـيس لهم كتـمانه، فـيتعمدون معصية الله
-  تبـارك وتعالـى. كما:حدثنا بشر بن معاذ، قال: ثنا يزيد بن زريع، قال: ثنا سعيد عن قتادة
-  قوله: { وَإنَّ فَريقاً مِنْهُمْ لَـيَكْتُـمُونَ الـحَقَّ وَهُمْ يَعْلَـمُونَ } فكتـموا
-  مـحمداً صلى الله عليه وسلم.حدثنا الـمثنى، قال: ثنا أبو حذيفة، قال: ثنا شبل، عن ابن
-  أبـي نـجيح، عن مـجاهد: { لَـيَكْتُـمُونَ الـحَقَّ وَهُمْ يَعْلَـمُونَ } قال: يكتـمون
-  مـحمداً صلى الله عليه وسلم وهم يجدونه مكتوبـاً عندهم فـي التوراة والإنـجيـل.حدثنا
-  الـمثنى قال: ثنا إسحاق بن الـحجاج، قال: ثنا ابن أبـي جعفر، عن أبـيه، عن الربـيع:
-  { وَإنَّ فَرِيقاً مِنْهُمْ لَـيَكْتُـمُونَ الـحَقَّ وَهُمْ يَعْلَـمُونَ } يعنـي
-  القبلة.\r\n\t\t\t\r\n\t\t\t1 2 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  الـيهود والنصارى. وكان مـجاهد يقول: هم أهل الكتاب.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  مـحمد بن عمرو يعنـي البـاهلـي، قال: ثنا أبو عاصم، عن عيسى، عن ابن أبـي نـجيح، عن
+  مـجاهد بذلك.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا القاسم، قال: ثنا الـحسين،
+  قال: حدثنـي حجاج، عن ابن جريج، مثله.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  الـمثنى، قال: ثنا أبو حذيفة، قال: ثنا شبل، عن ابن أبـي نـجيح، مثله.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قال أبو جعفر: وقوله: { لَـيَكْتُـمُونَ الـحَقَّ } وذلك الـحقّ هو
+  القبلة التـي وجه الله عز وجلّ إلـيها نبـيه مـحمداً صلى الله عليه وسلم، يقول: فولّ
+  وجهك شطر الـمسجد الـحرام التـي كانت الأنبـياء من قبل مـحمد صلى الله عليه وسلم يتوجهون
+  إلـيها. فكتـمتها الـيهود والنصارى، فتوجه بعضهم شرقاً وبعضهم نـحو بـيت الـمقدس، ورفضوا
+  ما أمرهم الله به، وكتـموا مع ذلك أمر مـحمد صلى الله عليه وسلم، وهم يجدونه مكتوبـاً
+  عندهم فـي التوراة والإنـجيـل.</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\"
+  border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE:
+  none; BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2, 146)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,146)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">ٱلَّذِينَ آتَيْنَاهُمُ ٱلْكِتَابَ يَعْرِفُونَهُ
+  كَمَا يَعْرِفُونَ أَبْنَاءَهُمْ وَإِنَّ فَرِيقاً مِّنْهُمْ لَيَكْتُمُونَ ٱلْحَقَّ
+  وَهُمْ يَعْلَمُونَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">فأطلع الله عز وجلّ مـحمداً صلى
+  الله عليه وسلم وأمته علـى خيانتهم الله تبـارك وتعالـى، وخيانتهم عبـاده، وكتـمانهم
+  ذلك، وأخبر أنهم يفعلون ما يفعلون من ذلك علـى علـم منهم بأن الـحقّ غيره، وأن الواجب
+  علـيهم من الله جل ثناؤه خلافه فقال: لـيكتـمون الـحقّ وهم يعلـمون أن لـيس لهم كتـمانه،
+  فـيتعمدون معصية الله تبـارك وتعالـى. كما:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  بشر بن معاذ، قال: ثنا يزيد بن زريع، قال: ثنا سعيد عن قتادة قوله: { وَإنَّ فَريقاً
+  مِنْهُمْ لَـيَكْتُـمُونَ الـحَقَّ وَهُمْ يَعْلَـمُونَ } فكتـموا مـحمداً صلى الله
+  عليه وسلم.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا الـمثنى، قال: ثنا أبو حذيفة،
+  قال: ثنا شبل، عن ابن أبـي نـجيح، عن مـجاهد: { لَـيَكْتُـمُونَ الـحَقَّ وَهُمْ يَعْلَـمُونَ
+  } قال: يكتـمون مـحمداً صلى الله عليه وسلم وهم يجدونه مكتوبـاً عندهم فـي التوراة
+  والإنـجيـل.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا الـمثنى قال: ثنا إسحاق بن
+  الـحجاج، قال: ثنا ابن أبـي جعفر، عن أبـيه، عن الربـيع: { وَإنَّ فَرِيقاً مِنْهُمْ
+  لَـيَكْتُـمُونَ الـحَقَّ وَهُمْ يَعْلَـمُونَ } يعنـي القبلة.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section>"
 

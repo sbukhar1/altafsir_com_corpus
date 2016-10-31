@@ -1,4 +1,4 @@
-location:
+position:
   sura: '010'
   aaya: '072'
   madhab: '01'
@@ -9,16 +9,34 @@ meta:
   year: '310'
 aaya: فَإِنْ تَوَلَّيْتُمْ فَمَا سَأَلْتُكُمْ مِنْ أَجْرٍ ۖ إِنْ أَجْرِيَ إِلَّا عَلَى
   اللَّهِ ۖ وَأُمِرْتُ أَنْ أَكُونَ مِنَ الْمُسْلِمِينَ
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ فَإِن تَوَلَّيْتُمْ
-  فَمَا سَأَلْتُكُمْ مِّنْ أَجْرٍ إِنْ أَجْرِيَ إِلاَّ عَلَى ٱللَّهِ وَأُمِرْتُ أَنْ
-  أَكُونَ مِنَ ٱلْمُسْلِمِينَ }يقول تعالى ذكره مخبراً عن قيل نبيه نوح عليه السلام
-  لقومه: فإن توليتم أيها القوم عني بعد دعائي إياكم وتبليغ رسالة ربي إليكم مدبرين،
-  فأعرضتم عما دعوتكم إليه من الحقّ والإقرار بتوحيد الله وإخلاص العبادة له وترك إشراك
-  الآلهة في عبادته، فتضييع منكم وتفريط في واجب حقّ الله عليكم، لا بسبب من قِبَلي فإني
-  لم أسألكم على ما دعوتكم إليه أجراً ولا عوضاً أعتاضه منكم بإجابتكم إياي إلى ما دعوتكم
-  إليه من الحقّ والهُدى، ولا طلبت منكم عليه ثواباً ولا جزاء. { إنْ أجْرِيَ إلاَّ على
-  اللَّهِ } يقول جلّ ثناؤه: إن جزائي وأجر عملي وثوابه إلا على ربي لا عليكم أيها القوم
-  ولا على غيركم. { وأُمِرْتُ أن أكُونَ مِنَ المُسْلِمِينَ } وأمرني ربي أن أكون من
-  المذعنين له بالطاعة المنقادين لأمره ونهيه المتذللين له، ومن أجل ذلك أدعوكم إليه
-  وبأمره آمركم بترك عبادة الأوثان.\r\n\t\t\t\r\n\t\t\t</section>"
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(10, 72)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(10,72)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">فَإِن
+  تَوَلَّيْتُمْ فَمَا سَأَلْتُكُمْ مِّنْ أَجْرٍ إِنْ أَجْرِيَ إِلاَّ عَلَى ٱللَّهِ
+  وَأُمِرْتُ أَنْ أَكُونَ مِنَ ٱلْمُسْلِمِينَ</a> <b>}</b></font>, <br/>, <br/>, <div
+  align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">يقول
+  تعالى ذكره مخبراً عن قيل نبيه نوح عليه السلام لقومه: فإن توليتم أيها القوم عني بعد
+  دعائي إياكم وتبليغ رسالة ربي إليكم مدبرين، فأعرضتم عما دعوتكم إليه من الحقّ والإقرار
+  بتوحيد الله وإخلاص العبادة له وترك إشراك الآلهة في عبادته، فتضييع منكم وتفريط في
+  واجب حقّ الله عليكم، لا بسبب من قِبَلي فإني لم أسألكم على ما دعوتكم إليه أجراً ولا
+  عوضاً أعتاضه منكم بإجابتكم إياي إلى ما دعوتكم إليه من الحقّ والهُدى، ولا طلبت منكم
+  عليه ثواباً ولا جزاء. { إنْ أجْرِيَ إلاَّ على اللَّهِ } يقول جلّ ثناؤه: إن جزائي
+  وأجر عملي وثوابه إلا على ربي لا عليكم أيها القوم ولا على غيركم. { وأُمِرْتُ أن أكُونَ
+  مِنَ المُسْلِمِينَ } وأمرني ربي أن أكون من المذعنين له بالطاعة المنقادين لأمره ونهيه
+  المتذللين له، ومن أجل ذلك أدعوكم إليه وبأمره آمركم بترك عبادة الأوثان.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

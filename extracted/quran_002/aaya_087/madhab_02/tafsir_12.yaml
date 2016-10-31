@@ -1,4 +1,4 @@
-location:
+position:
   sura: '002'
   aaya: 087
   madhab: '02'
@@ -7,26 +7,67 @@ meta:
   title: تفسير النكت والعيون
   author: الماوردي
   year: '450'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَلَقَدْ آتَيْنَا
-  مُوسَىٰ ٱلْكِتَابَ وَقَفَّيْنَا مِن بَعْدِهِ بِٱلرُّسُلِ وَآتَيْنَا عِيسَى ٱبْنَ
-  مَرْيَمَ ٱلْبَيِّنَاتِ وَأَيَّدْنَاهُ بِرُوحِ ٱلْقُدُسِ أَفَكُلَّمَا جَآءَكُمْ رَسُولٌ
-  بِمَا لاَ تَهْوَىٰ أَنْفُسُكُمْ ٱسْتَكْبَرْتُمْ فَفَرِيقاً كَذَّبْتُمْ وَفَرِيقاً
-  تَقْتُلُونَ }قوله تعالى: { وَلَقَدْ ءَاتَيْنَا مُوسَى الكِتَابَ } يعني التوراة.{
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(2, 87)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(2,87)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَلَقَدْ
+  آتَيْنَا مُوسَىٰ ٱلْكِتَابَ وَقَفَّيْنَا مِن بَعْدِهِ بِٱلرُّسُلِ وَآتَيْنَا عِيسَى
+  ٱبْنَ مَرْيَمَ ٱلْبَيِّنَاتِ وَأَيَّدْنَاهُ بِرُوحِ ٱلْقُدُسِ أَفَكُلَّمَا جَآءَكُمْ
+  رَسُولٌ بِمَا لاَ تَهْوَىٰ أَنْفُسُكُمْ ٱسْتَكْبَرْتُمْ فَفَرِيقاً كَذَّبْتُمْ وَفَرِيقاً
+  تَقْتُلُونَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">قوله تعالى: { وَلَقَدْ ءَاتَيْنَا
+  مُوسَى الكِتَابَ } يعني التوراة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">{
   وَقَفَّيْنَا مِنْ بَعْدِهِ بِالرُّسُلِ } والتَّقْفِيَةُ: الإتْباع، ومعناه: وأَتْبَعْنَا،
-  يقال اسْتَقْفَيْتُهُ إِذَا جئت من خلفه، وسميت قافية الشعر قافية لأنها خلفه.{ وَءَاتينا
-  عِيسَى ابْنَ مَرْيَمَ الْبَيِّنَاتِ } وفيها ثلاثة أقاويل:أحدها: أن البينات الحجج.والثاني:
-  أنها الإنجيل.والثالث: وهو قول ابن عباس، أن البينات التي أوتيها عيسى إحياء الموتى،
-  وخلقه من الطين كهيئة الطير، فيكون طيراً بإذن الله، وإبراء الأسْقَام.{ وَأَيَّدْنَاهُ
-  بِرُوحِ القُدْسِ } فيه ثلاثة تأويلات:أحدها: أن روح القدس الاسم الذي يحيي به عيسى
-  الموتى، وهذا قول ابن عباس.والثاني: أنه الإنجيل، سماه روحاً، كما سمى الله القرآن
-  روحاً في قوله تعالى: { وَكَذلِكَ أَوحَينَا إِلَيكَ رُوحاً مِنْ أَمْرِنَا }.والثالث:
-  وهو الأظهر، أنه جبريل عليه السلام، وهذا قول الحسن وقتادة، والربيع، والسدي، والضحاك.واختلفوا
-  في تسمية جبريل بروح القدس، على ثلاثة أقاويل:أحدها: أنه سُمِّيَ رُوحاً، لأَنَّه بمنزلة
-  الأرواح للأبدان، يحيي بما يأتي به من البينات من الله عز وجل.والثاني: أنه سمي روحاً،
-  لأن الغالب على جسمه الروحانية، لرقته، وكذلك سائر الملائكة، وإنما يختص به جبريل تشريفاً.والثالث:
-  أنه سمي روحاً، لأنه كان بتكوين الله تعالى له روحاً من عنده من غير ولادة.والقُدُس
-  فيه ثلاثة أقاويل:أحدها: هو الله تعالى، ولذلك سُمِّي عيسى عليه السلام روح القدس،
-  لأن الله تعالى كوَّنه من غير أب، وهذا قول الحسن والربيع وابن زيد. قال ابن زيد: القدس
-  والقدوس واحد.والثاني: هو الظهر، كأنه دل به على التطهر من الذنوب.والثالث: أن القدس
-  البركة، وهو قول السدي.\r\n\t\t\t\r\n\t\t\t</section>"
+  يقال اسْتَقْفَيْتُهُ إِذَا جئت من خلفه، وسميت قافية الشعر قافية لأنها خلفه.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">{ وَءَاتينا عِيسَى ابْنَ مَرْيَمَ الْبَيِّنَاتِ } وفيها ثلاثة أقاويل:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">أحدها: أن البينات الحجج.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">والثاني:
+  أنها الإنجيل.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">والثالث: وهو قول ابن عباس، أن البينات
+  التي أوتيها عيسى إحياء الموتى، وخلقه من الطين كهيئة الطير، فيكون طيراً بإذن الله،
+  وإبراء الأسْقَام.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">{ وَأَيَّدْنَاهُ بِرُوحِ القُدْسِ
+  } فيه ثلاثة تأويلات:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">أحدها: أن روح القدس الاسم الذي
+  يحيي به عيسى الموتى، وهذا قول ابن عباس.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">والثاني:
+  أنه الإنجيل، سماه روحاً، كما سمى الله القرآن روحاً في قوله تعالى: { وَكَذلِكَ أَوحَينَا
+  إِلَيكَ رُوحاً مِنْ أَمْرِنَا }.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">والثالث:
+  وهو الأظهر، أنه جبريل عليه السلام، وهذا قول الحسن وقتادة، والربيع، والسدي، والضحاك.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">واختلفوا في تسمية جبريل بروح القدس، على ثلاثة أقاويل:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">أحدها: أنه سُمِّيَ رُوحاً، لأَنَّه بمنزلة الأرواح للأبدان، يحيي
+  بما يأتي به من البينات من الله عز وجل.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">والثاني:
+  أنه سمي روحاً، لأن الغالب على جسمه الروحانية، لرقته، وكذلك سائر الملائكة، وإنما
+  يختص به جبريل تشريفاً.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">والثالث: أنه سمي روحاً، لأنه كان
+  بتكوين الله تعالى له روحاً من عنده من غير ولادة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">والقُدُس
+  فيه ثلاثة أقاويل:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">أحدها: هو الله تعالى، ولذلك سُمِّي
+  عيسى عليه السلام روح القدس، لأن الله تعالى كوَّنه من غير أب، وهذا قول الحسن والربيع
+  وابن زيد. قال ابن زيد: القدس والقدوس واحد.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">والثاني:
+  هو الظهر، كأنه دل به على التطهر من الذنوب.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">والثالث:
+  أن القدس البركة، وهو قول السدي.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

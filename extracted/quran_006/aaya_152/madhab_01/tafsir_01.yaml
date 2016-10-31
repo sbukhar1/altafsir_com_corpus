@@ -1,4 +1,4 @@
-location:
+position:
   sura: '006'
   aaya: '152'
   madhab: '01'
@@ -7,98 +7,226 @@ meta:
   title: تفسير جامع البيان في تفسير القرآن
   author: الطبري
   year: '310'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَلاَ تَقْرَبُواْ
-  مَالَ ٱلْيَتِيمِ إِلاَّ بِٱلَّتِي هِيَ أَحْسَنُ حَتَّىٰ يَبْلُغَ أَشُدَّهُ وَأَوْفُواْ
-  ٱلْكَيْلَ وَٱلْمِيزَانَ بِٱلْقِسْطِ لاَ نُكَلِّفُ نَفْساً إِلاَّ وُسْعَهَا وَإِذَا
-  قُلْتُمْ فَٱعْدِلُواْ وَلَوْ كَانَ ذَا قُرْبَىٰ وَبِعَهْدِ ٱللَّهِ أَوْفُواْ ذٰلِكُمْ
-  وَصَّـٰكُمْ بِهِ لَعَلَّكُمْ تَذَكَّرُونَ }يعني جلّ ثناؤه بقوله: { ولاَ تَقْرَبُوا
-  مالَ اليَتِيم إلاَّ بالتي هي أحْسَن } ولا تقربوا ماله إلا بما فيه صلاحه وتثميره.
-  كما:حدثني المثنى، قال: ثنا الحماني، قال: ثنا شريك، عن ليث، عن مجاهد: { وَلا تَقْرَبُوا
-  مالَ اليَتيمِ إلاَّ بالتي هِيَ أحْسَنُ } قال: التجارة فيه.حدثني محمد بن الحسين،
-  قال: ثنا أحمد بن المفضل، قال: ثنا أسباط، عن السديّ: { وَلا تَقْرَبُوا مالَ اليَتِيمِ
-  إلاَّ بالتي هِيَ أحْسَنُ } فليثمِّر ماله.حدثني الحرث، قال: ثنا عبد العزيز، قال:
-  ثنا فضيل بن مرزوق العنزي، عن سليط بن بلال، عن الضحاك بن مزاحم، في قوله: { وَلا تَقْرَبُوا
-  مالَ اليَتِيم إلاَّ بالتي هِيَ أحْسَنُ } قال: يبتغي له فيه، ولا يأخذ من ربحه شيئاً.حدثني
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(6, 152)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(6,152)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَلاَ
+  تَقْرَبُواْ مَالَ ٱلْيَتِيمِ إِلاَّ بِٱلَّتِي هِيَ أَحْسَنُ حَتَّىٰ يَبْلُغَ أَشُدَّهُ
+  وَأَوْفُواْ ٱلْكَيْلَ وَٱلْمِيزَانَ بِٱلْقِسْطِ لاَ نُكَلِّفُ نَفْساً إِلاَّ وُسْعَهَا
+  وَإِذَا قُلْتُمْ فَٱعْدِلُواْ وَلَوْ كَانَ ذَا قُرْبَىٰ وَبِعَهْدِ ٱللَّهِ أَوْفُواْ
+  ذٰلِكُمْ وَصَّـٰكُمْ بِهِ لَعَلَّكُمْ تَذَكَّرُونَ</a> <b>}</b></font>, <br/>, <br/>,
+  <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">يعني
+  جلّ ثناؤه بقوله: { ولاَ تَقْرَبُوا مالَ اليَتِيم إلاَّ بالتي هي أحْسَن } ولا تقربوا
+  ماله إلا بما فيه صلاحه وتثميره. كما:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  المثنى، قال: ثنا الحماني، قال: ثنا شريك، عن ليث، عن مجاهد: { وَلا تَقْرَبُوا مالَ
+  اليَتيمِ إلاَّ بالتي هِيَ أحْسَنُ } قال: التجارة فيه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  محمد بن الحسين، قال: ثنا أحمد بن المفضل، قال: ثنا أسباط، عن السديّ: { وَلا تَقْرَبُوا
+  مالَ اليَتِيمِ إلاَّ بالتي هِيَ أحْسَنُ } فليثمِّر ماله.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  الحرث، قال: ثنا عبد العزيز، قال: ثنا فضيل بن مرزوق العنزي، عن سليط بن بلال، عن الضحاك
+  بن مزاحم، في قوله: { وَلا تَقْرَبُوا مالَ اليَتِيم إلاَّ بالتي هِيَ أحْسَنُ } قال:
+  يبتغي له فيه، ولا يأخذ من ربحه شيئاً.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
   يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله: { وَلا تَقْرَبُوا مالَ اليَتِيمِ
   إلاَّ بالتي هيَ أحْسَنُ } قال: التي هي أحسن: أن يأكل بالمعروف إن افتقر، وإن استغنى
   فلا يأكل قال الله: { وَمَنْ كانَ غَنِيًّا فَلْيَسْتَعْفِفْ وَمَنْ كانَ فَقِيراً
   فَليْأْكُلْ بالمَعْرُوف }. قال: وسئل عن الكسوة فقال: لم يذكر الله الكسوة إنما ذكر
-  الأكل.وأما قوله: { حتى يَبْلُغَ أشُدَّهُ } فإن الأشدّ جمع شدّ، كما الأضرّ جمع ضرّ،
-  وكما الأشرّ جمع شرّ. والشدّ: القوّة، وهو استحكام قوّة شبابه وسنه، كما شدّ النهار
-  ارتفاعه وامتداده، يقال: أتيته شدّ النهار ومدّ النهار، وذلك حين امتداده وارتفاعه
-  وكان المفضل فيما بلغني ينشد بيت عنترة:عَهْدِي بِه شَدَّ النَّهار كأنَّمَا   خُضِبَ
-  اللَّبانُ ورأسُهُ بالعِظْلِمومنه قول الآخر:يُطِيفُ بِهِ شَدَّ النَّهار ظَعِينَةٌ   طَويلَةُ
-  أنْقاء اليَدَيْن سَحُوقُوكان بعص البصريين يزعم أن الأشدّ اسم مثل الآنك. فأما أهل
-  التأويل فإنهم مختلفون في الحين الذي إذا بلغه الإنسان قيل بلغ أشدّه، فقال بعضهم:
-  يقال ذلك له إذا بلغ الحلم. ذكر من قال ذلك:حدثني أحمد بن عبد الرحمن، قال: ثنا عمي،
-  قال: أخبرني يحيى بن أيوب، عن عمرو بن الحرث، عن ربيعة، في قوله: { حتى يَبْلُغَ أشُدَّهُ
-  } قال: الحلم.حدثني أحمد بن عبد الرحمن، قال: ثنا عمي، قال: ثني عبد الرحمن بن زيد
-  بن أسلم، عن أبيه، مثله. قال ابن وهب: وقال لي مالك مثله.حُدثت عن الحماني، قال: ثنا
-  هشيم، عن مجاهد، عن عامر: { حتى يَبْلُغَ أشُدَّهُ } قال: الأشدّ: الحلم، حيث تكتب
-  له الحسنات وتكتب عليه السيئات.وقال آخرون: إنما يقال ذلك له إذا بلغ ثلاثين سنة. ذكر
-  من قال ذلك:حدثني محمد بن الحسين، قال: ثنا أحمد بن المفضل، قال: ثنا أسباط، عن السديّ:
-  { حتى يَبْلُغَ أشُدَّهُ } قال: أما أشدّه: فثلاثون سنة، ثم جاء بعدها: حتى إذَا بَلَغُوا
-  النِّكاحَ.\r\n\t\t\t\r\n\t\t\t1 2 3 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَلاَ تَقْرَبُواْ مَالَ ٱلْيَتِيمِ
-  إِلاَّ بِٱلَّتِي هِيَ أَحْسَنُ حَتَّىٰ يَبْلُغَ أَشُدَّهُ وَأَوْفُواْ ٱلْكَيْلَ
-  وَٱلْمِيزَانَ بِٱلْقِسْطِ لاَ نُكَلِّفُ نَفْساً إِلاَّ وُسْعَهَا وَإِذَا قُلْتُمْ
-  فَٱعْدِلُواْ وَلَوْ كَانَ ذَا قُرْبَىٰ وَبِعَهْدِ ٱللَّهِ أَوْفُواْ ذٰلِكُمْ وَصَّـٰكُمْ
-  بِهِ لَعَلَّكُمْ تَذَكَّرُونَ }وفي الكلام محذوف ترك ذكره اكتفاء بدلالة ما ظهر عما
-  حذف. وذلك أن معنى الكلام: ولا تقربوا مال اليتيم إلا بالتي هي أحسن، حتى يبلغ أشدّه،
-  فإذا بلغ أشده فآنستم منه رشداً فادفعوا إليه ماله. لأنه جلّ ثناؤه لم ينه أن يُقرَب
-  مال اليتيم في حال يتمه إلا بالتي هي أحسن حتى يبلغ أشدّه ويحلّ لوليه بعد بلوغه أشدّه
-  أن يقربه بالتي هي أسوأ، ولكنه نهاهم أن يقربوا حياطة منه له وحفظاً عليه ليسلموه إليه
-  إذا بلغ أشدّه.القول في تأويل قوله تعالى: { وأوْفُوا الكَيْلَ والمِيزَانَ بالقِسْطِ
-  لا نُكَلِّفُ نَفْساً إلاَّ وُسعَها }.يقول تعالى ذكره: قل تعالوا أتل ما حرّم ربكم
-  عليكم أن لا تشركوا به شيئاً، وأن أوفوا الكيل والميزان، يقول: لا تبخسوا الناس الكيل
-  إذا كلتوهم والوزن إذا وزنتموهم، ولكن أوفوهم حقوقهم وإيفاؤهم ذلك: إعطاؤهم حقوقهم
-  تامَّة بالقسط، يعني: بالعدل. كما:حدثني المثنى، قال: ثنا أبو حذيفة، قال: ثنا شبل،
-  عن ابن أبي نجيح، عن مجاهد: { بالقِسْطِ } بالعدل.وقد بيَّنا معنى القسط بشواهده فيما
-  مضى وكرهنا إعادته.وأما قوله: { لا نُكَلِّفُ نَفْساً إلا وُسْعَها } فإنه يقول: لا
-  نكلف نفساً من إيفاء الكيل والوزن إلا ما يسعها، فيحلّ لها، ولا تحرَج فيه. وذلك أن
-  الله جلّ ثناؤه علم من عباده أن كثيراً منهم تضيق نفسه عن أن تطيب لغيره بما لا يجب
-  عليها له، فأمر المعطي بإيفاء ربّ الحقّ حقه الذي هو له ولم يكلفه الزيادة لما في الزيادة
-  عليه من ضيق نفسه بها، وأمر الذي له الحقّ بأخد حقه ولم يكلفه الرضا بأقلّ منه، لما
-  في النقصان عنه من ضيق نفسه، فلم يكلف نفساً منهما إلا ما لا حرج فيه ولا ضيق، فلذلك
-  قال: { لا نُكَلِّفُ نَفْساً إلاَّ وُسْعَها }. وقد استقصينا بيان ذلك بشواهده في موضع
-  غير هذا الموضع بما أغنى عن إعادته.القول في تأويل قوله تعالى: { وَإذَا قُلْتُمْ فاعْدِلُوا
-  وَلَوْ كانَ ذَا قُرْبَى وَبِعَهْدِ اللّهِ أوْفُوا ذَلِكُمْ وَصَّاكُمْ بِهِ لَعَلَّكُمْ
-  تَذَكَّرُونَ }.يعني تعالى ذكره بقوله: { وَإذَا قُلْتُمْ فاعْدِلُوا }: وإذا حكمتم
-  بين الناس فتكلمتم، فقولوا الحقّ بينهم، واعدلوا وأنصفوا ولا تجوروا ولو كان الذي يتوجه
-  الحقّ عليه والحكم ذا قرابة لكم، ولا يحملنكم قرابة قريب أو صداقة صديق حكمتم بينه
-  وبين غيره، أن تقولوا غير الحقّ فيما احتكم إليكم فيه. { وَبِعَهْدِ اللّهِ أوْفُوا
-  } يقول: وبوصية الله التي أوصاكم بها فأوفوا وإيفاء ذلك أن يطيعوه فيما أمرهم به ونهاهم،
-  وأن يعملوا بكتابه وسنة رسوله صلى الله عليه وسلم، وذلك هو الوفاء بعهد الله.وأما قوله:
-  { ذَلِكُمْ وَصَّاكُمْ بِهِ } يقول تعالى ذكره لنبيه محمد صلى الله عليه وسلم: قل للعادلين
-  بالله الأوثان والأصنام من قومك: هذه الأمور التي ذكرت لكم في هاتين الآيتين، هي الأشياء
-  التي عهد إلينا ربنا ووصاكم بها ربكم وأمركم بالعمل بها، لا بالبحائر والسوائب والوصائل
-  والحام وقتل الأولاد ووأد البنات واتباع خطوات الشيطان.\r\n\t\t\t\r\n\t\t\t1 2 3 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَلاَ تَقْرَبُواْ مَالَ ٱلْيَتِيمِ
-  إِلاَّ بِٱلَّتِي هِيَ أَحْسَنُ حَتَّىٰ يَبْلُغَ أَشُدَّهُ وَأَوْفُواْ ٱلْكَيْلَ
-  وَٱلْمِيزَانَ بِٱلْقِسْطِ لاَ نُكَلِّفُ نَفْساً إِلاَّ وُسْعَهَا وَإِذَا قُلْتُمْ
-  فَٱعْدِلُواْ وَلَوْ كَانَ ذَا قُرْبَىٰ وَبِعَهْدِ ٱللَّهِ أَوْفُواْ ذٰلِكُمْ وَصَّـٰكُمْ
-  بِهِ لَعَلَّكُمْ تَذَكَّرُونَ }{ لَعَلَّكُمْ تَذَكَّرُونَ } يقول: أمركم بهذه الأمور
-  التي أمركم بها في هاتين الآيتين ووصاكم بها وعهد إليكم فيها، لتتذكروا عواقب أمركم
-  بهذه الأمور التي أمركم بها في هاتين الآيتين، ووصاكم بها وعهد إليكم فيها، لتتذكروا
-  عواقب أمركم وخطأ ما أنتم عليه مقيمون، فتنزجروا عنها وترتدعوا وتنيبوا إلى طاعة ربكم.
-  وكان ابن عباس يقول: هذه الآيات هنّ الآيات المحكمات.حدثنا ابن وكيع، قال: ثنا أبي،
-  عن عليّ بن صالح، عن أبي إسحاق، عن عبد الله بن قيس، عن ابن عباس، قال: هنّ الآيات
-  المحكمات، قوله:{ قُلْ تَعالُوْا أتْلُ ما حَرَّمَ رَبُّكُمْ عَلَيْكُمْ أنْ لا تُشْرِكُوا
-  بِهِ شَيئْاً }حدثنا محمد بن المثنى ومحمد بن بشار، قالا: ثنا وهب بن جرير، قال: ثنا
-  أبي، قال: سمعت يحيى بن أيوب، يحدّث عن يزيد بن أبي حبيب، عن مرثد بن عبد الله، عن
-  عبيد الله بن عديّ بن الخيار، قال: سمع كعب الأحبار رجلاً يقرأ:{ قُلْ تَعالَوْا أتْلُ
-  ما حَرَّمَ رَبُّكُمْ عَلَيْكُمْ }فقال: والذي نفس كعب بيده، إن هذا لأوّل شيء في التوراة
-  «بِسْمِ اللّهِ الرَّحْمَنِ الرَّحِيمِ قُلْ تَعالَوْا أتْلُ ما حَرَّمَ رَبُّكُمْ
-  عَلَيْكُمْ».حدثنا ابن وكيع، قال: ثنا أبي، عن أبيه، عن سعيد بن مسروق، عن رجل، عن
-  الربيع بن خيثم أنه قال لرجل: هل لك في صحيفة عليها خاتم محمد؟ ثم قرأ هؤلاء الآيات:{ قُلْ
-  تَعَالُوا أتْلُ ما حَرَّمَ رَبُّكُمْ عَلَيْكُمْ أنْ لا تُشْرِكُوا بِهِ شَيْئاً }حدثنا
+  الأكل.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وأما قوله: { حتى يَبْلُغَ أشُدَّهُ
+  } فإن الأشدّ جمع شدّ، كما الأضرّ جمع ضرّ، وكما الأشرّ جمع شرّ. والشدّ: القوّة، وهو
+  استحكام قوّة شبابه وسنه، كما شدّ النهار ارتفاعه وامتداده، يقال: أتيته شدّ النهار
+  ومدّ النهار، وذلك حين امتداده وارتفاعه وكان المفضل فيما بلغني ينشد بيت عنترة:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><table class=\"TextArabic\"
+  dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">عَهْدِي بِه شَدَّ النَّهار كأنَّمَا</font></font></b></td><td class=\"TextArabic\">   </td><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">خُضِبَ اللَّبانُ
+  ورأسُهُ بالعِظْلِم</font></font></b></td></tr></table><font class=\"TextResultArabic\"><font
+  color=\"black\">ومنه قول الآخر:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><table class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">يُطِيفُ
+  بِهِ شَدَّ النَّهار ظَعِينَةٌ</font></font></b></td><td class=\"TextArabic\">   </td><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">طَويلَةُ
+  أنْقاء اليَدَيْن سَحُوقُ</font></font></b></td></tr></table><font class=\"TextResultArabic\"><font
+  color=\"black\">وكان بعص البصريين يزعم أن الأشدّ اسم مثل الآنك. فأما أهل التأويل
+  فإنهم مختلفون في الحين الذي إذا بلغه الإنسان قيل بلغ أشدّه، فقال بعضهم: يقال ذلك
+  له إذا بلغ الحلم. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  أحمد بن عبد الرحمن، قال: ثنا عمي، قال: أخبرني يحيى بن أيوب، عن عمرو بن الحرث، عن
+  ربيعة، في قوله: { حتى يَبْلُغَ أشُدَّهُ } قال: الحلم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  أحمد بن عبد الرحمن، قال: ثنا عمي، قال: ثني عبد الرحمن بن زيد بن أسلم، عن أبيه، مثله.
+  قال ابن وهب: وقال لي مالك مثله.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حُدثت
+  عن الحماني، قال: ثنا هشيم، عن مجاهد، عن عامر: { حتى يَبْلُغَ أشُدَّهُ } قال: الأشدّ:
+  الحلم، حيث تكتب له الحسنات وتكتب عليه السيئات.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  آخرون: إنما يقال ذلك له إذا بلغ ثلاثين سنة. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  محمد بن الحسين، قال: ثنا أحمد بن المفضل، قال: ثنا أسباط، عن السديّ: { حتى يَبْلُغَ
+  أشُدَّهُ } قال: أما أشدّه: فثلاثون سنة، ثم جاء بعدها: حتى إذَا بَلَغُوا النِّكاحَ.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(6, 152)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(6,152)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَلاَ تَقْرَبُواْ مَالَ ٱلْيَتِيمِ إِلاَّ بِٱلَّتِي
+  هِيَ أَحْسَنُ حَتَّىٰ يَبْلُغَ أَشُدَّهُ وَأَوْفُواْ ٱلْكَيْلَ وَٱلْمِيزَانَ بِٱلْقِسْطِ
+  لاَ نُكَلِّفُ نَفْساً إِلاَّ وُسْعَهَا وَإِذَا قُلْتُمْ فَٱعْدِلُواْ وَلَوْ كَانَ
+  ذَا قُرْبَىٰ وَبِعَهْدِ ٱللَّهِ أَوْفُواْ ذٰلِكُمْ وَصَّـٰكُمْ بِهِ لَعَلَّكُمْ
+  تَذَكَّرُونَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">وفي الكلام محذوف ترك ذكره اكتفاء
+  بدلالة ما ظهر عما حذف. وذلك أن معنى الكلام: ولا تقربوا مال اليتيم إلا بالتي هي أحسن،
+  حتى يبلغ أشدّه، فإذا بلغ أشده فآنستم منه رشداً فادفعوا إليه ماله. لأنه جلّ ثناؤه
+  لم ينه أن يُقرَب مال اليتيم في حال يتمه إلا بالتي هي أحسن حتى يبلغ أشدّه ويحلّ لوليه
+  بعد بلوغه أشدّه أن يقربه بالتي هي أسوأ، ولكنه نهاهم أن يقربوا حياطة منه له وحفظاً
+  عليه ليسلموه إليه إذا بلغ أشدّه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">القول
+  في تأويل قوله تعالى: { وأوْفُوا الكَيْلَ والمِيزَانَ بالقِسْطِ لا نُكَلِّفُ نَفْساً
+  إلاَّ وُسعَها }.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">يقول تعالى ذكره: قل تعالوا أتل
+  ما حرّم ربكم عليكم أن لا تشركوا به شيئاً، وأن أوفوا الكيل والميزان، يقول: لا تبخسوا
+  الناس الكيل إذا كلتوهم والوزن إذا وزنتموهم، ولكن أوفوهم حقوقهم وإيفاؤهم ذلك: إعطاؤهم
+  حقوقهم تامَّة بالقسط، يعني: بالعدل. كما:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  المثنى، قال: ثنا أبو حذيفة، قال: ثنا شبل، عن ابن أبي نجيح، عن مجاهد: { بالقِسْطِ
+  } بالعدل.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقد بيَّنا معنى القسط بشواهده فيما
+  مضى وكرهنا إعادته.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وأما قوله: { لا نُكَلِّفُ نَفْساً
+  إلا وُسْعَها } فإنه يقول: لا نكلف نفساً من إيفاء الكيل والوزن إلا ما يسعها، فيحلّ
+  لها، ولا تحرَج فيه. وذلك أن الله جلّ ثناؤه علم من عباده أن كثيراً منهم تضيق نفسه
+  عن أن تطيب لغيره بما لا يجب عليها له، فأمر المعطي بإيفاء ربّ الحقّ حقه الذي هو له
+  ولم يكلفه الزيادة لما في الزيادة عليه من ضيق نفسه بها، وأمر الذي له الحقّ بأخد حقه
+  ولم يكلفه الرضا بأقلّ منه، لما في النقصان عنه من ضيق نفسه، فلم يكلف نفساً منهما
+  إلا ما لا حرج فيه ولا ضيق، فلذلك قال: { لا نُكَلِّفُ نَفْساً إلاَّ وُسْعَها }. وقد
+  استقصينا بيان ذلك بشواهده في موضع غير هذا الموضع بما أغنى عن إعادته.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">القول في تأويل قوله تعالى: { وَإذَا قُلْتُمْ فاعْدِلُوا وَلَوْ كانَ
+  ذَا قُرْبَى وَبِعَهْدِ اللّهِ أوْفُوا ذَلِكُمْ وَصَّاكُمْ بِهِ لَعَلَّكُمْ تَذَكَّرُونَ
+  }.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">يعني تعالى ذكره بقوله: { وَإذَا
+  قُلْتُمْ فاعْدِلُوا }: وإذا حكمتم بين الناس فتكلمتم، فقولوا الحقّ بينهم، واعدلوا
+  وأنصفوا ولا تجوروا ولو كان الذي يتوجه الحقّ عليه والحكم ذا قرابة لكم، ولا يحملنكم
+  قرابة قريب أو صداقة صديق حكمتم بينه وبين غيره، أن تقولوا غير الحقّ فيما احتكم إليكم
+  فيه. { وَبِعَهْدِ اللّهِ أوْفُوا } يقول: وبوصية الله التي أوصاكم بها فأوفوا وإيفاء
+  ذلك أن يطيعوه فيما أمرهم به ونهاهم، وأن يعملوا بكتابه وسنة رسوله صلى الله عليه وسلم،
+  وذلك هو الوفاء بعهد الله.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وأما قوله: { ذَلِكُمْ وَصَّاكُمْ
+  بِهِ } يقول تعالى ذكره لنبيه محمد صلى الله عليه وسلم: قل للعادلين بالله الأوثان
+  والأصنام من قومك: هذه الأمور التي ذكرت لكم في هاتين الآيتين، هي الأشياء التي عهد
+  إلينا ربنا ووصاكم بها ربكم وأمركم بالعمل بها، لا بالبحائر والسوائب والوصائل والحام
+  وقتل الأولاد ووأد البنات واتباع خطوات الشيطان.</font></font>&#13;\t\t\t<label disabled=\"true\"
+  class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(6, 152)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(6,152)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَلاَ تَقْرَبُواْ مَالَ ٱلْيَتِيمِ إِلاَّ بِٱلَّتِي
+  هِيَ أَحْسَنُ حَتَّىٰ يَبْلُغَ أَشُدَّهُ وَأَوْفُواْ ٱلْكَيْلَ وَٱلْمِيزَانَ بِٱلْقِسْطِ
+  لاَ نُكَلِّفُ نَفْساً إِلاَّ وُسْعَهَا وَإِذَا قُلْتُمْ فَٱعْدِلُواْ وَلَوْ كَانَ
+  ذَا قُرْبَىٰ وَبِعَهْدِ ٱللَّهِ أَوْفُواْ ذٰلِكُمْ وَصَّـٰكُمْ بِهِ لَعَلَّكُمْ
+  تَذَكَّرُونَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">{ لَعَلَّكُمْ تَذَكَّرُونَ } يقول:
+  أمركم بهذه الأمور التي أمركم بها في هاتين الآيتين ووصاكم بها وعهد إليكم فيها، لتتذكروا
+  عواقب أمركم بهذه الأمور التي أمركم بها في هاتين الآيتين، ووصاكم بها وعهد إليكم فيها،
+  لتتذكروا عواقب أمركم وخطأ ما أنتم عليه مقيمون، فتنزجروا عنها وترتدعوا وتنيبوا إلى
+  طاعة ربكم. وكان ابن عباس يقول: هذه الآيات هنّ الآيات المحكمات.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن وكيع، قال: ثنا أبي، عن عليّ بن صالح، عن أبي إسحاق، عن
+  عبد الله بن قيس، عن ابن عباس، قال: هنّ الآيات المحكمات، قوله:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">قُلْ تَعالُوْا أتْلُ ما حَرَّمَ رَبُّكُمْ
+  عَلَيْكُمْ أنْ لا تُشْرِكُوا بِهِ شَيئْاً</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا محمد بن المثنى ومحمد بن بشار،
+  قالا: ثنا وهب بن جرير، قال: ثنا أبي، قال: سمعت يحيى بن أيوب، يحدّث عن يزيد بن أبي
+  حبيب، عن مرثد بن عبد الله، عن عبيد الله بن عديّ بن الخيار، قال: سمع كعب الأحبار
+  رجلاً يقرأ:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">قُلْ تَعالَوْا أتْلُ ما حَرَّمَ رَبُّكُمْ عَلَيْكُمْ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">فقال:
+  والذي نفس كعب بيده، إن هذا لأوّل شيء في التوراة «بِسْمِ اللّهِ الرَّحْمَنِ الرَّحِيمِ
+  قُلْ تَعالَوْا أتْلُ ما حَرَّمَ رَبُّكُمْ عَلَيْكُمْ».</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن وكيع، قال: ثنا أبي، عن أبيه، عن سعيد بن مسروق، عن رجل، عن الربيع بن خيثم أنه
+  قال لرجل: هل لك في صحيفة عليها خاتم محمد؟ ثم قرأ هؤلاء الآيات:</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">قُلْ
+  تَعَالُوا أتْلُ ما حَرَّمَ رَبُّكُمْ عَلَيْكُمْ أنْ لا تُشْرِكُوا بِهِ شَيْئاً</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
   ابن وكيع، قال: ثنا إسحاق الرازي، عن أبي سنان، عن عمرو بن مرّة، قال: قال الربيع:
-  ألا أقرأ عليكم صحيفة من رسول الله صلى الله عليه وسلم؟ لم يقل خاتمها. فقرأ هذه الآيات:{ قُلْ
-  تَعالَوْا أتْلُ ما حَرَّمَ رَبُّكُمْ عَلَيْكُمْ }حدثنا ابن وكيع، قال: ثنا جرير،
+  ألا أقرأ عليكم صحيفة من رسول الله صلى الله عليه وسلم؟ لم يقل خاتمها. فقرأ هذه الآيات:</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">قُلْ
+  تَعالَوْا أتْلُ ما حَرَّمَ رَبُّكُمْ عَلَيْكُمْ</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن وكيع، قال: ثنا جرير،
   عن الأعمش، عن إبراهيم، عن علقمة، قال: جاء إليه نفر فقالوا: قد جالست أصحاب محمد فحدّثنا
-  عن الوحي فقرأ عليهم هذه الآيات من الأنعام:{ قُلْ تَعالَوْا أتْلُ ما حَرَّمَ رَبُّكُمْ
-  عَلَيْكُمْ أنْ لا تُشْرِكُوا بِهِ شَيْئاً }قالوا: ليس عن هذا نسألك قال: فما عندنا
-  وحي غيره.حدثنا محمد بن الحسين، قال: ثنا أحمد بن المفضل، قال: ثنا أسباط، عن السديّ:
-  قال: هؤلاء الآيات التي أوصى بها من محكم القرآن.حدثني يونس، قال: أخبرنا ابن وهب،
-  قال: قال ابن زيد، في قوله: { وَإذَا قُلْتُمْ فاعْدِلُوا } قال: قولوا الحقّ.\r\n\t\t\t\r\n\t\t\t1 2 3 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  عن الوحي فقرأ عليهم هذه الآيات من الأنعام:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">قُلْ تَعالَوْا أتْلُ ما حَرَّمَ رَبُّكُمْ
+  عَلَيْكُمْ أنْ لا تُشْرِكُوا بِهِ شَيْئاً</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">قالوا: ليس عن هذا نسألك قال: فما
+  عندنا وحي غيره.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا محمد بن الحسين، قال: ثنا
+  أحمد بن المفضل، قال: ثنا أسباط، عن السديّ: قال: هؤلاء الآيات التي أوصى بها من محكم
+  القرآن.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثني يونس، قال: أخبرنا ابن وهب،
+  قال: قال ابن زيد، في قوله: { وَإذَا قُلْتُمْ فاعْدِلُوا } قال: قولوا الحقّ.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">3 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a id=\"NextClass\"/></td></tr></table></center></div></section>"
 

@@ -1,4 +1,4 @@
-location:
+position:
   sura: '006'
   aaya: '101'
   madhab: '01'
@@ -7,20 +7,45 @@ meta:
   title: تفسير جامع البيان في تفسير القرآن
   author: الطبري
   year: '310'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ بَدِيعُ ٱلسَّمَٰوَٰتِ
-  وَٱلأَرْضِ أَنَّىٰ يَكُونُ لَهُ وَلَدٌ وَلَمْ تَكُنْ لَّهُ صَٰحِبَةٌ وَخَلَقَ كُلَّ
-  شَيْءٍ وهُوَ بِكُلِّ شَيْءٍ عَلِيمٌ }يقول تعالى ذكره: الله الذي جعل هؤلاء الكفرة
-  به له الجنّ شركاء وخرقوا له بنين وبنات بغير علم، { بَدِيعُ السَّمٰواتِ والأَرْضِ
-  } يعني مبتدعها ومحدثها وموجدها بعد أن لم تكن. كما:حدثني يونس، قال: أخبرنا ابن وهب،
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(6, 101)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(6,101)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">بَدِيعُ
+  ٱلسَّمَٰوَٰتِ وَٱلأَرْضِ أَنَّىٰ يَكُونُ لَهُ وَلَدٌ وَلَمْ تَكُنْ لَّهُ صَٰحِبَةٌ
+  وَخَلَقَ كُلَّ شَيْءٍ وهُوَ بِكُلِّ شَيْءٍ عَلِيمٌ</a> <b>}</b></font>, <br/>, <br/>,
+  <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">يقول
+  تعالى ذكره: الله الذي جعل هؤلاء الكفرة به له الجنّ شركاء وخرقوا له بنين وبنات بغير
+  علم، { بَدِيعُ السَّمٰواتِ والأَرْضِ } يعني مبتدعها ومحدثها وموجدها بعد أن لم تكن.
+  كما:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثني يونس، قال: أخبرنا ابن وهب،
   قال: قال ابن زيد، في قوله: { بَدِيعُ السَّمَوَاتِ والأرْضِ } قال: هو الذي ابتدع
-  خلقهما جلّ جلاله فخلقهما ولم تكونا شيئاً قبله.{ أنَّى يَكُونُ لَهُ وَلَدٌ وَلمْ
-  تَكُنْ لَهْ صَاحِبَةٌ } والولد إنما يكون من الذكر من الأنثى، ولا ينبغي أن يكون لله
-  سبحانه صاحبة فيكون له ولد وذلك أنه هو الذي خلق كل شيء. يقول: فإذا كان لا شيء إلاَّ
-  الله خلقه، فأنى يكون لله ولد ولم تكن له صاحبة فيكون له منها ولدالقول في تأويل قوله
-  تعالى: { وَخَلقَ كُلَّ شَيْءٍ وَهُوَ بِكُلّ شَيْءٍ عَلِيمٌ }.يقول تعالى ذكره: والله
-  خلق كلّ شيء ولا خالق سواه، وكلّ ما تدّعون أيها العادلون بالله الأوثان من دونه خلقه
-  وعبيده، مَلَكاً كان الذي تدعونه ربًّا وتزعمون أنه له ولد أو جنيًّا أو إنسيًّا.{
-  وَهُوَ بِكُلّ شَيْءٍ عَلِيمٌ } يقول: والله الذي خلق كلّ شيء، لا يخفى عليه ما خلق
-  ولا شيء منه، ولا يعزب عنه مثقال ذرّة في الأرض ولا في السماء، عالم بعددكم وأعمالكم
-  وأعمال من دعوتموه ربًّا أو لله ولداً، وهو محصيها عليكم وعليهم حتى يجازي كلاًّ بعمله.\r\n\t\t\t\r\n\t\t\t</section>"
+  خلقهما جلّ جلاله فخلقهما ولم تكونا شيئاً قبله.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">{
+  أنَّى يَكُونُ لَهُ وَلَدٌ وَلمْ تَكُنْ لَهْ صَاحِبَةٌ } والولد إنما يكون من الذكر
+  من الأنثى، ولا ينبغي أن يكون لله سبحانه صاحبة فيكون له ولد وذلك أنه هو الذي خلق
+  كل شيء. يقول: فإذا كان لا شيء إلاَّ الله خلقه، فأنى يكون لله ولد ولم تكن له صاحبة
+  فيكون له منها ولد</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">القول في تأويل قوله تعالى: { وَخَلقَ
+  كُلَّ شَيْءٍ وَهُوَ بِكُلّ شَيْءٍ عَلِيمٌ }.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">يقول
+  تعالى ذكره: والله خلق كلّ شيء ولا خالق سواه، وكلّ ما تدّعون أيها العادلون بالله
+  الأوثان من دونه خلقه وعبيده، مَلَكاً كان الذي تدعونه ربًّا وتزعمون أنه له ولد أو
+  جنيًّا أو إنسيًّا.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">{ وَهُوَ بِكُلّ شَيْءٍ عَلِيمٌ
+  } يقول: والله الذي خلق كلّ شيء، لا يخفى عليه ما خلق ولا شيء منه، ولا يعزب عنه مثقال
+  ذرّة في الأرض ولا في السماء، عالم بعددكم وأعمالكم وأعمال من دعوتموه ربًّا أو لله
+  ولداً، وهو محصيها عليكم وعليهم حتى يجازي كلاًّ بعمله.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

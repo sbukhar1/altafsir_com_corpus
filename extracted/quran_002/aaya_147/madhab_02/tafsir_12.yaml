@@ -1,4 +1,4 @@
-location:
+position:
   sura: '002'
   aaya: '147'
   madhab: '02'
@@ -8,19 +8,55 @@ meta:
   author: الماوردي
   year: '450'
 aaya: الْحَقُّ مِنْ رَبِّكَ ۖ فَلَا تَكُونَنَّ مِنَ الْمُمْتَرِينَ
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ ٱلَّذِينَ آتَيْنَاهُمُ
-  ٱلْكِتَابَ يَعْرِفُونَهُ كَمَا يَعْرِفُونَ أَبْنَاءَهُمْ وَإِنَّ فَرِيقاً مِّنْهُمْ
-  لَيَكْتُمُونَ ٱلْحَقَّ وَهُمْ يَعْلَمُونَ } * { ٱلْحَقُّ مِن رَّبِّكَ فَلاَ تَكُونَنَّ
-  مِنَ ٱلْمُمْتَرِينَ }قوله تعالى: { الَّذِينَ ءَاتَيْنَاهُمُ الْكِتَابَ } يعني اليهود
-  والنصارى، أوتوا التوراة، والإنجيل.{ يَعْرِفُونَهُ كَمَا يَعْرِفُونَ أَبْنآءَهُمُ
-  } فيه قولان:أحدهما: يعرفون أن تحويل القبلة عن بيت المقدس إلى الكعبة حق كما يعرفون
-  أبناءهم.والثاني: يعرفون الرسول وصدق رسالته كما يعرفون أبناءهم.{ وَإِنَّ فَرِيقاً
-  مِّنْهُمْ } يعني علماءَهم وخواصَّهمْ.{ لَيَكْتُمُونَ الْحَقَّ } فيه قولان:أحدهما:
-  أن الحق هو استقبال الكعبة.والثاني: أن الحق محمد صلى الله عليه وسلم، وهذا قول مجاهد
-  وقتادة.{ وَهُمْ يَعْلَمُونَ } يحتمل وجهين:أحدهما: يعلمون أنه حق متبوع.والثاني: يعلمون
-  ما عليه من العقاب المستحق.{ الْحَقُّ مِن رَّبِّكَ } يعني استقبال الكعبة، لا ما أخبرتك
-  به شهود من قبلتهم.{ فَلاَ تَكُونَنَّ مِنَ الْمُمْتَرِينَ } أي من الشاكِّين يقال:
-  امترى فلان في كذا إذا اعترضه اليقين مَرَّةً، والشك أخرى، فدافع أحدهما بالآخر.فإن
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(2, 146)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(2,146)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">ٱلَّذِينَ
+  آتَيْنَاهُمُ ٱلْكِتَابَ يَعْرِفُونَهُ كَمَا يَعْرِفُونَ أَبْنَاءَهُمْ وَإِنَّ فَرِيقاً
+  مِّنْهُمْ لَيَكْتُمُونَ ٱلْحَقَّ وَهُمْ يَعْلَمُونَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">ٱلْحَقُّ مِن رَّبِّكَ
+  فَلاَ تَكُونَنَّ مِنَ ٱلْمُمْتَرِينَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\"
+  dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">قوله تعالى: {
+  الَّذِينَ ءَاتَيْنَاهُمُ الْكِتَابَ } يعني اليهود والنصارى، أوتوا التوراة، والإنجيل.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">{ يَعْرِفُونَهُ كَمَا يَعْرِفُونَ أَبْنآءَهُمُ } فيه قولان:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">أحدهما: يعرفون أن تحويل القبلة عن بيت المقدس إلى الكعبة حق كما يعرفون
+  أبناءهم.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">والثاني: يعرفون الرسول وصدق رسالته
+  كما يعرفون أبناءهم.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">{ وَإِنَّ فَرِيقاً مِّنْهُمْ }
+  يعني علماءَهم وخواصَّهمْ.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">{ لَيَكْتُمُونَ الْحَقَّ } فيه
+  قولان:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">أحدهما: أن الحق هو استقبال الكعبة.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">والثاني: أن الحق محمد صلى الله عليه وسلم، وهذا قول مجاهد وقتادة.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">{ وَهُمْ يَعْلَمُونَ } يحتمل وجهين:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">أحدهما:
+  يعلمون أنه حق متبوع.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">والثاني: يعلمون ما عليه من العقاب
+  المستحق.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">{ الْحَقُّ مِن رَّبِّكَ } يعني
+  استقبال الكعبة، لا ما أخبرتك به شهود من قبلتهم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">{
+  فَلاَ تَكُونَنَّ مِنَ الْمُمْتَرِينَ } أي من الشاكِّين يقال: امترى فلان في كذا إذا
+  اعترضه اليقين مَرَّةً، والشك أخرى، فدافع أحدهما بالآخر.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">فإن
   قيل: أفكان شاكّاً حين نهى عنه؟ قيل: هذا وإن كان خطاباً للنبي صلى الله عليه وسلم
-  فالمراد به غيره من أمته.\r\n\t\t\t\r\n\t\t\t</section>"
+  فالمراد به غيره من أمته.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

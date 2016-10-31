@@ -1,4 +1,4 @@
-location:
+position:
   sura: '060'
   aaya: 009
   madhab: '01'
@@ -7,18 +7,37 @@ meta:
   title: تفسير جامع البيان في تفسير القرآن
   author: الطبري
   year: '310'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ إِنَّمَا يَنْهَاكُمُ
-  ٱللَّهُ عَنِ ٱلَّذِينَ قَاتَلُوكُمْ فِي ٱلدِّينِ وَأَخْرَجُوكُم مِّن دِيَارِكُمْ
-  وَظَاهَرُواْ عَلَىٰ إِخْرَاجِكُمْ أَن تَوَلَّوْهُمْ وَمَن يَتَوَلَّهُمْ فَأُوْلَـٰئِكَ
-  هُمُ ٱلظَّالِمُونَ }يقول تعالى ذكره: { إنَّمَا يَنْهَاكُمُ اللَّهُ } أيها المؤمنون
-  { عَن الَّذِينَ قاتَلُوكُمْ فِي الدّين } من كفار أهل مكة { وأخْرَجُوكُمْ مِنْ دِيارِكُمْ
-  وَظَاهِرُوا على إخْرَاجِكُمْ أنْ تَوَلَّوْهُمْ } يقول: وعاونوا من أخرجكم من دياركم
-  على إخراجكم أن تولوهم، فتكونوا لهم أولياء ونصراء { وَمَنْ يَتَوَلَّهُمْ } يقول:
-  ومن يجعلهم منكم أو من غيركم أولياء { فأُولَئِكَ هُمُ الظَّالِمُونَ } يقول: فأولئك
-  هم الذين تولوا غير الذي يجوز لهم أن يتولوهم، ووضعوا ولايتهم في غير موضعها، وخالفوا
-  أمر الله في ذلك. وبنحو الذي قلنا في معنى قوله { الَّذِينَ قَاتَلُوكُمْ فِي الدّين
-  } قال أهل التأويل. ذكر من قال ذلك:حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا
-  عيسى وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، جميعاً عن ابن أبي نجيح، عن مجاهد
-  لآإنَّمَا يَنْهاكُمُ اللَّهُ عَن الَّذِينَ قَاتَلُوكُمْ فِي الدّين } قال: كفار أهل
-  مكة.\r\n\t\t\t\r\n\t\t\t</section>"
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(60, 9)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(60,9)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">إِنَّمَا
+  يَنْهَاكُمُ ٱللَّهُ عَنِ ٱلَّذِينَ قَاتَلُوكُمْ فِي ٱلدِّينِ وَأَخْرَجُوكُم مِّن
+  دِيَارِكُمْ وَظَاهَرُواْ عَلَىٰ إِخْرَاجِكُمْ أَن تَوَلَّوْهُمْ وَمَن يَتَوَلَّهُمْ
+  فَأُوْلَـٰئِكَ هُمُ ٱلظَّالِمُونَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\"
+  dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">يقول تعالى ذكره:
+  { إنَّمَا يَنْهَاكُمُ اللَّهُ } أيها المؤمنون { عَن الَّذِينَ قاتَلُوكُمْ فِي الدّين
+  } من كفار أهل مكة { وأخْرَجُوكُمْ مِنْ دِيارِكُمْ وَظَاهِرُوا على إخْرَاجِكُمْ أنْ
+  تَوَلَّوْهُمْ } يقول: وعاونوا من أخرجكم من دياركم على إخراجكم أن تولوهم، فتكونوا
+  لهم أولياء ونصراء { وَمَنْ يَتَوَلَّهُمْ } يقول: ومن يجعلهم منكم أو من غيركم أولياء
+  { فأُولَئِكَ هُمُ الظَّالِمُونَ } يقول: فأولئك هم الذين تولوا غير الذي يجوز لهم
+  أن يتولوهم، ووضعوا ولايتهم في غير موضعها، وخالفوا أمر الله في ذلك. وبنحو الذي قلنا
+  في معنى قوله { الَّذِينَ قَاتَلُوكُمْ فِي الدّين } قال أهل التأويل. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى وحدثني الحارث،
+  قال: ثنا الحسن، قال: ثنا ورقاء، جميعاً عن ابن أبي نجيح، عن مجاهد لآإنَّمَا يَنْهاكُمُ
+  اللَّهُ عَن الَّذِينَ قَاتَلُوكُمْ فِي الدّين } قال: كفار أهل مكة.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

@@ -1,4 +1,4 @@
-location:
+position:
   sura: '071'
   aaya: '001'
   madhab: '01'
@@ -7,50 +7,119 @@ meta:
   title: تفسير جامع البيان في تفسير القرآن
   author: الطبري
   year: '310'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ إِنَّآ أَرْسَلْنَا
-  نُوحاً إِلَىٰ قَوْمِهِ أَنْ أَنذِرْ قَوْمَكَ مِن قَبْلِ أَن يَأْتِيَهُمْ عَذَابٌ
-  أَلِيمٌ } * { قَالَ يٰقَوْمِ إِنِّي لَكُمْ نَذِيرٌ مُّبِينٌ } * { أَنِ ٱعبُدُواْ
-  ٱللَّهَ وَٱتَّقُوهُ وَأَطِيعُونِ } * { يَغْفِرْ لَكُمْ مِّن ذُنُوبِكُمْ وَيُؤَخِّرْكُمْ
-  إِلَىٰ أَجَلٍ مُّسَمًّى إِنَّ أَجَلَ ٱللَّهِ إِذَا جَآءَ لاَ يُؤَخَّرُ لَوْ كُنتُمْ
-  تَعْلَمُونَ }يقول تعالى ذكره: { إنَّا أرْسَلْنا نُوحاً } وهو نوح بن لمَكَ { إلى
-  قَوْمِهِ أنْ أنْذِرْ قَوْمَكَ مِنْ قَبْلِ أنْ يأْتِيَهُمْ عَذَابٌ ألِيمٌ } يقول:
-  أرسلناه إليهم بأن أنذر قومك فأن في موضع نصب في قول بعض أهل العربية، وفي موضع خفض
-  في قول بعضهم. وقد بيَّنت العِلل لكلّ فريق منهم، والصواب عندنا من القول في ذلك فيما
-  مضى من كتابنا هذا، بما أغنى عن إعادته في هذا الموضع، وهي في قراءة عبد الله فيما
-  ذُكر: «إنَا أرْسَلْنا نُوحاً إلى قَوْمِهِ أنْذِرْ قَوْمَكَ» بغير «أن»، وجاز ذلك
-  لأن الإرسال بمعنى القول، فكأنه قيل: قلنا لنوح: أنذر قومك من قبل أن يأتيهم عذاب أليم
-  وذلك العذاب الأليم هو الطوفان الذي غرّقهم الله به.وقوله: { قالَ يا قَوْمِ إنّي لَكُمْ
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(71, 1)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(71,1)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">إِنَّآ
+  أَرْسَلْنَا نُوحاً إِلَىٰ قَوْمِهِ أَنْ أَنذِرْ قَوْمَكَ مِن قَبْلِ أَن يَأْتِيَهُمْ
+  عَذَابٌ أَلِيمٌ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">قَالَ يٰقَوْمِ إِنِّي لَكُمْ نَذِيرٌ مُّبِينٌ</a>
+  <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">أَنِ
+  ٱعبُدُواْ ٱللَّهَ وَٱتَّقُوهُ وَأَطِيعُونِ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">يَغْفِرْ لَكُمْ
+  مِّن ذُنُوبِكُمْ وَيُؤَخِّرْكُمْ إِلَىٰ أَجَلٍ مُّسَمًّى إِنَّ أَجَلَ ٱللَّهِ إِذَا
+  جَآءَ لاَ يُؤَخَّرُ لَوْ كُنتُمْ تَعْلَمُونَ</a> <b>}</b></font>, <br/>, <br/>,
+  <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">يقول
+  تعالى ذكره: { إنَّا أرْسَلْنا نُوحاً } وهو نوح بن لمَكَ { إلى قَوْمِهِ أنْ أنْذِرْ
+  قَوْمَكَ مِنْ قَبْلِ أنْ يأْتِيَهُمْ عَذَابٌ ألِيمٌ } يقول: أرسلناه إليهم بأن أنذر
+  قومك فأن في موضع نصب في قول بعض أهل العربية، وفي موضع خفض في قول بعضهم. وقد بيَّنت
+  العِلل لكلّ فريق منهم، والصواب عندنا من القول في ذلك فيما مضى من كتابنا هذا، بما
+  أغنى عن إعادته في هذا الموضع، وهي في قراءة عبد الله فيما ذُكر: «إنَا أرْسَلْنا نُوحاً
+  إلى قَوْمِهِ أنْذِرْ قَوْمَكَ» بغير «أن»، وجاز ذلك لأن الإرسال بمعنى القول، فكأنه
+  قيل: قلنا لنوح: أنذر قومك من قبل أن يأتيهم عذاب أليم وذلك العذاب الأليم هو الطوفان
+  الذي غرّقهم الله به.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقوله: { قالَ يا قَوْمِ إنّي لَكُمْ
   نَذِيرٌ مُبِينٌ } يقول تعالى ذكره: قال نوح لقومه: يا قوم إني لكم نذير مبين، أنذركم
-  عذاب الله فاحذروه أن ينزل بكم على كفركم به { مبين } يقول: قد أبنت لكم إنذاري إياكم.وقوله:
-  { أنِ اعْبُدُوا اللَّهَ وَاتَقُوه وَأطِيعُونِ } يقول تعالى ذكره مخبراً عن قيل نوح
-  لقومه { إني لَكمْ نَذِيرٌ مُبِينٌ } بأن اعبدوا الله، يقول: إني لكم نذير أنذركم،
-  وآمركم بعبادة الله { وَاتَّقُوهُ } يقول: واتقوا عقابه بالإيمان به، والعمل بطاعته
-  { وأطِيعُونِ } يقول: وانتهوا إلى ما آمركم به، واقبلوا نصيحتي لكم. وقد:حدثنا بشر،
-  قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: { أنِ اعْبُدُوا اللَّهَ واتَّقُوهُ
-  وأطِيعُونِ } قال: أرسل الله المرسلين بأن يُعْبدَ اللَّهُ وحده، وأن تتقي محارمه،
-  وأن يُطاع أمره.وقوله: { يَغْفِرْ لَكُمْ مِنْ ذُنُوبِكُمْ } يقول: يغفر لكم ذنوبكم.فإن
-  قال قائل: أَوَليست «من» دالة على البعض؟ قيل: إن لها معنيين وموضعين، فأما أحد الموضعين
-  فهو الموضع الذي لا يصلح فيه غيرها. وإذا كان ذلك كذلك لم تدلّ إلا على البعض، وذلك
-  كقولك: اشتريت من مماليكك، فلا يصلح في هذا الموضع غيرها، ومعناها: البعض، اشتريت بعض
-  مماليكك، ومن مماليكك مملوكاً. والموضع الآخر: هو الذي يصلح فيه مكانها عن فإذا، صلحت
-  مكانها «عن» دلت على الجميع، وذلك كقولك: وجع بطني من طعام طعِمته، فإن معنى ذلك: أوجع
-  بطني طعام طعمته، وتصلح مكان «من» عن، وذلك أنك تضع موضعها «عن»، فيصلح الكلام فتقول:
-  وجع بطني عن طعام طعمته، ومن طعام طعمته، فكذلك قوله: { يَغْفِرْ لَكُمْ مِنْ ذُنُوبِكُمْ
-  } إنما هو: ويصفح لكم، ويعفو لكم عنها وقد يحتمل أن يكون معناها يغفر لكم من ذنوبكم
-  ما قد وعدكم العقوبة عليه. فأما ما لم يعدكم العقوبة عليه فقد تقدّم عفوه لكم عنها.وقوله:
-  { وَيُؤَخِّرْكُمْ إلى أجَل مُسَمًّى } يقول: ويؤخِّر في آجالكم فلا يهلككم بالعذاب،
-  لا بغَرَق ولا غيره { إلى أجل مسمى } يقول إلى حين كتب أنه يبقيكم إليه، إن أنتم أطعتموه
-  وعبدتموه، في أمّ الكتاب.\r\n\t\t\t\r\n\t\t\t1 2 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ إِنَّآ أَرْسَلْنَا نُوحاً إِلَىٰ قَوْمِهِ
-  أَنْ أَنذِرْ قَوْمَكَ مِن قَبْلِ أَن يَأْتِيَهُمْ عَذَابٌ أَلِيمٌ } * { قَالَ يٰقَوْمِ
-  إِنِّي لَكُمْ نَذِيرٌ مُّبِينٌ } * { أَنِ ٱعبُدُواْ ٱللَّهَ وَٱتَّقُوهُ وَأَطِيعُونِ
-  } * { يَغْفِرْ لَكُمْ مِّن ذُنُوبِكُمْ وَيُؤَخِّرْكُمْ إِلَىٰ أَجَلٍ مُّسَمًّى إِنَّ
-  أَجَلَ ٱللَّهِ إِذَا جَآءَ لاَ يُؤَخَّرُ لَوْ كُنتُمْ تَعْلَمُونَ }وبنحو الذي قلنا
-  في ذلك قال أهل التأويل.ذكر من قال ذلك:حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال:
-  ثنا عيسى وحدثني الحارث، قال: ثنا الحسن، قال: ثنا ورقاء، جميعاً عن ابن أبي نجيح،
-  عن مجاهد، في قول الله: { إلى أجَل مُسَمًّى } قال: ما قد خطّ من الأجل، فإذا جاء أجل
-  الله لا يؤخَّر.وقوله: { إنَّ أجَلَ اللَّهِ إذَا جاءَ لا يُؤَخَّرُ لَوْ كُنْتُمْ
+  عذاب الله فاحذروه أن ينزل بكم على كفركم به { مبين } يقول: قد أبنت لكم إنذاري إياكم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقوله: { أنِ اعْبُدُوا اللَّهَ وَاتَقُوه وَأطِيعُونِ } يقول تعالى
+  ذكره مخبراً عن قيل نوح لقومه { إني لَكمْ نَذِيرٌ مُبِينٌ } بأن اعبدوا الله، يقول:
+  إني لكم نذير أنذركم، وآمركم بعبادة الله { وَاتَّقُوهُ } يقول: واتقوا عقابه بالإيمان
+  به، والعمل بطاعته { وأطِيعُونِ } يقول: وانتهوا إلى ما آمركم به، واقبلوا نصيحتي لكم.
+  وقد:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا بشر، قال: ثنا يزيد، قال:
+  ثنا سعيد، عن قتادة، قوله: { أنِ اعْبُدُوا اللَّهَ واتَّقُوهُ وأطِيعُونِ } قال: أرسل
+  الله المرسلين بأن يُعْبدَ اللَّهُ وحده، وأن تتقي محارمه، وأن يُطاع أمره.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقوله: { يَغْفِرْ لَكُمْ مِنْ ذُنُوبِكُمْ } يقول: يغفر لكم ذنوبكم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">فإن قال قائل: أَوَليست «من» دالة على البعض؟ قيل: إن لها معنيين وموضعين،
+  فأما أحد الموضعين فهو الموضع الذي لا يصلح فيه غيرها. وإذا كان ذلك كذلك لم تدلّ إلا
+  على البعض، وذلك كقولك: اشتريت من مماليكك، فلا يصلح في هذا الموضع غيرها، ومعناها:
+  البعض، اشتريت بعض مماليكك، ومن مماليكك مملوكاً. والموضع الآخر: هو الذي يصلح فيه
+  مكانها عن فإذا، صلحت مكانها «عن» دلت على الجميع، وذلك كقولك: وجع بطني من طعام طعِمته،
+  فإن معنى ذلك: أوجع بطني طعام طعمته، وتصلح مكان «من» عن، وذلك أنك تضع موضعها «عن»،
+  فيصلح الكلام فتقول: وجع بطني عن طعام طعمته، ومن طعام طعمته، فكذلك قوله: { يَغْفِرْ
+  لَكُمْ مِنْ ذُنُوبِكُمْ } إنما هو: ويصفح لكم، ويعفو لكم عنها وقد يحتمل أن يكون معناها
+  يغفر لكم من ذنوبكم ما قد وعدكم العقوبة عليه. فأما ما لم يعدكم العقوبة عليه فقد تقدّم
+  عفوه لكم عنها.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقوله: { وَيُؤَخِّرْكُمْ إلى أجَل
+  مُسَمًّى } يقول: ويؤخِّر في آجالكم فلا يهلككم بالعذاب، لا بغَرَق ولا غيره { إلى
+  أجل مسمى } يقول إلى حين كتب أنه يبقيكم إليه، إن أنتم أطعتموه وعبدتموه، في أمّ الكتاب.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(71, 1)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(71,1)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">إِنَّآ أَرْسَلْنَا نُوحاً إِلَىٰ قَوْمِهِ أَنْ أَنذِرْ
+  قَوْمَكَ مِن قَبْلِ أَن يَأْتِيَهُمْ عَذَابٌ أَلِيمٌ</a> <b>} * </b><b>{</b> <a
+  class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">قَالَ
+  يٰقَوْمِ إِنِّي لَكُمْ نَذِيرٌ مُّبِينٌ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">أَنِ ٱعبُدُواْ ٱللَّهَ
+  وَٱتَّقُوهُ وَأَطِيعُونِ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">يَغْفِرْ لَكُمْ مِّن ذُنُوبِكُمْ وَيُؤَخِّرْكُمْ
+  إِلَىٰ أَجَلٍ مُّسَمًّى إِنَّ أَجَلَ ٱللَّهِ إِذَا جَآءَ لاَ يُؤَخَّرُ لَوْ كُنتُمْ
+  تَعْلَمُونَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">وبنحو الذي قلنا في ذلك قال أهل
+  التأويل.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى وحدثني الحارث،
+  قال: ثنا الحسن، قال: ثنا ورقاء، جميعاً عن ابن أبي نجيح، عن مجاهد، في قول الله: {
+  إلى أجَل مُسَمًّى } قال: ما قد خطّ من الأجل، فإذا جاء أجل الله لا يؤخَّر.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقوله: { إنَّ أجَلَ اللَّهِ إذَا جاءَ لا يُؤَخَّرُ لَوْ كُنْتُمْ
   تَعْلَمُونَ } يقول تعالى ذكره: إن أجل الله الذي قد كتبه على خلقه في أمّ الكتاب إذا
   جاء عنده لا يؤخر عن ميقاته، فينظر بعده { لو كنتم تعلمون } يقول: لو علمتم أن ذلك
-  كذلك، لأنبتم إلى طاعة ربكم.\r\n\t\t\t\r\n\t\t\t1 2 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  كذلك، لأنبتم إلى طاعة ربكم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section>"
 

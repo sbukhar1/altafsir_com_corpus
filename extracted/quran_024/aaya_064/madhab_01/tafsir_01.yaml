@@ -1,4 +1,4 @@
-location:
+position:
   sura: '024'
   aaya: '064'
   madhab: '01'
@@ -7,19 +7,41 @@ meta:
   title: تفسير جامع البيان في تفسير القرآن
   author: الطبري
   year: '310'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ أَلاۤ إِنَّ للَّهِ
-  مَا فِي ٱلسَّمَٰوَٰتِ وَٱلأَرْضِ قَدْ يَعْلَمُ مَآ أَنتُمْ عَلَيْهِ وَيَوْمَ يُرْجَعُونَ
-  إِلَيْهِ فَيُنَبِّئُهُمْ بِمَا عَمِلُواْ وَٱللَّهُ بِكُلِّ شَيْءٍ عَلِيمُ }يقول
-  تعالـى ذكره: { ألاَ إنَّ لله مُلْكُ } جميع { السَّمٰوَاتِ والأَرْضِ } يقول: فلا
-  ينبغي لمملوك أن يخالف أمر مالكه فـيعصيَه، فـيستوجب بذلك عقوبته. يقول: فكذلك أنتـم
-  أيها الناس، لا يصلـح لكم خلاف ربكم الذي هو مالككم، فأطيعوه وأتَـمروا لأمره ولا تنصرفوا
-  عن رسوله إذا كنتـم معه علـى أمر جامع إلا بإذنه.وقوله: { قَدْ يَعْلَـمُ ما أنْتُـمْ
-  عَلَـيْهِ } من طاعتكم إياه فـيـما أمركم ونهاكم من ذلك، كما:حدثنـي أيضا يونس، قال:
-  أخبرنا ابن وهب، قال: قال ابن زيد، فـي قوله: { قَدْ يَعْلَـمُ ما أنْتُـمْ عَلَـيْهِ
-  } صنـيعكم هذا أيضاً.{ وَيَوْمَ يُرْجَعُونَ إلَـيْهِ } يقول: ويوم يَرْجع إلـى الله
-  الذين يخالفون عن أمره. { فـيُنَبِّئُهُم } يقول: فـيخبرهم حينئذٍ، { بِـمَا عَمِلُوا
-  } فـي الدنـيا، ثم يجازيهم علـى ما أسلفوا فـيها، من خلافهم علـى ربهم. { وَاللّهُ
-  بِكُلِّ شَيْءٍ عَلِـيـمٌ } يقول: والله ذو علـم بكل شيء عملتـموه أنتـم وهم وغيركم
-  وغيرك ذلك من الأمور، لا يخفـي علـيه شيء، بل هو مـحيط بذلك كله، وهو مُوَفَ كلّ عامل
-  منكم أجر عمله يوم ترجعون إلـيه.\r\n\t\t\t\r\n\t\t\t</section>"
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(24, 64)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(24,64)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">أَلاۤ
+  إِنَّ للَّهِ مَا فِي ٱلسَّمَٰوَٰتِ وَٱلأَرْضِ قَدْ يَعْلَمُ مَآ أَنتُمْ عَلَيْهِ
+  وَيَوْمَ يُرْجَعُونَ إِلَيْهِ فَيُنَبِّئُهُمْ بِمَا عَمِلُواْ وَٱللَّهُ بِكُلِّ
+  شَيْءٍ عَلِيمُ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">يقول تعالـى ذكره: { ألاَ إنَّ لله
+  مُلْكُ } جميع { السَّمٰوَاتِ والأَرْضِ } يقول: فلا ينبغي لمملوك أن يخالف أمر مالكه
+  فـيعصيَه، فـيستوجب بذلك عقوبته. يقول: فكذلك أنتـم أيها الناس، لا يصلـح لكم خلاف
+  ربكم الذي هو مالككم، فأطيعوه وأتَـمروا لأمره ولا تنصرفوا عن رسوله إذا كنتـم معه
+  علـى أمر جامع إلا بإذنه.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقوله: { قَدْ يَعْلَـمُ ما أنْتُـمْ
+  عَلَـيْهِ } من طاعتكم إياه فـيـما أمركم ونهاكم من ذلك، كما:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  أيضا يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، فـي قوله: { قَدْ يَعْلَـمُ ما
+  أنْتُـمْ عَلَـيْهِ } صنـيعكم هذا أيضاً.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">{
+  وَيَوْمَ يُرْجَعُونَ إلَـيْهِ } يقول: ويوم يَرْجع إلـى الله الذين يخالفون عن أمره.
+  { فـيُنَبِّئُهُم } يقول: فـيخبرهم حينئذٍ، { بِـمَا عَمِلُوا } فـي الدنـيا، ثم يجازيهم
+  علـى ما أسلفوا فـيها، من خلافهم علـى ربهم. { وَاللّهُ بِكُلِّ شَيْءٍ عَلِـيـمٌ }
+  يقول: والله ذو علـم بكل شيء عملتـموه أنتـم وهم وغيركم وغيرك ذلك من الأمور، لا يخفـي
+  علـيه شيء، بل هو مـحيط بذلك كله، وهو مُوَفَ كلّ عامل منكم أجر عمله يوم ترجعون إلـيه.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

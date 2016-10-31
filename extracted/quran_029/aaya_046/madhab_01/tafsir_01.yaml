@@ -1,4 +1,4 @@
-location:
+position:
   sura: 029
   aaya: '046'
   madhab: '01'
@@ -7,93 +7,200 @@ meta:
   title: تفسير جامع البيان في تفسير القرآن
   author: الطبري
   year: '310'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَلاَ تُجَادِلُوۤاْ
-  أَهْلَ ٱلْكِتَابِ إِلاَّ بِٱلَّتِي هِيَ أَحْسَنُ إِلاَّ ٱلَّذِينَ ظَلَمُواْ مِنْهُمْ
-  وَقُولُوۤاْ آمَنَّا بِٱلَّذِيۤ أُنزِلَ إِلَيْنَا وَأُنزِلَ إِلَيْكُمْ وَإِلَـٰهُنَا
-  وَإِلَـٰهُكُمْ وَاحِدٌ وَنَحْنُ لَهُ مُسْلِمُونَ }يقول تعالـى ذكره: { وَلا تُـجادِلُوا
-  } أيها الـمؤمنون بـالله وبرسوله الـيهود والنصارى، وهم { أهْلَ الكِتابِ إلاَّ بـالَّتِـي
-  هِيَ أحْسَنُ } يقول: إلاَّ بـالـجميـل من القول، وهو الدعاء إلـى الله بآياته، والتنبـيه
-  علـى حُججه.وقوله: { إلاَّ الَّذِينَ ظَلَـمُوا مِنْهُمْ } اختلف أهل التأويـل فـي
-  تأويـله فقال بعضهم: معناه: إلاَّ الذين أبوا أن يقرّوا لكم بإعطاء الـجزية، ونصبوا
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(29, 46)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(29,46)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَلاَ
+  تُجَادِلُوۤاْ أَهْلَ ٱلْكِتَابِ إِلاَّ بِٱلَّتِي هِيَ أَحْسَنُ إِلاَّ ٱلَّذِينَ
+  ظَلَمُواْ مِنْهُمْ وَقُولُوۤاْ آمَنَّا بِٱلَّذِيۤ أُنزِلَ إِلَيْنَا وَأُنزِلَ إِلَيْكُمْ
+  وَإِلَـٰهُنَا وَإِلَـٰهُكُمْ وَاحِدٌ وَنَحْنُ لَهُ مُسْلِمُونَ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">يقول تعالـى ذكره: { وَلا تُـجادِلُوا } أيها الـمؤمنون بـالله وبرسوله
+  الـيهود والنصارى، وهم { أهْلَ الكِتابِ إلاَّ بـالَّتِـي هِيَ أحْسَنُ } يقول: إلاَّ
+  بـالـجميـل من القول، وهو الدعاء إلـى الله بآياته، والتنبـيه علـى حُججه.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقوله: { إلاَّ الَّذِينَ ظَلَـمُوا مِنْهُمْ } اختلف أهل التأويـل
+  فـي تأويـله فقال بعضهم: معناه: إلاَّ الذين أبوا أن يقرّوا لكم بإعطاء الـجزية، ونصبوا
   دون ذلك لكم حربـا، فإنهم ظلـمة، فأولئك جادلوهم بـالسيف حتـى يسلـموا أو يعطوا الـجزية.
-  ذكر من قال ذلك:حدثنـي علـيّ بن سهل، قال: ثنا يزيد، عن سفـيان، عن خصيف، عن مـجاهد،
-  فـي قوله: { وَلا تُـجادِلُوا أهْلَ الكِتابِ إلاَّ بـالَّتِـي هِيَ أحْسَنُ إلاَّ
-  الَّذِينَ ظَلَـمُوا منهمْ } قال: من قاتل ولـم يُعط الـجزية.حدثنا ابن وكيع، قال:
-  ثنـي أبـي، عن سفـيان، عن خصيف، عن مـجاهد، بنـحوه. إلاَّ أنه قال: من قاتلك ولـم يعطك
-  الـجزية.حدثنـي مـحمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى وحدثنـي الـحارث،
+  ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي علـيّ بن سهل، قال: ثنا يزيد،
+  عن سفـيان، عن خصيف، عن مـجاهد، فـي قوله: { وَلا تُـجادِلُوا أهْلَ الكِتابِ إلاَّ
+  بـالَّتِـي هِيَ أحْسَنُ إلاَّ الَّذِينَ ظَلَـمُوا منهمْ } قال: من قاتل ولـم يُعط
+  الـجزية.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن وكيع، قال: ثنـي أبـي،
+  عن سفـيان، عن خصيف، عن مـجاهد، بنـحوه. إلاَّ أنه قال: من قاتلك ولـم يعطك الـجزية.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي مـحمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى وحدثنـي الـحارث،
   قال: ثنا الـحسن، قال: ثنا ورقاء جميعاً، عن ابن أبـي نـجيح، عن مـجاهد { وَلا تُـجادِلُوا
   أهْلَ الكِتابِ إلاَّ بـالَّتِـي هِيَ أحْسَنُ } قال: إن قالوا شرّاً، فقولوا خيراً،
-  { إلاَّ الَّذِينَ ظَلَـمُوا مِنهُمْ } فـانتصروا منهم.حدثنـي مـحمد بن عمرو، قال:
-  ثنا أبو عاصم، قال: ثنا عيسى وحدثنـي الـحارث، قال: ثنا الـحسن، قال: ثنا ورقاء جميعاً،
-  عن ابن أبـي نـجيح، عن مـجاهد، قوله { إلاَّ الَّذِينَ ظَلَـمُوا مِنْهُمْ } قال: قالوا
-  مع الله إله، أو له ولد، أو له شريك، أو يد الله مَغْلولة، أو الله فقـير، أو آذَوْا
-  مـحمداً صلى الله عليه وسلم، قال: هم أهل الكتاب.حدثنا ابن وكيع، قال: ثنا يحيى بن
-  آدم، عن شريك، عن سالـم، عن سعيد { وَلا تُـجادِلُوا أهْلَ الكِتابِ إلاَّ بـالَّتِـي
-  هِيَ أحْسَنُ، إلاَّ الَّذِينَ ظَلَـمُوا مِنْهُمْ } قال: أهل الـحرب، مَنْ لا عهد
-  له، جادِلْه بـالسيف.وقال آخرون: معنى ذلك: { وَلا تُـجادِلُوا أهْلَ الكِتابِ } الذين
+  { إلاَّ الَّذِينَ ظَلَـمُوا مِنهُمْ } فـانتصروا منهم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  مـحمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى وحدثنـي الـحارث، قال: ثنا الـحسن،
+  قال: ثنا ورقاء جميعاً، عن ابن أبـي نـجيح، عن مـجاهد، قوله { إلاَّ الَّذِينَ ظَلَـمُوا
+  مِنْهُمْ } قال: قالوا مع الله إله، أو له ولد، أو له شريك، أو يد الله مَغْلولة، أو
+  الله فقـير، أو آذَوْا مـحمداً صلى الله عليه وسلم، قال: هم أهل الكتاب.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن وكيع، قال: ثنا يحيى بن آدم، عن شريك، عن سالـم، عن سعيد
+  { وَلا تُـجادِلُوا أهْلَ الكِتابِ إلاَّ بـالَّتِـي هِيَ أحْسَنُ، إلاَّ الَّذِينَ
+  ظَلَـمُوا مِنْهُمْ } قال: أهل الـحرب، مَنْ لا عهد له، جادِلْه بـالسيف.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال آخرون: معنى ذلك: { وَلا تُـجادِلُوا أهْلَ الكِتابِ } الذين
   قد آمنوا به، واتبعوا رسوله فـيـما أخبروكم عنه مـما فـي كتبهم { إلاَّ بـالتـي هِيَ
   أحْسَنُ، إلاَّ الَّذِينَ ظَلَـمُوا مِنْهُمْ }. فأقاموا علـى كفرهم، وقالوا: هذه الآية
-  مُـحْكَمة، ولـيست بـمنسوخة. ذكر من قال ذلك:حدثنـي يونس، قال: أخبرنا ابن وهب، قال:
-  قال ابن زيد، فـي قوله: { وَلا تُـجادِلُوا أهْلَ الكِتابِ إلاَّ بـالَّتِـي هِيَ أحْسَنُ
-  } قال: لـيست بـمنسوخة، لا ينبغي أن تـجادل من آمن منهم، لعلهم يحسنون شيئاً فـي كتاب
-  الله، لا تعلـمه أنت، فلا تـجادله، ولا ينبغي أن تـجادل إلاَّ الذين ظلـموا، الـمقـيـمَ
-  منهم علـى دينه. فقال: هو الذي يُجادَلُ، ويُقال له بـالسيف. قال: وهؤلاء يهود. قال:
-  ولـم يكن بدار الهجرة من النصارى أحد، إنـما كانوا يهوداً هم الذي كلَّـموا وحالفوا
-  رسول الله صلى الله عليه وسلم، وغدرت النضير يوم أُحُد، وغدرت قُريظة يوم الأحزاب.\r\n\t\t\t\r\n\t\t\t1 2 3 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَلاَ تُجَادِلُوۤاْ أَهْلَ ٱلْكِتَابِ
-  إِلاَّ بِٱلَّتِي هِيَ أَحْسَنُ إِلاَّ ٱلَّذِينَ ظَلَمُواْ مِنْهُمْ وَقُولُوۤاْ آمَنَّا
-  بِٱلَّذِيۤ أُنزِلَ إِلَيْنَا وَأُنزِلَ إِلَيْكُمْ وَإِلَـٰهُنَا وَإِلَـٰهُكُمْ وَاحِدٌ
-  وَنَحْنُ لَهُ مُسْلِمُونَ }وقال آخرون: بل نزلت هذه الآية قبل أن يؤمر النبـيّ صلى
-  الله عليه وسلم بـالقتال، وقالوا: هي منسوخة نسخها قوله:{ قاتِلُوا الَّذِينَ لا يُؤْمِنُونَ
-  بـاللّهِ وَلا بـالـيَوْمِ الآخِرِ }ذكر من قال ذلك:حدثنا بشر، قال: ثنا يزيد، قال:
+  مُـحْكَمة، ولـيست بـمنسوخة. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، فـي قوله: { وَلا تُـجادِلُوا أهْلَ
+  الكِتابِ إلاَّ بـالَّتِـي هِيَ أحْسَنُ } قال: لـيست بـمنسوخة، لا ينبغي أن تـجادل
+  من آمن منهم، لعلهم يحسنون شيئاً فـي كتاب الله، لا تعلـمه أنت، فلا تـجادله، ولا ينبغي
+  أن تـجادل إلاَّ الذين ظلـموا، الـمقـيـمَ منهم علـى دينه. فقال: هو الذي يُجادَلُ،
+  ويُقال له بـالسيف. قال: وهؤلاء يهود. قال: ولـم يكن بدار الهجرة من النصارى أحد، إنـما
+  كانوا يهوداً هم الذي كلَّـموا وحالفوا رسول الله صلى الله عليه وسلم، وغدرت النضير
+  يوم أُحُد، وغدرت قُريظة يوم الأحزاب.</font></font>&#13;\t\t\t<label disabled=\"true\"
+  class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(29, 46)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(29,46)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَلاَ تُجَادِلُوۤاْ أَهْلَ ٱلْكِتَابِ إِلاَّ بِٱلَّتِي
+  هِيَ أَحْسَنُ إِلاَّ ٱلَّذِينَ ظَلَمُواْ مِنْهُمْ وَقُولُوۤاْ آمَنَّا بِٱلَّذِيۤ
+  أُنزِلَ إِلَيْنَا وَأُنزِلَ إِلَيْكُمْ وَإِلَـٰهُنَا وَإِلَـٰهُكُمْ وَاحِدٌ وَنَحْنُ
+  لَهُ مُسْلِمُونَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال آخرون: بل نزلت هذه الآية قبل
+  أن يؤمر النبـيّ صلى الله عليه وسلم بـالقتال، وقالوا: هي منسوخة نسخها قوله:</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">قاتِلُوا
+  الَّذِينَ لا يُؤْمِنُونَ بـاللّهِ وَلا بـالـيَوْمِ الآخِرِ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">ذكر
+  من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا بشر، قال: ثنا يزيد، قال:
   ثنا سعيد، عن قَتادة، قوله { وَلا تُـجادِلُوا أهْلَ الكِتابِ إلاَّ بـالَّتِـي هِيَ
   أحْسَنُ } ثم نسخ بعد ذلك، فأمر بقتالهم فـي سورة براءة، ولا مـجادلة أشدّ من السيف
   أن يقاتلوا حتـى يشهدوا أن لا إله إلاَّ الله، وأن مـحمداً رسول الله صلى الله عليه
-  وسلم، أو يقرّوا بـالـخَراج.وأولـى هذه الأقوال بـالصواب، قول من قال: عنى بقوله {
-  إلاَّ الَّذِينَ ظَلـمُوا مِنْهُمْ }: إلاَّ الذين امتنعوا من أداء الـجزية، ونصبوا
-  دونها الـحرب.فإن قال قائل: أو غير ظالـم من أهل الكتاب، إلاَّ من لـم يؤدّ الـجزية؟
+  وسلم، أو يقرّوا بـالـخَراج.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وأولـى
+  هذه الأقوال بـالصواب، قول من قال: عنى بقوله { إلاَّ الَّذِينَ ظَلـمُوا مِنْهُمْ
+  }: إلاَّ الذين امتنعوا من أداء الـجزية، ونصبوا دونها الـحرب.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">فإن قال قائل: أو غير ظالـم من أهل الكتاب، إلاَّ من لـم يؤدّ الـجزية؟
   قـيـل: إن جميعهم وإن كانوا لأنفسهم بكفرهم بـالله، وتكذيبهم رسوله مـحمداً صلى الله
   عليه وسلم، ظَلَـمة، فإنه لـم يعن بقوله { إلاَّ الَّذِينَ ظَلَـمُوا مِنْهُمْ } ظُلْـمَ
   أنفسهم. وإنـما عنى به: إلاَّ الذين ظلـموا منهم أهل الإيـمان بـالله ورسوله مـحمد
-  صلى الله عليه وسلم، فإن أولئك جادلوهم بـالقتال.وإنـما قلنا: ذلك أولـى الأقوال فـيه
-  بـالصواب، لأن الله تعالـى ذكره أذِن للـمؤمنـين بجدال ظلـمة أهل الكتاب بغير الذي
-  هو أحسن، بقوله { إلاَّ الَّذِينَ ظَلـمُوا مِنْهُمْ } فمعلوم إذ كان قد أذن لهم فـي
-  جدالهم، أن الذين لـم يؤذن لهم فـي جدالهم إلاَّ بـالتـي هي أحسن، غير الذين أذن لهم
-  بذلك فـيهم، وأنهم غير الـمؤمن، لأن الـمؤمن منهم غير جائز جداله إلاَّ فـي غير الـحقّ،
-  لأنه إذا جاء بغير الـحقّ، فقد صار فـي معنى الظلـمة فـي الذي خالف فـيه الـحقّ. فإذ
-  كان ذلك كذلك، تبـين أن لا معنى لقول من قال: عنى بقوله { وَلا تُـجادِلُوا أهلَ الكِتابِ
-  } أهل الإيـمان منهم، وكذلك لا معنى لقول من قال: نزلت هذه الآية قبل الأمر بـالقتال،
-  وزعم أنها منسوخة، لأنه لا خبر بذلك يقطع العذر، ولا دلالة علـى صحته من فطرة عقل.وقد
+  صلى الله عليه وسلم، فإن أولئك جادلوهم بـالقتال.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وإنـما
+  قلنا: ذلك أولـى الأقوال فـيه بـالصواب، لأن الله تعالـى ذكره أذِن للـمؤمنـين بجدال
+  ظلـمة أهل الكتاب بغير الذي هو أحسن، بقوله { إلاَّ الَّذِينَ ظَلـمُوا مِنْهُمْ }
+  فمعلوم إذ كان قد أذن لهم فـي جدالهم، أن الذين لـم يؤذن لهم فـي جدالهم إلاَّ بـالتـي
+  هي أحسن، غير الذين أذن لهم بذلك فـيهم، وأنهم غير الـمؤمن، لأن الـمؤمن منهم غير جائز
+  جداله إلاَّ فـي غير الـحقّ، لأنه إذا جاء بغير الـحقّ، فقد صار فـي معنى الظلـمة فـي
+  الذي خالف فـيه الـحقّ. فإذ كان ذلك كذلك، تبـين أن لا معنى لقول من قال: عنى بقوله
+  { وَلا تُـجادِلُوا أهلَ الكِتابِ } أهل الإيـمان منهم، وكذلك لا معنى لقول من قال:
+  نزلت هذه الآية قبل الأمر بـالقتال، وزعم أنها منسوخة، لأنه لا خبر بذلك يقطع العذر،
+  ولا دلالة علـى صحته من فطرة عقل.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقد
   بـيَّنا فـي غير موضع من كتابنا، أنه لا يجوز أن يحكم علـى حكم الله فـي كتابه بأنه
-  منسوخ إلاَّ بحجة يجب التسلـيـم لها من خبر أو عقل.وقوله: { وَقُولُوا آمَنَّا بـالَّذِي
-  أُنْزِلَ إلَـيْنا وأُنْزِلَ إلَـيْكُمْ، وَإلَهُنا وإلهُكُمْ وَاحِدٌ، ونَـحنُ لَهُ
-  مُسْلِـمُونَ } يقول تعالـى ذكره للـمؤمنـين به وبرسوله، الذين نهاهم أن يجادلوا أهل
-  الكتاب إلاَّ بـالتـي هي أحسن: إذا حدثكم أهل الكتاب أيها القوم عن كتبهم، وأخبروكم
-  عنها بـما يـمكن ويجوز أن يكونوا فـيه صادقـين، وأن يكونوا فـيه كاذبـين، ولـم تعلـموا
-  أمرهم وحالهم فـي ذلك فقولوا لهم { آمَّنَّا بِـالَّذِي أُنْزِلَ إلَـينا وأنْزِلَ
-  إلَـيْكُمْ } مـما فـي التوراة والإنـجيـل { وَإلَهُنا وإلهُكُمْ وَاحِدٌ } يقول: ومعبودنا
-  ومعبودكم واحد { ونَـحْنُ لَهُ مُسْلِـمُونَ } يقول: ونـحن له خاضعون متذللون بـالطاعة
-  فـيـما أمرنا ونهانا.\r\n\t\t\t\r\n\t\t\t1 2 3 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَلاَ تُجَادِلُوۤاْ أَهْلَ ٱلْكِتَابِ
-  إِلاَّ بِٱلَّتِي هِيَ أَحْسَنُ إِلاَّ ٱلَّذِينَ ظَلَمُواْ مِنْهُمْ وَقُولُوۤاْ آمَنَّا
-  بِٱلَّذِيۤ أُنزِلَ إِلَيْنَا وَأُنزِلَ إِلَيْكُمْ وَإِلَـٰهُنَا وَإِلَـٰهُكُمْ وَاحِدٌ
-  وَنَحْنُ لَهُ مُسْلِمُونَ }وبنـحو الذي قلنا فـي ذلك، جاء الأثر عن رسول الله صلى
-  الله عليه وسلم. ذكر الرواية بذلك:حدثنا مـحمد بن الـمثنى، قال: ثنا عثمان بن عمر،
-  قال: أخبرنا علـيّ، عن يحيى بن أبـي كثـير، عن أبـي سلـمة عن أبـي هريرة، قال: كان
-  أهل الكتاب يقرءون التوراة بـالعبرانـية، فـيفسرونها بـالعربـية لأهل الإسلام، فقال
-  رسول الله صلى الله عليه وسلم: \" لا تُصَدّقُوا أهْلَ الكِتابِ وَلا تُكَذّبُوهُمْ،
-  وَقُولُوا آمَنَّا بـالَّذِي أُنْزِلَ إلَـيْنا وأُنْزِلَ إلَـيْكُمْ، وَإلهُنا وإلهُكُمْ
-  وَاحِدٌ، ونَـحْنُ لَهُ مُسْلِـمُونَ«  . \" حدثنا ابن بشار، قال: ثنا أبو عاصم، قال:
-  ثنا سفـيان، عن سعد بن إبراهيـم، عن عطاء بن يسار، قال: كان ناس من الـيهود يحدثون
-  ناساً من أصحاب النبـيّ صلى الله عليه وسلم، فقال: \" لا تُصَدّقُوهُمْ وَلا تُكَذّبُوهُمْ،
-  وَقُولُوا آمَنَّا بـالَّذِي أُنْزِلَ إلَـيْنا وأُنْزِلَ إلَـيْكُمْ« \" قال: ثنا
-  أبو عامر، قال: ثنا سفـيان، عن سلـيـمان، عن عمارة بن عمير، عن حريث بن ظهير، عن عبد
-  الله، قال: لا تسألوا أهل الكتاب عن شيء، فإنهم لن يهدوكم وقد ضلوا، إما أن تكذبوا
-  بحقّ أو تصدّقوا ببـاطل، فإنه لـيس أحد من أهل الكتاب إلاَّ وفـي قلبه تالـية تدعوه
-  إلـى دينه كتالـية الـمال. وكان مـجاهد يقول فـي ذلك ما:حدثنـي به مـحمد بن عمرو، قال:
-  ثنا أبو عاصم، قال: ثنا عيسى وحدثنـي الـحارث، قال: ثنا الـحسن قال: ثنا ورقاء جميعا،
-  عن ابن أبـي نـجيح، عن مـجاهد، قوله: { إلاَّ الَّذِينَ ظَلَـمُوا مِنْهُمْ } قال:
-  قالوا مع الله إله، أو له ولد، أو له شريك، أو يد الله مغلولة، أو الله فقـير، أو آذوا
-  مـحمداً، { وقُولُوا آمَنَّا بـالَّذِي أُنْزِل إلَـيْنا وأُنْزِلَ إلَـيْكُمْ } لـمن
-  لـم يقل هذا من أهل الكتاب.\r\n\t\t\t\r\n\t\t\t1 2 3 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  منسوخ إلاَّ بحجة يجب التسلـيـم لها من خبر أو عقل.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقوله:
+  { وَقُولُوا آمَنَّا بـالَّذِي أُنْزِلَ إلَـيْنا وأُنْزِلَ إلَـيْكُمْ، وَإلَهُنا
+  وإلهُكُمْ وَاحِدٌ، ونَـحنُ لَهُ مُسْلِـمُونَ } يقول تعالـى ذكره للـمؤمنـين به وبرسوله،
+  الذين نهاهم أن يجادلوا أهل الكتاب إلاَّ بـالتـي هي أحسن: إذا حدثكم أهل الكتاب أيها
+  القوم عن كتبهم، وأخبروكم عنها بـما يـمكن ويجوز أن يكونوا فـيه صادقـين، وأن يكونوا
+  فـيه كاذبـين، ولـم تعلـموا أمرهم وحالهم فـي ذلك فقولوا لهم { آمَّنَّا بِـالَّذِي
+  أُنْزِلَ إلَـينا وأنْزِلَ إلَـيْكُمْ } مـما فـي التوراة والإنـجيـل { وَإلَهُنا وإلهُكُمْ
+  وَاحِدٌ } يقول: ومعبودنا ومعبودكم واحد { ونَـحْنُ لَهُ مُسْلِـمُونَ } يقول: ونـحن
+  له خاضعون متذللون بـالطاعة فـيـما أمرنا ونهانا.</font></font>&#13;\t\t\t<label disabled=\"true\"
+  class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(29, 46)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(29,46)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَلاَ تُجَادِلُوۤاْ أَهْلَ ٱلْكِتَابِ إِلاَّ بِٱلَّتِي
+  هِيَ أَحْسَنُ إِلاَّ ٱلَّذِينَ ظَلَمُواْ مِنْهُمْ وَقُولُوۤاْ آمَنَّا بِٱلَّذِيۤ
+  أُنزِلَ إِلَيْنَا وَأُنزِلَ إِلَيْكُمْ وَإِلَـٰهُنَا وَإِلَـٰهُكُمْ وَاحِدٌ وَنَحْنُ
+  لَهُ مُسْلِمُونَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">وبنـحو الذي قلنا فـي ذلك، جاء الأثر
+  عن رسول الله صلى الله عليه وسلم. ذكر الرواية بذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  مـحمد بن الـمثنى، قال: ثنا عثمان بن عمر، قال: أخبرنا علـيّ، عن يحيى بن أبـي كثـير،
+  عن أبـي سلـمة عن أبـي هريرة، قال: كان أهل الكتاب يقرءون التوراة بـالعبرانـية، فـيفسرونها
+  بـالعربـية لأهل الإسلام، فقال رسول الله صلى الله عليه وسلم:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" لا تُصَدّقُوا أهْلَ الكِتابِ
+  وَلا تُكَذّبُوهُمْ، وَقُولُوا آمَنَّا بـالَّذِي أُنْزِلَ إلَـيْنا وأُنْزِلَ إلَـيْكُمْ،
+  وَإلهُنا وإلهُكُمْ وَاحِدٌ، ونَـحْنُ لَهُ مُسْلِـمُونَ« </font></font></b><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"><br/></font></font></b><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> . \" </font></font></b><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن بشار، قال: ثنا أبو عاصم، قال: ثنا سفـيان، عن سعد بن إبراهيـم، عن عطاء بن يسار،
+  قال: كان ناس من الـيهود يحدثون ناساً من أصحاب النبـيّ صلى الله عليه وسلم، فقال:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" لا تُصَدّقُوهُمْ وَلا تُكَذّبُوهُمْ،
+  وَقُولُوا آمَنَّا بـالَّذِي أُنْزِلَ إلَـيْنا وأُنْزِلَ إلَـيْكُمْ« \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قال: ثنا أبو عامر، قال: ثنا سفـيان، عن سلـيـمان، عن عمارة بن عمير،
+  عن حريث بن ظهير، عن عبد الله، قال: لا تسألوا أهل الكتاب عن شيء، فإنهم لن يهدوكم
+  وقد ضلوا، إما أن تكذبوا بحقّ أو تصدّقوا ببـاطل، فإنه لـيس أحد من أهل الكتاب إلاَّ
+  وفـي قلبه تالـية تدعوه إلـى دينه كتالـية الـمال. وكان مـجاهد يقول فـي ذلك ما:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي به مـحمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى وحدثنـي
+  الـحارث، قال: ثنا الـحسن قال: ثنا ورقاء جميعا، عن ابن أبـي نـجيح، عن مـجاهد، قوله:
+  { إلاَّ الَّذِينَ ظَلَـمُوا مِنْهُمْ } قال: قالوا مع الله إله، أو له ولد، أو له
+  شريك، أو يد الله مغلولة، أو الله فقـير، أو آذوا مـحمداً، { وقُولُوا آمَنَّا بـالَّذِي
+  أُنْزِل إلَـيْنا وأُنْزِلَ إلَـيْكُمْ } لـمن لـم يقل هذا من أهل الكتاب.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">3 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a id=\"NextClass\"/></td></tr></table></center></div></section>"
 

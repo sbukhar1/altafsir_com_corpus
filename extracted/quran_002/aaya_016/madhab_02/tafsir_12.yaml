@@ -1,4 +1,4 @@
-location:
+position:
   sura: '002'
   aaya: '016'
   madhab: '02'
@@ -7,16 +7,45 @@ meta:
   title: تفسير النكت والعيون
   author: الماوردي
   year: '450'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ أُوْلَـٰئِكَ ٱلَّذِينَ
-  ٱشْتَرَوُاْ ٱلضَّلَـٰلَةَ بِٱلْهُدَىٰ فَمَا رَبِحَتْ تِّجَارَتُهُمْ وَمَا كَانُواْ
-  مُهْتَدِينَ }قوله عز وجل: { أُولَئِكَ الِّذِينَ اشْتَرَوا الضَّلاَلَةَ بِالْهُدَى
-  فَمَا رَبِحَتْ تِجَارَتُهُمْ } الضلالة: الكفر، والهدى: الإيمان.وفي قوله: { اشْتَرَوُا
-  الضَّلاَلَةَ } ثلاثة أوجه:أحدها: أنه على حقيقة الشراء فكأنهم اشتروا الكفر بالإيمان.والثاني:
-  أنه بمعنى استحبوا الكفر على الإيمان، فعبر عنه بالشراء، لأن الشراء يكون فيما يستحبه
-  مشتريه، فإما أن يكون على معنى شراء المعاوضة فعلاً، لأن المنافقين لم يكونوا قد آمنوا،
-  فيبيعوا إيمانهم.والثالث: أنه بمعنى أخذوا الكفر وتركوا الإيمان، وهذا قول ابن عباس
-  وابن مسعود.{ فَمَا رَبِحَت تِجَارَتُهُمْ وَمَا كَانُوا مُهْتَدِينَ } فيه ثلاثة أوجه:أحدها:
-  وما كانوا مهتدين، في اشتراء الضلالة.والثاني: وما كانوا مهتدين إلى التجارة التي اهتدى
-  إليها المؤمنون.والثالث: أنه لما كان التاجر قد لا يربح، ويكون على هدى في تجارته نفى
-  الله عنهم الأمرين من الربح والاهتداء، مبالغة في ذمهم.\r\n\t\t\t\r\n\t\t\t</section>"
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(2, 16)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(2,16)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">أُوْلَـٰئِكَ
+  ٱلَّذِينَ ٱشْتَرَوُاْ ٱلضَّلَـٰلَةَ بِٱلْهُدَىٰ فَمَا رَبِحَتْ تِّجَارَتُهُمْ وَمَا
+  كَانُواْ مُهْتَدِينَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">قوله عز وجل: { أُولَئِكَ الِّذِينَ
+  اشْتَرَوا الضَّلاَلَةَ بِالْهُدَى فَمَا رَبِحَتْ تِجَارَتُهُمْ } الضلالة: الكفر،
+  والهدى: الإيمان.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وفي قوله: { اشْتَرَوُا الضَّلاَلَةَ
+  } ثلاثة أوجه:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">أحدها: أنه على حقيقة الشراء فكأنهم
+  اشتروا الكفر بالإيمان.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">والثاني: أنه بمعنى استحبوا الكفر
+  على الإيمان، فعبر عنه بالشراء، لأن الشراء يكون فيما يستحبه مشتريه، فإما أن يكون
+  على معنى شراء المعاوضة فعلاً، لأن المنافقين لم يكونوا قد آمنوا، فيبيعوا إيمانهم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">والثالث: أنه بمعنى أخذوا الكفر وتركوا الإيمان، وهذا قول ابن عباس
+  وابن مسعود.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">{ فَمَا رَبِحَت تِجَارَتُهُمْ وَمَا
+  كَانُوا مُهْتَدِينَ } فيه ثلاثة أوجه:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">أحدها:
+  وما كانوا مهتدين، في اشتراء الضلالة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">والثاني:
+  وما كانوا مهتدين إلى التجارة التي اهتدى إليها المؤمنون.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">والثالث:
+  أنه لما كان التاجر قد لا يربح، ويكون على هدى في تجارته نفى الله عنهم الأمرين من
+  الربح والاهتداء، مبالغة في ذمهم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

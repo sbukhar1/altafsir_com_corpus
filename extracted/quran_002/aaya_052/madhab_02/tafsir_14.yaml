@@ -1,4 +1,4 @@
-location:
+position:
   sura: '002'
   aaya: '052'
   madhab: '02'
@@ -7,111 +7,287 @@ meta:
   title: تفسير المحرر الوجيز في تفسير الكتاب العزيز
   author: ابن عطية
   year: '546'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَإِذْ فَرَقْنَا
-  بِكُمُ ٱلْبَحْرَ فَأَنجَيْنَٰكُمْ وَأَغْرَقْنَا آلَ فِرْعَوْنَ وَأَنْتُمْ تَنظُرُونَ
-  } * { وَإِذْ وَٰعَدْنَا مُوسَىٰ أَرْبَعِينَ لَيْلَةً ثُمَّ ٱتَّخَذْتُمُ ٱلْعِجْلَ
-  مِن بَعْدِهِ وَأَنْتُمْ ظَٰلِمُونَ } * { ثُمَّ عَفَوْنَا عَنكُم مِّن بَعْدِ ذَلِكَ
-  لَعَلَّكُمْ تَشْكُرُونَ } * { وَإِذْ آتَيْنَا مُوسَى ٱلْكِتَابَ وَٱلْفُرْقَانَ لَعَلَّكُمْ
-  تَهْتَدُونَ }{ فرقنا } معناه: جعلناه فرقاً، وقرأ الزهري \" فرَّقنا \" بتشديد الراء،
-  ومعنى { بكم } بسببكم، وقيل لما كانوا بين الفرق وقت جوازهم فكأنهم بهم فرق، وقيل معناه
-  لكم، والباء عوض اللام وهذا ضعيف، و { البحر } هو بحر القلزم، ولم يفرق البحر عرضاً
-  جزعاً من ضفة إلى ضفة، وإنما فرق من موضع إلى موضع آخر في ضفة واحدة، وكان ذلك الفرق
-  بقرب موضع النجاة، ولا يلحق في البر إلا في أيام كثيرة بسبب جبال وأوعار حائلة.وذكر
-  العامري أن موضع خروجهم من البحر كان قريباً من برية فلسطين وهي كانت طريقهم.وقيل انفلق
-  البحر عرضاً وانفرق البحر على اثني عشر طريقاً، طريق لكل سبط فلما دخلوها قالت كل طائفة
-  غرق أصحابنا وجزعوا، فقال موسى: اللهم أعني على أخلاقهم السيئة، فأوحى الله إليه أن
-  أدر عصاك على البحر، فأدارها فصار في الماء فتوح كالطاق يرى بعضهم بعضاً، وجازوا، وجبريل
-  صلى الله عليه وسلم في ساقتهم على ماذيانة يحث بني إسرائيل ويقول لآل فرعون: مهلاً
-  حتى يلحق آخركم أولكم، فلما وصل فرعون إلى البحر أراد الدخول فنفر فرسه فتعرض له جبريل
-  بالرمكة فاتبعها الفرس، ودخل آل فرعون وميكائيل يحثهم، فلما لم يبق إلا ميكائيل في
-  ساقتهم على الضفة وحده انطبق البحر عليهم فغرقوا.و { تنظرون } قيل معناه بأبصاركم،
-  لقرب بعضهم من بعض.وقيل معناه ببصائركم للاعتبار لأنهم كانوا في شغل عن الوقوف والنظر
-  بالأبصار.وقيل: إن آل فرعون طفوا على الماء فنظروا إليهم.وقيل المعنى وأنتم بحال من
-  ينظر لو نظر، كما تقول: هذا الأمر منك بمرأى ومسمع، أي بحال تراه وتسمعه إن شئت.قال
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(2, 50)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(2,50)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَإِذْ
+  فَرَقْنَا بِكُمُ ٱلْبَحْرَ فَأَنجَيْنَٰكُمْ وَأَغْرَقْنَا آلَ فِرْعَوْنَ وَأَنْتُمْ
+  تَنظُرُونَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">وَإِذْ وَٰعَدْنَا مُوسَىٰ أَرْبَعِينَ لَيْلَةً
+  ثُمَّ ٱتَّخَذْتُمُ ٱلْعِجْلَ مِن بَعْدِهِ وَأَنْتُمْ ظَٰلِمُونَ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">ثُمَّ
+  عَفَوْنَا عَنكُم مِّن بَعْدِ ذَلِكَ لَعَلَّكُمْ تَشْكُرُونَ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَإِذْ
+  آتَيْنَا مُوسَى ٱلْكِتَابَ وَٱلْفُرْقَانَ لَعَلَّكُمْ تَهْتَدُونَ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">{ فرقنا } معناه: جعلناه فرقاً، وقرأ الزهري \" فرَّقنا \" بتشديد
+  الراء، ومعنى { بكم } بسببكم، وقيل لما كانوا بين الفرق وقت جوازهم فكأنهم بهم فرق،
+  وقيل معناه لكم، والباء عوض اللام وهذا ضعيف، و { البحر } هو بحر القلزم، ولم يفرق
+  البحر عرضاً جزعاً من ضفة إلى ضفة، وإنما فرق من موضع إلى موضع آخر في ضفة واحدة، وكان
+  ذلك الفرق بقرب موضع النجاة، ولا يلحق في البر إلا في أيام كثيرة بسبب جبال وأوعار
+  حائلة.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وذكر العامري أن موضع خروجهم من
+  البحر كان قريباً من برية فلسطين وهي كانت طريقهم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقيل
+  انفلق البحر عرضاً وانفرق البحر على اثني عشر طريقاً، طريق لكل سبط فلما دخلوها قالت
+  كل طائفة غرق أصحابنا وجزعوا، فقال موسى: اللهم أعني على أخلاقهم السيئة، فأوحى الله
+  إليه أن أدر عصاك على البحر، فأدارها فصار في الماء فتوح كالطاق يرى بعضهم بعضاً، وجازوا،
+  وجبريل صلى الله عليه وسلم في ساقتهم على ماذيانة يحث بني إسرائيل ويقول لآل فرعون:
+  مهلاً حتى يلحق آخركم أولكم، فلما وصل فرعون إلى البحر أراد الدخول فنفر فرسه فتعرض
+  له جبريل بالرمكة فاتبعها الفرس، ودخل آل فرعون وميكائيل يحثهم، فلما لم يبق إلا ميكائيل
+  في ساقتهم على الضفة وحده انطبق البحر عليهم فغرقوا.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">و
+  { تنظرون } قيل معناه بأبصاركم، لقرب بعضهم من بعض.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقيل
+  معناه ببصائركم للاعتبار لأنهم كانوا في شغل عن الوقوف والنظر بالأبصار.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقيل: إن آل فرعون طفوا على الماء فنظروا إليهم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقيل المعنى وأنتم بحال من ينظر لو نظر، كما تقول: هذا الأمر منك بمرأى
+  ومسمع، أي بحال تراه وتسمعه إن شئت.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال
   الطبري رحمه الله: وفي إخبار القرآن على لسان محمد صلى الله عليه وسلم بهذه المغيبات
   التي لم تكن من علم العرب ولا وقعت إلا في خفي علم بني إسرائيل، دليل واضح عند بني
-  إسرائيل وقائم عليهم بنبوة محمد صلى الله عليه وسلم.وقرأ الجمهور \" واعدنا \".وقرأ
-  أبو عمرو. \" وعدنا \" ، ورجحه أبو عبيد، وقال: إن المواعدة لا تكون إلا من البشر.قال
+  إسرائيل وقائم عليهم بنبوة محمد صلى الله عليه وسلم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقرأ
+  الجمهور \" واعدنا \".</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقرأ أبو عمرو. \" وعدنا \" ، ورجحه
+  أبو عبيد، وقال: إن المواعدة لا تكون إلا من البشر.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال
   القاضي أبو محمد رحمه الله: وليس هذا بصحيح، لأن قبول موسى لوعد الله والتزامه وارتقابه
   يشبه المواعدة، و { موسى } اسم أعجمي لا ينصرف للعجمة والتعريف، والقبط على ما يروى
   يقولون للماء \" مو \" ، وللشجر \" سا \" ، فلما وُجِدَ موسى في التابوت عند ماء وشجر
-  سُمِّي \" موسى \".قال ابن إسحاق: هو موسى بن عمران بن يصهر بن قاهث بن لاوي بن يعقوب
-  بن إسحاق بن إبراهيم الخليل، ونصب أربعين على المفعول الثاني، ولا يجوز نصبها على الظرف
-  في هذا الموضع، وهي فيما روي ذو القعدة وعشر ذي الحجة، وخص الليالي دون الأيام بالذكر
-  إذ الليلة أقدم من اليوم وقبله في الرتبة، ولذلك وقع بها التاريخ.\r\n\t\t\t\r\n\t\t\t1 2 3 4 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَإِذْ فَرَقْنَا بِكُمُ ٱلْبَحْرَ
-  فَأَنجَيْنَٰكُمْ وَأَغْرَقْنَا آلَ فِرْعَوْنَ وَأَنْتُمْ تَنظُرُونَ } * { وَإِذْ
-  وَٰعَدْنَا مُوسَىٰ أَرْبَعِينَ لَيْلَةً ثُمَّ ٱتَّخَذْتُمُ ٱلْعِجْلَ مِن بَعْدِهِ
-  وَأَنْتُمْ ظَٰلِمُونَ } * { ثُمَّ عَفَوْنَا عَنكُم مِّن بَعْدِ ذَلِكَ لَعَلَّكُمْ
-  تَشْكُرُونَ } * { وَإِذْ آتَيْنَا مُوسَى ٱلْكِتَابَ وَٱلْفُرْقَانَ لَعَلَّكُمْ تَهْتَدُونَ
-  }قال النقاش: \" وفي ذلك إشارة إلى صلة الصوم، لأنه لو ذكر الأيام لأمكن أن يعتقد أنه
-  كان يفطر بالليل، فلما نص على الليالي اقتضت قوة الكلام أنه عليه السلام واصل أربعين
-  ليلة بأيامها \".قال القاضي أبو محمد رحمه الله: حدثني أبي رضي الله عنه قال: سمعت
+  سُمِّي \" موسى \".</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">قال ابن إسحاق: هو موسى بن عمران
+  بن يصهر بن قاهث بن لاوي بن يعقوب بن إسحاق بن إبراهيم الخليل، ونصب أربعين على المفعول
+  الثاني، ولا يجوز نصبها على الظرف في هذا الموضع، وهي فيما روي ذو القعدة وعشر ذي الحجة،
+  وخص الليالي دون الأيام بالذكر إذ الليلة أقدم من اليوم وقبله في الرتبة، ولذلك وقع
+  بها التاريخ.</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\"
+  border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE:
+  none; BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(14,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(14,2,1)\"><u>2</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(14,3,1)\"><u>3</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(14,4,1)\"><u>4</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2, 50)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,50)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَإِذْ فَرَقْنَا بِكُمُ ٱلْبَحْرَ فَأَنجَيْنَٰكُمْ
+  وَأَغْرَقْنَا آلَ فِرْعَوْنَ وَأَنْتُمْ تَنظُرُونَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَإِذْ وَٰعَدْنَا
+  مُوسَىٰ أَرْبَعِينَ لَيْلَةً ثُمَّ ٱتَّخَذْتُمُ ٱلْعِجْلَ مِن بَعْدِهِ وَأَنْتُمْ
+  ظَٰلِمُونَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">ثُمَّ عَفَوْنَا عَنكُم مِّن بَعْدِ ذَلِكَ
+  لَعَلَّكُمْ تَشْكُرُونَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">وَإِذْ آتَيْنَا مُوسَى ٱلْكِتَابَ وَٱلْفُرْقَانَ
+  لَعَلَّكُمْ تَهْتَدُونَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\"
+  dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">قال النقاش: \"
+  وفي ذلك إشارة إلى صلة الصوم، لأنه لو ذكر الأيام لأمكن أن يعتقد أنه كان يفطر بالليل،
+  فلما نص على الليالي اقتضت قوة الكلام أنه عليه السلام واصل أربعين ليلة بأيامها \".</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قال القاضي أبو محمد رحمه الله: حدثني أبي رضي الله عنه قال: سمعت
   الشيخ الزاهد الإمام الواعظ أبا الفضل بن الجوهري رحمه الله يعظ الناس بهذا المعنى
   في الخلوة بالله والدنو منه في الصلاة ونحوه، وأن ذلك يشغل عن كل طعام وشراب ويقول:
   أين حال موسى في القرب من الله ووصال ثمانين من الدهر من قوله حين سار إلى الخضر لفتاه
-  في بعض يوم: \" آتنا غداءنا \"؟ وكل المفسرين على أن الأربعين كلها ميعاد.وقال بعض
-  البصريين: وَعَدَهُ رأس الأربعين ليلة.قال القاضي أبو محمد: وهذا ضعيف: وقوله تعالى
-  { ثم اتخذتم }. قرأ أكثر السبعة بالإدغام.وقرأ ابن كثير وعاصم في روايه حفص عنه بإظهارالذال
-  و { ثم } للمهلة، ولتدل على أن الاتخاذ بعد المواعدة، واتخذ وزنه افتعل من الأخذ.قال
-  أبو علي: \" هو من تخذ لا من أخذ \" وأنشد [المخرق العبدي]: [الطويل]وَقَدْ تَخِذتْ
-  رِجْلي إلى جَنْبِ غَرْزِها   نسيفاً كأُفْحوصِ القَطَاة المطرقونصب { العجل } بـ {
-  اتخذتم } ، والمفعول الثاني محذوف، تقديره اتخذتم العجل إلهاً، واتخذ قد يتعدى إلى
-  مفعول واحد، كقوله تعالى:{ يا ليتني اتخذت مع الرسول سبيلاً }[الفرقان: 27] وقد يتعدى
-  إلى مفعولين أحدهما هو الآخر في المعنى كقوله تعالى:{ اتخذوا أيمانهم جنة }[المجادلة:
-  16، المنافقون: 2]، وكهذه الآية وغيرها، والضمير في { بعده } يعود على موسى.وقيل: على
-  انطلاقه للتكليم، إذ المواعدة تقتضيه.وقيل: على الوعد، وقصص هذه الآية أن موسى صلى
-  الله عليه وسلم لما خرج ببني إسرائيل من مصر، قال لهم: إن الله تعالى سينجيكم من آل
-  فرعون وينفلكم حليهم ومتاعهم الذي كان أمرهم باستعارته، وروي أنهم استعاروه برأيهم،
+  في بعض يوم: \" آتنا غداءنا \"؟ وكل المفسرين على أن الأربعين كلها ميعاد.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال بعض البصريين: وَعَدَهُ رأس الأربعين ليلة.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قال القاضي أبو محمد: وهذا ضعيف: وقوله تعالى { ثم اتخذتم }. قرأ أكثر
+  السبعة بالإدغام.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقرأ ابن كثير وعاصم في روايه حفص
+  عنه بإظهارالذال و { ثم } للمهلة، ولتدل على أن الاتخاذ بعد المواعدة، واتخذ وزنه افتعل
+  من الأخذ.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">قال أبو علي: \" هو من تخذ لا من
+  أخذ \" وأنشد [المخرق العبدي]: [الطويل]</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><table class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">وَقَدْ تَخِذتْ
+  رِجْلي إلى جَنْبِ غَرْزِها</font></font></b></td><td class=\"TextArabic\">   </td><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">نسيفاً كأُفْحوصِ
+  القَطَاة المطرق</font></font></b></td></tr></table><font class=\"TextResultArabic\"><font
+  color=\"black\">ونصب { العجل } بـ { اتخذتم } ، والمفعول الثاني محذوف، تقديره اتخذتم
+  العجل إلهاً، واتخذ قد يتعدى إلى مفعول واحد، كقوله تعالى:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">يا ليتني اتخذت مع الرسول سبيلاً</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[الفرقان:
+  27] وقد يتعدى إلى مفعولين أحدهما هو الآخر في المعنى كقوله تعالى:</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">اتخذوا
+  أيمانهم جنة</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">[المجادلة: 16، المنافقون: 2]، وكهذه الآية وغيرها، والضمير في { بعده
+  } يعود على موسى.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقيل: على انطلاقه للتكليم، إذ المواعدة
+  تقتضيه.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقيل: على الوعد، وقصص هذه الآية
+  أن موسى صلى الله عليه وسلم لما خرج ببني إسرائيل من مصر، قال لهم: إن الله تعالى سينجيكم
+  من آل فرعون وينفلكم حليهم ومتاعهم الذي كان أمرهم باستعارته، وروي أنهم استعاروه برأيهم،
   فنفلهم الله ذلك بعد خروجهم، وقال لهم موسى عن الله تعالى: إنه ينزل عليّ كتاباً فيه
   التحليل والتحريم والهدى لكم، فلما جازوا البحر طالبوا موسى بما قال لهم من أمر الكتاب،
   فخرج لميعاد ربه وحده، وقد أعلمهم بالأربعين ليلة، فعدوا عشرين يوماً بعشرين ليلة،
-  ثم قالوا هذه أربعون من الدهر، وقد أخلفنا الموعد، وبدا تعنتهم وخلافهم.وكان السامري
-  رجلاً من بني إسرائيل يسمى موسى بن ظفر، وقيل لم يكن من بني إسرائيل بل كان غريباً
-  فيهم، وكان قد عرف جبريل عليه السلام وقت عبرهم البحر، فقالت طائفة: أنكر هيئته فعرف
-  أنه ملك.\r\n\t\t\t\r\n\t\t\t1 2 3 4 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَإِذْ فَرَقْنَا بِكُمُ ٱلْبَحْرَ
-  فَأَنجَيْنَٰكُمْ وَأَغْرَقْنَا آلَ فِرْعَوْنَ وَأَنْتُمْ تَنظُرُونَ } * { وَإِذْ
-  وَٰعَدْنَا مُوسَىٰ أَرْبَعِينَ لَيْلَةً ثُمَّ ٱتَّخَذْتُمُ ٱلْعِجْلَ مِن بَعْدِهِ
-  وَأَنْتُمْ ظَٰلِمُونَ } * { ثُمَّ عَفَوْنَا عَنكُم مِّن بَعْدِ ذَلِكَ لَعَلَّكُمْ
-  تَشْكُرُونَ } * { وَإِذْ آتَيْنَا مُوسَى ٱلْكِتَابَ وَٱلْفُرْقَانَ لَعَلَّكُمْ تَهْتَدُونَ
-  }وقال طائفة: كانت أم السامري ولدته عام الذبح فجعلته في غار وأطبقت عليه، فكان جبريل
-  صلى الله عليه وسلم يغذوه بأصابع نفسه فيجد في إصبع لبناً، وفي إصبع عسلاً، وفي إصبع
-  سمناً، فلما رآه وقت جواز البحر عرفه، فأخذ من تحت حافر فرسه قبضة تراب، وألقي في روعه
-  أنه لن يلقيها على شيء ويقول له كن كذا إلا كان، فلما خرج موسى لميعاده قال هارون لبني
-  إسرائيل: إن ذلك الحلي والمتاع الذي استعرتم من القبط لا يحل لكم، فجيئوا به حتى تأكله
-  النار التي كانت العادة أن تنزل على القرابين.وقيل: بل أوقد لهم ناراً وأمرهم بطرح
-  جميع ذلك فيها، فجعلوا يطرحون.وقيل: بل أمرهم أن يضعوه في حفرة دون نار حتى يجيء موسى،
-  وجاء السامري فطرح القبضة، وقال كن عجلاً.وقيل: إن السامري كان في أصله من قوم يعبدون
-  البقر، وكان يعجبه ذلك.وقيل: بل كانت بنو إسرائيل قد مرت مع موسى على قوم يعبدون البقر
-  فـ{ قالوا يا موسى اجعل لنا إلهاً كما لهم آلهة }[الأعراف: 138]، فوعاها السامري وعلم
-  أن من تلك الجهة يفتنون، ففتنت بنو إسرائيل بالعجل، وظلت منهم طائفة يعبدونه، فاعتزلهم
-  هارون بمن تبعه، فجاء موسى من ميعاده فغضب حسبما يأتي قصصه في مواضعه من القرآن إن
-  شاء الله.ثم أوحى الله إليه أنه لن يتوب على بني إسرائيل حتى يقتلوا أنفسهم، ففعلت
-  بنو إسرائيل ذلك، فروي أنهم لبسوا السلاح، من عبد منهم ومن لم يعبد وألقى الله عليهم
-  الظلام، فقتل بعضهم بعضاً يقتل الأب ابنه والأخ أخاه، فلما استحر فيهم القتل وبلغ سبعين
-  ألفاً عفا الله عنهم وجعل من مات منهم شهيداً، وتاب على البقية، فذلك قوله: { ثم عفونا
-  عنكم }.وقال بعض المفسرين: وقف الذين عبدوا العجل صفاً ودخل الذين لم يعبدوه عليهم
-  بالسلاح فقتلوهم.وقالت طائفة: جلس الذين عبدوا بالأفنية، وخرج يوشع بن نون ينادي: ملعون
-  من حل حبوته، وجعل الذين لم يعبدوا يقتلونهم، وموسى في خلال ذلك يدعو لقومه ويرغب في
-  العفو عنهم، وإنما عوقب الذين لم يعبدوا بقتل أنفسهم على أحد الأقوال أو بقتلهم قراباتهم
-  على الأقوال الأخر لأنهم لم يغيروا المنكر حين عبدوا العجل، وإنما اعتزلوا وكان الواجب
-  عليهم أن يقاتلوا من عبده، و { أنتم ظالمون } مبتدأ وخبر في موضع الحال، وقد تقدم تفسير
-  الظلم، والعفو تغطية الأثر وإذهاب الحال الأولى من الذنب أو غيره، ولا يستعمل العفو
-  بمعنى الصفح إلا في الذنب وعفا عنهم عز وجل أي عمن بقي منهم لم يقتل، و { لعلكم } ترج
-  لهم في حقهم وتوقع منهم لا في حق الله عز جل، لأنه كان يعلم ما يكون منهم.قوله تعالى:
-  { وإذ آتينا موسى الكتاب } ، { إذ } عطف على ما ذكر من النعم، و { الكتاب } هو التوراة
-  بإجماع من المتأولين.\r\n\t\t\t\r\n\t\t\t1 2 3 4 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَإِذْ فَرَقْنَا بِكُمُ ٱلْبَحْرَ
-  فَأَنجَيْنَٰكُمْ وَأَغْرَقْنَا آلَ فِرْعَوْنَ وَأَنْتُمْ تَنظُرُونَ } * { وَإِذْ
-  وَٰعَدْنَا مُوسَىٰ أَرْبَعِينَ لَيْلَةً ثُمَّ ٱتَّخَذْتُمُ ٱلْعِجْلَ مِن بَعْدِهِ
-  وَأَنْتُمْ ظَٰلِمُونَ } * { ثُمَّ عَفَوْنَا عَنكُم مِّن بَعْدِ ذَلِكَ لَعَلَّكُمْ
-  تَشْكُرُونَ } * { وَإِذْ آتَيْنَا مُوسَى ٱلْكِتَابَ وَٱلْفُرْقَانَ لَعَلَّكُمْ تَهْتَدُونَ
-  }واختلف في { الفرقان } هنا فقال الزجاج وغيره هو التوراة أيضاً كرر المعنى لاختلاف
-  اللفظ، ولأنه زاد معنى التفرقة بين الحق والباطل، ولفظة الكتاب لا تعطي ذلك.وقال آخرون:
-  { الكتاب } التوراة، و { الفرقان } سائر الآيات التي أوتي موسى صلى الله عليه وسلم،
-  لأنها فرقت بين الحق والباطل.وقال آخرون: { الفرقان }: النصر الذي فرق بين حالهم وحال
-  آل فرعون بالنجاة والغرق.وقال ابن زيد: \" الفرقان انفراق البحر له حتى صار فرقاً \".وقال
-  الفراء وقطرب: معنى هذه الآية: آتينا موسى الكتاب ومحمداً الفرقان.قال القاضي أبو محمد
-  رحمه الله: وهذا ضعيف.و { لعلكم تهتدون } ترج وتوقع مثل الأول.\r\n\t\t\t\r\n\t\t\t1 2 3 4 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  ثم قالوا هذه أربعون من الدهر، وقد أخلفنا الموعد، وبدا تعنتهم وخلافهم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وكان السامري رجلاً من بني إسرائيل يسمى موسى بن ظفر، وقيل لم يكن
+  من بني إسرائيل بل كان غريباً فيهم، وكان قد عرف جبريل عليه السلام وقت عبرهم البحر،
+  فقالت طائفة: أنكر هيئته فعرف أنه ملك.</font></font>&#13;\t\t\t<label disabled=\"true\"
+  class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(14,1,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(14,3,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(14,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td><td><a href=\"Javascript:InnerLink_onchange(14,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(14,4,1)\"><u>4</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2, 50)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,50)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَإِذْ فَرَقْنَا بِكُمُ ٱلْبَحْرَ فَأَنجَيْنَٰكُمْ
+  وَأَغْرَقْنَا آلَ فِرْعَوْنَ وَأَنْتُمْ تَنظُرُونَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَإِذْ وَٰعَدْنَا
+  مُوسَىٰ أَرْبَعِينَ لَيْلَةً ثُمَّ ٱتَّخَذْتُمُ ٱلْعِجْلَ مِن بَعْدِهِ وَأَنْتُمْ
+  ظَٰلِمُونَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">ثُمَّ عَفَوْنَا عَنكُم مِّن بَعْدِ ذَلِكَ
+  لَعَلَّكُمْ تَشْكُرُونَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">وَإِذْ آتَيْنَا مُوسَى ٱلْكِتَابَ وَٱلْفُرْقَانَ
+  لَعَلَّكُمْ تَهْتَدُونَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\"
+  dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">وقال طائفة: كانت
+  أم السامري ولدته عام الذبح فجعلته في غار وأطبقت عليه، فكان جبريل صلى الله عليه وسلم
+  يغذوه بأصابع نفسه فيجد في إصبع لبناً، وفي إصبع عسلاً، وفي إصبع سمناً، فلما رآه وقت
+  جواز البحر عرفه، فأخذ من تحت حافر فرسه قبضة تراب، وألقي في روعه أنه لن يلقيها على
+  شيء ويقول له كن كذا إلا كان، فلما خرج موسى لميعاده قال هارون لبني إسرائيل: إن ذلك
+  الحلي والمتاع الذي استعرتم من القبط لا يحل لكم، فجيئوا به حتى تأكله النار التي كانت
+  العادة أن تنزل على القرابين.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقيل:
+  بل أوقد لهم ناراً وأمرهم بطرح جميع ذلك فيها، فجعلوا يطرحون.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقيل:
+  بل أمرهم أن يضعوه في حفرة دون نار حتى يجيء موسى، وجاء السامري فطرح القبضة، وقال
+  كن عجلاً.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقيل: إن السامري كان في أصله من
+  قوم يعبدون البقر، وكان يعجبه ذلك.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقيل:
+  بل كانت بنو إسرائيل قد مرت مع موسى على قوم يعبدون البقر فـ</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">قالوا يا موسى اجعل لنا إلهاً كما
+  لهم آلهة</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">[الأعراف: 138]، فوعاها السامري وعلم أن من تلك الجهة يفتنون، ففتنت
+  بنو إسرائيل بالعجل، وظلت منهم طائفة يعبدونه، فاعتزلهم هارون بمن تبعه، فجاء موسى
+  من ميعاده فغضب حسبما يأتي قصصه في مواضعه من القرآن إن شاء الله.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">ثم أوحى الله إليه أنه لن يتوب على بني إسرائيل حتى يقتلوا أنفسهم،
+  ففعلت بنو إسرائيل ذلك، فروي أنهم لبسوا السلاح، من عبد منهم ومن لم يعبد وألقى الله
+  عليهم الظلام، فقتل بعضهم بعضاً يقتل الأب ابنه والأخ أخاه، فلما استحر فيهم القتل
+  وبلغ سبعين ألفاً عفا الله عنهم وجعل من مات منهم شهيداً، وتاب على البقية، فذلك قوله:
+  { ثم عفونا عنكم }.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال بعض المفسرين: وقف الذين عبدوا
+  العجل صفاً ودخل الذين لم يعبدوه عليهم بالسلاح فقتلوهم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقالت
+  طائفة: جلس الذين عبدوا بالأفنية، وخرج يوشع بن نون ينادي: ملعون من حل حبوته، وجعل
+  الذين لم يعبدوا يقتلونهم، وموسى في خلال ذلك يدعو لقومه ويرغب في العفو عنهم، وإنما
+  عوقب الذين لم يعبدوا بقتل أنفسهم على أحد الأقوال أو بقتلهم قراباتهم على الأقوال
+  الأخر لأنهم لم يغيروا المنكر حين عبدوا العجل، وإنما اعتزلوا وكان الواجب عليهم أن
+  يقاتلوا من عبده، و { أنتم ظالمون } مبتدأ وخبر في موضع الحال، وقد تقدم تفسير الظلم،
+  والعفو تغطية الأثر وإذهاب الحال الأولى من الذنب أو غيره، ولا يستعمل العفو بمعنى
+  الصفح إلا في الذنب وعفا عنهم عز وجل أي عمن بقي منهم لم يقتل، و { لعلكم } ترج لهم
+  في حقهم وتوقع منهم لا في حق الله عز جل، لأنه كان يعلم ما يكون منهم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قوله تعالى: { وإذ آتينا موسى الكتاب } ، { إذ } عطف على ما ذكر من
+  النعم، و { الكتاب } هو التوراة بإجماع من المتأولين.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(14,2,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(14,4,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(14,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(14,2,1)\"><u>2</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">3 </font></td><td><a href=\"Javascript:InnerLink_onchange(14,4,1)\"><u>4</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2, 50)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,50)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَإِذْ فَرَقْنَا بِكُمُ ٱلْبَحْرَ فَأَنجَيْنَٰكُمْ
+  وَأَغْرَقْنَا آلَ فِرْعَوْنَ وَأَنْتُمْ تَنظُرُونَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَإِذْ وَٰعَدْنَا
+  مُوسَىٰ أَرْبَعِينَ لَيْلَةً ثُمَّ ٱتَّخَذْتُمُ ٱلْعِجْلَ مِن بَعْدِهِ وَأَنْتُمْ
+  ظَٰلِمُونَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">ثُمَّ عَفَوْنَا عَنكُم مِّن بَعْدِ ذَلِكَ
+  لَعَلَّكُمْ تَشْكُرُونَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">وَإِذْ آتَيْنَا مُوسَى ٱلْكِتَابَ وَٱلْفُرْقَانَ
+  لَعَلَّكُمْ تَهْتَدُونَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\"
+  dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">واختلف في { الفرقان
+  } هنا فقال الزجاج وغيره هو التوراة أيضاً كرر المعنى لاختلاف اللفظ، ولأنه زاد معنى
+  التفرقة بين الحق والباطل، ولفظة الكتاب لا تعطي ذلك.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  آخرون: { الكتاب } التوراة، و { الفرقان } سائر الآيات التي أوتي موسى صلى الله عليه
+  وسلم، لأنها فرقت بين الحق والباطل.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  آخرون: { الفرقان }: النصر الذي فرق بين حالهم وحال آل فرعون بالنجاة والغرق.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال ابن زيد: \" الفرقان انفراق البحر له حتى صار فرقاً \".</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال الفراء وقطرب: معنى هذه الآية: آتينا موسى الكتاب ومحمداً الفرقان.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قال القاضي أبو محمد رحمه الله: وهذا ضعيف.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">و
+  { لعلكم تهتدون } ترج وتوقع مثل الأول.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(14,3,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(14,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(14,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(14,3,1)\"><u>3</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">4 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section>"
 

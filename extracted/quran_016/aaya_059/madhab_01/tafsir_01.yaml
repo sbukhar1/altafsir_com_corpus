@@ -1,4 +1,4 @@
-location:
+position:
   sura: '016'
   aaya: 059
   madhab: '01'
@@ -9,21 +9,47 @@ meta:
   year: '310'
 aaya: يَتَوَارَىٰ مِنَ الْقَوْمِ مِنْ سُوءِ مَا بُشِّرَ بِهِ ۚ أَيُمْسِكُهُ عَلَىٰ
   هُونٍ أَمْ يَدُسُّهُ فِي التُّرَابِ ۗ أَلَا سَاءَ مَا يَحْكُمُونَ
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ يَتَوَارَىٰ مِنَ
-  ٱلْقَوْمِ مِن سُوۤءِ مَا بُشِّرَ بِهِ أَيُمْسِكُهُ عَلَىٰ هُونٍ أَمْ يَدُسُّهُ فِي
-  ٱلتُّرَابِ أَلاَ سَآءَ مَا يَحْكُمُونَ }يقول تعالـى ذكره: يتوارى هذا الـمبشِّر بولادة
-  الأنثى من الولد له من القوم، فـيغيب عن أبصارهم { مِنْ سُوءِ ما بُشِّرَ بِهِ } يعنـي:
-  من مساءته إياه مـميلاً بـين أن يـمسكه علـى هُون: أي علـى هوان، وكذلك ذلك لغة قريش
-  فـيـما ذكر لـي، يقولون للهوان: الهُون ومنه قول الـحطيئة:فلَّـما خَشِيتُ الهُونَ
-  والعَيْرُ مُـمْسِكٌ   علـى رَغْمِهِ ما أثبتَ الـحبلَ حافِرُهْوبعض بني تميم جعل الهُونَ
-  مصدراً للشيء الهين. ذكر الكسائي أنه سمعهم يقولون: إن كنت لقلـيـل هون الـمؤنة منذ
-  الـيوم قال: وسمعت: الهوان فـي مثل هذا الـمعنى، سمعت منهم قائلاً يقول لبعير له: ما
-  به بأس غير هوانه، يعنـي خفـيف الثمن، فإذا قالوا: هو يـمشي علـى هَوْنه، لـم يقولوه
-  إلا بفتـح الهاء، كما قال تعالـى:{ وَعبـادُ الرَّحْمَنِ الَّذِينَ يَـمْشُونَ علـى
-  الأرْضِ هَوْناً }{ أمْ يَدسُّهُ فِـي التُّرَابِ } يقول: يدفنه حيًّا فـي التراب فـيئده.
-  كما:حدثنا القاسم، قال: ثنا الـحسين، قال: ثنـي حجاج، عن ابن جريج: { أيُـمْسكُهُ علـى
-  هُونٍ أمْ يَدُسُّهُ فـي التُّرَابِ } يئد ابنته.وقوله: { ألا ساءَ ما يَحْكُمُونَ
-  } يقول: ألا ساء الـحكم الذي يحكم هؤلاء الـمشركون وذلك أن جعلوا لله ما لا يرضون لأنفسهم،
-  وجعلوا لـما لا ينفعهم ولا يضرّهم شركاً فـيـما رزقهم الله، وعبدوا من خـلقهم وأنعم
-  علـيهم.\r\n\t\t\t\r\n\t\t\t</section>"
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(16, 59)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(16,59)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">يَتَوَارَىٰ
+  مِنَ ٱلْقَوْمِ مِن سُوۤءِ مَا بُشِّرَ بِهِ أَيُمْسِكُهُ عَلَىٰ هُونٍ أَمْ يَدُسُّهُ
+  فِي ٱلتُّرَابِ أَلاَ سَآءَ مَا يَحْكُمُونَ</a> <b>}</b></font>, <br/>, <br/>, <div
+  align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">يقول
+  تعالـى ذكره: يتوارى هذا الـمبشِّر بولادة الأنثى من الولد له من القوم، فـيغيب عن
+  أبصارهم { مِنْ سُوءِ ما بُشِّرَ بِهِ } يعنـي: من مساءته إياه مـميلاً بـين أن يـمسكه
+  علـى هُون: أي علـى هوان، وكذلك ذلك لغة قريش فـيـما ذكر لـي، يقولون للهوان: الهُون
+  ومنه قول الـحطيئة:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><table
+  class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">فلَّـما خَشِيتُ الهُونَ والعَيْرُ مُـمْسِكٌ</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">علـى رَغْمِهِ ما أثبتَ الـحبلَ حافِرُهْ</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">وبعض بني تميم جعل الهُونَ مصدراً
+  للشيء الهين. ذكر الكسائي أنه سمعهم يقولون: إن كنت لقلـيـل هون الـمؤنة منذ الـيوم
+  قال: وسمعت: الهوان فـي مثل هذا الـمعنى، سمعت منهم قائلاً يقول لبعير له: ما به بأس
+  غير هوانه، يعنـي خفـيف الثمن، فإذا قالوا: هو يـمشي علـى هَوْنه، لـم يقولوه إلا بفتـح
+  الهاء، كما قال تعالـى:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">وَعبـادُ الرَّحْمَنِ الَّذِينَ يَـمْشُونَ علـى الأرْضِ هَوْناً</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">{ أمْ
+  يَدسُّهُ فِـي التُّرَابِ } يقول: يدفنه حيًّا فـي التراب فـيئده. كما:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا القاسم، قال: ثنا الـحسين، قال: ثنـي حجاج، عن ابن جريج: { أيُـمْسكُهُ
+  علـى هُونٍ أمْ يَدُسُّهُ فـي التُّرَابِ } يئد ابنته.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقوله:
+  { ألا ساءَ ما يَحْكُمُونَ } يقول: ألا ساء الـحكم الذي يحكم هؤلاء الـمشركون وذلك
+  أن جعلوا لله ما لا يرضون لأنفسهم، وجعلوا لـما لا ينفعهم ولا يضرّهم شركاً فـيـما
+  رزقهم الله، وعبدوا من خـلقهم وأنعم علـيهم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

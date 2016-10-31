@@ -1,4 +1,4 @@
-location:
+position:
   sura: '016'
   aaya: 049
   madhab: '01'
@@ -9,19 +9,40 @@ meta:
   year: '310'
 aaya: وَلِلَّهِ يَسْجُدُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ مِنْ دَابَّةٍ وَالْمَلَائِكَةُ
   وَهُمْ لَا يَسْتَكْبِرُونَ
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَلِلَّهِ يَسْجُدُ
-  مَا فِي ٱلسَّمَٰوَٰتِ وَمَا فِي ٱلأَرْضِ مِن دَآبَّةٍ وَٱلْمَلاۤئِكَةُ وَهُمْ لاَ
-  يَسْتَكْبِرُونَ }يقول تعالـى ذكره: ولله يخضع ويستسلـم لأمره ما فـي السموات وما فـي
-  الأرض من دابَّة يدبّ علـيها، والـملائكة التـي فـي السموات، وهم لا يستكبرون عن التذلل
-  له بـالطاعة. { وَالَّذِينَ لا يُؤْمِنُونَ بـالآخِرَةِ قُلُوبهُمْ مُنْكِرَةٌ وَهُمْ
-  مُسْتَكْبِرُونَ } وظلالهم تتفـيأ عن الـيـمين والشمائل سجداً لله وهم داخرون.وكان
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(16, 49)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(16,49)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَلِلَّهِ
+  يَسْجُدُ مَا فِي ٱلسَّمَٰوَٰتِ وَمَا فِي ٱلأَرْضِ مِن دَآبَّةٍ وَٱلْمَلاۤئِكَةُ
+  وَهُمْ لاَ يَسْتَكْبِرُونَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\"
+  dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">يقول تعالـى ذكره:
+  ولله يخضع ويستسلـم لأمره ما فـي السموات وما فـي الأرض من دابَّة يدبّ علـيها، والـملائكة
+  التـي فـي السموات، وهم لا يستكبرون عن التذلل له بـالطاعة. { وَالَّذِينَ لا يُؤْمِنُونَ
+  بـالآخِرَةِ قُلُوبهُمْ مُنْكِرَةٌ وَهُمْ مُسْتَكْبِرُونَ } وظلالهم تتفـيأ عن الـيـمين
+  والشمائل سجداً لله وهم داخرون.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وكان
   بعض نـحويِّـي البصرة يقول: اجتزىء بذكر الواحد من الدوابّ عن ذكر الـجميع. وإنـما
   معنى الكلام: ولله يسجد ما فـي السموات وما فـي الأرض من الدوابّ والـملائكة، كما يقال:
-  ما أتانـي من رجل، بـمعنى: ما أتانـي من الرجال.وكان بعض نـحويِّـي الكوفة يقول: إنـما
-  قـيـل: من دابة، لأن «ما» وإن كانت قد تكون علـى مذهب الذي، فإنها غير مؤقتة، فإذا
-  أبهمت غير مؤقتة أشبهت الـجزاء، والـجزاء يدخـل من فـيـما جاء من اسم بعده من النكرة،
-  فـيقال: من ضربه من رجل فـاضربوه، ولا تسقط «مِن» مِن هذا الـموضع كراهية أن تشبه أن
-  تكون حالاً لـ «من» و «ما»، فجعلوه بـمن لـيدلّ علـى أنه تفسير لـما ومن لأنهما غير
-  موقتتـين، فكان دخول من فـيـما بعدهما تفسيراً لـمعناهما، وكان دخول من أدلّ علـى ما
-  لـم يوقت من من وما، فلذلك لـم تلغيا.\r\n\t\t\t\r\n\t\t\t</section>"
+  ما أتانـي من رجل، بـمعنى: ما أتانـي من الرجال.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وكان
+  بعض نـحويِّـي الكوفة يقول: إنـما قـيـل: من دابة، لأن «ما» وإن كانت قد تكون علـى
+  مذهب الذي، فإنها غير مؤقتة، فإذا أبهمت غير مؤقتة أشبهت الـجزاء، والـجزاء يدخـل من
+  فـيـما جاء من اسم بعده من النكرة، فـيقال: من ضربه من رجل فـاضربوه، ولا تسقط «مِن»
+  مِن هذا الـموضع كراهية أن تشبه أن تكون حالاً لـ «من» و «ما»، فجعلوه بـمن لـيدلّ
+  علـى أنه تفسير لـما ومن لأنهما غير موقتتـين، فكان دخول من فـيـما بعدهما تفسيراً
+  لـمعناهما، وكان دخول من أدلّ علـى ما لـم يوقت من من وما، فلذلك لـم تلغيا.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

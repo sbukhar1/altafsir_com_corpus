@@ -1,4 +1,4 @@
-location:
+position:
   sura: '002'
   aaya: '240'
   madhab: '01'
@@ -7,16 +7,34 @@ meta:
   title: تفسير تفسير الجلالين
   author: المحلي و السيوطي
   year: '864'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَٱلَّذِينَ يُتَوَفَّوْنَ
-  مِنكُمْ وَيَذَرُونَ أَزْوَاجاً وَصِيَّةً لأَزْوَاجِهِمْ مَّتَاعاً إِلَى ٱلْحَوْلِ
-  غَيْرَ إِخْرَاجٍ فَإِنْ خَرَجْنَ فَلاَ جُنَاحَ عَلَيْكُمْ فِي مَا فَعَلْنَ فِيۤ
-  أَنْفُسِهِنَّ مِن مَّعْرُوفٍ وَٱللَّهُ عَزِيزٌ حَكِيمٌ }{ وَٱلَّذِينَ يُتَوَفَّوْنَ
-  مِنكُمْ وَيَذَرُونَ أَزْوٰجًا } فليوصوا { وَصِيَّةً } وفي قراءة بالرفع، أي عليهم
-  { لأَزْوَاجِهِم } وليعطوهن { مَّتَٰعًا } ما يتمتعن به من النفقة والكسوة { إِلَىٰ
-  } تمام { ٱلْحَوْلِ } من موتهم الواجب عليهن تربصه { غَيْرَ إِخْرَاجٍ } حال أي غير
-  مخرجات من مسكنهن { فَإِنْ خَرَجْنَ } بأنفسهن { فَلاَ جُنَاحَ عَلَيْكُمْ } يا أولياء
-  الميت { فِي مَا فَعَلْنَ فِى أَنفُسِهِنَّ مِن مَّعْرُوفٍ } شرعاً كالتزين وترك الإحداد
-  وقطع النفقة عنها { وَٱللَّهُ عَزِيزٌ } في ملكه { حَكِيمٌ } في صنعه والوصية المذكورة
-  منسوخة بآية الميراث وتربص الحول بآية أربعة أشهر وعشر السابقة المتأخرة في النزول
-  والسكنى ثابتة عند الشافعي رحمه الله.\r\n\t\t\t\r\n\t\t\t</section>"
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(2, 240)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(2,240)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَٱلَّذِينَ
+  يُتَوَفَّوْنَ مِنكُمْ وَيَذَرُونَ أَزْوَاجاً وَصِيَّةً لأَزْوَاجِهِمْ مَّتَاعاً
+  إِلَى ٱلْحَوْلِ غَيْرَ إِخْرَاجٍ فَإِنْ خَرَجْنَ فَلاَ جُنَاحَ عَلَيْكُمْ فِي مَا
+  فَعَلْنَ فِيۤ أَنْفُسِهِنَّ مِن مَّعْرُوفٍ وَٱللَّهُ عَزِيزٌ حَكِيمٌ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">{ وَٱلَّذِينَ يُتَوَفَّوْنَ مِنكُمْ وَيَذَرُونَ أَزْوٰجًا } فليوصوا
+  { وَصِيَّةً } وفي قراءة بالرفع، أي عليهم { لأَزْوَاجِهِم } وليعطوهن { مَّتَٰعًا
+  } ما يتمتعن به من النفقة والكسوة { إِلَىٰ } تمام { ٱلْحَوْلِ } من موتهم الواجب عليهن
+  تربصه { غَيْرَ إِخْرَاجٍ } حال أي غير مخرجات من مسكنهن { فَإِنْ خَرَجْنَ } بأنفسهن
+  { فَلاَ جُنَاحَ عَلَيْكُمْ } يا أولياء الميت { فِي مَا فَعَلْنَ فِى أَنفُسِهِنَّ
+  مِن مَّعْرُوفٍ } شرعاً كالتزين وترك الإحداد وقطع النفقة عنها { وَٱللَّهُ عَزِيزٌ
+  } في ملكه { حَكِيمٌ } في صنعه والوصية المذكورة منسوخة بآية الميراث وتربص الحول بآية
+  أربعة أشهر وعشر السابقة المتأخرة في النزول والسكنى ثابتة عند الشافعي رحمه الله.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

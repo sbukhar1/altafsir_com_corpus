@@ -1,4 +1,4 @@
-location:
+position:
   sura: '006'
   aaya: '123'
   madhab: '01'
@@ -7,27 +7,65 @@ meta:
   title: تفسير جامع البيان في تفسير القرآن
   author: الطبري
   year: '310'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَكَذٰلِكَ جَعَلْنَا
-  فِي كُلِّ قَرْيَةٍ أَكَٰبِرَ مُجْرِمِيهَا لِيَمْكُرُواْ فِيهَا وَمَا يَمْكُرُونَ
-  إِلاَّ بِأَنْفُسِهِمْ وَمَا يَشْعُرُونَ }يقول جلّ ثناؤه: وكما زينا للكافرين ما كانوا
-  يعملون، كذلك جعلنا بكلّ قرية عظماءها مجرميها، يعني: أهل الشرك بالله والمعصية له
-  { لِيَمْكُرُوا فِيها } بغرور من القول أو بباطل من الفعل بدين الله وأنبيائه. { وَما
-  يَمْكُرُونَ }: أي ما يحيق مكرهم ذلك، { إلاَّ بأنْفُسِهِمْ } ، لأن الله تعالى ذكره
-  من وراء عقوبتهم على صدّهم عن سبيله. وهم لا يشعرون، يقول: لا يدرون ما قد أعدّ الله
-  لهم من أليم عذابه، فهم في غيهم وعتوّهم على الله يتمادون.وبنحو ما قلنا في ذلك قال
-  أهل التأويل. ذكر من قال ذلك:حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى،
-  عن ابن أبي نجيح، عن مجاهد: { أكابِرَ مُجْرِمِيها } قال: عظماءها.حدثني المثنى، قال:
-  ثنا أبو حذيفة، قال: ثنا شبل، عن ابن أبي نجيح، عن مجاهد، مثله.حدثنا محمد بن عبد الأعلى،
-  قال: ثنا محمد بن ثور، عن معمر، عن قتادة: { أكابِرَ مُجْرِمِيها } قال: عظماءها.حدثنا
-  القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن ابن جريج، عن عكرمة: نزلت في المستهزئين.
-  قال ابن جريج: عن عمرو، عن عطاء، عن عكرمة: { أكابِرَ مُجْرِمِيها }... إلى قوله:{ بِمَا
-  كانُوا يَمْكُرُونَ }بدين الله وبنبيه عليه الصلاة والسلام وعباده المؤمنين.والأكابر:
-  جمع أكبر، كما الأفاضل: جمع أفضل. ولو قيل: هو جمع كبير، فجمع أكابر، لأنه قد يقال
-  أكبر، كما قيل:{ قُلْ هُلْ أُنَبِّئُكُمْ بالأخْسَرِينَ أعَمالاً }واحدهم الخاسر لكان
-  صواباً. وحُكي عن العرب سماعاً: الأكابرة والأصاغرة، والأكابر والأصاغر بغير الهاء
-  على نية النعت، كما يقال: هو أفضل منك. وكذلك تفعل العرب بما جاء من النعوت على «أفعل»
-  إذا أخرجوها إلى الأسماء، مثل جمعهم الأحمر والأسود: الأحامر والأحامرة، والأساود والأساودة
-  ومنه قول الشاعر:إنَّ الأحامِرَةَ الثَّلاثَةَ أهْلَكَتْ   مالي وكنتُ بِهِنَّ قِدْما
-  مُولَعَاالخَمْرُ واللَّحْمُ السَّمِينُ أُدِيمُهُ   والزَّعفرانُ فلَنْ أزالَ مُبَقَّعَاوأما
-  المكر: فإنه الخديعة والاحتيال للممكور به بالغدر ليورِّطه الماكر به مكروهاً من الأمر.\r\n\t\t\t\r\n\t\t\t</section>"
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(6, 123)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(6,123)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَكَذٰلِكَ
+  جَعَلْنَا فِي كُلِّ قَرْيَةٍ أَكَٰبِرَ مُجْرِمِيهَا لِيَمْكُرُواْ فِيهَا وَمَا يَمْكُرُونَ
+  إِلاَّ بِأَنْفُسِهِمْ وَمَا يَشْعُرُونَ</a> <b>}</b></font>, <br/>, <br/>, <div
+  align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">يقول
+  جلّ ثناؤه: وكما زينا للكافرين ما كانوا يعملون، كذلك جعلنا بكلّ قرية عظماءها مجرميها،
+  يعني: أهل الشرك بالله والمعصية له { لِيَمْكُرُوا فِيها } بغرور من القول أو بباطل
+  من الفعل بدين الله وأنبيائه. { وَما يَمْكُرُونَ }: أي ما يحيق مكرهم ذلك، { إلاَّ
+  بأنْفُسِهِمْ } ، لأن الله تعالى ذكره من وراء عقوبتهم على صدّهم عن سبيله. وهم لا
+  يشعرون، يقول: لا يدرون ما قد أعدّ الله لهم من أليم عذابه، فهم في غيهم وعتوّهم على
+  الله يتمادون.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وبنحو ما قلنا في ذلك قال أهل التأويل.
+  ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثني محمد بن عمرو، قال: ثنا أبو
+  عاصم، قال: ثنا عيسى، عن ابن أبي نجيح، عن مجاهد: { أكابِرَ مُجْرِمِيها } قال: عظماءها.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني المثنى، قال: ثنا أبو حذيفة، قال: ثنا شبل، عن ابن أبي نجيح،
+  عن مجاهد، مثله.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا محمد بن عبد الأعلى، قال:
+  ثنا محمد بن ثور، عن معمر، عن قتادة: { أكابِرَ مُجْرِمِيها } قال: عظماءها.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن ابن جريج، عن عكرمة:
+  نزلت في المستهزئين. قال ابن جريج: عن عمرو، عن عطاء، عن عكرمة: { أكابِرَ مُجْرِمِيها
+  }... إلى قوله:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">بِمَا كانُوا يَمْكُرُونَ</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">بدين الله وبنبيه عليه الصلاة والسلام
+  وعباده المؤمنين.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">والأكابر: جمع أكبر، كما الأفاضل:
+  جمع أفضل. ولو قيل: هو جمع كبير، فجمع أكابر، لأنه قد يقال أكبر، كما قيل:</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">قُلْ
+  هُلْ أُنَبِّئُكُمْ بالأخْسَرِينَ أعَمالاً</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">واحدهم الخاسر لكان صواباً. وحُكي
+  عن العرب سماعاً: الأكابرة والأصاغرة، والأكابر والأصاغر بغير الهاء على نية النعت،
+  كما يقال: هو أفضل منك. وكذلك تفعل العرب بما جاء من النعوت على «أفعل» إذا أخرجوها
+  إلى الأسماء، مثل جمعهم الأحمر والأسود: الأحامر والأحامرة، والأساود والأساودة ومنه
+  قول الشاعر:</font></font><table class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">إنَّ الأحامِرَةَ
+  الثَّلاثَةَ أهْلَكَتْ</font></font></b></td><td class=\"TextArabic\">   </td><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">مالي وكنتُ
+  بِهِنَّ قِدْما مُولَعَا</font></font></b></td></tr><tr class=\"TextArabic\"><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">الخَمْرُ
+  واللَّحْمُ السَّمِينُ أُدِيمُهُ</font></font></b></td><td class=\"TextArabic\">   </td><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">والزَّعفرانُ
+  فلَنْ أزالَ مُبَقَّعَا</font></font></b></td></tr></table><font class=\"TextResultArabic\"><font
+  color=\"black\">وأما المكر: فإنه الخديعة والاحتيال للممكور به بالغدر ليورِّطه الماكر
+  به مكروهاً من الأمر.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

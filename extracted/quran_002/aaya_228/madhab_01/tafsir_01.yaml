@@ -1,4 +1,4 @@
-location:
+position:
   sura: '002'
   aaya: '228'
   madhab: '01'
@@ -7,330 +7,767 @@ meta:
   title: تفسير جامع البيان في تفسير القرآن
   author: الطبري
   year: '310'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَٱلْمُطَلَّقَاتُ
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(2, 228)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(2,228)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَٱلْمُطَلَّقَاتُ
   يَتَرَبَّصْنَ بِأَنْفُسِهِنَّ ثَلاَثَةَ قُرُوۤءٍ وَلاَ يَحِلُّ لَهُنَّ أَن يَكْتُمْنَ
   مَا خَلَقَ ٱللَّهُ فِيۤ أَرْحَامِهِنَّ إِن كُنَّ يُؤْمِنَّ بِٱللَّهِ وَٱلْيَوْمِ
   ٱلآخِرِ وَبُعُولَتُهُنَّ أَحَقُّ بِرَدِّهِنَّ فِي ذَلِكَ إِنْ أَرَادُوۤاْ إِصْلاَحاً
   وَلَهُنَّ مِثْلُ ٱلَّذِي عَلَيْهِنَّ بِٱلْمَعْرُوفِ وَلِلرِّجَالِ عَلَيْهِنَّ دَرَجَةٌ
-  وَٱللَّهُ عَزِيزٌ حَكِيمٌ }يعنـي تعالـى ذكره: والـمطلقات اللواتـي طلقن بعد ابتناء
-  أزواجهن بهن، وإفضائهم إلـيهن إذا كن ذوات حيض وطهر، يتربصن بأنفسهن عن نكاح الأزواج
-  ثلاثة قروء.واختلف أهل التأويـل فـي تأويـل القُرء الذي عناه الله بقوله: { يَترَبَّصْنَ
-  بأنْفُسهِنَّ ثَلاثَة قُرُوءٍ } فقال بعضهم: هو الـحيض. ذكر من قال ذلك:حدثنـي مـحمد
-  بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، عن ابن أبـي نـجيح، عن مـجاهد فـي قول
-  الله: { وَالـمُطَلَّقاتُ يَترَبَّصْنَ بأنْفُسهِنَّ ثَلاثَة قُرُوءٍ } قال: حِيَض.حدثنـي
-  الـمثنى قال: ثنا إسحاق، قال: ثنا ابن أبـي جعفر، عن أبـيه، عن الربـيع: { ثَلاثَةَ
-  قُروءٍ } أي ثلاث حيض. يقول: تعتدّ ثلاث حيض.حدثنـي الـمثنى، قال: ثنا حجاج، قال: ثنا
-  همام بن يحيى، قال: سمعت قتادة فـي قوله: { وَالـمُطَلَّقاتُ يَترَبَّصْنَ بأنْفُسهِنَّ
-  ثَلاثَة قُرُوءٍ } يقول: جعل عدّة الـمطلقات ثلاث حيض، ثم نسخ منها الـمطلقة التـي
-  طلقت قبل أن يدخـل بها زوجها، واللائي يئسن من الـمـحيض، واللائي لـم يحضن، والـحامل.حدثنا
-  علـيّ بن عبد الأعلـى، قال: ثنا الـمـحاربـي، عن جويبر، عن الضحاك، قال: القروء: الـحيض.حدثنا
-  القاسم، قال: ثنا الـحسين، قال: ثنـي حجاج، عن ابن جريج، عن عطاء الـخراسانـي، عن ابن
-  عبـاس: { وَالـمُطَلَّقاتُ يَترَبَّصْنَ بأنْفُسهِنَّ ثَلاثَة قُرُوءٍ } قال: ثلاث
-  حيض.حدثنا مـحمد بن بشار، قال: ثنا أبو عاصم، قال: ثنا ابن جريج، قال: قال عمرو بن
-  دينار: الأقراء الـحِيَض عن أصحاب النبـيّ صلى الله عليه وسلم.حدثنا الـحسن بن يحيى،
-  قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر، عن رجل سمع عكرمة قال: الأقراء: الـحيض،
-  ولـيس بـالطهر، قال تعالـى{ فَطَلِّقُوهُنَّ لِعِدَّتِهِنَّ }[الطلاق: 1] ولـم يقل:
-  «لقروئهن».حدثنا يحيى بن أبـي طالب، قال: أخبرنا يزيد، قال: أخبرنا جويبر، عن الضحاك
-  فـي قوله: { وَالـمُطَلَّقاتُ يَترَبَّصْنَ بأنْفُسهِنَّ ثَلاثَة قُرُوءٍ } قال: ثلاث
-  حيض.حدثنا موسى، قال: ثنا عمرو، قال: ثنا أسبـاط، عن السدي: { وَالـمُطَلَّقاتُ يَترَبَّصْنَ
-  بأنْفُسهِنَّ ثَلاثَة قُرُوءٍ } أما ثلاثة قروء: فثلاث حيض.حدثنا حميد بن مسعدة، قال:
-  ثنا يزيد بن زريع، قال: ثنا سعيد، عن أبـي معشر، عن إبراهيـم النـخعي أنه رُفع إلـى
-  عمر، فقال لعبد الله بن مسعود: لتقولنَّ فـيها فقال: أنت أحقّ أن تقول قال: لتقولن
-  قال: أقول: إن زوجها أحقّ بها ما لـم تغتسل من الـحيضة الثالثة، قال: ذاك رأيـي وافقتَ
-  ما فـي نفسي فقضى بذلك عمر.حدثنا مـحمد بن يحيى، قال: ثنا عبد الأعلـى، قال: ثنا سعيد،
-  عن أبـي معشر، عن النـخعي، عن قتادة، أن عمر بن الـخطاب قال لابن مسعود، فذكر نـحوه.حدثنا
+  وَٱللَّهُ عَزِيزٌ حَكِيمٌ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\"
+  dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">يعنـي تعالـى
+  ذكره: والـمطلقات اللواتـي طلقن بعد ابتناء أزواجهن بهن، وإفضائهم إلـيهن إذا كن ذوات
+  حيض وطهر، يتربصن بأنفسهن عن نكاح الأزواج ثلاثة قروء.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">واختلف
+  أهل التأويـل فـي تأويـل القُرء الذي عناه الله بقوله: { يَترَبَّصْنَ بأنْفُسهِنَّ
+  ثَلاثَة قُرُوءٍ } فقال بعضهم: هو الـحيض. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  مـحمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، عن ابن أبـي نـجيح، عن مـجاهد فـي
+  قول الله: { وَالـمُطَلَّقاتُ يَترَبَّصْنَ بأنْفُسهِنَّ ثَلاثَة قُرُوءٍ } قال: حِيَض.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي الـمثنى قال: ثنا إسحاق، قال: ثنا ابن أبـي جعفر، عن أبـيه،
+  عن الربـيع: { ثَلاثَةَ قُروءٍ } أي ثلاث حيض. يقول: تعتدّ ثلاث حيض.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي الـمثنى، قال: ثنا حجاج، قال: ثنا همام بن يحيى، قال: سمعت
+  قتادة فـي قوله: { وَالـمُطَلَّقاتُ يَترَبَّصْنَ بأنْفُسهِنَّ ثَلاثَة قُرُوءٍ } يقول:
+  جعل عدّة الـمطلقات ثلاث حيض، ثم نسخ منها الـمطلقة التـي طلقت قبل أن يدخـل بها زوجها،
+  واللائي يئسن من الـمـحيض، واللائي لـم يحضن، والـحامل.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  علـيّ بن عبد الأعلـى، قال: ثنا الـمـحاربـي، عن جويبر، عن الضحاك، قال: القروء: الـحيض.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا القاسم، قال: ثنا الـحسين، قال: ثنـي حجاج، عن ابن جريج، عن
+  عطاء الـخراسانـي، عن ابن عبـاس: { وَالـمُطَلَّقاتُ يَترَبَّصْنَ بأنْفُسهِنَّ ثَلاثَة
+  قُرُوءٍ } قال: ثلاث حيض.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا مـحمد بن بشار، قال: ثنا أبو
+  عاصم، قال: ثنا ابن جريج، قال: قال عمرو بن دينار: الأقراء الـحِيَض عن أصحاب النبـيّ
+  صلى الله عليه وسلم.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا الـحسن بن يحيى، قال: أخبرنا
+  عبد الرزاق، قال: أخبرنا معمر، عن رجل سمع عكرمة قال: الأقراء: الـحيض، ولـيس بـالطهر،
+  قال تعالـى</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">فَطَلِّقُوهُنَّ لِعِدَّتِهِنَّ</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">[الطلاق: 1] ولـم يقل: «لقروئهن».</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا يحيى بن أبـي طالب، قال: أخبرنا يزيد، قال: أخبرنا جويبر، عن
+  الضحاك فـي قوله: { وَالـمُطَلَّقاتُ يَترَبَّصْنَ بأنْفُسهِنَّ ثَلاثَة قُرُوءٍ }
+  قال: ثلاث حيض.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا موسى، قال: ثنا عمرو، قال:
+  ثنا أسبـاط، عن السدي: { وَالـمُطَلَّقاتُ يَترَبَّصْنَ بأنْفُسهِنَّ ثَلاثَة قُرُوءٍ
+  } أما ثلاثة قروء: فثلاث حيض.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  حميد بن مسعدة، قال: ثنا يزيد بن زريع، قال: ثنا سعيد، عن أبـي معشر، عن إبراهيـم النـخعي
+  أنه رُفع إلـى عمر، فقال لعبد الله بن مسعود: لتقولنَّ فـيها فقال: أنت أحقّ أن تقول
+  قال: لتقولن قال: أقول: إن زوجها أحقّ بها ما لـم تغتسل من الـحيضة الثالثة، قال: ذاك
+  رأيـي وافقتَ ما فـي نفسي فقضى بذلك عمر.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  مـحمد بن يحيى، قال: ثنا عبد الأعلـى، قال: ثنا سعيد، عن أبـي معشر، عن النـخعي، عن
+  قتادة، أن عمر بن الـخطاب قال لابن مسعود، فذكر نـحوه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
   مـحمد بن يحيى، قال: ثنا عبد الأعلـى، قال: ثنا سعيد، عن أبـي معشر، عن النـخعي، أن
   عمر بن الـخطاب وابن مسعود قالا: زوجها أحقّ بها ما لـم تغتسل، أو قالا: تـحلّ لها
-  الصلاة.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 9 10 \r\n\t\t\t\t\t\t\t\tمزيد</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَٱلْمُطَلَّقَاتُ يَتَرَبَّصْنَ بِأَنْفُسِهِنَّ
+  الصلاة.</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\"
+  border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE:
+  none; BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,8,1)\"><u>8</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,9,1)\"><u>9</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(1,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2,
+  228)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,228)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَٱلْمُطَلَّقَاتُ يَتَرَبَّصْنَ بِأَنْفُسِهِنَّ
   ثَلاَثَةَ قُرُوۤءٍ وَلاَ يَحِلُّ لَهُنَّ أَن يَكْتُمْنَ مَا خَلَقَ ٱللَّهُ فِيۤ
   أَرْحَامِهِنَّ إِن كُنَّ يُؤْمِنَّ بِٱللَّهِ وَٱلْيَوْمِ ٱلآخِرِ وَبُعُولَتُهُنَّ
   أَحَقُّ بِرَدِّهِنَّ فِي ذَلِكَ إِنْ أَرَادُوۤاْ إِصْلاَحاً وَلَهُنَّ مِثْلُ ٱلَّذِي
   عَلَيْهِنَّ بِٱلْمَعْرُوفِ وَلِلرِّجَالِ عَلَيْهِنَّ دَرَجَةٌ وَٱللَّهُ عَزِيزٌ
-  حَكِيمٌ }حدثنا حميد بن مسعدة، قال: ثنا يزيد بن زريع، قال: ثنا سعيد بن أبـي عروبة،
-  قال: ثنا مطر أن الـحسن حدثهم: أن رجلاً طلق امرأته، ووكل بذلك رجلاً من أهله، أو إنساناً
-  من أهله، فغفل ذلك الذي وكله بذلك حتـى دخـلت امرأته فـي الـحيضة الثالثة، وقربت ماءها
-  لتغتسل، فـانطلق الذي وكل بذلك إلـى الزوج، فأقبل الزوج وهي تريد الغسل، فقال: يا فلانة
-  قالت: ما تشاء؟ قال: إنـي قد راجعتك. قالت: والله مالك ذلك قال: بلـى والله قال: فـارتفعا
-  إلـى أبـي موسى الأشعري، فأخذ يـمينها بـالله الذي لا إله إلا هو إن كنت لقد اغتسلت
-  حين ناداك؟ قالت: لا والله ما كنت فعلت، ولقد قربت مائي لأغتسل فردّها علـى زوجها،
-  وقال: أنت أحقّ ما لـم تغتسل من الـحيضة الثالثة.حدثنا مـحمد بن يحيى، قال: ثنا عبد
-  الأعلـى، قال: ثنا سعيد، عن مطر، عن الـحسن، عن أبـي موسى الأشعري بنـحوه.حدثنا عمران
-  بن موسى، قال: ثنا عبد الوارث، قال: ثنا يونس، عن الـحسن، قال: قال عمر: هو أحقّ بها
-  ما لـم تغتسل من الـحيضة الثالثة.حدثنا مـحمد بن بشار، قال: ثنا أبو الولـيد، قال:
-  ثنا أبو هلال، عن قتادة، عن يونس بن جبـير: أن عمر بن الـخطاب طلق امرأته، فأرادت أن
-  تغتسل من الـحيضة الثالثة، فقال عمر بن الـخطاب: امرأتـي وربّ الكعبة فراجعها. قال
-  ابن بشار: فذكرت هذا الـحديث لعبد الرحمن بن مهدي، فقال: سمعت هذا الـحديث من أبـي
-  هلال، عن قتادة، وأبو هلال لا يحتـمل هذا.حدثنا مـحمد بن بشار، قال: ثنا عبد الرحمن،
-  قال: ثنا سفـيان، عن منصور، عن إبراهيـم، عن علقمة قال: كنا عند عمر بن الـخطاب، فجاءت
-  امرأة فقالت: إن زوجي طلقنـي واحدة أو إثنتـين، فجاء وقد وضعتُ مائي، وأغلقت بـابـي،
-  ونزعت ثـيابـي. فقال عمر لعبد الله: ما ترى؟ قال: أراها امرأته ما دون أن تـحلّ لها
-  الصلاة. قال عمر: وأنا أرى ذلك.حدثنا ابن الـمثنى، قال: ثنا مـحمد بن جعفر، قال: ثنا
-  شعبة، عن الـحكم، عن إبراهيـم، عن الأسود أنه قال فـي رجل طلق امرأته ثم تركها حتـى
-  دخـلت فـي الـحيضة الثالثة، فأرادت أن تغتسل، ووضعت ماءها لتغتسل، فراجعها: فأجازه
-  عمر وعبد الله بن مسعود.حدثنا مـحمد بن الـمثنى، قال: ثنا ابن أبـي عديّ، عن شعبة،
-  عن الـحكم، عن إبراهيـم، عن الأسود، بـمثله، إلا أنه قال: ووضعت الـماء للغسل، فراجعها،
-  فسأل عبد الله وعمر، فقال: هو أحقّ بها ما لـم تغتسل.حدثنـي أبو السائب، قال: ثنا أبو
-  معاوية، عن الأعمش، عن إبراهيـم، قالا: كان عمر وعبد الله يقولان: إذا طلق الرجل امرأته
-  تطلـيقة يـملك الرجعة، فهو أحقّ بها ما لـم تغتسل من حيضتها الثالثة.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 9 10 \r\n\t\t\t\t\t\t\t\tمزيد</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَٱلْمُطَلَّقَاتُ يَتَرَبَّصْنَ بِأَنْفُسِهِنَّ
+  حَكِيمٌ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا حميد بن مسعدة، قال: ثنا يزيد
+  بن زريع، قال: ثنا سعيد بن أبـي عروبة، قال: ثنا مطر أن الـحسن حدثهم: أن رجلاً طلق
+  امرأته، ووكل بذلك رجلاً من أهله، أو إنساناً من أهله، فغفل ذلك الذي وكله بذلك حتـى
+  دخـلت امرأته فـي الـحيضة الثالثة، وقربت ماءها لتغتسل، فـانطلق الذي وكل بذلك إلـى
+  الزوج، فأقبل الزوج وهي تريد الغسل، فقال: يا فلانة قالت: ما تشاء؟ قال: إنـي قد راجعتك.
+  قالت: والله مالك ذلك قال: بلـى والله قال: فـارتفعا إلـى أبـي موسى الأشعري، فأخذ
+  يـمينها بـالله الذي لا إله إلا هو إن كنت لقد اغتسلت حين ناداك؟ قالت: لا والله ما
+  كنت فعلت، ولقد قربت مائي لأغتسل فردّها علـى زوجها، وقال: أنت أحقّ ما لـم تغتسل من
+  الـحيضة الثالثة.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا مـحمد بن يحيى، قال: ثنا عبد
+  الأعلـى، قال: ثنا سعيد، عن مطر، عن الـحسن، عن أبـي موسى الأشعري بنـحوه.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا عمران بن موسى، قال: ثنا عبد الوارث، قال: ثنا يونس، عن الـحسن،
+  قال: قال عمر: هو أحقّ بها ما لـم تغتسل من الـحيضة الثالثة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  مـحمد بن بشار، قال: ثنا أبو الولـيد، قال: ثنا أبو هلال، عن قتادة، عن يونس بن جبـير:
+  أن عمر بن الـخطاب طلق امرأته، فأرادت أن تغتسل من الـحيضة الثالثة، فقال عمر بن الـخطاب:
+  امرأتـي وربّ الكعبة فراجعها. قال ابن بشار: فذكرت هذا الـحديث لعبد الرحمن بن مهدي،
+  فقال: سمعت هذا الـحديث من أبـي هلال، عن قتادة، وأبو هلال لا يحتـمل هذا.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا مـحمد بن بشار، قال: ثنا عبد الرحمن، قال: ثنا سفـيان، عن منصور،
+  عن إبراهيـم، عن علقمة قال: كنا عند عمر بن الـخطاب، فجاءت امرأة فقالت: إن زوجي طلقنـي
+  واحدة أو إثنتـين، فجاء وقد وضعتُ مائي، وأغلقت بـابـي، ونزعت ثـيابـي. فقال عمر لعبد
+  الله: ما ترى؟ قال: أراها امرأته ما دون أن تـحلّ لها الصلاة. قال عمر: وأنا أرى ذلك.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن الـمثنى، قال: ثنا مـحمد بن جعفر، قال: ثنا شعبة، عن الـحكم،
+  عن إبراهيـم، عن الأسود أنه قال فـي رجل طلق امرأته ثم تركها حتـى دخـلت فـي الـحيضة
+  الثالثة، فأرادت أن تغتسل، ووضعت ماءها لتغتسل، فراجعها: فأجازه عمر وعبد الله بن مسعود.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا مـحمد بن الـمثنى، قال: ثنا ابن أبـي عديّ، عن شعبة، عن الـحكم،
+  عن إبراهيـم، عن الأسود، بـمثله، إلا أنه قال: ووضعت الـماء للغسل، فراجعها، فسأل عبد
+  الله وعمر، فقال: هو أحقّ بها ما لـم تغتسل.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  أبو السائب، قال: ثنا أبو معاوية، عن الأعمش، عن إبراهيـم، قالا: كان عمر وعبد الله
+  يقولان: إذا طلق الرجل امرأته تطلـيقة يـملك الرجعة، فهو أحقّ بها ما لـم تغتسل من
+  حيضتها الثالثة.</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,8,1)\"><u>8</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,9,1)\"><u>9</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(1,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2,
+  228)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,228)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَٱلْمُطَلَّقَاتُ يَتَرَبَّصْنَ بِأَنْفُسِهِنَّ
   ثَلاَثَةَ قُرُوۤءٍ وَلاَ يَحِلُّ لَهُنَّ أَن يَكْتُمْنَ مَا خَلَقَ ٱللَّهُ فِيۤ
   أَرْحَامِهِنَّ إِن كُنَّ يُؤْمِنَّ بِٱللَّهِ وَٱلْيَوْمِ ٱلآخِرِ وَبُعُولَتُهُنَّ
   أَحَقُّ بِرَدِّهِنَّ فِي ذَلِكَ إِنْ أَرَادُوۤاْ إِصْلاَحاً وَلَهُنَّ مِثْلُ ٱلَّذِي
   عَلَيْهِنَّ بِٱلْمَعْرُوفِ وَلِلرِّجَالِ عَلَيْهِنَّ دَرَجَةٌ وَٱللَّهُ عَزِيزٌ
-  حَكِيمٌ }حدثنـي يعقوب بن إبراهيـم، قال: ثنا هشيـم، قال: أخبرنا الـمغيرة، عن إبراهيـم
-  أن عمر بن الـخطاب كان يقول: إذا طلق الرجل امرأته تطلـيقة أو تطلـيقتـين، فهو أحقّ
-  برجعتها، وبـينهما الـميراث ما لـم تغتسل من الـحيضة الثالثة.حدثنـي يعقوب، قال: ثنا
-  ابن علـية، عن أيوب، عن الـحسن: أن رجلاً طلق امرأته تطلـيقة أو تطلـيقتـين ثم وكل
-  بها بعض أهله، فغفل الإنسان حتـى دخـلت مغتسلها، وقربت غسلها، فأتاه فآذنه، فجاء فقال:
-  إنـي قد راجعتك فقالت: كلا والله قال: بلـى والله قالت: كلا والله قال: بلـى والله
-  قال: فتـحالفـا، فـارتفعا إلـى الأشعري، واستـحلفها بـالله لقد كنت اغتسلت وحلت لك
-  الصلاة. فأبت أن تـحلف، فردّها علـيه.حدثنا مـجاهد بن موسى، قال: ثنا يزيد بن هارون،
-  قال: ثنا سعيد، عن أبـي معشر، عن النـخعي، أن عمر استشار ابن مسعود فـي الذي طلق امرأته
-  تطلـيقة أو ثنتـين، فحاضت الـحيضة الثالثة، فقال ابن مسعود: أراه أحقّ بها ما لـم تغتسل،
-  فقال عمر: وافقت الذي فـي نفسي. فردّها علـى زوجها.حدثنا حميد بن مسعدة، قال: ثنا يزيد
-  بن زريع، قال: ثنا النعمان بن راشد، عن الزهري، عن سعيد بن الـمسيب: أن علـيا كان يقول:
-  هو أحقّ بها ما لـم تغتسل من الـحيضة الثالثة.حدثنا مـحمد بن بشار، قال: ثنا أبو أحمد،
-  قال: ثنا سفـيان، عن عمرو بن دينار، قال: سمعت سعيد بن جبـير يقول: إذا انقطع الدم
-  فلا رجعة.حدثنا أبو السائب، قال: ثنا أبو معاوية، عن الأعمش، عن إبراهيـم، قال: إذا
-  طلق الرجل امرأته وهي طاهر اعتدت ثلاث حيض سوى الـحيضة التـي طهرت منها.حدثنـي مـحمد
-  بن يحيى، قال: ثنا عبد الأعلـى، قال: ثنا سعيد، عن مطر، عن عمرو بن شعيب، أن عمر سأل
-  أبـا موسى عنها، وكان بلغه قضاؤه فـيها، فقال أبو موسى: قضيت أن زوجها أحقّ بها ما
-  لـم تغتسل. فقال عمر: لو قضيت غير هذا لأوجعت لك رأسك.حدثنا الـحسن بن يحيى، قال: أخبرنا
-  عبد الرزاق، قال: أخبرنا معمر، عن الزهري، عن سعيد بن الـمسيب: أن علـيّ بن أبـي طالب
-  قال فـي الرجل يتزوّج الـمرأة فـيطلقها تطلـيقة أو ثنتـين، قال: لزوجها الرجعة علـيها،
-  حتـى تغتسل من الـحيضة الثالثة وتـحلّ لها الصلاة.حدثنا الـحسن بن يحيى، قال: أخبرنا
-  عبد الرزاق، قال: أخبرنا معمر، عن زيد بن رفـيع، عن أبـي عبـيدة بن عبد الله، قال:
-  أرسل عثمان إلـى أبـي يسأله عنها، فقال أبـي: وكيف يُفْتَـي منافق؟ فقال عثمان: أعيذك
-  بـالله أن تكون منافقاً، ونعوذ بـالله أن نسميك منافقاً، ونعيذك بـالله أن يكون مثل
-  هذا كان فـي الإسلام ثم تـموت ولـم تبـينه قال: فإنـي أرى أنه حقّ بها حتـى تغتسل من
-  الـحيضة الثالثة وتـحلّ لها الصلاة.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 9 10 \r\n\t\t\t\t\t\t\t\tمزيد</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَٱلْمُطَلَّقَاتُ يَتَرَبَّصْنَ بِأَنْفُسِهِنَّ
-  ثَلاَثَةَ قُرُوۤءٍ وَلاَ يَحِلُّ لَهُنَّ أَن يَكْتُمْنَ مَا خَلَقَ ٱللَّهُ فِيۤ
-  أَرْحَامِهِنَّ إِن كُنَّ يُؤْمِنَّ بِٱللَّهِ وَٱلْيَوْمِ ٱلآخِرِ وَبُعُولَتُهُنَّ
-  أَحَقُّ بِرَدِّهِنَّ فِي ذَلِكَ إِنْ أَرَادُوۤاْ إِصْلاَحاً وَلَهُنَّ مِثْلُ ٱلَّذِي
-  عَلَيْهِنَّ بِٱلْمَعْرُوفِ وَلِلرِّجَالِ عَلَيْهِنَّ دَرَجَةٌ وَٱللَّهُ عَزِيزٌ
-  حَكِيمٌ }قال: فلا أعلـم عثمان إلا أخذ بذلك.حدثنا الـحسن بن يحيى، قال: أخبرنا عبد
-  الرزاق، قال: أخبرنا معمر، عن أيوب، عن أبـي قلابة، قال: وأخبرنا معمر، عن قتادة قالا:
-  راجع رجل امرأته حين وضعت ثـيابها تريد الاغتسال فقال: قد راجعتك، فقالت: كلا فـاغتسلت.
-  ثم خاصمها إلـى الأشعري، فردّها علـيه.حدثنا الـحسن بن يحيى، قال: أخبرنا عبد الرزاق،
-  قال: أخبرنا معمر، عن زيد بن رفـيع، عن معبد الـجهنـي، قال: إذا غسلت الـمطلقة فرجها
-  من الـحيضة الثالثة بـانت منه وحلت للأزواج.حدثنا الـحسن بن يحيى، قال: أخبرنا عبد
-  الرزاق، قال: أخبرنا معمر، عن قتادة، عن حماد، عن إبراهيـم: أن عمر بن الـخطاب رضي
-  الله عنه قال: يحلّ لزوجها الرجعة علـيها حتـى تغتسل من الـحيضة الثالثة، ويحلّ لها
-  الصوم.حدثنا مـحمد بن بشار ومـحمد بن الـمثنى، قالا: ثنا ابن أبـي عديّ، عن سعيد، عن
-  قتادة، عن سعيد بن الـمسيب، قال: قال علـيّ بن أبـي طالب رضي الله عنه: هو أحقّ بها
-  ما لـم تغتسل من الـحيضة الثالثة.حدثنا مـحمد بن يحيى، قال: ثنا عبد الأعلـى، عن سعيد،
-  عن دُرُسْت، عن الزهري، عن سعيد بن الـمسيب، عن علـيّ، مثله.وقال آخرون: بل القُرء
-  الذي أمر الله تعالـى ذكره الـمطلقات أن يعتددن به: الطهر. ذكر من قال ذلك:حدثنا عبد
-  الـحميد بن بـيان، قال: أخبرنا سفـيان، عن الزهري، عن عمرة، عن عائشة، قالت: الأقراء:
-  الأطهار.حدثنـي يونس، قال: أخبرنا ابن وهب، قال: ثنـي عبد الله بن عمر، عن عبد الرحمن
-  بن القاسم، عن أبـيه، عن عائشة زوج النبـي صلى الله عليه وسلم أنها كانت تقول: الأقراء:
-  الأطهار.حدثنا الـحسن، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر، عن الزهري، عن عمرة
-  وعروة، عن عائشة قالت: إذا دخـلت الـمطلقة فـي الـحيضة الثالثة فقد بـانت من زوجها
-  وحلت للأزواج. قال الزهري: قالت عمرة: كانت عائشة تقول: القرء: الطهر، ولـيس بـالـحيضة.حدثنا
-  الـحسن بن يحيى، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر، عن الزهري، عن أبـي بكر
-  بن عبد الرحمن بن الـحارث بن هشام، مثل قول زيد وعائشة.حدثنا الـحسن بن يحيى، قال:
-  أخبرنا عبد الرزاق، قال: أخبرنا معمر، عن أيوب، عن نافع، عن ابن عمر، مثل قول زيد.حدثنا
+  حَكِيمٌ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي يعقوب بن إبراهيـم، قال:
+  ثنا هشيـم، قال: أخبرنا الـمغيرة، عن إبراهيـم أن عمر بن الـخطاب كان يقول: إذا طلق
+  الرجل امرأته تطلـيقة أو تطلـيقتـين، فهو أحقّ برجعتها، وبـينهما الـميراث ما لـم تغتسل
+  من الـحيضة الثالثة.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي يعقوب، قال: ثنا ابن علـية،
+  عن أيوب، عن الـحسن: أن رجلاً طلق امرأته تطلـيقة أو تطلـيقتـين ثم وكل بها بعض أهله،
+  فغفل الإنسان حتـى دخـلت مغتسلها، وقربت غسلها، فأتاه فآذنه، فجاء فقال: إنـي قد راجعتك
+  فقالت: كلا والله قال: بلـى والله قالت: كلا والله قال: بلـى والله قال: فتـحالفـا،
+  فـارتفعا إلـى الأشعري، واستـحلفها بـالله لقد كنت اغتسلت وحلت لك الصلاة. فأبت أن
+  تـحلف، فردّها علـيه.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا مـجاهد بن موسى، قال: ثنا
+  يزيد بن هارون، قال: ثنا سعيد، عن أبـي معشر، عن النـخعي، أن عمر استشار ابن مسعود
+  فـي الذي طلق امرأته تطلـيقة أو ثنتـين، فحاضت الـحيضة الثالثة، فقال ابن مسعود: أراه
+  أحقّ بها ما لـم تغتسل، فقال عمر: وافقت الذي فـي نفسي. فردّها علـى زوجها.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا حميد بن مسعدة، قال: ثنا يزيد بن زريع، قال: ثنا النعمان بن
+  راشد، عن الزهري، عن سعيد بن الـمسيب: أن علـيا كان يقول: هو أحقّ بها ما لـم تغتسل
+  من الـحيضة الثالثة.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا مـحمد بن بشار، قال: ثنا أبو
+  أحمد، قال: ثنا سفـيان، عن عمرو بن دينار، قال: سمعت سعيد بن جبـير يقول: إذا انقطع
+  الدم فلا رجعة.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا أبو السائب، قال: ثنا أبو
+  معاوية، عن الأعمش، عن إبراهيـم، قال: إذا طلق الرجل امرأته وهي طاهر اعتدت ثلاث حيض
+  سوى الـحيضة التـي طهرت منها.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  مـحمد بن يحيى، قال: ثنا عبد الأعلـى، قال: ثنا سعيد، عن مطر، عن عمرو بن شعيب، أن
+  عمر سأل أبـا موسى عنها، وكان بلغه قضاؤه فـيها، فقال أبو موسى: قضيت أن زوجها أحقّ
+  بها ما لـم تغتسل. فقال عمر: لو قضيت غير هذا لأوجعت لك رأسك.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
   الـحسن بن يحيى، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر، عن الزهري، عن سعيد بن
-  الـمسيب وسلـيـمان بن يسار أن زيد بن ثابت قال: إذا دخـلت الـمطلقة فـي الـحيضة الثالثة
-  فقد بـانت من زوجها وحلت للأزواج. قال معمر: وكان الزهري يفتـي بقول زيد.حدثنا مـحمد
-  بن بشار، قال: ثنا عبد الوهاب، قال: سمعت يحيى بن سعيد يقول: بلغنـي أن عائشة قالت:
-  إنـما الأقراء: الأطهار.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 9 10 \r\n\t\t\t\t\t\t\t\tمزيد</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَٱلْمُطَلَّقَاتُ يَتَرَبَّصْنَ بِأَنْفُسِهِنَّ
+  الـمسيب: أن علـيّ بن أبـي طالب قال فـي الرجل يتزوّج الـمرأة فـيطلقها تطلـيقة أو
+  ثنتـين، قال: لزوجها الرجعة علـيها، حتـى تغتسل من الـحيضة الثالثة وتـحلّ لها الصلاة.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا الـحسن بن يحيى، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر،
+  عن زيد بن رفـيع، عن أبـي عبـيدة بن عبد الله، قال: أرسل عثمان إلـى أبـي يسأله عنها،
+  فقال أبـي: وكيف يُفْتَـي منافق؟ فقال عثمان: أعيذك بـالله أن تكون منافقاً، ونعوذ
+  بـالله أن نسميك منافقاً، ونعيذك بـالله أن يكون مثل هذا كان فـي الإسلام ثم تـموت
+  ولـم تبـينه قال: فإنـي أرى أنه حقّ بها حتـى تغتسل من الـحيضة الثالثة وتـحلّ لها
+  الصلاة.</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">3 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,8,1)\"><u>8</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,9,1)\"><u>9</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(1,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2,
+  228)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,228)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَٱلْمُطَلَّقَاتُ يَتَرَبَّصْنَ بِأَنْفُسِهِنَّ
   ثَلاَثَةَ قُرُوۤءٍ وَلاَ يَحِلُّ لَهُنَّ أَن يَكْتُمْنَ مَا خَلَقَ ٱللَّهُ فِيۤ
   أَرْحَامِهِنَّ إِن كُنَّ يُؤْمِنَّ بِٱللَّهِ وَٱلْيَوْمِ ٱلآخِرِ وَبُعُولَتُهُنَّ
   أَحَقُّ بِرَدِّهِنَّ فِي ذَلِكَ إِنْ أَرَادُوۤاْ إِصْلاَحاً وَلَهُنَّ مِثْلُ ٱلَّذِي
   عَلَيْهِنَّ بِٱلْمَعْرُوفِ وَلِلرِّجَالِ عَلَيْهِنَّ دَرَجَةٌ وَٱللَّهُ عَزِيزٌ
-  حَكِيمٌ }حدثنا حميد بن مسعدة، قال: ثنا يزيد بن زريع، قال: ثنا سعيد، عن قتادة، عن
-  سعيد بن الـمسيب، عن زيد بن ثابت، قال: إذا دخـلت فـي الـحيضة الثالثة فلا رجعة له
-  علـيها.حدثنا مـحمد بن بشار، قال: ثنا ابن أبـي عديّ وعبد الأعلـى، عن سعيد، عن قتادة،
-  عن ابن الـمسيب فـي رجل طلق امرأته واحدة أو إثنتـين، قال: قال زيد بن ثابت: إذا دخـلت
-  فـي الـحيضة الثالثة فلا رجعة له علـيها. وزاد ابن أبـي عديّ قال: قال علـيّ بن أبـي
-  طالب: هو أحقّ بها ما لـم تغتسل.حدثنا مـحمد بن الـمثنى، قال: ثنا ابن أبـي عديّ، عن
-  سعيد، عن قتادة، عن ابن الـمسيب، عن زيد وعلـيّ، بـمثله.حدثنا ابن بشار، قال: ثنا عبد
-  الرحمن، قال: ثنا سفـيان، عن أبـي الزناد، عن سلـيـمان بن يسار عن زيد بن ثابت، قال:
-  إذا دخـلت فـي الـحيضة الثالثة فلا ميراث لها.حدثنـي يعقوب، قال: ثنا ابن علـية وحدثنا
-  مـحمد بن بشار، قال: ثنا عبد الوهاب، قالا جميعاً: ثنا أيوب، عن نافع، عن سلـيـمان
+  حَكِيمٌ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">قال: فلا أعلـم عثمان إلا أخذ بذلك.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا الـحسن بن يحيى، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر،
+  عن أيوب، عن أبـي قلابة، قال: وأخبرنا معمر، عن قتادة قالا: راجع رجل امرأته حين وضعت
+  ثـيابها تريد الاغتسال فقال: قد راجعتك، فقالت: كلا فـاغتسلت. ثم خاصمها إلـى الأشعري،
+  فردّها علـيه.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا الـحسن بن يحيى، قال: أخبرنا
+  عبد الرزاق، قال: أخبرنا معمر، عن زيد بن رفـيع، عن معبد الـجهنـي، قال: إذا غسلت الـمطلقة
+  فرجها من الـحيضة الثالثة بـانت منه وحلت للأزواج.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  الـحسن بن يحيى، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر، عن قتادة، عن حماد، عن
+  إبراهيـم: أن عمر بن الـخطاب رضي الله عنه قال: يحلّ لزوجها الرجعة علـيها حتـى تغتسل
+  من الـحيضة الثالثة، ويحلّ لها الصوم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  مـحمد بن بشار ومـحمد بن الـمثنى، قالا: ثنا ابن أبـي عديّ، عن سعيد، عن قتادة، عن
+  سعيد بن الـمسيب، قال: قال علـيّ بن أبـي طالب رضي الله عنه: هو أحقّ بها ما لـم تغتسل
+  من الـحيضة الثالثة.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا مـحمد بن يحيى، قال: ثنا عبد
+  الأعلـى، عن سعيد، عن دُرُسْت، عن الزهري، عن سعيد بن الـمسيب، عن علـيّ، مثله.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال آخرون: بل القُرء الذي أمر الله تعالـى ذكره الـمطلقات أن يعتددن
+  به: الطهر. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا عبد الـحميد بن بـيان، قال:
+  أخبرنا سفـيان، عن الزهري، عن عمرة، عن عائشة، قالت: الأقراء: الأطهار.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي يونس، قال: أخبرنا ابن وهب، قال: ثنـي عبد الله بن عمر، عن
+  عبد الرحمن بن القاسم، عن أبـيه، عن عائشة زوج النبـي صلى الله عليه وسلم أنها كانت
+  تقول: الأقراء: الأطهار.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا الـحسن، قال: أخبرنا عبد الرزاق،
+  قال: أخبرنا معمر، عن الزهري، عن عمرة وعروة، عن عائشة قالت: إذا دخـلت الـمطلقة فـي
+  الـحيضة الثالثة فقد بـانت من زوجها وحلت للأزواج. قال الزهري: قالت عمرة: كانت عائشة
+  تقول: القرء: الطهر، ولـيس بـالـحيضة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  الـحسن بن يحيى، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر، عن الزهري، عن أبـي بكر
+  بن عبد الرحمن بن الـحارث بن هشام، مثل قول زيد وعائشة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  الـحسن بن يحيى، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر، عن أيوب، عن نافع، عن ابن
+  عمر، مثل قول زيد.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا الـحسن بن يحيى، قال: أخبرنا
+  عبد الرزاق، قال: أخبرنا معمر، عن الزهري، عن سعيد بن الـمسيب وسلـيـمان بن يسار أن
+  زيد بن ثابت قال: إذا دخـلت الـمطلقة فـي الـحيضة الثالثة فقد بـانت من زوجها وحلت
+  للأزواج. قال معمر: وكان الزهري يفتـي بقول زيد.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  مـحمد بن بشار، قال: ثنا عبد الوهاب، قال: سمعت يحيى بن سعيد يقول: بلغنـي أن عائشة
+  قالت: إنـما الأقراء: الأطهار.</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">4 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,8,1)\"><u>8</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,9,1)\"><u>9</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(1,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2,
+  228)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,228)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَٱلْمُطَلَّقَاتُ يَتَرَبَّصْنَ بِأَنْفُسِهِنَّ
+  ثَلاَثَةَ قُرُوۤءٍ وَلاَ يَحِلُّ لَهُنَّ أَن يَكْتُمْنَ مَا خَلَقَ ٱللَّهُ فِيۤ
+  أَرْحَامِهِنَّ إِن كُنَّ يُؤْمِنَّ بِٱللَّهِ وَٱلْيَوْمِ ٱلآخِرِ وَبُعُولَتُهُنَّ
+  أَحَقُّ بِرَدِّهِنَّ فِي ذَلِكَ إِنْ أَرَادُوۤاْ إِصْلاَحاً وَلَهُنَّ مِثْلُ ٱلَّذِي
+  عَلَيْهِنَّ بِٱلْمَعْرُوفِ وَلِلرِّجَالِ عَلَيْهِنَّ دَرَجَةٌ وَٱللَّهُ عَزِيزٌ
+  حَكِيمٌ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا حميد بن مسعدة، قال: ثنا يزيد
+  بن زريع، قال: ثنا سعيد، عن قتادة، عن سعيد بن الـمسيب، عن زيد بن ثابت، قال: إذا دخـلت
+  فـي الـحيضة الثالثة فلا رجعة له علـيها.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  مـحمد بن بشار، قال: ثنا ابن أبـي عديّ وعبد الأعلـى، عن سعيد، عن قتادة، عن ابن الـمسيب
+  فـي رجل طلق امرأته واحدة أو إثنتـين، قال: قال زيد بن ثابت: إذا دخـلت فـي الـحيضة
+  الثالثة فلا رجعة له علـيها. وزاد ابن أبـي عديّ قال: قال علـيّ بن أبـي طالب: هو أحقّ
+  بها ما لـم تغتسل.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا مـحمد بن الـمثنى، قال: ثنا
+  ابن أبـي عديّ، عن سعيد، عن قتادة، عن ابن الـمسيب، عن زيد وعلـيّ، بـمثله.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا سفـيان، عن أبـي الزناد،
+  عن سلـيـمان بن يسار عن زيد بن ثابت، قال: إذا دخـلت فـي الـحيضة الثالثة فلا ميراث
+  لها.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي يعقوب، قال: ثنا ابن علـية
+  وحدثنا مـحمد بن بشار، قال: ثنا عبد الوهاب، قالا جميعاً: ثنا أيوب، عن نافع، عن سلـيـمان
   بن يسار: أن الأحوص رجل من أشراف أهل الشام طلق امرأته تطلـيقة أو إثنتـين، فمات وهي
   فـي الـحيضة الثالثة، فرفعت إلـى معاوية، فلـم يوجد عنده فـيها علـم، فسأل عنها فضالة
   بن عبـيد ومن هناك من أصحاب رسول الله صلى الله عليه وسلم، فلـم يوجد عندهم فـيها علـم،
   فبعث معاوية راكبـاً إلـى زيد بن ثابت، فقال: لا ترثه، ولو ماتت لـم يرثها. فكان ابن
-  عمر يرى ذلك.حدثنا الـحسن بن يحيى، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر، عن أيوب،
-  عن سلـيـمان بن يسار أن رجلاً يقال له الأحوص من أهل الشام طلق امرأته تطلـيقة، فمات
-  وقد دخـلت فـي الـحيضة الثالثة، فرفع إلـى معاوية، فلـم يدر ما يقول، فكتب فـيها إلـى
-  زيد بن ثابت، فكتب إلـيه زيد: إذا دخـلت الـمطلقة فـي الـحيضة الثالثة فلا ميراث بـينهما.حدثنا
+  عمر يرى ذلك.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا الـحسن بن يحيى، قال: أخبرنا
+  عبد الرزاق، قال: أخبرنا معمر، عن أيوب، عن سلـيـمان بن يسار أن رجلاً يقال له الأحوص
+  من أهل الشام طلق امرأته تطلـيقة، فمات وقد دخـلت فـي الـحيضة الثالثة، فرفع إلـى معاوية،
+  فلـم يدر ما يقول، فكتب فـيها إلـى زيد بن ثابت، فكتب إلـيه زيد: إذا دخـلت الـمطلقة
+  فـي الـحيضة الثالثة فلا ميراث بـينهما.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
   مـحمد بن يحيى،قال: ثنا عبد الأعلـى، قال: ثنا سعيد، عن أيوب، عن نافع، عن سلـيـمان
-  بن يسار، أن رجلاً يقال له الأحوص، فذكر نـحوه عن معاوية وزيد.حدثنا مـحمد بن يحيى،
-  قال: ثنا عبد الأعلـى، قال: ثنا سعيد، عن أيوب، عن نافع، قال: قال ابن عمر: إذا دخـلت
-  فـي الـحيضة الثالثة فلا رجعة له علـيها.حدثنا ابن الـمثنى، قال: ثنا عبد الوهاب، قال:
-  ثنا عبـيد الله، عن نافع، عن ابن عمر أنه قال فـي الـمطلقة: إذا دخـلت فـي الـحيضة
-  الثالثة فقد بـانت.حدثنا يونس، قال: أخبرنا ابن وهب، قال: ثنـي عمر بن مـحمد، أن نافعاً
+  بن يسار، أن رجلاً يقال له الأحوص، فذكر نـحوه عن معاوية وزيد.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا مـحمد بن يحيى، قال: ثنا عبد الأعلـى، قال: ثنا سعيد، عن أيوب،
+  عن نافع، قال: قال ابن عمر: إذا دخـلت فـي الـحيضة الثالثة فلا رجعة له علـيها.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن الـمثنى، قال: ثنا عبد الوهاب، قال: ثنا عبـيد الله، عن
+  نافع، عن ابن عمر أنه قال فـي الـمطلقة: إذا دخـلت فـي الـحيضة الثالثة فقد بـانت.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا يونس، قال: أخبرنا ابن وهب، قال: ثنـي عمر بن مـحمد، أن نافعاً
   أخبره، عن عبد الله بن عمر وزيد بن ثابت أنهما كانا يقولان: إذا دخـلت الـمرأة فـي
-  الدم من الـحيضة الثالثة، فإنها لا ترثه ولا يرثها، وقد برئت منه وبرىء منها.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 9 10 \r\n\t\t\t\t\t\t\t\tمزيد</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَٱلْمُطَلَّقَاتُ يَتَرَبَّصْنَ بِأَنْفُسِهِنَّ
+  الدم من الـحيضة الثالثة، فإنها لا ترثه ولا يرثها، وقد برئت منه وبرىء منها.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">5 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,8,1)\"><u>8</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,9,1)\"><u>9</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(1,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2,
+  228)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,228)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَٱلْمُطَلَّقَاتُ يَتَرَبَّصْنَ بِأَنْفُسِهِنَّ
   ثَلاَثَةَ قُرُوۤءٍ وَلاَ يَحِلُّ لَهُنَّ أَن يَكْتُمْنَ مَا خَلَقَ ٱللَّهُ فِيۤ
   أَرْحَامِهِنَّ إِن كُنَّ يُؤْمِنَّ بِٱللَّهِ وَٱلْيَوْمِ ٱلآخِرِ وَبُعُولَتُهُنَّ
   أَحَقُّ بِرَدِّهِنَّ فِي ذَلِكَ إِنْ أَرَادُوۤاْ إِصْلاَحاً وَلَهُنَّ مِثْلُ ٱلَّذِي
   عَلَيْهِنَّ بِٱلْمَعْرُوفِ وَلِلرِّجَالِ عَلَيْهِنَّ دَرَجَةٌ وَٱللَّهُ عَزِيزٌ
-  حَكِيمٌ }حدثنا مـحمد بن بشار، قال: ثنا عبد الوهاب، قال: ثنا يحيى بن سعيد، قال: بلغنـي،
-  عن زيد بن ثابت قال: إذا طلقت الـمرأة، فدخـلت فـي الـحيضة الثالثة أنه لـيس بـينهما
-  ميراث ولا رجعة.حدثنا مـحمد بن بشار، قال: ثنا عبد الوهاب، قال: سمعت يحيى بن سعيد،
-  يقول: سمعت سالـم بن عبد الله يقول مثل قول زيد بن ثابت.حدثنا مـحمد بن بشار، قال:
-  ثنا عبد الوهاب، قال: وسمعت يحيى يقول: بلغنـي عن أبـان بن عثمان أنه كان يقول ذلك.حدثنا
-  مـحمد بن بشار، قال: ثنا عبد الوهاب، قال: ثنا عبـيد الله، عن زيد بن ثابت، مثل ذلك.حدثنا
+  حَكِيمٌ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا مـحمد بن بشار، قال: ثنا عبد
+  الوهاب، قال: ثنا يحيى بن سعيد، قال: بلغنـي، عن زيد بن ثابت قال: إذا طلقت الـمرأة،
+  فدخـلت فـي الـحيضة الثالثة أنه لـيس بـينهما ميراث ولا رجعة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  مـحمد بن بشار، قال: ثنا عبد الوهاب، قال: سمعت يحيى بن سعيد، يقول: سمعت سالـم بن
+  عبد الله يقول مثل قول زيد بن ثابت.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  مـحمد بن بشار، قال: ثنا عبد الوهاب، قال: وسمعت يحيى يقول: بلغنـي عن أبـان بن عثمان
+  أنه كان يقول ذلك.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا مـحمد بن بشار، قال: ثنا عبد
+  الوهاب، قال: ثنا عبـيد الله، عن زيد بن ثابت، مثل ذلك.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
   مـحمد بن الـمثنى، قال: ثنا وهب بن جرير، قال: ثنا شعبة، عن عبد ربه بن سعيد، عن نافع:
   أن معاوية بعث إلـى زيد بن ثابت، فكتب إلـيه زيد: إذا دخـلت فـي الـحيضة الثالثة فقد
-  بـانت. وكان ابن عمر يقوله.حدثنا يعقوب بن إبراهيـم، قال: ثنا هشيـم، قال: أخبرنا يحيى
-  بن سعيد، عن سلـيـمان وزيد بن ثابت أنهما قالا: إذا حاضت الـحيضة الثالثة فلا رجعة،
-  ولا ميراث.حدثنا مـجاهد بن موسى، قال: ثنا يزيد، قال: أخبرنا هشام بن حسان، عن قـيس
-  بن سعد، عن بكير بن عبد الله بن الأشج، عن زيد بن ثابت، قال: إذا طلق الرجل امرأته،
-  فرأت الدم فـي الـحيضة الثالثة، فقد انقضت عدتها.حدثنا ابن حميد، قال: ثنا جرير، عن
-  مغيرة عن موسى بن شداد، عن عمر بن ثابت الأنصاري، قال: كان زيد بن ثابت يقول: إذا حاضت
-  الـمطلقة الثالثة قبل أن يراجعها زوجها فلا يـملك رجعتها.حدثنا مـحمد بن يحيى، قال:
-  ثنا عبد الأعلـى، عن سعيد، عن دُرُسْت، عن الزهري، عن سعيد بن الـمسيب، أن عائشة وزيد
-  بن ثابت قالا: إذا دخـلت فـي الـحيضة الثالثة فلا رجعة له علـيها.قال أبو جعفر: والقُرء
-  فـي كلام العرب: جمعه قروء، وقد تـجمعه العرب أقراء، يقال فـي أفعل منه: أقرأت الـمرأة:
-  إذا صارت ذات حيض وطهر، فهي تقرىء إقراء. وأصل القرء فـي كلام العرب: الوقت لـمـجيء
-  الشيء الـمعتاد مـجيئه لوقت معلوم، ولإدبـار الشيء الـمعتاد إدبـاره لوقت معلوم، ولذلك
-  قالت العرب: أقرأت حاجة فلان عندي، بـمعنى دنا قضاؤها، وجاء وقت قضائها وأقرأ النـجم:
-  إذا جاء وقت أفوله، وأقرأ: إذا جاء وقت طلوعه، كما قال الشاعر:إذَا ما الثُّرَيَّا
-  وقَدْ أقْرأَتَ   أحَسَّ السِّماكانِ مِنها أُفُولاَوقـيـل: أقرأت الريح: إذا هبت لوقتها،
-  كما قال الهذلـي:شَنِئْتُ العَقْرَ عَقْرَ بنـي شَلِـيـلٍ   إذَا هَبَّتْ لِقارِئها
-  الرّياحُبـمعنى هبت لوقتها وحين هبوبها. ولذلك سمى بعض العرب وقت مـجيء الـحيض قرءاً،
-  إذا كان دماً يعتاد طهوره من فرج الـمرأة فـي وقت، وكمونه فـي آخر، فسمي وقت مـجيئه
-  قرءاً، كما سمى الذين سموا وقت مـجيء الريح لوقتها قرءاً، ولذلك قال صلى الله عليه
-  وسلم لفـاطمة بنت أبـي حبـيش:\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 9 10 \r\n\t\t\t\t\t\t\t\tمزيد</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَٱلْمُطَلَّقَاتُ يَتَرَبَّصْنَ بِأَنْفُسِهِنَّ
+  بـانت. وكان ابن عمر يقوله.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا يعقوب بن إبراهيـم، قال: ثنا
+  هشيـم، قال: أخبرنا يحيى بن سعيد، عن سلـيـمان وزيد بن ثابت أنهما قالا: إذا حاضت الـحيضة
+  الثالثة فلا رجعة، ولا ميراث.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  مـجاهد بن موسى، قال: ثنا يزيد، قال: أخبرنا هشام بن حسان، عن قـيس بن سعد، عن بكير
+  بن عبد الله بن الأشج، عن زيد بن ثابت، قال: إذا طلق الرجل امرأته، فرأت الدم فـي الـحيضة
+  الثالثة، فقد انقضت عدتها.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن حميد، قال: ثنا جرير،
+  عن مغيرة عن موسى بن شداد، عن عمر بن ثابت الأنصاري، قال: كان زيد بن ثابت يقول: إذا
+  حاضت الـمطلقة الثالثة قبل أن يراجعها زوجها فلا يـملك رجعتها.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا مـحمد بن يحيى، قال: ثنا عبد الأعلـى، عن سعيد، عن دُرُسْت،
+  عن الزهري، عن سعيد بن الـمسيب، أن عائشة وزيد بن ثابت قالا: إذا دخـلت فـي الـحيضة
+  الثالثة فلا رجعة له علـيها.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال
+  أبو جعفر: والقُرء فـي كلام العرب: جمعه قروء، وقد تـجمعه العرب أقراء، يقال فـي أفعل
+  منه: أقرأت الـمرأة: إذا صارت ذات حيض وطهر، فهي تقرىء إقراء. وأصل القرء فـي كلام
+  العرب: الوقت لـمـجيء الشيء الـمعتاد مـجيئه لوقت معلوم، ولإدبـار الشيء الـمعتاد إدبـاره
+  لوقت معلوم، ولذلك قالت العرب: أقرأت حاجة فلان عندي، بـمعنى دنا قضاؤها، وجاء وقت
+  قضائها وأقرأ النـجم: إذا جاء وقت أفوله، وأقرأ: إذا جاء وقت طلوعه، كما قال الشاعر:</font></font><table
+  class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">إذَا ما الثُّرَيَّا وقَدْ أقْرأَتَ</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">أحَسَّ السِّماكانِ مِنها أُفُولاَ</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">وقـيـل: أقرأت الريح: إذا هبت لوقتها،
+  كما قال الهذلـي:</font></font><table class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">شَنِئْتُ
+  العَقْرَ عَقْرَ بنـي شَلِـيـلٍ</font></font></b></td><td class=\"TextArabic\">   </td><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">إذَا هَبَّتْ
+  لِقارِئها الرّياحُ</font></font></b></td></tr></table><font class=\"TextResultArabic\"><font
+  color=\"black\">بـمعنى هبت لوقتها وحين هبوبها. ولذلك سمى بعض العرب وقت مـجيء الـحيض
+  قرءاً، إذا كان دماً يعتاد طهوره من فرج الـمرأة فـي وقت، وكمونه فـي آخر، فسمي وقت
+  مـجيئه قرءاً، كما سمى الذين سموا وقت مـجيء الريح لوقتها قرءاً، ولذلك قال صلى الله
+  عليه وسلم لفـاطمة بنت أبـي حبـيش:</font></font>&#13;\t\t\t<label disabled=\"true\"
+  class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,7,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">6 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,8,1)\"><u>8</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,9,1)\"><u>9</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(1,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2,
+  228)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,228)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَٱلْمُطَلَّقَاتُ يَتَرَبَّصْنَ بِأَنْفُسِهِنَّ
   ثَلاَثَةَ قُرُوۤءٍ وَلاَ يَحِلُّ لَهُنَّ أَن يَكْتُمْنَ مَا خَلَقَ ٱللَّهُ فِيۤ
   أَرْحَامِهِنَّ إِن كُنَّ يُؤْمِنَّ بِٱللَّهِ وَٱلْيَوْمِ ٱلآخِرِ وَبُعُولَتُهُنَّ
   أَحَقُّ بِرَدِّهِنَّ فِي ذَلِكَ إِنْ أَرَادُوۤاْ إِصْلاَحاً وَلَهُنَّ مِثْلُ ٱلَّذِي
   عَلَيْهِنَّ بِٱلْمَعْرُوفِ وَلِلرِّجَالِ عَلَيْهِنَّ دَرَجَةٌ وَٱللَّهُ عَزِيزٌ
-  حَكِيمٌ } \" دَعِي الصَّلاةَ أيّامَ أقْرائِكِ \" بـمعنى: دعي الصلاة أيام إقبـال
-  حيضك. وسمى آخرون من العرب وقت مـجيء الطهر قرءا، إذ كان وقت مـجيئه وقتاً لإدبـار
-  الدم دم الـحيض، وإقبـال الطهر الـمعتاد مـجيئه لوقت معلوم، فقال فـي ذلك الأعشى ميـمون
-  بن قـيس:وفـي كُلّ عامٍ أنْتَ جاشِمُ غَزْوَةٍ   تَشُدُّ لأقصَاها عَزِيـمَ عَزائِكامُوَرَّثَةٍ
-  مالاً وفـي الذّكْرِ رِفعَةً   لـمَا ضاعَ فـيها مِنْ قُرُوءِ نسائِكافجعل القرء: وقت
-  الطهر. ولـما وصفنا من معنى القرء أشكل تأويـل قول الله: { وَالـمُطَلَّقاتُ يَترَبَّصْنَ
-  بأنْفُسهِنَّ ثَلاثَة قُرُوءٍ } علـى أهل التأويـل، فرأى بعضهم أن الذي أمرت به الـمرأة
-  الـمطلقة ذات الأقراء من الأقراء أقراء الـحيض، وذلك وقت مـجيئه لعادته التـي تـجيء
-  فـيه، فأوجب علـيها تربص ثلاث حيض بنفسها عن خطبة الأزواج. ورأى آخرون أن الذي أمرت
-  به من ذلك إنـما هو أقراء الطهر، وذلك وقت مـجيئه لعادته التـي تـجيء فـيه، فأوجب علـيها
-  تربص ثلاث أطهار. فإذ كان معنى القرء ما وصفنا لـما بـينا، وكان الله تعالـى ذكره قد
-  أمر الـمريد بطلاق امرأته أن لا يطلقها إلا طاهراً غير مـجامعة، وحرم علـيه طلاقها
-  حائضاً، كان اللازم للـمطلقة الـمدخول بها إذا كانت ذات أقراء تربص أوقات مـحدودة الـمبلغ
-  بنفسها عقـيب طلاق زوجها إياها أن تنظر إلـى ثلاثة قروء بـين طهري كل قرء منهنّ قرء،
-  هو خلاف ما احتسبته لنفسها قروءا تتربصهن. فإذا انقضين، فقد حلت للأزواج، وانقضت عدتها
-  وذلك أنها إذا فعلت ذلك، فقد دخـلت فـي عداد من تربص من الـمطلقات بنفسها ثلاثة قروء
-  بـين طهري كل قرء منهنّ قرء له مخالف، وإذا فعلت ذلك كانت مؤدية ما ألزمها ربها تعالـى
-  ذكره بظاهر تنزيـله. فقد تبـين إذا إذ كان الأمر علـى ما وصفنا أن القرء الثالث من
-  أقرائها علـى ما بـينا الطهر الثالث، وأن بـانقضائه ومـجيء قرء الـحيض الذي يتلوه انقضاء
-  عدتها.فإن ظنّ ذو غبـاوة إذ كنا قد نسمي وقت مـجيء الطهر قرءاً، ووقت مـجيء الـحيض
-  قرءاً أنه يـلزمنا أن نـجعل عدة الـمرأة منقضية بـانقضاء الطهر الثانـي، إذ كان الطهر
-  الذي طلقها فـيه، والـحيضة التـي بعده، والطهر الذي يتلوها أقراء كلها فقد ظن جهلاً،
-  وذلك أن الـحكم عندنا فـي كل ما أنزله الله فـي كتابه علـى ما احتـمله ظاهر التنزيـل
-  ما لـم يبـين الله تعالـى ذكره لعبـاده، أن مراده منه الـخصوص، إما بتنزيـل فـي كتابه،
-  أو علـى لسان رسول الله صلى الله عليه وسلم. فإذا خصّ منه البعض، كان الذي خص من ذلك
-  غير داخـل فـي الـجملة التـي أوجب الـحكم بها، وكان سائرها علـى عمومها، كما قد بـينا
-  فـي كتابنا: «كتاب لطيف القول من البـيان عن أصول الأحكام» وغيره من كتبنا.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 9 10 \r\n\t\t\t\t\t\t\t\tمزيد</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَٱلْمُطَلَّقَاتُ يَتَرَبَّصْنَ بِأَنْفُسِهِنَّ
+  حَكِيمٌ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\"/></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" دَعِي الصَّلاةَ أيّامَ أقْرائِكِ \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">بـمعنى: دعي الصلاة أيام إقبـال حيضك. وسمى آخرون من العرب وقت مـجيء
+  الطهر قرءا، إذ كان وقت مـجيئه وقتاً لإدبـار الدم دم الـحيض، وإقبـال الطهر الـمعتاد
+  مـجيئه لوقت معلوم، فقال فـي ذلك الأعشى ميـمون بن قـيس:</font></font><table class=\"TextArabic\"
+  dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">وفـي كُلّ عامٍ أنْتَ جاشِمُ غَزْوَةٍ</font></font></b></td><td class=\"TextArabic\">   </td><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">تَشُدُّ
+  لأقصَاها عَزِيـمَ عَزائِكا</font></font></b></td></tr><tr class=\"TextArabic\"><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">مُوَرَّثَةٍ
+  مالاً وفـي الذّكْرِ رِفعَةً</font></font></b></td><td class=\"TextArabic\">   </td><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">لـمَا ضاعَ
+  فـيها مِنْ قُرُوءِ نسائِكا</font></font></b></td></tr></table><font class=\"TextResultArabic\"><font
+  color=\"black\">فجعل القرء: وقت الطهر. ولـما وصفنا من معنى القرء أشكل تأويـل قول
+  الله: { وَالـمُطَلَّقاتُ يَترَبَّصْنَ بأنْفُسهِنَّ ثَلاثَة قُرُوءٍ } علـى أهل التأويـل،
+  فرأى بعضهم أن الذي أمرت به الـمرأة الـمطلقة ذات الأقراء من الأقراء أقراء الـحيض،
+  وذلك وقت مـجيئه لعادته التـي تـجيء فـيه، فأوجب علـيها تربص ثلاث حيض بنفسها عن خطبة
+  الأزواج. ورأى آخرون أن الذي أمرت به من ذلك إنـما هو أقراء الطهر، وذلك وقت مـجيئه
+  لعادته التـي تـجيء فـيه، فأوجب علـيها تربص ثلاث أطهار. فإذ كان معنى القرء ما وصفنا
+  لـما بـينا، وكان الله تعالـى ذكره قد أمر الـمريد بطلاق امرأته أن لا يطلقها إلا طاهراً
+  غير مـجامعة، وحرم علـيه طلاقها حائضاً، كان اللازم للـمطلقة الـمدخول بها إذا كانت
+  ذات أقراء تربص أوقات مـحدودة الـمبلغ بنفسها عقـيب طلاق زوجها إياها أن تنظر إلـى
+  ثلاثة قروء بـين طهري كل قرء منهنّ قرء، هو خلاف ما احتسبته لنفسها قروءا تتربصهن.
+  فإذا انقضين، فقد حلت للأزواج، وانقضت عدتها وذلك أنها إذا فعلت ذلك، فقد دخـلت فـي
+  عداد من تربص من الـمطلقات بنفسها ثلاثة قروء بـين طهري كل قرء منهنّ قرء له مخالف،
+  وإذا فعلت ذلك كانت مؤدية ما ألزمها ربها تعالـى ذكره بظاهر تنزيـله. فقد تبـين إذا
+  إذ كان الأمر علـى ما وصفنا أن القرء الثالث من أقرائها علـى ما بـينا الطهر الثالث،
+  وأن بـانقضائه ومـجيء قرء الـحيض الذي يتلوه انقضاء عدتها.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">فإن
+  ظنّ ذو غبـاوة إذ كنا قد نسمي وقت مـجيء الطهر قرءاً، ووقت مـجيء الـحيض قرءاً أنه
+  يـلزمنا أن نـجعل عدة الـمرأة منقضية بـانقضاء الطهر الثانـي، إذ كان الطهر الذي طلقها
+  فـيه، والـحيضة التـي بعده، والطهر الذي يتلوها أقراء كلها فقد ظن جهلاً، وذلك أن الـحكم
+  عندنا فـي كل ما أنزله الله فـي كتابه علـى ما احتـمله ظاهر التنزيـل ما لـم يبـين
+  الله تعالـى ذكره لعبـاده، أن مراده منه الـخصوص، إما بتنزيـل فـي كتابه، أو علـى لسان
+  رسول الله صلى الله عليه وسلم. فإذا خصّ منه البعض، كان الذي خص من ذلك غير داخـل فـي
+  الـجملة التـي أوجب الـحكم بها، وكان سائرها علـى عمومها، كما قد بـينا فـي كتابنا:
+  «كتاب لطيف القول من البـيان عن أصول الأحكام» وغيره من كتبنا.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,8,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">7 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,8,1)\"><u>8</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,9,1)\"><u>9</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(1,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2,
+  228)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,228)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَٱلْمُطَلَّقَاتُ يَتَرَبَّصْنَ بِأَنْفُسِهِنَّ
   ثَلاَثَةَ قُرُوۤءٍ وَلاَ يَحِلُّ لَهُنَّ أَن يَكْتُمْنَ مَا خَلَقَ ٱللَّهُ فِيۤ
   أَرْحَامِهِنَّ إِن كُنَّ يُؤْمِنَّ بِٱللَّهِ وَٱلْيَوْمِ ٱلآخِرِ وَبُعُولَتُهُنَّ
   أَحَقُّ بِرَدِّهِنَّ فِي ذَلِكَ إِنْ أَرَادُوۤاْ إِصْلاَحاً وَلَهُنَّ مِثْلُ ٱلَّذِي
   عَلَيْهِنَّ بِٱلْمَعْرُوفِ وَلِلرِّجَالِ عَلَيْهِنَّ دَرَجَةٌ وَٱللَّهُ عَزِيزٌ
-  حَكِيمٌ }فـالأقراء التـي هي أقراء الـحيض بـين طهري أقراء الطهر غير مـحتسبة من أقراء
-  الـمتربصة بنفسها بعد الطلاق لإجماع الـجميع من أهل الإسلام أن الأقراء التـي أوجب
-  الله علـيها تربصهن ثلاثة قروء، بـين كل قرء منهن أوقات مخالفـات الـمعنى لأقرائها
-  التـي تربصهن، وإذ كن مستـحقات عندنا اسم أقراء، فإن ذلك من إجماع الـجميع لـم يجز
-  لها التربص إلا علـى ما وصفنا قبل.وفـي هذه الآية دلـيـل واضح علـى خطأ قول من قال:
-  إن امرأة الـمولـي التـي آلَـى منها تـحلّ للأزواج بـانقضاء الأشهر الأربعة إذا كانت
-  قد حاضت ثلاث حيض فـي الأشهر الأربعة لأن الله تعالـى ذكره إنـما أوجب علـيها العدة
-  بعد عزم الـمولـي علـى طلاقها، وإيقاع الطلاق بها بقوله:{ وَإنْ عَزَمُوا الطَّلاقَ
-  فإنَّ اللَّهَ سَمِيعٌ عَلِـيـمٌ وَإِنْ عَزَمُواْ ٱلطَّلاَقَ فَإِنَّ ٱللَّهَ سَمِيعٌ
-  عَلِيمٌ }[البقرة: 227] { وَالـمُطَلَّقاتُ يَترَبَّصْنَ بأنْفُسهِنَّ ثَلاثَة قُرُوءٍ
-  } فأوجب تعالـى ذكره علـى الـمرأة إذا صارت مطلقة تربص ثلاثة قروء، فمعلوم أنها لـم
-  تكن مطلقة يوم آلـى منها زوجها لإجماع الـجميع علـى أن الإيلاء لـيس بطلاق موجب علـى
-  الـمولَـى منها العدة.وإذ كان ذلك كذلك، فـالعدة إنـما تلزمها بعد الطلاق، والطلاق
-  إنـما يـلـحقها بـما قد بـيناه قبل.وأما معنى قوله: { وَالـمُطَلَّقاتُ } فإنه: والـمخـلـيات
-  السبـيـل غير مـمنوعات بأزواج ولا مخطوبـات، وقول القائل: فلانة مطلقة، إنـما هو مُفعَّلة
-  من قول القائل: طلق الرجل زوجته فهي مطلقة وأما قولهم: هي طالق، فمن قولهم: طلقها زوجها
+  حَكِيمٌ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">فـالأقراء التـي هي أقراء الـحيض
+  بـين طهري أقراء الطهر غير مـحتسبة من أقراء الـمتربصة بنفسها بعد الطلاق لإجماع الـجميع
+  من أهل الإسلام أن الأقراء التـي أوجب الله علـيها تربصهن ثلاثة قروء، بـين كل قرء
+  منهن أوقات مخالفـات الـمعنى لأقرائها التـي تربصهن، وإذ كن مستـحقات عندنا اسم أقراء،
+  فإن ذلك من إجماع الـجميع لـم يجز لها التربص إلا علـى ما وصفنا قبل.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وفـي هذه الآية دلـيـل واضح علـى خطأ قول من قال: إن امرأة الـمولـي
+  التـي آلَـى منها تـحلّ للأزواج بـانقضاء الأشهر الأربعة إذا كانت قد حاضت ثلاث حيض
+  فـي الأشهر الأربعة لأن الله تعالـى ذكره إنـما أوجب علـيها العدة بعد عزم الـمولـي
+  علـى طلاقها، وإيقاع الطلاق بها بقوله:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">وَإنْ عَزَمُوا الطَّلاقَ فإنَّ اللَّهَ
+  سَمِيعٌ عَلِـيـمٌ وَإِنْ عَزَمُواْ ٱلطَّلاَقَ فَإِنَّ ٱللَّهَ سَمِيعٌ عَلِيمٌ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[البقرة:
+  227] { وَالـمُطَلَّقاتُ يَترَبَّصْنَ بأنْفُسهِنَّ ثَلاثَة قُرُوءٍ } فأوجب تعالـى
+  ذكره علـى الـمرأة إذا صارت مطلقة تربص ثلاثة قروء، فمعلوم أنها لـم تكن مطلقة يوم
+  آلـى منها زوجها لإجماع الـجميع علـى أن الإيلاء لـيس بطلاق موجب علـى الـمولَـى منها
+  العدة.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وإذ كان ذلك كذلك، فـالعدة إنـما
+  تلزمها بعد الطلاق، والطلاق إنـما يـلـحقها بـما قد بـيناه قبل.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وأما معنى قوله: { وَالـمُطَلَّقاتُ } فإنه: والـمخـلـيات السبـيـل
+  غير مـمنوعات بأزواج ولا مخطوبـات، وقول القائل: فلانة مطلقة، إنـما هو مُفعَّلة من
+  قول القائل: طلق الرجل زوجته فهي مطلقة وأما قولهم: هي طالق، فمن قولهم: طلقها زوجها
   فطلقت هي، وهي تَطْلُق طلاقاً، وهي طالق. وقد حكي عن بعض أحياء العرب أنها تقول: طَلَقت
   الـمرأة وإنـما قـيـل ذلك لها إذا خلاها زوجها، كما يقال للنعجة الـمهملة بغير راع
   ولا كالـىء إذا خرجت وحدها من أهلها للرعي مخلاة سبـيـلها: هي طالق فمثلت الـمرأة الـمخلاة
   سبـيـلها بها، وسميت بـما سميت به النعجة التـي وصفنا أمرها. وأما قولهم: طُلِقَت الـمرأة،
   فمعنى غير هذا إنـما يقال فـي هذا إذا نفست، هذا من الطلق، والأول من الطلاق. وقد بـينا
-  أن التربص إنـما هو التوقـف عن النكاح، وحبس النفس عنه فـي غير هذا الـموضع.القول فـي
-  تأويـل قوله تعالـى: { وَلا يَحِلُّ لَهُنّ أنْ يَكْتُـمْنَ مَا خَـلَقَ اللَّهُ فِـي
-  أرْحامِهِنَّ إنْ كُنّ يُؤمِنّ بـاللَّهِ وَالـيَوْمِ الآخِرِ }.اختلف أهل التأويـل
-  فـي تأويـل ذلك، فقال بعضهم: تأويـله: ولا يحلّ لهنّ، يعنـي للـمطلقات أن يكتـمن ما
-  خـلق الله فـي أرحامهن من الـحيض إذا طلقن، حرم علـيهنّ أن يكتـمن أزواجهنّ الذين طلقوهن
-  فـي الطلاق الذي علـيهم لهن فـيه رجعة يبتغين بذلك إبطال حقوقهم من الرجعة علـيهن.
-  ذكر من قال ذلك:حدثنـي الـمثنى، قال: ثنا أبو صالـح، قال: ثنـي اللـيث، عن يونس، عن
+  أن التربص إنـما هو التوقـف عن النكاح، وحبس النفس عنه فـي غير هذا الـموضع.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">القول فـي تأويـل قوله تعالـى: { وَلا يَحِلُّ لَهُنّ أنْ يَكْتُـمْنَ
+  مَا خَـلَقَ اللَّهُ فِـي أرْحامِهِنَّ إنْ كُنّ يُؤمِنّ بـاللَّهِ وَالـيَوْمِ الآخِرِ
+  }.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">اختلف أهل التأويـل فـي تأويـل ذلك،
+  فقال بعضهم: تأويـله: ولا يحلّ لهنّ، يعنـي للـمطلقات أن يكتـمن ما خـلق الله فـي أرحامهن
+  من الـحيض إذا طلقن، حرم علـيهنّ أن يكتـمن أزواجهنّ الذين طلقوهن فـي الطلاق الذي
+  علـيهم لهن فـيه رجعة يبتغين بذلك إبطال حقوقهم من الرجعة علـيهن. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي الـمثنى، قال: ثنا أبو صالـح، قال: ثنـي اللـيث، عن يونس، عن
   ابن شهاب، قال: قال الله تعالـى ذكره: { وَالـمُطَلّقاتُ يَترَبَّصْنَ بأنْفُسهِنَّ
   ثَلاثَة قُرُوءٍ } إلـى قوله: { وللرّجالِ عَلَـيْهِنّ دَرَجَةٌ واللَّهُ عَزِيزٌ حَكِيـمٌ
   } قال: بلغنا أن ما خـلق فـي أرحامهن الـحمل، وبلغنا أنه الـحيضة، فلا يحلّ لهنّ أن
-  يكتـمن ذلك لتنقضي العدة ولا يـملك الرجعة إذا كانت له.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 9 10 \r\n\t\t\t\t\t\t\t\tمزيد</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَٱلْمُطَلَّقَاتُ يَتَرَبَّصْنَ بِأَنْفُسِهِنَّ
+  يكتـمن ذلك لتنقضي العدة ولا يـملك الرجعة إذا كانت له.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,7,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,9,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">8 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,9,1)\"><u>9</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(1,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2,
+  228)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,228)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَٱلْمُطَلَّقَاتُ يَتَرَبَّصْنَ بِأَنْفُسِهِنَّ
   ثَلاَثَةَ قُرُوۤءٍ وَلاَ يَحِلُّ لَهُنَّ أَن يَكْتُمْنَ مَا خَلَقَ ٱللَّهُ فِيۤ
   أَرْحَامِهِنَّ إِن كُنَّ يُؤْمِنَّ بِٱللَّهِ وَٱلْيَوْمِ ٱلآخِرِ وَبُعُولَتُهُنَّ
   أَحَقُّ بِرَدِّهِنَّ فِي ذَلِكَ إِنْ أَرَادُوۤاْ إِصْلاَحاً وَلَهُنَّ مِثْلُ ٱلَّذِي
   عَلَيْهِنَّ بِٱلْمَعْرُوفِ وَلِلرِّجَالِ عَلَيْهِنَّ دَرَجَةٌ وَٱللَّهُ عَزِيزٌ
-  حَكِيمٌ }حدثنا ابن بشار، قال: ثنا يحيى بن سعيد، عن سفـيان، عن منصور، عن إبراهيـم:
-  { وَلا يَحِلُّ لَهُنّ أنْ يَكْتُـمْنَ مَا خَـلَقَ اللَّهُ فِـي أرْحامِهِنَّ } قال:
-  الـحيض.حدثنا مـحمد بن بشار، قال: ثنا أبو أحمد، قال: ثنا سفـيان، عن منصور، عن إبراهيـم:
-  { وَلا يَحِلُّ لَهُنّ أنْ يَكْتُـمْنَ مَا خَـلَقَ اللَّهُ فِـي أرْحامِهِنَّ } قال:
-  أكثر ذلك الـحيض.حدثنا أبو كريب، قال: ثنا ابن إدريس، قال: سمعت مطرفـاً، عن الـحكم،
-  قال: قال إبراهيـم فـي قوله: { وَلا يَحِلُّ لَهُنّ أنْ يَكْتُـمْنَ مَا خَـلَقَ اللَّهُ
-  فِـي أرْحامِهِنَّ } قال: الـحيض.حدثنـي يعقوب، قال: ثنا ابن علـية، قال: ثنا خالد
-  الـحذاء، عن عكرمة فـي قوله: { وَلا يَحِلُّ لَهُنّ أنْ يَكْتُـمْنَ مَا خَـلَقَ اللَّهُ
-  فِـي أرْحامِهِنَّ } قال: الـحيض. ثم قال خالد: الدم.وقال آخرون: هو الـحيض، غير أن
-  الذي حرّم الله تعالـى ذكره علـيها كتـمانه فـيـما خـلق فـي رحمها من ذلك هو أن تقول
-  لزوجها الـمطلق وقد أراد رجعتها قبل الـحيضة الثالثة: قد حضت الـحيضة الثالثة كاذبة،
-  لتبطل حقه بقـيـلها البـاطل فـي ذلك. ذكر من قال ذلك:حدثنا ابن حميد، قال: ثنا جرير،
-  عن عبـيدة بن مُغيث، عن إبراهيـم فـي قوله: { وَلا يَحِلُّ لَهُنّ أنْ يَكْتُـمْنَ
-  مَا خَـلَقَ اللَّهُ فِـي أرْحامِهِنَّ } قال: الـحيض الـمرأة تعتد قرأين، ثم يريد
-  زوجها أن يراجعها، فتقول: قد حضت الثالثة.حدثنا ابن حميد، قال: ثنا جرير، عن منصور،
-  عن إبراهيـم: { وَلا يَحِلُّ لَهُنّ أنْ يَكْتُـمْنَ مَا خَـلَقَ اللَّهُ فِـي أرْحامِهِنَّ
-  } قال: أكثر ما عنـي به الـحيض.وقال آخرون: بل الـمعنى الذي نهيت عن كتـمانه زوجها
-  الـمطلق الـحبل والـحيض جميعاً. ذكر من قال ذلك:حدثنا حميد بن مسعدة، قال: ثنا يزيد
-  بن زريع، قال: ثنا الأشعث، عن نافع، عن ابن عمر: { وَلا يَحِلُّ لَهُنَّ أنْ يَكْتُـمْنَ
-  ما خَـلَقَ اللَّهُ فِـي أرْحامِهنّ } من الـحيض والـحمل، لا يحلّ لها إن كانت حائضاً
-  أن تكتـم حيضها، ولا يحلّ لها إن كانت حاملاً أن تكتـم حملها.حدثنا أبو كريب، قال:
-  ثنا ابن ادريس، قال: سمعت مطرفـاً، عن الـحكم، عن مـجاهد فـي قوله: { وَلا يَحِلُّ
-  لَهُنَّ أنْ يَكْتُـمْنَ ما خَـلَقَ اللَّهُ فِـي أرْحامِهنّ } قال: الـحمل والـحيض..
-  قال: ابن كريب: قال ابن إدريس: هذا أول حديث سمعته من طرف.حدثنـي أبو السائب، قال:
-  ثنا ابن إدريس، عن مطرف، عن الـحكم، عن مـجاهد، مثله، إلا أنه قال: الـحبل.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 9 10 \r\n\t\t\t\t\t\t\t\tمزيد</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَٱلْمُطَلَّقَاتُ يَتَرَبَّصْنَ بِأَنْفُسِهِنَّ
+  حَكِيمٌ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن بشار، قال: ثنا يحيى بن
+  سعيد، عن سفـيان، عن منصور، عن إبراهيـم: { وَلا يَحِلُّ لَهُنّ أنْ يَكْتُـمْنَ مَا
+  خَـلَقَ اللَّهُ فِـي أرْحامِهِنَّ } قال: الـحيض.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  مـحمد بن بشار، قال: ثنا أبو أحمد، قال: ثنا سفـيان، عن منصور، عن إبراهيـم: { وَلا
+  يَحِلُّ لَهُنّ أنْ يَكْتُـمْنَ مَا خَـلَقَ اللَّهُ فِـي أرْحامِهِنَّ } قال: أكثر
+  ذلك الـحيض.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا أبو كريب، قال: ثنا ابن إدريس،
+  قال: سمعت مطرفـاً، عن الـحكم، قال: قال إبراهيـم فـي قوله: { وَلا يَحِلُّ لَهُنّ
+  أنْ يَكْتُـمْنَ مَا خَـلَقَ اللَّهُ فِـي أرْحامِهِنَّ } قال: الـحيض.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي يعقوب، قال: ثنا ابن علـية، قال: ثنا خالد الـحذاء، عن عكرمة
+  فـي قوله: { وَلا يَحِلُّ لَهُنّ أنْ يَكْتُـمْنَ مَا خَـلَقَ اللَّهُ فِـي أرْحامِهِنَّ
+  } قال: الـحيض. ثم قال خالد: الدم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  آخرون: هو الـحيض، غير أن الذي حرّم الله تعالـى ذكره علـيها كتـمانه فـيـما خـلق فـي
+  رحمها من ذلك هو أن تقول لزوجها الـمطلق وقد أراد رجعتها قبل الـحيضة الثالثة: قد حضت
+  الـحيضة الثالثة كاذبة، لتبطل حقه بقـيـلها البـاطل فـي ذلك. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن حميد، قال: ثنا جرير، عن عبـيدة بن مُغيث، عن إبراهيـم فـي
+  قوله: { وَلا يَحِلُّ لَهُنّ أنْ يَكْتُـمْنَ مَا خَـلَقَ اللَّهُ فِـي أرْحامِهِنَّ
+  } قال: الـحيض الـمرأة تعتد قرأين، ثم يريد زوجها أن يراجعها، فتقول: قد حضت الثالثة.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن حميد، قال: ثنا جرير، عن منصور، عن إبراهيـم: { وَلا يَحِلُّ
+  لَهُنّ أنْ يَكْتُـمْنَ مَا خَـلَقَ اللَّهُ فِـي أرْحامِهِنَّ } قال: أكثر ما عنـي
+  به الـحيض.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال آخرون: بل الـمعنى الذي نهيت
+  عن كتـمانه زوجها الـمطلق الـحبل والـحيض جميعاً. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا حميد بن مسعدة، قال: ثنا يزيد بن زريع، قال: ثنا الأشعث، عن
+  نافع، عن ابن عمر: { وَلا يَحِلُّ لَهُنَّ أنْ يَكْتُـمْنَ ما خَـلَقَ اللَّهُ فِـي
+  أرْحامِهنّ } من الـحيض والـحمل، لا يحلّ لها إن كانت حائضاً أن تكتـم حيضها، ولا يحلّ
+  لها إن كانت حاملاً أن تكتـم حملها.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  أبو كريب، قال: ثنا ابن ادريس، قال: سمعت مطرفـاً، عن الـحكم، عن مـجاهد فـي قوله:
+  { وَلا يَحِلُّ لَهُنَّ أنْ يَكْتُـمْنَ ما خَـلَقَ اللَّهُ فِـي أرْحامِهنّ } قال:
+  الـحمل والـحيض.. قال: ابن كريب: قال ابن إدريس: هذا أول حديث سمعته من طرف.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي أبو السائب، قال: ثنا ابن إدريس، عن مطرف، عن الـحكم، عن مـجاهد،
+  مثله، إلا أنه قال: الـحبل.</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,8,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,10,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,8,1)\"><u>8</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">9 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(1,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2,
+  228)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,228)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَٱلْمُطَلَّقَاتُ يَتَرَبَّصْنَ بِأَنْفُسِهِنَّ
   ثَلاَثَةَ قُرُوۤءٍ وَلاَ يَحِلُّ لَهُنَّ أَن يَكْتُمْنَ مَا خَلَقَ ٱللَّهُ فِيۤ
   أَرْحَامِهِنَّ إِن كُنَّ يُؤْمِنَّ بِٱللَّهِ وَٱلْيَوْمِ ٱلآخِرِ وَبُعُولَتُهُنَّ
   أَحَقُّ بِرَدِّهِنَّ فِي ذَلِكَ إِنْ أَرَادُوۤاْ إِصْلاَحاً وَلَهُنَّ مِثْلُ ٱلَّذِي
   عَلَيْهِنَّ بِٱلْمَعْرُوفِ وَلِلرِّجَالِ عَلَيْهِنَّ دَرَجَةٌ وَٱللَّهُ عَزِيزٌ
-  حَكِيمٌ }حدثنا إسماعيـل بن موسى الفزاري، قال: حدثنا أبو إسحاق الفزاري، عن لـيث،
-  عن مـجاهد فـي قوله: { وَلا يَحِلُّ لَهُنَّ أنْ يَكْتُـمْنَ ما خَـلَقَ اللَّهُ فِـي
-  أرْحامِهنّ } قال: من الـحيض والولد.حدثنـي يونس، قال: أخبرنا ابن وهب، قال: أخبرنـي
-  مسلـم بن خالد الزنـجي، عن ابن أبـي نـجيح، عن مـجاهد: { وَلا يَحِلُّ لَهُنَّ أنْ
-  يَكْتُـمْنَ ما خَـلَقَ اللَّهُ فِـي أرْحامِهنّ } قال: من الـحيض والولد.حدثنـي مـحمد
-  بن عمرو، قال: ثنا أبو عاصم، عن عيسى، عن ابن أبـي نـجيح، عن مـجاهد فـي قول الله تعالـى
-  ذكره: { وَلا يَحِلُّ لَهُنَّ أنْ يَكْتُـمْنَ ما خَـلَقَ اللَّهُ فِـي أرْحامِهنّ
-  } قال: لا يحلّ للـمطلقة أن تقول إنـي حائض ولـيست بحائض، ولا تقول: إنـي حبلـى ولـيست
-  بحبلـى، ولا تقول: لست بحبلـى وهي بحبلـى.حدثنـي الـمثنى، قال: ثنا أبو حذيفة، قال:
-  ثنا شبل، عن ابن أبـي نـجيح، عن مـجاهد مثله.حدثنـي الـمثنى، قال: ثنا سويد بن نصر،
-  قال: أخبرنا ابن الـمبـارك، عن الـحجاج، عن مـجاهد، قال: الـحيض والـحبل، قال: تفسير
-  أن لا تقول إنـي حائض ولـيست بحائض، ولا لـيست بحائض وهي حائض، ولا أنـي حبلـى ولـيست
-  بحبلـى، ولا لست بحبلـى وهي حبلـى.حدثنـي الـمثنى، قال: ثنا سويد، قال: أخبرنا ابن
-  الـمبـارك، عن الـحجاج، عن القاسم بن نافع، عن مـجاهد نـحو هذا التفسير فـي هذه الآية.حدثنا
-  ابن حميد، قال: ثنا جرير، عن لـيث، عن مـجاهد، مثله، وزاد فـيه: قال: وذلك كله فـي
-  بغض الـمرأة زوجها وحبه.حدثت عن عمار، قال: ثنا ابن أبـي جعفر، عن أبـيه، عن الربـيع
-  فـي قوله: { وَلا يَحِلُّ لَهُنَّ أنْ يَكْتُـمْنَ ما خَـلَقَ اللَّهُ فِـي أرْحامِهنّ
-  } يقول: لا يحلّ لهن أن يكتـمن ما خـلق الله فـي أرحامهن من الـحيض والـحبل، لا يحلّ
-  لها أن تقول: إنـي قد حضت ولـم تـحض، ولا يحلّ أن تقول: إنـي لـم أحض وقد حاضت، ولا
-  يحلّ لها أن تقول: إنـي حبلـى ولـيست بحبلـى، ولا أن تقول: لست بحبلـى وهي حبلـى.حدثنـي
-  يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد فـي قوله: { وَلا يَحِلُّ لَهُنَّ أنْ
-  يَكْتُـمْنَ ما خَـلَقَ اللَّهُ فِـي أرْحامِهنّ } الآية، قال: لا يكتـمن الـحيض ولا
-  الولد، ولا يحلّ لها أن تكتـمه وهو لا يعلـم متـى تـحلّ لئلا يرتـجعها مضارة.حدثنـي
-  يحيى بن أبـي طالب، قال: ثنا يزيد، قال: أخبرنا جويبر، عن الضحاك فـي قوله: { وَلا
-  يَحِلُّ لَهُنَّ أنْ يَكْتُـمْنَ ما خَـلَقَ اللَّهُ فِـي أرْحامِهنّ } يعنـي الولد،
-  قال: الـحيض والولد هو الذي اؤتـمن علـيه النساء.وقال آخرون: بل عنى بذلك الـحبل. ثم
-  اختلف قائلو ذلك فـي السبب الذي من أجله نهيت عن كتـمان ذلك الرجل، فقال بعضهم: نهيت
-  عن ذلك لئلا تبطل حقّ الزوج من الرجعة إذا أراد رجعتها قبل وضعها وحملها.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 9 10 \r\n\t\t\t\t\t\t\t\tمزيد</section>"
+  حَكِيمٌ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا إسماعيـل بن موسى الفزاري،
+  قال: حدثنا أبو إسحاق الفزاري، عن لـيث، عن مـجاهد فـي قوله: { وَلا يَحِلُّ لَهُنَّ
+  أنْ يَكْتُـمْنَ ما خَـلَقَ اللَّهُ فِـي أرْحامِهنّ } قال: من الـحيض والولد.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي يونس، قال: أخبرنا ابن وهب، قال: أخبرنـي مسلـم بن خالد الزنـجي،
+  عن ابن أبـي نـجيح، عن مـجاهد: { وَلا يَحِلُّ لَهُنَّ أنْ يَكْتُـمْنَ ما خَـلَقَ
+  اللَّهُ فِـي أرْحامِهنّ } قال: من الـحيض والولد.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  مـحمد بن عمرو، قال: ثنا أبو عاصم، عن عيسى، عن ابن أبـي نـجيح، عن مـجاهد فـي قول
+  الله تعالـى ذكره: { وَلا يَحِلُّ لَهُنَّ أنْ يَكْتُـمْنَ ما خَـلَقَ اللَّهُ فِـي
+  أرْحامِهنّ } قال: لا يحلّ للـمطلقة أن تقول إنـي حائض ولـيست بحائض، ولا تقول: إنـي
+  حبلـى ولـيست بحبلـى، ولا تقول: لست بحبلـى وهي بحبلـى.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  الـمثنى، قال: ثنا أبو حذيفة، قال: ثنا شبل، عن ابن أبـي نـجيح، عن مـجاهد مثله.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي الـمثنى، قال: ثنا سويد بن نصر، قال: أخبرنا ابن الـمبـارك،
+  عن الـحجاج، عن مـجاهد، قال: الـحيض والـحبل، قال: تفسير أن لا تقول إنـي حائض ولـيست
+  بحائض، ولا لـيست بحائض وهي حائض، ولا أنـي حبلـى ولـيست بحبلـى، ولا لست بحبلـى وهي
+  حبلـى.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي الـمثنى، قال: ثنا سويد،
+  قال: أخبرنا ابن الـمبـارك، عن الـحجاج، عن القاسم بن نافع، عن مـجاهد نـحو هذا التفسير
+  فـي هذه الآية.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن حميد، قال: ثنا جرير،
+  عن لـيث، عن مـجاهد، مثله، وزاد فـيه: قال: وذلك كله فـي بغض الـمرأة زوجها وحبه.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثت عن عمار، قال: ثنا ابن أبـي جعفر، عن أبـيه، عن الربـيع فـي قوله:
+  { وَلا يَحِلُّ لَهُنَّ أنْ يَكْتُـمْنَ ما خَـلَقَ اللَّهُ فِـي أرْحامِهنّ } يقول:
+  لا يحلّ لهن أن يكتـمن ما خـلق الله فـي أرحامهن من الـحيض والـحبل، لا يحلّ لها أن
+  تقول: إنـي قد حضت ولـم تـحض، ولا يحلّ أن تقول: إنـي لـم أحض وقد حاضت، ولا يحلّ لها
+  أن تقول: إنـي حبلـى ولـيست بحبلـى، ولا أن تقول: لست بحبلـى وهي حبلـى.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد فـي قوله: { وَلا
+  يَحِلُّ لَهُنَّ أنْ يَكْتُـمْنَ ما خَـلَقَ اللَّهُ فِـي أرْحامِهنّ } الآية، قال:
+  لا يكتـمن الـحيض ولا الولد، ولا يحلّ لها أن تكتـمه وهو لا يعلـم متـى تـحلّ لئلا
+  يرتـجعها مضارة.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي يحيى بن أبـي طالب، قال:
+  ثنا يزيد، قال: أخبرنا جويبر، عن الضحاك فـي قوله: { وَلا يَحِلُّ لَهُنَّ أنْ يَكْتُـمْنَ
+  ما خَـلَقَ اللَّهُ فِـي أرْحامِهنّ } يعنـي الولد، قال: الـحيض والولد هو الذي اؤتـمن
+  علـيه النساء.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال آخرون: بل عنى بذلك الـحبل.
+  ثم اختلف قائلو ذلك فـي السبب الذي من أجله نهيت عن كتـمان ذلك الرجل، فقال بعضهم:
+  نهيت عن ذلك لئلا تبطل حقّ الزوج من الرجعة إذا أراد رجعتها قبل وضعها وحملها.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,9,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,11,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,8,1)\"><u>8</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,9,1)\"><u>9</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">10 </font></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(1,11,1)\">مزيد</a></td></tr></table></center></div></section>"
 

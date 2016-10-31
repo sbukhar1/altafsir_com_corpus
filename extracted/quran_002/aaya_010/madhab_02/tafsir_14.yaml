@@ -1,4 +1,4 @@
-location:
+position:
   sura: '002'
   aaya: '010'
   madhab: '02'
@@ -9,55 +9,134 @@ meta:
   year: '546'
 aaya: فِي قُلُوبِهِمْ مَرَضٌ فَزَادَهُمُ اللَّهُ مَرَضًا ۖ وَلَهُمْ عَذَابٌ أَلِيمٌ
   بِمَا كَانُوا يَكْذِبُونَ
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ فِي قُلُوبِهِم
-  مَّرَضٌ فَزَادَهُمُ ٱللَّهُ مَرَضاً وَلَهُم عَذَابٌ أَلِيمٌ بِمَا كَانُوا يَكْذِبُونَ
-  } * { وَإِذَا قِيلَ لَهُمْ لاَ تُفْسِدُواْ فِي ٱلأَرْضِ قَالُوۤاْ إِنَّمَا نَحْنُ
-  مُصْلِحُونَ } * { أَلاۤ إِنَّهُمْ هُمُ ٱلْمُفْسِدُونَ وَلَـٰكِن لاَّ يَشْعُرُونَ
-  }المرض عباة مستعارة للفساد الذي في عقائد هؤلاء المنافقين وذلك إما أن يكون شكاً،
-  وإما حجداً بسبب حسدهم مع علمهم بصحة ما يحجدون، وبنحو هذا فسر المتأولون.وقال قوم:
-  \" المرض غمهم بظهور أمر رسول الله صلى الله عليه وسلم \".وقرأ الأصمعي عن أبي عمر:
-  \" مرْض \" بسكون الراء وهي لغة في المصدر قال أبو الفتح: \" وليس بتخفيف \".واختلف
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(2, 10)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(2,10)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">فِي
+  قُلُوبِهِم مَّرَضٌ فَزَادَهُمُ ٱللَّهُ مَرَضاً وَلَهُم عَذَابٌ أَلِيمٌ بِمَا كَانُوا
+  يَكْذِبُونَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">وَإِذَا قِيلَ لَهُمْ لاَ تُفْسِدُواْ فِي
+  ٱلأَرْضِ قَالُوۤاْ إِنَّمَا نَحْنُ مُصْلِحُونَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">أَلاۤ إِنَّهُمْ
+  هُمُ ٱلْمُفْسِدُونَ وَلَـٰكِن لاَّ يَشْعُرُونَ</a> <b>}</b></font>, <br/>, <br/>,
+  <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">المرض
+  عباة مستعارة للفساد الذي في عقائد هؤلاء المنافقين وذلك إما أن يكون شكاً، وإما حجداً
+  بسبب حسدهم مع علمهم بصحة ما يحجدون، وبنحو هذا فسر المتأولون.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال قوم: \" المرض غمهم بظهور أمر رسول الله صلى الله عليه وسلم \".</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقرأ الأصمعي عن أبي عمر: \" مرْض \" بسكون الراء وهي لغة في المصدر
+  قال أبو الفتح: \" وليس بتخفيف \".</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">واختلف
   المتأولون في معنى قوله { فزادهم الله مرضاً } فقيل هو دعاء عليهم، وقيل هو خبر أن
   الله قد فعل بهم ذلك، وهذه الزيادة هي بما ينزل من الوحي ويظهر من البراهين، فهي على
-  هؤلاء المنافقين عمى وكلما كذبوا زاد المرض.وقرأ حمزة: \" فزادهم \" بكسر الزاي، وكذلك
-  ابن عامر. وكان نافع يشم الزاي إلى الكسر، وفتح الباقون. و { أليم } معناه مؤلم كما
-  قال الشاعر وهو عمرو بن معدي كرب: [الوافر].أمن ريحانة الداعي السميع   بمعنى: مسمع.وقرأ
-  ابن كثير ونافع وأبو عمرو وابن عامر \" يُكذِّبون \" بضم الياء وتشديد الذال.وقرأ الباقون
-  بفتح الياء وتخفيف الذال. فالقراءة بالتثقيل يؤيدها قوله تعالى قبل { وما هم بمؤمنين
-  } فهذا إخبار بأنهم يكذبون. والقراءة بالتخفيف يؤيدها أن سياق الآيات إنما هي إخبار
-  بكذبهم، والتوعد بالعذاب الأليم، متوجه على التكذيب، وعلى الكذب في مثل هذه النازلة،
-  إذ هو منطوٍ على الكفر، وقراءة التثقيل أرجح. و { إذا } ظرف زمان، وحكي عن المبرد أنها
-  في قولك في المفاجأة خرجت فإذا زيد ظرف مكان، لأنها تضمنت جثة، وهذا مردود لأن المعنى
-  \" خرجت فإذا حضور زيد \" فإنما تضمنت المصدر، كما يقتضيه سائر ظروف الزمان، ومنه قولهم:
-  \" اليوم خمر، وغداً أمر \" فمعناه وجود خمر ووقوع أمر، والعامل في { إذا } في هذه
-  الآية { قالوا }. وأصل { قيل } قول نقلت حركة الواو إلى القاف فقلبت ياء لانكسار ما
-  قبلها.وقرأ الكسائي: \" قُيل وغُيض وسُيء وسُيئت وحُيل وسُيق وجُيء \" بضم أوائل ذلك
-  كله. وروي مثل ذلك عن ابن عامر. وروي أيضاً عنه أنه كسر \" غِيض وقِيل وجِيء \" ، الغين
-  والقاف والجيم حيث وقع من القرآن وضم نافع من ذلك كله حرفين \" سُيء وسُيئت \" وكسر
-  ما بقي. وكان ابن كثير وعاصم وأبوعمرو وحمزة يكسرون أوائل هذه الحروف كلها، والضمير
-  في { لهم } هو عائد إلى المنافقين المشار إليهم قبل.وقال بعض الناس: \" الإشارة هنا
-  هي إلى منافقي اليهود \".وقال سلمان الفارسي رضي الله عنه في تفسير هذه الآية: لم يجىء
-  هؤلاء بعد ومعنى قوله: لم ينقرضوا بل هم يجيئون في كل زمان.\r\n\t\t\t\r\n\t\t\t1 2 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ فِي قُلُوبِهِم مَّرَضٌ فَزَادَهُمُ
-  ٱللَّهُ مَرَضاً وَلَهُم عَذَابٌ أَلِيمٌ بِمَا كَانُوا يَكْذِبُونَ } * { وَإِذَا
-  قِيلَ لَهُمْ لاَ تُفْسِدُواْ فِي ٱلأَرْضِ قَالُوۤاْ إِنَّمَا نَحْنُ مُصْلِحُونَ
-  } * { أَلاۤ إِنَّهُمْ هُمُ ٱلْمُفْسِدُونَ وَلَـٰكِن لاَّ يَشْعُرُونَ }و { لا تفسدوا
-  في الأرض } معناه بالكفر وموالاة الكفرة، و { نحن } اسم من ضمائر المرفوع مبني على
-  الضم، إذ كان اسماً قوياً يقع للواحد المعظم والاثنين والجماعة، فأعطي أسنى الحركات.وأيضاً
-  فلما كان في الأغلب ضمير جماعة، وضمير الجماعة في الأسماء الظاهرة الواو أعطي الضمة
-  إذ هي أخت الواو، ولقول المنافقين: { إنما نحن مصلحون } ثلاث تأويلات:أحدها: جحد أنهم
-  مفسدون وهذا استمرار منهم على النفاق.والثاني: أن يقروا بموالاة الكفار ويدعون أنها
-  صلاح من حيث هم قرابة توصل.والثالث: أنهم مصلحون بين الكفار والمؤمنين، فلذلك يداخلون
-  الكفار. و { ألا } استفتاح كلام، و \" إن \" بكسر الألف استئناف، و { هم } الثاني رفع
-  بالابتداء، و { المفسدون } خبره والجملة خبر \" إن \" ، ويحتمل أن يكون فصلاً ويسميه
-  الكوفيون: \" العماد \" ويكون { المفسدون } خبر \" إن \" فعلى هذا لا موضع لـ { هم
-  } من الإعراب، ويحتمل أن يكون تأكيداً للضمير في أنهم فموضعه نصب، ودخلت الألف واللام
-  في قوله: { المفسدون } لما تقدم ذكر اللفظة في قوله: { لا تفسدوا } فكأنه ضرب من العهد،
-  ولو جاء الخبر عنهم ولم يتقدم من اللفظة ذكر لكان ألا إنهم مفسدون، قاله الجرجاني.قال
-  القاضي أبو محمد: وهذه الألف واللام تتضمن المبالغة كما تقول زيد هو الرجل أي حق الرجل،
-  فقد تستغني عن مقدمة تقتضي عهداً، و { لكن } بجملته حرف استدراك، ويحتمل أن يراد هنا
-  لا يشعرون أنهم مفسدون، ويحتمل أن يراد لا يشعرون أن الله يفضحهم، وهذا مع أن يكون
-  قولهم { إنما نحن مصلحون } جحداً محضاً للإفساد. والاحتمال الأول هو بأن يكون قولهم:
-  { إنما نحن مصلحون } اعتقاداً منهم أنه صلاح في صلة القرابة، أو إصلاح بين المؤمنين
-  والكافرين.\r\n\t\t\t\r\n\t\t\t1 2 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  هؤلاء المنافقين عمى وكلما كذبوا زاد المرض.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقرأ
+  حمزة: \" فزادهم \" بكسر الزاي، وكذلك ابن عامر. وكان نافع يشم الزاي إلى الكسر، وفتح
+  الباقون. و { أليم } معناه مؤلم كما قال الشاعر وهو عمرو بن معدي كرب: [الوافر].</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><table class=\"TextArabic\"
+  dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">أمن ريحانة الداعي السميع</font></font></b></td><td class=\"TextArabic\">   </td><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\"/></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">بمعنى: مسمع.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقرأ ابن كثير ونافع وأبو عمرو وابن عامر \" يُكذِّبون \" بضم الياء
+  وتشديد الذال.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقرأ الباقون بفتح الياء وتخفيف
+  الذال. فالقراءة بالتثقيل يؤيدها قوله تعالى قبل { وما هم بمؤمنين } فهذا إخبار بأنهم
+  يكذبون. والقراءة بالتخفيف يؤيدها أن سياق الآيات إنما هي إخبار بكذبهم، والتوعد بالعذاب
+  الأليم، متوجه على التكذيب، وعلى الكذب في مثل هذه النازلة، إذ هو منطوٍ على الكفر،
+  وقراءة التثقيل أرجح. و { إذا } ظرف زمان، وحكي عن المبرد أنها في قولك في المفاجأة
+  خرجت فإذا زيد ظرف مكان، لأنها تضمنت جثة، وهذا مردود لأن المعنى \" خرجت فإذا حضور
+  زيد \" فإنما تضمنت المصدر، كما يقتضيه سائر ظروف الزمان، ومنه قولهم: \" اليوم خمر،
+  وغداً أمر \" فمعناه وجود خمر ووقوع أمر، والعامل في { إذا } في هذه الآية { قالوا
+  }. وأصل { قيل } قول نقلت حركة الواو إلى القاف فقلبت ياء لانكسار ما قبلها.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقرأ الكسائي: \" قُيل وغُيض وسُيء وسُيئت وحُيل وسُيق وجُيء \" بضم
+  أوائل ذلك كله. وروي مثل ذلك عن ابن عامر. وروي أيضاً عنه أنه كسر \" غِيض وقِيل وجِيء
+  \" ، الغين والقاف والجيم حيث وقع من القرآن وضم نافع من ذلك كله حرفين \" سُيء وسُيئت
+  \" وكسر ما بقي. وكان ابن كثير وعاصم وأبوعمرو وحمزة يكسرون أوائل هذه الحروف كلها،
+  والضمير في { لهم } هو عائد إلى المنافقين المشار إليهم قبل.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  بعض الناس: \" الإشارة هنا هي إلى منافقي اليهود \".</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  سلمان الفارسي رضي الله عنه في تفسير هذه الآية: لم يجىء هؤلاء بعد ومعنى قوله: لم
+  ينقرضوا بل هم يجيئون في كل زمان.</font></font>&#13;\t\t\t<label disabled=\"true\"
+  class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(14,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(14,2,1)\"><u>2</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2, 10)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,10)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">فِي قُلُوبِهِم مَّرَضٌ فَزَادَهُمُ ٱللَّهُ مَرَضاً
+  وَلَهُم عَذَابٌ أَلِيمٌ بِمَا كَانُوا يَكْذِبُونَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَإِذَا قِيلَ لَهُمْ
+  لاَ تُفْسِدُواْ فِي ٱلأَرْضِ قَالُوۤاْ إِنَّمَا نَحْنُ مُصْلِحُونَ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">أَلاۤ
+  إِنَّهُمْ هُمُ ٱلْمُفْسِدُونَ وَلَـٰكِن لاَّ يَشْعُرُونَ</a> <b>}</b></font>, <br/>,
+  <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">و
+  { لا تفسدوا في الأرض } معناه بالكفر وموالاة الكفرة، و { نحن } اسم من ضمائر المرفوع
+  مبني على الضم، إذ كان اسماً قوياً يقع للواحد المعظم والاثنين والجماعة، فأعطي أسنى
+  الحركات.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وأيضاً فلما كان في الأغلب ضمير
+  جماعة، وضمير الجماعة في الأسماء الظاهرة الواو أعطي الضمة إذ هي أخت الواو، ولقول
+  المنافقين: { إنما نحن مصلحون } ثلاث تأويلات:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">أحدها:
+  جحد أنهم مفسدون وهذا استمرار منهم على النفاق.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">والثاني:
+  أن يقروا بموالاة الكفار ويدعون أنها صلاح من حيث هم قرابة توصل.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">والثالث: أنهم مصلحون بين الكفار والمؤمنين، فلذلك يداخلون الكفار.
+  و { ألا } استفتاح كلام، و \" إن \" بكسر الألف استئناف، و { هم } الثاني رفع بالابتداء،
+  و { المفسدون } خبره والجملة خبر \" إن \" ، ويحتمل أن يكون فصلاً ويسميه الكوفيون:
+  \" العماد \" ويكون { المفسدون } خبر \" إن \" فعلى هذا لا موضع لـ { هم } من الإعراب،
+  ويحتمل أن يكون تأكيداً للضمير في أنهم فموضعه نصب، ودخلت الألف واللام في قوله: {
+  المفسدون } لما تقدم ذكر اللفظة في قوله: { لا تفسدوا } فكأنه ضرب من العهد، ولو جاء
+  الخبر عنهم ولم يتقدم من اللفظة ذكر لكان ألا إنهم مفسدون، قاله الجرجاني.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قال القاضي أبو محمد: وهذه الألف واللام تتضمن المبالغة كما تقول زيد
+  هو الرجل أي حق الرجل، فقد تستغني عن مقدمة تقتضي عهداً، و { لكن } بجملته حرف استدراك،
+  ويحتمل أن يراد هنا لا يشعرون أنهم مفسدون، ويحتمل أن يراد لا يشعرون أن الله يفضحهم،
+  وهذا مع أن يكون قولهم { إنما نحن مصلحون } جحداً محضاً للإفساد. والاحتمال الأول هو
+  بأن يكون قولهم: { إنما نحن مصلحون } اعتقاداً منهم أنه صلاح في صلة القرابة، أو إصلاح
+  بين المؤمنين والكافرين.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(14,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(14,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section>"
 

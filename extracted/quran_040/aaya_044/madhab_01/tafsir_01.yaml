@@ -1,4 +1,4 @@
-location:
+position:
   sura: '040'
   aaya: '044'
   madhab: '01'
@@ -7,30 +7,61 @@ meta:
   title: تفسير جامع البيان في تفسير القرآن
   author: الطبري
   year: '310'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ فَسَتَذْكُرُونَ
-  مَآ أَقُولُ لَكُـمْ وَأُفَوِّضُ أَمْرِيۤ إِلَى ٱللَّهِ إِنَّ ٱللَّهَ بَصِيرٌ بِٱلْعِبَادِ
-  } * { فَوقَاهُ ٱللَّهُ سَيِّئَاتِ مَا مَكَـرُواْ وَحَاقَ بِآلِ فِرْعَوْنَ سُوۤءُ
-  ٱلْعَذَابِ }يقول تعالى ذكره مخبراً عن قيل المؤمن من آل فرعون لفرعون وقومه: فستذكرون
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(40, 44)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(40,44)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">فَسَتَذْكُرُونَ
+  مَآ أَقُولُ لَكُـمْ وَأُفَوِّضُ أَمْرِيۤ إِلَى ٱللَّهِ إِنَّ ٱللَّهَ بَصِيرٌ بِٱلْعِبَادِ</a>
+  <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">فَوقَاهُ
+  ٱللَّهُ سَيِّئَاتِ مَا مَكَـرُواْ وَحَاقَ بِآلِ فِرْعَوْنَ سُوۤءُ ٱلْعَذَابِ</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">يقول تعالى ذكره مخبراً عن قيل المؤمن من آل فرعون لفرعون وقومه: فستذكرون
   أيها القوم إذا عاينتم عقاب الله قد حلّ بكم، ولقيتم ما لقيتموه صدق ما أقول، وحقيقة
-  ما أخبركم به من أن المسرفين هم أصحاب النار، كما:حدثني يونس، قال: أخبرنا ابن وهب،
-  قال: قال ابن زيد، في قوله: { فَسَتَذْكُرُونَ ما أقُولُ لَكُمْ } ، فقلت له: أَوَذَلك
-  في الآخرة؟ قال: نعم.وقوله: { وأُفَوّضُ أمْرِي إلى اللَّهِ } يقول: وأسلم أمري إلى
-  الله، وأجعله إليه وأتوكل عليه، فإنه الكافي مَنْ تَوَكَّل عليه. وبنحو الذي قلنا في
-  ذلك قال أهل التأويل. ذكر من قال ذلك:حدثنا محمد، قال: ثنا أحمد، قال: ثنا أسباط، عن
-  السديّ { وأُفَوّضُ أمْرِي إلى اللَّهِ } قال: أجعل أمري إلى الله.وقوله: { إنَّ اللَّهَ
-  بَصِيرٌ بالعِبادِ } يقول: إن الله عالم بأمور عباده، ومن المطيع منهم، والعاصي له،
-  والمستحق جميل الثواب، والمستوجب سَيِّىء العقاب.وقوله: { فَوَقاهُ اللَّهُ سَيِّئاتِ
-  ما مَكَرُوا } يقول تعالى ذكره: فدفع الله عن هذا المؤمن من آل فرعون بإيمانه وتصديق
-  رسوله موسى، مكروه ما كان فرعون ينال به أهل الخلاف عليه من العذاب والبلاء، فنجاه
-  منه. وبنحو الذي قلنا في ذلك قال أهل التأويل. ذكر من قال ذلك:حدثنا بشر، قال: ثنا
-  يزيد، قال: ثنا سعيد، عن قتادة، قوله: { سَيِّئات ما مَكَرُوا } قال: وكان قبطياً من
-  قوم فرعون، فنجا مع موسى، قال: وذكر لنا أنه بين يدي موسى يومئذ يسير ويقول: أين أمرت
-  يا نبيّ الله؟ فيقول: أمامك، فيقول له المؤمن: وهل أمامي إلا البحر؟ فيقول موسى: لا
-  والله ما كَذَبتُ ولا كُذبتُ، ثم يسير ساعة ويقول: أين أمرت يا نبيّ الله؟ فيقول: أمامك،
-  فيقول: وهل أمامي إلا البحر، فيقول: لا والله ما كذبت، ولا كذبت، حتى أتى على البحر
-  فضربه بعصاه، فانفلق اثني عشر طريقاً، لكل سبط طريق.وقوله: { وَحاقَ بآلِ فِرْعَوْنَ
-  سُوءُ العَذابِ } يقول: وحل بآل فرعون ووجب عليهم وعُني بآل فرعون في هذا الموضع تبّاعه
-  وأهل طاعته من قومه، كما:حدثنا محمد، قال: ثنا أحمد، قال: ثنا أسباط، عن السديّ في
-  قول الله: { وَحاقَ بآلِ فِرْعَوْنَ سُوءُ العَذابِ } قال: قوم فرعون.وعُني بقوله:
-  { سُوءُ العَذَابِ }: ما ساءهم من عذاب الله، وذلك نار جهنم.\r\n\t\t\t\r\n\t\t\t</section>"
+  ما أخبركم به من أن المسرفين هم أصحاب النار، كما:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله: { فَسَتَذْكُرُونَ ما أقُولُ
+  لَكُمْ } ، فقلت له: أَوَذَلك في الآخرة؟ قال: نعم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقوله:
+  { وأُفَوّضُ أمْرِي إلى اللَّهِ } يقول: وأسلم أمري إلى الله، وأجعله إليه وأتوكل عليه،
+  فإنه الكافي مَنْ تَوَكَّل عليه. وبنحو الذي قلنا في ذلك قال أهل التأويل. ذكر من قال
+  ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا محمد، قال: ثنا أحمد، قال:
+  ثنا أسباط، عن السديّ { وأُفَوّضُ أمْرِي إلى اللَّهِ } قال: أجعل أمري إلى الله.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقوله: { إنَّ اللَّهَ بَصِيرٌ بالعِبادِ } يقول: إن الله عالم بأمور
+  عباده، ومن المطيع منهم، والعاصي له، والمستحق جميل الثواب، والمستوجب سَيِّىء العقاب.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقوله: { فَوَقاهُ اللَّهُ سَيِّئاتِ ما مَكَرُوا } يقول تعالى ذكره:
+  فدفع الله عن هذا المؤمن من آل فرعون بإيمانه وتصديق رسوله موسى، مكروه ما كان فرعون
+  ينال به أهل الخلاف عليه من العذاب والبلاء، فنجاه منه. وبنحو الذي قلنا في ذلك قال
+  أهل التأويل. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: { سَيِّئات ما مَكَرُوا } قال:
+  وكان قبطياً من قوم فرعون، فنجا مع موسى، قال: وذكر لنا أنه بين يدي موسى يومئذ يسير
+  ويقول: أين أمرت يا نبيّ الله؟ فيقول: أمامك، فيقول له المؤمن: وهل أمامي إلا البحر؟
+  فيقول موسى: لا والله ما كَذَبتُ ولا كُذبتُ، ثم يسير ساعة ويقول: أين أمرت يا نبيّ
+  الله؟ فيقول: أمامك، فيقول: وهل أمامي إلا البحر، فيقول: لا والله ما كذبت، ولا كذبت،
+  حتى أتى على البحر فضربه بعصاه، فانفلق اثني عشر طريقاً، لكل سبط طريق.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقوله: { وَحاقَ بآلِ فِرْعَوْنَ سُوءُ العَذابِ } يقول: وحل بآل فرعون
+  ووجب عليهم وعُني بآل فرعون في هذا الموضع تبّاعه وأهل طاعته من قومه، كما:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا محمد، قال: ثنا أحمد، قال: ثنا أسباط، عن السديّ في قول الله:
+  { وَحاقَ بآلِ فِرْعَوْنَ سُوءُ العَذابِ } قال: قوم فرعون.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وعُني
+  بقوله: { سُوءُ العَذَابِ }: ما ساءهم من عذاب الله، وذلك نار جهنم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

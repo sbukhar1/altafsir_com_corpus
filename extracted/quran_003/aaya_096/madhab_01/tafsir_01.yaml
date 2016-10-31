@@ -1,4 +1,4 @@
-location:
+position:
   sura: '003'
   aaya: 096
   madhab: '01'
@@ -7,102 +7,254 @@ meta:
   title: تفسير جامع البيان في تفسير القرآن
   author: الطبري
   year: '310'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ إِنَّ أَوَّلَ
-  بَيْتٍ وُضِعَ لِلنَّاسِ لَلَّذِي بِبَكَّةَ مُبَارَكاً وَهُدًى لِّلْعَالَمِينَ }اختلف
-  أهل التأويـل فـي تأويـل ذلك، فقال بعضهم: تأويـله: إن أوّل بـيت وضع للناس يعبد الله
-  فـيه مبـاركاً وهدى للعالـمين، الذي ببكة. قالوا: ولـيس هو أوّل بـيت وضع فـي الأرض،
-  لأنه قد كانت قبله بـيوت كثـيرة. ذكر من قال ذلك:حدثنا هناد بن السرّي، قال: ثنا أبو
-  الأحوص، عن سماك، عن خالد بن عُرعرة، قال: قام رجل إلـى علـيّ، فقال: ألا تـخبرنـي
-  عن البـيت، أهو أوّل بـيت وضع فـي الأرض؟ فقال: لا، ولكنه أوّل بـيت وضع فـي البركة
-  مقام إبراهيـم، ومن دخـله كان آمناً.حدثنا مـحمد بن الـمثنى، قال: ثنا مـحمد بن جعفر،
-  قال: ثنا شعبة، عن سماك، قال: سمعت خالد بن عرعرة قال: سمعت علـياً، وقـيـل له: { إِنَّ
-  أَوَّلَ بَيْتٍ وُضِعَ لِلنَّاسِ لَلَّذِى بِبَكَّةَ } هو أول بـيت كان فـي الأرض؟
-  قال: لا قال: فأين كان قوم نوح؟ وأين كان قوم هود؟ قال: ولكنه أوّل بـيت وضع للناس
-  مبـاركاً وهدى.حدثنـي يعقوب، قال: ثنا ابن علـية، عن أبـي رجاء، قال: سأل حفص الـحسنَ
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(3, 96)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(3,96)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">إِنَّ
+  أَوَّلَ بَيْتٍ وُضِعَ لِلنَّاسِ لَلَّذِي بِبَكَّةَ مُبَارَكاً وَهُدًى لِّلْعَالَمِينَ</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">اختلف أهل التأويـل فـي تأويـل ذلك، فقال بعضهم: تأويـله: إن أوّل
+  بـيت وضع للناس يعبد الله فـيه مبـاركاً وهدى للعالـمين، الذي ببكة. قالوا: ولـيس هو
+  أوّل بـيت وضع فـي الأرض، لأنه قد كانت قبله بـيوت كثـيرة. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا هناد بن السرّي، قال: ثنا أبو الأحوص، عن سماك، عن خالد بن عُرعرة،
+  قال: قام رجل إلـى علـيّ، فقال: ألا تـخبرنـي عن البـيت، أهو أوّل بـيت وضع فـي الأرض؟
+  فقال: لا، ولكنه أوّل بـيت وضع فـي البركة مقام إبراهيـم، ومن دخـله كان آمناً.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا مـحمد بن الـمثنى، قال: ثنا مـحمد بن جعفر، قال: ثنا شعبة، عن
+  سماك، قال: سمعت خالد بن عرعرة قال: سمعت علـياً، وقـيـل له: { إِنَّ أَوَّلَ بَيْتٍ
+  وُضِعَ لِلنَّاسِ لَلَّذِى بِبَكَّةَ } هو أول بـيت كان فـي الأرض؟ قال: لا قال: فأين
+  كان قوم نوح؟ وأين كان قوم هود؟ قال: ولكنه أوّل بـيت وضع للناس مبـاركاً وهدى.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي يعقوب، قال: ثنا ابن علـية، عن أبـي رجاء، قال: سأل حفص الـحسنَ
   وأنا أسمع، عن قوله: { إِنَّ أَوَّلَ بَيْتٍ وُضِعَ لِلنَّاسِ لَلَّذِى بِبَكَّةَ مُبَارَكاً
-  } قال: هو أول مسجد عبد الله فـيه فـي الأرض.حدثنا عبد الـجبـار بن يحيـى الرملـي،
-  قال: ثنا ضمرة، عن ابن شوذب، عن مطر فـي قوله: { إِنَّ أَوَّلَ بَيْتٍ وُضِعَ لِلنَّاسِ
-  لَلَّذِى بِبَكَّةَ } قال: قد كانت قبله بـيوت، ولكنه أوّل بـيت وضع للعبـادة.حدثنـي
-  مـحمد بن سنان، قال: ثنا أبو بكر الـحنفـي، قال: ثنا عبـاد، عن الـحسن، قوله: { إِنَّ
-  أَوَّلَ بَيْتٍ وُضِعَ لِلنَّاسِ } يعبد الله فـيه { لَلَّذِى بِبَكَّةَ }.حدثنـي الـمثنى،
-  قال: ثنا الـحمانـي، قال: ثنا شريك، عن سالـم، عن سعيد: { إِنَّ أَوَّلَ بَيْتٍ وُضِعَ
-  لِلنَّاسِ لَلَّذِى بِبَكَّةَ مُبَارَكاً } قال: وضع للعبـادة.وقال آخرون: بل هو أوّل
-  بـيت وضع للناس. ثم اختلف قائلو ذلك فـي صفة وضعه أوّل، فقال بعضهم: خُـلِق قبل جميع
-  الأرضين، ثم دْحِيَت الأرضون من تـحته. ذكر من قال ذلك:حدثنا مـحمد بن عمارة الأسدي،
-  قال: ثنا عبـيد الله بن موسى، قال: أخبرنا شيبـان، عن الأعمش، عن بكير بن الأخنس، عن
-  مـجاهد، عن عبد الله بن عمرو،قال: خـلق الله البـيت قبل الأرض بألفـي سنة، وكان إذا
-  كان عرشه علـى الـماء، زِبْدَةً بـيضاء، فَدُحيت الأرض من تحته.حدثني محمد بن عبد الملك
-  بن أبي الشوارب، قال: ثنا عبد الواحد بن زياد، قال: ثنا خصيف، قال: سمعت مجاهداً يقول:
-  إن أوّل ما خلق الله الكعبة، ثم دَحَى الأرض من تحتها.حدثنـي مـحمد بن عمرو: قال ثنا
-  أبو عاصم، عن عيسى، عن ابن أبـي نـجيح، عن مـجاهد فـي قول الله عزّ وجلّ: { إِنَّ أَوَّلَ
-  بَيْتٍ وُضِعَ لِلنَّاسِ } كقوله:\r\n\t\t\t\r\n\t\t\t1 2 3 4 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ إِنَّ أَوَّلَ بَيْتٍ وُضِعَ لِلنَّاسِ
-  لَلَّذِي بِبَكَّةَ مُبَارَكاً وَهُدًى لِّلْعَالَمِينَ }{ كُنتُمْ خَيْرَ أُمَّةٍ
-  أُخْرِجَتْ لِلنَّاسِ }[آل عمران: 110].حدثنـي مـحمد، قال: ثنا أحمد، قال: ثنا أسبـاط،
-  عن السديّ: { إِنَّ أَوَّلَ بَيْتٍ وُضِعَ لِلنَّاسِ لَلَّذِى بِبَكَّةَ مُبَارَكاً
-  وَهُدًى لّلْعَـٰلَمِينَ } أمَّا أوّل بـيت، فإنه يوم كانت الأرض ماء، وكان زَبْدة
-  علـى الأرض، فلـما خـلق الله الأرض، خـلق البـيت معها، فهو أوّل بـيت وضع فـي الأرض.حدثنا
+  } قال: هو أول مسجد عبد الله فـيه فـي الأرض.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  عبد الـجبـار بن يحيـى الرملـي، قال: ثنا ضمرة، عن ابن شوذب، عن مطر فـي قوله: { إِنَّ
+  أَوَّلَ بَيْتٍ وُضِعَ لِلنَّاسِ لَلَّذِى بِبَكَّةَ } قال: قد كانت قبله بـيوت، ولكنه
+  أوّل بـيت وضع للعبـادة.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي مـحمد بن سنان، قال: ثنا
+  أبو بكر الـحنفـي، قال: ثنا عبـاد، عن الـحسن، قوله: { إِنَّ أَوَّلَ بَيْتٍ وُضِعَ
+  لِلنَّاسِ } يعبد الله فـيه { لَلَّذِى بِبَكَّةَ }.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  الـمثنى، قال: ثنا الـحمانـي، قال: ثنا شريك، عن سالـم، عن سعيد: { إِنَّ أَوَّلَ بَيْتٍ
+  وُضِعَ لِلنَّاسِ لَلَّذِى بِبَكَّةَ مُبَارَكاً } قال: وضع للعبـادة.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال آخرون: بل هو أوّل بـيت وضع للناس. ثم اختلف قائلو ذلك فـي صفة
+  وضعه أوّل، فقال بعضهم: خُـلِق قبل جميع الأرضين، ثم دْحِيَت الأرضون من تـحته. ذكر
+  من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا مـحمد بن عمارة الأسدي، قال:
+  ثنا عبـيد الله بن موسى، قال: أخبرنا شيبـان، عن الأعمش، عن بكير بن الأخنس، عن مـجاهد،
+  عن عبد الله بن عمرو،قال: خـلق الله البـيت قبل الأرض بألفـي سنة، وكان إذا كان عرشه
+  علـى الـماء، زِبْدَةً بـيضاء، فَدُحيت الأرض من تحته.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  محمد بن عبد الملك بن أبي الشوارب، قال: ثنا عبد الواحد بن زياد، قال: ثنا خصيف، قال:
+  سمعت مجاهداً يقول: إن أوّل ما خلق الله الكعبة، ثم دَحَى الأرض من تحتها.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي مـحمد بن عمرو: قال ثنا أبو عاصم، عن عيسى، عن ابن أبـي نـجيح،
+  عن مـجاهد فـي قول الله عزّ وجلّ: { إِنَّ أَوَّلَ بَيْتٍ وُضِعَ لِلنَّاسِ } كقوله:</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(3, 96)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(3,96)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">إِنَّ أَوَّلَ بَيْتٍ وُضِعَ لِلنَّاسِ لَلَّذِي بِبَكَّةَ
+  مُبَارَكاً وَهُدًى لِّلْعَالَمِينَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\"
+  dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\"/></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">كُنتُمْ خَيْرَ أُمَّةٍ أُخْرِجَتْ
+  لِلنَّاسِ</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">[آل عمران: 110].</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  مـحمد، قال: ثنا أحمد، قال: ثنا أسبـاط، عن السديّ: { إِنَّ أَوَّلَ بَيْتٍ وُضِعَ
+  لِلنَّاسِ لَلَّذِى بِبَكَّةَ مُبَارَكاً وَهُدًى لّلْعَـٰلَمِينَ } أمَّا أوّل بـيت،
+  فإنه يوم كانت الأرض ماء، وكان زَبْدة علـى الأرض، فلـما خـلق الله الأرض، خـلق البـيت
+  معها، فهو أوّل بـيت وضع فـي الأرض.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
   الـحسن بن يحيـى، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر، عن قتادة فـي قوله: {
   إِنَّ أَوَّلَ بَيْتٍ وُضِعَ لِلنَّاسِ لَلَّذِى بِبَكَّةَ مُبَارَكاً } قال: أوّل
-  بـيت وضعه الله عزّ وجلّ، فطاف به آدم ومن بعده.وقال آخرون موضع الكعبة، موضع أوّل
-  بـيت وضعه الله فـي الأرض. ذكر من قال ذلك:حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد،
-  عن قتادة: ذُكر لنا أن البـيت هبط مع آدم حين هبط، قال: أهبط معك بـيتـي يطاف حوله
-  كما يطاف حول عرشي. فطاف حوله آدم ومن كان بعده من الـمؤمنـين، حتـى إذا كان زمن الطوفـان
-  زمن أغرق الله قوم نوح رفعه الله وطهره من أن يصيبه عقوبة أهل الأرض، فصار معموراً
-  فـي السماء. ثم إن إبراهيـم تتبع منه أثرا بعد ذلك، فبناه علـى أساس قديـم كان قبله.والصواب
+  بـيت وضعه الله عزّ وجلّ، فطاف به آدم ومن بعده.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  آخرون موضع الكعبة، موضع أوّل بـيت وضعه الله فـي الأرض. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة: ذُكر لنا أن البـيت
+  هبط مع آدم حين هبط، قال: أهبط معك بـيتـي يطاف حوله كما يطاف حول عرشي. فطاف حوله
+  آدم ومن كان بعده من الـمؤمنـين، حتـى إذا كان زمن الطوفـان زمن أغرق الله قوم نوح
+  رفعه الله وطهره من أن يصيبه عقوبة أهل الأرض، فصار معموراً فـي السماء. ثم إن إبراهيـم
+  تتبع منه أثرا بعد ذلك، فبناه علـى أساس قديـم كان قبله.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">والصواب
   من القول فـي ذلك: ما قال جلّ ثناؤه فـيه: إن أوّل بـيت مبـارك وهدى وضع للناس، للذي
   ببكة. ومعنى ذلك: إن أوّل بـيت وضع للناس: أي لعبـادة الله فـيه مبـاركاً وهدى، يعنـي:
   بذلك ومآباً لنسك الناسكين وطواف الطائفـين، تعظيـماً لله وإجلالاً له؛ للَّذي ببكة؛
-  لصحة الـخبر بذلك عن رسول الله صلى الله عليه وسلم وذلك ما:حدثنا به مـحمد بن الـمثنى،
-  قال: ثنا ابن أبـي عديّ، عن شعبة، عن سلـيـمان، عن إبراهيـم التـيـمي، عن أبـيه، عن
-  أبـي ذر، قال: قلت يا رسول الله، أيّ مسجد وضع أوّل؟ قال: \" «الـمَسْجدُ الـحَرامُ»
-  قال: ثم أيّ؟ قال: «الـمَسْجدُ الأقْصَى» قال: كم بـينهما؟ قال: «أرْبَعُونَ سَنَةٌ»
-  \" فقد بـين هذا الـخبر عن رسول الله صلى الله عليه وسلم، أن الـمسجد الـحرام هو أوّل
-  مسجد وضعه الله فـي الأرض علـى ما قلنا، فأما فـي وضعه بـيتاً بغير معنى بـيت للعبـادة
-  والهدى والبركة، ففـيه من الاختلاف ما قد ذكرت بعضه فـي هذا الموضع وبعض في سورة البقرة
-  وغيرها من سور القرآن وبينت الصواب من القول عندنا في ذلك بما أغنى عن إعادته فـي هذا
-  الموضع.وأما قوله: { لَلَّذِى بِبَكَّةَ مُبَارَكاً } فإنه يعنـي: للبـيت الذي بمزدحم
-  الناس لطوافهم فـي حجهم وعمرهم وأصل البكّ: الزحم، يقال منه: بَكَّ فلان فلاناً: إذا
-  زحمه وصدمه، فهو يَبُكُّه بَكًّا، وهم يَتَباكُّون فـيه: يعنـي به: يتزاحمون ويتصادمون
-  فـيه، فكان بَكَّة: «فَعْلَة» من بَكَّ فلانٌ فلاناً: زحمه، سميت البقعة بفعل الـمزدحمين
-  بها.\r\n\t\t\t\r\n\t\t\t1 2 3 4 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة الآيةفتح
-  صفحة القرآنالانتقال الى صفحة القرآن{ إِنَّ أَوَّلَ بَيْتٍ وُضِعَ لِلنَّاسِ لَلَّذِي
-  بِبَكَّةَ مُبَارَكاً وَهُدًى لِّلْعَالَمِينَ }فإذا كانت بكة ما وصفنا، وكان موضع
-  ازدحام الناس حول البـيت، وكان لا طواف يجوز خارج الـمسجد، كان معلوماً بذلك أن يكون
-  ما حول الكعبة من داخـل الـمسجد، وأن ما كان خارج الـمسجد فمكة لا بكة؛ لأنه لا معنى
-  خارجه يوجب علـى الناس التبـاكَّ فـيه. وإذا كان ذلك كذلك كان بـيّناً بذلك فساد قول
-  من قال بكة: اسم لبطن مكة، ومكة: اسم للـحرم.ذكر من قال فـي ذلك ما قلنا، من أن بكة
-  فـي موضع مزدحم الناس للطواف:حدثنـي يعقوب بن إبراهيـم، قال: ثنا هشيـم، عن حصين، عن
-  أبـي مالك الغفـاري فـي قوله: { إِنَّ أَوَّلَ بَيْتٍ وُضِعَ لِلنَّاسِ لَلَّذِى بِبَكَّةَ
-  مُبَارَكاً } قال: بكة: موضع البـيت، ومكة: ما سوى ذلك.حدثنـي يعقوب، قال: ثنا هشيـم،
-  قال: أخبرنا مغيرة، عن إبراهيـم مثله.حدثنا ابن حميد، قال: ثنا حكام، عن عمرو، عن عطاء،
-  عن أبـي جعفر، قال: مرّت امرأة بـين يدي رجل وهو يصلـي، وهي تطوف بـالبـيت، فدفعها.
-  قال أبو جعفر: إنها بكة يبكّ بعضها بعضاً.حدثنا ابن الـمثنى، قال: ثنا عبد الصمد، قال:
-  ثنا شعبة، قال: ثنا سلـمة، عن مـجاهد، قال: إنـما سميت بكّة، لأن الناس يتبـاكُّون
-  فـيها، الرجال والنساء.حدثنا ابن وكيع، قال: ثنا أبـي، عن سفـيان، عن حماد، عن سعيد،
-  قال: قلت أيّ شيء سميت بكة؟ قال: لأنهم يتبـاكّون فـيها، قال: يعنـي يتزاحمون.حدثنا
-  ابن وكيع، قال: ثنا أبـي، عن سفـيان، عن الأسود بن قـيس، عن أخيه، عن ابن الزبـير،
-  قال: إنـما سميت بكة لأنهم يأتونها حجاجاً.حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد،
-  عن قتادة، قوله: { إِنَّ أَوَّلَ بَيْتٍ وُضِعَ لِلنَّاسِ لَلَّذِى بِبَكَّةَ مُبَارَكاً
-  } فإن الله بكّ به الناس جميعاً، فـيصلـي النساء قدّام الرجال، ولا يصلـح ببلد غيره.حدثنا
-  الـحسن بن يحيـى، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر، عن قتادة: «بكة»: بكَّ
-  الناسُ بعضهم بعضاً، الرجال والنساء يصلـي بعضهم بـين يدي بعض، لا يصلـح ذلك إلا بـمكة.حدثنا
-  ابن وكيع، قال: ثنا أبـي، عن فضيـل بن مرزوق، عن عطية العوفـي، قال: «بكة»: موضع البـيت،
-  و «مكة»: ما حولها.حدثنـي يونس، قال: أخبرنا ابن وهب، قال: أخبرنـي يحيـى بن أزهر،
-  عن غالب بن عبـيد الله أنه سأل ابن شهاب عن بكة. قال: «بكة» البـيت والـمسجد. وسأله
-  عن مكة. فقال ابن شهاب: «مكة»: الـحرم كله.حدثنا الـحسين. قال: ثنا هشيـم، قال: أخبرنا
-  حجاج. عن عطاء ومـجاهد، قالا «بكة»: بكّ فـيها الرجال والنساء.حدثنـي عبد الـجبـار
-  بن يحيـى الرملـي. قال: قال ضمرة بن ربـيعة: «بكة»: الـمسجد. و«مكة»: البـيوت. وقال
-  بعضهم بـما:حدثنـي به يحيـى بن أبـي طالب.\r\n\t\t\t\r\n\t\t\t1 2 3 4 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ إِنَّ أَوَّلَ بَيْتٍ وُضِعَ لِلنَّاسِ
-  لَلَّذِي بِبَكَّةَ مُبَارَكاً وَهُدًى لِّلْعَالَمِينَ }قال: أخبرنا يزيد، قال: أخبرنا
-  جويبر، عن الضحاك فـي قوله: { إِنَّ أَوَّلَ بَيْتٍ وُضِعَ لِلنَّاسِ لَلَّذِى بِبَكَّةَ
-  } قال: هي مكة.وقـيـل: { مُبَارَكاً } لأن الطواف به مغفرة للذنوب، فأما نصب قوله:
-  { مُبَارَكاً } فإنه علـى الـخروج من قوله: { وُضِعَ }؛ لأن فـي «وضع» ذكراً من البـيت
-  هو به مشغول وهو معرفة، و «مبـارك» نكرة لا يصلـح أن يتبعه فـي الإعراب. وأما علـى
-  قول من قال: هو أول بـيت وضع للناس علـى ما ذكرنا فـي ذلك قول من ذكرنا قوله، فإنه
-  نصب علـى الـحال من قوله: { لَلَّذِى بِبَكَّةَ }؛ لأن معنى الكلام علـى قولهم: إن
-  أوّل بـيت وضع للناس، البـيت ببكة مبـاركاً. فـالبـيت عندهم من صفته «الذي ببكة»، و
-  «الذي» بصلته معرفة، و «الـمبـارك» نكرة؛ فنصب علـى القطع منه فـي قول بعضهم. وعلـى
-  الـحال فـي قول بعضهم. و «هدى» فـي موضع نصب علـى العطف علـى قوله «مبـاركاً».\r\n\t\t\t\r\n\t\t\t1 2 3 4 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  لصحة الـخبر بذلك عن رسول الله صلى الله عليه وسلم وذلك ما:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  به مـحمد بن الـمثنى، قال: ثنا ابن أبـي عديّ، عن شعبة، عن سلـيـمان، عن إبراهيـم التـيـمي،
+  عن أبـيه، عن أبـي ذر، قال: قلت يا رسول الله، أيّ مسجد وضع أوّل؟ قال:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" «الـمَسْجدُ الـحَرامُ» قال: ثم
+  أيّ؟ قال: «الـمَسْجدُ الأقْصَى» قال: كم بـينهما؟ قال: «أرْبَعُونَ سَنَةٌ» \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">فقد بـين هذا الـخبر عن رسول الله صلى الله عليه وسلم، أن الـمسجد
+  الـحرام هو أوّل مسجد وضعه الله فـي الأرض علـى ما قلنا، فأما فـي وضعه بـيتاً بغير
+  معنى بـيت للعبـادة والهدى والبركة، ففـيه من الاختلاف ما قد ذكرت بعضه فـي هذا الموضع
+  وبعض في سورة البقرة وغيرها من سور القرآن وبينت الصواب من القول عندنا في ذلك بما
+  أغنى عن إعادته فـي هذا الموضع.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وأما
+  قوله: { لَلَّذِى بِبَكَّةَ مُبَارَكاً } فإنه يعنـي: للبـيت الذي بمزدحم الناس لطوافهم
+  فـي حجهم وعمرهم وأصل البكّ: الزحم، يقال منه: بَكَّ فلان فلاناً: إذا زحمه وصدمه،
+  فهو يَبُكُّه بَكًّا، وهم يَتَباكُّون فـيه: يعنـي به: يتزاحمون ويتصادمون فـيه، فكان
+  بَكَّة: «فَعْلَة» من بَكَّ فلانٌ فلاناً: زحمه، سميت البقعة بفعل الـمزدحمين بها.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(3, 96)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(3,96)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">إِنَّ أَوَّلَ بَيْتٍ وُضِعَ لِلنَّاسِ لَلَّذِي بِبَكَّةَ
+  مُبَارَكاً وَهُدًى لِّلْعَالَمِينَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\"
+  dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">فإذا كانت بكة
+  ما وصفنا، وكان موضع ازدحام الناس حول البـيت، وكان لا طواف يجوز خارج الـمسجد، كان
+  معلوماً بذلك أن يكون ما حول الكعبة من داخـل الـمسجد، وأن ما كان خارج الـمسجد فمكة
+  لا بكة؛ لأنه لا معنى خارجه يوجب علـى الناس التبـاكَّ فـيه. وإذا كان ذلك كذلك كان
+  بـيّناً بذلك فساد قول من قال بكة: اسم لبطن مكة، ومكة: اسم للـحرم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">ذكر من قال فـي ذلك ما قلنا، من أن بكة فـي موضع مزدحم الناس للطواف:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي يعقوب بن إبراهيـم، قال: ثنا هشيـم، عن حصين، عن أبـي مالك
+  الغفـاري فـي قوله: { إِنَّ أَوَّلَ بَيْتٍ وُضِعَ لِلنَّاسِ لَلَّذِى بِبَكَّةَ مُبَارَكاً
+  } قال: بكة: موضع البـيت، ومكة: ما سوى ذلك.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  يعقوب، قال: ثنا هشيـم، قال: أخبرنا مغيرة، عن إبراهيـم مثله.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن حميد، قال: ثنا حكام، عن عمرو، عن عطاء، عن أبـي جعفر، قال: مرّت امرأة بـين يدي
+  رجل وهو يصلـي، وهي تطوف بـالبـيت، فدفعها. قال أبو جعفر: إنها بكة يبكّ بعضها بعضاً.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن الـمثنى، قال: ثنا عبد الصمد، قال: ثنا شعبة، قال: ثنا سلـمة،
+  عن مـجاهد، قال: إنـما سميت بكّة، لأن الناس يتبـاكُّون فـيها، الرجال والنساء.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن وكيع، قال: ثنا أبـي، عن سفـيان، عن حماد، عن سعيد، قال:
+  قلت أيّ شيء سميت بكة؟ قال: لأنهم يتبـاكّون فـيها، قال: يعنـي يتزاحمون.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن وكيع، قال: ثنا أبـي، عن سفـيان، عن الأسود بن قـيس، عن
+  أخيه، عن ابن الزبـير، قال: إنـما سميت بكة لأنهم يأتونها حجاجاً.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: { إِنَّ
+  أَوَّلَ بَيْتٍ وُضِعَ لِلنَّاسِ لَلَّذِى بِبَكَّةَ مُبَارَكاً } فإن الله بكّ به
+  الناس جميعاً، فـيصلـي النساء قدّام الرجال، ولا يصلـح ببلد غيره.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا الـحسن بن يحيـى، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر،
+  عن قتادة: «بكة»: بكَّ الناسُ بعضهم بعضاً، الرجال والنساء يصلـي بعضهم بـين يدي بعض،
+  لا يصلـح ذلك إلا بـمكة.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن وكيع، قال: ثنا أبـي،
+  عن فضيـل بن مرزوق، عن عطية العوفـي، قال: «بكة»: موضع البـيت، و «مكة»: ما حولها.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي يونس، قال: أخبرنا ابن وهب، قال: أخبرنـي يحيـى بن أزهر، عن
+  غالب بن عبـيد الله أنه سأل ابن شهاب عن بكة. قال: «بكة» البـيت والـمسجد. وسأله عن
+  مكة. فقال ابن شهاب: «مكة»: الـحرم كله.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  الـحسين. قال: ثنا هشيـم، قال: أخبرنا حجاج. عن عطاء ومـجاهد، قالا «بكة»: بكّ فـيها
+  الرجال والنساء.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي عبد الـجبـار بن يحيـى الرملـي.
+  قال: قال ضمرة بن ربـيعة: «بكة»: الـمسجد. و«مكة»: البـيوت. وقال بعضهم بـما:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي به يحيـى بن أبـي طالب.</font></font>&#13;\t\t\t<label disabled=\"true\"
+  class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">3 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(3, 96)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(3,96)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">إِنَّ أَوَّلَ بَيْتٍ وُضِعَ لِلنَّاسِ لَلَّذِي بِبَكَّةَ
+  مُبَارَكاً وَهُدًى لِّلْعَالَمِينَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\"
+  dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">قال: أخبرنا يزيد،
+  قال: أخبرنا جويبر، عن الضحاك فـي قوله: { إِنَّ أَوَّلَ بَيْتٍ وُضِعَ لِلنَّاسِ لَلَّذِى
+  بِبَكَّةَ } قال: هي مكة.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقـيـل: { مُبَارَكاً } لأن الطواف
+  به مغفرة للذنوب، فأما نصب قوله: { مُبَارَكاً } فإنه علـى الـخروج من قوله: { وُضِعَ
+  }؛ لأن فـي «وضع» ذكراً من البـيت هو به مشغول وهو معرفة، و «مبـارك» نكرة لا يصلـح
+  أن يتبعه فـي الإعراب. وأما علـى قول من قال: هو أول بـيت وضع للناس علـى ما ذكرنا
+  فـي ذلك قول من ذكرنا قوله، فإنه نصب علـى الـحال من قوله: { لَلَّذِى بِبَكَّةَ }؛
+  لأن معنى الكلام علـى قولهم: إن أوّل بـيت وضع للناس، البـيت ببكة مبـاركاً. فـالبـيت
+  عندهم من صفته «الذي ببكة»، و «الذي» بصلته معرفة، و «الـمبـارك» نكرة؛ فنصب علـى القطع
+  منه فـي قول بعضهم. وعلـى الـحال فـي قول بعضهم. و «هدى» فـي موضع نصب علـى العطف علـى
+  قوله «مبـاركاً».</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">4 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section>"
 

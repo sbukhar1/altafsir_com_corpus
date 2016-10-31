@@ -1,4 +1,4 @@
-location:
+position:
   sura: '040'
   aaya: '041'
   madhab: '01'
@@ -7,22 +7,47 @@ meta:
   title: تفسير جامع البيان في تفسير القرآن
   author: الطبري
   year: '310'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَيٰقَوْمِ مَا
-  لِيۤ أَدْعُوكُـمْ إِلَى ٱلنَّجَاةِ وَتَدْعُونَنِيۤ إِلَى ٱلنَّارِ } * { تَدْعُونَنِي
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(40, 41)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(40,41)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَيٰقَوْمِ
+  مَا لِيۤ أَدْعُوكُـمْ إِلَى ٱلنَّجَاةِ وَتَدْعُونَنِيۤ إِلَى ٱلنَّارِ</a> <b>} *
+  </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">تَدْعُونَنِي
   لأَكْـفُرَ بِٱللَّهِ وَأُشْرِكَ بِهِ مَا لَيْسَ لِي بِهِ عِلْمٌ وَأَنَاْ أَدْعُوكُمْ
-  إِلَى ٱلْعَزِيزِ ٱلْغَفَّارِ }يقول تعالى ذكره مخبراً عن قيل هذا المؤمن لقومه من
-  الكفرة: { مَالِي أدْعُوكُمْ إلَى النَّجَاة } من عذاب الله وعقوبته بالإيمان به، واتباع
-  رسوله موسى، وتصديقه فيما جاءكم به من عند ربه { وَتَدْعُونَنِي إلى النَّارِ } يقول:
-  وتدعونني إلى عمل أهل النار. وبنحو الذي قلنا في ذلك قال أهل التأويل. ذكر من قال ذلك:حدثني
+  إِلَى ٱلْعَزِيزِ ٱلْغَفَّارِ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\"
+  dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">يقول تعالى ذكره
+  مخبراً عن قيل هذا المؤمن لقومه من الكفرة: { مَالِي أدْعُوكُمْ إلَى النَّجَاة } من
+  عذاب الله وعقوبته بالإيمان به، واتباع رسوله موسى، وتصديقه فيما جاءكم به من عند ربه
+  { وَتَدْعُونَنِي إلى النَّارِ } يقول: وتدعونني إلى عمل أهل النار. وبنحو الذي قلنا
+  في ذلك قال أهل التأويل. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
   محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى وحدثني الحارث، قال: ثنا الحسن، قال:
   ثنا ورقاء، جميعاً عن ابن أبي نجيح، عن مجاهد، قوله: { مالِي أدْعُوكُمْ إلى النَّجاةِ
-  } قال: الإيمان بالله.حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله:
-  { مَالِي أدْعُوكُمْ إلَى النَّجَاة وَتَدْعُونَنِي إلى النَّارِ } قال هذا مؤمن آل
-  فرعون، قال: يدعونه إلى دينهم والإقامة معهم.وقوله: { تَدْعُونَنِي لأَكْفُرَ بالله
-  وأُشْرِكَ بِهِ ما لَيْسَ لِي بِهِ عِلْمٌ } يقول: وأشرك بالله في عبادته أوثاناً،
-  لست أعلم أنه يصلح لي عبادتها وإشراكها في عبادة الله، لأن الله لم يأذن لي في ذلك
-  بخبر ولا عقل.وقوله: { وأنا أدْعُوكُمْ إلى العَزِيزِ الغَفَّارِ } يقول: وأنا أدعوكم
+  } قال: الإيمان بالله.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثني يونس، قال: أخبرنا ابن وهب،
+  قال: قال ابن زيد، في قوله: { مَالِي أدْعُوكُمْ إلَى النَّجَاة وَتَدْعُونَنِي إلى
+  النَّارِ } قال هذا مؤمن آل فرعون، قال: يدعونه إلى دينهم والإقامة معهم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقوله: { تَدْعُونَنِي لأَكْفُرَ بالله وأُشْرِكَ بِهِ ما لَيْسَ لِي
+  بِهِ عِلْمٌ } يقول: وأشرك بالله في عبادته أوثاناً، لست أعلم أنه يصلح لي عبادتها
+  وإشراكها في عبادة الله، لأن الله لم يأذن لي في ذلك بخبر ولا عقل.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقوله: { وأنا أدْعُوكُمْ إلى العَزِيزِ الغَفَّارِ } يقول: وأنا أدعوكم
   إلى عبادة العزيز في انتقامه ممن كفر به، الذي لا يمنعه إذا انتقم من عدوّ له شيء،
   الغفار لمن تابه إليه بعد معصيته إياه، لعفوه عنه، فلا يضرّه شيء مع عفوه عنه، يقول:
-  فهذا الذي هذه الصفة صفته فاعبدوا، لا ما لا ضرّ عنده ولا نفع.\r\n\t\t\t\r\n\t\t\t</section>"
+  فهذا الذي هذه الصفة صفته فاعبدوا، لا ما لا ضرّ عنده ولا نفع.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

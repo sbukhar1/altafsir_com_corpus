@@ -1,4 +1,4 @@
-location:
+position:
   sura: '007'
   aaya: '168'
   madhab: '01'
@@ -9,20 +9,43 @@ meta:
   year: '310'
 aaya: وَقَطَّعْنَاهُمْ فِي الْأَرْضِ أُمَمًا ۖ مِنْهُمُ الصَّالِحُونَ وَمِنْهُمْ دُونَ
   ذَٰلِكَ ۖ وَبَلَوْنَاهُمْ بِالْحَسَنَاتِ وَالسَّيِّئَاتِ لَعَلَّهُمْ يَرْجِعُونَ
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَقَطَّعْنَاهُمْ
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(7, 168)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(7,168)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَقَطَّعْنَاهُمْ
   فِي ٱلأَرْضِ أُمَماً مِّنْهُمُ ٱلصَّالِحُونَ وَمِنْهُمْ دُونَ ذٰلِكَ وَبَلَوْنَاهُمْ
-  بِٱلْحَسَنَاتِ وَٱلسَّيِّئَاتِ لَعَلَّهُمْ يَرْجِعُونَ }يقول تعالـى ذكره: وفرّقنا
-  بنـي إسرائيـل فـي الأرض أمـماً، يعنـي جماعات شتـى متفرّقـين. كما:حدثنا ابن وكيع،
-  قال: ثنا إسحاق بن إسماعيـل، عن يعقوب، عن جعفر، عن سعيد بن حبـير، عن ابن عبـاس: {
-  وَقَطَّعناهُمْ فِـي الأرْضِ أُمَـماً } قال: فـي كلّ أرض يدخـلها قوم من الـيهود.حدثنـي
-  مـحمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، عن ابن أبـي نـجيح، عن مـجاهد: {
-  وَقَطَّعناهُمْ فِـي الأرْضِ أُمَـماً } قال: يهود.وقوله: { مِنْهُمُ الصَّالِـحُونَ
-  } يقول: من هؤلاء القوم الذين وصفهم الله من بنـي إسرائيـل الصالـحون، يعنـي: من يؤمن
-  بـالله ورسله. { وَمِنْهُمْ دُونَ ذلكَ } يعنـي: دون الصالـح. وإنـما وصفهم الله جلّ
-  ثناؤه بأنهم كانوا كذلك قبل ارتدادهم عن دينهم وقبل كفرهم بربهم، وذلك قبل أن يُبعث
-  فـيهم عيسى ابن مريـم صلوات الله علـيه.وقوله: { وَبَلَوْناهُمْ بـالـحَسَناتِ وَالسَّيِّئاتِ
-  لَعَلَّهُمْ يَرْجِعُونَ } يقول: واختبرناهم بـالرخاء فـي العيش، والـخفض فـي الدنـيا،
-  والدعة والسعة فـي الرزق، وهي الـحسنات التـي ذكرها جلّ ثناؤه. ويعنـي بـالسيئات: الشدّة
-  فـي العيش، والشظف فـيه، والـمصائب والرزايا فـي الأموال. { لَعلَّهُمْ يَرْجِعُونَ
-  } يقول: لـيرجعوا إلـى طاعة ربهم، وينـيبوا إلـيها، ويتوبوا من معاصيه.\r\n\t\t\t\r\n\t\t\t</section>"
+  بِٱلْحَسَنَاتِ وَٱلسَّيِّئَاتِ لَعَلَّهُمْ يَرْجِعُونَ</a> <b>}</b></font>, <br/>,
+  <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">يقول
+  تعالـى ذكره: وفرّقنا بنـي إسرائيـل فـي الأرض أمـماً، يعنـي جماعات شتـى متفرّقـين.
+  كما:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن وكيع، قال: ثنا إسحاق
+  بن إسماعيـل، عن يعقوب، عن جعفر، عن سعيد بن حبـير، عن ابن عبـاس: { وَقَطَّعناهُمْ
+  فِـي الأرْضِ أُمَـماً } قال: فـي كلّ أرض يدخـلها قوم من الـيهود.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي مـحمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، عن ابن أبـي
+  نـجيح، عن مـجاهد: { وَقَطَّعناهُمْ فِـي الأرْضِ أُمَـماً } قال: يهود.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقوله: { مِنْهُمُ الصَّالِـحُونَ } يقول: من هؤلاء القوم الذين وصفهم
+  الله من بنـي إسرائيـل الصالـحون، يعنـي: من يؤمن بـالله ورسله. { وَمِنْهُمْ دُونَ
+  ذلكَ } يعنـي: دون الصالـح. وإنـما وصفهم الله جلّ ثناؤه بأنهم كانوا كذلك قبل ارتدادهم
+  عن دينهم وقبل كفرهم بربهم، وذلك قبل أن يُبعث فـيهم عيسى ابن مريـم صلوات الله علـيه.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقوله: { وَبَلَوْناهُمْ بـالـحَسَناتِ وَالسَّيِّئاتِ لَعَلَّهُمْ
+  يَرْجِعُونَ } يقول: واختبرناهم بـالرخاء فـي العيش، والـخفض فـي الدنـيا، والدعة والسعة
+  فـي الرزق، وهي الـحسنات التـي ذكرها جلّ ثناؤه. ويعنـي بـالسيئات: الشدّة فـي العيش،
+  والشظف فـيه، والـمصائب والرزايا فـي الأموال. { لَعلَّهُمْ يَرْجِعُونَ } يقول: لـيرجعوا
+  إلـى طاعة ربهم، وينـيبوا إلـيها، ويتوبوا من معاصيه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

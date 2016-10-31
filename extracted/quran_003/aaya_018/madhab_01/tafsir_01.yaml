@@ -1,4 +1,4 @@
-location:
+position:
   sura: '003'
   aaya: 018
   madhab: '01'
@@ -7,80 +7,188 @@ meta:
   title: تفسير جامع البيان في تفسير القرآن
   author: الطبري
   year: '310'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ شَهِدَ ٱللَّهُ
-  أَنَّهُ لاَ إِلَـٰهَ إِلاَّ هُوَ وَٱلْمَلاَئِكَةُ وَأُوْلُواْ ٱلْعِلْمِ قَآئِمَاً
-  بِٱلْقِسْطِ لاَ إِلَـٰهَ إِلاَّ هُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ }يعنـي بذلك جل ثناؤه:
-  شهد الله أنه لا إله إلا هو، وشهدت الـملائكة، وأولو العلـم. فـالـملائكة معطوف بهم
-  علـى اسم الله، و«أنه» مفتوحة بشهد.وكان بعض البصريـين يتأول قوله شهد الله: قضى الله،
-  ويرفع «الـملائكة»، بـمعنى: والـملائكة شهود وأولو العلـم. وهكذا قرأت قراء أهل الإسلام
-  بفتـح الألف من أنه علـى ما ذكرت من إعمال «شهد» فـي «أنه» الأولـى وكسر الألف من «إنّ»
-  الثانـية وابتدائها، سوى أن بعض الـمتأخرين من أهل العربـية كان يقرأ ذلك جميعا بفتـح
-  ألفـيهما، بـمعنى: شهد الله أنه لا إلٰه إلا هو، وأن الدين عند الله الإسلام، فعطف
-  بأنّ الدين علـى «أنه» الأولـى، ثم حذف واو العطف وهي مرادة فـي الكلام. واحتـج فـي
-  ذلك بأن ابن عبـاس قرأ ذلك: «شَهِدَ اللَّهُ إنَّهُ لا إلٰهَ إلاَّ هُوَ»... الآية،
-  ثم قال:{ إِنَّ ٱلدِّينَ }[آل عمران: 19] بكسر «إن» الأولـى وفتـح «أنّ» الثانـية بإعمال
-  «شهد» فـيها، وجعل «أن» الأولـى اعتراضا فـي الكلام غير عامل فـيها «شهد»؛ وأن ابن
-  مسعود قرأ: { شَهِدَ اللَّهُ أَنَّهُ لا إِلَـٰهَ إِلاَّ هُوَ } بفتـح «أنّ»، وكسر
-  «إنّ» من:{ إِنَّ ٱلدِّينَ عِندَ ٱللَّهِ ٱلإِسْلاَمُ }[آل عمران: 19] علـى معنى إعمال
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(3, 18)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(3,18)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">شَهِدَ
+  ٱللَّهُ أَنَّهُ لاَ إِلَـٰهَ إِلاَّ هُوَ وَٱلْمَلاَئِكَةُ وَأُوْلُواْ ٱلْعِلْمِ
+  قَآئِمَاً بِٱلْقِسْطِ لاَ إِلَـٰهَ إِلاَّ هُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">يعنـي بذلك جل ثناؤه: شهد الله أنه لا إله إلا هو، وشهدت الـملائكة،
+  وأولو العلـم. فـالـملائكة معطوف بهم علـى اسم الله، و«أنه» مفتوحة بشهد.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وكان بعض البصريـين يتأول قوله شهد الله: قضى الله، ويرفع «الـملائكة»،
+  بـمعنى: والـملائكة شهود وأولو العلـم. وهكذا قرأت قراء أهل الإسلام بفتـح الألف من
+  أنه علـى ما ذكرت من إعمال «شهد» فـي «أنه» الأولـى وكسر الألف من «إنّ» الثانـية وابتدائها،
+  سوى أن بعض الـمتأخرين من أهل العربـية كان يقرأ ذلك جميعا بفتـح ألفـيهما، بـمعنى:
+  شهد الله أنه لا إلٰه إلا هو، وأن الدين عند الله الإسلام، فعطف بأنّ الدين علـى «أنه»
+  الأولـى، ثم حذف واو العطف وهي مرادة فـي الكلام. واحتـج فـي ذلك بأن ابن عبـاس قرأ
+  ذلك: «شَهِدَ اللَّهُ إنَّهُ لا إلٰهَ إلاَّ هُوَ»... الآية، ثم قال:</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">إِنَّ
+  ٱلدِّينَ</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">[آل عمران: 19] بكسر «إن» الأولـى وفتـح «أنّ» الثانـية بإعمال «شهد»
+  فـيها، وجعل «أن» الأولـى اعتراضا فـي الكلام غير عامل فـيها «شهد»؛ وأن ابن مسعود
+  قرأ: { شَهِدَ اللَّهُ أَنَّهُ لا إِلَـٰهَ إِلاَّ هُوَ } بفتـح «أنّ»، وكسر «إنّ»
+  من:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">إِنَّ
+  ٱلدِّينَ عِندَ ٱللَّهِ ٱلإِسْلاَمُ</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">[آل عمران: 19] علـى معنى إعمال
   الشهادة فـي «أن» الأولـى و«أنَّ» الثانـية مبتدأة، فزعم أنه أراد بقراءته إياهما بـالفتـح
   جمع قراءة ابن عبـاس وابن مسعود. فخالف بقراءته ما قرأ من ذلك علـى ما وصفت جميع قراء
   أهل الإسلام الـمتقدمين منهم والـمتأخرين، بدعوى تأويـل علـى ابن عبـاس وابن مسعود
   زعم أنهما قالاه وقرآ به، وغير معلوم ما ادعى علـيهما برواية صحيحة، ولا سقـيـمة. وكفـى
   شاهدا علـى خطإ قراءته خروجها من قراءة أهل الإسلام. فـالصواب إذ كان الأمر علـى ما
   وصفنا من قراءة ذلك فتـح الألف من «أنه» الأولـى، وكسر الألف من «إنَّ» الثانـية، أعنـي
-  من قوله:{ إِنَّ ٱلدِّينَ عِندَ ٱللَّهِ ٱلإِسْلاَمُ }[آل عمران: 19] ابتداء.وقد رُوي
-  عن السدي فـي تأويـل ذلك قول كالدّال علـى تصحيح ما قرأ به فـي ذلك من ذكرنا قوله من
-  أهل العربـية فـي فتـح «أن» من قوله:{ إِنَّ ٱلدِّينَ }[آل عمران: 19] وهو ما:حدثنـي
-  موسى، قال: ثنا عمرو، قال: ثنا أسبـاط عن السدي: { شَهِدَ اللَّهُ أَنَّهُ لا إِلَـٰهَ
-  إِلاَّ هُوَ وَالملائِكَةُ } إلـى: { لا إِلَـٰهَ إِلاَّ هُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ
-  } فإن الله يشهد هو والـملائكة والعلـماء من الناس أن الدين عند الله الإسلام.فهذا
-  التأويـل يدل علـى أن الشهادة إنـما هي عامة فـي «أن» الثانـية التـي فـي قوله: { إِنَّ
-  الدّينَ عِندَ اللَّهِ الإسْلام } فعلـى هذا التأويـل جائز فـي «أن» الأولـى وجهان
-  من التأويـل: أحدهما أن تكون الأولـى منصوبة علـى وجه الشرط، بـمعنى: شهد الله بأنه
-  واحد، فتكون مفتوحة بـمعنى الـخفض فـي مذهب بعض أهل العربـية، وبـمعنى النصب فـي مذهب
-  بعضهم، والشهادة عاملة فـي «أنّ» الثانـية، كأنك قلت: شهد الله أن الدين عند الله الإسلام،
-  لأنه واحد، ثم تقدم «لأنه واحد» فتفتـحها علـى ذلك التأويـل.\r\n\t\t\t\r\n\t\t\t1 2 3 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ شَهِدَ ٱللَّهُ أَنَّهُ لاَ إِلَـٰهَ
-  إِلاَّ هُوَ وَٱلْمَلاَئِكَةُ وَأُوْلُواْ ٱلْعِلْمِ قَآئِمَاً بِٱلْقِسْطِ لاَ إِلَـٰهَ
-  إِلاَّ هُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ }والوجه الثانـي: أن تكون «إن» الأولـى مكسورة بـمعنى
-  الابتداء لأنها معترض بها، والشهادة واقعة علـى «أن» الثانـية، فـيكون معنى الكلام:
-  شهد الله فإنه لا إلٰه إلا هو والـملائكة، أن الدين عند الله الإسلام، كقول القائل:
-  أشهد ـ فإنـي مـحق ـ أنك مـما تعاب به بريء، فـ«إنّ» الأولـى مكسورة لأنها معترضة،
-  والشهادة واقعة علـى «أن» الثانـية.وأما قوله: { قَائِمَاً بالقِسْطِ } فإنه بـمعنى
-  أنه الذي يـلـي العدل بـين خـلقه. والقسط: هو العدل، من قولهم: هو مقسط، وقد أقسط،
-  إذا عدل، ونصب «قائما» علـى القطع.وكان بعض نـحويـي أهل البصرة يزعم أنه حال من «هو»
-  التـي فـي «لا إلٰه إلا هو».وكان بعض نـحويـي الكوفة يزعم أنه حال من اسم الله الذي
-  مع قوله: { شَهِدَ اللَّهُ } فكان معناه: شهد الله القائم بـالقسط أنه لا إلٰه إلا
-  هو. وقد ذكر أنها فـي قراءة ابن مسعود كذلك: «وأولُو العِلْـمِ القَائِمُ بـالقِسْطِ»،
-  ثم حذفت الألف واللام من القائم فصار نكرة وهو نعت لـمعرفة، فنصب.وأولـى القولـين بـالصواب
-  فـي ذلك عندي قول من جعله قطعا علـى أنه من نعت الله جل ثناؤه، لأن الـملائكة وأولـي
-  العلـم معطوفون علـيه، فكذلك الصحيح أن يكون قوله «قائماً» حالاً منه.وأما تأويـل قوله:
-  { لا إِلَـٰهَ إِلاَّ هُوَ العَزِيزُ الحَكِيمُ } فإنه نفـى أن يكون شيء يستـحق العبودة
-  غير الواحد الذي لا شريك له فـي ملكه. ويعنـي بـالعزيز: الذي لا يـمتنع علـيه شيء أراده،
-  ولا ينتصر منه أحد عاقبة أو انتقم منه، الـحكيـم فـي تدبـيره، فلا يدخـله خـلل.وإنـما
-  عنى جل ثناؤه بهذه الآية نفـي ما أضافت النصارى الذين حاجوا رسول الله صلى الله عليه
-  وسلم فـي عيسى من البنوة، وما نسب إلـيه سائر أهل الشرك من أن له شريكا، واتـخاذهم
-  دونه أربـابـا. فأخبرهم الله عن نفسه أنه الـخالق كل ما سواه، وأنه رب كل ما اتـخذه
-  كل كافر وكل مشرك ربـاً دونه، وأن ذلك مـما يشهد به هو وملائكته وأهل العلـم به من
-  خـلقه. فبدأ جل ثناؤه بنفسه تعظيـماً لنفسه، وتنزيهاً لها عما نسب الذين ذكرنا أمرهم
-  من أهل الشرك به ما نسبوا إلـيها، كما سن لعبـاده أن يبدءوا فـي أمورهم بذكره قبل ذكر
-  غيره، مؤدبـا خـلقه بذلك.والـمراد من الكلام: الـخبر عن شهادة من ارتضاهم من خـلقه
-  فقدموه من ملائكته وعلـماء عبـاده، فأعلـمهم أن ملائكته ـ التـي يعظمها العابدون غيره
-  من أهل الشرك ويعبدها الكثـير منهم ـ وأهلَ العلـم منهم منكرون ما هم علـيه مقـيـمون
-  من كفرهم، وقولهم فـي عيسى وقول من اتـخذ ربـاً غيره من سائر الـخـلق، فقال شهدت الـملائكة
-  وأولو العلـم أنه لا إلٰه إلا هو، وأن كل من اتـخذ ربـاً دون الله فهو كاذب؛ احتـجاجا
-  منه لنبـيه علـيه الصلاة والسلام علـى الذين حاجوه من وفد نـجران فـي عيسى، واعترض
-  بذكر الله وصفته علـى ما نبـينه، كما قال جل ثناؤه:\r\n\t\t\t\r\n\t\t\t1 2 3 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ شَهِدَ ٱللَّهُ أَنَّهُ لاَ إِلَـٰهَ
-  إِلاَّ هُوَ وَٱلْمَلاَئِكَةُ وَأُوْلُواْ ٱلْعِلْمِ قَآئِمَاً بِٱلْقِسْطِ لاَ إِلَـٰهَ
-  إِلاَّ هُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ }{ وَٱعْلَمُوۤا أَنَّمَا غَنِمْتُمْ مِّن شَيْءٍ
-  فَأَنَّ لِلَّهِ خُمُسَهُ }[الأنفال: 41] افتتاحا بـاسمه الكلام، فكذلك افتتـح بـاسمه
-  والثناء علـى نفسه الشهادة بـما وصفنا من نفـي الألوهة من غيره وتكذيب أهل الشرك به.
-  فأما ما قال الذي وصفنا قوله من أنه عَنَى بقوله شهد: قضى، فمـما لا يعرف فـي لغة العرب
-  ولا العجم، لأن الشهادة معنى، والقضاء غيرها.وبنـحو الذي قلنا فـي ذلك رُوي عن بعض
-  الـمتقدمين القول فـي ذلك.حدثنا ابن حميد، قال: ثنا سلـمة، عن ابن إسحاق، عن مـحمد
-  بن جعفر بن الزبـير: { شَهِدَ اللَّهُ أَنَّهُ لا إِلَـٰهَ إِلاَّ هُوَ وَالملائِكَةُ
-  وَأُولُو العِلْمِ } بخلاف ما قالوا، يعنـي: بخلاف ما قال وفد نـجران من النصارى، {
-  قَائِمَاً بالقِسْطِ } أي بـالعدل.حدثنـي الـمثنى، قال: ثنا أبو حذيفة، قال: ثنا شبل،
-  عن ابن أبـي نـجيح، عن مـجاهد: { بالقِسْطِ } بـالعدل.\r\n\t\t\t\r\n\t\t\t1 2 3 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  من قوله:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">إِنَّ ٱلدِّينَ عِندَ ٱللَّهِ ٱلإِسْلاَمُ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[آل
+  عمران: 19] ابتداء.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقد رُوي عن السدي فـي تأويـل ذلك
+  قول كالدّال علـى تصحيح ما قرأ به فـي ذلك من ذكرنا قوله من أهل العربـية فـي فتـح
+  «أن» من قوله:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">إِنَّ ٱلدِّينَ</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">[آل عمران: 19] وهو ما:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي موسى، قال: ثنا عمرو، قال: ثنا أسبـاط عن السدي: { شَهِدَ اللَّهُ
+  أَنَّهُ لا إِلَـٰهَ إِلاَّ هُوَ وَالملائِكَةُ } إلـى: { لا إِلَـٰهَ إِلاَّ هُوَ
+  ٱلْعَزِيزُ ٱلْحَكِيمُ } فإن الله يشهد هو والـملائكة والعلـماء من الناس أن الدين
+  عند الله الإسلام.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">فهذا التأويـل يدل علـى أن الشهادة
+  إنـما هي عامة فـي «أن» الثانـية التـي فـي قوله: { إِنَّ الدّينَ عِندَ اللَّهِ الإسْلام
+  } فعلـى هذا التأويـل جائز فـي «أن» الأولـى وجهان من التأويـل: أحدهما أن تكون الأولـى
+  منصوبة علـى وجه الشرط، بـمعنى: شهد الله بأنه واحد، فتكون مفتوحة بـمعنى الـخفض فـي
+  مذهب بعض أهل العربـية، وبـمعنى النصب فـي مذهب بعضهم، والشهادة عاملة فـي «أنّ» الثانـية،
+  كأنك قلت: شهد الله أن الدين عند الله الإسلام، لأنه واحد، ثم تقدم «لأنه واحد» فتفتـحها
+  علـى ذلك التأويـل.</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\"
+  border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE:
+  none; BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(3, 18)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(3,18)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">شَهِدَ ٱللَّهُ أَنَّهُ لاَ إِلَـٰهَ إِلاَّ هُوَ
+  وَٱلْمَلاَئِكَةُ وَأُوْلُواْ ٱلْعِلْمِ قَآئِمَاً بِٱلْقِسْطِ لاَ إِلَـٰهَ إِلاَّ
+  هُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\"
+  dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">والوجه الثانـي:
+  أن تكون «إن» الأولـى مكسورة بـمعنى الابتداء لأنها معترض بها، والشهادة واقعة علـى
+  «أن» الثانـية، فـيكون معنى الكلام: شهد الله فإنه لا إلٰه إلا هو والـملائكة، أن الدين
+  عند الله الإسلام، كقول القائل: أشهد ـ فإنـي مـحق ـ أنك مـما تعاب به بريء، فـ«إنّ»
+  الأولـى مكسورة لأنها معترضة، والشهادة واقعة علـى «أن» الثانـية.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وأما قوله: { قَائِمَاً بالقِسْطِ } فإنه بـمعنى أنه الذي يـلـي العدل
+  بـين خـلقه. والقسط: هو العدل، من قولهم: هو مقسط، وقد أقسط، إذا عدل، ونصب «قائما»
+  علـى القطع.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وكان بعض نـحويـي أهل البصرة يزعم
+  أنه حال من «هو» التـي فـي «لا إلٰه إلا هو».</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وكان
+  بعض نـحويـي الكوفة يزعم أنه حال من اسم الله الذي مع قوله: { شَهِدَ اللَّهُ } فكان
+  معناه: شهد الله القائم بـالقسط أنه لا إلٰه إلا هو. وقد ذكر أنها فـي قراءة ابن مسعود
+  كذلك: «وأولُو العِلْـمِ القَائِمُ بـالقِسْطِ»، ثم حذفت الألف واللام من القائم فصار
+  نكرة وهو نعت لـمعرفة، فنصب.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وأولـى
+  القولـين بـالصواب فـي ذلك عندي قول من جعله قطعا علـى أنه من نعت الله جل ثناؤه، لأن
+  الـملائكة وأولـي العلـم معطوفون علـيه، فكذلك الصحيح أن يكون قوله «قائماً» حالاً
+  منه.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وأما تأويـل قوله: { لا إِلَـٰهَ
+  إِلاَّ هُوَ العَزِيزُ الحَكِيمُ } فإنه نفـى أن يكون شيء يستـحق العبودة غير الواحد
+  الذي لا شريك له فـي ملكه. ويعنـي بـالعزيز: الذي لا يـمتنع علـيه شيء أراده، ولا ينتصر
+  منه أحد عاقبة أو انتقم منه، الـحكيـم فـي تدبـيره، فلا يدخـله خـلل.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وإنـما عنى جل ثناؤه بهذه الآية نفـي ما أضافت النصارى الذين حاجوا
+  رسول الله صلى الله عليه وسلم فـي عيسى من البنوة، وما نسب إلـيه سائر أهل الشرك من
+  أن له شريكا، واتـخاذهم دونه أربـابـا. فأخبرهم الله عن نفسه أنه الـخالق كل ما سواه،
+  وأنه رب كل ما اتـخذه كل كافر وكل مشرك ربـاً دونه، وأن ذلك مـما يشهد به هو وملائكته
+  وأهل العلـم به من خـلقه. فبدأ جل ثناؤه بنفسه تعظيـماً لنفسه، وتنزيهاً لها عما نسب
+  الذين ذكرنا أمرهم من أهل الشرك به ما نسبوا إلـيها، كما سن لعبـاده أن يبدءوا فـي
+  أمورهم بذكره قبل ذكر غيره، مؤدبـا خـلقه بذلك.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">والـمراد
+  من الكلام: الـخبر عن شهادة من ارتضاهم من خـلقه فقدموه من ملائكته وعلـماء عبـاده،
+  فأعلـمهم أن ملائكته ـ التـي يعظمها العابدون غيره من أهل الشرك ويعبدها الكثـير منهم
+  ـ وأهلَ العلـم منهم منكرون ما هم علـيه مقـيـمون من كفرهم، وقولهم فـي عيسى وقول من
+  اتـخذ ربـاً غيره من سائر الـخـلق، فقال شهدت الـملائكة وأولو العلـم أنه لا إلٰه إلا
+  هو، وأن كل من اتـخذ ربـاً دون الله فهو كاذب؛ احتـجاجا منه لنبـيه علـيه الصلاة والسلام
+  علـى الذين حاجوه من وفد نـجران فـي عيسى، واعترض بذكر الله وصفته علـى ما نبـينه،
+  كما قال جل ثناؤه:</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(3, 18)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(3,18)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">شَهِدَ ٱللَّهُ أَنَّهُ لاَ إِلَـٰهَ إِلاَّ هُوَ
+  وَٱلْمَلاَئِكَةُ وَأُوْلُواْ ٱلْعِلْمِ قَآئِمَاً بِٱلْقِسْطِ لاَ إِلَـٰهَ إِلاَّ
+  هُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\"
+  dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\"/></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">وَٱعْلَمُوۤا أَنَّمَا غَنِمْتُمْ
+  مِّن شَيْءٍ فَأَنَّ لِلَّهِ خُمُسَهُ</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">[الأنفال: 41] افتتاحا بـاسمه الكلام،
+  فكذلك افتتـح بـاسمه والثناء علـى نفسه الشهادة بـما وصفنا من نفـي الألوهة من غيره
+  وتكذيب أهل الشرك به. فأما ما قال الذي وصفنا قوله من أنه عَنَى بقوله شهد: قضى، فمـما
+  لا يعرف فـي لغة العرب ولا العجم، لأن الشهادة معنى، والقضاء غيرها.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وبنـحو الذي قلنا فـي ذلك رُوي عن بعض الـمتقدمين القول فـي ذلك.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن حميد، قال: ثنا سلـمة، عن ابن إسحاق، عن مـحمد بن جعفر بن
+  الزبـير: { شَهِدَ اللَّهُ أَنَّهُ لا إِلَـٰهَ إِلاَّ هُوَ وَالملائِكَةُ وَأُولُو
+  العِلْمِ } بخلاف ما قالوا، يعنـي: بخلاف ما قال وفد نـجران من النصارى، { قَائِمَاً
+  بالقِسْطِ } أي بـالعدل.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي الـمثنى، قال: ثنا أبو حذيفة،
+  قال: ثنا شبل، عن ابن أبـي نـجيح، عن مـجاهد: { بالقِسْطِ } بـالعدل.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">3 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a id=\"NextClass\"/></td></tr></table></center></div></section>"
 

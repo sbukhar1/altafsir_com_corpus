@@ -1,4 +1,4 @@
-location:
+position:
   sura: '051'
   aaya: '036'
   madhab: '01'
@@ -7,21 +7,46 @@ meta:
   title: تفسير جامع البيان في تفسير القرآن
   author: الطبري
   year: '310'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ فَمَا وَجَدْنَا
-  فِيهَا غَيْرَ بَيْتٍ مِّنَ ٱلْمُسْلِمِينَ } * { وَتَرَكْنَا فِيهَآ آيَةً لِّلَّذِينَ
-  يَخَافُونَ ٱلْعَذَابَ ٱلأَلِيمَ }يقول تعالى ذكره: فما وجدنا في تلك القرية التي أخرجنا
-  منها من كان فيها من المؤمنين غير بيت من المسلمين، وهو بيت لوط.حدثنا بشر، قال: ثنا
-  يزيد، قال: ثنا سعيد، عن قتادة، قوله: { فَمَا وَجَدْنا فيها غَيرَ بَيْت مِنَ المُسْلِمِينَ
-  } قال: لو كان فيها أكثر من ذلك لأنجاهم الله، ليعلموا أن الإيمان عند الله محفوظ لا
-  ضيعة على أهله.حدثني يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد فَمَا { وَجَدْنا
-  فِيها غَيرَ بَيْتٍ مِنَ المُسْلِمِينَ } قال: هؤلاء قوم لوط لم يجدوا فيها غير لوط.حدثني
-  ابن عوف، قال: ثنا المعتمر، قال: ثنا صفوان، قال: ثنا أبو المثنى ومسلم أبو الحيل الأشجعيّ
-  قال الله: { فَمَا وَجَدْنا فِيها غَيرَ بَيْتٍ مِنَ المُسْلِمِينَ } لوطاً وابنتيه،
-  قال: فحلّ بهم العذاب، قال الله: { وَتَرَكْنا فِيها آيَةً للَّذِينَ يَخَافُونَ العَذَابَ
-  الألِيمَ }.وقوله: { وَتَرَكْنا فِيها آيَةً للَّذِينَ يَخَافُونَ العَذَابَ الألِيمَ
-  } يقول: وتركنا في هذه القرية التي أخرجنا من كان فيها من المؤمنين آية، وقال جلّ ثناؤه:
-  { وَتَرَكْنا فِيها آيَةً } والمعنى: وتركناها آية لأنها التي ائتفكت بأهلها، فهي الآية،
-  وذلك كقول القائل: ترى في هذا الشيء عبرة وآية ومعناها: هذا الشيء آية وعبرة، كما قال
-  جلّ ثناؤه { لَقَدْ كانَ فِي يُوسُفَ وَآخْوَتِهِ آياتٌ للسَّائِلِينَ } وهم كانوا
-  الآيات وفعلهم، ويعني بالآية: العظة والعبرة، للذين يخافون عذاب الله الأليم في الآخرة.\r\n\t\t\t\r\n\t\t\t</section>"
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(51, 36)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(51,36)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">فَمَا
+  وَجَدْنَا فِيهَا غَيْرَ بَيْتٍ مِّنَ ٱلْمُسْلِمِينَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَتَرَكْنَا فِيهَآ
+  آيَةً لِّلَّذِينَ يَخَافُونَ ٱلْعَذَابَ ٱلأَلِيمَ</a> <b>}</b></font>, <br/>, <br/>,
+  <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">يقول
+  تعالى ذكره: فما وجدنا في تلك القرية التي أخرجنا منها من كان فيها من المؤمنين غير
+  بيت من المسلمين، وهو بيت لوط.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: { فَمَا وَجَدْنا فيها غَيرَ بَيْت
+  مِنَ المُسْلِمِينَ } قال: لو كان فيها أكثر من ذلك لأنجاهم الله، ليعلموا أن الإيمان
+  عند الله محفوظ لا ضيعة على أهله.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد فَمَا { وَجَدْنا فِيها غَيرَ بَيْتٍ
+  مِنَ المُسْلِمِينَ } قال: هؤلاء قوم لوط لم يجدوا فيها غير لوط.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني ابن عوف، قال: ثنا المعتمر، قال: ثنا صفوان، قال: ثنا أبو المثنى
+  ومسلم أبو الحيل الأشجعيّ قال الله: { فَمَا وَجَدْنا فِيها غَيرَ بَيْتٍ مِنَ المُسْلِمِينَ
+  } لوطاً وابنتيه، قال: فحلّ بهم العذاب، قال الله: { وَتَرَكْنا فِيها آيَةً للَّذِينَ
+  يَخَافُونَ العَذَابَ الألِيمَ }.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقوله:
+  { وَتَرَكْنا فِيها آيَةً للَّذِينَ يَخَافُونَ العَذَابَ الألِيمَ } يقول: وتركنا
+  في هذه القرية التي أخرجنا من كان فيها من المؤمنين آية، وقال جلّ ثناؤه: { وَتَرَكْنا
+  فِيها آيَةً } والمعنى: وتركناها آية لأنها التي ائتفكت بأهلها، فهي الآية، وذلك كقول
+  القائل: ترى في هذا الشيء عبرة وآية ومعناها: هذا الشيء آية وعبرة، كما قال جلّ ثناؤه
+  { لَقَدْ كانَ فِي يُوسُفَ وَآخْوَتِهِ آياتٌ للسَّائِلِينَ } وهم كانوا الآيات وفعلهم،
+  ويعني بالآية: العظة والعبرة، للذين يخافون عذاب الله الأليم في الآخرة.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

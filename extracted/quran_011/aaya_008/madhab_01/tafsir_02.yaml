@@ -1,4 +1,4 @@
-location:
+position:
   sura: '011'
   aaya: 008
   madhab: '01'
@@ -10,15 +10,33 @@ meta:
 aaya: وَلَئِنْ أَخَّرْنَا عَنْهُمُ الْعَذَابَ إِلَىٰ أُمَّةٍ مَعْدُودَةٍ لَيَقُولُنَّ
   مَا يَحْبِسُهُ ۗ أَلَا يَوْمَ يَأْتِيهِمْ لَيْسَ مَصْرُوفًا عَنْهُمْ وَحَاقَ بِهِمْ
   مَا كَانُوا بِهِ يَسْتَهْزِئُونَ
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَلَئِنْ أَخَّرْنَا
-  عَنْهُمُ ٱلْعَذَابَ إِلَىٰ أُمَّةٍ مَّعْدُودَةٍ لَّيَقُولُنَّ مَا يَحْبِسُهُ أَلاَ
-  يَوْمَ يَأْتِيهِمْ لَيْسَ مَصْرُوفاً عَنْهُمْ وَحَاقَ بِهِم مَّا كَانُواْ بِهِ يَسْتَهْزِءُونَ
-  }{ ٱلْعَذَابَ } عذاب الآخرة. وقيل عذاب يوم بدر. وعن ابن عباس: قتل جبريل المستهزئين
-  { إِلَىٰ أُمَّةٍ } إلى جماعة من الأوقات { مَا يَحْبِسُهُ } ما يمنعه من النزول استعجالاً
-  له على وجه التكذيب والاستهزاء. و { يَوْمَ يَأْتِيهِمُ } منصوب بخبر ليس، ويستدل به
-  من يستجيز تقديم خبر ليس على ليس، وذلك أنه إذا جاز تقديم معمول خبرها عليها، كان ذلك
-  دليلاً على جواز تقديم خبرها؛ إذ المعمول تابع للعامل، فلا يقع إلا حيث يقع العامل
-  { وَحَاقَ بِهِم } وأحاط بهم { مَّا كَانُواْ بِهِ يَسْتَهْزِءونَ } العذاب الذي كانوا
-  به يستعجلون. وإنما وضع يستهزئون موضع يستعجلون؛ لأنّ استعجالهم كان على جهة الاستهزاء.
-  والمعنى: ويحيق بهم إلا أنه جاء على عادة الله في أخباره.\r\n\t\t\t\r\n\t\t\t</section>"
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(11, 8)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(11,8)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَلَئِنْ
+  أَخَّرْنَا عَنْهُمُ ٱلْعَذَابَ إِلَىٰ أُمَّةٍ مَّعْدُودَةٍ لَّيَقُولُنَّ مَا يَحْبِسُهُ
+  أَلاَ يَوْمَ يَأْتِيهِمْ لَيْسَ مَصْرُوفاً عَنْهُمْ وَحَاقَ بِهِم مَّا كَانُواْ
+  بِهِ يَسْتَهْزِءُونَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">{ ٱلْعَذَابَ } عذاب الآخرة. وقيل
+  عذاب يوم بدر. وعن ابن عباس: قتل جبريل المستهزئين { إِلَىٰ أُمَّةٍ } إلى جماعة من
+  الأوقات { مَا يَحْبِسُهُ } ما يمنعه من النزول استعجالاً له على وجه التكذيب والاستهزاء.
+  و { يَوْمَ يَأْتِيهِمُ } منصوب بخبر ليس، ويستدل به من يستجيز تقديم خبر ليس على ليس،
+  وذلك أنه إذا جاز تقديم معمول خبرها عليها، كان ذلك دليلاً على جواز تقديم خبرها؛ إذ
+  المعمول تابع للعامل، فلا يقع إلا حيث يقع العامل { وَحَاقَ بِهِم } وأحاط بهم { مَّا
+  كَانُواْ بِهِ يَسْتَهْزِءونَ } العذاب الذي كانوا به يستعجلون. وإنما وضع يستهزئون
+  موضع يستعجلون؛ لأنّ استعجالهم كان على جهة الاستهزاء. والمعنى: ويحيق بهم إلا أنه
+  جاء على عادة الله في أخباره.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

@@ -1,4 +1,4 @@
-location:
+position:
   sura: '026'
   aaya: '176'
   madhab: '01'
@@ -7,22 +7,56 @@ meta:
   title: تفسير جامع البيان في تفسير القرآن
   author: الطبري
   year: '310'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ كَذَّبَ أَصْحَابُ
-  لْئَيْكَةِ ٱلْمُرْسَلِينَ } * { إِذْ قَالَ لَهُمْ شُعَيْبٌ أَلاَ تَتَّقُونَ } *
-  { إِنِّي لَكُمْ رَسُولٌ أَمِينٌ } * { فَٱتَّقُواْ ٱللَّهَ وَأَطِيعُونِ }يقول تعالـى
-  ذكره: { كَذَّبَ أصَحابُ الأَيْكَةِ }. والأيكة: الشجر الـملتفّ، وهي واحدة الأيك،
-  وكلّ شجر ملتفّ فهو عند العرب أيكة ومنه قول نابغة بنـي ذبـيان:تَـجْلُو بِقادِمَتـيْ
-  حَمامَةِ أيْكَةٍ   بَرَدا أُسِفّ لِثاتُهُ بـالإثْمِدِوأصحاب الأيكة: هم أهل مَدْيَنَ
-  فـيـما ذُكر.ذكر من قال ذلك:حدثنـي علـيّ، قال: ثنا أبو صالـح، قال: ثنـي معاوية، عن
-  علـيّ، عن ابن عبـاس، قوله { كَذَّبَ أصَحابُ الأَيْكَةِ الـمُرْسَلِـينَ } يقول: أصحاب
-  الغيضة.حدثنـي مـحمد بن سعد، قال: ثنـي أبـي، قال: ثنـي عمي، قال: ثنـي أبـي، عن أبـيه،
-  عن ابن عبـاس، قوله { كَذَّبَ أصَحابُ الأَيْكَةِ الـمُرْسَلِـينَ } قال: الأيكة: مـجمع
-  الشجر.حدثنا القاسم، قال: ثنا الـحسين، قال: ثنـي حجاج، عن ابن جُرَيج، قال: قال ابن
-  عبـاس، قوله { كَذَّبَ أصَحابُ الأَيْكَةِ الـمُرْسَلِـينَ } قال: أهل مدين، والأيكة:
-  الـملتفّ من الشجر.حدثنـي يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، فـي قوله {
-  كَذَّبَ أصَحابُ الأَيْكَةِ الـمُرْسَلِـينَ } قال: الأيكة: الشجر، بعث الله شعيبـاً
-  إلـى قومه من أهل مدين، وإلـى أهل البـادية، قال: وهم أصحاب لـيكة، ولـيكة والأيكة:
-  واحد.]وقوله { إذْ قالَ لَهُمْ شُعَيْبٌ ألا تَتَّقُونَ } يقول تعالـى ذكره: قال لهم
-  شعيب: ألا تتقون عقاب الله علـى معصيتكم ربكم { إنّـي لَكُمْ } من الله { رَسُولٌ آمِينٌ
-  } علـى وحيه { فـاتَّقُوا } عقاب { اللَّهَ } علـى خلافكم أمره { وأطِيعُونِ } ترشدوا.\r\n\t\t\t\r\n\t\t\t</section>"
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(26, 176)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(26,176)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">كَذَّبَ
+  أَصْحَابُ لْئَيْكَةِ ٱلْمُرْسَلِينَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">إِذْ قَالَ لَهُمْ
+  شُعَيْبٌ أَلاَ تَتَّقُونَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">إِنِّي لَكُمْ رَسُولٌ أَمِينٌ</a> <b>} *
+  </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">فَٱتَّقُواْ
+  ٱللَّهَ وَأَطِيعُونِ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">يقول تعالـى ذكره: { كَذَّبَ أصَحابُ
+  الأَيْكَةِ }. والأيكة: الشجر الـملتفّ، وهي واحدة الأيك، وكلّ شجر ملتفّ فهو عند العرب
+  أيكة ومنه قول نابغة بنـي ذبـيان:</font></font><table class=\"TextArabic\" dir=\"rtl\"><tr
+  class=\"TextArabic\"><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">تَـجْلُو بِقادِمَتـيْ حَمامَةِ أيْكَةٍ</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">بَرَدا أُسِفّ لِثاتُهُ بـالإثْمِدِ</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">وأصحاب الأيكة: هم أهل مَدْيَنَ
+  فـيـما ذُكر.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي علـيّ، قال: ثنا أبو صالـح، قال: ثنـي معاوية، عن علـيّ، عن
+  ابن عبـاس، قوله { كَذَّبَ أصَحابُ الأَيْكَةِ الـمُرْسَلِـينَ } يقول: أصحاب الغيضة.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي مـحمد بن سعد، قال: ثنـي أبـي، قال: ثنـي عمي، قال: ثنـي أبـي،
+  عن أبـيه، عن ابن عبـاس، قوله { كَذَّبَ أصَحابُ الأَيْكَةِ الـمُرْسَلِـينَ } قال:
+  الأيكة: مـجمع الشجر.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا القاسم، قال: ثنا الـحسين،
+  قال: ثنـي حجاج، عن ابن جُرَيج، قال: قال ابن عبـاس، قوله { كَذَّبَ أصَحابُ الأَيْكَةِ
+  الـمُرْسَلِـينَ } قال: أهل مدين، والأيكة: الـملتفّ من الشجر.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، فـي قوله { كَذَّبَ
+  أصَحابُ الأَيْكَةِ الـمُرْسَلِـينَ } قال: الأيكة: الشجر، بعث الله شعيبـاً إلـى قومه
+  من أهل مدين، وإلـى أهل البـادية، قال: وهم أصحاب لـيكة، ولـيكة والأيكة: واحد.]</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقوله { إذْ قالَ لَهُمْ شُعَيْبٌ ألا تَتَّقُونَ } يقول تعالـى ذكره:
+  قال لهم شعيب: ألا تتقون عقاب الله علـى معصيتكم ربكم { إنّـي لَكُمْ } من الله { رَسُولٌ
+  آمِينٌ } علـى وحيه { فـاتَّقُوا } عقاب { اللَّهَ } علـى خلافكم أمره { وأطِيعُونِ
+  } ترشدوا.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

@@ -1,4 +1,4 @@
-location:
+position:
   sura: '015'
   aaya: '006'
   madhab: '01'
@@ -8,18 +8,44 @@ meta:
   author: الطبري
   year: '310'
 aaya: وَقَالُوا يَا أَيُّهَا الَّذِي نُزِّلَ عَلَيْهِ الذِّكْرُ إِنَّكَ لَمَجْنُونٌ
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَقَالُواْ يٰأَيُّهَا
-  ٱلَّذِي نُزِّلَ عَلَيْهِ ٱلذِّكْرُ إِنَّكَ لَمَجْنُونٌ } * { لَّوْ مَا تَأْتِينَا
-  بِٱلْمَلائِكَةِ إِن كُنتَ مِنَ ٱلصَّادِقِينَ }يقول تعالـى ذكره: وقال هؤلاء الـمشركون
-  لك من قومك يا مـحمد: { يا أيُّها الَّذِي نُزّلَ عَلَـيْهِ الذّكْرُ } وهو القرآن
-  الذي ذكر الله فـيه مواعظ خـلقه، { إنَّكَ لَـمَـجْنُونٌ } فـي دعائك إيانا إلـى أن
-  نتَّبعك ونذر آلهتنا. { لَوْما تَأْتـينا بـالـمَلائِكَةِ } قالوا: هلا تأتـينا بـالـملائكة
-  شاهدة لك علـى صدق ما تقول { إنْ كُنْتَ مِنَ الصَّادِقِـينَ } يعنـي: إن كنت صادقاً
-  فـي أن الله تعالـى بعثك إلـينا رسولاً وأنزل علـيك كتابـاً، فإن الربّ الذي فعل ما
-  تقول بك لا يتعذّر علـيه إرسال ملك من ملائكته معك حجة لك علـينا وآية لك علـى نبوّتك
-  وصدق مقالتك. والعرب تضع موضع «لوما» «لولا»، وموضع «لولا» «لوما»، من ذلك قول ابن
-  مقبل:لَوْما الـحَياءُ وَلَوْما الدّينُ عِبْتُكما   ببَعْضِ ما فـيكُما إذْ عِبْتُـما
-  عَوَرِييريد: لولا الـحياء.وبنـحو الذي قلنا فـي ذلك قال أهل التأويـل. ذكر من قال
-  ذلك:حدثنـي الـمثنى، قال: ثنا إسحاق، قال: ثنا أبو زهير، عن جويبر، عن الضحاك: { نُزّلَ
-  عَلَـيْهِ الذّكْرُ } قال: القرآن.\r\n\t\t\t\r\n\t\t\t</section>"
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(15, 6)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(15,6)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَقَالُواْ
+  يٰأَيُّهَا ٱلَّذِي نُزِّلَ عَلَيْهِ ٱلذِّكْرُ إِنَّكَ لَمَجْنُونٌ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">لَّوْ
+  مَا تَأْتِينَا بِٱلْمَلائِكَةِ إِن كُنتَ مِنَ ٱلصَّادِقِينَ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">يقول تعالـى ذكره: وقال هؤلاء الـمشركون لك من قومك يا مـحمد: { يا
+  أيُّها الَّذِي نُزّلَ عَلَـيْهِ الذّكْرُ } وهو القرآن الذي ذكر الله فـيه مواعظ خـلقه،
+  { إنَّكَ لَـمَـجْنُونٌ } فـي دعائك إيانا إلـى أن نتَّبعك ونذر آلهتنا. { لَوْما تَأْتـينا
+  بـالـمَلائِكَةِ } قالوا: هلا تأتـينا بـالـملائكة شاهدة لك علـى صدق ما تقول { إنْ
+  كُنْتَ مِنَ الصَّادِقِـينَ } يعنـي: إن كنت صادقاً فـي أن الله تعالـى بعثك إلـينا
+  رسولاً وأنزل علـيك كتابـاً، فإن الربّ الذي فعل ما تقول بك لا يتعذّر علـيه إرسال
+  ملك من ملائكته معك حجة لك علـينا وآية لك علـى نبوّتك وصدق مقالتك. والعرب تضع موضع
+  «لوما» «لولا»، وموضع «لولا» «لوما»، من ذلك قول ابن مقبل:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><table class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">لَوْما الـحَياءُ
+  وَلَوْما الدّينُ عِبْتُكما</font></font></b></td><td class=\"TextArabic\">   </td><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">ببَعْضِ
+  ما فـيكُما إذْ عِبْتُـما عَوَرِي</font></font></b></td></tr></table><font class=\"TextResultArabic\"><font
+  color=\"black\">يريد: لولا الـحياء.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وبنـحو
+  الذي قلنا فـي ذلك قال أهل التأويـل. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  الـمثنى، قال: ثنا إسحاق، قال: ثنا أبو زهير، عن جويبر، عن الضحاك: { نُزّلَ عَلَـيْهِ
+  الذّكْرُ } قال: القرآن.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

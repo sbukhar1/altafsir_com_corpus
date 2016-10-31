@@ -1,4 +1,4 @@
-location:
+position:
   sura: '002'
   aaya: '253'
   madhab: '01'
@@ -7,61 +7,131 @@ meta:
   title: تفسير جامع البيان في تفسير القرآن
   author: الطبري
   year: '310'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ تِلْكَ ٱلرُّسُلُ
-  فَضَّلْنَا بَعْضَهُمْ عَلَىٰ بَعْضٍ مِّنْهُمْ مَّن كَلَّمَ ٱللَّهُ وَرَفَعَ بَعْضَهُمْ
-  دَرَجَاتٍ وَآتَيْنَا عِيسَى ٱبْنَ مَرْيَمَ ٱلْبَيِّنَاتِ وَأَيَّدْنَاهُ بِرُوحِ
-  ٱلْقُدُسِ وَلَوْ شَآءَ ٱللَّهُ مَا ٱقْتَتَلَ ٱلَّذِينَ مِن بَعْدِهِم مِّن بَعْدِ
-  مَا جَآءَتْهُمُ ٱلْبَيِّنَاتُ وَلَـٰكِنِ ٱخْتَلَفُواْ فَمِنْهُمْ مَّنْ آمَنَ وَمِنْهُمْ
-  مَّن كَفَرَ وَلَوْ شَآءَ ٱللَّهُ مَا ٱقْتَتَلُواْ وَلَـٰكِنَّ ٱللَّهَ يَفْعَلُ مَا
-  يُرِيدُ }يعنـي تعالـى ذكره بقوله: { تِلْكَ ٱلرُّسُلُ } الذين قصّ الله قصصهم فـي
-  هذه السورة، كموسى بن عمران وإبراهيـم وإسماعيـل وإسحاق ويعقوب وشمويـل وداود، وسائر
-  من ذكر نبأهم فـي هذه السورة. يقول تعالـى ذكره: هؤلاء رسلـي فضلت بعضهم علـى بعض،
-  فكلـمت بعضهم ـ والذي كلـمته منهم موسى صلى الله عليه وسلم ـ ورفعت بعضهم درجات علـى
-  بعض بـالكرامة ورفعة الـمنزلة. كما:حدثنـي مـحمد بن عمرو، قال: ثنا أبو عاصم، قال:
-  ثنا عيسى، عن ابن أبـي نـجيح، عن مـجاهد، فـي قول الله تعالـى ذكره: { تِلْكَ ٱلرُّسُلُ
-  فَضَّلْنَا بَعْضَهُمْ عَلَىٰ بَعْضٍ } قال: يقول: منهم من كلّـم الله ورفع بعضهم علـى
-  بعض درجات. يقول: كلـم الله موسى، وأرسل مـحمدا إلـى الناس كافة.حدثنـي الـمثنى، قال:
-  ثنا أبو حذيفة، قال: ثنا شبل، عن ابن أبـي نـجيح، عن مـجاهد بنـحوه.ومـما يدل علـى
-  صحة ما قلنا فـي ذلك قول النبـيّ صلى الله عليه وسلم: \" أُعْطِيتُ خَمْساً لَـمْ يُعْطَهُنَّ
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(2, 253)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(2,253)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">تِلْكَ
+  ٱلرُّسُلُ فَضَّلْنَا بَعْضَهُمْ عَلَىٰ بَعْضٍ مِّنْهُمْ مَّن كَلَّمَ ٱللَّهُ وَرَفَعَ
+  بَعْضَهُمْ دَرَجَاتٍ وَآتَيْنَا عِيسَى ٱبْنَ مَرْيَمَ ٱلْبَيِّنَاتِ وَأَيَّدْنَاهُ
+  بِرُوحِ ٱلْقُدُسِ وَلَوْ شَآءَ ٱللَّهُ مَا ٱقْتَتَلَ ٱلَّذِينَ مِن بَعْدِهِم مِّن
+  بَعْدِ مَا جَآءَتْهُمُ ٱلْبَيِّنَاتُ وَلَـٰكِنِ ٱخْتَلَفُواْ فَمِنْهُمْ مَّنْ آمَنَ
+  وَمِنْهُمْ مَّن كَفَرَ وَلَوْ شَآءَ ٱللَّهُ مَا ٱقْتَتَلُواْ وَلَـٰكِنَّ ٱللَّهَ
+  يَفْعَلُ مَا يُرِيدُ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">يعنـي تعالـى ذكره بقوله: { تِلْكَ
+  ٱلرُّسُلُ } الذين قصّ الله قصصهم فـي هذه السورة، كموسى بن عمران وإبراهيـم وإسماعيـل
+  وإسحاق ويعقوب وشمويـل وداود، وسائر من ذكر نبأهم فـي هذه السورة. يقول تعالـى ذكره:
+  هؤلاء رسلـي فضلت بعضهم علـى بعض، فكلـمت بعضهم ـ والذي كلـمته منهم موسى صلى الله
+  عليه وسلم ـ ورفعت بعضهم درجات علـى بعض بـالكرامة ورفعة الـمنزلة. كما:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي مـحمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، عن ابن أبـي
+  نـجيح، عن مـجاهد، فـي قول الله تعالـى ذكره: { تِلْكَ ٱلرُّسُلُ فَضَّلْنَا بَعْضَهُمْ
+  عَلَىٰ بَعْضٍ } قال: يقول: منهم من كلّـم الله ورفع بعضهم علـى بعض درجات. يقول: كلـم
+  الله موسى، وأرسل مـحمدا إلـى الناس كافة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  الـمثنى، قال: ثنا أبو حذيفة، قال: ثنا شبل، عن ابن أبـي نـجيح، عن مـجاهد بنـحوه.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">ومـما يدل علـى صحة ما قلنا فـي ذلك قول النبـيّ صلى الله عليه وسلم:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" أُعْطِيتُ خَمْساً لَـمْ يُعْطَهُنَّ
   أحَدٌ قَبْلِـي: بُعِثْتُ إلـى الأحْمَرِ وَالأَسْوَدِ، وَنُصِرْتُ بـالرُّعْبِ، فإنَّ
   العَدُوَّ لَـيُرْعَبُ مِنِّـي علـى مَسِيرَةِ شَهْرٍ، وَجُعِلَتْ لِـيَ الأرْضُ مَسْجِداً
   وَطَهُوراً، وأُحِلَّتْ لِـيَ الغَنَائِمُ ولَـمْ تَـحِلَّ لأحَدٍ كانَ قَبْلِـي، وَقِـيـلَ
   لـي: سَلْ تُعْطَهْ، فـاخْتَبأتُها شَفـاعَةً لأُمَّتِـي، فَهِيَ نائِلَةٌ مِنْكُمْ
-  إنْ شاءَ اللَّهُ مَنْ لا يُشْرِكُ بـاللَّهِ شَيْئاً \". القول فـي تأويـل قوله تعالـى:
-  { وآتَيْنَا عِيسَى ابنَ مَرْيَمَ البَيِّنَاتِ وَأَيَّدْناهُ بُرُوحِ القُدُس }يعنـي
+  إنْ شاءَ اللَّهُ مَنْ لا يُشْرِكُ بـاللَّهِ شَيْئاً \". </font></font></b><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"><br/></font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">القول فـي تأويـل قوله تعالـى: { وآتَيْنَا عِيسَى ابنَ مَرْيَمَ البَيِّنَاتِ
+  وَأَيَّدْناهُ بُرُوحِ القُدُس }</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">يعنـي
   تعالـى ذكره بذلك: { وآتَيْنَا عِيسَى ابنَ مَرْيَمَ البَيِّنَاتِ } وآتـينا عيسى ابن
   مريـم الـحجج والأدلة علـى نبوّته: من إبراء الأكْمَهِ والأبرص، وإحياء الـموتـى، وما
-  أشبه ذلك، مع الإنـجيـل الذي أنزلته إلـيه، فبـينت فـيه ما فرضت علـيه.يعنـي تعالـى
-  ذكره بقوله: { وَأَيَّدْنَـٰهُ } وقوّيناه وأعنَّاه { بِرُوحِ ٱلْقُدُسِ } يعنـي بروح
-  الله، وهو جبريـل. وقد ذكرنا اختلاف أهل العلـم فـي معنى روح القدس والذي هو أولـى
-  بـالصواب من القول فـي ذلك فـيـما مضى قبل، فأغنى ذلك عن إعادته فـي هذا الـموضع.القول
-  فـي تأويـل قوله تعالـى: { وَلَوْ شَاء ٱللَّهُ مَا ٱقْتَتَلَ ٱلَّذِينَ مِن بَعْدِهِم
-  مّن بَعْدِ مَا جَاءتْهُمُ ٱلْبَيِّنَـٰتُ }.يعنـي تعالـى ذكره بذلك: ولو أراد الله
-  ما اقتتل الذين من بعدهم من بعد ما جاءتهم البـينات، يعنـي من بعد الرسل الذين وصفهم
-  بأنه فضل بعضهم علـى بعض، ورفع بعضهم درجات، وبعد عيسى ابن مريـم، وقد جاءهم من الآيات
-  بـما فـيه مُزْدَجَرٌ لـمن هداه الله ووفقه.ويعنـي بقوله: { مِن بَعْدِ مَا جَاءتْهُمُ
-  ٱلْبَيِّنَـٰتُ } يعنـي من بعد ما جاءهم من آيات الله ما أبـان لهم الـحق، وأوضح لهم
-  السبـيـل.وقد قـيـل: إن الهاء والـميـم فـي قوله: { مّن بَعْدِهِمْ } من ذكر موسى وعيسى:
-  ذكر من قال ذلك:حدثنا بشر بن معاذ، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة: { وَلَوْ
-  شَاء ٱللَّهُ مَا ٱقْتَتَلَ ٱلَّذِينَ مِن بَعْدِهِم مّن بَعْدِ مَا جَاءتْهُمُ ٱلْبَيِّنَـٰتُ
-  } يقول: من بعد موسى وعيسى.\r\n\t\t\t\r\n\t\t\t1 2 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ تِلْكَ ٱلرُّسُلُ فَضَّلْنَا بَعْضَهُمْ
-  عَلَىٰ بَعْضٍ مِّنْهُمْ مَّن كَلَّمَ ٱللَّهُ وَرَفَعَ بَعْضَهُمْ دَرَجَاتٍ وَآتَيْنَا
-  عِيسَى ٱبْنَ مَرْيَمَ ٱلْبَيِّنَاتِ وَأَيَّدْنَاهُ بِرُوحِ ٱلْقُدُسِ وَلَوْ شَآءَ
-  ٱللَّهُ مَا ٱقْتَتَلَ ٱلَّذِينَ مِن بَعْدِهِم مِّن بَعْدِ مَا جَآءَتْهُمُ ٱلْبَيِّنَاتُ
-  وَلَـٰكِنِ ٱخْتَلَفُواْ فَمِنْهُمْ مَّنْ آمَنَ وَمِنْهُمْ مَّن كَفَرَ وَلَوْ شَآءَ
-  ٱللَّهُ مَا ٱقْتَتَلُواْ وَلَـٰكِنَّ ٱللَّهَ يَفْعَلُ مَا يُرِيدُ }حدثت عن عمار،
-  قال: ثنا ابن أبـي جعفر، عن أبـيه، عن الربـيع قوله: { وَلَوْ شَاء ٱللَّهُ مَا ٱقْتَتَلَ
-  ٱلَّذِينَ مِن بَعْدِهِم مّن بَعْدِ مَا جَاءتْهُمُ ٱلْبَيِّنَـٰتُ } يقول: من بعد
-  موسى وعيسى.القول فـي تأويـل قوله تعالـى: { وَلَـٰكِنِ ٱخْتَلَفُواْ فَمِنْهُمْ مَّنْ
-  ءامَنَ وَمِنْهُم مَّن كَفَرَ وَلَوْ شَاء ٱللَّهُ مَا ٱقْتَتَلُواْ وَلَـٰكِنَّ ٱللَّهَ
-  يَفْعَلُ مَا يُرِيدُ }.يعنـي تعالـى ذكره بذلك: ولكن اختلف هؤلاء الذين من بعد الرسل
-  لـما لـم يشأ الله منهم تعالـى ذكره أن لا يقتتلوا، فـاقتتلوا من بعد ما جاءتهم البـينات
+  أشبه ذلك، مع الإنـجيـل الذي أنزلته إلـيه، فبـينت فـيه ما فرضت علـيه.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">يعنـي تعالـى ذكره بقوله: { وَأَيَّدْنَـٰهُ } وقوّيناه وأعنَّاه {
+  بِرُوحِ ٱلْقُدُسِ } يعنـي بروح الله، وهو جبريـل. وقد ذكرنا اختلاف أهل العلـم فـي
+  معنى روح القدس والذي هو أولـى بـالصواب من القول فـي ذلك فـيـما مضى قبل، فأغنى ذلك
+  عن إعادته فـي هذا الـموضع.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">القول فـي تأويـل قوله تعالـى: {
+  وَلَوْ شَاء ٱللَّهُ مَا ٱقْتَتَلَ ٱلَّذِينَ مِن بَعْدِهِم مّن بَعْدِ مَا جَاءتْهُمُ
+  ٱلْبَيِّنَـٰتُ }.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">يعنـي تعالـى ذكره بذلك: ولو أراد
+  الله ما اقتتل الذين من بعدهم من بعد ما جاءتهم البـينات، يعنـي من بعد الرسل الذين
+  وصفهم بأنه فضل بعضهم علـى بعض، ورفع بعضهم درجات، وبعد عيسى ابن مريـم، وقد جاءهم
+  من الآيات بـما فـيه مُزْدَجَرٌ لـمن هداه الله ووفقه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">ويعنـي
+  بقوله: { مِن بَعْدِ مَا جَاءتْهُمُ ٱلْبَيِّنَـٰتُ } يعنـي من بعد ما جاءهم من آيات
+  الله ما أبـان لهم الـحق، وأوضح لهم السبـيـل.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقد
+  قـيـل: إن الهاء والـميـم فـي قوله: { مّن بَعْدِهِمْ } من ذكر موسى وعيسى: ذكر من
+  قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا بشر بن معاذ، قال: ثنا يزيد،
+  قال: ثنا سعيد، عن قتادة: { وَلَوْ شَاء ٱللَّهُ مَا ٱقْتَتَلَ ٱلَّذِينَ مِن بَعْدِهِم
+  مّن بَعْدِ مَا جَاءتْهُمُ ٱلْبَيِّنَـٰتُ } يقول: من بعد موسى وعيسى.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2, 253)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,253)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">تِلْكَ ٱلرُّسُلُ فَضَّلْنَا بَعْضَهُمْ عَلَىٰ بَعْضٍ
+  مِّنْهُمْ مَّن كَلَّمَ ٱللَّهُ وَرَفَعَ بَعْضَهُمْ دَرَجَاتٍ وَآتَيْنَا عِيسَى ٱبْنَ
+  مَرْيَمَ ٱلْبَيِّنَاتِ وَأَيَّدْنَاهُ بِرُوحِ ٱلْقُدُسِ وَلَوْ شَآءَ ٱللَّهُ مَا
+  ٱقْتَتَلَ ٱلَّذِينَ مِن بَعْدِهِم مِّن بَعْدِ مَا جَآءَتْهُمُ ٱلْبَيِّنَاتُ وَلَـٰكِنِ
+  ٱخْتَلَفُواْ فَمِنْهُمْ مَّنْ آمَنَ وَمِنْهُمْ مَّن كَفَرَ وَلَوْ شَآءَ ٱللَّهُ
+  مَا ٱقْتَتَلُواْ وَلَـٰكِنَّ ٱللَّهَ يَفْعَلُ مَا يُرِيدُ</a> <b>}</b></font>, <br/>,
+  <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">حدثت
+  عن عمار، قال: ثنا ابن أبـي جعفر، عن أبـيه، عن الربـيع قوله: { وَلَوْ شَاء ٱللَّهُ
+  مَا ٱقْتَتَلَ ٱلَّذِينَ مِن بَعْدِهِم مّن بَعْدِ مَا جَاءتْهُمُ ٱلْبَيِّنَـٰتُ }
+  يقول: من بعد موسى وعيسى.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">القول فـي تأويـل قوله تعالـى: {
+  وَلَـٰكِنِ ٱخْتَلَفُواْ فَمِنْهُمْ مَّنْ ءامَنَ وَمِنْهُم مَّن كَفَرَ وَلَوْ شَاء
+  ٱللَّهُ مَا ٱقْتَتَلُواْ وَلَـٰكِنَّ ٱللَّهَ يَفْعَلُ مَا يُرِيدُ }.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">يعنـي تعالـى ذكره بذلك: ولكن اختلف هؤلاء الذين من بعد الرسل لـما
+  لـم يشأ الله منهم تعالـى ذكره أن لا يقتتلوا، فـاقتتلوا من بعد ما جاءتهم البـينات
   من عند ربهم بتـحريـم الاقتتال والاختلاف، وبعد ثبوت الـحجة علـيهم بوحدانـية الله
   ورسالة رسله ووحي كتابه، فكفر بـالله وبآياته بعضهم، وآمن بذلك بعضهم. فأخبر تعالـى
   ذكره: أنهم أتوا ما أتوا من الكفر والـمعاصي بعد علـمهم بقـيام الـحجة علـيهم بأنهم
   علـى خطأ، تعمدا منهم للكفر بـالله وآياته. ثم قال تعالـى ذكره لعبـاده: { وَلَوْ شَاء
   ٱللَّهُ مَا ٱقْتَتَلُواْ } يقول: ولو أراد الله أن يحجزهم بعصمته وتوفـيقه إياهم عن
   معصيته فلا يقتتلوا ما اقتتلوا ولا اختلفوا، { وَلَـٰكِنَّ ٱللَّهَ يَفْعَلُ مَا يُرِيدُ
-  } بأن يوفق هذا لطاعته والإيـمان به فـيؤمن به ويطيعه، ويخذل هذا فـيكفر به ويعصيه.\r\n\t\t\t\r\n\t\t\t1 2 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  } بأن يوفق هذا لطاعته والإيـمان به فـيؤمن به ويطيعه، ويخذل هذا فـيكفر به ويعصيه.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section>"
 

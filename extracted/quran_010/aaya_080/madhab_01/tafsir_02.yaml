@@ -1,4 +1,4 @@
-location:
+position:
   sura: '010'
   aaya: 080
   madhab: '01'
@@ -8,17 +8,38 @@ meta:
   author: الزمخشري
   year: '538'
 aaya: فَلَمَّا جَاءَ السَّحَرَةُ قَالَ لَهُمْ مُوسَىٰ أَلْقُوا مَا أَنْتُمْ مُلْقُونَ
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَقَالَ فِرْعَوْنُ
-  ٱئْتُونِي بِكُلِّ سَاحِرٍ عَلِيمٍ } * { فَلَمَّا جَآءَ ٱلسَّحَرَةُ قَالَ لَهُمْ
-  مُّوسَىٰ أَلْقُواْ مَآ أَنتُمْ مُّلْقُونَ } * { فَلَمَّآ أَلْقَواْ قَالَ مُوسَىٰ
-  مَا جِئْتُمْ بِهِ ٱلسِّحْرُ إِنَّ ٱللَّهَ سَيُبْطِلُهُ إِنَّ ٱللَّهَ لاَ يُصْلِحُ
-  عَمَلَ ٱلْمُفْسِدِينَ } * { وَيُحِقُّ ٱللَّهُ ٱلْحَقَّ بِكَلِمَاتِهِ وَلَوْ كَرِهَ
-  ٱلْمُجْرِمُونَ }{ مَا جِئْتُمْ بِهِ } ما موصولة واقعة مبتدأ. و { ٱلسِّحْرُ } خبر،
-  أي الذي جئتم به هو السحر لا الذي سماه فرعون وقومه سحراً من آيات الله. وقرىء: «آلسحر»
-  على الاستفهام. فعلى هذه القراءة «ما» استفهامية، أي: أيّ شيء جئتم به، أهو السحر؟
-  وقرأ عبد الله: «ما جئتم به سحر» وقرأ أبيّ: «ما أتيتم به سحر». والمعنى: لا ما أتيت
-  به { إِنَّ ٱللَّهَ سَيُبْطِلُهُ } سيمحقه أو يظهر بطلانه بإظهار المعجزة على الشعوذة
-  { لاَ يُصْلِحُ عَمَلَ ٱلْمُفْسِدِينَ } لا يثبته ولا يديمه، ولكن يسلط عليه الدمار
-  { وَيُحِقُّ ٱللَّهُ ٱلْحَقَّ } ويثبته { بِكَلِمَـٰتِهِ } بأوامره وقضاياه. وقرىء:
-  «بكلمته» بأمره ومشيئته.\r\n\t\t\t\r\n\t\t\t</section>"
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(10, 79)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(10,79)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَقَالَ
+  فِرْعَوْنُ ٱئْتُونِي بِكُلِّ سَاحِرٍ عَلِيمٍ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">فَلَمَّا جَآءَ ٱلسَّحَرَةُ
+  قَالَ لَهُمْ مُّوسَىٰ أَلْقُواْ مَآ أَنتُمْ مُّلْقُونَ</a> <b>} * </b><b>{</b> <a
+  class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">فَلَمَّآ
+  أَلْقَواْ قَالَ مُوسَىٰ مَا جِئْتُمْ بِهِ ٱلسِّحْرُ إِنَّ ٱللَّهَ سَيُبْطِلُهُ إِنَّ
+  ٱللَّهَ لاَ يُصْلِحُ عَمَلَ ٱلْمُفْسِدِينَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَيُحِقُّ ٱللَّهُ
+  ٱلْحَقَّ بِكَلِمَاتِهِ وَلَوْ كَرِهَ ٱلْمُجْرِمُونَ</a> <b>}</b></font>, <br/>,
+  <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">{
+  مَا جِئْتُمْ بِهِ } ما موصولة واقعة مبتدأ. و { ٱلسِّحْرُ } خبر، أي الذي جئتم به
+  هو السحر لا الذي سماه فرعون وقومه سحراً من آيات الله. وقرىء: «آلسحر» على الاستفهام.
+  فعلى هذه القراءة «ما» استفهامية، أي: أيّ شيء جئتم به، أهو السحر؟ وقرأ عبد الله:
+  «ما جئتم به سحر» وقرأ أبيّ: «ما أتيتم به سحر». والمعنى: لا ما أتيت به { إِنَّ ٱللَّهَ
+  سَيُبْطِلُهُ } سيمحقه أو يظهر بطلانه بإظهار المعجزة على الشعوذة { لاَ يُصْلِحُ عَمَلَ
+  ٱلْمُفْسِدِينَ } لا يثبته ولا يديمه، ولكن يسلط عليه الدمار { وَيُحِقُّ ٱللَّهُ ٱلْحَقَّ
+  } ويثبته { بِكَلِمَـٰتِهِ } بأوامره وقضاياه. وقرىء: «بكلمته» بأمره ومشيئته.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

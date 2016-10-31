@@ -1,4 +1,4 @@
-location:
+position:
   sura: '003'
   aaya: '077'
   madhab: '01'
@@ -7,90 +7,205 @@ meta:
   title: تفسير جامع البيان في تفسير القرآن
   author: الطبري
   year: '310'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ إِنَّ ٱلَّذِينَ
-  يَشْتَرُونَ بِعَهْدِ ٱللَّهِ وَأَيْمَانِهِمْ ثَمَناً قَلِيلاً أُوْلَـٰئِكَ لاَ خَلاَقَ
-  لَهُمْ فِي ٱلآخِرَةِ وَلاَ يُكَلِّمُهُمُ ٱللَّهُ وَلاَ يَنظُرُ إِلَيْهِمْ يَوْمَ
-  ٱلْقِيَامَةِ وَلاَ يُزَكِّيهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌ }يعنـي بذلك جلّ ثناؤه:
-  إن الذين يستبدلون بتركهم عهد الله الذي عهد إلـيهم، ووصيته التـي أوصاهم بها فـي الكتب
-  التـي أنزلها الله إلـى أنبـيائه بـاتبـاع مـحمد وتصديقه، والإقرار به، وما جاء به
-  من عند الله وبأيـمانهم الكاذبة التـي يستـحلون بها ما حرّم الله علـيهم من أموال الناس
-  التـي اؤتـمنوا علـيها ثمناً، يعنـي عوضاً وبدلاً خسيساً من عرض الدنـيا وحطامها. {
-  أُوْلَـئِكَ لاَ خَلَـٰقَ لَهُمْ فِى ٱلاْخِرَةِ } يقول: فإن الذين يفعلون ذلك لا حظّ
-  لهم فـي خيرات الآخرة، ولا نصيب لهم من نعيـم الـجنة، وما أعدّ الله لأهلها فـيها.
-  دون غيرهم.وقد بـينا اختلاف أهل التأويـل فـيـما مضى فـي معنى الـخلاق، ودللنا علـى
-  أولـى أقوالهم فـي ذلك بـالصواب بـما فـيه الكفـاية.وأما قوله: { وَلاَ يُكَلّمُهُمُ
-  ٱللَّهُ } فإنه يعنـي: ولا يكلـمهم الله بـما يسرّهم ولا ينظر إلـيهم، يقول: ولا يعطف
-  علـيهم بخير مقتاً من الله لهم كقول القائل لآخر: انظر إلـيّ نظر الله إلـيك، بـمعنى:تعطف
-  علـيّ تعطف الله علـيك بخير ورحمة، وكما يقال للرجل: لا سمع الله لك دعاءك، يراد: لا
-  استـجاب الله لك، والله لا يخفـى علـيه خافـية، وكما قال الشاعر:دَعَوْتُ اللَّهَ حتـى
-  خِفْتُ أنْ لا   يَكُونَ اللَّهُ يَسْمَعُ ما أقُولُوقوله { وَلاَ يُزَكّيهِمْ } يعنـي:
-  ولا يطهرهم من دنس ذنوبهم وكفرهم، { وَلَهُمْ عَذَابٌ أَلِيمٌ } يعنـي: ولهم عذاب موجع.واختلف
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(3, 77)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(3,77)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">إِنَّ
+  ٱلَّذِينَ يَشْتَرُونَ بِعَهْدِ ٱللَّهِ وَأَيْمَانِهِمْ ثَمَناً قَلِيلاً أُوْلَـٰئِكَ
+  لاَ خَلاَقَ لَهُمْ فِي ٱلآخِرَةِ وَلاَ يُكَلِّمُهُمُ ٱللَّهُ وَلاَ يَنظُرُ إِلَيْهِمْ
+  يَوْمَ ٱلْقِيَامَةِ وَلاَ يُزَكِّيهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">يعنـي بذلك جلّ ثناؤه: إن الذين يستبدلون بتركهم عهد الله الذي عهد
+  إلـيهم، ووصيته التـي أوصاهم بها فـي الكتب التـي أنزلها الله إلـى أنبـيائه بـاتبـاع
+  مـحمد وتصديقه، والإقرار به، وما جاء به من عند الله وبأيـمانهم الكاذبة التـي يستـحلون
+  بها ما حرّم الله علـيهم من أموال الناس التـي اؤتـمنوا علـيها ثمناً، يعنـي عوضاً
+  وبدلاً خسيساً من عرض الدنـيا وحطامها. { أُوْلَـئِكَ لاَ خَلَـٰقَ لَهُمْ فِى ٱلاْخِرَةِ
+  } يقول: فإن الذين يفعلون ذلك لا حظّ لهم فـي خيرات الآخرة، ولا نصيب لهم من نعيـم
+  الـجنة، وما أعدّ الله لأهلها فـيها. دون غيرهم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقد
+  بـينا اختلاف أهل التأويـل فـيـما مضى فـي معنى الـخلاق، ودللنا علـى أولـى أقوالهم
+  فـي ذلك بـالصواب بـما فـيه الكفـاية.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وأما
+  قوله: { وَلاَ يُكَلّمُهُمُ ٱللَّهُ } فإنه يعنـي: ولا يكلـمهم الله بـما يسرّهم ولا
+  ينظر إلـيهم، يقول: ولا يعطف علـيهم بخير مقتاً من الله لهم كقول القائل لآخر: انظر
+  إلـيّ نظر الله إلـيك، بـمعنى:تعطف علـيّ تعطف الله علـيك بخير ورحمة، وكما يقال للرجل:
+  لا سمع الله لك دعاءك، يراد: لا استـجاب الله لك، والله لا يخفـى علـيه خافـية، وكما
+  قال الشاعر:</font></font><table class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">دَعَوْتُ
+  اللَّهَ حتـى خِفْتُ أنْ لا</font></font></b></td><td class=\"TextArabic\">   </td><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">يَكُونَ
+  اللَّهُ يَسْمَعُ ما أقُولُ</font></font></b></td></tr></table><font class=\"TextResultArabic\"><font
+  color=\"black\">وقوله { وَلاَ يُزَكّيهِمْ } يعنـي: ولا يطهرهم من دنس ذنوبهم وكفرهم،
+  { وَلَهُمْ عَذَابٌ أَلِيمٌ } يعنـي: ولهم عذاب موجع.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">واختلف
   أهل التأويـل فـي السبب الذي من أجله أنزلت هذه الآية، ومن عنـي بها؟ فقال بعضهم: نزلت
-  فـي أحبـار من أحبـار الـيهود. ذكر من قال ذلك:حدثنا القاسم، قال: ثنا الـحسين، قال:
-  ثنـي حجاج، عن ابن جريج، عن عكرمة، قال: نزلت هذه الآية: { إِنَّ ٱلَّذِينَ يَشْتَرُونَ
-  بِعَهْدِ ٱللَّهِ وَأَيْمَـٰنِهِمْ ثَمَنًا قَلِيًلا } فـي أبـي رافع وكنانة بن أبـي
-  الـحقـيق وكعب بن الأشرف وحيـي بن أخطب.وقال آخرون: بل نزلت فـي الأشعث بن قـيس وخصم
-  له. ذكر من قال ذلك:حدثنـي أبو السائب سلـم بن جنادة، قال: ثنا أبو معاوية، عن الأعمش،
-  عن أبـي وائل، عن عبد الله، قال: قال رسول الله صلى الله عليه وسلم: \" مَنْ حَلَفَ
-  عَلَـى يَـمِينٍ هُوَ فِـيها فـاجِرٌ لِـيَقْتَطِعَ بِها مالَ امْرِىءٍ مُسْلِـمٍ،
-  لَقِـيَ اللَّهَ وَهُوَ عَلَـيْهِ غَضْبـانُ \" فقال الأشعث بن قـيس: فـيّ والله كان
-  ذلك، كان بيني وبـين رجل من اليهود أرض، فجحدني، فقدمته إلى النبيّ صلى الله عليه وسلم،
-  فقال لي رسول الله صلى الله عليه وسلم: \" { «ألَكَ بَيِّنَةً»؟ } قلت: لا، فقال للـيهوديّ:
-  «احْلِفْ»! } قلت: يا رسول الله إذَنْ يحلف فـيذهب مالـي، فأنزل الله عزّ وجلّ: { إِنَّ
-  ٱلَّذِينَ يَشْتَرُونَ بِعَهْدِ ٱللَّهِ وَأَيْمَـٰنِهِمْ ثَمَنًا قَلِيًلا } \" \r\n\t\t\t\r\n\t\t\t1 2 3 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ إِنَّ ٱلَّذِينَ يَشْتَرُونَ بِعَهْدِ
-  ٱللَّهِ وَأَيْمَانِهِمْ ثَمَناً قَلِيلاً أُوْلَـٰئِكَ لاَ خَلاَقَ لَهُمْ فِي ٱلآخِرَةِ
-  وَلاَ يُكَلِّمُهُمُ ٱللَّهُ وَلاَ يَنظُرُ إِلَيْهِمْ يَوْمَ ٱلْقِيَامَةِ وَلاَ يُزَكِّيهِمْ
-  وَلَهُمْ عَذَابٌ أَلِيمٌ }  الآية.حدثنا مـجاهد بن موسى قال: ثنا يزيد بن هارون، قال:
-  أخبرنا جرير بن حازم عن عديّ بن عديّ، عن رجاء بن حيوة والعُرْس، أنهما حدثاه، عن أبيه
-  عديّ بن عميرة، قال: كان بـين امرىء القيس ورجل من حضرموت خصومة، فـارتفعا إلى النبيّ
-  صلى الله عليه وسلم، فقال للـحضرمي: \" بَـيِّنَتَكَ وَإلاَّ فَـيَـمِينُه! \" قال:
-  يا رسول الله إن حلف ذهب بأرضي، فقال رسول الله صلى الله عليه وسلم: \" مَنْ حَلَفَ
-  عَلـى يَـمِينٍ كَاذِبَةٍ لـيَقْتَطِعَ بِها حَقَّ أخِيهِ لَقِـيَ اللَّهَ وَهُوَ عَلَـيْهِ
-  غَضْبـان \" فقال امرؤ القـيس: يا رسول الله، فما لـمن تركها وهو يعلـم أنها حقّ؟ قال:
-  «الـجنّة»، قال: فإني أشهدك أنـي قد تركتها. قال جرير: فكنت مع أيوب السختـيانـي حين
-  سمعنا هذا الحديث من عديّ، فقال أيوب: إنَّ عدياً قال في حديث العرس بن عميرة: فنزلت
-  هذه الآية: { إِنَّ ٱلَّذِينَ يَشْتَرُونَ بِعَهْدِ ٱللَّهِ وَأَيْمَـٰنِهِمْ ثَمَنًا
-  قَلِيًلا }... إلى آخر الآية، قال جرير: ولم أحفظ يومئذ من عديّ.حدثنا القاسم، قال:
-  ثنا الحسين، قال: ثني حجاج، عن ابن جريج قال: قال آخرون: إن الأشعث بن قـيس اختصم هو
-  ورجل إلى رسول الله صلى الله عليه وسلم فـي أرض كانت فـي يده لذلك الرجل أخذها لتعزّزه
-  فـي الـجاهلية، فقال النبـيّ صلى الله عليه وسلم: \" أقِمْ بَـيِّنَتَك \" قال الرجل:
-  لـيس يشهد لـي أحد علـى الأشعث. قال: \" فَلَكَ يَـمِينُهُ \" فقام الأشعث لـيحلف،
-  فأنزل الله عزّ وجلّ هذه الآية، فنكل الأشعث وقال: إنـي أشهد الله وأشهدكم أن خصمي
-  صادق. فردّ إلـيه أرضه، وزاده من أرض نفسه زيادة كثـيرة، مخافة أن يبقـى فـي يده شيء
-  من حقه، فهي لعقب ذلك الرجل بعده.حدثنا ابن حميد، قال: ثنا جرير، عن منصور، عن شقـيق،
-  عن عبد الله، قال: من حلف علـى يـمين يستـحقّ بها مالاً هو فـيها فـاجر لقـي الله وهو
-  علـيه غضبـان، ثم أنزل الله تصديق ذلك: { إِنَّ ٱلَّذِينَ يَشْتَرُونَ بِعَهْدِ ٱللَّهِ
-  وَأَيْمَـٰنِهِمْ ثَمَنًا قَلِيلاً } الآية... ثم إن الأشعث بن قـيس خرج إلـينا، فقال:
-  ما حدثكم أبو عبد الرحمن؟ فحدثناه بـما قال، فقال: صدق لفـيّ أنزلت، كانت بـينـي وبـين
-  رجل خصومة فـي بئر، فـاختصمنا إلـى النبـيّ صلى الله عليه وسلم، فقال النبـيّ صلى الله
-  عليه وسلم: \" شاهِدَاكَ أوْ يَـمِينُه \" فقلت: إذاً يحلف ولا يبـالـي. فقال النبـيّ
-  صلى الله عليه وسلم: \" مَنْ حَلَفَ عَلَـى يَـمِينٍ يَسْتَـحِقُّ بِها مالاً هُوَ
-  فِـيها فـاجِرٌ لَقِـيَ اللَّهَ وَهُوَ عَلَـيْهِ غَضْبـانُ \" ، ثم أنزل الله عزّ
-  وجلّ تصديق ذلك: «إنَّ الَّذِينَ يَشْتَرُونَ بِعَهْدِ اللَّهِ وأيْـمانِهِمْ ثَمَنا
-  قَلِـيلاً }... الآية.وقال آخرون بـما:حدثنا به مـحمد بن الـمثنى، قال: ثنا عبد الوهاب،
-  قال: أخبرنـي داود بن أبـي هند، عن عامر: أن رجلاً أقام سلعته أوّل النهار، فلـما كان
-  آخره جاء رجل يساومه، فحلف لقد منعها أوّل النهار من كذا وكذا، ولولا الـمساء ما بـاعها
-  به، فأنزل الله عزّ وجلّ: { إِنَّ ٱلَّذِى يَشْتَرُونَ بِعَهْدِ ٱللَّهِ وَأَيْمَـٰنِهِمْ
-  ثَمَنًا قَلِيلاً }.\r\n\t\t\t\r\n\t\t\t1 2 3 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ إِنَّ ٱلَّذِينَ يَشْتَرُونَ بِعَهْدِ
-  ٱللَّهِ وَأَيْمَانِهِمْ ثَمَناً قَلِيلاً أُوْلَـٰئِكَ لاَ خَلاَقَ لَهُمْ فِي ٱلآخِرَةِ
-  وَلاَ يُكَلِّمُهُمُ ٱللَّهُ وَلاَ يَنظُرُ إِلَيْهِمْ يَوْمَ ٱلْقِيَامَةِ وَلاَ يُزَكِّيهِمْ
-  وَلَهُمْ عَذَابٌ أَلِيمٌ }حدثنا ابن الـمثنى، قال: ثنا عبد الأعلـى، قال: ثنا داود،
-  عن رجل، عن مـجاهد، نـحوه.حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة: { إِنَّ
-  ٱلَّذِينَ يَشْتَرُونَ بِعَهْدِ ٱللَّهِ وَأَيْمَـٰنِهِمْ ثَمَنًا قَلِيلاً }... الآية،
-  إلـى: { وَلَهُمْ عَذَابٌ أَلِيمٌ } أنزلهم الله بـمنزلة السحرة.حدثنا بشر، قال: ثنا
-  يزيد، قال: ثنا سعيد، عن قتادة أن عمران بن حصين كان يقول: من حلف علـى يـمين فـاجرة
-  يقتطع بها مال أخيه فلـيتبوأ مقعده من النار، فقال له قائل: شيء سمعته من رسول الله
-  صلى الله عليه وسلم؟ قال لهم: إنكم لتـجدون ذلك، ثم قرأ هذه الآية: { إِنَّ ٱلَّذِينَ
-  يَشْتَرُونَ بِعَهْدِ ٱللَّهِ وَأَيْمَـٰنِهِمْ ثَمَنًا قَلِيلاً }... الآية.حدثنـي
-  موسى بن عبد الرحمن الـمسروقـي، قال: ثنا حسين بن علـيّ، عن زائدة، عن هشام، قال: قال
-  مـحمد عن عمران بن حصين: من حلف علـى يـمين مصبورة فلـيتبوأ بوجهه مقعده من النار،
-  ثم قرأ هذه الآية كلها: { إِنَّ ٱلَّذِينَ يَشْتَرُونَ بِعَهْدِ ٱللَّهِ وَأَيْمَـٰنِهِمْ
-  ثَمَنًا قَلِيلاً }.حدثنا ابن حميد، قال: ثنا ابن الـمبـارك، عن معمر، عن الزهري، عن
-  سعيد بن الـمسيب، قال: إن الـيـمين الفـاجرة من الكبـائر، ثم تلا: { إِنَّ ٱلَّذِينَ
-  يَشْتَرُونَ بِعَهْدِ ٱللَّهِ وَأَيْمَـٰنِهِمْ ثَمَنًا قَلِيلاً }.حدثنا بشر، قال:
-  ثنا يزيد، قال: ثنا سعيد، عن قتادة، أن عبد الله بن مسعود، كان يقول: كنا نرى ونـحن
-  مع رسول الله صلى الله عليه وسلم أن من الذنب الذي لا يغفر يـمين الصبر إذا فجر فـيها
-  صاحبها.\r\n\t\t\t\r\n\t\t\t1 2 3 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  فـي أحبـار من أحبـار الـيهود. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  القاسم، قال: ثنا الـحسين، قال: ثنـي حجاج، عن ابن جريج، عن عكرمة، قال: نزلت هذه الآية:
+  { إِنَّ ٱلَّذِينَ يَشْتَرُونَ بِعَهْدِ ٱللَّهِ وَأَيْمَـٰنِهِمْ ثَمَنًا قَلِيًلا
+  } فـي أبـي رافع وكنانة بن أبـي الـحقـيق وكعب بن الأشرف وحيـي بن أخطب.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال آخرون: بل نزلت فـي الأشعث بن قـيس وخصم له. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي أبو السائب سلـم بن جنادة، قال: ثنا أبو معاوية، عن الأعمش،
+  عن أبـي وائل، عن عبد الله، قال: قال رسول الله صلى الله عليه وسلم:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" مَنْ حَلَفَ عَلَـى يَـمِينٍ هُوَ
+  فِـيها فـاجِرٌ لِـيَقْتَطِعَ بِها مالَ امْرِىءٍ مُسْلِـمٍ، لَقِـيَ اللَّهَ وَهُوَ
+  عَلَـيْهِ غَضْبـانُ \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">فقال الأشعث بن قـيس: فـيّ والله كان ذلك، كان بيني وبـين رجل من اليهود
+  أرض، فجحدني، فقدمته إلى النبيّ صلى الله عليه وسلم، فقال لي رسول الله صلى الله عليه
+  وسلم:</font></font><b><font class=\"TextResultArabic\"><font color=\"Red\"> \" {
+  «ألَكَ بَيِّنَةً»؟ } قلت: لا، فقال للـيهوديّ: «احْلِفْ»! } قلت: يا رسول الله إذَنْ
+  يحلف فـيذهب مالـي، فأنزل الله عزّ وجلّ: { إِنَّ ٱلَّذِينَ يَشْتَرُونَ بِعَهْدِ ٱللَّهِ
+  وَأَيْمَـٰنِهِمْ ثَمَنًا قَلِيًلا } \" </font></font></b>&#13;\t\t\t<label disabled=\"true\"
+  class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(3, 77)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(3,77)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">إِنَّ ٱلَّذِينَ يَشْتَرُونَ بِعَهْدِ ٱللَّهِ وَأَيْمَانِهِمْ
+  ثَمَناً قَلِيلاً أُوْلَـٰئِكَ لاَ خَلاَقَ لَهُمْ فِي ٱلآخِرَةِ وَلاَ يُكَلِّمُهُمُ
+  ٱللَّهُ وَلاَ يَنظُرُ إِلَيْهِمْ يَوْمَ ٱلْقِيَامَةِ وَلاَ يُزَكِّيهِمْ وَلَهُمْ
+  عَذَابٌ أَلِيمٌ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><b><font
+  class=\"TextResultArabic\"><font color=\"Red\">  </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">الآية.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا مـجاهد بن موسى قال: ثنا يزيد
+  بن هارون، قال: أخبرنا جرير بن حازم عن عديّ بن عديّ، عن رجاء بن حيوة والعُرْس، أنهما
+  حدثاه، عن أبيه عديّ بن عميرة، قال: كان بـين امرىء القيس ورجل من حضرموت خصومة، فـارتفعا
+  إلى النبيّ صلى الله عليه وسلم، فقال للـحضرمي:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" بَـيِّنَتَكَ وَإلاَّ فَـيَـمِينُه! \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\">قال: يا رسول الله إن حلف ذهب بأرضي،
+  فقال رسول الله صلى الله عليه وسلم:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" مَنْ حَلَفَ عَلـى يَـمِينٍ كَاذِبَةٍ لـيَقْتَطِعَ بِها حَقَّ أخِيهِ
+  لَقِـيَ اللَّهَ وَهُوَ عَلَـيْهِ غَضْبـان \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">فقال امرؤ القـيس: يا رسول الله، فما لـمن تركها وهو يعلـم أنها حقّ؟
+  قال: «الـجنّة»، قال: فإني أشهدك أنـي قد تركتها. قال جرير: فكنت مع أيوب السختـيانـي
+  حين سمعنا هذا الحديث من عديّ، فقال أيوب: إنَّ عدياً قال في حديث العرس بن عميرة:
+  فنزلت هذه الآية: { إِنَّ ٱلَّذِينَ يَشْتَرُونَ بِعَهْدِ ٱللَّهِ وَأَيْمَـٰنِهِمْ
+  ثَمَنًا قَلِيًلا }... إلى آخر الآية، قال جرير: ولم أحفظ يومئذ من عديّ.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن ابن جريج قال: قال
+  آخرون: إن الأشعث بن قـيس اختصم هو ورجل إلى رسول الله صلى الله عليه وسلم فـي أرض
+  كانت فـي يده لذلك الرجل أخذها لتعزّزه فـي الـجاهلية، فقال النبـيّ صلى الله عليه
+  وسلم:</font></font><b><font class=\"TextResultArabic\"><font color=\"Red\"> \" أقِمْ
+  بَـيِّنَتَك \" </font></font></b><font class=\"TextResultArabic\"><font color=\"black\">قال
+  الرجل: لـيس يشهد لـي أحد علـى الأشعث. قال:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" فَلَكَ يَـمِينُهُ \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">فقام الأشعث لـيحلف، فأنزل الله عزّ وجلّ هذه الآية، فنكل الأشعث وقال:
+  إنـي أشهد الله وأشهدكم أن خصمي صادق. فردّ إلـيه أرضه، وزاده من أرض نفسه زيادة كثـيرة،
+  مخافة أن يبقـى فـي يده شيء من حقه، فهي لعقب ذلك الرجل بعده.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن حميد، قال: ثنا جرير، عن منصور، عن شقـيق، عن عبد الله، قال: من حلف علـى يـمين
+  يستـحقّ بها مالاً هو فـيها فـاجر لقـي الله وهو علـيه غضبـان، ثم أنزل الله تصديق
+  ذلك: { إِنَّ ٱلَّذِينَ يَشْتَرُونَ بِعَهْدِ ٱللَّهِ وَأَيْمَـٰنِهِمْ ثَمَنًا قَلِيلاً
+  } الآية... ثم إن الأشعث بن قـيس خرج إلـينا، فقال: ما حدثكم أبو عبد الرحمن؟ فحدثناه
+  بـما قال، فقال: صدق لفـيّ أنزلت، كانت بـينـي وبـين رجل خصومة فـي بئر، فـاختصمنا
+  إلـى النبـيّ صلى الله عليه وسلم، فقال النبـيّ صلى الله عليه وسلم:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" شاهِدَاكَ أوْ يَـمِينُه \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\">فقلت: إذاً يحلف ولا يبـالـي. فقال
+  النبـيّ صلى الله عليه وسلم:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" مَنْ حَلَفَ عَلَـى يَـمِينٍ يَسْتَـحِقُّ بِها مالاً هُوَ فِـيها
+  فـاجِرٌ لَقِـيَ اللَّهَ وَهُوَ عَلَـيْهِ غَضْبـانُ \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">، ثم أنزل الله عزّ وجلّ تصديق ذلك: «إنَّ الَّذِينَ يَشْتَرُونَ بِعَهْدِ
+  اللَّهِ وأيْـمانِهِمْ ثَمَنا قَلِـيلاً }... الآية.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  آخرون بـما:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا به مـحمد بن الـمثنى، قال:
+  ثنا عبد الوهاب، قال: أخبرنـي داود بن أبـي هند، عن عامر: أن رجلاً أقام سلعته أوّل
+  النهار، فلـما كان آخره جاء رجل يساومه، فحلف لقد منعها أوّل النهار من كذا وكذا، ولولا
+  الـمساء ما بـاعها به، فأنزل الله عزّ وجلّ: { إِنَّ ٱلَّذِى يَشْتَرُونَ بِعَهْدِ
+  ٱللَّهِ وَأَيْمَـٰنِهِمْ ثَمَنًا قَلِيلاً }.</font></font>&#13;\t\t\t<label disabled=\"true\"
+  class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(3, 77)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(3,77)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">إِنَّ ٱلَّذِينَ يَشْتَرُونَ بِعَهْدِ ٱللَّهِ وَأَيْمَانِهِمْ
+  ثَمَناً قَلِيلاً أُوْلَـٰئِكَ لاَ خَلاَقَ لَهُمْ فِي ٱلآخِرَةِ وَلاَ يُكَلِّمُهُمُ
+  ٱللَّهُ وَلاَ يَنظُرُ إِلَيْهِمْ يَوْمَ ٱلْقِيَامَةِ وَلاَ يُزَكِّيهِمْ وَلَهُمْ
+  عَذَابٌ أَلِيمٌ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن الـمثنى، قال: ثنا عبد
+  الأعلـى، قال: ثنا داود، عن رجل، عن مـجاهد، نـحوه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة: { إِنَّ ٱلَّذِينَ يَشْتَرُونَ بِعَهْدِ
+  ٱللَّهِ وَأَيْمَـٰنِهِمْ ثَمَنًا قَلِيلاً }... الآية، إلـى: { وَلَهُمْ عَذَابٌ أَلِيمٌ
+  } أنزلهم الله بـمنزلة السحرة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة أن عمران بن حصين كان يقول: من حلف علـى
+  يـمين فـاجرة يقتطع بها مال أخيه فلـيتبوأ مقعده من النار، فقال له قائل: شيء سمعته
+  من رسول الله صلى الله عليه وسلم؟ قال لهم: إنكم لتـجدون ذلك، ثم قرأ هذه الآية: {
+  إِنَّ ٱلَّذِينَ يَشْتَرُونَ بِعَهْدِ ٱللَّهِ وَأَيْمَـٰنِهِمْ ثَمَنًا قَلِيلاً }...
+  الآية.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي موسى بن عبد الرحمن الـمسروقـي،
+  قال: ثنا حسين بن علـيّ، عن زائدة، عن هشام، قال: قال مـحمد عن عمران بن حصين: من حلف
+  علـى يـمين مصبورة فلـيتبوأ بوجهه مقعده من النار، ثم قرأ هذه الآية كلها: { إِنَّ
+  ٱلَّذِينَ يَشْتَرُونَ بِعَهْدِ ٱللَّهِ وَأَيْمَـٰنِهِمْ ثَمَنًا قَلِيلاً }.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن حميد، قال: ثنا ابن الـمبـارك، عن معمر، عن الزهري، عن سعيد
+  بن الـمسيب، قال: إن الـيـمين الفـاجرة من الكبـائر، ثم تلا: { إِنَّ ٱلَّذِينَ يَشْتَرُونَ
+  بِعَهْدِ ٱللَّهِ وَأَيْمَـٰنِهِمْ ثَمَنًا قَلِيلاً }.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، أن عبد الله بن مسعود، كان يقول: كنا
+  نرى ونـحن مع رسول الله صلى الله عليه وسلم أن من الذنب الذي لا يغفر يـمين الصبر إذا
+  فجر فـيها صاحبها.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">3 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a id=\"NextClass\"/></td></tr></table></center></div></section>"
 

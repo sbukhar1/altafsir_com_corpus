@@ -1,4 +1,4 @@
-location:
+position:
   sura: '002'
   aaya: '191'
   madhab: '01'
@@ -11,90 +11,220 @@ aaya: وَاقْتُلُوهُمْ حَيْثُ ثَقِفْتُمُوهُمْ �
   ۚ وَالْفِتْنَةُ أَشَدُّ مِنَ الْقَتْلِ ۚ وَلَا تُقَاتِلُوهُمْ عِنْدَ الْمَسْجِدِ
   الْحَرَامِ حَتَّىٰ يُقَاتِلُوكُمْ فِيهِ ۖ فَإِنْ قَاتَلُوكُمْ فَاقْتُلُوهُمْ ۗ كَذَٰلِكَ
   جَزَاءُ الْكَافِرِينَ
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَٱقْتُلُوهُمْ
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(2, 191)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(2,191)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَٱقْتُلُوهُمْ
   حَيْثُ ثَقِفْتُمُوهُم وَأَخْرِجُوهُمْ مِّنْ حَيْثُ أَخْرَجُوكُمْ وَٱلْفِتْنَةُ أَشَدُّ
   مِنَ ٱلْقَتْلِ وَلاَ تُقَاتِلُوهُمْ عِنْدَ ٱلْمَسْجِدِ ٱلْحَرَامِ حَتَّىٰ يُقَاتِلُوكُمْ
-  فِيهِ فَإِن قَاتَلُوكُمْ فَٱقْتُلُوهُمْ كَذَلِكَ جَزَآءُ ٱلْكَافِرِينَ }يعنـي تعالـى
-  ذكره: واقتلوا أيها الـمؤمنون الذين يقاتلونكم من الـمشركين حيث أصبتـم مقاتلهم وأمكنكم
-  قتلهم، وذلك هو معنى قوله: { حَيْثُ ثَقِـفْتُـمُوهُم } ومعنى الثقـفة بـالأمر: الـحذق
-  به والبصر، يقال: إنه لثَقِفٌ لَقِـف إذا كان جيد الـحذر فـي القتال بصيراً بـمواقع
-  القتل.وأما التثقـيف فمعنى غير هذا وهو التقويـم فمعنى: { وَاقْتُلُوهُمْ حَيْثُ ثَقِـفْتُـمُوهُم
-  } اقتلوهم فـي أيّ مكان تـمكنتـم من قتلهم وأبصرتـم مقاتلهم.وأما قوله: { وأخْرِجُوهُمْ
-  مِنْ حَيْثُ أخْرَجُوكُمْ } فإنه يعنـي بذلك الـمهاجرين الذين أخرجوا من ديارهم ومنازلهم
-  بـمكة، فقال لهم تعالـى ذكره: أخرجوا هؤلاء الذين يقاتلونكم وقد أخرجوكم من دياركم
-  من مساكنكم وديارهم كما أخرجوكم منها.القول فـي تأويـل قوله تعالـى: { وَالفِتْنَةُ
-  أشَدّ مِنَ القَتْل }.يعنـي تعالـى ذكره بقوله: { وَالِفتْنَةُ أشَدُّ مِنَ الَقْتِل
-  } والشرك بـالله أشدّ من القتل.وقد بـينت فـيـما مضى أن أصل الفتنة الابتلاء والاختبـار
-  فتأويـل الكلام: وابتلاء الـمؤمن فـي دينه حتـى يرجع عنه فـيصير مشركا بـالله من بعد
-  إسلامه أشدّ علـيه وأضرّ من أن يقتل مقـيـماً علـى دينه متـمسكاً علـيه مـحقّاً فـيه.
-  كما:حدثنـي مـحمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، عن ابن أبـي نـجيح، عن
-  مـجاهد فـي قول الله: { وَالِفتْنَةُ أشَدُّ مِنَ الَقْتِل } قال: ارتداد الـمؤمن إلـى
-  الوثن أشدّ علـيه من القتل.حدثنـي الـمثنى، قال: ثنا أبو حذيفة، قال: ثنا شبل، عن ابن
-  أبـي نـجيح، عن مـجاهد مثله.حدثنا بشر بن معاذ، قال: حدثنا يزيد، قال: ثنا سعيد، عن
-  قتادة قوله: { وَالِفتْنَةُ أشَدُّ مِنَ الَقْتِل } يقول: الشرك أشدّ من القتل.حدثنا
-  الـحسن بن يحيى، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر، عن قتادة، مثله.حدثت عن
-  عمار بن الـحسن، قال: حدثنا ابن أبـي جعفر، عن أبـيه، عن الربـيع: { وَالِفتْنَةُ أشَدُّ
-  مِنَ الَقْتِل } يقول: الشرك أشدّ من القتل.حدثنـي الـمثنى، قال: ثنا إسحاق، قال: ثنا
-  أبو زهير، عن جويبر، عن الضحاك: { وَالِفتْنَةُ أشَدُّ مِنَ الَقْتِل } قال: الشرك.حدثنا
+  فِيهِ فَإِن قَاتَلُوكُمْ فَٱقْتُلُوهُمْ كَذَلِكَ جَزَآءُ ٱلْكَافِرِينَ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">يعنـي تعالـى ذكره: واقتلوا أيها الـمؤمنون الذين يقاتلونكم من الـمشركين
+  حيث أصبتـم مقاتلهم وأمكنكم قتلهم، وذلك هو معنى قوله: { حَيْثُ ثَقِـفْتُـمُوهُم }
+  ومعنى الثقـفة بـالأمر: الـحذق به والبصر، يقال: إنه لثَقِفٌ لَقِـف إذا كان جيد الـحذر
+  فـي القتال بصيراً بـمواقع القتل.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وأما
+  التثقـيف فمعنى غير هذا وهو التقويـم فمعنى: { وَاقْتُلُوهُمْ حَيْثُ ثَقِـفْتُـمُوهُم
+  } اقتلوهم فـي أيّ مكان تـمكنتـم من قتلهم وأبصرتـم مقاتلهم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وأما
+  قوله: { وأخْرِجُوهُمْ مِنْ حَيْثُ أخْرَجُوكُمْ } فإنه يعنـي بذلك الـمهاجرين الذين
+  أخرجوا من ديارهم ومنازلهم بـمكة، فقال لهم تعالـى ذكره: أخرجوا هؤلاء الذين يقاتلونكم
+  وقد أخرجوكم من دياركم من مساكنكم وديارهم كما أخرجوكم منها.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">القول
+  فـي تأويـل قوله تعالـى: { وَالفِتْنَةُ أشَدّ مِنَ القَتْل }.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">يعنـي تعالـى ذكره بقوله: { وَالِفتْنَةُ أشَدُّ مِنَ الَقْتِل } والشرك
+  بـالله أشدّ من القتل.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقد بـينت فـيـما مضى أن أصل الفتنة
+  الابتلاء والاختبـار فتأويـل الكلام: وابتلاء الـمؤمن فـي دينه حتـى يرجع عنه فـيصير
+  مشركا بـالله من بعد إسلامه أشدّ علـيه وأضرّ من أن يقتل مقـيـماً علـى دينه متـمسكاً
+  علـيه مـحقّاً فـيه. كما:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي مـحمد بن عمرو، قال: ثنا
+  أبو عاصم، قال: ثنا عيسى، عن ابن أبـي نـجيح، عن مـجاهد فـي قول الله: { وَالِفتْنَةُ
+  أشَدُّ مِنَ الَقْتِل } قال: ارتداد الـمؤمن إلـى الوثن أشدّ علـيه من القتل.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي الـمثنى، قال: ثنا أبو حذيفة، قال: ثنا شبل، عن ابن أبـي نـجيح،
+  عن مـجاهد مثله.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا بشر بن معاذ، قال: حدثنا يزيد،
+  قال: ثنا سعيد، عن قتادة قوله: { وَالِفتْنَةُ أشَدُّ مِنَ الَقْتِل } يقول: الشرك
+  أشدّ من القتل.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا الـحسن بن يحيى، قال: أخبرنا
+  عبد الرزاق، قال: أخبرنا معمر، عن قتادة، مثله.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثت
+  عن عمار بن الـحسن، قال: حدثنا ابن أبـي جعفر، عن أبـيه، عن الربـيع: { وَالِفتْنَةُ
+  أشَدُّ مِنَ الَقْتِل } يقول: الشرك أشدّ من القتل.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  الـمثنى، قال: ثنا إسحاق، قال: ثنا أبو زهير، عن جويبر، عن الضحاك: { وَالِفتْنَةُ
+  أشَدُّ مِنَ الَقْتِل } قال: الشرك.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
   القاسم، قال: ثنا الـحسين، قال: ثنـي حجاج، قال: قال ابن جريج: أخبرنـي عبد الله بن
-  كثـير، عن مـجاهد فـي قوله: { وَالِفتْنَةُ أشَدُّ مِنَ الَقْتِل } قال: الفتنة: الشرك.حدثت
-  عن الـحسين بن الفرج، قال: سمعت الفضل بن خالد، قال: ثنا عبـيد بن سلـيـمان، عن الضحاك:
-  { وَالِفتْنَةُ أشَدُّ مِنَ الَقْتِل } قال: الشرك أشد من القتل.حدثنـي يونس، قال:
-  أخبرنا ابن وهب، قال: قال ابن زيد فـي قوله جل ذكره: { وَالِفتْنَةُ أشَدُّ مِنَ القَتْلِ
-  } قال: فتنة الكفر.القول فـي تأويـل قوله تعالـى: { وَلا تُقاتِلُوهُمْ عِنْدَ الـمَسْجِدَ
-  الـحَرَامِ حَّتـى يُقاتِلُوكُمْ فِـيه فإنْ قاتَلُوكُمْ فـاقْتُلُوهُمْ كَذَلِكَ جَزَاءُ
-  الكافِرِينَ }.والقرّاء مختلفة فـي قراءة ذلك، فقرأته عامة قرّاء الـمدينة ومكة: {
-  وَلا تُقاتِلُوهُمْ عِنْدَ الـمَسْجِد الـحَرَامِ حَّتـى يُقاتِلُوكُمْ فِـيهِ فإنْ
-  قاتَلُوكُمْ فـاقْتُلُوهُمْ } بـمعنى: ولا تبتدئوا أيها الـمؤمنون الـمشركين بـالقتال
-  عند الـمسجد الـحرام حتـى يبدءوكم به، فإن بدءوكم به هنالك عند الـمسجد الـحرام فـي
-  الـحرم فـاقتلوهم، فإن الله جعل ثواب الكافرين علـى كفرهم وأعمالهم السيئة القتل فـي
-  الدنـيا والـخزي الطويـل فـي الآخرة.\r\n\t\t\t\r\n\t\t\t1 2 3 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَٱقْتُلُوهُمْ حَيْثُ ثَقِفْتُمُوهُم
-  وَأَخْرِجُوهُمْ مِّنْ حَيْثُ أَخْرَجُوكُمْ وَٱلْفِتْنَةُ أَشَدُّ مِنَ ٱلْقَتْلِ
-  وَلاَ تُقَاتِلُوهُمْ عِنْدَ ٱلْمَسْجِدِ ٱلْحَرَامِ حَتَّىٰ يُقَاتِلُوكُمْ فِيهِ
-  فَإِن قَاتَلُوكُمْ فَٱقْتُلُوهُمْ كَذَلِكَ جَزَآءُ ٱلْكَافِرِينَ }كما:حدثنا بشر
-  بن معاذ، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة قوله: { وَلا تُقاتِلُوهُمْ عِنْدَ
-  الـمَسْجِدِ الـحَرَامِ حتـى يُقاتِلُوكُمْ فِـيه } كانوا لا يقاتلون فـيه حتـى يبدءوا
-  بـالقتال. ثم نسخ بعد ذلك فقال:{ وَقَاتِلُوهُمْ حَتَّىٰ لاَ تَكُونَ فِتْنَةٌ }[البقرة:
-  193] حتـى لا يكون شرك{ وَيَكُونَ ٱلدِّينُ للَّهِ }[البقرة: 193] أن يقال: لا إله
-  إلا الله، علـيها قاتل نبـيّ الله وإلـيها دعا.حدثنـي الـمثنى، قال: ثنا الـحجاج بن
-  الـمنهال، قال: ثنا همام، عن قتادة: { وَلا تُقاتِلُوهُمْ عِنْدَ الـمَسْجِدِ الـحَرَامِ
-  حَّتـى يُقاتِلُوكُمْ فِـيهِ فإنْ قاتَلُوكُمْ فـاقْتُلُوهُمْ } فأمر الله نبـيه صلى
-  الله عليه وسلم أن لا يقاتلهم عند الـمسجد الـحرام إلا أن يبدءوا فـيه بقتال، ثم نسخ
-  الله ذلك بقوله:{ فَإِذَا ٱنسَلَخَ ٱلأَشْهُرُ ٱلْحُرُمُ فَٱقْتُلُواْ ٱلْمُشْرِكِينَ
-  حَيْثُ وَجَدتُّمُوهُمْ }[التوبة: 5] فأمر الله نبـيه إذا انقضى الأجل أن يقاتلهم فـي
-  الـحلّ والـحرم وعند البـيت، حتـى يشهدوا أن لا إله إلا الله، وأن مـحمداً رسول الله.حدثت
+  كثـير، عن مـجاهد فـي قوله: { وَالِفتْنَةُ أشَدُّ مِنَ الَقْتِل } قال: الفتنة: الشرك.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثت عن الـحسين بن الفرج، قال: سمعت الفضل بن خالد، قال: ثنا عبـيد
+  بن سلـيـمان، عن الضحاك: { وَالِفتْنَةُ أشَدُّ مِنَ الَقْتِل } قال: الشرك أشد من
+  القتل.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي يونس، قال: أخبرنا ابن وهب،
+  قال: قال ابن زيد فـي قوله جل ذكره: { وَالِفتْنَةُ أشَدُّ مِنَ القَتْلِ } قال: فتنة
+  الكفر.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">القول فـي تأويـل قوله تعالـى: {
+  وَلا تُقاتِلُوهُمْ عِنْدَ الـمَسْجِدَ الـحَرَامِ حَّتـى يُقاتِلُوكُمْ فِـيه فإنْ
+  قاتَلُوكُمْ فـاقْتُلُوهُمْ كَذَلِكَ جَزَاءُ الكافِرِينَ }.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">والقرّاء
+  مختلفة فـي قراءة ذلك، فقرأته عامة قرّاء الـمدينة ومكة: { وَلا تُقاتِلُوهُمْ عِنْدَ
+  الـمَسْجِد الـحَرَامِ حَّتـى يُقاتِلُوكُمْ فِـيهِ فإنْ قاتَلُوكُمْ فـاقْتُلُوهُمْ
+  } بـمعنى: ولا تبتدئوا أيها الـمؤمنون الـمشركين بـالقتال عند الـمسجد الـحرام حتـى
+  يبدءوكم به، فإن بدءوكم به هنالك عند الـمسجد الـحرام فـي الـحرم فـاقتلوهم، فإن الله
+  جعل ثواب الكافرين علـى كفرهم وأعمالهم السيئة القتل فـي الدنـيا والـخزي الطويـل فـي
+  الآخرة.</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\"
+  border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE:
+  none; BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2, 191)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,191)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَٱقْتُلُوهُمْ حَيْثُ ثَقِفْتُمُوهُم وَأَخْرِجُوهُمْ
+  مِّنْ حَيْثُ أَخْرَجُوكُمْ وَٱلْفِتْنَةُ أَشَدُّ مِنَ ٱلْقَتْلِ وَلاَ تُقَاتِلُوهُمْ
+  عِنْدَ ٱلْمَسْجِدِ ٱلْحَرَامِ حَتَّىٰ يُقَاتِلُوكُمْ فِيهِ فَإِن قَاتَلُوكُمْ فَٱقْتُلُوهُمْ
+  كَذَلِكَ جَزَآءُ ٱلْكَافِرِينَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\"
+  dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">كما:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا بشر بن معاذ، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة قوله:
+  { وَلا تُقاتِلُوهُمْ عِنْدَ الـمَسْجِدِ الـحَرَامِ حتـى يُقاتِلُوكُمْ فِـيه } كانوا
+  لا يقاتلون فـيه حتـى يبدءوا بـالقتال. ثم نسخ بعد ذلك فقال:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">وَقَاتِلُوهُمْ حَتَّىٰ لاَ تَكُونَ
+  فِتْنَةٌ</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">[البقرة: 193] حتـى لا يكون شرك</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">وَيَكُونَ ٱلدِّينُ للَّهِ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[البقرة:
+  193] أن يقال: لا إله إلا الله، علـيها قاتل نبـيّ الله وإلـيها دعا.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي الـمثنى، قال: ثنا الـحجاج بن الـمنهال، قال: ثنا همام، عن
+  قتادة: { وَلا تُقاتِلُوهُمْ عِنْدَ الـمَسْجِدِ الـحَرَامِ حَّتـى يُقاتِلُوكُمْ فِـيهِ
+  فإنْ قاتَلُوكُمْ فـاقْتُلُوهُمْ } فأمر الله نبـيه صلى الله عليه وسلم أن لا يقاتلهم
+  عند الـمسجد الـحرام إلا أن يبدءوا فـيه بقتال، ثم نسخ الله ذلك بقوله:</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">فَإِذَا
+  ٱنسَلَخَ ٱلأَشْهُرُ ٱلْحُرُمُ فَٱقْتُلُواْ ٱلْمُشْرِكِينَ حَيْثُ وَجَدتُّمُوهُمْ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[التوبة:
+  5] فأمر الله نبـيه إذا انقضى الأجل أن يقاتلهم فـي الـحلّ والـحرم وعند البـيت، حتـى
+  يشهدوا أن لا إله إلا الله، وأن مـحمداً رسول الله.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثت
   عن عمار بن الـحسن، قال: ثنا عبد الله بن أبـي جعفر، عن أبـيه، عن الربـيع قوله: {
   وَلا تُقاتِلُوهُمْ عِنْدَ الـمَسْجِدِ الـحَرَامِ حَّتـى يُقاتِلُوكُمْ فِـيهِ } فكانوا
-  لا يقاتلونهم فـيه، ثم نسخ ذلك بعد، فقال:{ وَقَاتِلُوهُمْ حَتَّىٰ لاَ تَكُونَ فِتْنَةٌ }[البقرة:
-  193].وقال بعضهم: هذه آية مـحكمة غير منسوخة. ذكر من قال ذلك:حدثنا الـمثنى، قال: ثنا
-  أبو حذيفة، قال: ثنا شبل، عن ابن أبـي نـجيح، عن مـجاهد: { فإنْ قاتَلَوكُم } فـي الـحرم،
-  { فـاقْتُلُوهُمْ كَذَلِكَ جَزَاءُ الكافِرِينَ } لا تقاتل أحداً فـيه أبداً، فمن عدا
-  علـيك فقاتلك فقاتله كما يقاتلك.وقرأ ذلك عظم قراء الكوفـيـين: «وَلا تَقْتُلُوهُمْ
-  عِنْدَ الـمَسْجِدِ الـحَرَامِ حَّتـى يُقاتِلُوكُمْ فِـيهِ فإنْ قاتَلُوكُمْ فـاقْتُلُوهُمْ»
-  بـمعنى: ولا تبدءوهم بقتل حتـى يبدءوكم به. ذكر من قال ذلك:حدثنا الـمثنى، قال: ثنا
-  إسحاق، قال: ثنا عبد الرحمن بن أبـي حماد، عن أبـي حماد، عن حمزة الزيات قال: قلت للأعمش:
-  أرأيت قراءتك: «ولا تقتلوهم عند الـمسجد الـحرام حتـى يقتلوكم فـيه فإن قتلوكم فـاقتلوهم
-  كذلك جزاء الكافرين فإن انتهوا فإن الله غفور رحيـم»، إذا قتلوهم كيف يقتلونهم؟ قال:
-  إن العرب إذا قتل منهم رجل قالوا: قُتلنا، وإذا ضرب منهم رجل قالوا ضربنا.وأولـى هاتـين
-  القراءتـين بـالصواب قراءة من قرأ: { وَلا تُقاتِلُوهُمْ عِنْدَ الـمَسْجِدِ الـحَرَامِ
-  حَّتـى يُقاتِلُوكُمْ فِـيهِ فإنْ قاتَلُوكُمْ فـاقْتُلُوهُمْ } لأن الله تعالـى ذكره
-  لـم يأمر نبـيه صلى الله عليه وسلم وأصحابه فـي حال إذا قاتلهم الـمشركون بـالاستسلام
-  لهم حتـى يقتلوا منهم قتـيلاً بعد ما أذن له ولهم بقتالهم، فتكون القراءة بـالإذن بقتلهم
-  بعد أن يقتلوا منهم أولـى من القراءة بـما اخترنا.\r\n\t\t\t\r\n\t\t\t1 2 3 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَٱقْتُلُوهُمْ حَيْثُ ثَقِفْتُمُوهُم
-  وَأَخْرِجُوهُمْ مِّنْ حَيْثُ أَخْرَجُوكُمْ وَٱلْفِتْنَةُ أَشَدُّ مِنَ ٱلْقَتْلِ
-  وَلاَ تُقَاتِلُوهُمْ عِنْدَ ٱلْمَسْجِدِ ٱلْحَرَامِ حَتَّىٰ يُقَاتِلُوكُمْ فِيهِ
-  فَإِن قَاتَلُوكُمْ فَٱقْتُلُوهُمْ كَذَلِكَ جَزَآءُ ٱلْكَافِرِينَ }وإذا كان ذلك كذلك،
-  فمعلوم أنه قد كان تعالـى ذكره أذن لهم بقتالهم إذا كان ابتداء القتال من الـمشركين
-  قبل أن يقتلوا منهم قتـيلاً، وبعد أن يقتلوا منهم قتـيلاً.وقد نسخ الله تعالـى ذكره
-  هذه الآية بقوله:{ وَقَاتِلُوهُمْ حَتَّىٰ لاَ تَكُونَ فِتْنَةٌ }[البقرة: 193] وقوله:{ فَٱقْتُلُواْ
-  ٱلْمُشْرِكِينَ حَيْثُ وَجَدتُّمُوهُمْ }[التوبة: 5] ونـحو ذلك من الآيات.وقد ذكرنا
-  بعض قول من قال هي منسوخة، وسنذكر قول من حضرنا ذكره مـمن لـم يذكر.حدثنا الـحسن بن
-  يحيى، قال: ثنا عبد الرزاق، قال: أخبرنا معمر، عن قتادة: { وَلا تُقاتِلُوهُمْ عِنْدَ
-  الـمَسْجِدِ الـحَرَامِ حَّتـى يُقاتِلُوكُمْ فِـيهِ } قال: نسخها قوله:{ فَٱقْتُلُواْ
-  ٱلْمُشْرِكِينَ حَيْثُ وَجَدتُّمُوهُمْ }[التوبة: 5].حدثنـي يونس، قال: أخبرنا ابن
-  وهب قال: قال ابن زيد فـي قوله: { وَلا تُقاتِلُوهُمْ عِنْدَ الـمَسْجِدِ الـحَرَامِ
-  حَّتـى يُقاتِلُوكُمْ فِـيهِ } قال: حتـى يبدءوكم كان هذا قد حرم، فأحلّ الله ذلك له،
-  فلـم يزل ثابتاً حتـى أمره الله بقتالهم بعد.\r\n\t\t\t\r\n\t\t\t1 2 3 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  لا يقاتلونهم فـيه، ثم نسخ ذلك بعد، فقال:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">وَقَاتِلُوهُمْ حَتَّىٰ لاَ تَكُونَ
+  فِتْنَةٌ</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">[البقرة: 193].</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  بعضهم: هذه آية مـحكمة غير منسوخة. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  الـمثنى، قال: ثنا أبو حذيفة، قال: ثنا شبل، عن ابن أبـي نـجيح، عن مـجاهد: { فإنْ
+  قاتَلَوكُم } فـي الـحرم، { فـاقْتُلُوهُمْ كَذَلِكَ جَزَاءُ الكافِرِينَ } لا تقاتل
+  أحداً فـيه أبداً، فمن عدا علـيك فقاتلك فقاتله كما يقاتلك.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقرأ
+  ذلك عظم قراء الكوفـيـين: «وَلا تَقْتُلُوهُمْ عِنْدَ الـمَسْجِدِ الـحَرَامِ حَّتـى
+  يُقاتِلُوكُمْ فِـيهِ فإنْ قاتَلُوكُمْ فـاقْتُلُوهُمْ» بـمعنى: ولا تبدءوهم بقتل حتـى
+  يبدءوكم به. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  الـمثنى، قال: ثنا إسحاق، قال: ثنا عبد الرحمن بن أبـي حماد، عن أبـي حماد، عن حمزة
+  الزيات قال: قلت للأعمش: أرأيت قراءتك: «ولا تقتلوهم عند الـمسجد الـحرام حتـى يقتلوكم
+  فـيه فإن قتلوكم فـاقتلوهم كذلك جزاء الكافرين فإن انتهوا فإن الله غفور رحيـم»، إذا
+  قتلوهم كيف يقتلونهم؟ قال: إن العرب إذا قتل منهم رجل قالوا: قُتلنا، وإذا ضرب منهم
+  رجل قالوا ضربنا.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وأولـى هاتـين القراءتـين بـالصواب
+  قراءة من قرأ: { وَلا تُقاتِلُوهُمْ عِنْدَ الـمَسْجِدِ الـحَرَامِ حَّتـى يُقاتِلُوكُمْ
+  فِـيهِ فإنْ قاتَلُوكُمْ فـاقْتُلُوهُمْ } لأن الله تعالـى ذكره لـم يأمر نبـيه صلى
+  الله عليه وسلم وأصحابه فـي حال إذا قاتلهم الـمشركون بـالاستسلام لهم حتـى يقتلوا
+  منهم قتـيلاً بعد ما أذن له ولهم بقتالهم، فتكون القراءة بـالإذن بقتلهم بعد أن يقتلوا
+  منهم أولـى من القراءة بـما اخترنا.</font></font>&#13;\t\t\t<label disabled=\"true\"
+  class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2, 191)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,191)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَٱقْتُلُوهُمْ حَيْثُ ثَقِفْتُمُوهُم وَأَخْرِجُوهُمْ
+  مِّنْ حَيْثُ أَخْرَجُوكُمْ وَٱلْفِتْنَةُ أَشَدُّ مِنَ ٱلْقَتْلِ وَلاَ تُقَاتِلُوهُمْ
+  عِنْدَ ٱلْمَسْجِدِ ٱلْحَرَامِ حَتَّىٰ يُقَاتِلُوكُمْ فِيهِ فَإِن قَاتَلُوكُمْ فَٱقْتُلُوهُمْ
+  كَذَلِكَ جَزَآءُ ٱلْكَافِرِينَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\"
+  dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">وإذا كان ذلك
+  كذلك، فمعلوم أنه قد كان تعالـى ذكره أذن لهم بقتالهم إذا كان ابتداء القتال من الـمشركين
+  قبل أن يقتلوا منهم قتـيلاً، وبعد أن يقتلوا منهم قتـيلاً.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقد
+  نسخ الله تعالـى ذكره هذه الآية بقوله:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">وَقَاتِلُوهُمْ حَتَّىٰ لاَ تَكُونَ
+  فِتْنَةٌ</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">[البقرة: 193] وقوله:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">فَٱقْتُلُواْ ٱلْمُشْرِكِينَ حَيْثُ
+  وَجَدتُّمُوهُمْ</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">[التوبة: 5] ونـحو ذلك من الآيات.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقد
+  ذكرنا بعض قول من قال هي منسوخة، وسنذكر قول من حضرنا ذكره مـمن لـم يذكر.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا الـحسن بن يحيى، قال: ثنا عبد الرزاق، قال: أخبرنا معمر، عن
+  قتادة: { وَلا تُقاتِلُوهُمْ عِنْدَ الـمَسْجِدِ الـحَرَامِ حَّتـى يُقاتِلُوكُمْ فِـيهِ
+  } قال: نسخها قوله:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">فَٱقْتُلُواْ ٱلْمُشْرِكِينَ حَيْثُ وَجَدتُّمُوهُمْ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[التوبة:
+  5].</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي يونس، قال: أخبرنا ابن وهب
+  قال: قال ابن زيد فـي قوله: { وَلا تُقاتِلُوهُمْ عِنْدَ الـمَسْجِدِ الـحَرَامِ حَّتـى
+  يُقاتِلُوكُمْ فِـيهِ } قال: حتـى يبدءوكم كان هذا قد حرم، فأحلّ الله ذلك له، فلـم
+  يزل ثابتاً حتـى أمره الله بقتالهم بعد.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">3 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a id=\"NextClass\"/></td></tr></table></center></div></section>"
 

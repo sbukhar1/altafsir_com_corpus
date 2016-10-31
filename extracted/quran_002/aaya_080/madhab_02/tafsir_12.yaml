@@ -1,4 +1,4 @@
-location:
+position:
   sura: '002'
   aaya: 080
   madhab: '02'
@@ -7,17 +7,41 @@ meta:
   title: تفسير النكت والعيون
   author: الماوردي
   year: '450'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَقَالُواْ لَن
-  تَمَسَّنَا ٱلنَّارُ إِلاَّ أَيَّاماً مَّعْدُودَةً قُلْ أَتَّخَذْتُمْ عِندَ ٱللَّهِ
-  عَهْداً فَلَنْ يُخْلِفَ ٱللَّهُ عَهْدَهُ أَمْ تَقُولُونَ عَلَى ٱللَّهِ مَا لاَ تَعْلَمُونَ
-  }قوله تعالى: { وَقَالُوا لَن تَمَسَّنَا النَّارُ إِلاَّ أَيَّاماً مَّعْدُودَةً }
-  والفرق بين اللمس والمس، أن مع اللمس إحساساً.وفي الأيام المعدودة قولان:أحدهما: أنها
-  أربعون يوماً، وهذا قول قتادة، والسدي، وعكرمة، وأبي العالية، ورواه الضحاك عن ابن
-  عباس، ومن قال بهذا اختلفوا في تقديرهم لها بالأربعين:فقال بعضهم: لأنها عدد الأيام
-  التي عبدوا فيها العجل.وقال ابن عباس: أن اليهود يزعمون أنهم، وجدوا في التوراة مكتوباً،
-  أن ما بين طرفي جهنم مسيرة أربعين سنة، وهم يقطعون مسيرة كل سنة في يوم، فإذا انقطع
-  المسير انقضى العذاب، وهلكت النار، وهذا قول من قدر \" المعدودة \" بالأربعين.والقول
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(2, 80)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(2,80)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَقَالُواْ
+  لَن تَمَسَّنَا ٱلنَّارُ إِلاَّ أَيَّاماً مَّعْدُودَةً قُلْ أَتَّخَذْتُمْ عِندَ ٱللَّهِ
+  عَهْداً فَلَنْ يُخْلِفَ ٱللَّهُ عَهْدَهُ أَمْ تَقُولُونَ عَلَى ٱللَّهِ مَا لاَ تَعْلَمُونَ</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">قوله تعالى: { وَقَالُوا لَن تَمَسَّنَا النَّارُ إِلاَّ أَيَّاماً
+  مَّعْدُودَةً } والفرق بين اللمس والمس، أن مع اللمس إحساساً.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وفي
+  الأيام المعدودة قولان:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">أحدهما: أنها أربعون يوماً، وهذا
+  قول قتادة، والسدي، وعكرمة، وأبي العالية، ورواه الضحاك عن ابن عباس، ومن قال بهذا
+  اختلفوا في تقديرهم لها بالأربعين:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">فقال
+  بعضهم: لأنها عدد الأيام التي عبدوا فيها العجل.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  ابن عباس: أن اليهود يزعمون أنهم، وجدوا في التوراة مكتوباً، أن ما بين طرفي جهنم مسيرة
+  أربعين سنة، وهم يقطعون مسيرة كل سنة في يوم، فإذا انقطع المسير انقضى العذاب، وهلكت
+  النار، وهذا قول من قدر \" المعدودة \" بالأربعين.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">والقول
   الثاني: أن المعدودة التي تمسهم فيها النار سبعة أيام، لأنهم زعموا، أن عمر الدنيا
   سبعة آلاف سنة، وأنهم يُعَذَّبُون عن كل ألف سنة يوماً، وهذا قول مجاهد، ورواية سعيد
-  بن جبير، عن ابن عباس.\r\n\t\t\t\r\n\t\t\t</section>"
+  بن جبير، عن ابن عباس.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

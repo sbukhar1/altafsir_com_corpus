@@ -1,4 +1,4 @@
-location:
+position:
   sura: '020'
   aaya: '130'
   madhab: '01'
@@ -7,88 +7,207 @@ meta:
   title: تفسير جامع البيان في تفسير القرآن
   author: الطبري
   year: '310'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَلَوْلاَ كَلِمَةٌ
-  سَبَقَتْ مِن رَّبِّكَ لَكَانَ لِزَاماً وَأَجَلٌ مُّسَمًّى } * { فَٱصْبِرْ عَلَىٰ
-  مَا يَقُولُونَ وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ ٱلشَّمْسِ وَقَبْلَ غُرُوبِهَا
-  وَمِنْ آنَآءِ ٱلْلَّيْلِ فَسَبِّحْ وَأَطْرَافَ ٱلنَّهَارِ لَعَلَّكَ تَرْضَىٰ }يقول
-  تعالـى ذكره: { وَلَوْلا كَلِـمَةٌ سَبَقَتْ مِنْ رَبِّكَ } يا مـحمد أن كلّ من قضى
-  له أجلاً فإنه لا يخترمه قبل بلوغه أجله { وأجلٌ مسمًّى } يقول: ووقت مسمى عند ربك
-  سماه لهم فـي أمّ الكتاب وخطه فـيه، هم بـالغوه ومستوفوه { لَكانَ لِزَاماً } يقول:
-  للازمهم الهلاك عاجلاً، وهو مصدر من قول القائل: لازم فلان فلاناً يلازمه ملازمة ولزاماً:
-  إذا لـم يفـارقه، وقدّم قوله: { لَكانَ لِزَاماً } قبل قوله { أجَلٌ مُسَمًّى } ومعنى
-  الكلام: ولولا كلـمة سبقت من ربك وأجل مسمى لكان لزاماً، فـاصبر علـى ما يقولون. وبنـحو
-  الذي قلنا فـي ذلك، قال أهل التأويـل. ذكر من قال ذلك:حدثنـي مـحمد بن عمرو، قال: ثنا
-  أبو عاصم، قال: ثنا عيسى وحدثنـي الـحارث، قال: ثنا الـحسن، قال: ثنا ورقاء، جميعاً
-  عن ابن أبـي نـجيح، عن مـجاهد، قوله: { وَلَوْلا كَلِـمَةٌ سَبَقَتْ مِنْ رَبِّكَ لَكانَ
-  لِزَاماً وأجَلٌ مُسَمًّى } الأجل الـمسمى: الدنـيا.حدثنا بشر، قال: ثنا يزيد، قال:
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(20, 129)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(20,129)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَلَوْلاَ
+  كَلِمَةٌ سَبَقَتْ مِن رَّبِّكَ لَكَانَ لِزَاماً وَأَجَلٌ مُّسَمًّى</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">فَٱصْبِرْ
+  عَلَىٰ مَا يَقُولُونَ وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ ٱلشَّمْسِ وَقَبْلَ
+  غُرُوبِهَا وَمِنْ آنَآءِ ٱلْلَّيْلِ فَسَبِّحْ وَأَطْرَافَ ٱلنَّهَارِ لَعَلَّكَ تَرْضَىٰ</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">يقول تعالـى ذكره: { وَلَوْلا كَلِـمَةٌ سَبَقَتْ مِنْ رَبِّكَ } يا
+  مـحمد أن كلّ من قضى له أجلاً فإنه لا يخترمه قبل بلوغه أجله { وأجلٌ مسمًّى } يقول:
+  ووقت مسمى عند ربك سماه لهم فـي أمّ الكتاب وخطه فـيه، هم بـالغوه ومستوفوه { لَكانَ
+  لِزَاماً } يقول: للازمهم الهلاك عاجلاً، وهو مصدر من قول القائل: لازم فلان فلاناً
+  يلازمه ملازمة ولزاماً: إذا لـم يفـارقه، وقدّم قوله: { لَكانَ لِزَاماً } قبل قوله
+  { أجَلٌ مُسَمًّى } ومعنى الكلام: ولولا كلـمة سبقت من ربك وأجل مسمى لكان لزاماً،
+  فـاصبر علـى ما يقولون. وبنـحو الذي قلنا فـي ذلك، قال أهل التأويـل. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي مـحمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى وحدثنـي الـحارث،
+  قال: ثنا الـحسن، قال: ثنا ورقاء، جميعاً عن ابن أبـي نـجيح، عن مـجاهد، قوله: { وَلَوْلا
+  كَلِـمَةٌ سَبَقَتْ مِنْ رَبِّكَ لَكانَ لِزَاماً وأجَلٌ مُسَمًّى } الأجل الـمسمى:
+  الدنـيا.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا بشر، قال: ثنا يزيد، قال:
   ثنا سعيد، عن قتادة، قوله: { وَلَوْلا كَلِـمَةٌ سَبَقَتْ مِنْ رَبِّكَ لَكانَ لِزَاماً
   وأجَلٌ مُسَمًّى } وهذه من مقاديـم الكلام، يقول: لولا كلـمة سبقت من ربك إلـى أجل
-  مسمى كان لزاما، والأجل الـمسمى، الساعة، لأن الله تعالـى يقول{ بَلِ السَّاعَةُ مَوْعِدُهُمْ،
-  والسَّاعَةُ أدْهَى وأمَرُّ }حدثنـي يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد،
-  فـي قوله: { وَلَوْلا كَلِـمَةٌ سَبَقَتْ مِنْ رَبِّكَ لَكانَ لِزَاماً وأجَلٌ مُسَمًّى
-  } قال: هذا مقدّم ومؤخر، ولولا كلـمة سبقت من ربك وأجل مسمى لكان لزاماً.واختلف أهل
-  التأويـل فـي معنى قوله: { لَكانَ لِزَاماً } فقال بعضهم: معناه: لكان موتاً. ذكر من
-  قال ذلك:حدثنـي علـيّ قال: ثنـي أبو صالـح، قال: ثنـي معاوية، عن علـيّ، عن ابن عبـاس،
-  قوله: { لَكانَ لِزَاماً } يقول: موتا.وقال آخرون: معناه لكان قتلاً. ذكر من قال ذلك:حدثنـي
-  يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد { لَكانَ لِزَاماً } واللزام: القتل.وقوله:
-  { فـاصْبِرْ علـى ما يَقُولُونَ } يقول جلّ ثناؤه لنبـيه: فـاصبر يا مـحمد علـى ما
-  يقول هؤلاء الـمكذّبون بآيات الله من قومك لك إنك ساحر، وإنك مـجنون وشاعر ونـحو ذلك
-  من القول { وَسَبِّحْ بِحَمْدِ رَبِّكَ } يقول: وصل بثنائك علـى ربك، وقال: بحمد ربك.
-  والـمعنى: بحمدك ربك، كما تقول: أعجبنـي ضرب زيد، والـمعنى: ضربـي زيداً. وقوله: {
-  قَبْلَ طُلُوعِ الشَّمْسِ } وذلك صلاة الصبح { وَقَبْلَ غُرُوبِها } وهي العصر { وَمِنْ
-  آناءِ اللَّـيْـلِ } وهي ساعات اللـيـل، واحدها: إنْـيٌ، علـى تقدير حمل ومنه قول الـمنـخَّـل
-  السعدي:حُلْوٌ وَمُرٌّ كَعِطْفِ القِدْحِ مُرَّتُهُ   فِـي كُلّ إنْـيٍ قَضَاهُ اللَّـيْـلُ
-  يَنْتَعِلُويعنـي بقوله: { وَمِنْ آناءِ اللَّـيْـلِ فَسَبِّحْ } صلاة العشاء الآخرة،
-  لأنها تصلـى بعد مضيّ آناء من اللـيـل.وقوله: { وأطْرَافَ النَّهارِ }: يعنـي صلاة
-  الظهر والـمغرب وقـيـل: أطراف النهار، والـمراد بذلك الصلاتان اللتان ذكرنا، لأن صلاة
-  الظهر فـي آخر طرف النهار الأوّل، وفـي أوّل طرف النهار الآخر، فهي فـي طرفـين منه،
-  والطرف الثالث: غروب الشمس، وعند ذلك تصلـى الـمغرب، فلذلك قـيـل أطراف، وقد يحمل أن
-  يقال: أريد به طرفـا النهار.\r\n\t\t\t\r\n\t\t\t1 2 3 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَلَوْلاَ كَلِمَةٌ سَبَقَتْ مِن رَّبِّكَ
-  لَكَانَ لِزَاماً وَأَجَلٌ مُّسَمًّى } * { فَٱصْبِرْ عَلَىٰ مَا يَقُولُونَ وَسَبِّحْ
+  مسمى كان لزاما، والأجل الـمسمى، الساعة، لأن الله تعالـى يقول</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">بَلِ السَّاعَةُ مَوْعِدُهُمْ، والسَّاعَةُ
+  أدْهَى وأمَرُّ</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، فـي قوله: { وَلَوْلا كَلِـمَةٌ سَبَقَتْ
+  مِنْ رَبِّكَ لَكانَ لِزَاماً وأجَلٌ مُسَمًّى } قال: هذا مقدّم ومؤخر، ولولا كلـمة
+  سبقت من ربك وأجل مسمى لكان لزاماً.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">واختلف
+  أهل التأويـل فـي معنى قوله: { لَكانَ لِزَاماً } فقال بعضهم: معناه: لكان موتاً. ذكر
+  من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي علـيّ قال: ثنـي أبو صالـح،
+  قال: ثنـي معاوية، عن علـيّ، عن ابن عبـاس، قوله: { لَكانَ لِزَاماً } يقول: موتا.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال آخرون: معناه لكان قتلاً. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد { لَكانَ لِزَاماً
+  } واللزام: القتل.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقوله: { فـاصْبِرْ علـى ما يَقُولُونَ
+  } يقول جلّ ثناؤه لنبـيه: فـاصبر يا مـحمد علـى ما يقول هؤلاء الـمكذّبون بآيات الله
+  من قومك لك إنك ساحر، وإنك مـجنون وشاعر ونـحو ذلك من القول { وَسَبِّحْ بِحَمْدِ رَبِّكَ
+  } يقول: وصل بثنائك علـى ربك، وقال: بحمد ربك. والـمعنى: بحمدك ربك، كما تقول: أعجبنـي
+  ضرب زيد، والـمعنى: ضربـي زيداً. وقوله: { قَبْلَ طُلُوعِ الشَّمْسِ } وذلك صلاة الصبح
+  { وَقَبْلَ غُرُوبِها } وهي العصر { وَمِنْ آناءِ اللَّـيْـلِ } وهي ساعات اللـيـل،
+  واحدها: إنْـيٌ، علـى تقدير حمل ومنه قول الـمنـخَّـل السعدي:</font></font><table
+  class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">حُلْوٌ وَمُرٌّ كَعِطْفِ القِدْحِ مُرَّتُهُ</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">فِـي كُلّ إنْـيٍ قَضَاهُ اللَّـيْـلُ يَنْتَعِلُ</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">ويعنـي بقوله: { وَمِنْ آناءِ اللَّـيْـلِ
+  فَسَبِّحْ } صلاة العشاء الآخرة، لأنها تصلـى بعد مضيّ آناء من اللـيـل.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقوله: { وأطْرَافَ النَّهارِ }: يعنـي صلاة الظهر والـمغرب وقـيـل:
+  أطراف النهار، والـمراد بذلك الصلاتان اللتان ذكرنا، لأن صلاة الظهر فـي آخر طرف النهار
+  الأوّل، وفـي أوّل طرف النهار الآخر، فهي فـي طرفـين منه، والطرف الثالث: غروب الشمس،
+  وعند ذلك تصلـى الـمغرب، فلذلك قـيـل أطراف، وقد يحمل أن يقال: أريد به طرفـا النهار.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(20, 129)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(20,129)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَلَوْلاَ كَلِمَةٌ سَبَقَتْ مِن رَّبِّكَ لَكَانَ
+  لِزَاماً وَأَجَلٌ مُّسَمًّى</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">فَٱصْبِرْ عَلَىٰ مَا يَقُولُونَ وَسَبِّحْ
   بِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ ٱلشَّمْسِ وَقَبْلَ غُرُوبِهَا وَمِنْ آنَآءِ ٱلْلَّيْلِ
-  فَسَبِّحْ وَأَطْرَافَ ٱلنَّهَارِ لَعَلَّكَ تَرْضَىٰ }وقـيـل: أطراف، كما قـيـل صَغَتْ
-  قُلُوبُكما فجمع، والـمراد: قلبـان، فـيكون ذلك أوّل طرف النهار الآخر، وآخر طرفه الأول.وبنـحو
-  الذي قلنا فـي ذلك، قال أهل التأويـل. ذكر من قال ذلك:حدثنا مـحمد بن بشار، قال: ثنا
-  عبد الرحمن، قال: ثنا سفـيان، عن عاصم، عن ابن أبـي زيد، عن ابن عبـاس { وَسَبِّحْ
-  بِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ الشَّمْسِ وَقَبْلَ غُرُوبِها } قال: الصلاة الـمكتوبة.حدثنا
-  تـميـم بن الـمنتصر، قال: ثنا يزيد بن هارون، قال: أخبرنا إسماعيـل بن أبـي خالد، عن
-  قـيس بن أبـي حازم، عن جرير بن عبد الله، قال: كنا جلوساً عند رسول الله صلى الله عليه
-  وسلم، فرأى القمر لـيـلة البدر فقال: \" إنَّكُمْ رَاءُونَ رَبَّكُمْ كمَا تَرَوْنَ
-  هَذَا، لا تُضَامُونَ فِـي رُؤْيَتِهِ، فإنِ اسْتَطَعْتـمْ أنْ لا تُغْلَبُوا عَلـى
-  صَلاةٍ قَبلَ طُلُوعِ الشَّمْسِ وَقَبْلَ غُرُوبِها فـافْعَلُوا \" ثُمَّ تَلا: { وسَبِّحْ
-  بحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ الشَّمْسِ وَقَبْلَ غُرُوبِها }.حدثنا القاسم، قال:
-  ثنا الـحسين، قال: ثنـي حجاج { وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ الشَّمْسِ
-  وَقَبْلَ غُرُوبِها } قال ابن جريج: العصر، وأطراف النهار قال: الـمكتوبة.حدثنا الـحسن،
-  قال: أخبرنا عبد الرزاق، عن معمى، عن قَتادة فـي قوله: { وَسَبِّحْ بِحَمْدِ رَبِّكَ
-  قَبْلَ طُلُوعِ الشَّمْسِ } قال: هي صَلاة الفجر { وَقَبْلَ غُرُوبِها } قال: صلاة
-  العصر. { وَمِنْ آناءِ اللَّـيْـلِ } قال: صلاة الـمغرب والعشاء. { وأطْرافَ النَهارِ
-  } قال: صلاة الظهر.حدثنـي يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، فـي قوله {
-  وَمِنْ آناءِ اللَّـيْـلِ فَسَبِّحْ وأطْرَافَ النَّهارِ }: قال: من آناء اللـيـل:
-  العَتَـمة. وأطراف النهار: الـمغرب والصبح.ونصب قوله { وأطْرافَ النهار } عطفـاً علـى
-  قوله { قَبْلَ طُلُوع الشَّمْسِ } ، لأن معنى ذلك: فسبح بحمد ربك آخر اللـيـل، وأطراف
-  النهار. وبنـحو الذي قلنا فـي معنى { آناءِ اللَّـيْـلِ } قال أهل التأويـل. ذكر من
-  قال ذلك:حدثنا القاسم، قال: ثنا الـحسين، قال: ثنـي حجاج، عن ابن جُرَيج، قال: قال
-  ابن عبـاس { وَمِن آناءِ اللَّـيْـلِ } قال: الـمصلـى من اللـيـل كله.حدثنـي يعقوب
-  بن إبراهيـم، قال: ثنا ابن عُلَـية، عن أبـي رجاء، قال: سمعت الـحسن قرأ: { وَمِنْ
-  آناء اللَّـيْـلِ } قال: من أوّله، وأوسطه، وآخره.حدثنـي مـحمد بن سعد، قال: ثنـي أبـي،
-  قال: ثنـي عمي، قال: ثنـي أبـي، عن أبـيه، عن ابن عبـاس، فـي قوله: { وَمِنْ آناءِ
-  اللَّـيْـلِ فَسَبِّحْ } قال: آناء اللـيـل: جوف اللـيـل.وقوله: { لَعَلَّكَ تَرْضَى
-  } يقول: كي ترضى.وقد اختلفت القرّاء فـي قراءة ذلك، فقرأته عامة قرّاء الـمدينة والعراق:
-  { لَعَلَّكَ تَرْضَى } بفتـح التاء.\r\n\t\t\t\r\n\t\t\t1 2 3 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَلَوْلاَ كَلِمَةٌ سَبَقَتْ مِن رَّبِّكَ
-  لَكَانَ لِزَاماً وَأَجَلٌ مُّسَمًّى } * { فَٱصْبِرْ عَلَىٰ مَا يَقُولُونَ وَسَبِّحْ
+  فَسَبِّحْ وَأَطْرَافَ ٱلنَّهَارِ لَعَلَّكَ تَرْضَىٰ</a> <b>}</b></font>, <br/>,
+  <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">وقـيـل:
+  أطراف، كما قـيـل صَغَتْ قُلُوبُكما فجمع، والـمراد: قلبـان، فـيكون ذلك أوّل طرف النهار
+  الآخر، وآخر طرفه الأول.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وبنـحو الذي قلنا فـي ذلك، قال أهل
+  التأويـل. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا مـحمد بن بشار، قال: ثنا عبد
+  الرحمن، قال: ثنا سفـيان، عن عاصم، عن ابن أبـي زيد، عن ابن عبـاس { وَسَبِّحْ بِحَمْدِ
+  رَبِّكَ قَبْلَ طُلُوعِ الشَّمْسِ وَقَبْلَ غُرُوبِها } قال: الصلاة الـمكتوبة.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا تـميـم بن الـمنتصر، قال: ثنا يزيد بن هارون، قال: أخبرنا إسماعيـل
+  بن أبـي خالد، عن قـيس بن أبـي حازم، عن جرير بن عبد الله، قال: كنا جلوساً عند رسول
+  الله صلى الله عليه وسلم، فرأى القمر لـيـلة البدر فقال:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" إنَّكُمْ رَاءُونَ رَبَّكُمْ كمَا تَرَوْنَ هَذَا، لا تُضَامُونَ
+  فِـي رُؤْيَتِهِ، فإنِ اسْتَطَعْتـمْ أنْ لا تُغْلَبُوا عَلـى صَلاةٍ قَبلَ طُلُوعِ
+  الشَّمْسِ وَقَبْلَ غُرُوبِها فـافْعَلُوا \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">ثُمَّ تَلا: { وسَبِّحْ بحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ الشَّمْسِ
+  وَقَبْلَ غُرُوبِها }.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا القاسم، قال: ثنا الـحسين،
+  قال: ثنـي حجاج { وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ الشَّمْسِ وَقَبْلَ غُرُوبِها
+  } قال ابن جريج: العصر، وأطراف النهار قال: الـمكتوبة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  الـحسن، قال: أخبرنا عبد الرزاق، عن معمى، عن قَتادة فـي قوله: { وَسَبِّحْ بِحَمْدِ
+  رَبِّكَ قَبْلَ طُلُوعِ الشَّمْسِ } قال: هي صَلاة الفجر { وَقَبْلَ غُرُوبِها } قال:
+  صلاة العصر. { وَمِنْ آناءِ اللَّـيْـلِ } قال: صلاة الـمغرب والعشاء. { وأطْرافَ النَهارِ
+  } قال: صلاة الظهر.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي يونس، قال: أخبرنا ابن وهب،
+  قال: قال ابن زيد، فـي قوله { وَمِنْ آناءِ اللَّـيْـلِ فَسَبِّحْ وأطْرَافَ النَّهارِ
+  }: قال: من آناء اللـيـل: العَتَـمة. وأطراف النهار: الـمغرب والصبح.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">ونصب قوله { وأطْرافَ النهار } عطفـاً علـى قوله { قَبْلَ طُلُوع الشَّمْسِ
+  } ، لأن معنى ذلك: فسبح بحمد ربك آخر اللـيـل، وأطراف النهار. وبنـحو الذي قلنا فـي
+  معنى { آناءِ اللَّـيْـلِ } قال أهل التأويـل. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا القاسم، قال: ثنا الـحسين، قال: ثنـي حجاج، عن ابن جُرَيج، قال:
+  قال ابن عبـاس { وَمِن آناءِ اللَّـيْـلِ } قال: الـمصلـى من اللـيـل كله.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي يعقوب بن إبراهيـم، قال: ثنا ابن عُلَـية، عن أبـي رجاء، قال:
+  سمعت الـحسن قرأ: { وَمِنْ آناء اللَّـيْـلِ } قال: من أوّله، وأوسطه، وآخره.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي مـحمد بن سعد، قال: ثنـي أبـي، قال: ثنـي عمي، قال: ثنـي أبـي،
+  عن أبـيه، عن ابن عبـاس، فـي قوله: { وَمِنْ آناءِ اللَّـيْـلِ فَسَبِّحْ } قال: آناء
+  اللـيـل: جوف اللـيـل.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقوله: { لَعَلَّكَ تَرْضَى } يقول:
+  كي ترضى.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقد اختلفت القرّاء فـي قراءة ذلك،
+  فقرأته عامة قرّاء الـمدينة والعراق: { لَعَلَّكَ تَرْضَى } بفتـح التاء.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(20, 129)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(20,129)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَلَوْلاَ كَلِمَةٌ سَبَقَتْ مِن رَّبِّكَ لَكَانَ
+  لِزَاماً وَأَجَلٌ مُّسَمًّى</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">فَٱصْبِرْ عَلَىٰ مَا يَقُولُونَ وَسَبِّحْ
   بِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ ٱلشَّمْسِ وَقَبْلَ غُرُوبِهَا وَمِنْ آنَآءِ ٱلْلَّيْلِ
-  فَسَبِّحْ وَأَطْرَافَ ٱلنَّهَارِ لَعَلَّكَ تَرْضَىٰ }وكان عاصم والكسائي يقرآن ذلك:
-  «لَعَلَّكَ تُرْضَى» بضم التاء، ورُوي ذلك عن أبـي عبد الرحمن السُّلَـميّ، وكأنّ الذين
-  قرأوا ذلك بـالفتـح، ذهبوا إلـى معنى: إن الله يعطيك، حتـى ترضى عطيَّته وثوابه إياك،
-  وكذلك تأوّله أهل التأويـل. ذكر من قال ذلك:حدثنـي يونس، قال: أخبرنا ابن وهب، قال:
-  قال ابن زيد، فـي قوله: { لَعَلَّكَ تَرْضَى } قال: الثواب، ترضى بـما يثـيبك الله
-  علـى ذلك.حدثنا القاسم، قال: ثنا الـحسين، قال: ثنـي حجاج، عن ابن جُرَيج { لَعَلَّكَ
-  تُرْضَى } قال: بـما تُعْطَى.وكأن الذين قرأوا ذلك بـالضم، وجهوا معنى الكلام إلـى
-  لعلّ الله يرضيك من عبـادتك إياه، وطاعتك له. والصواب من القول فـي ذلك عندي: أنهما
-  قراءتان، قد قرأ بكل واحدة منهما علـماء من القرّاء، وهما قراءتان مستفـيضتان فـي قَرَأة
-  الأمصار، متفقتا الـمعنى، غير مختلفتـيه وذلك أن الله تعالـى ذكره إذا أرضاه، فلا شكّ
-  أنه يرضى، وأنه إذا رضي فقد أرضاه الله، فكل واحدة منهما تدلّ علـى معنى الأخرى، فبأيتهما
-  قرأ القارىء فمصيب الصواب.\r\n\t\t\t\r\n\t\t\t1 2 3 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  فَسَبِّحْ وَأَطْرَافَ ٱلنَّهَارِ لَعَلَّكَ تَرْضَىٰ</a> <b>}</b></font>, <br/>,
+  <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">وكان
+  عاصم والكسائي يقرآن ذلك: «لَعَلَّكَ تُرْضَى» بضم التاء، ورُوي ذلك عن أبـي عبد الرحمن
+  السُّلَـميّ، وكأنّ الذين قرأوا ذلك بـالفتـح، ذهبوا إلـى معنى: إن الله يعطيك، حتـى
+  ترضى عطيَّته وثوابه إياك، وكذلك تأوّله أهل التأويـل. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، فـي قوله: {
+  لَعَلَّكَ تَرْضَى } قال: الثواب، ترضى بـما يثـيبك الله علـى ذلك.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا القاسم، قال: ثنا الـحسين، قال: ثنـي حجاج، عن ابن جُرَيج {
+  لَعَلَّكَ تُرْضَى } قال: بـما تُعْطَى.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وكأن
+  الذين قرأوا ذلك بـالضم، وجهوا معنى الكلام إلـى لعلّ الله يرضيك من عبـادتك إياه،
+  وطاعتك له. والصواب من القول فـي ذلك عندي: أنهما قراءتان، قد قرأ بكل واحدة منهما
+  علـماء من القرّاء، وهما قراءتان مستفـيضتان فـي قَرَأة الأمصار، متفقتا الـمعنى، غير
+  مختلفتـيه وذلك أن الله تعالـى ذكره إذا أرضاه، فلا شكّ أنه يرضى، وأنه إذا رضي فقد
+  أرضاه الله، فكل واحدة منهما تدلّ علـى معنى الأخرى، فبأيتهما قرأ القارىء فمصيب الصواب.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">3 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a id=\"NextClass\"/></td></tr></table></center></div></section>"
 

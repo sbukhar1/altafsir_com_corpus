@@ -1,4 +1,4 @@
-location:
+position:
   sura: '036'
   aaya: '017'
   madhab: '01'
@@ -7,17 +7,37 @@ meta:
   title: تفسير جامع البيان في تفسير القرآن
   author: الطبري
   year: '310'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ قَالُواْ مَآ أَنتُمْ
-  إِلاَّ بَشَرٌ مِّثْلُنَا وَمَآ أَنَزلَ ٱلرَّحْمَـٰنُ مِن شَيْءٍ إِنْ أَنتُمْ إِلاَّ
-  تَكْذِبُونَ } * { قَالُواْ رَبُّنَا يَعْلَمُ إِنَّآ إِلَيْكُمْ لَمُرْسَلُونَ } *
-  { وَمَا عَلَيْنَآ إِلاَّ ٱلْبَلاَغُ ٱلْمُبِينُ }يقول تعالـى ذكره: قال أصحاب القرية
-  للثلاثة الذين أُرسلوا إلـيهم حين أخبروهم أنهم أرسلوا إلـيهم بـما أرسلوا به: ما أنتـم
-  أيها القوم إلاَّ أُناس مثلنا، ولو كنتـم رسلاً كما تقولون، لكنتـم ملائكة { وَما أنْزَلَ
-  الرَّحْمَنُ مِنْ شَيْءٍ } يقول: قالوا: وما أنزل الرحمن إلـيكم من رسالة ولا كتاب
-  ولا أمركم فـينا بشيء { إنْ أنْتُـمْ إلاَّ تَكْذِبُونَ } فـي قـيـلكم إنكم إلـينا
-  مرسلون { قالُوا رَبُّنا يَعْلَـمُ إنَّا إلَـيْكُمْ لَـمُرْسَلُونَ } يقول: قال الرسل:
-  ربنا يعلـم إنا إلـيكم لـمرسلون فـيـما دعوناكم إلـيه، وإنا لصادقون { وَما عَلَـيْنا
-  إلاَّ البَلاغُ الـمُبِـينُ } يقول: وما علـينا إلاَّ أن نبلغكم رسالة الله التـي أرسلنا
-  بها إلـيكم بلاغاً يبـين لكم أنا أبلغناكموها، فإن قبلتـموها فحظّ أنفسكم تصيبون، وإن
-  لـم تقبلوها فقد أدّينا ما علـينا، والله ولـيّ الـحكم فـيه.\r\n\t\t\t\r\n\t\t\t</section>"
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(36, 15)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(36,15)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">قَالُواْ
+  مَآ أَنتُمْ إِلاَّ بَشَرٌ مِّثْلُنَا وَمَآ أَنَزلَ ٱلرَّحْمَـٰنُ مِن شَيْءٍ إِنْ
+  أَنتُمْ إِلاَّ تَكْذِبُونَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">قَالُواْ رَبُّنَا يَعْلَمُ إِنَّآ إِلَيْكُمْ
+  لَمُرْسَلُونَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">وَمَا عَلَيْنَآ إِلاَّ ٱلْبَلاَغُ ٱلْمُبِينُ</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">يقول تعالـى ذكره: قال أصحاب القرية للثلاثة الذين أُرسلوا إلـيهم
+  حين أخبروهم أنهم أرسلوا إلـيهم بـما أرسلوا به: ما أنتـم أيها القوم إلاَّ أُناس مثلنا،
+  ولو كنتـم رسلاً كما تقولون، لكنتـم ملائكة { وَما أنْزَلَ الرَّحْمَنُ مِنْ شَيْءٍ
+  } يقول: قالوا: وما أنزل الرحمن إلـيكم من رسالة ولا كتاب ولا أمركم فـينا بشيء { إنْ
+  أنْتُـمْ إلاَّ تَكْذِبُونَ } فـي قـيـلكم إنكم إلـينا مرسلون { قالُوا رَبُّنا يَعْلَـمُ
+  إنَّا إلَـيْكُمْ لَـمُرْسَلُونَ } يقول: قال الرسل: ربنا يعلـم إنا إلـيكم لـمرسلون
+  فـيـما دعوناكم إلـيه، وإنا لصادقون { وَما عَلَـيْنا إلاَّ البَلاغُ الـمُبِـينُ }
+  يقول: وما علـينا إلاَّ أن نبلغكم رسالة الله التـي أرسلنا بها إلـيكم بلاغاً يبـين
+  لكم أنا أبلغناكموها، فإن قبلتـموها فحظّ أنفسكم تصيبون، وإن لـم تقبلوها فقد أدّينا
+  ما علـينا، والله ولـيّ الـحكم فـيه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

@@ -1,4 +1,4 @@
-location:
+position:
   sura: 009
   aaya: '106'
   madhab: '01'
@@ -9,14 +9,32 @@ meta:
   year: '538'
 aaya: وَآخَرُونَ مُرْجَوْنَ لِأَمْرِ اللَّهِ إِمَّا يُعَذِّبُهُمْ وَإِمَّا يَتُوبُ
   عَلَيْهِمْ ۗ وَاللَّهُ عَلِيمٌ حَكِيمٌ
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَآخَرُونَ مُرْجَوْنَ
-  لأَمْرِ ٱللَّهِ إِمَّا يُعَذِّبُهُمْ وَإِمَّا يَتُوبُ عَلَيْهِمْ وَٱللَّهُ عَلِيمٌ
-  حَكِيمٌ }قرىء: «مرجون» و «مرجؤن» من أرجيته، وأرجأته: إذا أخرته. ومنه المرجئة، يعني:
-  وآخرون من المتخلفين موقوف أمرهم { إِمَّا يُعَذّبُهُمْ } إن بقوا على الإصرار ولم
-  يتوبوا { وَإِمَّا يَتُوبُ عَلَيْهِمْ } إن تابوا، وهم ثلاثة: كعب بن مالك، وهلال بن
-  أمية، ومرارة ابن الربيع: أمر رسول الله صلى الله عليه وسلم أصحابه أن لا يسلموا عليهم
-  ولا يكلموهم، ولم يفعلوا كما فعل أبو لبابة وأصحابه من شدّ أنفسهم على السواري وإظهار
-  الجزع والغمّ، فلما علموا أنّ أحداً لا ينظر إليهم فوّضوا أمرهم إلى الله تعالى، وأخلصوا
-  نياتهم، ونصحت توبتهم، فرحمهم الله { وَٱللَّهُ عَلِيمٌ حَكِيمٌ }. وفي قراءة عبد الله:
-  غفور رحيم. وإمّا للعباد: أي خافوا عليهم العذاب وارجوا لهم الرحمة.\r\n\t\t\t\r\n\t\t\t</section>"
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(9, 106)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(9,106)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَآخَرُونَ
+  مُرْجَوْنَ لأَمْرِ ٱللَّهِ إِمَّا يُعَذِّبُهُمْ وَإِمَّا يَتُوبُ عَلَيْهِمْ وَٱللَّهُ
+  عَلِيمٌ حَكِيمٌ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">قرىء: «مرجون» و «مرجؤن» من أرجيته،
+  وأرجأته: إذا أخرته. ومنه المرجئة، يعني: وآخرون من المتخلفين موقوف أمرهم { إِمَّا
+  يُعَذّبُهُمْ } إن بقوا على الإصرار ولم يتوبوا { وَإِمَّا يَتُوبُ عَلَيْهِمْ } إن
+  تابوا، وهم ثلاثة: كعب بن مالك، وهلال بن أمية، ومرارة ابن الربيع: أمر رسول الله صلى
+  الله عليه وسلم أصحابه أن لا يسلموا عليهم ولا يكلموهم، ولم يفعلوا كما فعل أبو لبابة
+  وأصحابه من شدّ أنفسهم على السواري وإظهار الجزع والغمّ، فلما علموا أنّ أحداً لا ينظر
+  إليهم فوّضوا أمرهم إلى الله تعالى، وأخلصوا نياتهم، ونصحت توبتهم، فرحمهم الله { وَٱللَّهُ
+  عَلِيمٌ حَكِيمٌ }. وفي قراءة عبد الله: غفور رحيم. وإمّا للعباد: أي خافوا عليهم العذاب
+  وارجوا لهم الرحمة.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

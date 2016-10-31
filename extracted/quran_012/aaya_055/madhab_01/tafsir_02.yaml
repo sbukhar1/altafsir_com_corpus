@@ -1,4 +1,4 @@
-location:
+position:
   sura: '012'
   aaya: '055'
   madhab: '01'
@@ -8,18 +8,39 @@ meta:
   author: الزمخشري
   year: '538'
 aaya: قَالَ اجْعَلْنِي عَلَىٰ خَزَائِنِ الْأَرْضِ ۖ إِنِّي حَفِيظٌ عَلِيمٌ
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ قَالَ ٱجْعَلْنِي
-  عَلَىٰ خَزَآئِنِ ٱلأَرْضِ إِنِّي حَفِيظٌ عَلِيمٌ }{ ٱجْعَلْنِى عَلَىٰ خَزَائِنِ
-  ٱلأرْضِ } ولني خزائن أرضك { إِنّى حَفِيظٌ عَلِيمٌ } أمين أحفظ ما تستحفظنيه، عالم
-  بوجوه التصرف، وصفا لنفسه بالأمانة والكفاية اللتين هما طلبة الملوك ممن يولونه، وإنما
-  قال ذلك ليتوصل إلى إمضاء أحكام الله تعالى وإقامة الحق وبسط العدل، والتمكن مما لأجله
-  تبعث الأنبياء إلى العباد، ولعلمه أنّ أحداً غيره لا يقوم مقامه في ذلك، فطلب التولية
-  ابتغاء وجه الله لا لحب الملك والدنيا. وعن النبي صلى الله عليه وسلم:(551) \" رحم
-  الله أخي يوسف، لو لم يقل اجعلني على خزائن الأرض، لاستعمله من ساعته، ولكنه أخر ذلك
-  سنة \" فإن قلت: كيف جاز أن يتولى عملا من يد كافر ويكون تبعاً له وتحت أمره وطاعته؟
-  قلت: روى مجاهد أنه كان قد أسلم: وعن قتادة. هو دليل على أنه يجوز أن يتولى الإنسان
-  عملاً من يد سلطان جائر، وقد كان السلف يتولون القضاء من جهة البغاة ويرونه. وإذا علم
-  النبي أو العالم أنه لا سبيل إلى الحكم بأمر الله ودفع الظلم إلا بتمكين الملك الكافر
-  أو الفاسق. فله أن يستظهر به. وقيل: كان الملك يصدر عن رأيه ولا يعترض عليه في كل ما
-  رأى، فكان في حكم التابع له والمطيع.\r\n\t\t\t\r\n\t\t\t</section>"
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(12, 55)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(12,55)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">قَالَ
+  ٱجْعَلْنِي عَلَىٰ خَزَآئِنِ ٱلأَرْضِ إِنِّي حَفِيظٌ عَلِيمٌ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">{ ٱجْعَلْنِى عَلَىٰ خَزَائِنِ ٱلأرْضِ } ولني خزائن أرضك { إِنّى
+  حَفِيظٌ عَلِيمٌ } أمين أحفظ ما تستحفظنيه، عالم بوجوه التصرف، وصفا لنفسه بالأمانة
+  والكفاية اللتين هما طلبة الملوك ممن يولونه، وإنما قال ذلك ليتوصل إلى إمضاء أحكام
+  الله تعالى وإقامة الحق وبسط العدل، والتمكن مما لأجله تبعث الأنبياء إلى العباد، ولعلمه
+  أنّ أحداً غيره لا يقوم مقامه في ذلك، فطلب التولية ابتغاء وجه الله لا لحب الملك والدنيا.
+  وعن النبي صلى الله عليه وسلم:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">(551)</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" رحم الله أخي يوسف، لو لم يقل
+  اجعلني على خزائن الأرض، لاستعمله من ساعته، ولكنه أخر ذلك سنة \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\">فإن قلت: كيف جاز أن يتولى عملا
+  من يد كافر ويكون تبعاً له وتحت أمره وطاعته؟ قلت: روى مجاهد أنه كان قد أسلم: وعن
+  قتادة. هو دليل على أنه يجوز أن يتولى الإنسان عملاً من يد سلطان جائر، وقد كان السلف
+  يتولون القضاء من جهة البغاة ويرونه. وإذا علم النبي أو العالم أنه لا سبيل إلى الحكم
+  بأمر الله ودفع الظلم إلا بتمكين الملك الكافر أو الفاسق. فله أن يستظهر به. وقيل:
+  كان الملك يصدر عن رأيه ولا يعترض عليه في كل ما رأى، فكان في حكم التابع له والمطيع.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

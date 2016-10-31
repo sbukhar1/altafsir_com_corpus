@@ -1,4 +1,4 @@
-location:
+position:
   sura: '004'
   aaya: '002'
   madhab: '01'
@@ -7,51 +7,114 @@ meta:
   title: تفسير الكشاف
   author: الزمخشري
   year: '538'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَآتُواْ ٱلْيَتَامَىٰ
-  أَمْوَالَهُمْ وَلاَ تَتَبَدَّلُواْ ٱلْخَبِيثَ بِٱلطَّيِّبِ وَلاَ تَأْكُلُوۤاْ أَمْوَالَهُمْ
-  إِلَىٰ أَمْوَالِكُمْ إِنَّهُ كَانَ حُوباً كَبِيراً }{ ٱلْيَتَـٰمَىٰ } الذين مات
-  آباؤهم فانفردوا عنهم. واليتم الانفراد. ومنه: الرملة اليتيمة والدرّة اليتيمة. وقيل:
-  اليتم في الأناسي من قبل الآباء. وفي البهائم من قبل الأمهات. فإن قلت: كيف جمع اليتيم
-  ـ وهو فعيل كمريض ـ على يتامى؟ قلت: فيه وجهان: أن يجمع على يتمى كأسرى، لأنّ اليتم
-  من وادي الآفات والأوجاع، ثم يجمع فعلى على فعالى كأسارى. ويجوز أن يجمع على فعائل
-  لجري اليتم مجرى الأسماء، نحو صاحب وفارس، فيقال: يتائم، ثم يتامى على القلب. وحق هذا
-  الاسم أن يقع على الصغار والكبار لبقاء معنى الانفراد عن الآباء، إلا أنه قد غلب أن
-  يسموا به قبل أن يبلغوا مبلغ الرجال، فإذا استغنوا بأنفسهم عن كافل وقائم عليهم وانتصبوا
-  كفاة يكفلون غيرهم ويقومون عليهم، زال عنهم هذا الاسم، وكانت قريش تقول لرسول الله
-  صلى الله عليه وسلم: يتيم أبي طالب، إمّا على القياس وإما حكاية للحال التي كان عليها
-  صغيراً ناشئاً في حجر عمه توضيعاً له. وأمّا قوله عليه السلام:(251) \" لا يتم بعد
-  الحلم \" فما هو إلا تعليم شريعة لا لغة، يعني أنه إذا احتلم لم تجر عليه أحكام الصغار.
-  فإن قلت: فما معنى قوله: { وَءاتُواْ ٱلْيَتَـٰمَىٰ أَمْوٰلَهُمْ }؟ قلت: إما أن يراد
-  باليتامى الصغار، وبإتيانهم الأموال: أن لا يطمع فيها الأولياء والأوصياء وولاة السوء
-  وقضاته ويكفوا عنها أيديهم الخاطفة، حتى تأتي اليتامى إذا بلغوا سالمة غير محذوفة.
-  وإمّا أن يراد الكبار تسمية لهم يتامى على القياس، أو لقرب عهدهم ـ إذا بلغوا ـ بالصغر،
-  كما تسمى الناقة عشراء بعد وضعها. على أنّ فيه إشارة إلى أن لا يؤخر دفع أموالهم إليهم
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(4, 2)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(4,2)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَآتُواْ
+  ٱلْيَتَامَىٰ أَمْوَالَهُمْ وَلاَ تَتَبَدَّلُواْ ٱلْخَبِيثَ بِٱلطَّيِّبِ وَلاَ تَأْكُلُوۤاْ
+  أَمْوَالَهُمْ إِلَىٰ أَمْوَالِكُمْ إِنَّهُ كَانَ حُوباً كَبِيراً</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">{ ٱلْيَتَـٰمَىٰ } الذين مات آباؤهم فانفردوا عنهم. واليتم الانفراد.
+  ومنه: الرملة اليتيمة والدرّة اليتيمة. وقيل: اليتم في الأناسي من قبل الآباء. وفي
+  البهائم من قبل الأمهات. فإن قلت: كيف جمع اليتيم ـ وهو فعيل كمريض ـ على يتامى؟ قلت:
+  فيه وجهان: أن يجمع على يتمى كأسرى، لأنّ اليتم من وادي الآفات والأوجاع، ثم يجمع فعلى
+  على فعالى كأسارى. ويجوز أن يجمع على فعائل لجري اليتم مجرى الأسماء، نحو صاحب وفارس،
+  فيقال: يتائم، ثم يتامى على القلب. وحق هذا الاسم أن يقع على الصغار والكبار لبقاء
+  معنى الانفراد عن الآباء، إلا أنه قد غلب أن يسموا به قبل أن يبلغوا مبلغ الرجال، فإذا
+  استغنوا بأنفسهم عن كافل وقائم عليهم وانتصبوا كفاة يكفلون غيرهم ويقومون عليهم، زال
+  عنهم هذا الاسم، وكانت قريش تقول لرسول الله صلى الله عليه وسلم: يتيم أبي طالب، إمّا
+  على القياس وإما حكاية للحال التي كان عليها صغيراً ناشئاً في حجر عمه توضيعاً له.
+  وأمّا قوله عليه السلام:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">(251)</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" لا يتم بعد الحلم \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">فما
+  هو إلا تعليم شريعة لا لغة، يعني أنه إذا احتلم لم تجر عليه أحكام الصغار. فإن قلت:
+  فما معنى قوله: { وَءاتُواْ ٱلْيَتَـٰمَىٰ أَمْوٰلَهُمْ }؟ قلت: إما أن يراد باليتامى
+  الصغار، وبإتيانهم الأموال: أن لا يطمع فيها الأولياء والأوصياء وولاة السوء وقضاته
+  ويكفوا عنها أيديهم الخاطفة، حتى تأتي اليتامى إذا بلغوا سالمة غير محذوفة. وإمّا أن
+  يراد الكبار تسمية لهم يتامى على القياس، أو لقرب عهدهم ـ إذا بلغوا ـ بالصغر، كما
+  تسمى الناقة عشراء بعد وضعها. على أنّ فيه إشارة إلى أن لا يؤخر دفع أموالهم إليهم
   عن حد البلوغ، ولا يمطلوا إن أونس منهم الرشد، وأن يؤتوها قبل أن يزول عنهم اسم اليتامى
-  والصغار.(252) وقيل: هي في رجل من غطفان كان معه مال كثير لابن أخ له يتيم، فلما بلغ
-  طلب المال فمنعه عمه فترافعا إلى النَّبي صلى الله عليه وسلم فنزلت، فلما سمعها العمُّ
-  قال: أطعنا الله وأطعنا الرسول، نعوذ بالله من الحوب الكبير، فدفع ماله إليه؛ فقال
-  النبي عليه السلام: «ومن يوق شح نفسه ويطع ربه هكذا فإنه يحل داره ـ يعني جنته ـ فلما
-  قبض ألفوا ماله أنفقه في سبيل الله، فقال النبي صلى الله عليه وسلم: «ثبت الأجر، ثبت
-  الأجر وبقي الوزر»، قالوا: يا رسول الله، قد عرفنا أنه ثبت الأجر كيف بقي الوزر وهو
-  ينفق في سبيل الله؟ فقال: «ثبت أجر الغلام، وبقي الوزر على والده».{ وَلاَ تَتَبَدَّلُواْ
-  ٱلْخَبِيثَ بِٱلطَّيّبِ } ولا تستبدلوا الحرام وهو مال اليتامى بالحلال وهو مالكم وما
-  أبيح لكم من المكاسب ورزق الله المبثوث في الأرض فتأكلوه مكانه.\r\n\t\t\t\r\n\t\t\t1 2 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَآتُواْ ٱلْيَتَامَىٰ أَمْوَالَهُمْ
-  وَلاَ تَتَبَدَّلُواْ ٱلْخَبِيثَ بِٱلطَّيِّبِ وَلاَ تَأْكُلُوۤاْ أَمْوَالَهُمْ إِلَىٰ
-  أَمْوَالِكُمْ إِنَّهُ كَانَ حُوباً كَبِيراً }أو لا تستبدلوا الأمر الخبيث وهو اختزال
-  أموال اليتامى بالأمر الطيب وهو حفظها والتورع منها والتفعل بمعنى الاستفعال غير عزيز.
-  منه التعجل بمعنى الاستعجال، والتأخر بمعنى الاستئخار. قال ذو الرمّة:فَيَا كَرَمَ
-  السَّكْنِ الَّذِينَ تَحَمَّلُوا   عَنِ الدَّارِ وَالْمُسْتَخْلَفِ الْمُتَبَدَّلِأراد:
-  ويا لؤم ما استخلفته الدال واستبدلته. وقيل: هو أن يعطي رديئاً ويأخذ جيداً. وعن السدي:
-  أن يجعل شاة مهزولة مكان سمينة، وهذا ليس بتبدل، وإنما هو تبديل إلا أن يكارم صديقاً
-  له فيأخذ منه عجفاء مكان سمينة من مال الصبي { وَلاَ تَأْكُلُواْ أَمْوٰلَهُمْ إِلَىٰ
-  أَمْوٰلِكُمْ } ولا تنفقوها معها. وحقيقتها: ولا تضموها إليها في الإنفاق، حتى لا تفرقوا
-  بين أموالكم وأموالهم قلة مبالاة بما لا يحل لكم. وتسوية بينه وبين الحلال. فإن قلت:
-  قد حرم عليهم أكل مال اليتامى وحده ومع أموالهم، فلمَ ورد النهي عن أكله؟ معها قلت:
-  لأنهم إذا كانوا مستغنين عن أموال اليتامى بما رزقهم الله من مال حلال ـ وهم على ذلك
-  يطمعون فيها ـ كان القبح أبلغ والذم أحق ولأنهم كانوا يفعلون كذلك قنعىٰ عليهم فعلهم
-  وَسَمّع َبهم، ليكون أزجر لهم. والحوب: الذنب العظيم. ومنه قوله عليه الصلاة و السلام:(253)
-  \" إن طلاق أم أيوب لحوب \" فكأنه قيل: إنه كان ذنباً كبيراً. وقرأ الحسن «حوبا» بفتح
-  الحاء وهو مصدر حاب حوبا. وقرىء: «حابا». ونظير الحوب والحاب: القول والقال. والطرد
-  والطرد.\r\n\t\t\t\r\n\t\t\t1 2 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  والصغار.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">(252) وقيل: هي في رجل من غطفان
+  كان معه مال كثير لابن أخ له يتيم، فلما بلغ طلب المال فمنعه عمه فترافعا إلى النَّبي
+  صلى الله عليه وسلم فنزلت، فلما سمعها العمُّ قال: أطعنا الله وأطعنا الرسول، نعوذ
+  بالله من الحوب الكبير، فدفع ماله إليه؛ فقال النبي عليه السلام: «ومن يوق شح نفسه
+  ويطع ربه هكذا فإنه يحل داره ـ يعني جنته ـ فلما قبض ألفوا ماله أنفقه في سبيل الله،
+  فقال النبي صلى الله عليه وسلم: «ثبت الأجر، ثبت الأجر وبقي الوزر»، قالوا: يا رسول
+  الله، قد عرفنا أنه ثبت الأجر كيف بقي الوزر وهو ينفق في سبيل الله؟ فقال: «ثبت أجر
+  الغلام، وبقي الوزر على والده».</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">{
+  وَلاَ تَتَبَدَّلُواْ ٱلْخَبِيثَ بِٱلطَّيّبِ } ولا تستبدلوا الحرام وهو مال اليتامى
+  بالحلال وهو مالكم وما أبيح لكم من المكاسب ورزق الله المبثوث في الأرض فتأكلوه مكانه.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(2,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(2,2,1)\"><u>2</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(4, 2)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(4,2)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَآتُواْ ٱلْيَتَامَىٰ أَمْوَالَهُمْ وَلاَ تَتَبَدَّلُواْ
+  ٱلْخَبِيثَ بِٱلطَّيِّبِ وَلاَ تَأْكُلُوۤاْ أَمْوَالَهُمْ إِلَىٰ أَمْوَالِكُمْ إِنَّهُ
+  كَانَ حُوباً كَبِيراً</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">أو لا تستبدلوا الأمر الخبيث وهو
+  اختزال أموال اليتامى بالأمر الطيب وهو حفظها والتورع منها والتفعل بمعنى الاستفعال
+  غير عزيز. منه التعجل بمعنى الاستعجال، والتأخر بمعنى الاستئخار. قال ذو الرمّة:</font></font><table
+  class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">فَيَا كَرَمَ السَّكْنِ الَّذِينَ تَحَمَّلُوا</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">عَنِ الدَّارِ وَالْمُسْتَخْلَفِ الْمُتَبَدَّلِ</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">أراد: ويا لؤم ما استخلفته الدال
+  واستبدلته. وقيل: هو أن يعطي رديئاً ويأخذ جيداً. وعن السدي: أن يجعل شاة مهزولة مكان
+  سمينة، وهذا ليس بتبدل، وإنما هو تبديل إلا أن يكارم صديقاً له فيأخذ منه عجفاء مكان
+  سمينة من مال الصبي { وَلاَ تَأْكُلُواْ أَمْوٰلَهُمْ إِلَىٰ أَمْوٰلِكُمْ } ولا تنفقوها
+  معها. وحقيقتها: ولا تضموها إليها في الإنفاق، حتى لا تفرقوا بين أموالكم وأموالهم
+  قلة مبالاة بما لا يحل لكم. وتسوية بينه وبين الحلال. فإن قلت: قد حرم عليهم أكل مال
+  اليتامى وحده ومع أموالهم، فلمَ ورد النهي عن أكله؟ معها قلت: لأنهم إذا كانوا مستغنين
+  عن أموال اليتامى بما رزقهم الله من مال حلال ـ وهم على ذلك يطمعون فيها ـ كان القبح
+  أبلغ والذم أحق ولأنهم كانوا يفعلون كذلك قنعىٰ عليهم فعلهم وَسَمّع َبهم، ليكون أزجر
+  لهم. والحوب: الذنب العظيم. ومنه قوله عليه الصلاة و السلام:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">(253)</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" إن طلاق أم أيوب لحوب \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\">فكأنه قيل: إنه كان ذنباً كبيراً.
+  وقرأ الحسن «حوبا» بفتح الحاء وهو مصدر حاب حوبا. وقرىء: «حابا». ونظير الحوب والحاب:
+  القول والقال. والطرد والطرد.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(2,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(2,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section>"
 

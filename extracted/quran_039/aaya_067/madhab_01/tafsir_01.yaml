@@ -1,4 +1,4 @@
-location:
+position:
   sura: 039
   aaya: '067'
   madhab: '01'
@@ -7,142 +7,339 @@ meta:
   title: تفسير جامع البيان في تفسير القرآن
   author: الطبري
   year: '310'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ بَلِ ٱللَّهَ فَٱعْبُدْ
-  وَكُن مِّنَ ٱلشَّاكِرِينَ } * { وَمَا قَدَرُواْ ٱللَّهَ حَقَّ قَدْرِهِ وَٱلأَرْضُ
-  جَمِيعـاً قَبْضَـتُهُ يَوْمَ ٱلْقِيَـٰمَةِ وَٱلسَّمَٰوَٰتُ مَطْوِيَّاتٌ بِيَمِينِهِ
-  سُبْحَانَهُ وَتَعَالَىٰ عَمَّا يُشْرِكُونَ }يقول تعالى ذكره لنبيه محمد صلى الله
-  عليه وسلم: لا تعبد ما أمرك به هؤلاء المشركون من قومك يا محمد بعبادته، بل الله فاعبد
-  دون كلّ ما سواه من الآلهة والأوثان والأنداد { وكُنْ مِنَ الشَّاكِرِينَ } لله على
-  نعمته عليك بما أنعم عليك من الهداية لعبادته، والبراءة من عبادة الأصنام والأوثان.
-  ونصب اسم الله بقوله { فاعْبُدْ } وهو بعده، لأنه رد كلام، ولو نصب بمضمر قبله، إذ
-  كانت العرب تقول: زيد فليقم، وزيداً فليقم، رفعاً ونصباً، الرفع على فلينظر زيد، فليقم،
-  والنصب على انظروا زيداً فليقم، كان صحيحاً جائزاً.وقوله: { وَما قَدَرُوا اللَّهَ
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(39, 66)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(39,66)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">بَلِ
+  ٱللَّهَ فَٱعْبُدْ وَكُن مِّنَ ٱلشَّاكِرِينَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَمَا قَدَرُواْ
+  ٱللَّهَ حَقَّ قَدْرِهِ وَٱلأَرْضُ جَمِيعـاً قَبْضَـتُهُ يَوْمَ ٱلْقِيَـٰمَةِ وَٱلسَّمَٰوَٰتُ
+  مَطْوِيَّاتٌ بِيَمِينِهِ سُبْحَانَهُ وَتَعَالَىٰ عَمَّا يُشْرِكُونَ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">يقول تعالى ذكره لنبيه محمد صلى الله عليه وسلم: لا تعبد ما أمرك به
+  هؤلاء المشركون من قومك يا محمد بعبادته، بل الله فاعبد دون كلّ ما سواه من الآلهة
+  والأوثان والأنداد { وكُنْ مِنَ الشَّاكِرِينَ } لله على نعمته عليك بما أنعم عليك
+  من الهداية لعبادته، والبراءة من عبادة الأصنام والأوثان. ونصب اسم الله بقوله { فاعْبُدْ
+  } وهو بعده، لأنه رد كلام، ولو نصب بمضمر قبله، إذ كانت العرب تقول: زيد فليقم، وزيداً
+  فليقم، رفعاً ونصباً، الرفع على فلينظر زيد، فليقم، والنصب على انظروا زيداً فليقم،
+  كان صحيحاً جائزاً.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقوله: { وَما قَدَرُوا اللَّهَ
   حَقَّ قَدْرِهِ } يقول تعالى ذكره: وما عظَّم الله حقّ عظمته، هؤلاء المشركون بالله،
   الذين يدعونك إلى عبادة الأوثان. وبنحو الذي قلنا في ذلك قال أهل التأويل. ذكر من قال
-  ذلك:حدثني عليّ، قال: ثنا أبو صالح، قال: ثني معاوية، عن عليّ، عن ابن عباس، قوله:
-  { وَما قَدَرُوا اللَّهَ حَقَّ قَدْرِهِ } قال: هم الكفار الذين لم يؤمنوا بقدرة الله
-  عليهم، فمن آمن أن الله على كلّ شيء قدير، فقد قدر الله حقّ قدره، ومن لم يؤمن بذلك،
-  فلم يقدر الله حقّ قدره.حدثنا محمد، قال: ثنا أحمد، قال: ثنا أسباط، عن السديّ { وَما
-  قَدَرُوا اللَّهٍ حَقَّ قَدْرِهِ }: ما عظَّموا الله حقّ عظمته.وقوله: { والأرْضُ جَمِيعاً
-  قَبْضَتُهُ يَوْمَ القيامَةِ } يقول تعالى ذكره: والأرض كلها قبضته في يوم القيامة
-  { والسَّمَوَاتُ } كلها { مَطْوِيَّاتٌ بِيَمِينِهِ } فالخبر عن الأرض منتاه عند قوله:
-  يوم القيامة، والأرض مرفوعة بقوله { قَبْضَتُهُ } ، ثم استأنف الخبر عن السموات، فقال:
-  { والسَّمَوَاتُ مَطْوياتٌ بيَمِينِهِ } وهي مرفوعة بمطويات.ورُوي عن ابن عباس وجماعة
-  غيره أنهم كانوا يقولون: الأرض والسموات جميعاً في يمينه يوم القيامة. ذكر الرواية
-  بذلك:حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن
-  عباس، قوله: { والأرْضُ جَمِيعاً قَبْضَتُهُ يَوْمَ القيامَةِ } يقول: قد قبض الأرضين
-  والسموات جميعاً بيمينه، ألم تسمع أنه قال: { مَطْوِياتٌ بِيَمِينِهِ } يعني: الأرض
-  والسموات بيمينه جميعاً، قال ابن عباس: وإنما يستعين بشماله المشغولة يمينه.حدثنا ابن
-  بشار، قال: ثنا معاذ بن هشام، قال: ثني أبي عن عمرو بن مالك، عن أبي الجوزاء، عن ابن
-  عباس، قال: ما السموات السبع، والأرضون السبع في يد الله إلا كخردلة في يد أحدكمقال:
-  ثنا معاذ بن هشام، قال: ثني أبي، عن قتادة، قال: ثنا النضر بن أنس، عن ربيعة الجُرْسي،
-  قال: { والأرْضُ جَمِيعاً قَبْضَتُهُ يَوْمَ القيامَةِ والسَّمَوَاتُ مَطْوِيَّاتٌ
-  بِيَمِينِهِ } قال: ويده الأخرى خلو ليس فيها شيء.حدثني عليّ بن الحسن الأزديّ، قال:
+  ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثني عليّ، قال: ثنا أبو صالح،
+  قال: ثني معاوية، عن عليّ، عن ابن عباس، قوله: { وَما قَدَرُوا اللَّهَ حَقَّ قَدْرِهِ
+  } قال: هم الكفار الذين لم يؤمنوا بقدرة الله عليهم، فمن آمن أن الله على كلّ شيء قدير،
+  فقد قدر الله حقّ قدره، ومن لم يؤمن بذلك، فلم يقدر الله حقّ قدره.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا محمد، قال: ثنا أحمد، قال: ثنا أسباط، عن السديّ { وَما قَدَرُوا
+  اللَّهٍ حَقَّ قَدْرِهِ }: ما عظَّموا الله حقّ عظمته.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقوله:
+  { والأرْضُ جَمِيعاً قَبْضَتُهُ يَوْمَ القيامَةِ } يقول تعالى ذكره: والأرض كلها قبضته
+  في يوم القيامة { والسَّمَوَاتُ } كلها { مَطْوِيَّاتٌ بِيَمِينِهِ } فالخبر عن الأرض
+  منتاه عند قوله: يوم القيامة، والأرض مرفوعة بقوله { قَبْضَتُهُ } ، ثم استأنف الخبر
+  عن السموات، فقال: { والسَّمَوَاتُ مَطْوياتٌ بيَمِينِهِ } وهي مرفوعة بمطويات.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">ورُوي عن ابن عباس وجماعة غيره أنهم كانوا يقولون: الأرض والسموات
+  جميعاً في يمينه يوم القيامة. ذكر الرواية بذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن ابن عباس، قوله:
+  { والأرْضُ جَمِيعاً قَبْضَتُهُ يَوْمَ القيامَةِ } يقول: قد قبض الأرضين والسموات
+  جميعاً بيمينه، ألم تسمع أنه قال: { مَطْوِياتٌ بِيَمِينِهِ } يعني: الأرض والسموات
+  بيمينه جميعاً، قال ابن عباس: وإنما يستعين بشماله المشغولة يمينه.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن بشار، قال: ثنا معاذ بن هشام، قال: ثني أبي عن عمرو بن مالك،
+  عن أبي الجوزاء، عن ابن عباس، قال: ما السموات السبع، والأرضون السبع في يد الله إلا
+  كخردلة في يد أحدكم</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">قال: ثنا معاذ بن هشام، قال: ثني
+  أبي، عن قتادة، قال: ثنا النضر بن أنس، عن ربيعة الجُرْسي، قال: { والأرْضُ جَمِيعاً
+  قَبْضَتُهُ يَوْمَ القيامَةِ والسَّمَوَاتُ مَطْوِيَّاتٌ بِيَمِينِهِ } قال: ويده الأخرى
+  خلو ليس فيها شيء.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثني عليّ بن الحسن الأزديّ، قال:
   ثنا يحيى بن يمان، عن عمار بن عمرو، عن الحسن، في قوله: { والأرْضُ جَمِيعاً قَبْضَتُهُ
-  يَوْمَ القيامَةِ } قال: كأنها جوزة بقضها وقضيضها.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ بَلِ ٱللَّهَ فَٱعْبُدْ وَكُن مِّنَ
-  ٱلشَّاكِرِينَ } * { وَمَا قَدَرُواْ ٱللَّهَ حَقَّ قَدْرِهِ وَٱلأَرْضُ جَمِيعـاً
-  قَبْضَـتُهُ يَوْمَ ٱلْقِيَـٰمَةِ وَٱلسَّمَٰوَٰتُ مَطْوِيَّاتٌ بِيَمِينِهِ سُبْحَانَهُ
-  وَتَعَالَىٰ عَمَّا يُشْرِكُونَ }حُدثت عن الحسين، قال: سمعت أبا معاذ يقول: ثنا عبيد،
-  قال: سمعت الضحاك يقول في قوله: { والأرْضُ جَمِيعاً قَبْضَتُهُ يَوْمَ القيامَةِ }
-  يقول: السموات والأرض مطويات بيمينه جميعاً.وكان ابن عباس يقول: إنما يستعين بشماله
-  المشغولة يمينه، وإنما الأرض والسموات كلها بيمينه، وليس في شماله شيء.حدثنا الربيع،
-  قال: ثنا ابن وهب، قال: أخبرني أُسامة بن زيد، عن أبي حازم، عن عبد الله بن عمر، أنه
-  رأى رسول الله صلى الله عليه وسلم، على المنبر يخطب الناس، فمر بهذه الآية: { وَما
-  قَدَرُوا اللَّهَ حَقَّ قَدْرِهِ والأرْضُ جَمِيعاً قَبْضَتُهُ يَوْمَ القيامَةِ }
-  فقال رسول الله صلى الله عليه وسلم: \" يَأْخُذُ السَّمَوَاتِ والأرْضَينِ السَّبْعَ
-  فَيَجْعَلُها في كَفِّهِ، ثُمَّ يَقُولُ بِهِما كمَا يَقُولُ الغُلامُ بالكُرَةِ: أنا
-  اللَّهُ الوَاحِدُ، أنا اللَّهُ العَزِيزُ \" حتى لقد رأينا المنبر وإنه ليكاد أن يسقط
-  به.حدثنا ابن بشار، قال: ثنا يحيى، عن سفيان، قال: ثني منصور وسليمان، عن إبراهيم،
-  عن عبيدة السَّلْماني، عن عبد الله، قال: جاء يهوديّ إلى النبيّ صلى الله عليه وسلم
-  فقال: يا محمد إن الله يمسك السموات على أصبع، والأرضين على أصبع، والجبال على أصبع،
-  والخلائق على أصبع، ثم يقول: أنا الملك قال: فضحك النبي صلى الله عليه وسلم حتى بدت
-  نواجذه وقال: وَما قَدَرُوا اللَّهَ حَقَّ قَدْرِهِ.حدثنا ابن بشار، قال: ثنا يحيى،
-  قال: ثنا فضيل بن عياض، عن منصور، عن إبراهيم، عن عبيدة عن عبد الله، قال: فضحك النبيّ
-  صلى الله عليه وسلم تعجباً وتصديقاً.حدثنا محمد بن الحسين، قال: ثنا أحمد بن المفضل،
-  قال: ثنا أسباط، عن السدي، عن منصور، عن خيثمة بن عبد الرحمن، عن علقمة، عن عبد الله
-  بن مسعود، قال: كنا عند رسول الله صلى الله عليه وسلم، حين جاءه حبر من أحبار اليهود،
-  فجلس إليه، فقال له النبيّ صلى الله عليه وسلم: \" حَدِّثْنا \" قال: إن الله تبارك
-  وتعالى إذا كان يوم القيامة، جعل السموات على أصبع، والأرضين على أصبع، والجبال على
-  أصبع، والماء والشجر على أصبع، وجميع الخلائق على أصبع ثم يهزهنّ ثم يقول: أنا الملك،
-  قال: فضحك رسول الله صلى الله عليه وسلم حتى بدت نواجذه تصديقاً لما قال، ثم قرأ هذه
-  الآية: { وَمَا قَدَرُوا اللَّهَ حَقَّ قَدْرِهِ... } الآية».حدثنا محمد، قال: ثنا
-  أحمد، قال: ثنا أسباط، عن السدي، نحو ذلك.حدثني سليمان بن عبد الجبار، وعباس بن أبي
-  طالب، قالا: ثنا محمد بن الصلت، قال: ثنا أبو كدينة عن عطاء بن السائب، عن أبي الضحى،
-  عن ابن عباس، قال: مرّ يهوديّ بالنبيّ صلى الله عليه وسلم وهو جالس، فقال:\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ بَلِ ٱللَّهَ فَٱعْبُدْ وَكُن مِّنَ
-  ٱلشَّاكِرِينَ } * { وَمَا قَدَرُواْ ٱللَّهَ حَقَّ قَدْرِهِ وَٱلأَرْضُ جَمِيعـاً
-  قَبْضَـتُهُ يَوْمَ ٱلْقِيَـٰمَةِ وَٱلسَّمَٰوَٰتُ مَطْوِيَّاتٌ بِيَمِينِهِ سُبْحَانَهُ
-  وَتَعَالَىٰ عَمَّا يُشْرِكُونَ } \" يا يَهُوديُّ حَدّثْنا \" فقال: كيف تقول يا أبا
-  القاسم يوم يجعل الله السماء على ذه، والأرض على ذه، والجبال على ذه، وسائر الخلق على
-  ذه، فأنزل الله { وَما قَدَرُوا اللَّهَ حَقَّ قَدْرِه... } الآية.حدثني أبو السائب،
-  قال: ثنا أبو معاوية، عن الأعمش، عن إبراهيم، عن علقمة، عن عبد الله، قال: أتى النبي
-  صلى الله عليه وسلم رجل من أهل الكتاب، فقال: يا أبا القاسم أبلغك أن الله يحمل الخلائق
-  على أصبع، والسموات على أصبع، والأرضين على أصبع، والشجر على أصبع، والثرى على أصبع؟
-  قال فضحك النبيّ صلى الله عليه وسلم حتى بدت نواجذه، فأنزل الله { وَما قَدَرُوا اللَّهَ
-  حَقَّ قَدْرِهِ والأرْضُ جَمِيعاً قَبْضَتُهُ... } إلى آخر الآية.وقال آخرون: بل السموات
-  في يمينه، والأرضون في شماله. ذكر من قال ذلك:حدثنا عليّ بن داود، قال: ثنا ابن أبي
-  مريم، قال: أخبرنا ابن أبي حازم، قال: ثني أبو حازم، عن عبيد الله بن مِقْسَمِ، أنه
-  سمع عبد الله بن عمر يقول: رأيت رسول الله صلى الله عليه وسلم وهو على المنبر يقول:
-  \" يَأْخُذُ الجَبَّارُ سَمَوَاتِهِ وأرْضِهِ بِيَدَيْهِ \" وقبض رسول الله صلى الله
-  عليه وسلم يديه، وجعل يقبضهما ويبسطهما، قال: ثمَّ يَقُولُ: \" أنا الرَّحْمَنُ أنا
-  المَلِكُ، أيْنَ الجَبَّارُونَ، أيْنَ المُتَكَبِّرُونَ \" وتمايل رسول الله صلى الله
-  عليه وسلم عن يمينه، وعن شماله، حتى نظرت إلى المنبر يتحركّ من أسفل شيء منه، حتى إني
-  لأقول: أساقطٌ هو برسول الله صلى الله عليه وسلم؟.حدثني أبو علقمة الفروي عبد الله
-  بن محمد، قال: ثني عبد الله بن نافع، عن عبد العزيز بن أبي حازم، عن أبيه، عن عبيد
-  بن عمير، عن عبد الله بن عمر، أنه قال: سمعت رسول الله صلى الله عليه وسلم يقول: \"
-  يَأْخُذُ الجَبَّارُ سَمَوَاتِهِ وأرْضَهُ بيَدِهِ \" وقبض يده فجعل يقبضها ويبسطها،
-  ثم يقول: \" أنا الجَبَّارُ، أنا المَلِكُ، أيْن الجَبَّارُونَ، أيْنَ المُتَكَبِّرُونَ؟
-  \" قال: ويميل رسول الله صلى الله عليه وسلم عن يمينه وعن شماله، حتى نظرت إلى المنبر
-  يتحركّ من أسفل شيء منه، حتى إني لأقول: أساقط هو برسول الله صلى الله عليه وسلم؟».حدثني
+  يَوْمَ القيامَةِ } قال: كأنها جوزة بقضها وقضيضها.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(39, 66)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(39,66)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">بَلِ ٱللَّهَ فَٱعْبُدْ وَكُن مِّنَ ٱلشَّاكِرِينَ</a>
+  <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَمَا
+  قَدَرُواْ ٱللَّهَ حَقَّ قَدْرِهِ وَٱلأَرْضُ جَمِيعـاً قَبْضَـتُهُ يَوْمَ ٱلْقِيَـٰمَةِ
+  وَٱلسَّمَٰوَٰتُ مَطْوِيَّاتٌ بِيَمِينِهِ سُبْحَانَهُ وَتَعَالَىٰ عَمَّا يُشْرِكُونَ</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">حُدثت عن الحسين، قال: سمعت أبا معاذ يقول: ثنا عبيد، قال: سمعت الضحاك
+  يقول في قوله: { والأرْضُ جَمِيعاً قَبْضَتُهُ يَوْمَ القيامَةِ } يقول: السموات والأرض
+  مطويات بيمينه جميعاً.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وكان ابن عباس يقول: إنما يستعين
+  بشماله المشغولة يمينه، وإنما الأرض والسموات كلها بيمينه، وليس في شماله شيء.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا الربيع، قال: ثنا ابن وهب، قال: أخبرني أُسامة بن زيد، عن أبي
+  حازم، عن عبد الله بن عمر، أنه رأى رسول الله صلى الله عليه وسلم، على المنبر يخطب
+  الناس، فمر بهذه الآية: { وَما قَدَرُوا اللَّهَ حَقَّ قَدْرِهِ والأرْضُ جَمِيعاً
+  قَبْضَتُهُ يَوْمَ القيامَةِ } فقال رسول الله صلى الله عليه وسلم:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" يَأْخُذُ السَّمَوَاتِ والأرْضَينِ
+  السَّبْعَ فَيَجْعَلُها في كَفِّهِ، ثُمَّ يَقُولُ بِهِما كمَا يَقُولُ الغُلامُ بالكُرَةِ:
+  أنا اللَّهُ الوَاحِدُ، أنا اللَّهُ العَزِيزُ \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">حتى لقد رأينا المنبر وإنه ليكاد أن يسقط به.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن بشار، قال: ثنا يحيى، عن سفيان، قال: ثني منصور وسليمان، عن إبراهيم، عن عبيدة
+  السَّلْماني، عن عبد الله، قال: جاء يهوديّ إلى النبيّ صلى الله عليه وسلم فقال: يا
+  محمد إن الله يمسك السموات على أصبع، والأرضين على أصبع، والجبال على أصبع، والخلائق
+  على أصبع، ثم يقول: أنا الملك قال: فضحك النبي صلى الله عليه وسلم حتى بدت نواجذه وقال:
+  وَما قَدَرُوا اللَّهَ حَقَّ قَدْرِهِ.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن بشار، قال: ثنا يحيى، قال: ثنا فضيل بن عياض، عن منصور، عن إبراهيم، عن عبيدة عن
+  عبد الله، قال: فضحك النبيّ صلى الله عليه وسلم تعجباً وتصديقاً.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا محمد بن الحسين، قال: ثنا أحمد بن المفضل، قال: ثنا أسباط، عن
+  السدي، عن منصور، عن خيثمة بن عبد الرحمن، عن علقمة، عن عبد الله بن مسعود، قال: كنا
+  عند رسول الله صلى الله عليه وسلم، حين جاءه حبر من أحبار اليهود، فجلس إليه، فقال
+  له النبيّ صلى الله عليه وسلم:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" حَدِّثْنا \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">قال: إن الله تبارك وتعالى إذا كان يوم القيامة، جعل السموات على أصبع،
+  والأرضين على أصبع، والجبال على أصبع، والماء والشجر على أصبع، وجميع الخلائق على أصبع
+  ثم يهزهنّ ثم يقول: أنا الملك، قال: فضحك رسول الله صلى الله عليه وسلم حتى بدت نواجذه
+  تصديقاً لما قال، ثم قرأ هذه الآية: { وَمَا قَدَرُوا اللَّهَ حَقَّ قَدْرِهِ... }
+  الآية».</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا محمد، قال: ثنا أحمد، قال:
+  ثنا أسباط، عن السدي، نحو ذلك.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  سليمان بن عبد الجبار، وعباس بن أبي طالب، قالا: ثنا محمد بن الصلت، قال: ثنا أبو كدينة
+  عن عطاء بن السائب، عن أبي الضحى، عن ابن عباس، قال: مرّ يهوديّ بالنبيّ صلى الله عليه
+  وسلم وهو جالس، فقال:</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(39, 66)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(39,66)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">بَلِ ٱللَّهَ فَٱعْبُدْ وَكُن مِّنَ ٱلشَّاكِرِينَ</a>
+  <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَمَا
+  قَدَرُواْ ٱللَّهَ حَقَّ قَدْرِهِ وَٱلأَرْضُ جَمِيعـاً قَبْضَـتُهُ يَوْمَ ٱلْقِيَـٰمَةِ
+  وَٱلسَّمَٰوَٰتُ مَطْوِيَّاتٌ بِيَمِينِهِ سُبْحَانَهُ وَتَعَالَىٰ عَمَّا يُشْرِكُونَ</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\"/></font><b><font class=\"TextResultArabic\"><font color=\"Red\">
+  \" يا يَهُوديُّ حَدّثْنا \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">فقال: كيف تقول يا أبا القاسم يوم يجعل الله السماء على ذه، والأرض
+  على ذه، والجبال على ذه، وسائر الخلق على ذه، فأنزل الله { وَما قَدَرُوا اللَّهَ حَقَّ
+  قَدْرِه... } الآية.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثني أبو السائب، قال: ثنا أبو
+  معاوية، عن الأعمش، عن إبراهيم، عن علقمة، عن عبد الله، قال: أتى النبي صلى الله عليه
+  وسلم رجل من أهل الكتاب، فقال: يا أبا القاسم أبلغك أن الله يحمل الخلائق على أصبع،
+  والسموات على أصبع، والأرضين على أصبع، والشجر على أصبع، والثرى على أصبع؟ قال فضحك
+  النبيّ صلى الله عليه وسلم حتى بدت نواجذه، فأنزل الله { وَما قَدَرُوا اللَّهَ حَقَّ
+  قَدْرِهِ والأرْضُ جَمِيعاً قَبْضَتُهُ... } إلى آخر الآية.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  آخرون: بل السموات في يمينه، والأرضون في شماله. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا عليّ بن داود، قال: ثنا ابن أبي مريم، قال: أخبرنا ابن أبي حازم،
+  قال: ثني أبو حازم، عن عبيد الله بن مِقْسَمِ، أنه سمع عبد الله بن عمر يقول: رأيت
+  رسول الله صلى الله عليه وسلم وهو على المنبر يقول:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" يَأْخُذُ الجَبَّارُ سَمَوَاتِهِ وأرْضِهِ بِيَدَيْهِ \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\">وقبض رسول الله صلى الله عليه وسلم
+  يديه، وجعل يقبضهما ويبسطهما، قال: ثمَّ يَقُولُ:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" أنا الرَّحْمَنُ أنا المَلِكُ، أيْنَ الجَبَّارُونَ، أيْنَ المُتَكَبِّرُونَ
+  \" </font></font></b><font class=\"TextResultArabic\"><font color=\"black\">وتمايل
+  رسول الله صلى الله عليه وسلم عن يمينه، وعن شماله، حتى نظرت إلى المنبر يتحركّ من
+  أسفل شيء منه، حتى إني لأقول: أساقطٌ هو برسول الله صلى الله عليه وسلم؟.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني أبو علقمة الفروي عبد الله بن محمد، قال: ثني عبد الله بن نافع،
+  عن عبد العزيز بن أبي حازم، عن أبيه، عن عبيد بن عمير، عن عبد الله بن عمر، أنه قال:
+  سمعت رسول الله صلى الله عليه وسلم يقول:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" يَأْخُذُ الجَبَّارُ سَمَوَاتِهِ وأرْضَهُ بيَدِهِ \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\">وقبض يده فجعل يقبضها ويبسطها، ثم
+  يقول:</font></font><b><font class=\"TextResultArabic\"><font color=\"Red\"> \" أنا
+  الجَبَّارُ، أنا المَلِكُ، أيْن الجَبَّارُونَ، أيْنَ المُتَكَبِّرُونَ؟ \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\">قال: ويميل رسول الله صلى الله عليه
+  وسلم عن يمينه وعن شماله، حتى نظرت إلى المنبر يتحركّ من أسفل شيء منه، حتى إني لأقول:
+  أساقط هو برسول الله صلى الله عليه وسلم؟».</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
   الحسن بن علي بن عياش الحمصي، قال: ثنا بشر بن شعيب، قال: أخبرني أبي، قال: ثنا محمد
   بن مسلم بن شهاب، قال: أخبرني سعيد بن المسيب، عن أبي هريرة أنه كان يقول: قال رسول
-  الله صلى الله عليه وسلم: \" يَقْبِضُ اللَّهُ عَزَّ وَجَلَّ الأرْضَ يَوْمَ القِيَامَةِ
-  وَيَطْوِي السموات بيمينه، ثُمَّ يَقُولُ: أنا المَلِكُ أيْنَ مُلُوكُ الأرْضِ؟ \".
-  حُدثت عن حرملة بن يحيى، قال: ثنا إدريس بن يحيى القائد، قال: أخبرنا حيوة، عن عقيل،
-  عن ابن شهاب، قال: أخبرني نافع مولى ابن عمر، عن عبد الله بن عمر، أن رسول الله صلى
-  الله عليه وسلم قال:\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ بَلِ ٱللَّهَ فَٱعْبُدْ وَكُن مِّنَ
-  ٱلشَّاكِرِينَ } * { وَمَا قَدَرُواْ ٱللَّهَ حَقَّ قَدْرِهِ وَٱلأَرْضُ جَمِيعـاً
-  قَبْضَـتُهُ يَوْمَ ٱلْقِيَـٰمَةِ وَٱلسَّمَٰوَٰتُ مَطْوِيَّاتٌ بِيَمِينِهِ سُبْحَانَهُ
-  وَتَعَالَىٰ عَمَّا يُشْرِكُونَ } \" إنَّ اللَّهَ يَقْبِضُ الأرْضَ يَوْمَ القيامَةِ
-  بِيَدِهِ، وَيَطْوِي السَّماءَ بِيَمينهِ وَيَقُولُ: أنا المَلِكُ \". حدثني محمد بن
-  عون، قال: ثنا أبو المغيرة، قال: ثنا ابن أبي مريم، قال: ثنا سعيد بن ثوبان الكلاعي
-  عن أبي أيوب الأنصاري، قال: أتى رسول الله صلى الله عليه وسلم حبرٌ من اليهود، قال:
-  أرأيت إذ يقول الله في كتابه: { والأرْضُ جَمِيعاً قَبْضَتُهُ يَوْمَ القيامَةِ والسَّمَوَاتُ
-  مَطْوَيَّاتٌ بِيَمينهِ } فأين الخلق عند ذلك؟ قال: \" هُمْ فِيها كَرقْمِ الكِتابِ
-  \" حدثنا إبراهيم بن سعيد الجوهري، قال: ثنا أبو أسامة، قال: ثنا عمرو بن حمزة، قال:
-  ثني سالم، عن أبيه، أنه أخبره أن رسول الله صلى الله عليه وسلم قال: \" يَطْوِي اللَّهُ
-  السَّمَوَاتِ فيأْخُذُهُنَّ بِيَمِينِهِ وَيَطْوِي الأرْضَ فَيأْخُذُها بِشمالِهِ،
-  ثُمَّ يَقُولُ: أنا المَلِكُ أيْنَ الجَبَّارُونَ؟ أينَ المُتَكَبِّرُونَ؟ \". وقيل:
-  إن هذه الآية نزلت من أجل يهودي سأل رسول الله صلى الله عليه وسلم عن صفة الرب. ذكر
-  من قال ذلك:حدثنا ابن حميد، قال: ثنا سلمة، قال: ثني ابن إسحاق، عن محمد، عن سعيد،
-  قال: أتى رهط من اليهود نبي الله صلى الله عليه وسلم، فقالوا: يا محمد، هذا الله خلق
-  الخلق، فمن خلقه؟ فغضب النبي صلى الله عليه وسلم حتى انتُقِع لونه، ثم ساورهم غضباً
-  لربه فجاءه جبريل فسكنه، وقال: اخفض عليك جناحك يا محمد، وجاءه من الله جواب ما سألوه
-  عنه، قال: يقول الله تبارك وتعالى:{ قُلْ هُوَ اللَّهُ أَحَدٌ اللَّهُ الصَّمَدُ لَمْ
-  يَلِدْ ولَمْ يُولَدْ ولَمْ يَكُنْ لَهُ كُفُواً أحَدٌ }فلما تلاها عليهم النبيّ صلى
-  الله عليه وسلم قالوا: صف لنا ربك كيف خلقه، وكيف عضده، وكيف ذراعه؟ فغضب النبي صلى
-  الله عليه وسلم أشد من غضبه الأول، ثم ساورهم، فأتاه جبريل فقال مثل مقالته، وأتاه
-  بجواب ما سألوه عنه { وَما قَدَرُوا اللَّهَ حَقَّ قَدْرِهِ والأرْضُ جَمِيعاً قَبْضَتُهُ
+  الله صلى الله عليه وسلم:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" يَقْبِضُ اللَّهُ عَزَّ وَجَلَّ الأرْضَ يَوْمَ القِيَامَةِ وَيَطْوِي
+  السموات بيمينه، ثُمَّ يَقُولُ: أنا المَلِكُ أيْنَ مُلُوكُ الأرْضِ؟ \". </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\">حُدثت عن حرملة بن يحيى، قال: ثنا
+  إدريس بن يحيى القائد، قال: أخبرنا حيوة، عن عقيل، عن ابن شهاب، قال: أخبرني نافع مولى
+  ابن عمر، عن عبد الله بن عمر، أن رسول الله صلى الله عليه وسلم قال:</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">3 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(39, 66)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(39,66)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">بَلِ ٱللَّهَ فَٱعْبُدْ وَكُن مِّنَ ٱلشَّاكِرِينَ</a>
+  <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَمَا
+  قَدَرُواْ ٱللَّهَ حَقَّ قَدْرِهِ وَٱلأَرْضُ جَمِيعـاً قَبْضَـتُهُ يَوْمَ ٱلْقِيَـٰمَةِ
+  وَٱلسَّمَٰوَٰتُ مَطْوِيَّاتٌ بِيَمِينِهِ سُبْحَانَهُ وَتَعَالَىٰ عَمَّا يُشْرِكُونَ</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\"/></font><b><font class=\"TextResultArabic\"><font color=\"Red\">
+  \" إنَّ اللَّهَ يَقْبِضُ الأرْضَ يَوْمَ القيامَةِ بِيَدِهِ، وَيَطْوِي السَّماءَ
+  بِيَمينهِ وَيَقُولُ: أنا المَلِكُ \". </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني محمد بن عون، قال: ثنا أبو المغيرة، قال: ثنا ابن أبي مريم،
+  قال: ثنا سعيد بن ثوبان الكلاعي عن أبي أيوب الأنصاري، قال: أتى رسول الله صلى الله
+  عليه وسلم حبرٌ من اليهود، قال: أرأيت إذ يقول الله في كتابه: { والأرْضُ جَمِيعاً
+  قَبْضَتُهُ يَوْمَ القيامَةِ والسَّمَوَاتُ مَطْوَيَّاتٌ بِيَمينهِ } فأين الخلق عند
+  ذلك؟ قال:</font></font><b><font class=\"TextResultArabic\"><font color=\"Red\">
+  \" هُمْ فِيها كَرقْمِ الكِتابِ \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  إبراهيم بن سعيد الجوهري، قال: ثنا أبو أسامة، قال: ثنا عمرو بن حمزة، قال: ثني سالم،
+  عن أبيه، أنه أخبره أن رسول الله صلى الله عليه وسلم قال:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" يَطْوِي اللَّهُ السَّمَوَاتِ فيأْخُذُهُنَّ بِيَمِينِهِ وَيَطْوِي
+  الأرْضَ فَيأْخُذُها بِشمالِهِ، ثُمَّ يَقُولُ: أنا المَلِكُ أيْنَ الجَبَّارُونَ؟
+  أينَ المُتَكَبِّرُونَ؟ \". </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">وقيل: إن هذه الآية نزلت من أجل يهودي سأل رسول الله صلى الله عليه
+  وسلم عن صفة الرب. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن حميد، قال: ثنا سلمة، قال: ثني ابن إسحاق، عن محمد، عن سعيد، قال: أتى رهط من اليهود
+  نبي الله صلى الله عليه وسلم، فقالوا: يا محمد، هذا الله خلق الخلق، فمن خلقه؟ فغضب
+  النبي صلى الله عليه وسلم حتى انتُقِع لونه، ثم ساورهم غضباً لربه فجاءه جبريل فسكنه،
+  وقال: اخفض عليك جناحك يا محمد، وجاءه من الله جواب ما سألوه عنه، قال: يقول الله تبارك
+  وتعالى:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">قُلْ هُوَ اللَّهُ أَحَدٌ اللَّهُ الصَّمَدُ لَمْ يَلِدْ ولَمْ
+  يُولَدْ ولَمْ يَكُنْ لَهُ كُفُواً أحَدٌ</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">فلما تلاها عليهم النبيّ صلى الله
+  عليه وسلم قالوا: صف لنا ربك كيف خلقه، وكيف عضده، وكيف ذراعه؟ فغضب النبي صلى الله
+  عليه وسلم أشد من غضبه الأول، ثم ساورهم، فأتاه جبريل فقال مثل مقالته، وأتاه بجواب
+  ما سألوه عنه { وَما قَدَرُوا اللَّهَ حَقَّ قَدْرِهِ والأرْضُ جَمِيعاً قَبْضَتُهُ
   يَوْمَ القيامَةِ والسَّمَوَاتُ مَطْوِيَّاتٌ بِيَمِينِهِ سُبْحَانَهُ وَتَعالى عَمَّا
-  يُشْرِكُونَ }.حدثنا ابن حميد، قال: ثنا يعقوب، عن جعفر، عن سعيد، قال: تكلمت اليهود
-  في صفة الربّ، فقال ما لم يعلموا ولم يروا، فأنزل الله على نبيه صلى الله عليه وسلم:
-  { وَما قَدَرُوا اللَّهَ حَقَّ قَدْرِهِ } ثم بيَّن للناس عظمته فقال: { والأرْضُ جَمِيعاً
-  قَبْضَتُهُ يَوْمَ القيامَةِ والسَّمَوَاتُ مَطْوِيَّاتٌ بِيَمِينِهِ سُبْحَانَهُ وَتَعالى
-  عَمَّا يُشْرِكُونَ } ، فجعل صفتهم التي وصفوا الله بها شركاً.وقال بعض أهل العربية
-  من أهل البصرة { والأرْضُ جَمِيعاً قَبْضَتُهُ يَوْمَ القيامَةِ والسَّمَوَاتُ مَطْوِيَّاتٌ
-  بِيَمِينِهِ } يقول في قدرته نحو قوله:{ وَما مَلَكَتْ أيمَانُكُمْ }أي وما كانت لكم
-  عليه قدرة وليس الملك لليمين دون سائر الجسد، قال: وقوله { قَبْضَتُهُ } نحو قولك للرجل:
-  هذا في يدك وفي قبضتك.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ بَلِ ٱللَّهَ فَٱعْبُدْ وَكُن مِّنَ
-  ٱلشَّاكِرِينَ } * { وَمَا قَدَرُواْ ٱللَّهَ حَقَّ قَدْرِهِ وَٱلأَرْضُ جَمِيعـاً
-  قَبْضَـتُهُ يَوْمَ ٱلْقِيَـٰمَةِ وَٱلسَّمَٰوَٰتُ مَطْوِيَّاتٌ بِيَمِينِهِ سُبْحَانَهُ
-  وَتَعَالَىٰ عَمَّا يُشْرِكُونَ }والأخبار التي ذكرناها عن رسول الله صلى الله عليه
-  وسلم وعن أصحابه وغيرهم، تشهد على بطول هذا القول.حدثنا ابن حميد، قال: ثنا هارون بن
-  المغيرة، عن عنبسة، عن حبيب بن أبي عمرة، عن مجاهد، عن ابن عباس، عن عائشة، قالت: سألت
-  رسول الله صلى الله عليه وسلم، عن قوله { والأرْضُ جَمِيعاً قَبْضَتُهُ يَوْمَ القيامَةِ
-  } فأين الناس يومئذ؟ قال: \" عَلى الصِّراطِ \". وقوله سبحانه وتعالى: { عَمَّا يُشْرِكُونَ
+  يُشْرِكُونَ }.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن حميد، قال: ثنا يعقوب،
+  عن جعفر، عن سعيد، قال: تكلمت اليهود في صفة الربّ، فقال ما لم يعلموا ولم يروا، فأنزل
+  الله على نبيه صلى الله عليه وسلم: { وَما قَدَرُوا اللَّهَ حَقَّ قَدْرِهِ } ثم بيَّن
+  للناس عظمته فقال: { والأرْضُ جَمِيعاً قَبْضَتُهُ يَوْمَ القيامَةِ والسَّمَوَاتُ
+  مَطْوِيَّاتٌ بِيَمِينِهِ سُبْحَانَهُ وَتَعالى عَمَّا يُشْرِكُونَ } ، فجعل صفتهم
+  التي وصفوا الله بها شركاً.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال بعض أهل العربية من أهل البصرة
+  { والأرْضُ جَمِيعاً قَبْضَتُهُ يَوْمَ القيامَةِ والسَّمَوَاتُ مَطْوِيَّاتٌ بِيَمِينِهِ
+  } يقول في قدرته نحو قوله:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">وَما مَلَكَتْ أيمَانُكُمْ</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">أي وما كانت لكم عليه قدرة وليس
+  الملك لليمين دون سائر الجسد، قال: وقوله { قَبْضَتُهُ } نحو قولك للرجل: هذا في يدك
+  وفي قبضتك.</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">4 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(39, 66)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(39,66)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">بَلِ ٱللَّهَ فَٱعْبُدْ وَكُن مِّنَ ٱلشَّاكِرِينَ</a>
+  <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَمَا
+  قَدَرُواْ ٱللَّهَ حَقَّ قَدْرِهِ وَٱلأَرْضُ جَمِيعـاً قَبْضَـتُهُ يَوْمَ ٱلْقِيَـٰمَةِ
+  وَٱلسَّمَٰوَٰتُ مَطْوِيَّاتٌ بِيَمِينِهِ سُبْحَانَهُ وَتَعَالَىٰ عَمَّا يُشْرِكُونَ</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">والأخبار التي ذكرناها عن رسول الله صلى الله عليه وسلم وعن أصحابه
+  وغيرهم، تشهد على بطول هذا القول.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن حميد، قال: ثنا هارون بن المغيرة، عن عنبسة، عن حبيب بن أبي عمرة، عن مجاهد، عن
+  ابن عباس، عن عائشة، قالت: سألت رسول الله صلى الله عليه وسلم، عن قوله { والأرْضُ
+  جَمِيعاً قَبْضَتُهُ يَوْمَ القيامَةِ } فأين الناس يومئذ؟ قال:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" عَلى الصِّراطِ \". </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\">وقوله سبحانه وتعالى: { عَمَّا يُشْرِكُونَ
   } يقول تعالى ذكره تنزيهاً وتبرئة لله، وعلوّاً وارتفاعاً عما يشرك به هؤلاء المشركون
-  من قومك يا محمد، القائلون لك: اعبد الأوثان من دون الله، واسجد لألهتنا.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  من قومك يا محمد، القائلون لك: اعبد الأوثان من دون الله، واسجد لألهتنا.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">5 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a id=\"NextClass\"/></td></tr></table></center></div></section>"
 

@@ -1,4 +1,4 @@
-location:
+position:
   sura: '007'
   aaya: '199'
   madhab: '01'
@@ -8,16 +8,42 @@ meta:
   author: الزمخشري
   year: '538'
 aaya: خُذِ الْعَفْوَ وَأْمُرْ بِالْعُرْفِ وَأَعْرِضْ عَنِ الْجَاهِلِينَ
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ خُذِ ٱلْعَفْوَ
-  وَأْمُرْ بِٱلْعُرْفِ وَأَعْرِضْ عَنِ ٱلْجَاهِلِينَ }{ ٱلْعَفْوَ } ضد الجهد: أي خذ
-  ما عفا لك من أفعال الناس وأخلاقهم وما أتى منهم، وتسهل من غير كلفة، ولا تداقهم، ولا
-  تطلب منهم الجهد وما يشق عليهم حتى لا ينفروا، كقوله صلى الله عليه وسلم:(405) \" يسروا
-  ولا تعسروا \" قال:خذِي الْعَفْوَ مِني تَسْتَدِيمِي مَوَدَّتِي   وَلاَ تَنْطِقِي
-  فِي سَوْرَتِي حِينَ أَغْضَبُوقيل: خذ الفضل وما تسهل من صدقاتهم، وذلك قبل نزول آية
-  الزكاة، فلما نزلت أمر أن يأخذهم بها طوعاً أو كرهاً. والعرف: المعروف والجميل من الأفعال
-  { وَأَعْرِض عَنِ ٱلْجَـٰهِلِينَ } ولا تكافىء السفهاء بمثل سفههم، ولا تمارهم، واحلم
-  عنهم، وأغض على ما يسوؤك منهم. وقيل:(406) لما نزلت الآية سأل جبريل (ما هذا) فقال:
-  لا أدري حتى أسأل [العالم]، ثم رجع فقال: «يا محمد» إن ربك أمرك أن تصل من قطعك، وتعطي
-  من حرمك، وتعفو عمن ظلمك». وعن جعفر الصادق: أمر الله نبيه عليه الصلاة والسلام بمكارم
-  الأخلاق، وليس في القرآن آية أجمع لمكارم الأخلاق منها.\r\n\t\t\t\r\n\t\t\t</section>"
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(7, 199)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(7,199)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">خُذِ
+  ٱلْعَفْوَ وَأْمُرْ بِٱلْعُرْفِ وَأَعْرِضْ عَنِ ٱلْجَاهِلِينَ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">{ ٱلْعَفْوَ } ضد الجهد: أي خذ ما عفا لك من أفعال الناس وأخلاقهم
+  وما أتى منهم، وتسهل من غير كلفة، ولا تداقهم، ولا تطلب منهم الجهد وما يشق عليهم حتى
+  لا ينفروا، كقوله صلى الله عليه وسلم:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">(405)</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" يسروا ولا تعسروا \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\">قال:</font></font><table class=\"TextArabic\"
+  dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">خذِي الْعَفْوَ مِني تَسْتَدِيمِي مَوَدَّتِي</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">وَلاَ تَنْطِقِي فِي سَوْرَتِي حِينَ أَغْضَبُ</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">وقيل: خذ الفضل وما تسهل من صدقاتهم،
+  وذلك قبل نزول آية الزكاة، فلما نزلت أمر أن يأخذهم بها طوعاً أو كرهاً. والعرف: المعروف
+  والجميل من الأفعال { وَأَعْرِض عَنِ ٱلْجَـٰهِلِينَ } ولا تكافىء السفهاء بمثل سفههم،
+  ولا تمارهم، واحلم عنهم، وأغض على ما يسوؤك منهم. وقيل:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">(406)
+  لما نزلت الآية سأل جبريل (ما هذا) فقال: لا أدري حتى أسأل [العالم]، ثم رجع فقال:
+  «يا محمد» إن ربك أمرك أن تصل من قطعك، وتعطي من حرمك، وتعفو عمن ظلمك». وعن جعفر الصادق:
+  أمر الله نبيه عليه الصلاة والسلام بمكارم الأخلاق، وليس في القرآن آية أجمع لمكارم
+  الأخلاق منها.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

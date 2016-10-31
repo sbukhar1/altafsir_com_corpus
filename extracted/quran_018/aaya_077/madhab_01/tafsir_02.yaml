@@ -1,4 +1,4 @@
-location:
+position:
   sura: 018
   aaya: '077'
   madhab: '01'
@@ -7,37 +7,102 @@ meta:
   title: تفسير الكشاف
   author: الزمخشري
   year: '538'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ فَٱنطَلَقَا حَتَّىٰ
-  إِذَآ أَتَيَآ أَهْلَ قَرْيَةٍ ٱسْتَطْعَمَآ أَهْلَهَا فَأَبَوْاْ أَن يُضَيِّفُوهُمَا
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(18, 77)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(18,77)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">فَٱنطَلَقَا
+  حَتَّىٰ إِذَآ أَتَيَآ أَهْلَ قَرْيَةٍ ٱسْتَطْعَمَآ أَهْلَهَا فَأَبَوْاْ أَن يُضَيِّفُوهُمَا
   فَوَجَدَا فِيهَا جِدَاراً يُرِيدُ أَن يَنقَضَّ فَأَقَامَهُ قَالَ لَوْ شِئْتَ لَتَّخَذْتَ
-  عَلَيْهِ أَجْراً }{ أَهْلَ قَـَرْيَةٍ } هي إنطاكية. وقيل: الأبلة، وهي أبعد أرض الله
-  من السماء { أَن يُضَيّفُوهُمَا }. وقرىء: «يضيفوهما» يقال: ضافه إذا كان له ضيفاً.
-  وحقيقته: مال إليه، من ضاف السهم عن الغرض، ونظيره: زاره من الازورار. وأضافه وضيفه:
-  أنزله وجعله ضيفه وعن النبي صلى الله عليه وسلم:(647) \" كانوا أهل قرية لئاماً \"
-  وقيل: شر القرى التي لا يضاف الضيف فيها ولا يعرف لابن السبيل حقه { يُرِيدُ أَن يَنقَضَّ
-  } استعيرت الإرادة للمداناة والمشارفة، كما استعير الهمّ والعزم لذلك. قال الراعي:فِي
-  مَهْمَهٍ قَلِقَتْ بِهِ هَامَاتُهَا   قَلَقَ الْفُئُوسِ إذَا أَرَدْنَ نُصُولاَوقال:يُرِيدُ
-  الرُّمْحُ صَدْرَ أَبِي بَرَاء   وَيَعْدِلُ عَنْ دِمَارِ بَنِي عَقِيلٍوقال حسان:إنَّ
-  دَهْراً يَلِفُّ شَمْلِي بِجُمْلٍ   لَزَمَانٌ يَهُمُّ بِالإحْسَانِوسمعت من يقول:
-  عزم السراج أن يطفأ، وطلب أن يطفأ. وإذا كان القول والنطق والشكاية والصدق والكذب والسكوت
-  والتمرد والإباء والعزة والطواعية وغير ذلك مستعار للجماد ولما لا يعقل، فما بال الإرادة؟
-  قال:إذَا قَالَتِ الأَنْسَاعُ لِلْبَطْنِ الْحَقِ   تَقُولُ سِنِّي لِلنَّوَاةِ طِنِّي   لاَ
-  يَنْطقُ اللَّهْوُ حَتَّى يَنْطِقَ العُودُ   وَشَكا إلَيَّ بَعْبرَةٍ وَتَحَمْحُم   ِ
-  فَإنْ يَكُ ظَنِّي صَادِقاً وَهْوَ صَادِقِي   { وَلَمَّا سَكَتَ عَن مُّوسَى ٱلْغَضَبُ }[الأعراف:154]:تَمَرَّدَ
-  مَارِدٌ وَعَزَّ الأَبْلَقُ   ولبعضهم:يَأْبَى عَلَى أَجْفَانِهِ إغْفَاءَه   هَمٌّ
-  إذَا انْقَادِ الْهُمُومُ تَمَرَّدَاأَبَتِ الرَّوَادِفُ وَالثُّدِيُّ لِقُمْصِهَا   مَسَّ
-  الْبُطُونِ وَأَنْ تَمَسَّ ظُهُورَا{ قَالَتَا أَتَيْنَا طَائِعِينَ }[فصلت:11] ولقد
-  بلغني أن بعض المحرفين لكلام الله تعالى ممن لا يعلم، كان يجعل الضمير للخضر؛ لأنّ
-  ما كان فيه من آفة الجهل وسقم الفهم، أراه أعلى الكلام طبقة أدناه منزلة،فتمحل ليردّه
-  إلى ما هو عنده أصحّ وأفصح،وعنده أن ما كان أبعد من المجاز كان أدخل في الإعجاز. وانقض:
-  إذا أسرع سقوطه،من انقضاض الطائر وهو انفعل، مطاوع قضضته. وقيل: افعلّ من النقض، كاحمرّ
-  من الحمرة. وقرىء: «أن ينقض» من النقض، «وأن ينقاص» من انقاصت السن إذا انشقت طولاً،
-  قال ذو الرمّة:......... مِنْقَاصٌ وَمُنْكَثِبُ   بالصاد غير معجمة { فَأَقَامَهُ
+  عَلَيْهِ أَجْراً</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">{ أَهْلَ قَـَرْيَةٍ } هي إنطاكية.
+  وقيل: الأبلة، وهي أبعد أرض الله من السماء { أَن يُضَيّفُوهُمَا }. وقرىء: «يضيفوهما»
+  يقال: ضافه إذا كان له ضيفاً. وحقيقته: مال إليه، من ضاف السهم عن الغرض، ونظيره: زاره
+  من الازورار. وأضافه وضيفه: أنزله وجعله ضيفه وعن النبي صلى الله عليه وسلم:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">(647)</font></font><b><font class=\"TextResultArabic\"><font color=\"Red\">
+  \" كانوا أهل قرية لئاماً \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">وقيل: شر القرى التي لا يضاف الضيف فيها ولا يعرف لابن السبيل حقه
+  { يُرِيدُ أَن يَنقَضَّ } استعيرت الإرادة للمداناة والمشارفة، كما استعير الهمّ والعزم
+  لذلك. قال الراعي:</font></font><table class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">فِي مَهْمَهٍ
+  قَلِقَتْ بِهِ هَامَاتُهَا</font></font></b></td><td class=\"TextArabic\">   </td><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">قَلَقَ الْفُئُوسِ
+  إذَا أَرَدْنَ نُصُولاَ</font></font></b></td></tr></table><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال:</font></font><table class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">يُرِيدُ
+  الرُّمْحُ صَدْرَ أَبِي بَرَاء</font></font></b></td><td class=\"TextArabic\">   </td><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">وَيَعْدِلُ
+  عَنْ دِمَارِ بَنِي عَقِيلٍ</font></font></b></td></tr></table><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال حسان:</font></font><table class=\"TextArabic\" dir=\"rtl\"><tr
+  class=\"TextArabic\"><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">إنَّ دَهْراً يَلِفُّ شَمْلِي بِجُمْلٍ</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">لَزَمَانٌ يَهُمُّ بِالإحْسَانِ</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">وسمعت من يقول: عزم السراج أن يطفأ،
+  وطلب أن يطفأ. وإذا كان القول والنطق والشكاية والصدق والكذب والسكوت والتمرد والإباء
+  والعزة والطواعية وغير ذلك مستعار للجماد ولما لا يعقل، فما بال الإرادة؟ قال:</font></font><table
+  class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">إذَا قَالَتِ الأَنْسَاعُ لِلْبَطْنِ الْحَقِ</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\"/></font></b></td></tr><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">تَقُولُ سِنِّي لِلنَّوَاةِ طِنِّي</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\"/></font></b></td></tr><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">لاَ يَنْطقُ اللَّهْوُ حَتَّى يَنْطِقَ
+  العُودُ</font></font></b></td><td class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\"/></font></b></td></tr><tr class=\"TextArabic\"><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">وَشَكا إلَيَّ
+  بَعْبرَةٍ وَتَحَمْحُم</font></font></b></td><td class=\"TextArabic\">   </td><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\"/></font></b></td></tr><tr
+  class=\"TextArabic\"><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">ِ فَإنْ يَكُ ظَنِّي صَادِقاً وَهْوَ صَادِقِي</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\"/></font></b></td></tr></table><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">وَلَمَّا سَكَتَ عَن مُّوسَى ٱلْغَضَبُ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[الأعراف:154]:</font></font><table
+  class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">تَمَرَّدَ مَارِدٌ وَعَزَّ الأَبْلَقُ</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\"/></font></b></td></tr></table><font class=\"TextResultArabic\"><font
+  color=\"black\">ولبعضهم:</font></font><table class=\"TextArabic\" dir=\"rtl\"><tr
+  class=\"TextArabic\"><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">يَأْبَى عَلَى أَجْفَانِهِ إغْفَاءَه</font></font></b></td><td class=\"TextArabic\">   </td><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">هَمٌّ إذَا
+  انْقَادِ الْهُمُومُ تَمَرَّدَا</font></font></b></td></tr><tr class=\"TextArabic\"><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">أَبَتِ الرَّوَادِفُ
+  وَالثُّدِيُّ لِقُمْصِهَا</font></font></b></td><td class=\"TextArabic\">   </td><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">مَسَّ الْبُطُونِ
+  وَأَنْ تَمَسَّ ظُهُورَا</font></font></b></td></tr></table><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">قَالَتَا أَتَيْنَا طَائِعِينَ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[فصلت:11]
+  ولقد بلغني أن بعض المحرفين لكلام الله تعالى ممن لا يعلم، كان يجعل الضمير للخضر؛
+  لأنّ ما كان فيه من آفة الجهل وسقم الفهم، أراه أعلى الكلام طبقة أدناه منزلة،فتمحل
+  ليردّه إلى ما هو عنده أصحّ وأفصح،وعنده أن ما كان أبعد من المجاز كان أدخل في الإعجاز.
+  وانقض: إذا أسرع سقوطه،من انقضاض الطائر وهو انفعل، مطاوع قضضته. وقيل: افعلّ من النقض،
+  كاحمرّ من الحمرة. وقرىء: «أن ينقض» من النقض، «وأن ينقاص» من انقاصت السن إذا انشقت
+  طولاً، قال ذو الرمّة:</font></font><table class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">.........
+  مِنْقَاصٌ وَمُنْكَثِبُ</font></font></b></td><td class=\"TextArabic\">   </td><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\"/></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">بالصاد غير معجمة { فَأَقَامَهُ
   } قيل: أقامه بيده. وقيل: مسحه بيده فقام واستوى. وقيل: أقامه بعمود عمده به. وقيل:
   نقضه وبناه. وقيل: كان طول الجدار في السماء مائة ذراع، كانت الحال حال اضطرار وافتقار
   إلى المطعم، ولقد لزتهما الحاجة إلى آخر كسب المرء وهو المسألة، فلم يجدا مواسياً،
   فلما أقام الجدار لم يتمالك موسى لما رأى من الحرمان ومساس الحاجة أن { قَالَ لَوْ
   شِئْتَ لَتَّخَذْتَ عَلَيْهِ أَجْراً } وطلبت على عملك جعلاً حتى ننتعش ونستدفع به
   الضرورة وقرىء: «لتخذت»، والتاء في تخذ، أصل كما في تبع، واتخذ افتعل منه، كاتبع من
-  تبع، وليس من الأخذ في شيء.\r\n\t\t\t\r\n\t\t\t</section>"
+  تبع، وليس من الأخذ في شيء.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

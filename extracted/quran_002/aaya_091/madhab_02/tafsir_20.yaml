@@ -1,4 +1,4 @@
-location:
+position:
   sura: '002'
   aaya: 091
   madhab: '02'
@@ -7,20 +7,44 @@ meta:
   title: تفسير التفسير
   author: ابن عرفة
   year: '803'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَإِذَا قِيلَ
-  لَهُمْ آمِنُواْ بِمَا أَنْزَلَ اللَّهُ قَالُواْ نُؤْمِنُ بِمَآ أُنْزِلَ عَلَيْنَا
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(2, 91)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(2,91)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَإِذَا
+  قِيلَ لَهُمْ آمِنُواْ بِمَا أَنْزَلَ اللَّهُ قَالُواْ نُؤْمِنُ بِمَآ أُنْزِلَ عَلَيْنَا
   وَيَكْفُرونَ بِمَا وَرَآءَهُ وَهُوَ ٱلْحَقُّ مُصَدِّقاً لِّمَا مَعَهُمْ قُلْ فَلِمَ
-  تَقْتُلُونَ أَنْبِيَآءَ ٱللَّهِ مِن قَبْلُ إِن كُنْتُمْ مُّؤْمِنِينَ }قوله تعالى:
-  { وَيَكْفُرونَ بِمَا وَرَآءَهُ... }إما معطوف على \" قَالُواْ نُؤْمِنُ \" فيكون جوابا
-  لـِ \" إذا \" ، أي إِذَا قيل لهم: آمنوا بما أنزل الله يكفرون بما وراء كتابهم، وإما
-  حال مع أن المضارع لا يأتي حالا بالواو إلا قليلا، لكنه هنا على إضمار المبتدإ أي وهم
-  يكفرون بما وراءه.أخبر الله عن تناقضهم بأن إيمانهم بكتابهم يستلزم إيمانهم بما سواه
+  تَقْتُلُونَ أَنْبِيَآءَ ٱللَّهِ مِن قَبْلُ إِن كُنْتُمْ مُّؤْمِنِينَ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">قوله تعالى: { وَيَكْفُرونَ بِمَا وَرَآءَهُ... }</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">إما معطوف على \" قَالُواْ نُؤْمِنُ \" فيكون جوابا لـِ \" إذا \"
+  ، أي إِذَا قيل لهم: آمنوا بما أنزل الله يكفرون بما وراء كتابهم، وإما حال مع أن المضارع
+  لا يأتي حالا بالواو إلا قليلا، لكنه هنا على إضمار المبتدإ أي وهم يكفرون بما وراءه.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">أخبر الله عن تناقضهم بأن إيمانهم بكتابهم يستلزم إيمانهم بما سواه
   من الكتب التي من جملتها القرآن، وكفرهم بالقرآن يستلزم كفرهم بكتابهم المنزل عليهم،
-  لأنّ الكتب كلّها يصدق بعضها بعضا.قوله تعالى: { وَهُوَ ٱلْحَقُّ مُصَدِّقاً لِّمَا
-  مَعَهُمْ... }أبو حيان \" مُصَدِّقاً \" حال مؤكدة.قال ابن عرفة: بل هي مبنية، لأن
-  الحقّ قد يكون مصدقا لما معهم، وقد لا يكون مصدقا ولا مكذبا، لأن النّبي عليه الصلاة
-  والسلام أتى بشرائع بعضها في كتابهم، وبعضها ليس موجودا في كتابهم (بوجه)، فكتابنا
-  حق (ومصدق لما في كتابهم) (بالنسبة إلى ما تكرر في الكتابين)، وليس بمصدق أو مكذب بالنسبة
-  إلى ما زاد به على كتابهم، وأما أنه مكذب فَلاَ لأن كلا الكتابين حق، فليس من لوازم
-  كون القرآن حقا يصدق ما معهم إنّما من لوازمه أنْ لا يكذبه لأن الحق لا يكذب الحق.\r\n\t\t\t\r\n\t\t\t</section>"
+  لأنّ الكتب كلّها يصدق بعضها بعضا.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قوله
+  تعالى: { وَهُوَ ٱلْحَقُّ مُصَدِّقاً لِّمَا مَعَهُمْ... }</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">أبو
+  حيان \" مُصَدِّقاً \" حال مؤكدة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال
+  ابن عرفة: بل هي مبنية، لأن الحقّ قد يكون مصدقا لما معهم، وقد لا يكون مصدقا ولا مكذبا،
+  لأن النّبي عليه الصلاة والسلام أتى بشرائع بعضها في كتابهم، وبعضها ليس موجودا في
+  كتابهم (بوجه)، فكتابنا حق (ومصدق لما في كتابهم) (بالنسبة إلى ما تكرر في الكتابين)،
+  وليس بمصدق أو مكذب بالنسبة إلى ما زاد به على كتابهم، وأما أنه مكذب فَلاَ لأن كلا
+  الكتابين حق، فليس من لوازم كون القرآن حقا يصدق ما معهم إنّما من لوازمه أنْ لا يكذبه
+  لأن الحق لا يكذب الحق.</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

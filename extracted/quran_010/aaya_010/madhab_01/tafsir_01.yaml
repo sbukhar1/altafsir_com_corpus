@@ -1,4 +1,4 @@
-location:
+position:
   sura: '010'
   aaya: '010'
   madhab: '01'
@@ -9,82 +9,201 @@ meta:
   year: '310'
 aaya: دَعْوَاهُمْ فِيهَا سُبْحَانَكَ اللَّهُمَّ وَتَحِيَّتُهُمْ فِيهَا سَلَامٌ ۚ وَآخِرُ
   دَعْوَاهُمْ أَنِ الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ إِنَّ ٱلَّذِينَ
-  آمَنُواْ وَعَمِلُواْ ٱلصَّالِحَاتِ يَهْدِيهِمْ رَبُّهُمْ بِإِيمَانِهِمْ تَجْرِي
-  مِن تَحْتِهِمُ ٱلأَنْهَارُ فِي جَنَّاتِ ٱلنَّعِيمِ } * { دَعْوَاهُمْ فِيهَا سُبْحَانَكَ
-  ٱللَّهُمَّ وَتَحِيَّتُهُمْ فِيهَا سَلاَمٌ وَآخِرُ دَعْوَاهُمْ أَنِ ٱلْحَمْدُ للَّهِ
-  رَبِّ ٱلْعَالَمِينَ }يقول تعالى ذكره: { إنَّ الَّذِينَ آمَنُوا وعَمِلُوا الصَّالِحاتِ
-  } إن الذين صدّقوا الله ورسوله وعملوا الصالحات، وذلك العمل بطاعة الله والانتهاء إلى
-  أمره. { يَهْدِيهِمْ رَبُّهُمْ بإيمانِهِمْ } يقول: يرشدهم ربهم بإيمانهم به إلى الجنة.
-  كما:حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: { إنَّ الَّذِينَ آمَنُوا
-  وَعمِلُوا الصَّالِحاتِ يَهْدِيهِمْ رَبُّهُمْ بإِيمانِهِمْ تَجْرِي مِنْ تَحْتِهِمُ
-  الأنهارُ فِي جَنَّاتِ النَّعِيمِ } بلغنا أن نبيّ الله صلى الله عليه وسلم قال: \"
-  إنَّ المُؤْمِنَ إذَا خَرَجَ مِنْ قَبْرِهِ صُوّرَ لَهُ عَمَلُهُ فِي صُورَة حَسَنَة،
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(10, 9)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(10,9)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">إِنَّ
+  ٱلَّذِينَ آمَنُواْ وَعَمِلُواْ ٱلصَّالِحَاتِ يَهْدِيهِمْ رَبُّهُمْ بِإِيمَانِهِمْ
+  تَجْرِي مِن تَحْتِهِمُ ٱلأَنْهَارُ فِي جَنَّاتِ ٱلنَّعِيمِ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">دَعْوَاهُمْ
+  فِيهَا سُبْحَانَكَ ٱللَّهُمَّ وَتَحِيَّتُهُمْ فِيهَا سَلاَمٌ وَآخِرُ دَعْوَاهُمْ
+  أَنِ ٱلْحَمْدُ للَّهِ رَبِّ ٱلْعَالَمِينَ</a> <b>}</b></font>, <br/>, <br/>, <div
+  align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">يقول
+  تعالى ذكره: { إنَّ الَّذِينَ آمَنُوا وعَمِلُوا الصَّالِحاتِ } إن الذين صدّقوا الله
+  ورسوله وعملوا الصالحات، وذلك العمل بطاعة الله والانتهاء إلى أمره. { يَهْدِيهِمْ
+  رَبُّهُمْ بإيمانِهِمْ } يقول: يرشدهم ربهم بإيمانهم به إلى الجنة. كما:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: { إنَّ
+  الَّذِينَ آمَنُوا وَعمِلُوا الصَّالِحاتِ يَهْدِيهِمْ رَبُّهُمْ بإِيمانِهِمْ تَجْرِي
+  مِنْ تَحْتِهِمُ الأنهارُ فِي جَنَّاتِ النَّعِيمِ } بلغنا أن نبيّ الله صلى الله عليه
+  وسلم قال:</font></font><b><font class=\"TextResultArabic\"><font color=\"Red\">
+  \" إنَّ المُؤْمِنَ إذَا خَرَجَ مِنْ قَبْرِهِ صُوّرَ لَهُ عَمَلُهُ فِي صُورَة حَسَنَة،
   فَيُقُولُ لَهُ: ما أنْتَ، فوَاللَّهِ إنّي لأرَاكَ امْرأ صِدْقٍ؟ فَيَقُولُ: أنا عَمَلُكَ،
   فَيَكُون لَهُ نُوراً وَقائِداً إلى الجَنَّةِ. وأمَّا الكافِرُ إذَا خَرَجَ مِنْ قَبْرِهِ
   صُوّرَ لَهُ عَمَلُهُ فِي صُورَةٍ سَيِّئَةٍ وَبِشارَةٍ سَيِّئَةٍ، فَيَقُولُ: ما أنْتَ
   فَواللَّهِ إنّي لأَرَاكَ أمْرأَ سَوْءٍ؟ فَيَقُولُ: أنا عَمَلُكَ. فَيَنْطَلِقُ بِهِ
-  حتى يُدْخِلَهُ النّارُ \". حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى،
-  عن ابن أبي نجيح، عن مجاهد في قول الله: { يَهْدِيهِمْ رَبُّهُمْ بإيمانِهِمْ } قال:
-  يكون لهم نورا يمشون به.حدثني المثنى، قال: ثنا أبو حذيفة، قال: ثنا شبل، عن ابن أبي
-  نجيح، عن مجاهد، مثله.قال: ثنا إسحاق، قال: ثنا ابن أبي جعفر، عن ورقاء، عن ابن أبي
-  نجيح، عن مجاهد، مثله.حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن ابن جريج،
-  عن مجاهد، مثله.وقال ابن جريج: { يَهْدِيهِمْ رَبُّهُمْ بإيمانِهِمْ } قال: يمثل له
-  عمله في صورة حسنة وريح طيبة، يعارض صاحبه ويبشره بكل خير، فيقول له: من أنت؟ فيقول:
-  أنا عملك فيجعل له نوراً من بين يديه حتى يدخله الجنة، فذلك قوله: { يَهْدِيهِمْ رَبُّهُمْ
-  بإيمانِهِمْ }. والكافر يمثل له عمله في صورة سيئة وريح منتنة، فيلازم صاحبه ويُلادّه
-  حتى يقذفه في النار.وقال آخرون: معنى ذلك: بإيمانهم يهديهم ربهم لدينه، يقول: بتصديقهم
-  هداهم. ذكر من قال ذلك:وقوله: { تَجْرِي مِنْ تَحْتَهِمُ الأنهارُ } يقول: تجري من
-  تحت هؤلاء المؤمنين الذين وصف جلّ ثناؤه صفتهم أنهار الجنة. { في جَنَّاتِ النَّعِيمِ
-  } يقول: في بساتين النعيم الذي نعمَّ الله به أهل طاعته والإيمان به.فإن قال قائل:
-  وكيف قيل تجري من تحتهم الأنهار، وإنما وصف جلّ ثناؤه أنهار الجنة في سائر القرآن أنها
-  تجري تحت الجنات؟ وكيف يمكن الأنهار أن تجري من تحتهم إلا أن يكونوا فوق أرضها والأنهار
-  تجري من تحت أرضها، وليس ذلك من صفة أنهار الجنة، لأن صفتها أنها تجري على وجه الأرض
-  في غير أخاديد؟ قيل: إن معنى ذلك بخلاف ما إليه ذهبتَ، وإنما معنى ذلك: تجري من دونهم
-  الأنهار إلى ما بين أيديهم في بساتين النعيم، وذلك نظير قول الله: { قَدْ جَعَلَ رَبُّكِ
-  تَحْتَكِ سَرِيًّا } ومعلوم أنه لم يجعل السريّ تحتها وهي عليه قاعدة، إذ كان السريّ
-  هو الجدول، وإنما عني به جعل دونها: بين يديها، وكما قال جلّ ثناؤه مخبرا عن قيل فرعون:
-  { ألَيْسَ لي مُلْكُ مِصْرَ وَهَذِهِ الأنهارُ تَجْرِي مِنْ تَحْتِي } بمعنى: من دوني
-  بين يدي.\r\n\t\t\t\r\n\t\t\t1 2 3 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ إِنَّ ٱلَّذِينَ آمَنُواْ وَعَمِلُواْ
-  ٱلصَّالِحَاتِ يَهْدِيهِمْ رَبُّهُمْ بِإِيمَانِهِمْ تَجْرِي مِن تَحْتِهِمُ ٱلأَنْهَارُ
-  فِي جَنَّاتِ ٱلنَّعِيمِ } * { دَعْوَاهُمْ فِيهَا سُبْحَانَكَ ٱللَّهُمَّ وَتَحِيَّتُهُمْ
-  فِيهَا سَلاَمٌ وَآخِرُ دَعْوَاهُمْ أَنِ ٱلْحَمْدُ للَّهِ رَبِّ ٱلْعَالَمِينَ }وأما
-  قوله: { دَعْوَاهُمْ فِيها سُبْحانَكَ اللَّهُمْ } فإن معناه: دعاؤهم فيها سبحانك اللهمّ.
-  كما:حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن ابن جريج، قال: أخبرت أن قوله:
-  { دعْوَاهُمْ فِيها سُبْحانَك اللَّهُمَّ } قال: إذا مرّ بهم الطير فيشتهونه، قالوا:
-  سبحانك اللهمّ وذلك دعواهم، فيأتيهم الملك بما اشتهوا، فيسلم عليهم، فيردّون عليه،
-  فذلك قوله: { وتَحِيَّتُهُمْ فِيها سَلامٌ }. قال: فإذا أكلوا حمدوا الله ربهم، فذلك
-  قوله: { وآخِرُ دَعْوَاهُمْ أنِ الحَمْدُ لِلَّهِ رَبّ العالَمِينَ }.حدثنا بشر، قال:
-  ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: { دعْوَاهُمْ فِيها سُبْحانَك اللَّهُمَّ
-  } يقول: ذلك قولهم فيها { وتَحِيَّتُهُمْ فِيها سَلامٌ }.حدثنا أبو كريب، قال: ثنا
-  عبيد الله الأشجعي، قال: سمعت سفيان يقول: { دعْوَاهُمْ فِيها سُبْحانَك اللَّهُمَّ
-  وتَحِيَّتُهُمْ فِيها سَلامٌ } قال: إذا أرادوا الشيء قالوا: اللهمّ فيأتيهم ما دعوا
-  به.وأما قوله: { سُبْحانَكَ اللَّهُمَّ } فإن معناه: تنزيها لك يا ربّ مما أضاف إليك
-  أهل الشرك بك من الكذب عليك والفرية.وبنحو الذي قلنا في ذلك قال أهل التأويل. ذكر من
-  قال ذلك:حدثنا أبو كريب، قال: ثنا ابن إدريس، قال: سمعت أبي، عن غير واحد عطية فيهم:
-  سبحان الله تنزيه لله.حدثنا محمد بن بشار، قال: ثنا عبد الرحمن بن مهدي، قال: ثنا سفيان،
-  عن عثمان بن عبد الله بن موهب، قال: سمعت موسى بن طلحة، قال: سئل رسول الله صلى الله
-  عليه وسلم عن سبحان الله، قال: \" إبْرَاءُ اللَّهِ عَنِ السُّوءِ \". حدثنا أبو كريب
-  وأبو السائب وخلاد بن أسلم، قالوا: ثنا ابن إدريس، قال: ثنا قابوس، عن أبيه: أن ابن
-  الكوّاء سأل عليًّا رضي الله عنه عن «سبحان الله» قال: كلمة رضيها الله لنفسه.حدثني
+  حتى يُدْخِلَهُ النّارُ \". </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، عن ابن أبي
+  نجيح، عن مجاهد في قول الله: { يَهْدِيهِمْ رَبُّهُمْ بإيمانِهِمْ } قال: يكون لهم
+  نورا يمشون به.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثني المثنى، قال: ثنا أبو حذيفة،
+  قال: ثنا شبل، عن ابن أبي نجيح، عن مجاهد، مثله.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال:
+  ثنا إسحاق، قال: ثنا ابن أبي جعفر، عن ورقاء، عن ابن أبي نجيح، عن مجاهد، مثله.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن ابن جريج، عن مجاهد،
+  مثله.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال ابن جريج: { يَهْدِيهِمْ رَبُّهُمْ
+  بإيمانِهِمْ } قال: يمثل له عمله في صورة حسنة وريح طيبة، يعارض صاحبه ويبشره بكل خير،
+  فيقول له: من أنت؟ فيقول: أنا عملك فيجعل له نوراً من بين يديه حتى يدخله الجنة، فذلك
+  قوله: { يَهْدِيهِمْ رَبُّهُمْ بإيمانِهِمْ }. والكافر يمثل له عمله في صورة سيئة وريح
+  منتنة، فيلازم صاحبه ويُلادّه حتى يقذفه في النار.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  آخرون: معنى ذلك: بإيمانهم يهديهم ربهم لدينه، يقول: بتصديقهم هداهم. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقوله: { تَجْرِي مِنْ تَحْتَهِمُ الأنهارُ } يقول: تجري من تحت هؤلاء
+  المؤمنين الذين وصف جلّ ثناؤه صفتهم أنهار الجنة. { في جَنَّاتِ النَّعِيمِ } يقول:
+  في بساتين النعيم الذي نعمَّ الله به أهل طاعته والإيمان به.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">فإن
+  قال قائل: وكيف قيل تجري من تحتهم الأنهار، وإنما وصف جلّ ثناؤه أنهار الجنة في سائر
+  القرآن أنها تجري تحت الجنات؟ وكيف يمكن الأنهار أن تجري من تحتهم إلا أن يكونوا فوق
+  أرضها والأنهار تجري من تحت أرضها، وليس ذلك من صفة أنهار الجنة، لأن صفتها أنها تجري
+  على وجه الأرض في غير أخاديد؟ قيل: إن معنى ذلك بخلاف ما إليه ذهبتَ، وإنما معنى ذلك:
+  تجري من دونهم الأنهار إلى ما بين أيديهم في بساتين النعيم، وذلك نظير قول الله: {
+  قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّا } ومعلوم أنه لم يجعل السريّ تحتها وهي عليه
+  قاعدة، إذ كان السريّ هو الجدول، وإنما عني به جعل دونها: بين يديها، وكما قال جلّ
+  ثناؤه مخبرا عن قيل فرعون: { ألَيْسَ لي مُلْكُ مِصْرَ وَهَذِهِ الأنهارُ تَجْرِي مِنْ
+  تَحْتِي } بمعنى: من دوني بين يدي.</font></font>&#13;\t\t\t<label disabled=\"true\"
+  class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(10, 9)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(10,9)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">إِنَّ ٱلَّذِينَ آمَنُواْ وَعَمِلُواْ ٱلصَّالِحَاتِ
+  يَهْدِيهِمْ رَبُّهُمْ بِإِيمَانِهِمْ تَجْرِي مِن تَحْتِهِمُ ٱلأَنْهَارُ فِي جَنَّاتِ
+  ٱلنَّعِيمِ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">دَعْوَاهُمْ فِيهَا سُبْحَانَكَ ٱللَّهُمَّ
+  وَتَحِيَّتُهُمْ فِيهَا سَلاَمٌ وَآخِرُ دَعْوَاهُمْ أَنِ ٱلْحَمْدُ للَّهِ رَبِّ ٱلْعَالَمِينَ</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">وأما قوله: { دَعْوَاهُمْ فِيها سُبْحانَكَ اللَّهُمْ } فإن معناه:
+  دعاؤهم فيها سبحانك اللهمّ. كما:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن ابن جريج، قال: أخبرت أن قوله: { دعْوَاهُمْ
+  فِيها سُبْحانَك اللَّهُمَّ } قال: إذا مرّ بهم الطير فيشتهونه، قالوا: سبحانك اللهمّ
+  وذلك دعواهم، فيأتيهم الملك بما اشتهوا، فيسلم عليهم، فيردّون عليه، فذلك قوله: { وتَحِيَّتُهُمْ
+  فِيها سَلامٌ }. قال: فإذا أكلوا حمدوا الله ربهم، فذلك قوله: { وآخِرُ دَعْوَاهُمْ
+  أنِ الحَمْدُ لِلَّهِ رَبّ العالَمِينَ }.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: { دعْوَاهُمْ فِيها سُبْحانَك
+  اللَّهُمَّ } يقول: ذلك قولهم فيها { وتَحِيَّتُهُمْ فِيها سَلامٌ }.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا أبو كريب، قال: ثنا عبيد الله الأشجعي، قال: سمعت سفيان يقول:
+  { دعْوَاهُمْ فِيها سُبْحانَك اللَّهُمَّ وتَحِيَّتُهُمْ فِيها سَلامٌ } قال: إذا أرادوا
+  الشيء قالوا: اللهمّ فيأتيهم ما دعوا به.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وأما
+  قوله: { سُبْحانَكَ اللَّهُمَّ } فإن معناه: تنزيها لك يا ربّ مما أضاف إليك أهل الشرك
+  بك من الكذب عليك والفرية.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وبنحو الذي قلنا في ذلك قال أهل
+  التأويل. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا أبو كريب، قال: ثنا ابن إدريس،
+  قال: سمعت أبي، عن غير واحد عطية فيهم: سبحان الله تنزيه لله.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  محمد بن بشار، قال: ثنا عبد الرحمن بن مهدي، قال: ثنا سفيان، عن عثمان بن عبد الله
+  بن موهب، قال: سمعت موسى بن طلحة، قال: سئل رسول الله صلى الله عليه وسلم عن سبحان
+  الله، قال:</font></font><b><font class=\"TextResultArabic\"><font color=\"Red\">
+  \" إبْرَاءُ اللَّهِ عَنِ السُّوءِ \". </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا أبو كريب وأبو السائب وخلاد بن أسلم، قالوا: ثنا ابن إدريس،
+  قال: ثنا قابوس، عن أبيه: أن ابن الكوّاء سأل عليًّا رضي الله عنه عن «سبحان الله»
+  قال: كلمة رضيها الله لنفسه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
   نصر بن عبد الرحمن الأودي، قال: ثنا أبو أسامة، عن سفيان بن سعيد الثوري عن عثمان بن
   عبد الله بن موهب الطلحي، عن موسى بن طلحة، قال: سئل رسول الله صلى الله عليه وسلم،
-  عن سبحان الله، فقال: \" تَنْزِيهاً لِلَّهِ عَنِ السُّوءِ \". حدثني عليّ بن عيسى
-  البزار، قال: ثنا عبيد الله بن محمد، قال: ثنا عبد الرحمن بن حماد، قال: ثني حفص بن
-  سليمان، قال: ثنا طلحة بن يحيى بن طلحة، عن أبيه، عن طلحة بن عبيد الله، قال: سألت
-  رسول الله صلى الله عليه وسلم عن تفسير سبحان الله، فقال:\r\n\t\t\t\r\n\t\t\t1 2 3 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ إِنَّ ٱلَّذِينَ آمَنُواْ وَعَمِلُواْ
-  ٱلصَّالِحَاتِ يَهْدِيهِمْ رَبُّهُمْ بِإِيمَانِهِمْ تَجْرِي مِن تَحْتِهِمُ ٱلأَنْهَارُ
-  فِي جَنَّاتِ ٱلنَّعِيمِ } * { دَعْوَاهُمْ فِيهَا سُبْحَانَكَ ٱللَّهُمَّ وَتَحِيَّتُهُمْ
-  فِيهَا سَلاَمٌ وَآخِرُ دَعْوَاهُمْ أَنِ ٱلْحَمْدُ للَّهِ رَبِّ ٱلْعَالَمِينَ } \"
-  هُوَ تَنْزِيهُ اللَّهِ مِنْ كُلّ سُوءٍ \". حدثني محمد بن عمرو بن تمام الكلبي، قال:
-  ثنا سليمان بن أيوب، قال: ثني أبي، عن جدي، عن موسى بن طلحة، عن أبيه، قال: قلت: يا
-  رسول الله قول سبحان الله؟ قال: \" تَنْزِيهُ اللَّهِ عَنِ السُّوءِ \". { وتَحِيَّتُهُمْ
-  } يقول: وتحية بعضهم بعضاً { فِيها سَلامٌ }: أي سلمت وأمنت مما ابتلي به أهل النار.
-  والعرب تسمى الملك التحية ومنه قول عمرو بن معديكرّب:أزُورُ بها أبا قابُوسَ حتى   أنِيخَ
-  عَلى تَحِيَّتِهِ بِجُنْدِيومنه قول زهير بن جناب الكلبي:مِنْ كُلّ ما نالَ الفَتَى   قَدْ
-  نِلْتُهُ إلاَّ التَّحِيَّهْوقوله: { وآخِرُ دَعْوَاهُمْ } يقول: وآخر دعائهم { أن
-  الحَمْدُ لِلَّهِ رَبّ العالَمِينَ } يقول: وآخر دعائهم أن يقولوا: الحمد لله ربّ العالمين
-  ولذلك خففت «أن» ولم تشدّد، لأنه أريد بها الحكاية.\r\n\t\t\t\r\n\t\t\t1 2 3 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  عن سبحان الله، فقال:</font></font><b><font class=\"TextResultArabic\"><font color=\"Red\">
+  \" تَنْزِيهاً لِلَّهِ عَنِ السُّوءِ \". </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني عليّ بن عيسى البزار، قال: ثنا عبيد الله بن محمد، قال: ثنا
+  عبد الرحمن بن حماد، قال: ثني حفص بن سليمان، قال: ثنا طلحة بن يحيى بن طلحة، عن أبيه،
+  عن طلحة بن عبيد الله، قال: سألت رسول الله صلى الله عليه وسلم عن تفسير سبحان الله،
+  فقال:</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(10, 9)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(10,9)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">إِنَّ ٱلَّذِينَ آمَنُواْ وَعَمِلُواْ ٱلصَّالِحَاتِ
+  يَهْدِيهِمْ رَبُّهُمْ بِإِيمَانِهِمْ تَجْرِي مِن تَحْتِهِمُ ٱلأَنْهَارُ فِي جَنَّاتِ
+  ٱلنَّعِيمِ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">دَعْوَاهُمْ فِيهَا سُبْحَانَكَ ٱللَّهُمَّ
+  وَتَحِيَّتُهُمْ فِيهَا سَلاَمٌ وَآخِرُ دَعْوَاهُمْ أَنِ ٱلْحَمْدُ للَّهِ رَبِّ ٱلْعَالَمِينَ</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\"/></font><b><font class=\"TextResultArabic\"><font color=\"Red\">
+  \" هُوَ تَنْزِيهُ اللَّهِ مِنْ كُلّ سُوءٍ \". </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني محمد بن عمرو بن تمام الكلبي، قال: ثنا سليمان بن أيوب، قال:
+  ثني أبي، عن جدي، عن موسى بن طلحة، عن أبيه، قال: قلت: يا رسول الله قول سبحان الله؟
+  قال:</font></font><b><font class=\"TextResultArabic\"><font color=\"Red\"> \" تَنْزِيهُ
+  اللَّهِ عَنِ السُّوءِ \". </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">{ وتَحِيَّتُهُمْ } يقول: وتحية بعضهم بعضاً { فِيها سَلامٌ }: أي
+  سلمت وأمنت مما ابتلي به أهل النار. والعرب تسمى الملك التحية ومنه قول عمرو بن معديكرّب:</font></font><table
+  class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">أزُورُ بها أبا قابُوسَ حتى</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">أنِيخَ عَلى تَحِيَّتِهِ بِجُنْدِي</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">ومنه قول زهير بن جناب الكلبي:</font></font><table
+  class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">مِنْ كُلّ ما نالَ الفَتَى</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">قَدْ نِلْتُهُ إلاَّ التَّحِيَّهْ</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">وقوله: { وآخِرُ دَعْوَاهُمْ } يقول:
+  وآخر دعائهم { أن الحَمْدُ لِلَّهِ رَبّ العالَمِينَ } يقول: وآخر دعائهم أن يقولوا:
+  الحمد لله ربّ العالمين ولذلك خففت «أن» ولم تشدّد، لأنه أريد بها الحكاية.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">3 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a id=\"NextClass\"/></td></tr></table></center></div></section>"
 

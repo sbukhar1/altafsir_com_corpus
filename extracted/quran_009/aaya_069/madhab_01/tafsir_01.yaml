@@ -1,4 +1,4 @@
-location:
+position:
   sura: 009
   aaya: 069
   madhab: '01'
@@ -12,54 +12,121 @@ aaya: كَالَّذِينَ مِنْ قَبْلِكُمْ كَانُوا أَش
   اسْتَمْتَعَ الَّذِينَ مِنْ قَبْلِكُمْ بِخَلَاقِهِمْ وَخُضْتُمْ كَالَّذِي خَاضُوا
   ۚ أُولَٰئِكَ حَبِطَتْ أَعْمَالُهُمْ فِي الدُّنْيَا وَالْآخِرَةِ ۖ وَأُولَٰئِكَ هُمُ
   الْخَاسِرُونَ
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ كَٱلَّذِينَ مِن
-  قَبْلِكُمْ كَانُواْ أَشَدَّ مِنكُمْ قُوَّةً وَأَكْثَرَ أَمْوَالاً وَأَوْلاَداً فَٱسْتَمْتَعُواْ
-  بِخَلاقِهِمْ فَٱسْتَمْتَعْتُمْ بِخَلاَقِكُمْ كَمَا ٱسْتَمْتَعَ ٱلَّذِينَ مِن قَبْلِكُمْ
-  بِخَلاَقِهِمْ وَخُضْتُمْ كَٱلَّذِي خَاضُوۤاْ أُوْلَـٰئِكَ حَبِطَتْ أَعْمَالُهُمْ
-  فِي ٱلدنْيَا وَٱلآخِرَةِ وَأُوْلَئِكَ هُمُ ٱلْخَاسِرُونَ }يقول تعالى ذكره لنبيه
-  محمد صلى الله عليه وسلم: قل يا محمد لهؤلاء المنافقين الذين قالوا إنما كنا نخوض ونلعب:
-  أبا لله وآيات كتابه ورسوله كنتم تستهزءون، كالذين من قبلكم من الأمم الذين فعلوا فعلكم
-  فأهلكهم الله، وعجَّل لهم في الدنيا الخزي مع ما أعدّ لهم من العقوبة والنكال في الآخرة؟
-  يقول لهم جل ثناؤه: واحذروا أن يحلّ بكم من عقوبة الله مثل الذي حلّ بهم، فإنهم كانوا
-  أشدّ منكم قوّة وبطشاً، وأكثر منكم أموالاً وأولاداً. { فاسْتَمْتَعُوا بخَلاقِهِمْ
-  } يقول: فتمتعوا بنصيبهم وحظهم من دنياهم ودينهم، ورضوا بذلك من نصيبهم في الدنيا عوضاً
-  من نصيبهم في الآخرة. وقد سلكتم أيها المنافقون سبيلهم في الاستمتاع بخلاقكم، يقول:
-  فعلتم بدينكم ودنياكم كما استمتع الأمم الذين كانوا من قبلكم الذين أهلكتهم بخلافهم
-  أمري، بخلاقهم، يقول: كما فعل الذين من قبلكم بنصيبهم من دنياهم ودينهم، وخضتم في الكذب
-  والباطل على الله كالذي خاضوا، يقول: وخضتم أنتم أيها المنافقون كخوض تلك الأمم قبلكم.وبنحو
-  الذي قلنا في ذلك قال أهل التأويل. ذكر من قال ذلك:حدثني المثنى، قال: ثنا أبو صالح،
-  قال: ثني أبو معشر، عن سعيد بن أبي سعيد المقبري، عن أبي هريرة، عن النبيّ صلى الله
-  عليه وسلم، قال: \" لَتَأْخُذُنَّ كمَا أخَذَ الأُمَمُ مِنْ قَبْلِكُمْ، ذِرَاعاً بِذِرَاعٍ،
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(9, 69)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(9,69)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">كَٱلَّذِينَ
+  مِن قَبْلِكُمْ كَانُواْ أَشَدَّ مِنكُمْ قُوَّةً وَأَكْثَرَ أَمْوَالاً وَأَوْلاَداً
+  فَٱسْتَمْتَعُواْ بِخَلاقِهِمْ فَٱسْتَمْتَعْتُمْ بِخَلاَقِكُمْ كَمَا ٱسْتَمْتَعَ
+  ٱلَّذِينَ مِن قَبْلِكُمْ بِخَلاَقِهِمْ وَخُضْتُمْ كَٱلَّذِي خَاضُوۤاْ أُوْلَـٰئِكَ
+  حَبِطَتْ أَعْمَالُهُمْ فِي ٱلدنْيَا وَٱلآخِرَةِ وَأُوْلَئِكَ هُمُ ٱلْخَاسِرُونَ</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">يقول تعالى ذكره لنبيه محمد صلى الله عليه وسلم: قل يا محمد لهؤلاء
+  المنافقين الذين قالوا إنما كنا نخوض ونلعب: أبا لله وآيات كتابه ورسوله كنتم تستهزءون،
+  كالذين من قبلكم من الأمم الذين فعلوا فعلكم فأهلكهم الله، وعجَّل لهم في الدنيا الخزي
+  مع ما أعدّ لهم من العقوبة والنكال في الآخرة؟ يقول لهم جل ثناؤه: واحذروا أن يحلّ
+  بكم من عقوبة الله مثل الذي حلّ بهم، فإنهم كانوا أشدّ منكم قوّة وبطشاً، وأكثر منكم
+  أموالاً وأولاداً. { فاسْتَمْتَعُوا بخَلاقِهِمْ } يقول: فتمتعوا بنصيبهم وحظهم من
+  دنياهم ودينهم، ورضوا بذلك من نصيبهم في الدنيا عوضاً من نصيبهم في الآخرة. وقد سلكتم
+  أيها المنافقون سبيلهم في الاستمتاع بخلاقكم، يقول: فعلتم بدينكم ودنياكم كما استمتع
+  الأمم الذين كانوا من قبلكم الذين أهلكتهم بخلافهم أمري، بخلاقهم، يقول: كما فعل الذين
+  من قبلكم بنصيبهم من دنياهم ودينهم، وخضتم في الكذب والباطل على الله كالذي خاضوا،
+  يقول: وخضتم أنتم أيها المنافقون كخوض تلك الأمم قبلكم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وبنحو
+  الذي قلنا في ذلك قال أهل التأويل. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  المثنى، قال: ثنا أبو صالح، قال: ثني أبو معشر، عن سعيد بن أبي سعيد المقبري، عن أبي
+  هريرة، عن النبيّ صلى الله عليه وسلم، قال:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" لَتَأْخُذُنَّ كمَا أخَذَ الأُمَمُ مِنْ قَبْلِكُمْ، ذِرَاعاً بِذِرَاعٍ،
   وَشِبْراً بِشِبْرٍ، وَباعاً بِباعٍ حتى لَوْ أنَّ أحَداً مِنْ أُولَئِكَ دَخَلَ جَحْرَ
-  ضَبّ لَدَخَلْتُمُوهُ \" قال أبو هريرة: اقرءوا إن شئتم القرآن: { كالَّذِينَ مِنْ
-  قَبْلِكُمْ كانُوا أشَدَّ مِنْكُمْ قَوَّةً وأكْثَرَ أمْوَالاً وأوَلاداً فاسْتَمْتَعُوا
-  بِخَلاقهِمْ فاسْتَمْتَعْتُمْ بِخَلاقِكُمْ كمَا اسْتَمْتَعَ الَّذِينَ مِنْ قَبْلِكُمْ
-  بِخَلاقِهِمْ وَخُضْتُمْ كالَّذِي خاضُوا } قالوا: يا رسول الله، كما صنعت فارس والروم؟
-  قال: \" فَهَلِ النَّاسُ إلاَّ هُمْ \" حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج،
-  عن ابن جريج عن عمر بن عطاء، عن عكرمة عن ابن عباس، قوله: { كالَّذِينَ مِنْ قَبْلِكُمْ....
-  } الآية. قال: قال ابن عباس: ما أشبه الليلة بالبارحة { كالَّذِينَ مِنْ قَبْلِكُمْ
-  } هؤلاء بنو إسرائيل شبهنا بهم، لا أعلم إلا أنه قال: والذي نفسي بيده لتتبعنهم حتى
-  لو دخل الرجل منهم حُجْرَ ضبّ لدخلتموهقال ابن جريج: وأخبرنا زياد بن سعد، عن محمد
-  بن زيد بن مهاجر، عن سعيد بن أبي سعيد المقبري، عن أبي هريرة، قال: قال رسول الله صلى
-  الله عليه وسلم: \" وَالَّذِي نَفْسِي بيَدِهِ لَتَتَّبِعُنَّ سُنَنَ الَّذِينَ مِنْ
+  ضَبّ لَدَخَلْتُمُوهُ \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">قال أبو هريرة: اقرءوا إن شئتم القرآن: { كالَّذِينَ مِنْ قَبْلِكُمْ
+  كانُوا أشَدَّ مِنْكُمْ قَوَّةً وأكْثَرَ أمْوَالاً وأوَلاداً فاسْتَمْتَعُوا بِخَلاقهِمْ
+  فاسْتَمْتَعْتُمْ بِخَلاقِكُمْ كمَا اسْتَمْتَعَ الَّذِينَ مِنْ قَبْلِكُمْ بِخَلاقِهِمْ
+  وَخُضْتُمْ كالَّذِي خاضُوا } قالوا: يا رسول الله، كما صنعت فارس والروم؟ قال:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" فَهَلِ النَّاسُ إلاَّ هُمْ \"
+  </font></font></b><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا القاسم، قال: ثنا الحسين،
+  قال: ثني حجاج، عن ابن جريج عن عمر بن عطاء، عن عكرمة عن ابن عباس، قوله: { كالَّذِينَ
+  مِنْ قَبْلِكُمْ.... } الآية. قال: قال ابن عباس: ما أشبه الليلة بالبارحة { كالَّذِينَ
+  مِنْ قَبْلِكُمْ } هؤلاء بنو إسرائيل شبهنا بهم، لا أعلم إلا أنه قال: والذي نفسي بيده
+  لتتبعنهم حتى لو دخل الرجل منهم حُجْرَ ضبّ لدخلتموه</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال
+  ابن جريج: وأخبرنا زياد بن سعد، عن محمد بن زيد بن مهاجر، عن سعيد بن أبي سعيد المقبري،
+  عن أبي هريرة، قال: قال رسول الله صلى الله عليه وسلم:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" وَالَّذِي نَفْسِي بيَدِهِ لَتَتَّبِعُنَّ سُنَنَ الَّذِينَ مِنْ
   قَبْلِكُمْ شِبْراً بِشِبْرٍ، وَذِرَاعاً بذِرَاعٍ، وَباعاً بباعٍ حتى لَوْ دَخَلُوا
-  حُجْرَ ضَبّ لَدَخَلْتُمُوهُ \" قالوا: وَمن هم يا رسول الله، أهل الكتاب؟ قال: \"
-  فمن فَمَهُ؟ \" حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن ابن جريج، قال: قال
-  أبو سعيد الخدريّ إنه قال: فمن.\r\n\t\t\t\r\n\t\t\t1 2 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ كَٱلَّذِينَ مِن قَبْلِكُمْ كَانُواْ
-  أَشَدَّ مِنكُمْ قُوَّةً وَأَكْثَرَ أَمْوَالاً وَأَوْلاَداً فَٱسْتَمْتَعُواْ بِخَلاقِهِمْ
-  فَٱسْتَمْتَعْتُمْ بِخَلاَقِكُمْ كَمَا ٱسْتَمْتَعَ ٱلَّذِينَ مِن قَبْلِكُمْ بِخَلاَقِهِمْ
-  وَخُضْتُمْ كَٱلَّذِي خَاضُوۤاْ أُوْلَـٰئِكَ حَبِطَتْ أَعْمَالُهُمْ فِي ٱلدنْيَا
-  وَٱلآخِرَةِ وَأُوْلَئِكَ هُمُ ٱلْخَاسِرُونَ }حدثنا محمد بن عبد الأعلى، قال: ثنا
-  محمد بن ثور، عن معمر، عن الحسن: { فاسْتَمْتَعُوا بِخَلاقِهِمْ } قال: بدينهم.حدثني
-  المثنى، قال: ثنا إسحاق، قال: ثنا ابن أبي جعفر، عن أبيه، عن الربيع، قال: قال رسول
-  الله صلى الله عليه وسلم: \" حِذْرَكُمْ أنْ تُحْدِثُوا في الإسْلامِ حَدَثا \" وقد
+  حُجْرَ ضَبّ لَدَخَلْتُمُوهُ \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">قالوا: وَمن هم يا رسول الله، أهل الكتاب؟ قال:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" فمن فَمَهُ؟ \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن ابن جريج، قال:
+  قال أبو سعيد الخدريّ إنه قال: فمن.</font></font>&#13;\t\t\t<label disabled=\"true\"
+  class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(9, 69)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(9,69)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">كَٱلَّذِينَ مِن قَبْلِكُمْ كَانُواْ أَشَدَّ مِنكُمْ
+  قُوَّةً وَأَكْثَرَ أَمْوَالاً وَأَوْلاَداً فَٱسْتَمْتَعُواْ بِخَلاقِهِمْ فَٱسْتَمْتَعْتُمْ
+  بِخَلاَقِكُمْ كَمَا ٱسْتَمْتَعَ ٱلَّذِينَ مِن قَبْلِكُمْ بِخَلاَقِهِمْ وَخُضْتُمْ
+  كَٱلَّذِي خَاضُوۤاْ أُوْلَـٰئِكَ حَبِطَتْ أَعْمَالُهُمْ فِي ٱلدنْيَا وَٱلآخِرَةِ
+  وَأُوْلَئِكَ هُمُ ٱلْخَاسِرُونَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\"
+  dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">حدثنا محمد بن
+  عبد الأعلى، قال: ثنا محمد بن ثور، عن معمر، عن الحسن: { فاسْتَمْتَعُوا بِخَلاقِهِمْ
+  } قال: بدينهم.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثني المثنى، قال: ثنا إسحاق، قال:
+  ثنا ابن أبي جعفر، عن أبيه، عن الربيع، قال: قال رسول الله صلى الله عليه وسلم:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" حِذْرَكُمْ أنْ تُحْدِثُوا في
+  الإسْلامِ حَدَثا \" </font></font></b><font class=\"TextResultArabic\"><font color=\"black\">وقد
   علم أنه سيفعل ذلك أقوام من هذه الأمة، فقال الله في ذلك: { فاسْتَمْتَعُوا بِخَلاقِهِمْ
   فاسْتَمْتَعْتُمْ بِخَلاقِكُمْ كمَا اسْتَمْتَعَ الَّذِينَ مِنْ قَبْلِكُمْ بِخَلاقِهِمْ
   وَخُضْتُمْ كالَّذِي خاضُوا } وإنما حسبوا أن لا يقع بهم من الفتنة ما وقع ببني إسرائيل
-  قبلهم، وإن الفتنة عائدة كما بدت.وأما قوله: { أُولَئِكَ حَبِطَتْ أعمالُهُمْ } فإن
-  معناه: هؤلاء الذين قالوا إنما كنا نخوض ونلعب، وفعلوا في ذلك فعل الهالكين من الأمم
-  قبلهم، { حبطت أعمالهم } يقول: ذهبت أعمالهم باطلاً، فلا ثواب لها إلا النار، لأنها
-  كانت فيما يسخط الله ويكرهه. { وأُولَئكَ هُمُ الخاسِرُونَ } يقول: وأولئك هم المغبونون
-  صفقتهم ببيعهم نعيم الآخرة، بخلاقهم من الدنيا اليسير الزهيد.\r\n\t\t\t\r\n\t\t\t1 2 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  قبلهم، وإن الفتنة عائدة كما بدت.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وأما
+  قوله: { أُولَئِكَ حَبِطَتْ أعمالُهُمْ } فإن معناه: هؤلاء الذين قالوا إنما كنا نخوض
+  ونلعب، وفعلوا في ذلك فعل الهالكين من الأمم قبلهم، { حبطت أعمالهم } يقول: ذهبت أعمالهم
+  باطلاً، فلا ثواب لها إلا النار، لأنها كانت فيما يسخط الله ويكرهه. { وأُولَئكَ هُمُ
+  الخاسِرُونَ } يقول: وأولئك هم المغبونون صفقتهم ببيعهم نعيم الآخرة، بخلاقهم من الدنيا
+  اليسير الزهيد.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section>"
 

@@ -1,4 +1,4 @@
-location:
+position:
   sura: '007'
   aaya: '022'
   madhab: '01'
@@ -7,79 +7,181 @@ meta:
   title: تفسير جامع البيان في تفسير القرآن
   author: الطبري
   year: '310'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ فَدَلاَّهُمَا
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(7, 22)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(7,22)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">فَدَلاَّهُمَا
   بِغُرُورٍ فَلَمَّا ذَاقَا ٱلشَّجَرَةَ بَدَتْ لَهُمَا سَوْءَاتُهُمَا وَطَفِقَا يَخْصِفَانِ
   عَلَيْهِمَا مِن وَرَقِ ٱلْجَنَّةِ وَنَادَاهُمَا رَبُّهُمَآ أَلَمْ أَنْهَكُمَا عَن
-  تِلْكُمَا ٱلشَّجَرَةِ وَأَقُل لَّكُمَآ إِنَّ ٱلشَّيْطَآنَ لَكُمَا عَدُوٌ مُّبِينٌ
-  }يعني جلّ ثناؤه بقوله: { فَدَلاَّهُما بِغُرُورٍ } فخدعهما بغرور، يقال منه: ما زال
-  فلان يدلّي فلاناً بغرور، بمعنى: ما زال يخدعه بغرور ويكلمه بزخرف من القول باطل. {
-  فَلَمَّا ذَاقَا الشَّجَرَةَ } يقول: فلما ذاق آدم وحوّاء ثمر الشجرة، يقول: طعماه.
-  { بَدَتْ لَهُما سَوْآتُهُما } يقول: انكشفت لهما سوآتهما، لأن الله أعراهما من الكسوة
-  التي كان كساهما قبل الذنب والخطيئة، فسلبهما ذلك بالخطيئة التي أخطأها، أو المعصية
-  التي ركبا. { وَطَفِقَا يَخْصَفانِ عَلَيْهما مِنْ وَرَقِ الجَنَّةِ } يقول: أقبلا
-  وجعلا يشدّان عليهما من ورق الجنة ليواريا سوآتهما. كما:حدثنا أبو كريب، قال: ثنا وكيع،
-  عن إسرائيل، عن سماك، عن عكرمة، عن ابن عباس: { وَطَفِقا يَخْصِفانِ عَلَيْهِما مِنْ
-  وَرَقِ الجَنَّةِ } قال: جعلا يأخذان من ورق الجنة فيجعلان على سوءاتهما.حدثنا القاسم،
-  قال: ثنا الحسين، قال: ثني حجاج، عن أبي بكر، عن الحسن، عن أبيّ بن كعب، قال: قال رسول
-  الله صلى الله عليه وسلم: \" كانَ آدَمُ كأنَّهُ نَخْلَةٌ سَحُوقٌ كَثِيرَ شَعْرِ الرأْسِ،
-  فَلَمَّا وَقَعَ بالخَطِيئَةِ بَدَتْ لَهُ عَوْرتُهُ وكانَ لا يَرَاها، فانْطَلَقَ
-  فارًّا، فَتَعَرَّضَتْ لَهُ شَجَرَةٌ فَحَبَسَتْهُ بِشَعْرِهِ، فَقالَ لَهَا: أرْسِلِيني،
-  فَقالَتْ: لَسْتُ بمُرْسِلَتِكَ، فَنادَاهُ رَبُّهُ: يا آدَمُ، أمِنِّي تَفِرُّ؟ قالَ:
-  لا، وَلَكِنِّي اسْتَحَيْتُكَ \". حدثني المثنى، قال: ثنا إسحاق، قال: أخبرنا عبد الرزاق،
-  قال: أخبرنا سفيان بن عيينة وابن مبارك، عن الحسن، عن عمارة، عن المنهال بن عمرو، عن
-  سعيد بن جبير، عن ابن عباس، قال: كانت الشجرة التي نهى الله عنها آدم وزوجته: السنبلة
-  فلما أكلا منها بدت لهما سوءاتهما، وكان الذي وارى عنهما من سوآتهما أظفارهما { وَطَفِقا
-  يَخْصِفانِ عَلَيْهِما مِنْ وَرَقِ الجَنَّةِ } ورق التين يلصقان بعضها إلى بعض، فانطلق
-  آدم مولِّياً في الجنة، فأخذت برأسه شجرة من الجنة، فناداه: أي آدم أمني تفرّ؟ قال:
-  لا، ولكني استحيتك يا ربّ قال: أما كان لك فيما منحتك من الجنة وأبحتك منها مندوحة
-  عما حرّمت عليك؟ قال: بلى يا ربّ، ولكن وعزّتك ما حسبت أن أحداً يحلف بك كاذباً. قال:
-  وهو قول الله:{ وَقاسمَهُما إنّي لَكُما لَمِنَ النَّاصِحينَ }قال: فبعزّتي لأهبطنك
-  إلى الأرض، ثم لا تنال العيش إلا كدّاً قال: فأهبط من الجنة، وكانا يأكلان فيها رغداً،
-  فأهبطا في غير رغد من طعام وشراب، فعلِّم صنعة الحديد، وأمر بالحرث، فحرث وزرع ثم سقى.
-  حتى إذا بلغ حصده ثم داسه، ثم ذراه، ثم طحنه، ثم عجنه، ثم خبزه، ثم أكله، فلم يبلغه
-  حتى بلغ منه ما شاء الله أن يبلغ.حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا
-  عيسى، عن ابن أبي نجيح، عن مجاهد، في قول الله: { يَخْصِفانِ } قال: يرقعان كهيئة الثوب.\r\n\t\t\t\r\n\t\t\t1 2 3 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ فَدَلاَّهُمَا بِغُرُورٍ فَلَمَّا ذَاقَا
-  ٱلشَّجَرَةَ بَدَتْ لَهُمَا سَوْءَاتُهُمَا وَطَفِقَا يَخْصِفَانِ عَلَيْهِمَا مِن
-  وَرَقِ ٱلْجَنَّةِ وَنَادَاهُمَا رَبُّهُمَآ أَلَمْ أَنْهَكُمَا عَن تِلْكُمَا ٱلشَّجَرَةِ
-  وَأَقُل لَّكُمَآ إِنَّ ٱلشَّيْطَآنَ لَكُمَا عَدُوٌ مُّبِينٌ }حدثني المثنى، قال:
-  ثنا أبو حذيفة، قال: ثنا شبل، عن ابن أبي نجيح، عن مجاهد: يخصفان عليهما من الورق كهيئة
-  الثوب.حدثنا بشر بن معاذ، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: { فَلَمَّا
-  ذَاقا الشَّجَرَةَ بَدَتْ لَهُما سَوْآتُهُما } وكانا قبل ذلك لا يريانها { وطَفِقا
-  يَخْصِفانِ }... الآية.وقال: ثنا سعيد، عن قتادة، قال: ثنا الحسن، عن أبيّ بن كعب:
-  أن آدم عليه السلام كان رجلاً طوالاً، كأنه نخلة سحوق، كثير شعر الرأس فلما وقع بما
-  وقع به من الخطيئة، بدت له عورته عند ذلك، وكان لا يراها. فانطلق هارباً في الجنة،
-  فعلقت برأسه شجرة من شجر الجنة، فقال لها: أرسليني قالت: إني غير مرسلتك. فناداه ربه:
-  يا آدم، أمني تفرّ؟ قال: ربّ إني استحيتك.حدثنا ابن وكيع، قال: ثنا جعفر بن عون، عن
-  سفيان الثوريّ، عن ابن أبي ليلى، عن المنهال بن عمرو، عن سعيد بن جبير، عن ابن عباس:
-  { وَطَفِقا يَخْصِفانِ عَلَيْهِما مِنْ وَرَقِ الجَنَّةِ } قال: ورق التين.حدثنا ابن
-  وكيع، قال: ثنا يحيى بن آدم، عن شريك، عن ابن أبي ليلى، عن المنهال، عن سعيد بن جبير،
-  عن ابن عباس: { وَطَفقا يَخْصِفان عَلَيْهِما مِنْ وَرَق الجَنَّة } قال: ورق التين.حدثنا
-  القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن حسام بن معبد، عن قتادة وأبي بكر عن غير
-  قتادة قال: كان لباس آدم في الجنة ظُفُراً كله، فلما وقع بالذنب كشط عنه وبدت سوأته.
-  قال أبو بكر: قال غير قتادة: { فَطَفِقا يَخْصِفان عَلَيْهِما مِنْ وَرَق الجَنَّةِ
-  } قال: ورق التين.حدثنا الحسن بن يحيى، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر،
-  عن قتادة، في قوله: { بَدَتْ لَهُما سَوآتُهُما } قال: كانا لا يريان سوآتهما.حدثني
-  المثنى، قال: ثنا إسحاق، قال: ثنا عبد الله بن الزبير، عن ابن عيينة، قال: ثنا عمرو،
-  قال: سمعت وهب بن منبه يقول: يَنْزِعُ عَنْهُما لِباسَهُما قال: كان لباس آدم وحوّاء
-  عليهما السلام نوراً على فروجهما، لا يرى هذا عورة هذه ولا هذه عورة هذا. فلما أصابا
-  الخطيئة بدت لهما سوآتهما.القول في تأويل قوله تعالى: { وَنادَاهُمَا رَبُّهُما ألَمْ
-  أنْهَكُما عَنْ تِلْكُما الشَّجَرَةِ وأقُلْ لَكُما إنَّ الشَّيْطانَ لَكُما عَدُوّ
-  مُبِينٌ }.يقول تعالى ذكره: ونادى آدم وحوّاء ربهما: ألم أنهكما عن أكل ثمرة الشجرة
-  التي أكلتما ثمرها، وأعلمكما أن إبليس لكما عدوّ مبين؟ يقول: قد أبان عداوته لكما بترك
-  السجود لآدم حسداً وبغياً. كما:حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن أبي
-  معشر، عن محمد بن قيس، قوله: { وَنادَاهُما رَبُّهُما ألَمْ أنْهَكُما عَنْ تِلْكُما
-  الشَّجَرَةِ وأقُلْ لَكُما إنَّ الشَّيْطانَ لَكُما عَدُوٌ مُبِينٌ } لِمَ أكلتها وقد
-  نهيتك عنها؟ قال: يا ربّ أطعمتني حوّاء قال لحوّاء: لم أطعمته؟ قالت: أمرتني الحية.\r\n\t\t\t\r\n\t\t\t1 2 3 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ فَدَلاَّهُمَا بِغُرُورٍ فَلَمَّا ذَاقَا
-  ٱلشَّجَرَةَ بَدَتْ لَهُمَا سَوْءَاتُهُمَا وَطَفِقَا يَخْصِفَانِ عَلَيْهِمَا مِن
-  وَرَقِ ٱلْجَنَّةِ وَنَادَاهُمَا رَبُّهُمَآ أَلَمْ أَنْهَكُمَا عَن تِلْكُمَا ٱلشَّجَرَةِ
-  وَأَقُل لَّكُمَآ إِنَّ ٱلشَّيْطَآنَ لَكُمَا عَدُوٌ مُّبِينٌ }قال للحية: لم أمرتها؟
-  قالت: أمرني إبليس. قال: ملعون مدحور أما أنتِ يا حوّاء فكما دَمِيت الشجرة تدْمين
-  كلّ شهر، وأما أنت يا حية فأقطع قوائمك فتمشين على وجهك، وسيشدخ رأسك من لقيك{ اهْبِطُوا
-  بَعْضُكُمْ لِبَعْضٍ عَدُوّ }حدثنا القاسم، قال: ثنا الحسين، قال: ثنا عباد بن العوّام،
-  عن سفيان بن حسين، عن يعلى بن مسلم، عن سعيد بن جبير، عن ابن عباس، قال: لما أكل آدم
-  من الشجرة قيل له: لم أكلتَ من الشجرة التي نهيتك عنها؟ قال: حوّاء أمرتني، قال: فإني
-  قد أعقبتها أن لا تحمل إلا كرهاً ولا تضع إلا كرهاً. قال: فرنَّت حوّاء عند ذلك، فقيل
-  لها: الرنة عليك وعلى ولدك.\r\n\t\t\t\r\n\t\t\t1 2 3 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  تِلْكُمَا ٱلشَّجَرَةِ وَأَقُل لَّكُمَآ إِنَّ ٱلشَّيْطَآنَ لَكُمَا عَدُوٌ مُّبِينٌ</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">يعني جلّ ثناؤه بقوله: { فَدَلاَّهُما بِغُرُورٍ } فخدعهما بغرور،
+  يقال منه: ما زال فلان يدلّي فلاناً بغرور، بمعنى: ما زال يخدعه بغرور ويكلمه بزخرف
+  من القول باطل. { فَلَمَّا ذَاقَا الشَّجَرَةَ } يقول: فلما ذاق آدم وحوّاء ثمر الشجرة،
+  يقول: طعماه. { بَدَتْ لَهُما سَوْآتُهُما } يقول: انكشفت لهما سوآتهما، لأن الله أعراهما
+  من الكسوة التي كان كساهما قبل الذنب والخطيئة، فسلبهما ذلك بالخطيئة التي أخطأها،
+  أو المعصية التي ركبا. { وَطَفِقَا يَخْصَفانِ عَلَيْهما مِنْ وَرَقِ الجَنَّةِ } يقول:
+  أقبلا وجعلا يشدّان عليهما من ورق الجنة ليواريا سوآتهما. كما:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا أبو كريب، قال: ثنا وكيع، عن إسرائيل، عن سماك، عن عكرمة، عن
+  ابن عباس: { وَطَفِقا يَخْصِفانِ عَلَيْهِما مِنْ وَرَقِ الجَنَّةِ } قال: جعلا يأخذان
+  من ورق الجنة فيجعلان على سوءاتهما.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن أبي بكر، عن الحسن، عن أبيّ بن كعب، قال:
+  قال رسول الله صلى الله عليه وسلم:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" كانَ آدَمُ كأنَّهُ نَخْلَةٌ سَحُوقٌ كَثِيرَ شَعْرِ الرأْسِ، فَلَمَّا
+  وَقَعَ بالخَطِيئَةِ بَدَتْ لَهُ عَوْرتُهُ وكانَ لا يَرَاها، فانْطَلَقَ فارًّا، فَتَعَرَّضَتْ
+  لَهُ شَجَرَةٌ فَحَبَسَتْهُ بِشَعْرِهِ، فَقالَ لَهَا: أرْسِلِيني، فَقالَتْ: لَسْتُ
+  بمُرْسِلَتِكَ، فَنادَاهُ رَبُّهُ: يا آدَمُ، أمِنِّي تَفِرُّ؟ قالَ: لا، وَلَكِنِّي
+  اسْتَحَيْتُكَ \". </font></font></b><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  المثنى، قال: ثنا إسحاق، قال: أخبرنا عبد الرزاق، قال: أخبرنا سفيان بن عيينة وابن
+  مبارك، عن الحسن، عن عمارة، عن المنهال بن عمرو، عن سعيد بن جبير، عن ابن عباس، قال:
+  كانت الشجرة التي نهى الله عنها آدم وزوجته: السنبلة فلما أكلا منها بدت لهما سوءاتهما،
+  وكان الذي وارى عنهما من سوآتهما أظفارهما { وَطَفِقا يَخْصِفانِ عَلَيْهِما مِنْ وَرَقِ
+  الجَنَّةِ } ورق التين يلصقان بعضها إلى بعض، فانطلق آدم مولِّياً في الجنة، فأخذت
+  برأسه شجرة من الجنة، فناداه: أي آدم أمني تفرّ؟ قال: لا، ولكني استحيتك يا ربّ قال:
+  أما كان لك فيما منحتك من الجنة وأبحتك منها مندوحة عما حرّمت عليك؟ قال: بلى يا ربّ،
+  ولكن وعزّتك ما حسبت أن أحداً يحلف بك كاذباً. قال: وهو قول الله:</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">وَقاسمَهُما
+  إنّي لَكُما لَمِنَ النَّاصِحينَ</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">قال: فبعزّتي لأهبطنك إلى الأرض،
+  ثم لا تنال العيش إلا كدّاً قال: فأهبط من الجنة، وكانا يأكلان فيها رغداً، فأهبطا
+  في غير رغد من طعام وشراب، فعلِّم صنعة الحديد، وأمر بالحرث، فحرث وزرع ثم سقى. حتى
+  إذا بلغ حصده ثم داسه، ثم ذراه، ثم طحنه، ثم عجنه، ثم خبزه، ثم أكله، فلم يبلغه حتى
+  بلغ منه ما شاء الله أن يبلغ.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  محمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، عن ابن أبي نجيح، عن مجاهد، في قول
+  الله: { يَخْصِفانِ } قال: يرقعان كهيئة الثوب.</font></font>&#13;\t\t\t<label disabled=\"true\"
+  class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(7, 22)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(7,22)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">فَدَلاَّهُمَا بِغُرُورٍ فَلَمَّا ذَاقَا ٱلشَّجَرَةَ
+  بَدَتْ لَهُمَا سَوْءَاتُهُمَا وَطَفِقَا يَخْصِفَانِ عَلَيْهِمَا مِن وَرَقِ ٱلْجَنَّةِ
+  وَنَادَاهُمَا رَبُّهُمَآ أَلَمْ أَنْهَكُمَا عَن تِلْكُمَا ٱلشَّجَرَةِ وَأَقُل لَّكُمَآ
+  إِنَّ ٱلشَّيْطَآنَ لَكُمَا عَدُوٌ مُّبِينٌ</a> <b>}</b></font>, <br/>, <br/>, <div
+  align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  المثنى، قال: ثنا أبو حذيفة، قال: ثنا شبل، عن ابن أبي نجيح، عن مجاهد: يخصفان عليهما
+  من الورق كهيئة الثوب.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا بشر بن معاذ، قال: ثنا يزيد،
+  قال: ثنا سعيد، عن قتادة، قوله: { فَلَمَّا ذَاقا الشَّجَرَةَ بَدَتْ لَهُما سَوْآتُهُما
+  } وكانا قبل ذلك لا يريانها { وطَفِقا يَخْصِفانِ }... الآية.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال:
+  ثنا سعيد، عن قتادة، قال: ثنا الحسن، عن أبيّ بن كعب: أن آدم عليه السلام كان رجلاً
+  طوالاً، كأنه نخلة سحوق، كثير شعر الرأس فلما وقع بما وقع به من الخطيئة، بدت له عورته
+  عند ذلك، وكان لا يراها. فانطلق هارباً في الجنة، فعلقت برأسه شجرة من شجر الجنة، فقال
+  لها: أرسليني قالت: إني غير مرسلتك. فناداه ربه: يا آدم، أمني تفرّ؟ قال: ربّ إني استحيتك.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن وكيع، قال: ثنا جعفر بن عون، عن سفيان الثوريّ، عن ابن أبي
+  ليلى، عن المنهال بن عمرو، عن سعيد بن جبير، عن ابن عباس: { وَطَفِقا يَخْصِفانِ عَلَيْهِما
+  مِنْ وَرَقِ الجَنَّةِ } قال: ورق التين.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن وكيع، قال: ثنا يحيى بن آدم، عن شريك، عن ابن أبي ليلى، عن المنهال، عن سعيد بن
+  جبير، عن ابن عباس: { وَطَفقا يَخْصِفان عَلَيْهِما مِنْ وَرَق الجَنَّة } قال: ورق
+  التين.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا القاسم، قال: ثنا الحسين،
+  قال: ثني حجاج، عن حسام بن معبد، عن قتادة وأبي بكر عن غير قتادة قال: كان لباس آدم
+  في الجنة ظُفُراً كله، فلما وقع بالذنب كشط عنه وبدت سوأته. قال أبو بكر: قال غير قتادة:
+  { فَطَفِقا يَخْصِفان عَلَيْهِما مِنْ وَرَق الجَنَّةِ } قال: ورق التين.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا الحسن بن يحيى، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر، عن
+  قتادة، في قوله: { بَدَتْ لَهُما سَوآتُهُما } قال: كانا لا يريان سوآتهما.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني المثنى، قال: ثنا إسحاق، قال: ثنا عبد الله بن الزبير، عن ابن
+  عيينة، قال: ثنا عمرو، قال: سمعت وهب بن منبه يقول: يَنْزِعُ عَنْهُما لِباسَهُما قال:
+  كان لباس آدم وحوّاء عليهما السلام نوراً على فروجهما، لا يرى هذا عورة هذه ولا هذه
+  عورة هذا. فلما أصابا الخطيئة بدت لهما سوآتهما.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">القول
+  في تأويل قوله تعالى: { وَنادَاهُمَا رَبُّهُما ألَمْ أنْهَكُما عَنْ تِلْكُما الشَّجَرَةِ
+  وأقُلْ لَكُما إنَّ الشَّيْطانَ لَكُما عَدُوّ مُبِينٌ }.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">يقول
+  تعالى ذكره: ونادى آدم وحوّاء ربهما: ألم أنهكما عن أكل ثمرة الشجرة التي أكلتما ثمرها،
+  وأعلمكما أن إبليس لكما عدوّ مبين؟ يقول: قد أبان عداوته لكما بترك السجود لآدم حسداً
+  وبغياً. كما:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا القاسم، قال: ثنا الحسين،
+  قال: ثني حجاج، عن أبي معشر، عن محمد بن قيس، قوله: { وَنادَاهُما رَبُّهُما ألَمْ
+  أنْهَكُما عَنْ تِلْكُما الشَّجَرَةِ وأقُلْ لَكُما إنَّ الشَّيْطانَ لَكُما عَدُوٌ
+  مُبِينٌ } لِمَ أكلتها وقد نهيتك عنها؟ قال: يا ربّ أطعمتني حوّاء قال لحوّاء: لم أطعمته؟
+  قالت: أمرتني الحية.</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(7, 22)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(7,22)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">فَدَلاَّهُمَا بِغُرُورٍ فَلَمَّا ذَاقَا ٱلشَّجَرَةَ
+  بَدَتْ لَهُمَا سَوْءَاتُهُمَا وَطَفِقَا يَخْصِفَانِ عَلَيْهِمَا مِن وَرَقِ ٱلْجَنَّةِ
+  وَنَادَاهُمَا رَبُّهُمَآ أَلَمْ أَنْهَكُمَا عَن تِلْكُمَا ٱلشَّجَرَةِ وَأَقُل لَّكُمَآ
+  إِنَّ ٱلشَّيْطَآنَ لَكُمَا عَدُوٌ مُّبِينٌ</a> <b>}</b></font>, <br/>, <br/>, <div
+  align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">قال
+  للحية: لم أمرتها؟ قالت: أمرني إبليس. قال: ملعون مدحور أما أنتِ يا حوّاء فكما دَمِيت
+  الشجرة تدْمين كلّ شهر، وأما أنت يا حية فأقطع قوائمك فتمشين على وجهك، وسيشدخ رأسك
+  من لقيك</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">اهْبِطُوا بَعْضُكُمْ لِبَعْضٍ عَدُوّ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  القاسم، قال: ثنا الحسين، قال: ثنا عباد بن العوّام، عن سفيان بن حسين، عن يعلى بن
+  مسلم، عن سعيد بن جبير، عن ابن عباس، قال: لما أكل آدم من الشجرة قيل له: لم أكلتَ
+  من الشجرة التي نهيتك عنها؟ قال: حوّاء أمرتني، قال: فإني قد أعقبتها أن لا تحمل إلا
+  كرهاً ولا تضع إلا كرهاً. قال: فرنَّت حوّاء عند ذلك، فقيل لها: الرنة عليك وعلى ولدك.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">3 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a id=\"NextClass\"/></td></tr></table></center></div></section>"
 

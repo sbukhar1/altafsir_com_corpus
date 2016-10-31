@@ -1,4 +1,4 @@
-location:
+position:
   sura: '002'
   aaya: '125'
   madhab: '01'
@@ -10,265 +10,660 @@ meta:
 aaya: وَإِذْ جَعَلْنَا الْبَيْتَ مَثَابَةً لِلنَّاسِ وَأَمْنًا وَاتَّخِذُوا مِنْ مَقَامِ
   إِبْرَاهِيمَ مُصَلًّى ۖ وَعَهِدْنَا إِلَىٰ إِبْرَاهِيمَ وَإِسْمَاعِيلَ أَنْ طَهِّرَا
   بَيْتِيَ لِلطَّائِفِينَ وَالْعَاكِفِينَ وَالرُّكَّعِ السُّجُودِ
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَإِذْ جَعَلْنَا
-  ٱلْبَيْتَ مَثَابَةً لِّلنَّاسِ وَأَمْناً وَٱتَّخِذُواْ مِن مَّقَامِ إِبْرَاهِيمَ
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(2, 125)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(2,125)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَإِذْ
+  جَعَلْنَا ٱلْبَيْتَ مَثَابَةً لِّلنَّاسِ وَأَمْناً وَٱتَّخِذُواْ مِن مَّقَامِ إِبْرَاهِيمَ
   مُصَلًّى وَعَهِدْنَآ إِلَىٰ إِبْرَاهِيمَ وَإِسْمَاعِيلَ أَن طَهِّرَا بَيْتِيَ لِلطَّائِفِينَ
-  وَٱلْعَاكِفِينَ وَٱلرُّكَّعِ ٱلسُّجُودِ }أما قوله: { وَإذْ جَعَلْنَا البَـيْتَ مَثَابَةً
-  } فإنه عطف ب«إذْ» علـى قوله:{ وَإِذِ ٱبْتَلَىٰ إِبْرَاهِيمَ رَبُّهُ بِكَلِمَاتٍ }[البقرة:
-  124]. وقوله:{ وَإِذِ ٱبْتَلَىٰ إِبْرَاهِيمَ }[البقرة: 124] معطوف علـى قوله:{ يَٰبَنِي
-  إِسْرَائِيلَ ٱذْكُرُواْ نِعْمَتِيَ }[البقرة: 40] واذكروا إذا ابتلـى إبراهيـمَ ربُّه،
-  وإذ جعلنا البـيت مثابة. والبـيت الذي جعله الله مثابة للناس هو البـيت الـحرام.وأما
-  الـمثابة فإن أهل العربـية مختلفون فـي معناها، والسبب الذي من أجله أنثت فقال بعض
-  نـحويـي البصرة: ألـحقت الهاء فـي الـمثابة لـما كثر من يثوب إلـيه، كما يقال سيارة
-  لـمن يكثر ذلك ونَسَّابة.وقال بعض نـحويـي الكوفة: بل الـمَثَابُ والـمثابة بـمعنى
-  واحد، نظيرة الـمقام والـمقامة والـمقام، ذُكِّر علـى قوله لأنه يريد به الـموضع الذي
-  يقام فـيه، وأنثت الـمقامة لأنه أريد بها البقعة. وأنكر هؤلاء أن تكون الـمثابة كالسّيارة
-  والنّسابة، وقالوا: إنـما أدخـلت الهاء فـي السيارة والنسابة تشبـيهاً لها بـالداعية
-  والـمثابة مفعلة من ثاب القوم إلـى الـموضع: إذا رجعوا إلـيهم فهم يثوبون إلـيه مَثَابـا
-  وَمَثَابةً وَثَوَابـا.فمعنى قوله: { وَإذْ جَعَلْنَا البَـيْتَ مَثَابَةً للنّاسِ
-  } وإذ جعلنا البـيت مرجعاً للناس ومعاذاً يأتونه كل عام ويرجعون إلـيه، فلا يقضون منه
-  وطراً. ومن الـمثاب قول ورقة بن نوفل فـي صفة الـحرم:مَثابٌ لافْنَاء القَبَـائِلِ
-  كُلِّها   تَـخُبُّ إلَـيْهِ الـيَعْمَلاتُ الصَّلاَئِحُومنه قـيـل: ثاب إلـيه عقله،
-  إذا رجع إلـيه بعد عزوبه عنه.وبنـحو الذي قلنا فـي ذلك قال أهل التأويـل. ذكر من قال
-  ذلك:حدثنـي مـحمد بن عمرو، قال: ثنا عيسى، عن ابن أبـي نـجيح، عن مـجاهد فـي قوله الله:
-  { وَإذْ جَعَلْنَا البَـيْتَ مَثَابَةً للنّاسِ } قال: لا يقضون منه وَطَراً.حدثنا
-  الـحسن بن يحيى، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر، عن ابن أبـي نـجيح، عن
-  مـجاهد، مثله.حدثنـي الـمثنى، قال: ثنا أبو حذيفة، قال: ثنا شبل، عن ابن أبـي نـجيح،
+  وَٱلْعَاكِفِينَ وَٱلرُّكَّعِ ٱلسُّجُودِ</a> <b>}</b></font>, <br/>, <br/>, <div
+  align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">أما
+  قوله: { وَإذْ جَعَلْنَا البَـيْتَ مَثَابَةً } فإنه عطف ب«إذْ» علـى قوله:</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">وَإِذِ
+  ٱبْتَلَىٰ إِبْرَاهِيمَ رَبُّهُ بِكَلِمَاتٍ</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">[البقرة: 124]. وقوله:</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">وَإِذِ
+  ٱبْتَلَىٰ إِبْرَاهِيمَ</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">[البقرة: 124] معطوف علـى قوله:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">يَٰبَنِي إِسْرَائِيلَ ٱذْكُرُواْ
+  نِعْمَتِيَ</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">[البقرة: 40] واذكروا إذا ابتلـى إبراهيـمَ ربُّه، وإذ جعلنا البـيت
+  مثابة. والبـيت الذي جعله الله مثابة للناس هو البـيت الـحرام.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وأما الـمثابة فإن أهل العربـية مختلفون فـي معناها، والسبب الذي من
+  أجله أنثت فقال بعض نـحويـي البصرة: ألـحقت الهاء فـي الـمثابة لـما كثر من يثوب إلـيه،
+  كما يقال سيارة لـمن يكثر ذلك ونَسَّابة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  بعض نـحويـي الكوفة: بل الـمَثَابُ والـمثابة بـمعنى واحد، نظيرة الـمقام والـمقامة
+  والـمقام، ذُكِّر علـى قوله لأنه يريد به الـموضع الذي يقام فـيه، وأنثت الـمقامة لأنه
+  أريد بها البقعة. وأنكر هؤلاء أن تكون الـمثابة كالسّيارة والنّسابة، وقالوا: إنـما
+  أدخـلت الهاء فـي السيارة والنسابة تشبـيهاً لها بـالداعية والـمثابة مفعلة من ثاب
+  القوم إلـى الـموضع: إذا رجعوا إلـيهم فهم يثوبون إلـيه مَثَابـا وَمَثَابةً وَثَوَابـا.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">فمعنى قوله: { وَإذْ جَعَلْنَا البَـيْتَ مَثَابَةً للنّاسِ } وإذ
+  جعلنا البـيت مرجعاً للناس ومعاذاً يأتونه كل عام ويرجعون إلـيه، فلا يقضون منه وطراً.
+  ومن الـمثاب قول ورقة بن نوفل فـي صفة الـحرم:</font></font><table class=\"TextArabic\"
+  dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">مَثابٌ لافْنَاء القَبَـائِلِ كُلِّها</font></font></b></td><td class=\"TextArabic\">   </td><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">تَـخُبُّ
+  إلَـيْهِ الـيَعْمَلاتُ الصَّلاَئِحُ</font></font></b></td></tr></table><font class=\"TextResultArabic\"><font
+  color=\"black\">ومنه قـيـل: ثاب إلـيه عقله، إذا رجع إلـيه بعد عزوبه عنه.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وبنـحو الذي قلنا فـي ذلك قال أهل التأويـل. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي مـحمد بن عمرو، قال: ثنا عيسى، عن ابن أبـي نـجيح، عن مـجاهد
+  فـي قوله الله: { وَإذْ جَعَلْنَا البَـيْتَ مَثَابَةً للنّاسِ } قال: لا يقضون منه
+  وَطَراً.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا الـحسن بن يحيى، قال: أخبرنا
+  عبد الرزاق، قال: أخبرنا معمر، عن ابن أبـي نـجيح، عن مـجاهد، مثله.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي الـمثنى، قال: ثنا أبو حذيفة، قال: ثنا شبل، عن ابن أبـي نـجيح،
   عن مـجاهد: { وَإذْ جَعَلْنا البَـيْتَ مَثَابَةً للنّاسِ } قال: يثوبون إلـيه، لا
-  يقضون منه وَطَراً.حدثنـي موسى، قال: ثنا عمرو، قال: ثنا أسبـاط، عن السدي: { وَإذْ
-  جَعَلْنَا البَـيْتَ مَثَابَةً للنّاسِ } قال: أما الـمثابةُ فهو الذي يثوبون إلـيه
-  كل سنة لاَ يَدَعُهُ الإنسان إذا أتاه مرّة أن يعود إلـيه.حدثنـي مـحمد بن سعد، قال:
-  حدثنـي أبـي، قال: حدثنـي عمي، قال: حدثنـي أبـي عن أبـيه، عن ابن عبـاس قوله: { وَإذْ
-  جَعَلْنَا البَـيْتَ مَثَابَةً للنّاسِ } قال: لا يقضون منه وطراً، يأتونه ثم يرجعون
-  إلـى أهلـيهم ثم يعودون إلـيه.وحدثنـي عبد الكريـم بن أبـي عمير، قال: حدثنـي الولـيد
-  بن مسلـم، قال: قال أبو عمرو، حدثنـي عبدة بن أبـي لبـابة فـي قوله: { وَإذْ جَعَلْنَا
-  البَـيْتَ مَثَابَةً للنّاسِ } قال: لا يَنْصرِف عنه منصرف وهو يرى أنه قد قضى منه
-  وطراً.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَإِذْ جَعَلْنَا ٱلْبَيْتَ مَثَابَةً
-  لِّلنَّاسِ وَأَمْناً وَٱتَّخِذُواْ مِن مَّقَامِ إِبْرَاهِيمَ مُصَلًّى وَعَهِدْنَآ
-  إِلَىٰ إِبْرَاهِيمَ وَإِسْمَاعِيلَ أَن طَهِّرَا بَيْتِيَ لِلطَّائِفِينَ وَٱلْعَاكِفِينَ
-  وَٱلرُّكَّعِ ٱلسُّجُودِ }حدثنـي يعقوب بن إبراهيـم، قال: ثنا هشيـم، قال: أخبرنا عبد
-  الـملك عن عطاء فـي قوله: { وَإذْ جَعَلْنَا البَـيْتَ مَثَابَةً للنّاسِ } قال: يثوبون
-  إلـيه من كل مكان، ولا يقضون منه وطراً.حدثنا ابن حميد، قال: ثنا جرير، عن عبد الـملك،
-  عن عطاء، مثله.حدثنـي مـحمد بن عمار الأسدي، قال: ثنا سهل بن عامر، قال: ثنا مالك بن
-  مغول، عن عطية فـي قوله: { وَإذْ جَعَلْنَا البَـيْتَ مَثَابَةً للنّاسِ } قال: لا
-  يقضون منه وَطَراً.حدثنا مـحمد بن بشار، قال: ثنا عبد الرحمن، قال: ثنا سفـيان، عن
-  أبـي الهذيـل، قال: سمعت سعيد بن جبـير يقول: { وَإذْ جَعَلْنَا البَـيْتَ مَثَابَةً
-  للنّاسِ } قال: يحجّون ويثوبون.حدثنا الـحسن بن يحيى، قال: أخبرنا عبد الرزاق، قال:
-  أخبرنا الثوري، عن أبـي الهذيـل، عن سعيد بن جبـير فـي قوله: { مَثَابَةً للنّاسِ }
-  قال: يحجون، ثم يحجون، ولا يقضون منه وطراً.حدثنـي الـمثنى، قال: ثنا ابن بكير، قال:
-  ثنا مسعر، عن غالب، عن سعيد بن جبـير: { مَثابَةً للنّاسِ } قال: يثوبون إلـيه.حدثنا
+  يقضون منه وَطَراً.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي موسى، قال: ثنا عمرو، قال:
+  ثنا أسبـاط، عن السدي: { وَإذْ جَعَلْنَا البَـيْتَ مَثَابَةً للنّاسِ } قال: أما الـمثابةُ
+  فهو الذي يثوبون إلـيه كل سنة لاَ يَدَعُهُ الإنسان إذا أتاه مرّة أن يعود إلـيه.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي مـحمد بن سعد، قال: حدثنـي أبـي، قال: حدثنـي عمي، قال: حدثنـي
+  أبـي عن أبـيه، عن ابن عبـاس قوله: { وَإذْ جَعَلْنَا البَـيْتَ مَثَابَةً للنّاسِ
+  } قال: لا يقضون منه وطراً، يأتونه ثم يرجعون إلـى أهلـيهم ثم يعودون إلـيه.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وحدثنـي عبد الكريـم بن أبـي عمير، قال: حدثنـي الولـيد بن مسلـم،
+  قال: قال أبو عمرو، حدثنـي عبدة بن أبـي لبـابة فـي قوله: { وَإذْ جَعَلْنَا البَـيْتَ
+  مَثَابَةً للنّاسِ } قال: لا يَنْصرِف عنه منصرف وهو يرى أنه قد قضى منه وطراً.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,8,1)\"><u>8</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2, 125)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,125)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَإِذْ جَعَلْنَا ٱلْبَيْتَ مَثَابَةً لِّلنَّاسِ
+  وَأَمْناً وَٱتَّخِذُواْ مِن مَّقَامِ إِبْرَاهِيمَ مُصَلًّى وَعَهِدْنَآ إِلَىٰ إِبْرَاهِيمَ
+  وَإِسْمَاعِيلَ أَن طَهِّرَا بَيْتِيَ لِلطَّائِفِينَ وَٱلْعَاكِفِينَ وَٱلرُّكَّعِ
+  ٱلسُّجُودِ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي يعقوب بن إبراهيـم، قال:
+  ثنا هشيـم، قال: أخبرنا عبد الـملك عن عطاء فـي قوله: { وَإذْ جَعَلْنَا البَـيْتَ
+  مَثَابَةً للنّاسِ } قال: يثوبون إلـيه من كل مكان، ولا يقضون منه وطراً.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن حميد، قال: ثنا جرير، عن عبد الـملك، عن عطاء، مثله.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي مـحمد بن عمار الأسدي، قال: ثنا سهل بن عامر، قال: ثنا مالك
+  بن مغول، عن عطية فـي قوله: { وَإذْ جَعَلْنَا البَـيْتَ مَثَابَةً للنّاسِ } قال:
+  لا يقضون منه وَطَراً.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا مـحمد بن بشار، قال: ثنا عبد
+  الرحمن، قال: ثنا سفـيان، عن أبـي الهذيـل، قال: سمعت سعيد بن جبـير يقول: { وَإذْ
+  جَعَلْنَا البَـيْتَ مَثَابَةً للنّاسِ } قال: يحجّون ويثوبون.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا الـحسن بن يحيى، قال: أخبرنا عبد الرزاق، قال: أخبرنا الثوري،
+  عن أبـي الهذيـل، عن سعيد بن جبـير فـي قوله: { مَثَابَةً للنّاسِ } قال: يحجون، ثم
+  يحجون، ولا يقضون منه وطراً.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  الـمثنى، قال: ثنا ابن بكير، قال: ثنا مسعر، عن غالب، عن سعيد بن جبـير: { مَثابَةً
+  للنّاسِ } قال: يثوبون إلـيه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
   بشر بن معاذ، قال: ثنا يزيد بن زريع، قال: ثنا سعيد، عن قتادة قوله: { وَإذْ جَعَلْنَا
-  البَـيْتَ مَثَابَةً للنّاسِ وأمْناً } قال: مـجمعاً.حدثنـي الـمثنى، قال: ثنا عبد
-  الله بن صالـح، قال: حدثنـي معاوية بن صالـح، عن علـيّ بن أبـي طلـحة، عن ابن عبـاس:
-  { مَثَابَةً للنّاسِ } قال: يثوبون إلـيه.حدثت عن عمار، قال: ثنا ابن أبـي جعفر، عن
-  أبـيه، عن الربـيع: { مَثَابَةً للنّاسِ } قال: يثوبون إلـيه.حدثنـي يونس، قال: أخبرنا
-  ابن وهب، قال: قال ابن زيد فـي قوله: { وَإذْ جَعَلْنَا البَـيْتَ مَثَابَةً للنّاسِ
-  } قال: يثوبون إلـيه من البلدان كلها ويأتونه.القول فـي تأويـل قوله تعالـى: { وأمْناً
-  }.والأمن: مصدر من قول القائل أمِنَ يَأْمَنُ أَمْنا. وإنـما سماه الله أمناً لأنه
-  كان فـي الـجاهلـية مَعَاذاً لـمن استعاذ به، وكان الرجل منهم لو لقـي به قاتل أبـيه
-  أو أخيه لـم يهجه ولـم يعرض له حتـى يخرج منه، وكان كما قال الله جل ثناؤه:{ أَوَلَمْ
-  يَرَوْاْ أَنَّا جَعَلْنَا حَرَماً آمِناً وَيُتَخَطَّفُ ٱلنَّاسُ مِنْ حَوْلِهِمْ }[العنكبوت:
-  67]. حدثنـي يونس بن عبد الأعلـى، قال: أخبرنا ابن وهب، قال: قال ابن زيد فـي قوله:
-  { وأمْناً } قال: من أَمَّ إلـيه فهو آمن كان الرجل يـلقـى قاتل أبـيه أو أخيه فلا
-  يعرض له.حدثنـي موسى، قال: ثنا عمرو، قال: ثنا أسبـاط، عن السدي: أما { أمْناً } فمن
-  دخـله كان آمناً.حدثنـي مـحمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، عن ابن أبـي
-  نـجيح، عن مـجاهد فـي قوله الله: { وأمْناً } قال: تـحريـمه لا يخاف فـيه من دخـله.ذكر
-  من قال ذلك:حدثت عن عمار، قال: ثنا ابن أبـي جعفر، عن أبـيه، عن الربـيع قوله: { وَأمْناً
-  } يقول: أمنا من العدوّ أن يحمل فـيه السلاح، وقد كان فـي الـجاهلـية يتـخطف الناس
-  من حولهم وهم آمنون لا يُسْبَوْنَ.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَإِذْ جَعَلْنَا ٱلْبَيْتَ مَثَابَةً
-  لِّلنَّاسِ وَأَمْناً وَٱتَّخِذُواْ مِن مَّقَامِ إِبْرَاهِيمَ مُصَلًّى وَعَهِدْنَآ
-  إِلَىٰ إِبْرَاهِيمَ وَإِسْمَاعِيلَ أَن طَهِّرَا بَيْتِيَ لِلطَّائِفِينَ وَٱلْعَاكِفِينَ
-  وَٱلرُّكَّعِ ٱلسُّجُودِ }حدثت عن الـمنـجاب، قال: أخبرنا بشر، عن أبـي روق، عن الضحاك،
-  عن ابن عبـاس فـي قوله: { وأمْناً } قال: أمناً للناس.حدثنا القاسم، قال: ثنا الـحسين،
-  قال: حدثنـي حجاج، عن ابن جريج، عن مـجاهد فـي قوله: { وَأمْناً } قال: تـحريـمه لا
-  يخاف فـيه من دخـله.القول فـي تأويـل قوله تعالـى: { وَاتّـخِذُوا مِنْ مَقامِ إبْرَاهِيـمَ
-  مُصَلًّـى }.اختلف القراء فـي قراءة ذلك، فقرأه بعضهم: { وَاتّـخِذُوا مِنْ مَقامِ
-  إبْرَاهِيـمَ مُصَلًّـى } بكسر الـخاء علـى وجه الأمر بـاتـخاذه مصلًّـى وهي قراءة
-  عامة الـمصرين الكوفة والبصرة، وقراءة عامة قرّاء أهل مكة وبعض قرّاء أهل الـمدينة.
-  وذهب إلـيه الذين قرءوه كذلك من الـخبر الذي:حدثنا أبو كريب ويعقوب بن إبراهيـم، قالا:
-  حدثنا هشيـم، قال: أخبرنا حميد، عن أنس ابن مالك، قال: قال عمر بن الـخطاب: قلت: يا
-  رسول الله، لو اتـخذت الـمقام مصلًّـى؟ فأنزل الله: { وَاتّـخِذُوا مِنْ مَقَامِ إبْرَاهِيـمَ
-  مُصَلّـى }.حدثنا مـحمد بن بشار، قال: ثنا ابن أبـي عديّ، وحدثنـي يعقوب، قال: ثنا
-  ابن علـية جميعا، عن حميد، عن أنس، عن عمر، عن النبـيّ صلى الله عليه وسلم مثله.حدثنا
-  عمرو بن علـيّ، قال: ثنا يزيد بن زريع، قال: ثنا حميد، عن أنس، قال: قال عمر بن الـخطاب:
-  قلت: يا رسول الله، فذكر مثله.قالوا: فإنـما أنزل الله تعالـى ذكره هذه الآية أمراً
-  منه نبـيَّهُ صلى الله عليه وسلم بـاتـخاذ مقام إبراهيـم مصلًّـى فغير جائز قراءتها
-  وهي أمرٌ علـى وجه الـخبر.وقد زعم بعض نـحويـي البصرة أن قوله: { وَاتّـخِذُوا مِنْ
-  مَقَامِ إبْرَاهِيـمَ مُصَلًّـى } معطوف علـى قوله:{ يَٰبَنِي إِسْرَائِيلَ ٱذْكُرُواْ
-  نِعْمَتِيَ }[البقرة: 40] { وَاتّـخِذُوا مِنْ مَقَامِ إبْرَاهِيـمَ مُصَلّـى } فكان
-  الأمر بهذه الآية وبـاتـخاذ الـمصلـى من مقام إبراهيـم علـى قول هذا القائل للـيهود
-  من بنـي إسرائيـل الذين كانوا علـى عهد رسول الله صلى الله عليه وسلم. كما:حدثنا الربـيع
-  بن أنس بـما حُدثت عن عمار بن الـحسن، قال: ثنا ابن أبـي جعفر، عن أبـيه، قال: من الكلـمات
-  التـي ابتلـي بهنّ إبراهيـم قوله: { وَاتّـخِذُوا مِنْ مَقَامِ إبْرَاهِيـمَ مُصَلّـى
-  } فأمرهم أن يتـخذوا من مقام إبراهيـم مصلّـى، فهم يصلون خـلف الـمقام.فتأويـل قائل
-  هذا القول:{ وَإِذِ ٱبْتَلَىٰ إِبْرَاهِيمَ رَبُّهُ بِكَلِمَاتٍ فَأَتَمَّهُنَّ قَالَ
-  إِنِّي جَاعِلُكَ لِلنَّاسِ إِمَاماً }[البقرة: 125] وقال: { وَاتّـخِذُوا مِنْ مَقَامِ
-  إبْرَاهِيـمَ مُصَلَّـى }. والـخبر الذي ذكرناه عن عمر بن الـخطاب، عن رسول الله صلى
-  الله عليه وسلم قبل، يدلّ علـى خلاف الذي قاله هؤلاء، وأنه أمر من الله تعالـى ذكره
-  بذلك رسول الله صلى الله عليه وسلم والـمؤمنـين به وجميع الـخـلق الـمكلفـين.وقرأه
-  بعض قرّاء أهل الـمدينة والشام: «واتَّـخَذُوا» بفتـح الـخاء علـى وجه الـخبر.ثم اختلف
-  فـي الذي عطف علـيه بقوله: «وَاتّـخَذُوا» إذا قرىء كذلك علـى وجه الـخبر، فقال بعض
-  نـحويـي البصرة: تأويـله إذا قرىء كذلك: وإذ جعلنا البـيت مثابة للناس وأمناً وإذِ
-  اتـخذوا من مقام إبْرَاهِيـمَ مصلّـى.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَإِذْ جَعَلْنَا ٱلْبَيْتَ مَثَابَةً
-  لِّلنَّاسِ وَأَمْناً وَٱتَّخِذُواْ مِن مَّقَامِ إِبْرَاهِيمَ مُصَلًّى وَعَهِدْنَآ
-  إِلَىٰ إِبْرَاهِيمَ وَإِسْمَاعِيلَ أَن طَهِّرَا بَيْتِيَ لِلطَّائِفِينَ وَٱلْعَاكِفِينَ
-  وَٱلرُّكَّعِ ٱلسُّجُودِ }وقال بعض نـحويـي الكوفة: بل ذلك معطوف علـى قوله: { جَعَلْنَا
-  } فكان معنى الكلام علـى قوله: وإذ جعلنا البـيت مثابة للناس واتَّـخَذُوه مصلـى.والصواب
-  من القول والقراءة فـي ذلك عندنا: { وَاتّـخِذُوا } بكسر الـخاء، علـى تأويـل الأمر
-  بـاتـخاذ مقام إبراهيـم مصلـى للـخبر الثابت عن رسول الله صلى الله عليه وسلم الذي
-  ذكرناه آنفـاً، وأن عمرو بن علـيّ:حدثنا قال: ثنا يحيى بن سعيد، قال: ثنا جعفر بن مـحمد،
-  قال: حدثنـي أبـي، عن جابر بن عبد الله: أن رسول الله صلى الله عليه وسلم قرأ: { وَاتَّـخِذُوا
-  مِنْ مَقَامِ إبْرَاهِيـمَ مُصَلًّـى }.ثم اختلف أهل التأويـل فـي تأويـل قوله: { وَاتّـخِذُوا
-  مِن مَقَامِ إبْرَاهِيـمَ مُصَلًّـى } وفـي مقام إبراهيـم.فقال بعضهم: مقام إبراهيـم:
-  هو الـحجّ كله. ذكر من قال ذلك:حدثنا الـحسن بن يحيى، قال: أخبرنا عبد الرزاق، قال:
-  أخبرنا ابن جريج، عن عطاء، عن ابن عبـاس فـي قوله: { مَقامِ إبْرَاهِيـمَ } قال: الـحجُّ
-  كله مقام إبراهيـم.حدثنـي الـمثنى، قال: ثنا إسحاق، قال: ثنا سفـيان بن عيـينة، عن
-  ابن أبـي نـجيح، عن مـجاهد: { وَاتّـخِذُوا مِنْ مَقَامِ إبْرَاهِيـمَ مُصَلّـى } قال:
-  الـحجّ كله.حدثنا أبو كريب، قال: ثنا وكيع، عن سفـيان. عن ابن جريج، عن عطاء، قال:
-  الـحجّ كله مقام إبراهيـم. وقال آخرون: مقام إبراهيـم عرفة والـمزدلفة والـجمار. ذكر
-  من قال ذلك:حدثنـي مـحمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، عن ابن أبـي نـجيح،
-  عن عطاء بن أبـي رياح: وَاتّـخِذُوا مِنْ مَقَامِ إبْرَاهِيـمَ مُصَلّـى قال: لأنـي
-  قد جعلْتُه إماماً فمقامه عرفة والـمزدلفة والـجمار.حدثنا الـحسن بن يحيى، قال: أخبرنا
+  البَـيْتَ مَثَابَةً للنّاسِ وأمْناً } قال: مـجمعاً.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  الـمثنى، قال: ثنا عبد الله بن صالـح، قال: حدثنـي معاوية بن صالـح، عن علـيّ بن أبـي
+  طلـحة، عن ابن عبـاس: { مَثَابَةً للنّاسِ } قال: يثوبون إلـيه.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثت عن عمار، قال: ثنا ابن أبـي جعفر، عن أبـيه، عن الربـيع: { مَثَابَةً
+  للنّاسِ } قال: يثوبون إلـيه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد فـي قوله: { وَإذْ جَعَلْنَا البَـيْتَ
+  مَثَابَةً للنّاسِ } قال: يثوبون إلـيه من البلدان كلها ويأتونه.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">القول فـي تأويـل قوله تعالـى: { وأمْناً }.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">والأمن:
+  مصدر من قول القائل أمِنَ يَأْمَنُ أَمْنا. وإنـما سماه الله أمناً لأنه كان فـي الـجاهلـية
+  مَعَاذاً لـمن استعاذ به، وكان الرجل منهم لو لقـي به قاتل أبـيه أو أخيه لـم يهجه
+  ولـم يعرض له حتـى يخرج منه، وكان كما قال الله جل ثناؤه:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">أَوَلَمْ يَرَوْاْ أَنَّا جَعَلْنَا
+  حَرَماً آمِناً وَيُتَخَطَّفُ ٱلنَّاسُ مِنْ حَوْلِهِمْ</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">[العنكبوت: 67]. حدثنـي يونس بن
+  عبد الأعلـى، قال: أخبرنا ابن وهب، قال: قال ابن زيد فـي قوله: { وأمْناً } قال: من
+  أَمَّ إلـيه فهو آمن كان الرجل يـلقـى قاتل أبـيه أو أخيه فلا يعرض له.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي موسى، قال: ثنا عمرو، قال: ثنا أسبـاط، عن السدي: أما { أمْناً
+  } فمن دخـله كان آمناً.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي مـحمد بن عمرو، قال: ثنا
+  أبو عاصم، قال: ثنا عيسى، عن ابن أبـي نـجيح، عن مـجاهد فـي قوله الله: { وأمْناً }
+  قال: تـحريـمه لا يخاف فـيه من دخـله.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">ذكر
+  من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثت عن عمار، قال: ثنا ابن أبـي
+  جعفر، عن أبـيه، عن الربـيع قوله: { وَأمْناً } يقول: أمنا من العدوّ أن يحمل فـيه
+  السلاح، وقد كان فـي الـجاهلـية يتـخطف الناس من حولهم وهم آمنون لا يُسْبَوْنَ.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,8,1)\"><u>8</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2, 125)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,125)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَإِذْ جَعَلْنَا ٱلْبَيْتَ مَثَابَةً لِّلنَّاسِ
+  وَأَمْناً وَٱتَّخِذُواْ مِن مَّقَامِ إِبْرَاهِيمَ مُصَلًّى وَعَهِدْنَآ إِلَىٰ إِبْرَاهِيمَ
+  وَإِسْمَاعِيلَ أَن طَهِّرَا بَيْتِيَ لِلطَّائِفِينَ وَٱلْعَاكِفِينَ وَٱلرُّكَّعِ
+  ٱلسُّجُودِ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثت عن الـمنـجاب، قال: أخبرنا
+  بشر، عن أبـي روق، عن الضحاك، عن ابن عبـاس فـي قوله: { وأمْناً } قال: أمناً للناس.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا القاسم، قال: ثنا الـحسين، قال: حدثنـي حجاج، عن ابن جريج، عن
+  مـجاهد فـي قوله: { وَأمْناً } قال: تـحريـمه لا يخاف فـيه من دخـله.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">القول فـي تأويـل قوله تعالـى: { وَاتّـخِذُوا مِنْ مَقامِ إبْرَاهِيـمَ
+  مُصَلًّـى }.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">اختلف القراء فـي قراءة ذلك، فقرأه
+  بعضهم: { وَاتّـخِذُوا مِنْ مَقامِ إبْرَاهِيـمَ مُصَلًّـى } بكسر الـخاء علـى وجه
+  الأمر بـاتـخاذه مصلًّـى وهي قراءة عامة الـمصرين الكوفة والبصرة، وقراءة عامة قرّاء
+  أهل مكة وبعض قرّاء أهل الـمدينة. وذهب إلـيه الذين قرءوه كذلك من الـخبر الذي:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا أبو كريب ويعقوب بن إبراهيـم، قالا: حدثنا هشيـم، قال: أخبرنا
+  حميد، عن أنس ابن مالك، قال: قال عمر بن الـخطاب: قلت: يا رسول الله، لو اتـخذت الـمقام
+  مصلًّـى؟ فأنزل الله: { وَاتّـخِذُوا مِنْ مَقَامِ إبْرَاهِيـمَ مُصَلّـى }.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا مـحمد بن بشار، قال: ثنا ابن أبـي عديّ، وحدثنـي يعقوب، قال:
+  ثنا ابن علـية جميعا، عن حميد، عن أنس، عن عمر، عن النبـيّ صلى الله عليه وسلم مثله.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا عمرو بن علـيّ، قال: ثنا يزيد بن زريع، قال: ثنا حميد، عن أنس،
+  قال: قال عمر بن الـخطاب: قلت: يا رسول الله، فذكر مثله.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قالوا:
+  فإنـما أنزل الله تعالـى ذكره هذه الآية أمراً منه نبـيَّهُ صلى الله عليه وسلم بـاتـخاذ
+  مقام إبراهيـم مصلًّـى فغير جائز قراءتها وهي أمرٌ علـى وجه الـخبر.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقد زعم بعض نـحويـي البصرة أن قوله: { وَاتّـخِذُوا مِنْ مَقَامِ
+  إبْرَاهِيـمَ مُصَلًّـى } معطوف علـى قوله:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">يَٰبَنِي إِسْرَائِيلَ ٱذْكُرُواْ
+  نِعْمَتِيَ</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">[البقرة: 40] { وَاتّـخِذُوا مِنْ مَقَامِ إبْرَاهِيـمَ مُصَلّـى }
+  فكان الأمر بهذه الآية وبـاتـخاذ الـمصلـى من مقام إبراهيـم علـى قول هذا القائل للـيهود
+  من بنـي إسرائيـل الذين كانوا علـى عهد رسول الله صلى الله عليه وسلم. كما:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا الربـيع بن أنس بـما حُدثت عن عمار بن الـحسن، قال: ثنا ابن
+  أبـي جعفر، عن أبـيه، قال: من الكلـمات التـي ابتلـي بهنّ إبراهيـم قوله: { وَاتّـخِذُوا
+  مِنْ مَقَامِ إبْرَاهِيـمَ مُصَلّـى } فأمرهم أن يتـخذوا من مقام إبراهيـم مصلّـى،
+  فهم يصلون خـلف الـمقام.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">فتأويـل قائل هذا القول:</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">وَإِذِ
+  ٱبْتَلَىٰ إِبْرَاهِيمَ رَبُّهُ بِكَلِمَاتٍ فَأَتَمَّهُنَّ قَالَ إِنِّي جَاعِلُكَ
+  لِلنَّاسِ إِمَاماً</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">[البقرة: 125] وقال: { وَاتّـخِذُوا مِنْ مَقَامِ إبْرَاهِيـمَ مُصَلَّـى
+  }. والـخبر الذي ذكرناه عن عمر بن الـخطاب، عن رسول الله صلى الله عليه وسلم قبل، يدلّ
+  علـى خلاف الذي قاله هؤلاء، وأنه أمر من الله تعالـى ذكره بذلك رسول الله صلى الله
+  عليه وسلم والـمؤمنـين به وجميع الـخـلق الـمكلفـين.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقرأه
+  بعض قرّاء أهل الـمدينة والشام: «واتَّـخَذُوا» بفتـح الـخاء علـى وجه الـخبر.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">ثم اختلف فـي الذي عطف علـيه بقوله: «وَاتّـخَذُوا» إذا قرىء كذلك
+  علـى وجه الـخبر، فقال بعض نـحويـي البصرة: تأويـله إذا قرىء كذلك: وإذ جعلنا البـيت
+  مثابة للناس وأمناً وإذِ اتـخذوا من مقام إبْرَاهِيـمَ مصلّـى.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">3 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,8,1)\"><u>8</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2, 125)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,125)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَإِذْ جَعَلْنَا ٱلْبَيْتَ مَثَابَةً لِّلنَّاسِ
+  وَأَمْناً وَٱتَّخِذُواْ مِن مَّقَامِ إِبْرَاهِيمَ مُصَلًّى وَعَهِدْنَآ إِلَىٰ إِبْرَاهِيمَ
+  وَإِسْمَاعِيلَ أَن طَهِّرَا بَيْتِيَ لِلطَّائِفِينَ وَٱلْعَاكِفِينَ وَٱلرُّكَّعِ
+  ٱلسُّجُودِ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال بعض نـحويـي الكوفة: بل ذلك
+  معطوف علـى قوله: { جَعَلْنَا } فكان معنى الكلام علـى قوله: وإذ جعلنا البـيت مثابة
+  للناس واتَّـخَذُوه مصلـى.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">والصواب من القول والقراءة فـي ذلك
+  عندنا: { وَاتّـخِذُوا } بكسر الـخاء، علـى تأويـل الأمر بـاتـخاذ مقام إبراهيـم مصلـى
+  للـخبر الثابت عن رسول الله صلى الله عليه وسلم الذي ذكرناه آنفـاً، وأن عمرو بن علـيّ:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا قال: ثنا يحيى بن سعيد، قال: ثنا جعفر بن مـحمد، قال: حدثنـي
+  أبـي، عن جابر بن عبد الله: أن رسول الله صلى الله عليه وسلم قرأ: { وَاتَّـخِذُوا
+  مِنْ مَقَامِ إبْرَاهِيـمَ مُصَلًّـى }.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">ثم
+  اختلف أهل التأويـل فـي تأويـل قوله: { وَاتّـخِذُوا مِن مَقَامِ إبْرَاهِيـمَ مُصَلًّـى
+  } وفـي مقام إبراهيـم.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">فقال بعضهم: مقام إبراهيـم: هو الـحجّ
+  كله. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا الـحسن بن يحيى، قال: أخبرنا
+  عبد الرزاق، قال: أخبرنا ابن جريج، عن عطاء، عن ابن عبـاس فـي قوله: { مَقامِ إبْرَاهِيـمَ
+  } قال: الـحجُّ كله مقام إبراهيـم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  الـمثنى، قال: ثنا إسحاق، قال: ثنا سفـيان بن عيـينة، عن ابن أبـي نـجيح، عن مـجاهد:
+  { وَاتّـخِذُوا مِنْ مَقَامِ إبْرَاهِيـمَ مُصَلّـى } قال: الـحجّ كله.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا أبو كريب، قال: ثنا وكيع، عن سفـيان. عن ابن جريج، عن عطاء،
+  قال: الـحجّ كله مقام إبراهيـم. وقال آخرون: مقام إبراهيـم عرفة والـمزدلفة والـجمار.
+  ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي مـحمد بن عمرو، قال: ثنا
+  أبو عاصم، قال: ثنا عيسى، عن ابن أبـي نـجيح، عن عطاء بن أبـي رياح: وَاتّـخِذُوا مِنْ
+  مَقَامِ إبْرَاهِيـمَ مُصَلّـى قال: لأنـي قد جعلْتُه إماماً فمقامه عرفة والـمزدلفة
+  والـجمار.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا الـحسن بن يحيى، قال: أخبرنا
   عبد الرزاق، قال: أخبرنا معمر، عن قتادة، عن ابن أبـي نـجيح، عن مـجاهد فـي قوله: {
   وَاتّـخِذُوا مِنْ مَقَامِ إبْرَاهِيـمَ مُصَلّـى } قال: مقامه جمع وعرفة ومِنًى لا
-  أعلـمه إلا وقد ذكر مكة.حدثنا عمرو بن علـيّ، قال ثنا أبو عاصم، قال: ثنا عيسى، عن
-  ابن أبـي نـجيح، عن عطاء، عن ابن عبـاس فـي قوله: { وَاتـخِذُوا مِنْ مَقَامِ إبْرَاهِيـمَ
-  مُصَلّـى } قال: مقامه عرفة.حدثنا عمرو بن علـيّ، قال: ثنا يزيد بن زريع، قال: ثنا
-  داود، عن الشعبـي قال: نزلت علـيه وهو واقـف بعرفة مقام إبراهيـم:{ ٱلْيَوْمَ أَكْمَلْتُ
-  لَكُمْ دِينَكُمْ }[المائدة: 3] الآية.حدثنا عمرو قال: ثنا بشر بن الـمفضل، قال: ثنا
-  داود، عن الشعبـي، مثله.وقال آخرون: مقام إبراهيـم: الـحرم. ذكر من قال ذلك:حدثت عن
-  حماد بن زيد، عن ابن أبـي نـجيح، عن مـجاهد فـي قوله: { وَاتّـخِذُوا مِنْ مَقَامِ
-  إبْرَاهِيـمَ مُصَلّـى } قال: الـحرم كله مقام إبراهيـم.وقال آخرون: مقام إبراهيـم:
-  الـحجر الذي قام علـيه إبراهيـم حين ارتفع بناؤه، وضعف عن رفع الـحجارة.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَإِذْ جَعَلْنَا ٱلْبَيْتَ مَثَابَةً
-  لِّلنَّاسِ وَأَمْناً وَٱتَّخِذُواْ مِن مَّقَامِ إِبْرَاهِيمَ مُصَلًّى وَعَهِدْنَآ
-  إِلَىٰ إِبْرَاهِيمَ وَإِسْمَاعِيلَ أَن طَهِّرَا بَيْتِيَ لِلطَّائِفِينَ وَٱلْعَاكِفِينَ
-  وَٱلرُّكَّعِ ٱلسُّجُودِ }ذكر من قال ذلك:حدثنا سنان القزاز، قال: ثنا عبـيد الله بن
-  عبد الـمـجيد الـحنفـي، قال: ثنا إبراهيـم بن نافع، قال: سمعت كثـير بن كثـير يحدّث
-  عن سعيد بن جبـير، عن ابن عبـاس، قال: جعل إبراهيـم يبنـيه، وإسماعيـل يناوله الـحجارة،
-  ويقولان:{ رَبَّنَا تَقَبَّلْ مِنَّآ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ }[البقرة:
-  127] فلـما ارتفع البنـيان وضعف الشيخ عن رفع الـحجارة قام علـى حجر، فهو مقام إبراهيـم.وقال
-  آخرون: بل مقام إبراهيـم، هو مقامه الذي هو فـي الـمسجد الـحرام. ذكر من قال ذلك:حدثنا
-  بشر بن معاذ، قال: ثنا يزيد بن زريع، قال: ثنا سعيد، عن قتادة: { وَاتّـخِذُوا مِنْ
-  مَقَامِ إبْرَاهِيـمَ مُصَلـى } إنـما أمروا أن يصلوا عنده ولـم يؤمروا بـمسحه، ولقد
-  تكلفت هذه الأمة شيئاً مـما تكلفته الأمـم قبلها، ولقد ذكرَ لنا بعض من رأى أثر عقبه
-  وأصابعه،فيها فما زالت هذه الأمـم يـمسحونه حتـى اخْـلَوْلق وانـمـحى.حدثت عن عمار،
-  قال: ثنا ابن أبـي جعفر، عن أبـيه، عن الربـيع: { وَاتّـخِذُوا مِنْ مَقَامِ إبْرَاهِيـمَ
-  مُصَلّـى } فهم يصلون خـلف الـمقام.حدثنـي يونس، قال: ثنا عمرو، قال: ثنا أسبـاط، عن
-  السدي: { وَاتّـخِذُوا مِنْ مَقَامِ إبْرَاهِيـمَ مُصَلّـى } وهو الصلاة عند مقامه
-  فـي الـحجّ. والـمقام: هو الـحجر الذي كانت زوجة إسماعيـل وضعته تـحت قدم إبراهيـم
-  حين غسلت رأسه، فوضع إبراهيـم رجله علـيه وهو راكب، فغسلت شقه ثم رفعته من تـحته وقد
-  غابت رجله فـي الـحجر، فوضعته تـحت الشقّ الآخر فغسلته، فغابت رجله أيضاً فـيه، فجعلها
-  الله من شعائره، فقال: { وَاتَّـخِذوا مِنْ مَقَامِ إبْرَاهِيـمَ مُصَلّـى }.وأولـى
+  أعلـمه إلا وقد ذكر مكة.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا عمرو بن علـيّ، قال ثنا أبو
+  عاصم، قال: ثنا عيسى، عن ابن أبـي نـجيح، عن عطاء، عن ابن عبـاس فـي قوله: { وَاتـخِذُوا
+  مِنْ مَقَامِ إبْرَاهِيـمَ مُصَلّـى } قال: مقامه عرفة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  عمرو بن علـيّ، قال: ثنا يزيد بن زريع، قال: ثنا داود، عن الشعبـي قال: نزلت علـيه
+  وهو واقـف بعرفة مقام إبراهيـم:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">ٱلْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[المائدة:
+  3] الآية.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا عمرو قال: ثنا بشر بن الـمفضل،
+  قال: ثنا داود، عن الشعبـي، مثله.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  آخرون: مقام إبراهيـم: الـحرم. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثت
+  عن حماد بن زيد، عن ابن أبـي نـجيح، عن مـجاهد فـي قوله: { وَاتّـخِذُوا مِنْ مَقَامِ
+  إبْرَاهِيـمَ مُصَلّـى } قال: الـحرم كله مقام إبراهيـم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  آخرون: مقام إبراهيـم: الـحجر الذي قام علـيه إبراهيـم حين ارتفع بناؤه، وضعف عن رفع
+  الـحجارة.</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">4 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,8,1)\"><u>8</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2, 125)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,125)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَإِذْ جَعَلْنَا ٱلْبَيْتَ مَثَابَةً لِّلنَّاسِ
+  وَأَمْناً وَٱتَّخِذُواْ مِن مَّقَامِ إِبْرَاهِيمَ مُصَلًّى وَعَهِدْنَآ إِلَىٰ إِبْرَاهِيمَ
+  وَإِسْمَاعِيلَ أَن طَهِّرَا بَيْتِيَ لِلطَّائِفِينَ وَٱلْعَاكِفِينَ وَٱلرُّكَّعِ
+  ٱلسُّجُودِ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا سنان القزاز، قال: ثنا عبـيد الله بن عبد الـمـجيد الـحنفـي،
+  قال: ثنا إبراهيـم بن نافع، قال: سمعت كثـير بن كثـير يحدّث عن سعيد بن جبـير، عن ابن
+  عبـاس، قال: جعل إبراهيـم يبنـيه، وإسماعيـل يناوله الـحجارة، ويقولان:</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">رَبَّنَا
+  تَقَبَّلْ مِنَّآ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">[البقرة: 127] فلـما ارتفع البنـيان
+  وضعف الشيخ عن رفع الـحجارة قام علـى حجر، فهو مقام إبراهيـم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  آخرون: بل مقام إبراهيـم، هو مقامه الذي هو فـي الـمسجد الـحرام. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا بشر بن معاذ، قال: ثنا يزيد بن زريع، قال: ثنا سعيد، عن قتادة:
+  { وَاتّـخِذُوا مِنْ مَقَامِ إبْرَاهِيـمَ مُصَلـى } إنـما أمروا أن يصلوا عنده ولـم
+  يؤمروا بـمسحه، ولقد تكلفت هذه الأمة شيئاً مـما تكلفته الأمـم قبلها، ولقد ذكرَ لنا
+  بعض من رأى أثر عقبه وأصابعه،فيها فما زالت هذه الأمـم يـمسحونه حتـى اخْـلَوْلق وانـمـحى.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثت عن عمار، قال: ثنا ابن أبـي جعفر، عن أبـيه، عن الربـيع: { وَاتّـخِذُوا
+  مِنْ مَقَامِ إبْرَاهِيـمَ مُصَلّـى } فهم يصلون خـلف الـمقام.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي يونس، قال: ثنا عمرو، قال: ثنا أسبـاط، عن السدي: { وَاتّـخِذُوا
+  مِنْ مَقَامِ إبْرَاهِيـمَ مُصَلّـى } وهو الصلاة عند مقامه فـي الـحجّ. والـمقام:
+  هو الـحجر الذي كانت زوجة إسماعيـل وضعته تـحت قدم إبراهيـم حين غسلت رأسه، فوضع إبراهيـم
+  رجله علـيه وهو راكب، فغسلت شقه ثم رفعته من تـحته وقد غابت رجله فـي الـحجر، فوضعته
+  تـحت الشقّ الآخر فغسلته، فغابت رجله أيضاً فـيه، فجعلها الله من شعائره، فقال: { وَاتَّـخِذوا
+  مِنْ مَقَامِ إبْرَاهِيـمَ مُصَلّـى }.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وأولـى
   هذه الأقوال بـالصواب عندنا ما قاله القائلون إن مقام إبراهيـم: هو الـمقام الـمعروف
-  بهذا الاسم، الذي هو فـي الـمسجد الـحرام لـما روينا آنفـاً عن عمر بن الـخطاب، ولـما:حدثنا
-  يوسف بن سلـيـمان، قال: ثنا حاتـم بن إسماعيـل، قال: ثنا جعفر بن مـحمد، عن أبـيه،
-  عن جابر قال: استلـم رسول الله صلى الله عليه وسلم الركن، فرمل ثلاثاً ومشى أربعاً،
-  ثم تقدم إلـى مقام إبراهيـم فقرأ: { وَاتّـخِذُوا مِنْ مَقَامِ إِبْرَاهِيـمَ مُصَلّـى
-  } فجعل الـمقام بـينه وبـين البـيت فصلـى ركعتـين. فهذان الـخبران ينبئان أن الله تعالـى
-  ذكره إنـما عنى بـمقام إبراهيـم الذي أمرنا الله بـاتـخاذه مصلـى هو الذي وصفنا. ولو
-  لـم يكن علـى صحة ما اخترنا فـي تأويـل ذلك خبر عن رسول الله صلى الله عليه وسلم، لكان
-  الواجب فـيه من القول ما قلنا وذلك أن الكلام مـحمول معناه علـى ظاهره الـمعروف دون
-  بـاطنه الـمـجهول، حتـى يأتـي ما يدلّ علـى خلاف ذلك مـما يجب التسلـيـم له.ولا شكّ
-  أن الـمعروف فـي الناس بـمقام إبراهيـم هو الـمصلـى الذي قال الله تعالـى ذكره: { وَاتَّـخِذُوا
-  مِنْ مَقَامِ إِبْرَاهِيـمَ مُصَلًّـى } فإن أهل التأويـل مختلفون فـي معناه، فقال
-  بعضهم: هو الـمُدَّعَى.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَإِذْ جَعَلْنَا ٱلْبَيْتَ مَثَابَةً
-  لِّلنَّاسِ وَأَمْناً وَٱتَّخِذُواْ مِن مَّقَامِ إِبْرَاهِيمَ مُصَلًّى وَعَهِدْنَآ
-  إِلَىٰ إِبْرَاهِيمَ وَإِسْمَاعِيلَ أَن طَهِّرَا بَيْتِيَ لِلطَّائِفِينَ وَٱلْعَاكِفِينَ
-  وَٱلرُّكَّعِ ٱلسُّجُودِ }ذكر من قال ذلك:حدثنـي الـمثنى قال: ثنا إسحاق، قال: ثنا
-  سفـيان بن عيـينة، عن ابن أبـي نـجيح، عن مـجاهد: { وَاتّـخِذُوا مِنْ مَقَامِ إِبْرَاهِيـمَ
-  مُصَلّـى } قال: مصلـى إبراهيـم مُدَّعًى.وقال آخرون: معنى ذلك: اتـخذوا مصلـى تصلون
-  عنده. ذكر من قال ذلك:حدثنـي بشر بن معاذ، قال: ثنا يزيد بن زريع، قال: ثنا سعيد، عن
-  قتادة، قال: أمروا أن يصلوا عنده.حدثنـي موسى بن هارون، قال: ثنا عمرو بن حماد، قال:
-  ثنا أسبـاط، عن السدي، قال: هو الصلاة عنده. فكأن الذين قالوا تأويـل الـمصلـى ههنا
-  الـمدعَى، وجهوا الـمصلـى إلـى أنه مفعَّل من قول القائل: صلـيت بـمعنى دعوت. وقائلوا
-  هذه الـمقالة هم الذين قالوا: إن مقام إبراهيـم هو الـحجّ كله.فكان معناه فـي تأويـل
-  هذه الآية: واتـخذوا عرفة والـمزدلفة والـمشعر والـجمار وسائر أماكن الـحجّ التـي كان
-  إبراهيـم يقوم بها مداعي تدعوننـي عندها، وتأتـمون بإبراهيـم خـلـيـلـي علـيه السلام
-  فـيها، فإنـي قد جعلته لـمن بعده من أولـيائي وأهل طاعتـي إماماً يقتدون به وبآثاره،
-  فـاقتدوا به.وأما تأويـل القائلـين القول الآخر، فإنه: اتـخذوا أيها الناس من مقام
-  إبراهيـم مصلـى تصلون عنده، عبـادة منكم، وتكرمة منـي لإبراهيـم. وهذا القول هو أولـى
-  بـالصواب لـما ذكرنا من الـخبر عن عمر بن الـخطاب وجابر بن عبد الله، عن رسول الله
-  صلى الله عليه وسلم.القول فـي تأويـل قوله تعالـى: { وعَهِدْنَا إِلَـى إِبْرَاهِيـمَ
-  وَإسْمَاعِيـلَ أنْ طَهِّرَا بَـيْتِـي }.يعنـي تعالـى ذكره بقوله: { وَعَهِدْنَا }
-  وأمرنا. كما:حدثنا القاسم، قال: ثنا الـحسين، قال: حدثنـي حجاج، عن ابن جريج، قال:
-  قلت لعطاء: ما عهده؟ قال: أمره.حدثنـي يونس، قال: أخبرنـي ابن وهب، قال: قال ابن زيد
-  فـي قوله: { وَعَهِدْنَا إِلَـى إِبْرَاهِيـمَ } قال: أمرناه.فمعنى الآية: وأمرنا إبراهيـم
-  وإسماعيـل بتطهير بـيتـي للطائفـين. والتطهير الذي أمرهما الله به فـي البـيت، هو تطهيره
-  من الأصنام وعبـادة الأوثان فـيه ومن الشرك بـالله.فإن قال قائل: وما معنى قوله: {
+  بهذا الاسم، الذي هو فـي الـمسجد الـحرام لـما روينا آنفـاً عن عمر بن الـخطاب، ولـما:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا يوسف بن سلـيـمان، قال: ثنا حاتـم بن إسماعيـل، قال: ثنا جعفر
+  بن مـحمد، عن أبـيه، عن جابر قال: استلـم رسول الله صلى الله عليه وسلم الركن، فرمل
+  ثلاثاً ومشى أربعاً، ثم تقدم إلـى مقام إبراهيـم فقرأ: { وَاتّـخِذُوا مِنْ مَقَامِ
+  إِبْرَاهِيـمَ مُصَلّـى } فجعل الـمقام بـينه وبـين البـيت فصلـى ركعتـين. فهذان الـخبران
+  ينبئان أن الله تعالـى ذكره إنـما عنى بـمقام إبراهيـم الذي أمرنا الله بـاتـخاذه مصلـى
+  هو الذي وصفنا. ولو لـم يكن علـى صحة ما اخترنا فـي تأويـل ذلك خبر عن رسول الله صلى
+  الله عليه وسلم، لكان الواجب فـيه من القول ما قلنا وذلك أن الكلام مـحمول معناه علـى
+  ظاهره الـمعروف دون بـاطنه الـمـجهول، حتـى يأتـي ما يدلّ علـى خلاف ذلك مـما يجب التسلـيـم
+  له.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">ولا شكّ أن الـمعروف فـي الناس بـمقام
+  إبراهيـم هو الـمصلـى الذي قال الله تعالـى ذكره: { وَاتَّـخِذُوا مِنْ مَقَامِ إِبْرَاهِيـمَ
+  مُصَلًّـى } فإن أهل التأويـل مختلفون فـي معناه، فقال بعضهم: هو الـمُدَّعَى.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">5 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,8,1)\"><u>8</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2, 125)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,125)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَإِذْ جَعَلْنَا ٱلْبَيْتَ مَثَابَةً لِّلنَّاسِ
+  وَأَمْناً وَٱتَّخِذُواْ مِن مَّقَامِ إِبْرَاهِيمَ مُصَلًّى وَعَهِدْنَآ إِلَىٰ إِبْرَاهِيمَ
+  وَإِسْمَاعِيلَ أَن طَهِّرَا بَيْتِيَ لِلطَّائِفِينَ وَٱلْعَاكِفِينَ وَٱلرُّكَّعِ
+  ٱلسُّجُودِ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي الـمثنى قال: ثنا إسحاق، قال: ثنا سفـيان بن عيـينة، عن ابن
+  أبـي نـجيح، عن مـجاهد: { وَاتّـخِذُوا مِنْ مَقَامِ إِبْرَاهِيـمَ مُصَلّـى } قال:
+  مصلـى إبراهيـم مُدَّعًى.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال آخرون: معنى ذلك: اتـخذوا مصلـى
+  تصلون عنده. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  بشر بن معاذ، قال: ثنا يزيد بن زريع، قال: ثنا سعيد، عن قتادة، قال: أمروا أن يصلوا
+  عنده.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي موسى بن هارون، قال: ثنا
+  عمرو بن حماد، قال: ثنا أسبـاط، عن السدي، قال: هو الصلاة عنده. فكأن الذين قالوا تأويـل
+  الـمصلـى ههنا الـمدعَى، وجهوا الـمصلـى إلـى أنه مفعَّل من قول القائل: صلـيت بـمعنى
+  دعوت. وقائلوا هذه الـمقالة هم الذين قالوا: إن مقام إبراهيـم هو الـحجّ كله.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">فكان معناه فـي تأويـل هذه الآية: واتـخذوا عرفة والـمزدلفة والـمشعر
+  والـجمار وسائر أماكن الـحجّ التـي كان إبراهيـم يقوم بها مداعي تدعوننـي عندها، وتأتـمون
+  بإبراهيـم خـلـيـلـي علـيه السلام فـيها، فإنـي قد جعلته لـمن بعده من أولـيائي وأهل
+  طاعتـي إماماً يقتدون به وبآثاره، فـاقتدوا به.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وأما
+  تأويـل القائلـين القول الآخر، فإنه: اتـخذوا أيها الناس من مقام إبراهيـم مصلـى تصلون
+  عنده، عبـادة منكم، وتكرمة منـي لإبراهيـم. وهذا القول هو أولـى بـالصواب لـما ذكرنا
+  من الـخبر عن عمر بن الـخطاب وجابر بن عبد الله، عن رسول الله صلى الله عليه وسلم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">القول فـي تأويـل قوله تعالـى: { وعَهِدْنَا إِلَـى إِبْرَاهِيـمَ
+  وَإسْمَاعِيـلَ أنْ طَهِّرَا بَـيْتِـي }.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">يعنـي
+  تعالـى ذكره بقوله: { وَعَهِدْنَا } وأمرنا. كما:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  القاسم، قال: ثنا الـحسين، قال: حدثنـي حجاج، عن ابن جريج، قال: قلت لعطاء: ما عهده؟
+  قال: أمره.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي يونس، قال: أخبرنـي ابن وهب،
+  قال: قال ابن زيد فـي قوله: { وَعَهِدْنَا إِلَـى إِبْرَاهِيـمَ } قال: أمرناه.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">فمعنى الآية: وأمرنا إبراهيـم وإسماعيـل بتطهير بـيتـي للطائفـين.
+  والتطهير الذي أمرهما الله به فـي البـيت، هو تطهيره من الأصنام وعبـادة الأوثان فـيه
+  ومن الشرك بـالله.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">فإن قال قائل: وما معنى قوله: {
   وَعَهِدْنَا إِلَـى إِبْرَاهِيـمَ وَإِسْمَاعِيـلَ أنْ طَهِّرَا بَـيْتِـيَ لِلطائِفِـينَ
   } وهل كان أيام إبراهيـم قبل بنائه البـيت بـيت يطهر من الشرك وعبـادة الأوثان فـي
   الـحرم، فـيجوز أن يكونا أُمِرا بتطهيره؟ قـيـل: لذلك وجهان من التأويـل، قد كان لكل
   واحد من الوجهين جماعة من أهل التأويـل، أحدهما: أن يكون معناه: وعهدنا إلـى إبراهيـم
-  وإسماعيـل أن ابنـيا بـيتـي مُطهَّراً من الشرك والريب، كما قال تعالـى ذكره:{ أَفَمَنْ
+  وإسماعيـل أن ابنـيا بـيتـي مُطهَّراً من الشرك والريب، كما قال تعالـى ذكره:</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">أَفَمَنْ
   أَسَّسَ بُنْيَانَهُ عَلَىٰ تَقْوَىٰ مِنَ اللَّهِ وَرِضْوَانٍ خَيْرٌ أَم مَّنْ أَسَّسَ
-  بُنْيَانَهُ عَلَىٰ شَفَا جُرُفٍ هَارٍ }[التوبة: 109]، فكذلك قوله: { وَعَهِدْنَا
+  بُنْيَانَهُ عَلَىٰ شَفَا جُرُفٍ هَارٍ</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">[التوبة: 109]، فكذلك قوله: { وَعَهِدْنَا
   إِلَـى إِبْرَاهِيـمَ وَإِسْمَاعِيـلَ أنْ طَهِّرَا بَـيْتِـيَ } أي ابنـيا بـيتـي
-  علـى طهر من الشرك بـي والريب. كما:حدثنـي موسى بن هارون، قال: ثنا عمرو بن حماد، قال:
-  ثنا أسبـاط عن السدي: { وَعَهِدْنَا إِلَـى إِبْرَاهِيـمَ وَإِسْمَاعِيـلَ أنْ طَهِّرَا
-  بَـيْتِـيَ } يقول: ابنـيا بـيتـي.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَإِذْ جَعَلْنَا ٱلْبَيْتَ مَثَابَةً
-  لِّلنَّاسِ وَأَمْناً وَٱتَّخِذُواْ مِن مَّقَامِ إِبْرَاهِيمَ مُصَلًّى وَعَهِدْنَآ
-  إِلَىٰ إِبْرَاهِيمَ وَإِسْمَاعِيلَ أَن طَهِّرَا بَيْتِيَ لِلطَّائِفِينَ وَٱلْعَاكِفِينَ
-  وَٱلرُّكَّعِ ٱلسُّجُودِ }فهذا أحد وجهيه، والوجه الآخر منهما أن يكونا أُمرا بأن يطهرا
-  مكان البـيت قبل بنـيانه والبـيت بعد بنـيانه مـما كان أهل الشرك بـالله يجعلونه فـيه
-  علـى عهد نوح ومن قبله من الأوثان، لـيكون ذلك سنة لـمن بعدهما، إذ كان الله تعالـى
-  ذكره قد جعل إبراهيـم إماماً يقتدي به مَنْ بعده. كما:حدثنـي يونس، قال: أخبرنا ابن
-  وهب، قال: قال ابن زيد فـي قوله: { أنْ طَهِّرَا } قال: من الأصنام التـي يعبدون التـي
-  كان الـمشركون يعظمونها.حدثنا أحمد بن إسحاق، قال: ثنا أبو أحمد الزبـيري، قال: ثنا
-  سفـيان، عن ابن أبـي نـجيح، عن عطاء، عن عبـيد بن عمير: { أنْ طَهِّرَا بَـيتِـيَ للطّائِفِـينَ
-  } قال: من الأوثان والريب.حدثنـي الـمثنى، قال: ثنا أبو نعيـم، قال: حدثنا سفـيان،
-  عن ابن جريج، عن عطاء، عن عبـيد بن عمير، مثله.حدثنـي أحمد بن إسحاق، قال: ثنا أبو
-  أحمد، قال: ثنا سفـيان، عن لـيث، عن مـجاهد، قال: من الشرك.حدثنا أحمد بن إسحاق، قال:
-  ثنا أبو أحمد، قال: ثنا أبو إسرائيـل، عن أبـي حصين، عن مـجاهد: { طَهِّرَا بَـيْتِـيَ
-  للطّائَفِـينَ } قال: من الأوثان.حدثنا الـحسن بن يحيى، قال: أخبرنا عبد الرزاق، قال:
-  أخبرنا معمر، عن قتادة فـي قوله: { طَهِّرَا بَـيْتِـيَ للطّائِفِـينَ } قال: من الشرك
-  وعبـادة الأوثان.حدثنا بشر بن معاذ، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة بـمثله،
-  وزاد فـيه: وقول الزور.القول فـي تأويـل قوله تعالـى: { للطّائِفِـينَ }.اختلف أهل
-  التأويـل فـي معنى الطائفـين فـي هذا الـموضع، فقال بعضهم: هم الغربـاء الذين يأتون
-  البـيت الـحرام من غربة. ذكر من قال ذلك:حدثنا أبو كريب، قال: ثنا أبو بكر بن عياش،
-  قال: ثنا أبو حصين، عن سعيد بن جبـير فـي قوله: { للطّائِفِـينَ } قال: من أتاه من
-  غربة.وقال آخرون: بل الطائفون هم الذين يطوفون به غربـاء كانوا أو من أهله. ذكر من
-  قال ذلك:حدثنا مـحمد بن العلاء، قال: ثنا وكيع، عن أبـي بكر الهذلـي، عن عطاء: { للطّائِفِـينَ
-  } قال: إذا كان طائفـا بـالبـيت، فهو من الطائفـين.وأولـى التأويـلـين بـالآية ما قاله
+  علـى طهر من الشرك بـي والريب. كما:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  موسى بن هارون، قال: ثنا عمرو بن حماد، قال: ثنا أسبـاط عن السدي: { وَعَهِدْنَا إِلَـى
+  إِبْرَاهِيـمَ وَإِسْمَاعِيـلَ أنْ طَهِّرَا بَـيْتِـيَ } يقول: ابنـيا بـيتـي.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,7,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">6 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,8,1)\"><u>8</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2, 125)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,125)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَإِذْ جَعَلْنَا ٱلْبَيْتَ مَثَابَةً لِّلنَّاسِ
+  وَأَمْناً وَٱتَّخِذُواْ مِن مَّقَامِ إِبْرَاهِيمَ مُصَلًّى وَعَهِدْنَآ إِلَىٰ إِبْرَاهِيمَ
+  وَإِسْمَاعِيلَ أَن طَهِّرَا بَيْتِيَ لِلطَّائِفِينَ وَٱلْعَاكِفِينَ وَٱلرُّكَّعِ
+  ٱلسُّجُودِ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">فهذا أحد وجهيه، والوجه الآخر منهما
+  أن يكونا أُمرا بأن يطهرا مكان البـيت قبل بنـيانه والبـيت بعد بنـيانه مـما كان أهل
+  الشرك بـالله يجعلونه فـيه علـى عهد نوح ومن قبله من الأوثان، لـيكون ذلك سنة لـمن
+  بعدهما، إذ كان الله تعالـى ذكره قد جعل إبراهيـم إماماً يقتدي به مَنْ بعده. كما:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد فـي قوله: { أنْ
+  طَهِّرَا } قال: من الأصنام التـي يعبدون التـي كان الـمشركون يعظمونها.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا أحمد بن إسحاق، قال: ثنا أبو أحمد الزبـيري، قال: ثنا سفـيان،
+  عن ابن أبـي نـجيح، عن عطاء، عن عبـيد بن عمير: { أنْ طَهِّرَا بَـيتِـيَ للطّائِفِـينَ
+  } قال: من الأوثان والريب.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي الـمثنى، قال: ثنا أبو نعيـم،
+  قال: حدثنا سفـيان، عن ابن جريج، عن عطاء، عن عبـيد بن عمير، مثله.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي أحمد بن إسحاق، قال: ثنا أبو أحمد، قال: ثنا سفـيان، عن لـيث،
+  عن مـجاهد، قال: من الشرك.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا أحمد بن إسحاق، قال: ثنا أبو
+  أحمد، قال: ثنا أبو إسرائيـل، عن أبـي حصين، عن مـجاهد: { طَهِّرَا بَـيْتِـيَ للطّائَفِـينَ
+  } قال: من الأوثان.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا الـحسن بن يحيى، قال: أخبرنا
+  عبد الرزاق، قال: أخبرنا معمر، عن قتادة فـي قوله: { طَهِّرَا بَـيْتِـيَ للطّائِفِـينَ
+  } قال: من الشرك وعبـادة الأوثان.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  بشر بن معاذ، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة بـمثله، وزاد فـيه: وقول الزور.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">القول فـي تأويـل قوله تعالـى: { للطّائِفِـينَ }.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">اختلف أهل التأويـل فـي معنى الطائفـين فـي هذا الـموضع، فقال بعضهم:
+  هم الغربـاء الذين يأتون البـيت الـحرام من غربة. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا أبو كريب، قال: ثنا أبو بكر بن عياش، قال: ثنا أبو حصين، عن
+  سعيد بن جبـير فـي قوله: { للطّائِفِـينَ } قال: من أتاه من غربة.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال آخرون: بل الطائفون هم الذين يطوفون به غربـاء كانوا أو من أهله.
+  ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا مـحمد بن العلاء، قال: ثنا
+  وكيع، عن أبـي بكر الهذلـي، عن عطاء: { للطّائِفِـينَ } قال: إذا كان طائفـا بـالبـيت،
+  فهو من الطائفـين.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وأولـى التأويـلـين بـالآية ما قاله
   عطاء لأن الطائف هو الذي يطوف بـالشيء دون غيره، والطارىء من غربة لا يستـحقّ اسم طائف
-  بـالبـيت إن لـم يطف به.القول فـي تأويـل قوله تعالـى: { والعاكِفِـينَ }.يعنـي تعالـى
-  ذكره بقوله: { وَالعاكِفِـينَ } والـمقـيـمين به، والعاكف علـى الشيء: هو الـمقـيـم
-  علـيه، كما قال نابغة بنـي ذبـيان:عُكُوفـاً لَدَى أبْـياتِهِمْ يَثْمِدُونَهُمْ   رمى
-  اللَّهُ فِـي تِلْكَ الأكُفّ الكوَانِعِوإنـما قـيـل للـمعتكف معتكف من أجل مقامه فـي
-  الـموضع الذي حبس فـيه نفسه لله تعالـى.ثم اختلف أهل التأويـل فـيـمن عنى الله بقوله:
-  { وَالعاكِفِـينَ } فقال بعضهم: عنى به الـجالس فـي البـيت الـحرام بغير طواف ولا صلاة.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَإِذْ جَعَلْنَا ٱلْبَيْتَ مَثَابَةً
-  لِّلنَّاسِ وَأَمْناً وَٱتَّخِذُواْ مِن مَّقَامِ إِبْرَاهِيمَ مُصَلًّى وَعَهِدْنَآ
-  إِلَىٰ إِبْرَاهِيمَ وَإِسْمَاعِيلَ أَن طَهِّرَا بَيْتِيَ لِلطَّائِفِينَ وَٱلْعَاكِفِينَ
-  وَٱلرُّكَّعِ ٱلسُّجُودِ }ذكر من قال ذلك:حدثنا أبو كريب، قال: ثنا وكيع، عن أبـي بكر
-  الهذلـي، عن عطاء، قال: إذا كان طائفـاً بـالبـيت فهو من الطائفـين، وإذا كان جالساً
-  فهو من العاكفـين.وقال بعضهم: العاكفون هم الـمعتكفون الـمـجاورون. ذكر من قال ذلك:حدثنا
-  أحمد بن إسحاق، قال: ثنا أبو أحمد الزبـيري، قال: ثنا شريك، عن جابر، عن مـجاهد وعكرمة:
-  { طَهِّرَا بَـيْتِـيَ للطائِفِـينَ وَالعاكِفِـينَ } قال: الـمـجاورون.وقال بعضهم:
-  العاكفون هم أهل البلد الـحرام. ذكر من قال ذلك:حدثنا أبو كريب، قال: ثنا أبو بكر بن
-  عياش، قال: ثنا أبو حصين، عن سعيد بن جبـير فـي قوله: { وَالعاكِفِـينَ } قال: أهل
-  البلد.حدثنا بشر بن معاذ، قال: ثنا يزيد بن زريع، قال: ثنا سعيد، عن قتادة: { وَالعاكِفِـينَ
-  } قال: العاكفون: أهله.وقال آخرون: العاكفون: هم الـمصلون. ذكر من قال ذلك:حدثنا القاسم،
-  قال: ثنا الـحسين، قال: حدثنـي حجاج، عن ابن جريج، قال: قال ابن عبـاس فـي قوله: {
-  طَهِّرَا بَـيْتِـي للطّائِفِـينَ وَالعاكِفِـينَ } قال: العاكفون: الـمصلون.وأولـى
-  هذه التأويلات بـالصواب ما قاله عطاء، وهو أن العاكف فـي هذا الـموضع: الـمقـيـم فـي
-  البـيت مـجاوراً فـيه بغير طواف ولا صلاة، لأن صفة العكوف ما وصفنا من الإقامة بـالـمكان.
-  والـمقـيـم بـالـمكان قد يكون مقـيـماً به وهو جالس ومصلَ وطائف وقائم، وعلـى غير ذلك
-  من الأحوال فلـما كان تعالـى ذكره قد ذكر فـي قوله: { أنْ طَهِّرَا بَـيْتِـيَ للطّائِفِـينَ
-  والعاكِفِـينَ والركّعِ السّجُودِ } الـمصلـين والطائفـين، علـم بذلك أن الـحال التـي
-  عنى الله تعالـى ذكره من العاكف غير حال الـمصلـي والطائف، وأن التـي عنى من أحواله
-  هو العكوف بـالبـيت علـى سبـيـل الـحوار فـيه، وإن لـم يكن مصلـياً فـيه ولا راكعاً
-  ولا ساجداً.القول فـي تأويـل قوله تعالـى: { وَالرُّكّعِ السُّجودِ }.يعنـي تعالـى
-  ذكره بقوله: { وَالرُّكّعِ } جماعة القوم الراكعين فـيه له، واحدهم راكع. وكذلك السجود
-  هم جماعة القوم الساجدين فـيه له واحدهم ساجد، كما يقال رجل قاعد ورجال قعود ورجل جالس
-  ورجال جلوس فكذلك رجل ساجد ورجال سجود. وقـيـل: بل عنى بـالركّع السجود: الـمصلـين.
-  ذكر من قال ذلك:حدثنا أبو كريب، قال: حدثنا وكيع، عن أبـي بكر الهذلـي، عن عطاء: {
-  وَالرُّكّعِ السُّجُودِ } قال: إذا كان يصلـي فهو من الركَّع السجود.حدثنا بشر بن معاذ،
-  قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة: { وَالرُّكّعِ السجُّودِ } أهل الصلاة. وقد
-  بـينا فـيـما مضى بـيان معنى الركوع والسجود، فأغنى ذلك عن إعادته ههنا.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 8 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  بـالبـيت إن لـم يطف به.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">القول فـي تأويـل قوله تعالـى: {
+  والعاكِفِـينَ }.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">يعنـي تعالـى ذكره بقوله: { وَالعاكِفِـينَ
+  } والـمقـيـمين به، والعاكف علـى الشيء: هو الـمقـيـم علـيه، كما قال نابغة بنـي ذبـيان:</font></font><table
+  class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">عُكُوفـاً لَدَى أبْـياتِهِمْ يَثْمِدُونَهُمْ</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">رمى اللَّهُ فِـي تِلْكَ الأكُفّ الكوَانِعِ</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">وإنـما قـيـل للـمعتكف معتكف من
+  أجل مقامه فـي الـموضع الذي حبس فـيه نفسه لله تعالـى.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">ثم
+  اختلف أهل التأويـل فـيـمن عنى الله بقوله: { وَالعاكِفِـينَ } فقال بعضهم: عنى به
+  الـجالس فـي البـيت الـحرام بغير طواف ولا صلاة.</font></font>&#13;\t\t\t<label disabled=\"true\"
+  class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,6,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,8,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">7 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,8,1)\"><u>8</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2, 125)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,125)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَإِذْ جَعَلْنَا ٱلْبَيْتَ مَثَابَةً لِّلنَّاسِ
+  وَأَمْناً وَٱتَّخِذُواْ مِن مَّقَامِ إِبْرَاهِيمَ مُصَلًّى وَعَهِدْنَآ إِلَىٰ إِبْرَاهِيمَ
+  وَإِسْمَاعِيلَ أَن طَهِّرَا بَيْتِيَ لِلطَّائِفِينَ وَٱلْعَاكِفِينَ وَٱلرُّكَّعِ
+  ٱلسُّجُودِ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا أبو كريب، قال: ثنا وكيع، عن أبـي بكر الهذلـي، عن عطاء، قال:
+  إذا كان طائفـاً بـالبـيت فهو من الطائفـين، وإذا كان جالساً فهو من العاكفـين.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال بعضهم: العاكفون هم الـمعتكفون الـمـجاورون. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا أحمد بن إسحاق، قال: ثنا أبو أحمد الزبـيري، قال: ثنا شريك،
+  عن جابر، عن مـجاهد وعكرمة: { طَهِّرَا بَـيْتِـيَ للطائِفِـينَ وَالعاكِفِـينَ } قال:
+  الـمـجاورون.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال بعضهم: العاكفون هم أهل البلد
+  الـحرام. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا أبو كريب، قال: ثنا أبو بكر
+  بن عياش، قال: ثنا أبو حصين، عن سعيد بن جبـير فـي قوله: { وَالعاكِفِـينَ } قال: أهل
+  البلد.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا بشر بن معاذ، قال: ثنا يزيد
+  بن زريع، قال: ثنا سعيد، عن قتادة: { وَالعاكِفِـينَ } قال: العاكفون: أهله.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال آخرون: العاكفون: هم الـمصلون. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا القاسم، قال: ثنا الـحسين، قال: حدثنـي حجاج، عن ابن جريج، قال:
+  قال ابن عبـاس فـي قوله: { طَهِّرَا بَـيْتِـي للطّائِفِـينَ وَالعاكِفِـينَ } قال:
+  العاكفون: الـمصلون.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وأولـى هذه التأويلات بـالصواب ما
+  قاله عطاء، وهو أن العاكف فـي هذا الـموضع: الـمقـيـم فـي البـيت مـجاوراً فـيه بغير
+  طواف ولا صلاة، لأن صفة العكوف ما وصفنا من الإقامة بـالـمكان. والـمقـيـم بـالـمكان
+  قد يكون مقـيـماً به وهو جالس ومصلَ وطائف وقائم، وعلـى غير ذلك من الأحوال فلـما كان
+  تعالـى ذكره قد ذكر فـي قوله: { أنْ طَهِّرَا بَـيْتِـيَ للطّائِفِـينَ والعاكِفِـينَ
+  والركّعِ السّجُودِ } الـمصلـين والطائفـين، علـم بذلك أن الـحال التـي عنى الله تعالـى
+  ذكره من العاكف غير حال الـمصلـي والطائف، وأن التـي عنى من أحواله هو العكوف بـالبـيت
+  علـى سبـيـل الـحوار فـيه، وإن لـم يكن مصلـياً فـيه ولا راكعاً ولا ساجداً.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">القول فـي تأويـل قوله تعالـى: { وَالرُّكّعِ السُّجودِ }.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">يعنـي تعالـى ذكره بقوله: { وَالرُّكّعِ } جماعة القوم الراكعين فـيه
+  له، واحدهم راكع. وكذلك السجود هم جماعة القوم الساجدين فـيه له واحدهم ساجد، كما يقال
+  رجل قاعد ورجال قعود ورجل جالس ورجال جلوس فكذلك رجل ساجد ورجال سجود. وقـيـل: بل عنى
+  بـالركّع السجود: الـمصلـين. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  أبو كريب، قال: حدثنا وكيع، عن أبـي بكر الهذلـي، عن عطاء: { وَالرُّكّعِ السُّجُودِ
+  } قال: إذا كان يصلـي فهو من الركَّع السجود.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  بشر بن معاذ، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة: { وَالرُّكّعِ السجُّودِ } أهل
+  الصلاة. وقد بـينا فـيـما مضى بـيان معنى الركوع والسجود، فأغنى ذلك عن إعادته ههنا.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,7,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">8 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section>"
 

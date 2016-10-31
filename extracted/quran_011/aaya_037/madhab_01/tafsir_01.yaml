@@ -1,4 +1,4 @@
-location:
+position:
   sura: '011'
   aaya: '037'
   madhab: '01'
@@ -9,25 +9,56 @@ meta:
   year: '310'
 aaya: وَاصْنَعِ الْفُلْكَ بِأَعْيُنِنَا وَوَحْيِنَا وَلَا تُخَاطِبْنِي فِي الَّذِينَ
   ظَلَمُوا ۚ إِنَّهُمْ مُغْرَقُونَ
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَٱصْنَعِ ٱلْفُلْكَ
-  بِأَعْيُنِنَا وَوَحْيِنَا وَلاَ تُخَاطِبْنِي فِي ٱلَّذِينَ ظَلَمُوۤاْ إِنَّهُمْ
-  مُّغْرَقُونَ }يقول تعالـى ذكره: وأُوحي إلـيه أنه لن يؤمن من قومك إلا من قد آمن،
-  وأنِ اصْنَعِ الفُلْكَ، وهو السفـينة كما:حدثنـي الـمثنى، قال: ثنا أبو حذيفة، قال:
-  ثنا شبل، عن ابن أبـي نـجيح، عن مـجاهد: الفلك: السفـينة.وقوله { بأعْيُنِنَا } يقول:
-  بعين الله ووحيه كما يأمرك. كما:حدثنـي مـحمد بن سعد، قال: ثنـي أبـي، قال: ثنـي عمي،
-  قال: ثنـي أبـي، عن أبـيه، عن ابن عبـاس، قوله: { وَاصْنَعِ الفُلْكَ بأعْيُنِنا وَوَحْيِنا
-  } وذلك أنه لـم يَعلَـم كيف صنعة الفلك، فأوحي الله إلـيه أن يصنعها علـى مثل جُؤجؤ
-  الطائر.حدثنـي مـحمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، عن ابن أبـي نـجيح،
-  عن مـجاهد: { وَوَحْيِنَا } قال: كما نأمرك.حدثنـي الـمثنى، قال: ثنا أبو حذيفة، قال:
-  ثنا شبل، عن ابن أبـي نـجيح، عن مـجاهد. وحدثنـي الـمثنى، قال: ثنا إسحاق، قال: ثنا
-  عبد الله، عن ورقاء، عن ابن أبـي نـجيح، عن مـجاهد: { بأعْيُنِنا وَوَحْيِنا }: كما
-  نأمرك.حدثنا القاسم، قال: ثنا الـحسين، قال: ثنـي حجاج، عن ابن جريج، عن عطاء الـخُراسانـي،
-  عن ابن عبـاس: { وَاصْنَعِ الفُلْكَ بأعْيُنِنا وَوَحْيِنا } قال: بعين الله، قال ابن
-  جريج، قال مـجاهد: { وَوَحْيِنا } قال: كما نأمرك.حدثنا مـحمد بن عبد الأعلـى، قال:
-  ثنا مـحمد بن ثَور، عن معمر، عن قتادة، فـي قوله: { بأعْيُنِنا وَوَحْيِنا } قال: بعين
-  الله ووحيه.وقوله: { وَلاَ تُـخَاطِبْنِـي فـي الَّذِينَ ظَلَـمُوا إنَّهُمْ مُغْرَقُونَ
-  } يقول تعالـى ذكره: ولا تسألنـي فـي العفو عن هؤلاء الذي ظلـموا أنفسهم من قومك، فأكسبوها
-  تعدّياً منهم علـيها بكفرهم بـالله الهلاك بـالغرق، إنهم مغرقون بـالطوفـان. كما:حدثنا
-  القاسم، قال: ثنا الـحسين، قال: ثنـي حجاج، عن ابن جريج: { وَلا تـخاطِبْنِـي } قال:
-  يقول: ولا تراجعنـي. قال: تقدَّم أن لا يشفع لهم عنده.\r\n\t\t\t\r\n\t\t\t</section>"
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(11, 37)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(11,37)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَٱصْنَعِ
+  ٱلْفُلْكَ بِأَعْيُنِنَا وَوَحْيِنَا وَلاَ تُخَاطِبْنِي فِي ٱلَّذِينَ ظَلَمُوۤاْ
+  إِنَّهُمْ مُّغْرَقُونَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">يقول تعالـى ذكره: وأُوحي إلـيه
+  أنه لن يؤمن من قومك إلا من قد آمن، وأنِ اصْنَعِ الفُلْكَ، وهو السفـينة كما:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي الـمثنى، قال: ثنا أبو حذيفة، قال: ثنا شبل، عن ابن أبـي نـجيح،
+  عن مـجاهد: الفلك: السفـينة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقوله
+  { بأعْيُنِنَا } يقول: بعين الله ووحيه كما يأمرك. كما:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  مـحمد بن سعد، قال: ثنـي أبـي، قال: ثنـي عمي، قال: ثنـي أبـي، عن أبـيه، عن ابن عبـاس،
+  قوله: { وَاصْنَعِ الفُلْكَ بأعْيُنِنا وَوَحْيِنا } وذلك أنه لـم يَعلَـم كيف صنعة
+  الفلك، فأوحي الله إلـيه أن يصنعها علـى مثل جُؤجؤ الطائر.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  مـحمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، عن ابن أبـي نـجيح، عن مـجاهد: {
+  وَوَحْيِنَا } قال: كما نأمرك.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  الـمثنى، قال: ثنا أبو حذيفة، قال: ثنا شبل، عن ابن أبـي نـجيح، عن مـجاهد. وحدثنـي
+  الـمثنى، قال: ثنا إسحاق، قال: ثنا عبد الله، عن ورقاء، عن ابن أبـي نـجيح، عن مـجاهد:
+  { بأعْيُنِنا وَوَحْيِنا }: كما نأمرك.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  القاسم، قال: ثنا الـحسين، قال: ثنـي حجاج، عن ابن جريج، عن عطاء الـخُراسانـي، عن
+  ابن عبـاس: { وَاصْنَعِ الفُلْكَ بأعْيُنِنا وَوَحْيِنا } قال: بعين الله، قال ابن
+  جريج، قال مـجاهد: { وَوَحْيِنا } قال: كما نأمرك.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  مـحمد بن عبد الأعلـى، قال: ثنا مـحمد بن ثَور، عن معمر، عن قتادة، فـي قوله: { بأعْيُنِنا
+  وَوَحْيِنا } قال: بعين الله ووحيه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقوله:
+  { وَلاَ تُـخَاطِبْنِـي فـي الَّذِينَ ظَلَـمُوا إنَّهُمْ مُغْرَقُونَ } يقول تعالـى
+  ذكره: ولا تسألنـي فـي العفو عن هؤلاء الذي ظلـموا أنفسهم من قومك، فأكسبوها تعدّياً
+  منهم علـيها بكفرهم بـالله الهلاك بـالغرق، إنهم مغرقون بـالطوفـان. كما:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا القاسم، قال: ثنا الـحسين، قال: ثنـي حجاج، عن ابن جريج: { وَلا
+  تـخاطِبْنِـي } قال: يقول: ولا تراجعنـي. قال: تقدَّم أن لا يشفع لهم عنده.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

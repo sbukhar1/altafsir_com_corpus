@@ -1,4 +1,4 @@
-location:
+position:
   sura: '002'
   aaya: '074'
   madhab: '02'
@@ -7,19 +7,41 @@ meta:
   title: تفسير زاد المسير في علم التفسير
   author: ابن الجوزي
   year: '597'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ ثُمَّ قَسَتْ قُلُوبُكُمْ
-  مِّن بَعْدِ ذٰلِكَ فَهِيَ كَٱلْحِجَارَةِ أَوْ أَشَدُّ قَسْوَةً وَإِنَّ مِنَ ٱلْحِجَارَةِ
-  لَمَا يَتَفَجَّرُ مِنْهُ ٱلأَنْهَارُ وَإِنَّ مِنْهَا لَمَا يَشَّقَّقُ فَيَخْرُجُ
-  مِنْهُ ٱلْمَآءُ وَإِنَّ مِنْهَا لَمَا يَهْبِطُ مِنْ خَشْيَةِ ٱللَّهِ وَمَا ٱللَّهُ
-  بِغَافِلٍ عَمَّا تَعْمَلُونَ }قوله تعالى: { ثم قست قلوبكم }: قال ابراهيم بن السري:
-  قست في اللغة: غلظت ويبست وعست، فقسوة القلب: ذهاب اللين والرحمة والخشوع منه. والقاسي:
-  والعاسي: الشديد الصلابة. وقال ابن قتيبة: قست وعست وعتت واحد، أي: يبست.وفي المشار
-  إليهم بها قولان. أحدهما: جميع بني إسرائيل. والثاني: القاتل. قال ابن عباس: قال الذين
-  قتلوه بعد أن سمى قاتله: والله ما قتلناه. وفي كاف «ذلك» ثلاثة أقوال. أحدها: أنه إشارة
-  إلى إحياء الموتى، فيكون الخطاب لجميع بني إسرائيل. والثاني: إلى كلام القتيل، فيكون
-  الخطاب للقاتل، ذكرهما المفسرون. والثالث: إلى ما شرح من الآيات من مسخ القردة والخنازير،
-  ورفع الجبل وانبجاس الماء، وإحياء القتيل، ذكره الزجاج.وفي «أو» أقوال، هي بعينها مذكورة
-  في قوله تعالى: { أو كصيِّب } وقد تقدمت.قوله تعالى: { وإِن من الحجارة لما يتفجر منه
-  الأنهار } قال مجاهد: كل حجر ينفجر منه الماء، وينشق عن ماء، أو يتردى من رأس جبل،
-  فمن خشية الله.\r\n\t\t\t\r\n\t\t\t</section>"
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(2, 74)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(2,74)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">ثُمَّ
+  قَسَتْ قُلُوبُكُمْ مِّن بَعْدِ ذٰلِكَ فَهِيَ كَٱلْحِجَارَةِ أَوْ أَشَدُّ قَسْوَةً
+  وَإِنَّ مِنَ ٱلْحِجَارَةِ لَمَا يَتَفَجَّرُ مِنْهُ ٱلأَنْهَارُ وَإِنَّ مِنْهَا لَمَا
+  يَشَّقَّقُ فَيَخْرُجُ مِنْهُ ٱلْمَآءُ وَإِنَّ مِنْهَا لَمَا يَهْبِطُ مِنْ خَشْيَةِ
+  ٱللَّهِ وَمَا ٱللَّهُ بِغَافِلٍ عَمَّا تَعْمَلُونَ</a> <b>}</b></font>, <br/>, <br/>,
+  <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">قوله
+  تعالى: { ثم قست قلوبكم }: قال ابراهيم بن السري: قست في اللغة: غلظت ويبست وعست، فقسوة
+  القلب: ذهاب اللين والرحمة والخشوع منه. والقاسي: والعاسي: الشديد الصلابة. وقال ابن
+  قتيبة: قست وعست وعتت واحد، أي: يبست.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وفي
+  المشار إليهم بها قولان. أحدهما: جميع بني إسرائيل. والثاني: القاتل. قال ابن عباس:
+  قال الذين قتلوه بعد أن سمى قاتله: والله ما قتلناه. وفي كاف «ذلك» ثلاثة أقوال. أحدها:
+  أنه إشارة إلى إحياء الموتى، فيكون الخطاب لجميع بني إسرائيل. والثاني: إلى كلام القتيل،
+  فيكون الخطاب للقاتل، ذكرهما المفسرون. والثالث: إلى ما شرح من الآيات من مسخ القردة
+  والخنازير، ورفع الجبل وانبجاس الماء، وإحياء القتيل، ذكره الزجاج.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وفي «أو» أقوال، هي بعينها مذكورة في قوله تعالى: { أو كصيِّب } وقد
+  تقدمت.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">قوله تعالى: { وإِن من الحجارة لما
+  يتفجر منه الأنهار } قال مجاهد: كل حجر ينفجر منه الماء، وينشق عن ماء، أو يتردى من
+  رأس جبل، فمن خشية الله.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

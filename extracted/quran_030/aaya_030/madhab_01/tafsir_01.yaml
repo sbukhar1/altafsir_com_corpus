@@ -1,4 +1,4 @@
-location:
+position:
   sura: '030'
   aaya: '030'
   madhab: '01'
@@ -7,63 +7,153 @@ meta:
   title: تفسير جامع البيان في تفسير القرآن
   author: الطبري
   year: '310'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ فَأَقِمْ وَجْهَكَ
-  لِلدِّينِ حَنِيفاً فِطْرَتَ ٱللَّهِ ٱلَّتِي فَطَرَ ٱلنَّاسَ عَلَيْهَا لاَ تَبْدِيلَ
-  لِخَلْقِ ٱللَّهِ ذَلِكَ ٱلدِّينُ ٱلْقَيِّمُ وَلَـٰكِنَّ أَكْثَرَ ٱلنَّاسِ لاَ يَعْلَمُونَ
-  }يقول تعالـى ذكره: فسدّد وجهك نـحو الوجه الذي وجهك إلـيه ربك يا مـحمد لطاعته، وهي
-  الدين، { حنـيفـاً } يقول: مستقـيـماً لدينه وطاعته، { فطرة الله التـي فطر الناس علـيها
-  } يقول: صنعةَ الله التـي خـلق الناس علـيها ونصبت فطرة علـى الـمصدر من معنى قوله
-  { فَأقِمْ وَجْهَكَ للدّينِ حَنِـيفـاً } وذلك أن معنى ذلك: فطر الله الناس علـى ذلك
-  فطرة. وبنـحو الذي قلنا فـي ذلك قال أهل التأويـل. ذكر من قال ذلك:حدثنـي يونس، قال:
-  أخبرنا ابن وهب، قال: قال ابن زيد، فـي قوله { فِطْرَةَ اللّهِ التـي فَطَرَ النَّاسَ
-  عَلَـيْها } قال: الإسلام مذ خـلقهم الله من آدم جميعاً، يقرّون بذلك، وقرأ:{ وَإذْ
-  أخَذَ رَبُّكَ منْ بَنِـي آدَمَ منْ ظُهُورِهِمْ ذُرِّيَّتَهُمْ، وأشْهَدَهُمْ علـى
-  أنْفُسِهمْ، ألَسْتُ برَبِّكُمْ؟ قالُوا بَلَـى شَهِدْنا }قال: فهذا قول الله:{ كانَ
-  النَّاسُ أُمَّةً وَاحِدَةً، فَبَعَثَ اللّهُ النَّبِـيِّـينَ }بعد.حدثنـي مـحمد بن
-  عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى وحدثنـي الـحارث، قال: ثنا الـحسن، قال: ثنا
-  ورقاء جميعاً، عن ابن أبـي نـجيح، عن مـجاهد { فِطْرَةَ اللّهِ } قال: الإسلام.حدثنا
-  ابن حميد، قال: ثنا يحيى بن واضح، قال: ثنا يونس بن أبـي صالـح، عن يزيد بن أبـي مريـم،
-  قال: مرّ عمر بـمُعاذ بن جبل، فقال: ما قِوام هذه الأمة؟ قال مُعاذ: ثلاث، وهنّ الـمنـجيات:
-  الإخلاص، وهو الفطرة { فِطْرَةَ اللّهِ التـي فَطَرَ النَّاسَ عَلَـيْها }. والصلاة
-  وهي الـملة والطاعة وهي العصمة، فقال عمر: صدقت.حدثنـي يعقوب، قال: ثنـي ابن عُلَـية،
-  قال: ثنا أيوب، عن أبـي قِلابة أن عمر قال لـمعاذ: ما قِوام هذه الأمة؟ ثم ذكر نـحوه.وقوله
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(30, 30)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(30,30)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">فَأَقِمْ
+  وَجْهَكَ لِلدِّينِ حَنِيفاً فِطْرَتَ ٱللَّهِ ٱلَّتِي فَطَرَ ٱلنَّاسَ عَلَيْهَا لاَ
+  تَبْدِيلَ لِخَلْقِ ٱللَّهِ ذَلِكَ ٱلدِّينُ ٱلْقَيِّمُ وَلَـٰكِنَّ أَكْثَرَ ٱلنَّاسِ
+  لاَ يَعْلَمُونَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">يقول تعالـى ذكره: فسدّد وجهك نـحو
+  الوجه الذي وجهك إلـيه ربك يا مـحمد لطاعته، وهي الدين، { حنـيفـاً } يقول: مستقـيـماً
+  لدينه وطاعته، { فطرة الله التـي فطر الناس علـيها } يقول: صنعةَ الله التـي خـلق الناس
+  علـيها ونصبت فطرة علـى الـمصدر من معنى قوله { فَأقِمْ وَجْهَكَ للدّينِ حَنِـيفـاً
+  } وذلك أن معنى ذلك: فطر الله الناس علـى ذلك فطرة. وبنـحو الذي قلنا فـي ذلك قال أهل
+  التأويـل. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي يونس، قال: أخبرنا ابن وهب،
+  قال: قال ابن زيد، فـي قوله { فِطْرَةَ اللّهِ التـي فَطَرَ النَّاسَ عَلَـيْها } قال:
+  الإسلام مذ خـلقهم الله من آدم جميعاً، يقرّون بذلك، وقرأ:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">وَإذْ أخَذَ رَبُّكَ منْ بَنِـي آدَمَ
+  منْ ظُهُورِهِمْ ذُرِّيَّتَهُمْ، وأشْهَدَهُمْ علـى أنْفُسِهمْ، ألَسْتُ برَبِّكُمْ؟
+  قالُوا بَلَـى شَهِدْنا</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">قال: فهذا قول الله:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">كانَ النَّاسُ أُمَّةً وَاحِدَةً،
+  فَبَعَثَ اللّهُ النَّبِـيِّـينَ</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">بعد.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  مـحمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى وحدثنـي الـحارث، قال: ثنا الـحسن،
+  قال: ثنا ورقاء جميعاً، عن ابن أبـي نـجيح، عن مـجاهد { فِطْرَةَ اللّهِ } قال: الإسلام.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن حميد، قال: ثنا يحيى بن واضح، قال: ثنا يونس بن أبـي صالـح،
+  عن يزيد بن أبـي مريـم، قال: مرّ عمر بـمُعاذ بن جبل، فقال: ما قِوام هذه الأمة؟ قال
+  مُعاذ: ثلاث، وهنّ الـمنـجيات: الإخلاص، وهو الفطرة { فِطْرَةَ اللّهِ التـي فَطَرَ
+  النَّاسَ عَلَـيْها }. والصلاة وهي الـملة والطاعة وهي العصمة، فقال عمر: صدقت.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي يعقوب، قال: ثنـي ابن عُلَـية، قال: ثنا أيوب، عن أبـي قِلابة
+  أن عمر قال لـمعاذ: ما قِوام هذه الأمة؟ ثم ذكر نـحوه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقوله
   { لا تَبْدِيـلَ لِـخَـلْقِ اللّهِ } يقول: لا تغيـير لدين الله: أي لا يصلـح ذلك،
-  ولا ينبغي أن يفعل.واختلف أهل التأويـل فـي تأويـل ذلك، فقال بعضهم نـحو الذي قلنا
-  فـي ذلك:ذكر من قال ذلك:حدثنـي مـحمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى وحدثنـي
-  الـحارث، قال: ثنا الـحسن، قال: ثنا ورقاء جميعاً، عن ابن أبـي نـجيح، عن مـجاهد {
-  لا تَبْدِيـلَ لِـخَـلْقِ اللّهِ } قال: لدينه.حدثنـي أبو السائب، قال: ثنا ابن إدريس،
-  عن لـيث، قال: أرسل مـجاهد رجلاً يقال له قاسم إلـى عكرِمة يسأله عن قول الله: { لا
-  تَبْدِيـلَ لِـخَـلْقِ اللّهِ } قال: إنـما هو الدين، وقرأ { لا تَبْدِيـلَ لـخَـلْقِ
-  اللّهِ ذلكَ الدّينُ القَـيِّـمُ }.حدثنا ابن وكيع، قال: ثنا زيد بن حبـاب، عن حسين
-  بن واقد، عن يزيد النـحوي، عن عكرِمة { فطْرَةَ اللّهِ التـي فَطَرَ النَّاسَ عَلَـيْها
-  } قال: الإسلام.قال: ثنـي أبـي، عن نضر بن عربـي، عن عكرمة { لا تَبْدِيـلَ لـخَـلْقِ
-  اللّهِ } قال: لدين الله.قال: ثنـي أبـي، عن سفـيان، عن لـيث، عن مـجاهد، قال: لدين
-  الله.\r\n\t\t\t\r\n\t\t\t1 2 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة الآيةفتح
-  صفحة القرآنالانتقال الى صفحة القرآن{ فَأَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفاً فِطْرَتَ
-  ٱللَّهِ ٱلَّتِي فَطَرَ ٱلنَّاسَ عَلَيْهَا لاَ تَبْدِيلَ لِخَلْقِ ٱللَّهِ ذَلِكَ
-  ٱلدِّينُ ٱلْقَيِّمُ وَلَـٰكِنَّ أَكْثَرَ ٱلنَّاسِ لاَ يَعْلَمُونَ }قال: ثنا أبـي،
-  عن عبد الـجبـار بن الورد، عن القاسم بن أبـي بزّة، قال: قال مـجاهد، فسل عنها عكرِمة،
-  فسألته، فقال عكرمة: دين الله تعالـى ماله أخزاه الله؟ ألـم يسمع إلـى قوله { فِطْرَةَ
-  اللّهِ التـي فَطَرَ النَّاسَ عَلَـيْها، لا تَبْدِيـلَ لـخَـلْقِ اللّهِ }.حدثنا بشر،
-  قال: ثنا يزيد، قال: ثنا سعيد، عن قَتادة { لا تَبْدِيـلَ لـخَـلْقِ اللّهِ }: أي لدين
-  الله.حدثنا ابن وكيع، قال: ثنا حفص بن غياث، عن لـيث، عن عكرمة، قال: لدين الله.قال:
-  ثنا ابن عيـينة، عن حميد الأعرج، قال: قال سعيد بن جُبَـير { لا تَبْدِيـلَ لـخَـلْقِ
-  اللّهِ } قال: لدين الله.قال: ثنا الـمـحاربـي، عن جويبر، عن الضحاك { لا تَبْدِيـلَ
-  لـخَـلْقِ اللّهِ } قال: لدين الله.حدثنـي يونس، قال: أخبرنا ابن وهب، قال: قال ابن
-  زيد، فـي قوله { لا تَبْدِيـلَ لـخَـلْقِ الله } قال: دين الله.حدثنا ابن وكيع، قال:
-  ثنا أبـي عن مسعر وسفـيان، عن قـيس بن مسلـم، عن إبراهيـم، قال { لا تَبْدِيـلَ لـخَـلْقِ
-  اللّهِ } قال: لدين الله.قال: ثنا أبـي عن جعفر الرازي، عن مغيرة، عن إبراهيـم، قال:
-  لدين الله.وقال آخرون: بل معنى ذلك: لا تغيـير لـخـلق الله من البهائم بأن يخصى الفحول
-  منها. ذكر من قال ذلك:حدثنا ابن وكيع، قال: ثنا ابن فضيـل، عن مطرف، عن رجل، سأل ابن
-  عبـاس، عن خصاء البهائم، فكرهه، وقال: { لا تَبْدِيـل لـخَـلْقِ اللّهِ }.قال: ثنا
-  ابن عيـينة، عن حميد الأعرج، قال: قال عكرمة: الإخصاء.قال: ثنا حفص بن غياث، عن لـيث،
-  عن مـجاهد، قال: الإخصاء.وقوله: { ذلكَ الدّينُ القَـيِّـمُ } يقول تعالـى ذكره: إن
-  إقامتك وجهك للدين حنـيفـاً غير مغير ولا مبدّل هو الدين القـيـم، يعنـي الـمستقـيـم
-  الذي لا عوج فـيه عن الاستقامة من الـحنـيفـية إلـى الـيهودية والنصرانـية، وغير ذلك
-  من الضلالات والبدع الـمـحدثة.وقد وجَّه بعضهم معنى الدين فـي هذا الـموضع إلـى الـحساب.
-  ذكر من قال ذلك:حدثنـي مـحمد بن عمارة، قال: ثنا عبد الله بن موسى، قال: أخبرنا أبو
-  لـيـلـى، عن بريدة { ذلكَ الدّينُ القَـيِّـمُ } قال: الـحساب القـيـم { وَلَكِنَّ
-  أكْثَرَ النَّاسِ لا يَعْلَـمُونَ } يقول تعالـى ذكره: ولكن أكثر الناس لا يعلـمون
-  أن الدين الذي أمرتك يا مـحمد به بقولـي { فأَقمِ وَجْهَكَ للدّينِ حَنِـيفـاً } هو
-  الدين الـحقّ دون سائر الأديان غيره.\r\n\t\t\t\r\n\t\t\t1 2 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  ولا ينبغي أن يفعل.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">واختلف أهل التأويـل فـي تأويـل
+  ذلك، فقال بعضهم نـحو الذي قلنا فـي ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">ذكر
+  من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي مـحمد بن عمرو، قال: ثنا
+  أبو عاصم، قال: ثنا عيسى وحدثنـي الـحارث، قال: ثنا الـحسن، قال: ثنا ورقاء جميعاً،
+  عن ابن أبـي نـجيح، عن مـجاهد { لا تَبْدِيـلَ لِـخَـلْقِ اللّهِ } قال: لدينه.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي أبو السائب، قال: ثنا ابن إدريس، عن لـيث، قال: أرسل مـجاهد
+  رجلاً يقال له قاسم إلـى عكرِمة يسأله عن قول الله: { لا تَبْدِيـلَ لِـخَـلْقِ اللّهِ
+  } قال: إنـما هو الدين، وقرأ { لا تَبْدِيـلَ لـخَـلْقِ اللّهِ ذلكَ الدّينُ القَـيِّـمُ
+  }.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن وكيع، قال: ثنا زيد بن
+  حبـاب، عن حسين بن واقد، عن يزيد النـحوي، عن عكرِمة { فطْرَةَ اللّهِ التـي فَطَرَ
+  النَّاسَ عَلَـيْها } قال: الإسلام.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال:
+  ثنـي أبـي، عن نضر بن عربـي، عن عكرمة { لا تَبْدِيـلَ لـخَـلْقِ اللّهِ } قال: لدين
+  الله.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">قال: ثنـي أبـي، عن سفـيان، عن لـيث،
+  عن مـجاهد، قال: لدين الله.</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\"
+  border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE:
+  none; BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(30, 30)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(30,30)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">فَأَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفاً فِطْرَتَ ٱللَّهِ
+  ٱلَّتِي فَطَرَ ٱلنَّاسَ عَلَيْهَا لاَ تَبْدِيلَ لِخَلْقِ ٱللَّهِ ذَلِكَ ٱلدِّينُ
+  ٱلْقَيِّمُ وَلَـٰكِنَّ أَكْثَرَ ٱلنَّاسِ لاَ يَعْلَمُونَ</a> <b>}</b></font>, <br/>,
+  <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">قال:
+  ثنا أبـي، عن عبد الـجبـار بن الورد، عن القاسم بن أبـي بزّة، قال: قال مـجاهد، فسل
+  عنها عكرِمة، فسألته، فقال عكرمة: دين الله تعالـى ماله أخزاه الله؟ ألـم يسمع إلـى
+  قوله { فِطْرَةَ اللّهِ التـي فَطَرَ النَّاسَ عَلَـيْها، لا تَبْدِيـلَ لـخَـلْقِ
+  اللّهِ }.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا بشر، قال: ثنا يزيد، قال:
+  ثنا سعيد، عن قَتادة { لا تَبْدِيـلَ لـخَـلْقِ اللّهِ }: أي لدين الله.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن وكيع، قال: ثنا حفص بن غياث، عن لـيث، عن عكرمة، قال: لدين
+  الله.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">قال: ثنا ابن عيـينة، عن حميد الأعرج،
+  قال: قال سعيد بن جُبَـير { لا تَبْدِيـلَ لـخَـلْقِ اللّهِ } قال: لدين الله.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قال: ثنا الـمـحاربـي، عن جويبر، عن الضحاك { لا تَبْدِيـلَ لـخَـلْقِ
+  اللّهِ } قال: لدين الله.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي يونس، قال: أخبرنا ابن وهب،
+  قال: قال ابن زيد، فـي قوله { لا تَبْدِيـلَ لـخَـلْقِ الله } قال: دين الله.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن وكيع، قال: ثنا أبـي عن مسعر وسفـيان، عن قـيس بن مسلـم،
+  عن إبراهيـم، قال { لا تَبْدِيـلَ لـخَـلْقِ اللّهِ } قال: لدين الله.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قال: ثنا أبـي عن جعفر الرازي، عن مغيرة، عن إبراهيـم، قال: لدين الله.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال آخرون: بل معنى ذلك: لا تغيـير لـخـلق الله من البهائم بأن يخصى
+  الفحول منها. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن وكيع، قال: ثنا ابن فضيـل، عن مطرف، عن رجل، سأل ابن عبـاس، عن خصاء البهائم، فكرهه،
+  وقال: { لا تَبْدِيـل لـخَـلْقِ اللّهِ }.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال:
+  ثنا ابن عيـينة، عن حميد الأعرج، قال: قال عكرمة: الإخصاء.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال:
+  ثنا حفص بن غياث، عن لـيث، عن مـجاهد، قال: الإخصاء.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقوله:
+  { ذلكَ الدّينُ القَـيِّـمُ } يقول تعالـى ذكره: إن إقامتك وجهك للدين حنـيفـاً غير
+  مغير ولا مبدّل هو الدين القـيـم، يعنـي الـمستقـيـم الذي لا عوج فـيه عن الاستقامة
+  من الـحنـيفـية إلـى الـيهودية والنصرانـية، وغير ذلك من الضلالات والبدع الـمـحدثة.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقد وجَّه بعضهم معنى الدين فـي هذا الـموضع إلـى الـحساب. ذكر من
+  قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي مـحمد بن عمارة، قال: ثنا
+  عبد الله بن موسى، قال: أخبرنا أبو لـيـلـى، عن بريدة { ذلكَ الدّينُ القَـيِّـمُ }
+  قال: الـحساب القـيـم { وَلَكِنَّ أكْثَرَ النَّاسِ لا يَعْلَـمُونَ } يقول تعالـى
+  ذكره: ولكن أكثر الناس لا يعلـمون أن الدين الذي أمرتك يا مـحمد به بقولـي { فأَقمِ
+  وَجْهَكَ للدّينِ حَنِـيفـاً } هو الدين الـحقّ دون سائر الأديان غيره.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section>"
 

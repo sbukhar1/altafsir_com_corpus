@@ -1,4 +1,4 @@
-location:
+position:
   sura: 018
   aaya: 029
   madhab: '01'
@@ -7,123 +7,305 @@ meta:
   title: تفسير جامع البيان في تفسير القرآن
   author: الطبري
   year: '310'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَقُلِ ٱلْحَقُّ
-  مِن رَّبِّكُمْ فَمَن شَآءَ فَلْيُؤْمِن وَمَن شَآءَ فَلْيَكْفُرْ إِنَّا أَعْتَدْنَا
-  لِلظَّالِمِينَ نَاراً أَحَاطَ بِهِمْ سُرَادِقُهَا وَإِن يَسْتَغِيثُواْ يُغَاثُواْ
-  بِمَآءٍ كَٱلْمُهْلِ يَشْوِي ٱلْوجُوهَ بِئْسَ ٱلشَّرَابُ وَسَآءَتْ مُرْتَفَقاً }يقول
-  تعالـى ذكره لنبـيه مـحمد صلى الله عليه وسلم: وقل يا مـحمد لهؤلاء الذين أغفلنا قلوبهم
-  عن ذكرنا، واتبعوا أهواءهم: الـحقّ أيها الناس من عند ربكم، وإلـيه التوفـيق والـحذلان،
-  وبـيده الهدى والضلال يهدي من يشاء منكم للرشاد، فـيؤمن، ويضلّ من يشاء عن الهدى فـيكفر،
-  لـيس إلـيّ من ذلك شيء، ولست بطارد لهواكم من كان للـحقّ متبعا، وبـالله وبـما أنزل
-  علـيّ مؤمناً، فإن شئتـم فآمنوا، وإن شئتـم فـاكفروا، فإنكم إن كفرتـم فقد أعدّ لكم
-  ربكم علـى كفركم به نار أحاط بكم سرادقها، وإن آمنتـم به وعملتـم بطاعته، فإن لكم ما
-  وصف الله لأهل طاعته. وروي عن ابن عبـاس فـي ذلك ما:حدثنـي علـيّ، قال: ثنا عبد الله،
-  قال: ثنـي معاوية، عن علـيّ، عن ابن عبـاس، قوله: { فَمَنْ شاءَ فَلْـيُؤْمِنْ وَمَنْ
-  شاءَ فَلْـيَكْفُرْ } يقول: من شاء الله له الإيـمان آمن، ومن شاء الله له الكفر كفر،
-  وهو قوله:{ وَما تَشاءُونَ إلاَّ أنْ يَشاءَ اللّهُ رَبْ العَالَـمِينَ }ولـيس هذا
-  بإطلاق من الله الكفر لـمن شاء، والإيـمان لـمن أراد، وإنـما هو تهديد ووعيد.وقد بـين
-  أن ذلك كذلك قوله: { إنَّا اعْتَدْنا للظَّالِـمينَ ناراً } والآيات بعدها. كما:حدثنا
-  الـحسن بن يحيى، قال: أخبرنا عبد الرزاق، عن عمر بن حبـيب، عن داود، عن مـجاهد، فـي
-  قوله: { فَمَنْ شاءَ فَلْـيُؤْمِنْ وَمَنْ شاءَ فَلْـيَكْفُرْ }. قال: وعيد من الله،
-  فلـيس بـمعجزي.حدثنـي يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد فـي قوله: { فَمَنْ
-  شاءَ فَلْـيُؤْمِنْ وَمَنْ شاءَ فَلْـيَكْفُرْ } ، وقوله{ اعْمَلُوا ما شِئْتُـمْ }قال:
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(18, 29)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(18,29)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَقُلِ
+  ٱلْحَقُّ مِن رَّبِّكُمْ فَمَن شَآءَ فَلْيُؤْمِن وَمَن شَآءَ فَلْيَكْفُرْ إِنَّا
+  أَعْتَدْنَا لِلظَّالِمِينَ نَاراً أَحَاطَ بِهِمْ سُرَادِقُهَا وَإِن يَسْتَغِيثُواْ
+  يُغَاثُواْ بِمَآءٍ كَٱلْمُهْلِ يَشْوِي ٱلْوجُوهَ بِئْسَ ٱلشَّرَابُ وَسَآءَتْ مُرْتَفَقاً</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">يقول تعالـى ذكره لنبـيه مـحمد صلى الله عليه وسلم: وقل يا مـحمد لهؤلاء
+  الذين أغفلنا قلوبهم عن ذكرنا، واتبعوا أهواءهم: الـحقّ أيها الناس من عند ربكم، وإلـيه
+  التوفـيق والـحذلان، وبـيده الهدى والضلال يهدي من يشاء منكم للرشاد، فـيؤمن، ويضلّ
+  من يشاء عن الهدى فـيكفر، لـيس إلـيّ من ذلك شيء، ولست بطارد لهواكم من كان للـحقّ
+  متبعا، وبـالله وبـما أنزل علـيّ مؤمناً، فإن شئتـم فآمنوا، وإن شئتـم فـاكفروا، فإنكم
+  إن كفرتـم فقد أعدّ لكم ربكم علـى كفركم به نار أحاط بكم سرادقها، وإن آمنتـم به وعملتـم
+  بطاعته، فإن لكم ما وصف الله لأهل طاعته. وروي عن ابن عبـاس فـي ذلك ما:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي علـيّ، قال: ثنا عبد الله، قال: ثنـي معاوية، عن علـيّ، عن
+  ابن عبـاس، قوله: { فَمَنْ شاءَ فَلْـيُؤْمِنْ وَمَنْ شاءَ فَلْـيَكْفُرْ } يقول: من
+  شاء الله له الإيـمان آمن، ومن شاء الله له الكفر كفر، وهو قوله:</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">وَما
+  تَشاءُونَ إلاَّ أنْ يَشاءَ اللّهُ رَبْ العَالَـمِينَ</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">ولـيس هذا بإطلاق من الله الكفر
+  لـمن شاء، والإيـمان لـمن أراد، وإنـما هو تهديد ووعيد.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقد
+  بـين أن ذلك كذلك قوله: { إنَّا اعْتَدْنا للظَّالِـمينَ ناراً } والآيات بعدها. كما:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا الـحسن بن يحيى، قال: أخبرنا عبد الرزاق، عن عمر بن حبـيب، عن
+  داود، عن مـجاهد، فـي قوله: { فَمَنْ شاءَ فَلْـيُؤْمِنْ وَمَنْ شاءَ فَلْـيَكْفُرْ
+  }. قال: وعيد من الله، فلـيس بـمعجزي.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد فـي قوله: { فَمَنْ شاءَ فَلْـيُؤْمِنْ
+  وَمَنْ شاءَ فَلْـيَكْفُرْ } ، وقوله</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">اعْمَلُوا ما شِئْتُـمْ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">قال:
   هذا كله وعيد لـيس مصانعة ولا مراشاة ولا تفويضاً. وقوله: { إنَّا أعْتَدْنا للظَّالِـمينَ
   ناراً } يقول تعالـى ذكره: إنا أعددنا، وهو من العُدّة. للظالـمين: الذين كفروا بربهم.
-  كما:حدثنـي يونس، قال: أخبرنا ابن وهب قال: قال ابن زيد، فـي قوله: { إنَّا أعْتَدْنا
-  للظَّالِـمِينَ ناراً أحاطَ بِهمْ سُرَادِقُها } قال: للكافرين.وقوله: { أحاطَ بِهمْ
-  سُرَادِقُها } يقول: أحاط سرادق النار التـي أعدّها الله للكافرين بربهم، وذلك فـيـما
-  قـيـل: حائط من نار يطيف بهم كسرادق الفسطاط، وهي الـحجرة التـي تطيف بـالفسطاط، كما
-  قال رؤبة:يا حَكَمَ بنَ الـمُنْذِرِ بْنَ الـجارُودْ   سُرادِقُ الفَضْلِ عَلَـيْكَ
-  مَـمْدُودْوكما قال سلامة بن جندل:هُوَ الـمُوِلـجُ النُّعْمانَ بـيْتاً سَماؤُهُ   صُدُورُ
-  الفُـيُولِ بعدَ بَـيْتٍ مُسَرْدَقيعنـي: بـيتا له سرادق. ذكر من قال ذلك:حدثنا القاسم،
-  قال: ثنا الـحسين، قال: ثنـي حجاج، عن ابن جريج، قال: قال ابن عبـاس، فـي قوله: { إنَّا
-  أعْتَدْنا للظَّالِـمِينَ ناراً أحاطَ بِهمْ سُرَادِقُها } قال: هي حائط من نار.حدثنا
+  كما:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي يونس، قال: أخبرنا ابن وهب
+  قال: قال ابن زيد، فـي قوله: { إنَّا أعْتَدْنا للظَّالِـمِينَ ناراً أحاطَ بِهمْ سُرَادِقُها
+  } قال: للكافرين.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقوله: { أحاطَ بِهمْ سُرَادِقُها
+  } يقول: أحاط سرادق النار التـي أعدّها الله للكافرين بربهم، وذلك فـيـما قـيـل: حائط
+  من نار يطيف بهم كسرادق الفسطاط، وهي الـحجرة التـي تطيف بـالفسطاط، كما قال رؤبة:</font></font><table
+  class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">يا حَكَمَ بنَ الـمُنْذِرِ بْنَ الـجارُودْ</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">سُرادِقُ الفَضْلِ عَلَـيْكَ مَـمْدُودْ</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">وكما قال سلامة بن جندل:</font></font><table
+  class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">هُوَ الـمُوِلـجُ النُّعْمانَ بـيْتاً سَماؤُهُ</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">صُدُورُ الفُـيُولِ بعدَ بَـيْتٍ مُسَرْدَق</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">يعنـي: بـيتا له سرادق. ذكر من قال
+  ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا القاسم، قال: ثنا الـحسين،
+  قال: ثنـي حجاج، عن ابن جريج، قال: قال ابن عبـاس، فـي قوله: { إنَّا أعْتَدْنا للظَّالِـمِينَ
+  ناراً أحاطَ بِهمْ سُرَادِقُها } قال: هي حائط من نار.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
   القاسم، قال: ثنا الـحسين، قال: ثنا أبو سفـيان، عن معمر، عمن أخبره، قال { أحَاطَ
-  بِهِمْ سُرَادِقُهَا } قال: دخان يحيط بـالكفـار يوم القـيامة، وهو الذي قال الله:\r\n\t\t\t\r\n\t\t\t1 2 3 4 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَقُلِ ٱلْحَقُّ مِن رَّبِّكُمْ فَمَن
-  شَآءَ فَلْيُؤْمِن وَمَن شَآءَ فَلْيَكْفُرْ إِنَّا أَعْتَدْنَا لِلظَّالِمِينَ نَاراً
-  أَحَاطَ بِهِمْ سُرَادِقُهَا وَإِن يَسْتَغِيثُواْ يُغَاثُواْ بِمَآءٍ كَٱلْمُهْلِ
-  يَشْوِي ٱلْوجُوهَ بِئْسَ ٱلشَّرَابُ وَسَآءَتْ مُرْتَفَقاً }{ ظلّ ذِي ثَلاثِ شُعَبٍ }وقد
+  بِهِمْ سُرَادِقُهَا } قال: دخان يحيط بـالكفـار يوم القـيامة، وهو الذي قال الله:</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(18, 29)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(18,29)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَقُلِ ٱلْحَقُّ مِن رَّبِّكُمْ فَمَن شَآءَ فَلْيُؤْمِن
+  وَمَن شَآءَ فَلْيَكْفُرْ إِنَّا أَعْتَدْنَا لِلظَّالِمِينَ نَاراً أَحَاطَ بِهِمْ
+  سُرَادِقُهَا وَإِن يَسْتَغِيثُواْ يُغَاثُواْ بِمَآءٍ كَٱلْمُهْلِ يَشْوِي ٱلْوجُوهَ
+  بِئْسَ ٱلشَّرَابُ وَسَآءَتْ مُرْتَفَقاً</a> <b>}</b></font>, <br/>, <br/>, <div
+  align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\"/></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">ظلّ
+  ذِي ثَلاثِ شُعَبٍ</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقد
   رُوي عن النبـيّ صلى الله عليه وسلم فـي ذلك خبر يدلّ علـى أن معنى قوله { أحاطَ بِهمْ
-  سرادِقُها } أحاط بهم ذلك فـي الدنـيا، وأن ذلك السرادق هو البحر. ذكر من قال ذلك:حدثنـي
-  العبـاس بن مـحمد والـحسين بن نصر، قالا: ثنا أبو عاصم، عن عبد الله بن أمية، قال:
-  ثنـي مـحمد بن حيـي بن يعلـى، عن صفوان بن يعلـى، عن يعلـى بن أمية، قال: قال رسول
-  الله صلى الله عليه وسلم: \" البَحْرُ هُوَ جَهَنَّـمُ \" قال: فقـيـل له: كيف ذلك،
-  فتلا هذه الآية، أو قرأ هذه الآية: { ناراً أحاطَ بِهمْ سُرَادِقُها } ثم قال: \" واللّهِ
-  لا أدْخُـلُها أبَداً أوْ ما دُمْتُ حَيًّا، وَلا تُصِيبُنـي مِنْها قَطْرَة \" حدثنا
-  مـحمد بن الـمثنى، قال: ثنا يعمر بن بشر، قال: ثنا ابن الـمبـارك، قال: أخبرنا رشدين
-  بن سعد، قال: ثنـي عمرو بن الـحرث، عن أبـي السمـح، عن أبـي الهيثم، عن أبـي سعيد الـخدري،
-  عن النبـيّ صلى الله عليه وسلم قال: \" سُرَادِقُ النَّارِ أرْبَعَةُ جُدُرٍ، كِثْفُ
-  كُلّ وَاحِدٍ مِثْلُ مَسِيرَةِ أرْبعِينَ سَنَةً \" حدثنا بشر، قال: ثنا ابن وهب، قال:
+  سرادِقُها } أحاط بهم ذلك فـي الدنـيا، وأن ذلك السرادق هو البحر. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي العبـاس بن مـحمد والـحسين بن نصر، قالا: ثنا أبو عاصم، عن
+  عبد الله بن أمية، قال: ثنـي مـحمد بن حيـي بن يعلـى، عن صفوان بن يعلـى، عن يعلـى
+  بن أمية، قال: قال رسول الله صلى الله عليه وسلم:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" البَحْرُ هُوَ جَهَنَّـمُ \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">قال: فقـيـل له: كيف ذلك، فتلا هذه الآية، أو قرأ هذه الآية: { ناراً
+  أحاطَ بِهمْ سُرَادِقُها } ثم قال:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" واللّهِ لا أدْخُـلُها أبَداً أوْ ما دُمْتُ حَيًّا، وَلا تُصِيبُنـي
+  مِنْها قَطْرَة \" </font></font></b><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا مـحمد بن الـمثنى، قال: ثنا
+  يعمر بن بشر، قال: ثنا ابن الـمبـارك، قال: أخبرنا رشدين بن سعد، قال: ثنـي عمرو بن
+  الـحرث، عن أبـي السمـح، عن أبـي الهيثم، عن أبـي سعيد الـخدري، عن النبـيّ صلى الله
+  عليه وسلم قال:</font></font><b><font class=\"TextResultArabic\"><font color=\"Red\">
+  \" سُرَادِقُ النَّارِ أرْبَعَةُ جُدُرٍ، كِثْفُ كُلّ وَاحِدٍ مِثْلُ مَسِيرَةِ أرْبعِينَ
+  سَنَةً \" </font></font></b><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا بشر، قال: ثنا ابن وهب، قال:
   أخبرنـي عمرو بن الـحارث، عن درّاج، عن أبـي الهيثم، عن أبـي سعيد، عن رسول الله صلى
-  الله عليه وسلم أنه قال: \" إنَّ لِسُرَادِقِ النَّارِ أرْبَعَةَ جُدُرٍ، كِثْفُ كُلّ
-  وَاحِدَة مِثْلُ مَسِيرةِ أرْبَعِينَ سَنَةً \" حدثنابشر، قال: ثنا ابن وهب، قال: أخبرنـي
-  عمرو، عن دراج، عن أبـي الهيثم، عن أبـي سعيد، عن رسول الله صلى الله عليه وسلم قال:
-  \" ماءٌ كالـمُهْلِ \" ، قالَ: \" كَعَكَرِ الزَّيْتِ، فإذَا قَرَّبَهُ إلَـيْه سقط
-  فَرْوَةُ وَجْهِهِ فِـيهِ \" وقوله: { وَإن يَسْتَغِيثُوا يُغاثُوا بِـمَاءٍ كالـمُهْلِ
-  } يقول تعالـى ذكره: وإن يستغث هؤلاء الظالـمون يوم القـيامة فـي النار من شدّة ما
-  بهم من العطش، فـيطلبونَ الـماء يُغاثوا بـماء الـمُهْل.واختلف أهل التأويـل فـي الـمهل،
-  فقال بعضهم: هو كلّ شيء أذيب وإنـماع. ذكر من قال ذلك:حدثنا بشر، قال: ثنا يزيد، قال:
-  ثنا سعيد، عن قتادة، قال: ذُكر لنا أن ابن مسعود أهديت إلـيه سِقاية من ذهب وفضة، فأمر
-  بأخدود فخدّ فـي الأرض، ثم قذف فـيه من جزل حطب، ثم قذف فـيه تلك السقاية، حتـى إذا
-  أزبدت وانـماعت قال لغلامه: ادع من يحضُرنا من أهل الكوفة، فدعا رهطاً، فلـما دخـلوا
-  علـيه قال: أترون هذا؟ قالوا: نعم، قال: ما رأينا فـي الدنـيا شبـيها للـمهل أدنى من
-  هذا الذهب والفضة، حين أزبد وإنـماع.وقال آخرون: هو القـيح والدم الأسود. ذكر من قال
-  ذلك:حدثنا ابن حميد، قال: ثنا حكام عن عنبسة، عن مـحمد بن عبد الرحمن، عن القاسم، عن
-  أبـي بَزّة، عن مـجاهد فـي قوله: { وَإنْ يَسْتَغِيثُوا يُغاثوا بِـمَاءٍ كالـمُهْلِ
-  } قال: القـيح والدم.\r\n\t\t\t\r\n\t\t\t1 2 3 4 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَقُلِ ٱلْحَقُّ مِن رَّبِّكُمْ فَمَن
-  شَآءَ فَلْيُؤْمِن وَمَن شَآءَ فَلْيَكْفُرْ إِنَّا أَعْتَدْنَا لِلظَّالِمِينَ نَاراً
-  أَحَاطَ بِهِمْ سُرَادِقُهَا وَإِن يَسْتَغِيثُواْ يُغَاثُواْ بِمَآءٍ كَٱلْمُهْلِ
-  يَشْوِي ٱلْوجُوهَ بِئْسَ ٱلشَّرَابُ وَسَآءَتْ مُرْتَفَقاً }حدثنـي مـحمد بن عمرو،
-  قال: ثنا أبو عاصم، قال: ثنا عيسى وحدثنـي الـحرث، قال: ثنا الـحسن، قال: ثنا ورقاء،
-  جميعاً عن ابن أبـي نـجيح، عن مـجاهد { بـمَاءٍ كالـمُهْلِ } قال: القـيح والدم الأسود،
-  كعكر الزيت. قال الـحرث فـي حديثه: يعنـي درديّة.حدثنـي علـيّ، قال: ثنا عبد الله،
-  قال: ثنـي معاوية، عن علـيّ، عن ابن عبـاس، قوله: { كالـمُهْلِ } قال: يقول: أسود كهيئة
-  الزيت.حُدثت عن الـحسين بن الفرج، قال: سمعت أبـا معاذ يقول: أخبرنا عبـيد بن سلـيـمان،
-  قال: سمعت الضحاك يقول فـي قوله: { بِـمَاءٍ كالـمَهْلِ } ماء جهنـم أسود، وهي سوداء،
-  وشجرها أسود، وأهلها سود.حدثنـي مـحمد بن سعد، قال: ثنـي أبـي، قال: ثنـي عمي، قال:
-  ثنـي أبـي، عن أبـيه، عن ابن عبـاس، قوله { وَإنْ يَسْتَغِيثُوا يُغاثُوا بِـمَاءٍ
-  كالـمُهْلِ } قال: هو ماء غلـيظ مثل دردي الزيت.وقال آخرون: هو الشيء الذي قد انتهى
-  حرّة. ذكر من قال ذلك:حدثنا ابن حميد، قال: ثنا يعقوب القمي، عن جعفر وهارون بن عنترة،
-  عن سعيد بن جبـير، قال: الـمهل: هو الذي قد انتهى حرّة.وهذه الأقوال وإن اختلفت بها
-  ألفـاظ قائلـيها، فمتقاربـات الـمعنى، وذلك أن كلّ ما أذيب من رصاص أو ذهب أو فضة فقد
-  انتهى حرّة، وأن ما أوقدت علـيه من ذلك النار حتـى صار كدردي الزيت، فقد انتهى أيضاً
-  حرّة. وقد:حُدثت عن معمر بن الـمثنى، أنه قال: سمعت الـمنتـجع بن نبهان يقول: والله
-  لفلان أبغض إلـيّ من الطلـياء والـمهل، قال: فقلنا له: وما هما؟ فقال: الجربـاء، والـملة
-  التـي تنـحدر عن جوانب الـخبزة إذا ملت فـي النار من النار، كأنها سهلة حمراء مدققة،
-  فهي أحمره، فـالـمهل إذا هو كلّ مائع قد أوقد علـيه حتـى بلغ غاية حرِّة، أو لـم يكن
-  مائعا، فإنـماع بـالوقود علـيه، وبلغ أقصى الغاية فـي شدّة الـحرّ.وقوله: { يَشْوِي
-  الوُجُوهَ بِئْسَ الشَّرَابُ } يقول جلّ ثناؤه: يشوي ذلك الـماء الذي يغاثون به وجوههم.
-  كما:حدثنـي مـحمد بن خـلف العسقلانـي، قال: ثنا حيوة بن شريح، قال: ثنا بقـية، عن صفوان
-  بن عمرو، عن عبد الله بن بُسْر هكذا قال ابن خـلف عن أبـي أمامة، عن النبـيّ صلى الله
-  عليه وسلم، فـي قوله{ ويُسْقَـى مِنْ ماءٍ صَدِيدٍ يَتَـجَرَّعُهُ }قال: \" يقرب إلـيه
-  فـيتكرّهه، فإذا قرب منه، شوى وجهه، ووقعت فَرْوة رأسه، فإذا شربه قطع أمعاءه \" ،
-  يقول الله: { وَإنْ يَسْتَغِيثُوا يُغاثُوا بِـمَاءٍ كالـمُهْلِ يَشوِي الوُجُوهَ بِئْسَ
-  الشَّرَابُ }.حدثنا مـحمد بن الـمثنى، قال: ثنا إبراهيـم بن إسحاق الطالَقانـي ويعمر
+  الله عليه وسلم أنه قال:</font></font><b><font class=\"TextResultArabic\"><font color=\"Red\">
+  \" إنَّ لِسُرَادِقِ النَّارِ أرْبَعَةَ جُدُرٍ، كِثْفُ كُلّ وَاحِدَة مِثْلُ مَسِيرةِ
+  أرْبَعِينَ سَنَةً \" </font></font></b><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنابشر، قال: ثنا ابن وهب، قال:
+  أخبرنـي عمرو، عن دراج، عن أبـي الهيثم، عن أبـي سعيد، عن رسول الله صلى الله عليه
+  وسلم قال:</font></font><b><font class=\"TextResultArabic\"><font color=\"Red\">
+  \" ماءٌ كالـمُهْلِ \" </font></font></b><font class=\"TextResultArabic\"><font color=\"black\">،
+  قالَ:</font></font><b><font class=\"TextResultArabic\"><font color=\"Red\"> \" كَعَكَرِ
+  الزَّيْتِ، فإذَا قَرَّبَهُ إلَـيْه سقط فَرْوَةُ وَجْهِهِ فِـيهِ \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقوله: { وَإن يَسْتَغِيثُوا يُغاثُوا بِـمَاءٍ كالـمُهْلِ } يقول
+  تعالـى ذكره: وإن يستغث هؤلاء الظالـمون يوم القـيامة فـي النار من شدّة ما بهم من
+  العطش، فـيطلبونَ الـماء يُغاثوا بـماء الـمُهْل.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">واختلف
+  أهل التأويـل فـي الـمهل، فقال بعضهم: هو كلّ شيء أذيب وإنـماع. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قال: ذُكر لنا
+  أن ابن مسعود أهديت إلـيه سِقاية من ذهب وفضة، فأمر بأخدود فخدّ فـي الأرض، ثم قذف
+  فـيه من جزل حطب، ثم قذف فـيه تلك السقاية، حتـى إذا أزبدت وانـماعت قال لغلامه: ادع
+  من يحضُرنا من أهل الكوفة، فدعا رهطاً، فلـما دخـلوا علـيه قال: أترون هذا؟ قالوا:
+  نعم، قال: ما رأينا فـي الدنـيا شبـيها للـمهل أدنى من هذا الذهب والفضة، حين أزبد
+  وإنـماع.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال آخرون: هو القـيح والدم الأسود.
+  ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن حميد، قال: ثنا حكام عن
+  عنبسة، عن مـحمد بن عبد الرحمن، عن القاسم، عن أبـي بَزّة، عن مـجاهد فـي قوله: { وَإنْ
+  يَسْتَغِيثُوا يُغاثوا بِـمَاءٍ كالـمُهْلِ } قال: القـيح والدم.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(18, 29)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(18,29)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَقُلِ ٱلْحَقُّ مِن رَّبِّكُمْ فَمَن شَآءَ فَلْيُؤْمِن
+  وَمَن شَآءَ فَلْيَكْفُرْ إِنَّا أَعْتَدْنَا لِلظَّالِمِينَ نَاراً أَحَاطَ بِهِمْ
+  سُرَادِقُهَا وَإِن يَسْتَغِيثُواْ يُغَاثُواْ بِمَآءٍ كَٱلْمُهْلِ يَشْوِي ٱلْوجُوهَ
+  بِئْسَ ٱلشَّرَابُ وَسَآءَتْ مُرْتَفَقاً</a> <b>}</b></font>, <br/>, <br/>, <div
+  align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  مـحمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى وحدثنـي الـحرث، قال: ثنا الـحسن،
+  قال: ثنا ورقاء، جميعاً عن ابن أبـي نـجيح، عن مـجاهد { بـمَاءٍ كالـمُهْلِ } قال:
+  القـيح والدم الأسود، كعكر الزيت. قال الـحرث فـي حديثه: يعنـي درديّة.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي علـيّ، قال: ثنا عبد الله، قال: ثنـي معاوية، عن علـيّ، عن
+  ابن عبـاس، قوله: { كالـمُهْلِ } قال: يقول: أسود كهيئة الزيت.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حُدثت عن الـحسين بن الفرج، قال: سمعت أبـا معاذ يقول: أخبرنا عبـيد
+  بن سلـيـمان، قال: سمعت الضحاك يقول فـي قوله: { بِـمَاءٍ كالـمَهْلِ } ماء جهنـم أسود،
+  وهي سوداء، وشجرها أسود، وأهلها سود.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  مـحمد بن سعد، قال: ثنـي أبـي، قال: ثنـي عمي، قال: ثنـي أبـي، عن أبـيه، عن ابن عبـاس،
+  قوله { وَإنْ يَسْتَغِيثُوا يُغاثُوا بِـمَاءٍ كالـمُهْلِ } قال: هو ماء غلـيظ مثل
+  دردي الزيت.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال آخرون: هو الشيء الذي قد انتهى
+  حرّة. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن حميد، قال: ثنا يعقوب
+  القمي، عن جعفر وهارون بن عنترة، عن سعيد بن جبـير، قال: الـمهل: هو الذي قد انتهى
+  حرّة.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وهذه الأقوال وإن اختلفت بها ألفـاظ
+  قائلـيها، فمتقاربـات الـمعنى، وذلك أن كلّ ما أذيب من رصاص أو ذهب أو فضة فقد انتهى
+  حرّة، وأن ما أوقدت علـيه من ذلك النار حتـى صار كدردي الزيت، فقد انتهى أيضاً حرّة.
+  وقد:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حُدثت عن معمر بن الـمثنى، أنه قال:
+  سمعت الـمنتـجع بن نبهان يقول: والله لفلان أبغض إلـيّ من الطلـياء والـمهل، قال: فقلنا
+  له: وما هما؟ فقال: الجربـاء، والـملة التـي تنـحدر عن جوانب الـخبزة إذا ملت فـي النار
+  من النار، كأنها سهلة حمراء مدققة، فهي أحمره، فـالـمهل إذا هو كلّ مائع قد أوقد علـيه
+  حتـى بلغ غاية حرِّة، أو لـم يكن مائعا، فإنـماع بـالوقود علـيه، وبلغ أقصى الغاية
+  فـي شدّة الـحرّ.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقوله: { يَشْوِي الوُجُوهَ بِئْسَ
+  الشَّرَابُ } يقول جلّ ثناؤه: يشوي ذلك الـماء الذي يغاثون به وجوههم. كما:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي مـحمد بن خـلف العسقلانـي، قال: ثنا حيوة بن شريح، قال: ثنا
+  بقـية، عن صفوان بن عمرو، عن عبد الله بن بُسْر هكذا قال ابن خـلف عن أبـي أمامة، عن
+  النبـيّ صلى الله عليه وسلم، فـي قوله</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">ويُسْقَـى مِنْ ماءٍ صَدِيدٍ يَتَـجَرَّعُهُ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">قال:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" يقرب إلـيه فـيتكرّهه، فإذا قرب
+  منه، شوى وجهه، ووقعت فَرْوة رأسه، فإذا شربه قطع أمعاءه \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\">، يقول الله: { وَإنْ يَسْتَغِيثُوا
+  يُغاثُوا بِـمَاءٍ كالـمُهْلِ يَشوِي الوُجُوهَ بِئْسَ الشَّرَابُ }.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا مـحمد بن الـمثنى، قال: ثنا إبراهيـم بن إسحاق الطالَقانـي ويعمر
   بن بشر، قالا: ثنا ابن الـمبـارك، عن صفوان، عن عبد الله بن بُسْر، عن أبـي أمامة،
-  عن النبـيّ صلى الله عليه وسلم بـمثله.\r\n\t\t\t\r\n\t\t\t1 2 3 4 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَقُلِ ٱلْحَقُّ مِن رَّبِّكُمْ فَمَن
-  شَآءَ فَلْيُؤْمِن وَمَن شَآءَ فَلْيَكْفُرْ إِنَّا أَعْتَدْنَا لِلظَّالِمِينَ نَاراً
-  أَحَاطَ بِهِمْ سُرَادِقُهَا وَإِن يَسْتَغِيثُواْ يُغَاثُواْ بِمَآءٍ كَٱلْمُهْلِ
-  يَشْوِي ٱلْوجُوهَ بِئْسَ ٱلشَّرَابُ وَسَآءَتْ مُرْتَفَقاً }حدثنا ابن حميد، قال:
-  ثنا يعقوب، عن جعفر وهارون بن عنترة، عن سعيد بن جبـير، قال هارون: إذا جاع أهل النار.
-  وقال جعفر: إذا جاء أهل النار استغاثوا بشجرة الزقوم، فأكلوا منها، فـاختلست جلود وجوههم،
-  فلو أن مارّاً مارّ بهم يعرفهم، لعرف جلود وجوههم فـيها، ثم يصبّ علـيهم العطش، فـيستغيثون،
-  فـيغاثون بـماء كالـمهل، وهو الذي قد انتهى حرّة، فإذا أدنوه من أفواههم انشوى من حرّة
-  لـحوم وجوههم التـي قد سقطت عنها الـجلود.وقوله: { بِئْسَ الشَّرابُ } يقول تعالـى
-  ذكره: بئس الشراب، هذا الـماء الذي يغاث به هؤلاء الظالـمون فـي جهنـم الذي صفته ما
-  وصف فـي هذه الآية. وقوله: { وَساءَتْ مُرْتَفَقاً } يقول تعالـى ذكره: وساءت هذه النار
-  التـي أعتدناها لهؤلاء الظالـمين مرتفقا والـمرتفَق فـي كلام العرب: الـمتكأ، يقال
-  منه: ارتفقت إذا اتكأت، كما قال الشاعر:قالَتْ لَهُ وَارْتَفَقَتْ ألا فَتَـى   يَسُوقُ
-  بـالقَوْمِ غَزَالاتِ الضُّحَىأراد: واتكأت علـى مرفقها وقد ارتفق الرجل: إذا بـات
-  علـى مرفقه لا يأتـيه نوم، وهو مرتفق، كما قال أبو ذؤيب الهذلـيّ:نامَ الـخَـلِـيُّ
-  وَبِتُّ اللَّـيْـلَ مُرْتَفِقاً   كأنَّ عَيْنِـيَ فِـيها الصَّابُ مَذْبُوحُوأما
-  من الرفق فإنه يقال: قد ارتفقت بك مرتفقاً، وكان مـجاهد يتأوّل قوله: { وَساءَتْ مُرْتَفَقاً
-  } يعنـي الـمـجتـمع. ذكر الرواية بذلك:حدثنـي مـحمد بن عمرو، قال: ثنا أبو عاصم، قال:
-  ثنا عيسى وحدثنـي الـحرث، قال: ثنا الـحسن، قال: ثنا ورقاء، جميعاً عن ابن أبـي نـجيح،
-  عن مـجاهد { مُرْتَفَقاً }: أي مـجتـمعاً.حدثنـي يعقوب، قال: ثنا معتـمر، عن لـيث،
-  عن مـجاهد { وَساءَتْ مُرْتَفَقَاً } قال: مـجتـمعاً.حدثنا القاسم، قال: ثنا الـحسين،
-  قال: ثنـي حجاج، عن ابن جريج، عن مـجاهد مثله.ولست أعرف الارتفـاق بـمعنى الاجتـماع
-  فـي كلام العرب، وإنـما الارتفـاق: افتعال، إما من الـمرفق، وإما من الرفق.\r\n\t\t\t\r\n\t\t\t1 2 3 4 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  عن النبـيّ صلى الله عليه وسلم بـمثله.</font></font>&#13;\t\t\t<label disabled=\"true\"
+  class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">3 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(18, 29)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(18,29)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَقُلِ ٱلْحَقُّ مِن رَّبِّكُمْ فَمَن شَآءَ فَلْيُؤْمِن
+  وَمَن شَآءَ فَلْيَكْفُرْ إِنَّا أَعْتَدْنَا لِلظَّالِمِينَ نَاراً أَحَاطَ بِهِمْ
+  سُرَادِقُهَا وَإِن يَسْتَغِيثُواْ يُغَاثُواْ بِمَآءٍ كَٱلْمُهْلِ يَشْوِي ٱلْوجُوهَ
+  بِئْسَ ٱلشَّرَابُ وَسَآءَتْ مُرْتَفَقاً</a> <b>}</b></font>, <br/>, <br/>, <div
+  align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن حميد، قال: ثنا يعقوب، عن جعفر وهارون بن عنترة، عن سعيد بن جبـير، قال هارون:
+  إذا جاع أهل النار. وقال جعفر: إذا جاء أهل النار استغاثوا بشجرة الزقوم، فأكلوا منها،
+  فـاختلست جلود وجوههم، فلو أن مارّاً مارّ بهم يعرفهم، لعرف جلود وجوههم فـيها، ثم
+  يصبّ علـيهم العطش، فـيستغيثون، فـيغاثون بـماء كالـمهل، وهو الذي قد انتهى حرّة، فإذا
+  أدنوه من أفواههم انشوى من حرّة لـحوم وجوههم التـي قد سقطت عنها الـجلود.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقوله: { بِئْسَ الشَّرابُ } يقول تعالـى ذكره: بئس الشراب، هذا الـماء
+  الذي يغاث به هؤلاء الظالـمون فـي جهنـم الذي صفته ما وصف فـي هذه الآية. وقوله: {
+  وَساءَتْ مُرْتَفَقاً } يقول تعالـى ذكره: وساءت هذه النار التـي أعتدناها لهؤلاء الظالـمين
+  مرتفقا والـمرتفَق فـي كلام العرب: الـمتكأ، يقال منه: ارتفقت إذا اتكأت، كما قال الشاعر:</font></font><table
+  class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">قالَتْ لَهُ وَارْتَفَقَتْ ألا فَتَـى</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">يَسُوقُ بـالقَوْمِ غَزَالاتِ الضُّحَى</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">أراد: واتكأت علـى مرفقها وقد ارتفق
+  الرجل: إذا بـات علـى مرفقه لا يأتـيه نوم، وهو مرتفق، كما قال أبو ذؤيب الهذلـيّ:</font></font><table
+  class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">نامَ الـخَـلِـيُّ وَبِتُّ اللَّـيْـلَ
+  مُرْتَفِقاً</font></font></b></td><td class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">كأنَّ عَيْنِـيَ فِـيها الصَّابُ مَذْبُوحُ</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">وأما من الرفق فإنه يقال: قد ارتفقت
+  بك مرتفقاً، وكان مـجاهد يتأوّل قوله: { وَساءَتْ مُرْتَفَقاً } يعنـي الـمـجتـمع.
+  ذكر الرواية بذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي مـحمد بن عمرو، قال: ثنا
+  أبو عاصم، قال: ثنا عيسى وحدثنـي الـحرث، قال: ثنا الـحسن، قال: ثنا ورقاء، جميعاً
+  عن ابن أبـي نـجيح، عن مـجاهد { مُرْتَفَقاً }: أي مـجتـمعاً.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  يعقوب، قال: ثنا معتـمر، عن لـيث، عن مـجاهد { وَساءَتْ مُرْتَفَقَاً } قال: مـجتـمعاً.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا القاسم، قال: ثنا الـحسين، قال: ثنـي حجاج، عن ابن جريج، عن
+  مـجاهد مثله.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">ولست أعرف الارتفـاق بـمعنى الاجتـماع
+  فـي كلام العرب، وإنـما الارتفـاق: افتعال، إما من الـمرفق، وإما من الرفق.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">4 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section>"
 

@@ -1,4 +1,4 @@
-location:
+position:
   sura: '020'
   aaya: '074'
   madhab: '01'
@@ -7,20 +7,43 @@ meta:
   title: تفسير الكشاف
   author: الزمخشري
   year: '538'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ قَالُواْ لَن نُّؤْثِرَكَ
-  عَلَىٰ مَا جَآءَنَا مِنَ ٱلْبَيِّنَاتِ وَٱلَّذِي فَطَرَنَا فَٱقْضِ مَآ أَنتَ قَاضٍ
-  إِنَّمَا تَقْضِي هَـٰذِهِ ٱلْحَيَاةَ ٱلدُّنْيَآ } * { إِنَّآ آمَنَّا بِرَبِّنَا
-  لِيَغْفِرَ لَنَا خَطَايَانَا وَمَآ أَكْرَهْتَنَا عَلَيْهِ مِنَ ٱلسِّحْرِ وَٱللَّهُ
-  خَيْرٌ وَأَبْقَىٰ } * { إِنَّهُ مَن يَأْتِ رَبَّهُ مُجْرِماً فَإِنَّ لَهُ جَهَنَّمَ
-  لاَ يَمُوتُ فِيهَا وَلاَ يَحْيَىٰ } * { وَمَن يَأْتِهِ مُؤْمِناً قَدْ عَمِلَ ٱلصَّالِحَاتِ
-  فَأُوْلَـٰئِكَ لَهُمُ ٱلدَّرَجَاتُ ٱلْعُلَىٰ } * { جَنَّاتُ عَدْنٍ تَجْرِي مِن تَحْتِهَا
-  ٱلأَنْهَارُ خَالِدِينَ فِيهَا وَذٰلِكَ جَزَآءُ مَن تَزَكَّىٰ }{ وَٱلَّذِى فَطَرَنَا
-  } عطف على ما جاءنا أو قسم. قرىء { تَقْضِى هَٰذِهِ ٱلْحَيَٰوةَ ٱلدُّنْيَآ } ووجهها
-  أن الحياة في القراءة المشهورة منتصبة على الظرف، فاتسع في الظرف بإجرائه مجرى المفعول
-  به، كقولك في «صمت يوم الجمعة»: «صيم يوم الجمعة» وروي: أن السحرة - يعني رؤوسهم -
-  كانوا اثنين وسبعين: الاثنان من القبط، والسائر من بني إسرائيل، وكان فرعون أكرههم
-  على تعلّم السحر. وروي: أنهم قالوا لفرعون: أرنا موسى نائماً ففعل، فوجدوه تحرسه عصاه،
-  فقالوا: ما هذا بسحر الساحر؛ لأن الساحر إذا نام بطل سحره، فأبى إلا أن يعارضوه { تَزَكَّىٰ
-  } تطهر من أدناس الذنوب. وعن ابن عباس: قال لا إله إلا الله. قيل في هذه الآيات الثلاث:
-  هي حكاية قولهم. وقيل: خبر من الله لا على وجه الحكاية.\r\n\t\t\t\r\n\t\t\t</section>"
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(20, 72)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(20,72)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">قَالُواْ
+  لَن نُّؤْثِرَكَ عَلَىٰ مَا جَآءَنَا مِنَ ٱلْبَيِّنَاتِ وَٱلَّذِي فَطَرَنَا فَٱقْضِ
+  مَآ أَنتَ قَاضٍ إِنَّمَا تَقْضِي هَـٰذِهِ ٱلْحَيَاةَ ٱلدُّنْيَآ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">إِنَّآ
+  آمَنَّا بِرَبِّنَا لِيَغْفِرَ لَنَا خَطَايَانَا وَمَآ أَكْرَهْتَنَا عَلَيْهِ مِنَ
+  ٱلسِّحْرِ وَٱللَّهُ خَيْرٌ وَأَبْقَىٰ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">إِنَّهُ مَن يَأْتِ
+  رَبَّهُ مُجْرِماً فَإِنَّ لَهُ جَهَنَّمَ لاَ يَمُوتُ فِيهَا وَلاَ يَحْيَىٰ</a> <b>}
+  * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَمَن
+  يَأْتِهِ مُؤْمِناً قَدْ عَمِلَ ٱلصَّالِحَاتِ فَأُوْلَـٰئِكَ لَهُمُ ٱلدَّرَجَاتُ
+  ٱلْعُلَىٰ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">جَنَّاتُ عَدْنٍ تَجْرِي مِن تَحْتِهَا ٱلأَنْهَارُ
+  خَالِدِينَ فِيهَا وَذٰلِكَ جَزَآءُ مَن تَزَكَّىٰ</a> <b>}</b></font>, <br/>, <br/>,
+  <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">{
+  وَٱلَّذِى فَطَرَنَا } عطف على ما جاءنا أو قسم. قرىء { تَقْضِى هَٰذِهِ ٱلْحَيَٰوةَ
+  ٱلدُّنْيَآ } ووجهها أن الحياة في القراءة المشهورة منتصبة على الظرف، فاتسع في الظرف
+  بإجرائه مجرى المفعول به، كقولك في «صمت يوم الجمعة»: «صيم يوم الجمعة» وروي: أن السحرة
+  - يعني رؤوسهم - كانوا اثنين وسبعين: الاثنان من القبط، والسائر من بني إسرائيل، وكان
+  فرعون أكرههم على تعلّم السحر. وروي: أنهم قالوا لفرعون: أرنا موسى نائماً ففعل، فوجدوه
+  تحرسه عصاه، فقالوا: ما هذا بسحر الساحر؛ لأن الساحر إذا نام بطل سحره، فأبى إلا أن
+  يعارضوه { تَزَكَّىٰ } تطهر من أدناس الذنوب. وعن ابن عباس: قال لا إله إلا الله. قيل
+  في هذه الآيات الثلاث: هي حكاية قولهم. وقيل: خبر من الله لا على وجه الحكاية.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

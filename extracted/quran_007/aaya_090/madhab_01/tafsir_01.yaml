@@ -1,4 +1,4 @@
-location:
+position:
   sura: '007'
   aaya: 090
   madhab: '01'
@@ -9,11 +9,29 @@ meta:
   year: '310'
 aaya: وَقَالَ الْمَلَأُ الَّذِينَ كَفَرُوا مِنْ قَوْمِهِ لَئِنِ اتَّبَعْتُمْ شُعَيْبًا
   إِنَّكُمْ إِذًا لَخَاسِرُونَ
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَقَالَ ٱلْمَلأُ
-  ٱلَّذِينَ كَفَرُواْ مِن قَوْمِهِ لَئِنِ ٱتَّبَعْتُمْ شُعَيْباً إِنَّكُمْ إِذاً لَّخَاسِرُونَ
-  }يقول تعالـى ذكره: وقالت الـجماعة من كَفَرَةِ رجال قوم شعيب، وهم الـملأ الذين جحدوا
-  آيات الله وكذّبوا رسوله وتـمادوا فـي غيهم، لآخرين منهم: لئن أنتـم اتبعتـم شعيبـاً
-  علـى ما يقول وأجبتـموه إلـى ما يدعوكم إلـيه من توحيد الله والانتهاء إلـى أمره ونهيه
-  وأقررتـم بنبوّته، { إِنَّكُمْ إذًا لـخَاسِرُونَ } يقول: لـمغبونون فـي فعلكم، وترككم
-  ملتكم التـي أنتـم علـيها مقـيـمون إلـى دينه الذي يدعوكم إلـيه، وهالكون بذلك من فعلكم.\r\n\t\t\t\r\n\t\t\t</section>"
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(7, 90)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(7,90)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَقَالَ
+  ٱلْمَلأُ ٱلَّذِينَ كَفَرُواْ مِن قَوْمِهِ لَئِنِ ٱتَّبَعْتُمْ شُعَيْباً إِنَّكُمْ
+  إِذاً لَّخَاسِرُونَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">يقول تعالـى ذكره: وقالت الـجماعة
+  من كَفَرَةِ رجال قوم شعيب، وهم الـملأ الذين جحدوا آيات الله وكذّبوا رسوله وتـمادوا
+  فـي غيهم، لآخرين منهم: لئن أنتـم اتبعتـم شعيبـاً علـى ما يقول وأجبتـموه إلـى ما
+  يدعوكم إلـيه من توحيد الله والانتهاء إلـى أمره ونهيه وأقررتـم بنبوّته، { إِنَّكُمْ
+  إذًا لـخَاسِرُونَ } يقول: لـمغبونون فـي فعلكم، وترككم ملتكم التـي أنتـم علـيها مقـيـمون
+  إلـى دينه الذي يدعوكم إلـيه، وهالكون بذلك من فعلكم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

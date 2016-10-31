@@ -1,4 +1,4 @@
-location:
+position:
   sura: '024'
   aaya: '030'
   madhab: '01'
@@ -7,26 +7,55 @@ meta:
   title: تفسير جامع البيان في تفسير القرآن
   author: الطبري
   year: '310'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ قُلْ لِّلْمُؤْمِنِينَ
-  يَغُضُّواْ مِنْ أَبْصَارِهِمْ وَيَحْفَظُواْ فُرُوجَهُمْ ذٰلِكَ أَزْكَىٰ لَهُمْ إِنَّ
-  ٱللَّهَ خَبِيرٌ بِمَا يَصْنَعُونَ }يقول تعالـى ذكره لنبـيه مـحمد صلى الله عليه وسلم:
-  { قُلْ للـمؤْمِنـينَ } بـالله وبك يا مـحمد { يَغُضُّوا مِنْ أبْصَارِهِمْ } يقول:
-  يكفوا من نظرهم إلـى ما يشتهون النظر إلـيه مـما قد نهاهم الله عن النظر إلـيه. { وَيحْفَظُوا
-  فُرُوجَهُمْ } أن يراها مَنْ لا يحلّ له رؤيتها، بلبس ما يسترها عن أبصارهم. { ذلكَ
-  أزْكَى لَهُمْ } يقول: فإنّ غضها من النظر عما لا يحلّ النظر إلـيه وحفظ الفرج عن أن
-  يظهر لأبصار الناظرين، أطهر لهم عند الله وأفضل. { إنَّ اللّهُ خَبِـيرٌ بِـمَا يَصْنَعُونَ
-  } يقول: إن الله ذو خبرة بـما تصنعون أيها الناس فـيـما أمركم به من غضّ أبصاركم عما
-  أمركم بـالغضّ عنه وحفظ فروجكم عن إظهارها لـمن نهاكم عن إظهارها له.وبنـحو ما قلنا
-  فـي ذلك قال أهل التأويـل.ذكر من قال ذلك:حدثنـي علـيّ بن سهل الرّملـيّ، قال: ثنا
-  حجاج، قال: ثنا أبو جعفر، عن الربـيع بن أنس، عن أبـي العالـية فـي قوله: { قُلْ للْـمُؤمِنـينَ
-  يَغُضُّوا مِنْ أبْصَارِهِمْ وَيحْفَظُوا فُرُوجَهُمْ } قال: كل فرج ذُكِر حفظة فـي
-  القرآن فهو من الزنا، إلا هذه:{ وَقُلْ للْـمُؤْمِناتِ يَغْضُضْنَ مِنْ أبْصَارِهِنَّ
-  وَيحْفَظْنَ فُرُوجَهُنَّ }فإنه يعنـي الستر.حدثنـي علـيّ، قال: ثنا أبو صالـح، قال:
-  ثنـي معاوية، عن علـيّ، عن ابن عبـاس، قوله: { قُلْ للْـمُؤْمِنِـينَ يَغُضُّوا مِنْ
-  أبْصَارِهِمْ وَيَحْفَظُوا فُرُوجَهُمْ }{ وَقُلْ للْـمُؤْمِناتِ يَغْضُضْنَ مِنْ أبْصَارِهِنَّ
-  وَيحفَظْنَ فُرُوجَهُنَّ }قال: يغضوا أبصارهم عما يكره الله.حدثنـي يونس، قال: أخبرنا
-  ابن وهب، قال: قال ابن زيد، فـي قوله: { قُلْ للْـمُؤْمِنِـينَ يَغُضُّوا مِنْ أبْصَارِهِمْ
-  } قال: يغضّ من بصره: أن ينظر إلـى ما لا يحلّ له، إذا رأى ما لا يحلّ له غضّ من بصره،
-  لا ينظر إلـيه، ولا يستطيع أحد أن يغضّ بصره كله، إنـما قال الله: { قُلْ لِلْـمُؤْمِنِـينَ
-  يَغُضُّوا مِنْ أبْصَارِهِمْ }.\r\n\t\t\t\r\n\t\t\t</section>"
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(24, 30)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(24,30)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">قُلْ
+  لِّلْمُؤْمِنِينَ يَغُضُّواْ مِنْ أَبْصَارِهِمْ وَيَحْفَظُواْ فُرُوجَهُمْ ذٰلِكَ
+  أَزْكَىٰ لَهُمْ إِنَّ ٱللَّهَ خَبِيرٌ بِمَا يَصْنَعُونَ</a> <b>}</b></font>, <br/>,
+  <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">يقول
+  تعالـى ذكره لنبـيه مـحمد صلى الله عليه وسلم: { قُلْ للـمؤْمِنـينَ } بـالله وبك يا
+  مـحمد { يَغُضُّوا مِنْ أبْصَارِهِمْ } يقول: يكفوا من نظرهم إلـى ما يشتهون النظر
+  إلـيه مـما قد نهاهم الله عن النظر إلـيه. { وَيحْفَظُوا فُرُوجَهُمْ } أن يراها مَنْ
+  لا يحلّ له رؤيتها، بلبس ما يسترها عن أبصارهم. { ذلكَ أزْكَى لَهُمْ } يقول: فإنّ
+  غضها من النظر عما لا يحلّ النظر إلـيه وحفظ الفرج عن أن يظهر لأبصار الناظرين، أطهر
+  لهم عند الله وأفضل. { إنَّ اللّهُ خَبِـيرٌ بِـمَا يَصْنَعُونَ } يقول: إن الله ذو
+  خبرة بـما تصنعون أيها الناس فـيـما أمركم به من غضّ أبصاركم عما أمركم بـالغضّ عنه
+  وحفظ فروجكم عن إظهارها لـمن نهاكم عن إظهارها له.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وبنـحو
+  ما قلنا فـي ذلك قال أهل التأويـل.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">ذكر
+  من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي علـيّ بن سهل الرّملـيّ،
+  قال: ثنا حجاج، قال: ثنا أبو جعفر، عن الربـيع بن أنس، عن أبـي العالـية فـي قوله:
+  { قُلْ للْـمُؤمِنـينَ يَغُضُّوا مِنْ أبْصَارِهِمْ وَيحْفَظُوا فُرُوجَهُمْ } قال:
+  كل فرج ذُكِر حفظة فـي القرآن فهو من الزنا، إلا هذه:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">وَقُلْ للْـمُؤْمِناتِ يَغْضُضْنَ
+  مِنْ أبْصَارِهِنَّ وَيحْفَظْنَ فُرُوجَهُنَّ</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">فإنه يعنـي الستر.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي علـيّ، قال: ثنا أبو صالـح، قال: ثنـي معاوية، عن علـيّ، عن
+  ابن عبـاس، قوله: { قُلْ للْـمُؤْمِنِـينَ يَغُضُّوا مِنْ أبْصَارِهِمْ وَيَحْفَظُوا
+  فُرُوجَهُمْ }</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">وَقُلْ للْـمُؤْمِناتِ يَغْضُضْنَ مِنْ أبْصَارِهِنَّ وَيحفَظْنَ
+  فُرُوجَهُنَّ</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">قال: يغضوا أبصارهم عما يكره الله.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، فـي قوله: { قُلْ للْـمُؤْمِنِـينَ يَغُضُّوا
+  مِنْ أبْصَارِهِمْ } قال: يغضّ من بصره: أن ينظر إلـى ما لا يحلّ له، إذا رأى ما لا
+  يحلّ له غضّ من بصره، لا ينظر إلـيه، ولا يستطيع أحد أن يغضّ بصره كله، إنـما قال الله:
+  { قُلْ لِلْـمُؤْمِنِـينَ يَغُضُّوا مِنْ أبْصَارِهِمْ }.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

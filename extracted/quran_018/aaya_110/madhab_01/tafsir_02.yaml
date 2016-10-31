@@ -1,4 +1,4 @@
-location:
+position:
   sura: 018
   aaya: '110'
   madhab: '01'
@@ -7,20 +7,50 @@ meta:
   title: تفسير الكشاف
   author: الزمخشري
   year: '538'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ قُلْ إِنَّمَآ
-  أَنَاْ بَشَرٌ مِّثْلُكُمْ يُوحَىٰ إِلَيَّ أَنَّمَآ إِلَـٰهُكُمْ إِلَـٰهٌ وَاحِدٌ
-  فَمَن كَانَ يَرْجُواْ لِقَآءَ رَبِّهِ فَلْيَعْمَلْ عَمَلاً صَالِحاً وَلاَ يُشْرِكْ
-  بِعِبَادَةِ رَبِّهِ أَحَدَاً }{ فَمَن كَانَ يَرْجُو لِقَاء رَبّهِ } فمن كان يؤمل
-  حسن لقاء ربه، وأن يلقاه لقاء رضا وقبول. وقد فسرنا اللقاء. أو: أفمن كان يخاف سوء
-  لقائه. والمراد بالنهي عن الإشراك بالعبادة: أن لا يرائي بعمله، وأن لا يبتغي به إلاّ
-  وجه ربه خالصاً لا يخلط به غيره. وقيل:(653) نزلت في جندب بن زهير، قال للنبي صلى الله
-  عليه وسلم: إني أعمل العمل لله، فإذا اطلع عليه سرّني، فقال: (إنّ الله لا يقبل ما
-  شورك فيه).(654) وروي أنه قال: \" لك أجران: أجر السر، وأجر العلانية \" وذلك إذا قصد
-  أن يقتدى به. وعنه صلى الله عليه وسلم:(655) \" اتقوا الشرك الأصغر \" قالوا: وما الشرك
-  الأصغر؟ قال: «الرياء» وعن رسول الله صلى الله عليه وسلم:(656) \" من قرأ سورة الكهف
-  من آخرها كانت له نوراً من قرنه إلى قدمه، ومن قرأها كلها كانت له نوراً من الأرض إلى
-  السماء \" وعنه صلى الله عليه وسلم:(657) \" من قرأ عند مضجعه: { قُلْ إِنَّمَا أَنَاْ
-  بَشَرٌ مّثْلُكُمْ } كان له من مضجعه نوراً يتلألأ إلى مكة، حشو ذلك النور ملائكة يصلون
-  عليه حتى يقوم، وإن كان مضجعه بمكة كان له نوراً يتلألأ من مضجعه إلى البيت المعمور
-  حشو ذلك النور ملائكة يصلون عليه حتى يستيقظ \" والله أعلم.\r\n\t\t\t\r\n\t\t\t</section>"
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(18, 110)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(18,110)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">قُلْ
+  إِنَّمَآ أَنَاْ بَشَرٌ مِّثْلُكُمْ يُوحَىٰ إِلَيَّ أَنَّمَآ إِلَـٰهُكُمْ إِلَـٰهٌ
+  وَاحِدٌ فَمَن كَانَ يَرْجُواْ لِقَآءَ رَبِّهِ فَلْيَعْمَلْ عَمَلاً صَالِحاً وَلاَ
+  يُشْرِكْ بِعِبَادَةِ رَبِّهِ أَحَدَاً</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\"
+  dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">{ فَمَن كَانَ
+  يَرْجُو لِقَاء رَبّهِ } فمن كان يؤمل حسن لقاء ربه، وأن يلقاه لقاء رضا وقبول. وقد
+  فسرنا اللقاء. أو: أفمن كان يخاف سوء لقائه. والمراد بالنهي عن الإشراك بالعبادة: أن
+  لا يرائي بعمله، وأن لا يبتغي به إلاّ وجه ربه خالصاً لا يخلط به غيره. وقيل:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">(653) نزلت في جندب بن زهير، قال للنبي صلى الله عليه وسلم: إني أعمل
+  العمل لله، فإذا اطلع عليه سرّني، فقال: (إنّ الله لا يقبل ما شورك فيه).</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">(654) وروي أنه قال:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" لك أجران: أجر السر، وأجر العلانية \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">وذلك إذا قصد أن يقتدى به. وعنه صلى الله عليه وسلم:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">(655)</font></font><b><font class=\"TextResultArabic\"><font color=\"Red\">
+  \" اتقوا الشرك الأصغر \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">قالوا: وما الشرك الأصغر؟ قال: «الرياء» وعن رسول الله صلى الله عليه
+  وسلم:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">(656)</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" من قرأ سورة الكهف من آخرها كانت له نوراً من قرنه إلى قدمه، ومن
+  قرأها كلها كانت له نوراً من الأرض إلى السماء \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">وعنه صلى الله عليه وسلم:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">(657)</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" من قرأ عند مضجعه: { قُلْ إِنَّمَا
+  أَنَاْ بَشَرٌ مّثْلُكُمْ } كان له من مضجعه نوراً يتلألأ إلى مكة، حشو ذلك النور ملائكة
+  يصلون عليه حتى يقوم، وإن كان مضجعه بمكة كان له نوراً يتلألأ من مضجعه إلى البيت المعمور
+  حشو ذلك النور ملائكة يصلون عليه حتى يستيقظ \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">والله أعلم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

@@ -1,4 +1,4 @@
-location:
+position:
   sura: '005'
   aaya: '052'
   madhab: '01'
@@ -7,73 +7,155 @@ meta:
   title: تفسير جامع البيان في تفسير القرآن
   author: الطبري
   year: '310'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ فَتَرَى ٱلَّذِينَ
-  فِي قُلُوبِهِم مَّرَضٌ يُسَارِعُونَ فِيهِمْ يَقُولُونَ نَخْشَىٰ أَن تُصِيبَنَا دَآئِرَةٌ
-  فَعَسَى ٱللَّهُ أَن يَأْتِيَ بِٱلْفَتْحِ أَوْ أَمْرٍ مِّنْ عِندِهِ فَيُصْبِحُواْ
-  عَلَىٰ مَآ أَسَرُّواْ فِيۤ أَنْفُسِهِمْ نَادِمِينَ }اختلف أهل التأويـل فـيـمن عُنى
-  بهذه الآية، فقال بعضهم: عُنِى بها عبد الله بن أبـيّ بن سلول. ذكر من قال ذلك:حدثنا
-  أبو كريب، قال: ثنا ابن إدريس، قال: سمعت أبـي، عن عطية بن سعد: { فَتَرَى الَّذِينَ
-  فِـي قُلُوبِهِمْ مَرَضٌ } عبد الله بن أبـيّ، { يُسارِعُونَ فِـيِهمْ } فـي ولايتهم،
-  { يَقُولُونَ نَـخْشَى أنْ تُصِيبَنا دَائِرَةٌ }... إلـى آخر الآية { فَـيُصْبِحُوا
-  علـى ما أسَرُّوا فـي أنْفُسِهِمْ نادِمِينَ }.حدثنا هناد، قال: ثنا يونس بن بكير،
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(5, 52)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(5,52)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">فَتَرَى
+  ٱلَّذِينَ فِي قُلُوبِهِم مَّرَضٌ يُسَارِعُونَ فِيهِمْ يَقُولُونَ نَخْشَىٰ أَن تُصِيبَنَا
+  دَآئِرَةٌ فَعَسَى ٱللَّهُ أَن يَأْتِيَ بِٱلْفَتْحِ أَوْ أَمْرٍ مِّنْ عِندِهِ فَيُصْبِحُواْ
+  عَلَىٰ مَآ أَسَرُّواْ فِيۤ أَنْفُسِهِمْ نَادِمِينَ</a> <b>}</b></font>, <br/>, <br/>,
+  <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">اختلف
+  أهل التأويـل فـيـمن عُنى بهذه الآية، فقال بعضهم: عُنِى بها عبد الله بن أبـيّ بن
+  سلول. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا أبو كريب، قال: ثنا ابن إدريس،
+  قال: سمعت أبـي، عن عطية بن سعد: { فَتَرَى الَّذِينَ فِـي قُلُوبِهِمْ مَرَضٌ } عبد
+  الله بن أبـيّ، { يُسارِعُونَ فِـيِهمْ } فـي ولايتهم، { يَقُولُونَ نَـخْشَى أنْ تُصِيبَنا
+  دَائِرَةٌ }... إلـى آخر الآية { فَـيُصْبِحُوا علـى ما أسَرُّوا فـي أنْفُسِهِمْ نادِمِينَ
+  }.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا هناد، قال: ثنا يونس بن بكير،
   قال: ثنا ابن إسحاق، قال: ثنـي والدي إسحاق بن يسار، عن عبـادة بن الولـيد بن عبـادة
   بن الصامت: { فَتَرَى الَّذِينَ فِـي قُلُوبِهِمْ مَرضٌ } يعنـي: عبد الله بن أبـيّ،
   { يُسارِعُونَ فِـيهِمْ يَقُولُونَ نَـخْشَى أنْ تُصِيبَنا دَائِرَةٌ } لقوله: إنـي
-  أخشى دائرة تصيبنـي.وقال آخرون: بل عنـي بذلك قوم من الـمنافقـين كانوا يناصحون الـيهود
-  ويغشون الـمؤمنـين ويقولون: نـخشى أن تكون دائرة للـيهود علـى الـمؤمنـين. ذكر من قال
-  ذلك:حدثنـي مـحمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، عن ابن أبـي نـجيح، عن
-  مـجاهد فـي قول الله تعالـى ذكره: { فَتَرَى الَّذِينَ فِـي قُلُوبِهِمْ مَرضٌ يِسارِعُونَ
-  فِـيهِمْ } قال: الـمنافقون فـي مصانعة يهود ومناجاتهم، واسترضاعهم أولادهم إياهم.
-  وقول الله تعالـى ذكره: { نـخْشَى أنْ تُصِيبنَا دَائِرةٌ } قال: يقول: نـخشى أن تكون
-  الدائرة للـيهود.حدثنـي الـمثنى، قال: ثنا أبو حذيفة، قال: ثنا شبل، عن ابن أبـي نـجيح،
-  عن مـجاهد، مثله.حدثنا بشر بن معاذ، قال: ثنا يزيد بن زريع، قال: ثنا سعيد، عن قتادة،
-  قوله: { فَتَرَى الَّذِينَ فِـي قُلُوبِهِمْ مَرَضٌ }... إلـى قوله: { نادِمِينَ }:
-  أناس من الـمنافقـين كانوا يودّون الـيهود ويناصحونهم دون الـمؤمنـين.حدثنـي مـحمد
-  بن الـحسين، قال: ثنا أحمد بن مفضل، قال: ثنا أسبـاط عن السديّ: { فَتَرَى الَّذِينَ
+  أخشى دائرة تصيبنـي.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال آخرون: بل عنـي بذلك قوم من
+  الـمنافقـين كانوا يناصحون الـيهود ويغشون الـمؤمنـين ويقولون: نـخشى أن تكون دائرة
+  للـيهود علـى الـمؤمنـين. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  مـحمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى، عن ابن أبـي نـجيح، عن مـجاهد فـي
+  قول الله تعالـى ذكره: { فَتَرَى الَّذِينَ فِـي قُلُوبِهِمْ مَرضٌ يِسارِعُونَ فِـيهِمْ
+  } قال: الـمنافقون فـي مصانعة يهود ومناجاتهم، واسترضاعهم أولادهم إياهم. وقول الله
+  تعالـى ذكره: { نـخْشَى أنْ تُصِيبنَا دَائِرةٌ } قال: يقول: نـخشى أن تكون الدائرة
+  للـيهود.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي الـمثنى، قال: ثنا أبو حذيفة،
+  قال: ثنا شبل، عن ابن أبـي نـجيح، عن مـجاهد، مثله.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  بشر بن معاذ، قال: ثنا يزيد بن زريع، قال: ثنا سعيد، عن قتادة، قوله: { فَتَرَى الَّذِينَ
+  فِـي قُلُوبِهِمْ مَرَضٌ }... إلـى قوله: { نادِمِينَ }: أناس من الـمنافقـين كانوا
+  يودّون الـيهود ويناصحونهم دون الـمؤمنـين.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  مـحمد بن الـحسين، قال: ثنا أحمد بن مفضل، قال: ثنا أسبـاط عن السديّ: { فَتَرَى الَّذِينَ
   فِـي قُلُوبِهِمْ مَرضٌ } قال: شكّ { يُسارِعُونَ فِـيهِمْ نَـخْشَى يقولون أنْ تُصِيبَنا
-  دَائِرَةٌ } والدائرة: ظهور الـمشركين علـيهم.والصواب من القول فـي ذلك عندنا أن يقال:
-  إن ذلك من الله خبر عن ناس من الـمنافقـين كانوا يوالون الـيهود والنصارى، ويَغُشُّون
-  الـمؤمنـين، ويقولون: نـخشى أن تدور دوائر، إما للـيهود والنصارى، وإما لأهل الشرك
-  من عَبَدة الأوثان أو غيرهم علـى أهل الإسلام، أو تنزل بهؤلاء الـمنافقـين نازلة، فـيكون
-  بنا إلـيهم حاجة. وقد يجوز أن يكون ذلك كان من قول عبد الله بن أبـيّ، ويجوز أن يكون
-  كان من قول غيره، غير أنه لا شك أنه من قول الـمنافقـين.فتأويـل الكلام إذن: فترى يا
-  مـحمد الذين فـي قلوبهم مرض وشكّ إيـمان بنبوّتك، وتصديق ما جئتهم به من عند ربك {
-  يُسَارِعُونَ فِـيهِمْ } يعنـي فـي الـيهود والنصارى. ويعنـي بـمسارعتهم فـيهم: مسارعتهم
-  فـي موالاتهم ومصانعتهم. { يَقُولُونَ نَـخْشَى أنْ تُصِيبَنا دَائِرةٌ } يقول هؤلاء
-  الـمنافقون: إنـما نسارع فـي موالاة هؤلاء الـيهود والنصارى خوفـاً من دائرة تدور علـينا
-  من عدوّنا.\r\n\t\t\t\r\n\t\t\t1 2 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ فَتَرَى ٱلَّذِينَ فِي قُلُوبِهِم مَّرَضٌ
-  يُسَارِعُونَ فِيهِمْ يَقُولُونَ نَخْشَىٰ أَن تُصِيبَنَا دَآئِرَةٌ فَعَسَى ٱللَّهُ
-  أَن يَأْتِيَ بِٱلْفَتْحِ أَوْ أَمْرٍ مِّنْ عِندِهِ فَيُصْبِحُواْ عَلَىٰ مَآ أَسَرُّواْ
-  فِيۤ أَنْفُسِهِمْ نَادِمِينَ }ويعنـي بـالدائرة: الدَّولة، كما قال الراجز:تَرُدُّ
-  عَنْكَ القَدَرَ الـمَقْدُورَا   وَدَائِراتِ الدَّهْرِ أنْ تَدُورَايعنـي: أن تدول
-  للدهر دَوْلة فنـحتاج إلـى نصرتهم إيانا، فنـحن نوالـيهم لذلك. فقال الله تعالـى ذكره
-  لهم: { فَعَسَى اللّهُ أنْ يَأْتِـيَ بـالفَتْـحِ أوْ أمْرٍ مِنْ عِنْدِهِ فَـيُصْبِحُوا
-  علـى ما أسَرُّوا فـي أنْفُسِهِمْ نادِمِينَ }.القول فـي تأويـل قوله تعالـى: { فَعَسَى
-  اللّهُ أنْ يَأْتِـيَ بـالفَتْـحِ أوْ أمْرٍ مِنْ عِنْدِهِ فَـيُصْبِحُوا علـى ما أسَرُّوا
-  فـي أنْفُسِهِمْ نادِمِينَ }.يعنـي تعالـى ذكره بقوله: { فَعَسَى اللّهُ أنْ يَأْتِـيَ
-  بـالفَتْـحِ أوْ أمْرٍ مِنْ عِنْدِهِ } فلعلّ الله أن يأتـي بـالفتـح. ثم اختلفوا فـي
-  تأويـل الفتـح فـي هذا الـموضع، فقال بعضهم،: عنـي به ههنا القضاء. ذكر من قال ذلك:حدثنا
-  بشر بن معاذ، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة: { فَعَسَى اللّهُ أنْ يَأْتِـيَ
-  بـالفَتْـحِ } قال: بـالقضاء.وقال آخرون: عُنـي به فتـح مكة. ذكر من قال ذلك:حدثنـي
-  مـحمد بن الـحسين، قال: ثنا أحمدبن مفضل، قال: ثنا أسبـاط، عن السديّ: { فَعَسَى اللّهُ
-  أنْ يَأْتِـيَ بـالفَتْـحِ } قال: فتـح مكة.والفتـح فـي كلام العرب: هو القضاء كما
-  قال قتادة، ومنه قول الله تعالـى: { رَبَّنا افْتَـحْ بَـيْنَنا وَبـينَ قَوْمِنا بـالـحَقّ
-  }. وقد يجوز أن يكون ذلك القضاء الذي وعد الله نبـيه مـحمداً صلى الله عليه وسلم بقوله:
-  { فَعَسَى اللّهُ أنْ يَأْتِـيَ بـالفَتْـحِ } فتـح مكة، لأن ذلك كان من عظيـم قضاء
-  الله وفصل حكمة بـين أهل الإيـمان والكفر، ويقرّر عند أهل الكفر والنفـاق أن الله مُعْلِـي
-  كلـمتِه ومُوهِنُ كيدِ الكافرين.وأما قوله: { أوْ أمْرٍ مِنْ عِنْدِهِ } فإن السديّ
-  كان يقول فـي ذلك ما:حدثنـي مـحمد بن الـحسين، قال: ثنا أحمد بن مفضَّل، قال: ثنا أسبـاط،
-  السديّ: { أوْ أمْرٍ مِنْ عِنْدِهِ } قال: الأمر: الـجزية.وقد يحتـمل أن يكون الأمر
-  الذي وعد الله نبـيه مـحمداً صلى الله عليه وسلم أن يأتـي به، هو الـجزية، ويحتـمل
-  أن يكون غيرها. غير أنه أيّ ذلك كان فهو مـما فـيه إدالة الـمؤمنـين علـى أهل الكفر
-  بـالله وبرسوله، ومـما يسوء الـمنافقـين ولا يسرّهم وذلك أن الله تعالـى قد أخبر عنهم
-  أن ذلك الأمر إذا جاء أصبحوا علـى ما أسرّوا فـي أنفسهم نادمين.وأما قوله: { فَـيُصْبِحُوا
-  علـى ما أسَرُّوا فـي أنْفُسِهِمْ نادِمِينَ } فإنه يعنـي: هؤلاء الـمنافقـين الذين
-  كانوا يوالون الـيهود والنصارى، يقول تعالـى ذكره: لعل الله أن يأتِـيَ بأمر من عنده
-  يُدِيـل به الـمؤمنـين علـى الكافرين الـيهود والنصارى وغيرهم من أهل الكفر، فـيصبح
-  هؤلاء الـمنافقون علـى ما أسرّوا فـي أنفسهم من مخالَّة الـيهود والنصارى ومودّتهم
-  وبغضة الـمؤمنـين ومـحادتهم نادمين. كما:حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد،
-  عن قتادة: { فَـيُصْبِحُوا علـى ما أسَرُّوا فـي أنْفُسِهِمْ نادِمِينَ } من موادّتهم
-  الـيهود، ومن غشّهم للإسلام وأهله.\r\n\t\t\t\r\n\t\t\t1 2 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  دَائِرَةٌ } والدائرة: ظهور الـمشركين علـيهم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">والصواب
+  من القول فـي ذلك عندنا أن يقال: إن ذلك من الله خبر عن ناس من الـمنافقـين كانوا يوالون
+  الـيهود والنصارى، ويَغُشُّون الـمؤمنـين، ويقولون: نـخشى أن تدور دوائر، إما للـيهود
+  والنصارى، وإما لأهل الشرك من عَبَدة الأوثان أو غيرهم علـى أهل الإسلام، أو تنزل بهؤلاء
+  الـمنافقـين نازلة، فـيكون بنا إلـيهم حاجة. وقد يجوز أن يكون ذلك كان من قول عبد الله
+  بن أبـيّ، ويجوز أن يكون كان من قول غيره، غير أنه لا شك أنه من قول الـمنافقـين.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">فتأويـل الكلام إذن: فترى يا مـحمد الذين فـي قلوبهم مرض وشكّ إيـمان
+  بنبوّتك، وتصديق ما جئتهم به من عند ربك { يُسَارِعُونَ فِـيهِمْ } يعنـي فـي الـيهود
+  والنصارى. ويعنـي بـمسارعتهم فـيهم: مسارعتهم فـي موالاتهم ومصانعتهم. { يَقُولُونَ
+  نَـخْشَى أنْ تُصِيبَنا دَائِرةٌ } يقول هؤلاء الـمنافقون: إنـما نسارع فـي موالاة
+  هؤلاء الـيهود والنصارى خوفـاً من دائرة تدور علـينا من عدوّنا.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(5, 52)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(5,52)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">فَتَرَى ٱلَّذِينَ فِي قُلُوبِهِم مَّرَضٌ يُسَارِعُونَ
+  فِيهِمْ يَقُولُونَ نَخْشَىٰ أَن تُصِيبَنَا دَآئِرَةٌ فَعَسَى ٱللَّهُ أَن يَأْتِيَ
+  بِٱلْفَتْحِ أَوْ أَمْرٍ مِّنْ عِندِهِ فَيُصْبِحُواْ عَلَىٰ مَآ أَسَرُّواْ فِيۤ أَنْفُسِهِمْ
+  نَادِمِينَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">ويعنـي بـالدائرة: الدَّولة، كما
+  قال الراجز:</font></font><table class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">تَرُدُّ
+  عَنْكَ القَدَرَ الـمَقْدُورَا</font></font></b></td><td class=\"TextArabic\">   </td><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">وَدَائِراتِ
+  الدَّهْرِ أنْ تَدُورَا</font></font></b></td></tr></table><font class=\"TextResultArabic\"><font
+  color=\"black\">يعنـي: أن تدول للدهر دَوْلة فنـحتاج إلـى نصرتهم إيانا، فنـحن نوالـيهم
+  لذلك. فقال الله تعالـى ذكره لهم: { فَعَسَى اللّهُ أنْ يَأْتِـيَ بـالفَتْـحِ أوْ
+  أمْرٍ مِنْ عِنْدِهِ فَـيُصْبِحُوا علـى ما أسَرُّوا فـي أنْفُسِهِمْ نادِمِينَ }.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">القول فـي تأويـل قوله تعالـى: { فَعَسَى اللّهُ أنْ يَأْتِـيَ بـالفَتْـحِ
+  أوْ أمْرٍ مِنْ عِنْدِهِ فَـيُصْبِحُوا علـى ما أسَرُّوا فـي أنْفُسِهِمْ نادِمِينَ
+  }.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">يعنـي تعالـى ذكره بقوله: { فَعَسَى
+  اللّهُ أنْ يَأْتِـيَ بـالفَتْـحِ أوْ أمْرٍ مِنْ عِنْدِهِ } فلعلّ الله أن يأتـي بـالفتـح.
+  ثم اختلفوا فـي تأويـل الفتـح فـي هذا الـموضع، فقال بعضهم،: عنـي به ههنا القضاء.
+  ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا بشر بن معاذ، قال: ثنا يزيد،
+  قال: ثنا سعيد، عن قتادة: { فَعَسَى اللّهُ أنْ يَأْتِـيَ بـالفَتْـحِ } قال: بـالقضاء.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال آخرون: عُنـي به فتـح مكة. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي مـحمد بن الـحسين، قال: ثنا أحمدبن مفضل، قال: ثنا أسبـاط،
+  عن السديّ: { فَعَسَى اللّهُ أنْ يَأْتِـيَ بـالفَتْـحِ } قال: فتـح مكة.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">والفتـح فـي كلام العرب: هو القضاء كما قال قتادة، ومنه قول الله تعالـى:
+  { رَبَّنا افْتَـحْ بَـيْنَنا وَبـينَ قَوْمِنا بـالـحَقّ }. وقد يجوز أن يكون ذلك
+  القضاء الذي وعد الله نبـيه مـحمداً صلى الله عليه وسلم بقوله: { فَعَسَى اللّهُ أنْ
+  يَأْتِـيَ بـالفَتْـحِ } فتـح مكة، لأن ذلك كان من عظيـم قضاء الله وفصل حكمة بـين
+  أهل الإيـمان والكفر، ويقرّر عند أهل الكفر والنفـاق أن الله مُعْلِـي كلـمتِه ومُوهِنُ
+  كيدِ الكافرين.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وأما قوله: { أوْ أمْرٍ مِنْ عِنْدِهِ
+  } فإن السديّ كان يقول فـي ذلك ما:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  مـحمد بن الـحسين، قال: ثنا أحمد بن مفضَّل، قال: ثنا أسبـاط، السديّ: { أوْ أمْرٍ
+  مِنْ عِنْدِهِ } قال: الأمر: الـجزية.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقد
+  يحتـمل أن يكون الأمر الذي وعد الله نبـيه مـحمداً صلى الله عليه وسلم أن يأتـي به،
+  هو الـجزية، ويحتـمل أن يكون غيرها. غير أنه أيّ ذلك كان فهو مـما فـيه إدالة الـمؤمنـين
+  علـى أهل الكفر بـالله وبرسوله، ومـما يسوء الـمنافقـين ولا يسرّهم وذلك أن الله تعالـى
+  قد أخبر عنهم أن ذلك الأمر إذا جاء أصبحوا علـى ما أسرّوا فـي أنفسهم نادمين.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وأما قوله: { فَـيُصْبِحُوا علـى ما أسَرُّوا فـي أنْفُسِهِمْ نادِمِينَ
+  } فإنه يعنـي: هؤلاء الـمنافقـين الذين كانوا يوالون الـيهود والنصارى، يقول تعالـى
+  ذكره: لعل الله أن يأتِـيَ بأمر من عنده يُدِيـل به الـمؤمنـين علـى الكافرين الـيهود
+  والنصارى وغيرهم من أهل الكفر، فـيصبح هؤلاء الـمنافقون علـى ما أسرّوا فـي أنفسهم
+  من مخالَّة الـيهود والنصارى ومودّتهم وبغضة الـمؤمنـين ومـحادتهم نادمين. كما:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة: { فَـيُصْبِحُوا
+  علـى ما أسَرُّوا فـي أنْفُسِهِمْ نادِمِينَ } من موادّتهم الـيهود، ومن غشّهم للإسلام
+  وأهله.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section>"
 

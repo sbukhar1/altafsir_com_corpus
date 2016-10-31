@@ -1,4 +1,4 @@
-location:
+position:
   sura: '033'
   aaya: '021'
   madhab: '01'
@@ -7,52 +7,124 @@ meta:
   title: تفسير جامع البيان في تفسير القرآن
   author: الطبري
   year: '310'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ لَّقَدْ كَانَ
-  لَكُمْ فِي رَسُولِ ٱللَّهِ أُسْوَةٌ حَسَنَةٌ لِّمَن كَانَ يَرْجُواْ ٱللَّهَ وَٱلْيَوْمَ
-  ٱلآخِرَ وَذَكَرَ ٱللَّهَ كَثِيراً } * { وَلَمَّا رَأَى ٱلْمُؤْمِنُونَ ٱلأَحْزَابَ
-  قَالُواْ هَـٰذَا مَا وَعَدَنَا ٱللَّهُ وَرَسُولُهُ وَصَدَقَ ٱللَّهُ وَرَسُولُهُ
-  وَمَا زَادَهُمْ إِلاَّ إِيمَاناً وَتَسْلِيماً }اختلفت القرّاء فـي قراءة قوله: {
-  أُسْوَةٌ } فقرأ ذلك عامة قرّاء الأمصار: «إسْوَةٌ» بكسر الألف، خلا عاصم بن أبـي النـجود،
-  فإنه قرأه بـالضمّ: { أُسْوَةٌ }. وكان يحيى بن وثاب يقرأ هذه بـالكسر، ويقرأ قوله{ لَقَدْ
-  كانَ لَكُمْ فِـيهِمْ أُسْوَةٌ }بـالضمّ، وهما لغتان. وذُكر أن الكسر فـي أهل الـحجاز،
-  والضمّ فـي قـيس. يقولون: أُسوة، وأُخوة. وهذا عتاب من الله للـمتـخـلفـين عن رسول
-  الله صلى الله عليه وسلم وعسكره بـالـمدينة، من الـمؤمنـين به. يقول لهم جلّ ثناؤه:
-  لقد كان لكم فـي رسول الله أسوة حسنة، أن تتأسوا به، وتكونوا معه حيث كان، ولا تتـخـلَّفوا
-  عنه. { لِـمَنْ كانَ يَرْجُو اللّهَ } يقول: فإن من يرجو ثواب الله ورحمته فـي الآخرة
-  لا يرغب بنفسه، ولكنه تكون له به أُسوة فـي أن يكون معه حيث يكون هو. وبنـحو الذي قلنا
-  فـي ذلك قال أهل التأويـل. ذكر من قال ذلك:حدثنا ابن حميد، قال: ثنا سلـمة، عن ابن
-  إسحاق، قال: ثنـي يزيد بن رومان، قال: ثم أقبل علـى الـمؤمنـين، فقال { لَقَدْ كانَ
-  لَكُمْ فِـي رَسُولِ اللّهِ أُسْوَةٌ حَسَنَةٌ لـمَنْ كانَ يَرْجُو اللّهَ وَالـيَومَ
-  الآخِرَ } أن لا يرغبوا بأنفسهم عن نفسه، ولا عن مكان هو به. { وَذَكَرَ اللّهَ كَثِـيراً
-  } يقول: وأكثر ذكر الله فـي الـخوف والشدّة والرخاء.وقوله: { ولَـمَّا رأى الـمُؤْمِنُونَ
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(33, 21)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(33,21)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">لَّقَدْ
+  كَانَ لَكُمْ فِي رَسُولِ ٱللَّهِ أُسْوَةٌ حَسَنَةٌ لِّمَن كَانَ يَرْجُواْ ٱللَّهَ
+  وَٱلْيَوْمَ ٱلآخِرَ وَذَكَرَ ٱللَّهَ كَثِيراً</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَلَمَّا رَأَى ٱلْمُؤْمِنُونَ
+  ٱلأَحْزَابَ قَالُواْ هَـٰذَا مَا وَعَدَنَا ٱللَّهُ وَرَسُولُهُ وَصَدَقَ ٱللَّهُ
+  وَرَسُولُهُ وَمَا زَادَهُمْ إِلاَّ إِيمَاناً وَتَسْلِيماً</a> <b>}</b></font>, <br/>,
+  <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">اختلفت
+  القرّاء فـي قراءة قوله: { أُسْوَةٌ } فقرأ ذلك عامة قرّاء الأمصار: «إسْوَةٌ» بكسر
+  الألف، خلا عاصم بن أبـي النـجود، فإنه قرأه بـالضمّ: { أُسْوَةٌ }. وكان يحيى بن وثاب
+  يقرأ هذه بـالكسر، ويقرأ قوله</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">لَقَدْ كانَ لَكُمْ فِـيهِمْ أُسْوَةٌ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">بـالضمّ،
+  وهما لغتان. وذُكر أن الكسر فـي أهل الـحجاز، والضمّ فـي قـيس. يقولون: أُسوة، وأُخوة.
+  وهذا عتاب من الله للـمتـخـلفـين عن رسول الله صلى الله عليه وسلم وعسكره بـالـمدينة،
+  من الـمؤمنـين به. يقول لهم جلّ ثناؤه: لقد كان لكم فـي رسول الله أسوة حسنة، أن تتأسوا
+  به، وتكونوا معه حيث كان، ولا تتـخـلَّفوا عنه. { لِـمَنْ كانَ يَرْجُو اللّهَ } يقول:
+  فإن من يرجو ثواب الله ورحمته فـي الآخرة لا يرغب بنفسه، ولكنه تكون له به أُسوة فـي
+  أن يكون معه حيث يكون هو. وبنـحو الذي قلنا فـي ذلك قال أهل التأويـل. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن حميد، قال: ثنا سلـمة، عن ابن إسحاق، قال: ثنـي يزيد بن
+  رومان، قال: ثم أقبل علـى الـمؤمنـين، فقال { لَقَدْ كانَ لَكُمْ فِـي رَسُولِ اللّهِ
+  أُسْوَةٌ حَسَنَةٌ لـمَنْ كانَ يَرْجُو اللّهَ وَالـيَومَ الآخِرَ } أن لا يرغبوا بأنفسهم
+  عن نفسه، ولا عن مكان هو به. { وَذَكَرَ اللّهَ كَثِـيراً } يقول: وأكثر ذكر الله فـي
+  الـخوف والشدّة والرخاء.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقوله: { ولَـمَّا رأى الـمُؤْمِنُونَ
   الأحْزَابَ } يقول: ولـمَّا عاين الـمؤمنون بـالله ورسوله جماعات الكفـار قالوا تسلـيـماً
-  منهم لأمر الله، وإيقاناً منهم بأن ذلك إنـجاز وعده لهم، الذي وعدهم بقوله{ أمْ حَسِبْتُـمْ
-  أنْ تَدْخُـلُوا الـجَنَّةَ ولَـمَّا يَأْتِكُمْ مَثَلُ الَّذِينَ خَـلَوْا مِنْ قَبْلِكُمْ... }إلـى
-  قوله{ قَرِيبٌ }هذا ما وعدنا الله ورسوله، وصدق الله ورسوله، فأحسن الله علـيهم بذلك
-  من يقـينهم، وتسلـيـمهم لأمره الثناء، فقال: وما زادهم اجتـماع الأحزاب علـيهم إلاَّ
-  إيـماناً بـالله وتسلـيـماً لقضائه وأمره، ورزقهم به النصر والظفر علـى الأعداء. وبـالذي
-  قلنا فـي ذلك قال أهل التأويـل. ذكر من قال ذلك:حدثنـي مـحمد بن سعد، قال: ثنـي أبـي،
-  قال: ثنـي عمي، قال: ثنـي أبـي، عن أبـيه، عن ابن عبـاس، قوله: { ولَـمَّا رأى الـمُؤْمِنُونَ
-  الأَحْزَابَ... } الآية قال: ذلك أن الله قال لهم فـي سورة البقرة{ أمْ حَسِبْتُـمْ
-  أنْ تَدْخُـلُوا الـجَنَّةَ... }إلـى قوله{ إنَّ نَصْرَ اللّهِ قَرِيبٌ }قال: فلـما
-  مسهم البلاء حيث رابطوا الأحزاب فـي الـخندق، تأوّل الـمؤمنون ذلك، ولـم يزدهم ذلك
-  إلاَّ إيـماناً وتسلـيـماً.حدثنا ابن حميد، قال: ثنا سلـمة، عن ابن إسحاق، قال: ثنـي
-  يزيد بن رومان، قال: ثم ذكر الـمؤمنـين وصدقهم وتصديقهم بـما وعدهم الله من البلاء
-  يختبرهم به { قالُوا هَذَا ما وَعَدَنا اللّهُ وَرَسُولُهُ وَصَدَقَ اللّهُ وَرَسُولُهُ
-  وَما زَادَهُمْ إلاَّ إيـماناً وَتَسْلِـيـماً }: أي صبراً علـى البلاء، وتسلـيـماً
-  للقضاء، وتصديقاً بتـحقـيق ما كان الله وعدهم ورسوله.\r\n\t\t\t\r\n\t\t\t1 2 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ لَّقَدْ كَانَ لَكُمْ فِي رَسُولِ ٱللَّهِ
-  أُسْوَةٌ حَسَنَةٌ لِّمَن كَانَ يَرْجُواْ ٱللَّهَ وَٱلْيَوْمَ ٱلآخِرَ وَذَكَرَ ٱللَّهَ
-  كَثِيراً } * { وَلَمَّا رَأَى ٱلْمُؤْمِنُونَ ٱلأَحْزَابَ قَالُواْ هَـٰذَا مَا وَعَدَنَا
-  ٱللَّهُ وَرَسُولُهُ وَصَدَقَ ٱللَّهُ وَرَسُولُهُ وَمَا زَادَهُمْ إِلاَّ إِيمَاناً
-  وَتَسْلِيماً }حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: { ولَـمَّا
+  منهم لأمر الله، وإيقاناً منهم بأن ذلك إنـجاز وعده لهم، الذي وعدهم بقوله</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">أمْ
+  حَسِبْتُـمْ أنْ تَدْخُـلُوا الـجَنَّةَ ولَـمَّا يَأْتِكُمْ مَثَلُ الَّذِينَ خَـلَوْا
+  مِنْ قَبْلِكُمْ...</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">إلـى قوله</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">قَرِيبٌ</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">هذا ما وعدنا الله ورسوله، وصدق
+  الله ورسوله، فأحسن الله علـيهم بذلك من يقـينهم، وتسلـيـمهم لأمره الثناء، فقال: وما
+  زادهم اجتـماع الأحزاب علـيهم إلاَّ إيـماناً بـالله وتسلـيـماً لقضائه وأمره، ورزقهم
+  به النصر والظفر علـى الأعداء. وبـالذي قلنا فـي ذلك قال أهل التأويـل. ذكر من قال
+  ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي مـحمد بن سعد، قال: ثنـي
+  أبـي، قال: ثنـي عمي، قال: ثنـي أبـي، عن أبـيه، عن ابن عبـاس، قوله: { ولَـمَّا رأى
+  الـمُؤْمِنُونَ الأَحْزَابَ... } الآية قال: ذلك أن الله قال لهم فـي سورة البقرة</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">أمْ
+  حَسِبْتُـمْ أنْ تَدْخُـلُوا الـجَنَّةَ...</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">إلـى قوله</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">إنَّ نَصْرَ اللّهِ قَرِيبٌ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">قال:
+  فلـما مسهم البلاء حيث رابطوا الأحزاب فـي الـخندق، تأوّل الـمؤمنون ذلك، ولـم يزدهم
+  ذلك إلاَّ إيـماناً وتسلـيـماً.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن حميد، قال: ثنا سلـمة، عن ابن إسحاق، قال: ثنـي يزيد بن رومان، قال: ثم ذكر الـمؤمنـين
+  وصدقهم وتصديقهم بـما وعدهم الله من البلاء يختبرهم به { قالُوا هَذَا ما وَعَدَنا
+  اللّهُ وَرَسُولُهُ وَصَدَقَ اللّهُ وَرَسُولُهُ وَما زَادَهُمْ إلاَّ إيـماناً وَتَسْلِـيـماً
+  }: أي صبراً علـى البلاء، وتسلـيـماً للقضاء، وتصديقاً بتـحقـيق ما كان الله وعدهم
+  ورسوله.</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\"
+  border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE:
+  none; BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(33, 21)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(33,21)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">لَّقَدْ كَانَ لَكُمْ فِي رَسُولِ ٱللَّهِ أُسْوَةٌ
+  حَسَنَةٌ لِّمَن كَانَ يَرْجُواْ ٱللَّهَ وَٱلْيَوْمَ ٱلآخِرَ وَذَكَرَ ٱللَّهَ كَثِيراً</a>
+  <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَلَمَّا
+  رَأَى ٱلْمُؤْمِنُونَ ٱلأَحْزَابَ قَالُواْ هَـٰذَا مَا وَعَدَنَا ٱللَّهُ وَرَسُولُهُ
+  وَصَدَقَ ٱللَّهُ وَرَسُولُهُ وَمَا زَادَهُمْ إِلاَّ إِيمَاناً وَتَسْلِيماً</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: { ولَـمَّا
   رأى الـمُؤْمِنُونَ الأحْزَابَ قالُوا هَذَا ما وَعَدَنا اللّهُ وَرَسُولُهُ وَصَدَقَ
-  اللّهُ وَرَسُولُهُ } وكان الله قد وعدهم فـي سورة البقرة فقال:{ أمْ حَسِبْتُـمْ أنْ
-  تَدْخُـلُوا الـجَنَّةَ ولَـمَّا يَأْتِكُمْ مَثَلُ الَّذِينَ خَـلَوْا مِنْ قَبْلِكُمْ
-  مَسَّتْهُمْ البأْساءُ والضَّرَّاءُ وَزُلْزِلُوا حتـى يَقُولَ الرَّسُولُ وَالَّذِينَ
-  آمَنُوا مَعَهُ }خيرهم وأصبرهم وأعلـمهم بـالله{ مَتـى نَصْرُ اللّهِ ألا إنَّ نَصْرَ
-  اللّهِ قَرِيبٌ }هذا والله البلاء والنقص الشديد، وإن أصحاب رسول الله صلى الله عليه
-  وسلم لـما رأوا ما أصابهم من الشدّة والبلاء { قالُوا هَذَا ما وَعَدَنا اللّهُ وَرَسُولُهُ
-  وَصَدَقَ اللّهُ وَرَسُولُهُ وَما زَادَهُمْ إلاَّ إيـمَاناً وَتَسْلِـيـماً } وتصديقاً
-  بـما وعدهم الله، وتسلـيـماً لقضاء الله.\r\n\t\t\t\r\n\t\t\t1 2 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  اللّهُ وَرَسُولُهُ } وكان الله قد وعدهم فـي سورة البقرة فقال:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">أمْ حَسِبْتُـمْ أنْ تَدْخُـلُوا الـجَنَّةَ
+  ولَـمَّا يَأْتِكُمْ مَثَلُ الَّذِينَ خَـلَوْا مِنْ قَبْلِكُمْ مَسَّتْهُمْ البأْساءُ
+  والضَّرَّاءُ وَزُلْزِلُوا حتـى يَقُولَ الرَّسُولُ وَالَّذِينَ آمَنُوا مَعَهُ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">خيرهم
+  وأصبرهم وأعلـمهم بـالله</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">مَتـى نَصْرُ اللّهِ ألا إنَّ نَصْرَ اللّهِ قَرِيبٌ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">هذا
+  والله البلاء والنقص الشديد، وإن أصحاب رسول الله صلى الله عليه وسلم لـما رأوا ما
+  أصابهم من الشدّة والبلاء { قالُوا هَذَا ما وَعَدَنا اللّهُ وَرَسُولُهُ وَصَدَقَ
+  اللّهُ وَرَسُولُهُ وَما زَادَهُمْ إلاَّ إيـمَاناً وَتَسْلِـيـماً } وتصديقاً بـما
+  وعدهم الله، وتسلـيـماً لقضاء الله.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section>"
 

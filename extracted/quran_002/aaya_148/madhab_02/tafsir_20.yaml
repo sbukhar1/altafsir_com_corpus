@@ -1,4 +1,4 @@
-location:
+position:
   sura: '002'
   aaya: '148'
   madhab: '02'
@@ -9,24 +9,56 @@ meta:
   year: '803'
 aaya: وَلِكُلٍّ وِجْهَةٌ هُوَ مُوَلِّيهَا ۖ فَاسْتَبِقُوا الْخَيْرَاتِ ۚ أَيْنَ مَا
   تَكُونُوا يَأْتِ بِكُمُ اللَّهُ جَمِيعًا ۚ إِنَّ اللَّهَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَلِكُلٍّ وِجْهَةٌ
-  هُوَ مُوَلِّيهَا فَٱسْتَبِقُواْ ٱلْخَيْرَاتِ أَيْنَ مَا تَكُونُواْ يَأْتِ بِكُمُ
-  ٱللَّهُ جَمِيعاً إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ }قوله تعالى: { وَلِكُلٍّ
-  وِجْهَةٌ هُوَ مُوَلِّيهَا... }.حمله الزمخشري على معنيين، أحدهما: ولكل فريق من أهل
-  الأديان المختلفة قبلة هو موليها نفسه، أو يعود الضمير على الله، أي الله موليها إياه.-
-  (الثاني): ولكل واحد منكم يا أمة محمد جهة يصلي إليها شمالية، أو جنوبية، أو شرقية
-  أو (غربية). فالقبلة عندنا نحن في الجنوب وعند أهل العراق و (اليمن) في الشمال والمغرب.وضعف
-  ابن عرفة الأول إذا أعيد الضمير في { هُوَ مُوَليِّهَا } على الله لأن الملل كلها قد
-  انتسخت بشريعة سيدنا محمد صلى الله عليه وسلم فلا يصدق أن لكل قوم (وجهة).قال ابن عرفة:
-  وكان بعضهم يفسره بمعنى ثالث وهو أن (لكلّ) شخص منّا وجهة من وجوه الخير، والله أقامه
-  فيها، فواحد مجاهد وآخر صائم وآخر عالم وآخر حاج وآخر كثير الصدقة.قوله تعالى: { فَٱسْتَبِقُواْ
-  ٱلْخَيْرَاتِ... }.دليل على أن الأمر للفور لأن مدلول صيغة اِفعل وهو الفور من مسمّى
-  الخيرات لأن المبادرة إلى فعل المأمور به (من جملة) الخيرات فهو مأمور به.وإنما قال:
-  { اسْتَبِقُوا } ولم يقل: اسْبَقُوا، ليتناول السابق والمسبوق فالمسبوق حينئذ يصدق
-  عليه أنه استبق ولكنه لم يسبق، ولو قال: اسبقوا لما تناول إلا السّابق. والخيرات (تعم)
-  الواجبات والمندوبات، وتعم من سبق بخير أو سبق غيره لخير (آخر) وإن لم (يستبقا) لشيء
-  واحد.قوله تعالى: { يَأْتِ بِكُمُ ٱللَّهُ جَمِيعاً.. }حمله الزمخشري على معنيين: إما
-  يأت بكم (للجزاء) أو للحشر والنشر، وإمّا أَيْنَ مَا تَكُونُوا من الجهات يجعلكم تصلون
-  إلى جهة واحدة (كأنكم) تصلون (حاضري) المسجد الحرام.قال ابن عرفة: وقوله إنّ اللهَ
-  عَلَى كُلّ شَيءٍ قَدِيرٌ يرجح المعنى الأول.\r\n\t\t\t\r\n\t\t\t</section>"
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(2, 148)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(2,148)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَلِكُلٍّ
+  وِجْهَةٌ هُوَ مُوَلِّيهَا فَٱسْتَبِقُواْ ٱلْخَيْرَاتِ أَيْنَ مَا تَكُونُواْ يَأْتِ
+  بِكُمُ ٱللَّهُ جَمِيعاً إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">قوله تعالى: { وَلِكُلٍّ وِجْهَةٌ هُوَ مُوَلِّيهَا... }.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حمله الزمخشري على معنيين، أحدهما: ولكل فريق من أهل الأديان المختلفة
+  قبلة هو موليها نفسه، أو يعود الضمير على الله، أي الله موليها إياه.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">- (الثاني): ولكل واحد منكم يا أمة محمد جهة يصلي إليها شمالية، أو
+  جنوبية، أو شرقية أو (غربية). فالقبلة عندنا نحن في الجنوب وعند أهل العراق و (اليمن)
+  في الشمال والمغرب.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وضعف ابن عرفة الأول إذا أعيد الضمير
+  في { هُوَ مُوَليِّهَا } على الله لأن الملل كلها قد انتسخت بشريعة سيدنا محمد صلى
+  الله عليه وسلم فلا يصدق أن لكل قوم (وجهة).</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال
+  ابن عرفة: وكان بعضهم يفسره بمعنى ثالث وهو أن (لكلّ) شخص منّا وجهة من وجوه الخير،
+  والله أقامه فيها، فواحد مجاهد وآخر صائم وآخر عالم وآخر حاج وآخر كثير الصدقة.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قوله تعالى: { فَٱسْتَبِقُواْ ٱلْخَيْرَاتِ... }.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">دليل على أن الأمر للفور لأن مدلول صيغة اِفعل وهو الفور من مسمّى
+  الخيرات لأن المبادرة إلى فعل المأمور به (من جملة) الخيرات فهو مأمور به.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وإنما قال: { اسْتَبِقُوا } ولم يقل: اسْبَقُوا، ليتناول السابق والمسبوق
+  فالمسبوق حينئذ يصدق عليه أنه استبق ولكنه لم يسبق، ولو قال: اسبقوا لما تناول إلا
+  السّابق. والخيرات (تعم) الواجبات والمندوبات، وتعم من سبق بخير أو سبق غيره لخير (آخر)
+  وإن لم (يستبقا) لشيء واحد.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">قوله تعالى: { يَأْتِ بِكُمُ ٱللَّهُ
+  جَمِيعاً.. }</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حمله الزمخشري على معنيين: إما يأت
+  بكم (للجزاء) أو للحشر والنشر، وإمّا أَيْنَ مَا تَكُونُوا من الجهات يجعلكم تصلون
+  إلى جهة واحدة (كأنكم) تصلون (حاضري) المسجد الحرام.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال
+  ابن عرفة: وقوله إنّ اللهَ عَلَى كُلّ شَيءٍ قَدِيرٌ يرجح المعنى الأول.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

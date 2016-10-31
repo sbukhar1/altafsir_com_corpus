@@ -1,4 +1,4 @@
-location:
+position:
   sura: '010'
   aaya: 088
   madhab: '01'
@@ -11,112 +11,297 @@ aaya: وَقَالَ مُوسَىٰ رَبَّنَا إِنَّكَ آتَيْت
   فِي الْحَيَاةِ الدُّنْيَا رَبَّنَا لِيُضِلُّوا عَنْ سَبِيلِكَ ۖ رَبَّنَا اطْمِسْ
   عَلَىٰ أَمْوَالِهِمْ وَاشْدُدْ عَلَىٰ قُلُوبِهِمْ فَلَا يُؤْمِنُوا حَتَّىٰ يَرَوُا
   الْعَذَابَ الْأَلِيمَ
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَقَالَ مُوسَىٰ
-  رَبَّنَآ إِنَّكَ آتَيْتَ فِرْعَوْنَ وَمَلأَهُ زِينَةً وَأَمْوَالاً فِي ٱلْحَيَاةِ
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(10, 88)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(10,88)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَقَالَ
+  مُوسَىٰ رَبَّنَآ إِنَّكَ آتَيْتَ فِرْعَوْنَ وَمَلأَهُ زِينَةً وَأَمْوَالاً فِي ٱلْحَيَاةِ
   ٱلدُّنْيَا رَبَّنَا لِيُضِلُّواْ عَن سَبِيلِكَ رَبَّنَا ٱطْمِسْ عَلَىٰ أَمْوَالِهِمْ
-  وَٱشْدُدْ عَلَىٰ قُلُوبِهِمْ فَلاَ يُؤْمِنُواْ حَتَّىٰ يَرَوُاْ ٱلْعَذَابَ ٱلأَلِيمَ
-  }يقول تعالى ذكره: وقال موسى يا ربنا إنك أعطيت فرعون وكبراء قومه وأشرافهم، وهم الملأ،
-  زينة من متاع الدنيا وأثاثها، وأمولاً من أعيان الذهب والفضة في الحياة الدنيا. { رَبَّنا
-  لِيُضِلُّوا عَنْ سَبِيلِكَ } يقول موسى لربه: ربنا أعطيتهم ما أعطيتهم من ذلك ليضلوا
-  عن سبيلك.واختلفت القرّاء في قراءة ذلك، فقرأه بعضهم: { لِيُضِلُّوا عَنْ سَبِيلِكَ
-  } بمعنى: ليضلوا الناسَ عن سبيلك، ويصدّوهم عن دينك.وقرأ ذلك آخرون: «لِيُضِلُّوا عَنْ
-  سَبِيلِكَ» بمعنى: ليضلوا هم عن سبيلك، فيَجوروا عن طريق الهدى.فإن قال قائل: أفكان
-  الله جلّ ثناؤه أعطى فرعون وقومه ماأعطاهم من زينة الدنيا وأموالها ليُضلوا الناس عن
-  دينه، أو ليَضلوا هم عنه؟ فإن كان لذلك أعطاهم ذلك، فقد كان منهم ما أعطاهم لأجله،
-  فلا عتب عليهم في ذلك؟ قيل: إن معنى ذلك بخلاف ما توهمت.وقد اختلفت أهل العلم بالعربية
-  في معنى هذه اللام التي في قوله: { لِيُضِلّوا } فقال بعض نحويي البصرة: معنى ذلك:
-  ربنا فضلوا عن سبيلك، كما قال:{ فالْتَقَطَهُ آلُ فِرْعَوْنَ لِيَكُوَنَ لَهُمْ عَدُوًّا
-  وَحَزَناً }أي فكان لهم وهم لم يلتقطوه ليكون عدوا وحزنا، وإنما التقطوه فكان لهم.
-  قال: فهذه اللام تجيء في هذا المعنى. وقال بعض نحويي الكوفة: هذه اللام لام كي ومعنى
-  الكلام: ربنا أعطيتهم ما أعطيتهم كي يضلوا، ثم دعا عليهم وقال آخر: هذه اللامات في
-  قوله «ليضلوا» و «ليكون لهم عدوًّا»، وما أشبهها بتأويل الخفض: آتيتهم ما أتيتهم لضلالهم،
-  والتقطوه لكونه لأنه قد آلت الحالة إلى ذلك. والعرب تجعل لام كي في معنى لام الخفض،
-  ولام الخفض في معنى لام كي لتقارب المعنى، قال الله تعالى:{ سَيَحْلِفُونَ باللَّهِ
-  لَكُمْ إذَا انْقَلَبْتُمْ إلَيْهِمْ لِتَعْرِضُوا عَنْهُمْ }أي لإعراضكم، ولم يحلفوا
-  لإعراضهم وقال الشاعر:سَمَوْتَ ولَمْ تَكُنْ أهْلاً لِتَسْمُو   وَلكنَّ المُضَيَّعَ
-  قَدْ يُصَابُقال: وإنما يقال: وما كنت أهلاً للفعل، ولا يقال لتفعل إلا قليلاً. قال:
-  وهذا منه.والصواب من القول في ذلك عندي: أنها لا م كي، ومعنى الكلام: ربنا أعطيتهم
-  ما أعطيتهم من زينة الحياة الدنيا والأموال لتفتنهم فيه، ويُضِلوا عن سبيلك عبادك،
-  عقوبةً منك. وهذا كما قال جلّ ثناؤه:{ لأَسْقَيْناهُمْ مَاءً غَدَقاً لِنَفْتِنَهُمْ
-  فِيهِ }وقوله: { رَبَّنا اطْمِسْ على أمْوَالِهِمْ وَاشْدُدْ على قُلُوبِهِمْ } هذا
-  دعاء من موسى، دعا الله على فرعون وملئه أن يغير أموالهم عن هيئتها، ويبدّلها إلى غير
-  الحال التي هي بها، وذلك نحو قوله:{ مِنْ قَبْل أنْ نَطْمِسَ وُجُوهاً فَنرُدَّها على
-  أدْبارِها }يعني به: من قبل أن نغيرها عن هيئتها التي هي بها، يقال منه: طمست عينه
-  أطْمِسُها وأطْمُسُها طمساً وطُمُوساً، وقد تستعمل العرب الطَّمْس في العُفُوّ والدثور
-  وفي الاندقاق والدروس، كما قال كعب بن زهير:\r\n\t\t\t\r\n\t\t\t1 2 3 4 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَقَالَ مُوسَىٰ رَبَّنَآ إِنَّكَ آتَيْتَ
-  فِرْعَوْنَ وَمَلأَهُ زِينَةً وَأَمْوَالاً فِي ٱلْحَيَاةِ ٱلدُّنْيَا رَبَّنَا لِيُضِلُّواْ
-  عَن سَبِيلِكَ رَبَّنَا ٱطْمِسْ عَلَىٰ أَمْوَالِهِمْ وَٱشْدُدْ عَلَىٰ قُلُوبِهِمْ
-  فَلاَ يُؤْمِنُواْ حَتَّىٰ يَرَوُاْ ٱلْعَذَابَ ٱلأَلِيمَ }مِنْ كلّ نَضَّاخَةِ الذفْرَى
-  إذا عَرِقَت   عُرْضَتُها طامِسُ الأعْلامِ مَجْهُولُوقد اختلف أهل التأويل في تأويل
-  ذلك في هذا الموضع، فقال جماعة منهم فيه مثل قولنا. ذكر من قال ذلك:حدثني زكريا بن
-  يحيى بن زائدة، قال: ثنا حجاج، قال: ثني ابن جريج، عن عبد الله بن كثير، قال: بلغنا
-  عن القرظي، في قوله: { رَبَّنا اطْمِسْ على أمْوَالِهِمْ } قال: اجعل سكرهم حجارة.حدثنا
-  القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن ابن جريج، عن عبد الله بن كثير، عن محمد
-  بن القرظيّ، قال: اجعل سكرهم حجارة.حدثنا ابن وكيع، قال: ثنا يحيى بن يمان، عن أبي
-  جعفر، عن الربيع، عن أبي العالية: { اطْمِسْ على أمْوَالِهِمْ } قال: اجعلها حجارة.حدثني
-  المثنى، قال: ثنا أبُو حذيفة، قال: ثنا إسحاق، قال: ثنا عبد الرحمن بن سعد، قال: ثنا
-  أبو جعفر عن الربيع بن أنس، في قوله: { اطْمِسْ على أمْوَالِهِمْ } قال: صارت حجارة.حدثنا
+  وَٱشْدُدْ عَلَىٰ قُلُوبِهِمْ فَلاَ يُؤْمِنُواْ حَتَّىٰ يَرَوُاْ ٱلْعَذَابَ ٱلأَلِيمَ</a>
+  <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">يقول تعالى ذكره: وقال موسى يا ربنا إنك أعطيت فرعون وكبراء قومه وأشرافهم،
+  وهم الملأ، زينة من متاع الدنيا وأثاثها، وأمولاً من أعيان الذهب والفضة في الحياة
+  الدنيا. { رَبَّنا لِيُضِلُّوا عَنْ سَبِيلِكَ } يقول موسى لربه: ربنا أعطيتهم ما أعطيتهم
+  من ذلك ليضلوا عن سبيلك.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">واختلفت القرّاء في قراءة ذلك، فقرأه
+  بعضهم: { لِيُضِلُّوا عَنْ سَبِيلِكَ } بمعنى: ليضلوا الناسَ عن سبيلك، ويصدّوهم عن
+  دينك.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقرأ ذلك آخرون: «لِيُضِلُّوا عَنْ
+  سَبِيلِكَ» بمعنى: ليضلوا هم عن سبيلك، فيَجوروا عن طريق الهدى.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">فإن قال قائل: أفكان الله جلّ ثناؤه أعطى فرعون وقومه ماأعطاهم من
+  زينة الدنيا وأموالها ليُضلوا الناس عن دينه، أو ليَضلوا هم عنه؟ فإن كان لذلك أعطاهم
+  ذلك، فقد كان منهم ما أعطاهم لأجله، فلا عتب عليهم في ذلك؟ قيل: إن معنى ذلك بخلاف
+  ما توهمت.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقد اختلفت أهل العلم بالعربية في
+  معنى هذه اللام التي في قوله: { لِيُضِلّوا } فقال بعض نحويي البصرة: معنى ذلك: ربنا
+  فضلوا عن سبيلك، كما قال:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">فالْتَقَطَهُ آلُ فِرْعَوْنَ لِيَكُوَنَ لَهُمْ عَدُوًّا وَحَزَناً</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">أي
+  فكان لهم وهم لم يلتقطوه ليكون عدوا وحزنا، وإنما التقطوه فكان لهم. قال: فهذه اللام
+  تجيء في هذا المعنى. وقال بعض نحويي الكوفة: هذه اللام لام كي ومعنى الكلام: ربنا أعطيتهم
+  ما أعطيتهم كي يضلوا، ثم دعا عليهم وقال آخر: هذه اللامات في قوله «ليضلوا» و «ليكون
+  لهم عدوًّا»، وما أشبهها بتأويل الخفض: آتيتهم ما أتيتهم لضلالهم، والتقطوه لكونه لأنه
+  قد آلت الحالة إلى ذلك. والعرب تجعل لام كي في معنى لام الخفض، ولام الخفض في معنى
+  لام كي لتقارب المعنى، قال الله تعالى:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">سَيَحْلِفُونَ باللَّهِ لَكُمْ إذَا
+  انْقَلَبْتُمْ إلَيْهِمْ لِتَعْرِضُوا عَنْهُمْ</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">أي لإعراضكم، ولم يحلفوا لإعراضهم
+  وقال الشاعر:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><table
+  class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">سَمَوْتَ ولَمْ تَكُنْ أهْلاً لِتَسْمُو</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">وَلكنَّ المُضَيَّعَ قَدْ يُصَابُ</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">قال: وإنما يقال: وما كنت أهلاً
+  للفعل، ولا يقال لتفعل إلا قليلاً. قال: وهذا منه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">والصواب
+  من القول في ذلك عندي: أنها لا م كي، ومعنى الكلام: ربنا أعطيتهم ما أعطيتهم من زينة
+  الحياة الدنيا والأموال لتفتنهم فيه، ويُضِلوا عن سبيلك عبادك، عقوبةً منك. وهذا كما
+  قال جلّ ثناؤه:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">لأَسْقَيْناهُمْ مَاءً غَدَقاً لِنَفْتِنَهُمْ فِيهِ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">وقوله:
+  { رَبَّنا اطْمِسْ على أمْوَالِهِمْ وَاشْدُدْ على قُلُوبِهِمْ } هذا دعاء من موسى،
+  دعا الله على فرعون وملئه أن يغير أموالهم عن هيئتها، ويبدّلها إلى غير الحال التي
+  هي بها، وذلك نحو قوله:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">مِنْ قَبْل أنْ نَطْمِسَ وُجُوهاً فَنرُدَّها على أدْبارِها</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">يعني
+  به: من قبل أن نغيرها عن هيئتها التي هي بها، يقال منه: طمست عينه أطْمِسُها وأطْمُسُها
+  طمساً وطُمُوساً، وقد تستعمل العرب الطَّمْس في العُفُوّ والدثور وفي الاندقاق والدروس،
+  كما قال كعب بن زهير:</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\"
+  border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE:
+  none; BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(10, 88)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(10,88)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَقَالَ مُوسَىٰ رَبَّنَآ إِنَّكَ آتَيْتَ فِرْعَوْنَ
+  وَمَلأَهُ زِينَةً وَأَمْوَالاً فِي ٱلْحَيَاةِ ٱلدُّنْيَا رَبَّنَا لِيُضِلُّواْ عَن
+  سَبِيلِكَ رَبَّنَا ٱطْمِسْ عَلَىٰ أَمْوَالِهِمْ وَٱشْدُدْ عَلَىٰ قُلُوبِهِمْ فَلاَ
+  يُؤْمِنُواْ حَتَّىٰ يَرَوُاْ ٱلْعَذَابَ ٱلأَلِيمَ</a> <b>}</b></font>, <br/>, <br/>,
+  <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\"/></font><table
+  class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">مِنْ كلّ نَضَّاخَةِ الذفْرَى إذا عَرِقَت</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">عُرْضَتُها طامِسُ الأعْلامِ مَجْهُولُ</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">وقد اختلف أهل التأويل في تأويل
+  ذلك في هذا الموضع، فقال جماعة منهم فيه مثل قولنا. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني زكريا بن يحيى بن زائدة، قال: ثنا حجاج، قال: ثني ابن جريج،
+  عن عبد الله بن كثير، قال: بلغنا عن القرظي، في قوله: { رَبَّنا اطْمِسْ على أمْوَالِهِمْ
+  } قال: اجعل سكرهم حجارة.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا القاسم، قال: ثنا الحسين،
+  قال: ثني حجاج، عن ابن جريج، عن عبد الله بن كثير، عن محمد بن القرظيّ، قال: اجعل سكرهم
+  حجارة.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن وكيع، قال: ثنا يحيى بن
+  يمان، عن أبي جعفر، عن الربيع، عن أبي العالية: { اطْمِسْ على أمْوَالِهِمْ } قال:
+  اجعلها حجارة.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثني المثنى، قال: ثنا أبُو حذيفة،
+  قال: ثنا إسحاق، قال: ثنا عبد الرحمن بن سعد، قال: ثنا أبو جعفر عن الربيع بن أنس،
+  في قوله: { اطْمِسْ على أمْوَالِهِمْ } قال: صارت حجارة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
   بشر، قال: ثنا يزيد، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: { رَبَّنا اطْمِسْ
-  على أمْوَالِهِمْ } قال: بلغنا أن زروعهم تحوّلت حجارة.حدثنا محمد بن عبد الأعلى، قال:
-  ثنا محمد بن ثور، عن معمر، عن قتادة: { رَبَّنا اطْمِسْ على أمْوَالِهِمْ } قال: بلغنا
-  أن حروثا لهم صارت حجارة.حدثني المثنى، قال: ثنا قبيصة بن عقبة، قال: ثنا سفيان: {
-  رَبَّنا اطْمِسْ على أمْوَالِهِمْ } قال: يقولون: صارت حجارة.حدثني المثنى، قال: ثنا
-  إسحاق. قال: ثنا يحيى الحماني، قال: أخبرنا ابن المبارك، عن إسماعيل عن أبي صالح، في
-  قوله: { رَبَّنا اطْمِسْ على أمْوَالِهِمْ } قال: صارت حجارة.حدثنا الحسن بن يحيى،
-  قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر، عن قتادة، في قوله: { رَبَّنا اطْمِسْ على
-  أمْوَالِهِمْ } قال: بلغنا أن حروثا لهم صارت حجارة.حُدثت عن الحسين بن الفرج، قال:
-  سمعت أبا معاذ، قال: ثنا عبيد بن سليمان، قال: سمعت الضحاك يقول في قوله: { رَبَّنا
-  اطْمِسْ على أمْوَالِهِمْ } قال: جعلها الله حجارة منقوشة على هيئة ما كانت.حدثنا يونس،
-  قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله: { رَبَّنا اطْمِسْ على أمْوَالِهِمْ
+  على أمْوَالِهِمْ } قال: بلغنا أن زروعهم تحوّلت حجارة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  محمد بن عبد الأعلى، قال: ثنا محمد بن ثور، عن معمر، عن قتادة: { رَبَّنا اطْمِسْ على
+  أمْوَالِهِمْ } قال: بلغنا أن حروثا لهم صارت حجارة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  المثنى، قال: ثنا قبيصة بن عقبة، قال: ثنا سفيان: { رَبَّنا اطْمِسْ على أمْوَالِهِمْ
+  } قال: يقولون: صارت حجارة.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثني المثنى، قال: ثنا إسحاق. قال:
+  ثنا يحيى الحماني، قال: أخبرنا ابن المبارك، عن إسماعيل عن أبي صالح، في قوله: { رَبَّنا
+  اطْمِسْ على أمْوَالِهِمْ } قال: صارت حجارة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  الحسن بن يحيى، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر، عن قتادة، في قوله: { رَبَّنا
+  اطْمِسْ على أمْوَالِهِمْ } قال: بلغنا أن حروثا لهم صارت حجارة.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حُدثت عن الحسين بن الفرج، قال: سمعت أبا معاذ، قال: ثنا عبيد بن سليمان،
+  قال: سمعت الضحاك يقول في قوله: { رَبَّنا اطْمِسْ على أمْوَالِهِمْ } قال: جعلها الله
+  حجارة منقوشة على هيئة ما كانت.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد، في قوله: { رَبَّنا اطْمِسْ على أمْوَالِهِمْ
   } قال: قد فعل ذلك، وقد أصابهم ذلك طمس على أموالهم، فصارت حجارة ذهبهم ودراهمهم وعدسهم
-  وكلّ شيء.وقال آخرون: معنى ذلك: أهلكها. ذكر من قال ذلك:حدثني زكريا بن يحيى بن أبي
-  زائدة، قال: ثنا حجاج، عن ابن جريج، عن مجاهد: { رَبَّنا اطْمِسْ على أمْوَالِهِمْ
-  } قال: أهلكها.حدثني المثنى، قال: ثنا أبو حذيفة، قال: ثنا شبل، عن أبي نجيح، عن مجاهد،
-  مثله.حدثني المثنى، قال: ثنا إسحاق، قال: ثنا عبد الله، عن ورقاء، عن ابن أبي نجيح،
-  عن مجاهد مثله.حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه،
-  عن ابن عباس: { رَبَّنا اطْمِسْ على أمْوَالِهِمْ } يقول: دمر عليهم وأهلك أموالهم.\r\n\t\t\t\r\n\t\t\t1 2 3 4 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَقَالَ مُوسَىٰ رَبَّنَآ إِنَّكَ آتَيْتَ
-  فِرْعَوْنَ وَمَلأَهُ زِينَةً وَأَمْوَالاً فِي ٱلْحَيَاةِ ٱلدُّنْيَا رَبَّنَا لِيُضِلُّواْ
-  عَن سَبِيلِكَ رَبَّنَا ٱطْمِسْ عَلَىٰ أَمْوَالِهِمْ وَٱشْدُدْ عَلَىٰ قُلُوبِهِمْ
-  فَلاَ يُؤْمِنُواْ حَتَّىٰ يَرَوُاْ ٱلْعَذَابَ ٱلأَلِيمَ }وأما قوله: { وَاشْدُدْ
-  على قُلوبِهِمْ } فإنه يعني: واطبع عليها حتى لا تلين ولا تنشرح بالإيمان. كما:حدثني
-  المثنى، قال: ثنا عبد الله، قال: ثني معاوية، عن عليّ، عن ابن عباس: وقال موسى قبل
-  أن يأتي فرعون: ربنا { وَاشْدُدْ على قُلُوبِهِمْ فَلا يؤْمِنُوا حتى يَرَوُا العَذَابَ
-  الألِيمَ } فاستجاب الله له، وحال بين فرعون وبين الإيمان حتى أدركه الغرق، فلم ينفعه
-  الإيمان.حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن أبيه، عن
-  ابن عباس: { وَاشْدُدْ على قُلُوبِهِمْ } يقول: واطبع على قلوبهم، رحتى يَرَوُا العَذَابَ
-  الألِيمَ } وهو الغرق.حدثني المثنى، قال: ثنا أبو حذيفة، قال: ثنا شبل، عن ابن أبي
-  نجيح، عن مجاهد: { وَاشْدُدْ على قُلُوبِهِمْ } بالضلالة.قال: ثنا إسحاق، قال: ثنا
-  عبد الله، عن ورقاء، عن ابن أبي نجيح، عن مجاهد: { وَاشْدُدْ على قُلُوبِهِمْ } قال:
-  بالضلالة.حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن ابن جريج، عن مجاهد، مثله.حُدثت
-  عن الحسين، قال: سمعت أبا معاذ، قال: ثنا عبيد بن سليمان، قال: سمعت الضحاك يقول في
-  قوله: { وَاشْدُدْ على قُلُوبِهِمْ } يقول: أهلكهم كفارا.وأما قوله: { فَلا يُوءْمِنُوا
-  حتى يَرَوُا العَذَابَ الألِيمَ } فإن معناه: فلا يصدّقوا بتوحيد الله ويقروا بوحدانيته
-  حتى يروا العذاب الموجع. كما:حدثني المثنى، قال: ثنا أبو حذيفة، قال: ثنا شبل، عن ابن
-  أبي نجيح، عن مجاهد: { فَلا يؤْمِنُوا } بالله فيما يرون من الآيات، { حتى يَرَوُا
-  العَذَابَ الألِيمَ }.حدثني المثنى، قال: ثنا عبد الله، عن ورقاء، عن ابن أبي نجيح،
-  عن مجاهد، مثله.قال: ثنا سويد بن نصر، قال: أخبرنا ابن المبارك، عن ابن جريج، عن مجاهد،
-  مثله.حدثنا المثنى، قال: ثنا إسحاق، قال: سمعت المنقري يقول: { فَلا يؤْمِنُوا } يقول:
-  دعا عليهم.واختلف أهل العربية في موضع: { يُوءْمِنُوا } فقال بعض نحويي البصرة: هو
-  نصب لأن جواب الأمر بالفاء أو يكون دعاء عليهم إذا عصوا. وقد حُكي عن قائل هذا القول
-  أنه كان يقول: هو نصب عطفا على قوله: { لِيُضِلُّوا عَنْ سَبِيلِكَ }. وقال آخر منهم،
-  وهو قول نحوييِّ الكوفة: موضعه جزم على الدعاء من موسى عليهم، بمعنى: فلا آمنوا، كما
-  قال الشاعر:فَلا يَنْبَسِطْ مِنْ بينِ عَيْنَيْكَ ما انْزَوَى   وَلا تَلْقَنِي إلاَّ
-  وأنْفُكَ رَاغِمُبمعنى: فلا انبسط من بين عينيك ما انزوى، ولا لقيتني على الدعاء. وكان
+  وكلّ شيء.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال آخرون: معنى ذلك: أهلكها. ذكر
+  من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثني زكريا بن يحيى بن أبي زائدة،
+  قال: ثنا حجاج، عن ابن جريج، عن مجاهد: { رَبَّنا اطْمِسْ على أمْوَالِهِمْ } قال:
+  أهلكها.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثني المثنى، قال: ثنا أبو حذيفة،
+  قال: ثنا شبل، عن أبي نجيح، عن مجاهد، مثله.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  المثنى، قال: ثنا إسحاق، قال: ثنا عبد الله، عن ورقاء، عن ابن أبي نجيح، عن مجاهد مثله.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن
+  أبيه، عن ابن عباس: { رَبَّنا اطْمِسْ على أمْوَالِهِمْ } يقول: دمر عليهم وأهلك أموالهم.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(10, 88)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(10,88)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَقَالَ مُوسَىٰ رَبَّنَآ إِنَّكَ آتَيْتَ فِرْعَوْنَ
+  وَمَلأَهُ زِينَةً وَأَمْوَالاً فِي ٱلْحَيَاةِ ٱلدُّنْيَا رَبَّنَا لِيُضِلُّواْ عَن
+  سَبِيلِكَ رَبَّنَا ٱطْمِسْ عَلَىٰ أَمْوَالِهِمْ وَٱشْدُدْ عَلَىٰ قُلُوبِهِمْ فَلاَ
+  يُؤْمِنُواْ حَتَّىٰ يَرَوُاْ ٱلْعَذَابَ ٱلأَلِيمَ</a> <b>}</b></font>, <br/>, <br/>,
+  <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">وأما
+  قوله: { وَاشْدُدْ على قُلوبِهِمْ } فإنه يعني: واطبع عليها حتى لا تلين ولا تنشرح
+  بالإيمان. كما:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثني المثنى، قال: ثنا عبد الله،
+  قال: ثني معاوية، عن عليّ، عن ابن عباس: وقال موسى قبل أن يأتي فرعون: ربنا { وَاشْدُدْ
+  على قُلُوبِهِمْ فَلا يؤْمِنُوا حتى يَرَوُا العَذَابَ الألِيمَ } فاستجاب الله له،
+  وحال بين فرعون وبين الإيمان حتى أدركه الغرق، فلم ينفعه الإيمان.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال: ثني أبي، عن
+  أبيه، عن ابن عباس: { وَاشْدُدْ على قُلُوبِهِمْ } يقول: واطبع على قلوبهم، رحتى يَرَوُا
+  العَذَابَ الألِيمَ } وهو الغرق.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  المثنى، قال: ثنا أبو حذيفة، قال: ثنا شبل، عن ابن أبي نجيح، عن مجاهد: { وَاشْدُدْ
+  على قُلُوبِهِمْ } بالضلالة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال:
+  ثنا إسحاق، قال: ثنا عبد الله، عن ورقاء، عن ابن أبي نجيح، عن مجاهد: { وَاشْدُدْ على
+  قُلُوبِهِمْ } قال: بالضلالة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن ابن جريج، عن مجاهد، مثله.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حُدثت عن الحسين، قال: سمعت أبا معاذ، قال: ثنا عبيد بن سليمان، قال:
+  سمعت الضحاك يقول في قوله: { وَاشْدُدْ على قُلُوبِهِمْ } يقول: أهلكهم كفارا.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وأما قوله: { فَلا يُوءْمِنُوا حتى يَرَوُا العَذَابَ الألِيمَ } فإن
+  معناه: فلا يصدّقوا بتوحيد الله ويقروا بوحدانيته حتى يروا العذاب الموجع. كما:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني المثنى، قال: ثنا أبو حذيفة، قال: ثنا شبل، عن ابن أبي نجيح،
+  عن مجاهد: { فَلا يؤْمِنُوا } بالله فيما يرون من الآيات، { حتى يَرَوُا العَذَابَ
+  الألِيمَ }.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثني المثنى، قال: ثنا عبد الله،
+  عن ورقاء، عن ابن أبي نجيح، عن مجاهد، مثله.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال:
+  ثنا سويد بن نصر، قال: أخبرنا ابن المبارك، عن ابن جريج، عن مجاهد، مثله.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا المثنى، قال: ثنا إسحاق، قال: سمعت المنقري يقول: { فَلا يؤْمِنُوا
+  } يقول: دعا عليهم.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">واختلف أهل العربية في موضع: { يُوءْمِنُوا
+  } فقال بعض نحويي البصرة: هو نصب لأن جواب الأمر بالفاء أو يكون دعاء عليهم إذا عصوا.
+  وقد حُكي عن قائل هذا القول أنه كان يقول: هو نصب عطفا على قوله: { لِيُضِلُّوا عَنْ
+  سَبِيلِكَ }. وقال آخر منهم، وهو قول نحوييِّ الكوفة: موضعه جزم على الدعاء من موسى
+  عليهم، بمعنى: فلا آمنوا، كما قال الشاعر:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><table class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">فَلا يَنْبَسِطْ
+  مِنْ بينِ عَيْنَيْكَ ما انْزَوَى</font></font></b></td><td class=\"TextArabic\">   </td><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">وَلا تَلْقَنِي
+  إلاَّ وأنْفُكَ رَاغِمُ</font></font></b></td></tr></table><font class=\"TextResultArabic\"><font
+  color=\"black\">بمعنى: فلا انبسط من بين عينيك ما انزوى، ولا لقيتني على الدعاء. وكان
   بعض نحويّي الكوفة يقول: هو دعاء، كأنه قال: اللهم فلا يؤمنوا. قال: وإن شئت جعلتها
   جوابا لمسئلته إياه، لأن المسئلة خرجت على لفظ الأمر، فتجعل { فلا يؤْمِنُوا } في موضع
-  نصب على الجواب، وليس بسهل.\r\n\t\t\t\r\n\t\t\t1 2 3 4 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَقَالَ مُوسَىٰ رَبَّنَآ إِنَّكَ آتَيْتَ
-  فِرْعَوْنَ وَمَلأَهُ زِينَةً وَأَمْوَالاً فِي ٱلْحَيَاةِ ٱلدُّنْيَا رَبَّنَا لِيُضِلُّواْ
-  عَن سَبِيلِكَ رَبَّنَا ٱطْمِسْ عَلَىٰ أَمْوَالِهِمْ وَٱشْدُدْ عَلَىٰ قُلُوبِهِمْ
-  فَلاَ يُؤْمِنُواْ حَتَّىٰ يَرَوُاْ ٱلْعَذَابَ ٱلأَلِيمَ }قال: ويكون كقول الشاعر:يا
-  ناقَ سِيرِي عَنَقاً فَسِيحا   إلى سُلَيْمَانَ فَنَستَرِيحاقال: وليس الجواب بسهل
-  في الدعاء لأنه ليس بشرط.والصواب من القول في ذلك أنه في موضع جزم على الدعاء، بمعنى:
-  فلا آمنوا. وإنما اخترت ذلك لأن ما قبله دعاء، وذلك قوله:{ رَبَّنا اطْمِسْ على أمْوَالِهِمْ
-  وَاشْدُدْ على قُلُوبِهِمْ }فإلحاق قوله: { فَلا يؤْمِنُوا } إذ كان في سياق ذلك بمعناه
-  أشبهُ وأولى.وأما قوله: { حتى يَرَوُا العَذَابَ الألِيمَ } فإن ابن عباس كان يقول:
-  معناه: حتى يروا الغرق.وقد ذكرنا الرواية عنه بذلك من بعض وجوهها فيما مضى.حدثني القاسم،
-  قال: ثنا الحسين، قال: ثني حجاج، عن ابن جريج، قال ابن عباس: { فَلا يؤْمِنُوا حتى
-  يَرَوُا العَذَابَ الألِيمَ } قال: الغرق.\r\n\t\t\t\r\n\t\t\t1 2 3 4 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  نصب على الجواب، وليس بسهل.</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">3 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(10, 88)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(10,88)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَقَالَ مُوسَىٰ رَبَّنَآ إِنَّكَ آتَيْتَ فِرْعَوْنَ
+  وَمَلأَهُ زِينَةً وَأَمْوَالاً فِي ٱلْحَيَاةِ ٱلدُّنْيَا رَبَّنَا لِيُضِلُّواْ عَن
+  سَبِيلِكَ رَبَّنَا ٱطْمِسْ عَلَىٰ أَمْوَالِهِمْ وَٱشْدُدْ عَلَىٰ قُلُوبِهِمْ فَلاَ
+  يُؤْمِنُواْ حَتَّىٰ يَرَوُاْ ٱلْعَذَابَ ٱلأَلِيمَ</a> <b>}</b></font>, <br/>, <br/>,
+  <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">قال:
+  ويكون كقول الشاعر:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><table
+  class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">يا ناقَ سِيرِي عَنَقاً فَسِيحا</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">إلى سُلَيْمَانَ فَنَستَرِيحا</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">قال: وليس الجواب بسهل في الدعاء
+  لأنه ليس بشرط.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">والصواب من القول في ذلك أنه في
+  موضع جزم على الدعاء، بمعنى: فلا آمنوا. وإنما اخترت ذلك لأن ما قبله دعاء، وذلك قوله:</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">رَبَّنا
+  اطْمِسْ على أمْوَالِهِمْ وَاشْدُدْ على قُلُوبِهِمْ</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">فإلحاق قوله: { فَلا يؤْمِنُوا }
+  إذ كان في سياق ذلك بمعناه أشبهُ وأولى.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وأما
+  قوله: { حتى يَرَوُا العَذَابَ الألِيمَ } فإن ابن عباس كان يقول: معناه: حتى يروا
+  الغرق.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقد ذكرنا الرواية عنه بذلك من بعض
+  وجوهها فيما مضى.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثني القاسم، قال: ثنا الحسين،
+  قال: ثني حجاج، عن ابن جريج، قال ابن عباس: { فَلا يؤْمِنُوا حتى يَرَوُا العَذَابَ
+  الألِيمَ } قال: الغرق.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">4 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section>"
 

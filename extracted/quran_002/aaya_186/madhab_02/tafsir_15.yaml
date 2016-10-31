@@ -1,4 +1,4 @@
-location:
+position:
   sura: '002'
   aaya: '186'
   madhab: '02'
@@ -9,29 +9,67 @@ meta:
   year: '597'
 aaya: وَإِذَا سَأَلَكَ عِبَادِي عَنِّي فَإِنِّي قَرِيبٌ ۖ أُجِيبُ دَعْوَةَ الدَّاعِ
   إِذَا دَعَانِ ۖ فَلْيَسْتَجِيبُوا لِي وَلْيُؤْمِنُوا بِي لَعَلَّهُمْ يَرْشُدُونَ
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَإِذَا سَأَلَكَ
-  عِبَادِي عَنِّي فَإِنِّي قَرِيبٌ أُجِيبُ دَعْوَةَ ٱلدَّاعِ إِذَا دَعَانِ فَلْيَسْتَجِيبُواْ
-  لِي وَلْيُؤْمِنُواْ بِي لَعَلَّهُمْ يَرْشُدُونَ }قوله تعالى: { وإذا سألك عبادي عني
-  }في سبب نزولها خمسة أقوال.أحدها: أن أعرابياً جاء إلى النبي صلى الله عليه وسلم، فقال:
-  أقريب ربنا فنناجيه، أم بعيد فنناديه؟ فنزلت هذه الآية، رواه الصلت بن حكيم عن أبيه
-  عن جده.والثاني: أن يهود المدينة قالوا: يا محمد! كيف يسمع ربنا دعاءنا، وأنت تزعم
-  أن بيننا وبين السماء مسيرة خمسمائة عام؟! فنزلت هذه الآية، رواه أبو صالح عن ابن عباس.والثالث:
-  أنهم قالوا: يا رسول الله! لو نعلم أية ساعة أحب إلى الله أن ندعو فيها دعوانا، فنزلت
-  هذه الآية، قاله عطاء.والرابع: أن أصحاب النبي قالوا له: أين الله؟ فنزلت هذه الآية،
-  قاله الحسن.والخامس: أنه لما حرم في الصوم الأول على المسلمين بعد النوم الأكل والجماع؛
-  أكل رجل منهم بعد أن نام، ووطئ رجل بعد أن نام، فسألوا: كيف التوبة مما عملوا؟ فنزلت
-  هذه الآية، قاله مقاتل. ومعنى الكلام: إذا سألوك عني، فأعلمهم أني قريب.وفي معنى «أجيب»
-  قولان. أحدهما: أسمع، قاله الفراء، وابن القاسم. والثاني: أنه من الإِجابة { فليستجيبوا
-  لي } أي: فليجيبوني. قال الشاعر:وداع دعا يا من يجيب إِلى الندى   فلم يستجبه عند ذاك
-  مجيبأراد: فلم يجبه. وهذا قول أبي عبيدة، وابن قتيبة، والزجاج. { لعلهم يرشدون } قال
-  أبو العالية: يعني: يهتدون.فصلإن قال قائل: هذه الآية تدل على أن الله تعالى يجيب أدعية
-  الداعين، وترى كثيراً من الداعين لا يستجاب لهم!فالجواب: أن أبا سعيد روى عن النبي
-  صلى الله عليه وسلم، أنه قال: \" ما من مسلم دعا الله تعالى بدعوة ليس فيها قطيعة رحم
-  ولا إِثم؛ إلا أعطاه الله بها إحدى ثلاث خصال: إِما أن يعجل دعوته، وإِما أن يدخرها
-  له في الآخرة، وإِما أن يدفع عنه من السوء مثلها \" وجواب آخر: وهو أن الدعاء تفتقر
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(2, 186)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(2,186)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَإِذَا
+  سَأَلَكَ عِبَادِي عَنِّي فَإِنِّي قَرِيبٌ أُجِيبُ دَعْوَةَ ٱلدَّاعِ إِذَا دَعَانِ
+  فَلْيَسْتَجِيبُواْ لِي وَلْيُؤْمِنُواْ بِي لَعَلَّهُمْ يَرْشُدُونَ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">قوله تعالى: { وإذا سألك عبادي عني }</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">في
+  سبب نزولها خمسة أقوال.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">أحدها: أن أعرابياً جاء إلى النبي
+  صلى الله عليه وسلم، فقال: أقريب ربنا فنناجيه، أم بعيد فنناديه؟ فنزلت هذه الآية،
+  رواه الصلت بن حكيم عن أبيه عن جده.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">والثاني:
+  أن يهود المدينة قالوا: يا محمد! كيف يسمع ربنا دعاءنا، وأنت تزعم أن بيننا وبين السماء
+  مسيرة خمسمائة عام؟! فنزلت هذه الآية، رواه أبو صالح عن ابن عباس.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">والثالث: أنهم قالوا: يا رسول الله! لو نعلم أية ساعة أحب إلى الله
+  أن ندعو فيها دعوانا، فنزلت هذه الآية، قاله عطاء.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">والرابع:
+  أن أصحاب النبي قالوا له: أين الله؟ فنزلت هذه الآية، قاله الحسن.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">والخامس: أنه لما حرم في الصوم الأول على المسلمين بعد النوم الأكل
+  والجماع؛ أكل رجل منهم بعد أن نام، ووطئ رجل بعد أن نام، فسألوا: كيف التوبة مما عملوا؟
+  فنزلت هذه الآية، قاله مقاتل. ومعنى الكلام: إذا سألوك عني، فأعلمهم أني قريب.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وفي معنى «أجيب» قولان. أحدهما: أسمع، قاله الفراء، وابن القاسم. والثاني:
+  أنه من الإِجابة { فليستجيبوا لي } أي: فليجيبوني. قال الشاعر:</font></font><table
+  class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">وداع دعا يا من يجيب إِلى الندى</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">فلم يستجبه عند ذاك مجيب</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">أراد: فلم يجبه. وهذا قول أبي عبيدة،
+  وابن قتيبة، والزجاج. { لعلهم يرشدون } قال أبو العالية: يعني: يهتدون.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">فصل</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">إن قال قائل: هذه الآية تدل على
+  أن الله تعالى يجيب أدعية الداعين، وترى كثيراً من الداعين لا يستجاب لهم!</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">فالجواب: أن أبا سعيد روى عن النبي صلى الله عليه وسلم، أنه قال:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" ما من مسلم دعا الله تعالى بدعوة
+  ليس فيها قطيعة رحم ولا إِثم؛ إلا أعطاه الله بها إحدى ثلاث خصال: إِما أن يعجل دعوته،
+  وإِما أن يدخرها له في الآخرة، وإِما أن يدفع عنه من السوء مثلها \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\">وجواب آخر: وهو أن الدعاء تفتقر
   إجابته إلى شروط أصلها الطاعة لله، ومنها أكل الحلال، فإن أكل الحرام يمنع إجابة الدعاء،
-  ومنها حضور القلب، ففي بعض الحديث: \" لا يقبل الله دعاءً من قلب غافل لاه \" وجواب
-  آخر: وهو أن الداعي قد يعتقد المصلحة في إجابته إلى ما سأل، وقد لا تكون المصلحة في
-  ذلك، فيجاب إلى مقصوده الأصلي، وهو: طلب المصلحة، وقد تكون المصلحة في التأخير أو في
-  المنع.\r\n\t\t\t\r\n\t\t\t</section>"
+  ومنها حضور القلب، ففي بعض الحديث:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" لا يقبل الله دعاءً من قلب غافل لاه \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\">وجواب آخر: وهو أن الداعي قد يعتقد
+  المصلحة في إجابته إلى ما سأل، وقد لا تكون المصلحة في ذلك، فيجاب إلى مقصوده الأصلي،
+  وهو: طلب المصلحة، وقد تكون المصلحة في التأخير أو في المنع.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

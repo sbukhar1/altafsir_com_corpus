@@ -1,4 +1,4 @@
-location:
+position:
   sura: '020'
   aaya: '125'
   madhab: '01'
@@ -7,156 +7,384 @@ meta:
   title: تفسير جامع البيان في تفسير القرآن
   author: الطبري
   year: '310'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَمَنْ أَعْرَضَ
-  عَن ذِكْرِي فَإِنَّ لَهُ مَعِيشَةً ضَنكاً وَنَحْشُرُهُ يَوْمَ ٱلْقِيامَةِ أَعْمَىٰ
-  } * { قَالَ رَبِّ لِمَ حَشَرْتَنِيۤ أَعْمَىٰ وَقَدْ كُنتُ بَصِيراً } * { قَالَ كَذٰلِكَ
-  أَتَتْكَ آيَاتُنَا فَنَسِيتَهَا وَكَذٰلِكَ ٱلْيَوْمَ تُنْسَىٰ }يقول تعالـى ذكره:
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(20, 124)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(20,124)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَمَنْ
+  أَعْرَضَ عَن ذِكْرِي فَإِنَّ لَهُ مَعِيشَةً ضَنكاً وَنَحْشُرُهُ يَوْمَ ٱلْقِيامَةِ
+  أَعْمَىٰ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">قَالَ رَبِّ لِمَ حَشَرْتَنِيۤ أَعْمَىٰ وَقَدْ
+  كُنتُ بَصِيراً</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">قَالَ كَذٰلِكَ أَتَتْكَ آيَاتُنَا فَنَسِيتَهَا
+  وَكَذٰلِكَ ٱلْيَوْمَ تُنْسَىٰ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\"
+  dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">يقول تعالـى ذكره:
   { وَمَنْ أعْرَضَ عَنْ ذِكْري } الذي أذكره به فتولـى عنه ولـم يقبله ولـم يستـجب له،
   ولـم يتعظ به فـينزجر عما هو علـيه مقـيـم من خلافه أمر ربه { فإنَّ لَهُ مَعِيشَةً
   ضَنْكاً } يقول: فإن له معيشة ضيقة. والضنك من الـمنازل والأماكن والـمعايش: الشديد
   يقال: هذا منزل ضنك: إذا كان ضيقاً، وعيش ضنك: الذكر والأنثى والواحد والاثنان والـجمع
-  بلفظ واحد ومنه قول عنترة:وإنْ نَزَلُوا بضَنْكٍ فأنْزلِ   وبنحو الذي قلنا فـي ذلك
-  قال أهل التأويل. ذكر من قال ذلك:حدثني علـيّ، قال: ثنا عبد الله، قال: ثنـي معاوية،
-  عن علـيّ، عن ابن عبـاس، قوله: { فإنَّ لَهُ مَعِيشَةً ضَنْكاً } يقول: الشقاء.حدثنـي
-  مـحمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى وحدثنـي الـحارث، قال: ثنا الـحسن
-  قال: ثنا ورقاء جميعاً عن ابن أبـي نـجيح، عن مـجاهد، قوله: { ضَنْكاً } قال: ضيقة.حدثنا
+  بلفظ واحد ومنه قول عنترة:</font></font><table class=\"TextArabic\" dir=\"rtl\"><tr
+  class=\"TextArabic\"><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">وإنْ نَزَلُوا بضَنْكٍ فأنْزلِ</font></font></b></td><td class=\"TextArabic\">   </td><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\"/></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">وبنحو الذي قلنا فـي ذلك قال أهل
+  التأويل. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثني علـيّ، قال: ثنا عبد الله،
+  قال: ثنـي معاوية، عن علـيّ، عن ابن عبـاس، قوله: { فإنَّ لَهُ مَعِيشَةً ضَنْكاً }
+  يقول: الشقاء.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي مـحمد بن عمرو، قال: ثنا
+  أبو عاصم، قال: ثنا عيسى وحدثنـي الـحارث، قال: ثنا الـحسن قال: ثنا ورقاء جميعاً عن
+  ابن أبـي نـجيح، عن مـجاهد، قوله: { ضَنْكاً } قال: ضيقة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
   الـحسن، قال: ثنا عبد الرزاق، عن معمر، عن قَتادة، فـي قوله: { فإنَّ لَهُ مَعِيشَةً
-  ضَنْكاً } قال: الضنك: الضيق.حدثنا ابن حميد، قال: ثنا حكام، عن عنبسة، عن مـحمد بن
-  عبد الرحمن، عن القاسم بن أبـي بزّة، عن مـجاهد، فـي قوله: { فإنَّ لَهُ مَعَيشَةً
-  ضَنْكاً } يقول: ضيقة.حدثنا القاسم، قال: ثنا الـحسين، قال: ثنـي حجاج، عن ابن جُرَيج،
-  عن مـجاهد، مثله.واختلف أهل التأويـل فـي الـموضع الذي جعل الله لهؤلاء الـمعرضين عن
-  ذكره العيشة الضنك، والـحال التـي جعلهم فـيها، فقال بعضهم: جعل ذلك لهم فـي الآخرة
-  فـي جهنـم، وذلك أنهم جعل طعامهم فـيها الضريع والزقوم. ذكر من قال ذلك:حدثنـي مـحمد
-  بن عمرو بن علـيّ بن مقدم، قال: ثنا يحيى بن سعيد، عن عوفُ، عن الـحسن، فـي قوله: {
-  فإنَّ لَهُ مَعِيشَةً ضَنْكاً } قال: فـي جهنـم.حدثنـي يونس، قال: أخبرنا ابن وهب،
+  ضَنْكاً } قال: الضنك: الضيق.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن حميد، قال: ثنا حكام، عن عنبسة، عن مـحمد بن عبد الرحمن، عن القاسم بن أبـي بزّة،
+  عن مـجاهد، فـي قوله: { فإنَّ لَهُ مَعَيشَةً ضَنْكاً } يقول: ضيقة.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا القاسم، قال: ثنا الـحسين، قال: ثنـي حجاج، عن ابن جُرَيج، عن
+  مـجاهد، مثله.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">واختلف أهل التأويـل فـي الـموضع
+  الذي جعل الله لهؤلاء الـمعرضين عن ذكره العيشة الضنك، والـحال التـي جعلهم فـيها،
+  فقال بعضهم: جعل ذلك لهم فـي الآخرة فـي جهنـم، وذلك أنهم جعل طعامهم فـيها الضريع
+  والزقوم. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي مـحمد بن عمرو بن علـيّ بن
+  مقدم، قال: ثنا يحيى بن سعيد، عن عوفُ، عن الـحسن، فـي قوله: { فإنَّ لَهُ مَعِيشَةً
+  ضَنْكاً } قال: فـي جهنـم.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي يونس، قال: أخبرنا ابن وهب،
   قال: قال ابن زيد، فـي قوله: { وَمَنْ أعْرَضَ عَنْ ذِكْرِي فإنَّ لَهُ مَعِيشَةً ضَنْكاً
-  } فقرأ حتـى بلغ:{ ولَـمْ يُؤْمِنْ بآياتِ رَبِّهِ }قال: هؤلاء أهل الكفر. قال: ومعيشة
+  } فقرأ حتـى بلغ:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">ولَـمْ يُؤْمِنْ بآياتِ رَبِّهِ</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">قال: هؤلاء أهل الكفر. قال: ومعيشة
   ضنكاً فـي النار شوك من نار وزقوم وغسلـين، والضريع: شوك من نار، ولـيس فـي القبر ولا
-  فـي الدنـيا معيشة، ما الـمعيشة والـحياة إلا فـي الآخرة، وقرأ قول الله عزّ وجلّ:{ يا
-  لَـيْتَنِـي قَدَّمْتُ لِـحَياتِـي }قال: لـمعيشتـي قال: والغسلـين والزقوم: شيء لا
-  يعرفه أهل الدنـيا.حدثنا الـحسن، قال: ثنا عبد الرزاق، عن معمر، عن قتادة { فإنَّ لَهُ
-  مَعِيشَةً ضَنْكاً } قال: فـي النار.وقال آخرون: بل عنى بذلك: فإن له معيشة فـي الدنـيا
-  حراماً. قال: ووصف الله جلّ وعزّ معيشتهم بـالضنك، لأن الـحرام وإن اتسع فهو ضنك. ذكر
-  من قال ذلك:حدثنا مـحمد بن حميد، قال: ثنا يحيى بن واضح، قال: ثنا الـحسين بن واقد،
-  عن يزيد، عن عكرِمة فـي قوله: { مَعِيشَةً ضَنْكاً } قال: هي الـمعيشة التـي أوسع الله
-  علـيه من الـحرام.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَمَنْ أَعْرَضَ عَن ذِكْرِي فَإِنَّ
-  لَهُ مَعِيشَةً ضَنكاً وَنَحْشُرُهُ يَوْمَ ٱلْقِيامَةِ أَعْمَىٰ } * { قَالَ رَبِّ
-  لِمَ حَشَرْتَنِيۤ أَعْمَىٰ وَقَدْ كُنتُ بَصِيراً } * { قَالَ كَذٰلِكَ أَتَتْكَ آيَاتُنَا
-  فَنَسِيتَهَا وَكَذٰلِكَ ٱلْيَوْمَ تُنْسَىٰ }حدثنـي داود بن سلـيـمان بن يزيد الـمكتب
-  من أهل البصرة، قال: ثنا عمرو بن جرير البجلـي، عن إسماعيـل بن أبـي خالد، عن قـيس
-  بن أبـي حازم فـي قول الله: { مَعِيشَةً ضَنْكاً } قال: رزقاً فـي معصيته.حدثنـي عبد
-  الأعلـى بن واصل، قال: ثنا يعلـى بن عبـيد، قال: ثنا أبو بسطام، عن الضحاك { فإنَّ
-  لَهُ مَعيشَةً ضَنْكاً } قال: الكسب الـخبـيث.حدثنـي مـحمد بن إسماعيـل الصراري، قال:
-  ثنا مـحمد بن سوار، قال: ثنا أبو الـيقظان عمار بن مـحمد، عن هارون بن مـحمد التـيـمي،
+  فـي الدنـيا معيشة، ما الـمعيشة والـحياة إلا فـي الآخرة، وقرأ قول الله عزّ وجلّ:</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">يا
+  لَـيْتَنِـي قَدَّمْتُ لِـحَياتِـي</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">قال: لـمعيشتـي قال: والغسلـين والزقوم:
+  شيء لا يعرفه أهل الدنـيا.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا الـحسن، قال: ثنا عبد الرزاق،
+  عن معمر، عن قتادة { فإنَّ لَهُ مَعِيشَةً ضَنْكاً } قال: فـي النار.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال آخرون: بل عنى بذلك: فإن له معيشة فـي الدنـيا حراماً. قال: ووصف
+  الله جلّ وعزّ معيشتهم بـالضنك، لأن الـحرام وإن اتسع فهو ضنك. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا مـحمد بن حميد، قال: ثنا يحيى بن واضح، قال: ثنا الـحسين بن
+  واقد، عن يزيد، عن عكرِمة فـي قوله: { مَعِيشَةً ضَنْكاً } قال: هي الـمعيشة التـي
+  أوسع الله علـيه من الـحرام.</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\"
+  border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE:
+  none; BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(20, 124)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(20,124)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَمَنْ أَعْرَضَ عَن ذِكْرِي فَإِنَّ لَهُ مَعِيشَةً
+  ضَنكاً وَنَحْشُرُهُ يَوْمَ ٱلْقِيامَةِ أَعْمَىٰ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">قَالَ رَبِّ لِمَ
+  حَشَرْتَنِيۤ أَعْمَىٰ وَقَدْ كُنتُ بَصِيراً</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">قَالَ كَذٰلِكَ أَتَتْكَ
+  آيَاتُنَا فَنَسِيتَهَا وَكَذٰلِكَ ٱلْيَوْمَ تُنْسَىٰ</a> <b>}</b></font>, <br/>,
+  <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  داود بن سلـيـمان بن يزيد الـمكتب من أهل البصرة، قال: ثنا عمرو بن جرير البجلـي، عن
+  إسماعيـل بن أبـي خالد، عن قـيس بن أبـي حازم فـي قول الله: { مَعِيشَةً ضَنْكاً }
+  قال: رزقاً فـي معصيته.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي عبد الأعلـى بن واصل، قال:
+  ثنا يعلـى بن عبـيد، قال: ثنا أبو بسطام، عن الضحاك { فإنَّ لَهُ مَعيشَةً ضَنْكاً
+  } قال: الكسب الـخبـيث.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي مـحمد بن إسماعيـل الصراري،
+  قال: ثنا مـحمد بن سوار، قال: ثنا أبو الـيقظان عمار بن مـحمد، عن هارون بن مـحمد التـيـمي،
   عن الضحاك، فـي قوله: { فإنَّ لَهُ مَعِيشَةً ضَنْكاً } قال: العمل الـخبـيث، والرزق
-  السيىء.وقال آخرون مـمن قال عنى أن لهؤلاء القوم الـمعيشة الضنك فـي الدنـيا، إنـما
-  قـيـل لها ضنك وإن كانت واسعة، لأنهم ينفقون ما ينفقون من أموالهم علـى تكذيب منهم
-  بـالـخـلف من الله، وإياس من فضل الله، وسوء ظنّ منهم بربهم، فتشتدّ لذلك علـيهم معيشتهم
-  وتضيق ذكر من قال ذلك:حدثنـي مـحمد بن سعد، قال: ثنـي أبـي، قال: ثنـي عمي، قال: ثنـي
-  أبـي، عن أبـيه، عن ابن عبـاس، قوله: { وَمَنْ أعْرَضَ عَنْ ذِكْرِي فإنَّ لَهُ مَعِيشَةً
+  السيىء.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال آخرون مـمن قال عنى أن لهؤلاء
+  القوم الـمعيشة الضنك فـي الدنـيا، إنـما قـيـل لها ضنك وإن كانت واسعة، لأنهم ينفقون
+  ما ينفقون من أموالهم علـى تكذيب منهم بـالـخـلف من الله، وإياس من فضل الله، وسوء
+  ظنّ منهم بربهم، فتشتدّ لذلك علـيهم معيشتهم وتضيق ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي مـحمد بن سعد، قال: ثنـي أبـي، قال: ثنـي عمي، قال: ثنـي أبـي،
+  عن أبـيه، عن ابن عبـاس، قوله: { وَمَنْ أعْرَضَ عَنْ ذِكْرِي فإنَّ لَهُ مَعِيشَةً
   ضَنْكاً } يقول: كلّ مال أعطيته عبداً من عبـادي قلّ أو كثر، لا يتقـينـي فـيه، لا
   خير فـيه، وهو الضنك فـي الـمعيشة. ويقال: إن قوماً ضُلاَّلاً أعرضوا عن الـحق وكانوا
   أولـي سعة من الدنـيا مكثرين، فكانت معيشتهم ضنكا، وذلك أنهم كانوا يرون أن الله عزّ
   وجلّ لـيس بـمخـلف لهم معايشهم من سوء ظنهم بـالله، والتكذيب به، فإذا كان العبد يكذّب
-  بـالله، ويسيء الظنّ به، اشتدّت علـيه معيشته، فذلك الضنك.وقال آخرون: بل عنـي بذلك:
-  أن ذلك لهم فـي البرزخ، وهو عذاب القبر. ذكر من قال ذلك:حدثنـي يزيد بن مخـلد الواسطي،
-  قال: ثنا خالد بن عبد الله، عن عبد الرحمن بن إسحاق، عن أبـي حازم عن النعمان بن أبـي
-  عياش، عن أبـي سعيد الـخدريّ، قال فـي قول الله: { مَعِيشَةً ضَنْكاً } قال: عذاب القبر.حدثنـي
+  بـالله، ويسيء الظنّ به، اشتدّت علـيه معيشته، فذلك الضنك.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  آخرون: بل عنـي بذلك: أن ذلك لهم فـي البرزخ، وهو عذاب القبر. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي يزيد بن مخـلد الواسطي، قال: ثنا خالد بن عبد الله، عن عبد
+  الرحمن بن إسحاق، عن أبـي حازم عن النعمان بن أبـي عياش، عن أبـي سعيد الـخدريّ، قال
+  فـي قول الله: { مَعِيشَةً ضَنْكاً } قال: عذاب القبر.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
   مـحمد بن عبد الله بن بزيع، قال: ثنا بِشر بن الـمفضل، قال: ثنا عبد الرحمن بن إسحاق،
   عن أبـي حازم، عن النعمان بن أبـي عياش، عن أبـي سعيد الـخُدريّ، قال: إن الـمعيشة
-  الضنك، التـي قال الله: عذاب القبر.حدثنـي حوثرة بن مـحمد الـمنقري، قال: ثنا سفـيان،
-  عن أبـي حازم، عن أبـي سلـمة، عن أبـي سعيد الـخُدريّ { فإنَّ لَهُ مَعِيشَةً ضَنْكاً
-  } قال: يضيق علـيه قبره حتـى تـختلف أضلاعه.حدثنـي مـحمد بن عبد الله بن عبد الـحكم،
-  قال: ثنا أبـي وشعيب بن اللـيث، عن اللـيث، قال: ثنا خالد بن زيد، عن ابن أبـي هلال،
-  عن أبـي حازم، عن أبـي سعيد، أنه كان يقول: الـمعيشة الضنك: عذاب القبر، إنه يسلط علـى
-  الكافر فـي قبره تسعة وتسعون تنّـينا تنهشه وتـخدش لـحمه حتـى يُبعث.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَمَنْ أَعْرَضَ عَن ذِكْرِي فَإِنَّ
-  لَهُ مَعِيشَةً ضَنكاً وَنَحْشُرُهُ يَوْمَ ٱلْقِيامَةِ أَعْمَىٰ } * { قَالَ رَبِّ
-  لِمَ حَشَرْتَنِيۤ أَعْمَىٰ وَقَدْ كُنتُ بَصِيراً } * { قَالَ كَذٰلِكَ أَتَتْكَ آيَاتُنَا
-  فَنَسِيتَهَا وَكَذٰلِكَ ٱلْيَوْمَ تُنْسَىٰ }وكان يقال: لو أن تنّـينا منها نفخ الأرض
-  لـم تنبت زرعاً.حدثنا مـجاهد بن موسى، قال: ثنا يزيد، قال: ثنا مـحمد بن عمرو، عن أبـي
-  سلـمة، عن أبـي هريرة، قال: يطبق علـى الكافر قبره حتـى تـختلف فـيه أضلاعه، وهي الـمعيشة
-  الضنك التـي قال الله: { مَعِيشَةً ضَنْكاً ونـحْشُرُهُ يَوْمَ القِـيامَةِ أعْمَى
-  }.حدثنا أبو كريب، قال: ثنا جابر بن نوح، عن إسماعيـل بن أبـي خالد، عن أبـي صالـح
-  والسديّ فـي قوله: { مَعِيشَةً ضَنْكاً } قال: عذاب القبر.حدثنا مـحمد بن إسماعيـل
-  الأحمسي، قال: ثنا مـحمد بن عبـيد، قال: ثنا سفـيان الثوري، عن إسماعيـل بن أبـي خالد،
-  عن أبـي صالـح، فـي قوله: { فإنَّ لَهُ مَعِيشَةً ضَنْكاً } قال: عذاب القبر.حدثنـي
-  عبد الرحمن بن الأسود، قال: ثنا مـحمد بن ربـيعة، قال: ثنا أبو عُمَيس، عن عبد الله
-  بن مخارق عن أبـيه، عن عبد الله، فـي قوله: { مَعِيشَةً ضَنْكاً } قال: عذاب القبر.حدثني
+  الضنك، التـي قال الله: عذاب القبر.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  حوثرة بن مـحمد الـمنقري، قال: ثنا سفـيان، عن أبـي حازم، عن أبـي سلـمة، عن أبـي سعيد
+  الـخُدريّ { فإنَّ لَهُ مَعِيشَةً ضَنْكاً } قال: يضيق علـيه قبره حتـى تـختلف أضلاعه.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي مـحمد بن عبد الله بن عبد الـحكم، قال: ثنا أبـي وشعيب بن اللـيث،
+  عن اللـيث، قال: ثنا خالد بن زيد، عن ابن أبـي هلال، عن أبـي حازم، عن أبـي سعيد، أنه
+  كان يقول: الـمعيشة الضنك: عذاب القبر، إنه يسلط علـى الكافر فـي قبره تسعة وتسعون
+  تنّـينا تنهشه وتـخدش لـحمه حتـى يُبعث.</font></font>&#13;\t\t\t<label disabled=\"true\"
+  class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(20, 124)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(20,124)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَمَنْ أَعْرَضَ عَن ذِكْرِي فَإِنَّ لَهُ مَعِيشَةً
+  ضَنكاً وَنَحْشُرُهُ يَوْمَ ٱلْقِيامَةِ أَعْمَىٰ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">قَالَ رَبِّ لِمَ
+  حَشَرْتَنِيۤ أَعْمَىٰ وَقَدْ كُنتُ بَصِيراً</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">قَالَ كَذٰلِكَ أَتَتْكَ
+  آيَاتُنَا فَنَسِيتَهَا وَكَذٰلِكَ ٱلْيَوْمَ تُنْسَىٰ</a> <b>}</b></font>, <br/>,
+  <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">وكان
+  يقال: لو أن تنّـينا منها نفخ الأرض لـم تنبت زرعاً.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  مـجاهد بن موسى، قال: ثنا يزيد، قال: ثنا مـحمد بن عمرو، عن أبـي سلـمة، عن أبـي هريرة،
+  قال: يطبق علـى الكافر قبره حتـى تـختلف فـيه أضلاعه، وهي الـمعيشة الضنك التـي قال
+  الله: { مَعِيشَةً ضَنْكاً ونـحْشُرُهُ يَوْمَ القِـيامَةِ أعْمَى }.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا أبو كريب، قال: ثنا جابر بن نوح، عن إسماعيـل بن أبـي خالد،
+  عن أبـي صالـح والسديّ فـي قوله: { مَعِيشَةً ضَنْكاً } قال: عذاب القبر.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا مـحمد بن إسماعيـل الأحمسي، قال: ثنا مـحمد بن عبـيد، قال: ثنا
+  سفـيان الثوري، عن إسماعيـل بن أبـي خالد، عن أبـي صالـح، فـي قوله: { فإنَّ لَهُ مَعِيشَةً
+  ضَنْكاً } قال: عذاب القبر.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي عبد الرحمن بن الأسود، قال:
+  ثنا مـحمد بن ربـيعة، قال: ثنا أبو عُمَيس، عن عبد الله بن مخارق عن أبـيه، عن عبد
+  الله، فـي قوله: { مَعِيشَةً ضَنْكاً } قال: عذاب القبر.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
   عبد الرحيـم البرقـيّ، قال: ثنا ابن أبـي مَريـم، قال: ثنا مـحمد بن جعفر وابن أبـي
   حازم، قالا: ثنا أبو حازم، عن النعمان بن أبـي عياش، عن أبـي سعيد الـخدريّ { مَعِيشَةً
-  ضَنْكاً } قال: عذاب القبر.قال أبو جعفر: وأولـى الأقوال فـي ذلك بـالصواب قول من قال:
-  هو عذاب القبر الذي:حدثنا به أحمد بن عبد الرحمن بن وهب، قال: ثنا عمي عبد الله بن
-  وهب، قال: أخبرنـي عمرو بن الـحارث، عن درّاج، عن ابن حُجَيرة عن أبـي هريرة، عن رسول
-  الله صلى الله عليه وسلم أنه قال: \" أتَدْرُونَ فِـيـمَ أُنْزِلَتْ هَذِهِ الآيَةُ:
-  { فإنَّ لَهُ مَعيشَةً ضَنْكاً وَنـحْشُرُهُ يَوْمَ القـيامَةِ أعْمَى } أتَدْرُونَ
-  ما الـمَعِيشَةً الضَّنْكُ؟ \" قالوا: الله ورسوله أعلـم، قال: \" عَذَابُ الكافرِ
-  فـي قَبْرِهِ، والَّذِي نَفْسي بـيَدِهِ، إنَّه لَـيُسَلَّطُ عَلَـيْهِ تَسْعَةٌ وَتِسْعُونَ
-  تِنِّـيناً، أتَدْرُونَ ما التِّنِـينُ: تسْعَةٌ وَتسْعُونَ حَيَّة، لكلّ حَيَّة سَبْعَةُ
-  رُؤُوسٍ، يَنْفُخُونَ فـي جِسْمِهِ وَيَـلْسَعُونَهُ ويَخْدِشُونَهُ إلـى يَوْمِ القِـيامَةِ
-  \" وإن الله تبـارك وتعالـى أتبع ذلك بقوله:{ وَلَعَذَابُ الآخِرَةِ أشَدُّ وأبْقَـى }فكان
+  ضَنْكاً } قال: عذاب القبر.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">قال أبو جعفر: وأولـى الأقوال فـي
+  ذلك بـالصواب قول من قال: هو عذاب القبر الذي:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  به أحمد بن عبد الرحمن بن وهب، قال: ثنا عمي عبد الله بن وهب، قال: أخبرنـي عمرو بن
+  الـحارث، عن درّاج، عن ابن حُجَيرة عن أبـي هريرة، عن رسول الله صلى الله عليه وسلم
+  أنه قال:</font></font><b><font class=\"TextResultArabic\"><font color=\"Red\"> \"
+  أتَدْرُونَ فِـيـمَ أُنْزِلَتْ هَذِهِ الآيَةُ: { فإنَّ لَهُ مَعيشَةً ضَنْكاً وَنـحْشُرُهُ
+  يَوْمَ القـيامَةِ أعْمَى } أتَدْرُونَ ما الـمَعِيشَةً الضَّنْكُ؟ \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\">قالوا: الله ورسوله أعلـم، قال:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" عَذَابُ الكافرِ فـي قَبْرِهِ،
+  والَّذِي نَفْسي بـيَدِهِ، إنَّه لَـيُسَلَّطُ عَلَـيْهِ تَسْعَةٌ وَتِسْعُونَ تِنِّـيناً،
+  أتَدْرُونَ ما التِّنِـينُ: تسْعَةٌ وَتسْعُونَ حَيَّة، لكلّ حَيَّة سَبْعَةُ رُؤُوسٍ،
+  يَنْفُخُونَ فـي جِسْمِهِ وَيَـلْسَعُونَهُ ويَخْدِشُونَهُ إلـى يَوْمِ القِـيامَةِ
+  \" </font></font></b><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وإن الله تبـارك وتعالـى أتبع ذلك
+  بقوله:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">وَلَعَذَابُ الآخِرَةِ أشَدُّ وأبْقَـى</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">فكان
   معلوماً بذلك أن الـمعيشة الضنك التـي جعلها الله لهم قبل عذاب الآخرة، لأن ذلك لو
-  كان فـي الآخرة لـم يكن لقوله{ وَلَعَذَابُ الآخِرَةِ أشَدُّ وأبْقَـى }معنى مفهوم،
-  لأن ذلك إن لـم يكن تقدّمه عذاب لهم قبل الآخرة، حتـى يكون الذي فـي الآخرة أشدّ منه،
-  بطل معنى قوله{ وَلَعَذَابُ الآخِرَةِ أشَدُّ وأبْقَـى }فإذ كان ذلك كذلك، فلا تـخـلو
-  تلك الـمعيشة الضنك التـي جعلها الله لهم من أن تكون لهم فـي حياتهم الدنـيا، أو فـي
-  قبورهم قبل البعث، إذ كان لأوجه لأن تكون فـي الآخرة لـما قد بـيَّنا، فإن كانت لهم
-  فـي حياتهم الدنـيا، فقد يجب أن يكون كلّ من أعرض عن ذكر الله من الكفـار، فإن معيشته
-  فـيها ضنك، وفـي وجودنا كثـيراً منهم أوسع معيشة من كثـير من الـمقبلـين علـى ذكر الله
-  تبـارك وتعالـى، القائلـين له الـمؤمنـين فـي ذلك، ما يدلّ علـى أن ذلك لـيس كذلك،
-  وإذ خلا القول فـي ذلك من هذين الوجهين صحّ الوجه الثالث، وهو أن ذلك فـي البرزخ.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَمَنْ أَعْرَضَ عَن ذِكْرِي فَإِنَّ
-  لَهُ مَعِيشَةً ضَنكاً وَنَحْشُرُهُ يَوْمَ ٱلْقِيامَةِ أَعْمَىٰ } * { قَالَ رَبِّ
-  لِمَ حَشَرْتَنِيۤ أَعْمَىٰ وَقَدْ كُنتُ بَصِيراً } * { قَالَ كَذٰلِكَ أَتَتْكَ آيَاتُنَا
-  فَنَسِيتَهَا وَكَذٰلِكَ ٱلْيَوْمَ تُنْسَىٰ }وقوله: { ونَـحْشُرُهُ يَوْمَ القِـيامَةِ
-  أعْمَى } اختلف أهل التأويـل فـي صفة العمى الذي ذكر الله فـي هذه الآية، أنه يبعث
-  هؤلاء الكفـار يوم القـيامة به، فقال بعضهم: ذلك عمى عن الـحجة، لا عمى عن البصر. ذكر
-  من قال ذلك:حدثنا مـحمد بن إسماعيـل الأحمسي، قال: ثنا مـحمد بن عبـيد، قال: ثنا سفـيان
-  الثوري، عن إسماعيـل بن أبـي خالد، عن أبـي صالـح، فـي قوله: { ونَـحْشُرُهُ يَوْمَ
-  القِـيامَةِ أعْمَى } قال: لـيس له حجة.حدثنـي مـحمد بن عمرو، قال: ثنا أبو عاصم، قال:
-  ثنا عيسى وحدثنـي الـحارث، قال: ثنا الـحسن، قال: ثنا ورقاء، جميعاً عن ابن أبـي نـجيح،
-  عن مـجاهد، فـي قوله: { ونَـحْشُرُهُ يَوْمَ القِـيامَةِ أعْمَى } قال: عن الـحجة.حدثنا
-  القاسم، قال: ثنا الـحسين، قال: ثنـي حجاج، عن ابن جُرَيج، عن مـجاهد، مثله، وقـيـل:
-  يحشر أعمى البصر.قال أبو جعفر: والصواب من القول فـي ذلك ما قال الله تعالـى ذكره،
-  وهو أنه يحشر أعمى عن الـحجة ورؤية الشيء كما أخبر جلّ ثناؤه، فعمّ ولـم يخصص.وقوله:
-  { قالَ رَبّ لِـمَ حَشَرْتَنِـي أعْمَى وَقَدْ كُنْتُ بَصِيراً } اختلف أهل التأويـل
-  فـي تأويـل ذلك. فقال بعضهم فـي ذلك، ما:حدثنا ابن بشار، قال: ثنا عبد الرزاق، عن ابن
-  نـجيح، عن مـجاهد { قالَ رَبّ لِـمَ حَشَرْتَنِـي أعْمَى } لا حجة لـي.وقوله: { وَقَدْ
-  كُنْتُ بَصِيراً } اختلف أهل التأويـل ذلك، فقال بعضهم: معناه: وقد كنت بصيراً بحجتـي.
-  ذكر من قال ذلك:حدثنا القاسم، قال: ثنا الـحسين، قال: ثنـي حجاج، عن ابن جُرَيج، عن
-  مـجاهد { وَقَدْ كُنْتُ بَصِيراً } قال: عالـماً بحجتـي.وقال آخرون: بل معناه: وقد
-  كنت ذا بصر أبصر به الأشياء. ذكر من قال ذلكحدثنـي مـحمد بن عمرو، قال: ثنا أبو عاصم،
-  قال: ثنا عيسى وحدثنـي الـحارث، قال: ثنا الـحسن، قال: ثنا ورقاء، جميعاً عن ابن أبـي
-  نـجيح، عن مـجاهد { وَقَدْ كُنْتُ بَصِيراً } فـي الدنـيا.حدثنا بشر، قال: ثنا يزيد
-  قال: ثنا سعيد، عن قتادة، قوله: { قالَ رَبّ لِـمَ حَشَرْتَنِـي أعْمَى وَقَدْ كُنْتُ
-  بَصِيراً } قال: كان بعيد البصر، قصير النظر، أعمى عن الـحقّ.قال أبو جعفر: والصواب
-  من القول فـي ذلك عندنا، أن الله عزّ وجلّ ثناؤه، عمّ بـالـخبر عنه بوصفه نفسه بـالبصر،
-  ولـم يخصص منه معنى دون معنى، فذلك علـى ما عمه فإذا كان ذلك كذلك، فتأويـل الآية،
-  قال: ربّ لـم حشرتنـي أعمى عن حجتـي ورؤية الأشياء، وقد كنت فـي الدنـيا ذا بصر بذلك
-  كله.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَمَنْ أَعْرَضَ عَن ذِكْرِي فَإِنَّ
-  لَهُ مَعِيشَةً ضَنكاً وَنَحْشُرُهُ يَوْمَ ٱلْقِيامَةِ أَعْمَىٰ } * { قَالَ رَبِّ
-  لِمَ حَشَرْتَنِيۤ أَعْمَىٰ وَقَدْ كُنتُ بَصِيراً } * { قَالَ كَذٰلِكَ أَتَتْكَ آيَاتُنَا
-  فَنَسِيتَهَا وَكَذٰلِكَ ٱلْيَوْمَ تُنْسَىٰ }فإن قال قائل: وكيف قال هذا لربه: { لِـمَ
-  حَشَرْتَنِـي أعْمَى } مع معاينته عظيـم سلطانه، أجهل فـي ذلك الـموقـف أن يكون لله
-  أن يفعل به ما شاء، أم ما وجه ذلك؟ قـيـل: إن ذلك منه مسألة لربه يعرّفه الـجرم الذي
-  استـحقّ به ذلك، إذ كان قد جهله، وظنّ أن لا جرم له، استـحق ذلك به منه، فقال: ربّ
-  لأيّ ذنب ولأيّ جرم حشرتنـي أعمى، وقد كنت من قبل فـي الدنـيا بصيراً وأنت لا تعاقب
-  أحداً إلا بدون ما يستـحق منك من العقاب.وقوله: { قالَ كَذَلكَ أتَتْكَ آياتنا فَنَسِيتَها
-  } يقول تعالـى ذكره، قال الله حينئذٍ للقائل له: { لِـمَ حَشَرْتَنِـي أعْمَى وَقَدْ
-  كُنْتُ بَصِيراً }: فعلت ذلك بك، فحشرتك أعمى كما أتتك آياتـي، وهي حججه وأدلته وبـيانه
-  الذي بـيَّنه فـي كتابه، فنسيتها: يقول: فتركتها وأعرضت عنها، ولـم تؤمن بها، ولـم
-  تعمل. وعنى بقوله { كَذَلكَ أتَتْك } هكذا أتتكَ.وقوله: { وكذلكَ الـيَوْمَ تُنْسَى
-  } يقول: فكما نسيت آياتنا فـي الدنـيا، فتركتها وأعرضت عنها، فكذلك الـيوم ننساك، فنتركك
-  فـي النار.وقد اختلف أهل التأويـل فـي معنى قوله { وكَذَلكَ الـيَوْمَ تُنْسَى } فقال
-  بعضهم بـمثل الذي قلنا فـي ذلك. ذكر من قال ذلك:حدثنا مـحمد بن إسماعيـل الأحمسي، قال،
-  ثنا مـحمد بن عبـيد، قال: ثنا سفـيان الثوري، عن إسماعيـل بن أبـي خالد، عن أبـي صالـح،
-  فـي قوله: { وكَذَلكَ الـيَوْمَ تُنْسَى } قال: فـي النار.حدثنا الـحسن، قال: أخبرنا
-  عبد الرزاق، قال: أخبرنا معمر، عن ابن أبـي نـجيح، عن مـجاهد، فـي قوله: { كَذَلكَ
-  أتَتْكَ آياتُنا فَنَسِيتَها } قال: فتركتها { وكَذَلكَ الـيَوْمَ تُنْسَى } وكذلك
-  الـيوم تترك فـي النار.ورُوي عن قتادة فـي ذلك ما.حدثنـي بِشر، قال: ثنا يزيد، قال:
+  كان فـي الآخرة لـم يكن لقوله</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">وَلَعَذَابُ الآخِرَةِ أشَدُّ وأبْقَـى</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">معنى
+  مفهوم، لأن ذلك إن لـم يكن تقدّمه عذاب لهم قبل الآخرة، حتـى يكون الذي فـي الآخرة
+  أشدّ منه، بطل معنى قوله</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">وَلَعَذَابُ الآخِرَةِ أشَدُّ وأبْقَـى</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">فإذ
+  كان ذلك كذلك، فلا تـخـلو تلك الـمعيشة الضنك التـي جعلها الله لهم من أن تكون لهم
+  فـي حياتهم الدنـيا، أو فـي قبورهم قبل البعث، إذ كان لأوجه لأن تكون فـي الآخرة لـما
+  قد بـيَّنا، فإن كانت لهم فـي حياتهم الدنـيا، فقد يجب أن يكون كلّ من أعرض عن ذكر
+  الله من الكفـار، فإن معيشته فـيها ضنك، وفـي وجودنا كثـيراً منهم أوسع معيشة من كثـير
+  من الـمقبلـين علـى ذكر الله تبـارك وتعالـى، القائلـين له الـمؤمنـين فـي ذلك، ما
+  يدلّ علـى أن ذلك لـيس كذلك، وإذ خلا القول فـي ذلك من هذين الوجهين صحّ الوجه الثالث،
+  وهو أن ذلك فـي البرزخ.</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">3 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(20, 124)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(20,124)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَمَنْ أَعْرَضَ عَن ذِكْرِي فَإِنَّ لَهُ مَعِيشَةً
+  ضَنكاً وَنَحْشُرُهُ يَوْمَ ٱلْقِيامَةِ أَعْمَىٰ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">قَالَ رَبِّ لِمَ
+  حَشَرْتَنِيۤ أَعْمَىٰ وَقَدْ كُنتُ بَصِيراً</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">قَالَ كَذٰلِكَ أَتَتْكَ
+  آيَاتُنَا فَنَسِيتَهَا وَكَذٰلِكَ ٱلْيَوْمَ تُنْسَىٰ</a> <b>}</b></font>, <br/>,
+  <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">وقوله:
+  { ونَـحْشُرُهُ يَوْمَ القِـيامَةِ أعْمَى } اختلف أهل التأويـل فـي صفة العمى الذي
+  ذكر الله فـي هذه الآية، أنه يبعث هؤلاء الكفـار يوم القـيامة به، فقال بعضهم: ذلك
+  عمى عن الـحجة، لا عمى عن البصر. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  مـحمد بن إسماعيـل الأحمسي، قال: ثنا مـحمد بن عبـيد، قال: ثنا سفـيان الثوري، عن إسماعيـل
+  بن أبـي خالد، عن أبـي صالـح، فـي قوله: { ونَـحْشُرُهُ يَوْمَ القِـيامَةِ أعْمَى
+  } قال: لـيس له حجة.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي مـحمد بن عمرو، قال: ثنا
+  أبو عاصم، قال: ثنا عيسى وحدثنـي الـحارث، قال: ثنا الـحسن، قال: ثنا ورقاء، جميعاً
+  عن ابن أبـي نـجيح، عن مـجاهد، فـي قوله: { ونَـحْشُرُهُ يَوْمَ القِـيامَةِ أعْمَى
+  } قال: عن الـحجة.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا القاسم، قال: ثنا الـحسين،
+  قال: ثنـي حجاج، عن ابن جُرَيج، عن مـجاهد، مثله، وقـيـل: يحشر أعمى البصر.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قال أبو جعفر: والصواب من القول فـي ذلك ما قال الله تعالـى ذكره،
+  وهو أنه يحشر أعمى عن الـحجة ورؤية الشيء كما أخبر جلّ ثناؤه، فعمّ ولـم يخصص.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقوله: { قالَ رَبّ لِـمَ حَشَرْتَنِـي أعْمَى وَقَدْ كُنْتُ بَصِيراً
+  } اختلف أهل التأويـل فـي تأويـل ذلك. فقال بعضهم فـي ذلك، ما:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن بشار، قال: ثنا عبد الرزاق، عن ابن نـجيح، عن مـجاهد { قالَ
+  رَبّ لِـمَ حَشَرْتَنِـي أعْمَى } لا حجة لـي.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقوله:
+  { وَقَدْ كُنْتُ بَصِيراً } اختلف أهل التأويـل ذلك، فقال بعضهم: معناه: وقد كنت بصيراً
+  بحجتـي. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا القاسم، قال: ثنا الـحسين،
+  قال: ثنـي حجاج، عن ابن جُرَيج، عن مـجاهد { وَقَدْ كُنْتُ بَصِيراً } قال: عالـماً
+  بحجتـي.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال آخرون: بل معناه: وقد كنت ذا
+  بصر أبصر به الأشياء. ذكر من قال ذلك</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  مـحمد بن عمرو، قال: ثنا أبو عاصم، قال: ثنا عيسى وحدثنـي الـحارث، قال: ثنا الـحسن،
+  قال: ثنا ورقاء، جميعاً عن ابن أبـي نـجيح، عن مـجاهد { وَقَدْ كُنْتُ بَصِيراً } فـي
+  الدنـيا.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا بشر، قال: ثنا يزيد قال: ثنا
+  سعيد، عن قتادة، قوله: { قالَ رَبّ لِـمَ حَشَرْتَنِـي أعْمَى وَقَدْ كُنْتُ بَصِيراً
+  } قال: كان بعيد البصر، قصير النظر، أعمى عن الـحقّ.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال
+  أبو جعفر: والصواب من القول فـي ذلك عندنا، أن الله عزّ وجلّ ثناؤه، عمّ بـالـخبر عنه
+  بوصفه نفسه بـالبصر، ولـم يخصص منه معنى دون معنى، فذلك علـى ما عمه فإذا كان ذلك كذلك،
+  فتأويـل الآية، قال: ربّ لـم حشرتنـي أعمى عن حجتـي ورؤية الأشياء، وقد كنت فـي الدنـيا
+  ذا بصر بذلك كله.</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">4 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(20, 124)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(20,124)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَمَنْ أَعْرَضَ عَن ذِكْرِي فَإِنَّ لَهُ مَعِيشَةً
+  ضَنكاً وَنَحْشُرُهُ يَوْمَ ٱلْقِيامَةِ أَعْمَىٰ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">قَالَ رَبِّ لِمَ
+  حَشَرْتَنِيۤ أَعْمَىٰ وَقَدْ كُنتُ بَصِيراً</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">قَالَ كَذٰلِكَ أَتَتْكَ
+  آيَاتُنَا فَنَسِيتَهَا وَكَذٰلِكَ ٱلْيَوْمَ تُنْسَىٰ</a> <b>}</b></font>, <br/>,
+  <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">فإن
+  قال قائل: وكيف قال هذا لربه: { لِـمَ حَشَرْتَنِـي أعْمَى } مع معاينته عظيـم سلطانه،
+  أجهل فـي ذلك الـموقـف أن يكون لله أن يفعل به ما شاء، أم ما وجه ذلك؟ قـيـل: إن ذلك
+  منه مسألة لربه يعرّفه الـجرم الذي استـحقّ به ذلك، إذ كان قد جهله، وظنّ أن لا جرم
+  له، استـحق ذلك به منه، فقال: ربّ لأيّ ذنب ولأيّ جرم حشرتنـي أعمى، وقد كنت من قبل
+  فـي الدنـيا بصيراً وأنت لا تعاقب أحداً إلا بدون ما يستـحق منك من العقاب.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقوله: { قالَ كَذَلكَ أتَتْكَ آياتنا فَنَسِيتَها } يقول تعالـى ذكره،
+  قال الله حينئذٍ للقائل له: { لِـمَ حَشَرْتَنِـي أعْمَى وَقَدْ كُنْتُ بَصِيراً }:
+  فعلت ذلك بك، فحشرتك أعمى كما أتتك آياتـي، وهي حججه وأدلته وبـيانه الذي بـيَّنه فـي
+  كتابه، فنسيتها: يقول: فتركتها وأعرضت عنها، ولـم تؤمن بها، ولـم تعمل. وعنى بقوله
+  { كَذَلكَ أتَتْك } هكذا أتتكَ.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقوله:
+  { وكذلكَ الـيَوْمَ تُنْسَى } يقول: فكما نسيت آياتنا فـي الدنـيا، فتركتها وأعرضت
+  عنها، فكذلك الـيوم ننساك، فنتركك فـي النار.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقد
+  اختلف أهل التأويـل فـي معنى قوله { وكَذَلكَ الـيَوْمَ تُنْسَى } فقال بعضهم بـمثل
+  الذي قلنا فـي ذلك. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  مـحمد بن إسماعيـل الأحمسي، قال، ثنا مـحمد بن عبـيد، قال: ثنا سفـيان الثوري، عن إسماعيـل
+  بن أبـي خالد، عن أبـي صالـح، فـي قوله: { وكَذَلكَ الـيَوْمَ تُنْسَى } قال: فـي النار.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا الـحسن، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر، عن ابن أبـي
+  نـجيح، عن مـجاهد، فـي قوله: { كَذَلكَ أتَتْكَ آياتُنا فَنَسِيتَها } قال: فتركتها
+  { وكَذَلكَ الـيَوْمَ تُنْسَى } وكذلك الـيوم تترك فـي النار.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">ورُوي
+  عن قتادة فـي ذلك ما.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي بِشر، قال: ثنا يزيد، قال:
   ثنا سعيد، عن قَتادة { قالَ كَذَلكَ أتَتَكَ آياتُنا فَنَسِيتَها وكَذَلكَ الـيَوْمَ
-  تُنْسَى } قال: نسي من الـخير، ولـم ينس من الشرّ.وهذا القول الذي قاله قَتادة قريب
-  الـمعنى مـما قاله أبو صالـح ومـجاهد، لأن تركه إياهم فـي النار أعظم الشرّ لهم.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  تُنْسَى } قال: نسي من الـخير، ولـم ينس من الشرّ.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وهذا
+  القول الذي قاله قَتادة قريب الـمعنى مـما قاله أبو صالـح ومـجاهد، لأن تركه إياهم
+  فـي النار أعظم الشرّ لهم.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">5 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a id=\"NextClass\"/></td></tr></table></center></div></section>"
 

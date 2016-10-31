@@ -1,4 +1,4 @@
-location:
+position:
   sura: '013'
   aaya: 039
   madhab: '01'
@@ -8,189 +8,488 @@ meta:
   author: الطبري
   year: '310'
 aaya: يَمْحُو اللَّهُ مَا يَشَاءُ وَيُثْبِتُ ۖ وَعِنْدَهُ أُمُّ الْكِتَابِ
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ يَمْحُواْ ٱللَّهُ
-  مَا يَشَآءُ وَيُثْبِتُ وَعِندَهُ أُمُّ ٱلْكِتَابِ }اختلف أهل التأويـل فـي تأويـل
-  ذلك، فقال بعضهم: يـمـحو الله ما يشاء من أمور عبـاده، فـيغيرّه، إلاَّ الشقاء والسعادة
-  فإنهما لا يغيران. ذكر من قال ذلك:حدثنا أبو كريب، قال: ثنا بحر بن عيسى، عن ابن أبـي
-  لـيـلـى، عن الـمنهال، عن سعيد بن جبـير، عن ابن عبـاس، فـي قوله: { يَـمْـحُو اللّهُ
-  ما يَشاءُ وَيُثْبِتُ وَعِنْدَهُ أُمُّ الكِتابِ } قال: يدبر الله أمر العبـاد فـيـمـحو
-  ما يشاء، إلاَّ الشقاءَ والسعادة والـموت.حدثنا ابن بشار، قال: ثنا ابن أبـي لـيـلـى،
-  عن الـمنهال بن عمرو، عن سعيد بن جبـير، عن ابن عبـاس، فـي قوله: { يَـمْـحُو اللّهُ
-  ما يَشاءُ وَيُثْبِتُ وَعِنْدَهُ أُمُّ الكِتابِ } قال: كلّ شيء غير السعادة والشقاء،
-  فإنهما قد فُرِغ منهما.حدثنـي علـيّ بن سهل، قال: ثنا يزيد، وحدثنا أحمد، قال ثنا أبو
-  أحمد، عن سفـيان، عن ابن أبـي لـيـلـى عن الـمنهال، عن سعيد بن جبـير، عن ابن عبـاس
-  يقول: { يَـمْـحُو اللّهُ ما يَشاءُ وَيُثْبِتُ وَعِنْدَهُ أُمُّ الكِتابِ } قال: إلاَّ
-  الشقاء والسعادة، والـموت والـحياة.حدثنـي الـمثنى، قال: ثنا أبو نعيـم الفضل بن دكين
-  وقبـيصة قالا: ثنا سفـيان، عن ابن أبـي لـيـلـى، عن الـمنهال بن عمرو، عن سعيد بن جبـير،
-  عن ابن عبـاس، مثله.حدثنا عمرو بن علـيّ، قال: ثنا وكيع، قال: ثنا ابن أبـي لـيـلـى،
-  عن الـمنهال بن عمرو، عن سعيد بن جبـير، عن ابن عبـاس، قوله: { يَـمْـحُو اللّهُ ما
-  يَشاءُ وَيُثْبِتُ وَعِنْدَهُ أُمُّ الكِتابِ } قال: قال ابن عبـاس: إلاَّ الـحياة
-  والـموت، والشقاء والسعادة.حدثنـي الـمثنى، قال: ثنا عمرو بن عون، قال: أخبرنا هشيـم،
-  عن ابن أبـي لـيـلـى، عن الـمنهال بن عمرو، عن سعيد بن جبـير، عن ابن عبـاس، فـي قوله:
-  { يَـمْـحُو اللّهُ ما يَشاءُ وَيُثْبِتُ وَعِنْدَهُ أُمُّ الكِتابِ } قال: يقدر الله
-  أمر السنة فـي لـيـلة القدر، إلاَّ الشقاء والسعادة والـموت والـحياة.حدثنا عمرو بن
-  علـيّ، قال: ثنا أبو عاصم، قال: ثنا سفـيان، عن منصور، عن مـجاهد، فـي قوله: { يَـمْـحُو
-  اللّهُ ما يَشاءُ وَيُثْبِتُ } قال: إلاَّ الـحياة والـموت والسعادة والشقاوة فإنهما
-  لا يتغيران.حدثنا عمرو قال: ثنا عبد الرحمن، قال: ثنا معاذ بن عقبة، عن منصور، عن مـجاهد،
-  مثله.حدثنا ابن بشار، قال: ثنا أبو أحمد، قال: ثنا سفـيان، عن منصور، عن مـجاهد، مثله.قال:
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(13, 39)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(13,39)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">يَمْحُواْ
+  ٱللَّهُ مَا يَشَآءُ وَيُثْبِتُ وَعِندَهُ أُمُّ ٱلْكِتَابِ</a> <b>}</b></font>, <br/>,
+  <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">اختلف
+  أهل التأويـل فـي تأويـل ذلك، فقال بعضهم: يـمـحو الله ما يشاء من أمور عبـاده، فـيغيرّه،
+  إلاَّ الشقاء والسعادة فإنهما لا يغيران. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  أبو كريب، قال: ثنا بحر بن عيسى، عن ابن أبـي لـيـلـى، عن الـمنهال، عن سعيد بن جبـير،
+  عن ابن عبـاس، فـي قوله: { يَـمْـحُو اللّهُ ما يَشاءُ وَيُثْبِتُ وَعِنْدَهُ أُمُّ
+  الكِتابِ } قال: يدبر الله أمر العبـاد فـيـمـحو ما يشاء، إلاَّ الشقاءَ والسعادة والـموت.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن بشار، قال: ثنا ابن أبـي لـيـلـى، عن الـمنهال بن عمرو،
+  عن سعيد بن جبـير، عن ابن عبـاس، فـي قوله: { يَـمْـحُو اللّهُ ما يَشاءُ وَيُثْبِتُ
+  وَعِنْدَهُ أُمُّ الكِتابِ } قال: كلّ شيء غير السعادة والشقاء، فإنهما قد فُرِغ منهما.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي علـيّ بن سهل، قال: ثنا يزيد، وحدثنا أحمد، قال ثنا أبو أحمد،
+  عن سفـيان، عن ابن أبـي لـيـلـى عن الـمنهال، عن سعيد بن جبـير، عن ابن عبـاس يقول:
+  { يَـمْـحُو اللّهُ ما يَشاءُ وَيُثْبِتُ وَعِنْدَهُ أُمُّ الكِتابِ } قال: إلاَّ الشقاء
+  والسعادة، والـموت والـحياة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  الـمثنى، قال: ثنا أبو نعيـم الفضل بن دكين وقبـيصة قالا: ثنا سفـيان، عن ابن أبـي
+  لـيـلـى، عن الـمنهال بن عمرو، عن سعيد بن جبـير، عن ابن عبـاس، مثله.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا عمرو بن علـيّ، قال: ثنا وكيع، قال: ثنا ابن أبـي لـيـلـى، عن
+  الـمنهال بن عمرو، عن سعيد بن جبـير، عن ابن عبـاس، قوله: { يَـمْـحُو اللّهُ ما يَشاءُ
+  وَيُثْبِتُ وَعِنْدَهُ أُمُّ الكِتابِ } قال: قال ابن عبـاس: إلاَّ الـحياة والـموت،
+  والشقاء والسعادة.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي الـمثنى، قال: ثنا عمرو بن
+  عون، قال: أخبرنا هشيـم، عن ابن أبـي لـيـلـى، عن الـمنهال بن عمرو، عن سعيد بن جبـير،
+  عن ابن عبـاس، فـي قوله: { يَـمْـحُو اللّهُ ما يَشاءُ وَيُثْبِتُ وَعِنْدَهُ أُمُّ
+  الكِتابِ } قال: يقدر الله أمر السنة فـي لـيـلة القدر، إلاَّ الشقاء والسعادة والـموت
+  والـحياة.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا عمرو بن علـيّ، قال: ثنا أبو
+  عاصم، قال: ثنا سفـيان، عن منصور، عن مـجاهد، فـي قوله: { يَـمْـحُو اللّهُ ما يَشاءُ
+  وَيُثْبِتُ } قال: إلاَّ الـحياة والـموت والسعادة والشقاوة فإنهما لا يتغيران.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا عمرو قال: ثنا عبد الرحمن، قال: ثنا معاذ بن عقبة، عن منصور،
+  عن مـجاهد، مثله.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن بشار، قال: ثنا أبو أحمد،
+  قال: ثنا سفـيان، عن منصور، عن مـجاهد، مثله.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال:
   ثنا أبو أحمد، قال: ثنا سفـيان، عن منصور، قال: قلت لـمـجاهد: إن كنتَ كتبتنـي سعيداً
-  فأثبتنـي، وإن كنتَ كتبتنـي شقـيًّا فـامـحنـي قال: الشقاء والسعادة قد فُرغ منهما.حدثنا
-  أحمد، قال: ثنا أبو أحمد، قال: ثنا سفـيان، عن منصور، عن مـجاهد قال: ثنا سعيد بن سلمان،
-  قال: ثنا شريك، عن منصور، عن مـجاهد: { يَـمْـحُو اللّهُ ما يَشاءُ وَيُثْبِتُ } قال:
-  ينزل الله كلّ شيء فـي السنة فـي لـيـلة القدر، فـيـمـحو ما يشاء من الآجال والأرزاق
-  والـمقادير، إلاَّ الشقاء والسعادة، فإنهما ثابتان.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ يَمْحُواْ ٱللَّهُ مَا يَشَآءُ وَيُثْبِتُ
-  وَعِندَهُ أُمُّ ٱلْكِتَابِ }حدثنا ابن حميد، قال: ثنا جرير، عن منصور، قال: سألت مـجاهداً
-  فقلت أرأيت دعاء أحدنا يقول: اللهمّ إن كان اسمي فـي السعداء فأثبته فـيهم، وإن كان
-  فـي الأشقـياء فـامـحُه واجعله فـي السعداء؟ فقال: حسن. ثم أتـيته بعد ذلك بحول أو
-  أكثر من ذلك، فسألته عن ذلك، فقال:{ إنَّا أنْزَلْناهُ فِـي لَـيْـلَةٍ مُبـارَكَةٍ
-  إنَّا كُنَّا مُنْذِرِينَ فِـيها يُفْرَقُ كُلُّ أمْرٍ حَكِيـمٍ }قال: يُقْضَى فـي
-  لـيـلة القدر ما يكون فـي السنة من رزق أو مصيبة، ثم يقدّم ما يشاء ويؤخِّر ما يشاء.
-  فأما كتاب الشقاء والسعادة فهو ثابت لا يغير.وقال آخرون: معنى ذلك: أن الله يـمـحو
-  ما يشاء ويُثبت من كتاب سوى أمّ الكتاب الذي لا يغير منه شيء. ذكر من قال ذلك:حدثنـي
-  الـمثنى، قال: ثنا الـحجاج، قال: ثنا حماد، عن سلـيـمان التـيـمي، عن عكرمة، عن ابن
-  عبـاس أنه قال فـي هذه الآية: { يَـمْـحُو اللّهُ ما يَشاءُ وَيُثْبِتُ وَعِنْدَهُ
-  أُمُّ الكِتابِ } قال: كتابـان: كتاب يـمـحو منه ما يشاء ويثبت، وعنده أمّ الكتاب.حدثنا
+  فأثبتنـي، وإن كنتَ كتبتنـي شقـيًّا فـامـحنـي قال: الشقاء والسعادة قد فُرغ منهما.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا أحمد، قال: ثنا أبو أحمد، قال: ثنا سفـيان، عن منصور، عن مـجاهد
+  قال: ثنا سعيد بن سلمان، قال: ثنا شريك، عن منصور، عن مـجاهد: { يَـمْـحُو اللّهُ ما
+  يَشاءُ وَيُثْبِتُ } قال: ينزل الله كلّ شيء فـي السنة فـي لـيـلة القدر، فـيـمـحو
+  ما يشاء من الآجال والأرزاق والـمقادير، إلاَّ الشقاء والسعادة، فإنهما ثابتان.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(13, 39)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(13,39)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">يَمْحُواْ ٱللَّهُ مَا يَشَآءُ وَيُثْبِتُ وَعِندَهُ
+  أُمُّ ٱلْكِتَابِ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن حميد، قال: ثنا جرير،
+  عن منصور، قال: سألت مـجاهداً فقلت أرأيت دعاء أحدنا يقول: اللهمّ إن كان اسمي فـي
+  السعداء فأثبته فـيهم، وإن كان فـي الأشقـياء فـامـحُه واجعله فـي السعداء؟ فقال: حسن.
+  ثم أتـيته بعد ذلك بحول أو أكثر من ذلك، فسألته عن ذلك، فقال:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">إنَّا أنْزَلْناهُ فِـي لَـيْـلَةٍ
+  مُبـارَكَةٍ إنَّا كُنَّا مُنْذِرِينَ فِـيها يُفْرَقُ كُلُّ أمْرٍ حَكِيـمٍ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">قال:
+  يُقْضَى فـي لـيـلة القدر ما يكون فـي السنة من رزق أو مصيبة، ثم يقدّم ما يشاء ويؤخِّر
+  ما يشاء. فأما كتاب الشقاء والسعادة فهو ثابت لا يغير.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  آخرون: معنى ذلك: أن الله يـمـحو ما يشاء ويُثبت من كتاب سوى أمّ الكتاب الذي لا يغير
+  منه شيء. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي الـمثنى، قال: ثنا الـحجاج،
+  قال: ثنا حماد، عن سلـيـمان التـيـمي، عن عكرمة، عن ابن عبـاس أنه قال فـي هذه الآية:
+  { يَـمْـحُو اللّهُ ما يَشاءُ وَيُثْبِتُ وَعِنْدَهُ أُمُّ الكِتابِ } قال: كتابـان:
+  كتاب يـمـحو منه ما يشاء ويثبت، وعنده أمّ الكتاب.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
   عمرو بن علـيّ، قال: ثنا سهل بن يوسف، قال: ثنا سلـيـمان التـيـمي، عن عكرمة، فـي قوله:
   { يَـمْـحُو اللّهُ ما يَشاءُ وَيُثْبِتُ وَعِنْدَهُ أُمُّ الكِتابِ } قال: الكتاب
-  كتابـان، كتاب يـمـحو الله منه ما يشاء ويثبت، وعنده أمّ الكتاب.قال: ثنا أبو عامر،
-  قال: ثنا حماد بن سلـمة، عن سلـيـمان التـيـميّ، عن عكرمة، عن ابن عبـاس بـمثله.حدثنا
+  كتابـان، كتاب يـمـحو الله منه ما يشاء ويثبت، وعنده أمّ الكتاب.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قال: ثنا أبو عامر، قال: ثنا حماد بن سلـمة، عن سلـيـمان التـيـميّ،
+  عن عكرمة، عن ابن عبـاس بـمثله.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
   مـحمد بن عبد الأعلـى، قال: ثنا الـمعتـمر بن سلـيـمان، عن أبـيه، عن عكرمة، قال: الكتاب
-  كتابـان { يَـمْـحُو اللّهُ ما يَشاءُ وَيُثْبِتُ وَعِنْدَهُ أُمُّ الكِتابِ }.وقال
-  آخرون: بل معنى ذلك أنه يـمـحو كلّ ما يشاء، ويثبت كلّ ما أراد. ذكر من قال ذلك:حدثنا
-  أبو كريب، قال: ثنا عثّام، عن الأعمش، عن شقـيق أنه كان يقول: اللهمّ إن كنت كتبتنا
-  أشقـياء، فـامـحنا واكتبنا سعداء، وإن كنتَ كتبتنا سعداء فأثبتنا، فإنك تـمـحو ما تشاء
-  وتثبت وعندك أمّ الكتاب.حدثنا عمرو، قال: ثنا وكيع، قال: ثنا الأعمش، عن أبـي وائل،
-  قال: كان مـما يكثر أن يدعو بهؤلاء الكلـمات: اللهمّ إن كنت كتبتنا أشقـياء فـامـحنا
-  واكتبنا سعداء، وإن كنت كتبتنا سعداء فأثبتنا، فإنك تـمـحو ما تشاء وتثبت وعندك أمّ
-  الكتاب.قال: ثنا معاذ بن هشام، قال: ثنا أبـي، عن أبـي حكيـمة، عن أبـي عثمان النهديّ،
-  أن عمر بن الـخطاب قال وهو يطوف بـالبـيت ويبكي: اللهمّ إن كنتَ كتبتَ علـيّ شِقوة
-  أو ذنبـاً فـامـحه، فإنك تـمـحو ما تشاء وتثبت. وعندك أمّ الكتاب، فـاجعله سعادة ومغفرة.قال:
-  ثنا معتـمر، عن أبـيه، عن أبـي حكيـمة، عن أبـي عثمان، قال: وأحسبنـي قد سمعته من أبـي
-  عثمان، مثله.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ يَمْحُواْ ٱللَّهُ مَا يَشَآءُ وَيُثْبِتُ
-  وَعِندَهُ أُمُّ ٱلْكِتَابِ }قال: ثنا أبو عامر، قال: ثنا قرة بن خالد، عن عِصْمة أبـي
-  حكيـمة، عن أبـي عثمان النهديّ، عن عمر رضي الله عنه، مثله.حدثني الـمثنى، قال: ثنا
-  الـحجاج، قال: ثنا حماد، قال: ثنا أبو حكيـمة، قال: سمعت أبـا عثمان النهدي، قال: سمعت
-  عمر بن الـخطَّاب رضي الله عنه يقول وهو يطوف بـالكعبة: اللهمّ إن كنتَ كتبتنـي فـي
-  أهل السعادة فأثبتنـي فـيها، وإن كنت كتبت علـيّ الذنب والشقوة فـامـحنـي وأثبتنـي
-  فـي أهل السعادة، فإنك تـمـحو ما تشاء وتثبت، وعندك أمّ الكتاب.قال: ثنا الـحجاج بن
-  الـمنهال، قال: ثنا حماد، عن خالد الـحذّاء، عن أبـي قِلابة، عن ابن مسعود، أنه كان
-  يقول: اللهمّ إن كنت كتبتنـي فـي أهل الشقاء فـامـحنـي وأثبتنـي فـي أهل السعادة.حدثنـي
-  مـحمد بن سعد، قال: ثنـي أبـي، قال: ثنـي عمي، قال: ثنـي أبـي، عن أبـيه، عن ابن عبـاس،
-  قوله: { يَـمْـحُو اللّهُ ما يَشاءُ وَيُثْبِتُ وَعِنْدَهُ أُمُّ الكِتابِ } يقول:
-  وهو الرجل يعمل الزمان بطاعة الله، ثم يعود لـمعصية الله فـيـموت علـى ضلاله، فهو الذي
-  يـمـحو. والذي يثبت: الرجل يعمل بـمعصية الله، وقد كان سبق له خير حتـى يـموت، وهو
-  فـي طاعة الله، فهو الذي يثبت.حدثنا أحمد، قال: ثنا أبو أحمد، قال: ثنا شريك، عن هلال
-  بن حميد، عن عبد الله بن حكيـم، عن عبد الله، أنه كان يقول: اللهمّ إن كنتَ كتبتنـي
-  فـي السعداء فأثبتنـي فـي السعداء، فإنك تـمـحو ما تشاء وتثبت، وعندك أُم الكِتابِ.حدثنـي
+  كتابـان { يَـمْـحُو اللّهُ ما يَشاءُ وَيُثْبِتُ وَعِنْدَهُ أُمُّ الكِتابِ }.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال آخرون: بل معنى ذلك أنه يـمـحو كلّ ما يشاء، ويثبت كلّ ما أراد.
+  ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا أبو كريب، قال: ثنا عثّام،
+  عن الأعمش، عن شقـيق أنه كان يقول: اللهمّ إن كنت كتبتنا أشقـياء، فـامـحنا واكتبنا
+  سعداء، وإن كنتَ كتبتنا سعداء فأثبتنا، فإنك تـمـحو ما تشاء وتثبت وعندك أمّ الكتاب.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا عمرو، قال: ثنا وكيع، قال: ثنا الأعمش، عن أبـي وائل، قال: كان
+  مـما يكثر أن يدعو بهؤلاء الكلـمات: اللهمّ إن كنت كتبتنا أشقـياء فـامـحنا واكتبنا
+  سعداء، وإن كنت كتبتنا سعداء فأثبتنا، فإنك تـمـحو ما تشاء وتثبت وعندك أمّ الكتاب.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قال: ثنا معاذ بن هشام، قال: ثنا أبـي، عن أبـي حكيـمة، عن أبـي عثمان
+  النهديّ، أن عمر بن الـخطاب قال وهو يطوف بـالبـيت ويبكي: اللهمّ إن كنتَ كتبتَ علـيّ
+  شِقوة أو ذنبـاً فـامـحه، فإنك تـمـحو ما تشاء وتثبت. وعندك أمّ الكتاب، فـاجعله سعادة
+  ومغفرة.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">قال: ثنا معتـمر، عن أبـيه، عن أبـي
+  حكيـمة، عن أبـي عثمان، قال: وأحسبنـي قد سمعته من أبـي عثمان، مثله.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(13, 39)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(13,39)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">يَمْحُواْ ٱللَّهُ مَا يَشَآءُ وَيُثْبِتُ وَعِندَهُ
+  أُمُّ ٱلْكِتَابِ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">قال: ثنا أبو عامر، قال: ثنا قرة
+  بن خالد، عن عِصْمة أبـي حكيـمة، عن أبـي عثمان النهديّ، عن عمر رضي الله عنه، مثله.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني الـمثنى، قال: ثنا الـحجاج، قال: ثنا حماد، قال: ثنا أبو حكيـمة،
+  قال: سمعت أبـا عثمان النهدي، قال: سمعت عمر بن الـخطَّاب رضي الله عنه يقول وهو يطوف
+  بـالكعبة: اللهمّ إن كنتَ كتبتنـي فـي أهل السعادة فأثبتنـي فـيها، وإن كنت كتبت علـيّ
+  الذنب والشقوة فـامـحنـي وأثبتنـي فـي أهل السعادة، فإنك تـمـحو ما تشاء وتثبت، وعندك
+  أمّ الكتاب.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">قال: ثنا الـحجاج بن الـمنهال، قال:
+  ثنا حماد، عن خالد الـحذّاء، عن أبـي قِلابة، عن ابن مسعود، أنه كان يقول: اللهمّ إن
+  كنت كتبتنـي فـي أهل الشقاء فـامـحنـي وأثبتنـي فـي أهل السعادة.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي مـحمد بن سعد، قال: ثنـي أبـي، قال: ثنـي عمي، قال: ثنـي أبـي،
+  عن أبـيه، عن ابن عبـاس، قوله: { يَـمْـحُو اللّهُ ما يَشاءُ وَيُثْبِتُ وَعِنْدَهُ
+  أُمُّ الكِتابِ } يقول: وهو الرجل يعمل الزمان بطاعة الله، ثم يعود لـمعصية الله فـيـموت
+  علـى ضلاله، فهو الذي يـمـحو. والذي يثبت: الرجل يعمل بـمعصية الله، وقد كان سبق له
+  خير حتـى يـموت، وهو فـي طاعة الله، فهو الذي يثبت.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  أحمد، قال: ثنا أبو أحمد، قال: ثنا شريك، عن هلال بن حميد، عن عبد الله بن حكيـم، عن
+  عبد الله، أنه كان يقول: اللهمّ إن كنتَ كتبتنـي فـي السعداء فأثبتنـي فـي السعداء،
+  فإنك تـمـحو ما تشاء وتثبت، وعندك أُم الكِتابِ.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
   الـمثنى، قال: ثنا الـحجاج، قال: ثنا حماد، عن أبـي حمزة، عن إبراهيـم، أن كعبـاً قال
   لعمر رضي الله عنه: يا أمير الـمؤمنـين، لولا آية فـي كتاب الله لأنبأتك ما هو كائن
   إلـى يوم القـيامة، قال: وما هي؟ قال: قول الله: { يَـمْـحُو اللّهُ ما يَشاءُ وَيُثْبِتُ
-  وَعِنْدَهُ أُم الكِتابِ }.حُدثت من الـحسين، قال: سمعت أبـا معاذ يقول: ثنا عبـيد،
-  قال: سمعت الضحاك يقول فـي قوله:{ لِكُلّ أجَلِ كِتاب }.. الآية، يقول: { يَـمْـحُو
-  اللّهُ ما يَشاءُ } يقول: أنسخ ما شئتُ، وأصنع من الأفعال ما شئت، إن شئت زدت فـيها،
-  وإن شئتُ نقصتُ.حدثنا الـحسن بن مـحمد، قال: ثنا عفـان، قال: ثنا همام، قال: ثنا الكلبـي،
-  قال: { يَـمْـحُو اللّهُ ما يَشاءُ وَيُثْبِتُ } قال: يـمـحو من الرزق ويزيد فـيه،
-  ويـمـحي من الأجل ويزيد فـيه. قلت: من حدّثك؟ قال: أبو صالـح، عن جابر بن عبد الله
-  بن رئاب الأنصاري، عن النبـيّ صلى الله عليه وسلم. فقدم الكلبـيّ بعد، فسئُل عن هذه
-  الآية: { يَـمْـحُو اللّهُ ما يَشاءُ وَيُثْبِتُ } قال: يكتب القول كله، حتـى إذا كان
-  يوم الـخميس طرح منه كلّ شيء لـيس فـيه ثواب ولا علـيه عقاب، مثل قولك: أكلت، شربت،
-  دخـلت، خرجت، ونـحو ذلك من الكلام، وهو صادق، ويُثبت ما كان فـيه الثواب وعلـيه العقاب.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ يَمْحُواْ ٱللَّهُ مَا يَشَآءُ وَيُثْبِتُ
-  وَعِندَهُ أُمُّ ٱلْكِتَابِ }حدثنا الـحسن، قال: ثنا عبد الوهاب، قال: سمعت الكلبـي،
-  عن أبـي صالـح نـحوه، ولـم يجاوز أبـا صالـح. وقال آخرون: بل معنى ذلك: بل معنى ذلك:
-  أن الله ينسخ ما يشاء من أحكام كتابه، ويثبت ما يشاء منها فلا ينسخه. ذكر من قال ذلك:حدثنـي
-  الـمثنى، قال: ثنا عبد الله بن صالـح، قال: ثنـي معاوية، عن علـيّ، عن ابن عبـاس: {
-  يَـمْـحُو اللّهُ ما يَشاءُ } قال: من القرآن. يقول: يبدّل الله ما يشاء فـينسخه، ويُثبت
-  ما يشاء فلا يبدّله. { وَعِنْدَهُ أُمُّ الكِتابِ } يقول: وجملة ذلك عنده فـي أمّ الكتاب:
-  الناسخ والـمنسوخ، وما يُبدل، وما يثبت، كل ذلك فـي كتاب.حدثنا بشر، قال: ثنا يزيد،
-  قال: ثنا سعيد، عن قتادة، قوله: { يَـمْـحُو اللّهُ ما يَشاءُ ويُثْبِتُ } هي مثل قوله:{ ما
-  نَنْسَخْ منْ آيَةٍ أوْ نُنْسِها نَأْتِ بِخَيْرٍ مِنْها أوْ مِثْلِها }، وقوله: {
-  وَعِنْدَهُ أُمُّ الكِتابِ }: أي جملة الكتاب وأصله.حدثنا مـحمد بن عبد الأعلـى، قال:
-  ثنا مـحمد بن ثور، عن معمر، عن قتادة: { يَـمْـحُو اللّهُ ما يَشاءُ وَيُثْبِتُ ما
-  يشاء } ، وهو الـحكيـم. { وَعِنْدَهُ أُمُّ الكِتابِ } وأصله.حدثنـي يونس، قال: أخبرنا
-  ابن وهب، قال: قال ابن زيد، فـي قوله: { يَـمْـحُو اللّهُ ما يَشاءُ } بـما ينزل علـى
-  الأنبـياء، { وَيُثْبِتُ } ما يشاء مـما ينزل علـى الأنبـياء. قال: { وَعِنْدَهُ أُمُّ
-  الكِتابِ } لا يغير ولا يبدّل.حدثنا القاسم، قال: ثنا الـحسين، قال: ثنـي حجاج، قال:
-  قال ابن جريج: { يَـمْـحُو اللّهُ ما يَشاءُ } قال: ينسخ. قال: { وَعِنْدَهُ أُمُّ
-  الكِتابِ } قال: الذكر.وقال آخرون: معنى ذلك أنه يـمـحو من قد حان أجله، ويثبت من لـم
-  يجىءْ أجله إلـى أجله. ذكر من قال ذلك:حدثنا مـحمد بن بشار، قال: ثنا ابن أبِـي عديّ،
-  عن عوف، عن الـحسن، فـي قوله: { يَـمْـحُو اللّهُ ما يَشاءُ وَيُثْبِتُ وَعِنْدَهُ
-  أُمُّ الكِتابِ } يقول: يـمـحو من جاء أجله فذهب، والـمثبت الذي هو حيّ يجري إلـى أجله.حدثنا
-  عمرو بن علـيّ، قال: ثنا يحيى، قال: ثنا عوف، قال: سمعت الـحسن: { يَـمْـحُو اللّهُ
-  ما يَشاءُ } قال: من جاء أجله. { وَيُثْبتُ } قال: من لـم يجىء أجله إلـى أجله.حدثنا
-  الـحسن بن مـحمد، قال: ثنا هوذة، قال: ثنا عوف، عن الـحسن، نـحو حديث ابن بشَّار.قال:
-  ثنا عبد الوهاب بن عطاء، قال: أخبرنا سعيد، عن قتادة، عن الـحسن، فـي قوله:{ لِكُلّ
-  أجَلٍ كِتابٌ }قال: آجال بنـي آدم فـي كتاب. { يَـمْـحُو اللّهُ ما يَشاءُ } من أجله
-  { وَيُثْبِتُ وَعِنْدَهُ أُمُّ الكِتابِ }.قال: ثنا شبـابة، قال: ثنا ورقاء، عن ابن
-  أبـي نـجيح، عن مـجاهد، قول الله: { يَـمْـحُو اللّهُ ما يَشاءُ وَيُثْبِتُ } قالت
-  قريش حين أُنزل:{ وَما كانَ لِرَسُولٍ أنْ يَأتِـيَ بآيَةٍ إلاَّ بإذْنِ اللّهِ }\r\n\t\t\t1 2 3 4 5 6 7 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ يَمْحُواْ ٱللَّهُ مَا يَشَآءُ وَيُثْبِتُ
-  وَعِندَهُ أُمُّ ٱلْكِتَابِ }ما نراك يا مـحمد تـملك من شيء، ولقد فرغ من الأمر. فأنزلت
-  هذه الآية تـخويفـاً ووعيداً لهم: إنا إن شئنا أحدثنا له من أمرنا ما شئنا، ونـحدث
-  فـي كلّ رمضان، فنـمـحو ونُثبت ما نشاء من أرزاق الناس ومصائبهم، وما نعطيهم، وما نقسم
-  لهم.حدثنـي الـمثنى، قال: ثنا إسحاق، قال: ثنا عبد الله، عن ورقاء، عن ابن أبـي نـجيح،
-  عن مـجاهد نـحوه.حدثنا القاسم، قال: ثنا الـحسين، قال: ثنـي حجاج، عن ابن جريج، عن
-  مـجاهد، نـحوه.وقال آخرون: معنى ذلك: ويغفر ما يشاء من ذنوب عبـاده، ويترك ما يشاء
-  فلا يغفر. ذكر من قال ذلك:حدثنا ابن حميد، قال: ثنا حكام، عن عمرو، عن عطاء، عن سعيد،
-  فـي قوله { يَـمْـحُو اللّهُ ما يَشاءُ وَيُثْبِتُ } قال: يثبت فـي البطن الشقاء والسعادة
-  وكلّ شيء، فـيغفر منه ما يشاء ويؤخر ما يشاء.وأولـى الأقوال التـي ذكرت فـي ذلك بتأويـل
-  الآية، وأشبهها بـالصواب، القول الذي ذكرناه عن الـحسن ومـجاهد وذلك أن الله تعالـى
-  ذكره توعد الـمشركين الذين سألوا رسول الله صلى الله عليه وسلم الآيات بـالعقوبة وتهدّدهم
-  بها وقال لهم:{ وَما كانَ لرَسُولٍ أنْ يَأْتِـيَ بآيَةٍ إلاَّ بإذْنِ اللّهِ لكُلّ
-  أجَلٍ كتابٌ }يعلـمهم بذلك أن لقضائه فـيهم أجلاً مثبتاً فـي كتاب هم مؤخرون إلـى وقت
-  مـجيء ذلك الأجل، ثم قال لهم: فإذا جاء ذلك الأجل يجيء الله بـما شاء مـمن قد دنا أجله
-  وانقطع رزقه أو حان هلاكه أو اتضاعه، من رفعة أو هلاك مال، فـيقضي ذلك فـي خـلقه، فذلك
-  مـحوه. ويُثبت ما شاء مـمن بقـي أجله ورزقه وأُكْله، فـيتركه علـى ما هو علـيه فلا
-  يـمـحوه. وبهذا الـمعنى جاء الأثر عن رسول الله صلى الله عليه وسلم وذلك ما:حدثنـي
+  وَعِنْدَهُ أُم الكِتابِ }.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حُدثت من الـحسين، قال: سمعت أبـا
+  معاذ يقول: ثنا عبـيد، قال: سمعت الضحاك يقول فـي قوله:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">لِكُلّ أجَلِ كِتاب</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">..
+  الآية، يقول: { يَـمْـحُو اللّهُ ما يَشاءُ } يقول: أنسخ ما شئتُ، وأصنع من الأفعال
+  ما شئت، إن شئت زدت فـيها، وإن شئتُ نقصتُ.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  الـحسن بن مـحمد، قال: ثنا عفـان، قال: ثنا همام، قال: ثنا الكلبـي، قال: { يَـمْـحُو
+  اللّهُ ما يَشاءُ وَيُثْبِتُ } قال: يـمـحو من الرزق ويزيد فـيه، ويـمـحي من الأجل
+  ويزيد فـيه. قلت: من حدّثك؟ قال: أبو صالـح، عن جابر بن عبد الله بن رئاب الأنصاري،
+  عن النبـيّ صلى الله عليه وسلم. فقدم الكلبـيّ بعد، فسئُل عن هذه الآية: { يَـمْـحُو
+  اللّهُ ما يَشاءُ وَيُثْبِتُ } قال: يكتب القول كله، حتـى إذا كان يوم الـخميس طرح
+  منه كلّ شيء لـيس فـيه ثواب ولا علـيه عقاب، مثل قولك: أكلت، شربت، دخـلت، خرجت، ونـحو
+  ذلك من الكلام، وهو صادق، ويُثبت ما كان فـيه الثواب وعلـيه العقاب.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">3 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(13, 39)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(13,39)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">يَمْحُواْ ٱللَّهُ مَا يَشَآءُ وَيُثْبِتُ وَعِندَهُ
+  أُمُّ ٱلْكِتَابِ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا الـحسن، قال: ثنا عبد الوهاب،
+  قال: سمعت الكلبـي، عن أبـي صالـح نـحوه، ولـم يجاوز أبـا صالـح. وقال آخرون: بل معنى
+  ذلك: بل معنى ذلك: أن الله ينسخ ما يشاء من أحكام كتابه، ويثبت ما يشاء منها فلا ينسخه.
+  ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي الـمثنى، قال: ثنا عبد الله
+  بن صالـح، قال: ثنـي معاوية، عن علـيّ، عن ابن عبـاس: { يَـمْـحُو اللّهُ ما يَشاءُ
+  } قال: من القرآن. يقول: يبدّل الله ما يشاء فـينسخه، ويُثبت ما يشاء فلا يبدّله. {
+  وَعِنْدَهُ أُمُّ الكِتابِ } يقول: وجملة ذلك عنده فـي أمّ الكتاب: الناسخ والـمنسوخ،
+  وما يُبدل، وما يثبت، كل ذلك فـي كتاب.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: { يَـمْـحُو اللّهُ ما يَشاءُ
+  ويُثْبِتُ } هي مثل قوله:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">ما نَنْسَخْ منْ آيَةٍ أوْ نُنْسِها نَأْتِ بِخَيْرٍ مِنْها
+  أوْ مِثْلِها</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">، وقوله: { وَعِنْدَهُ أُمُّ الكِتابِ }: أي جملة الكتاب وأصله.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا مـحمد بن عبد الأعلـى، قال: ثنا مـحمد بن ثور، عن معمر، عن قتادة:
+  { يَـمْـحُو اللّهُ ما يَشاءُ وَيُثْبِتُ ما يشاء } ، وهو الـحكيـم. { وَعِنْدَهُ أُمُّ
+  الكِتابِ } وأصله.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي يونس، قال: أخبرنا ابن وهب،
+  قال: قال ابن زيد، فـي قوله: { يَـمْـحُو اللّهُ ما يَشاءُ } بـما ينزل علـى الأنبـياء،
+  { وَيُثْبِتُ } ما يشاء مـما ينزل علـى الأنبـياء. قال: { وَعِنْدَهُ أُمُّ الكِتابِ
+  } لا يغير ولا يبدّل.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا القاسم، قال: ثنا الـحسين،
+  قال: ثنـي حجاج، قال: قال ابن جريج: { يَـمْـحُو اللّهُ ما يَشاءُ } قال: ينسخ. قال:
+  { وَعِنْدَهُ أُمُّ الكِتابِ } قال: الذكر.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  آخرون: معنى ذلك أنه يـمـحو من قد حان أجله، ويثبت من لـم يجىءْ أجله إلـى أجله. ذكر
+  من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا مـحمد بن بشار، قال: ثنا ابن
+  أبِـي عديّ، عن عوف، عن الـحسن، فـي قوله: { يَـمْـحُو اللّهُ ما يَشاءُ وَيُثْبِتُ
+  وَعِنْدَهُ أُمُّ الكِتابِ } يقول: يـمـحو من جاء أجله فذهب، والـمثبت الذي هو حيّ
+  يجري إلـى أجله.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا عمرو بن علـيّ، قال: ثنا يحيى،
+  قال: ثنا عوف، قال: سمعت الـحسن: { يَـمْـحُو اللّهُ ما يَشاءُ } قال: من جاء أجله.
+  { وَيُثْبتُ } قال: من لـم يجىء أجله إلـى أجله.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  الـحسن بن مـحمد، قال: ثنا هوذة، قال: ثنا عوف، عن الـحسن، نـحو حديث ابن بشَّار.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قال: ثنا عبد الوهاب بن عطاء، قال: أخبرنا سعيد، عن قتادة، عن الـحسن،
+  فـي قوله:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">لِكُلّ أجَلٍ كِتابٌ</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">قال: آجال بنـي آدم فـي كتاب. {
+  يَـمْـحُو اللّهُ ما يَشاءُ } من أجله { وَيُثْبِتُ وَعِنْدَهُ أُمُّ الكِتابِ }.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قال: ثنا شبـابة، قال: ثنا ورقاء، عن ابن أبـي نـجيح، عن مـجاهد، قول
+  الله: { يَـمْـحُو اللّهُ ما يَشاءُ وَيُثْبِتُ } قالت قريش حين أُنزل:</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">وَما
+  كانَ لِرَسُولٍ أنْ يَأتِـيَ بآيَةٍ إلاَّ بإذْنِ اللّهِ</font></font> }</b><br class=\"TextArabic\"/><label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">4 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(13, 39)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(13,39)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">يَمْحُواْ ٱللَّهُ مَا يَشَآءُ وَيُثْبِتُ وَعِندَهُ
+  أُمُّ ٱلْكِتَابِ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">ما نراك يا مـحمد تـملك من شيء،
+  ولقد فرغ من الأمر. فأنزلت هذه الآية تـخويفـاً ووعيداً لهم: إنا إن شئنا أحدثنا له
+  من أمرنا ما شئنا، ونـحدث فـي كلّ رمضان، فنـمـحو ونُثبت ما نشاء من أرزاق الناس ومصائبهم،
+  وما نعطيهم، وما نقسم لهم.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي الـمثنى، قال: ثنا إسحاق،
+  قال: ثنا عبد الله، عن ورقاء، عن ابن أبـي نـجيح، عن مـجاهد نـحوه.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا القاسم، قال: ثنا الـحسين، قال: ثنـي حجاج، عن ابن جريج، عن
+  مـجاهد، نـحوه.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال آخرون: معنى ذلك: ويغفر ما
+  يشاء من ذنوب عبـاده، ويترك ما يشاء فلا يغفر. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن حميد، قال: ثنا حكام، عن عمرو، عن عطاء، عن سعيد، فـي قوله
+  { يَـمْـحُو اللّهُ ما يَشاءُ وَيُثْبِتُ } قال: يثبت فـي البطن الشقاء والسعادة وكلّ
+  شيء، فـيغفر منه ما يشاء ويؤخر ما يشاء.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وأولـى
+  الأقوال التـي ذكرت فـي ذلك بتأويـل الآية، وأشبهها بـالصواب، القول الذي ذكرناه عن
+  الـحسن ومـجاهد وذلك أن الله تعالـى ذكره توعد الـمشركين الذين سألوا رسول الله صلى
+  الله عليه وسلم الآيات بـالعقوبة وتهدّدهم بها وقال لهم:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">وَما كانَ لرَسُولٍ أنْ يَأْتِـيَ
+  بآيَةٍ إلاَّ بإذْنِ اللّهِ لكُلّ أجَلٍ كتابٌ</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">يعلـمهم بذلك أن لقضائه فـيهم أجلاً
+  مثبتاً فـي كتاب هم مؤخرون إلـى وقت مـجيء ذلك الأجل، ثم قال لهم: فإذا جاء ذلك الأجل
+  يجيء الله بـما شاء مـمن قد دنا أجله وانقطع رزقه أو حان هلاكه أو اتضاعه، من رفعة
+  أو هلاك مال، فـيقضي ذلك فـي خـلقه، فذلك مـحوه. ويُثبت ما شاء مـمن بقـي أجله ورزقه
+  وأُكْله، فـيتركه علـى ما هو علـيه فلا يـمـحوه. وبهذا الـمعنى جاء الأثر عن رسول الله
+  صلى الله عليه وسلم وذلك ما:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
   مـحمد بن سهل بن عسكر، قال: ثنا ابن أبـي مريـم، قال: ثنا اللـيث بن سعد، عن زيادة
   بن مـحمد، عن مـحمد بن كعب القرظي، عن فضالة بن عبـيد، عن أبـي الدرداء، قال: قال رسول
-  الله صلى الله عليه وسلم: \" إنَّ اللّهَ يَفْتَـحُ الذّكْرَ فِـي ثَلاثِ ساعاتٍ يَبْقـينَ
-  منَ اللَّـيْـلِ، فِـي السَّاعَةِ الأُولـى منْهُنَّ يَنْظُرُ فِـي الكتابِ الَّذِي
-  لا يَنْظُرُ فـيهِ أحَدٌ غيرُهُ، فَـيَـمْـحُو ما يَشاءُ ويُثْبتُ \" ثم ذكر ما فـي
-  الساعتـين الآخرتـين.حدثنا موسى بن سهل الرملـي، قال: ثنا آدم، قال: ثنا اللـيث، قال:
-  ثنا زيادة بن مـحمد، عن مـحمد بن كعب القرظي، عن فضالة بن عبـيد، عن أبـي الدرداء،
-  قال: قال رسول الله صلى الله عليه وسلم: \" إنَّ اللّهَ يَنْزِلُ فِـي ثَلاثِ ساعاتٍ
-  يَبْقـيْنَ منَ اللَّـيْـلِ، يَفْتَـحُ الذّكْرَ فِـي السَّاعَةِ الأُولـى الَّذِي
-  لَـمْ يَرَهُ أحَدٌ غيرُهُ، يَـمْـحُو ما يَشاءُ وَيُثْبِتُ ما يَشاءُ \". \r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ يَمْحُواْ ٱللَّهُ مَا يَشَآءُ وَيُثْبِتُ
-  وَعِندَهُ أُمُّ ٱلْكِتَابِ }  حدثنـي مـحمد بن سهل بن عسكر، قال: ثنا عبد الرزاق،
-  قال: أخبرنا ابن جريج، عن عطاء، عن ابن عبـاس، قال: إن لله لوحاً مـحفوظاً مسيرة خمس
-  مئة عام، من دُرّة بـيضاء لها دفتان من ياقوت، والدفتان لوحان لله، كل يوم ثلاث مئة
-  وستون لـحظة، يـمـحو ما يشاء ويثبت وعنده أمّ الكتاب.حدثنا مـحمد بن عبد الأعلـى، قال:
-  ثنا مـحمد بن ثور، قال: ثنا الـمعتـمر بن سلـيـمان، عن أبـيه، قال: ثنـي رجل، عن أبـيه،
-  عن قـيس بن عبـاد، أنه قال: العاشر من رجب هو يوم يـمـحو الله فـيه ما يشاء.القول فـي
-  تأويـل قوله تعالـى: { وَعِندَهُ أُمُّ ٱلْكِتَـٰبِ }.اختلف أهل التأويـل فـي تأويـل
-  قوله: { وَعِنْدَهُ أُمُّ الكِتابِ } فقال بعضهم: معناه: وعنده الـحلال والـحرام. ذكر
-  من قال ذلك:حدثنـي الـمثنى، قال: ثنا مسلـم بن إبراهيـم، قال: ثنا مـحمد بن عقبة، قال:
-  ثنا مالك بن دينار، قال: سألت الـحسن: قلت: { أُمُّ الكِتابِ }؟ قال: الـحلال والـحرام،
-  قال: قلت: فما الـحمد لله رب العالـمين؟ قال: هذه أمّ القرآن.وقال آخرون: معناه: وعنده
-  جملة الكتاب وأصله. ذكر من قال ذلك:حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة،
-  قوله: { وَعِنْدَهُ أُمُّ الكِتابِ } قال: جملة الكتاب وأصله.حدثنا مـحمد بن عبد الأعلـى،
-  قال: ثنا مـحمد بن ثور، عن معمر، عن قتادة، مثله.حُدثت عن الحسين، قال: سمعت أبا معاذ
-  يقول: ثنا عبيد، قال: سمعت الضحاك يقول فـي قوله: { وَعِنْدَهُ أُمُّ الكِتابِ } قال:
-  كتاب عند ربّ العالـمين.حدثنـي الـمثنى، قال: ثنا إسحاق بن يوسف، عن جويبر، عن الضحاك:
-  { وَعِنْدَهُ أُمُّ الكِتابِ } قال: جملة الكتاب وعلـمه يعنـي بذلك ما ينسخ منه وما
-  يثبت.حدثنـي الـمثنى، قال: ثنا أبو صالـح، قال: ثنـي معاوية، عن علـيّ، عن ابن عبـاس:
-  { وَعِنْدَهُ أُمُّ الكِتابِ } يقول: وجملة ذلك عنده فـي أمّ الكتاب: الناسخ والـمنسوخ،
-  وما يبدل، وما يثبت، كلّ ذلك فـي كتاب.وقال آخرون فـي ذلك، ما:حدثنا القاسم، قال: ثنا
-  الـحسين، قال: ثنا معتـمر بن سلـيـمان، عن أبـيه، عن شيبـان، عن ابن عبـاس، أنه سأل
-  كعبـاً عن أمّ الكتاب، قال: علـم الله ما هو خالق وما خـلقه عاملون، فقال لعلـمه: كن
-  كتابـاً فكان كتابـاً.وقال آخرون: هو الذِّكْرُ. ذكر من قال ذلك:حدثنا القاسم، قال:
-  ثنا الـحسين، قال: ثنـي حجاج قال أبو جعفر: لا أدري فـيه ابن جريج أم لا قال: قال ابن
-  عبـاس: { وَعِنْدَهُ أُمُّ الكِتابِ } قال: الذكر.وأولـى الأقوال فـي ذلك بـالصواب
-  قول من قال: وعنده أصل الكتاب وجملته وذلك أنه تعالـى ذكره أخبر أنه يـمـحو ما يشاء
-  ويثبت ما يشاء، ثم عقب ذلك بقوله: { وَعِنْدَهُ أُمُّ الكِتابِ } فكان بـيِّناً أن
-  معناه: وعنده أصل الـمثبَت منه والـمـمـحو، وجملته فـي كتاب لديه.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ يَمْحُواْ ٱللَّهُ مَا يَشَآءُ وَيُثْبِتُ
-  وَعِندَهُ أُمُّ ٱلْكِتَابِ }واختلفت القرّاء فـي قراءة قوله: { وَيُثْبِتُ } فقرأ
-  ذلك عامة قرّاء الـمدينة والكوفة: «ويُثَبِّتُ» بتشديد البـاء بـمعنى: ويتركه ويقره
-  علـى حاله، فلا يـمـحوه. وقرأه بعض الـمكيـين وبعض البصريـين وبعض الكوفـيـين: { ويُثْبِتُ
-  } بـالتـخفـيف، بـمعنى: يكتب، وقد بـيَّنا قبل أن معنى ذلك عندنا: إقراره مكتوبـاً
-  وترك مـحوه علـى ما قد بـيَّنا، فإذا كان ذلك كذلك فـالتثبـيت به أولـى، والتشديد أصوب
-  من التـخفـيف، وإن كان التـخفـيف قد يحتـمل توجيهه فـي الـمعنى إلـى التشديد والتشديد
-  إلـى التـخفـيف، لتقارب معنـيـيهما.وأما الـمـحْو، فإن للعرب فـيه لغتـين: فأما مضر
-  فإنها تقول: مـحوت الكتاب أمـحوه مـحواً، وبه التنزيـل، ومـحوته أمـحاه مـحواً. وذُكر
-  عن بعض قبـائل ربـيعة: أنها تقول: مـحيت أَمْـحَى.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 6 7 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  الله صلى الله عليه وسلم:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" إنَّ اللّهَ يَفْتَـحُ الذّكْرَ فِـي ثَلاثِ ساعاتٍ يَبْقـينَ منَ
+  اللَّـيْـلِ، فِـي السَّاعَةِ الأُولـى منْهُنَّ يَنْظُرُ فِـي الكتابِ الَّذِي لا
+  يَنْظُرُ فـيهِ أحَدٌ غيرُهُ، فَـيَـمْـحُو ما يَشاءُ ويُثْبتُ \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\">ثم ذكر ما فـي الساعتـين الآخرتـين.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا موسى بن سهل الرملـي، قال: ثنا آدم، قال: ثنا اللـيث، قال: ثنا
+  زيادة بن مـحمد، عن مـحمد بن كعب القرظي، عن فضالة بن عبـيد، عن أبـي الدرداء، قال:
+  قال رسول الله صلى الله عليه وسلم:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" إنَّ اللّهَ يَنْزِلُ فِـي ثَلاثِ ساعاتٍ يَبْقـيْنَ منَ اللَّـيْـلِ،
+  يَفْتَـحُ الذّكْرَ فِـي السَّاعَةِ الأُولـى الَّذِي لَـمْ يَرَهُ أحَدٌ غيرُهُ، يَـمْـحُو
+  ما يَشاءُ وَيُثْبِتُ ما يَشاءُ \". </font></font></b><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"><br/></font></font></b>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">5 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(13, 39)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(13,39)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">يَمْحُواْ ٱللَّهُ مَا يَشَآءُ وَيُثْبِتُ وَعِندَهُ
+  أُمُّ ٱلْكِتَابِ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><b><font
+  class=\"TextResultArabic\"><font color=\"Red\">  </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي مـحمد بن سهل بن عسكر، قال: ثنا عبد الرزاق، قال: أخبرنا ابن
+  جريج، عن عطاء، عن ابن عبـاس، قال: إن لله لوحاً مـحفوظاً مسيرة خمس مئة عام، من دُرّة
+  بـيضاء لها دفتان من ياقوت، والدفتان لوحان لله، كل يوم ثلاث مئة وستون لـحظة، يـمـحو
+  ما يشاء ويثبت وعنده أمّ الكتاب.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  مـحمد بن عبد الأعلـى، قال: ثنا مـحمد بن ثور، قال: ثنا الـمعتـمر بن سلـيـمان، عن
+  أبـيه، قال: ثنـي رجل، عن أبـيه، عن قـيس بن عبـاد، أنه قال: العاشر من رجب هو يوم
+  يـمـحو الله فـيه ما يشاء.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">القول فـي تأويـل قوله تعالـى: { وَعِندَهُ أُمُّ ٱلْكِتَـٰبِ }.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">اختلف أهل التأويـل فـي تأويـل قوله: { وَعِنْدَهُ أُمُّ الكِتابِ
+  } فقال بعضهم: معناه: وعنده الـحلال والـحرام. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي الـمثنى، قال: ثنا مسلـم بن إبراهيـم، قال: ثنا مـحمد بن عقبة،
+  قال: ثنا مالك بن دينار، قال: سألت الـحسن: قلت: { أُمُّ الكِتابِ }؟ قال: الـحلال
+  والـحرام، قال: قلت: فما الـحمد لله رب العالـمين؟ قال: هذه أمّ القرآن.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال آخرون: معناه: وعنده جملة الكتاب وأصله. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: { وَعِنْدَهُ
+  أُمُّ الكِتابِ } قال: جملة الكتاب وأصله.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  مـحمد بن عبد الأعلـى، قال: ثنا مـحمد بن ثور، عن معمر، عن قتادة، مثله.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حُدثت عن الحسين، قال: سمعت أبا معاذ يقول: ثنا عبيد، قال: سمعت الضحاك
+  يقول فـي قوله: { وَعِنْدَهُ أُمُّ الكِتابِ } قال: كتاب عند ربّ العالـمين.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي الـمثنى، قال: ثنا إسحاق بن يوسف، عن جويبر، عن الضحاك: { وَعِنْدَهُ
+  أُمُّ الكِتابِ } قال: جملة الكتاب وعلـمه يعنـي بذلك ما ينسخ منه وما يثبت.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنـي الـمثنى، قال: ثنا أبو صالـح، قال: ثنـي معاوية، عن علـيّ،
+  عن ابن عبـاس: { وَعِنْدَهُ أُمُّ الكِتابِ } يقول: وجملة ذلك عنده فـي أمّ الكتاب:
+  الناسخ والـمنسوخ، وما يبدل، وما يثبت، كلّ ذلك فـي كتاب.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  آخرون فـي ذلك، ما:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا القاسم، قال: ثنا الـحسين،
+  قال: ثنا معتـمر بن سلـيـمان، عن أبـيه، عن شيبـان، عن ابن عبـاس، أنه سأل كعبـاً عن
+  أمّ الكتاب، قال: علـم الله ما هو خالق وما خـلقه عاملون، فقال لعلـمه: كن كتابـاً
+  فكان كتابـاً.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال آخرون: هو الذِّكْرُ. ذكر من
+  قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا القاسم، قال: ثنا الـحسين،
+  قال: ثنـي حجاج قال أبو جعفر: لا أدري فـيه ابن جريج أم لا قال: قال ابن عبـاس: { وَعِنْدَهُ
+  أُمُّ الكِتابِ } قال: الذكر.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وأولـى
+  الأقوال فـي ذلك بـالصواب قول من قال: وعنده أصل الكتاب وجملته وذلك أنه تعالـى ذكره
+  أخبر أنه يـمـحو ما يشاء ويثبت ما يشاء، ثم عقب ذلك بقوله: { وَعِنْدَهُ أُمُّ الكِتابِ
+  } فكان بـيِّناً أن معناه: وعنده أصل الـمثبَت منه والـمـمـحو، وجملته فـي كتاب لديه.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,7,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">6 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,7,1)\"><u>7</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(13, 39)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(13,39)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">يَمْحُواْ ٱللَّهُ مَا يَشَآءُ وَيُثْبِتُ وَعِندَهُ
+  أُمُّ ٱلْكِتَابِ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">واختلفت القرّاء فـي قراءة قوله:
+  { وَيُثْبِتُ } فقرأ ذلك عامة قرّاء الـمدينة والكوفة: «ويُثَبِّتُ» بتشديد البـاء
+  بـمعنى: ويتركه ويقره علـى حاله، فلا يـمـحوه. وقرأه بعض الـمكيـين وبعض البصريـين
+  وبعض الكوفـيـين: { ويُثْبِتُ } بـالتـخفـيف، بـمعنى: يكتب، وقد بـيَّنا قبل أن معنى
+  ذلك عندنا: إقراره مكتوبـاً وترك مـحوه علـى ما قد بـيَّنا، فإذا كان ذلك كذلك فـالتثبـيت
+  به أولـى، والتشديد أصوب من التـخفـيف، وإن كان التـخفـيف قد يحتـمل توجيهه فـي الـمعنى
+  إلـى التشديد والتشديد إلـى التـخفـيف، لتقارب معنـيـيهما.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وأما
+  الـمـحْو، فإن للعرب فـيه لغتـين: فأما مضر فإنها تقول: مـحوت الكتاب أمـحوه مـحواً،
+  وبه التنزيـل، ومـحوته أمـحاه مـحواً. وذُكر عن بعض قبـائل ربـيعة: أنها تقول: مـحيت
+  أَمْـحَى.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,6,1)\"><u>6</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">7 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a id=\"NextClass\"/></td></tr></table></center></div></section>"
 

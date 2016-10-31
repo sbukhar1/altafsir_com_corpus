@@ -1,4 +1,4 @@
-location:
+position:
   sura: '013'
   aaya: '024'
   madhab: '01'
@@ -8,62 +8,141 @@ meta:
   author: الطبري
   year: '310'
 aaya: سَلَامٌ عَلَيْكُمْ بِمَا صَبَرْتُمْ ۚ فَنِعْمَ عُقْبَى الدَّارِ
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ جَنَّاتُ عَدْنٍ
-  يَدْخُلُونَهَا وَمَنْ صَلَحَ مِنْ آبَائِهِمْ وَأَزْوَاجِهِمْ وَذُرِّيَّاتِهِمْ وَالمَلاَئِكَةُ
-  يَدْخُلُونَ عَلَيْهِمْ مِّن كُلِّ بَابٍ } * { سَلاَمٌ عَلَيْكُم بِمَا صَبَرْتُمْ
-  فَنِعْمَ عُقْبَىٰ ٱلدَّارِ }يقول تعالـى: { جَنَّاتُ عَدْنٍ } ترجمة عن عقبى الدار،
-  كما يقال: نعم الرجل عبد الله، فعبد الله هو الرجل الـمقول له: نعم الرجل، وتأويـل
-  الكلام: أولئك لهم عقـيب طاعتهم ربهم الدار التـي هي جنات عدن. وقد بـيَّنا معنى قوله:
-  «عدن»، وأنه بـمعنى الإقامة التـي لا ظَعْن معها.وقوله: { وَمَنْ صَلَـحَ مِنْ آبـائهِمْ
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(13, 23)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(13,23)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">جَنَّاتُ
+  عَدْنٍ يَدْخُلُونَهَا وَمَنْ صَلَحَ مِنْ آبَائِهِمْ وَأَزْوَاجِهِمْ وَذُرِّيَّاتِهِمْ
+  وَالمَلاَئِكَةُ يَدْخُلُونَ عَلَيْهِمْ مِّن كُلِّ بَابٍ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">سَلاَمٌ
+  عَلَيْكُم بِمَا صَبَرْتُمْ فَنِعْمَ عُقْبَىٰ ٱلدَّارِ</a> <b>}</b></font>, <br/>,
+  <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">يقول
+  تعالـى: { جَنَّاتُ عَدْنٍ } ترجمة عن عقبى الدار، كما يقال: نعم الرجل عبد الله، فعبد
+  الله هو الرجل الـمقول له: نعم الرجل، وتأويـل الكلام: أولئك لهم عقـيب طاعتهم ربهم
+  الدار التـي هي جنات عدن. وقد بـيَّنا معنى قوله: «عدن»، وأنه بـمعنى الإقامة التـي
+  لا ظَعْن معها.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقوله: { وَمَنْ صَلَـحَ مِنْ آبـائهِمْ
   وأزْوَاجِهِمْ وَذُرّيَّاتِهِمْ } يقول تعالـى ذكره: جنات عدن يدخـلها هؤلاء الذين
   وَصَفْتُ صفتهم، وهم الذين يوفون بعهد الله، والذين يصلون ما أمر الله به أن يوصل ويخشون
   ربهم، والذين صبروا ابتغاء وجه ربهم، وأقاموا الصلاة، وفعلوا الأفعال التـي ذكرها جلّ
   ثناؤه فـي هذه الآيات الثلاث. { وَمَنْ صَلَـحَ مِنْ آبـائِهم وأزْوَاجِهِمْ } وَهِيَ
   نِساؤُهُمْ وأهلوهم وذرّياتهم. وصلاحهم إيـمانهم بـالله واتبـاعهم أمره وأمر رسوله
-  علـيه الصلاة والسلام. كما:حدثنا الـحسن بن مـحمد، قال: ثنا شبـابة، قال: ثنا ورقاء،
-  عن ابن أبـي نـجيح، عن مـجاهد، قوله: { وَمَنْ صَلَـحَ مِنْ آبـائهِمْ } قال: من آمن
-  فـي الدنـيا.حدثنـي الـمثنى، قال: ثنا أبو حذيفة، قال: ثنا شبل، عن ابن أبـي نـجيح،
-  عن مـجاهد وثنا إسحاق، قال: ثنا عبد الله، عن ورقاء، عن ابن أبـي نـجيح، عن مـجاهد،
-  مثله.حدثنا القاسم، قال: ثنا الـحسين، قال: ثنـي حجاج، عن ابن جريج، عن مـجاهد، قوله:
-  { وَمَنْ صَلَـحَ مِنْ آبـائهِمْ } قال: من آمن من آبـائهم وأزواجهم وذرّياتهم.وقوله:
-  { وَالـمَلائِكَةُ يَدْخُـلُونَ عَلَـيْهم مِنْ كُلّ بـابٍ سَلامٌ عَلَـيْكُمْ بِـمَا
-  صَبَرْتُـمْ } يقول: تعالـى ذكره: وتدخـل الـملائكة علـى هؤلاء الذين وصف جلّ ثناؤه
-  صفتهم فـي هذه الآيات الثلاث فـي جنات عَدْن، من كلّ بـاب منها، يقولون لهم: { سَلاَمٌ
-  عَلَـيْكُمْ بِـمَا صَبَرْتُـمْ } علـى طاعة ربكم فـي الدنـيا، { فَنِعْمَ عُقْبَى
-  الدَّارِ }. وذكر أن لـجنات عدن خمسة آلاف بـاب.حدثنـي الـمثنى، قال: ثنا إسحاق، قال:
-  ثنا علـيّ بن جرير، قال: ثنا حماد بن سلـمة، عن يعلـى بن عطاء، عن نافع بن عاصم، عن
-  عبد الله بن عمرو، قال: إن فـي الـجنة قصراً يقال له عدن، حوله البروج والـمروج، فـيه
-  خمسة آلاف بـاب، علـى كلّ بـاب خمسة آلاف حِبَرة، لا يدخـله إلاَّ نبـيّ أو صدّيق أو
-  شهيد.قال: ثنا إسحاق، قال: ثنا عبد الرحمن بن مَغْراء، عن جويبر، عن الضحاك، فـي قوله:
-  { جَنَّاتُ عَدْنٍ } قال: مدينة الـجنة، فـيها الرسل والأنبـياء والشهداء، وأئمة الهدى،
-  والناس حولهم بعدد الـجنات حولها.وحذف من قوله: { وَالـمَلائِكَةُ يَدْخُـلُونَ عَلَـيْهمْ
-  مِنْ كُلّ بـابٍ سَلامٌ عَلَـيْكُمْ } «يقولون» اكتفـاء بدلالة الكلام علـيه، كما حذف
-  ذلك من قوله:{ وَلَوْ تَرَى إذِ الـمُـجْرِمُونَ ناكِسُو رُءُوسهِمْ عِنْدَ رَبِّهِمْ
-  رَبَّنا أبْصَرْنا }حدثنـي الـمثنى، قال: ثنا سويد، قال: أخبرنا ابن الـمبـارك، عن
-  بقـية بن الولـيد، قال: ثنـي أرطأة بن الـمنذر، قال: سمعت رجلاً من مشيخة الـجند يقال
-  له أبو الـحجاج، يقول: جلست إلـى أبـي أُمامة فقال: إن الـمؤمن لـيكون متكئاً علـى
-  أريكته إذا دخـل الـجنة، وعنده سِماطان من خدم، وعند طرف السِّماطين سور، فـيُقبِل
-  الـمَلَك يستأذن، فـيقول للذي يـلـيه: ملك يستأذن، ويقول الذي يـلـيه: ملك يستأذن،
-  ويقول الذي يـلـيه للذي يـلـيه: ملك يستأذن، حتـى يبلغ الـمؤمن فـيقول: ائذنوا فـيقول:
-  أقربهم إلـى الـمؤمن ائذنوا، ويقول الذي يـلـيه للذي يـلـيه: ائذنوا، فكذلك حتـى يبلغ
-  أقصاهم الذي عند البـاب، فـيفتـح له، فـيدخـل فـيسلـم ثم ينصرف.\r\n\t\t\t\r\n\t\t\t1 2 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ جَنَّاتُ عَدْنٍ يَدْخُلُونَهَا وَمَنْ
-  صَلَحَ مِنْ آبَائِهِمْ وَأَزْوَاجِهِمْ وَذُرِّيَّاتِهِمْ وَالمَلاَئِكَةُ يَدْخُلُونَ
-  عَلَيْهِمْ مِّن كُلِّ بَابٍ } * { سَلاَمٌ عَلَيْكُم بِمَا صَبَرْتُمْ فَنِعْمَ عُقْبَىٰ
-  ٱلدَّارِ }حدثنـي الـمثنى، قال: ثنا سويد، قال: أخبرنا ابن الـمبـارك، عن إبراهيـم
-  بن مـحمد، عن سهل بن أبـي صالـح، عن مـحمد بن إبراهيـم، قال: كان النبـيّ صلى الله
-  عليه وسلم يأتـي قبور الشهداء علـى رأس كلّ حول فـيقول: \" السَّلامٌ عَلَـيكُمْ بِـمَا
-  صَبَرْتُـمْ فنِعْمَ عُقْبَى الدَّارِ \" وأبو بكر وعمر وعثمان.وأما قوله: { سَلامٌ
-  عَلَـيكُمْ بِـمَا صَبَرْتُـمْ } فإن أهل التأويـل قالوا فـي ذلك نـحو قولنا فـيه.
-  ذكر من قال ذلك:حدثنـي الـمثنى، قال: ثنا إسحاق، قال: ثنا عبد الرزّاق، عن جفعر بن
-  سلـيـمان، عن أبـي عمران الـجُوْنِـيّ أنه تلا هذه الآية: { سَلامٌ عَلَـيْكُمْ بِـمَا
-  صَبَرْتُـمْ } قال: علـى دينكم.حدثنـي يونس، قال: أخبرنا ابن وهب، قال: قال ابن زيد،
-  فـي قوله: { سَلامٌ عَلَـيْكُمْ بِـمَا صَبَرْتُـمْ } قال: حين صبروا لله بـما يحبه
-  الله فقدّموه. وقرأ:{ وَجَزَاهُمْ بِـمَا صَبَرُوا جَنَّةً وَحَرِيراً }حتـى بلغ:{ وكانَ
-  سَعْيُكُمْ مَشْكُورًا }وصبروا عما كره الله وحرّم علـيهم، وصبروا علـى ما ثقل علـيهم
-  وأحبه الله، فسلـم علـيهم بذلك. وقرأ: { وَالـمَلائِكَةُ يَدْخُـلُونَ عَلَـيْهِمْ
-  مِنْ كُلّ بـابٍ سَلامٌ عَلَـيْكُمْ بِـمَا صَبَرْتُـمْ فَنِعْمَ عُقْبَى الدَّارِ
-  }.وأما قوله: { فَنِعْمَ عُقْبَى الدَّارِ } فإن معناه إن شاء الله كما:حدثنـي الـمثنى،
-  قال: ثنا إسحاق، قال ثنا عبد الرزاق، عن جعفر، عن أبـي عمران الـجوْنِـي فـي قولهم
-  { فَنِعْمَ عُقْبَى الدَّارِ } قال: الـجنة من النار.\r\n\t\t\t\r\n\t\t\t1 2 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  علـيه الصلاة والسلام. كما:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا الـحسن بن مـحمد، قال: ثنا
+  شبـابة، قال: ثنا ورقاء، عن ابن أبـي نـجيح، عن مـجاهد، قوله: { وَمَنْ صَلَـحَ مِنْ
+  آبـائهِمْ } قال: من آمن فـي الدنـيا.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  الـمثنى، قال: ثنا أبو حذيفة، قال: ثنا شبل، عن ابن أبـي نـجيح، عن مـجاهد وثنا إسحاق،
+  قال: ثنا عبد الله، عن ورقاء، عن ابن أبـي نـجيح، عن مـجاهد، مثله.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا القاسم، قال: ثنا الـحسين، قال: ثنـي حجاج، عن ابن جريج، عن
+  مـجاهد، قوله: { وَمَنْ صَلَـحَ مِنْ آبـائهِمْ } قال: من آمن من آبـائهم وأزواجهم
+  وذرّياتهم.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقوله: { وَالـمَلائِكَةُ يَدْخُـلُونَ
+  عَلَـيْهم مِنْ كُلّ بـابٍ سَلامٌ عَلَـيْكُمْ بِـمَا صَبَرْتُـمْ } يقول: تعالـى ذكره:
+  وتدخـل الـملائكة علـى هؤلاء الذين وصف جلّ ثناؤه صفتهم فـي هذه الآيات الثلاث فـي
+  جنات عَدْن، من كلّ بـاب منها، يقولون لهم: { سَلاَمٌ عَلَـيْكُمْ بِـمَا صَبَرْتُـمْ
+  } علـى طاعة ربكم فـي الدنـيا، { فَنِعْمَ عُقْبَى الدَّارِ }. وذكر أن لـجنات عدن
+  خمسة آلاف بـاب.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي الـمثنى، قال: ثنا إسحاق،
+  قال: ثنا علـيّ بن جرير، قال: ثنا حماد بن سلـمة، عن يعلـى بن عطاء، عن نافع بن عاصم،
+  عن عبد الله بن عمرو، قال: إن فـي الـجنة قصراً يقال له عدن، حوله البروج والـمروج،
+  فـيه خمسة آلاف بـاب، علـى كلّ بـاب خمسة آلاف حِبَرة، لا يدخـله إلاَّ نبـيّ أو صدّيق
+  أو شهيد.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">قال: ثنا إسحاق، قال: ثنا عبد الرحمن
+  بن مَغْراء، عن جويبر، عن الضحاك، فـي قوله: { جَنَّاتُ عَدْنٍ } قال: مدينة الـجنة،
+  فـيها الرسل والأنبـياء والشهداء، وأئمة الهدى، والناس حولهم بعدد الـجنات حولها.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وحذف من قوله: { وَالـمَلائِكَةُ يَدْخُـلُونَ عَلَـيْهمْ مِنْ كُلّ
+  بـابٍ سَلامٌ عَلَـيْكُمْ } «يقولون» اكتفـاء بدلالة الكلام علـيه، كما حذف ذلك من
+  قوله:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">وَلَوْ تَرَى إذِ الـمُـجْرِمُونَ ناكِسُو رُءُوسهِمْ عِنْدَ
+  رَبِّهِمْ رَبَّنا أبْصَرْنا</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  الـمثنى، قال: ثنا سويد، قال: أخبرنا ابن الـمبـارك، عن بقـية بن الولـيد، قال: ثنـي
+  أرطأة بن الـمنذر، قال: سمعت رجلاً من مشيخة الـجند يقال له أبو الـحجاج، يقول: جلست
+  إلـى أبـي أُمامة فقال: إن الـمؤمن لـيكون متكئاً علـى أريكته إذا دخـل الـجنة، وعنده
+  سِماطان من خدم، وعند طرف السِّماطين سور، فـيُقبِل الـمَلَك يستأذن، فـيقول للذي يـلـيه:
+  ملك يستأذن، ويقول الذي يـلـيه: ملك يستأذن، ويقول الذي يـلـيه للذي يـلـيه: ملك يستأذن،
+  حتـى يبلغ الـمؤمن فـيقول: ائذنوا فـيقول: أقربهم إلـى الـمؤمن ائذنوا، ويقول الذي
+  يـلـيه للذي يـلـيه: ائذنوا، فكذلك حتـى يبلغ أقصاهم الذي عند البـاب، فـيفتـح له،
+  فـيدخـل فـيسلـم ثم ينصرف.</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\"
+  border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE:
+  none; BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(13, 23)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(13,23)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">جَنَّاتُ عَدْنٍ يَدْخُلُونَهَا وَمَنْ صَلَحَ مِنْ
+  آبَائِهِمْ وَأَزْوَاجِهِمْ وَذُرِّيَّاتِهِمْ وَالمَلاَئِكَةُ يَدْخُلُونَ عَلَيْهِمْ
+  مِّن كُلِّ بَابٍ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">سَلاَمٌ عَلَيْكُم بِمَا صَبَرْتُمْ فَنِعْمَ
+  عُقْبَىٰ ٱلدَّارِ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي الـمثنى، قال: ثنا سويد،
+  قال: أخبرنا ابن الـمبـارك، عن إبراهيـم بن مـحمد، عن سهل بن أبـي صالـح، عن مـحمد
+  بن إبراهيـم، قال: كان النبـيّ صلى الله عليه وسلم يأتـي قبور الشهداء علـى رأس كلّ
+  حول فـيقول:</font></font><b><font class=\"TextResultArabic\"><font color=\"Red\">
+  \" السَّلامٌ عَلَـيكُمْ بِـمَا صَبَرْتُـمْ فنِعْمَ عُقْبَى الدَّارِ \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\">وأبو بكر وعمر وعثمان.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وأما قوله: { سَلامٌ عَلَـيكُمْ بِـمَا صَبَرْتُـمْ } فإن أهل التأويـل
+  قالوا فـي ذلك نـحو قولنا فـيه. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  الـمثنى، قال: ثنا إسحاق، قال: ثنا عبد الرزّاق، عن جفعر بن سلـيـمان، عن أبـي عمران
+  الـجُوْنِـيّ أنه تلا هذه الآية: { سَلامٌ عَلَـيْكُمْ بِـمَا صَبَرْتُـمْ } قال: علـى
+  دينكم.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي يونس، قال: أخبرنا ابن وهب،
+  قال: قال ابن زيد، فـي قوله: { سَلامٌ عَلَـيْكُمْ بِـمَا صَبَرْتُـمْ } قال: حين صبروا
+  لله بـما يحبه الله فقدّموه. وقرأ:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">وَجَزَاهُمْ بِـمَا صَبَرُوا جَنَّةً
+  وَحَرِيراً</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">حتـى بلغ:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">وكانَ سَعْيُكُمْ مَشْكُورًا</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">وصبروا عما كره الله وحرّم علـيهم،
+  وصبروا علـى ما ثقل علـيهم وأحبه الله، فسلـم علـيهم بذلك. وقرأ: { وَالـمَلائِكَةُ
+  يَدْخُـلُونَ عَلَـيْهِمْ مِنْ كُلّ بـابٍ سَلامٌ عَلَـيْكُمْ بِـمَا صَبَرْتُـمْ فَنِعْمَ
+  عُقْبَى الدَّارِ }.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وأما قوله: { فَنِعْمَ عُقْبَى الدَّارِ
+  } فإن معناه إن شاء الله كما:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  الـمثنى، قال: ثنا إسحاق، قال ثنا عبد الرزاق، عن جعفر، عن أبـي عمران الـجوْنِـي فـي
+  قولهم { فَنِعْمَ عُقْبَى الدَّارِ } قال: الـجنة من النار.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section>"
 

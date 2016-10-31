@@ -1,4 +1,4 @@
-location:
+position:
   sura: '001'
   aaya: '004'
   madhab: '02'
@@ -7,30 +7,91 @@ meta:
   title: تفسير النكت والعيون
   author: الماوردي
   year: '450'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ مَـٰلِكِ يَوْمِ
-  ٱلدِّينِ }قوله تعالى: { مَالِكِ يَوْمِ الدِّينِ } قرأ عاصم والكسائي { مالِكِ } وقرأ
-  الباقون { مَلِك } وفيما اشتقا جميعاً منه وجهان:أحدهما: أن اشتقاقهما من الشدة، من
-  قولهم ملكت العجين، إذا عجنته بشدة.والثاني: أن اشتقاقهما من القدرة، قال الشاعر:مَلَكْتُ
-  بِهَا كَفِّي فَأَنْهَرْتُ فَتْقَهَا   \tيَرَى قَائِمٌ مِنْ دُونِهَا مَا وَرَاءَهَاوالفرق
-  بين المالك والملك من وجهين:أحدهما: أن المالك مَنْ كان خاصَّ المُلكِ، والملِك مَنْ
-  كان عَامَّ المُلْك.والثاني: أن المالك من اختص بملك الملوك، والملك من اختص بنفوذ
-  الأمر.واختلفوا أيهما أبلغ في المدح، على ثلاثة أقاويل:أحدها: أن المَلِك أبلغ في المدح
-  من المالك، لأنَّ كلَّ مَلِكٍ مالِكٌ، وليسَ كلُّ مالِكٍ ملِكاً، ولأن أمر الملِكِ
-  نافذ على المالِكِ.والثاني: أن مالك أبلغ في المدح من مَلِك، لأنه قد يكون ملكاً على
-  من لا يملك، كما يقال ملك العرب، وملك الروم، وإن كان لا يملكهم، ولا يكون مالكاً إلا
-  على من يملك، ولأن المَلِك يكون على الناس وغيرهم.والثالث: وهو قول أبي حاتم، أن مَالِك
-  أبلغ في مدح الخالق من مَلِك، ومَلِك أبلغ من مدح المخلوق من مالك.والفرق بينهما، أن
-  المالك من المخلوقين، قد يكون غير ملك، وإن كان الله تعالى مالكاً كان ملكاً، فإن وُصف
-  الله تعالى بأنه ملك، كان ذلك من صفات ذاته، وإن وصف بأنه مالك، كان من صفات أفعاله.وأما
-  قوله تعالى: { يَوْمِ الدِّينِ } ففيه تأويلان:أحدهما: أنه الجزاء.والثاني: أنه الحساب.وفي
-  أصل الدين في اللغة قولان:أحدهما: العادة، ومنه قول المثقَّب العَبْدِي:تَقُولُ وَقَدْ
-  دَرَأْتُ لَهَا وَضِينِي\t   أَهذَا دِينُهُ أَبَداً وَدينِيأي عادته وعادتي.والثاني:
-  أنَّ أصل الدين الطاعة، ومنه قول زهير بن أبي سُلمى:لَئِن حَلَلْتَ بِجَوٍّ في بَنِي
-  أَسَدٍ\t   في دِينِ عَمْرٍو وَمَالتْ بَيْنَنَا فَدَكُأي في طاعة عمرو.وفي هذا اليوم
-  قولان:أحدهما: أنه يوم، ابتداؤه طلوع الفجر، وانتهاؤه غروب الشمس.والثاني: أنه ضياء،
-  يستديم إلى أن يحاسب الله تعالى جميع خلقه، فيستقر أهل الجنة في الجنة، وأهل النار
-  في النار.وفي اختصاصه بملك يوم الدين تأويلان:أحدهما: أنه يوم ليس فيه ملك سواه، فكان
-  أعظم من مُلك الدنيا التي تملكها الملوك، وهذا قوله الأصم.والثاني: أنه لما قال: {
-  رَبِّ الْعَالَمِينَ } ، يريد به ملك الدنيا، قال بعده: { مَلِكِ يَوْمِ الدِّينِ }
-  يريد به ملك الآخرة، ليجمع بين ملك الدنيا والآخرة.\r\n\t\t\t\r\n\t\t\t</section>"
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(1, 4)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(1,4)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">مَـٰلِكِ
+  يَوْمِ ٱلدِّينِ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">قوله تعالى: { مَالِكِ يَوْمِ الدِّينِ
+  } قرأ عاصم والكسائي { مالِكِ } وقرأ الباقون { مَلِك } وفيما اشتقا جميعاً منه وجهان:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">أحدهما: أن اشتقاقهما من الشدة، من قولهم ملكت العجين، إذا عجنته بشدة.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">والثاني: أن اشتقاقهما من القدرة، قال الشاعر:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><table class=\"TextArabic\"
+  dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">مَلَكْتُ بِهَا كَفِّي فَأَنْهَرْتُ فَتْقَهَا</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">\tيَرَى قَائِمٌ مِنْ دُونِهَا مَا وَرَاءَهَا</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">والفرق بين المالك والملك من وجهين:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">أحدهما: أن المالك مَنْ كان خاصَّ المُلكِ، والملِك مَنْ كان عَامَّ
+  المُلْك.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">والثاني: أن المالك من اختص بملك
+  الملوك، والملك من اختص بنفوذ الأمر.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">واختلفوا
+  أيهما أبلغ في المدح، على ثلاثة أقاويل:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">أحدها:
+  أن المَلِك أبلغ في المدح من المالك، لأنَّ كلَّ مَلِكٍ مالِكٌ، وليسَ كلُّ مالِكٍ
+  ملِكاً، ولأن أمر الملِكِ نافذ على المالِكِ.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">والثاني:
+  أن مالك أبلغ في المدح من مَلِك، لأنه قد يكون ملكاً على من لا يملك، كما يقال ملك
+  العرب، وملك الروم، وإن كان لا يملكهم، ولا يكون مالكاً إلا على من يملك، ولأن المَلِك
+  يكون على الناس وغيرهم.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">والثالث: وهو قول أبي حاتم، أن مَالِك
+  أبلغ في مدح الخالق من مَلِك، ومَلِك أبلغ من مدح المخلوق من مالك.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">والفرق بينهما، أن المالك من المخلوقين، قد يكون غير ملك، وإن كان
+  الله تعالى مالكاً كان ملكاً، فإن وُصف الله تعالى بأنه ملك، كان ذلك من صفات ذاته،
+  وإن وصف بأنه مالك، كان من صفات أفعاله.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وأما
+  قوله تعالى: { يَوْمِ الدِّينِ } ففيه تأويلان:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">أحدهما:
+  أنه الجزاء.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">والثاني: أنه الحساب.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وفي أصل الدين في اللغة قولان:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">أحدهما:
+  العادة، ومنه قول المثقَّب العَبْدِي:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><table class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">تَقُولُ
+  وَقَدْ دَرَأْتُ لَهَا وَضِينِي\t</font></font></b></td><td class=\"TextArabic\">   </td><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">أَهذَا دِينُهُ
+  أَبَداً وَدينِي</font></font></b></td></tr></table><font class=\"TextResultArabic\"><font
+  color=\"black\">أي عادته وعادتي.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">والثاني:
+  أنَّ أصل الدين الطاعة، ومنه قول زهير بن أبي سُلمى:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><table class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">لَئِن حَلَلْتَ
+  بِجَوٍّ في بَنِي أَسَدٍ\t</font></font></b></td><td class=\"TextArabic\">   </td><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">في دِينِ
+  عَمْرٍو وَمَالتْ بَيْنَنَا فَدَكُ</font></font></b></td></tr></table><font class=\"TextResultArabic\"><font
+  color=\"black\">أي في طاعة عمرو.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وفي
+  هذا اليوم قولان:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">أحدهما: أنه يوم، ابتداؤه طلوع الفجر،
+  وانتهاؤه غروب الشمس.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">والثاني: أنه ضياء، يستديم إلى أن
+  يحاسب الله تعالى جميع خلقه، فيستقر أهل الجنة في الجنة، وأهل النار في النار.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وفي اختصاصه بملك يوم الدين تأويلان:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">أحدهما:
+  أنه يوم ليس فيه ملك سواه، فكان أعظم من مُلك الدنيا التي تملكها الملوك، وهذا قوله
+  الأصم.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">والثاني: أنه لما قال: { رَبِّ الْعَالَمِينَ
+  } ، يريد به ملك الدنيا، قال بعده: { مَلِكِ يَوْمِ الدِّينِ } يريد به ملك الآخرة،
+  ليجمع بين ملك الدنيا والآخرة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

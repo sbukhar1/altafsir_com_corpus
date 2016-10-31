@@ -1,4 +1,4 @@
-location:
+position:
   sura: '003'
   aaya: '135'
   madhab: '01'
@@ -7,140 +7,311 @@ meta:
   title: تفسير جامع البيان في تفسير القرآن
   author: الطبري
   year: '310'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَٱلَّذِينَ إِذَا
-  فَعَلُواْ فَاحِشَةً أَوْ ظَلَمُوۤاْ أَنْفُسَهُمْ ذَكَرُواْ ٱللَّهَ فَٱسْتَغْفَرُواْ
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(3, 135)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(3,135)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَٱلَّذِينَ
+  إِذَا فَعَلُواْ فَاحِشَةً أَوْ ظَلَمُوۤاْ أَنْفُسَهُمْ ذَكَرُواْ ٱللَّهَ فَٱسْتَغْفَرُواْ
   لِذُنُوبِهِمْ وَمَن يَغْفِرُ ٱلذُّنُوبَ إِلاَّ ٱللَّهُ وَلَمْ يُصِرُّواْ عَلَىٰ
-  مَا فَعَلُواْ وَهُمْ يَعْلَمُونَ }يعني بقوله جلّ ثناؤه: { وَٱلَّذِينَ إِذَا فَعَلُواْ
-  فَـٰحِشَةً }: أن الجنة التي وصف صفتها أعدت للمتقين، المنفقين في السرّاء والضرّاء،
-  والذين إذا فعلوا فاحشة وجميع هذه النعوت من صفة المتقين الذين قال تعالـى ذكره:{ وَجَنَّةٍ
-  عَرْضُهَا ٱلسَّمَـٰوَاتِ وَٱلأَرْضَ أُعِدَّتْ لِلْمُتَّقِينَ }[آل عمران: 133]. كما:حدثنا
-  الـحسن بن يحيـى، قال: أخبرنا عبد الرزاق، قال: أخبرنا جعفر بن سلـيـمان، عن ثابت البنانـي،
-  قال: سمعت الـحسن قرأ هذه الآية:{ ٱلَّذِينَ يُنفِقُونَ فِى السَّرَّاء وَٱلضَّرَّاء
-  وَٱلْكَـٰظِمِينَ ٱلْغَيْظَ وَٱلْعَـٰفِينَ عَنِ ٱلنَّاسِ وَٱللَّهُ يُحِبُّ ٱلْمُحْسِنِينَ }[آل
-  عمران: 134]، ثم قرأ: { وَٱلَّذِينَ إِذَا فَعَلُواْ فَـٰحِشَةً أَوْ ظَلَمُواْ أَنْفُسَهُمْ
-  ذَكَرُواْ ٱللَّهَ فَٱسْتَغْفَرُواْ لِذُنُوبِهِمْ }... إلـى { أَجْرُ ٱلْعَـٰمِلِينَ
-  } فقال: إن هذين النعتـين لنعت رجل واحد.حدثنا ابن حميد، قال: ثنا جرير، عن منصور،
-  عن مـجاهد: { وَٱلَّذِينَ إِذَا فَعَلُواْ فَـٰحِشَةً أَوْ ظَلَمُواْ أَنْفُسَهُمْ
-  } قال: هذان ذنبـان: الفـاحشة ذنب، وظلـموا أنفسهم ذنب.وأما الفـاحشة فهي صفة لـمتروك،
-  ومعنى الكلام: والذين إذا فعلوا فعلة فـاحشة. ومعنى الفـاحشة: الفعلة القبـيحة الـخارجة
-  عما أذن الله عزّ وجلّ فـيه. وأصل الفحش القبح والـخروج عن الـحدّ والـمقدار فـي كل
-  شيء، ومنه قـيـل للطويـل الـمفرط الطول: إنه لفـاحش الطول، يراد به: قبـيح الطول، خارج
-  عن الـمقدار الـمستـحسن؛ ومنه قـيـل للكلام القبـيح غير القصد: كلام فـاحش، وقـيـل
-  للـمتكلـم به: أفحش فـي كلامه: إذا نطق بفحش. وقـيـل: إن الفـاحشة فـي هذا الـموضع
-  معنّـي بها الزنا. ذكر من قال ذلك:حدثنا العبـاس بن عبد العظيـم، قال: ثنا حبـان، قال:
-  ثنا حماد، عن ثابت، عن جابر: { وَٱلَّذِينَ إِذَا فَعَلُواْ فَـٰحِشَةً } قال: زنى
-  القوم وربّ الكعبة.حدثنا مـحمد، قال: ثنا أحمد، قال: ثنا أسبـاط، عن السدي: { وَٱلَّذِينَ
-  إِذَا فَعَلُواْ فَـٰحِشَةً } أما الفـاحشة: فـالزنا.وقوله: { أَوْ ظَلَمُواْ أَنْفُسَهُمْ
+  مَا فَعَلُواْ وَهُمْ يَعْلَمُونَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\"
+  dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">يعني بقوله جلّ
+  ثناؤه: { وَٱلَّذِينَ إِذَا فَعَلُواْ فَـٰحِشَةً }: أن الجنة التي وصف صفتها أعدت
+  للمتقين، المنفقين في السرّاء والضرّاء، والذين إذا فعلوا فاحشة وجميع هذه النعوت من
+  صفة المتقين الذين قال تعالـى ذكره:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">وَجَنَّةٍ عَرْضُهَا ٱلسَّمَـٰوَاتِ
+  وَٱلأَرْضَ أُعِدَّتْ لِلْمُتَّقِينَ</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">[آل عمران: 133]. كما:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا الـحسن بن يحيـى، قال: أخبرنا عبد الرزاق، قال: أخبرنا جعفر
+  بن سلـيـمان، عن ثابت البنانـي، قال: سمعت الـحسن قرأ هذه الآية:</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">ٱلَّذِينَ
+  يُنفِقُونَ فِى السَّرَّاء وَٱلضَّرَّاء وَٱلْكَـٰظِمِينَ ٱلْغَيْظَ وَٱلْعَـٰفِينَ
+  عَنِ ٱلنَّاسِ وَٱللَّهُ يُحِبُّ ٱلْمُحْسِنِينَ</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">[آل عمران: 134]، ثم قرأ: { وَٱلَّذِينَ
+  إِذَا فَعَلُواْ فَـٰحِشَةً أَوْ ظَلَمُواْ أَنْفُسَهُمْ ذَكَرُواْ ٱللَّهَ فَٱسْتَغْفَرُواْ
+  لِذُنُوبِهِمْ }... إلـى { أَجْرُ ٱلْعَـٰمِلِينَ } فقال: إن هذين النعتـين لنعت رجل
+  واحد.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن حميد، قال: ثنا جرير،
+  عن منصور، عن مـجاهد: { وَٱلَّذِينَ إِذَا فَعَلُواْ فَـٰحِشَةً أَوْ ظَلَمُواْ أَنْفُسَهُمْ
+  } قال: هذان ذنبـان: الفـاحشة ذنب، وظلـموا أنفسهم ذنب.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وأما
+  الفـاحشة فهي صفة لـمتروك، ومعنى الكلام: والذين إذا فعلوا فعلة فـاحشة. ومعنى الفـاحشة:
+  الفعلة القبـيحة الـخارجة عما أذن الله عزّ وجلّ فـيه. وأصل الفحش القبح والـخروج عن
+  الـحدّ والـمقدار فـي كل شيء، ومنه قـيـل للطويـل الـمفرط الطول: إنه لفـاحش الطول،
+  يراد به: قبـيح الطول، خارج عن الـمقدار الـمستـحسن؛ ومنه قـيـل للكلام القبـيح غير
+  القصد: كلام فـاحش، وقـيـل للـمتكلـم به: أفحش فـي كلامه: إذا نطق بفحش. وقـيـل: إن
+  الفـاحشة فـي هذا الـموضع معنّـي بها الزنا. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  العبـاس بن عبد العظيـم، قال: ثنا حبـان، قال: ثنا حماد، عن ثابت، عن جابر: { وَٱلَّذِينَ
+  إِذَا فَعَلُواْ فَـٰحِشَةً } قال: زنى القوم وربّ الكعبة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  مـحمد، قال: ثنا أحمد، قال: ثنا أسبـاط، عن السدي: { وَٱلَّذِينَ إِذَا فَعَلُواْ فَـٰحِشَةً
+  } أما الفـاحشة: فـالزنا.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقوله: { أَوْ ظَلَمُواْ أَنْفُسَهُمْ
   } يعنـي به: فعلوا بأنفسهم غير الذي كان ينبغي لهم أن يفعلوا بها. والذي فعلوا من ذلك
-  ركوبهم من معصية الله ما أوجبوا لها به عقوبته. كماحدثنا ابن وكيع، قال: ثنا أبـي،
-  عن سفـيان، عن منصور، عن إبراهيـم، قوله: { وَٱلَّذِينَ إِذَا فَعَلُواْ فَـٰحِشَةً
-  أَوْ ظَلَمُواْ أَنْفُسَهُمْ } قال: الظلـم من الفـاحشة، والفـاحشة من الظلـم.وقوله:
-  { ذَكَرُواْ ٱللَّهَ } يعنـي بذلك ذكروا وعيد الله علـى ما أتوا من معصيتهم إياه. {
-  فَٱسْتَغْفَرُواْ لِذُنُوبِهِمْ } يقول: فسألوا ربهم أن يستر علـيهم ذنوبهم بصفحه لهم
-  عن العقوبة علـيها. { وَمَن يَغْفِرُ ٱلذُّنُوبَ إِلاَّ ٱللَّهُ } يقول: وهل يغفر الذنوب:
-  أي يعفو عن راكبها فـيسترها علـيه إلا الله؟ { وَلَمْ يُصِرُّواْ عَلَىٰ مَا فَعَلُواْ
-  } يقول: ولـم يقـيـموا علـى ذنوبهم التـي أتوها، ومعصيتهم التـي ركبوها { وَهُمْ يَعْلَمُونَ
-  } يقول: لـم يقـيـموا علـى ذنوبهم عامدين للـمقام علـيها، وهم يعلـمون أن الله قد تقدّم
-  بـالنهي عنها، وأوعد علـيها العقوبة، من ركبها.\r\n\t\t\t\r\n\t\t\t1 2 3 4 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَٱلَّذِينَ إِذَا فَعَلُواْ فَاحِشَةً
-  أَوْ ظَلَمُوۤاْ أَنْفُسَهُمْ ذَكَرُواْ ٱللَّهَ فَٱسْتَغْفَرُواْ لِذُنُوبِهِمْ وَمَن
-  يَغْفِرُ ٱلذُّنُوبَ إِلاَّ ٱللَّهُ وَلَمْ يُصِرُّواْ عَلَىٰ مَا فَعَلُواْ وَهُمْ
-  يَعْلَمُونَ }وذكر أن هذه الآية أنزلت خصوصاً بتـخفـيفها ويسرها أُمَّتَنا مـما كانت
-  بنو إسرائيـل مـمتـحنة به من عظيـم البلاء فـي ذنوبها.حدثنـي القاسم، قال: ثنا الـحسين،
-  قال: ثنـي حجاج، عن ابن جريج، عن عطاء بن أبـي ربـاح: أنهم قالوا: يا نبـي الله، بنو
-  إسرائيـل أكرم علـى الله منا، كانوا إذا أذنب أحدهم أصبحت كفـارة ذنبه مكتوبة فـي عتبة
-  بـابه: اجدع أذنك، أجدع أنفك، افعل! فسكت رسول الله صلى الله عليه وسلم، فنزلت:{ وَسَارِعُواْ
-  إِلَىٰ مَغْفِرَةٍ مّن رَّبِّكُمْ وَجَنَّةٍ عَرْضُهَا ٱلسَّمَـٰوٰتُ وَٱلأَرْضُ أُعِدَّتْ
-  لِلْمُتَّقِينَ }[آل عمران: 133]... إلـى قوله: { وَٱلَّذِينَ إِذَا فَعَلُواْ فَـٰحِشَةً
-  أَوْ ظَلَمُواْ أَنْفُسَهُمْ ذَكَرُواْ ٱللَّهَ فَٱسْتَغْفَرُواْ لِذُنُوبِهِمْ } ،
-  فقال رسول الله صلى الله عليه وسلم: \" ألا أُخْبِرُكُمْ بِخَيْرٍ مِنَ ذَلِكَ؟ \"
-  فقرأ هؤلاء الآيات.حدثنا القاسم، قال: ثنا الـحسين، قال: ثنـي عمر ابن أبـي خـلـيفة
-  العبديّ، قال: ثنا علـيّ بن زيد بن جدعان، قال: قال ابن مسعود: كانت بنو إسرائيـل إذا
-  أذنبوا، أصبح مكتوباً علـى بـابه الذنب وكفـارته، فأعطينا خيراً من ذلك هذه الآية.حدثنا
+  ركوبهم من معصية الله ما أوجبوا لها به عقوبته. كما</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن وكيع، قال: ثنا أبـي، عن سفـيان، عن منصور، عن إبراهيـم، قوله: { وَٱلَّذِينَ إِذَا
+  فَعَلُواْ فَـٰحِشَةً أَوْ ظَلَمُواْ أَنْفُسَهُمْ } قال: الظلـم من الفـاحشة، والفـاحشة
+  من الظلـم.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقوله: { ذَكَرُواْ ٱللَّهَ } يعنـي
+  بذلك ذكروا وعيد الله علـى ما أتوا من معصيتهم إياه. { فَٱسْتَغْفَرُواْ لِذُنُوبِهِمْ
+  } يقول: فسألوا ربهم أن يستر علـيهم ذنوبهم بصفحه لهم عن العقوبة علـيها. { وَمَن يَغْفِرُ
+  ٱلذُّنُوبَ إِلاَّ ٱللَّهُ } يقول: وهل يغفر الذنوب: أي يعفو عن راكبها فـيسترها علـيه
+  إلا الله؟ { وَلَمْ يُصِرُّواْ عَلَىٰ مَا فَعَلُواْ } يقول: ولـم يقـيـموا علـى ذنوبهم
+  التـي أتوها، ومعصيتهم التـي ركبوها { وَهُمْ يَعْلَمُونَ } يقول: لـم يقـيـموا علـى
+  ذنوبهم عامدين للـمقام علـيها، وهم يعلـمون أن الله قد تقدّم بـالنهي عنها، وأوعد علـيها
+  العقوبة، من ركبها.</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\"
+  border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE:
+  none; BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(3, 135)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(3,135)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَٱلَّذِينَ إِذَا فَعَلُواْ فَاحِشَةً أَوْ ظَلَمُوۤاْ
+  أَنْفُسَهُمْ ذَكَرُواْ ٱللَّهَ فَٱسْتَغْفَرُواْ لِذُنُوبِهِمْ وَمَن يَغْفِرُ ٱلذُّنُوبَ
+  إِلاَّ ٱللَّهُ وَلَمْ يُصِرُّواْ عَلَىٰ مَا فَعَلُواْ وَهُمْ يَعْلَمُونَ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">وذكر أن هذه الآية أنزلت خصوصاً بتـخفـيفها ويسرها أُمَّتَنا مـما
+  كانت بنو إسرائيـل مـمتـحنة به من عظيـم البلاء فـي ذنوبها.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنـي
+  القاسم، قال: ثنا الـحسين، قال: ثنـي حجاج، عن ابن جريج، عن عطاء بن أبـي ربـاح: أنهم
+  قالوا: يا نبـي الله، بنو إسرائيـل أكرم علـى الله منا، كانوا إذا أذنب أحدهم أصبحت
+  كفـارة ذنبه مكتوبة فـي عتبة بـابه: اجدع أذنك، أجدع أنفك، افعل! فسكت رسول الله صلى
+  الله عليه وسلم، فنزلت:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">وَسَارِعُواْ إِلَىٰ مَغْفِرَةٍ مّن رَّبِّكُمْ وَجَنَّةٍ عَرْضُهَا
+  ٱلسَّمَـٰوٰتُ وَٱلأَرْضُ أُعِدَّتْ لِلْمُتَّقِينَ</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">[آل عمران: 133]... إلـى قوله: {
+  وَٱلَّذِينَ إِذَا فَعَلُواْ فَـٰحِشَةً أَوْ ظَلَمُواْ أَنْفُسَهُمْ ذَكَرُواْ ٱللَّهَ
+  فَٱسْتَغْفَرُواْ لِذُنُوبِهِمْ } ، فقال رسول الله صلى الله عليه وسلم:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" ألا أُخْبِرُكُمْ بِخَيْرٍ مِنَ
+  ذَلِكَ؟ \" </font></font></b><font class=\"TextResultArabic\"><font color=\"black\">فقرأ
+  هؤلاء الآيات.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا القاسم، قال: ثنا الـحسين،
+  قال: ثنـي عمر ابن أبـي خـلـيفة العبديّ، قال: ثنا علـيّ بن زيد بن جدعان، قال: قال
+  ابن مسعود: كانت بنو إسرائيـل إذا أذنبوا، أصبح مكتوباً علـى بـابه الذنب وكفـارته،
+  فأعطينا خيراً من ذلك هذه الآية.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
   ابن حميد، قال: ثنا يحيـى بن واضح، قال: ثنا جعفر بن سلـيـمان، عن ثابت البنانـي، قال:
-  لـما نزلت:{ وَمَن يَعْمَلْ سُوءاً أَوْ يَظْلِمْ نَفْسَهُ }[النساء: 110] بكى إبلـيس
-  فزعاً من هذه الآية.حدثنا الـحسن بن يحيـى، قال: أخبرنا عبد الرزاق، قال: أخبرنا جعفر
-  بن سلـيـمان، عن ثابت البنانـي، قال: بلغنـي أن إبلـيس حين نزلت هذه الآية: { وَٱلَّذِينَ
-  إِذَا فَعَلُواْ فَـٰحِشَةً أَوْ ظَلَمُواْ أَنْفُسَهُمْ } بكى.حدثنا مـحمد بن المثنى،
-  قال: ثنا مـحمد بن جعفر، قال: ثنا شعبة، قال: سمعت عثمان مولى آل أبي عقيل الثقفي،
-  قال: سمعت عليّ بن ربيعة، يحدث عن رجل من فزارة يقال له أسماء أو ابن أسماء، عن عليّ،
-  قال: كنت إذا سمعت من رسول الله صلى الله عليه وسلم شيئاً، نفعنـي الله بما شاء أن
-  ينفعني، فحدثني أبو بكر ـ وصدق أبو بكر ـ عن النبي صلى الله عليه وسلم، قال: \" ما
-  مِنْ عَبْدٍ \" قال شعبة: وأحسبه قال \" مُسْلِـمٍ يُذْنِبُ ذَنْبا ثم يَتَوضَّأُ ثم
-  يُصَّلِّـي ركْعَتَـيْنِ، ثم يَسْتَغْفِرُ الله لِذَلِكَ الذَّنْبِ... \" وقال شعبة:
-  وقرأ إحدى هاتـين الآيتـين:{ مَن يَعْمَلْ سُوءاً يُجْزَ بِهِ }[النساء: 123] { وَٱلَّذِينَ
-  إِذَا فَعَلُواْ فَـٰحِشَةً أَوْ ظَلَمُواْ أَنْفُسَهُمْ }.حدثنا ابن وكيع، قال: ثنا
-  أبي، وحدثنا الفضل بن إسحاق، قال: ثنا وكيع، عن مسعر وسفـيان، عن عثمان بن الـمغيرة
-  الثقـفي، عن علـيّ بن ربـيعة الوالبي، عن أسماء بن الـحكم الفزاري، عن علـيّ بن أبـي
-  طالب قال: كنت إذا سمعت من رسول الله صلى الله عليه وسلم حديثاً نفعنـي الله بـما شاء
-  منه، وإذا حدثنـي عنه غيره، استـحلفته، فإذا حلف لـي صدقته؛ وحدثنـي أبو بكر وصدق أبو
-  بكر أنه قال: قال رسول الله صلى الله عليه وسلم:\r\n\t\t\t\r\n\t\t\t1 2 3 4 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَٱلَّذِينَ إِذَا فَعَلُواْ فَاحِشَةً
-  أَوْ ظَلَمُوۤاْ أَنْفُسَهُمْ ذَكَرُواْ ٱللَّهَ فَٱسْتَغْفَرُواْ لِذُنُوبِهِمْ وَمَن
-  يَغْفِرُ ٱلذُّنُوبَ إِلاَّ ٱللَّهُ وَلَمْ يُصِرُّواْ عَلَىٰ مَا فَعَلُواْ وَهُمْ
-  يَعْلَمُونَ } \" «ما مِنْ رَجُلٍ يَذْنِبُ ذَنْبا ثُمَّ يَتَوَضَّأُ، ثُمَّ يُصَلِّـي»،
-  قال أحدهما: «رَكْعَتَـيْنِ» وقال الآخر: «ثُمَّ يُصَلِّـي وَيَسْتَغْفِرُ اللَّهُ
-  إلاَّ غَفَرَ لَهُ» \" حدثنا الزبـير بن بكار، قال: ثنـي سعد بن أبـي سعيد الـمقبري،
-  عن أخيه، عن جده عن علـيّ بن أبـي طالب أنه قال: ما حدثنـي أحد عن رسول الله صلى الله
-  عليه وسلم إلا سألته أن يقسم لـي بـالله لهو سمعه من رسول الله صلى الله عليه وسلم
-  إلا أبـا بكر، فإنه كان لا يكذب. قال علـيّ رضي الله عنه: فحدثنـي أبو بكر، أن رسول
-  الله صلى الله عليه وسلم قال: \" ما مِنْ عَبْدٍ يُذْنِبُ ذَنْبا ثُمَّ يَقُومُ عِنْدَ
-  ذِكْرِ ذَنْبِهِ فَـيَتَوَضَّأُ ثُمَّ يُصَلِّـي رَكْعَتَـيْنِ، وَيَسْتَغْفِرُ اللَّهَ
-  مِنْ ذَنْبِهِ ذَلِكَ إلاَّ غَفَرهُ اللَّهُ لَهُ \" وأما قوله { ذَكَرُواْ ٱللَّهَ
-  فَٱسْتَغْفَرُواْ لِذُنُوبِهِمْ } فإنه كما بـينا تأويـله؛ وبنـحو ذلك كان أهل التأويـل
-  يقولون.حدثنا ابن حميد، قال: ثنا سلـمة، ثنا ابن إسحاق: { وَٱلَّذِينَ إِذَا فَعَلُواْ
-  فَـٰحِشَةً }: أي إن أتوا فـاحشة { أَوْ ظَلَمُواْ أَنْفُسَهُمْ } بـمعصية ذكروا نهي
-  الله عنها، وما حرّم الله عنها، فـاستغفروا لها، وعرفوا أنه لا يغفر الذنوب إلا هو.وأما
-  قوله: { وَمَن يَغْفِرُ ٱلذُّنُوبَ إِلاَّ ٱللَّهُ } فإن اسم الله مرفوع، ولا جحد قبله،
-  وإنـما يرفع ما بعده إلا بـاتبـاعه ما قبله إذا كان نكرة ومعه جحد، كقول القائل: ما
-  فـي الدار أحد إلا أخوك؛ فأما إذا قـيـل: قام القوم إلا أبـاك، فإن وجه الكلام فـي
-  الأب النصب. و «مَنْ» بصلته فـي قوله: { وَمَن يَغْفِرُ ٱلذُّنُوبَ إِلاَّ ٱللَّهُ
-  } معرفة فإن ذلك إنـما جاء رفعاً، لأن معنى الكلام: وهل يغفر الذنوب أحد، أو ما يغفر
-  الذنوب أحد إلا الله، فرفع ما بعد إلا من الله علـى تأويـل الكلام، لا علـى لفظه.وأما
-  قوله: { وَلَمْ يُصِرُّواْ عَلَىٰ مَا فَعَلُواْ وَهُمْ يَعْلَمُونَ } فإن أهل التأويـل
-  اختلفوا فـي تأويـل الإصرار ومعنى الكلـمة؛ فقال بعضهم: معنى ذلك: لـم يثبتوا علـى
-  ما أتوا من الذنوب، ولـم يقـيـموا علـيه، ولكنهم تابوا واستغفروا، كما وصفهم الله به.
-  ذكر من قال ذلك:حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: { وَلَمْ
+  لـما نزلت:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">وَمَن يَعْمَلْ سُوءاً أَوْ يَظْلِمْ نَفْسَهُ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[النساء:
+  110] بكى إبلـيس فزعاً من هذه الآية.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  الـحسن بن يحيـى، قال: أخبرنا عبد الرزاق، قال: أخبرنا جعفر بن سلـيـمان، عن ثابت البنانـي،
+  قال: بلغنـي أن إبلـيس حين نزلت هذه الآية: { وَٱلَّذِينَ إِذَا فَعَلُواْ فَـٰحِشَةً
+  أَوْ ظَلَمُواْ أَنْفُسَهُمْ } بكى.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  مـحمد بن المثنى، قال: ثنا مـحمد بن جعفر، قال: ثنا شعبة، قال: سمعت عثمان مولى آل
+  أبي عقيل الثقفي، قال: سمعت عليّ بن ربيعة، يحدث عن رجل من فزارة يقال له أسماء أو
+  ابن أسماء، عن عليّ، قال: كنت إذا سمعت من رسول الله صلى الله عليه وسلم شيئاً، نفعنـي
+  الله بما شاء أن ينفعني، فحدثني أبو بكر ـ وصدق أبو بكر ـ عن النبي صلى الله عليه وسلم،
+  قال:</font></font><b><font class=\"TextResultArabic\"><font color=\"Red\"> \" ما
+  مِنْ عَبْدٍ \" </font></font></b><font class=\"TextResultArabic\"><font color=\"black\">قال
+  شعبة: وأحسبه قال</font></font><b><font class=\"TextResultArabic\"><font color=\"Red\">
+  \" مُسْلِـمٍ يُذْنِبُ ذَنْبا ثم يَتَوضَّأُ ثم يُصَّلِّـي ركْعَتَـيْنِ، ثم يَسْتَغْفِرُ
+  الله لِذَلِكَ الذَّنْبِ... \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال شعبة: وقرأ إحدى هاتـين الآيتـين:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">مَن يَعْمَلْ سُوءاً يُجْزَ بِهِ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[النساء:
+  123] { وَٱلَّذِينَ إِذَا فَعَلُواْ فَـٰحِشَةً أَوْ ظَلَمُواْ أَنْفُسَهُمْ }.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن وكيع، قال: ثنا أبي، وحدثنا الفضل بن إسحاق، قال: ثنا وكيع،
+  عن مسعر وسفـيان، عن عثمان بن الـمغيرة الثقـفي، عن علـيّ بن ربـيعة الوالبي، عن أسماء
+  بن الـحكم الفزاري، عن علـيّ بن أبـي طالب قال: كنت إذا سمعت من رسول الله صلى الله
+  عليه وسلم حديثاً نفعنـي الله بـما شاء منه، وإذا حدثنـي عنه غيره، استـحلفته، فإذا
+  حلف لـي صدقته؛ وحدثنـي أبو بكر وصدق أبو بكر أنه قال: قال رسول الله صلى الله عليه
+  وسلم:</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(3, 135)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(3,135)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَٱلَّذِينَ إِذَا فَعَلُواْ فَاحِشَةً أَوْ ظَلَمُوۤاْ
+  أَنْفُسَهُمْ ذَكَرُواْ ٱللَّهَ فَٱسْتَغْفَرُواْ لِذُنُوبِهِمْ وَمَن يَغْفِرُ ٱلذُّنُوبَ
+  إِلاَّ ٱللَّهُ وَلَمْ يُصِرُّواْ عَلَىٰ مَا فَعَلُواْ وَهُمْ يَعْلَمُونَ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\"/></font><b><font class=\"TextResultArabic\"><font color=\"Red\">
+  \" «ما مِنْ رَجُلٍ يَذْنِبُ ذَنْبا ثُمَّ يَتَوَضَّأُ، ثُمَّ يُصَلِّـي»، قال أحدهما:
+  «رَكْعَتَـيْنِ» وقال الآخر: «ثُمَّ يُصَلِّـي وَيَسْتَغْفِرُ اللَّهُ إلاَّ غَفَرَ
+  لَهُ» \" </font></font></b><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا الزبـير بن بكار، قال: ثنـي
+  سعد بن أبـي سعيد الـمقبري، عن أخيه، عن جده عن علـيّ بن أبـي طالب أنه قال: ما حدثنـي
+  أحد عن رسول الله صلى الله عليه وسلم إلا سألته أن يقسم لـي بـالله لهو سمعه من رسول
+  الله صلى الله عليه وسلم إلا أبـا بكر، فإنه كان لا يكذب. قال علـيّ رضي الله عنه:
+  فحدثنـي أبو بكر، أن رسول الله صلى الله عليه وسلم قال:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" ما مِنْ عَبْدٍ يُذْنِبُ ذَنْبا ثُمَّ يَقُومُ عِنْدَ ذِكْرِ ذَنْبِهِ
+  فَـيَتَوَضَّأُ ثُمَّ يُصَلِّـي رَكْعَتَـيْنِ، وَيَسْتَغْفِرُ اللَّهَ مِنْ ذَنْبِهِ
+  ذَلِكَ إلاَّ غَفَرهُ اللَّهُ لَهُ \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وأما
+  قوله { ذَكَرُواْ ٱللَّهَ فَٱسْتَغْفَرُواْ لِذُنُوبِهِمْ } فإنه كما بـينا تأويـله؛
+  وبنـحو ذلك كان أهل التأويـل يقولون.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن حميد، قال: ثنا سلـمة، ثنا ابن إسحاق: { وَٱلَّذِينَ إِذَا فَعَلُواْ فَـٰحِشَةً
+  }: أي إن أتوا فـاحشة { أَوْ ظَلَمُواْ أَنْفُسَهُمْ } بـمعصية ذكروا نهي الله عنها،
+  وما حرّم الله عنها، فـاستغفروا لها، وعرفوا أنه لا يغفر الذنوب إلا هو.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وأما قوله: { وَمَن يَغْفِرُ ٱلذُّنُوبَ إِلاَّ ٱللَّهُ } فإن اسم
+  الله مرفوع، ولا جحد قبله، وإنـما يرفع ما بعده إلا بـاتبـاعه ما قبله إذا كان نكرة
+  ومعه جحد، كقول القائل: ما فـي الدار أحد إلا أخوك؛ فأما إذا قـيـل: قام القوم إلا
+  أبـاك، فإن وجه الكلام فـي الأب النصب. و «مَنْ» بصلته فـي قوله: { وَمَن يَغْفِرُ
+  ٱلذُّنُوبَ إِلاَّ ٱللَّهُ } معرفة فإن ذلك إنـما جاء رفعاً، لأن معنى الكلام: وهل
+  يغفر الذنوب أحد، أو ما يغفر الذنوب أحد إلا الله، فرفع ما بعد إلا من الله علـى تأويـل
+  الكلام، لا علـى لفظه.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وأما قوله: { وَلَمْ يُصِرُّواْ
+  عَلَىٰ مَا فَعَلُواْ وَهُمْ يَعْلَمُونَ } فإن أهل التأويـل اختلفوا فـي تأويـل الإصرار
+  ومعنى الكلـمة؛ فقال بعضهم: معنى ذلك: لـم يثبتوا علـى ما أتوا من الذنوب، ولـم يقـيـموا
+  علـيه، ولكنهم تابوا واستغفروا، كما وصفهم الله به. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة، قوله: { وَلَمْ
   يُصِرُّواْ عَلَىٰ مَا فَعَلُواْ وَهُمْ يَعْلَمُونَ } فإياكم والإصرار، فإنـما هلك
   الـمصرّون الـماضون قُدُماً، لا ينهاهم مخافة الله عن حرام حرَّمه الله علـيهم، ولا
-  يتوبون من ذنب أصابوه، حتـى أتاهم الـموت وهم علـى ذلك.حدثنا الـحسن بن يحيـى قال:
-  أخبرنا عبد الرزاق، قال: أخبرنا معمر، عن قتادة فـي قوله: { وَلَمْ يُصِرُّواْ عَلَىٰ
-  مَا فَعَلُواْ وَهُمْ يَعْلَمُونَ } قال: قُدُماً قُدُماً فـي معاصي الله، لا ينهاهم
-  مخافة الله حتـى جاءهم أمر الله.\r\n\t\t\t\r\n\t\t\t1 2 3 4 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَٱلَّذِينَ إِذَا فَعَلُواْ فَاحِشَةً
-  أَوْ ظَلَمُوۤاْ أَنْفُسَهُمْ ذَكَرُواْ ٱللَّهَ فَٱسْتَغْفَرُواْ لِذُنُوبِهِمْ وَمَن
-  يَغْفِرُ ٱلذُّنُوبَ إِلاَّ ٱللَّهُ وَلَمْ يُصِرُّواْ عَلَىٰ مَا فَعَلُواْ وَهُمْ
-  يَعْلَمُونَ }حدثنا ابن حميد، قال: ثنا سلـمة، عن ابن إسحاق: { لا يُصِرُّواْ عَلَىٰ
+  يتوبون من ذنب أصابوه، حتـى أتاهم الـموت وهم علـى ذلك.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  الـحسن بن يحيـى قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر، عن قتادة فـي قوله: { وَلَمْ
+  يُصِرُّواْ عَلَىٰ مَا فَعَلُواْ وَهُمْ يَعْلَمُونَ } قال: قُدُماً قُدُماً فـي معاصي
+  الله، لا ينهاهم مخافة الله حتـى جاءهم أمر الله.</font></font>&#13;\t\t\t<label disabled=\"true\"
+  class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">3 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(3, 135)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(3,135)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَٱلَّذِينَ إِذَا فَعَلُواْ فَاحِشَةً أَوْ ظَلَمُوۤاْ
+  أَنْفُسَهُمْ ذَكَرُواْ ٱللَّهَ فَٱسْتَغْفَرُواْ لِذُنُوبِهِمْ وَمَن يَغْفِرُ ٱلذُّنُوبَ
+  إِلاَّ ٱللَّهُ وَلَمْ يُصِرُّواْ عَلَىٰ مَا فَعَلُواْ وَهُمْ يَعْلَمُونَ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن حميد، قال: ثنا سلـمة، عن ابن إسحاق: { لا يُصِرُّواْ عَلَىٰ
   مَا فَعَلُواْ وَهُمْ يَعْلَمُونَ }: أي لـم يقـيـموا علـى معصيتـي، كفعل من أشرك بـي
-  فـيـما عملوا به من كفر بـي.وقال آخرون: معنى ذلك: لـم يواقعوا الذنب إذا هموا به.
-  ذكر من قال ذلك:حدثنا الـحسن بن يحيـى، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر،
+  فـيـما عملوا به من كفر بـي.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  آخرون: معنى ذلك: لـم يواقعوا الذنب إذا هموا به. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا الـحسن بن يحيـى، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر،
   عن الـحسن فـي قوله: { وَلَمْ يُصِرُّواْ عَلَىٰ مَا فَعَلُواْ } قال: إتـيان العبد
-  ذنبـاً إصراراً حتـى يتوب.حدثنـي مـحمد بن عمرو، قال: ثنا أبو عاصم، عن عيسى، عن ابن
-  أبـي نـجيح، عن مـجاهد فـي قول الله عزّ وجلّ: { وَلَمْ يُصِرُّواْ عَلَىٰ مَا فَعَلُواْ
-  } قالوا: لـم يواقعوا.وقال آخرون: معنى الإصرار: السكوت علـى الذنب، وترك الاستغفـار.
-  ذكر من قال ذلك:حدثنا مـحمد بن الـحسين، قال: ثنا أحمد بن الـمفضل، قال: ثنا أسبـاط،
+  ذنبـاً إصراراً حتـى يتوب.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي مـحمد بن عمرو، قال: ثنا
+  أبو عاصم، عن عيسى، عن ابن أبـي نـجيح، عن مـجاهد فـي قول الله عزّ وجلّ: { وَلَمْ
+  يُصِرُّواْ عَلَىٰ مَا فَعَلُواْ } قالوا: لـم يواقعوا.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  آخرون: معنى الإصرار: السكوت علـى الذنب، وترك الاستغفـار. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا مـحمد بن الـحسين، قال: ثنا أحمد بن الـمفضل، قال: ثنا أسبـاط،
   عن السدي: { وَلَمْ يُصِرُّواْ عَلَىٰ مَا فَعَلُواْ وَهُمْ يَعْلَمُونَ }: أما يصرّوا:
-  فـيسكتوا ولا يستغفروا.وأولـى الأقوال فـي ذلك بـالصواب عندنا قول من قال: الإصرار
-  الإقامة علـى الذنب عامداً، أو ترك التوبة منه. ولا معنى لقول من قال: الإصرار علـى
-  الذنب: هو مواقعته؛ لأن الله عزّ وجلّ مدح بترك الإصرار علـى الذنب مواقع الذنب، فقال:
-  { وَٱلَّذِينَ إِذَا فَعَلُواْ فَـٰحِشَةً أَوْ ظَلَمُواْ أَنْفُسَهُمْ ذَكَرُواْ ٱللَّهَ
-  فَٱسْتَغْفَرُواْ لِذُنُوبِهِمْ وَمَن يَغْفِرُ ٱلذُّنُوبَ إِلاَّ ٱللَّهُ وَلَمْ يُصِرُّواْ
-  عَلَىٰ ما فَعَلُوا وَهُمْ يَعْلَمُونَ }؛ ولو كان الـمواقع الذنب مصراً بـمواقعته
-  إياه، لـم يكن للاستغفـار وجه مفهوم، لأن الاستغفـار من الذنب إنـما هو التوبة منه
-  والندم، ولا يعرف للاستغفـار من ذنب لـم يواقعه صاحبه وجه. وقد رُوي عن النبـي صلى
-  الله عليه وسلم أنه قال: \" ما أصَرَّ مَنِ اسْتَغْفَرَ وإنْ عادَ فِـي الـيَوْمِ سَبْعِينَ
-  مَرَّةً \" حدثنـي بذلك الـحسين بن يزيد السبـيعي، قال: ثنا عبد الـحميد الـحمانـي،
-  عن عثمان بن واقد، عن أبـي نصيرة، عن مولـى لأبـي بكر، عن أبـي بكر، عن رسول الله صلى
-  الله عليه وسلم.فلو كان مواقع الذنب مصرّا، لـم يكن لقوله \" ما أصَرَّ مَنِ اسْتَغْفَرَ
-  وإنْ عادَ فِـي الـيَوْمِ سَبْعِينَ مَرَّةً \" معنى، لأن مواقعة الذنب، إذا كانت هي
-  الإصرار، فلا يزيـل الاسم الذي لزمه معنى غيره، كما لا يزيـل عن الزانـي اسم زان، وعن
-  القاتل اسم قاتل توبته منه، ولا معنى غيرها، وقد أبـان هذا الـخبر أن الـمستغفر من
-  ذنبه غير مصرّ علـيه، فمعلوم بذلك أن الإصرار غير الـموقعة، وأنه الـمقام علـيه علـى
-  ما قلنا قبل.واختلف أهل التأويـل فـي تأويـل قولهم: { وَهُمْ يَعْلَمُونَ } فقال بعضهم:
-  معناه: وهم يعلـمون أنهم قد أذنبوا. ذكر من قال ذلك:حدثنا مـحمد بن الـحسين، قال: ثنا
-  أحمد بن الـمفضل، قال: ثنا أسبـاط، عن السدي: أما { وَهُمْ يَعْلَمُونَ }: فـيعلـمون
-  أنهم قد أذنبوا، ثم أقاموا فلـم يستغفروا.وقال آخرون: معنى ذلك: وهم يعلـمون أن الذي
-  أتوا معصية الله. ذكر من قال ذلك:حدثنا ابن حميد، قال: ثنا سلـمة، عن ابن إسحاق: {
-  وَهُمْ يَعْلَمُونَ } قال: يعلـمون ما حرمت علـيهم من عبـادة غيري.قال أبو جعفر: وقد
-  تقدم بـياننا أولـى ذلك بـالصواب.\r\n\t\t\t\r\n\t\t\t1 2 3 4 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  فـيسكتوا ولا يستغفروا.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وأولـى الأقوال فـي ذلك بـالصواب
+  عندنا قول من قال: الإصرار الإقامة علـى الذنب عامداً، أو ترك التوبة منه. ولا معنى
+  لقول من قال: الإصرار علـى الذنب: هو مواقعته؛ لأن الله عزّ وجلّ مدح بترك الإصرار
+  علـى الذنب مواقع الذنب، فقال: { وَٱلَّذِينَ إِذَا فَعَلُواْ فَـٰحِشَةً أَوْ ظَلَمُواْ
+  أَنْفُسَهُمْ ذَكَرُواْ ٱللَّهَ فَٱسْتَغْفَرُواْ لِذُنُوبِهِمْ وَمَن يَغْفِرُ ٱلذُّنُوبَ
+  إِلاَّ ٱللَّهُ وَلَمْ يُصِرُّواْ عَلَىٰ ما فَعَلُوا وَهُمْ يَعْلَمُونَ }؛ ولو كان
+  الـمواقع الذنب مصراً بـمواقعته إياه، لـم يكن للاستغفـار وجه مفهوم، لأن الاستغفـار
+  من الذنب إنـما هو التوبة منه والندم، ولا يعرف للاستغفـار من ذنب لـم يواقعه صاحبه
+  وجه. وقد رُوي عن النبـي صلى الله عليه وسلم أنه قال:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" ما أصَرَّ مَنِ اسْتَغْفَرَ وإنْ عادَ فِـي الـيَوْمِ سَبْعِينَ
+  مَرَّةً \" </font></font></b><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنـي بذلك الـحسين بن يزيد السبـيعي،
+  قال: ثنا عبد الـحميد الـحمانـي، عن عثمان بن واقد، عن أبـي نصيرة، عن مولـى لأبـي
+  بكر، عن أبـي بكر، عن رسول الله صلى الله عليه وسلم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">فلو
+  كان مواقع الذنب مصرّا، لـم يكن لقوله</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" ما أصَرَّ مَنِ اسْتَغْفَرَ وإنْ عادَ فِـي الـيَوْمِ سَبْعِينَ
+  مَرَّةً \" </font></font></b><font class=\"TextResultArabic\"><font color=\"black\">معنى،
+  لأن مواقعة الذنب، إذا كانت هي الإصرار، فلا يزيـل الاسم الذي لزمه معنى غيره، كما
+  لا يزيـل عن الزانـي اسم زان، وعن القاتل اسم قاتل توبته منه، ولا معنى غيرها، وقد
+  أبـان هذا الـخبر أن الـمستغفر من ذنبه غير مصرّ علـيه، فمعلوم بذلك أن الإصرار غير
+  الـموقعة، وأنه الـمقام علـيه علـى ما قلنا قبل.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">واختلف
+  أهل التأويـل فـي تأويـل قولهم: { وَهُمْ يَعْلَمُونَ } فقال بعضهم: معناه: وهم يعلـمون
+  أنهم قد أذنبوا. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  مـحمد بن الـحسين، قال: ثنا أحمد بن الـمفضل، قال: ثنا أسبـاط، عن السدي: أما { وَهُمْ
+  يَعْلَمُونَ }: فـيعلـمون أنهم قد أذنبوا، ثم أقاموا فلـم يستغفروا.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال آخرون: معنى ذلك: وهم يعلـمون أن الذي أتوا معصية الله. ذكر من
+  قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن حميد، قال: ثنا سلـمة،
+  عن ابن إسحاق: { وَهُمْ يَعْلَمُونَ } قال: يعلـمون ما حرمت علـيهم من عبـادة غيري.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قال أبو جعفر: وقد تقدم بـياننا أولـى ذلك بـالصواب.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">4 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section>"
 

@@ -1,4 +1,4 @@
-location:
+position:
   sura: '002'
   aaya: 048
   madhab: '02'
@@ -7,17 +7,47 @@ meta:
   title: تفسير النكت والعيون
   author: الماوردي
   year: '450'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَٱتَّقُواْ يَوْماً
-  لاَّ تَجْزِي نَفْسٌ عَن نَّفْسٍ شَيْئاً وَلاَ يُقْبَلُ مِنْهَا شَفَٰعَةٌ وَلاَ يُؤْخَذُ
-  مِنْهَا عَدْلٌ وَلاَ هُمْ يُنْصَرُونَ }قوله عز وجل: { وَاتَّقُوا يَوْماً لاَ تَجْزي
-  نَفْسٌ عَنْ نَفْسٍ شَيْئاً } فيه تأويلان:أحدهما: معناه: لا تُغنِي، كما يقال: البقرة
-  تَجْزِي عن سبعةٍ أي تُغِني، وهو قول السدي.والثاني: معناه لا تقضي، ومنه قولهم جزى
-  الله فلاناً عني خيراً، أي قضاه، وهو قول المفضل.{ وَلاَ يُقْبَلُ مِنْهَا شَفَاعَةٌ
-  } قال الحسن: معناه لا يجِيءُ بشفيعٍ تقبل شفاعته لعجزه عنه، وقال غيره: بل معناه،
-  أن الشفيع لا يجيبه إلى الشفاعة له، وأنَّه لو شُفِّعَ لشَفَعَ.قوله عز وجل: { وَلاَ
-  يُؤْخَذُ مِنْهَا عَدْلٌ }: العَدْلُ بفتح العَيْنِ: الفِدْيَةُ، وبكسرِ العَيْنِ:
-  المِثلُ.فأما قولهم: لا قَبل الله منه صرفاً، ولا عدلاً، ففيه أربعة أقاويل:أحدها:
-  أن الصرف العمل، والعدل الفدية، وهذا قول الحسن البصري.والثاني: أن الصرف الدية، والعدل
-  رجل مكانه، وهذا قول الكلبي.والثالث: أن الصرف التطوع، والعدل الفريضة، وهذا قول الأصمعي.والرابع:
-  أن الصرف الحِيلَةُ، والعدل الفدْية، وهذا قول أبي عبيدة.\r\n\t\t\t\r\n\t\t\t</section>"
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(2, 48)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(2,48)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَٱتَّقُواْ
+  يَوْماً لاَّ تَجْزِي نَفْسٌ عَن نَّفْسٍ شَيْئاً وَلاَ يُقْبَلُ مِنْهَا شَفَٰعَةٌ
+  وَلاَ يُؤْخَذُ مِنْهَا عَدْلٌ وَلاَ هُمْ يُنْصَرُونَ</a> <b>}</b></font>, <br/>,
+  <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">قوله
+  عز وجل: { وَاتَّقُوا يَوْماً لاَ تَجْزي نَفْسٌ عَنْ نَفْسٍ شَيْئاً } فيه تأويلان:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">أحدهما: معناه: لا تُغنِي، كما يقال: البقرة تَجْزِي عن سبعةٍ أي تُغِني،
+  وهو قول السدي.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">والثاني: معناه لا تقضي، ومنه قولهم
+  جزى الله فلاناً عني خيراً، أي قضاه، وهو قول المفضل.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">{
+  وَلاَ يُقْبَلُ مِنْهَا شَفَاعَةٌ } قال الحسن: معناه لا يجِيءُ بشفيعٍ تقبل شفاعته
+  لعجزه عنه، وقال غيره: بل معناه، أن الشفيع لا يجيبه إلى الشفاعة له، وأنَّه لو شُفِّعَ
+  لشَفَعَ.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">قوله عز وجل: { وَلاَ يُؤْخَذُ مِنْهَا
+  عَدْلٌ }: العَدْلُ بفتح العَيْنِ: الفِدْيَةُ، وبكسرِ العَيْنِ: المِثلُ.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">فأما قولهم: لا قَبل الله منه صرفاً، ولا عدلاً، ففيه أربعة أقاويل:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">أحدها: أن الصرف العمل، والعدل الفدية، وهذا قول الحسن البصري.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">والثاني: أن الصرف الدية، والعدل رجل مكانه، وهذا قول الكلبي.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">والثالث: أن الصرف التطوع، والعدل الفريضة، وهذا قول الأصمعي.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">والرابع: أن الصرف الحِيلَةُ، والعدل الفدْية، وهذا قول أبي عبيدة.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

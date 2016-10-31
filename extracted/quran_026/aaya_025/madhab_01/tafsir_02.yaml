@@ -1,4 +1,4 @@
-location:
+position:
   sura: '026'
   aaya: '025'
   madhab: '01'
@@ -7,10 +7,30 @@ meta:
   title: تفسير الكشاف
   author: الزمخشري
   year: '538'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ قَالَ لِمَنْ حَوْلَهُ
-  أَلاَ تَسْتَمِعُونَ } * { قَالَ رَبُّكُمْ وَرَبُّ آبَآئِكُمُ ٱلأَوَّلِينَ } * {
-  قَالَ إِنَّ رَسُولَكُمُ ٱلَّذِيۤ أُرْسِلَ إِلَيْكُمْ لَمَجْنُونٌ } * { قَالَ رَبُّ
-  ٱلْمَشْرِقِ وَٱلْمَغْرِبِ وَمَا بَيْنَهُمَآ إِن كُنتُمْ تَعْقِلُونَ }فإن قلت: ومن
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(26, 25)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(26,25)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">قَالَ
+  لِمَنْ حَوْلَهُ أَلاَ تَسْتَمِعُونَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">قَالَ رَبُّكُمْ
+  وَرَبُّ آبَآئِكُمُ ٱلأَوَّلِينَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">قَالَ إِنَّ رَسُولَكُمُ ٱلَّذِيۤ أُرْسِلَ
+  إِلَيْكُمْ لَمَجْنُونٌ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">قَالَ رَبُّ ٱلْمَشْرِقِ وَٱلْمَغْرِبِ وَمَا
+  بَيْنَهُمَآ إِن كُنتُمْ تَعْقِلُونَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\"
+  dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">فإن قلت: ومن
   كان حوله؟ قلت: أشراف قومه قيل: كانوا خمسمائة رجل عليهم الأساور وكانت للملوك خاصة.
   فإن قلت: ذكر السموات والأرض وما بينهما قد استوعب به الخلائق كلها، فما معنى ذكرهم
   وذكر آبائهم بعد ذلك وذكر المشرق والمغرب؟ قلت: قد عمم أوّلاً، ثم خصص من العام للبيان
@@ -22,5 +42,6 @@ text: "<section>قراءة الآيةفتح صفحة القرآنالانتقا�
   «رب المشارق والمغارب». الذي أرسل إليكم بفتح الهمزة. فإن قلت: كيف قال أوّلاً: { إِن
   كُنتُمْ مُّوقِنِينَ } وآخراً { إِنْ كُنتُمْ تَعْقِلُونَ }؟ قلت: لاين أوّلاً، فلما
   رأى منهم شدّة الشكيمة في العناد وقلة الإصغاء إلى عرض الحجج خاشن وعارض: إنّ رسولكم
-  لمجنون، بقوله: { إِنْ كُنتُمْ تَعْقِلُونَ }.\r\n\t\t\t\r\n\t\t\t</section>"
+  لمجنون، بقوله: { إِنْ كُنتُمْ تَعْقِلُونَ }.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

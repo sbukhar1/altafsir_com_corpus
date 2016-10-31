@@ -1,4 +1,4 @@
-location:
+position:
   sura: '016'
   aaya: '077'
   madhab: '01'
@@ -9,18 +9,40 @@ meta:
   year: '310'
 aaya: وَلِلَّهِ غَيْبُ السَّمَاوَاتِ وَالْأَرْضِ ۚ وَمَا أَمْرُ السَّاعَةِ إِلَّا
   كَلَمْحِ الْبَصَرِ أَوْ هُوَ أَقْرَبُ ۚ إِنَّ اللَّهَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ وَلِلَّهِ غَيْبُ
-  ٱلسَّمَٰوَٰتِ وَٱلأَرْضِ وَمَآ أَمْرُ ٱلسَّاعَةِ إِلاَّ كَلَمْحِ ٱلْبَصَرِ أَوْ
-  هُوَ أَقْرَبُ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ }يقول تعالـى ذكره: ولله
-  أيها الناس مِلك ما غاب عن أبصاركم فـي السموات والأرض دون آلهتكم التـي تدعون من دونه،
-  ودون كلّ ما سواه، لا يـملك ذلك أحد سواه. { وَما أمْرُ السَّاعَةِ إلاَّ كَلَـمْـحِ
-  البَصَرِ } يقول: وما أمر قـيام القـيامة والساعة التـي تنشر فـيها الـخـلق للوقوف
-  فـي موقـف القـيامة، إلا كنظرة من البصر، لأن ذلك إنـما هو أن يقال له كن فـيكون. كما:حدثنا
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(16, 77)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(16,77)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَلِلَّهِ
+  غَيْبُ ٱلسَّمَٰوَٰتِ وَٱلأَرْضِ وَمَآ أَمْرُ ٱلسَّاعَةِ إِلاَّ كَلَمْحِ ٱلْبَصَرِ
+  أَوْ هُوَ أَقْرَبُ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">يقول تعالـى ذكره: ولله أيها الناس مِلك ما غاب عن أبصاركم فـي السموات
+  والأرض دون آلهتكم التـي تدعون من دونه، ودون كلّ ما سواه، لا يـملك ذلك أحد سواه.
+  { وَما أمْرُ السَّاعَةِ إلاَّ كَلَـمْـحِ البَصَرِ } يقول: وما أمر قـيام القـيامة
+  والساعة التـي تنشر فـيها الـخـلق للوقوف فـي موقـف القـيامة، إلا كنظرة من البصر،
+  لأن ذلك إنـما هو أن يقال له كن فـيكون. كما:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
   مـحمد بن عبد الأعلـى، قال: ثنا مـحمد بن ثور، عن معمر، عن قتادة: { إلاَّ كَلَـمْـحٍ
-  البَصَرِ أوْ هُوَ أقْرَبُ } والساعة: كلـمـح البصر، أو أقرب.حدثنا الـحسن بن يحيى،
-  قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر، عن قتادة: { وَما أمْرُ السَّاعَةِ إلاَّ
-  كَلَـمْـحِ البَصَرِ } قال: هو أن يقول: كن، فهو كلـمـح البصر فأمر الساعة كلـمـح البصر
-  أو أقرب يعنـي يقول: أو هو أقرب من لـمـح البصر.وقوله: { إنَّ اللَّهَ عَلـى كُلّ شَيْءٍ
-  قَدِيرٌ } يقول: إن الله علـى إقامة الساعة فـي أقرب من لـمـح البصر قادر، وعلـى ما
-  يشاء من الأشياء كلها، لا يـمتنع علـيه شيء أراده.\r\n\t\t\t\r\n\t\t\t</section>"
+  البَصَرِ أوْ هُوَ أقْرَبُ } والساعة: كلـمـح البصر، أو أقرب.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  الـحسن بن يحيى، قال: أخبرنا عبد الرزاق، قال: أخبرنا معمر، عن قتادة: { وَما أمْرُ
+  السَّاعَةِ إلاَّ كَلَـمْـحِ البَصَرِ } قال: هو أن يقول: كن، فهو كلـمـح البصر فأمر
+  الساعة كلـمـح البصر أو أقرب يعنـي يقول: أو هو أقرب من لـمـح البصر.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقوله: { إنَّ اللَّهَ عَلـى كُلّ شَيْءٍ قَدِيرٌ } يقول: إن الله
+  علـى إقامة الساعة فـي أقرب من لـمـح البصر قادر، وعلـى ما يشاء من الأشياء كلها، لا
+  يـمتنع علـيه شيء أراده.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t</div></section>"
 

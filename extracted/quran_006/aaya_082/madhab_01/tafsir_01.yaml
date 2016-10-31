@@ -1,4 +1,4 @@
-location:
+position:
   sura: '006'
   aaya: 082
   madhab: '01'
@@ -7,157 +7,363 @@ meta:
   title: تفسير جامع البيان في تفسير القرآن
   author: الطبري
   year: '310'
-text: "<section>قراءة الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ ٱلَّذِينَ آمَنُواْ
-  وَلَمْ يَلْبِسُوۤاْ إِيمَانَهُمْ بِظُلْمٍ أُوْلَـٰئِكَ لَهُمُ ٱلأَمْنُ وَهُمْ مُّهْتَدُونَ
-  }اختلف أهل التأويل في الذي أخبر تعالى ذكره عنه أنه قال هذا القول، أعني: { الَّذِينَ
-  آمَنُوا وَلمْ يَلْبِسُوا إيمَانَهُمْ بِظُلْمٍ }... الآية. فقال بعضهم: هذا فصل القضاء
-  من الله بين إبراهيم خليله عليه السلام وبين من حاجَّه من قومه من أهل الشرك بالله،
-  إذ قال لهم إبراهيم:{ وكَيْفَ أخافُ ما أشْرَكْتُمْ وَلا تَخافُونَ أنَّكُمْ أشْرَكْتُمْ
-  باللّهِ ما لَمْ يُنَزّلْ بِهِ عَلَيْكُمْ سُلْطاناً فَأيُّ الفَرِيقَيْنِ أحَق بالأمْنِ
-  إنْ كُنْتُمْ تَعْلَمُونَ }فقال الله تعالى فاصلاً بينه وبينهم: الذين صدّقوا الله،
-  وأخلصوا له العبادة، ولم يَخْلِطوا عبادتهم إياه وتصديقهم له بظلم، يعني: بشرك، ولم
-  يشركوا في عبادته شيئاً، ثم جعلوا عبادتهم لله خالصاً أحقّ بالأمن من عقابه مكروه عبادته
-  من الذين يشركون في عبادتهم إياه الأوثان والأصنام، فإنهم الخائفون من عقابه مكروه
-  عبادتهم أما في عاجل الدنيا فإنهم وجلون من حلول سُخْط الله بهم، وأما في الآخرة فإنهم
-  الموقنون بأليم عذاب الله. ذكر من قال ذلك:حدثنا ابن حميد، قال: ثنا سلمة بن الفضل،
-  قال: ثنا أحمد بن إسحاق، قال: يقول الله تعالى ذكره: { الَّذِينَ آمَنُوا ولَمْ يَلْبِسُوا
-  إيمَانَهُمْ بِظُلْمٍ }: أي الذين أخلصوا كإخلاص إبراهيم صلى الله عليه وسلم لعبادة
-  الله وتوحيده. { ولم يَلْبِسُوا إيمانَهُمْ بظُلْمٍ } أي بشرك، { أُولَئِكَ لَهُمُ
-  الأمْنُ وَهُمْ مُهْتَدُونَ } الأمن من العذاب والهدى في الحجة بالمعرفة والاستقامة
-  يقول الله تعالى:{ وَتِلْكَ حُجَّتُنا آتَيْناها إبْرَاهِيمَ على قَوْمِهِ نَرْفَعُ
-  دَرَجاتٍ مَنْ نَشاءُ إنَّ رَبَّكَ حَكِيمٌ عَليمٌ }حدثني يونس، قال: أخبرنا بن وهب،
-  قال: قال بن زيد، في قوله:{ فأيُّ الفَرِيقَيْنِ أحَق بالأَمْنِ إنْ كُنْتُمْ تَعْلَمُونَ }قال:
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(6, 82)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(6,82)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">ٱلَّذِينَ
+  آمَنُواْ وَلَمْ يَلْبِسُوۤاْ إِيمَانَهُمْ بِظُلْمٍ أُوْلَـٰئِكَ لَهُمُ ٱلأَمْنُ
+  وَهُمْ مُّهْتَدُونَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">اختلف أهل التأويل في الذي أخبر
+  تعالى ذكره عنه أنه قال هذا القول، أعني: { الَّذِينَ آمَنُوا وَلمْ يَلْبِسُوا إيمَانَهُمْ
+  بِظُلْمٍ }... الآية. فقال بعضهم: هذا فصل القضاء من الله بين إبراهيم خليله عليه السلام
+  وبين من حاجَّه من قومه من أهل الشرك بالله، إذ قال لهم إبراهيم:</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">وكَيْفَ
+  أخافُ ما أشْرَكْتُمْ وَلا تَخافُونَ أنَّكُمْ أشْرَكْتُمْ باللّهِ ما لَمْ يُنَزّلْ
+  بِهِ عَلَيْكُمْ سُلْطاناً فَأيُّ الفَرِيقَيْنِ أحَق بالأمْنِ إنْ كُنْتُمْ تَعْلَمُونَ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">فقال
+  الله تعالى فاصلاً بينه وبينهم: الذين صدّقوا الله، وأخلصوا له العبادة، ولم يَخْلِطوا
+  عبادتهم إياه وتصديقهم له بظلم، يعني: بشرك، ولم يشركوا في عبادته شيئاً، ثم جعلوا
+  عبادتهم لله خالصاً أحقّ بالأمن من عقابه مكروه عبادته من الذين يشركون في عبادتهم
+  إياه الأوثان والأصنام، فإنهم الخائفون من عقابه مكروه عبادتهم أما في عاجل الدنيا
+  فإنهم وجلون من حلول سُخْط الله بهم، وأما في الآخرة فإنهم الموقنون بأليم عذاب الله.
+  ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن حميد، قال: ثنا سلمة بن
+  الفضل، قال: ثنا أحمد بن إسحاق، قال: يقول الله تعالى ذكره: { الَّذِينَ آمَنُوا ولَمْ
+  يَلْبِسُوا إيمَانَهُمْ بِظُلْمٍ }: أي الذين أخلصوا كإخلاص إبراهيم صلى الله عليه
+  وسلم لعبادة الله وتوحيده. { ولم يَلْبِسُوا إيمانَهُمْ بظُلْمٍ } أي بشرك، { أُولَئِكَ
+  لَهُمُ الأمْنُ وَهُمْ مُهْتَدُونَ } الأمن من العذاب والهدى في الحجة بالمعرفة والاستقامة
+  يقول الله تعالى:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">وَتِلْكَ حُجَّتُنا آتَيْناها إبْرَاهِيمَ على قَوْمِهِ نَرْفَعُ
+  دَرَجاتٍ مَنْ نَشاءُ إنَّ رَبَّكَ حَكِيمٌ عَليمٌ</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثني يونس، قال: أخبرنا بن وهب،
+  قال: قال بن زيد، في قوله:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">فأيُّ الفَرِيقَيْنِ أحَق بالأَمْنِ إنْ كُنْتُمْ تَعْلَمُونَ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">قال:
   فقال الله وقضى بينهم: { الَّذِينَ آمَنُوا ولَمْ يَلْبِسُوا إيمَانَهُمْ بِظُلْمٍ
   } قال: بشرك، قال: { أولَئِكَ لَهُمُ الأمْنُ وهم مُهْتَدُونَ } فأما الذنوب فليس يبرأ
-  منها أحد.وقال آخرون: هذا جواب من قوم إبراهيم صلى الله عليه وسلم لإبراهيم حين قال
-  لهم: أيّ الفريقين أحقّ بالأمن؟ فقالوا له: الذين آمنوا بالله فوحدوه أحقّ بالأمن إذا
-  لم يلبسوا إيمانهم بظلم. ذكر من قال ذلك:حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج،
-  عن ابن جريج:{ فأيُّ الفَرِيقَيْنِ أحَقُّ بالأَمْنِ إنْ كُنْتُمْ تَعْلَمُونَ }أمن
-  يعبد رباً واحداً أم من يعبد أرباباً كثيرة؟ يقول قومه: { الَّذِينَ آمَنُوا ولَمْ
-  يَلْبِسُوا إيمَانَهُمْ بِظُلْمٍ } بعبادة الأوثان، وهي حجة إبراهيم { أُولَئِكَ لَهُمُ
-  الأمْنَ وَهُمْ مُهْتَدُونَ }.وأولى القولين في ذلك عندي بالصواب، قول من قال: هذا
-  خبر من الله تعالى عن أولى الفريقين بالأمن، وفصل قضاء منه بين إبراهيم صلى الله عليه
-  وسلم وبين قومه، وذلك أن ذلك لو كان من قول قوم إبراهيم الذين كانوا يعبدون الأوثان
-  ويشركونها في عبادة الله، لكانوا قد أقرّوا بالتوحيد واتبعوا إبراهيم على ما كانوا
-  يخالفونه فيه من التوحيد، ولكنه كما ذكرت من تأويله بدءاً.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ ٱلَّذِينَ آمَنُواْ وَلَمْ يَلْبِسُوۤاْ
-  إِيمَانَهُمْ بِظُلْمٍ أُوْلَـٰئِكَ لَهُمُ ٱلأَمْنُ وَهُمْ مُّهْتَدُونَ }واختلف أهل
-  التأويل في المعنى الذي عناه الله تعالى بقوله: { ولَمْ يَلْبِسُوا إيمَانَهُمْ بِظُلْمٍ
-  } فقال بعضهم: بشرك. ذكر من قال ذلك:حدثنا أبو كريب، قال: ثنا ابن إدريس، قال: ثنا
-  الأعمش، عن إبراهيم، عن علقمة، عن عبد الله قال: لما نزلت هذه الآية: { الَّذِينَ آمَنُوا
-  ولَمْ يَلْبِسُوا إيمَانَهُمْ بِظُلْمٍ } شقّ ذلك على أصحاب رسول الله صلى الله عليه
-  وسلم، قال: فقال رسول الله صلى الله عليه وسلم: \" ألا تَرَوْنَ إلى قَوْلِ لُقْمَانَ:
-  إنَّ الشِّرْكَ لَظُلْمٌ عَظِيمٌ؟ \". قال أبو كريب، قال ابن إدريس: حدثنيه أولاً أبي
-  عن أبان بن تغلب عن الأعمش، ثم سمعته قيل له: من الأعمش؟ قال: نعم.حدثني عيسى بن عثمان
-  بن عيسى الرملي قال: ثني عمي يحيى بن عيسى، عن الأعمش، عن إبراهيم، عن علقمة، عن عبد
-  الله، قال: لما نزلت: { الَّذِينَ آمَنُوا ولَمْ يَلْبِسُوا إيمَانَهُمْ بِظُلْمٍ }
-  شقّ ذلك على المسلمين، فقالوا: يا رسول الله ما منا أحد إلا وهو يظلم نفسه، فقال رسول
-  الله صلى الله عليه وسلم \" لَيْسَ بِذَلِكَ، ألا تَسْمَعُونَ إلى قَوْلِ لُقْمَانَ
-  لابْنِهِ: إنَّ الشِّرْكَ لَظُلْمٌ عَظِيمٌ؟ \". حدثنا هناد، قال: ثنا وكيع، عن الأعمش،
+  منها أحد.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال آخرون: هذا جواب من قوم إبراهيم
+  صلى الله عليه وسلم لإبراهيم حين قال لهم: أيّ الفريقين أحقّ بالأمن؟ فقالوا له: الذين
+  آمنوا بالله فوحدوه أحقّ بالأمن إذا لم يلبسوا إيمانهم بظلم. ذكر من قال ذلك:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا القاسم، قال: ثنا الحسين، قال: ثني حجاج، عن ابن جريج:</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">فأيُّ
+  الفَرِيقَيْنِ أحَقُّ بالأَمْنِ إنْ كُنْتُمْ تَعْلَمُونَ</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">أمن يعبد رباً واحداً أم من يعبد
+  أرباباً كثيرة؟ يقول قومه: { الَّذِينَ آمَنُوا ولَمْ يَلْبِسُوا إيمَانَهُمْ بِظُلْمٍ
+  } بعبادة الأوثان، وهي حجة إبراهيم { أُولَئِكَ لَهُمُ الأمْنَ وَهُمْ مُهْتَدُونَ
+  }.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وأولى القولين في ذلك عندي بالصواب،
+  قول من قال: هذا خبر من الله تعالى عن أولى الفريقين بالأمن، وفصل قضاء منه بين إبراهيم
+  صلى الله عليه وسلم وبين قومه، وذلك أن ذلك لو كان من قول قوم إبراهيم الذين كانوا
+  يعبدون الأوثان ويشركونها في عبادة الله، لكانوا قد أقرّوا بالتوحيد واتبعوا إبراهيم
+  على ما كانوا يخالفونه فيه من التوحيد، ولكنه كما ذكرت من تأويله بدءاً.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(6, 82)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(6,82)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">ٱلَّذِينَ آمَنُواْ وَلَمْ يَلْبِسُوۤاْ إِيمَانَهُمْ
+  بِظُلْمٍ أُوْلَـٰئِكَ لَهُمُ ٱلأَمْنُ وَهُمْ مُّهْتَدُونَ</a> <b>}</b></font>, <br/>,
+  <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">واختلف
+  أهل التأويل في المعنى الذي عناه الله تعالى بقوله: { ولَمْ يَلْبِسُوا إيمَانَهُمْ
+  بِظُلْمٍ } فقال بعضهم: بشرك. ذكر من قال ذلك:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  أبو كريب، قال: ثنا ابن إدريس، قال: ثنا الأعمش، عن إبراهيم، عن علقمة، عن عبد الله
+  قال: لما نزلت هذه الآية: { الَّذِينَ آمَنُوا ولَمْ يَلْبِسُوا إيمَانَهُمْ بِظُلْمٍ
+  } شقّ ذلك على أصحاب رسول الله صلى الله عليه وسلم، قال: فقال رسول الله صلى الله عليه
+  وسلم:</font></font><b><font class=\"TextResultArabic\"><font color=\"Red\"> \" ألا
+  تَرَوْنَ إلى قَوْلِ لُقْمَانَ: إنَّ الشِّرْكَ لَظُلْمٌ عَظِيمٌ؟ \". </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\">قال أبو كريب، قال ابن إدريس: حدثنيه
+  أولاً أبي عن أبان بن تغلب عن الأعمش، ثم سمعته قيل له: من الأعمش؟ قال: نعم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني عيسى بن عثمان بن عيسى الرملي قال: ثني عمي يحيى بن عيسى، عن
+  الأعمش، عن إبراهيم، عن علقمة، عن عبد الله، قال: لما نزلت: { الَّذِينَ آمَنُوا ولَمْ
+  يَلْبِسُوا إيمَانَهُمْ بِظُلْمٍ } شقّ ذلك على المسلمين، فقالوا: يا رسول الله ما
+  منا أحد إلا وهو يظلم نفسه، فقال رسول الله صلى الله عليه وسلم</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" لَيْسَ بِذَلِكَ، ألا تَسْمَعُونَ
+  إلى قَوْلِ لُقْمَانَ لابْنِهِ: إنَّ الشِّرْكَ لَظُلْمٌ عَظِيمٌ؟ \". </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا هناد، قال: ثنا وكيع، عن الأعمش،
   عن إبراهيم، عن علقمة، عن عبد الله، قال: لما نزلت هذه الآية: { الَّذِينَ آمَنُوا
   ولَمْ يَلْبِسُوا إيمَانَهُمْ بِظُلْمٍ } شقّ ذلك على أصحاب رسول الله صلى الله عليه
-  وسلم، وقالوا: أينا لم يظلم نفسه؟ قال: فقال رسول الله صلى الله عليه وسلم: \" لَيْسَ
-  كَمَا تَظُنُّونَ، وإنَّمَا هُوَ كَمَا قالَ لُقْمَانُ لابْنِهِ: لا تُشْرِكْ باللَّهِ
-  إنَّ الشِّرْكَ لَظُلْمٌ عَظِيمٌ \". حدثنا هناد، قال: ثنا أبو معاوية، عن الأعمش،
-  عن إبراهيم، عن علقمة، عن عبد الله، قال: لما نزلت هذه الآية: { الَّذِينَ آمَنُوا
-  ولَمْ يَلْبِسُوا إيمَانَهُمْ بِظُلْمٍ } شقّ ذلك على الناس، فقالوا يا رسول الله،
-  وأينا لا يظلم نفسه؟ فقال: \" إنَّهُ لَيْسَ كَمَا تَعْنُونَ، أَلَمْ تَسْمَعُوا ما
-  قالَ العَبْدُ الصَّالِحُ: يا بُنَيَّ لا تُشْرِكْ باللَّهِ إنَّ الشِّرْكَ لَظُلْمٌ
-  عَظِيمٌ؟ إنما هُوَ الشِّرْك \". حدثنا ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا سفيان،
-  عن الأعمش، عن إبراهيم، عن علقمة، في قوله: { الَّذِينَ آمَنُوا ولَمْ يَلْبِسُوا إيمَانَهُمْ
-  بِظُلْمٍ } قال: بشرك.حدثني يحيى بن طلحة اليربوعي، قال: ثنا فضيل، عن منصور، عن إبراهيم،
-  في قوله: { الَّذِينَ آمَنُوا ولَمْ يَلْبِسُوا إيمَانَهُمْ بِظُلْمٍ } قال: بشرك.حدثنا
-  ابن وكيع، قال: ثنا جرير عن الأعمش، عن إبراهيم، عن علقمة، عن عبد الله، قال: لما نزلت
-  هذه الآية: { الَّذِينَ آمَنُوا ولَمْ يَلْبِسُوا إيمَانَهُمْ بِظُلْمٍ } شقّ ذلك على
-  أصحاب رسول الله صلى الله عليه وسلم، وقالوا: أينا لم يلبس إيمانه بظلم؟ فقال النبي
-  صلى الله عليه وسلم:\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ ٱلَّذِينَ آمَنُواْ وَلَمْ يَلْبِسُوۤاْ
-  إِيمَانَهُمْ بِظُلْمٍ أُوْلَـٰئِكَ لَهُمُ ٱلأَمْنُ وَهُمْ مُّهْتَدُونَ } \" لَيْسَ
-  بِذَلِكَ، ألَمْ تَسْمَعُوا قَوْلَ لُقْمَانَ: إنَّ الشِّرْكَ لِظُلْمٌ عَظِيمٌ؟ \".
-  حدثنا ابن وكيع، قال: ثنا جرير وابن إدريس، عن الشيباني، عن أبي بكر بن أبي موسى، عن
-  الأسود بن هلال، عن أبي بكر { الَّذِينَ آمَنُوا ولَمْ يَلْبِسُوا إيمَانَهُمْ بِظُلْمٍ
-  } قال: بشرك.حدثنا هناد، قال: ثنا قبيصة، عن يونس بن أبي إسحاق، عن أبي بكر: { الَّذِينَ
-  آمَنُوا ولَمْ يَلْبِسُوا إيمَانَهُمْ بِظُلْمٍ } قال: بشرك.حدثنا هناد، قال: ثنا وكيع،
-  عن سعيد بن عبيد الطائي، عن أبي الأشعر العبدي، عن أبيه، أن زيد بن صُوْحان سأل سلمان،
-  فقال: يا أبا عبد الله آية من كتاب الله قد بلغت مني كلّ مبلغ: { الَّذِينَ آمَنُوا
-  ولَمْ يَلْبِسُوا إيمَانَهُمْ بِظُلْمٍ }؟ فقال سلمان: هو الشرك بالله تعالى. فقال
-  زيد: ما يسرني بها أني لم أسمعها منك وأن لي مثل كل شيء أمسيت أملكه.حدثنا ابن وكيع،
-  قال: ثنا أبي، عن سعيد بن عبيد، عن أبي الأشعر، عن أبيه، عن سلمان، قال: بشرك.حدثنا
-  ابن بشار وابن وكيع، قالا: ثنا عبد الرحمن بن مهدي، قال: ثنا سفيان، قال: ثنا نُسير
-  بن ذُعْلوق، عن درسب، عن حذيفة، في قوله: { ولَمْ يَلْبِسُوا إيمَانَهُمْ بِظُلْمٍ
-  } قال: بشرك.حدثني المثنى، قال: ثنا عمرو بن عون، قال: أخبرنا هشيم، عن أبي إسحاق الكوفيّ،
-  عن رجل، عن عيسى، عن حذيفة، في قوله: { وَلَمْ يَلْبِسُوا إيمَانَهُمْ بِظُلْمٍ } قال:
-  بشرك.حدثني المثنى، قال: ثنا عارم أبو النعمان، قال: ثنا حماد بن زيد، عن عطاء بن السائب،
-  عن سعيد بن جبير وغيره، أن ابن عباس كان يقول: { الَّذِينَ آمَنُوا ولَمْ يَلْبِسُوا
-  إيمَانَهُمْ بِظُلْمٍ } قال: بشرك.حدثني المثنى، قال: ثنا عبد الله بن صالح، قال: ثني
-  معاوية، عن علي، عن ابن عباس، قوله: { الَّذِينَ آمَنُوا ولَمْ يَلْبِسُوا إيمَانَهُمْ
-  بِظُلْمٍ } يقول: بكفر.حدثني محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال ثني أبي،
-  عن أبيه، عن بن عباس: { الَّذِينَ آمَنُوا ولَمْ يَلْبِسُوا إيمَانَهُمْ بِظُلْمٍ }
-  يقول: لم يلبسوا إيمانهم بالشرك، وقال إنّ الشِّرْكَ لَظُلْمٌ عَظِيمٌ.حدثنا نصر بن
-  عليّ الجهضمي، قال: ثني أبي، بن قال: ثنا جرير بن حازم، عن عليّ بن زيد، عن المسيب:
-  أن عمر بن الخطاب قرأ: { الَّذِينَ آمَنُوا ولَمْ يَلْبِسُوا إيمَانَهُمْ بِظُلْمٍ
+  وسلم، وقالوا: أينا لم يظلم نفسه؟ قال: فقال رسول الله صلى الله عليه وسلم:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" لَيْسَ كَمَا تَظُنُّونَ، وإنَّمَا
+  هُوَ كَمَا قالَ لُقْمَانُ لابْنِهِ: لا تُشْرِكْ باللَّهِ إنَّ الشِّرْكَ لَظُلْمٌ
+  عَظِيمٌ \". </font></font></b><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  هناد، قال: ثنا أبو معاوية، عن الأعمش، عن إبراهيم، عن علقمة، عن عبد الله، قال: لما
+  نزلت هذه الآية: { الَّذِينَ آمَنُوا ولَمْ يَلْبِسُوا إيمَانَهُمْ بِظُلْمٍ } شقّ
+  ذلك على الناس، فقالوا يا رسول الله، وأينا لا يظلم نفسه؟ فقال:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" إنَّهُ لَيْسَ كَمَا تَعْنُونَ،
+  أَلَمْ تَسْمَعُوا ما قالَ العَبْدُ الصَّالِحُ: يا بُنَيَّ لا تُشْرِكْ باللَّهِ إنَّ
+  الشِّرْكَ لَظُلْمٌ عَظِيمٌ؟ إنما هُوَ الشِّرْك \". </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن بشار، قال: ثنا عبد الرحمن، قال: ثنا سفيان، عن الأعمش،
+  عن إبراهيم، عن علقمة، في قوله: { الَّذِينَ آمَنُوا ولَمْ يَلْبِسُوا إيمَانَهُمْ
+  بِظُلْمٍ } قال: بشرك.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثني يحيى بن طلحة اليربوعي، قال:
+  ثنا فضيل، عن منصور، عن إبراهيم، في قوله: { الَّذِينَ آمَنُوا ولَمْ يَلْبِسُوا إيمَانَهُمْ
+  بِظُلْمٍ } قال: بشرك.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن وكيع، قال: ثنا جرير عن
+  الأعمش، عن إبراهيم، عن علقمة، عن عبد الله، قال: لما نزلت هذه الآية: { الَّذِينَ
+  آمَنُوا ولَمْ يَلْبِسُوا إيمَانَهُمْ بِظُلْمٍ } شقّ ذلك على أصحاب رسول الله صلى
+  الله عليه وسلم، وقالوا: أينا لم يلبس إيمانه بظلم؟ فقال النبي صلى الله عليه وسلم:</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(1,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,3,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(6, 82)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(6,82)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">ٱلَّذِينَ آمَنُواْ وَلَمْ يَلْبِسُوۤاْ إِيمَانَهُمْ
+  بِظُلْمٍ أُوْلَـٰئِكَ لَهُمُ ٱلأَمْنُ وَهُمْ مُّهْتَدُونَ</a> <b>}</b></font>, <br/>,
+  <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\"/></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" لَيْسَ بِذَلِكَ، ألَمْ تَسْمَعُوا
+  قَوْلَ لُقْمَانَ: إنَّ الشِّرْكَ لِظُلْمٌ عَظِيمٌ؟ \". </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن وكيع، قال: ثنا جرير وابن إدريس، عن الشيباني، عن أبي بكر
+  بن أبي موسى، عن الأسود بن هلال، عن أبي بكر { الَّذِينَ آمَنُوا ولَمْ يَلْبِسُوا
+  إيمَانَهُمْ بِظُلْمٍ } قال: بشرك.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  هناد، قال: ثنا قبيصة، عن يونس بن أبي إسحاق، عن أبي بكر: { الَّذِينَ آمَنُوا ولَمْ
+  يَلْبِسُوا إيمَانَهُمْ بِظُلْمٍ } قال: بشرك.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  هناد، قال: ثنا وكيع، عن سعيد بن عبيد الطائي، عن أبي الأشعر العبدي، عن أبيه، أن زيد
+  بن صُوْحان سأل سلمان، فقال: يا أبا عبد الله آية من كتاب الله قد بلغت مني كلّ مبلغ:
+  { الَّذِينَ آمَنُوا ولَمْ يَلْبِسُوا إيمَانَهُمْ بِظُلْمٍ }؟ فقال سلمان: هو الشرك
+  بالله تعالى. فقال زيد: ما يسرني بها أني لم أسمعها منك وأن لي مثل كل شيء أمسيت أملكه.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن وكيع، قال: ثنا أبي، عن سعيد بن عبيد، عن أبي الأشعر، عن
+  أبيه، عن سلمان، قال: بشرك.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن بشار وابن وكيع، قالا:
+  ثنا عبد الرحمن بن مهدي، قال: ثنا سفيان، قال: ثنا نُسير بن ذُعْلوق، عن درسب، عن حذيفة،
+  في قوله: { ولَمْ يَلْبِسُوا إيمَانَهُمْ بِظُلْمٍ } قال: بشرك.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني المثنى، قال: ثنا عمرو بن عون، قال: أخبرنا هشيم، عن أبي إسحاق
+  الكوفيّ، عن رجل، عن عيسى، عن حذيفة، في قوله: { وَلَمْ يَلْبِسُوا إيمَانَهُمْ بِظُلْمٍ
+  } قال: بشرك.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثني المثنى، قال: ثنا عارم أبو
+  النعمان، قال: ثنا حماد بن زيد، عن عطاء بن السائب، عن سعيد بن جبير وغيره، أن ابن
+  عباس كان يقول: { الَّذِينَ آمَنُوا ولَمْ يَلْبِسُوا إيمَانَهُمْ بِظُلْمٍ } قال:
+  بشرك.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثني المثنى، قال: ثنا عبد الله
+  بن صالح، قال: ثني معاوية، عن علي، عن ابن عباس، قوله: { الَّذِينَ آمَنُوا ولَمْ يَلْبِسُوا
+  إيمَانَهُمْ بِظُلْمٍ } يقول: بكفر.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  محمد بن سعد، قال: ثني أبي، قال: ثني عمي، قال ثني أبي، عن أبيه، عن بن عباس: { الَّذِينَ
+  آمَنُوا ولَمْ يَلْبِسُوا إيمَانَهُمْ بِظُلْمٍ } يقول: لم يلبسوا إيمانهم بالشرك،
+  وقال إنّ الشِّرْكَ لَظُلْمٌ عَظِيمٌ.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  نصر بن عليّ الجهضمي، قال: ثني أبي، بن قال: ثنا جرير بن حازم، عن عليّ بن زيد، عن
+  المسيب: أن عمر بن الخطاب قرأ: { الَّذِينَ آمَنُوا ولَمْ يَلْبِسُوا إيمَانَهُمْ بِظُلْمٍ
   } فلما قرأها فزع، فأتى أبيّ بن كعب، فقال: يا أبا المنذر قرأت من آية من كتاب الله
   من يَسلم؟ فقال: ما هي؟ فقرأ عليه فأينا لا يظلم نفسه؟ فقال: غفر الله لك، أما سمعت
-  الله تعالى يقوله: إنَّ الشِّرْكَ لَظُلْمٌ عَظِيمٌ؟ إنما هو: ولم يلبسوا إيمانهم بشرك.حدثنا
-  ابن وكيع، قال: ثنا يزيد بن هارون، عن حماد بن سلمة، عن عليّ بن زيد بن جدعان، يوسف
-  بن مهران، عن ابن عباس: أن عمر دخل منزله، فقرأ في المصحف فمرّ بهذه الآية: { الَّذِينَ
-  آمَنُوا ولَمْ يَلْبِسُوا إيمَانَهُمْ بِظُلْمٍ } فأتى أُبَّيًّا فأخبره، فقال: يا
-  أمير المؤمنين إنما هو الشرك.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ ٱلَّذِينَ آمَنُواْ وَلَمْ يَلْبِسُوۤاْ
-  إِيمَانَهُمْ بِظُلْمٍ أُوْلَـٰئِكَ لَهُمُ ٱلأَمْنُ وَهُمْ مُّهْتَدُونَ }حدثني المثنى،
-  قال: ثنا الحجاج بن المنهال، قال: ثنا حماد، عن عليّ بن زيد، عن يوسف بن مهران عن مهران:
-  أن عمر بن الخطاب كان إذا دخل بيته نشر المصحف فقرأه، فدخل ذات يوم فقرأ، فأتى على
-  هذه الآية: { الَّذِينَ آمَنُوا ولَمْ يَلْبِسُوا إيمَانَهُمْ بِظُلْمٍ أُولَئِكَ لَهُمُ
-  الأمْنُ وَهُمْ مُهْتَدُونَ } فاشتغل وأخذ رداءه، ثم أتى أبيّ بن كعب، فقال: يا أبا
-  المنذر فتلا هذه الآية: { الَّذِينَ آمَنُوا ولَمْ يَلْبِسُوا إيمَانَهُمْ بِظُلْمٍ
+  الله تعالى يقوله: إنَّ الشِّرْكَ لَظُلْمٌ عَظِيمٌ؟ إنما هو: ولم يلبسوا إيمانهم بشرك.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن وكيع، قال: ثنا يزيد بن هارون، عن حماد بن سلمة، عن عليّ
+  بن زيد بن جدعان، يوسف بن مهران، عن ابن عباس: أن عمر دخل منزله، فقرأ في المصحف فمرّ
+  بهذه الآية: { الَّذِينَ آمَنُوا ولَمْ يَلْبِسُوا إيمَانَهُمْ بِظُلْمٍ } فأتى أُبَّيًّا
+  فأخبره، فقال: يا أمير المؤمنين إنما هو الشرك.</font></font>&#13;\t\t\t<label disabled=\"true\"
+  class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">3 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(6, 82)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(6,82)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">ٱلَّذِينَ آمَنُواْ وَلَمْ يَلْبِسُوۤاْ إِيمَانَهُمْ
+  بِظُلْمٍ أُوْلَـٰئِكَ لَهُمُ ٱلأَمْنُ وَهُمْ مُّهْتَدُونَ</a> <b>}</b></font>, <br/>,
+  <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  المثنى، قال: ثنا الحجاج بن المنهال، قال: ثنا حماد، عن عليّ بن زيد، عن يوسف بن مهران
+  عن مهران: أن عمر بن الخطاب كان إذا دخل بيته نشر المصحف فقرأه، فدخل ذات يوم فقرأ،
+  فأتى على هذه الآية: { الَّذِينَ آمَنُوا ولَمْ يَلْبِسُوا إيمَانَهُمْ بِظُلْمٍ أُولَئِكَ
+  لَهُمُ الأمْنُ وَهُمْ مُهْتَدُونَ } فاشتغل وأخذ رداءه، ثم أتى أبيّ بن كعب، فقال:
+  يا أبا المنذر فتلا هذه الآية: { الَّذِينَ آمَنُوا ولَمْ يَلْبِسُوا إيمَانَهُمْ بِظُلْمٍ
   } وقد ترى أنا نظلم ونفعل ونفعل؟ فقال: يا أمير المؤمنين، إن هذا ليس بذاك، يقول الله
-  تعالى:{ إنَّ الشِّرْكَ لَظُلْمٌ عَظِيمٌ }إنما ذلك الشرك.حدثنا هناد، قال: ثنا ابن
-  فضيل، عن مطرف، عن أبي عثمان عمرو بن سالم، قال: قرأ عمر بن الخطاب هذه الآية: { الَّذِينَ
-  آمَنُوا ولَمْ يَلْبِسُوا إيمَانَهُمْ بِظُلْمٍ } فقال عمر: قد أفلح من لم يَلْبس إيمانه
-  بظلم فقال أبيّ: يا أمير المؤمنين: ذاك الشرك.حدثنا ابن وكيع، قال: ثنا أسباط، عن محمد
-  بن مطرف، عن بن سالم، قال: عمر بن الخطاب فذكر نحوه.حدثنا محمد بن بشار، قال: ثنا عبد
-  الرحمن، قال: ثنا سفيان، عن أبي إسحاق، عن أبي ميسرة، في قوله: { ولَمْ يَلْبِسُوا
-  إيمَانَهُمْ بِظُلْمٍ } قال: بشرك.حدثنا ابن وكيع، قال: ثنا أبي، عن سفيان، عن أبي
-  إسحاق، عن أبي ميسرة، مثله.حدثنا ابن وكيع، قال: ثنا حسين، عن عليّ، عن زائدة، عن الحسن
-  بن عبيد الله، عن إبراهيم: { ولَمْ يَلْبِسُوا إيمَانَهُمْ بِظُلْمٍ } قال: بشرك.حدثنا
-  بشر بن معاذ، قال: ثنا يزيد بن زريع قال: ثنا سعيد، عن قتادة، قوله: { الَّذِينَ آمَنُوا
-  ولَمْ يَلْبِسُوا إيمَانَهُمْ بِظُلْمٍ }: أي بشرك.حدثنا بن وكيع، قال: ثنا حميد، عن
-  أبيه، عن أبي إسحاق، عن أبي ميسرة، مثله.حدثني محمد بن عمرو، قال: ثنا أبو عاصم، قال:
-  ثنا عيسى، عن ابن أبي نجيح، عن مجاهد: { الَّذِينَ آمَنُوا ولَمْ يَلْبِسُوا إيمَانَهُمْ
-  بِظُلْمٍ } قال: بعبادة الأوثان.حدثني المثنى، قال: ثنا أبو حذيفة، قال: ثنا شبل، عن
-  ابن أبي نجيح، عن مجاهد، مثله.حدثنا محمد بن الحسين، قال: ثنا أحمد بن المفضل، قال:
-  ثنا أسباط، عن السديّ: { ولَمْ يَلْبِسُوا إيمَانَهُمْ بِظُلْمٍ } قال: بشرك.حدثني
-  يونس بن عبد الأعلى، قال: أخبرنا ابن وهب، قال: قال ابن زيد في قوله: { ولَمْ يَلْبِسُوا
-  إيمَانَهُمْ بِظُلْمٍ } قال: بشرك.حدثني محمد بن عبد الأعلى، قال: ثنا محمد بن ثور،
-  عن معمر، عن الأعمش، أن بن مسعود قال لما نزلت: { ولَمْ يَلْبِسُوا إيمَانَهُمْ بِظُلْمٍ
-  } كبر ذلك على المسلمين، فقالوا: يا رسول الله، ما منا أحد إلا وهو يظلم نفسه فقال
-  النبي صلى الله عليه وسلم:\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 \r\n\t\t\t\t\t\t\t\t\t</section><section>قراءة
-  الآيةفتح صفحة القرآنالانتقال الى صفحة القرآن{ ٱلَّذِينَ آمَنُواْ وَلَمْ يَلْبِسُوۤاْ
-  إِيمَانَهُمْ بِظُلْمٍ أُوْلَـٰئِكَ لَهُمُ ٱلأَمْنُ وَهُمْ مُّهْتَدُونَ } \" أما
-  سَمِعْتُمْ قَوْلَ لُقْمَان: إنَّ الشِّرْكَ لَظُلْمٌ عَظِيمٌ \". حدثنا ابن حميد،
-  قال: ثنا حكام، عن عنبسة، عن محمد بن عبد الرحمن، عن القاسم بن أبي بزّة، عن مجاهد،
-  في قوله: { ولَمْ يَلْبِسُوا إيمَانَهُمْ بِظُلْمٍ } قال: عبادة الأوثان.حدثنا ابن
-  وكيع، قال: ثنا محمد بن بشر، عن مسعر، عن أبي حصين، عن أبي عبد الرحمن، قال: بشرك.حدثنا
+  تعالى:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">إنَّ الشِّرْكَ لَظُلْمٌ عَظِيمٌ</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">إنما ذلك الشرك.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا هناد، قال: ثنا ابن فضيل، عن مطرف، عن أبي عثمان عمرو بن سالم،
+  قال: قرأ عمر بن الخطاب هذه الآية: { الَّذِينَ آمَنُوا ولَمْ يَلْبِسُوا إيمَانَهُمْ
+  بِظُلْمٍ } فقال عمر: قد أفلح من لم يَلْبس إيمانه بظلم فقال أبيّ: يا أمير المؤمنين:
+  ذاك الشرك.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن وكيع، قال: ثنا أسباط،
+  عن محمد بن مطرف، عن بن سالم، قال: عمر بن الخطاب فذكر نحوه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  محمد بن بشار، قال: ثنا عبد الرحمن، قال: ثنا سفيان، عن أبي إسحاق، عن أبي ميسرة، في
+  قوله: { ولَمْ يَلْبِسُوا إيمَانَهُمْ بِظُلْمٍ } قال: بشرك.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
+  ابن وكيع، قال: ثنا أبي، عن سفيان، عن أبي إسحاق، عن أبي ميسرة، مثله.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن وكيع، قال: ثنا حسين، عن عليّ، عن زائدة، عن الحسن بن عبيد
+  الله، عن إبراهيم: { ولَمْ يَلْبِسُوا إيمَانَهُمْ بِظُلْمٍ } قال: بشرك.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا بشر بن معاذ، قال: ثنا يزيد بن زريع قال: ثنا سعيد، عن قتادة،
+  قوله: { الَّذِينَ آمَنُوا ولَمْ يَلْبِسُوا إيمَانَهُمْ بِظُلْمٍ }: أي بشرك.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا بن وكيع، قال: ثنا حميد، عن أبيه، عن أبي إسحاق، عن أبي ميسرة،
+  مثله.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثني محمد بن عمرو، قال: ثنا أبو
+  عاصم، قال: ثنا عيسى، عن ابن أبي نجيح، عن مجاهد: { الَّذِينَ آمَنُوا ولَمْ يَلْبِسُوا
+  إيمَانَهُمْ بِظُلْمٍ } قال: بعبادة الأوثان.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثني
+  المثنى، قال: ثنا أبو حذيفة، قال: ثنا شبل، عن ابن أبي نجيح، عن مجاهد، مثله.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا محمد بن الحسين، قال: ثنا أحمد بن المفضل، قال: ثنا أسباط، عن
+  السديّ: { ولَمْ يَلْبِسُوا إيمَانَهُمْ بِظُلْمٍ } قال: بشرك.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني يونس بن عبد الأعلى، قال: أخبرنا ابن وهب، قال: قال ابن زيد
+  في قوله: { ولَمْ يَلْبِسُوا إيمَانَهُمْ بِظُلْمٍ } قال: بشرك.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثني محمد بن عبد الأعلى، قال: ثنا محمد بن ثور، عن معمر، عن الأعمش،
+  أن بن مسعود قال لما نزلت: { ولَمْ يَلْبِسُوا إيمَانَهُمْ بِظُلْمٍ } كبر ذلك على
+  المسلمين، فقالوا: يا رسول الله، ما منا أحد إلا وهو يظلم نفسه فقال النبي صلى الله
+  عليه وسلم:</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(1,5,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">4 </font></td><td><a href=\"Javascript:InnerLink_onchange(1,5,1)\"><u>5</u> </a></td>&#13;\t\t\t\t\t\t\t\t\t<td><a
+  id=\"NextClass\"/></td></tr></table></center></div></section><section><div align=\"right\"
+  dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return menu_OnMouseOver()\"
+  onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px darkred groove; BACKGROUND-COLOR:
+  white; DISPLAY: none; padding: 5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\"
+  class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT:
+  100%; width:100%\" class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">          <font
+  id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(6, 82)\">          <font
+  id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>
+  \       </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\"
+  class=\"TextArabic\">        <a href=\"javascript:go_QurPage(6,82)\">          <font
+  id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة
+  القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">ٱلَّذِينَ آمَنُواْ وَلَمْ يَلْبِسُوۤاْ إِيمَانَهُمْ
+  بِظُلْمٍ أُوْلَـٰئِكَ لَهُمُ ٱلأَمْنُ وَهُمْ مُّهْتَدُونَ</a> <b>}</b></font>, <br/>,
+  <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font color=\"black\"/></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" أما سَمِعْتُمْ قَوْلَ لُقْمَان:
+  إنَّ الشِّرْكَ لَظُلْمٌ عَظِيمٌ \". </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن حميد، قال: ثنا حكام، عن عنبسة، عن محمد بن عبد الرحمن،
+  عن القاسم بن أبي بزّة، عن مجاهد، في قوله: { ولَمْ يَلْبِسُوا إيمَانَهُمْ بِظُلْمٍ
+  } قال: عبادة الأوثان.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">حدثنا ابن وكيع، قال: ثنا محمد بن
+  بشر، عن مسعر، عن أبي حصين، عن أبي عبد الرحمن، قال: بشرك.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
   ابن حميد، قال: ثنا سلمة، قال: قال ابن إسحاق: { ولَمْ يَلْبِسُوا إيمَانَهُمْ بِظُلْمٍ
-  } قال بشرك.وقال آخرون: بل معنى ذلك: ولم يخلطوا إيمانهم بشيء من معاني الظلم. وذلك
-  فِعْلُ ما نهى الله عن فعله أو ترك ما أمر الله بفعله وقالوا: الآية على العموم، لأن
-  الله لم يخصّ به معنى من معاني الظلم. قالوا: فإن قال لنا قائل: أفلا أمن في الآخرة
-  إلا لمن لم يعص الله في صغيرة ولا كبيرة، وإلا لمن لقي الله ولا ذنب له؟ قلنا: إن الله
-  عنى بهذه الآية خاصاً من خلقه دون الجميع منهم والذي عنى بها وأراده بها خليله إبراهيم
-  صلى الله عليه وسلم، فأما غيره فإنه إذا لقي الله لا يشرك به شيئاً فهو في مشيئته إذا
-  كان قد أتى بعض معاصيه التي لا تبلغ أن تكون كفراً، فإن شاء لم يؤمنه من عذابه، وإن
-  شاء تفضل عليه فعفا عنه. قالوا: وذلك قول جماعة من السلف وإن كانوا مختلفين في المعنى
-  بالآية، فقال بعضهم: عنى بها إبراهيم. وقال بعضهم: عنى بها المهاجرين من أصحاب رسول
-  الله صلى الله عليه وسلم.ذكر من قال: عَنَى بهذه الآية: إبراهيم خليل الرحمن صلى الله
-  عليه وسلم:حدثنا ابن وكيع، قال: ثنا يحيى بن يمان وحميد بن عبد الرحمن، عن قيس بن الربيع،
-  عن زياد بن علاقة، عن زياد بن حرملة، عن عليّ، قال: هذه الآية لإبراهيم صلى الله عليه
-  وسلم خاصة، ليس لهذه الأمة منها شيء.وذكر من قال: عُنِيَ بها المهاجرون خاصة:حدثنا
+  } قال بشرك.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال آخرون: بل معنى ذلك: ولم يخلطوا
+  إيمانهم بشيء من معاني الظلم. وذلك فِعْلُ ما نهى الله عن فعله أو ترك ما أمر الله
+  بفعله وقالوا: الآية على العموم، لأن الله لم يخصّ به معنى من معاني الظلم. قالوا:
+  فإن قال لنا قائل: أفلا أمن في الآخرة إلا لمن لم يعص الله في صغيرة ولا كبيرة، وإلا
+  لمن لقي الله ولا ذنب له؟ قلنا: إن الله عنى بهذه الآية خاصاً من خلقه دون الجميع منهم
+  والذي عنى بها وأراده بها خليله إبراهيم صلى الله عليه وسلم، فأما غيره فإنه إذا لقي
+  الله لا يشرك به شيئاً فهو في مشيئته إذا كان قد أتى بعض معاصيه التي لا تبلغ أن تكون
+  كفراً، فإن شاء لم يؤمنه من عذابه، وإن شاء تفضل عليه فعفا عنه. قالوا: وذلك قول جماعة
+  من السلف وإن كانوا مختلفين في المعنى بالآية، فقال بعضهم: عنى بها إبراهيم. وقال بعضهم:
+  عنى بها المهاجرين من أصحاب رسول الله صلى الله عليه وسلم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">ذكر
+  من قال: عَنَى بهذه الآية: إبراهيم خليل الرحمن صلى الله عليه وسلم:</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">حدثنا ابن وكيع، قال: ثنا يحيى بن يمان وحميد بن عبد الرحمن، عن قيس
+  بن الربيع، عن زياد بن علاقة، عن زياد بن حرملة، عن عليّ، قال: هذه الآية لإبراهيم
+  صلى الله عليه وسلم خاصة، ليس لهذه الأمة منها شيء.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وذكر
+  من قال: عُنِيَ بها المهاجرون خاصة:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">حدثنا
   ابن وكيع، قال: ثنا يحيى بن يمان وحميد بن عبد الرحمن، عن قيس بن الربيع، عن سماك،
   عن عكرمة: { الَّذِينَ آمَنُوا ولَمْ يَلْبِسُوا إيمَانَهُمْ بِظُلْمٍ } قال: هي لمن
-  هاجر إلى المدينة.وأولى القولين بالصحة في ذلك، ما صح في ذلك، ما صحّ به الخبر عن رسول
-  الله صلى الله عليه وسلم، وهو الخبر الذي رواه بن مسعود عنه أنه قال: \" الظُّلْمُ
-  الَّذِي ذَكَرَهُ اللَّهُ تَعَالى فِي هَذَا المَوْضِعِ هُوَ الشِّرْكُ \". وأما قوله:
-  { أُولَئِكَ لَهُمُ الأمْنُ وَهُمْ مُهْتَدُونَ } فإنه يعني: هؤلاء الذين آمنوا ولم
-  يخلطوا إيمانهم بشرك، لهم الأمن يوم القيامة من عذاب الله، { وَهُمْ مُهْتَدُونَ }
-  يقول: وهم المصيبون سبيل الرشاد والسالكون طريق النجاة.\r\n\t\t\t\r\n\t\t\t1 2 3 4 5 \r\n\t\t\t\t\t\t\t\t\t</section>"
+  هاجر إلى المدينة.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وأولى القولين بالصحة في ذلك، ما
+  صح في ذلك، ما صحّ به الخبر عن رسول الله صلى الله عليه وسلم، وهو الخبر الذي رواه
+  بن مسعود عنه أنه قال:</font></font><b><font class=\"TextResultArabic\"><font color=\"Red\">
+  \" الظُّلْمُ الَّذِي ذَكَرَهُ اللَّهُ تَعَالى فِي هَذَا المَوْضِعِ هُوَ الشِّرْكُ
+  \". </font></font></b><font class=\"TextResultArabic\"><font color=\"black\">وأما
+  قوله: { أُولَئِكَ لَهُمُ الأمْنُ وَهُمْ مُهْتَدُونَ } فإنه يعني: هؤلاء الذين آمنوا
+  ولم يخلطوا إيمانهم بشرك، لهم الأمن يوم القيامة من عذاب الله، { وَهُمْ مُهْتَدُونَ
+  } يقول: وهم المصيبون سبيل الرشاد والسالكون طريق النجاة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(1,4,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(1,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(1,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(1,4,1)\"><u>4</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">5 </font></td>&#13;\t\t\t\t\t\t\t\t\t<td><a id=\"NextClass\"/></td></tr></table></center></div></section>"
 
