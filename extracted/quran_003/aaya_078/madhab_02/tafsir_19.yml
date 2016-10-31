@@ -1,0 +1,952 @@
+position:
+  sura: '003'
+  aaya: 078
+  madhab: '02'
+  tafsir: '19'
+meta:
+  title: تفسير البحر المحيط
+  author: ابو حيان
+  year: '754'
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(3, 75)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(3,75)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَمِنْ
+  أَهْلِ ٱلْكِتَٰبِ مَنْ إِن تَأْمَنْهُ بِقِنْطَارٍ يُؤَدِّهِ إِلَيْكَ وَمِنْهُمْ
+  مَّنْ إِن تَأْمَنْهُ بِدِينَارٍ لاَّ يُؤَدِّهِ إِلَيْكَ إِلاَّ مَا دُمْتَ عَلَيْهِ
+  قَآئِماً ذٰلِكَ بِأَنَّهُمْ قَالُواْ لَيْسَ عَلَيْنَا فِي ٱلأُمِّيِّينَ سَبِيلٌ
+  وَيَقُولُونَ عَلَى اللَّهِ ٱلْكَذِبَ وَهُمْ يَعْلَمُونَ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">بَلَىٰ
+  مَنْ أَوْفَىٰ بِعَهْدِهِ وَاتَّقَى فَإِنَّ اللَّهَ يُحِبُّ الْمُتَّقِينَ</a> <b>}
+  * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">إِنَّ
+  ٱلَّذِينَ يَشْتَرُونَ بِعَهْدِ ٱللَّهِ وَأَيْمَانِهِمْ ثَمَناً قَلِيلاً أُوْلَـٰئِكَ
+  لاَ خَلاَقَ لَهُمْ فِي ٱلآخِرَةِ وَلاَ يُكَلِّمُهُمُ ٱللَّهُ وَلاَ يَنظُرُ إِلَيْهِمْ
+  يَوْمَ ٱلْقِيَامَةِ وَلاَ يُزَكِّيهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَإِنَّ
+  مِنْهُمْ لَفَرِيقاً يَلْوُونَ أَلْسِنَتَهُمْ بِٱلْكِتَابِ لِتَحْسَبُوهُ مِنَ ٱلْكِتَابِ
+  وَمَا هُوَ مِنَ الْكِتَابِ وَيَقُولُونَ هُوَ مِنْ عِندِ اللَّهِ وَمَا هُوَ مِنْ
+  عِندِ ٱللَّهِ وَيَقُولُونَ عَلَى ٱللَّهِ ٱلْكَذِبَ وَهُمْ يَعْلَمُونَ</a> <b>} *
+  </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">مَا
+  كَانَ لِبَشَرٍ أَن يُؤْتِيهُ ٱللَّهُ ٱلْكِتَٰبَ وَٱلْحُكْمَ وَٱلنُّبُوَّةَ ثُمَّ
+  يَقُولَ لِلنَّاسِ كُونُواْ عِبَاداً لِّي مِن دُونِ ٱللَّهِ وَلَـٰكِن كُونُواْ رَبَّـٰنِيِّينَ
+  بِمَا كُنتُمْ تُعَلِّمُونَ ٱلْكِتَٰبَ وَبِمَا كُنْتُمْ تَدْرُسُونَ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">الدينار: معروف وهو أربعة وعشرون قيراطاً، والقيراط: ثلاث حبات من
+  وسط الشعير، فمجموعه: اثنتان وسبعون حبة، وهو مجمع عليه. وفاؤه بدل من نون، يدل على
+  ذلك الجمع، قالوا: دنانير، وأصله: دنار، أبدل من أول المثلين، كما أبدلوا من النون
+  في ثالث الأمثال ياءً في: تظنيت. أصله تظننت، لأنه من الظن، وهو بدل مسموع، والدينار:
+  لفظ أعجمي تصرّفت فيه العرب وألقته بمفردات كلامها.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">دام:
+  ثبت، والمضارع: يدوم، فوزنه، فعل نحو قال: يقول، قال الفراء: هذه لغة الحجاز وتميم،
+  تقول: دِمت، بكسر الدال. قال: ويجتمعون في المضارع، يقولون: يدوم. وقال أبو إسحاق يقول:
+  دمت تدام، مثل: نمت تنام، وهي لغة، فعلى هذا يكون وزن دام، فعل بكسر العين، نحو: خاف
+  يخاف. والتدويم الاستدارة حول الشيء. ومنه قول ذي الرمة:</font></font><table class=\"TextArabic\"
+  dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">والشمس حيرى لها في الجوّ تدويم</font></font></b></td><td class=\"TextArabic\">   </td><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\"/></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال علقمة في وصف خمر:</font></font><table
+  class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">تشفي الصداع ولا يؤذيك صالبها</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">ولا يخالطها في الرأس تدويم</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">والدوام: الدوار، يأخذ في رأس الإنسان
+  فيرى الأشياء تدور به. وتدويم الطائر في السماء ثبوته إذا صف واستدار. ومنه: الماء
+  الدائم، كأنه يستدير حول مركزه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">لوى
+  الحبل والتوى: فتله ثم استعمل في الإراغة في الحجج والخصومات، ومنه: ليان الغريم: وهو
+  دفعه ومطله، ومنه: خصم ألوى: شديد الخصومة، شبهت المعاني بالإجرام.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">اللسان: الجارحة المعروفة. قال أبو عمرو: اللسان يذكر ويؤنث، فمن ذكر
+  جمعه ألسنة ومن أنث أمعه ألسنا. وقال الفراء: اللسان بعينه لم نسمعه من العرب إلاَّ
+  مذكراً. انتهى. ويعبر باللسان عن الكلام، وهو أيضاً يذكر ويؤنث إذا أريد به ذلك.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">الرباني: منسوب إلى الرب، وزيدت الألف والنون مبالغة. كما قالوا: لحياني،
+  وشعراني، ورقباني. فلا يفردون هذه الزيادة عن ياء النسبة. وقال قوم: هو منسوب إلى ربان،
+  وهو معلم الناس وسائسهم، والألف والنون فيه كهي في: غضبان وعطشان، ثم نسب إليه فقالوا:
+  رباني، فعلى هذا يكون من النسب في الوصف، كما قالوا: أحمري في أحمر، و: دواري في دّوار،
+  وكلا القولين شاذ لا يقاس عليه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">درس
+  الكتاب يدرسه: أدمن قراءته وتكريره، ودرس المنزل: عفا، وطلل دارس: عافٍ.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">{ ومن أهل الكتاب من إن تأمنه بقنطار يؤده اليك ومنهم من إن تامنه
+  بدينار لا يؤده إليك إلا ما دمت عليه قائماً } الجمهور على أن أهل الكتاب هم اليهود
+  والنصارى أخبر الله تعالى بذم الخونة منهم، فظاهره أن في اليهود والنصارى من يؤتمن
+  فيفي ومن يؤتمن فيخون. وقيل: أهل الكتاب عنى به أهل القرآن، قاله ابن جريج. وهذا ضعيف
+  جداً لما يأتي بعده من قولهم: { ذلك بأنهم قالوا ليس علينا في الأميين سبيل } وقيل:
+  المراد بأهل الكتاب: اليهود، لأن هذا القول { ليس علينا في الأميين سبيل } لم يقله
+  ولا يعتقده إلاَّ اليهود.</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\"
+  border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE:
+  none; BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(19,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(19,2,1)\"><u>2</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(19,3,1)\"><u>3</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(19,4,1)\"><u>4</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(19,5,1)\"><u>5</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(19,6,1)\"><u>6</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(19,7,1)\"><u>7</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(19,8,1)\"><u>8</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(19,9,1)\"><u>9</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(19,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(19,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(3,
+  75)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(3,75)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَمِنْ أَهْلِ ٱلْكِتَٰبِ مَنْ إِن تَأْمَنْهُ بِقِنْطَارٍ
+  يُؤَدِّهِ إِلَيْكَ وَمِنْهُمْ مَّنْ إِن تَأْمَنْهُ بِدِينَارٍ لاَّ يُؤَدِّهِ إِلَيْكَ
+  إِلاَّ مَا دُمْتَ عَلَيْهِ قَآئِماً ذٰلِكَ بِأَنَّهُمْ قَالُواْ لَيْسَ عَلَيْنَا
+  فِي ٱلأُمِّيِّينَ سَبِيلٌ وَيَقُولُونَ عَلَى اللَّهِ ٱلْكَذِبَ وَهُمْ يَعْلَمُونَ</a>
+  <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">بَلَىٰ
+  مَنْ أَوْفَىٰ بِعَهْدِهِ وَاتَّقَى فَإِنَّ اللَّهَ يُحِبُّ الْمُتَّقِينَ</a> <b>}
+  * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">إِنَّ
+  ٱلَّذِينَ يَشْتَرُونَ بِعَهْدِ ٱللَّهِ وَأَيْمَانِهِمْ ثَمَناً قَلِيلاً أُوْلَـٰئِكَ
+  لاَ خَلاَقَ لَهُمْ فِي ٱلآخِرَةِ وَلاَ يُكَلِّمُهُمُ ٱللَّهُ وَلاَ يَنظُرُ إِلَيْهِمْ
+  يَوْمَ ٱلْقِيَامَةِ وَلاَ يُزَكِّيهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَإِنَّ
+  مِنْهُمْ لَفَرِيقاً يَلْوُونَ أَلْسِنَتَهُمْ بِٱلْكِتَابِ لِتَحْسَبُوهُ مِنَ ٱلْكِتَابِ
+  وَمَا هُوَ مِنَ الْكِتَابِ وَيَقُولُونَ هُوَ مِنْ عِندِ اللَّهِ وَمَا هُوَ مِنْ
+  عِندِ ٱللَّهِ وَيَقُولُونَ عَلَى ٱللَّهِ ٱلْكَذِبَ وَهُمْ يَعْلَمُونَ</a> <b>} *
+  </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">مَا
+  كَانَ لِبَشَرٍ أَن يُؤْتِيهُ ٱللَّهُ ٱلْكِتَٰبَ وَٱلْحُكْمَ وَٱلنُّبُوَّةَ ثُمَّ
+  يَقُولَ لِلنَّاسِ كُونُواْ عِبَاداً لِّي مِن دُونِ ٱللَّهِ وَلَـٰكِن كُونُواْ رَبَّـٰنِيِّينَ
+  بِمَا كُنتُمْ تُعَلِّمُونَ ٱلْكِتَٰبَ وَبِمَا كُنْتُمْ تَدْرُسُونَ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">وقيل: { من إن تأمنه بقنطار } هم النصارى لغلبة الأمانة عليهم. و:
+  { من إن تأمنه بدينار } هم اليهدو لغلبة الخيانة عليهم. وعين منهم كعب بن الأشرف وأصحابه.
+  وقيل: { من إن تأمنه بقنطار } هم من أسلم من أهل الكتاب. و: { من إن تأمنه بدينار }
+  من لم يسلم منهم.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وروي أنه بايع بعض العرب بعض اليهود
+  وأودعوهم فخانوا من أسلم، وقالوا: قد خرجتم عن دينكم الذي عليه بايعناكم، وفي كتابنا:
+  لا حرمة لأموالكم، فكذبهم الله تعالى. قيل: وهذا سبب نزول هذه الآية.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وعن ابن عباس: { من إن تأمنه بقنطار يؤده } هو عبد الله بن سلام، استودعه
+  رجل من قريش ألفاً ومائتي أوقية ذهباً، فأدّاه إليه. و: { من إن تأمنه بدينار } فنحاص
+  بن عازوراء، استودعه رجل من قريش ديناراً فجحده وخانه. انتهى. ولا ينحصر الشرط في ذينك
+  المعينين، بل كل منهما فرد ممن يندرج تحت: من. ألا ترى كيف جمع في قوله: { ذلك بأنهم
+  قالوا ليس علينا } قالوا والمخاطب بقوله: تأمنه، هو النبي صلى الله عليه وسلم بلا خلاف،
+  ويحتمل أن يكون السامع من أهل الإسلام، وبيّنه قولهم: { ليس علينا في الأمّيين سبيل
+  } فجمع الأمّيين وهم اتباع النبي الأمي.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقرأ
+  أبي بن كعب: تئمنه، في الحرفين، و: تئمنا، في يوسف. وقرأ ابن مسعود، والأشهب العقيلي،
+  وابن وثاب: تيمنه، بتاء مكسورة وياء ساكنة بعدها، قال الداني: وهي لغة تميم. وأما إبدال
+  الهمزة ياء في: تئمنه، فلكسرة ما قبلها كما أبدلوا في بئر.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقد
+  ذكرنا الكلام على حروف المضارعة من: فعل، ومن: ما أوله همزة وصل عند الكلام على قوله</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">نستعين</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[الفاتحة:
+  5] فأغنى عن إعادته.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال: ابن عطية، حين ذكر قراءة أبي:
+  وما أراها إلاَّ لغة: قرشية، وهي كسر نون الجماعة: كنستعين، وألف المتكلم، كقول ابن
+  عمر: لا إخاله، وتاء الخاطب كهذه الآية، ولا يكسرون الياء في الغائب، وبها قرأ أبي
+  في: تئمنه. انتهى. ولم يبين ما يكسر فيه حروف المضارعة بقانون كلي، وما ظنه من أنها
+  لغة قرشية ليس كما ظنّ. وقد بينا ذلك في</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">نستعين</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">[الفاتحة: 5] وتقدّم تفسير: القنطار،
+  في قوله:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">والقناطير المقنطرة</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">[آل عمران: 14].</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقرأ الجمهور: يؤده، بكسر الهاء ووصلها بياء. وقرأ قالون باختلاس الحركة،
+  وقرأ أبو عمرو، وأبو بكر، وحمزة، والأعمش بالسكون. قال أبو إسحاق: وهذا الإسكان الذي
+  روي عن هؤلاء غلط بيِّن، لأن الهاء لا ينبغي أن تجزم، وإذا لم تجزم فلا يجوز أن تسكن
+  في الوصل. وأما أبو عمرو فأراه كان يختلس الكسرة، فغلط عليه كما غلط عليه في: بارئكم،
+  وقد حكى عنه سيبويه، وهو ضابط لمثل هذا، أنه كان يكسر كسراً خفيفاً. انتهى كلام ابن
+  إسحاق. وما ذهب إليه أبو إسحاق من أن الإسكان غلط ليس بشيء، إذ هي قراءة في السبعة،
+  وهي متواترة، وكفى أنها منقولة من إمام البصريين أبي عمرو بن العلاء.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(19,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(19,3,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(19,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td><td><a href=\"Javascript:InnerLink_onchange(19,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(19,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(19,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(19,6,1)\"><u>6</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(19,7,1)\"><u>7</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(19,8,1)\"><u>8</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(19,9,1)\"><u>9</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(19,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(19,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(3,
+  75)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(3,75)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَمِنْ أَهْلِ ٱلْكِتَٰبِ مَنْ إِن تَأْمَنْهُ بِقِنْطَارٍ
+  يُؤَدِّهِ إِلَيْكَ وَمِنْهُمْ مَّنْ إِن تَأْمَنْهُ بِدِينَارٍ لاَّ يُؤَدِّهِ إِلَيْكَ
+  إِلاَّ مَا دُمْتَ عَلَيْهِ قَآئِماً ذٰلِكَ بِأَنَّهُمْ قَالُواْ لَيْسَ عَلَيْنَا
+  فِي ٱلأُمِّيِّينَ سَبِيلٌ وَيَقُولُونَ عَلَى اللَّهِ ٱلْكَذِبَ وَهُمْ يَعْلَمُونَ</a>
+  <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">بَلَىٰ
+  مَنْ أَوْفَىٰ بِعَهْدِهِ وَاتَّقَى فَإِنَّ اللَّهَ يُحِبُّ الْمُتَّقِينَ</a> <b>}
+  * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">إِنَّ
+  ٱلَّذِينَ يَشْتَرُونَ بِعَهْدِ ٱللَّهِ وَأَيْمَانِهِمْ ثَمَناً قَلِيلاً أُوْلَـٰئِكَ
+  لاَ خَلاَقَ لَهُمْ فِي ٱلآخِرَةِ وَلاَ يُكَلِّمُهُمُ ٱللَّهُ وَلاَ يَنظُرُ إِلَيْهِمْ
+  يَوْمَ ٱلْقِيَامَةِ وَلاَ يُزَكِّيهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَإِنَّ
+  مِنْهُمْ لَفَرِيقاً يَلْوُونَ أَلْسِنَتَهُمْ بِٱلْكِتَابِ لِتَحْسَبُوهُ مِنَ ٱلْكِتَابِ
+  وَمَا هُوَ مِنَ الْكِتَابِ وَيَقُولُونَ هُوَ مِنْ عِندِ اللَّهِ وَمَا هُوَ مِنْ
+  عِندِ ٱللَّهِ وَيَقُولُونَ عَلَى ٱللَّهِ ٱلْكَذِبَ وَهُمْ يَعْلَمُونَ</a> <b>} *
+  </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">مَا
+  كَانَ لِبَشَرٍ أَن يُؤْتِيهُ ٱللَّهُ ٱلْكِتَٰبَ وَٱلْحُكْمَ وَٱلنُّبُوَّةَ ثُمَّ
+  يَقُولَ لِلنَّاسِ كُونُواْ عِبَاداً لِّي مِن دُونِ ٱللَّهِ وَلَـٰكِن كُونُواْ رَبَّـٰنِيِّينَ
+  بِمَا كُنتُمْ تُعَلِّمُونَ ٱلْكِتَٰبَ وَبِمَا كُنْتُمْ تَدْرُسُونَ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">فإنه عربي صريح، وسامع لغة، وإمام في النحو، ولم يكن ليذهب عنه جواز
+  مثل هذا.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقد أجاز ذلك الفراء وهو إمام في
+  النحو واللغة. وحكى ذلك لغة لبعض العرب تجزم في الوصل والقطع.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقد
+  روى الكسائي أن لغة عقيل وكلاب: أنهم يختلسون الحركة في هذه الهاء إذا كانت بعد متحرك،
+  وأنهم يسكنون أيضاً. قال الكسائي: سمعت أعراب عقيل وكلاب يقولون:</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">لربه
+  لكنود</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">[العاديات: 6] بالجزم، و: لربه لكنود، بغير تمام وله مال وغير عقيل
+  وكلاب لا يوجد في كلامهم اختلاس ولا سكون في: له وشبهه إلاَّ في ضرورة نحو قوله.</font></font><table
+  class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">له زجل كأنه صوت حاد</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\"/></font></b></td></tr></table><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال:</font></font><table class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">إلا لأن
+  عيونه سيل واديها</font></font></b></td><td class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\"/></font></b></td></tr></table><font class=\"TextResultArabic\"><font
+  color=\"black\">ونص بعض أصحابنا على أن حركة هذه الهاء بعد الفعل الذاهب منه حرف لوقف
+  أو جزم يجوز فيها الإشباع، ويجوز الاختلاس، ويجوز السكون. وأبو إسحاق الزجاج، يقال
+  عنه: إنه لم يكن إماماً في اللغة، ولذلك أنكر على ثعلب في كتابه: (الفصيح) مواضع زعم
+  أن العرب لا تقولها، وردّ الناس على أبي إسحاق في إنكاره، ونقلوها من لغة العرب. وممن
+  ردّ عليه: أبو منصور الجواليقي، وكان ثعلب إماماً في اللغة وإماماً في النحو على مذهب
+  الكوفيين، ونقلوا أيضاً قراءتين: إحداهما ضم الهاء ووصلها بواو، وهي قراءة الزهري،
+  والأخرى: ضمها دون وصل، وبها قرأ سلام.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">والباء
+  في: بقنطار، وفي: بدينار قيل: للإلصاق. وقيل: بمعنى على، إذا الأصل أن تتعدى بعلى،
+  كما قال مالك:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">لا تأمنا على يوسف</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">[يوسف: 11] وقال:</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">هل
+  آمنكم عليه إلاَّ كما أمنتكم على أخيه</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">[يوسف: 64] وقيل: بمعنى في أي: في
+  حفظ قنطار، وفي حفظ دينار. والذي يظهر أن القنطار والدينار مثالان للكثير والقليل،
+  فيدخل أكثر من القنطار وأقل. وفي الدينار أقل منه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال
+  ابن عطية: ويحتمل أن يريد طبقه يعني في الدينار لا يجوز إلاَّ في دينار فما زاد، ولم
+  يعن بذكر الخائنين في: أقل، إذ هم طغام حثالة.انتهى.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">ومعنى:
+  { إلاَّ ما دمت عليه قائماً } قال قتادة، ومجاهد، والزجاج، والفراء، وابن قتيبة: متقاضياً
+  بأنواع التقاضي من: الخفر، والمرافعة إلى الحكام، فليس المراد هيئة القيام، إنما هو
+  من قيام المرء على أشغاله: أي اجتهاده فيها.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  السدي وغيره: قائماً على رأسه وهي الهيئة المعروفة وذلك نهاية الخفر، لأن معنى ذلك
+  الخفر، لأن معنى ذلك أنه في صدد شغل آخر يريد أن يستقبله. وذهب إلى هذا التأويل جماعة
+  من الفقهاء، وانتزعوا من الآية جواز السجن، لأن الذي يقوم عليه غريمه هو يمنعه من تصرفاته
+  في غير القضاء، ولا فرق بين المنع من التصرفات وبين السجن. وقيل: قائماً بوجهك فيها
+  بك ويستحي منك. وقيل: معنى: دمت عليه قائماً، أي: مستعلياً، فإن استلان جانبك لم يؤدّ
+  إليك أمانتك.</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(19,2,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(19,4,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(19,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(19,2,1)\"><u>2</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">3 </font></td><td><a href=\"Javascript:InnerLink_onchange(19,4,1)\"><u>4</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(19,5,1)\"><u>5</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(19,6,1)\"><u>6</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(19,7,1)\"><u>7</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(19,8,1)\"><u>8</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(19,9,1)\"><u>9</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(19,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(19,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(3,
+  75)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(3,75)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَمِنْ أَهْلِ ٱلْكِتَٰبِ مَنْ إِن تَأْمَنْهُ بِقِنْطَارٍ
+  يُؤَدِّهِ إِلَيْكَ وَمِنْهُمْ مَّنْ إِن تَأْمَنْهُ بِدِينَارٍ لاَّ يُؤَدِّهِ إِلَيْكَ
+  إِلاَّ مَا دُمْتَ عَلَيْهِ قَآئِماً ذٰلِكَ بِأَنَّهُمْ قَالُواْ لَيْسَ عَلَيْنَا
+  فِي ٱلأُمِّيِّينَ سَبِيلٌ وَيَقُولُونَ عَلَى اللَّهِ ٱلْكَذِبَ وَهُمْ يَعْلَمُونَ</a>
+  <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">بَلَىٰ
+  مَنْ أَوْفَىٰ بِعَهْدِهِ وَاتَّقَى فَإِنَّ اللَّهَ يُحِبُّ الْمُتَّقِينَ</a> <b>}
+  * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">إِنَّ
+  ٱلَّذِينَ يَشْتَرُونَ بِعَهْدِ ٱللَّهِ وَأَيْمَانِهِمْ ثَمَناً قَلِيلاً أُوْلَـٰئِكَ
+  لاَ خَلاَقَ لَهُمْ فِي ٱلآخِرَةِ وَلاَ يُكَلِّمُهُمُ ٱللَّهُ وَلاَ يَنظُرُ إِلَيْهِمْ
+  يَوْمَ ٱلْقِيَامَةِ وَلاَ يُزَكِّيهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَإِنَّ
+  مِنْهُمْ لَفَرِيقاً يَلْوُونَ أَلْسِنَتَهُمْ بِٱلْكِتَابِ لِتَحْسَبُوهُ مِنَ ٱلْكِتَابِ
+  وَمَا هُوَ مِنَ الْكِتَابِ وَيَقُولُونَ هُوَ مِنْ عِندِ اللَّهِ وَمَا هُوَ مِنْ
+  عِندِ ٱللَّهِ وَيَقُولُونَ عَلَى ٱللَّهِ ٱلْكَذِبَ وَهُمْ يَعْلَمُونَ</a> <b>} *
+  </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">مَا
+  كَانَ لِبَشَرٍ أَن يُؤْتِيهُ ٱللَّهُ ٱلْكِتَٰبَ وَٱلْحُكْمَ وَٱلنُّبُوَّةَ ثُمَّ
+  يَقُولَ لِلنَّاسِ كُونُواْ عِبَاداً لِّي مِن دُونِ ٱللَّهِ وَلَـٰكِن كُونُواْ رَبَّـٰنِيِّينَ
+  بِمَا كُنتُمْ تُعَلِّمُونَ ٱلْكِتَٰبَ وَبِمَا كُنْتُمْ تَدْرُسُونَ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">وقرأ أبو عبد الرحمن السلمي، ويحيـى بن وثاب، والأعمش، وابن أبي ليلى،
+  والفياض بن غزوان، وطلحة، وغيرهم: دمت بكسر الدال، وتقدم أنها لغة تميم وتقدم الخلاف
+  في مضارعه.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">و: ما، في: ما دمت، مصدرية ظرفية.
+  و: دمت، ناقصة فخبرها: قائماً، وأجاز أبو البقاء أن تكون: ما، مصدرية فقط لا ظرفية،
+  فتتقدر بمصدر، وذلك المصدر ينتصب على الحال، فيكون ذلك استثناءً من الأحوال لا من الأزمان.
+  قال: والتقدير: إلاَّ في حال ملازمتك له. فعلى هذا يكون: قائماً، منصوباً على الحال،
+  لا خبراً لدام، لأن شرط نقص: دام، أن يكون صلة لما المصدرية الظرفية.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">{ ذلك بأنهم قالوا ليس علينا في الأمّيين سبيل } روي أن بني إسرائيل
+  كانوا يعتقدون استحلال أموال. العرب لكونهم أهل أوثان، فلما جاء الإسلام، وأسلم من
+  أسلم من العرب، بقي اليهود فيهم على ذلك المعتقد، فنزلت الآية مانعة من ذلك. وقال رسول
+  الله صلى الله عليه وسلم:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" كل شيء من أمر الجاهلية فهو تحت قدمي، إلاَّ الأمانة فإنها مؤادّة
+  إلى البر والفاجر \" </font></font></b><font class=\"TextResultArabic\"><font color=\"black\">والإشارة
+  بذلك إلى ترك الأداء الذي دل عليه لا يؤدّه، أي: كونهم لا يؤدّون الأمانة كان بسبب
+  قولهم.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">والضمير في: بأنهم، قيل: عائد على
+  اليهود وقيل: عائد على لفيف بني إسرائيل. والأظهر أنه عائد على: من، في قوله: { من
+  إن تأمنه بدينار لا يؤدّه إليك } وجمع حملاً على المعنى، أي: ترك الأداء في الدِّينار
+  فما دونه وفما فوقه كائن بسبب قول المانع للأداء الخائن: { ليس علينا في الأمّيين }
+  وهم الذين ليسوا من أهل الكتاب، وهم العرب. وتقدّم كونهم سموا أمّيين في سورة البقرة.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">والسبيل، قيل: العتاب والذم وقيل: الحجة على، نحو قول حميد بن ثور:</font></font><table
+  class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">وهل أنا إن عللت نفسي بسرحة</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">من السرح موجود عليّ طريق</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">وقوله: فأولئك ما عليهم من سبيل
+  من هذا المعنى، وهو كثير في القرآن وكلام العرب وقيل: السبيل هنا الفعل المؤدّي إلى
+  الإثم. والمعنى: ليس عليهم طريق فيما يستحلون من أموال المؤمنين الأمّيين.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قال: وسبب استباحتهم لأموال الأمّيين أنهم عندهم مشركون، وهم بعد إسلامهم
+  باقون على ما كانوا عليه، وذلك لتكذيب اليهود للقرآن وللنبي صلى الله عليه وسلم وقيل:
+  لأنهم انتقض العهد الذي كان بينهم بسبب إسلامهم، فصاروا كالمحاربين، فاستحلوا أموالهم
+  وقيل: لأن ذلك مباح في كتابهم أخذ مال من خالفهم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  الكلبي: قالت اليهود: الأموال كلها كانت لنا، فما في أيدي العرب منها فهو لنا، وأنهم
+  ظلمونا وغصبونا، فلا سبيل علينا في أخذ أموالنا منهم وروى عبد الرزاق، عن معمر، عن
+  أبي إسحاق الهمداني، عن صعصعة، أن رجلاً قال لابن عباس: أنا نصيب في الغزو من أموال
+  أهل الذمّة: الشاة والدجاجة، ويقولون: ليس علينا بذلك بأس، فقال له: هذا كما قال أهل
+  الكتاب: { ليس علينا في الأمّيين سبيل } أنهم إذا أدّوا الجزية لم تحل لكم أموالهم
+  إلاَّ عن طيب أنفسهم.</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(19,3,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(19,5,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(19,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(19,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(19,3,1)\"><u>3</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">4 </font></td><td><a href=\"Javascript:InnerLink_onchange(19,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(19,6,1)\"><u>6</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(19,7,1)\"><u>7</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(19,8,1)\"><u>8</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(19,9,1)\"><u>9</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(19,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(19,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(3,
+  75)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(3,75)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَمِنْ أَهْلِ ٱلْكِتَٰبِ مَنْ إِن تَأْمَنْهُ بِقِنْطَارٍ
+  يُؤَدِّهِ إِلَيْكَ وَمِنْهُمْ مَّنْ إِن تَأْمَنْهُ بِدِينَارٍ لاَّ يُؤَدِّهِ إِلَيْكَ
+  إِلاَّ مَا دُمْتَ عَلَيْهِ قَآئِماً ذٰلِكَ بِأَنَّهُمْ قَالُواْ لَيْسَ عَلَيْنَا
+  فِي ٱلأُمِّيِّينَ سَبِيلٌ وَيَقُولُونَ عَلَى اللَّهِ ٱلْكَذِبَ وَهُمْ يَعْلَمُونَ</a>
+  <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">بَلَىٰ
+  مَنْ أَوْفَىٰ بِعَهْدِهِ وَاتَّقَى فَإِنَّ اللَّهَ يُحِبُّ الْمُتَّقِينَ</a> <b>}
+  * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">إِنَّ
+  ٱلَّذِينَ يَشْتَرُونَ بِعَهْدِ ٱللَّهِ وَأَيْمَانِهِمْ ثَمَناً قَلِيلاً أُوْلَـٰئِكَ
+  لاَ خَلاَقَ لَهُمْ فِي ٱلآخِرَةِ وَلاَ يُكَلِّمُهُمُ ٱللَّهُ وَلاَ يَنظُرُ إِلَيْهِمْ
+  يَوْمَ ٱلْقِيَامَةِ وَلاَ يُزَكِّيهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَإِنَّ
+  مِنْهُمْ لَفَرِيقاً يَلْوُونَ أَلْسِنَتَهُمْ بِٱلْكِتَابِ لِتَحْسَبُوهُ مِنَ ٱلْكِتَابِ
+  وَمَا هُوَ مِنَ الْكِتَابِ وَيَقُولُونَ هُوَ مِنْ عِندِ اللَّهِ وَمَا هُوَ مِنْ
+  عِندِ ٱللَّهِ وَيَقُولُونَ عَلَى ٱللَّهِ ٱلْكَذِبَ وَهُمْ يَعْلَمُونَ</a> <b>} *
+  </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">مَا
+  كَانَ لِبَشَرٍ أَن يُؤْتِيهُ ٱللَّهُ ٱلْكِتَٰبَ وَٱلْحُكْمَ وَٱلنُّبُوَّةَ ثُمَّ
+  يَقُولَ لِلنَّاسِ كُونُواْ عِبَاداً لِّي مِن دُونِ ٱللَّهِ وَلَـٰكِن كُونُواْ رَبَّـٰنِيِّينَ
+  بِمَا كُنتُمْ تُعَلِّمُونَ ٱلْكِتَٰبَ وَبِمَا كُنْتُمْ تَدْرُسُونَ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">وذكر هذا الأثر الزمخشري، وابن عطية، وفيه بعد ذكر الشاة أو الدجاجة،
+  قال: فيقولون ماذا قال؟ يقول: ليس علينا في ذلك بأس.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">{
+  ويقولون على الله الكذب } أي القول الكذب يفترونه على الله بادعائهم أن ذلك في كتابهم.
+  قال السدّي، وابن جريج، وغيرهما: ادعت طائفة من أهل الكتاب أن في التوراة إحلالاً لهم
+  أموال الأمّيين كذباً منها وهي عالمة بكذبها، فيكون الكذب المقول هنا هو هذا الكذب
+  المخصوص في هذا الفصل. والظاهر أنه أعم من هذا، فيندرج هذا فيه، أي: هم يكذبون على
+  الله في غير ما شيء وهم علماء بموضع الصدق.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وجوّزوا
+  أن يكون: علينا، خبر: ليس، وأن يكون الخبر: في الأمّيين، وذهب قوم إلى عمل: ليس، في
+  الجار، فيجوز على هذا أن يتعلق بها.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قيل:
+  ويجوز أن يرتفع: سبيل، بعلينا، وفي: ليس، ضمير الأمر، ويتعلق: على الله، بيقولون بمعنى:
+  يفترون.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">قيل: ويجوز أن يكون حالاً من الكذب
+  مقدماً عليه ولا يتعلق بالكذب.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قيل:
+  لأن الصلة لا تتقدّم على الموصول.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">{
+  وهم يعلمون } جملة حالية تنعى عليهم قبيح ما يرتكبون من الكذب، أي: إن العلم بالشيء
+  يبعد ويقبح أن يكذب فيه، فكذبهم ليس عن غفلة ولا جهل، إنما هو عن علم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">{ بلى } جواب لقولهم: { ليس علينا في الأمّيين سبيل } وهذا مناقض لدعواهم،
+  والمعنى: بلى عليهم في الأمّيين سبيل، وقد تقدّم القول في: بلى، في قوله</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">بلى
+  من كسب سيئة</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">[البقرة: 81] فأغنى عن إعادته هنا.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">{
+  من أوفى بعهده واتقى فإن الله يحب المتقين } أخبر تعالى بأن من أوفى بالعهد واتقى الله
+  في نقضه فهو محبوب عند الله وقال ابن عباس: اتقى هنا معناه اتقى الشرك، وهذه الجملة
+  مقررة للجملة المحذوفة بعد بلى، و: من، يحتمل أن تكون موصولة، والأظهر أنها شرطية،
+  و: أوفى، لغة الحجاز. و: وفى، خفيفة لغة نجد و: وفى، مشدّدة لغة أيضاً. وتقدّم ذكر
+  هذه اللغات.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">والظاهر في: بعهده، أن الضمير عائد
+  على: من وقيل: يعود على الله تعالى، ويدخل في الوفاء بالعهد، العهد الأعظم من ما أخذ
+  عليهم في كتابهم من الإيمان برسول الله صلى الله عليه وسلم، سواء أضيف العهد إلى: من،
+  أو: إلى الله، والشرائط للجملة الخبرية أو الجزائية بمن هو العموم الذي في المتقين،
+  أو ما قبله، فرد من أفراده، ويحتمل أن يكون الخبر محذوفاً لدلالة المعنى عليه، التقدير:
+  يحبه الله، ثم قال { فإن الله يحب المتقين } وأتى بلفظ: المتقين، عاماً تشريفاً للتقوى
+  دحضاً عليها.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">{ إن الذين يشترون بعهد الله وأيمانهم
+  ثمناً قليلاً }  نزلت في أحبار اليهود: أبي رافع، وكنانة بن أبي الحقيق، وكعب بن الأشرف،
+  وحيـي بن أخطب، قاله عكرمة.</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(19,4,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(19,6,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(19,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(19,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(19,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(19,4,1)\"><u>4</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">5 </font></td><td><a href=\"Javascript:InnerLink_onchange(19,6,1)\"><u>6</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(19,7,1)\"><u>7</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(19,8,1)\"><u>8</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(19,9,1)\"><u>9</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(19,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(19,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(3,
+  75)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(3,75)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَمِنْ أَهْلِ ٱلْكِتَٰبِ مَنْ إِن تَأْمَنْهُ بِقِنْطَارٍ
+  يُؤَدِّهِ إِلَيْكَ وَمِنْهُمْ مَّنْ إِن تَأْمَنْهُ بِدِينَارٍ لاَّ يُؤَدِّهِ إِلَيْكَ
+  إِلاَّ مَا دُمْتَ عَلَيْهِ قَآئِماً ذٰلِكَ بِأَنَّهُمْ قَالُواْ لَيْسَ عَلَيْنَا
+  فِي ٱلأُمِّيِّينَ سَبِيلٌ وَيَقُولُونَ عَلَى اللَّهِ ٱلْكَذِبَ وَهُمْ يَعْلَمُونَ</a>
+  <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">بَلَىٰ
+  مَنْ أَوْفَىٰ بِعَهْدِهِ وَاتَّقَى فَإِنَّ اللَّهَ يُحِبُّ الْمُتَّقِينَ</a> <b>}
+  * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">إِنَّ
+  ٱلَّذِينَ يَشْتَرُونَ بِعَهْدِ ٱللَّهِ وَأَيْمَانِهِمْ ثَمَناً قَلِيلاً أُوْلَـٰئِكَ
+  لاَ خَلاَقَ لَهُمْ فِي ٱلآخِرَةِ وَلاَ يُكَلِّمُهُمُ ٱللَّهُ وَلاَ يَنظُرُ إِلَيْهِمْ
+  يَوْمَ ٱلْقِيَامَةِ وَلاَ يُزَكِّيهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَإِنَّ
+  مِنْهُمْ لَفَرِيقاً يَلْوُونَ أَلْسِنَتَهُمْ بِٱلْكِتَابِ لِتَحْسَبُوهُ مِنَ ٱلْكِتَابِ
+  وَمَا هُوَ مِنَ الْكِتَابِ وَيَقُولُونَ هُوَ مِنْ عِندِ اللَّهِ وَمَا هُوَ مِنْ
+  عِندِ ٱللَّهِ وَيَقُولُونَ عَلَى ٱللَّهِ ٱلْكَذِبَ وَهُمْ يَعْلَمُونَ</a> <b>} *
+  </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">مَا
+  كَانَ لِبَشَرٍ أَن يُؤْتِيهُ ٱللَّهُ ٱلْكِتَٰبَ وَٱلْحُكْمَ وَٱلنُّبُوَّةَ ثُمَّ
+  يَقُولَ لِلنَّاسِ كُونُواْ عِبَاداً لِّي مِن دُونِ ٱللَّهِ وَلَـٰكِن كُونُواْ رَبَّـٰنِيِّينَ
+  بِمَا كُنتُمْ تُعَلِّمُونَ ٱلْكِتَٰبَ وَبِمَا كُنْتُمْ تَدْرُسُونَ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">أو: فيمن حرّف نعته صلى الله عليه وسلم من اليهود، قاله الحسن. أو:
+  في خصومة الأشعث بن قيس مع يهودي، أو مع بعض قرابته. أو: في رجل حلف على سلعة مساءً
+  لأعطي بها أول النهار كذا، يميناً كاذبة، قاله مجاهد، والشعبي.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">والإضافة في { بعهد الله } إما للفاعل وإما للمفعول، أي: بعهد الله
+  إياه من الإيمان بالرسول الذي بعث مصدّقاً لما معهم، وبأيمانهم التي حلفوها لنؤمنن
+  به ولننصرنه، أو بعهد الله. والاشتراء هنا مجاز، والثمن القليل: متاع الدنيا من الرشى
+  والتراؤس ونحو ذلك، والظاهر أنها في أهل الكتاب لما احتف بها من الآيات التي قبلها
+  والآيات التي بعدها.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">{ أولئك لا خلاق لهم في الآخرة }
+  أي: لا نصيب لهم في الآخرة، اعتاضوا بالقليل الفاني عن النعيم الباقي، ونعني: لا نصيب
+  له من الخير، نفي نصيب الخير عنه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">{
+  ولا يكلمهم الله } قال الطبري: أي بما يسرهم وقال غيره: لا يكلمهم جملة وإنما تحاسبهم
+  الملائكة، قاله الزّجاج. وقال قوم: هو عبارة عن الغضب، أي: لا يحفل بهم، ولا يرضى عنهم،
+  وقاله ابن بحر. وقد تقدّم في البقرة شرح: { ولا يكلمهم الله } [آل عمران: 77].</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">{ ولا ينظر إليهم يوم القيامة } قال الزمخشري: ولا ينظر إليهم مجاز
+  عن الاستهانة بهم والسخط عليهم، تقول: فلان لا ينظر إلى فلان، يريد نفي اعتداده به،
+  واحسانه إليه.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">فإن قلت أي فرق بين استعماله فيمن
+  يجوز عليه النظر وفيمن لا يجوز عليه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قلت
+  أصله فيمن يجوز عليه النظر الكناية، لأن من اعتد بالإنسان التفت إليه وأعاره نظر عينيه،
+  ثم كثر حتى صار عبارة عن الاعتداد والإحسان، وإن لم يكن ثَمّ نظر، ثم جاء فيمن لا يجوز
+  عليه النظر مجرداً لمعنى الإحسان مجازاً عما وقع كناية عنه فيمن يجوز عليه النظر. انتهى
+  كلامه. وقال غيره: ولا ينظر أي: لا يرحم قال:</font></font><table class=\"TextArabic\"
+  dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">فقلت انظري يا أحسن الناس كلهم</font></font></b></td><td class=\"TextArabic\">   </td><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">لذي غلة
+  صديان قد شفه الوجدُ</font></font></b></td></tr></table><font class=\"TextResultArabic\"><font
+  color=\"black\">{ ولا يزكيهم } ولا يثني عليهم أو لا ينمي أعمالهم، فهي تنمية لهم،
+  أو لا يطهرهم من الذنوب. أقوال ثلاثة، وتقدّم شرحه في البقرة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">{
+  ولهم عذاب أليم } تقدّم شرحه أيضاً.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">{
+  وإن منهم لفريقاً } أي: من اليهود، قاله الحسن: أو: من أهل الكتابين، قاله ابن عباس.
+  وعن ابن عباس أيضاً: هم اليهود الذين قدموا على كعب بن الأشرف غيّروا التوراة. وكتبوا
+  كتاباً بدلوا فيه صفة رسول الله صلى الله عليه وسلم، ثم أخذت قريظة ما كتبوه فخلطوه
+  بالكتاب الذي عندهم.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">{ يلوون ألسنتهم بالكتاب لتحسبوه
+  من الكتاب } أي: يفتلونها بقراءته عن الصحيح إلى المحرف، قاله الزمخشري وقال ابن عطية:
+  يحرفون ويتحيلون لتبديل المعاني من جهة اشتباه الألفاظ واشتراكها وتشعب التأويلات فيها،
+  ومثال ذلك قولهم: راعنا، وأسمع غير مسمع، ونحو ذلك وليس التبديل المحض.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(19,5,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(19,7,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(19,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(19,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(19,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(19,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(19,5,1)\"><u>5</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">6 </font></td><td><a href=\"Javascript:InnerLink_onchange(19,7,1)\"><u>7</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(19,8,1)\"><u>8</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(19,9,1)\"><u>9</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(19,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(19,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(3,
+  75)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(3,75)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَمِنْ أَهْلِ ٱلْكِتَٰبِ مَنْ إِن تَأْمَنْهُ بِقِنْطَارٍ
+  يُؤَدِّهِ إِلَيْكَ وَمِنْهُمْ مَّنْ إِن تَأْمَنْهُ بِدِينَارٍ لاَّ يُؤَدِّهِ إِلَيْكَ
+  إِلاَّ مَا دُمْتَ عَلَيْهِ قَآئِماً ذٰلِكَ بِأَنَّهُمْ قَالُواْ لَيْسَ عَلَيْنَا
+  فِي ٱلأُمِّيِّينَ سَبِيلٌ وَيَقُولُونَ عَلَى اللَّهِ ٱلْكَذِبَ وَهُمْ يَعْلَمُونَ</a>
+  <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">بَلَىٰ
+  مَنْ أَوْفَىٰ بِعَهْدِهِ وَاتَّقَى فَإِنَّ اللَّهَ يُحِبُّ الْمُتَّقِينَ</a> <b>}
+  * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">إِنَّ
+  ٱلَّذِينَ يَشْتَرُونَ بِعَهْدِ ٱللَّهِ وَأَيْمَانِهِمْ ثَمَناً قَلِيلاً أُوْلَـٰئِكَ
+  لاَ خَلاَقَ لَهُمْ فِي ٱلآخِرَةِ وَلاَ يُكَلِّمُهُمُ ٱللَّهُ وَلاَ يَنظُرُ إِلَيْهِمْ
+  يَوْمَ ٱلْقِيَامَةِ وَلاَ يُزَكِّيهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَإِنَّ
+  مِنْهُمْ لَفَرِيقاً يَلْوُونَ أَلْسِنَتَهُمْ بِٱلْكِتَابِ لِتَحْسَبُوهُ مِنَ ٱلْكِتَابِ
+  وَمَا هُوَ مِنَ الْكِتَابِ وَيَقُولُونَ هُوَ مِنْ عِندِ اللَّهِ وَمَا هُوَ مِنْ
+  عِندِ ٱللَّهِ وَيَقُولُونَ عَلَى ٱللَّهِ ٱلْكَذِبَ وَهُمْ يَعْلَمُونَ</a> <b>} *
+  </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">مَا
+  كَانَ لِبَشَرٍ أَن يُؤْتِيهُ ٱللَّهُ ٱلْكِتَٰبَ وَٱلْحُكْمَ وَٱلنُّبُوَّةَ ثُمَّ
+  يَقُولَ لِلنَّاسِ كُونُواْ عِبَاداً لِّي مِن دُونِ ٱللَّهِ وَلَـٰكِن كُونُواْ رَبَّـٰنِيِّينَ
+  بِمَا كُنتُمْ تُعَلِّمُونَ ٱلْكِتَٰبَ وَبِمَا كُنْتُمْ تَدْرُسُونَ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">انتهى.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">والذي يظهر أن الليّ وقع بالكتاب
+  أي: بألفاظه لا بمعانيه وحدها كما يزعم بعض الناس، بل التحريف والتبديل وقع في الألفاظ،
+  والمعاني تبع للألفاظ، ومن طالع التوراة علم يقيناً أن التبديل في الألفاظ والمعاني،
+  لأنها تضمنت أشياء يجزم العاقل أنها ليست من عند الله، ولا أن ذلك يقع في كتاب إلهي
+  من كثرة التناقض في الاخبار والأعداد ونسبة أشياء إلى الله تعالى من الأكل والمصارعة
+  وغير ذلك، ونسبة أشياء إلى الأنبياء من الكذب والسكر من الخمر والزنا ببناتهم. وغير
+  ذلك من القبائح التي ينزه العاقل نفسه عن أن يتصف بشيء منها، فضلاً عن منصب النبوة.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقد صنف الشيخ علاء الدين علي بن محمد بن خطاب الباجي، رحمه الله تعالى،
+  كتاباً في (السؤالات على ألفاظ التوراة ومعانيه) ومن طالع ذلك الكتاب رأى فيه عجائب
+  وغرائب، وجزم بالتبديل لألفاظ التوراة ومعانيها، هذا مع خلوها من ذكر: الآخرة، والبعث،
+  والحشر، والنشر، والعذاب والنعيم الأخرويين، والتبشير برسول الله صلى الله عليه وسلم،
+  وأين هذا من قوله تعالى</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">الذين يتبعون الرسول النبيّ الأميّ الذي يجدونه مكتوباً عندهم
+  في التوراة والإنجيل يأمرهم بالمعروف وينهاهم عن المنكر ويحل لهم الطيبات ويحرّم عليهم
+  الخبائث ويضع عنهم إصرهم والأغلال التي كانت عليهم</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">[الأعراف: 157] وقوله تعالى وقد
+  ذكر رسوله وصحابته.</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">ذلك مثلهم في التوراة</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">[الفتح: 29].</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقد نص تعالى في القرآن على ما يقتضي إخفاءهم لكثير من التوراة، قال
+  تعالى:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">قل من أنزل الكتاب الذي جاء به موسى نوراً وهدى للناس تجعلونه
+  قراطيس تبدونها وتخفون كثيراً</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">[الأَنعام: 91] وقال تعالى</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">يا
+  أهل الكتاب قد جاءكم رسولنا يبين لكم كثيراً مما كنتم تخفون من الكتاب</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[المائدة:
+  15] فدلت هاتان الآيتان على أن الذي أخفوه من الكتاب كثير، ودل بمفهوم الصفة أن الذي
+  أبدوه من الكتاب قليل.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقرأ الجمهور: يلوون، مضارع: لوى
+  وقرأ أبو جعفر بن القعقاع، وشيبة بن نصاح، وأبو حاتم عن نافع: يلوون بالتشديد، مضارع:
+  لوّى، مشدّداً. ونسبها الزمخشري لأهل المدينة، والتضعيف للمبالغة والتكثير في الفعل
+  لا للتعدية وقرأ حميد: يلون، بضم اللام، ونسبها الزمخشري إلى أنها رواية عن مجاهد،
+  وابن كثير، ووجهت على أن الأصل: يلوون، ثم أبدلت الواو همزة، ثم نقلت حركتها إلى الساكن
+  قبلها، وحذفت هي.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">والكتاب: هنا التوراة، والمخاطب
+  في: لتحسبوه، المسلمون وقرىء: ليحسبوه، بالياء وهو يعود على الذين يلوون ألسنتهم لهم،
+  أي: ليحسبه المسلمون، والضمير المفعول في: ليحسبوه، عائد على ما دل عليه ما قبله من
+  المحرف، أي ليحسبوا المحرف من الكتاب.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">ويحتمل
+  أن يكون قوله: بالكتاب، على حذف مضاف أي: يلوون ألسنتهم بشبه الكتاب، فيعود الضمير
+  على ذلك المضاف المحذوف، كقوله تعالى:</font></font>&#13;\t\t\t<label disabled=\"true\"
+  class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(19,6,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(19,8,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(19,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(19,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(19,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(19,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(19,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(19,6,1)\"><u>6</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">7 </font></td><td><a href=\"Javascript:InnerLink_onchange(19,8,1)\"><u>8</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(19,9,1)\"><u>9</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(19,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(19,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(3,
+  75)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(3,75)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَمِنْ أَهْلِ ٱلْكِتَٰبِ مَنْ إِن تَأْمَنْهُ بِقِنْطَارٍ
+  يُؤَدِّهِ إِلَيْكَ وَمِنْهُمْ مَّنْ إِن تَأْمَنْهُ بِدِينَارٍ لاَّ يُؤَدِّهِ إِلَيْكَ
+  إِلاَّ مَا دُمْتَ عَلَيْهِ قَآئِماً ذٰلِكَ بِأَنَّهُمْ قَالُواْ لَيْسَ عَلَيْنَا
+  فِي ٱلأُمِّيِّينَ سَبِيلٌ وَيَقُولُونَ عَلَى اللَّهِ ٱلْكَذِبَ وَهُمْ يَعْلَمُونَ</a>
+  <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">بَلَىٰ
+  مَنْ أَوْفَىٰ بِعَهْدِهِ وَاتَّقَى فَإِنَّ اللَّهَ يُحِبُّ الْمُتَّقِينَ</a> <b>}
+  * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">إِنَّ
+  ٱلَّذِينَ يَشْتَرُونَ بِعَهْدِ ٱللَّهِ وَأَيْمَانِهِمْ ثَمَناً قَلِيلاً أُوْلَـٰئِكَ
+  لاَ خَلاَقَ لَهُمْ فِي ٱلآخِرَةِ وَلاَ يُكَلِّمُهُمُ ٱللَّهُ وَلاَ يَنظُرُ إِلَيْهِمْ
+  يَوْمَ ٱلْقِيَامَةِ وَلاَ يُزَكِّيهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَإِنَّ
+  مِنْهُمْ لَفَرِيقاً يَلْوُونَ أَلْسِنَتَهُمْ بِٱلْكِتَابِ لِتَحْسَبُوهُ مِنَ ٱلْكِتَابِ
+  وَمَا هُوَ مِنَ الْكِتَابِ وَيَقُولُونَ هُوَ مِنْ عِندِ اللَّهِ وَمَا هُوَ مِنْ
+  عِندِ ٱللَّهِ وَيَقُولُونَ عَلَى ٱللَّهِ ٱلْكَذِبَ وَهُمْ يَعْلَمُونَ</a> <b>} *
+  </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">مَا
+  كَانَ لِبَشَرٍ أَن يُؤْتِيهُ ٱللَّهُ ٱلْكِتَٰبَ وَٱلْحُكْمَ وَٱلنُّبُوَّةَ ثُمَّ
+  يَقُولَ لِلنَّاسِ كُونُواْ عِبَاداً لِّي مِن دُونِ ٱللَّهِ وَلَـٰكِن كُونُواْ رَبَّـٰنِيِّينَ
+  بِمَا كُنتُمْ تُعَلِّمُونَ ٱلْكِتَٰبَ وَبِمَا كُنْتُمْ تَدْرُسُونَ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\"/></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">أو كظلمات في بحر لجّي يغشاه</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">[النور: 40] أي: أو كذي ظلمات، فأعاد
+  المفعول في: يغشاه، على: ذي، المحذوف.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">{
+  وما هو من الكتاب } أي: وما المحرف والمبدل الذي لووه بألسنتهم من التوراة، فلا تظنوا
+  ذلك أنه من التوراة.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">{ ويقولون هو من عند الله } تأكيد
+  لما قصدوه من حسبان المسلمين أنه من الكتاب، وافتراء عظيم على الله، إذ لم يكتفوا بهذا
+  الفعل القبيح من التبديل والتحريف حتى عضدوا ذلك بالقول ليطابق الفعل القول، ودل ذلك
+  على أنهم لا يعرضون، ولا يودّون في ذلك، بل يصرحون بأنه في التوراة هكذا، وقد أنزله
+  الله على موسى كذلك، وذلك لفرط جرأتهم على الله ويأسهم من الآخرة.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">{ وما هو من عند الله } رد عليهم في إخبارهم بالكذب، وهذا تأكيد لقوله
+  { وما هو من الكتاب } نفى أولاً أخص، إذ التعليل كان لأخص، ونفي هنا أعم، لأن الدعوى
+  منهم كانت الأعم، لأن كونه من عند الله أعم من أن يكون في التوراة أو غيرها.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قال أبو بكر الرازي: هذه الآية فيها دلالة على أن المعاصي ليست من
+  عند الله ولا من فعله، لأنها لو كانت من فعله كانت من عنده. وقد نفى الله تعالى نفياً
+  عامّاً لكون المعاصي من عنده. انتهى. وهذا مذهب المعتزلة، وكان الرازي يجنح إلى مذهبهم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال ابن عطية { وما هو من عند الله } نفي أن يكون منزلاً كما ادّعوا،
+  وهو من عند الله بالخلق والاختراع والإيجاد، ومنهم بالتكسب. ولم تعن الآية إلاَّ معنى
+  التنزيل، فبطل تعلق القدرية بظاهر قوله: { وما هو من عند الله }.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">{ ويقولون على الله الكذب وهم يعلمون } تقدّم تفسير مثل هذا آنفاً.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">{ ما كان لبشر أن يؤتيه الله الكتاب والحكم والنبوة ثم يقول للناس
+  كونوا عباداً لي من دون الله }</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" روي أن أبا رافع القرظي قال للنبي صلى الله عليه وسلم، حين اجتمعت
+  الأحبار من يهود، والوفد من نصارى نجران: يا محمد! إنما تريد أن نعبدك ونتخذك إلهاً
+  كما عبدت النصارى عيسى؟ فقال الرئيس من نصارى نجران: أَوَ ذاك تريد يا محمد واليه تدعونا؟
+  فقال النبي صلى الله عليه وسلم: \" معاذ الله ما بذلك أمرت ولا إليه دعوت \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\">، فنزلت.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقيل:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" قال رجل: يا رسول الله! نسلم عليك
+  كما يسلم بعضنا على بعض، أفلا نسجد لك؟ قال: \" لا ينبغي أن يسجد لأحد من دون الله،
+  ولكن أكرموا نبيكم واعرفوا الحق لأهله \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">واختلف
+  المفسرون إلى من هي الإشارة بقوله: { ما كان لبشر } فقال ابن عباس، والربيع، وابن جريج،
+  وجماعة: الإشارة إلى محمد صلى الله عليه وسلم، وذكروا سبب النزول المذكور.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال النقاش، وغيره: الإشارة إلى عيسى، والآية رادّة على النصارى الذين
+  قالوا: عيسى إله، وادعوا أن عبادته هي شرعة مستندة إلى أوامره، ومعنى { ما كان لبشر
+  أن يؤتيه الله } وما جاء نحوه أنه ينفي عنه الكون، والمراد نفي الخبر، وذلك على قسمين.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(19,7,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(19,9,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(19,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(19,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(19,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(19,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(19,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(19,6,1)\"><u>6</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(19,7,1)\"><u>7</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">8 </font></td><td><a href=\"Javascript:InnerLink_onchange(19,9,1)\"><u>9</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(19,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(19,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(3,
+  75)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(3,75)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَمِنْ أَهْلِ ٱلْكِتَٰبِ مَنْ إِن تَأْمَنْهُ بِقِنْطَارٍ
+  يُؤَدِّهِ إِلَيْكَ وَمِنْهُمْ مَّنْ إِن تَأْمَنْهُ بِدِينَارٍ لاَّ يُؤَدِّهِ إِلَيْكَ
+  إِلاَّ مَا دُمْتَ عَلَيْهِ قَآئِماً ذٰلِكَ بِأَنَّهُمْ قَالُواْ لَيْسَ عَلَيْنَا
+  فِي ٱلأُمِّيِّينَ سَبِيلٌ وَيَقُولُونَ عَلَى اللَّهِ ٱلْكَذِبَ وَهُمْ يَعْلَمُونَ</a>
+  <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">بَلَىٰ
+  مَنْ أَوْفَىٰ بِعَهْدِهِ وَاتَّقَى فَإِنَّ اللَّهَ يُحِبُّ الْمُتَّقِينَ</a> <b>}
+  * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">إِنَّ
+  ٱلَّذِينَ يَشْتَرُونَ بِعَهْدِ ٱللَّهِ وَأَيْمَانِهِمْ ثَمَناً قَلِيلاً أُوْلَـٰئِكَ
+  لاَ خَلاَقَ لَهُمْ فِي ٱلآخِرَةِ وَلاَ يُكَلِّمُهُمُ ٱللَّهُ وَلاَ يَنظُرُ إِلَيْهِمْ
+  يَوْمَ ٱلْقِيَامَةِ وَلاَ يُزَكِّيهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَإِنَّ
+  مِنْهُمْ لَفَرِيقاً يَلْوُونَ أَلْسِنَتَهُمْ بِٱلْكِتَابِ لِتَحْسَبُوهُ مِنَ ٱلْكِتَابِ
+  وَمَا هُوَ مِنَ الْكِتَابِ وَيَقُولُونَ هُوَ مِنْ عِندِ اللَّهِ وَمَا هُوَ مِنْ
+  عِندِ ٱللَّهِ وَيَقُولُونَ عَلَى ٱللَّهِ ٱلْكَذِبَ وَهُمْ يَعْلَمُونَ</a> <b>} *
+  </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">مَا
+  كَانَ لِبَشَرٍ أَن يُؤْتِيهُ ٱللَّهُ ٱلْكِتَٰبَ وَٱلْحُكْمَ وَٱلنُّبُوَّةَ ثُمَّ
+  يَقُولَ لِلنَّاسِ كُونُواْ عِبَاداً لِّي مِن دُونِ ٱللَّهِ وَلَـٰكِن كُونُواْ رَبَّـٰنِيِّينَ
+  بِمَا كُنتُمْ تُعَلِّمُونَ ٱلْكِتَٰبَ وَبِمَا كُنْتُمْ تَدْرُسُونَ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">أحدهما: أن يكون الانتفاء من حيث العقل، ويعبر عنه بالنفي التام، ومثاله
+  قوله:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">ما كان لكم أن تنبتوا شجرها</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">[النمل: 60]</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">وما كان لنفس أن تموت إلا بإذن الله</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[آل
+  عمران: 145].</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">والثاني: أن يكون الانتفاء فيه على
+  سبيل الانتفاء، ويعبر عنه بالنفي غير التام، ومثاله قول أبي بكر الصديق، رضي الله عنه:
+  ما كان لابن أبي قحافة أن يتقدّم أن يصلى بين يدي رسول الله صلى الله عليه وسلم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">ومدرك القسمين إنما يعرف بسياق الكلام الذي النفي فيه، وهذه الآية
+  من القسم الأول، لأنا نعلم أن الله لا يعطي الكَذَبة والمدَّعين النبوّة، وفي هذه الآية
+  دلالة على عصمة الأنبياء عليهم السلام.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">والكتاب:
+  هنا اسم جنس، والحكم: قيل بمعنى الحكمة، ومنه: \" إن من الشعر لحكماً \". وقيل: الحكم
+  هنا السنة، يعنون لمقابلته الكتاب، والظاهر أن الحكم هنا القضاء والفصل بين الناس،
+  وهذا من باب الترقي، بدأ أولاً بالكتاب وهو العلم، ثم ترقى إلى التمكين وهو الفصل بين
+  الناس ثم ترقى إلى الرتبة العليا وهي النبوّة وهي مجمع الخير، ثم يقول للناس.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">أتى بلفظ: ثم، التي هي للمهلة تعظيماً لهذا القول، وإذا انتفى هذا
+  القول بعد المهلة كان انتفاؤه بدونها أولى وأحرى، أي: إن هذا الإيتاء العظيم لا يجامع
+  هذا القول، وإن كان بعد مهلة من هذا الإنعام العظيم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">{
+  كونوا عباداً لي من دون الله } عباداً جمع عبد. قال ابن عطية: ومن جموعه: عبيد وعبدّي.
+  قال بعض اللغويين: هذه الجموع كلها بمعنى. وقال قوم: العباد لله والعبيد للبشر. وقال
+  قوم: العبدي إنما يقال في العبيد بني العبيد، كأنه مبالغة تقتضي الاستغراق في العبودية.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">والذي استقرئت في لفظة: العباد، أنه جمع عبد، متى سيقت اللفظة في مضمار
+  الترفيع والدلالة على الطاعة دون أن يقترن بها معنى التحقير وتصغير الشأن فانظر قوله
+  تعالى:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">والله رؤوف بالعباد</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">[آل عمران: 30] و</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">عباد
+  مكرمون</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">[الأَنبياء: 26]</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">يا عبادي الذين أسرفوا على أنفسهم</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[الزمر:
+  53] وقول عيسى في معنى الشفاعة والتعريض</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">إن تعذبهم فإنهم عبادك</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[المائدة:
+  118].</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وأما: العبيد، فيستعمل في التحقير،
+  ومنه قول امرىء القيس:</font></font><table class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">قولاً لدودان
+  عبيد العصا</font></font></b></td><td class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">ما غركم بالأسد الباسل</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">ومنه قول حمزة بن عبد المطلب: وهل
+  أنتم إلاَّ عبيد لأبي، ومنه</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">وما ربك بظلام للعبيد</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">[فصلت: 46] لأنه مكان تشقيق وإعلام
+  بقلة انتصارهم ومقدرتهم، وأنه تعالى ليس بظلام لهم مع ذلك، ولما كانت لفظة العباد تقتضي
+  الطاعة، لم يقع هنا، ولذلك أنس بها في قوله:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">قل يا عبادي الذين أسرفوا على أنفسهم</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[الزمر:
+  53] فهذا النوع من النظر يسلك بك سبيل العجائب في حيز فصاحة القرآن العزيز على الطريقة
+  العربية السليمة، ومعنى قوله: { كونوا عباداً لي من دون الله } اعبدوني واجعلوني إلهاً.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(19,8,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(19,10,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(19,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(19,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(19,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(19,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(19,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(19,6,1)\"><u>6</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(19,7,1)\"><u>7</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(19,8,1)\"><u>8</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">9 </font></td><td><a href=\"Javascript:InnerLink_onchange(19,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(19,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(3,
+  75)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(3,75)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَمِنْ أَهْلِ ٱلْكِتَٰبِ مَنْ إِن تَأْمَنْهُ بِقِنْطَارٍ
+  يُؤَدِّهِ إِلَيْكَ وَمِنْهُمْ مَّنْ إِن تَأْمَنْهُ بِدِينَارٍ لاَّ يُؤَدِّهِ إِلَيْكَ
+  إِلاَّ مَا دُمْتَ عَلَيْهِ قَآئِماً ذٰلِكَ بِأَنَّهُمْ قَالُواْ لَيْسَ عَلَيْنَا
+  فِي ٱلأُمِّيِّينَ سَبِيلٌ وَيَقُولُونَ عَلَى اللَّهِ ٱلْكَذِبَ وَهُمْ يَعْلَمُونَ</a>
+  <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">بَلَىٰ
+  مَنْ أَوْفَىٰ بِعَهْدِهِ وَاتَّقَى فَإِنَّ اللَّهَ يُحِبُّ الْمُتَّقِينَ</a> <b>}
+  * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">إِنَّ
+  ٱلَّذِينَ يَشْتَرُونَ بِعَهْدِ ٱللَّهِ وَأَيْمَانِهِمْ ثَمَناً قَلِيلاً أُوْلَـٰئِكَ
+  لاَ خَلاَقَ لَهُمْ فِي ٱلآخِرَةِ وَلاَ يُكَلِّمُهُمُ ٱللَّهُ وَلاَ يَنظُرُ إِلَيْهِمْ
+  يَوْمَ ٱلْقِيَامَةِ وَلاَ يُزَكِّيهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَإِنَّ
+  مِنْهُمْ لَفَرِيقاً يَلْوُونَ أَلْسِنَتَهُمْ بِٱلْكِتَابِ لِتَحْسَبُوهُ مِنَ ٱلْكِتَابِ
+  وَمَا هُوَ مِنَ الْكِتَابِ وَيَقُولُونَ هُوَ مِنْ عِندِ اللَّهِ وَمَا هُوَ مِنْ
+  عِندِ ٱللَّهِ وَيَقُولُونَ عَلَى ٱللَّهِ ٱلْكَذِبَ وَهُمْ يَعْلَمُونَ</a> <b>} *
+  </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">مَا
+  كَانَ لِبَشَرٍ أَن يُؤْتِيهُ ٱللَّهُ ٱلْكِتَٰبَ وَٱلْحُكْمَ وَٱلنُّبُوَّةَ ثُمَّ
+  يَقُولَ لِلنَّاسِ كُونُواْ عِبَاداً لِّي مِن دُونِ ٱللَّهِ وَلَـٰكِن كُونُواْ رَبَّـٰنِيِّينَ
+  بِمَا كُنتُمْ تُعَلِّمُونَ ٱلْكِتَٰبَ وَبِمَا كُنْتُمْ تَدْرُسُونَ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">انتهى كلام ابن عطية. وفيه بعض مناقشة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">أما
+  قوله: ومن جموعه: عبيد وعبدى، أما عبيد فالأصح أنه جمع. وقيل: اسم جمع، و: أما عبدى
+  فاسم جمع، وألفه للتأنيث. وأما ما استقرأه أن عباداً يساق في مضمار الترفيع والدلالة
+  على الطاعة دون أن يقترن بها معنى التحقير والتصغير، وإيراده ألفاظاً في القرآن بلفظ
+  العباد، وقوله: وأما العبيد فيستعمل في تحقير، وأنشد بيت أمرىء القيس، وقول حمزة وقوله
+  تعالى</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">بظلام للعبيد</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">[فصلت: 46] فليس باستقراء صحيح،
+  وإنما كثر استعمال: عباد، دون: عبيد، لأن فعالاً في جمع فعل غير اليائي العين قياس
+  مطرد، وجمع فعل على فعيل لا يطرد.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قال
+  سيبويه: وربما جاء فعيلاً وهو قليل، نحو: الكليب والعبيد. انتهى.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">فلما كان فعال هو المقيس في جمع: عبد، جاء: عباد، كثيراً. وأما</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">وما
+  ربك بظلام للعبيد</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">[فصلت: 46] فحسن مجيئه هنا وإن لم يكن مقيساً أنه جاء لتواخي الفواصل،
+  ألا ترى أن قبله</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">أولئك ينادون من مكان بعيد</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">[فصلت: 44] وبعده</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">قالوا
+  آذناك ما منا من شهيد</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">[فصلت: 47] فحسن مجيئه بلفظ العبيد مواخاة هاتين الفاصلتين، ونظير
+  هذا قوله في سورة ق:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">وما أنا بظلام للعبيد</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">[ق: 29] لأن قبله</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">قال
+  لا تختصموا لدي وقد قدمت إليكم بالوعيد</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">[ق: 28] وبعده</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">يوم
+  نقول لجهنم هل امتلات وتقول هل من مزيد</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">[ق: 30] وأما مدلوله فمدلول: عباد،
+  سواء.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وأما بيت امرئ القيس فلم يفهم التحقير
+  من لفظ: عبيد، إنما فهم من إضافتهم إلى العصا، ومن مجموع البيت. وكذلك قول حمزة إنما
+  فهم منه معنى التحقير من قرينة الحال التي كان عليها، وأتى في البيت، وفي وقل حمزة
+  على أحد الجائزين.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقرأ الجمهور: ثم يقول، بالنصب عطفاً
+  على: أن يؤتيه، وقرأ شبل عن ابن كثير، ومحبوب عن أبي عمرو: بالرفع على القطع أي: ثم
+  هو يقول. وقرأ الجمهور: عباداً لي، بتسكين ياء الإضافة. وقرأ عيسى بن عمر: بفتحها.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">{ ولكن كونوا ربانيين } هذا على إضمار القول تقديره: ولكن يقول كونوا
+  ربانيين، والرباني الحكيم العالم، قاله قتادة، وأبو رزين. أو: الفقيه، قاله علي، وابن
+  عباس، والحسن، ومجاهد. أو: العالم الحليم، قاله قتادة وغيره. أو: الحكيم الفقيه، قاله
+  ابن عباس. أو: الفقيه العلم، قاله الحسن، والضحاك. أو: والي الأمر يربيهم ويصلحهم،
+  قاله ابن زيد. أو: الحكيم التقي، قاله ابن جبير. أو: المعلم، قاله الزجاج. أو: العالم،
+  قاله المبرد. أو: التائب لربه، قاله المؤرج. أو: الشديد التمسك بدين الله وطاعته، قاله
+  الزمخشري. أو: العالم الحكيم الناصح لله في خلقه، قاله عطاء. أو: العالم العامل بعلمه،
+  قاله ابن جبير. أو: العالم المعلم، قاله بعضهم. وهذه أقوال متقاربة.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وللصوفية في تفسيره أقوال كثيرة غير هذه، وقال مجاهد: الرباني فوق
+  الحبر، لأن الحبر هو العالم، والرباني الذي جمع إلى العلم والفقه النظر بالسياسة والتدبير
+  والقيام بأمور الرعية وما يصلحهم في دينهم ودنياهم.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(19,9,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(19,11,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(19,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(19,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(19,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(19,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(19,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(19,6,1)\"><u>6</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(19,7,1)\"><u>7</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(19,8,1)\"><u>8</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(19,9,1)\"><u>9</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">10 </font></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(19,11,1)\">مزيد</a></td></tr></table></center></div></section>"
+
