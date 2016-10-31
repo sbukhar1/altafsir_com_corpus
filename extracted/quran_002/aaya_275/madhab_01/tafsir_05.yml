@@ -1,0 +1,827 @@
+position:
+  sura: '002'
+  aaya: '275'
+  madhab: '01'
+  tafsir: '05'
+meta:
+  title: تفسير الجامع لاحكام القرآن
+  author: القرطبي
+  year: '671'
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(2, 275)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(2,275)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">ٱلَّذِينَ
+  يَأْكُلُونَ ٱلرِّبَٰواْ لاَ يَقُومُونَ إِلاَّ كَمَا يَقُومُ ٱلَّذِي يَتَخَبَّطُهُ
+  ٱلشَّيْطَانُ مِنَ ٱلْمَسِّ ذَلِكَ بِأَنَّهُمْ قَالُوۤاْ إِنَّمَا ٱلْبَيْعُ مِثْلُ
+  ٱلرِّبَٰواْ وَأَحَلَّ ٱللَّهُ ٱلْبَيْعَ وَحَرَّمَ ٱلرِّبَٰواْ فَمَن جَآءَهُ مَوْعِظَةٌ
+  مِّنْ رَّبِّهِ فَٱنْتَهَىٰ فَلَهُ مَا سَلَفَ وَأَمْرُهُ إِلَى ٱللَّهِ وَمَنْ عَادَ
+  فَأُوْلَـٰئِكَ أَصْحَابُ ٱلنَّارِ هُمْ فِيهَا خَالِدُونَ</a> <b>} * </b><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">يَمْحَقُ
+  ٱللَّهُ ٱلرِّبَٰواْ وَيُرْبِي ٱلصَّدَقَٰتِ وَٱللَّهُ لاَ يُحِبُّ كُلَّ كَفَّارٍ
+  أَثِيمٍ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">إِنَّ ٱلَّذِينَ آمَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ
+  وَأَقَامُواْ ٱلصَّلَٰوةَ وَآتَوُاْ ٱلزَّكَٰوةَ لَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ
+  وَلاَ خَوْفٌ عَلَيْهِمْ وَلاَ هُمْ يَحْزَنُونَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">يٰأَيُّهَا ٱلَّذِينَ
+  آمَنُواْ ٱتَّقُواْ ٱللَّهَ وَذَرُواْ مَا بَقِيَ مِنَ ٱلرِّبَٰواْ إِن كُنْتُمْ مُّؤْمِنِينَ</a>
+  <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">فَإِن
+  لَّمْ تَفْعَلُواْ فَأْذَنُواْ بِحَرْبٍ مِّنَ ٱللَّهِ وَرَسُولِهِ وَإِنْ تُبْتُمْ
+  فَلَكُمْ رُؤُوسُ أَمْوَٰلِكُمْ لاَ تَظْلِمُونَ وَلاَ تُظْلَمُونَ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">الآيات الثلاث تضمنت أحكام الربا وجواز عقود المبايعات، والوعيد لمن
+  استحل الربا وأصرّ على فعله. وفي ذلك ثمان وثلاثون مسألة:</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">الأُولى
+  ـ قوله تعالى: { ٱلَّذِينَ يَأْكُلُونَ ٱلرِّبَا } يأكلون يأخذون، فعبر عن الأخذ بالأكل؛
+  لأن الأخذ إنما يراد للأكل. الربا في اللغة الزيادة مطلقاً؛ يقال: ربا الشيء يربو إذا
+  زاد، ومنه الحديث:</font></font><b><font class=\"TextResultArabic\"><font color=\"Red\">
+  \" فلا والله ما أخذنا من لقمة إلاّ رَبَا من تحتها \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">يعني الطعام الذي دعا فيه النبيّ صلى الله عليه وسلم بالبركة؛ خرّج
+  الحديث مسلم رحمه الله. وقياس كتابته بالياء للكسرة في أوّله، وقد كتبوه في القرآن
+  بالواو. ثم إن الشرع قد تصرّف في هذا الإطلاق فقصره على بعض موارده؛ فمرّة أطلقه على
+  كسب الحرام؛ كما قال الله تعالى في اليهود:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">وَأَخْذِهِمُ ٱلرِّبَا وَقَدْ نُهُواْ
+  عَنْهُ</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">[النساء: 161]. ولم يرد به الرّبا الشرعيّ الذي حكم بتحريمه علينا
+  وإنما أراد المال الحرام؛ كما قال تعالى:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">سَمَّاعُونَ لِلْكَذِبِ أَكَّالُونَ
+  لِلسُّحْتِ</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">[المائدة: 42] يعني به المال الحرام من الرّشا، وما استحلوه من أموال
+  الأُمِّيِّين حيث قالوا:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">لَيْسَ عَلَيْنَا فِي ٱلأُمِّيِّينَ سَبِيلٌ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[آل
+  عمران: 75]. وعلى هذا فيدخل فيه النهي عن كل مال حرام بأيّ وجه اكتُسب. والربا الذي
+  عليه عُرف الشرع شيئان: تحريم النَّسَاء، والتفاضل في العقود وفي المطعومات على ما
+  نبيّنه. وغالبه ما كانت العرب تفعله، من قولها للغريم: أتقضي أُم تُرْبِي؟ فكان الغريم
+  يزيد في عدد المال ويصبر الطالب عليه. وهذا كله محرّم باتفاق الأُمة.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">الثانية ـ أكثر البيوع الممنوعة إنما تجد منعها لمعنى زيادةٍ إمّا
+  في عين مال، وإمّا في منفعة لأحدهما من تأخير ونحوه. ومن البيوع ما ليس فيه معنى الزيادة؛
+  كبيع الثمرة قبل بُدُوّ صلاحها، وكالبيع ساعة النداء يوم الجمعة؛ فإن قيل لفاعلها؛
+  آكل الربا فتجوُّز وتشبيه.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">الثالثة ـ روى الأئمة واللفظ لمُسْلم
+  عن أبي سعيد الخُدْريّ قال قال رسول الله صلى الله عليه وسلم:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" الذهب بالذهب والفضة بالفضة والبُرّ
+  بالبُرّ والشعير بالشعير والتمر بالتمر والملح بالملح مِثْلا بمثل يداً بيد فمن زاد
+  أو استزاد فقد أربَى الآخذ والمعطي فيه سواء \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">وفي حديث عُبادة بن الصّامت:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" فإذا اختلفت هذه الأصناف فبِيعُوا كيف شئتم إذا كان يدا بيد \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\">وروى أبو داود عن عُبادة بن الصامت
+  أن رسول الله صلى الله عليه وسلم قال:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" الذهب بالذهب تِبْرُها وعَيْنها والفضة بالفضة تبرها وعينها والبُرُّ
+  بالبرّ مُدْيٌ بمُدْيٍ والشعير بالشعير مدْي بمُدْي والتمر بالتمر مُدْيٌ بمُدْيٍ والملحُ
+  بالملح مُدْيٌ بمُدْيٍ فمن زاد أو ازداد فقد أرْبَى ولا بأس يبيع الذهب بالفضة والفضةُ
+  أكثرهما يداً بيد وأما نَسِيئة فلا ولا بأس ببيع البرِّ بالشعير والشعيرُ أكثرهما يداً
+  بيد وأما نسِيئة فلا \" </font></font></b>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\"
+  border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE:
+  none; BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(5,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(5,2,1)\"><u>2</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(5,3,1)\"><u>3</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(5,4,1)\"><u>4</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(5,5,1)\"><u>5</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(5,6,1)\"><u>6</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(5,7,1)\"><u>7</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(5,8,1)\"><u>8</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(5,9,1)\"><u>9</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(5,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(5,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2,
+  275)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,275)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">ٱلَّذِينَ يَأْكُلُونَ ٱلرِّبَٰواْ لاَ يَقُومُونَ
+  إِلاَّ كَمَا يَقُومُ ٱلَّذِي يَتَخَبَّطُهُ ٱلشَّيْطَانُ مِنَ ٱلْمَسِّ ذَلِكَ بِأَنَّهُمْ
+  قَالُوۤاْ إِنَّمَا ٱلْبَيْعُ مِثْلُ ٱلرِّبَٰواْ وَأَحَلَّ ٱللَّهُ ٱلْبَيْعَ وَحَرَّمَ
+  ٱلرِّبَٰواْ فَمَن جَآءَهُ مَوْعِظَةٌ مِّنْ رَّبِّهِ فَٱنْتَهَىٰ فَلَهُ مَا سَلَفَ
+  وَأَمْرُهُ إِلَى ٱللَّهِ وَمَنْ عَادَ فَأُوْلَـٰئِكَ أَصْحَابُ ٱلنَّارِ هُمْ فِيهَا
+  خَالِدُونَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">يَمْحَقُ ٱللَّهُ ٱلرِّبَٰواْ وَيُرْبِي ٱلصَّدَقَٰتِ
+  وَٱللَّهُ لاَ يُحِبُّ كُلَّ كَفَّارٍ أَثِيمٍ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">إِنَّ ٱلَّذِينَ
+  آمَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ وَأَقَامُواْ ٱلصَّلَٰوةَ وَآتَوُاْ ٱلزَّكَٰوةَ
+  لَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلاَ خَوْفٌ عَلَيْهِمْ وَلاَ هُمْ يَحْزَنُونَ</a>
+  <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">يٰأَيُّهَا
+  ٱلَّذِينَ آمَنُواْ ٱتَّقُواْ ٱللَّهَ وَذَرُواْ مَا بَقِيَ مِنَ ٱلرِّبَٰواْ إِن كُنْتُمْ
+  مُّؤْمِنِينَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">فَإِن لَّمْ تَفْعَلُواْ فَأْذَنُواْ بِحَرْبٍ
+  مِّنَ ٱللَّهِ وَرَسُولِهِ وَإِنْ تُبْتُمْ فَلَكُمْ رُؤُوسُ أَمْوَٰلِكُمْ لاَ تَظْلِمُونَ
+  وَلاَ تُظْلَمُونَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><b><font
+  class=\"TextResultArabic\"><font color=\"Red\">  </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">وأجمع العلماء على القول بمقتضى هذه السُّنّة وعليها جماعة فقهاء المسلمين
+  إلا في البُرّ والشعير فإن مالكاً جعلهما صنفاً واحداً، فلا يجوز منهما اثنان بواحد،
+  وهو قول الليث والأُوزاعيّ ومعظم علماء المدينة والشام، وأضاف مالك إليهما السُّلْت.
+  وقال الليث: السلت والدُّخن والذرة صنف واحد؛ وقاله ابن وهب.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قلت:
+  وإذا ثبتت السُّنّة فلا قول معها. وقال عليه السلام:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" «فإذا اختلفت هذه الأصناف فبيعوا كيف شئتم إذا كان يداً بيد». وقوله:
+  «البُرُّ بالبُرِّ والشعير بالشعير» \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">دليل على أنهما نوعان مختلفان كمخالفة البُرّ للتمر؛ ولأن صفاتهما
+  مختلفة وأسماؤهما مختلفة، ولا اعتبار بالمنبِت والمحصد إذا لم يعتبره الشرع، بل فصل
+  وبيّن؛ وهذا مذهب الشافعيّ وأبي حنيفة والثّوريّ وأصحاب الحديث.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">الرابعة ـ كان معاوية بن أبي سفيان يذهب إلى أن النهي والتحريم إنما
+  ورد من النبيّ صلى الله عليه وسلم في الدِّينار المضروب والدرهم المضروب لا في التِّبر
+  من الذهب والفضة بالمضروب، ولا في المَصُوغ بالمضروب. وقد قيل إن ذلك إنما كان منه
+  في المصوغ خاصة، حتى وقع له مع عُبَادة ما خرّجه مسلم وغيره، قال: غَزَوْنا وعلى الناس
+  معاويةُ فغِنمنا غنائمَ كثيرةً، فكان مما غنمنا آنية من فضة فأمر معاوية رجلاً ببيعها
+  في أَعْطِيّات الناس فتنازع الناس في ذلك فبلغ عبادةَ بن الصامت ذلك فقام فقال: إني
+  سمعت رسول الله صلى الله عليه وسلم يَنْهَى عن بيع الذهب بالذهب والفضة بالفضة والبُرّ
+  بالبُرّ والشعير بالشعير والتمر بالتمر والملح بالملح إلا سواءً بسواء عَيْناً بعَيْن
+  من زاد أو ازداد فقد أرْبَى؛ فردّ الناس ما أخذوا، فبلغ ذلك معاويةَ فقام خطيباً فقال:
+  ألاَ ما بالُ رجالٍ يتحدّثون عن رسول الله صلى الله عليه وسلم أحاديثَ قد كنا نشهده
+  ونصحبه فلم نسمعها منه! فقام عُبَادة بن الصامت فأعاد القصة ثم قال: لنحدّثنّ بما سمعنا
+  من رسول الله صلى الله عليه وسلم وإن كره معاويةُ ـ أو قال وإن رَغِم ـ ما أُبالي ألاّ
+  أصحبَه في جُنْدِه في ليلةٍ سَوْداء. قال حمّادٌ هذا أو نحوَه. قال ابن عبد البرّ:
+  وقد رُوي أن هذه القِصة إنما كانت لأبي الدّرداء مع معاوية. ويحتمل أن يكون وقع ذلك
+  لهما معه، ولكن الحديث في العُرْف محفوظ لعُبَادة، وهو الأصل الذي عوّل عليه العلماء
+  في باب «الربا». ولم يختلفوا أنّ فعل معاوية في ذلك غير جائز، وغير نَكِير أن يكون
+  معاوية خفي عليه ما قد علمه أبو الدرداء وعُبادة فإنهما جليلان من فقهاء الصحابة وكبارهم،
+  وقد خفِي على أبي بكر وعمر ما وُجد عند غيرهم ممن هو دونهم، فمعاويةُ أحرى. ويحتمل
+  أن يكون مذهبه كمذهب ٱبن عباس، فقد كان وهو بحرٌ في العلم لا يرى الدرهم بالدرهمين
+  بأساً حتى صرفه عن ذلك أبو سعيد.</font></font>&#13;\t\t\t<label disabled=\"true\"
+  class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(5,1,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(5,3,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(5,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td><td><a href=\"Javascript:InnerLink_onchange(5,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(5,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(5,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(5,6,1)\"><u>6</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(5,7,1)\"><u>7</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(5,8,1)\"><u>8</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(5,9,1)\"><u>9</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(5,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(5,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2,
+  275)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,275)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">ٱلَّذِينَ يَأْكُلُونَ ٱلرِّبَٰواْ لاَ يَقُومُونَ
+  إِلاَّ كَمَا يَقُومُ ٱلَّذِي يَتَخَبَّطُهُ ٱلشَّيْطَانُ مِنَ ٱلْمَسِّ ذَلِكَ بِأَنَّهُمْ
+  قَالُوۤاْ إِنَّمَا ٱلْبَيْعُ مِثْلُ ٱلرِّبَٰواْ وَأَحَلَّ ٱللَّهُ ٱلْبَيْعَ وَحَرَّمَ
+  ٱلرِّبَٰواْ فَمَن جَآءَهُ مَوْعِظَةٌ مِّنْ رَّبِّهِ فَٱنْتَهَىٰ فَلَهُ مَا سَلَفَ
+  وَأَمْرُهُ إِلَى ٱللَّهِ وَمَنْ عَادَ فَأُوْلَـٰئِكَ أَصْحَابُ ٱلنَّارِ هُمْ فِيهَا
+  خَالِدُونَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">يَمْحَقُ ٱللَّهُ ٱلرِّبَٰواْ وَيُرْبِي ٱلصَّدَقَٰتِ
+  وَٱللَّهُ لاَ يُحِبُّ كُلَّ كَفَّارٍ أَثِيمٍ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">إِنَّ ٱلَّذِينَ
+  آمَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ وَأَقَامُواْ ٱلصَّلَٰوةَ وَآتَوُاْ ٱلزَّكَٰوةَ
+  لَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلاَ خَوْفٌ عَلَيْهِمْ وَلاَ هُمْ يَحْزَنُونَ</a>
+  <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">يٰأَيُّهَا
+  ٱلَّذِينَ آمَنُواْ ٱتَّقُواْ ٱللَّهَ وَذَرُواْ مَا بَقِيَ مِنَ ٱلرِّبَٰواْ إِن كُنْتُمْ
+  مُّؤْمِنِينَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">فَإِن لَّمْ تَفْعَلُواْ فَأْذَنُواْ بِحَرْبٍ
+  مِّنَ ٱللَّهِ وَرَسُولِهِ وَإِنْ تُبْتُمْ فَلَكُمْ رُؤُوسُ أَمْوَٰلِكُمْ لاَ تَظْلِمُونَ
+  وَلاَ تُظْلَمُونَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">وقصة معاوية هذه مع عبادة كانت في
+  ولاية عمر. قال قَبيصة بن ذُؤيب: إن عُبادة أنكر شيئاً على معاوية فقال: لا أُساكنك
+  بأرض أنت بها ودخل المدينة. فقال له عمر: ما أقدمك؟ فأخبره. فقال: ٱرجِع إلى مكانك،
+  فقبّح الله أرضاً لست فيها ولا أمثالك! وكتب إلى معاوية «لا إمارة لك عليه».</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">الخامسة ـ روى الأئمة واللفظ للدّارَقُطْنِيّ عن عليّ رضي الله عنه
+  قال قال رسول الله صلى الله عليه وسلم:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" الدينار بالدينار والدرهم بالدرهم لا فَضْلَ بينهما من كانت له حاجة
+  بورقِ فلْيَصرِفْها بذهب وإن كانت له حاجةٌ بذهب فليصرفها بوَرِق هَاءَ وهَاء \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\">قال العلماء فقوله عليه السلام:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" الدينار بالدينار والدرهم بالدرهم
+  لا فضل بينهما \" </font></font></b><font class=\"TextResultArabic\"><font color=\"black\">إشارةٌ
+  إلى جنس الأصل المضروب؛ بدليل قوله:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" الفضة بالفضة والذهب بالذهب \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">الحديث. والفضة البيضاء والسوداء والذهب الأحمر والأصفر كل ذلك لا
+  يجوز بيع بعضه ببعض إلا مِثْلا بِمثل سواء بسواء على كل حال؛ على هذا جماعة أهل العلم
+  على ما بيّنا. واختلفت الرواية عن مالك في الفلوس فألحقها بالدراهم من حيث كانت ثمناً
+  للأشياء، ومنع من إلحاقها مرّة من حيث إنها ليست ثمناً في كل بلد وإنما يختص بها بلد
+  دون بلد.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">السادسة ـ لا اعتبار بما قد رُوي
+  عن كثير من أصحاب مالك وبعضهم يرويه عن مالك في التاجر يحفِزه الخروج وبه حاجة إلى
+  دراهمَ مضروبةٍ أو دنانيرَ مضروبةٍ، فيأتي دار الضرب بفضته أو ذهبه فيقول للضرّاب؛
+  خذ فضّتي هذه أو ذهبي وخذ قدر عمل يدك وادفع إليّ دنانير مضروبةً في ذهبي أو دراهمَ
+  مضروبةً في فضّتِي هذه لأني محفوز للخروج وأخاف أن يفوتني من أخرج معه، أن ذلك جائز
+  للضرورة، وأنه قد عمل به بعض الناس. وحكاه ابن العربيّ في قبسه عن مالك في غير التاجر،
+  وأن مالكاً خفّف في ذلك؛ فيكون في الصورة قد باع فضته التي زنتها مائة وخمسة دراهم
+  أجره بمائة وهذا محض الربا. والذي أوجب جواز ذلك أنه لو قال له: اضرب لي هذه وقاطعه
+  على ذلك بأُجرة، فلما ضربها قبضها منه وأعطاه أُجرتها؛ فالذي فعل مالك أوّلاً هو الذي
+  يكون آخراً، ومالك إنما نظر إلى المال فركّب عليه حكم الحال، وأباه سائر الفقهاء. قال
+  ابن العربيّ: والحجة فيه لمالك بيِّنة. قال أبو عمر رحمه الله: وهذا هو عين الرِّبا
+  الذي حرّمه رسول الله صلى الله عليه وسلم بقوله:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" من زاد أو ازداد فقد أرْبَى \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">وقد ردّ ابن وهب هذه المسألة على مالك وأنكرها. وزعم الأَبْهَرِيّ
+  أن ذلك من باب الرفق لطلب التجارة ولئلا يفوت السوق، وليس الربا إلا على من أراد أن
+  يُرْبِي ممن يقصد إلى ذلك ويبتغيه.</font></font>&#13;\t\t\t<label disabled=\"true\"
+  class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(5,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(5,4,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(5,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(5,2,1)\"><u>2</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">3 </font></td><td><a href=\"Javascript:InnerLink_onchange(5,4,1)\"><u>4</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(5,5,1)\"><u>5</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(5,6,1)\"><u>6</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(5,7,1)\"><u>7</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(5,8,1)\"><u>8</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(5,9,1)\"><u>9</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(5,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(5,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2,
+  275)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,275)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">ٱلَّذِينَ يَأْكُلُونَ ٱلرِّبَٰواْ لاَ يَقُومُونَ
+  إِلاَّ كَمَا يَقُومُ ٱلَّذِي يَتَخَبَّطُهُ ٱلشَّيْطَانُ مِنَ ٱلْمَسِّ ذَلِكَ بِأَنَّهُمْ
+  قَالُوۤاْ إِنَّمَا ٱلْبَيْعُ مِثْلُ ٱلرِّبَٰواْ وَأَحَلَّ ٱللَّهُ ٱلْبَيْعَ وَحَرَّمَ
+  ٱلرِّبَٰواْ فَمَن جَآءَهُ مَوْعِظَةٌ مِّنْ رَّبِّهِ فَٱنْتَهَىٰ فَلَهُ مَا سَلَفَ
+  وَأَمْرُهُ إِلَى ٱللَّهِ وَمَنْ عَادَ فَأُوْلَـٰئِكَ أَصْحَابُ ٱلنَّارِ هُمْ فِيهَا
+  خَالِدُونَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">يَمْحَقُ ٱللَّهُ ٱلرِّبَٰواْ وَيُرْبِي ٱلصَّدَقَٰتِ
+  وَٱللَّهُ لاَ يُحِبُّ كُلَّ كَفَّارٍ أَثِيمٍ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">إِنَّ ٱلَّذِينَ
+  آمَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ وَأَقَامُواْ ٱلصَّلَٰوةَ وَآتَوُاْ ٱلزَّكَٰوةَ
+  لَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلاَ خَوْفٌ عَلَيْهِمْ وَلاَ هُمْ يَحْزَنُونَ</a>
+  <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">يٰأَيُّهَا
+  ٱلَّذِينَ آمَنُواْ ٱتَّقُواْ ٱللَّهَ وَذَرُواْ مَا بَقِيَ مِنَ ٱلرِّبَٰواْ إِن كُنْتُمْ
+  مُّؤْمِنِينَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">فَإِن لَّمْ تَفْعَلُواْ فَأْذَنُواْ بِحَرْبٍ
+  مِّنَ ٱللَّهِ وَرَسُولِهِ وَإِنْ تُبْتُمْ فَلَكُمْ رُؤُوسُ أَمْوَٰلِكُمْ لاَ تَظْلِمُونَ
+  وَلاَ تُظْلَمُونَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">ونسي الأبهرِيّ أصله في قطع الذرائع،
+  وقوله فيمن باع ثوباً بنسِيئة وهو لا نيّة له في شرائه ثم يجده في السوق يباع: إنه
+  لا يجوز له ابتياعه منه بدون ما باعه به وإن لم يقصد إلى ذلك ولم يبتغه؛ ومثله كثير،
+  ولو لم يكن الربا إلا على مَن قصده ما حُرّم إلا على الفقهاء. وقد قال عمر: لا يتّجر
+  في سوقنا إلا من فَقُه وإلاّ أكل الربا. وهذا بيّن لمن رُزق الإنصاف وألْهِم رشده.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قلت: وقد بالغ مالك رحمه الله في منع الزيادة حتى جعل المتوهَّم كالمتحقق،
+  فمنع ديناراً ودرهماً بدينار ودرهم سَدّاً للذَّريعة وحَسْماً للتَوهُّمات؛ إذ لولا
+  توهَّم الزيادة لما تبادلا. وقد عُلّل منع ذلك بتعذر المماثلة عند التوزيع؛ فإنه يلزم
+  منه ذهب وفضة بذهب. وأوضح من هذا منعه التفاضل المعنويّ، وذلك أنه منع ديناراً من الذهب
+  العالي وديناراً من الذهب الدّون في مقابلة العالي وألغى الدون، وهذا من دقيق نظره
+  رحمه الله؛ فدل أن تلك الرواية عنه مُنْكَرة ولا تصح. والله أعلم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">السابعة ـ قال الخطّابيّ: التِّبْر قِطَع الذهب والفضة قبل أن تُضرَب
+  وتُطبع دراهم أو دنانير، واحدتها تِبْرة. والعَيْن: المضروب من الدراهم أو الدنانير.
+  وقد حَرّم رسول الله صلى الله عليه وسلم أن يباع مثقال ذهب عَيْنٍ بمثقالٍ وشيء من
+  تِبْرٍ غيرِ مضروب. وكذلك حَرّم التفاوت بين المضروب من الفضة وغير المضروب منها، وذلك
+  معنى قوله: «تِبْرُها وعَيْنُها سواء».</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">الثامنة
+  ـ أجمع العلماء على أن التمر بالتمر ولا يجوز إلا مِثْلاً بِمثْل. واختلفوا في بيع
+  التمرة الواحدة بالتمرتين، والحبة الواحدة من القمح بحبّتين؛ فمنعه الشافعيّ وأحمد
+  وإسحاق والثّوريّ، وهو قياس قولِ مالك وهو الصحيح؛ لأن ما جرى الرِّبَا فيه بالتفاضل
+  في كثيره دخل قليله في ذلك قياساً ونَظَراً. احتجّ من أجاز ذلك بأن مستهلك التمرة والتمرتين
+  لا تجب عليه القيمة، قال: لأنه لا مَكيل ولا موزون فجاز فيه التفاضل.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">التاسعة ـ اعلم رحمك الله أن مسائل هذا الباب كثيرة وفروعه منتشرة،
+  والذي يربط لك ذلك أن تنظر إلى ما اعتبره كل واحد من العلماء في عِلّة الربا؛ فقال
+  أبو حنيفة: علة ذلك كونه مكيلاً أو موزوناً جنساً، فكل ما يدخله الكيل أو الوزن عنده
+  من جنس واحد، فإن بيع بعضه ببعض متفاضلاً أو نَسِيئاً لا يجوز؛ فمنع بَيْع التراب بعضه
+  ببعض متفاضلاً؛ لأنه يدخله الكيل، وأجاز الخبزَ قُرْصاً بقرصين؛ لأنه لم يدخل عنده
+  في الكيل الذي هو أصله، فخرج من الجنس الذي يدخله الربا إلى ما عداه. وقال الشافعيّ:
+  العِلّة كونه مطعوماً جنْساً. هذا قوله في الجديد؛ فلا يجوز عنده بيع الدقيق بالخبز
+  ولا بيع الخبز بالخبز متفاضلاً ولا نسيئا، وسواء أكان الخبز خميراً أو فَطيراً.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(5,3,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(5,5,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(5,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(5,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(5,3,1)\"><u>3</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">4 </font></td><td><a href=\"Javascript:InnerLink_onchange(5,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(5,6,1)\"><u>6</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(5,7,1)\"><u>7</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(5,8,1)\"><u>8</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(5,9,1)\"><u>9</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(5,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(5,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2,
+  275)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,275)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">ٱلَّذِينَ يَأْكُلُونَ ٱلرِّبَٰواْ لاَ يَقُومُونَ
+  إِلاَّ كَمَا يَقُومُ ٱلَّذِي يَتَخَبَّطُهُ ٱلشَّيْطَانُ مِنَ ٱلْمَسِّ ذَلِكَ بِأَنَّهُمْ
+  قَالُوۤاْ إِنَّمَا ٱلْبَيْعُ مِثْلُ ٱلرِّبَٰواْ وَأَحَلَّ ٱللَّهُ ٱلْبَيْعَ وَحَرَّمَ
+  ٱلرِّبَٰواْ فَمَن جَآءَهُ مَوْعِظَةٌ مِّنْ رَّبِّهِ فَٱنْتَهَىٰ فَلَهُ مَا سَلَفَ
+  وَأَمْرُهُ إِلَى ٱللَّهِ وَمَنْ عَادَ فَأُوْلَـٰئِكَ أَصْحَابُ ٱلنَّارِ هُمْ فِيهَا
+  خَالِدُونَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">يَمْحَقُ ٱللَّهُ ٱلرِّبَٰواْ وَيُرْبِي ٱلصَّدَقَٰتِ
+  وَٱللَّهُ لاَ يُحِبُّ كُلَّ كَفَّارٍ أَثِيمٍ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">إِنَّ ٱلَّذِينَ
+  آمَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ وَأَقَامُواْ ٱلصَّلَٰوةَ وَآتَوُاْ ٱلزَّكَٰوةَ
+  لَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلاَ خَوْفٌ عَلَيْهِمْ وَلاَ هُمْ يَحْزَنُونَ</a>
+  <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">يٰأَيُّهَا
+  ٱلَّذِينَ آمَنُواْ ٱتَّقُواْ ٱللَّهَ وَذَرُواْ مَا بَقِيَ مِنَ ٱلرِّبَٰواْ إِن كُنْتُمْ
+  مُّؤْمِنِينَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">فَإِن لَّمْ تَفْعَلُواْ فَأْذَنُواْ بِحَرْبٍ
+  مِّنَ ٱللَّهِ وَرَسُولِهِ وَإِنْ تُبْتُمْ فَلَكُمْ رُؤُوسُ أَمْوَٰلِكُمْ لاَ تَظْلِمُونَ
+  وَلاَ تُظْلَمُونَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">ولا يجوز عنده بيضة ببيضتين، ولا
+  رُمّانة برمانتين، ولا بطيخة ببطيختين لا يداً بِيَد ولا نسيئة؛ لأن ذلك كله طعام مأكول.
+  وقال في القديم: كونه مكيلاً أو موزوناً. واختلفت عبارات أصحابنا المالكية في ذلك؛
+  وأحسن ما في ذلك كونه مقتاتاً مدّخراً للعيش غالباً جنساً؛ كالحنطة والشعير والتّمْر
+  والملح المنصوص عليها، وما في معناها كالأرز والذرة والدّخْن والسِّمْسِم، والقَطَانِيّ
+  كالفول والعَدَس واللُّوبْياء والحِمّص، وكذلك اللحوم والألبان والخلول والزيوت، والثمار
+  كالعنب والزبيب والزيتون، واختُلف في التين، ويلحق بها العسل والسكر. فهذا كله يدخله
+  الربا من جهة النَّسَاء. وجائز فيه التفاضل لقوله عليه السلام:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" إذا اختلفت هذه الأصناف فبيعوا
+  كيف شئتم إذا كان يداً بيد \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">ولا ربا في رطب الفواكه التي لا تبقى كالتفّاح والبطّيخ والرُّمان
+  والكُمِّثْرى والقِثّاء والخيار والباذَنْجان وغير ذلك من الخضروات. قال مالك: لا يجوز
+  بيع البيض بالبيض متفاضلاً؛ لأنه مما يدّخر، ويجوز عنده مِثْلاً بمثْل. وقال محمد بن
+  عبد الله بن عبد الحكم: جائزٌ بيضة ببيضتين وأكثر؛ لأنه مما لا يدّخر، وهو قول الأُوزاعيّ.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">العاشرة ـ اختلف النّحاة في لفظ «الرِّبا» فقال البصريون: هو من ذوات
+  الواو؛ لأنك تقول في تثنيته: رِبَوان؛ قاله سيبويه. وقال الكوفيون: يكتب بالياء، وتثنيته
+  بالياء؛ لأجل الكسرة التي في أوّله. قال الزجاج: ما رأيت خطأ أقبح من هذا ولا أشنع!
+  لا يكفيهم الخطأ في الخط حتى يُخطئوا في التثنية وهم يقرءون</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">وَمَآ آتَيْتُمْ مِّن رِّباً لِّيَرْبُوَ
+  فِي أَمْوَالِ ٱلنَّاسِ</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">[الروم: 39] قال محمد بن يزيد: كُتب «الربا» في المصحف بالواو فرقاً
+  بينه وبين الزنا، وكان الربا أولى منه بالواو؛ لأنه من ربا يربو.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">الحادية عشرة ـ قوله تعالى: { لاَ يَقُومُونَ إِلاَّ كَمَا يَقُومُ
+  ٱلَّذِي يَتَخَبَّطُهُ ٱلشَّيْطَانُ مِنَ ٱلْمَسِّ } الجملة خبر الابتداء وهو «الَّذِينَ».
+  والمعنى من قبورهم؛ قاله ابن عباس ومجاهد وابن جُبير وقَتادة والربيع والضّحاك والسُّدِّي
+  وابن زيد. وقال بعضهم: يجعل معه شيطان يخنقه. وقالوا كلهم: يُبعث كالمجنون عقوبةً له
+  وتمقِيتاً عند جميع أهل المَحْشَر. ويُقوِّي هذا التأويل المُجْمَع عليه أن في قراءة
+  ابن مسعود «لا يقومون يوم القيامة إلا كما يقوم». قال ابن عطية: وأما ألفاظ الآية فكانت
+  تحتمل تشبيه حال القائم بِحرْص وجَشَع إلى تجارة الدنيا بقيام المجنون، لأن الطمع والرغبة
+  تستفِزّه حتى تضطرب أعضاؤه؛ وهذا كما تقول لمسرع في مشيه يخلط في هيئة حركاته إما مِن
+  فزع أو غيره: قد جُنّ هذا! وقد شبّه الأَعْشَى ناقته في نشاطها بالجنون في قوله:</font></font><table
+  class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">وتُصبِح عن غِبّ السُّرَى وكأنّما</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">أَلَمَّ بها من طائِف الجِنّ أوْلَقُ</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال آخر:</font></font><table class=\"TextArabic\"
+  dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">لَعَمْـرُك بـي مـن حُـبِّ أسمـاءَ أَوْلَـقُ</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\"/></font></b></td></tr></table><font class=\"TextResultArabic\"><font
+  color=\"black\">لكن ما جاءت به قراءة ابن مسعود وتظاهرت به أقوال المفسرين يضعّف هذا
+  التأويل.</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(5,4,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(5,6,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(5,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(5,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(5,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(5,4,1)\"><u>4</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">5 </font></td><td><a href=\"Javascript:InnerLink_onchange(5,6,1)\"><u>6</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(5,7,1)\"><u>7</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(5,8,1)\"><u>8</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(5,9,1)\"><u>9</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(5,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(5,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2,
+  275)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,275)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">ٱلَّذِينَ يَأْكُلُونَ ٱلرِّبَٰواْ لاَ يَقُومُونَ
+  إِلاَّ كَمَا يَقُومُ ٱلَّذِي يَتَخَبَّطُهُ ٱلشَّيْطَانُ مِنَ ٱلْمَسِّ ذَلِكَ بِأَنَّهُمْ
+  قَالُوۤاْ إِنَّمَا ٱلْبَيْعُ مِثْلُ ٱلرِّبَٰواْ وَأَحَلَّ ٱللَّهُ ٱلْبَيْعَ وَحَرَّمَ
+  ٱلرِّبَٰواْ فَمَن جَآءَهُ مَوْعِظَةٌ مِّنْ رَّبِّهِ فَٱنْتَهَىٰ فَلَهُ مَا سَلَفَ
+  وَأَمْرُهُ إِلَى ٱللَّهِ وَمَنْ عَادَ فَأُوْلَـٰئِكَ أَصْحَابُ ٱلنَّارِ هُمْ فِيهَا
+  خَالِدُونَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">يَمْحَقُ ٱللَّهُ ٱلرِّبَٰواْ وَيُرْبِي ٱلصَّدَقَٰتِ
+  وَٱللَّهُ لاَ يُحِبُّ كُلَّ كَفَّارٍ أَثِيمٍ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">إِنَّ ٱلَّذِينَ
+  آمَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ وَأَقَامُواْ ٱلصَّلَٰوةَ وَآتَوُاْ ٱلزَّكَٰوةَ
+  لَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلاَ خَوْفٌ عَلَيْهِمْ وَلاَ هُمْ يَحْزَنُونَ</a>
+  <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">يٰأَيُّهَا
+  ٱلَّذِينَ آمَنُواْ ٱتَّقُواْ ٱللَّهَ وَذَرُواْ مَا بَقِيَ مِنَ ٱلرِّبَٰواْ إِن كُنْتُمْ
+  مُّؤْمِنِينَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">فَإِن لَّمْ تَفْعَلُواْ فَأْذَنُواْ بِحَرْبٍ
+  مِّنَ ٱللَّهِ وَرَسُولِهِ وَإِنْ تُبْتُمْ فَلَكُمْ رُؤُوسُ أَمْوَٰلِكُمْ لاَ تَظْلِمُونَ
+  وَلاَ تُظْلَمُونَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">و «يَتَخَبَّطُهُ» يتفعّله من خَبَط
+  يخبِط؛ كما تقول: تملّكه وتعبّده. فجعل الله هذه العلامة لأكَلَة الربا؛ وذلك أنه أرباه
+  في بطونهم فأثقلهم، فهم إذا خرجوا من قبورهم يقومون ويسقطون. ويقال: إنهم يبعثون يوم
+  القيامة قد انتفخت بطونهم كالحُبَالَى، وكلما قاموا سقطوا والناس يمشون عليهم. وقال
+  بعض العلماء: إنما ذلك شِعارٌ لهم يُعرفون به يوم القيامة ثم العذاب من وراء ذلك؛ كما
+  أن الغَالَّ يجيء بما غَلَّ يوم القيامة بشهرة يشهّر بها ثم العذاب من وراء ذلك. وقال
+  تعالى: «يَأْكُلُونَ» والمراد يكسبون الربا ويفعلونه. وإنما خَصّ الأكل بالذِّكر لأنه
+  أقوى مقاصد الإنسان في المال؛ ولأنه دالّ عى الجشع وهو أشدّ الحرص؛ يقال: رجل جَشِع
+  بيّن الجَشَع وقوم جَشِعون؛ قاله في المُجْمَل. فأُقيم هذا البعض من توابع الكسب مقام
+  الكسب كلّه؛ فاللباس والسكنى والادّخار والإنفاق على العيال داخل في قوله: { ٱلَّذِينَ
+  يَأْكُلُونَ }.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">الثانية عشرة ـ في هذه الآية دليل
+  على فساد إنكار من أنكر الصَّرْع من جهة الجِنّ، وزعم أنه من فِعل الطبائع، وأن الشيطان
+  لا يسلك في الإنسان ولا يكون منه مَسٌّ، وقد مضى الردّ عليهم فيما تقدّم من هذا الكتاب.
+  وقد روى النسائيّ عن أبي اليَسَر قال: كان رسول الله صلى الله عليه وسلم يدعو فيقول:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" اللّهم إني أعوذ بك من التّرَدِّي
+  والهدم والغرق والحريق وأعوذ بك أن يتخَبّطني الشيطان عند الموت وأعوذ بك أن أموت في
+  سبيلك مُدْبِراً وأعوذ بك أن أموت لَدِيغا \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">ورُوي من حديث محمد بن المُثَنَّى حدّثنا أبو داود حدّثنا همّام عن
+  قَتادة عن أنس عن النبيّ صلى الله عليه وسلم أنه كان يقول:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" اللَّهم إني أعوذ بك من الجنون والجُذام والبَرَص وسَيِّء الأسقام
+  \" </font></font></b><font class=\"TextResultArabic\"><font color=\"black\">والمس:
+  الجنون؛ يقال: مُسَّ الرّجلُ وأَلِسَ؛ فهو ممسوس ومألُوس إذا كان مجنوناً؛ وذلك علامة
+  الربا في الآخرة.</font></font><b><font class=\"TextResultArabic\"><font color=\"Red\">
+  \" وروي في حديث الإسراء: «فانطلق بي جبريل فمررت برجال كثير كل رجل منهم بطنه مثل
+  البيت الضَّخْم متصدين على سابلة آلِ فرعون وَآلُ فرعون يُعرضون على النار بُكْرَةً
+  وَعَشِيّاً فيُقْبِلون مثل الإبل المَهْيُومة يتخبّطون الحجارة والشجر لا يسمعون ولا
+  يعقلون فإذا أحسّ بهم أصحاب تلك البطون قاموا فتميل بهم بطونهم فيصرعون ثم يقوم أحدهم
+  فيميل به بطنه فيصرع فلا يستطيعون بَرَاحاً حتى يغشاهم آل فرعون فيطئونهم مقبلين ومدبرين
+  فذلك عذابهم في البَرْزَخ بين الدنيا والآخرة وآل فرعون يقولون اللهم لا تُقِمِ الساعة
+  أبداً؛ فإن الله تعالى يقول: { وَيَوْمَ تَقُومُ ٱلسَّاعَةُ أَدْخِلُوۤاْ آلَ فِرْعَوْنَ
+  أَشَدَّ ٱلْعَذَابِ } [غافر: 46] ـ قلت ـ يا جبريل من هؤلاء؟ قال: «هؤلاء الذين يأكلون
+  الربا لا يقومون إلا كما يقوم الذي يتخبّطه الشيطان من المسّ» \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\">والمسّ الجنون وكذلك الأَوْلَق والأُلْس
+  والرّود.</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(5,5,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(5,7,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(5,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(5,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(5,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(5,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(5,5,1)\"><u>5</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">6 </font></td><td><a href=\"Javascript:InnerLink_onchange(5,7,1)\"><u>7</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(5,8,1)\"><u>8</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(5,9,1)\"><u>9</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(5,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(5,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2,
+  275)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,275)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">ٱلَّذِينَ يَأْكُلُونَ ٱلرِّبَٰواْ لاَ يَقُومُونَ
+  إِلاَّ كَمَا يَقُومُ ٱلَّذِي يَتَخَبَّطُهُ ٱلشَّيْطَانُ مِنَ ٱلْمَسِّ ذَلِكَ بِأَنَّهُمْ
+  قَالُوۤاْ إِنَّمَا ٱلْبَيْعُ مِثْلُ ٱلرِّبَٰواْ وَأَحَلَّ ٱللَّهُ ٱلْبَيْعَ وَحَرَّمَ
+  ٱلرِّبَٰواْ فَمَن جَآءَهُ مَوْعِظَةٌ مِّنْ رَّبِّهِ فَٱنْتَهَىٰ فَلَهُ مَا سَلَفَ
+  وَأَمْرُهُ إِلَى ٱللَّهِ وَمَنْ عَادَ فَأُوْلَـٰئِكَ أَصْحَابُ ٱلنَّارِ هُمْ فِيهَا
+  خَالِدُونَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">يَمْحَقُ ٱللَّهُ ٱلرِّبَٰواْ وَيُرْبِي ٱلصَّدَقَٰتِ
+  وَٱللَّهُ لاَ يُحِبُّ كُلَّ كَفَّارٍ أَثِيمٍ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">إِنَّ ٱلَّذِينَ
+  آمَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ وَأَقَامُواْ ٱلصَّلَٰوةَ وَآتَوُاْ ٱلزَّكَٰوةَ
+  لَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلاَ خَوْفٌ عَلَيْهِمْ وَلاَ هُمْ يَحْزَنُونَ</a>
+  <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">يٰأَيُّهَا
+  ٱلَّذِينَ آمَنُواْ ٱتَّقُواْ ٱللَّهَ وَذَرُواْ مَا بَقِيَ مِنَ ٱلرِّبَٰواْ إِن كُنْتُمْ
+  مُّؤْمِنِينَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">فَإِن لَّمْ تَفْعَلُواْ فَأْذَنُواْ بِحَرْبٍ
+  مِّنَ ٱللَّهِ وَرَسُولِهِ وَإِنْ تُبْتُمْ فَلَكُمْ رُؤُوسُ أَمْوَٰلِكُمْ لاَ تَظْلِمُونَ
+  وَلاَ تُظْلَمُونَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">الثالثة عشرة ـ قوله تعالى: { ذَلِكَ
+  بِأَنَّهُمْ قَالُوۤاْ إِنَّمَا ٱلْبَيْعُ مِثْلُ ٱلرِّبَا } معناه عند جميع المتأوّلين
+  في الكفار، ولهم قيل: «فَلَهُ مَا سَلَفَ» ولا يقال ذلك لمؤمن عاص بل ينقض بيعه ويرد
+  فعله وإن كان جاهلاً؛ فلذلك قال صلى الله عليه وسلم:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" مَن عمل عَملاً ليس عليه أمرُنا فهو رَدٌّ \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\">لكن قد يأخذ العصاة في الربا بطرف
+  من وعيد هذه الآية.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">الرابعة عشرة ـ قوله تعالى: { إِنَّمَا
+  ٱلْبَيْعُ مِثْلُ ٱلرِّبَا } أي إنما الزيادة عند حلول الأجل آخراً كمثل أصل الثمن
+  في أوّل العقد، وذلك أن العرب كانت لا تعرف ربا إلا ذلك؛ فكانت إذا حلّ ديْنها قالت
+  للغريم: إما أن تَقْضِي وإما أن تُرْبِي، أي تزيد في الدَّين. فحرم الله سبحانه ذلك
+  وردّ عليهم قولهم بقوله الحق: { وَأَحَلَّ ٱللَّهُ ٱلْبَيْعَ وَحَرَّمَ ٱلرِّبَا }
+  وأوضح أن الأجل إذا حلّ ولم يكن عنده ما يؤدّي أُنْظِر إلى المَيْسرة. وهذا الربا هو
+  الذي نسخه النبيّ صلى الله عليه وسلم بقوله يوم عرفة لمّا قال:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" ألا إن كل رباً موضوع وإن أوّل
+  رِبا أضعه رِبانا رِبَا عباس بن عبد المطلب فإنه موضوع كله \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\">فبدأ صلى الله عليه وسلم بعمِّه
+  وأخص الناس به. وهذا من سنن العدل للإمام أن يُفيض العدل على نفسه وخاصته فيستفيض حينئذ
+  في الناس.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">الخامسة عشرة ـ قوله تعالى: { وَأَحَلَّ
+  ٱللَّهُ ٱلْبَيْعَ وَحَرَّمَ ٱلرِّبَا } هذا من عموم القرآن، والألف واللام للجنس لا
+  للعهد إذ لم يتقدّم بيع مذكور يُرجع إليه؛ كما قال تعالى: { وَٱلْعَصْرِ إِنَّ ٱلإِنسَانَ
+  لَفِى خُسْرٍ } ثم استثنى</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">إِلاَّ ٱلَّذِينَ آمَنُواْ وَعَمِلُواْ ٱلصَّالِحَاتِ</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[العصر:
+  2]. وإذا ثبت أن البيع عام فهو مخصّص بما ذكرناه من الربا وغير ذلك مما نُهي عنه ومنع
+  العقد عليه؛ كالخمر والميتة وحبلَ الحَبَلة وغير ذلك مما هو ثابت في السُّنُّة وإجماع
+  الأُمة النَّهيُ عنه. ونظيره «ٱقْتُلُوا الْمُشْرِكِينَ» وسائر الظواهر التي تقتضي
+  العمومات ويدخلها التخصيص، وهذا مذهب أكثر الفقهاء. وقال بعضهم: هو من مجمل القرآن
+  الذي فسّر بالمحلّل من البيع وبالمحرّم فلا يمكن أن يُستعمَل في إحلال البيع وتحريمه
+  إلا أن يقترن به بيانٌ من سُنَّة الرسول صلى الله عليه وسلم، وإن دلّ على إباحة البيوع
+  في الجملة دون التفصيل. هذا فرق ما بين العموم والمُجْمَل. فالعموم يدل على إباحة البيوع
+  في الجملة والتفصيل ما لم يخصّ بدليل. والمجمل لا يدل على إباحتها في التفصيل حتى يقترن
+  به بيان. والأوّل أصح. والله أعلم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">السادسة
+  عشرة ـ البيع في اللغة مصدر باع كذا بكذا، أي دفع عِوضاً وأخذ مُعَوَّضاً. وهو يقتضي
+  بائعاً وهو المالك أو من ينَزّل منزلته، ومُبتاعاً وهو الذي يبذل الثمن، ومَبيعاً وهو
+  المثمون وهو الذي يُبْذَل في مقابلته الثمن.</font></font>&#13;\t\t\t<label disabled=\"true\"
+  class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(5,6,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(5,8,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(5,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(5,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(5,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(5,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(5,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(5,6,1)\"><u>6</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">7 </font></td><td><a href=\"Javascript:InnerLink_onchange(5,8,1)\"><u>8</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(5,9,1)\"><u>9</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(5,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(5,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2,
+  275)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,275)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">ٱلَّذِينَ يَأْكُلُونَ ٱلرِّبَٰواْ لاَ يَقُومُونَ
+  إِلاَّ كَمَا يَقُومُ ٱلَّذِي يَتَخَبَّطُهُ ٱلشَّيْطَانُ مِنَ ٱلْمَسِّ ذَلِكَ بِأَنَّهُمْ
+  قَالُوۤاْ إِنَّمَا ٱلْبَيْعُ مِثْلُ ٱلرِّبَٰواْ وَأَحَلَّ ٱللَّهُ ٱلْبَيْعَ وَحَرَّمَ
+  ٱلرِّبَٰواْ فَمَن جَآءَهُ مَوْعِظَةٌ مِّنْ رَّبِّهِ فَٱنْتَهَىٰ فَلَهُ مَا سَلَفَ
+  وَأَمْرُهُ إِلَى ٱللَّهِ وَمَنْ عَادَ فَأُوْلَـٰئِكَ أَصْحَابُ ٱلنَّارِ هُمْ فِيهَا
+  خَالِدُونَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">يَمْحَقُ ٱللَّهُ ٱلرِّبَٰواْ وَيُرْبِي ٱلصَّدَقَٰتِ
+  وَٱللَّهُ لاَ يُحِبُّ كُلَّ كَفَّارٍ أَثِيمٍ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">إِنَّ ٱلَّذِينَ
+  آمَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ وَأَقَامُواْ ٱلصَّلَٰوةَ وَآتَوُاْ ٱلزَّكَٰوةَ
+  لَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلاَ خَوْفٌ عَلَيْهِمْ وَلاَ هُمْ يَحْزَنُونَ</a>
+  <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">يٰأَيُّهَا
+  ٱلَّذِينَ آمَنُواْ ٱتَّقُواْ ٱللَّهَ وَذَرُواْ مَا بَقِيَ مِنَ ٱلرِّبَٰواْ إِن كُنْتُمْ
+  مُّؤْمِنِينَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">فَإِن لَّمْ تَفْعَلُواْ فَأْذَنُواْ بِحَرْبٍ
+  مِّنَ ٱللَّهِ وَرَسُولِهِ وَإِنْ تُبْتُمْ فَلَكُمْ رُؤُوسُ أَمْوَٰلِكُمْ لاَ تَظْلِمُونَ
+  وَلاَ تُظْلَمُونَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">وعلى هذا فأركان البيع أربعة: البائع
+  والمبتاع والثمن والمُثَمَّن. ثم المعاوضة عند العرب تختلف بحسب اختلاف ما يضاف إليه؛
+  فإن كان أحد المعوّضين في مقابلة الرَّقبة سُمّي بيعاً، وإن كان في مقابلة منفعة رقبة
+  فإن كانت منفعة بُضع سُمّيَ نكاحاً، وإن كانت منفعة غيرها سُمّيَ إجارة، وإن كان عَيْناً
+  بعين فهو بيع النقد وهو الصرف، وإن كان بديْن مُؤَجّل فهو السَّلَم، وسيأتي بيانه في
+  آية الدَّين. وقد مضى حكم الصَّرْف، ويأتي حكم الإجارة في «القصص» وحكم المهر في النكاح
+  في «النساء» كلّ في موضعه إن شاء الله تعالى.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">السابعة
+  عشرة ـ البيع قبولٌ وإيجاب يقع باللفظ المستقبل والماضي؛ فالماضي فيه حقيقة والمستقبل
+  كناية، ويقع بالصّريح والكناية المفهوم منها نقل المِلك. فسواء قال: بعتك هذه السِّلعة
+  بعشرة فقال: اشتريتها، أو قال المشتري: اشتريتها وقال البائع: بعْتُكَها، أو قال البائع:
+  أنا أبيعك بعشرة فقال المشتري: أنا أشتري أو قد اشتريت، وكذلك لو قال: خذها بعشرة أو
+  أعطيتكها أو دونكها أو بُورك لك فيها بعشرة أو سلمتها إليك ـ وهما يريدان البيع ـ فذلك
+  كلّه بيع لازم. ولو قال البائع: بعتك بعشرة ثم رجع قبل أن يقبل المشتري فقد قال: ليس
+  له أن يرجع حتى يسمع قبول المشتري أو ردّه؛ لأنه قد بذل ذلك من نفسه وأوجبه عليها،
+  وقد قال ذلك له؛ لأن العقد لم يتم عليه. ولو قال البائع: كنت لاعباً، فقد اختلفت الرواية
+  عنه؛ فقال مرّة: يلزمه البيع ولا يلتفت إلى قوله. وقال مرّة: ينظر إلى قيمة السلعة.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">فإن كان الثمن يشبه قيمتها فالبيع لازم، وإن كان متفاوتاً كعبد بدرهم
+  ودار بدينار، عُلم أنه لم يُرد به البيع، وإنما كان هازلاً فلم يلزمه.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">الثامنة عشرة ـ قوله تعالى: { وَحَرَّمَ ٱلرِّبَا } الألف واللام هنا
+  للعهد، وهو ما كانت العرب تفعله كما بيّناه، ثم تتناول ما حرمه رسول الله صلى الله
+  عليه وسلم ونهى عنه من البيع الذي يدخله الربا وما في معناه من البيوع المنهيّ عنها.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">التاسعة عشرة ـ عقد الربا مفسوخ لا يجوز بحال؛ لما رواه الأئمة واللفظ
+  لمسلم عن أبي سعيد الخُدْرِيّ قال:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" جاء بلال بتمر بَرْنِيّ فقال له رسول الله صلى الله عليه وسلم: «من
+  أين هذا»؟ فقال بلال: من تمرٍ كان عندنا رديء، فبعت منه صاعين بصاع لمَطْعَم النبيّ
+  صلى الله عليه وسلم؛ فقال رسول الله صلى الله عليه وسلم عند ذلك: «أَوْهِ عَيْنُ الرِّبَا
+  لا تفعل ولكن إذا أردت أن تشتريَ التمر فبعه ببيع آخر ثم ٱشتر به» \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\">وفي رواية</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" هذا الرِّبا فردّوه ثم بيعوا تمرنا
+  واشتروا لنا من هذا \" </font></font></b><font class=\"TextResultArabic\"><font color=\"black\">قال
+  علماؤنا: فقوله؛ «أوهِ عين الربا» أي هو الربا المحرّم نفسه لا ما يشبهه.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(5,7,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(5,9,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(5,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(5,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(5,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(5,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(5,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(5,6,1)\"><u>6</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(5,7,1)\"><u>7</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">8 </font></td><td><a href=\"Javascript:InnerLink_onchange(5,9,1)\"><u>9</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(5,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(5,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2,
+  275)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,275)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">ٱلَّذِينَ يَأْكُلُونَ ٱلرِّبَٰواْ لاَ يَقُومُونَ
+  إِلاَّ كَمَا يَقُومُ ٱلَّذِي يَتَخَبَّطُهُ ٱلشَّيْطَانُ مِنَ ٱلْمَسِّ ذَلِكَ بِأَنَّهُمْ
+  قَالُوۤاْ إِنَّمَا ٱلْبَيْعُ مِثْلُ ٱلرِّبَٰواْ وَأَحَلَّ ٱللَّهُ ٱلْبَيْعَ وَحَرَّمَ
+  ٱلرِّبَٰواْ فَمَن جَآءَهُ مَوْعِظَةٌ مِّنْ رَّبِّهِ فَٱنْتَهَىٰ فَلَهُ مَا سَلَفَ
+  وَأَمْرُهُ إِلَى ٱللَّهِ وَمَنْ عَادَ فَأُوْلَـٰئِكَ أَصْحَابُ ٱلنَّارِ هُمْ فِيهَا
+  خَالِدُونَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">يَمْحَقُ ٱللَّهُ ٱلرِّبَٰواْ وَيُرْبِي ٱلصَّدَقَٰتِ
+  وَٱللَّهُ لاَ يُحِبُّ كُلَّ كَفَّارٍ أَثِيمٍ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">إِنَّ ٱلَّذِينَ
+  آمَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ وَأَقَامُواْ ٱلصَّلَٰوةَ وَآتَوُاْ ٱلزَّكَٰوةَ
+  لَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلاَ خَوْفٌ عَلَيْهِمْ وَلاَ هُمْ يَحْزَنُونَ</a>
+  <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">يٰأَيُّهَا
+  ٱلَّذِينَ آمَنُواْ ٱتَّقُواْ ٱللَّهَ وَذَرُواْ مَا بَقِيَ مِنَ ٱلرِّبَٰواْ إِن كُنْتُمْ
+  مُّؤْمِنِينَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">فَإِن لَّمْ تَفْعَلُواْ فَأْذَنُواْ بِحَرْبٍ
+  مِّنَ ٱللَّهِ وَرَسُولِهِ وَإِنْ تُبْتُمْ فَلَكُمْ رُؤُوسُ أَمْوَٰلِكُمْ لاَ تَظْلِمُونَ
+  وَلاَ تُظْلَمُونَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">وقوله: «فردّوه» يدل على وجوب فسخ
+  صفقة الربا وأنها لا تصح بوجه؛ وهو قول الجمهور؛ خلافاً لأبي حنيفة حيث يقول: إنّ بيع
+  الربا جائز بأصله من حيث هو بيع، ممنوع بوصفه من حيث هو رِباً، فيسقط الربا ويصح البيع.
+  ولو كان على ما ذُكر لما فسخ النبيّ صلى الله عليه وسلم هذه الصفقة، ولأمره بردّ الزيادة
+  على الصاع ولصحّح الصفقة في مقابلة الصاع.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">الموفية
+  عشرين ـ كل ما كان من حرام بيّن ففُسخ فعلى المبتاع ردّ السلعة بعينها. فإن تلفت بيده
+  ردّ القيمة فيما له القيمة، وذلك كالعقار والعُروض والحيوان، والمِثْل فيما له مِثل
+  من موزون أو مكيل من طعام أو عَرَض. قال مالك: يُردّ الحرام البيّن فات أو لم يفت،
+  وما كان مما كره الناس رُدّ إلاّ أن يفوت فيترك.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">الحادية
+  والعشرون ـ قوله تعالى: { فَمَن جَآءَهُ مَوْعِظَةٌ مِّنْ رَّبِّهِ } قال جعفر بن محمد
+  الصّادق رحمهما الله: حرّم الله الربا ليتقارض الناس. وعن ابن مسعود عن النبيّ صلى
+  الله عليه وسلم قال:</font></font><b><font class=\"TextResultArabic\"><font color=\"Red\">
+  \" قَرْضُ مرّتين يعدل صدقة مرّة \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">أخرجه البزّار، وقد تقدّم هذا المعنى مستوفًى. وقال بعض الناس: حرمه
+  الله لأنه مَتْلَفة للأموال مَهْلَكة للناس. وسقطت علامة التأنيث في قوله تعالى: «فَمَنْ
+  جَاءَهُ» لأن تأنيث «الموعظة» غير حقيقي وهو بمعنى وعظ. وقرأ الحسن «فمن جاءته» بإثبات
+  العلامة.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">هذه الآية تلتها عائشة لمّا أخبرت
+  بفعل زيد بن أَرْقَم. روى الدَّارَقُطْنِي عن العالية بنت أنفع قالت: خرجت أنا وأُم
+  مُحِبّة إلى مكة فدخلنا على عائشة رضي الله عنها فسلمنا عليها، فقالت لنا: ممن أنتن؟
+  قلنا من أهل الكوفة، قالت: فكأنها أعرضت عنا، فقالت لها أُم مُحِبّة: يا أُمّ المؤمنين!
+  كانت لي جارية وإني بعتها من زيد ابن أرقم الأنصاريّ بثمانمائة درهم إلى عطائه وإنه
+  أراد بيعها فابتعتها منه بستمائة درهم نقداً. قالت: فأقبلت علينا فقالت: بئسما شريتِ
+  وما اشتريت! فأبلغي زيداً أنه قد أبطل جهاده مع رسول الله صلى الله عليه وسلم إلا أن
+  يتوب. فقالت لها: أرأيت إن لم آخذ منه إلا رأس مالي؟ قالت: { فَمَن جَآءَهُ مَوْعِظَةٌ
+  مِّنْ رَّبِّهِ فَٱنْتَهَىٰ فَلَهُ مَا سَلَفَ }. العالية هي زوج أبي إسحاق الهَمْدانيّ
+  الكوفي السَّبيعيّ أم يونس بن أبي إسحاق. وهذا الحديث أخرجه مالك من رواية ابن وهب
+  عنه في بيوع الآجال، فإن كان منها ما يؤدّي إلى الوقوع في المحظور منع منه وإن كان
+  ظاهره بيعاً جائزاً. وخالف مالكاً في هذا الأصل جمهورُ الفقهاء وقالوا: الأحكام مبنيّة
+  على الظاهر لا على الظنون. ودليلنا القول بسدّ الذرائع؛ فإن سلِّم وإلا استدللنا على
+  صحته. وقد تقدّم. وهذا الحديث نصٌّ؛ ولا تقول عائشة «أبلغي زيداً أنه قد أبطل جهاده
+  إلا أن يتوب» إلا بتوقيف؛ إذْ مثله لا يقال بالرأي فإن إبطال الأعمال لا يتوصل إلى
+  معرفتها إلا بالوحي كما تقدّم.</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(5,8,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(5,10,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(5,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(5,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(5,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(5,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(5,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(5,6,1)\"><u>6</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(5,7,1)\"><u>7</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(5,8,1)\"><u>8</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">9 </font></td><td><a href=\"Javascript:InnerLink_onchange(5,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(5,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2,
+  275)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,275)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">ٱلَّذِينَ يَأْكُلُونَ ٱلرِّبَٰواْ لاَ يَقُومُونَ
+  إِلاَّ كَمَا يَقُومُ ٱلَّذِي يَتَخَبَّطُهُ ٱلشَّيْطَانُ مِنَ ٱلْمَسِّ ذَلِكَ بِأَنَّهُمْ
+  قَالُوۤاْ إِنَّمَا ٱلْبَيْعُ مِثْلُ ٱلرِّبَٰواْ وَأَحَلَّ ٱللَّهُ ٱلْبَيْعَ وَحَرَّمَ
+  ٱلرِّبَٰواْ فَمَن جَآءَهُ مَوْعِظَةٌ مِّنْ رَّبِّهِ فَٱنْتَهَىٰ فَلَهُ مَا سَلَفَ
+  وَأَمْرُهُ إِلَى ٱللَّهِ وَمَنْ عَادَ فَأُوْلَـٰئِكَ أَصْحَابُ ٱلنَّارِ هُمْ فِيهَا
+  خَالِدُونَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">يَمْحَقُ ٱللَّهُ ٱلرِّبَٰواْ وَيُرْبِي ٱلصَّدَقَٰتِ
+  وَٱللَّهُ لاَ يُحِبُّ كُلَّ كَفَّارٍ أَثِيمٍ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">إِنَّ ٱلَّذِينَ
+  آمَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ وَأَقَامُواْ ٱلصَّلَٰوةَ وَآتَوُاْ ٱلزَّكَٰوةَ
+  لَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلاَ خَوْفٌ عَلَيْهِمْ وَلاَ هُمْ يَحْزَنُونَ</a>
+  <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">يٰأَيُّهَا
+  ٱلَّذِينَ آمَنُواْ ٱتَّقُواْ ٱللَّهَ وَذَرُواْ مَا بَقِيَ مِنَ ٱلرِّبَٰواْ إِن كُنْتُمْ
+  مُّؤْمِنِينَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION:
+  none\" href=\"JavaScript:Open_Menu()\">فَإِن لَّمْ تَفْعَلُواْ فَأْذَنُواْ بِحَرْبٍ
+  مِّنَ ٱللَّهِ وَرَسُولِهِ وَإِنْ تُبْتُمْ فَلَكُمْ رُؤُوسُ أَمْوَٰلِكُمْ لاَ تَظْلِمُونَ
+  وَلاَ تُظْلَمُونَ</a> <b>}</b></font>, <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font
+  class=\"TextResultArabic\"><font color=\"black\">وفي صحيح مسلم عن النُّعْمان بن
+  بَشير قال: سمعت رسول الله صلى الله عليه وسلم يقول:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" إن الحلالَ بيّن والحرامَ بيّن وبينهما أُمورٌ مشتبهات لا يعلمهنّ
+  كثيرٌ من الناس فمنِ ٱتّقى الشبهات استبرأ لدينه وعِرْضِه ومن وقع في الشُّبهات وقع
+  في الحرام كالراعي يرعى حول الحِمى يُوشِك أن يوقع فيه ألاَ وإن لكل مَلِكٍ حِمىً ألاَ
+  وإن حِمَى الله مَحَارِمه \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">وجهُ دلالته أنه منع من الإقدام على المتشابهات مخافة الوقوع في المحرّمات
+  وذلك سدٌّ للذريعة. وقال صلى الله عليه وسلم:</font></font><b><font class=\"TextResultArabic\"><font
+  color=\"Red\"> \" «إن من الكبائر شتْمَ الرجل والديه» قالوا: وكيف يشتم الرجل والديه؟
+  قال: «يسبّ أبا الرجل فيسبّ أباه ويسبُّ أُمَّه فيسب أُمه» \" </font></font></b><font
+  class=\"TextResultArabic\"><font color=\"black\">فجعل التعريض لسبّ الآباء كسب الآباء.
+  ولعن صلى الله عليه وسلم اليهود إذ أكلوا ثمن ما نُهُوا عن أكله. وقال أبو بكر في كتابه:
+  لا يجمع بين متفرّق ولا يفرّق بين مجتمع خشية الصدقة. ونهى ابن عباس عن دراهم بدراهم
+  بينهما جريرة. وٱتفق العلماء على منع الجمع بين بيع وسلف، وعلى تحريم قليل الخمر وإن
+  كان لا يُسْكر، وعلى تحريم الخَلْوة بالأجنبية وإن كان عِنِّيناً، وعلى تحريم النظر
+  إلى وجه المرأة الشابّة إلى غير ذلك مما يكثُر ويُعلم على القطع والثبات أن الشرع حكم
+  فيها بالمنع؛ لأنها ذرائع المحرّمات. والربا أحق ما حُمِيَتْ مراتعه وسُدّت طرائقه،
+  ومن أباح هذه الأسباب فليُبح حفر البئر ونصب الحبالات لهلاك المسلمين والمسلمات، وذلك
+  لا يقوله أحد. وأيضاً فقد اتّفقنا على منع من باع بالعِينة إذا عُرِف بذلك وكانت عادته،
+  وهي في معنى هذا الباب. والله الموفق للصواب.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">الثانية
+  والعشرون ـ روى أبو داود عن ابن عمر قال: سمعت رسول الله صلى الله عليه وسلم يقول:</font></font><b><font
+  class=\"TextResultArabic\"><font color=\"Red\"> \" إذا تبايعتم بالعِينةِ وأخذتم
+  أذنابَ البقر ورَضِيتم بالزَّرْع وتركتم الجهادَ سلّط الله عليكم ذُلاًّ لا ينزعه عنكم
+  حتى ترجعوا إلى دينكم \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">في إسناده أبو عبد الرحمن الخُرَاسانيّ. ليس بمشهور. وفسر أبو عُبَيْد
+  الهَرَوِيّ العِينةَ فقال: هي أن يبيع من رجل سِلعةً بثمن معلوم إلى أجلٍ مسمّى، ثم
+  يشتريها منه بأقل من الثمن الذي باعها به. قال: فإن اشترى بحضرة طالب العِينة سِلعة
+  من آخر بثمن معلوم وقبضها ثم باعها من طالب العِينة بثمن أكثر مما اشتراه إلى أجل مسمى،
+  ثم باعها المشتري من البائع الأوّل بالنقد بأقل من الثمن فهذه أيضاً عِينةٌ، وهي أهون
+  من الأُولى، وهو جائز عند بعضهم. وسمِّيت عينةً لحضور النقد لصاحب العِينة، وذلك أن
+  العَيْن هو المال الحاضر والمشتري إنما يشتريها ليبيعها بعين حاضر يصل إليه من فوره.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(5,9,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(5,11,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(5,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(5,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(5,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(5,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(5,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(5,6,1)\"><u>6</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(5,7,1)\"><u>7</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(5,8,1)\"><u>8</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(5,9,1)\"><u>9</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">10 </font></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(5,11,1)\">مزيد</a></td></tr></table></center></div></section>"
+

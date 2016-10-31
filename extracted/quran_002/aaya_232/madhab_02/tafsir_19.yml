@@ -1,0 +1,952 @@
+position:
+  sura: '002'
+  aaya: '232'
+  madhab: '02'
+  tafsir: '19'
+meta:
+  title: تفسير البحر المحيط
+  author: ابو حيان
+  year: '754'
+text: "<section><div align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\"
+  onmouseover=\"return menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\"
+  style=\"Border:2px darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding:
+  5px; LEFT: 330px; POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table
+  border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\"
+  class=\"TextArabic\">    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:ReadAyah_onclick()\">          <font id=\"ReadAyah\"
+  onmouseover=\"return menuit1_onmouseover()\">قراءة الآية</font>        </a>      </td>
+  \   </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:Open_QurPage(2, 231)\">          <font id=\"OpenQurPage\"
+  onmouseover=\"return menuit2_onmouseover()\">فتح صفحة القرآن</font>        </a>
+  \     </td>    </tr>    <tr class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">
+  \       <a href=\"javascript:go_QurPage(2,231)\">          <font id=\"getQurPage\"
+  onmouseover=\"return menuit3_onmouseover()\">الانتقال الى صفحة القرآن</font>        </a>
+  \     </td>    </tr>  </table></div>, <font id=\"AyahText\" class=\"TextAyah\"><b>{</b>
+  <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَإِذَا
+  طَلَّقْتُمُ ٱلنِّسَآءَ فَبَلَغْنَ أَجَلَهُنَّ فَأَمْسِكُوهُنَّ بِمَعْرُوفٍ أَوْ
+  سَرِّحُوهُنَّ بِمَعْرُوفٍ وَلاَ تُمْسِكُوهُنَّ ضِرَاراً لِّتَعْتَدُواْ وَمَن يَفْعَلْ
+  ذَلِكَ فَقَدْ ظَلَمَ نَفْسَهُ وَلاَ تَتَّخِذُوۤاْ آيَاتِ ٱللَّهِ هُزُواً وَٱذْكُرُواْ
+  نِعْمَتَ ٱللَّهِ عَلَيْكُمْ وَمَآ أَنزَلَ عَلَيْكُمْ مِّنَ ٱلْكِتَابِ وَٱلْحِكْمَةِ
+  يَعِظُكُمْ بِهِ وَٱتَّقُواْ ٱللَّهَ وَٱعْلَمُوۤاْ أَنَّ ٱللَّهَ بِكُلِّ شَيْءٍ عَلِيمٌ</a>
+  <b>} * </b><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَإِذَا
+  طَلَّقْتُمُ ٱلنِّسَآءَ فَبَلَغْنَ أَجَلَهُنَّ فَلاَ تَعْضُلُوهُنَّ أَن يَنكِحْنَ
+  أَزْوَاجَهُنَّ إِذَا تَرَاضَوْاْ بَيْنَهُمْ بِٱلْمَعْرُوفِ ذٰلِكَ يُوعَظُ بِهِ مَن
+  كَانَ مِنكُمْ يُؤْمِنُ بِٱللَّهِ وَٱلْيَوْمِ ٱلآخِرِ ذٰلِكُمْ أَزْكَىٰ لَكُمْ وَأَطْهَرُ
+  وَٱللَّهُ يَعْلَمُ وَأَنْتُمْ لاَ تَعْلَمُونَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَٱلْوَالِدَاتُ
+  يُرْضِعْنَ أَوْلاَدَهُنَّ حَوْلَيْنِ كَامِلَيْنِ لِمَنْ أَرَادَ أَن يُتِمَّ ٱلرَّضَاعَةَ
+  وَعلَى ٱلْمَوْلُودِ لَهُ رِزْقُهُنَّ وَكِسْوَتُهُنَّ بِٱلْمَعْرُوفِ لاَ تُكَلَّفُ
+  نَفْسٌ إِلاَّ وُسْعَهَا لاَ تُضَآرَّ وَالِدَةٌ بِوَلَدِهَا وَلاَ مَوْلُودٌ لَّهُ
+  بِوَلَدِهِ وَعَلَى ٱلْوَارِثِ مِثْلُ ذٰلِكَ فَإِنْ أَرَادَا فِصَالاً عَن تَرَاضٍ
+  مِّنْهُمَا وَتَشَاوُرٍ فَلاَ جُنَاحَ عَلَيْهِمَا وَإِنْ أَرَدتُّمْ أَن تَسْتَرْضِعُوۤاْ
+  أَوْلاَدَكُمْ فَلاَ جُنَاحَ عَلَيْكُمْ إِذَا سَلَّمْتُم مَّآ آتَيْتُم بِٱلْمَعْرُوفِ
+  وَٱتَّقُواْ ٱللَّهَ وَٱعْلَمُوۤاْ أَنَّ ٱللَّهَ بِمَا تَعْمَلُونَ بَصِيرٌ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">بلغ: يبلغ بلوغاً، وصل إلى الشيء، قال الشاعر:</font></font><table
+  class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">ومجر كغلاّن الأنيعم بالغ</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">دياراً لعدو ذي زهاء وأركان</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">والبلغة منه، والبلاغ الأصل، يقع
+  على المدة كلها وعلى آخرها.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">يقال لعمر الانسان: أجل: وللموت
+  الذي ينتهي: أجل، وكذلك الغاية والأمد.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">العضل:
+  المنع، عضل أيّمه منعها من الزوج يعضلها بكسر الضاد وضمها، قال ابن هرمة:</font></font><table
+  class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">وإن فضاء يدي لك فاصطنعني</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">كرائم قد عضلن عن النكاح</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">ويقال: دجاج معضل إذا احتبس بيضها،
+  قاله الخليل، وقال:</font></font><table class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">ونحن عضلنا
+  بالرماح نساءنا</font></font></b></td><td class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">وما فيكم عن حرمة الله عاضل</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">ويقال: أصله الضيق، عضلت المرأة
+  نشب الولد في بطنها، وعضلت الشاة وعضلت الأرض بالجيش ضاقت بهم؛ قال أوس:</font></font><table
+  class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">ترى الأرض منا بالفضاء مريضة</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">معضلة منا بجيش عرمرم</font></font></b></td></tr></table><font class=\"TextResultArabic\"><font
+  color=\"black\">وأعضل الداء الأطباء أعياهم، وداء عضال ضاق علاجه ولا يطاق، قالت ليلى
+  الأخيلية:</font></font><table class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">شفاها من
+  الداء العضال الذي بها</font></font></b></td><td class=\"TextArabic\">   </td><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">غلام إذا
+  هزَّ القناة سقاها</font></font></b></td></tr></table><font class=\"TextResultArabic\"><font
+  color=\"black\">وأعضل الأمر اشتدّ وضاق، وكل مشكل عند العرب معضل، وقال الشافعي رحمة
+  الله عليه:</font></font><table class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">إذا المعضلات
+  تصدينني</font></font></b></td><td class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">كشفت حقائقها بالنظر</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">الرضع: مص الثدي لشرب اللبن، يقال
+  منه: رضع يرضع رضعاً ورضاعاً ورضاعةً، وأرضعته أمّه ويقال، للئيم: راضع وذلك لشدّة
+  بخله لا يحلب الشاة مخافة أن يسمع منه الحلب، فيطلب منه اللبن، فيرضع ثدي الشاة حتى
+  لا يفطن به.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">الحول: السنة وأحول الشيء صار له
+  حول؛ قال الشاعر:</font></font><table class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">من القاصرات
+  الطرف لو دب محول</font></font></b></td><td class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">من الذرّ بفوق الأتب منها لأثَّرا</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">ويجمع على أحوال، والحول الحيلة،
+  وحال الشيء انقلب وتحوّل انتقل، ورجل حوّل كثير التقليب والتصرّف، وقد تقدّم أن حول
+  يكون ظرف مكان، تقول: زيد حولك وحواليك وحوالك وأحوالك، أي: فيما قرب منك من المكان.
+  الكسوة: اللباس يقال منه كسا يكسو، وفعله يتعدى إلى اثنين تقول: كسوت زيداً ثوباً،
+  وقد جاء متعدياً إلى واحد، قال الشاعر:</font></font><table class=\"TextArabic\" dir=\"rtl\"><tr
+  class=\"TextArabic\"><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">واركب في الروع خيفانة</font></font></b></td><td class=\"TextArabic\">   </td><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">كسا وجهها
+  سعف منتشر</font></font></b></td></tr></table><font class=\"TextResultArabic\"><font
+  color=\"black\">ضمنه معنى غطاء، فتعدى إلى واحد، ويقال: كسى الرجل فهو كاسٍ، قال الشاعر:</font></font><table
+  class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">وأن يعرين إن كسي الجواري</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\"/></font></b></td></tr></table><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال:</font></font><table class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">واقعد فإنك
+  أنت الطاعم الكاسي</font></font></b></td><td class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\"/></font></b></td></tr></table><font class=\"TextResultArabic\"><font
+  color=\"black\">التكليف: الإلزام وأصله من الكلف، وهو الأثر على الوجه من السواد،
+  فلان كلف بكذا أي مغرى به، وقال الشاعر:</font></font><table class=\"TextArabic\"
+  dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">يهدى بها كلف الخدين مختبر</font></font></b></td><td class=\"TextArabic\">   </td><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">من الجمال
+  كثير اللحم عيثوم</font></font></b></td></tr></table><font class=\"TextResultArabic\"><font
+  color=\"black\">الوارث: معروف يقال منه: ورث يرث بكسر الراء، وقياسها في المضارع الفتح،
+  ويقال: أرث وورث، ويقال: الإرث كما يقال ألده في ولده، والأصل الواو.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">الفصال: مصدر فصل فصلاً وفصالاً، وجمع فصيل، وهو المفطوم عن ثدي أمه،
+  وفصل بين الخصمين فرق فانفصلا، وفصلت العير خرجت، والمعنى فارقت مكانها، وفصيلة الرجل
+  أقرب الناس إليه، والفصيلة قطعة من لحم الفخذ، والتفصيل بمعنى التبيين،</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(19,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">1 </font></td><td><a href=\"Javascript:InnerLink_onchange(19,2,1)\"><u>2</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(19,3,1)\"><u>3</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(19,4,1)\"><u>4</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(19,5,1)\"><u>5</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(19,6,1)\"><u>6</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(19,7,1)\"><u>7</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(19,8,1)\"><u>8</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(19,9,1)\"><u>9</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(19,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(19,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2,
+  231)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,231)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَإِذَا طَلَّقْتُمُ ٱلنِّسَآءَ فَبَلَغْنَ أَجَلَهُنَّ
+  فَأَمْسِكُوهُنَّ بِمَعْرُوفٍ أَوْ سَرِّحُوهُنَّ بِمَعْرُوفٍ وَلاَ تُمْسِكُوهُنَّ
+  ضِرَاراً لِّتَعْتَدُواْ وَمَن يَفْعَلْ ذَلِكَ فَقَدْ ظَلَمَ نَفْسَهُ وَلاَ تَتَّخِذُوۤاْ
+  آيَاتِ ٱللَّهِ هُزُواً وَٱذْكُرُواْ نِعْمَتَ ٱللَّهِ عَلَيْكُمْ وَمَآ أَنزَلَ عَلَيْكُمْ
+  مِّنَ ٱلْكِتَابِ وَٱلْحِكْمَةِ يَعِظُكُمْ بِهِ وَٱتَّقُواْ ٱللَّهَ وَٱعْلَمُوۤاْ
+  أَنَّ ٱللَّهَ بِكُلِّ شَيْءٍ عَلِيمٌ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَإِذَا طَلَّقْتُمُ
+  ٱلنِّسَآءَ فَبَلَغْنَ أَجَلَهُنَّ فَلاَ تَعْضُلُوهُنَّ أَن يَنكِحْنَ أَزْوَاجَهُنَّ
+  إِذَا تَرَاضَوْاْ بَيْنَهُمْ بِٱلْمَعْرُوفِ ذٰلِكَ يُوعَظُ بِهِ مَن كَانَ مِنكُمْ
+  يُؤْمِنُ بِٱللَّهِ وَٱلْيَوْمِ ٱلآخِرِ ذٰلِكُمْ أَزْكَىٰ لَكُمْ وَأَطْهَرُ وَٱللَّهُ
+  يَعْلَمُ وَأَنْتُمْ لاَ تَعْلَمُونَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَٱلْوَالِدَاتُ
+  يُرْضِعْنَ أَوْلاَدَهُنَّ حَوْلَيْنِ كَامِلَيْنِ لِمَنْ أَرَادَ أَن يُتِمَّ ٱلرَّضَاعَةَ
+  وَعلَى ٱلْمَوْلُودِ لَهُ رِزْقُهُنَّ وَكِسْوَتُهُنَّ بِٱلْمَعْرُوفِ لاَ تُكَلَّفُ
+  نَفْسٌ إِلاَّ وُسْعَهَا لاَ تُضَآرَّ وَالِدَةٌ بِوَلَدِهَا وَلاَ مَوْلُودٌ لَّهُ
+  بِوَلَدِهِ وَعَلَى ٱلْوَارِثِ مِثْلُ ذٰلِكَ فَإِنْ أَرَادَا فِصَالاً عَن تَرَاضٍ
+  مِّنْهُمَا وَتَشَاوُرٍ فَلاَ جُنَاحَ عَلَيْهِمَا وَإِنْ أَرَدتُّمْ أَن تَسْتَرْضِعُوۤاْ
+  أَوْلاَدَكُمْ فَلاَ جُنَاحَ عَلَيْكُمْ إِذَا سَلَّمْتُم مَّآ آتَيْتُم بِٱلْمَعْرُوفِ
+  وَٱتَّقُواْ ٱللَّهَ وَٱعْلَمُوۤاْ أَنَّ ٱللَّهَ بِمَا تَعْمَلُونَ بَصِيرٌ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\"/></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">آيات مفصلات</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">[الأعراف: 133] وتفصيل كل شيء تبيينه،
+  وهو راجع لمعنى تفريق حكم من حكم، فيحصل به التبيين، ومدار هذه اللفظة على التفرقة
+  والتبعيد.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">التشاور: في اللغة هو استخراج الرأي،
+  من قولهم: شرت العسل أشوره إذا اجتنيته، والشورة والمشورة، وبضم العين وتنقل الحركة،
+  كالمعونة قال حاتم:</font></font><table class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">وليس على
+  ناري حجاب أكفها</font></font></b></td><td class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">لمقتبس ليلا ولكن أشيرها</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال أبو زيد: شرت الدابة وشورتها
+  أجريتها لاستخراج جريها، وكان مدار الكلمة على الإظهار، فكأن كل واحد من المشاورين
+  أظهر ما في قلبه للآخر، ومنه الشوار، وهو متاع البيت لظهوره للمناظر، وشارة الرجل هيئته
+  لأنها تظهر من زيه، وتبتدىء من زينته، وأورد بعضهم عند ذكر المادة هذه الإشارة فقال:
+  والإشارة هي إخراج ما في نفسك وإظهاره للمخاطب بالنطق وغيره. إنتهى. فإن كان هذا أراد
+  أنهما يتقاربان من حيث المعنى فصحيح، وإن أراد أنهما مشتركان في المادة فليس بصحيح،
+  وقد جرت هذه المسألة بين الأمير ابن الأغلب متولي أفريقية وبعض العلماء من أهل بلده،
+  كيف يقال إذا أشاروا إلى الهلال عند طلوعه؟ وبنوا من الإشارة تفاعلنا، فقال ابن الاغلب:
+  تشاورنا، وقال ذلك العالم تشايرنا، وسألوا قتيبة صاحب الكسائي، وكان قد أقدمه ابن الاغلب
+  من العراق إلى افريقية لتعليم أولاده، فقال له: كيف تبني من الإشارة: تفاعلنا؟ فقال:
+  تشايرنا. وأنشد للعرب بيتاً شاهداً على ذلك عجزه.</font></font><table class=\"TextArabic\"
+  dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">فيا حبذا يا عز ذاك التشاير</font></font></b></td><td class=\"TextArabic\">   </td><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\"/></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">فدل ذلك على اختلاف المادتين من
+  ذوات الياء، والمادة الأخرى من ذوات الواو.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">{
+  وإذا طلقتم النساء فبلغن أجلهنّ } نزلت في ثابت بن بشار، ويقال أسنان الأنصاري، طلق
+  امرأته حتى إذا بقي من عدّتها يومان أو ثلاثة، وكادت أن تبين راجعها، ثم طلقها ثم راجعها،
+  ثم طلقها حتى مضت سبعة أشهر مضارّة لها، ولم يكن الطلاق يومئذ محصوراً.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">والخطاب في: طلقتم ظاهره أنه للأزواج، وقيل: لثابت بن يسار، خوطب الواحد
+  بلفظ الجمع للاشتراك في الحكم وأبعد من قال: إن الخطاب للأولياء لقوله: { فأمسكوهنّ
+  بمعروف أو سرّحوهنّ بمعروف } ونسبة الطلاق والإمساك والتسريح للأولياء بعيد جداً.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">فبلغن أي: قاربن انقضاء العدة والأجل، هو الذي ضربه الله للمعتدّات
+  من الأقراء، والأشهر، ووضع الحمل. وأضاف الأجل إليهن لأنه أمس بهنّ، ولهذا قيل: الطلاق
+  للرجال والعدة للنساء، ولا يحمل: بلغن أجلهنّ على الحقيقة، لأن الإمساك إذ ذاك ليس
+  له، لأنها ليست بزوجة، إذ قد تقضت عدتها فلا سبيل له عليها.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">{
+  فأمسكوهنّ بمعروف } أي راجعوهنّ قبل انقضاء العدّة، وفسر المعروف بالإشهاد على الرجعة،
+  وقيل: بما يجب لها من حق عليه، قاله بعض العلماء، وهو قول عمر، وعلي، وأبي هريرة، وابن
+  المسيب، ومالك، والشافعي، وأحمد، واسحاق، وأبي عبيد، وأبي ثور، ويحيى القطان، وعبد
+  الرحمن بن مهدي، قالوا: الإمساك بمعروف هو أن ينفق عليها، فإن لم يجد طلقها، فإذا لم
+  يفعل خرج عن حدّ المعروف، فيطلق عليه الحاكم من أجل الضرر الذي يلحقها بإقامتها عند
+  من لا يقدر على نفقتها، حتى قال ابن المسيب: إن ذلك سنة.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(19,1,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(19,3,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(19,1,1)\"><u>1</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">2 </font></td><td><a href=\"Javascript:InnerLink_onchange(19,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(19,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(19,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(19,6,1)\"><u>6</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(19,7,1)\"><u>7</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(19,8,1)\"><u>8</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(19,9,1)\"><u>9</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(19,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(19,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2,
+  231)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,231)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَإِذَا طَلَّقْتُمُ ٱلنِّسَآءَ فَبَلَغْنَ أَجَلَهُنَّ
+  فَأَمْسِكُوهُنَّ بِمَعْرُوفٍ أَوْ سَرِّحُوهُنَّ بِمَعْرُوفٍ وَلاَ تُمْسِكُوهُنَّ
+  ضِرَاراً لِّتَعْتَدُواْ وَمَن يَفْعَلْ ذَلِكَ فَقَدْ ظَلَمَ نَفْسَهُ وَلاَ تَتَّخِذُوۤاْ
+  آيَاتِ ٱللَّهِ هُزُواً وَٱذْكُرُواْ نِعْمَتَ ٱللَّهِ عَلَيْكُمْ وَمَآ أَنزَلَ عَلَيْكُمْ
+  مِّنَ ٱلْكِتَابِ وَٱلْحِكْمَةِ يَعِظُكُمْ بِهِ وَٱتَّقُواْ ٱللَّهَ وَٱعْلَمُوۤاْ
+  أَنَّ ٱللَّهَ بِكُلِّ شَيْءٍ عَلِيمٌ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَإِذَا طَلَّقْتُمُ
+  ٱلنِّسَآءَ فَبَلَغْنَ أَجَلَهُنَّ فَلاَ تَعْضُلُوهُنَّ أَن يَنكِحْنَ أَزْوَاجَهُنَّ
+  إِذَا تَرَاضَوْاْ بَيْنَهُمْ بِٱلْمَعْرُوفِ ذٰلِكَ يُوعَظُ بِهِ مَن كَانَ مِنكُمْ
+  يُؤْمِنُ بِٱللَّهِ وَٱلْيَوْمِ ٱلآخِرِ ذٰلِكُمْ أَزْكَىٰ لَكُمْ وَأَطْهَرُ وَٱللَّهُ
+  يَعْلَمُ وَأَنْتُمْ لاَ تَعْلَمُونَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَٱلْوَالِدَاتُ
+  يُرْضِعْنَ أَوْلاَدَهُنَّ حَوْلَيْنِ كَامِلَيْنِ لِمَنْ أَرَادَ أَن يُتِمَّ ٱلرَّضَاعَةَ
+  وَعلَى ٱلْمَوْلُودِ لَهُ رِزْقُهُنَّ وَكِسْوَتُهُنَّ بِٱلْمَعْرُوفِ لاَ تُكَلَّفُ
+  نَفْسٌ إِلاَّ وُسْعَهَا لاَ تُضَآرَّ وَالِدَةٌ بِوَلَدِهَا وَلاَ مَوْلُودٌ لَّهُ
+  بِوَلَدِهِ وَعَلَى ٱلْوَارِثِ مِثْلُ ذٰلِكَ فَإِنْ أَرَادَا فِصَالاً عَن تَرَاضٍ
+  مِّنْهُمَا وَتَشَاوُرٍ فَلاَ جُنَاحَ عَلَيْهِمَا وَإِنْ أَرَدتُّمْ أَن تَسْتَرْضِعُوۤاْ
+  أَوْلاَدَكُمْ فَلاَ جُنَاحَ عَلَيْكُمْ إِذَا سَلَّمْتُم مَّآ آتَيْتُم بِٱلْمَعْرُوفِ
+  وَٱتَّقُواْ ٱللَّهَ وَٱعْلَمُوۤاْ أَنَّ ٱللَّهَ بِمَا تَعْمَلُونَ بَصِيرٌ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">وفي (صحيح) البخاري: تقول المرأة إما أن تطعمني، وإما أن تطلقني! وقال
+  عطاء، والزهري، والثوري، وأبو حنيفة، وأصحابه: لا يفرق بينهما، ويلزمها الصبر عليه،
+  وتتعلق النفقة بذمته لحكم الحاكم.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">والقائلون
+  بالفرقة اختلفوا، فقال مالك: هي طلقة رجعية لأنها فرقة بعد البناء لم يستكمل بها العدد،
+  ولا كانت بعوض، ولا لضرر بالزوج، فكانت رجعية كضرر المولي. وقال الشافعي: هي طلقة بائنة،
+  وقيل: بالمعروف من غير طلب ضرار بالمراجعة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">{
+  أو سرّحوهنّ بمعروف } أي: خلوهنّ حتى تنقضي عدتها، وتبين من غير ضرار، وعبر بالتسريح
+  عن التخلية لأن مآلها إليه، إذ بانقضاء العدّة حصلت البينونة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">{
+  ولا تمسكوهنّ ضراراً لتعتدوا } هذا كالتوكيد لقوله تعالى: { فأمسكوهن بمعروف } نهاهم
+  أن لا يكون الإمساك ضراراً، وحكمة هذا النهي أن الأمر في قوله: { فأمسكوهن بمعروف }
+  يحصل بإمساكها مرة بمعروف، هذا مدلول الأمر، ولا يتناول سائر الأوقات وجاء النهي ليتناول
+  سائر الأوقات وعمها، ولينبه على ما كانوا يفعلونه من الرجعة، ثم الطلاق، ثم الرجعة،
+  ثم الطلاق على سبيل الضرار، فنهى عن هذه الفعلة القبيحة بخصوصها، تعظيماً لهذا المرتكب
+  السيء الذي هو أعظم إيذاء النساء، حتى تبقى عدتها في ذوات الأشهر تسعة أشهر.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">ومعنى: ضراراً، مضارة وهو مصدر ضار ضراراً ومضارّة، وفسر بتطويل العدّة،
+  وسوء العشرة، وبتضييق النفقة، وهو أعم من هذا كله، فكل إمساك لأجل الضرر والعدوان فهو
+  منهي عنه.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وانتصب: ضراراً، على أنه مفعول من
+  أجله، وقيل: هو مصدر في موضع الحال، أي: مضارين لتعتدوا، أي: لتظلموهن، وقيل: لتلجئوهن
+  إلى الافتداء.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">واللام: لام كي، فإن كان ضراراً
+  حالاً تعلقت اللام به، أو: بلا تمسكوهن، وإن كان مفعولاً من أجله تعلقت اللام به، وكان
+  علة للعلة، تقول: ضربت ابني تأديباً لينتفع، ولا يجوز أن يتعلق: بلا تمسكوهن، لأن الفعل
+  لا يقضي من المفعول من أجله اثنين إلاَّ بالعطف، أو على البدل، ولا يمكن هنا البدل
+  لاجل اختلاف الإعراب، ومن جعل اللام للعاقبة جوّز أن يتعلق: بلا تمسكوهن، فيكون الفعل
+  قد تعدى إلى علة وإلى عاقبة، وهما مختلفان.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قوله
+  تعالى { ومن يفعل ذلك فقد ظلم نفسه } ذلك إشارة إلى الإمساك على سبيل الضرار والعدوان،
+  وظلم النفس بتعويضها العذاب، أو بأن فوت على نفسه منافع الدين من الثواب الحاصل على
+  حسن العشرة، ومنافع الدنيا من عدم رغبة التزويج به لاشتهاره بهذا الفعل القبيح.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">{ ولا تتخذوا آيات الله هزوا } قال أبو الدرداء: كان الرجل يطلق في
+  الجاهلية ويقول: طلقت وأنا لاعب، ويعتق وينكح ويقول مثل ذلك، فأنزل الله هذه الآية،
+  فقرأها رسول الله صلى الله عليه وسلم، وقال:</font></font>&#13;\t\t\t<label disabled=\"true\"
+  class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(19,2,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\" align=\"Middle\" border=\"0\"
+  style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none;
+  BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a href=\"Javascript:InnerLink_onchange(19,4,1)\"><img
+  src=\"images/Tafasir/TafasirPaging/NextAR.GIF\" align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE:
+  none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(19,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(19,2,1)\"><u>2</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">3 </font></td><td><a href=\"Javascript:InnerLink_onchange(19,4,1)\"><u>4</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(19,5,1)\"><u>5</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(19,6,1)\"><u>6</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(19,7,1)\"><u>7</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(19,8,1)\"><u>8</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(19,9,1)\"><u>9</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(19,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(19,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2,
+  231)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,231)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَإِذَا طَلَّقْتُمُ ٱلنِّسَآءَ فَبَلَغْنَ أَجَلَهُنَّ
+  فَأَمْسِكُوهُنَّ بِمَعْرُوفٍ أَوْ سَرِّحُوهُنَّ بِمَعْرُوفٍ وَلاَ تُمْسِكُوهُنَّ
+  ضِرَاراً لِّتَعْتَدُواْ وَمَن يَفْعَلْ ذَلِكَ فَقَدْ ظَلَمَ نَفْسَهُ وَلاَ تَتَّخِذُوۤاْ
+  آيَاتِ ٱللَّهِ هُزُواً وَٱذْكُرُواْ نِعْمَتَ ٱللَّهِ عَلَيْكُمْ وَمَآ أَنزَلَ عَلَيْكُمْ
+  مِّنَ ٱلْكِتَابِ وَٱلْحِكْمَةِ يَعِظُكُمْ بِهِ وَٱتَّقُواْ ٱللَّهَ وَٱعْلَمُوۤاْ
+  أَنَّ ٱللَّهَ بِكُلِّ شَيْءٍ عَلِيمٌ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَإِذَا طَلَّقْتُمُ
+  ٱلنِّسَآءَ فَبَلَغْنَ أَجَلَهُنَّ فَلاَ تَعْضُلُوهُنَّ أَن يَنكِحْنَ أَزْوَاجَهُنَّ
+  إِذَا تَرَاضَوْاْ بَيْنَهُمْ بِٱلْمَعْرُوفِ ذٰلِكَ يُوعَظُ بِهِ مَن كَانَ مِنكُمْ
+  يُؤْمِنُ بِٱللَّهِ وَٱلْيَوْمِ ٱلآخِرِ ذٰلِكُمْ أَزْكَىٰ لَكُمْ وَأَطْهَرُ وَٱللَّهُ
+  يَعْلَمُ وَأَنْتُمْ لاَ تَعْلَمُونَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَٱلْوَالِدَاتُ
+  يُرْضِعْنَ أَوْلاَدَهُنَّ حَوْلَيْنِ كَامِلَيْنِ لِمَنْ أَرَادَ أَن يُتِمَّ ٱلرَّضَاعَةَ
+  وَعلَى ٱلْمَوْلُودِ لَهُ رِزْقُهُنَّ وَكِسْوَتُهُنَّ بِٱلْمَعْرُوفِ لاَ تُكَلَّفُ
+  نَفْسٌ إِلاَّ وُسْعَهَا لاَ تُضَآرَّ وَالِدَةٌ بِوَلَدِهَا وَلاَ مَوْلُودٌ لَّهُ
+  بِوَلَدِهِ وَعَلَى ٱلْوَارِثِ مِثْلُ ذٰلِكَ فَإِنْ أَرَادَا فِصَالاً عَن تَرَاضٍ
+  مِّنْهُمَا وَتَشَاوُرٍ فَلاَ جُنَاحَ عَلَيْهِمَا وَإِنْ أَرَدتُّمْ أَن تَسْتَرْضِعُوۤاْ
+  أَوْلاَدَكُمْ فَلاَ جُنَاحَ عَلَيْكُمْ إِذَا سَلَّمْتُم مَّآ آتَيْتُم بِٱلْمَعْرُوفِ
+  وَٱتَّقُواْ ٱللَّهَ وَٱعْلَمُوۤاْ أَنَّ ٱللَّهَ بِمَا تَعْمَلُونَ بَصِيرٌ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\"/></font><b><font class=\"TextResultArabic\"><font color=\"Red\">
+  \" من طلق أو حرّر أو نكح فزعم أنه لاعب فهو جدّ \" </font></font></b><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال الزمخشري: أي جدّوا في الأخذ بها، والعمل بما فيها، وارعوها حق
+  رعايتها وإلاَّ فقد اتخذتموها هزواً ولعباً، ويقال لمن لم يجدّ في الأمر إنما أنت لاعب
+  وهازئ. انتهى كلامه.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال معناه جماعة من المفسرين، وقال
+  ابن عطية، المراد آياته النازلة في الأوامر والنواهي، وخصها الكلبي بقوله: { فإمساك
+  بمعروف أو تسريح بإحسان }  { ولا تمسكوهنّ }.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  الحسن: نزلت هذه الآية فيمن طلق لاعباً أو هازلاً، أو راجع كذلك، والذي يظهر أنه تعالى
+  لما أنزل آيات تضمنت الأمر والنهي في النكاح، وأمر الحيض والإيلاء، والطلاق والعدة،
+  والرجعة والخلع، وترك المعاهدة، وكانت هذه أحكامها جارية بين الرجل وزوجته، وفيها إيجاب
+  حقوق للزوجة على الزوج، وله عليها، وكان من عادة العرب عدم الاكتراث بأمر النساء والاغتفال
+  بأمر شأنهن، وكنّ عندهم أقل من أن يكون لهنّ أمر أو حق على الزوج، فأنزل الله فيهنّ
+  ما أنزل من الاحكام، وحدّ حدوداً لا تتعدى، وأخبرهم أن من خالف فهو ظالم متعدٍّ، أكد
+  ذلك بالنهي عن اتخاذ آيات الله، التي منها هذه الآيات النازلة في شأن النساء، هزؤاً،
+  بل تؤخذ وتتقبل بجد واجتهاد، لأنها من أحكام الله، فلا فرق بينها وبين الآيات التي
+  نزلت في سائر التكاليف التي بين العبد وربه، وبين العبد والناس.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وانتصب: هزؤاً، على أنه مفعول ثانٍ: لتتخذوا، وتقول: هزأ به هزؤاً
+  استخف.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقرأ حمزة: هزأ، بإسكان الزاي، وإذا
+  وقف سهل الهمزة على مذهبه في تسهيل الهمز، وذكروا في كيفية تسهيله عنده فيه وجوهاً
+  تذكر في علم القراءات، وهو من تخفيف فعل: كعنق، وقد تقدم الكلام في ذلك. قال عيسى بن
+  عمر: كل اسم على ثلاثة أحرف أوله مضموم وثانيه ففيه لغتان: التخفيف والتثقيل.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقرأ هزواً بضم الزاي وابدال من الهمزة واواً، وذلك لأجل الضم.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقرأ الجمهور: هزؤاً بضمتين والهمز، قيل: وهو الأصل، وقد تقدم الكلام
+  على ذلك في قوله تعالى:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">أتتخذنا هزواً</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">[البقرة: 67].</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">{ واذكروا نعمة الله عليكم وما أنزل عليكم من الكتاب والحكمة } هذا
+  أمر معطوف على أمر في المعنى، وهو: ولا تتخذوا آيات الله هزواً، والنعمة هنا ليست التاء
+  فيها للوحدة، ولكنها بني عليها المصدر، ويريد: النعم الظاهرة والباطنة، وأجلها ما أنعم
+  به من الإسلام ونبوّة محمد علية الصلاة والسلام.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">و:
+  ما أنزل عليكم، معطوف على نعمة، وهو تخصيص بعد تعميم، إذ ما أنزل هو من النعمة، وهذا
+  قد ذكرنا أنه يسمى التجريد، كقوله:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">وجبريل وميكال</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[البقرة:
+  98] بعد ذكر الملائكة، وتقدم القول فيه، وأتى: بعليكم، تنبيهاً للمأمورين وتشريفاً
+  لهم، إذ في الحقيقة ما أنزل إلاَّ على رسول الله صلى الله عليه وسلم، ولكنه لما كنا
+  مخاطبين بأحكامه، ومكلفين باتباعه، صار كأنه نزل علينا.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(19,3,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(19,5,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(19,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(19,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(19,3,1)\"><u>3</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">4 </font></td><td><a href=\"Javascript:InnerLink_onchange(19,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(19,6,1)\"><u>6</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(19,7,1)\"><u>7</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(19,8,1)\"><u>8</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(19,9,1)\"><u>9</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(19,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(19,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2,
+  231)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,231)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَإِذَا طَلَّقْتُمُ ٱلنِّسَآءَ فَبَلَغْنَ أَجَلَهُنَّ
+  فَأَمْسِكُوهُنَّ بِمَعْرُوفٍ أَوْ سَرِّحُوهُنَّ بِمَعْرُوفٍ وَلاَ تُمْسِكُوهُنَّ
+  ضِرَاراً لِّتَعْتَدُواْ وَمَن يَفْعَلْ ذَلِكَ فَقَدْ ظَلَمَ نَفْسَهُ وَلاَ تَتَّخِذُوۤاْ
+  آيَاتِ ٱللَّهِ هُزُواً وَٱذْكُرُواْ نِعْمَتَ ٱللَّهِ عَلَيْكُمْ وَمَآ أَنزَلَ عَلَيْكُمْ
+  مِّنَ ٱلْكِتَابِ وَٱلْحِكْمَةِ يَعِظُكُمْ بِهِ وَٱتَّقُواْ ٱللَّهَ وَٱعْلَمُوۤاْ
+  أَنَّ ٱللَّهَ بِكُلِّ شَيْءٍ عَلِيمٌ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَإِذَا طَلَّقْتُمُ
+  ٱلنِّسَآءَ فَبَلَغْنَ أَجَلَهُنَّ فَلاَ تَعْضُلُوهُنَّ أَن يَنكِحْنَ أَزْوَاجَهُنَّ
+  إِذَا تَرَاضَوْاْ بَيْنَهُمْ بِٱلْمَعْرُوفِ ذٰلِكَ يُوعَظُ بِهِ مَن كَانَ مِنكُمْ
+  يُؤْمِنُ بِٱللَّهِ وَٱلْيَوْمِ ٱلآخِرِ ذٰلِكُمْ أَزْكَىٰ لَكُمْ وَأَطْهَرُ وَٱللَّهُ
+  يَعْلَمُ وَأَنْتُمْ لاَ تَعْلَمُونَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَٱلْوَالِدَاتُ
+  يُرْضِعْنَ أَوْلاَدَهُنَّ حَوْلَيْنِ كَامِلَيْنِ لِمَنْ أَرَادَ أَن يُتِمَّ ٱلرَّضَاعَةَ
+  وَعلَى ٱلْمَوْلُودِ لَهُ رِزْقُهُنَّ وَكِسْوَتُهُنَّ بِٱلْمَعْرُوفِ لاَ تُكَلَّفُ
+  نَفْسٌ إِلاَّ وُسْعَهَا لاَ تُضَآرَّ وَالِدَةٌ بِوَلَدِهَا وَلاَ مَوْلُودٌ لَّهُ
+  بِوَلَدِهِ وَعَلَى ٱلْوَارِثِ مِثْلُ ذٰلِكَ فَإِنْ أَرَادَا فِصَالاً عَن تَرَاضٍ
+  مِّنْهُمَا وَتَشَاوُرٍ فَلاَ جُنَاحَ عَلَيْهِمَا وَإِنْ أَرَدتُّمْ أَن تَسْتَرْضِعُوۤاْ
+  أَوْلاَدَكُمْ فَلاَ جُنَاحَ عَلَيْكُمْ إِذَا سَلَّمْتُم مَّآ آتَيْتُم بِٱلْمَعْرُوفِ
+  وَٱتَّقُواْ ٱللَّهَ وَٱعْلَمُوۤاْ أَنَّ ٱللَّهَ بِمَا تَعْمَلُونَ بَصِيرٌ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">و: الكتاب، القرآن، و: الحكمة، هي السنة التي بها كمال الأحكام التي
+  لم يتضمنها القرآن، والمبينة ما فيه من الإجمال. ودل هذا على أن السنة أنزلها الله
+  على رسوله صلى الله عليه وسلم، كما قال تعالى:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">وما ينطق عن الهوى إن هو إلاَّ وحي
+  يوحى</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">[النجم: 3 - 4].</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقيل:
+  وفي ظاهره رد على من زعم أن له الحكم بالاجتهاد، لأن ما يحكم به من السنة ينزل من الله
+  عليه، فلا اجتهاد، وذكر: النعم، لا يراد به سردها على اللسان، وإنما المراد بالذكر
+  الشكر عليها، لأن ذكر المسلم النعمة سبب لشكرها، فعبر بالسبب عن المسبب، فإن أريد بالنعمة
+  المنعم به فيكون: عليكم، في موضع الحال، فيتعلق بمحذوف، أي: كائنة عليكم، ويكون في
+  ذلك تنبيه على أن نعمته تعالى منسحبة علينا، قد استعلت وتجللت وصارت كالظلة لنا، وإن
+  أريد بالنعمة الإنعام فيكون: عليكم، متعلقاً بلفظ النعمة، ويكون إذ ذاك مصدراً من:
+  أنعم، على غير قياس، كنبات من أنبت.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وعليكم،
+  الثانية متعلقة بأنزل، و: من، في موضع الحال، أي: كائناً من الكتاب، ويكون حالاً من
+  ما أنزل أو من الضمير العائد على الموصول المحذوف، إذ تقديره: وما أنزل عليكم. ومن
+  أثبت لمن معنى البيان للجنس جوز ذلك هنا، كأنه قيل: وما أنزله عليكم الذي هو الكتاب
+  والسنة.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">{ يعظكم به } يذكركم به، والضمير
+  عائد على: ما، من قوله: وما أنزل، وهي جملة حالية من الفاعل المستكن في: أنزل، والعامل
+  فيها: أنزل، وجوزوا في: ما، من قوله: وما أنزل، أن يكون مبتدأ. و: يعظكم، جملة في موضع
+  الخبر، كأنه قيل: والمنزله الله من الكتاب والحكمة يعظكم به، وعطفه على النعمة أظهر.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">{ واتقوا الله } لما كان تعالى قد ذكر أوامر ونواهي، وذلك بسبب النساء
+  اللاتي هنّ مظنة الإهمال وعدم الرعاية، أمر الله تعالى بالتقوى، وهي التي بحصولها يحصل
+  الفلاح في الدنيا والآخرة، ثم عطف عليها ما يؤكد طلبها وهي قوله: { واعلموا أن الله
+  بكل شيء عليم } والمعنى: بطلب العلم الديمومة عليه، إذ هم عالمون بذلك، وفي ذلك تنبيه
+  على أنه يعلم نياتكم في المضارة والاعتداء، فلا تلبسوا على أنفسكم. وكرر اسم الله في
+  قوله تعالى: { واتقوا الله }  { واعلموا أن الله } لكونه من جملتين، فتكريره أفخم،
+  وترديده في النفوس أعظم.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">{ وإذا طلقتم النساء فبلغن أجلهنّ
+  فلا تعضلوهن } قال ابن عباس، والزهري، والضحاك؛ نزلت في كل من منع امرأة من نسائه عن
+  النكاح بغيره إذا طلقها، وقيل: نزلت في ابنة عم جابر بن عبد الله، طلقها زوجها، وانقضت
+  عدتها فاراد رجعتها، فأتى جابر وقال: طلقت ابنة عمنا ثم تريد أن تنكحها؟ وكانت المرأة
+  تريد زوجها، فنزلت.</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(19,4,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(19,6,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(19,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(19,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(19,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(19,4,1)\"><u>4</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">5 </font></td><td><a href=\"Javascript:InnerLink_onchange(19,6,1)\"><u>6</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(19,7,1)\"><u>7</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(19,8,1)\"><u>8</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(19,9,1)\"><u>9</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(19,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(19,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2,
+  231)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,231)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَإِذَا طَلَّقْتُمُ ٱلنِّسَآءَ فَبَلَغْنَ أَجَلَهُنَّ
+  فَأَمْسِكُوهُنَّ بِمَعْرُوفٍ أَوْ سَرِّحُوهُنَّ بِمَعْرُوفٍ وَلاَ تُمْسِكُوهُنَّ
+  ضِرَاراً لِّتَعْتَدُواْ وَمَن يَفْعَلْ ذَلِكَ فَقَدْ ظَلَمَ نَفْسَهُ وَلاَ تَتَّخِذُوۤاْ
+  آيَاتِ ٱللَّهِ هُزُواً وَٱذْكُرُواْ نِعْمَتَ ٱللَّهِ عَلَيْكُمْ وَمَآ أَنزَلَ عَلَيْكُمْ
+  مِّنَ ٱلْكِتَابِ وَٱلْحِكْمَةِ يَعِظُكُمْ بِهِ وَٱتَّقُواْ ٱللَّهَ وَٱعْلَمُوۤاْ
+  أَنَّ ٱللَّهَ بِكُلِّ شَيْءٍ عَلِيمٌ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَإِذَا طَلَّقْتُمُ
+  ٱلنِّسَآءَ فَبَلَغْنَ أَجَلَهُنَّ فَلاَ تَعْضُلُوهُنَّ أَن يَنكِحْنَ أَزْوَاجَهُنَّ
+  إِذَا تَرَاضَوْاْ بَيْنَهُمْ بِٱلْمَعْرُوفِ ذٰلِكَ يُوعَظُ بِهِ مَن كَانَ مِنكُمْ
+  يُؤْمِنُ بِٱللَّهِ وَٱلْيَوْمِ ٱلآخِرِ ذٰلِكُمْ أَزْكَىٰ لَكُمْ وَأَطْهَرُ وَٱللَّهُ
+  يَعْلَمُ وَأَنْتُمْ لاَ تَعْلَمُونَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَٱلْوَالِدَاتُ
+  يُرْضِعْنَ أَوْلاَدَهُنَّ حَوْلَيْنِ كَامِلَيْنِ لِمَنْ أَرَادَ أَن يُتِمَّ ٱلرَّضَاعَةَ
+  وَعلَى ٱلْمَوْلُودِ لَهُ رِزْقُهُنَّ وَكِسْوَتُهُنَّ بِٱلْمَعْرُوفِ لاَ تُكَلَّفُ
+  نَفْسٌ إِلاَّ وُسْعَهَا لاَ تُضَآرَّ وَالِدَةٌ بِوَلَدِهَا وَلاَ مَوْلُودٌ لَّهُ
+  بِوَلَدِهِ وَعَلَى ٱلْوَارِثِ مِثْلُ ذٰلِكَ فَإِنْ أَرَادَا فِصَالاً عَن تَرَاضٍ
+  مِّنْهُمَا وَتَشَاوُرٍ فَلاَ جُنَاحَ عَلَيْهِمَا وَإِنْ أَرَدتُّمْ أَن تَسْتَرْضِعُوۤاْ
+  أَوْلاَدَكُمْ فَلاَ جُنَاحَ عَلَيْكُمْ إِذَا سَلَّمْتُم مَّآ آتَيْتُم بِٱلْمَعْرُوفِ
+  وَٱتَّقُواْ ٱللَّهَ وَٱعْلَمُوۤاْ أَنَّ ٱللَّهَ بِمَا تَعْمَلُونَ بَصِيرٌ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">وقيل: في معقل بن يسار، وأخته جمل، وزوجها أبي الوليد عاصم بن عدي
+  بن العجلان، جرى لهم ما جرى لجابر في قصته، ذكر معناه البخاري.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">فعلى السبب الأوّل يكون المخاطبون هم الأزواج، وعلى هذا السبب الأولياء،
+  وفيه بُعد، لأن نسبة الطلاق إليهم هو مجاز بعيد، وهو أن يكون الأولياء قد تسببوا في
+  الطلاق حتى وقع، فنسب إليهم الطلاق بهذا الاعتبار، ويبعد جداً أن يكون الخطاب في: {
+  وإذا طلقتم } للأزواج وفي { فلا تعضلوهنّ } للأولياء، لتنافي التخاطب، ولتنافر الشرط
+  والجزاء، فالأولى، والذي يناسبه سياق الكلام، أن الخطاب في الشرط والجزاء للأزواج،
+  لأن الخطاب من أوّل الآيات هو مع الأزواج ولم يجر للأولياء ذكر، ولأن الآية قبل هذه
+  خطاب مع الأزواج في كيفية معاملة النساء قبل انقضاء العدة، وهذه الآية خطاب لهم في
+  كيفية معاملتهم معهنّ بعد انقضاء العدّة، ويكون الأزواج المطلقون قد انتهوا عن العضل،
+  إذ كانوا يفعلون ذلك ظلماً وقهراً وحمية الجاهلية، لا يتركونهنّ يتزوّجن من شئن من
+  الأزواج، وعلى هذا يكون معنى: { أن ينكحن أزواجهن } أي: من يردن أن يتزوّجنه، فسموا
+  أزواجاً باعتبار ما يؤولون إليه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وعلى
+  القول بأن الخطاب للأولياء يكون أزواجهن هم المطلقون، سموا أزواجاً باعتبار ما كانوا
+  عليه، وإن لم يكونوا بعد انقضاء العدّة أزواجاً حقيقة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وجهات
+  العضل من الزوج متعددة: بأن يجحد الطلاق، أو يدعي رجعة في العدة، أو يتوعد من يتزوّجها،
+  أو يسيء القول فيها لينفر الناس عنها، فنهوا عن العضل مطلقاً بأي سبب كان مما ذكرناه
+  ومن غيره.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال الزمخشري: والوجه أن يكون خطاباً
+  للناس، أي: لا يوجد فيما بينكم عضل، لأنه إذا وجد بينهم وهم راضون كانوا في حكم العاضلين؛
+  وصدر بما يقارب هذا المعنى كلامه ابن عطية، فقال: { وإذا طلقتم النساء فبلغن أجلهنّ
+  فلا تعضلوهنّ } الآية خطاب للمؤمنين الذين هم الأزواج، ومنهم الأولياء، لأنهم المراد
+  في تعضلوهنّ. انتهى كلامه. وهذا التوجيه يؤول إلى أن الخطاب في: طلقتم، للأزواج، وفي:
+  فلا تعضلوهنّ، للأولياء وقد بينا ما فيه من التنافر.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">{
+  أن ينكحن أزواجهنّ } هو في موضع نصب على البدل من الضمير بدل اشتمال، أو على أن أصله
+  من أن ينكحن، وينكحن مضارع نكح الثلاثي، وفيه دلالة على أن للمرأة أن تنكح بغير ولي،
+  لأنه لو كان له حق لما نهى عنه، فلا يستدل بالنهي على إثبات الحق، وظاهره العقد.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وظاهر الآية إذا كان الخطاب في: فلا تعضلوهنّ، للأولياء النهي عن مطلق
+  العضل، فيتحقق بعضلها عن خاطب واحد، وقال مالك: إذا منعها من خاطب أو خاطبين لا يكون
+  بذلك عاضلاً.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال أبو حنيفة: الثيب تزوّج نفسها
+  وتستوفي المهر ولا اعتراض للوليّ عليها. وهو قول زفر؛ وإن كان غير كفء جاز، وللأولياء
+  أن يفرّقوا بينهما.</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(19,5,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(19,7,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(19,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(19,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(19,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(19,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(19,5,1)\"><u>5</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">6 </font></td><td><a href=\"Javascript:InnerLink_onchange(19,7,1)\"><u>7</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(19,8,1)\"><u>8</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(19,9,1)\"><u>9</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(19,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(19,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2,
+  231)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,231)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَإِذَا طَلَّقْتُمُ ٱلنِّسَآءَ فَبَلَغْنَ أَجَلَهُنَّ
+  فَأَمْسِكُوهُنَّ بِمَعْرُوفٍ أَوْ سَرِّحُوهُنَّ بِمَعْرُوفٍ وَلاَ تُمْسِكُوهُنَّ
+  ضِرَاراً لِّتَعْتَدُواْ وَمَن يَفْعَلْ ذَلِكَ فَقَدْ ظَلَمَ نَفْسَهُ وَلاَ تَتَّخِذُوۤاْ
+  آيَاتِ ٱللَّهِ هُزُواً وَٱذْكُرُواْ نِعْمَتَ ٱللَّهِ عَلَيْكُمْ وَمَآ أَنزَلَ عَلَيْكُمْ
+  مِّنَ ٱلْكِتَابِ وَٱلْحِكْمَةِ يَعِظُكُمْ بِهِ وَٱتَّقُواْ ٱللَّهَ وَٱعْلَمُوۤاْ
+  أَنَّ ٱللَّهَ بِكُلِّ شَيْءٍ عَلِيمٌ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَإِذَا طَلَّقْتُمُ
+  ٱلنِّسَآءَ فَبَلَغْنَ أَجَلَهُنَّ فَلاَ تَعْضُلُوهُنَّ أَن يَنكِحْنَ أَزْوَاجَهُنَّ
+  إِذَا تَرَاضَوْاْ بَيْنَهُمْ بِٱلْمَعْرُوفِ ذٰلِكَ يُوعَظُ بِهِ مَن كَانَ مِنكُمْ
+  يُؤْمِنُ بِٱللَّهِ وَٱلْيَوْمِ ٱلآخِرِ ذٰلِكُمْ أَزْكَىٰ لَكُمْ وَأَطْهَرُ وَٱللَّهُ
+  يَعْلَمُ وَأَنْتُمْ لاَ تَعْلَمُونَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَٱلْوَالِدَاتُ
+  يُرْضِعْنَ أَوْلاَدَهُنَّ حَوْلَيْنِ كَامِلَيْنِ لِمَنْ أَرَادَ أَن يُتِمَّ ٱلرَّضَاعَةَ
+  وَعلَى ٱلْمَوْلُودِ لَهُ رِزْقُهُنَّ وَكِسْوَتُهُنَّ بِٱلْمَعْرُوفِ لاَ تُكَلَّفُ
+  نَفْسٌ إِلاَّ وُسْعَهَا لاَ تُضَآرَّ وَالِدَةٌ بِوَلَدِهَا وَلاَ مَوْلُودٌ لَّهُ
+  بِوَلَدِهِ وَعَلَى ٱلْوَارِثِ مِثْلُ ذٰلِكَ فَإِنْ أَرَادَا فِصَالاً عَن تَرَاضٍ
+  مِّنْهُمَا وَتَشَاوُرٍ فَلاَ جُنَاحَ عَلَيْهِمَا وَإِنْ أَرَدتُّمْ أَن تَسْتَرْضِعُوۤاْ
+  أَوْلاَدَكُمْ فَلاَ جُنَاحَ عَلَيْكُمْ إِذَا سَلَّمْتُم مَّآ آتَيْتُم بِٱلْمَعْرُوفِ
+  وَٱتَّقُواْ ٱللَّهَ وَٱعْلَمُوۤاْ أَنَّ ٱللَّهَ بِمَا تَعْمَلُونَ بَصِيرٌ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">وعلى جواز النكاح بغير وليّ: ابن سيرين، والشعبي، والزهري، وقتادة.
+  وقال أبو يوسف: إن سلم الولي نكاحها جاز وإلاَّ فلا، إلاَّ إن كان كفؤاً فيجيزه القاضي
+  إن أبى الولي أن يسلم، وهو قول محمد. وروي عن أبي يوسف غير هذا.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال الأوزاعي: إذا ولت أمرها رجلاً، وكان الزوج كفؤا، فالنكاح جائز،
+  وليس للولي أن يفرّق بينهما. وقال ابن أبي ليلى، وابن شبرمة، والثوري، والحسن بن صالح:
+  لا يجوز النكاح إلاَّ بولي، وهو مذهب الشافعي. وقال الليث: تزوّج نفسها بغير ولي. وقال
+  ابن القاسم، عن مالك: إذا كانت معتقة، أو مسكينة، أو دنيئة، فلا بأس أن تستخلف رجلاً
+  يزوّجها، وللأولياء فسخ ذلك قبل الدخول، وعنه خلاف بعد الدخول، وإن كانت ذات غنى فلا
+  يجوز أن يزوّجها إلا الولي أو السلطان، وحجج هذه المذاهب في كتب الفقه.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">{ إذا تراضوا }: الضمير عائد على الخطاب والنساء، وغلب المذكر، فجاء
+  الضمير بالواو، ومن جعل للأولياء ذكراً في الآية قالوا: احتمل أن يعود على الأولياء
+  والأزواج.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">والعامل في: إذا، ينكحن.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">{ بينهم بالمعروف } الضمير في: بينهم، ظرف مجازي ناصبه: تراضوا، بالمعروف:
+  ظاهره أنه متعلق بتراضوا، وفسر بأنه ما يحسن من الدين والمروءة في الشرائط، وقيل: مهر
+  المثل، وقيل: المهر والإشهاد. ويجوز أن يتعلق: بالمعروف، بينكحن، لا: بتراضوا، ولا
+  يعتقد أن ذلك من الفصل بين العامل والمعمول الذي لا ينتفي، بل هو من الفصل الفصيح،
+  لأنه فصل بمعمول الفعل، وهو قوله: { إذا تراضوا } فإذا منصوب بقوله: { أن ينكحن } و:
+  بالمعروف، متعلق به، فكلاهما معمول للفعل.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">{
+  ذلك يوعظ به من كان منكم يؤمن بالله واليوم الآخر } ذلك خطاب للنبي صلى الله عليه وسلم،
+  وقيل: لكل سامع، ثم رجع إلى خطاب الجماعة فقال: منكم، وقيل: ذلك بمعنى: ذلكم، وأشار
+  بذلك إلى ما ذكر في الآية من النهي عن العضل، و: ذلك، للبعد ناب عن اسم الإشارة الذي
+  للقرب، وهو: هذا، وان كان الحكم قريباً ذكره في الآية، وذلك يكون لعظمة المشير إلى
+  الشيء، ومعنى: يوعظ به أي يذكر به، ويخوّف. و: منكم، متعلق بكان، أو: بمحذوف في موضع
+  الحال من الضمير المستكن في: يؤمن، وذكر الإيمان بالله لأنه تعالى هو المكلف لعباده،
+  الناهي لهم، والآمر. و: اليوم الآخر، لأنه هو الذي يحصل به التخويف، وتجنى فيه ثمرة
+  مخالفة النهي. وخص المؤمنين لأنه لا ينتفع بالوعظ إلاَّ المؤمن، إذ نور الإيمان يرشده
+  إلى القبول</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">إنما يستجيب الذين يسمعون</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">[الأنعام: 36] وسلامة عقله تذهب
+  عنه مداخلة الهوى،</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">إنما يتذكر أولوا الألباب</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">[الرعد: 19، الزمر: 9].</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">{ ذلكم أزكى لكم وأطهر } أي: التمكن من النكاح أزكى لمن هو بصدد العضل
+  لما له في امتثال أمر الله من الثواب، وأطهر للزوجين لما يخشى عليهما من الريبة إذا
+  منعا من النكاح، وذلك بسبب العلاقات التي بين النساء والرجال.</font></font>&#13;\t\t\t<label
+  disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table dir=\"rtl\"><tr><td><a
+  href=\"Javascript:InnerLink_onchange(19,6,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(19,8,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(19,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(19,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(19,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(19,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(19,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(19,6,1)\"><u>6</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">7 </font></td><td><a href=\"Javascript:InnerLink_onchange(19,8,1)\"><u>8</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(19,9,1)\"><u>9</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(19,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(19,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2,
+  231)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,231)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَإِذَا طَلَّقْتُمُ ٱلنِّسَآءَ فَبَلَغْنَ أَجَلَهُنَّ
+  فَأَمْسِكُوهُنَّ بِمَعْرُوفٍ أَوْ سَرِّحُوهُنَّ بِمَعْرُوفٍ وَلاَ تُمْسِكُوهُنَّ
+  ضِرَاراً لِّتَعْتَدُواْ وَمَن يَفْعَلْ ذَلِكَ فَقَدْ ظَلَمَ نَفْسَهُ وَلاَ تَتَّخِذُوۤاْ
+  آيَاتِ ٱللَّهِ هُزُواً وَٱذْكُرُواْ نِعْمَتَ ٱللَّهِ عَلَيْكُمْ وَمَآ أَنزَلَ عَلَيْكُمْ
+  مِّنَ ٱلْكِتَابِ وَٱلْحِكْمَةِ يَعِظُكُمْ بِهِ وَٱتَّقُواْ ٱللَّهَ وَٱعْلَمُوۤاْ
+  أَنَّ ٱللَّهَ بِكُلِّ شَيْءٍ عَلِيمٌ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَإِذَا طَلَّقْتُمُ
+  ٱلنِّسَآءَ فَبَلَغْنَ أَجَلَهُنَّ فَلاَ تَعْضُلُوهُنَّ أَن يَنكِحْنَ أَزْوَاجَهُنَّ
+  إِذَا تَرَاضَوْاْ بَيْنَهُمْ بِٱلْمَعْرُوفِ ذٰلِكَ يُوعَظُ بِهِ مَن كَانَ مِنكُمْ
+  يُؤْمِنُ بِٱللَّهِ وَٱلْيَوْمِ ٱلآخِرِ ذٰلِكُمْ أَزْكَىٰ لَكُمْ وَأَطْهَرُ وَٱللَّهُ
+  يَعْلَمُ وَأَنْتُمْ لاَ تَعْلَمُونَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَٱلْوَالِدَاتُ
+  يُرْضِعْنَ أَوْلاَدَهُنَّ حَوْلَيْنِ كَامِلَيْنِ لِمَنْ أَرَادَ أَن يُتِمَّ ٱلرَّضَاعَةَ
+  وَعلَى ٱلْمَوْلُودِ لَهُ رِزْقُهُنَّ وَكِسْوَتُهُنَّ بِٱلْمَعْرُوفِ لاَ تُكَلَّفُ
+  نَفْسٌ إِلاَّ وُسْعَهَا لاَ تُضَآرَّ وَالِدَةٌ بِوَلَدِهَا وَلاَ مَوْلُودٌ لَّهُ
+  بِوَلَدِهِ وَعَلَى ٱلْوَارِثِ مِثْلُ ذٰلِكَ فَإِنْ أَرَادَا فِصَالاً عَن تَرَاضٍ
+  مِّنْهُمَا وَتَشَاوُرٍ فَلاَ جُنَاحَ عَلَيْهِمَا وَإِنْ أَرَدتُّمْ أَن تَسْتَرْضِعُوۤاْ
+  أَوْلاَدَكُمْ فَلاَ جُنَاحَ عَلَيْكُمْ إِذَا سَلَّمْتُم مَّآ آتَيْتُم بِٱلْمَعْرُوفِ
+  وَٱتَّقُواْ ٱللَّهَ وَٱعْلَمُوۤاْ أَنَّ ٱللَّهَ بِمَا تَعْمَلُونَ بَصِيرٌ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">{ والله يعلم وأنتم لا تعلمون } أي: يعلم ما تنطوي عليه قلوب الزوجين
+  من ميل كل منهما للآخر، لذلك نهى تعالى عن العضل، قال معناه ابن عباس؛ أو: يعلم ما
+  فيه من اكتساب الثواب وإسقاط العقاب. أو: يعلم بواطن الأمور ومآلها. وأنتم لا تعلمون
+  ذلك، إنما تعلمون ما ظهر. أو: يعلم من يعمل على وفق هذه التكاليف ومن لا يعمل بها.
+  ويكون المقصود بذلك: تقرير الوعد والوعيد.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">قيل:
+  وتضمنت هذه الآية ستة أنواع من ضروب الفصاحة، والبلاغة، من علم البيان.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">الأول: الطباق، وهو الطلاق والإمساك، فإنهما ضدان، والتسريح طباق ثان
+  لأنه ضد الإمساك، والعلم وعدم العلم، لأن عدم العلم هو الجهل.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">الثاني:
+  المقابلة في { فأمسكوهنّ بمعروف } و { ولا تمسكوهنّ ضراراً } قابل المعروف بالضرار،
+  والضرار منكر فهذه مقابلة معنوية.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">الثالث:
+  التكرار في: { فبلغهن أجلهنّ } كرر اللفظ لتغيير المعنيين، وهو غاية الفصاحة، إذ اختلاف
+  معنى الاثنين دليل على اختلاف البلوغين.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">الرابع:
+  الالتفات في { وإذا طلقتم النساء فبلغن أجلهن } ثم التفت إلى الأولياء فقال: { فلا
+  تعضلوهنّ } وفي الآية، في قوله: ذلك، إذ كان خطاباً للنبي صلى الله عليه وسلم، ثم التفت
+  إلى الجمع في قوله: منكم.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">الخامس: التقديم والتأخير، التقدير،
+  أن ينكحن أزواجهنّ بالمعروف إذا تراضوا.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">السادس:
+  مخاطبة الواحد بلفظ الجمع، لأنه ذكر في أسباب النزول أنها نزلت في معقل بن يسار، أو
+  في أخت جابر، وقيل ابنته.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">{ والوالدات يرضعن أولادهنّ حولين
+  كاملين } مناسبة هذه الآية لما قبلها أنه تعالى، لما ذكر جملة في: النكاح، والطلاق،
+  والعدّة، والرجعة، والعضل، أخذ يذكر حكم ما كان من نتيجة النكاح، وهو ما شرع من حكم:
+  الإرضاع ومدّته، وحكم الكسوة، والنفقة، على ما يقع الكلام فيه في هذه الآية إن شاء
+  الله { والوالدات } جمع والدة بالتاء، وكان القياس أن يقال: والد، لكن قد أطلق على
+  الأب والد، ولذلك قيل فيه وفي الأم الوالدان فجاءت التاء في الوالدة للفرق بين المذكر
+  والمؤنث من حيث الإطلاق اللغوي، وكأنه روعي في الإطلاق أنهما أصلان للولد، فأطلق عليهما:
+  والدان.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وظاهر لفظ: الوالدات، العموم، فيدخل
+  فيه الزوجات والمطلقات.</font></font><font class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font
+  class=\"TextResultArabic\"><font color=\"black\">وقال الضحاك، والسدي، وغيرهما: في
+  المطلقات، جعلها الله حدّاً عند اختلاف الزوجين في مدة الرضاع، فمن دعا منهما إلى إكمال
+  الحولين فذلك له، ورجح هذا القول لأن قوله: والوالدات، عقيب آية الطلاق، فكانت من تتمتها،
+  فشرع ذلك لهنّ، لأن الطلاق يحصل فيه التباغض، فربما حمل على أذى الولد، لأن بإيذائه
+  إيذاء والده، ولأن في رغبتها في التزويج بآخر إهمال الولد.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقيل:
+  هي في الزوجات فقط، لأن المطلقة لا تستحق الكسوة، وإنما تستحق الأجرة. { يرضعن أولادهنّ
+  } صورته خبر محتمل أن يكون معناه خبراً، أي: في حكم الله تعالى الذي شرعه، فالوالدات
+  أحق برضاع أولادهنّ، سواء كانت في حيالة الزوج أو لم تكن، فإن الإرضاع من خصائص الولادة
+  لا من خصائص الزوجية.</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(19,7,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(19,9,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(19,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(19,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(19,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(19,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(19,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(19,6,1)\"><u>6</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(19,7,1)\"><u>7</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">8 </font></td><td><a href=\"Javascript:InnerLink_onchange(19,9,1)\"><u>9</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(19,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(19,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2,
+  231)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,231)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَإِذَا طَلَّقْتُمُ ٱلنِّسَآءَ فَبَلَغْنَ أَجَلَهُنَّ
+  فَأَمْسِكُوهُنَّ بِمَعْرُوفٍ أَوْ سَرِّحُوهُنَّ بِمَعْرُوفٍ وَلاَ تُمْسِكُوهُنَّ
+  ضِرَاراً لِّتَعْتَدُواْ وَمَن يَفْعَلْ ذَلِكَ فَقَدْ ظَلَمَ نَفْسَهُ وَلاَ تَتَّخِذُوۤاْ
+  آيَاتِ ٱللَّهِ هُزُواً وَٱذْكُرُواْ نِعْمَتَ ٱللَّهِ عَلَيْكُمْ وَمَآ أَنزَلَ عَلَيْكُمْ
+  مِّنَ ٱلْكِتَابِ وَٱلْحِكْمَةِ يَعِظُكُمْ بِهِ وَٱتَّقُواْ ٱللَّهَ وَٱعْلَمُوۤاْ
+  أَنَّ ٱللَّهَ بِكُلِّ شَيْءٍ عَلِيمٌ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَإِذَا طَلَّقْتُمُ
+  ٱلنِّسَآءَ فَبَلَغْنَ أَجَلَهُنَّ فَلاَ تَعْضُلُوهُنَّ أَن يَنكِحْنَ أَزْوَاجَهُنَّ
+  إِذَا تَرَاضَوْاْ بَيْنَهُمْ بِٱلْمَعْرُوفِ ذٰلِكَ يُوعَظُ بِهِ مَن كَانَ مِنكُمْ
+  يُؤْمِنُ بِٱللَّهِ وَٱلْيَوْمِ ٱلآخِرِ ذٰلِكُمْ أَزْكَىٰ لَكُمْ وَأَطْهَرُ وَٱللَّهُ
+  يَعْلَمُ وَأَنْتُمْ لاَ تَعْلَمُونَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَٱلْوَالِدَاتُ
+  يُرْضِعْنَ أَوْلاَدَهُنَّ حَوْلَيْنِ كَامِلَيْنِ لِمَنْ أَرَادَ أَن يُتِمَّ ٱلرَّضَاعَةَ
+  وَعلَى ٱلْمَوْلُودِ لَهُ رِزْقُهُنَّ وَكِسْوَتُهُنَّ بِٱلْمَعْرُوفِ لاَ تُكَلَّفُ
+  نَفْسٌ إِلاَّ وُسْعَهَا لاَ تُضَآرَّ وَالِدَةٌ بِوَلَدِهَا وَلاَ مَوْلُودٌ لَّهُ
+  بِوَلَدِهِ وَعَلَى ٱلْوَارِثِ مِثْلُ ذٰلِكَ فَإِنْ أَرَادَا فِصَالاً عَن تَرَاضٍ
+  مِّنْهُمَا وَتَشَاوُرٍ فَلاَ جُنَاحَ عَلَيْهِمَا وَإِنْ أَرَدتُّمْ أَن تَسْتَرْضِعُوۤاْ
+  أَوْلاَدَكُمْ فَلاَ جُنَاحَ عَلَيْكُمْ إِذَا سَلَّمْتُم مَّآ آتَيْتُم بِٱلْمَعْرُوفِ
+  وَٱتَّقُواْ ٱللَّهَ وَٱعْلَمُوۤاْ أَنَّ ٱللَّهَ بِمَا تَعْمَلُونَ بَصِيرٌ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">ويحتمل أن يكون معناه الأمر كقوله:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">والمطلقات يتربصن</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[البقرة:
+  228] لكنه أمر ندب لا إيجاب، إذ لو كان واجباً لما استحق الأجرة. وقال تعالى:</font></font><br
+  class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font color=\"ForestGreen\">وإن
+  تعاسرتم فسترضع له أخرى</font></font> }</b><br class=\"TextArabic\"/><font class=\"TextResultArabic\"><font
+  color=\"black\">[الطلاق: 6] فوجوب الإرضاع إنما هو على الأب لا على الأم، وعليه أن
+  يتخذ له ظئراً إلاَّ إذا تطوعت الأم بإرضاعه، وهي مندوبة إلى ذلك، ولا تجبر عليه، فإذا
+  لم يقبل ثديها، أو لم يوجد له ظئراً، وعجز الأب عن الاستئجار وجب عليها إرضاعه، فعلى
+  هذا يكون الأمر للوجوب في بعض الوالدات.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">ومذهب
+  الشافعي أن الإرضاع لا يلزم إلاَّ الوالد أو الجد، وإن علا. ومذهب مالك: أنه حق على
+  الزوجة لأنه كالشرط، إلاَّ أن تكون شريفة ذات نسب، فعُرفها أن لا ترضع.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وعنه خلاف في بعض مسائل الإرضاع { حولين كاملين } وصف الحولين بالكمال
+  دفعاً للمجاز الذي يحتمله حولين، إذ يقال: أقمت عند فلان حولين، وإن لم يستكملهما،
+  وهي صفة توكيد كقوله</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">عشرة كاملة</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">[البقرة: 196] وجعل تعالى هذه المدة
+  حداً عند اختلاف الزوجين في مدة الرضاع، فمن دعا منهما إلى كمال الحولين فذلك له.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وظاهر قوله: أولادهن، العموم، فالحولان لكل ولد، وهو قول الجمهور.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">وروي عن ابن عباس أنه قال: هي في الولد يمكث في البطن ستة أشهر، فإن
+  مكث سبعة فرضاعه ثلاثة وعشرون، أو: ثمانية، فإثنان وعشرون، أو: تسعة، فأحد وعشرون،
+  وكان هذا القول انبنى على قوله تعالى:</font></font><br class=\"TextArabic\"/><b>{ <font
+  class=\"TextAyah\"><font color=\"ForestGreen\">وحمله وفصاله ثلاثون شهراً</font></font> }</b><br
+  class=\"TextArabic\"/><font class=\"TextResultArabic\"><font color=\"black\">[الأحقاف:
+  15] لأن ذلك حكم على الإنسان عموماً.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وفي
+  قوله: يرضعن، دلالة على أن الأم أحق برضاع الولد، وقد تكلم بعض المفسرين هنا في مسائل
+  لا تعلق لها بلفظ القرآن، منها: مدة الرضاع المحرمة، وقدر الرضاع الذي يتعلق به التحريم،
+  والحضانة ومن أحق بها بعد الأم؟ وما الحكم في الولد إذا تزوجت الأم؟ وهل للذمية حق
+  في الرضاعة؟ وأطالوا بنقل الخلاف والدلائل، وموضوع هذا علم الفقه.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">{ لمن أراد أن يتم الرضاعة } هذا يدل على أن الإرضاع في الحولين ليس
+  بحد لا يتعدى، وإنما ذلك لمن أراد الإتمام، أما من لا يريده فله فطم الولد دون بلوغ
+  ذلك إذا لم يكن فيه ضرر للولد، وروي عن قتادة أنه قال: تضمنت فرض الإرضاع على الوالدات،
+  ثم يسر ذلك وخفف، فنزل: { لمن أراد أن يتم الرضاعة } قال ابن عطية: وهذا قول متداع.</font></font><font
+  class=\"TextResultArabic\"><font color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font
+  color=\"black\">قال الراغب: وفي قوله: { حولين كاملين لمن أراد أن يتم الرضاعة } تنبيه
+  على أنه لا يجوز تجاوز ذلك، وأن لا حكم للرضاع بعد الحولين، وتقوية لإرضاع بعد الحولين،
+  والرضاعة من المجاعة، ويؤكده أن كل حكم في الشرع علق بعدد مخصوص يجوز الإخلال به في
+  أحد الطرفين لم يجز الإخلال به في الطرف الآخر، كخيار الثلاث، وعدد حجارة الاستنجاء،
+  والمسح على الخفين يوماً وليلة وثلاثة أيام، ولما كان الرضاع يجوز الإخلال في أحد الطرفين،
+  وهو النقصان، لم تجز مجاوزته.</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(19,8,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(19,10,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(19,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(19,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(19,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(19,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(19,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(19,6,1)\"><u>6</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(19,7,1)\"><u>7</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(19,8,1)\"><u>8</u> </a></td><td class=\"TextResultArabic\"><font
+  class=\"Msg\">9 </font></td><td><a href=\"Javascript:InnerLink_onchange(19,10,1)\"><u>10</u> </a></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(19,11,1)\">مزيد</a></td></tr></table></center></div></section><section><div
+  align=\"right\" dir=\"rtl\" id=\"AyahMenu\" language=\"JavaScript\" onmouseover=\"return
+  menu_OnMouseOver()\" onmouseout=\"return menu_OnMouseOut()\" style=\"Border:2px
+  darkred groove; BACKGROUND-COLOR: white; DISPLAY: none; padding: 5px; LEFT: 330px;
+  POSITION: absolute; WIDTH: 170px\" class=\"TextArabic\">  <table border=\"0\" cellpadding=\"0\"
+  cellspacing=\"0\" style=\"HEIGHT: 100%; width:100%\" class=\"TextArabic\">    <tr
+  class=\"TextArabic\">      <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:ReadAyah_onclick()\">
+  \         <font id=\"ReadAyah\" onmouseover=\"return menuit1_onmouseover()\">قراءة
+  الآية</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">      <td
+  align=\"right\" class=\"TextArabic\">        <a href=\"javascript:Open_QurPage(2,
+  231)\">          <font id=\"OpenQurPage\" onmouseover=\"return menuit2_onmouseover()\">فتح
+  صفحة القرآن</font>        </a>      </td>    </tr>    <tr class=\"TextArabic\">
+  \     <td align=\"right\" class=\"TextArabic\">        <a href=\"javascript:go_QurPage(2,231)\">
+  \         <font id=\"getQurPage\" onmouseover=\"return menuit3_onmouseover()\">الانتقال
+  الى صفحة القرآن</font>        </a>      </td>    </tr>  </table></div>, <font id=\"AyahText\"
+  class=\"TextAyah\"><b>{</b> <a class=\"TextAyah\" style=\"TEXT-DECORATION: none\"
+  href=\"JavaScript:Open_Menu()\">وَإِذَا طَلَّقْتُمُ ٱلنِّسَآءَ فَبَلَغْنَ أَجَلَهُنَّ
+  فَأَمْسِكُوهُنَّ بِمَعْرُوفٍ أَوْ سَرِّحُوهُنَّ بِمَعْرُوفٍ وَلاَ تُمْسِكُوهُنَّ
+  ضِرَاراً لِّتَعْتَدُواْ وَمَن يَفْعَلْ ذَلِكَ فَقَدْ ظَلَمَ نَفْسَهُ وَلاَ تَتَّخِذُوۤاْ
+  آيَاتِ ٱللَّهِ هُزُواً وَٱذْكُرُواْ نِعْمَتَ ٱللَّهِ عَلَيْكُمْ وَمَآ أَنزَلَ عَلَيْكُمْ
+  مِّنَ ٱلْكِتَابِ وَٱلْحِكْمَةِ يَعِظُكُمْ بِهِ وَٱتَّقُواْ ٱللَّهَ وَٱعْلَمُوۤاْ
+  أَنَّ ٱللَّهَ بِكُلِّ شَيْءٍ عَلِيمٌ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَإِذَا طَلَّقْتُمُ
+  ٱلنِّسَآءَ فَبَلَغْنَ أَجَلَهُنَّ فَلاَ تَعْضُلُوهُنَّ أَن يَنكِحْنَ أَزْوَاجَهُنَّ
+  إِذَا تَرَاضَوْاْ بَيْنَهُمْ بِٱلْمَعْرُوفِ ذٰلِكَ يُوعَظُ بِهِ مَن كَانَ مِنكُمْ
+  يُؤْمِنُ بِٱللَّهِ وَٱلْيَوْمِ ٱلآخِرِ ذٰلِكُمْ أَزْكَىٰ لَكُمْ وَأَطْهَرُ وَٱللَّهُ
+  يَعْلَمُ وَأَنْتُمْ لاَ تَعْلَمُونَ</a> <b>} * </b><b>{</b> <a class=\"TextAyah\"
+  style=\"TEXT-DECORATION: none\" href=\"JavaScript:Open_Menu()\">وَٱلْوَالِدَاتُ
+  يُرْضِعْنَ أَوْلاَدَهُنَّ حَوْلَيْنِ كَامِلَيْنِ لِمَنْ أَرَادَ أَن يُتِمَّ ٱلرَّضَاعَةَ
+  وَعلَى ٱلْمَوْلُودِ لَهُ رِزْقُهُنَّ وَكِسْوَتُهُنَّ بِٱلْمَعْرُوفِ لاَ تُكَلَّفُ
+  نَفْسٌ إِلاَّ وُسْعَهَا لاَ تُضَآرَّ وَالِدَةٌ بِوَلَدِهَا وَلاَ مَوْلُودٌ لَّهُ
+  بِوَلَدِهِ وَعَلَى ٱلْوَارِثِ مِثْلُ ذٰلِكَ فَإِنْ أَرَادَا فِصَالاً عَن تَرَاضٍ
+  مِّنْهُمَا وَتَشَاوُرٍ فَلاَ جُنَاحَ عَلَيْهِمَا وَإِنْ أَرَدتُّمْ أَن تَسْتَرْضِعُوۤاْ
+  أَوْلاَدَكُمْ فَلاَ جُنَاحَ عَلَيْكُمْ إِذَا سَلَّمْتُم مَّآ آتَيْتُم بِٱلْمَعْرُوفِ
+  وَٱتَّقُواْ ٱللَّهَ وَٱعْلَمُوۤاْ أَنَّ ٱللَّهَ بِمَا تَعْمَلُونَ بَصِيرٌ</a> <b>}</b></font>,
+  <br/>, <br/>, <div align=\"right\" dir=\"rtl\"><font class=\"TextResultArabic\"><font
+  color=\"black\">انتهى كلامه.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقال
+  غيره: ذكر الحولين ليس على التوقيت الواجب، وإنما هو لقطع المشاجرة بين الوالدين، وجمهور
+  الفقهاء على أنه يجوز الزيادة والنقصان إذا رأيا ذلك.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">واللام
+  في: لمن، قيل: متعلقة بيرضعن، كما تقول: أرضعت فلانة لفلان ولده، وتكون اللام على هذا
+  للتعليل أي: لاجله، فتكون: مَنْ واقعة على الأب، كأنه قيل: لأجل من أراد أن يتم الرضاعة
+  على الآباء، وقيل: اللام للتبيين، فيتعلق بمحذوف كهي في قولهم: سقياً لك. وفي قوله
+  تعالى:</font></font><br class=\"TextArabic\"/><b>{ <font class=\"TextAyah\"><font
+  color=\"ForestGreen\">هيت لك</font></font> }</b><br class=\"TextArabic\"/><font
+  class=\"TextResultArabic\"><font color=\"black\">[يوسف: 23] فاللام لتبيين المدعو
+  له بالسقي، وللمهيت به، وذلك أنه لما قدم قوله: { يرضعن أولادهن حولين كاملين } بين
+  أن هذا الحكم إنما هو: لمن يريد أن يتم الرضاعة من الوالدات، فتكون: من، واقعة على
+  الأم، كأنه قيل: { لمن أراد أن يتم الرضاعة } من الوالدات. أو تكون، مَنْ، واقعة على
+  الوالدات والمولود له، كل ذلك يحتمله اللفظ.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">وقرأ
+  الجمهور: أن يتم الرضاعة بالياء من: أتم، ونصب الرضاعة. وقرأ مجاهد، والحسن، وحميد،
+  وابن محيصن، وأبو رجاء: تتم، بالتاء من تم، ورفع الرضاعة. وقرأ أبو حنيفة، وابن أبي
+  عبلة، والجارود بن أبي سبرة كذلك، إلاَّ أنهم كسروا الراء من الرضاعة، وهي لغة: كالحضارة
+  والحضارة، والبصريون يقولون بفتح الراء مع الهاء وبكسرها دون الهاء، والكوفيون يعكسون
+  ذلك، وروي عن مجاهد أنه قرأ: الرضعة، على وزن القصعة، وروي عن ابن عباس أنه قرأ: أن
+  يكمل الرضاعة، بضم الياء، وقرىء: أن يتم، برفع الميم، ونسبها النحويون إلى مجاهد، وقد
+  جاز رفع الفعل بعد أن في كلام العرب في الشعر. أنشد الفراء رحمه الله تعالى:</font></font><table
+  class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">أن تهبطين بلاد قو</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">م يرتعون من الطلاح</font></font></b></td></tr></table><font class=\"TextResultArabic\"><font
+  color=\"black\">وقال الآخر:</font></font><table class=\"TextArabic\" dir=\"rtl\"><tr
+  class=\"TextArabic\"><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">أن تقرآن على أسماء، ويحكما</font></font></b></td><td class=\"TextArabic\">   </td><td
+  class=\"TextArabic\"><b><font class=\"TextVerse\"><font color=\"Olive\">مني السلام،
+  وأن لا تُبْلِغَا أحدا</font></font></b></td></tr></table><font class=\"TextResultArabic\"><font
+  color=\"black\">وهذا عند البصريين هي الناصبة للفعل المضارع، وترك أعمالها حملاً على:
+  ما، أختها في كون كل منهما مصدرية، وأما الكوفيون فهي عندهم المخففة من الثقيلة، وشذ
+  وقوعها موقع الناصبة، كما شذ وقوع الناصبة موقع المخففة في قول جرير:</font></font><table
+  class=\"TextArabic\" dir=\"rtl\"><tr class=\"TextArabic\"><td class=\"TextArabic\"><b><font
+  class=\"TextVerse\"><font color=\"Olive\">ترضى عن الله أن الناس قد علموا</font></font></b></td><td
+  class=\"TextArabic\">   </td><td class=\"TextArabic\"><b><font class=\"TextVerse\"><font
+  color=\"Olive\">أن لا يدانينا من خلقه بشر</font></font></b></td></tr></table><font
+  class=\"TextResultArabic\"><font color=\"black\">والذي يظهر أن إثبات النون في المضارع
+  المذكور مع: أن، مخصوص بضرورة الشعر، ولا يحفظ أن غير ناصبة إلاَّ في هذا الشعر، والقراءة
+  المنسوبة إلى مجاهد، وما سبيله هذا، لا تُبنى عليه قاعدة.</font></font><font class=\"TextResultArabic\"><font
+  color=\"black\"><br/></font></font><font class=\"TextResultArabic\"><font color=\"black\">{
+  وعلى المولود له رزقهن وكسوتهن بالمعروف } المولود جنس، واللام فيه موصولة وصلت باسم
+  المفعول و: أل، كمن، و: ما، يعود الضمير على اللفظ مفرداً مذكراً، ويجوز أن يعود على
+  المعنى بحسب ما تريده من المعنى من تثنية أو جمع أو تأنيث، وهنا عاد الضمير على اللفظ،
+  فجاء له.</font></font>&#13;\t\t\t<label disabled=\"true\" class=\"############\"/>&#13;\t\t\t<center><br/><table
+  dir=\"rtl\"><tr><td><a href=\"Javascript:InnerLink_onchange(19,9,1)\"><img src=\"images/Tafasir/TafasirPaging/PreviousAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td><td/><td/><td/><td><a
+  href=\"Javascript:InnerLink_onchange(19,11,1)\"><img src=\"images/Tafasir/TafasirPaging/NextAR.GIF\"
+  align=\"Middle\" border=\"0\" style=\"BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE:
+  none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none\"/></a></td></tr></table><table
+  dir=\"RTL\"><tr><td><a dir=\"LTR\" id=\"prevClass\"/></td><td><a href=\"Javascript:InnerLink_onchange(19,1,1)\"><u>1</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(19,2,1)\"><u>2</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(19,3,1)\"><u>3</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(19,4,1)\"><u>4</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(19,5,1)\"><u>5</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(19,6,1)\"><u>6</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(19,7,1)\"><u>7</u> </a></td><td><a
+  href=\"Javascript:InnerLink_onchange(19,8,1)\"><u>8</u> </a></td><td><a href=\"Javascript:InnerLink_onchange(19,9,1)\"><u>9</u> </a></td><td
+  class=\"TextResultArabic\"><font class=\"Msg\">10 </font></td>&#13;\t\t\t\t\t\t\t\t<td><a
+  dir=\"RTL\" href=\"Javascript:InnerLink_onchange(19,11,1)\">مزيد</a></td></tr></table></center></div></section>"
+
